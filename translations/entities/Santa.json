@@ -1,0 +1,154 @@
+{
+	"ability_user": [
+		"core_2_Let_It_Snow",
+		"core_2_Summon_Elfs"
+	],
+	"artificial_intelligence": {
+		"allies": [],
+		"allow_production": [],
+		"behaviors": [],
+		"enemies": [
+			"5"
+		]
+	},
+	"components": [
+		"ability_user",
+		"actor",
+		"artificial_intelligence",
+		"collidable",
+		"dialogues",
+		"equipment",
+		"experience_gainer",
+		"fighter",
+		"glyph",
+		"health",
+		"minimap_pixel",
+		"moveable",
+		"name",
+		"position_2d",
+		"sight",
+		"stamina",
+		"statistics",
+		"tags",
+		"weapon"
+	],
+	"corpse": "core_2_Santas_Hat",
+	"description": "Jolly man with long white beard.",
+	"dialogues": [
+		"1034"
+	],
+	"equipment": {
+		"cape": [
+			{
+				"chance": 1.0,
+				"id": "2318",
+				"name": "Fur Mantle",
+				"stack": 1
+			}
+		],
+		"legs_cloth": [
+			{
+				"chance": 1.0,
+				"id": "core_2_Fur_Pants",
+				"name": "Fur Pants",
+				"stack": 1
+			}
+		],
+		"torso_cloth": [
+			{
+				"chance": 1.0,
+				"id": "2217",
+				"name": "Decorated Tunic",
+				"stack": 1
+			}
+		]
+	},
+	"experience_gainer": {
+		"exp": 0,
+		"level": 30
+	},
+	"fighter": {
+		"attackNames": [
+			"Punch",
+			"Slap"
+		]
+	},
+	"glyph": {
+		"frames": [
+			{
+				"color": [
+					255,
+					255,
+					255
+				],
+				"delay": 0,
+				"index": 567
+			}
+		],
+		"random_frame_start": false
+	},
+	"health": 420,
+	"id": "core_2_Santa",
+	"minimap_pixel": [
+		149,
+		165,
+		101
+	],
+	"moveable": {
+		"speed": 0.800000011920929
+	},
+	"name": "Santa",
+	"sight": {
+		"ignore_infra_penalty": false,
+		"infravision": true,
+		"range": 12,
+		"threesixty": false
+	},
+	"stamina": {
+		"fatigue": 100,
+		"stamina": 100,
+		"stamina_regen": 0.0
+	},
+	"statistics": {
+		"dexterity": [
+			42,
+			46
+		],
+		"endurance": [
+			16,
+			20
+		],
+		"intelligence": [
+			38,
+			43
+		],
+		"magic_power": 3,
+		"strength": [
+			17,
+			22
+		],
+		"willpower": [
+			36,
+			40
+		]
+	},
+	"tags": [
+		"9"
+	],
+	"weapon": {
+		"attack_speed": 0.6000000238418579,
+		"critical_hit": 0.0,
+		"damage": [
+			{
+				"dmg_max": 6,
+				"dmg_min": 3,
+				"dmg_type": "frost"
+			}
+		],
+		"hands": 1,
+		"hit_bonus": 2,
+		"parry_bonus": 0,
+		"range": 1,
+		"type": 3
+	}
+}

@@ -1,0 +1,123 @@
+{
+	"artificial_intelligence": {
+		"allies": [],
+		"allow_production": [],
+		"behaviors": [
+			16
+		],
+		"enemies": []
+	},
+	"components": [
+		"actor",
+		"artificial_intelligence",
+		"collidable",
+		"dialogues",
+		"equipment",
+		"experience_gainer",
+		"fighter",
+		"glyph",
+		"health",
+		"minimap_pixel",
+		"moveable",
+		"name",
+		"position_2d",
+		"sight",
+		"statistics",
+		"tags"
+	],
+	"corpse": "590",
+	"description": "Small, green frog.",
+	"dialogues": [
+		"566",
+		"567",
+		"901"
+	],
+	"equipment": {
+		"disabled_slots": [
+			18,
+			8,
+			9,
+			7,
+			6,
+			5,
+			11,
+			13,
+			15,
+			16,
+			14,
+			12,
+			10,
+			4,
+			17,
+			2,
+			1,
+			0
+		]
+	},
+	"experience_gainer": {
+		"exp": 0,
+		"level": 10
+	},
+	"fighter": {
+		"attackNames": [
+			"Kick"
+		]
+	},
+	"glyph": {
+		"frames": [
+			{
+				"color": [
+					255,
+					255,
+					255
+				],
+				"delay": 1000,
+				"index": 31
+			}
+		],
+		"random_frame_start": false
+	},
+	"health": 10,
+	"id": "core_2_Frog",
+	"minimap_pixel": [
+		130,
+		140,
+		143
+	],
+	"moveable": {
+		"speed": 0.8999999761581421
+	},
+	"name": "Frog",
+	"sight": {
+		"ignore_infra_penalty": false,
+		"infravision": false,
+		"range": 6,
+		"threesixty": false
+	},
+	"statistics": {
+		"dexterity": [
+			12,
+			14
+		],
+		"endurance": [
+			7,
+			10
+		],
+		"intelligence": [
+			3,
+			8
+		],
+		"strength": [
+			5,
+			8
+		],
+		"willpower": [
+			7,
+			12
+		]
+	},
+	"tags": [
+		"2",
+		"9"
+	]
+}

@@ -1,0 +1,15 @@
+{
+	"id": "core_2_frenzy",
+	"name": "Frenzy",
+	"requirements": {
+		"skill": 46
+	},
+	"rewards": [
+		{
+			"ability": "187"
+		}
+	],
+	"skill_id": "core_2_axe_fighting",
+	"steps": [],
+	"steps_type": 0
+}

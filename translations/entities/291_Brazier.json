@@ -1,0 +1,137 @@
+{
+	"armor": {
+		"acid": 3,
+		"death": 2,
+		"electricity": 10,
+		"fire": 18,
+		"frost": 2,
+		"holy": 2,
+		"parry": 0,
+		"physical": 3,
+		"poison": 16,
+		"thorns": 0
+	},
+	"category_id": 7,
+	"components": [
+		"armor",
+		"collidable",
+		"craftable",
+		"glyph",
+		"health",
+		"light_source",
+		"minimap_pixel",
+		"name",
+		"position_2d",
+		"producer"
+	],
+	"corpse": [],
+	"craftable": {
+		"magic_slots": 0,
+		"resource_types": [
+			{
+				"amount": 2,
+				"id": 1
+			}
+		],
+		"resources": [
+			{
+				"amount": 1,
+				"id": "148"
+			}
+		],
+		"time": 20,
+		"tools": []
+	},
+	"description": "This brazier gives light from the burning coals within.",
+	"glyph": {
+		"frames": [
+			{
+				"color": [
+					255,
+					255,
+					255
+				],
+				"delay": 100,
+				"index": 1350
+			},
+			{
+				"color": [
+					255,
+					255,
+					255
+				],
+				"delay": 100,
+				"index": 1351
+			},
+			{
+				"color": [
+					255,
+					255,
+					255
+				],
+				"delay": 100,
+				"index": 1352
+			},
+			{
+				"color": [
+					255,
+					255,
+					255
+				],
+				"delay": 100,
+				"index": 1353
+			},
+			{
+				"color": [
+					255,
+					255,
+					255
+				],
+				"delay": 100,
+				"index": 1354
+			},
+			{
+				"color": [
+					255,
+					255,
+					255
+				],
+				"delay": 100,
+				"index": 1355
+			}
+		],
+		"random_frame_start": true
+	},
+	"health": 100,
+	"id": "291",
+	"light_source": {
+		"finish": -1,
+		"fuel": [
+			62,
+			325
+		],
+		"lit_image": -1,
+		"range": 6
+	},
+	"minimap_pixel": [
+		87,
+		55,
+		20
+	],
+	"name": "Brazier",
+	"producer": {
+		"products": {
+			"core_2_deconstruct": [
+				{
+					"amount": [
+						0,
+						0
+					],
+					"id": "-1",
+					"percent_chance": 0
+				}
+			]
+		},
+		"time": 20
+	}
+}

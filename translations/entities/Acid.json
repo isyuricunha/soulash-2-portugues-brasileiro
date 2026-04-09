@@ -1,0 +1,83 @@
+{
+	"components": [
+		"glyph",
+		"liquid_source",
+		"minimap_pixel",
+		"name",
+		"on_enter",
+		"position_2d",
+		"producer",
+		"transform_liquid"
+	],
+	"description": "Spilled corrosive acid.",
+	"glyph": {
+		"frames": [
+			{
+				"color": [
+					255,
+					255,
+					255
+				],
+				"delay": 0,
+				"index": 2746
+			},
+			{
+				"color": [
+					255,
+					255,
+					255
+				],
+				"delay": 0,
+				"index": 2747
+			},
+			{
+				"color": [
+					255,
+					255,
+					255
+				],
+				"delay": 0,
+				"index": 2748
+			}
+		],
+		"random_frame_start": true
+	},
+	"id": "core_2_Acid",
+	"liquid_source": {
+		"limit": 5,
+		"type": 4
+	},
+	"minimap_pixel": [
+		138,
+		235,
+		0
+	],
+	"name": "Acid",
+	"on_enter": {
+		"ability": [
+			"10"
+		],
+		"only_player_triggers": false,
+		"teleport": null,
+		"trigger_chance": 1.0
+	},
+	"producer": {
+		"products": {
+			"19": [
+				{
+					"amount": [
+						0,
+						0
+					],
+					"id": "",
+					"percent_chance": 100
+				}
+			]
+		},
+		"time": 0
+	},
+	"transform_liquid": {
+		"liquid_limit": 60,
+		"swap_to_index": "590"
+	}
+}

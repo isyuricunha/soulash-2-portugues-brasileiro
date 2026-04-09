@@ -1,0 +1,146 @@
+{
+	"ability_user": [
+		"23"
+	],
+	"armor": {
+		"acid": 16,
+		"death": 12,
+		"electricity": 16,
+		"fire": 8,
+		"frost": 8,
+		"holy": 8,
+		"parry": 0,
+		"physical": 24,
+		"poison": 16,
+		"thorns": 0
+	},
+	"artificial_intelligence": {
+		"allies": [],
+		"allow_production": [],
+		"behaviors": [],
+		"enemies": [
+			"5"
+		]
+	},
+	"components": [
+		"ability_user",
+		"actor",
+		"armor",
+		"artificial_intelligence",
+		"collidable",
+		"dialogues",
+		"equipment",
+		"experience_gainer",
+		"fighter",
+		"glyph",
+		"health",
+		"minimap_pixel",
+		"moveable",
+		"name",
+		"position_2d",
+		"sight",
+		"stamina",
+		"statistics",
+		"tags"
+	],
+	"corpse": "2234",
+	"description": "This massive creature is a big threat in close range.",
+	"dialogues": [
+		"368",
+		"369",
+		"892"
+	],
+	"equipment": {
+		"disabled_slots": [
+			0,
+			1,
+			2,
+			3,
+			4,
+			5,
+			6,
+			7,
+			8,
+			9,
+			10,
+			11,
+			12,
+			13,
+			14,
+			15,
+			16,
+			17
+		]
+	},
+	"experience_gainer": {
+		"exp": 0,
+		"level": 20
+	},
+	"fighter": {
+		"attackNames": [
+			"Bite"
+		]
+	},
+	"glyph": {
+		"frames": [
+			{
+				"color": [
+					255,
+					255,
+					255
+				],
+				"delay": 0,
+				"index": 151
+			}
+		],
+		"random_frame_start": false
+	},
+	"health": 470,
+	"id": "core_2_Enhanced_Hippo",
+	"minimap_pixel": [
+		139,
+		69,
+		15
+	],
+	"moveable": {
+		"speed": 1.2000000476837158
+	},
+	"name": "Enhanced Hippo",
+	"sight": {
+		"ignore_infra_penalty": false,
+		"infravision": false,
+		"range": 7,
+		"threesixty": false
+	},
+	"stamina": {
+		"fatigue": 100,
+		"stamina": 100,
+		"stamina_regen": 0.0
+	},
+	"statistics": {
+		"dexterity": [
+			24,
+			28
+		],
+		"endurance": [
+			64,
+			78
+		],
+		"intelligence": [
+			2,
+			7
+		],
+		"strength": [
+			66,
+			78
+		],
+		"willpower": [
+			13,
+			16
+		]
+	},
+	"tags": [
+		"2",
+		"9"
+	]
+}

@@ -1,0 +1,115 @@
+{
+	"ability_user": [
+		"129",
+		"98"
+	],
+	"artificial_intelligence": {
+		"allies": [],
+		"allow_production": [],
+		"behaviors": [],
+		"enemies": [
+			"5"
+		]
+	},
+	"components": [
+		"ability_user",
+		"actor",
+		"artificial_intelligence",
+		"collidable",
+		"dialogues",
+		"experience_gainer",
+		"fighter",
+		"glyph",
+		"health",
+		"humanoid",
+		"minimap_pixel",
+		"moveable",
+		"name",
+		"position_2d",
+		"sight",
+		"stamina",
+		"statistics",
+		"tags"
+	],
+	"corpse": "2992",
+	"description": "A giant arachnid that reaches your head, with eight legs and four crystalline eyes. It's a bit furry and moves very fast.",
+	"dialogues": [
+		"881"
+	],
+	"experience_gainer": {
+		"exp": 0,
+		"level": 40
+	},
+	"fighter": {
+		"attackNames": [
+			"Bite",
+			"Jump"
+		]
+	},
+	"glyph": {
+		"frames": [
+			{
+				"color": [
+					255,
+					255,
+					255
+				],
+				"delay": 0,
+				"index": 1146
+			}
+		],
+		"random_frame_start": false
+	},
+	"health": 900,
+	"humanoid": {
+		"race": ""
+	},
+	"id": "1065",
+	"minimap_pixel": [
+		30,
+		200,
+		58
+	],
+	"moveable": {
+		"speed": 0.800000011920929
+	},
+	"name": "Giant Spider",
+	"sight": {
+		"ignore_infra_penalty": false,
+		"infravision": true,
+		"range": 12,
+		"threesixty": false
+	},
+	"stamina": {
+		"fatigue": 100,
+		"stamina": 100,
+		"stamina_regen": 0.0
+	},
+	"statistics": {
+		"dexterity": [
+			87,
+			95
+		],
+		"endurance": [
+			95,
+			109
+		],
+		"intelligence": [
+			34,
+			40
+		],
+		"strength": [
+			95,
+			109
+		],
+		"willpower": [
+			34,
+			40
+		]
+	},
+	"tags": [
+		"9",
+		"18",
+		"38"
+	]
+}

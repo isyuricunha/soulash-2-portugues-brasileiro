@@ -1,0 +1,16 @@
+{
+	"id": "core_2_scale_helmet",
+	"name": "Scale Helmet",
+	"requirements": {
+		"milestones": [],
+		"skill": 32
+	},
+	"rewards": [
+		{
+			"recipe": "2220"
+		}
+	],
+	"skill_id": "core_2_armorsmith",
+	"steps": [],
+	"steps_type": 0
+}

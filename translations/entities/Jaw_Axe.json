@@ -1,0 +1,83 @@
+{
+	"components": [
+		"craftable",
+		"glyph",
+		"item",
+		"minimap_pixel",
+		"name",
+		"position_2d",
+		"tool",
+		"value",
+		"weapon",
+		"weight"
+	],
+	"craftable": {
+		"backgrounds": [],
+		"biomes": [],
+		"magic_slots": 4,
+		"resource_types": [
+			{
+				"amount": 3,
+				"id": 5
+			},
+			{
+				"amount": 1,
+				"id": 2
+			}
+		],
+		"time": 150,
+		"tools": [
+			1
+		]
+	},
+	"description": "This axe is made from a jaw bone of an animal with very sharp teeth.",
+	"glyph": {
+		"frames": [
+			{
+				"color": [
+					255,
+					255,
+					255
+				],
+				"delay": 0,
+				"index": 2261
+			}
+		],
+		"random_frame_start": false
+	},
+	"id": "core_2_Jaw_Axe",
+	"item": {
+		"image": 953,
+		"type": 13
+	},
+	"minimap_pixel": [
+		156,
+		160,
+		161
+	],
+	"name": "Jaw Axe",
+	"tool": [
+		{
+			"id": 13,
+			"quality": 20
+		}
+	],
+	"value": 10000,
+	"weapon": {
+		"attack_speed": 1.0,
+		"critical_hit": 0.0,
+		"damage": [
+			{
+				"dmg_max": 15,
+				"dmg_min": 10,
+				"dmg_type": "physical"
+			}
+		],
+		"hands": 1,
+		"hit_bonus": 3,
+		"parry_bonus": 2,
+		"range": 1,
+		"type": 0
+	},
+	"weight": 3.0
+}

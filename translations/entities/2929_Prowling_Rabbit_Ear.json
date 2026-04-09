@@ -1,0 +1,60 @@
+{
+	"armor": {
+		"acid": 0,
+		"death": 0,
+		"electricity": 0,
+		"fire": 0,
+		"frost": 1,
+		"holy": 0,
+		"parry": 0,
+		"physical": 0,
+		"poison": 0,
+		"thorns": 0
+	},
+	"components": [
+		"armor",
+		"glyph",
+		"item",
+		"minimap_pixel",
+		"name",
+		"position_2d",
+		"resource",
+		"stackable",
+		"value",
+		"weight"
+	],
+	"description": "Small and fluffy. ",
+	"glyph": {
+		"frames": [
+			{
+				"color": [
+					255,
+					255,
+					255
+				],
+				"delay": 0,
+				"index": 1925
+			}
+		],
+		"random_frame_start": false
+	},
+	"id": "2929",
+	"item": {
+		"image": 751,
+		"type": 16
+	},
+	"minimap_pixel": [
+		168,
+		104,
+		91
+	],
+	"name": "Prowling Rabbit Ear",
+	"resource": {
+		"affix": "of Warmth",
+		"magic_ingredient": 1,
+		"quality": 1,
+		"type": 7
+	},
+	"value": 200,
+	"weight": 0.10000000149011612
+}

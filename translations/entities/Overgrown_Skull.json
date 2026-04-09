@@ -1,0 +1,47 @@
+{
+	"components": [
+		"glyph",
+		"minimap_pixel",
+		"name",
+		"position_2d",
+		"producer",
+		"stackable"
+	],
+	"description": "A humanoid skull overgrown by moss and mushrooms.",
+	"glyph": {
+		"frames": [
+			{
+				"color": [
+					255,
+					255,
+					255
+				],
+				"delay": 0,
+				"index": 3177
+			}
+		],
+		"random_frame_start": false
+	},
+	"id": "core_2_Overgrown_Skull",
+	"minimap_pixel": [
+		171,
+		102,
+		57
+	],
+	"name": "Overgrown Skull",
+	"producer": {
+		"products": {
+			"10": [
+				{
+					"amount": [
+						0,
+						1
+					],
+					"id": "2475",
+					"percent_chance": 100
+				}
+			]
+		},
+		"time": 5
+	}
+}

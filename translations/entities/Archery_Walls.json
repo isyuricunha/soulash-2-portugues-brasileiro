@@ -1,0 +1,130 @@
+{
+	"armor": {
+		"acid": 10,
+		"death": 10,
+		"electricity": 10,
+		"fire": 60,
+		"frost": 10,
+		"holy": 10,
+		"parry": 0,
+		"physical": 10,
+		"poison": 10,
+		"thorns": 0
+	},
+	"artificial_intelligence": {
+		"allies": [],
+		"allow_production": [],
+		"behaviors": [],
+		"enemies": [
+			"5"
+		]
+	},
+	"components": [
+		"actor",
+		"armor",
+		"artificial_intelligence",
+		"collidable",
+		"experience_gainer",
+		"fighter",
+		"glyph",
+		"health",
+		"minimap_pixel",
+		"moveable",
+		"name",
+		"position_2d",
+		"sight",
+		"stamina",
+		"statistics",
+		"tags",
+		"weapon"
+	],
+	"corpse": "2025",
+	"description": "Moving wall with archery windows.",
+	"experience_gainer": {
+		"exp": 0,
+		"level": 50
+	},
+	"fighter": {
+		"attackNames": [
+			"Arrow"
+		]
+	},
+	"glyph": {
+		"frames": [
+			{
+				"color": [
+					255,
+					255,
+					255
+				],
+				"delay": 0,
+				"index": 567
+			}
+		],
+		"random_frame_start": false
+	},
+	"health": 1000,
+	"id": "core_2_Archery_Walls",
+	"minimap_pixel": [
+		149,
+		165,
+		101
+	],
+	"moveable": {
+		"speed": 1.2000000476837158
+	},
+	"name": "Archery Walls",
+	"sight": {
+		"ignore_infra_penalty": true,
+		"infravision": true,
+		"range": 12,
+		"threesixty": true
+	},
+	"stamina": {
+		"fatigue": 100,
+		"stamina": 100,
+		"stamina_regen": 0.0
+	},
+	"statistics": {
+		"dexterity": [
+			150,
+			180
+		],
+		"endurance": [
+			136,
+			148
+		],
+		"intelligence": [
+			64,
+			70
+		],
+		"strength": [
+			110,
+			120
+		],
+		"willpower": [
+			96,
+			107
+		]
+	},
+	"tags": [
+		"38"
+	],
+	"weapon": {
+		"attack_animation": "5",
+		"attack_speed": 0.800000011920929,
+		"critical_hit": 0.0,
+		"damage": [
+			{
+				"dmg_max": 35,
+				"dmg_min": 25,
+				"dmg_type": "physical"
+			}
+		],
+		"hands": 1,
+		"hit_bonus": 4,
+		"parry_bonus": 0,
+		"range": 10,
+		"type": 5
+	}
+}

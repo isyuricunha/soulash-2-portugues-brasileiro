@@ -1,0 +1,154 @@
+{
+	"armor": {
+		"acid": 5,
+		"death": 5,
+		"electricity": 10,
+		"fire": -5,
+		"frost": 10,
+		"holy": 5,
+		"parry": 0,
+		"physical": 5,
+		"poison": 20,
+		"thorns": 0
+	},
+	"components": [
+		"armor",
+		"block_light",
+		"collidable",
+		"glyph",
+		"glyph_top",
+		"health",
+		"height",
+		"minimap_pixel",
+		"name",
+		"position_2d",
+		"producer"
+	],
+	"corpse": [],
+	"description": "A white tree with cloning powers.",
+	"glyph": {
+		"frames": [
+			{
+				"color": [
+					180,
+					173,
+					172
+				],
+				"delay": 0,
+				"index": 217
+			},
+			{
+				"color": [
+					156,
+					156,
+					140
+				],
+				"delay": 0,
+				"index": 217
+			},
+			{
+				"color": [
+					166,
+					150,
+					140
+				],
+				"delay": 0,
+				"index": 217
+			}
+		],
+		"random_frame_start": true,
+		"random_top": {
+			"colors": [
+				[
+					251,
+					185,
+					84
+				],
+				[
+					230,
+					144,
+					78
+				],
+				[
+					205,
+					104,
+					61
+				]
+			],
+			"count": 60,
+			"glyph_ids": [
+				218,
+				219
+			],
+			"max_alpha": 200,
+			"max_range": 25,
+			"wind": true
+		}
+	},
+	"health": 300,
+	"height": 30,
+	"id": "868",
+	"minimap_pixel": [
+		196,
+		197,
+		194
+	],
+	"name": "Aspen Tree",
+	"producer": {
+		"products": {
+			"1": [
+				{
+					"amount": [
+						1,
+						1
+					],
+					"id": "866",
+					"percent_chance": 100
+				},
+				{
+					"amount": [
+						3,
+						5
+					],
+					"id": "2008",
+					"percent_chance": 100
+				},
+				{
+					"amount": [
+						1,
+						2
+					],
+					"id": "3060",
+					"percent_chance": 10
+				}
+			],
+			"core_2_woodbend": [
+				{
+					"amount": [
+						4,
+						6
+					],
+					"id": "865",
+					"percent_chance": 100
+				},
+				{
+					"amount": [
+						4,
+						6
+					],
+					"id": "2008",
+					"percent_chance": 100
+				},
+				{
+					"amount": [
+						2,
+						3
+					],
+					"id": "3060",
+					"percent_chance": 30
+				}
+			]
+		},
+		"time": 30
+	}
+}

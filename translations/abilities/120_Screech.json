@@ -1,0 +1,25 @@
+{
+	"animation": "160",
+	"cast_time": 1.0,
+	"cooldown": 2.0,
+	"cost": {
+		"health": 0,
+		"stamina": 6
+	},
+	"description": "Make a shrill cry dealing ::damage ::damage_type damage to everyone in a cone.",
+	"duration": 0.0,
+	"effects": {
+		"aoe_break": 2,
+		"damage": [
+			6,
+			10
+		],
+		"damage_type": "poison",
+		"damage_weapon": 1.0
+	},
+	"id": "120",
+	"image": 569,
+	"name": "Screech",
+	"range": 5,
+	"target": "cone"
+}

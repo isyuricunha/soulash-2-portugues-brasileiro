@@ -1,0 +1,16 @@
+{
+	"id": "core_2_Torch_Hand",
+	"name": "Torch Hand",
+	"requirements": {
+		"milestones": [],
+		"skill": 41
+	},
+	"rewards": [
+		{
+			"recipe": "core_2_Torch_Hand"
+		}
+	],
+	"skill_id": "core_2_construction",
+	"steps": [],
+	"steps_type": 0
+}

@@ -1,0 +1,113 @@
+{
+	"armor": {
+		"acid": 2,
+		"death": 2,
+		"electricity": 2,
+		"fire": 2,
+		"frost": 2,
+		"holy": -6,
+		"parry": 0,
+		"physical": 1,
+		"poison": -3,
+		"thorns": 0
+	},
+	"components": [
+		"armor",
+		"craftable",
+		"glyph",
+		"item",
+		"minimap_pixel",
+		"name",
+		"position_2d",
+		"stackable",
+		"statistics",
+		"weight"
+	],
+	"craftable": {
+		"backgrounds": [],
+		"biomes": [],
+		"magic_slots": 0,
+		"resources": [
+			{
+				"amount": 1,
+				"id": "core_2_Vile_Crucible"
+			},
+			{
+				"amount": 1,
+				"id": "2526"
+			}
+		],
+		"time": 10,
+		"tools": [
+			19
+		]
+	},
+	"description": "A radiant abyss veiled in shimmering rainbow hues, its ruinous depths conceal a soul so utterly corrupted it devours light itself, whispering promises of doom through a prismatic lie.",
+	"glyph": {
+		"frames": [
+			{
+				"color": [
+					255,
+					255,
+					255
+				],
+				"delay": 200,
+				"index": 2824
+			},
+			{
+				"color": [
+					255,
+					255,
+					255
+				],
+				"delay": 200,
+				"index": 2825
+			},
+			{
+				"color": [
+					255,
+					255,
+					255
+				],
+				"delay": 200,
+				"index": 2826
+			}
+		],
+		"random_frame_start": false
+	},
+	"id": "core_2_Prismatic_Abyss",
+	"item": {
+		"image": 1265,
+		"type": 31
+	},
+	"minimap_pixel": [
+		0,
+		0,
+		0
+	],
+	"name": "Prismatic Abyss",
+	"statistics": {
+		"dexterity": [
+			0,
+			0
+		],
+		"endurance": [
+			3,
+			3
+		],
+		"health_regen": 0.5,
+		"intelligence": [
+			0,
+			0
+		],
+		"strength": [
+			3,
+			3
+		],
+		"willpower": [
+			-1,
+			-1
+		]
+	},
+	"weight": 0.009999999776482582
+}

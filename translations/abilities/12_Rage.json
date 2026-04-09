@@ -1,0 +1,24 @@
+{
+	"animation": "13",
+	"cast_time": 0.20000000298023224,
+	"cooldown": 20.0,
+	"cost": {
+		"health": 0,
+		"stamina": 25
+	},
+	"description": "You enter the state of primal fury, increasing the damage you deal by ::damage_bonus_percent%, but becoming vulnerable as well, receiving ::damage_reduce_percent% damage reduction penalty.",
+	"duration": 10.0,
+	"effects": {
+		"damage_bonus_percent": 0.25,
+		"damage_reduce_percent": -0.10000000149011612
+	},
+	"id": "12",
+	"image": 60,
+	"name": "Rage",
+	"range": 0,
+	"skill": "core_2_axe_fighting",
+	"slots": {
+		"utility": 2
+	},
+	"target": "self"
+}

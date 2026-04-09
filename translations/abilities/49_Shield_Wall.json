@@ -1,0 +1,30 @@
+{
+	"animation": "47",
+	"cast_time": 0.2,
+	"cooldown": 10.0,
+	"cost": {
+		"health": 0,
+		"stamina": 8
+	},
+	"description": "Stand your ground with shield raised, reducing incoming damage by ::damage_reduce for ::duration turns.",
+	"duration": 3.0,
+	"effects": {
+		"damage_reduce": 5
+	},
+	"id": "49",
+	"image": 142,
+	"level": 3,
+	"name": "Shield Wall",
+	"profession": 7,
+	"range": 3,
+	"requirements": {
+		"always": [
+			7
+		]
+	},
+	"skill": "core_2_protection",
+	"slots": {
+		"defensive": 1
+	},
+	"target": "self"
+}

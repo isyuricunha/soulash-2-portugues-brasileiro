@@ -1,0 +1,106 @@
+{
+	"artificial_intelligence": {
+		"allies": [],
+		"allow_production": [],
+		"behaviors": [
+			16
+		],
+		"enemies": []
+	},
+	"components": [
+		"actor",
+		"artificial_intelligence",
+		"collidable",
+		"dialogues",
+		"experience_gainer",
+		"fighter",
+		"glyph",
+		"health",
+		"minimap_pixel",
+		"moveable",
+		"name",
+		"position_2d",
+		"sight",
+		"stamina",
+		"statistics",
+		"tags"
+	],
+	"corpse": "core_2_Reindeer_Corpse",
+	"description": "A huge reindeer with thick coat of fur.",
+	"dialogues": [
+		"346",
+		"347",
+		"888"
+	],
+	"experience_gainer": {
+		"exp": 0,
+		"level": 10
+	},
+	"fighter": {
+		"attackNames": [
+			"Antlers"
+		]
+	},
+	"glyph": {
+		"frames": [
+			{
+				"color": [
+					255,
+					255,
+					255
+				],
+				"delay": 0,
+				"index": 804
+			}
+		],
+		"random_frame_start": false
+	},
+	"health": 80,
+	"id": "core_2_Reindeer_Deer",
+	"minimap_pixel": [
+		219,
+		219,
+		219
+	],
+	"moveable": {
+		"speed": 0.800000011920929
+	},
+	"name": "Reindeer",
+	"sight": {
+		"ignore_infra_penalty": false,
+		"infravision": false,
+		"range": 8,
+		"threesixty": false
+	},
+	"stamina": {
+		"fatigue": 100,
+		"stamina": 100,
+		"stamina_regen": 0.0
+	},
+	"statistics": {
+		"dexterity": [
+			10,
+			14
+		],
+		"endurance": [
+			10,
+			14
+		],
+		"intelligence": [
+			7,
+			10
+		],
+		"strength": [
+			15,
+			20
+		],
+		"willpower": [
+			8,
+			12
+		]
+	},
+	"tags": [
+		"2",
+		"9"
+	]
+}

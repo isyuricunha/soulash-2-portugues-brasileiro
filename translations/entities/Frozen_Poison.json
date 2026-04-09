@@ -1,0 +1,65 @@
+{
+	"components": [
+		"craftable",
+		"glyph",
+		"item",
+		"minimap_pixel",
+		"name",
+		"position_2d",
+		"stackable",
+		"usable",
+		"value",
+		"weight"
+	],
+	"craftable": {
+		"backgrounds": [],
+		"biomes": [],
+		"magic_slots": 0,
+		"resources": [
+			{
+				"amount": 2,
+				"id": "core_2_Frozen_Herbs"
+			},
+			{
+				"amount": 1,
+				"id": "835"
+			}
+		],
+		"time": 30,
+		"tools": [
+			15
+		]
+	},
+	"description": "A small bottle with half-frozen liquid inside. Gives extra boost to your attacks.",
+	"glyph": {
+		"frames": [
+			{
+				"color": [
+					255,
+					255,
+					255
+				],
+				"delay": 0,
+				"index": 2708
+			}
+		],
+		"random_frame_start": false
+	},
+	"id": "core_2_Frozen_Poison",
+	"item": {
+		"image": 1225,
+		"type": 17
+	},
+	"minimap_pixel": [
+		179,
+		178,
+		176
+	],
+	"name": "Frozen Poison",
+	"usable": {
+		"ability": "core_2_Frozen_Blade",
+		"recipe": ""
+	},
+	"value": 2500,
+	"weight": 0.20000000298023224
+}

@@ -1,0 +1,133 @@
+{
+	"artificial_intelligence": {
+		"allies": [],
+		"allow_production": [],
+		"behaviors": [],
+		"enemies": [
+			"5"
+		]
+	},
+	"components": [
+		"actor",
+		"artificial_intelligence",
+		"collidable",
+		"dialogues",
+		"equipment",
+		"experience_gainer",
+		"fighter",
+		"glyph",
+		"health",
+		"humanoid",
+		"minimap_pixel",
+		"moveable",
+		"name",
+		"position_2d",
+		"sight",
+		"stamina",
+		"statistics",
+		"tags"
+	],
+	"corpse": "2082",
+	"description": "Pretty hefty for a monkey, it reminds you of some immature humans.",
+	"dialogues": [
+		"890"
+	],
+	"equipment": {
+		"disabled_slots": [
+			0,
+			2,
+			4,
+			5,
+			6,
+			9,
+			12,
+			13,
+			15,
+			16,
+			17
+		],
+		"right_hand": [
+			{
+				"chance": 1.0,
+				"id": "2468",
+				"name": "Throwing Stone",
+				"stack": 6
+			}
+		]
+	},
+	"experience_gainer": {
+		"exp": 0,
+		"level": 10
+	},
+	"fighter": {
+		"attackNames": [
+			"Punch",
+			"Bite"
+		]
+	},
+	"glyph": {
+		"frames": [
+			{
+				"color": [
+					255,
+					255,
+					255
+				],
+				"delay": 0,
+				"index": 100
+			}
+		],
+		"random_frame_start": false
+	},
+	"health": 45,
+	"humanoid": {
+		"race": ""
+	},
+	"id": "2081",
+	"minimap_pixel": [
+		149,
+		96,
+		248
+	],
+	"moveable": {
+		"speed": 1.0
+	},
+	"name": "Baboon",
+	"sight": {
+		"ignore_infra_penalty": false,
+		"infravision": true,
+		"range": 12,
+		"threesixty": false
+	},
+	"stamina": {
+		"fatigue": 100,
+		"stamina": 100,
+		"stamina_regen": 0.0
+	},
+	"statistics": {
+		"dexterity": [
+			10,
+			15
+		],
+		"endurance": [
+			10,
+			13
+		],
+		"intelligence": [
+			5,
+			8
+		],
+		"strength": [
+			8,
+			12
+		],
+		"willpower": [
+			6,
+			9
+		]
+	},
+	"tags": [
+		"9",
+		"2"
+	]
+}

@@ -1,0 +1,137 @@
+{
+	"components": [
+		"glyph",
+		"item",
+		"liquid_source",
+		"minimap_pixel",
+		"name",
+		"position_2d",
+		"producer",
+		"weight"
+	],
+	"description": "A pygmy corpse, completely absent of life.",
+	"glyph": {
+		"frames": [
+			{
+				"color": [
+					255,
+					255,
+					255
+				],
+				"delay": 0,
+				"index": 3236
+			},
+			{
+				"color": [
+					255,
+					255,
+					255
+				],
+				"delay": 0,
+				"index": 1080
+			},
+			{
+				"color": [
+					255,
+					255,
+					255
+				],
+				"delay": 0,
+				"index": 1081
+			},
+			{
+				"color": [
+					255,
+					255,
+					255
+				],
+				"delay": 0,
+				"index": 1082
+			},
+			{
+				"color": [
+					255,
+					255,
+					255
+				],
+				"delay": 0,
+				"index": 1083
+			},
+			{
+				"color": [
+					255,
+					255,
+					255
+				],
+				"delay": 0,
+				"index": 1084
+			},
+			{
+				"color": [
+					255,
+					255,
+					255
+				],
+				"delay": 0,
+				"index": 1085
+			},
+			{
+				"color": [
+					255,
+					255,
+					255
+				],
+				"delay": 0,
+				"index": 1086
+			}
+		],
+		"random_frame_start": true
+	},
+	"id": "core_2_Pygmy_Corpse",
+	"item": {
+		"image": 1495,
+		"type": 18
+	},
+	"liquid_source": {
+		"limit": 20,
+		"type": 4
+	},
+	"minimap_pixel": [
+		147,
+		128,
+		104
+	],
+	"name": "Pygmy Corpse",
+	"producer": {
+		"products": {
+			"3": [
+				{
+					"amount": [
+						1,
+						1
+					],
+					"id": "55",
+					"percent_chance": 100
+				},
+				{
+					"amount": [
+						1,
+						1
+					],
+					"id": "318",
+					"percent_chance": 100
+				},
+				{
+					"amount": [
+						1,
+						1
+					],
+					"id": "core_2_Pygmy_Head",
+					"percent_chance": 50
+				}
+			]
+		},
+		"time": 20
+	},
+	"weight": 20.0
+}

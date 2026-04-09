@@ -1,0 +1,149 @@
+{
+	"artificial_intelligence": {
+		"allies": [],
+		"allow_production": [],
+		"behaviors": [],
+		"enemies": [
+			"5"
+		]
+	},
+	"components": [
+		"actor",
+		"artificial_intelligence",
+		"collidable",
+		"dialogues",
+		"equipment",
+		"experience_gainer",
+		"fighter",
+		"glyph",
+		"health",
+		"humanoid",
+		"minimap_pixel",
+		"moveable",
+		"name",
+		"position_2d",
+		"sight",
+		"stamina",
+		"statistics",
+		"tags",
+		"weapon"
+	],
+	"corpse": "2769",
+	"description": "Fluffy ball of fur with scary horns and tusks. ",
+	"dialogues": [
+		"604",
+		"605",
+		"895"
+	],
+	"equipment": {
+		"disabled_slots": [
+			0,
+			1,
+			2,
+			3,
+			4,
+			5,
+			6,
+			7,
+			8,
+			9,
+			10,
+			11,
+			12,
+			13,
+			14,
+			15,
+			16,
+			17
+		]
+	},
+	"experience_gainer": {
+		"exp": 0,
+		"level": 20
+	},
+	"fighter": {
+		"attackNames": null
+	},
+	"glyph": {
+		"frames": [
+			{
+				"color": [
+					255,
+					255,
+					255
+				],
+				"delay": 0,
+				"index": 675
+			}
+		],
+		"random_frame_start": false
+	},
+	"health": 180,
+	"humanoid": {
+		"race": ""
+	},
+	"id": "2805",
+	"minimap_pixel": [
+		163,
+		218,
+		96
+	],
+	"moveable": {
+		"speed": 1.0
+	},
+	"name": "Uhorn",
+	"sight": {
+		"ignore_infra_penalty": false,
+		"infravision": false,
+		"range": 10,
+		"threesixty": false
+	},
+	"stamina": {
+		"fatigue": 100,
+		"stamina": 100,
+		"stamina_regen": 0.0
+	},
+	"statistics": {
+		"dexterity": [
+			20,
+			24
+		],
+		"endurance": [
+			30,
+			35
+		],
+		"intelligence": [
+			15,
+			19
+		],
+		"strength": [
+			30,
+			35
+		],
+		"willpower": [
+			25,
+			29
+		]
+	},
+	"tags": [
+		"17",
+		"9",
+		"2"
+	],
+	"weapon": {
+		"attack_speed": 1.0,
+		"critical_hit": 0.0,
+		"damage": [
+			{
+				"dmg_max": 6,
+				"dmg_min": 1,
+				"dmg_type": "physical"
+			}
+		],
+		"hands": 1,
+		"hit_bonus": 0,
+		"parry_bonus": 0,
+		"range": 1,
+		"type": 9
+	}
+}

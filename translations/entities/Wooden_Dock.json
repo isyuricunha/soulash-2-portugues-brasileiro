@@ -1,0 +1,81 @@
+{
+	"background": {
+		"color": [
+			44,
+			45,
+			41
+		],
+		"noise": 3,
+		"noise_intensity": 3
+	},
+	"category_id": 1,
+	"components": [
+		"background",
+		"craftable",
+		"glyph",
+		"minimap_pixel",
+		"name",
+		"position_2d",
+		"producer"
+	],
+	"craftable": {
+		"backgrounds": [],
+		"biomes": [],
+		"magic_slots": 0,
+		"resource_types": [
+			{
+				"amount": 2,
+				"id": 3
+			}
+		],
+		"resources": null,
+		"time": 25,
+		"tools": []
+	},
+	"description": "A simple wooden dock, allowing to extend dry land over the sea.",
+	"glyph": {
+		"frames": [
+			{
+				"color": [
+					255,
+					255,
+					255
+				],
+				"delay": 0,
+				"index": 2211
+			},
+			{
+				"color": [
+					255,
+					255,
+					255
+				],
+				"delay": 0,
+				"index": 2212
+			}
+		],
+		"random_frame_start": true
+	},
+	"id": "core_2_Wooden_Dock",
+	"minimap_pixel": [
+		61,
+		38,
+		7
+	],
+	"name": "Wooden Dock",
+	"producer": {
+		"products": {
+			"core_2_deconstruct": [
+				{
+					"amount": [
+						0,
+						0
+					],
+					"id": "",
+					"percent_chance": 0
+				}
+			]
+		},
+		"time": 20
+	}
+}

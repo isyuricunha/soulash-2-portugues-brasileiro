@@ -1,0 +1,16 @@
+{
+	"id": "core_2_divine_favour",
+	"name": "Divine Favour",
+	"requirements": {
+		"milestones": [],
+		"skill": 40
+	},
+	"rewards": [
+		{
+			"ability": "core_2_Divine_Favour"
+		}
+	],
+	"skill_id": "core_2_divine_fists",
+	"steps": [],
+	"steps_type": 0
+}

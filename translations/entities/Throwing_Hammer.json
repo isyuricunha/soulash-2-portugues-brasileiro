@@ -1,0 +1,77 @@
+{
+	"components": [
+		"craftable",
+		"glyph",
+		"item",
+		"minimap_pixel",
+		"name",
+		"position_2d",
+		"value",
+		"weapon",
+		"weight"
+	],
+	"craftable": {
+		"backgrounds": [],
+		"biomes": [],
+		"magic_slots": 4,
+		"resource_types": [
+			{
+				"amount": 2,
+				"id": 1
+			},
+			{
+				"amount": 2,
+				"id": 6
+			}
+		],
+		"time": 45,
+		"tools": [
+			1
+		]
+	},
+	"description": "Small but mighty hammer made specifically for throwing.",
+	"glyph": {
+		"frames": [
+			{
+				"color": [
+					255,
+					255,
+					255
+				],
+				"delay": 0,
+				"index": 2681
+			}
+		],
+		"random_frame_start": false
+	},
+	"id": "core_2_Throwing_Hammer",
+	"item": {
+		"image": 1203,
+		"type": 13
+	},
+	"minimap_pixel": [
+		198,
+		153,
+		97
+	],
+	"name": "Throwing Hammer",
+	"value": 3500,
+	"weapon": {
+		"attack_animation": "core_2_Hammer",
+		"attack_speed": 1.0,
+		"critical_hit": 0.0,
+		"damage": [
+			{
+				"dmg_max": 13,
+				"dmg_min": 9,
+				"dmg_type": "physical"
+			}
+		],
+		"hands": 1,
+		"hit_bonus": 3,
+		"parry_bonus": 0,
+		"range": 6,
+		"type": 11
+	},
+	"weight": 1.2000000476837158
+}

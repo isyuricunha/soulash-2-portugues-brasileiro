@@ -1,0 +1,46 @@
+{
+	"components": [
+		"food",
+		"glyph",
+		"item",
+		"minimap_pixel",
+		"name",
+		"position_2d",
+		"stackable",
+		"value",
+		"weight"
+	],
+	"description": "Great for bread, soup, or, more importantly - beer.",
+	"food": {
+		"nutrition": 5,
+		"poisonous": 0,
+		"raw": true
+	},
+	"glyph": {
+		"frames": [
+			{
+				"color": [
+					255,
+					255,
+					255
+				],
+				"delay": 0,
+				"index": 2065
+			}
+		],
+		"random_frame_start": false
+	},
+	"id": "3093",
+	"item": {
+		"image": 847,
+		"type": 24
+	},
+	"minimap_pixel": [
+		205,
+		168,
+		110
+	],
+	"name": "Barley Grain",
+	"value": 100,
+	"weight": 0.1
+}

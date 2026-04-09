@@ -1,0 +1,24 @@
+{
+	"id": "320",
+	"image": 140,
+	"name": "Torture Room",
+	"occupation_image": 111,
+	"occupation": "core_2_Gnoll_Torturer",
+	"produces": [
+		{
+			"entities": [
+				{
+					"daily": 1,
+					"id": "318"
+				}
+			],
+			"takes": []
+		}
+	],
+	"race": "31",
+	"tier": 3,
+	"workers": [
+		1,
+		1
+	]
+}

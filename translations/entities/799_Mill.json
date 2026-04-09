@@ -1,0 +1,97 @@
+{
+	"category_id": 6,
+	"components": [
+		"collidable",
+		"craftable",
+		"glyph",
+		"minimap_pixel",
+		"name",
+		"position_2d",
+		"producer",
+		"tool"
+	],
+	"craftable": {
+		"magic_slots": 0,
+		"resource_types": [
+			{
+				"amount": 10,
+				"id": 3
+			}
+		],
+		"resources": null,
+		"time": 120,
+		"tools": [
+			6
+		]
+	},
+	"description": "A device used to mill grain into flour.",
+	"glyph": {
+		"frames": [
+			{
+				"color": [
+					255,
+					255,
+					255
+				],
+				"delay": 200,
+				"index": 233
+			},
+			{
+				"color": [
+					255,
+					255,
+					255
+				],
+				"delay": 200,
+				"index": 948
+			},
+			{
+				"color": [
+					255,
+					255,
+					255
+				],
+				"delay": 200,
+				"index": 949
+			},
+			{
+				"color": [
+					255,
+					255,
+					255
+				],
+				"delay": 200,
+				"index": 950
+			}
+		],
+		"random_frame_start": false
+	},
+	"id": "799",
+	"minimap_pixel": [
+		61,
+		38,
+		1
+	],
+	"name": "Mill",
+	"producer": {
+		"products": {
+			"core_2_deconstruct": [
+				{
+					"amount": [
+						0,
+						0
+					],
+					"id": "-1",
+					"percent_chance": 0
+				}
+			]
+		},
+		"time": 30
+	},
+	"tool": [
+		{
+			"id": 8,
+			"quality": 100
+		}
+	]
+}

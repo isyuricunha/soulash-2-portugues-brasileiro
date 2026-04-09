@@ -1,0 +1,16 @@
+{
+	"id": "core_2_fiery_destruction",
+	"name": "Fiery Destruction",
+	"requirements": {
+		"milestones": [],
+		"skill": 24
+	},
+	"rewards": [
+		{
+			"amplifier": "core_2_bonus_fire_damage"
+		}
+	],
+	"skill_id": "core_2_pyromancy",
+	"steps": [],
+	"steps_type": 0
+}

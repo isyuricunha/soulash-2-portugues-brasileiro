@@ -1,0 +1,21 @@
+{
+	"animation": "25",
+	"cast_time": 0.5,
+	"cooldown": 2.0,
+	"cost": {
+		"health": 0,
+		"stamina": 1
+	},
+	"description": "See the presence of all living beings in a ::range tiles radius around you.",
+	"duration": 0.0,
+	"effects_keys": {
+		"sense": "9"
+	},
+	"id": "6",
+	"image": 21,
+	"level": 2,
+	"name": "Sense Life",
+	"range": 20,
+	"skill": "core_2_hunting",
+	"target": "self"
+}

@@ -1,0 +1,18 @@
+{
+	"enables": [
+		"core_2_tailoring"
+	],
+	"id": "251",
+	"image": 214,
+	"max": 1,
+	"name": "Tailor",
+	"occupation_image": 10,
+	"occupation": "core_2_Reptilion_Tailor",
+	"produces": [],
+	"race": "23",
+	"tier": 1,
+	"workers": [
+		1,
+		3
+	]
+}

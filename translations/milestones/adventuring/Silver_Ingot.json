@@ -1,0 +1,16 @@
+{
+	"id": "core_2_silver_ingot",
+	"name": "Silver Ingot",
+	"requirements": {
+		"milestones": [],
+		"skill": 16
+	},
+	"rewards": [
+		{
+			"recipe": "159"
+		}
+	],
+	"skill_id": "core_2_adventuring",
+	"steps": [],
+	"steps_type": 0
+}

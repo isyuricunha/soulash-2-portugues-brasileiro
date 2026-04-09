@@ -1,0 +1,60 @@
+{
+	"components": [
+		"craftable",
+		"glyph",
+		"item",
+		"minimap_pixel",
+		"name",
+		"position_2d",
+		"stackable",
+		"value",
+		"weight"
+	],
+	"craftable": {
+		"backgrounds": [],
+		"biomes": [],
+		"magic_slots": 0,
+		"resources": [
+			{
+				"amount": 1,
+				"id": "620"
+			},
+			{
+				"amount": 1,
+				"id": "2090"
+			}
+		],
+		"time": 15,
+		"tools": [
+			10
+		]
+	},
+	"description": "An empty vial that can be filled with alchemical liquids.",
+	"glyph": {
+		"frames": [
+			{
+				"color": [
+					255,
+					255,
+					255
+				],
+				"delay": 0,
+				"index": 664
+			}
+		],
+		"random_frame_start": false
+	},
+	"id": "835",
+	"item": {
+		"image": 374,
+		"type": 16
+	},
+	"minimap_pixel": [
+		190,
+		188,
+		188
+	],
+	"name": "Empty Vial",
+	"value": 50,
+	"weight": 0.20000000298023224
+}

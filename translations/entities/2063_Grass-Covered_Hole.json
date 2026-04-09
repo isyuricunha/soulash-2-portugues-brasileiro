@@ -1,0 +1,32 @@
+{
+	"components": [
+		"glyph",
+		"map_connector",
+		"minimap_pixel",
+		"name",
+		"position_2d"
+	],
+	"description": "A narrow hole that you feel an unresistible urge to enter.",
+	"glyph": {
+		"frames": [
+			{
+				"color": [
+					255,
+					255,
+					255
+				],
+				"delay": 0,
+				"index": 736
+			}
+		],
+		"random_frame_start": false
+	},
+	"id": "2063",
+	"map_connector": -1,
+	"minimap_pixel": [
+		97,
+		179,
+		43
+	],
+	"name": "Grass-Covered Hole"
+}

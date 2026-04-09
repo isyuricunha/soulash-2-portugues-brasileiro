@@ -1,0 +1,144 @@
+{
+	"armor": {
+		"acid": 20,
+		"death": 100,
+		"electricity": 10,
+		"fire": 50,
+		"frost": 50,
+		"holy": 0,
+		"parry": 0,
+		"physical": 3,
+		"poison": 10,
+		"thorns": 0
+	},
+	"background": {
+		"color": [
+			40,
+			40,
+			40
+		],
+		"noise": 2,
+		"noise_intensity": 4
+	},
+	"components": [
+		"armor",
+		"background",
+		"collidable",
+		"glyph",
+		"health",
+		"height",
+		"minimap_pixel",
+		"name",
+		"position_2d",
+		"producer"
+	],
+	"corpse": [
+		{
+			"damage_type": 0,
+			"id": "25"
+		},
+		{
+			"damage_type": 6,
+			"id": "55"
+		},
+		{
+			"damage_type": 8,
+			"id": "25"
+		}
+	],
+	"description": "A place of rest for the dead.",
+	"glyph": {
+		"frames": [
+			{
+				"color": [
+					255,
+					255,
+					255
+				],
+				"delay": 0,
+				"index": 704
+			}
+		],
+		"random_frame_start": false
+	},
+	"health": 50,
+	"height": 0,
+	"id": "737",
+	"minimap_pixel": [
+		65,
+		45,
+		12
+	],
+	"name": "Grave",
+	"producer": {
+		"products": {
+			"12": [
+				{
+					"amount": [
+						1,
+						1
+					],
+					"id": "25",
+					"percent_chance": 30
+				},
+				{
+					"amount": [
+						3,
+						5
+					],
+					"id": "55",
+					"percent_chance": 30
+				},
+				{
+					"amount": [
+						1,
+						1
+					],
+					"id": "710",
+					"percent_chance": 2
+				},
+				{
+					"amount": [
+						1,
+						1
+					],
+					"id": "413",
+					"percent_chance": 10
+				},
+				{
+					"amount": [
+						1,
+						1
+					],
+					"id": "322",
+					"percent_chance": 5
+				},
+				{
+					"amount": [
+						1,
+						1
+					],
+					"id": "559",
+					"percent_chance": 3
+				},
+				{
+					"amount": [
+						1,
+						1
+					],
+					"id": "core_2_Rat",
+					"percent_chance": 25
+				},
+				{
+					"amount": [
+						1,
+						1
+					],
+					"id": "core_2_Dug_Up_Grave",
+					"percent_chance": 100
+				}
+			]
+		},
+		"time": 10
+	}
+}

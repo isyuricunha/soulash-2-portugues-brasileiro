@@ -1,0 +1,25 @@
+{
+	"animation": "111",
+	"cast_time": 1.0,
+	"cooldown": 4.0,
+	"cost": {
+		"health": 0,
+		"stamina": 7
+	},
+	"description": "Materializes and throws a special circle weapon used commonly by nomads from Decaying Desert. The attack deals ::damage ::damage_type damage to everyone in line.",
+	"duration": 0.0,
+	"effects": {
+		"damage": [
+			4,
+			8
+		],
+		"damage_type": "physical",
+		"damage_weapon": 1.2000000476837158,
+		"pierce": 1
+	},
+	"id": "87",
+	"image": 166,
+	"name": "Chakram",
+	"range": 6,
+	"target": "line"
+}

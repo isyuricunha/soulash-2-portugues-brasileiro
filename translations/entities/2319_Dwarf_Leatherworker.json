@@ -1,0 +1,140 @@
+{
+	"artificial_intelligence": {
+		"allies": [
+			"6"
+		],
+		"allow_production": [],
+		"behaviors": [],
+		"enemies": []
+	},
+	"components": [
+		"actor",
+		"artificial_intelligence",
+		"collidable",
+		"dialogues",
+		"equipment",
+		"experience_gainer",
+		"fighter",
+		"glyph",
+		"health",
+		"humanoid",
+		"minimap_pixel",
+		"moveable",
+		"name",
+		"persona",
+		"position_2d",
+		"sight",
+		"skills",
+		"stamina",
+		"statistics",
+		"tags"
+	],
+	"corpse": "559",
+	"description": "",
+	"dialogues": [
+		"408",
+		"409"
+	],
+	"equipment": {
+		"right_hand": [
+			{
+				"chance": 1.0,
+				"id": "164",
+				"name": "Scissors",
+				"stack": 1
+			}
+		]
+	},
+	"experience_gainer": {
+		"exp": 5,
+		"level": 1
+	},
+	"fighter": {
+		"attackNames": null
+	},
+	"glyph": {
+		"frames": [
+			{
+				"color": [
+					255,
+					255,
+					255
+				],
+				"delay": 0,
+				"index": 452
+			}
+		],
+		"random_frame_start": false
+	},
+	"health": 100,
+	"humanoid": {
+		"race": "1"
+	},
+	"id": "2319",
+	"minimap_pixel": [
+		171,
+		183,
+		183
+	],
+	"moveable": {
+		"speed": 1.0
+	},
+	"name": "Dwarf Leatherworker",
+	"persona": {
+		"occupation": "Leatherworker"
+	},
+	"sight": {
+		"ignore_infra_penalty": false,
+		"infravision": false,
+		"range": 8,
+		"threesixty": false
+	},
+	"skills": {
+		"milestones": [
+			"core_2_fur_mittens",
+			"core_2_leather_apron",
+			"core_2_fur_pouch",
+			"core_2_fur_cap",
+			"core_2_fur_shirt",
+			"core_2_fur_pauldron",
+			"core_2_heavy_belt",
+			"core_2_cestus",
+			"core_2_barbarian_belt",
+			"core_2_dwarven_belt"
+		],
+		"skills": [
+			"core_2_leatherworking"
+		]
+	},
+	"stamina": {
+		"fatigue": 100,
+		"stamina": 100,
+		"stamina_regen": 0.0
+	},
+	"statistics": {
+		"dexterity": [
+			23,
+			27
+		],
+		"endurance": [
+			24,
+			30
+		],
+		"intelligence": [
+			13,
+			17
+		],
+		"strength": [
+			14,
+			18
+		],
+		"willpower": [
+			14,
+			18
+		]
+	},
+	"tags": [
+		"6",
+		"9"
+	]
+}

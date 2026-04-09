@@ -1,0 +1,134 @@
+{
+	"artificial_intelligence": {
+		"allies": [],
+		"allow_production": [],
+		"behaviors": [],
+		"enemies": [
+			"5"
+		]
+	},
+	"components": [
+		"actor",
+		"artificial_intelligence",
+		"collidable",
+		"dialogues",
+		"equipment",
+		"experience_gainer",
+		"fighter",
+		"glyph",
+		"health",
+		"minimap_pixel",
+		"moveable",
+		"name",
+		"position_2d",
+		"sight",
+		"stamina",
+		"statistics",
+		"tags"
+	],
+	"corpse": [],
+	"description": "A small figure with gardening tools and funny hat.",
+	"dialogues": [
+		"1035"
+	],
+	"equipment": {
+		"legs_cloth": [
+			{
+				"chance": 1.0,
+				"id": "298",
+				"name": "Pants",
+				"stack": 1
+			}
+		],
+		"right_hand": [
+			{
+				"chance": 0.33000001311302185,
+				"id": "841",
+				"name": "Shovel",
+				"stack": 1
+			},
+			{
+				"chance": 0.33000001311302185,
+				"id": "3066",
+				"name": "Wooden Hoe",
+				"stack": 1
+			},
+			{
+				"chance": 0.33000001311302185,
+				"id": "72",
+				"name": "Sickle",
+				"stack": 1
+			}
+		]
+	},
+	"experience_gainer": {
+		"exp": 0,
+		"level": 30
+	},
+	"fighter": {
+		"attackNames": [
+			"Punch"
+		]
+	},
+	"glyph": {
+		"frames": [
+			{
+				"color": [
+					255,
+					255,
+					255
+				],
+				"delay": 0,
+				"index": 567
+			}
+		],
+		"random_frame_start": false
+	},
+	"health": 300,
+	"id": "core_2_Gardening_Gnome",
+	"minimap_pixel": [
+		149,
+		165,
+		101
+	],
+	"moveable": {
+		"speed": 0.8999999761581421
+	},
+	"name": "Gardening Gnome",
+	"sight": {
+		"ignore_infra_penalty": false,
+		"infravision": true,
+		"range": 12,
+		"threesixty": false
+	},
+	"stamina": {
+		"fatigue": 100,
+		"stamina": 100,
+		"stamina_regen": 0.0
+	},
+	"statistics": {
+		"dexterity": [
+			16,
+			20
+		],
+		"endurance": [
+			42,
+			47
+		],
+		"intelligence": [
+			8,
+			11
+		],
+		"strength": [
+			45,
+			52
+		],
+		"willpower": [
+			16,
+			20
+		]
+	},
+	"tags": [
+		"9"
+	]
+}

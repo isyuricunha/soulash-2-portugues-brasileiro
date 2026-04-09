@@ -1,0 +1,35 @@
+{
+	"components": [
+		"glyph",
+		"liquid_source",
+		"minimap_pixel",
+		"name",
+		"position_2d"
+	],
+	"description": "Water is frozen in mid-flow. You can see a little fish suspended in ice.",
+	"glyph": {
+		"frames": [
+			{
+				"color": [
+					255,
+					255,
+					255
+				],
+				"delay": 0,
+				"index": 2869
+			}
+		],
+		"random_frame_start": true
+	},
+	"id": "core_2_Frozen_Fountain",
+	"liquid_source": {
+		"limit": -1,
+		"type": 1
+	},
+	"minimap_pixel": [
+		42,
+		122,
+		150
+	],
+	"name": "Frozen Fountain"
+}

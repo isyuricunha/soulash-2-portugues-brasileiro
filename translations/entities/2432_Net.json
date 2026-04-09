@@ -1,0 +1,60 @@
+{
+	"components": [
+		"craftable",
+		"glyph",
+		"item",
+		"minimap_pixel",
+		"name",
+		"position_2d",
+		"stackable",
+		"usable",
+		"value",
+		"weight"
+	],
+	"craftable": {
+		"magic_slots": 0,
+		"resource_types": [
+			{
+				"amount": 1,
+				"id": 4
+			}
+		],
+		"resources": null,
+		"time": 10,
+		"tools": [
+			14
+		]
+	},
+	"description": "This sturdy net ensnares foes with ruthless efficiency, leaving them helplessly entwined in its unforgiving grasp.",
+	"glyph": {
+		"frames": [
+			{
+				"color": [
+					255,
+					255,
+					255
+				],
+				"delay": 0,
+				"index": 111
+			}
+		],
+		"random_frame_start": false
+	},
+	"id": "2432",
+	"item": {
+		"image": 618,
+		"type": 17
+	},
+	"minimap_pixel": [
+		200,
+		200,
+		200
+	],
+	"name": "Net",
+	"usable": {
+		"ability": "129",
+		"recipe": ""
+	},
+	"value": 900,
+	"weight": 0.30000001192092896
+}

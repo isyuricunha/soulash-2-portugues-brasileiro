@@ -1,0 +1,66 @@
+{
+	"armor": {
+		"acid": 0,
+		"death": 2,
+		"electricity": 0,
+		"fire": 0,
+		"frost": 0,
+		"holy": 2,
+		"parry": 0,
+		"physical": 3,
+		"poison": 0
+	},
+	"components": [
+		"armor",
+		"craftable",
+		"glyph",
+		"item",
+		"minimap_pixel",
+		"name",
+		"position_2d",
+		"value",
+		"weight"
+	],
+	"craftable": {
+		"magic_slots": 3,
+		"resource_types": [
+			{
+				"amount": 3,
+				"id": 1
+			}
+		],
+		"resources": null,
+		"time": 90,
+		"tools": [
+			1
+		]
+	},
+	"description": "Multiple iron rings linked together to form these pants. The pair is heavy but offers good protection.",
+	"glyph": {
+		"frames": [
+			{
+				"color": [
+					255,
+					255,
+					255
+				],
+				"delay": 0,
+				"index": 642
+			}
+		],
+		"random_frame_start": false
+	},
+	"id": "571",
+	"item": {
+		"image": 179,
+		"type": 7
+	},
+	"minimap_pixel": [
+		156,
+		160,
+		161
+	],
+	"name": "Chainmail Pants",
+	"value": 2000,
+	"weight": 3.0
+}

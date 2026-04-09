@@ -1,0 +1,46 @@
+{
+	"components": [
+		"food",
+		"glyph",
+		"item",
+		"minimap_pixel",
+		"name",
+		"position_2d",
+		"stackable",
+		"value",
+		"weight"
+	],
+	"description": "Delicious, hot potato. ",
+	"food": {
+		"nutrition": 15,
+		"on_eat": "",
+		"raw": false
+	},
+	"glyph": {
+		"frames": [
+			{
+				"color": [
+					255,
+					255,
+					255
+				],
+				"delay": 0,
+				"index": 2998
+			}
+		],
+		"random_frame_start": false
+	},
+	"id": "core_2_Baked_Potato",
+	"item": {
+		"image": 1382,
+		"type": 20
+	},
+	"minimap_pixel": [
+		237,
+		145,
+		33
+	],
+	"name": "Baked Potato",
+	"value": 200,
+	"weight": 0.10000000149011612
+}

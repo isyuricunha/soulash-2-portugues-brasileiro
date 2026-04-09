@@ -1,0 +1,16 @@
+{
+	"id": "core_2_reinvigorating_smell",
+	"name": "Reinvigorating Smell",
+	"requirements": {
+		"milestones": [],
+		"skill": 40
+	},
+	"rewards": [
+		{
+			"passive": "core_2_reinvigorating_smell"
+		}
+	],
+	"skill_id": "core_2_pyromancy",
+	"steps": [],
+	"steps_type": 0
+}

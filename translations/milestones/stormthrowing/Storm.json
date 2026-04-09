@@ -1,0 +1,16 @@
+{
+	"id": "core_2_storm",
+	"name": "Storm",
+	"requirements": {
+		"milestones": [],
+		"skill": 48
+	},
+	"rewards": [
+		{
+			"ability": "63"
+		}
+	],
+	"skill_id": "core_2_stormthrowing",
+	"steps": [],
+	"steps_type": 0
+}

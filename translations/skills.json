@@ -1,0 +1,685 @@
+[
+    {
+        "id": "core_2_adventuring",
+        "name": "Adventuring",
+        "image": 0,
+        "description": "Adventuring is all about exploring the world, uncovering places long forsaken, and discovering artifacts of past civilizations. It's a path for fearless explorers undertaking bold voyages into the unknown.\n\nYou can train this skill by crafting, discovering points of interest or resources.",
+        "exp_sources": [ 
+            {
+                "id": "craft",
+                "rate": 1
+            },
+            {
+                "id": "resource_discovery",
+                "rate": 3
+            },
+            {
+                "id": "location_discovery",
+                "rate": 5
+            },
+            {
+                "id": "location_details_discovery",
+                "rate": 10
+            }
+        ],
+        "starting_gear": [
+            { "first": { "id": "70", "amount": 1 }, "second": { "id": "111", "amount": 1 } },
+            { "first": { "id": "346", "amount": 1 }, "second": { "id": "585", "amount": 1 } }
+        ],
+        "stat_points": [
+            21, 26, 28, 31, 35, 37, 39, 43, 46, 49
+        ],
+        "difficulty": 0
+    },
+    {
+        "id": "core_2_agriculture",
+        "name": "Agriculture",
+        "image": 20,
+        "description": "Agriculture is the art of growing crops, rising livestock and using those resources to make tasty food, sometimes with surprising qualities. It's the easiest way to make sure that you will always be full.\n\nYou can train this skill by planting crops, crafting tasty dishes, harvesting, threshing, milking cows or goats and shearing sheep.",
+        "exp_sources": [ 
+            {
+                "id": "craft",
+                "rate": 2
+            },
+            {
+                "id": "production",
+                "rate": 2,
+                "production_action": "6"
+            },
+            {
+                "id": "production",
+                "rate": 1,
+                "production_action": "7"
+            },
+            {
+                "id": "production",
+                "rate": 1,
+                "production_action": "11"
+            },
+            {
+                "id": "production",
+                "rate": 1,
+                "production_action": "core_2_shear"
+            }
+        ],
+        "starting_gear": [
+            { "first": { "id": "72", "amount": 1 }, "second": { "id": "3066", "amount": 1 } },
+            { "first": { "id": "693", "amount": 1 }, "second": { "id": "800", "amount": 10 } },
+            { "first": { "id": "3100", "amount": 4 }, "second": { "id": "3046", "amount": 4 } }
+        ],
+        "stat_points": [
+            2, 4, 5, 7, 8, 10, 11, 13, 14, 16, 17, 19, 20, 22, 23, 25, 26, 28, 29
+        ]
+    },
+     {
+        "id": "core_2_alchemy",
+        "name": "Alchemy",
+        "image": 25,
+        "description": "Alchemist are people who mix together seemingly random ingredients and get surprising results. By combining precise measurements of natural components with arcane processes, the alchemist can transmute raw materials into substances with unique properties. Often explosive.\n\nYou can train this skill by carving resources from corpses, or crafting and salvaging products of Alchemy.",
+        "exp_sources": [
+            {
+                "id": "craft",
+                "rate": 2
+            },
+            {
+                "id": "carve",
+                "rate": 2
+            },
+            {
+                "id": "salvage",
+                "rate": 1
+            }
+        ],
+        "starting_gear": [
+            { "first": { "id": "835", "amount": 10 }, "second": { "id": "core_2_Exploding_Bomb", "amount": 5 } },
+            { "first": { "id": "2446", "amount": 2 }, "second": { "id": "core_2_Poisonous_Parsley", "amount": 2 } }
+        ],
+        "stat_points": [
+            2, 4, 5, 7, 8, 10, 11, 13, 14, 16, 17, 19, 20, 22, 23, 25, 26, 28, 29, 31, 33, 35, 37, 39, 41, 43, 45, 47, 49
+        ],
+        "start_level": 1,
+        "difficulty": 2
+    },
+    {
+        "id": "core_2_armorsmith",
+        "name": "Armorsmithing",
+        "image": 11,
+        "description": "Armorsmithing is the ability to bend metal into invulnerable and stunning pieces of protection. While standing near a blazing hot forge, you'll be making armor pieces, and shields like the world has never seen before. A stronger main hand comes as a hefty bonus.\n\nYou can train this skill by crafting, upgrading or salvaging armor pieces.",
+        "exp_sources": [
+            {
+                "id": "craft",
+                "rate": 1
+            },
+            {
+                "id": "upgrade_item",
+                "rate": 1
+            },
+            {
+                "id": "salvage",
+                "rate": 2
+            }
+        ],
+        "starting_gear": [
+            { "first": { "id": "151", "amount": 1 }, "second": { "id": "669", "amount": 1 } }
+        ],
+        "stat_points": [
+            2, 4, 5, 7, 8, 10, 11, 13, 14, 16, 17, 19, 20, 22, 23, 25, 26, 28, 29, 31, 33, 35, 37, 39, 41, 43, 45, 47, 49
+        ],
+        "start_level": 1
+    },
+    {
+        "id": "core_2_athletics",
+        "name": "Athletics",
+        "image": 7,
+        "description": "Athletics is a path towards limit-breaking physical prowess. It requires tremendous discipline and a burning desire to be better than everyone else. Experts in the field run faster, jump higher, throw further and withstand more pain.\n\nYou can train this skill by using abilities, dragging (at least weight 40 objects, up to level 5), throwing, climbing, jumping down from height, and walking.",
+        "exp_sources": [
+            {
+                "id": "ability",
+                "rate": 2
+            },
+            {
+                "id": "drag",
+                "rate": 1,
+                "max_level": 5
+            },
+            {
+                "id": "throw",
+                "rate": 3
+            },
+            {
+                "id": "climb",
+                "rate": 2
+            },
+            {
+                "id": "jump_down",
+                "rate": 2
+            },
+            {
+                "id": "walk",
+                "rate": 1,
+                "max_level": 10
+            }
+        ],
+        "stat_points": [
+            2, 4, 5, 7, 8, 10, 11, 13, 14, 16, 17, 19, 20, 22, 23, 25, 26, 28, 29, 31, 33, 35, 37, 39, 41, 43, 45, 47, 49
+        ],
+        "difficulty": 0
+    },
+    {
+        "id": "core_2_axe_fighting",
+        "name": "Axe Fighting",
+        "image": 5,
+        "description": "Mastery of the axe is for the thoughest and the most brutal of warriors, as proper wielding requires an extraordinary strength. In the right hands, these weapons can do the most devastating damage of all types of melee weapons.\n\nYou can train this skill by using abilities and attacking with axes.",
+        "combat_skill": true,
+        "exp_sources": [
+            {
+                "id": "attack",
+                "weapon_type": 0,
+                "rate": 1
+            },
+            {
+                "id": "ability",
+                "rate": 2
+            }
+        ],
+        "weapon_type": 0,
+        "starting_gear": [
+            { "first": { "id": "2185", "amount": 1 }, "second": { "id": "108", "amount": 1 } }
+        ],
+        "stat_points": [
+            2, 4, 5, 7, 8, 10, 11, 13, 14, 16, 17, 19, 20, 22, 23, 25, 26, 28, 29, 31, 33, 35, 37, 39, 41, 43, 45, 47, 49
+        ],
+        "difficulty": 0
+    },
+     {
+        "id": "core_2_divine_fists",
+        "name": "Divine Fists",
+        "image": 26,
+        "description": "Your fists become a beacon of celestial might, pummeling foes with escalating, sanctified force that shines brighter the longer you fight. Unleash a torrent of divine wrath with glove or knuckle weapons, infusing each strike with radiant holy damage.\n\nYou can train this skill by using abilities and attacking unarmed.",
+        "combat_skill": true,
+        "exp_sources": [
+            {
+                "id": "attack",
+                "weapon_type": 6,
+                "rate": 1
+            },
+            {
+                "id": "ability",
+                "rate": 2
+            }
+        ],
+        "weapon_type": 6,
+        "starting_gear": [
+            { "first": { "id": "core_2_Knuckle_Wrap", "amount": 1 } }
+        ],
+        "stat_points": [
+            2, 4, 5, 7, 8, 10, 11, 13, 14, 16, 17, 19, 20, 22, 23, 25, 26, 28, 29, 31, 33, 35, 37, 39, 41, 43, 45, 47, 49
+        ],
+        "difficulty": 2
+    },
+    {
+        "id": "core_2_carpentry",
+        "name": "Carpentry",
+        "image": 12,
+        "description": "Carpentry is the craft of making big pieces of wood smaller and nailing them together to create a lasting value in the form of a furniture, bow, shield, or wood-based building.\n\nYou can train this skill by crafting, upgrading or salvaging wooden equipment and building wooden structures.",
+        "exp_sources": [
+            {
+                "id": "craft",
+                "rate": 1
+            },
+            {
+                "id": "upgrade_item",
+                "rate": 1
+            },
+            {
+                "id": "salvage",
+                "rate": 1
+            }
+        ],
+        "starting_gear": [
+            { "first": { "id": "690", "amount": 1 }, "second": { "id": "108", "amount": 1 } }
+        ],
+        "stat_points": [
+            2, 4, 5, 7, 8, 10, 11, 13, 14, 16, 17, 19, 20, 22, 23, 25, 26, 28, 29, 31, 33, 35, 37, 39, 41, 43, 45, 47, 49
+        ],
+        "start_level": 1
+    },
+    {
+        "id": "core_2_construction",
+        "name": "Construction",
+        "image": 15,
+        "description": "Construction enables the creation of stone and metal-based structures in the world. It is a path for those who wish to leave a legacy that will remain for many generations.\n\nYou can train this skill by claiming a region and building structures.",
+        "exp_sources": [
+            {
+                "id": "craft",
+                "rate": 1
+            },
+            {
+                "id": "settle",
+                "rate": 42,
+                "max_level": 1
+            }
+        ],
+        "starting_gear": [
+            { "first": { "id": "151", "amount": 1 } }
+        ],
+        "stat_points": [
+            2, 4, 5, 7, 8, 10, 11, 13, 14, 16, 17, 19, 20, 22, 23, 25, 26, 28, 29, 31, 33, 35, 37, 39, 41, 43, 45, 47, 49
+        ]
+    },
+    {
+        "id": "core_2_cryomancy",
+        "name": "Cryomancy",
+        "image": 17,
+        "description": "Cryomancy is a magical power that manipulates water and its temperature. While adepts of this magic are known for encompassing their opponents in frozen tombs, many use it to control water flow or even cause rain.\n\nYou can train this skill by using abilities.",
+        "combat_skill": true,
+        "exp_sources": [
+            {
+                "id": "ability",
+                "rate": 2
+            }
+        ],
+        "stat_points": [
+            2, 4, 5, 7, 8, 10, 11, 13, 14, 16, 17, 19, 20, 22, 23, 25, 26, 28, 29, 31, 33, 35, 37, 39, 41, 43, 45, 47, 49
+        ],
+        "difficulty": 2
+    },
+    {
+        "id": "core_2_floromancy",
+        "name": "Floromancy",
+        "image": 23,
+        "description": "Floromancy is a mystical practice deeply rooted in the essence of nature. Practitioners of floromancy, known as floromancers, harness the inherent power of plants and vegetation to wield magic that is both beautiful and deadly.\n\nYou can train this skill by using abilities.",
+        "combat_skill": true,
+        "exp_sources": [
+            {
+                "id": "ability",
+                "rate": 2
+            },
+            {
+                "id": "production",
+                "rate": 2,
+                "production_action": "core_2_woodbend"
+            }
+        ],
+        "stat_points": [
+            2, 4, 5, 7, 8, 10, 11, 13, 14, 16, 17, 19, 20, 22, 23, 25, 26, 28, 29, 31, 33, 35, 37, 39, 41, 43, 45, 47, 49
+        ]
+    },
+    {
+        "id": "core_2_hunting",
+        "name": "Hunting",
+        "image": 16,
+        "description": "Hunting allows you to track your prey with precision, unleash deadly volleys with bow or crossbow, and forge bonds with animal companions.\n\nYou can train this skill by using abilities and attacking with bows and crossbows.",
+        "weapon_type": 5,
+        "exp_sources": [
+            {
+                "id": "attack",
+                "weapon_type": 5,
+                "rate": 1
+            },
+            {
+                "id": "attack",
+                "weapon_type": 7,
+                "rate": 1
+            },
+            {
+                "id": "ability",
+                "rate": 2
+            },
+            {
+                "id": "track",
+                "rate": 1
+            },
+            {
+                "id": "take_control",
+                "control_action": "core_2_tame",
+                "rate": 20
+            },
+            {
+                "id": "pet",
+                "rate": 1
+            }
+        ],
+        "combat_skill": true,
+        "starting_gear": [
+            { "first": { "id": "102", "amount": 1 } },
+            { "first": { "id": "194", "amount": 20 } }
+        ],
+        "stat_points": [
+            2, 4, 5, 7, 8, 10, 11, 13, 14, 16, 17, 19, 20, 22, 23, 25, 26, 28, 29, 31, 33, 35, 37, 39, 41, 43, 45, 47, 49
+        ],
+        "difficulty": 0
+    },
+    {
+        "id": "core_2_imbuing",
+        "name": "Imbuing",
+        "image": 22,
+        "description": "This mystical skill intertwines the artistry of jewelry making with the arcane craft of brewing magical ingredients. Masters of this skill possess a deep understanding of both the physical and metaphysical properties of materials, allowing them to infuse their creations with enchantments that range from enhancing beauty to bestowing protective charms.\n\nYou can train this skill by crafting, upgrading or salvaging some jewelery and magic ingredients.",
+        "exp_sources": [
+            {
+                "id": "craft",
+                "rate": 1
+            },
+            {
+                "id": "upgrade_item",
+                "rate": 1
+            },
+            {
+                "id": "salvage",
+                "rate": 2
+            }
+        ],
+        "stat_points": [
+            2, 4, 5, 7, 8, 10, 11, 13, 14, 16, 17, 19, 20, 22, 23, 25, 26, 28, 29, 31, 33, 35, 37, 39, 41, 43, 45, 47, 49
+        ],
+        "start_level": 1
+    },
+    {
+        "id": "core_2_leadership",
+        "name": "Leadership",
+        "image": 21,
+        "description": "Leadership is your weapon, empowering those around you. Your strategic guidance unlocks their potential, and together you forge a formidable force able to overcome any danger.\n\nYou can train this skill by giving orders to your companions, when your companions defeat enemies, or when they finish building structures.",
+        "exp_sources": [
+            {
+                "id": "order",
+                "rate": 2
+            },
+            {
+                "id": "companion_kill",
+                "rate": 3
+            },
+            {
+                "id": "companion_build",
+                "rate": 2
+            }
+        ],
+        "starting_gear": [
+        ],
+        "stat_points": [
+            2, 4, 5, 7, 8, 10, 11, 13, 14, 16, 17, 19, 20, 22, 23, 25, 26, 28, 29
+        ]
+    },
+    {
+        "id": "core_2_leatherworking",
+        "name": "Leatherworking",
+        "image": 9,
+        "description": "Leatherworking utilizes furs and leathers of dead things to create extra layers of protection against weather conditions or physical harm as clothing or armor. Even though metal offers better defense, leather is cheaper and doesn't reduce reflexes making it ideal for agile characters.\n\nYou can train this skill by crafting, upgrading or salvaging armor pieces.",
+        "exp_sources": [
+            {
+                "id": "craft",
+                "rate": 1
+            },
+            {
+                "id": "upgrade_item",
+                "rate": 1
+            },
+            {
+                "id": "salvage",
+                "rate": 2
+            }
+        ],
+        "starting_gear": [
+            { "first": { "id": "164", "amount": 1 }, "second": { "id": "165", "amount": 1 } }
+        ],
+        "stat_points": [
+            2, 4, 5, 7, 8, 10, 11, 13, 14, 16, 17, 19, 20, 22, 23, 25, 26, 28, 29, 31, 33, 35, 37, 39, 41, 43, 45, 47, 49
+        ],
+        "start_level": 1
+    },
+    {
+        "id": "core_2_mace_fighting",
+        "name": "Mace Fighting",
+        "image": 6,
+        "description": "It may not be possible to decapitate an opponent with a mace or a hammer, but popping someone's head like a watermelon is probably the next best thing. The specialty of mace fighting is control of the battlefield, as the users focus on disrupting the enemy's actions.\n\nYou can train this skill by using abilities and attacking with maces.",
+        "combat_skill": true,
+        "exp_sources": [
+            {
+                "id": "attack",
+                "weapon_type": 2,
+                "rate": 1
+            },
+            {
+                "id": "ability",
+                "rate": 2
+            }
+        ],
+        "weapon_type": 2,
+        "starting_gear": [
+            { "first": { "id": "151", "amount": 1 }, "second": { "id": "774", "amount": 1 } }
+        ],
+        "stat_points": [
+            2, 4, 5, 7, 8, 10, 11, 13, 14, 16, 17, 19, 20, 22, 23, 25, 26, 28, 29, 31, 33, 35, 37, 39, 41, 43, 45, 47, 49
+        ],
+        "difficulty": 0
+    },
+    {
+        "id": "core_2_necromancy",
+        "name": "Necromancy",
+        "image": 1,
+        "description": "Necromancy is the magical art of communing with the dead. It's dangerous and corrupts its practitioners' mind and soul. Most mortals fear death, but not as much as they fear the beings willing to go to any lengths to defy it. This path is not often chosen by those seeking devastating destructive powers, as most individuals desire it not to cause harm to others but to prolong their life or recover a lost loved one. That is until their grief and lust for knowledge consume them entirely.\n\nYou can train this skill by using abilities, corrupting souls, and taking control of undead creatures.",
+        "combat_skill": true,
+        "exp_sources": [
+            {
+                "id": "ability",
+                "rate": 2
+            },
+            {
+                "id": "craft",
+                "rate": 4
+            },
+            {
+                "id": "take_control",
+                "control_action": "core_2_control_undead",
+                "rate": 20
+            }
+        ],
+        "stat_points": [
+            2, 4, 5, 7, 8, 10, 11, 13, 14, 16, 17, 19, 20, 22, 23, 25, 26, 28, 29, 31, 33, 35, 37, 39, 41, 43, 45, 47, 49
+        ],
+        "difficulty": 2
+    },
+    {
+        "id": "core_2_pole_fighting",
+        "name": "Pole Fighting",
+        "image": 13,
+        "description": "Riders are not a problem if they charge directly at a prepared pike. Your opponents can't make a sword slash attack against you if you keep them at the tip of your long spear. Polearms can be a great addition to any warrior's arsenal, as they focus on benefits of range and positioning.\n\nYou can train this skill by using abilities and attacking with polearms.",
+        "weapon_type": 4,
+        "exp_sources": [
+            {
+                "id": "attack",
+                "weapon_type": 4,
+                "rate": 1
+            },
+            {
+                "id": "ability",
+                "rate": 2
+            }
+        ],
+        "combat_skill": true,
+        "starting_gear": [
+            { "first": { "id": "96", "amount": 1 }, "second": { "id": "97", "amount": 1 } }
+        ],
+        "stat_points": [
+            2, 4, 5, 7, 8, 10, 11, 13, 14, 16, 17, 19, 20, 22, 23, 25, 26, 28, 29, 31, 33, 35, 37, 39, 41, 43, 45, 47, 49
+        ]
+    },
+    {
+        "id": "core_2_protection",
+        "name": "Protection",
+        "image": 3,
+        "description": "Protection is a skill focused entirely on one single goal - not dying. Whether you want to nimbly dodge attacks or use a bulky shield to cover yourself, this is the path to becoming an old veteran one day.\n\nYou can train this skill by using abilities and parrying with a shield equipped.",
+        "combat_skill": true,
+        "exp_sources": [
+            {
+                "id": "parry",
+                "rate": 1
+            },
+            {
+                "id": "ability",
+                "rate": 2
+            }
+        ],
+        "starting_gear": [
+            { "first": { "id": "168", "amount": 1 }, "second": { "id": "401", "amount": 1 } }
+        ],
+        "stat_points": [
+            2, 4, 5, 7, 8, 10, 11, 13, 14, 16, 17, 19, 20, 22, 23, 25, 26, 28, 29, 31, 33, 35, 37, 39, 41, 43, 45, 47, 49
+        ],
+        "difficulty": 0
+    },
+    {
+        "id": "core_2_pyromancy",
+        "name": "Pyromancy",
+        "image": 2,
+        "description": "Pyromancy is one of the schools of magic that focuses on the devastating power of fire and extremely high temperatures. It's a path for people who want to see the world burn and their enemies turn to ash.\n\nYou can train this skill by using abilities.",
+        "combat_skill": true,
+        "exp_sources": [
+            {
+                "id": "ability",
+                "rate": 2
+            }
+        ],
+        "stat_points": [
+            2, 4, 5, 7, 8, 10, 11, 13, 14, 16, 17, 19, 20, 22, 23, 25, 26, 28, 29, 31, 33, 35, 37, 39, 41, 43, 45, 47, 49
+        ],
+        "difficulty": 2
+    },
+    {
+        "id": "core_2_stormthrowing",
+        "name": "Stormthrowing",
+        "image": 24,
+        "description": "Stormthrowing fuses expert weapon throwing with electrifying magic. Perfect for combatants seeking a blend of ranged physical attacks and elemental magic. This deadly combination makes them formidable foes on the battlefield.\n\nYou can train this skill by attacking with throwing weapons and by using abilities.",
+        "combat_skill": true,
+        "exp_sources": [
+            {
+                "id": "attack",
+                "weapon_type": 11,
+                "rate": 1
+            },
+            {
+                "id": "ability",
+                "rate": 2
+            }
+        ],
+        "starting_gear": [
+            { "first": { "id": "2468", "amount": 20 }, "second": { "id": "core_2_Bone_Throwing_Axe", "amount": 4 } }
+        ],
+        "stat_points": [
+            2, 4, 5, 7, 8, 10, 11, 13, 14, 16, 17, 19, 20, 22, 23, 25, 26, 28, 29, 31, 33, 35, 37, 39, 41, 43, 45, 47, 49
+        ],
+        "difficulty": 2
+    },
+    {
+        "id": "core_2_sword_fighting",
+        "name": "Sword Fighting",
+        "image": 4,
+        "description": "Swords are the most common and versatile weapons. They are light, fast, and well-balanced. Mastery of the blade comes with advantages in hit chance, counterattacks, and causing devastating bleed attacks.\n\nYou can train this skill by using abilities and attacking with swords.",
+        "weapon_type": 1,
+        "exp_sources": [
+            {
+                "id": "attack",
+                "weapon_type": 1,
+                "rate": 1
+            },
+            {
+                "id": "ability",
+                "rate": 2
+            }
+        ],
+        "combat_skill": true,
+        "starting_gear": [
+            { "first": { "id": "77", "amount": 1 } }
+        ],
+        "stat_points": [
+            2, 4, 5, 7, 8, 10, 11, 13, 14, 16, 17, 19, 20, 22, 23, 25, 26, 28, 29, 31, 33, 35, 37, 39, 41, 43, 45, 47, 49
+        ],
+        "difficulty": 0
+    },
+    {
+        "id": "core_2_tailoring",
+        "name": "Tailoring",
+        "image": 8,
+        "description": "Tailoring is the craft of making clothes from natural fibers. Whether stylish, fearsome, or funny, you too can become a decoration for a new hat. Most clothes offer limited to no physical protection but are light and don't restrict movement.\n\nYou can train this skill by crafting, upgrading or salvaging clothes.",
+        "exp_sources": [
+            {
+                "id": "craft",
+                "rate": 1
+            },
+            {
+                "id": "upgrade_item",
+                "rate": 1
+            },
+            {
+                "id": "salvage",
+                "rate": 2
+            }
+        ],
+        "starting_gear": [
+            { "first": { "id": "164", "amount": 1 }, "second": { "id": "709", "amount": 1 } }
+        ],
+        "stat_points": [
+            2, 4, 5, 7, 8, 10, 11, 13, 14, 16, 17, 19, 20, 22, 23, 25, 26, 28, 29, 31, 33, 35, 37, 39, 41, 43, 45, 47, 49
+        ],
+        "start_level": 1
+    },
+    {
+        "id": "core_2_thievery",
+        "name": "Thievery",
+        "image": 14,
+        "description": "Thievery is the art of taking what doesn't yet belong to you. Depending on the practitioner's wit, it can be a path toward incredible wealth or a noose around the neck. This skill is also associated with the mastery of daggers.\n\nYou can train this skill by using abilities and attacking with daggers, as well as pickpocketing people or robbing families.",
+        "weapon_type": 3,
+        "exp_sources": [
+            {
+                "id": "attack",
+                "weapon_type": 3,
+                "rate": 1
+            },
+            {
+                "id": "pickpocket",
+                "rate": 5
+            },
+            {
+                "id": "rob",
+                "rate": 10
+            },
+            {
+                "id": "ability",
+                "rate": 2
+            }
+        ],
+        "combat_skill": true,
+        "starting_gear": [
+            { "first": { "id": "71", "amount": 1 }, "second": { "id": "70", "amount": 1 } }
+        ],
+        "stat_points": [
+            2, 4, 5, 7, 8, 10, 11, 13, 14, 16, 17, 19, 20, 22, 23, 25, 26, 28, 29, 31, 33, 35, 37, 39, 41, 43, 45, 47, 49
+        ]
+    },
+    {
+        "id": "core_2_weaponsmith",
+        "name": "Weaponsmithing",
+        "image": 10,
+        "description": "The only thing better than standing all day near a blazing hot forge assembling armors is to stand in the same spot crafting weapons. Whether you need a sharp sword, a pointy dagger, a mighty axe, or a massive hammer to compensate for something, a weaponsmith will get you the good stuff.\n\nYou can train this skill by crafting, upgrading or salvaging weapons.",
+        "exp_sources": [
+            {
+                "id": "craft",
+                "rate": 1
+            },
+            {
+                "id": "upgrade_item",
+                "rate": 1
+            },
+            {
+                "id": "salvage",
+                "rate": 2
+            }
+        ],
+        "starting_gear": [
+            { "first": { "id": "151", "amount": 1 }, "second": { "id": "686", "amount": 1 } }
+        ],
+        "stat_points": [
+            2, 4, 5, 7, 8, 10, 11, 13, 14, 16, 17, 19, 20, 22, 23, 25, 26, 28, 29, 31, 33, 35, 37, 39, 41, 43, 45, 47, 49
+        ],
+        "start_level": 1
+    }
+]

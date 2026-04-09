@@ -1,0 +1,15 @@
+{
+	"id": "core_2_high_heels",
+	"name": "High Heels",
+	"requirements": {
+		"skill": 30
+	},
+	"rewards": [
+		{
+			"recipe": "575"
+		}
+	],
+	"skill_id": "core_2_leatherworking",
+	"steps": [],
+	"steps_type": 0
+}

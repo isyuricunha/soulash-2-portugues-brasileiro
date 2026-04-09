@@ -1,0 +1,15 @@
+{
+	"id": "core_2_make_them_weak",
+	"name": "Make Them Weak",
+	"requirements": {
+		"skill": 42
+	},
+	"rewards": [
+		{
+			"amplifier": "core_2_make_them_weak"
+		}
+	],
+	"skill_id": "core_2_hunting",
+	"steps": [],
+	"steps_type": 0
+}

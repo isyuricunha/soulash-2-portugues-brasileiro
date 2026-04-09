@@ -1,0 +1,66 @@
+{
+	"armor": {
+		"acid": 3,
+		"death": 0,
+		"electricity": 0,
+		"fire": 0,
+		"frost": 0,
+		"holy": 0,
+		"parry": 0,
+		"physical": 0,
+		"poison": 3
+	},
+	"components": [
+		"armor",
+		"craftable",
+		"glyph",
+		"item",
+		"minimap_pixel",
+		"name",
+		"position_2d",
+		"value",
+		"weight"
+	],
+	"craftable": {
+		"magic_slots": 2,
+		"resource_types": [
+			{
+				"amount": 2,
+				"id": 4
+			}
+		],
+		"resources": null,
+		"time": 60,
+		"tools": [
+			12
+		]
+	},
+	"description": "Protects from wind and dust during travels.",
+	"glyph": {
+		"frames": [
+			{
+				"color": [
+					255,
+					255,
+					255
+				],
+				"delay": 0,
+				"index": 369
+			}
+		],
+		"random_frame_start": false
+	},
+	"id": "186",
+	"item": {
+		"image": 88,
+		"type": 10
+	},
+	"minimap_pixel": [
+		122,
+		93,
+		57
+	],
+	"name": "Cloak",
+	"value": 1800,
+	"weight": 0.800000011920929
+}

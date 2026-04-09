@@ -1,0 +1,74 @@
+{
+	"armor": {
+		"acid": 0,
+		"death": 6,
+		"electricity": 4,
+		"fire": 0,
+		"frost": 0,
+		"holy": 6,
+		"parry": 0,
+		"physical": 0,
+		"poison": 4,
+		"thorns": 0
+	},
+	"components": [
+		"armor",
+		"craftable",
+		"glyph",
+		"item",
+		"minimap_pixel",
+		"name",
+		"position_2d",
+		"sight",
+		"value",
+		"weight"
+	],
+	"craftable": {
+		"magic_slots": 5,
+		"resource_types": [
+			{
+				"amount": 5,
+				"id": 4
+			}
+		],
+		"resources": null,
+		"time": 60,
+		"tools": [
+			12
+		]
+	},
+	"description": "A hood made up of a myriad of eyes in all kinds of shapes and sizes, entangled by their optical nerves. Blinking, looking around, they seem very much alive.",
+	"glyph": {
+		"frames": [
+			{
+				"color": [
+					255,
+					255,
+					255
+				],
+				"delay": 0,
+				"index": 362
+			}
+		],
+		"random_frame_start": false
+	},
+	"id": "1097",
+	"item": {
+		"image": 438,
+		"type": 2
+	},
+	"minimap_pixel": [
+		175,
+		175,
+		175
+	],
+	"name": "Hood of a Thousand Eyes",
+	"sight": {
+		"ignore_infra_penalty": false,
+		"infravision": false,
+		"range": 0,
+		"threesixty": true
+	},
+	"value": 20000,
+	"weight": 0.5
+}

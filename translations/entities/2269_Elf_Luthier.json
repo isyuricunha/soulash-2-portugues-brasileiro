@@ -1,0 +1,139 @@
+{
+	"artificial_intelligence": {
+		"allies": [
+			"7"
+		],
+		"allow_production": [],
+		"behaviors": [],
+		"enemies": []
+	},
+	"components": [
+		"actor",
+		"artificial_intelligence",
+		"collidable",
+		"dialogues",
+		"equipment",
+		"experience_gainer",
+		"fighter",
+		"glyph",
+		"health",
+		"humanoid",
+		"minimap_pixel",
+		"moveable",
+		"name",
+		"persona",
+		"position_2d",
+		"sight",
+		"skills",
+		"stamina",
+		"statistics",
+		"tags"
+	],
+	"corpse": "322",
+	"description": "",
+	"dialogues": [
+		"420",
+		"421"
+	],
+	"equipment": {
+		"legs_cloth": [
+			{
+				"chance": 1.0,
+				"id": "323",
+				"name": "Tights",
+				"stack": 1
+			}
+		],
+		"right_hand": [
+			{
+				"chance": 1.0,
+				"id": "2357",
+				"name": "Lute",
+				"stack": 1
+			}
+		]
+	},
+	"experience_gainer": {
+		"exp": 15,
+		"level": 3
+	},
+	"fighter": {
+		"attackNames": null
+	},
+	"glyph": {
+		"frames": [
+			{
+				"color": [
+					255,
+					255,
+					255
+				],
+				"delay": 0,
+				"index": 139
+			}
+		],
+		"random_frame_start": false
+	},
+	"health": 95,
+	"humanoid": {
+		"race": "2"
+	},
+	"id": "2269",
+	"minimap_pixel": [
+		95,
+		105,
+		15
+	],
+	"moveable": {
+		"speed": 1.0
+	},
+	"name": "Elf Luthier",
+	"persona": {
+		"occupation": "Luthier"
+	},
+	"sight": {
+		"ignore_infra_penalty": false,
+		"infravision": false,
+		"range": 12,
+		"threesixty": false
+	},
+	"skills": {
+		"milestones": [
+			"core_2_vanish"
+		],
+		"skills": [
+			"core_2_thievery"
+		]
+	},
+	"stamina": {
+		"fatigue": 100,
+		"stamina": 100,
+		"stamina_regen": 0.0
+	},
+	"statistics": {
+		"dexterity": [
+			24,
+			28
+		],
+		"endurance": [
+			10,
+			14
+		],
+		"intelligence": [
+			10,
+			14
+		],
+		"strength": [
+			10,
+			14
+		],
+		"willpower": [
+			13,
+			17
+		]
+	},
+	"tags": [
+		"7",
+		"9"
+	]
+}

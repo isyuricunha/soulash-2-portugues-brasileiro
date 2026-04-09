@@ -1,0 +1,48 @@
+{
+	"components": [
+		"glyph",
+		"item",
+		"minimap_pixel",
+		"name",
+		"position_2d",
+		"resource",
+		"stackable",
+		"value",
+		"weight"
+	],
+	"description": "Big, yellow fang of a giant lion.",
+	"glyph": {
+		"frames": [
+			{
+				"color": [
+					255,
+					255,
+					255
+				],
+				"delay": 0,
+				"index": 3235
+			}
+		],
+		"random_frame_start": false
+	},
+	"id": "core_2_Giant_Lion_Tooth",
+	"item": {
+		"image": 1494,
+		"type": 16
+	},
+	"minimap_pixel": [
+		210,
+		227,
+		120
+	],
+	"name": "Giant Lion Tooth",
+	"resource": {
+		"affix": "of the Bravery",
+		"granted_passive": "core_2_unique_companion",
+		"magic_ingredient": 5,
+		"quality": 5,
+		"type": 7
+	},
+	"value": 20000,
+	"weight": 0.10000000149011612
+}

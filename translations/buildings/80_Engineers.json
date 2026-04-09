@@ -1,0 +1,50 @@
+{
+	"enables": [
+		"core_2_construction"
+	],
+	"id": "80",
+	"image": 64,
+	"max": 1,
+	"name": "Engineers",
+	"occupation_image": 22,
+	"occupation": "2291",
+	"occupation_per_race": {
+        "0": "core_2_Human_Engineer",
+        "1": "2291",
+        "2": "core_2_Elf_Engineer",
+        "4": "core_2_Goblin_Engineer",
+		"6": "core_2_Vampire_Engineer",
+        "7": "core_2_Troll_Engineer",
+        "8": "core_2_Orc_Engineer",
+        "10": "core_2_Rasimi_Engineer",
+        "23": "core_2_Reptilion_Engineer",
+        "26": "core_2_Bone_Wraith_Engineer",
+        "31": "core_2_Gnoll_Engineer",
+        "32": "core_2_Mushman_Engineer",
+        "33": "core_2_Ursan_Engineer"
+    },
+	"produces": [],
+	"race": "1",
+	"tier": 2,
+	"workers": [
+		1,
+		2
+	],
+	"allow_player": true,
+	"required_entities": [
+		{
+			"entities": ["150", "2254", "core_2_Mush_Anvil"],
+			"count": 1
+		},
+		{
+			"entities": ["155", "2470", "2255", "2411"],
+			"count": 1
+		},
+		{
+			"component": "resting_place",
+			"count": 2
+		}
+	],
+	"min_area": 20,
+	"group": "crafters"
+}

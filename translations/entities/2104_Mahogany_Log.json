@@ -1,0 +1,89 @@
+{
+	"components": [
+		"glyph",
+		"item",
+		"minimap_pixel",
+		"name",
+		"position_2d",
+		"producer",
+		"resource",
+		"stackable",
+		"value",
+		"weight"
+	],
+	"description": "A log is a tree trunk with chopped branches. It can be handy for building things. You might be able to cut it further down to make some wood chunks from it.",
+	"glyph": {
+		"frames": [
+			{
+				"color": [
+					255,
+					255,
+					255
+				],
+				"delay": 0,
+				"index": 141
+			}
+		],
+		"random_frame_start": false
+	},
+	"id": "2104",
+	"item": {
+		"image": 528,
+		"type": 16
+	},
+	"minimap_pixel": [
+		171,
+		102,
+		57
+	],
+	"name": "Mahogany Log",
+	"producer": {
+		"products": {
+			"1": [
+				{
+					"amount": [
+						4,
+						5
+					],
+					"id": "2103",
+					"percent_chance": 100
+				},
+				{
+					"amount": [
+						1,
+						3
+					],
+					"id": "2008",
+					"percent_chance": 25
+				}
+			],
+			"core_2_woodbend": [
+				{
+					"amount": [
+						5,
+						6
+					],
+					"id": "2103",
+					"percent_chance": 100
+				},
+				{
+					"amount": [
+						2,
+						3
+					],
+					"id": "2008",
+					"percent_chance": 30
+				}
+			]
+		},
+		"time": 60
+	},
+	"resource": {
+		"affix": "",
+		"magic_ingredient": 0,
+		"quality": 0,
+		"type": 11
+	},
+	"value": 4000,
+	"weight": 50.0
+}

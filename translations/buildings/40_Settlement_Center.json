@@ -1,0 +1,21 @@
+{
+	"id": "40",
+	"image": 37,
+	"name": "Settlement Center",
+	"produces": [],
+	"race": "0",
+	"workers": [
+		0,
+		0
+	],
+	"max": 1,
+	"allow_player": true,
+	"required_entities": [
+		{
+			"entities": ["37", "32"],
+			"count": 1
+		}
+	],
+	"min_area": 25,
+	"group": "base"
+}

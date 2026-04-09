@@ -1,0 +1,61 @@
+{
+	"components": [
+		"craftable",
+		"glyph",
+		"item",
+		"liquid_source",
+		"minimap_pixel",
+		"name",
+		"position_2d",
+		"stackable",
+		"value",
+		"weight"
+	],
+	"craftable": {
+		"backgrounds": [],
+		"biomes": [],
+		"magic_slots": 0,
+		"resources": [
+			{
+				"amount": 2,
+				"id": "800"
+			}
+		],
+		"time": 1,
+		"tools": [
+			15
+		]
+	},
+	"description": "When I wanna go fishin' the beer is right there with me.",
+	"glyph": {
+		"frames": [
+			{
+				"color": [
+					255,
+					255,
+					255
+				],
+				"delay": 0,
+				"index": 1942
+			}
+		],
+		"random_frame_start": false
+	},
+	"id": "839",
+	"item": {
+		"image": 761,
+		"type": 16
+	},
+	"liquid_source": {
+		"limit": 40,
+		"type": 3
+	},
+	"minimap_pixel": [
+		190,
+		186,
+		83
+	],
+	"name": "Wheat Beer",
+	"value": 1200,
+	"weight": 0.30000001192092896
+}

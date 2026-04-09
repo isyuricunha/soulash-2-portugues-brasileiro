@@ -1,0 +1,16 @@
+{
+	"id": "core_2_paper",
+	"name": "Paper",
+	"requirements": {
+		"milestones": [],
+		"skill": 22
+	},
+	"rewards": [
+		{
+			"recipe": "791"
+		}
+	],
+	"skill_id": "core_2_adventuring",
+	"steps": [],
+	"steps_type": 0
+}

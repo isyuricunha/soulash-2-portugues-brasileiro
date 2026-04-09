@@ -1,0 +1,16 @@
+{
+	"id": "core_2_water_wave",
+	"name": "Water_Wave",
+	"requirements": {
+		"milestones": [],
+		"skill": 27
+	},
+	"rewards": [
+		{
+			"ability": "147"
+		}
+	],
+	"skill_id": "core_2_cryomancy",
+	"steps": [],
+	"steps_type": 0
+}

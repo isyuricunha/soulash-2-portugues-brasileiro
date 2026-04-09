@@ -1,0 +1,60 @@
+{
+	"components": [
+		"glyph",
+		"health",
+		"item",
+		"minimap_pixel",
+		"name",
+		"position_2d",
+		"random_resource",
+		"stackable",
+		"weight"
+	],
+	"corpse": [],
+	"description": "This soft-shelled, white egg looks like a ball.",
+	"glyph": {
+		"frames": [
+			{
+				"color": [
+					255,
+					255,
+					255
+				],
+				"delay": 0,
+				"index": 3164
+			}
+		],
+		"random_frame_start": false
+	},
+	"health": 200,
+	"id": "core_2_Turtle_Egg",
+	"item": {
+		"image": 1462,
+		"type": 17
+	},
+	"minimap_pixel": [
+		201,
+		199,
+		185
+	],
+	"name": "Turtle Egg",
+	"random_resource": {
+		"delay_spawn": true,
+		"entity": [
+			"core_2_Turtle_Hatchling"
+		],
+		"max_amount": 1,
+		"max_distance": 0,
+		"min_amount": 1,
+		"min_distance": 0,
+		"multiply_same": false,
+		"respawn_rate": 50.0,
+		"spawn_at": [
+			"core_2_Turtle_Egg"
+		],
+		"spawn_chance": 100.0,
+		"spawn_multiply": 0.0,
+		"spawn_rolls": 1
+	},
+	"weight": 1.0
+}

@@ -1,0 +1,145 @@
+{
+	"armor": {
+		"acid": 0,
+		"death": 0,
+		"electricity": 0,
+		"fire": 0,
+		"frost": 0,
+		"holy": 0,
+		"parry": 0,
+		"physical": 2,
+		"poison": 1,
+		"thorns": 0
+	},
+	"artificial_intelligence": {
+		"allies": [],
+		"allow_production": [],
+		"behaviors": [],
+		"enemies": [
+			"5"
+		]
+	},
+	"components": [
+		"actor",
+		"armor",
+		"artificial_intelligence",
+		"collidable",
+		"dialogues",
+		"equipment",
+		"experience_gainer",
+		"fighter",
+		"glyph",
+		"health",
+		"humanoid",
+		"minimap_pixel",
+		"moveable",
+		"name",
+		"position_2d",
+		"sight",
+		"stamina",
+		"statistics",
+		"tags"
+	],
+	"corpse": "2080",
+	"description": "Great ape moving around on its fours. Very dangerous when it feels threatened.",
+	"dialogues": [
+		"2",
+		"889"
+	],
+	"equipment": {
+		"disabled_slots": [
+			0,
+			1,
+			3,
+			4,
+			5,
+			6,
+			7,
+			9,
+			10,
+			11,
+			12,
+			13,
+			14,
+			15,
+			16,
+			17,
+			18
+		]
+	},
+	"experience_gainer": {
+		"exp": 0,
+		"level": 10
+	},
+	"fighter": {
+		"attackNames": [
+			"Punch",
+			"Bite"
+		]
+	},
+	"glyph": {
+		"frames": [
+			{
+				"color": [
+					255,
+					255,
+					255
+				],
+				"delay": 0,
+				"index": 116
+			}
+		],
+		"random_frame_start": false
+	},
+	"health": 70,
+	"humanoid": {
+		"race": ""
+	},
+	"id": "2079",
+	"minimap_pixel": [
+		186,
+		135,
+		89
+	],
+	"moveable": {
+		"speed": 1.100000023841858
+	},
+	"name": "Gorilla",
+	"sight": {
+		"ignore_infra_penalty": false,
+		"infravision": false,
+		"range": 6,
+		"threesixty": false
+	},
+	"stamina": {
+		"fatigue": 100,
+		"stamina": 100,
+		"stamina_regen": 0.0
+	},
+	"statistics": {
+		"dexterity": [
+			9,
+			12
+		],
+		"endurance": [
+			10,
+			15
+		],
+		"intelligence": [
+			7,
+			11
+		],
+		"strength": [
+			14,
+			18
+		],
+		"willpower": [
+			14,
+			20
+		]
+	},
+	"tags": [
+		"2",
+		"9"
+	]
+}

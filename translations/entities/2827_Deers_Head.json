@@ -1,0 +1,33 @@
+{
+	"components": [
+		"glyph",
+		"health",
+		"minimap_pixel",
+		"name",
+		"position_2d"
+	],
+	"corpse": "163",
+	"description": "Decorative head of dead deer.",
+	"glyph": {
+		"frames": [
+			{
+				"color": [
+					255,
+					255,
+					255
+				],
+				"delay": 0,
+				"index": 1871
+			}
+		],
+		"random_frame_start": false
+	},
+	"health": 40,
+	"id": "2827",
+	"minimap_pixel": [
+		150,
+		110,
+		42
+	],
+	"name": "Deer's Head"
+}

@@ -1,0 +1,68 @@
+{
+	"armor": {
+		"acid": 0,
+		"death": 0,
+		"electricity": 0,
+		"fire": 3,
+		"frost": 3,
+		"holy": -3,
+		"parry": 0,
+		"physical": 3,
+		"poison": 0,
+		"thorns": 0
+	},
+	"components": [
+		"armor",
+		"craftable",
+		"glyph",
+		"item",
+		"minimap_pixel",
+		"name",
+		"position_2d",
+		"value",
+		"weight"
+	],
+	"craftable": {
+		"backgrounds": [],
+		"biomes": [],
+		"magic_slots": 2,
+		"resource_types": [
+			{
+				"amount": 2,
+				"id": 4
+			}
+		],
+		"time": 60,
+		"tools": [
+			12
+		]
+	},
+	"description": "This cape has a high collar and an elegant red lining.",
+	"glyph": {
+		"frames": [
+			{
+				"color": [
+					255,
+					255,
+					255
+				],
+				"delay": 0,
+				"index": 3115
+			}
+		],
+		"random_frame_start": false
+	},
+	"id": "core_2_Dark_Cape",
+	"item": {
+		"image": 1446,
+		"type": 10
+	},
+	"minimap_pixel": [
+		122,
+		93,
+		57
+	],
+	"name": "Dark Cape",
+	"value": 1900,
+	"weight": 0.800000011920929
+}

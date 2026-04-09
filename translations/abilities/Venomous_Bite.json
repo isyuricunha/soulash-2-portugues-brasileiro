@@ -1,0 +1,26 @@
+{
+	"animation": "core_2_Venomous_bite",
+	"cast_time": 1.0,
+	"cooldown": 5.0,
+	"cost": {
+		"health": 0,
+		"stamina": 3
+	},
+	"description": "Melee attack that deals ::damage ::damage_type damage and applies poison effect for ::poison_effect rounds.",
+	"duration": 0.0,
+	"effects": {
+		"damage": [
+			10,
+			15
+		],
+		"damage_type": "poison",
+		"damage_weapon": 1.5,
+		"poison_effect": 6
+	},
+	"id": "core_2_Venomous_Bite",
+	"image": 788,
+	"name": "Venomous Bite",
+	"range": 1,
+	"skill": "",
+	"target": "health"
+}

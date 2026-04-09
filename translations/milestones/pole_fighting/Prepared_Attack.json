@@ -1,0 +1,16 @@
+{
+	"id": "core_2_prepared_attack",
+	"name": "Prepared Attack",
+	"requirements": {
+		"milestones": [],
+		"skill": 42
+	},
+	"rewards": [
+		{
+			"ability": "core_2_Prepared_Attack"
+		}
+	],
+	"skill_id": "core_2_pole_fighting",
+	"steps": [],
+	"steps_type": 0
+}

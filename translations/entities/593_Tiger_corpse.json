@@ -1,0 +1,68 @@
+{
+	"components": [
+		"glyph",
+		"item",
+		"liquid_source",
+		"minimap_pixel",
+		"name",
+		"position_2d",
+		"producer",
+		"value",
+		"weight"
+	],
+	"description": "The scorched body of a tiger.",
+	"glyph": {
+		"frames": [
+			{
+				"color": [
+					255,
+					255,
+					255
+				],
+				"delay": 0,
+				"index": 156
+			}
+		],
+		"random_frame_start": false
+	},
+	"id": "593",
+	"item": {
+		"image": 213,
+		"type": 18
+	},
+	"liquid_source": {
+		"limit": 60,
+		"type": 4
+	},
+	"minimap_pixel": [
+		203,
+		113,
+		25
+	],
+	"name": "Tiger Corpse",
+	"producer": {
+		"products": {
+			"3": [
+				{
+					"amount": [
+						2,
+						4
+					],
+					"id": "318",
+					"percent_chance": 100
+				},
+				{
+					"amount": [
+						1,
+						1
+					],
+					"id": "2135",
+					"percent_chance": 100
+				}
+			]
+		},
+		"time": 0
+	},
+	"value": 0,
+	"weight": 150.0
+}

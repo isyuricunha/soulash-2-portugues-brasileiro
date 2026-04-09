@@ -1,0 +1,61 @@
+{
+	"components": [
+		"glyph",
+		"item",
+		"minimap_pixel",
+		"name",
+		"position_2d",
+		"producer",
+		"weight"
+	],
+	"description": "The bug's corpse is still slimy but at least no longer moving.",
+	"glyph": {
+		"frames": [
+			{
+				"color": [
+					255,
+					255,
+					255
+				],
+				"delay": 0,
+				"index": 470
+			}
+		],
+		"random_frame_start": false
+	},
+	"id": "2052",
+	"item": {
+		"image": 208,
+		"type": 18
+	},
+	"minimap_pixel": [
+		66,
+		160,
+		5
+	],
+	"name": "Bug Corpse",
+	"producer": {
+		"products": {
+			"3": [
+				{
+					"amount": [
+						1,
+						1
+					],
+					"id": "2149",
+					"percent_chance": 100
+				},
+				{
+					"amount": [
+						1,
+						2
+					],
+					"id": "318",
+					"percent_chance": 100
+				}
+			]
+		},
+		"time": 20
+	},
+	"weight": 10.0
+}

@@ -1,0 +1,55 @@
+{
+	"background": {
+		"color": [
+			119,
+			112,
+			87
+		],
+		"noise": 4,
+		"noise_intensity": 4
+	},
+	"category_id": 1,
+	"components": [
+		"background",
+		"craftable",
+		"glyph",
+		"minimap_pixel",
+		"name"
+	],
+	"craftable": {
+		"magic_slots": 0,
+		"resource_types": [
+			{
+				"amount": 1,
+				"id": 6
+			}
+		],
+		"resources": null,
+		"time": 10,
+		"tools": [
+			6
+		]
+	},
+	"description": "A floor covered in odd patterns.",
+	"glyph": {
+		"frames": [
+			{
+				"color": [
+					255,
+					255,
+					255
+				],
+				"delay": 0,
+				"index": 1818
+			}
+		],
+		"random_frame_start": false
+	},
+	"id": "2762",
+	"minimap_pixel": [
+		58,
+		63,
+		72
+	],
+	"name": "Mosaic Floor"
+}

@@ -1,0 +1,15 @@
+{
+	"id": "core_2_turn_vampire",
+	"name": "Turn Vampire",
+	"requirements": {
+		"skill": 45
+	},
+	"rewards": [
+		{
+			"action": 56
+		}
+	],
+	"skill_id": "core_2_necromancy",
+	"steps": [],
+	"steps_type": 0
+}

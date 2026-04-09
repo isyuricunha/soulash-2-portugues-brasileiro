@@ -1,0 +1,15 @@
+{
+	"id": "core_2_studded_glove",
+	"name": "Studded Glove",
+	"requirements": {
+		"skill": 6
+	},
+	"rewards": [
+		{
+			"recipe": "core_2_Studded_Glove"
+		}
+	],
+	"skill_id": "core_2_leatherworking",
+	"steps": [],
+	"steps_type": 0
+}

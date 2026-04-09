@@ -1,0 +1,21 @@
+{
+	"animation": "",
+	"cast_time": 0.0,
+	"cooldown": 0.0,
+	"cost": {
+		"health": 0,
+		"stamina": 0
+	},
+	"description": "You entered the state of clarity thanks to a tasty Cutlet, giving you bonus ::intelligence Intelligence, and ::willpower Willpower for ::duration turns.",
+	"duration": 600.0,
+	"effects": {
+		"intelligence": 3,
+		"willpower": 3
+	},
+	"id": "core_2_Cutlet_of_Clarity",
+	"image": 472,
+	"name": "Cutlet of Clarity",
+	"range": 0,
+	"skill": "",
+	"target": "self"
+}

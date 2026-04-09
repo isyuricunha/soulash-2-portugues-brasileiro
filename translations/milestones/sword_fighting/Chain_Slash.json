@@ -1,0 +1,15 @@
+{
+	"id": "core_2_chain_slash",
+	"name": "Chain Slash",
+	"requirements": {
+		"skill": 9
+	},
+	"rewards": [
+		{
+			"amplifier": "core_2_chain_2"
+		}
+	],
+	"skill_id": "core_2_sword_fighting",
+	"steps": [],
+	"steps_type": 0
+}

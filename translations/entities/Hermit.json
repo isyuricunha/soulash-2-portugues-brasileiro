@@ -1,0 +1,127 @@
+{
+	"artificial_intelligence": {
+		"allies": [],
+		"allow_production": [],
+		"behaviors": [],
+		"enemies": [
+			"5"
+		]
+	},
+	"components": [
+		"actor",
+		"artificial_intelligence",
+		"collidable",
+		"dialogues",
+		"equipment",
+		"experience_gainer",
+		"fighter",
+		"glyph",
+		"health",
+		"humanoid",
+		"minimap_pixel",
+		"moveable",
+		"name",
+		"position_2d",
+		"sight",
+		"stamina",
+		"statistics",
+		"tags"
+	],
+	"corpse": "25",
+	"description": "",
+	"dialogues": [
+		"932",
+		"933"
+	],
+	"equipment": {
+		"right_hand": [
+			{
+				"chance": 1.0,
+				"id": "core_2_Druidic_Rod",
+				"name": "Druid Rod",
+				"stack": 1
+			}
+		],
+		"torso_cloth": [
+			{
+				"chance": 1.0,
+				"id": "23",
+				"name": "Rags",
+				"stack": 1
+			}
+		]
+	},
+	"experience_gainer": {
+		"exp": 0,
+		"level": 10
+	},
+	"fighter": {
+		"attackNames": null
+	},
+	"gender": "male",
+	"glyph": {
+		"frames": [
+			{
+				"color": [
+					224,
+					172,
+					105
+				],
+				"delay": 0,
+				"index": 159
+			}
+		],
+		"random_frame_start": false
+	},
+	"health": 60,
+	"humanoid": {
+		"race": "0"
+	},
+	"id": "core_2_Hermit",
+	"minimap_pixel": [
+		224,
+		172,
+		105
+	],
+	"moveable": {
+		"speed": 1.0
+	},
+	"name": "Hermit",
+	"sight": {
+		"ignore_infra_penalty": false,
+		"infravision": false,
+		"range": 7,
+		"threesixty": false
+	},
+	"stamina": {
+		"fatigue": 100,
+		"stamina": 100,
+		"stamina_regen": 0.0
+	},
+	"statistics": {
+		"dexterity": [
+			12,
+			14
+		],
+		"endurance": [
+			10,
+			12
+		],
+		"intelligence": [
+			11,
+			11
+		],
+		"strength": [
+			14,
+			18
+		],
+		"willpower": [
+			9,
+			11
+		]
+	},
+	"tags": [
+		"1",
+		"9"
+	]
+}

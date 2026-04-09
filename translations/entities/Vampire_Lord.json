@@ -1,0 +1,169 @@
+{
+	"ability_user": [
+		"102",
+		"104"
+	],
+	"artificial_intelligence": {
+		"allies": [],
+		"allow_production": [],
+		"behaviors": [],
+		"enemies": []
+	},
+	"components": [
+		"ability_user",
+		"actor",
+		"artificial_intelligence",
+		"collidable",
+		"consumer",
+		"dialogues",
+		"equipment",
+		"experience_gainer",
+		"fighter",
+		"glyph",
+		"health",
+		"humanoid",
+		"minimap_pixel",
+		"moveable",
+		"name",
+		"persona",
+		"position_2d",
+		"sight",
+		"skills",
+		"stamina",
+		"statistics",
+		"tags"
+	],
+	"corpse": "core_2_Vampire_Corpse",
+	"description": "",
+	"dialogues": [
+		"1006",
+		"1007"
+	],
+	"equipment": {
+		"cape": [
+			{
+				"chance": 1.0,
+				"id": "769",
+				"name": "Noble Cape",
+				"stack": 1
+			}
+		],
+		"legs_cloth": [
+			{
+				"chance": 1.0,
+				"id": "188",
+				"name": "Leather Pants",
+				"stack": 1
+			}
+		],
+		"right_hand": [
+			{
+				"chance": 1.0,
+				"id": "377",
+				"name": "Dao Sword",
+				"stack": 1
+			}
+		],
+		"torso_armor": [
+			{
+				"chance": 1.0,
+				"id": "398",
+				"name": "Noble Armor",
+				"stack": 1
+			}
+		]
+	},
+	"experience_gainer": {
+		"exp": 10,
+		"level": 4
+	},
+	"fighter": {
+		"attackNames": null
+	},
+	"glyph": {
+		"frames": [
+			{
+				"color": [
+					255,
+					255,
+					255
+				],
+				"delay": 0,
+				"index": 208
+			}
+		],
+		"random_frame_start": false
+	},
+	"health": 2200,
+	"humanoid": {
+		"race": "6"
+	},
+	"id": "core_2_Vampire_Lord",
+	"minimap_pixel": [
+		176,
+		196,
+		222
+	],
+	"moveable": {
+		"speed": 0.300000011920929
+	},
+	"name": "Vampire Lord",
+	"persona": {
+		"occupation": "Lord"
+	},
+	"sight": {
+		"ignore_infra_penalty": true,
+		"infravision": true,
+		"range": 20,
+		"threesixty": false
+	},
+	"skills": {
+		"milestones": [
+			"core_2_climbing",
+			"core_2_drag_drop",
+			"core_2_fast",
+			"core_2_i_can_do_this_all_day",
+			"core_2_bloodlust",
+			"core_2_bleed_it_out",
+			"core_2_blood_is_life",
+			"core_2_bleed_for_me",
+			"core_2_bathe_in_blood"
+		],
+		"skills": [
+			"core_2_athletics",
+			"core_2_sword_fighting"
+		]
+	},
+	"stamina": {
+		"fatigue": 100,
+		"stamina": 100,
+		"stamina_regen": 0.0
+	},
+	"statistics": {
+		"dexterity": [
+			80,
+			85
+		],
+		"endurance": [
+			80,
+			85
+		],
+		"intelligence": [
+			79,
+			82
+		],
+		"strength": [
+			80,
+			85
+		],
+		"willpower": [
+			70,
+			73
+		]
+	},
+	"tags": [
+		"23",
+		"4",
+		"38"
+	]
+}

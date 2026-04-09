@@ -1,0 +1,67 @@
+{
+	"category_id": 7,
+	"components": [
+		"craftable",
+		"glyph",
+		"health",
+		"height",
+		"minimap_pixel",
+		"name",
+		"position_2d"
+	],
+	"corpse": "62",
+	"craftable": {
+		"magic_slots": 0,
+		"resource_types": [
+			{
+				"amount": 2,
+				"id": 3
+			}
+		],
+		"resources": null,
+		"time": 60,
+		"tools": []
+	},
+	"description": "A wooden mannequin used by medieval tailors to design and create clothing, allowing for precise measurements and fittings for garments ranging from simple tunics to ornate gowns.",
+	"glyph": {
+		"frames": [
+			{
+				"color": [
+					255,
+					255,
+					255
+				],
+				"delay": 0,
+				"index": 957
+			},
+			{
+				"color": [
+					255,
+					255,
+					255
+				],
+				"delay": 0,
+				"index": 958
+			},
+			{
+				"color": [
+					255,
+					255,
+					255
+				],
+				"delay": 0,
+				"index": 959
+			}
+		],
+		"random_frame_start": true
+	},
+	"health": 20,
+	"height": 0,
+	"id": "2358",
+	"minimap_pixel": [
+		99,
+		68,
+		24
+	],
+	"name": "Manequin"
+}

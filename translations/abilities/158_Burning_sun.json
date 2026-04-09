@@ -1,0 +1,33 @@
+{
+	"animation": "212",
+	"cast_time": 2.0,
+	"cooldown": 25.0,
+	"cost": {
+		"health": 0,
+		"stamina": 20
+	},
+	"description": "A bright, burning ball looking like the sun forms at the tip of your finger. You throw it at the target to deal ::damage ::damage_type damage on a large area and knock everyone back from the center of the explosion.",
+	"duration": 0.0,
+	"effects": {
+		"aoe_break": 1,
+		"aoe_range": 5,
+		"aoe_shape": 1,
+		"damage": [
+			40,
+			50
+		],
+		"damage_type": "fire",
+		"knockback": 3,
+		"magic_power_damage": 0.20000000298023224
+	},
+	"id": "158",
+	"image": 231,
+	"name": "Burning Sun",
+	"range": 6,
+	"skill": "core_2_pyromancy",
+	"slots": {
+		"offensive": 2,
+		"utility": 2
+	},
+	"target": "aoe_target"
+}

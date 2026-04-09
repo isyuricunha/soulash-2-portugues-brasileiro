@@ -1,0 +1,57 @@
+{
+	"components": [
+		"damage_applier",
+		"glyph",
+		"height",
+		"light_source",
+		"minimap_pixel",
+		"name",
+		"position_2d",
+		"temporary",
+		"tool"
+	],
+	"damage_applier": {
+		"break_on_entry": false,
+		"dmg_animation": "",
+		"dmg_max": 10,
+		"dmg_min": 5,
+		"dmg_type": "frost",
+		"duration": 3.0,
+		"tick": 1.0
+	},
+	"description": "A sliver of ice with razor-sharp edges.",
+	"glyph": {
+		"frames": [
+			{
+				"color": [
+					255,
+					255,
+					255
+				],
+				"delay": 90,
+				"index": 3187
+			}
+		],
+		"random_frame_start": true
+	},
+	"height": 0,
+	"id": "core_2_Ice_Sliver",
+	"light_source": {
+		"finish": -1,
+		"lit_image": 1476,
+		"range": 3
+	},
+	"minimap_pixel": [
+		192,
+		92,
+		13
+	],
+	"name": "Ice Sliver",
+	"temporary": 10.0,
+	"tool": [
+		{
+			"id": 2,
+			"quality": 80
+		}
+	]
+}

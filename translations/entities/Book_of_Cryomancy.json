@@ -1,0 +1,61 @@
+{
+	"components": [
+		"craftable",
+		"glyph",
+		"item",
+		"minimap_pixel",
+		"name",
+		"position_2d",
+		"stackable",
+		"usable",
+		"value",
+		"weight"
+	],
+	"craftable": {
+		"backgrounds": [],
+		"biomes": [],
+		"cooldown": 432000,
+		"magic_slots": 0,
+		"resources": [
+			{
+				"amount": 1,
+				"id": "2006"
+			}
+		],
+		"time": 60,
+		"tools": []
+	},
+	"description": "Some icy secrets of cryomancy are hidden within these pages.",
+	"glyph": {
+		"frames": [
+			{
+				"color": [
+					255,
+					255,
+					255
+				],
+				"delay": 0,
+				"index": 2579
+			}
+		],
+		"random_frame_start": false
+	},
+	"id": "core_2_Book_of_Cryomancy",
+	"item": {
+		"image": 1144,
+		"type": 17
+	},
+	"minimap_pixel": [
+		179,
+		178,
+		176
+	],
+	"name": "Book of Cryomancy",
+	"usable": {
+		"ability": "",
+		"recipe": "",
+		"skill_p": "core_2_cryomancy"
+	},
+	"value": 5000,
+	"weight": 0.20000000298023224
+}

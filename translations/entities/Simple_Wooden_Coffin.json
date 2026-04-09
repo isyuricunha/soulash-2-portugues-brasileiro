@@ -1,0 +1,36 @@
+{
+	"components": [
+		"collidable",
+		"glyph",
+		"health",
+		"minimap_pixel",
+		"name",
+		"position_2d",
+		"resting_place"
+	],
+	"corpse": [],
+	"description": "A simple wooden coffin for someone's final journey. Looks regularly used.",
+	"glyph": {
+		"frames": [
+			{
+				"color": [
+					255,
+					255,
+					255
+				],
+				"delay": 0,
+				"index": 1779
+			}
+		],
+		"random_frame_start": true
+	},
+	"health": 50,
+	"id": "core_2_Simple_Wooden_Coffin",
+	"minimap_pixel": [
+		169,
+		108,
+		17
+	],
+	"name": "Simple Wooden Coffin",
+	"resting_place": 150
+}

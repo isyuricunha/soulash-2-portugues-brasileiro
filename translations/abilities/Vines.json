@@ -1,0 +1,30 @@
+{
+	"animation": "150",
+	"cast_time": 1.0,
+	"cooldown": 8.0,
+	"cost": {
+		"health": 0,
+		"stamina": 4
+	},
+	"description": "Vines grow from earth to immobilize the target and deal ::damage ::damage_type damage. Immobilize effect succeeds on opposed caster willpower vs defender strength check.",
+	"duration": 2.0,
+	"effects": {
+		"damage": [
+			0,
+			2
+		],
+		"damage_type": "poison",
+		"immobilize": 1,
+		"magic_power_damage": 1.0
+	},
+	"id": "9",
+	"image": 34,
+	"name": "Vines",
+	"range": 4,
+	"skill": "core_2_floromancy",
+	"slots": {
+		"offensive": 1,
+		"utility": 1
+	},
+	"target": "actor"
+}

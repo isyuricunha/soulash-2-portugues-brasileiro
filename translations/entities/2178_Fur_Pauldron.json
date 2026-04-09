@@ -1,0 +1,66 @@
+{
+	"armor": {
+		"acid": 0,
+		"death": 0,
+		"electricity": 0,
+		"fire": 0,
+		"frost": 2,
+		"holy": 0,
+		"parry": 0,
+		"physical": 2,
+		"poison": 0
+	},
+	"components": [
+		"armor",
+		"craftable",
+		"glyph",
+		"item",
+		"minimap_pixel",
+		"name",
+		"position_2d",
+		"value",
+		"weight"
+	],
+	"craftable": {
+		"magic_slots": 2,
+		"resource_types": [
+			{
+				"amount": 2,
+				"id": 9
+			}
+		],
+		"resources": null,
+		"time": 40,
+		"tools": [
+			14
+		]
+	},
+	"description": "A single pauldron to protect the off arm without restricting the one holding the blade.",
+	"glyph": {
+		"frames": [
+			{
+				"color": [
+					255,
+					255,
+					255
+				],
+				"delay": 0,
+				"index": 545
+			}
+		],
+		"random_frame_start": false
+	},
+	"id": "2178",
+	"item": {
+		"image": 540,
+		"type": 10
+	},
+	"minimap_pixel": [
+		181,
+		46,
+		17
+	],
+	"name": "Fur Pauldron",
+	"value": 1500,
+	"weight": 1.0
+}

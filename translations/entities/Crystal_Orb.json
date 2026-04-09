@@ -1,0 +1,89 @@
+{
+	"artificial_intelligence": {
+		"allies": [],
+		"allow_production": [],
+		"behaviors": [],
+		"enemies": []
+	},
+	"components": [
+		"actor",
+		"artificial_intelligence",
+		"collidable",
+		"dialogues",
+		"experience_gainer",
+		"glyph",
+		"humanoid",
+		"minimap_pixel",
+		"name",
+		"position_2d",
+		"sight",
+		"skills",
+		"tags"
+	],
+	"description": "",
+	"dialogues": [
+		"984"
+	],
+	"experience_gainer": {
+		"exp": 5,
+		"level": 1
+	},
+	"glyph": {
+		"frames": [
+			{
+				"color": [
+					255,
+					255,
+					255
+				],
+				"delay": 0,
+				"index": 692
+			}
+		],
+		"random_frame_start": false
+	},
+	"humanoid": {
+		"race": "34"
+	},
+	"id": "core_2_Crystal_Orb",
+	"minimap_pixel": [
+		224,
+		172,
+		105
+	],
+	"name": "Crystal Orb",
+	"sight": {
+		"ignore_infra_penalty": false,
+		"infravision": true,
+		"range": 9,
+		"threesixty": true
+	},
+	"skills": {
+		"max_skill": 50,
+		"milestones": [
+			"core_2_companion_undead",
+			"core_2_corpse_explosion",
+			"core_2_harness_power",
+			"core_2_prismatic_abyss",
+			"core_2_soul_tithe",
+			"core_2_taste_for_souls",
+			"core_2_vampiric_touch",
+			"core_2_winds_of_decay",
+			"core_2_soul_deposit",
+			"core_2_undeath",
+			"core_2_deadly_power",
+			"core_2_necrotic_touch",
+			"core_2_sullied_ember",
+			"core_2_vile_crucible",
+			"core_2_control_undead"
+		],
+		"min_skill": 50,
+		"skills": [
+			"core_2_necromancy"
+		]
+	},
+	"tags": [
+		"3",
+		"38"
+	]
+}

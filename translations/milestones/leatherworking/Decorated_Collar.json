@@ -1,0 +1,15 @@
+{
+	"id": "core_2_decorated_collar",
+	"name": "Decorated Collar",
+	"requirements": {
+		"skill": 28
+	},
+	"rewards": [
+		{
+			"recipe": "864"
+		}
+	],
+	"skill_id": "core_2_leatherworking",
+	"steps": [],
+	"steps_type": 0
+}

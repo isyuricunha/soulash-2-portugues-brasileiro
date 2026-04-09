@@ -1,0 +1,21 @@
+{
+	"animation": "",
+	"cast_time": 0.0,
+	"cooldown": 0.0,
+	"cost": {
+		"health": 0,
+		"stamina": 0
+	},
+	"description": "Tasty baked fish grants +::endurance Endurance and +::willpower Willpower for ::duration turns.",
+	"duration": 600.0,
+	"effects": {
+		"endurance": 1,
+		"willpower": 1
+	},
+	"id": "core_2_Baked_Fish",
+	"image": 563,
+	"name": "Baked Fish",
+	"range": 0,
+	"skill": "",
+	"target": "self"
+}

@@ -1,0 +1,46 @@
+{
+	"enables": [
+		"core_2_construction"
+	],
+	"id": "100",
+	"image": 82,
+	"max": 1,
+	"name": "Trapmaker",
+	"occupation_image": 41,
+	"occupation": "2337",
+	"occupation_per_race": {
+        "0": "208",
+        "1": "2289",
+        "2": "core_2_Elf_Trapmaker",
+        "4": "core_2_Goblin_Toolmaker",
+		"6": "core_2_Vampire_Toolmaker",
+        "7": "core_2_Troll_Toolmaker",
+        "8": "core_2_Orc_Toolmaker",
+        "10": "2337",
+        "23": "core_2_Reptilion_Trapmaker",
+        "26": "core_2_Bone_Wraith_Trapmaker",
+        "31": "core_2_Gnoll_Toolmaker",
+        "32": "core_2_Mushman_Trapmaker",
+        "33": "core_2_Ursan_Toolmaker"
+    },
+	"produces": [],
+	"race": "10",
+	"tier": 2,
+	"workers": [
+		1,
+		1
+	],
+	"allow_player": true,
+	"required_entities": [
+		{
+			"entities": ["155", "2470", "2255", "2411"],
+			"count": 1
+		},
+		{
+			"component": "resting_place",
+			"count": 1
+		}
+	],
+	"min_area": 20,
+	"group": "crafters"
+}

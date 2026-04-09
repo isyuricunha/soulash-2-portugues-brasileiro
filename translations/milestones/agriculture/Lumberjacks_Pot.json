@@ -1,0 +1,16 @@
+{
+	"id": "core_2_lumberjacks_pot",
+	"name": "Lumberjack's Pot",
+	"requirements": {
+		"milestones": [],
+		"skill": 28
+	},
+	"rewards": [
+		{
+			"recipe": "3038"
+		}
+	],
+	"skill_id": "core_2_agriculture",
+	"steps": [],
+	"steps_type": 0
+}

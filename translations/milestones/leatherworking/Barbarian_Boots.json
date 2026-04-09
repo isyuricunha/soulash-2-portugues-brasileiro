@@ -1,0 +1,15 @@
+{
+	"id": "core_2_barbarian_boots",
+	"name": "Barbarian Boots",
+	"requirements": {
+		"skill": 47
+	},
+	"rewards": [
+		{
+			"recipe": "2316"
+		}
+	],
+	"skill_id": "core_2_leatherworking",
+	"steps": [],
+	"steps_type": 0
+}

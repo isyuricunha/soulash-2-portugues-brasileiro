@@ -1,0 +1,19 @@
+{
+	"animation": "28",
+	"cast_time": 1.0,
+	"cooldown": 8.0,
+	"cost": {
+		"health": 0,
+		"stamina": 6
+	},
+	"description": "This ability inflicts fear on a single target for ::duration turns. Fear is determined on an opposite willpower check. If successful, target will run away as fast as it can.",
+	"duration": 3.0,
+	"effects": {
+		"fear": 1
+	},
+	"id": "4",
+	"image": 141,
+	"name": "Intimidate",
+	"range": 3,
+	"target": "actor"
+}

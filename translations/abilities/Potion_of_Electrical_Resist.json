@@ -1,0 +1,21 @@
+{
+	"animation": "core_2_Drink_potion_of_electrical_resist",
+	"cast_time": 1.0,
+	"cooldown": 30.0,
+	"cost": {
+		"health": 0,
+		"stamina": 0
+	},
+	"description": "This potion gives you ::resistance ::damage_type resistance for ::duration turns.",
+	"duration": 100.0,
+	"effects": {
+		"damage_type": "electricity",
+		"resistance": 8
+	},
+	"id": "core_2_Potion_of_Electrical_Resist",
+	"image": 760,
+	"name": "Potion of Electrical Resist",
+	"range": 0,
+	"skill": "",
+	"target": "self"
+}

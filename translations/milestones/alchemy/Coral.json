@@ -1,0 +1,16 @@
+{
+	"id": "core_2_coral",
+	"name": "Coral",
+	"requirements": {
+		"milestones": [],
+		"skill": 15
+	},
+	"rewards": [
+		{
+			"recipe": "core_2_Coral"
+		}
+	],
+	"skill_id": "core_2_alchemy",
+	"steps": [],
+	"steps_type": 0
+}

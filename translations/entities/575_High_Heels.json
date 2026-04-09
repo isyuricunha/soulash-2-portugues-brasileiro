@@ -1,0 +1,71 @@
+{
+	"armor": {
+		"acid": 4,
+		"death": 0,
+		"electricity": 1,
+		"fire": 4,
+		"frost": 1,
+		"holy": 0,
+		"parry": 0,
+		"physical": 1,
+		"poison": 0,
+		"thorns": 0
+	},
+	"components": [
+		"armor",
+		"craftable",
+		"glyph",
+		"item",
+		"minimap_pixel",
+		"name",
+		"position_2d",
+		"value",
+		"weight"
+	],
+	"craftable": {
+		"magic_slots": 3,
+		"resource_types": [
+			{
+				"amount": 2,
+				"id": 2
+			},
+			{
+				"amount": 1,
+				"id": 1
+			}
+		],
+		"resources": null,
+		"time": 120,
+		"tools": [
+			14
+		]
+	},
+	"description": "This is a pair of shoes where the heel is much higher than the toes. Steel reinforcements make them perfect for stepping on someone else's toes.",
+	"glyph": {
+		"frames": [
+			{
+				"color": [
+					255,
+					255,
+					255
+				],
+				"delay": 0,
+				"index": 597
+			}
+		],
+		"random_frame_start": false
+	},
+	"id": "575",
+	"item": {
+		"image": 186,
+		"type": 9
+	},
+	"minimap_pixel": [
+		122,
+		93,
+		57
+	],
+	"name": "High Heels",
+	"value": 3000,
+	"weight": 1.0
+}

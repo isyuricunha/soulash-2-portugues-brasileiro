@@ -1,0 +1,152 @@
+{
+	"ability_user": [
+		"9",
+		"187",
+		"119"
+	],
+	"artificial_intelligence": {
+		"allies": [],
+		"allow_production": [],
+		"behaviors": [],
+		"enemies": [
+			"5"
+		]
+	},
+	"components": [
+		"ability_user",
+		"actor",
+		"artificial_intelligence",
+		"collidable",
+		"dialogues",
+		"equipment",
+		"experience_gainer",
+		"fighter",
+		"glyph",
+		"health",
+		"humanoid",
+		"minimap_pixel",
+		"moveable",
+		"name",
+		"position_2d",
+		"sight",
+		"stamina",
+		"statistics",
+		"tags",
+		"weapon"
+	],
+	"corpse": "2750",
+	"description": "Spirit of the nature in a form of a beautiful lady. ",
+	"dialogues": [
+		"592",
+		"593"
+	],
+	"equipment": {
+		"ring1": [
+			{
+				"chance": 0.20000000298023224,
+				"id": "296",
+				"name": "Wooden Ring",
+				"stack": 1
+			}
+		],
+		"torso_cloth": [
+			{
+				"chance": 1.0,
+				"id": "185",
+				"name": "Dress",
+				"stack": 1
+			}
+		]
+	},
+	"experience_gainer": {
+		"exp": 0,
+		"level": 30
+	},
+	"fighter": {
+		"attackNames": [
+			"Razor Leaves"
+		]
+	},
+	"gender": "female",
+	"glyph": {
+		"frames": [
+			{
+				"color": [
+					127,
+					185,
+					85
+				],
+				"delay": 0,
+				"index": 148
+			}
+		],
+		"random_frame_start": false
+	},
+	"health": 385,
+	"humanoid": {
+		"race": ""
+	},
+	"id": "2619",
+	"minimap_pixel": [
+		127,
+		185,
+		85
+	],
+	"moveable": {
+		"speed": 1.0
+	},
+	"name": "Nymph",
+	"sight": {
+		"ignore_infra_penalty": false,
+		"infravision": false,
+		"range": 10,
+		"threesixty": false
+	},
+	"stamina": {
+		"fatigue": 100,
+		"stamina": 100,
+		"stamina_regen": 0.0
+	},
+	"statistics": {
+		"dexterity": [
+			30,
+			34
+		],
+		"endurance": [
+			14,
+			19
+		],
+		"intelligence": [
+			48,
+			53
+		],
+		"strength": [
+			10,
+			13
+		],
+		"willpower": [
+			45,
+			49
+		]
+	},
+	"tags": [
+		"9"
+	],
+	"weapon": {
+		"attack_animation": "1",
+		"attack_speed": 1.0,
+		"critical_hit": 0.0,
+		"damage": [
+			{
+				"dmg_max": 6,
+				"dmg_min": 2,
+				"dmg_type": "poison"
+			}
+		],
+		"hands": 1,
+		"hit_bonus": 0,
+		"parry_bonus": 0,
+		"range": 1,
+		"type": 3
+	}
+}

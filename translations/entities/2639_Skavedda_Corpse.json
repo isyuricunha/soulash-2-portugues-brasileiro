@@ -1,0 +1,66 @@
+{
+	"components": [
+		"glyph",
+		"item",
+		"liquid_source",
+		"minimap_pixel",
+		"name",
+		"position_2d",
+		"producer",
+		"weight"
+	],
+	"description": "A skavedda corpse, completely absent of life.",
+	"glyph": {
+		"frames": [
+			{
+				"color": [
+					255,
+					255,
+					255
+				],
+				"delay": 0,
+				"index": 1787
+			}
+		],
+		"random_frame_start": true
+	},
+	"id": "2639",
+	"item": {
+		"image": 692,
+		"type": 18
+	},
+	"liquid_source": {
+		"limit": 60,
+		"type": 4
+	},
+	"minimap_pixel": [
+		147,
+		128,
+		104
+	],
+	"name": "Skavedda Corpse",
+	"producer": {
+		"products": {
+			"3": [
+				{
+					"amount": [
+						1,
+						1
+					],
+					"id": "318",
+					"percent_chance": 100
+				},
+				{
+					"amount": [
+						1,
+						1
+					],
+					"id": "2914",
+					"percent_chance": 100
+				}
+			]
+		},
+		"time": 10
+	},
+	"weight": 90.0
+}

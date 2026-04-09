@@ -1,0 +1,74 @@
+{
+	"armor": {
+		"acid": 0,
+		"death": 0,
+		"electricity": 0,
+		"fire": 2,
+		"frost": 3,
+		"holy": 0,
+		"parry": 0,
+		"physical": 0,
+		"poison": 0,
+		"thorns": 0
+	},
+	"components": [
+		"armor",
+		"craftable",
+		"glyph",
+		"item",
+		"minimap_pixel",
+		"name",
+		"position_2d",
+		"value",
+		"weight"
+	],
+	"craftable": {
+		"backgrounds": [],
+		"biomes": [],
+		"magic_slots": 1,
+		"resource_types": [
+			{
+				"amount": 1,
+				"id": 4
+			}
+		],
+		"resources": [
+			{
+				"amount": 1,
+				"id": "299"
+			}
+		],
+		"time": 60,
+		"tools": [
+			14
+		]
+	},
+	"description": "An amulet with different plant symbols.",
+	"glyph": {
+		"frames": [
+			{
+				"color": [
+					255,
+					255,
+					255
+				],
+				"delay": 0,
+				"index": 2350
+			}
+		],
+		"random_frame_start": false
+	},
+	"id": "core_2_Garden_Amulet",
+	"item": {
+		"image": 1017,
+		"type": 3
+	},
+	"minimap_pixel": [
+		208,
+		204,
+		187
+	],
+	"name": "Garden Amulet",
+	"value": 300,
+	"weight": 0.10000000149011612
+}

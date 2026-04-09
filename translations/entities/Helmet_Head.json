@@ -1,0 +1,76 @@
+{
+	"armor": {
+		"acid": 3,
+		"death": 0,
+		"electricity": 0,
+		"fire": 3,
+		"frost": 3,
+		"holy": 0,
+		"parry": 0,
+		"physical": 0,
+		"poison": 0,
+		"thorns": 0
+	},
+	"components": [
+		"armor",
+		"craftable",
+		"glyph",
+		"item",
+		"minimap_pixel",
+		"name",
+		"position_2d",
+		"value",
+		"weight"
+	],
+	"craftable": {
+		"backgrounds": [],
+		"biomes": [],
+		"magic_slots": 5,
+		"resource_types": [
+			{
+				"amount": 2,
+				"id": 1
+			},
+			{
+				"amount": 2,
+				"id": 2
+			},
+			{
+				"amount": 1,
+				"id": 9
+			}
+		],
+		"time": 90,
+		"tools": [
+			1
+		]
+	},
+	"description": "A golem's head with a sturdy helmet on it.",
+	"glyph": {
+		"frames": [
+			{
+				"color": [
+					255,
+					255,
+					255
+				],
+				"delay": 0,
+				"index": 2180
+			}
+		],
+		"random_frame_start": false
+	},
+	"id": "core_2_Helmet_Head",
+	"item": {
+		"image": 906,
+		"type": 26
+	},
+	"minimap_pixel": [
+		156,
+		160,
+		161
+	],
+	"name": "Helmet Head",
+	"value": 15000,
+	"weight": 2.5
+}

@@ -1,0 +1,59 @@
+{
+	"enables": [
+		"core_2_divine_fists"
+	],
+	"id": "482",
+	"image": 361,
+	"name": "Divine Monastery",
+	"occupation": "core_2_Orc_Enforcer",
+	"occupation_per_race": {
+        "0": "core_2_Human_Fist",
+        "1": "core_2_Dwarf_Fist",
+        "2": "core_2_Elf_Fist",
+        "4": "core_2_Goblin_Fist",
+        "7": "core_2_Troll_Fist",
+        "8": "core_2_Orc_Enforcer",
+        "10": "core_2_Rasimi_Fist",
+        "23": "core_2_Reptilion_Fist",
+        "26": "core_2_Bone_Wraith_Fist",
+        "31": "core_2_Gnoll_Fist",
+        "32": "core_2_Mushman_Fist",
+        "33": "core_2_Ursan_Fist"
+    },
+	"max": 1,
+	"produces": [
+		{
+			"entities": [
+				{
+					"daily": 0.2,
+					"id": "2006"
+				}
+			],
+			"takes": "craftable"
+		}
+	],
+	"race": "-1",
+	"tier": 3,
+	"workers": [
+		1,
+		6
+	],
+	"allow_player": true,
+	"required_entities": [
+		{
+			"entities": ["2205"],
+			"count": 4
+		},
+		{
+			"entities": ["221"],
+			"count": 1
+		},
+		{
+			"component": "resting_place",
+			"count": 6
+		}
+	],
+	"min_area": 30,
+	"group": "military",
+	"type": "military"
+}

@@ -1,0 +1,15 @@
+{
+	"id": "core_2_like_a_watermelon",
+	"name": "Pops Like a Watermelon",
+	"requirements": {
+		"skill": 1
+	},
+	"rewards": [
+		{
+			"ability": "8"
+		}
+	],
+	"skill_id": "core_2_mace_fighting",
+	"steps": [],
+	"steps_type": 0
+}

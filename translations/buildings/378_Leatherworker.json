@@ -1,0 +1,50 @@
+{
+	"enables": [
+		"core_2_leatherworking"
+	],
+	"id": "378",
+	"image": 18,
+	"max": 1,
+	"name": "Leatherworker",
+	"occupation_image": 12,
+	"occupation": "2198",
+	"occupation_per_race": {
+        "0": "2198",
+        "1": "2319",
+        "2": "2274",
+        "4": "core_2_Goblin_Leatherworker",
+		"6": "core_2_Vampire_Leatherworker",
+        "7": "core_2_Troll_Leatherworker",
+        "8": "core_2_Orc_Leatherworker",
+        "10": "2341",
+        "23": "core_2_Reptilion_Leatherworker",
+        "26": "core_2_Bone_Wraith_Leatherworker",
+        "31": "core_2_Gnoll_Leatherworker",
+        "32": "core_2_Mushman_Leatherworker",
+        "33": "core_2_Ursan_Leatherworker"
+    },
+	"produces": [],
+	"race": "-1",
+	"tier": 1,
+	"workers": [
+		1,
+		2
+	],
+	"allow_player": true,
+	"required_entities": [
+		{
+			"entities": ["155", "2470", "2255", "2411"],
+			"count": 1
+		},
+		{
+			"entities": ["16", "274", "2402", "2923"],
+			"count": 1
+		},
+		{
+			"component": "resting_place",
+			"count": 2
+		}
+	],
+	"min_area": 20,
+	"group": "crafters"
+}

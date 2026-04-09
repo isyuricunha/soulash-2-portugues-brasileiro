@@ -1,0 +1,25 @@
+{
+	"animation": "core_2_Summon_Elfs",
+	"cast_time": 1.0,
+	"cooldown": 15000.0,
+	"cost": {
+		"health": 0,
+		"stamina": 5
+	},
+	"description": "Summons elfs to aid you in combat.",
+	"duration": 100.0,
+	"effects": {
+		"aoe_range": 10,
+		"aoe_shape": 1,
+		"summon_count": 20
+	},
+	"effects_keys": {
+		"summon": "core_2_Santas_Elf"
+	},
+	"id": "core_2_Summon_Elfs",
+	"image": 790,
+	"name": "Summon Elfs",
+	"range": 8,
+	"skill": "",
+	"target": "random"
+}

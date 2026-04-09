@@ -1,0 +1,80 @@
+{
+	"armor": {
+		"acid": 0,
+		"death": 40,
+		"electricity": 40,
+		"fire": 40,
+		"frost": 20,
+		"holy": 40,
+		"parry": 0,
+		"physical": 50,
+		"poison": 40,
+		"thorns": 0
+	},
+	"category_id": 2,
+	"components": [
+		"armor",
+		"collidable",
+		"craftable",
+		"glyph",
+		"health",
+		"height",
+		"minimap_pixel",
+		"name",
+		"position_2d",
+		"producer"
+	],
+	"corpse": "149",
+	"craftable": {
+		"magic_slots": 0,
+		"resources": [
+			{
+				"amount": 2,
+				"id": "149"
+			}
+		],
+		"time": 20,
+		"tools": [
+			6
+		]
+	},
+	"description": "Steel bars block this way. You wonder if they are here to hold something inside or prevent someone to get there from outside.",
+	"glyph": {
+		"frames": [
+			{
+				"color": [
+					255,
+					255,
+					255
+				],
+				"delay": 0,
+				"index": 791
+			}
+		],
+		"random_frame_start": false
+	},
+	"health": 75,
+	"height": 13,
+	"id": "273",
+	"minimap_pixel": [
+		179,
+		178,
+		175
+	],
+	"name": "Steel Bars",
+	"producer": {
+		"products": {
+			"core_2_deconstruct": [
+				{
+					"amount": [
+						0,
+						0
+					],
+					"id": "-1",
+					"percent_chance": 0
+				}
+			]
+		},
+		"time": 60
+	}
+}

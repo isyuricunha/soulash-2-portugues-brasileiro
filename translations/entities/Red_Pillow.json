@@ -1,0 +1,41 @@
+{
+	"components": [
+		"glyph",
+		"item",
+		"minimap_pixel",
+		"name",
+		"position_2d",
+		"resting_place",
+		"value",
+		"weight"
+	],
+	"description": "Pillow stuffed with some fabric. Its plump shape provides gentle support for the head and neck, ensuring a comfortable night's sleep. It's used without the need to drop it on the ground.",
+	"glyph": {
+		"frames": [
+			{
+				"color": [
+					255,
+					255,
+					255
+				],
+				"delay": 0,
+				"index": 3085
+			}
+		],
+		"random_frame_start": false
+	},
+	"id": "core_2_Red_Pillow",
+	"item": {
+		"image": 1424,
+		"type": 17
+	},
+	"minimap_pixel": [
+		93,
+		67,
+		28
+	],
+	"name": "Red Pillow",
+	"resting_place": 120,
+	"value": 100,
+	"weight": 1.0
+}

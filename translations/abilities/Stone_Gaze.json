@@ -1,0 +1,23 @@
+{
+	"animation": "core_2_Stone_Gaze",
+	"cast_time": 1.0,
+	"cooldown": 50.0,
+	"cost": {
+		"health": 0,
+		"stamina": 10
+	},
+	"description": "Gaze of a basilisk turns you into a stone for a duration of ::duration turns.",
+	"duration": 10.0,
+	"effects": {
+		"immobilize": 10,
+		"sight": -50,
+		"silence": 10,
+		"stun": 10.0
+	},
+	"id": "core_2_Stone_Gaze",
+	"image": 786,
+	"name": "Stone Gaze",
+	"range": 10,
+	"skill": "",
+	"target": "actor"
+}

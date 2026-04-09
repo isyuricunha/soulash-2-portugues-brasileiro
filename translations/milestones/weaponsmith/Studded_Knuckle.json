@@ -1,0 +1,16 @@
+{
+	"id": "core_2_studded_knuckle",
+	"name": "Studded Knuckle",
+	"requirements": {
+		"milestones": [],
+		"skill": 15
+	},
+	"rewards": [
+		{
+			"recipe": "core_2_Studded_Knuckle"
+		}
+	],
+	"skill_id": "core_2_weaponsmith",
+	"steps": [],
+	"steps_type": 0
+}

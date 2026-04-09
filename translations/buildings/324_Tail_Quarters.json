@@ -1,0 +1,16 @@
+{
+	"id": "324",
+	"image": 144,
+	"max": 1,
+	"name": "Tail Quarters",
+	"occupation_image": 114,
+	"occupation": "core_2_Gnoll_Tail",
+	"produces": [],
+	"race": "31",
+	"tier": 2,
+	"type": "military",
+	"workers": [
+		1,
+		6
+	]
+}

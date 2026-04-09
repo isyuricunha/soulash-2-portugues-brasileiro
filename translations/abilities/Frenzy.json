@@ -1,0 +1,25 @@
+{
+	"animation": "core_2_Frenzy",
+	"cast_time": 0.2,
+	"cooldown": 30.0,
+	"cost": {
+		"health": 0,
+		"stamina": 25
+	},
+	"description": "You enter a state of uncontrolled, wild excitement, increasing your attack speed by ::attack_speed and hit chance by ::hit_chance%. While the frenzy lasts, you won't see your current health.",
+	"duration": 6.0,
+	"effects": {
+		"attack_speed": -0.20000000298023224,
+		"hide_health": 1,
+		"hit_chance": 2
+	},
+	"id": "187",
+	"image": 591,
+	"name": "Frenzy",
+	"range": 0,
+	"skill": "core_2_axe_fighting",
+	"slots": {
+		"utility": 3
+	},
+	"target": "self"
+}

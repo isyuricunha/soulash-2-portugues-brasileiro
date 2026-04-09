@@ -1,0 +1,16 @@
+{
+	"id": "core_2_ancient_cloth",
+	"name": "Ancient Cloth",
+	"requirements": {
+		"milestones": [],
+		"skill": 49
+	},
+	"rewards": [
+		{
+			"recipe": "2160"
+		}
+	],
+	"skill_id": "core_2_tailoring",
+	"steps": [],
+	"steps_type": 0
+}

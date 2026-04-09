@@ -1,0 +1,66 @@
+{
+	"armor": {
+		"acid": 6,
+		"death": 0,
+		"electricity": 2,
+		"fire": 2,
+		"frost": 6,
+		"holy": 0,
+		"parry": 0,
+		"physical": 3,
+		"poison": 0
+	},
+	"components": [
+		"armor",
+		"craftable",
+		"glyph",
+		"item",
+		"minimap_pixel",
+		"name",
+		"position_2d",
+		"value",
+		"weight"
+	],
+	"craftable": {
+		"magic_slots": 5,
+		"resource_types": [
+			{
+				"amount": 5,
+				"id": 9
+			}
+		],
+		"resources": null,
+		"time": 300,
+		"tools": [
+			14
+		]
+	},
+	"description": "A hooded, long coat made from animal fur. It's designed to provide warmth and protection from the elements.",
+	"glyph": {
+		"frames": [
+			{
+				"color": [
+					255,
+					255,
+					255
+				],
+				"delay": 0,
+				"index": 711
+			}
+		],
+		"random_frame_start": false
+	},
+	"id": "2315",
+	"item": {
+		"image": 600,
+		"type": 5
+	},
+	"minimap_pixel": [
+		200,
+		200,
+		200
+	],
+	"name": "Fur Parka",
+	"value": 9000,
+	"weight": 5.0
+}

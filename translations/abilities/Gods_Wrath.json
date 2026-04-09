@@ -1,0 +1,30 @@
+{
+	"animation": "core_2_Gods_Wrath",
+	"cast_time": 1.0,
+	"cooldown": 15.0,
+	"cost": {
+		"health": 0,
+		"stamina": 10
+	},
+	"description": "Apply poison, bleed, burning, fear, immobilize, and stun for ::duration turns and knockback target enemy ::knockback tiles.",
+	"duration": 3.0,
+	"effects": {
+		"bleed": 3,
+		"burn": 3,
+		"fear": 3,
+		"immobilize": 3,
+		"knockback": 5,
+		"poison_effect": 3,
+		"stun": 3.0
+	},
+	"id": "core_2_Gods_Wrath",
+	"image": 89,
+	"name": "God's Wrath",
+	"range": 8,
+	"skill": "",
+	"slots": {
+		"offensive": 2,
+		"utility": 2
+	},
+	"target": "health"
+}

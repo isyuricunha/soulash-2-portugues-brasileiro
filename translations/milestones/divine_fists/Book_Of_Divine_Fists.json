@@ -1,0 +1,16 @@
+{
+	"id": "core_2_book_divine_fists",
+	"name": "Book Of Divine Fists",
+	"requirements": {
+		"milestones": [],
+		"skill": 44
+	},
+	"rewards": [
+		{
+			"recipe": "core_2_Book_of_Divine_Fists"
+		}
+	],
+	"skill_id": "core_2_divine_fists",
+	"steps": [],
+	"steps_type": 0
+}

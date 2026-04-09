@@ -1,0 +1,60 @@
+{
+	"armor": {
+		"acid": 0,
+		"death": 0,
+		"electricity": 0,
+		"fire": 0,
+		"frost": 0,
+		"holy": 1,
+		"parry": 0,
+		"physical": 0,
+		"poison": 0,
+		"thorns": 0
+	},
+	"components": [
+		"armor",
+		"glyph",
+		"item",
+		"minimap_pixel",
+		"name",
+		"position_2d",
+		"resource",
+		"stackable",
+		"value",
+		"weight"
+	],
+	"description": "A bit yellowish, but still sharp.",
+	"glyph": {
+		"frames": [
+			{
+				"color": [
+					255,
+					255,
+					255
+				],
+				"delay": 0,
+				"index": 2315
+			}
+		],
+		"random_frame_start": false
+	},
+	"id": "core_2_Weasel_Tail",
+	"item": {
+		"image": 992,
+		"type": 16
+	},
+	"minimap_pixel": [
+		182,
+		175,
+		158
+	],
+	"name": "Weasel Tail",
+	"resource": {
+		"affix": "of the Weasel",
+		"magic_ingredient": 1,
+		"quality": 1,
+		"type": 7
+	},
+	"value": 500,
+	"weight": 0.10000000149011612
+}

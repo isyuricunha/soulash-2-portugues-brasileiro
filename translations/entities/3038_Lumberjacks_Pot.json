@@ -1,0 +1,74 @@
+{
+	"components": [
+		"craftable",
+		"food",
+		"glyph",
+		"item",
+		"minimap_pixel",
+		"name",
+		"position_2d",
+		"stackable",
+		"value",
+		"weight"
+	],
+	"craftable": {
+		"backgrounds": [],
+		"biomes": [],
+		"magic_slots": 0,
+		"resources": [
+			{
+				"amount": 2,
+				"id": "318"
+			},
+			{
+				"amount": 1,
+				"id": "793"
+			},
+			{
+				"amount": 1,
+				"id": "801"
+			},
+			{
+				"amount": 1,
+				"id": "820"
+			}
+		],
+		"time": 30,
+		"tools": [
+			2
+		]
+	},
+	"description": "Savory and spicy, great for hunting season.",
+	"food": {
+		"nutrition": 90,
+		"on_eat": "core_2_Lumberjacks_Pot",
+		"raw": false
+	},
+	"glyph": {
+		"frames": [
+			{
+				"color": [
+					255,
+					255,
+					255
+				],
+				"delay": 0,
+				"index": 2036
+			}
+		],
+		"random_frame_start": false
+	},
+	"id": "3038",
+	"item": {
+		"image": 818,
+		"type": 20
+	},
+	"minimap_pixel": [
+		157,
+		78,
+		54
+	],
+	"name": "Lumberjack's Pot",
+	"value": 1000,
+	"weight": 0.10000000149011612
+}

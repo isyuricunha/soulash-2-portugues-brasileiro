@@ -1,0 +1,58 @@
+{
+	"components": [
+		"glyph",
+		"item",
+		"liquid_source",
+		"minimap_pixel",
+		"name",
+		"position_2d",
+		"producer",
+		"weight"
+	],
+	"description": "Animated mithril ore but this time it is dead.",
+	"glyph": {
+		"frames": [
+			{
+				"color": [
+					255,
+					255,
+					255
+				],
+				"delay": 0,
+				"index": 1837
+			}
+		],
+		"random_frame_start": true
+	},
+	"id": "2781",
+	"item": {
+		"image": 729,
+		"type": 18
+	},
+	"liquid_source": {
+		"limit": 60,
+		"type": 0
+	},
+	"minimap_pixel": [
+		147,
+		128,
+		104
+	],
+	"name": "Animated Mithril Ore Corpse",
+	"producer": {
+		"products": {
+			"3": [
+				{
+					"amount": [
+						4,
+						8
+					],
+					"id": "2112",
+					"percent_chance": 100
+				}
+			]
+		},
+		"time": 10
+	},
+	"weight": 100.0
+}

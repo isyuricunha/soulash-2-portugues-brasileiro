@@ -1,0 +1,16 @@
+{
+	"id": "core_2_backstab",
+	"name": "Backstab",
+	"requirements": {
+		"milestones": [],
+		"skill": 18
+	},
+	"rewards": [
+		{
+			"ability": "22"
+		}
+	],
+	"skill_id": "core_2_thievery",
+	"steps": [],
+	"steps_type": 0
+}

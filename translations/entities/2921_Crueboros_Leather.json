@@ -1,0 +1,60 @@
+{
+	"armor": {
+		"acid": 2,
+		"death": 0,
+		"electricity": 0,
+		"fire": 0,
+		"frost": 0,
+		"holy": 0,
+		"parry": 0,
+		"physical": 0,
+		"poison": 0,
+		"thorns": 0
+	},
+	"components": [
+		"armor",
+		"glyph",
+		"item",
+		"minimap_pixel",
+		"name",
+		"position_2d",
+		"resource",
+		"stackable",
+		"value",
+		"weight"
+	],
+	"description": "A a leather carved off of a dead crueboros.",
+	"glyph": {
+		"frames": [
+			{
+				"color": [
+					255,
+					255,
+					255
+				],
+				"delay": 0,
+				"index": 1921
+			}
+		],
+		"random_frame_start": false
+	},
+	"id": "2921",
+	"item": {
+		"image": 747,
+		"type": 16
+	},
+	"minimap_pixel": [
+		195,
+		195,
+		195
+	],
+	"name": "Crueboros Leather",
+	"resource": {
+		"affix": "Slimy",
+		"magic_ingredient": 0,
+		"quality": 2,
+		"type": 2
+	},
+	"value": 1500,
+	"weight": 0.10000000149011612
+}

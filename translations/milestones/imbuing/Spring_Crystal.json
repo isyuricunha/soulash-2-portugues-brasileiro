@@ -1,0 +1,16 @@
+{
+	"id": "core_2_spring_crystal",
+	"name": "Spring Crystal",
+	"requirements": {
+		"milestones": [],
+		"skill": 45
+	},
+	"rewards": [
+		{
+			"recipe": "core_2_Spring_Crystal"
+		}
+	],
+	"skill_id": "core_2_imbuing",
+	"steps": [],
+	"steps_type": 0
+}

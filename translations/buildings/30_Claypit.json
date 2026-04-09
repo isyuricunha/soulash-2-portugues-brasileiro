@@ -1,0 +1,52 @@
+{
+	"id": "30",
+	"image": 27,
+	"name": "Claypit",
+	"occupation_image": 50,
+	"occupation": "2264",
+	"occupation_per_race": {
+        "0": "421",
+        "1": "197",
+        "2": "2324",
+        "4": "core_2_Goblin_Miner",
+		"6": "core_2_Vampire_Miner",
+        "7": "core_2_Troll_Miner",
+        "8": "core_2_Orc_Miner",
+        "10": "2333",
+        "23": "core_2_Reptilion_Miner",
+        "26": "2371",
+        "31": "core_2_Gnoll_Miner",
+        "32": "core_2_Mushman_Gatherer",
+        "33": "core_2_Ursan_Miner"
+    },
+	"produces": [
+		{
+			"entities": [
+				{
+					"daily": 1,
+					"id": "2004"
+				}
+			],
+			"takes": []
+		}
+	],
+	"race": "2",
+	"tier": 1,
+	"workers": [
+		1,
+		2
+	],
+	"allow_player": true,
+	"required_entities": [
+		{
+			"entities": ["2015"],
+			"count": 3
+		},
+		{
+			"component": "resting_place",
+			"count": 2
+		}
+	],
+	"min_area": 30,
+	"group": "resources"
+}

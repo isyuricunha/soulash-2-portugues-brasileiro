@@ -1,0 +1,16 @@
+{
+	"id": "core_2_bushido",
+	"name": "Bushido",
+	"requirements": {
+		"milestones": [],
+		"skill": 6
+	},
+	"rewards": [
+		{
+			"ability": "122"
+		}
+	],
+	"skill_id": "core_2_sword_fighting",
+	"steps": [],
+	"steps_type": 0
+}

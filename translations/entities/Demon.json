@@ -1,0 +1,155 @@
+{
+	"ability_user": [
+		"106",
+		"64"
+	],
+	"armor": {
+		"acid": 0,
+		"death": 0,
+		"electricity": 0,
+		"fire": 80,
+		"frost": 0,
+		"holy": -5,
+		"parry": 0,
+		"physical": 0,
+		"poison": 0,
+		"thorns": 0
+	},
+	"artificial_intelligence": {
+		"allies": [],
+		"allow_production": [],
+		"behaviors": [],
+		"enemies": [
+			"5"
+		]
+	},
+	"components": [
+		"ability_user",
+		"actor",
+		"armor",
+		"artificial_intelligence",
+		"collidable",
+		"dialogues",
+		"equipment",
+		"experience_gainer",
+		"fighter",
+		"glyph",
+		"health",
+		"humanoid",
+		"minimap_pixel",
+		"moveable",
+		"name",
+		"position_2d",
+		"sight",
+		"stamina",
+		"statistics",
+		"tags"
+	],
+	"corpse": "core_2_Pool_of_Acid",
+	"description": "A tall figure, burning with living fire. Smiles at you.",
+	"dialogues": [
+		"995"
+	],
+	"equipment": {
+		"legs_cloth": [
+			{
+				"chance": 1.0,
+				"id": "778",
+				"name": "Reinforced Pants",
+				"stack": 1
+			}
+		],
+		"right_hand": [
+			{
+				"chance": 1.0,
+				"id": "core_2_Demon_Blade",
+				"name": "Demon Blade",
+				"stack": 1
+			}
+		],
+		"torso_armor": [
+			{
+				"chance": 1.0,
+				"id": "166",
+				"name": "Breastplate",
+				"stack": 1
+			}
+		]
+	},
+	"experience_gainer": {
+		"exp": 0,
+		"level": 30
+	},
+	"fighter": {
+		"attackNames": [
+			"Hellish Punch"
+		]
+	},
+	"glyph": {
+		"frames": [
+			{
+				"color": [
+					255,
+					255,
+					255
+				],
+				"delay": 0,
+				"index": 2920
+			}
+		],
+		"random_frame_start": false
+	},
+	"health": 1200,
+	"humanoid": {
+		"race": ""
+	},
+	"id": "core_2_Demon",
+	"minimap_pixel": [
+		106,
+		31,
+		132
+	],
+	"moveable": {
+		"speed": 0.800000011920929
+	},
+	"name": "Demon",
+	"sight": {
+		"ignore_infra_penalty": false,
+		"infravision": false,
+		"range": 10,
+		"threesixty": false
+	},
+	"stamina": {
+		"fatigue": 100,
+		"stamina": 100,
+		"stamina_regen": 0.0
+	},
+	"statistics": {
+		"dexterity": [
+			34,
+			38
+		],
+		"endurance": [
+			60,
+			70
+		],
+		"health_regen": 2.0,
+		"intelligence": [
+			74,
+			80
+		],
+		"magic_power": 4,
+		"strength": [
+			98,
+			112
+		],
+		"willpower": [
+			68,
+			72
+		]
+	},
+	"tags": [
+		"9",
+		"14"
+	]
+}

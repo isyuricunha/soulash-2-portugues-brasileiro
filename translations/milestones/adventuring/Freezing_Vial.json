@@ -1,0 +1,16 @@
+{
+	"id": "core_2_freezing_vial",
+	"name": "Freezing Vial",
+	"requirements": {
+		"milestones": [],
+		"skill": 34
+	},
+	"rewards": [
+		{
+			"recipe": "840"
+		}
+	],
+	"skill_id": "core_2_adventuring",
+	"steps": [],
+	"steps_type": 0
+}

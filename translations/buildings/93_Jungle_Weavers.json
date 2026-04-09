@@ -1,0 +1,52 @@
+{
+	"id": "93",
+	"image": 73,
+	"name": "Jungle Weavers",
+	"occupation_image": 44,
+	"occupation_per_race": {
+        "0": "2196",
+        "1": "2280",
+        "2": "2273",
+        "4": "core_2_Goblin_Tailor",
+		"6": "core_2_Vampire_Tailor",
+        "7": "core_2_Troll_Tailor",
+        "8": "core_2_Orc_Tailor",
+        "10": "2343",
+        "23": "core_2_Reptilion_Tailor",
+        "26": "2378",
+        "31": "core_2_Gnoll_Tailor",
+        "32": "core_2_Mushman_Tailor",
+        "33": "core_2_Ursan_Tailor"
+    },
+	"occupation": "2330",
+	"produces": [
+		{
+			"entities": [
+				{
+					"daily": 0.5,
+					"id": "2350"
+				}
+			],
+			"takes": []
+		}
+	],
+	"race": "10",
+	"tier": 1,
+	"workers": [
+		1,
+		4
+	],
+	"allow_player": true,
+	"required_entities": [
+		{
+			"entities": ["2021", "3083"],
+			"count": 5
+		},
+		{
+			"component": "resting_place",
+			"count": 4
+		}
+	],
+	"min_area": 30,
+	"group": "resources"
+}

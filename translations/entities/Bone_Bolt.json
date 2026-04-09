@@ -1,0 +1,54 @@
+{
+	"components": [
+		"craftable",
+		"glyph",
+		"item",
+		"minimap_pixel",
+		"name",
+		"position_2d",
+		"stackable",
+		"value",
+		"weight"
+	],
+	"craftable": {
+		"backgrounds": [],
+		"biomes": [],
+		"magic_slots": 0,
+		"resource_types": [
+			{
+				"amount": 1,
+				"id": 5
+			}
+		],
+		"time": 1,
+		"tools": []
+	},
+	"description": "Ammunition for crossbows made out of bones.",
+	"glyph": {
+		"frames": [
+			{
+				"color": [
+					255,
+					255,
+					255
+				],
+				"delay": 0,
+				"index": 2786
+			}
+		],
+		"random_frame_start": false
+	},
+	"id": "core_2_Bone_Bolt",
+	"item": {
+		"image": 1278,
+		"type": 21
+	},
+	"minimap_pixel": [
+		89,
+		115,
+		97
+	],
+	"name": "Bone Bolt",
+	"value": 50,
+	"weight": 0.10000000149011612
+}

@@ -1,0 +1,24 @@
+{
+	"animation": "77",
+	"cast_time": 0.699999988079071,
+	"cooldown": 20.0,
+	"cost": {
+		"health": 0,
+		"stamina": 10
+	},
+	"description": "You deflect ranged abilities back at the attacker. Lasts ::duration turns.",
+	"duration": 2.0,
+	"effects": {
+		"magic_deflection": 1
+	},
+	"id": "182",
+	"image": 13,
+	"name": "Magic Deflection",
+	"range": 0,
+	"skill": "core_2_protection",
+	"slots": {
+		"defensive": 2,
+		"utility": 2
+	},
+	"target": "self"
+}

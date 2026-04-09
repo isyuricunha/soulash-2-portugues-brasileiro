@@ -1,0 +1,57 @@
+{
+	"id": "293",
+	"image": 129,
+	"max": 1,
+	"name": "Basket Weaver",
+	"occupation_image": 128,
+	"occupation": "core_2_Ursan_Basketweaver",
+	"occupation_per_race": {
+        "0": "core_2_Human_Basketweaver",
+        "1": "core_2_Dwarf_Basketweaver",
+        "2": "core_2_Elf_Basketweaver",
+        "4": "core_2_Goblin_Basketweaver",
+		"6": "core_2_Vampire_Baskerweaver",
+        "7": "core_2_Troll_Basketweaver",
+        "8": "core_2_Orc_Basketweaver",
+        "10": "core_2_Rasimi_Basketweaver",
+        "23": "core_2_Reptilion_Basketweaver",
+        "26": "core_2_Bone_Wraith_Basketweaver",
+        "31": "core_2_Gnoll_Basketweaver",
+        "32": "core_2_Mushman_Basketweaver",
+        "33": "core_2_Ursan_Basketweaver"
+    },
+	"produces": [
+		{
+			"entities": [
+				{
+					"daily": 1,
+					"id": "core_2_Basket"
+				}
+			],
+			"takes": 
+			{
+				"amount": 2,
+				"id": "core_2_Wicker"
+			}
+		}
+	],
+	"race": "33",
+	"tier": 3,
+	"workers": [
+		1,
+		2
+	],
+	"allow_player": true,
+	"required_entities": [
+		{
+			"entities": ["155", "2470", "2255", "2411"],
+			"count": 1
+		},
+		{
+			"component": "resting_place",
+			"count": 2
+		}
+	],
+	"min_area": 20,
+	"group": "producers"
+}

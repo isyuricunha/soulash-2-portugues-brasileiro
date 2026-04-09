@@ -1,0 +1,50 @@
+{
+	"components": [
+		"collidable",
+		"glyph",
+		"health",
+		"minimap_pixel",
+		"name",
+		"position_2d",
+		"producer"
+	],
+	"corpse": [],
+	"description": "You see an altar broken by massive power. It had some elvish runes on it, but you can't read them.",
+	"glyph": {
+		"frames": [
+			{
+				"color": [
+					255,
+					255,
+					255
+				],
+				"delay": 0,
+				"index": 23
+			}
+		],
+		"random_frame_start": false
+	},
+	"health": 50,
+	"id": "704",
+	"minimap_pixel": [
+		230,
+		157,
+		155
+	],
+	"name": "Broken Altar",
+	"producer": {
+		"products": {
+			"core_2_deconstruct": [
+				{
+					"amount": [
+						0,
+						0
+					],
+					"id": "-1",
+					"percent_chance": 0
+				}
+			]
+		},
+		"time": 10
+	}
+}

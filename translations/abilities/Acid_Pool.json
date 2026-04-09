@@ -1,0 +1,25 @@
+{
+	"animation": "23",
+	"cast_time": 1.0,
+	"cooldown": 0.0,
+	"cost": {
+		"health": 0,
+		"stamina": 4
+	},
+	"description": "Spit at an enemy dealing ::damage ::damage_type damage",
+	"duration": 0.0,
+	"effects": {
+		"damage": [
+			20,
+			25
+		],
+		"damage_type": "acid",
+		"damage_weapon": 1.0
+	},
+	"id": "core_2_Acid_Pool",
+	"image": 101,
+	"name": "Acid Pool",
+	"range": 1,
+	"skill": "",
+	"target": "health"
+}

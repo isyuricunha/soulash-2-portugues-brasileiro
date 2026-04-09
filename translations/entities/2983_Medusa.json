@@ -1,0 +1,109 @@
+{
+	"ability_user": [
+		"4",
+		"152",
+		"139",
+		"98"
+	],
+	"artificial_intelligence": {
+		"allies": [
+			"2"
+		],
+		"allow_production": [],
+		"behaviors": [],
+		"enemies": [
+			"5"
+		]
+	},
+	"components": [
+		"ability_user",
+		"actor",
+		"artificial_intelligence",
+		"collidable",
+		"dialogues",
+		"experience_gainer",
+		"glyph",
+		"health",
+		"minimap_pixel",
+		"moveable",
+		"name",
+		"position_2d",
+		"sight",
+		"stamina",
+		"statistics",
+		"tags"
+	],
+	"corpse": "2980",
+	"description": "A beautiful lady with deadly snakes in place of hair.",
+	"dialogues": [
+		"645",
+		"646"
+	],
+	"experience_gainer": {
+		"exp": 0,
+		"level": 40
+	},
+	"glyph": {
+		"frames": [
+			{
+				"color": [
+					255,
+					255,
+					255
+				],
+				"delay": 0,
+				"index": 129
+			}
+		],
+		"random_frame_start": false
+	},
+	"health": 1100,
+	"id": "2983",
+	"minimap_pixel": [
+		206,
+		167,
+		66
+	],
+	"moveable": {
+		"speed": 1.0
+	},
+	"name": "Medusa",
+	"sight": {
+		"ignore_infra_penalty": false,
+		"infravision": true,
+		"range": 12,
+		"threesixty": false
+	},
+	"stamina": {
+		"fatigue": 100,
+		"stamina": 100,
+		"stamina_regen": 0.0
+	},
+	"statistics": {
+		"dexterity": [
+			78,
+			85
+		],
+		"endurance": [
+			87,
+			98
+		],
+		"intelligence": [
+			87,
+			98
+		],
+		"strength": [
+			35,
+			39
+		],
+		"willpower": [
+			98,
+			112
+		]
+	},
+	"tags": [
+		"9",
+		"17",
+		"38"
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"id": "core_2_i_can_take_them",
+	"name": "I Can Take Them",
+	"requirements": {
+		"milestones": [],
+		"skill": 19
+	},
+	"rewards": [
+		{
+			"passive": "core_2_discover_all_tiers"
+		}
+	],
+	"skill_id": "core_2_adventuring",
+	"steps": [],
+	"steps_type": 0
+}

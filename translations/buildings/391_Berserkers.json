@@ -1,0 +1,37 @@
+{
+	"enables": [
+		"core_2_axe_fighting",
+		"core_2_athletics"
+	],
+	"id": "391",
+	"image": 69,
+	"max": 1,
+	"name": "Berserkers",
+	"occupation": "core_2_Berserker",
+	"occupation_image": 86,
+	"produces": [],
+	"race": "-1",
+	"tier": 3,
+	"type": "military",
+	"workers": [
+		1,
+		6
+	],
+	"allow_player": true,
+	"required_entities": [
+		{
+			"entities": ["18"],
+			"count": 2
+		},
+		{
+			"entities": ["529", "523", "524", "525", "288", "980"],
+			"count": 4
+		},
+		{
+			"component": "resting_place",
+			"count": 6
+		}
+	],
+	"min_area": 30,
+	"group": "military"
+}

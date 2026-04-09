@@ -1,0 +1,16 @@
+{
+	"id": "core_2_frost_armor",
+	"name": "Frost_Armor",
+	"requirements": {
+		"milestones": [],
+		"skill": 32
+	},
+	"rewards": [
+		{
+			"ability": "core_2_Frost_Armor"
+		}
+	],
+	"skill_id": "core_2_cryomancy",
+	"steps": [],
+	"steps_type": 0
+}

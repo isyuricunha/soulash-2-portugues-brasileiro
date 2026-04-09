@@ -1,0 +1,33 @@
+{
+	"id": "463",
+	"image": 350,
+	"name": "Bonecatcher",
+	"occupation_image": 126,
+	"occupation": "core_2_Skeleton_Bonecatcher",
+	"produces": [
+		{
+			"entities": [
+				{
+					"daily": 0.5,
+					"id": "55"
+				}
+			],
+			"takes": []
+		},
+		{
+			"entities": [
+				{
+					"daily": 0.5,
+					"id": "2918"
+				}
+			],
+			"takes": []
+		}
+	],
+	"race": "17",
+	"tier": 1,
+	"workers": [
+		1,
+		3
+	]
+}

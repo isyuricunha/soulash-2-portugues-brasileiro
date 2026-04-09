@@ -1,0 +1,16 @@
+{
+	"id": "511",
+	"image": 380,
+	"max": 1,
+	"name": "Bloodguard Barracks",
+	"occupation_image": 135,
+	"occupation": "core_2_Vampire_Bloodguard",
+	"produces": [],
+	"race": "6",
+	"tier": 3,
+	"type": "military",
+	"workers": [
+		1,
+		3
+	]
+}

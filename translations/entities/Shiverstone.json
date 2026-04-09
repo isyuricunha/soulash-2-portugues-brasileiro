@@ -1,0 +1,90 @@
+{
+	"components": [
+		"craftable",
+		"glyph",
+		"item",
+		"minimap_pixel",
+		"name",
+		"position_2d",
+		"resource",
+		"stackable",
+		"value",
+		"weapon",
+		"weight"
+	],
+	"craftable": {
+		"backgrounds": [],
+		"biomes": [],
+		"magic_slots": 0,
+		"resource_types": [
+			{
+				"amount": 2,
+				"id": 1
+			}
+		],
+		"resources": [
+			{
+				"amount": 1,
+				"id": "1093"
+			},
+			{
+				"amount": 1,
+				"id": "2472"
+			}
+		],
+		"time": 50,
+		"tools": [
+			15
+		]
+	},
+	"description": "A small stone that seems to shiver in the cold.",
+	"glyph": {
+		"frames": [
+			{
+				"color": [
+					255,
+					255,
+					255
+				],
+				"delay": 0,
+				"index": 2649
+			}
+		],
+		"random_frame_start": false
+	},
+	"id": "core_2_Shiverstone",
+	"item": {
+		"image": 1164,
+		"type": 16
+	},
+	"minimap_pixel": [
+		100,
+		109,
+		155
+	],
+	"name": "Shiverstone",
+	"resource": {
+		"affix": "of Shivers",
+		"magic_ingredient": 4,
+		"quality": 4,
+		"type": 7
+	},
+	"value": 9000,
+	"weapon": {
+		"attack_speed": 0.0,
+		"critical_hit": 0.0,
+		"damage": [
+			{
+				"dmg_max": 4,
+				"dmg_min": 4,
+				"dmg_type": "electricity"
+			}
+		],
+		"hands": 1,
+		"hit_bonus": 0,
+		"parry_bonus": 0,
+		"range": 0,
+		"type": 9
+	},
+	"weight": 0.10000000149011612
+}

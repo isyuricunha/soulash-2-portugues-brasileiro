@@ -1,0 +1,75 @@
+{
+	"components": [
+		"craftable",
+		"glyph",
+		"item",
+		"minimap_pixel",
+		"name",
+		"position_2d",
+		"value",
+		"weapon",
+		"weight"
+	],
+	"craftable": {
+		"backgrounds": [],
+		"biomes": [],
+		"magic_slots": 1,
+		"resource_types": [
+			{
+				"amount": 1,
+				"id": 5
+			},
+			{
+				"amount": 1,
+				"id": 2
+			}
+		],
+		"time": 25,
+		"tools": []
+	},
+	"description": "Primitive bow made out of bones.",
+	"glyph": {
+		"frames": [
+			{
+				"color": [
+					208,
+					204,
+					187
+				],
+				"delay": 0,
+				"index": 1247
+			}
+		],
+		"random_frame_start": false
+	},
+	"id": "1080",
+	"item": {
+		"image": 437,
+		"type": 13
+	},
+	"minimap_pixel": [
+		208,
+		204,
+		187
+	],
+	"name": "Bone Bow",
+	"value": 200,
+	"weapon": {
+		"attack_animation": "5",
+		"attack_speed": 1.0,
+		"critical_hit": 0.0,
+		"damage": [
+			{
+				"dmg_max": 5,
+				"dmg_min": 2,
+				"dmg_type": "physical"
+			}
+		],
+		"hands": 2,
+		"hit_bonus": 1,
+		"parry_bonus": 0,
+		"range": 7,
+		"type": 5
+	},
+	"weight": 0.699999988079071
+}

@@ -1,0 +1,16 @@
+{
+	"id": "core_2_snowflake_brooch",
+	"name": "Snowflake Brooch",
+	"requirements": {
+		"milestones": [],
+		"skill": 22
+	},
+	"rewards": [
+		{
+			"recipe": "core_2_Snowflake_Brooch"
+		}
+	],
+	"skill_id": "core_2_imbuing",
+	"steps": [],
+	"steps_type": 0
+}

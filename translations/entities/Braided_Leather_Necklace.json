@@ -1,0 +1,74 @@
+{
+	"armor": {
+		"acid": 0,
+		"death": 4,
+		"electricity": 0,
+		"fire": 0,
+		"frost": 0,
+		"holy": 0,
+		"parry": 0,
+		"physical": 0,
+		"poison": 0,
+		"thorns": 0
+	},
+	"components": [
+		"armor",
+		"craftable",
+		"glyph",
+		"item",
+		"minimap_pixel",
+		"name",
+		"position_2d",
+		"value",
+		"weight"
+	],
+	"craftable": {
+		"backgrounds": [],
+		"biomes": [],
+		"magic_slots": 1,
+		"resource_types": [
+			{
+				"amount": 1,
+				"id": 2
+			}
+		],
+		"resources": [
+			{
+				"amount": 1,
+				"id": "2128"
+			}
+		],
+		"time": 125,
+		"tools": [
+			14
+		]
+	},
+	"description": "Looks like a few pieces of leather braided in the shape of a necklace.",
+	"glyph": {
+		"frames": [
+			{
+				"color": [
+					255,
+					255,
+					255
+				],
+				"delay": 0,
+				"index": 2464
+			}
+		],
+		"random_frame_start": false
+	},
+	"id": "core_2_Braided_Leather_Necklace",
+	"item": {
+		"image": 1082,
+		"type": 3
+	},
+	"minimap_pixel": [
+		217,
+		144,
+		88
+	],
+	"name": "Braided Leather Necklace",
+	"value": 300,
+	"weight": 0.10000000149011612
+}

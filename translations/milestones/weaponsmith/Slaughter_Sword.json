@@ -1,0 +1,16 @@
+{
+	"id": "core_2_slaughter_sword",
+	"name": "Slaughter Sword",
+	"requirements": {
+		"milestones": [],
+		"skill": 23
+	},
+	"rewards": [
+		{
+			"recipe": "core_2_Slaughter_Sword"
+		}
+	],
+	"skill_id": "core_2_weaponsmith",
+	"steps": [],
+	"steps_type": 0
+}

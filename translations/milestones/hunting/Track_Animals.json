@@ -1,0 +1,15 @@
+{
+	"id": "core_2_track_animals",
+	"name": "Track Animals",
+	"requirements": {
+		"skill": 6
+	},
+	"rewards": [
+		{
+			"action": 47
+		}
+	],
+	"skill_id": "core_2_hunting",
+	"steps": [],
+	"steps_type": 0
+}

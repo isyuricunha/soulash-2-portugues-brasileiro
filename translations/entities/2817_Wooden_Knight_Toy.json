@@ -1,0 +1,42 @@
+{
+	"components": [
+		"glyph",
+		"health",
+		"minimap_pixel",
+		"name",
+		"position_2d"
+	],
+	"corpse": "722",
+	"description": "With a bit of imagination, it may look almost real. ",
+	"glyph": {
+		"frames": [
+			{
+				"color": [
+					255,
+					255,
+					255
+				],
+				"delay": 0,
+				"index": 1883
+			},
+			{
+				"color": [
+					255,
+					255,
+					255
+				],
+				"delay": 0,
+				"index": 1884
+			}
+		],
+		"random_frame_start": true
+	},
+	"health": 40,
+	"id": "2817",
+	"minimap_pixel": [
+		150,
+		110,
+		42
+	],
+	"name": "Wooden Knight Toy"
+}

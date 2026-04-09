@@ -1,0 +1,22 @@
+{
+	"id": "core_2_wooden_fence",
+	"name": "Wooden Fence",
+	"requirements": {
+		"milestones": [],
+		"skill": 11
+	},
+	"rewards": [
+		{
+			"recipe": "10"
+		},
+		{
+			"recipe": "2250"
+		},
+		{
+			"recipe": "2820"
+		}
+	],
+	"skill_id": "core_2_carpentry",
+	"steps": [],
+	"steps_type": 0
+}

@@ -1,0 +1,135 @@
+{
+	"armor": {
+		"acid": 3000,
+		"death": 3000,
+		"electricity": 3000,
+		"fire": 3000,
+		"frost": 3000,
+		"holy": 3000,
+		"parry": 3000,
+		"physical": 10000,
+		"poison": 3000,
+		"thorns": 0
+	},
+	"artificial_intelligence": {
+		"allies": [],
+		"allow_production": [],
+		"behaviors": [],
+		"enemies": [
+			"5"
+		]
+	},
+	"can_regenerate_health": false,
+	"components": [
+		"actor",
+		"armor",
+		"artificial_intelligence",
+		"collidable",
+		"dialogues",
+		"equipment",
+		"experience_gainer",
+		"fighter",
+		"glyph",
+		"health",
+		"minimap_pixel",
+		"moveable",
+		"name",
+		"position_2d",
+		"sight",
+		"stamina",
+		"statistics",
+		"tags",
+		"weapon"
+	],
+	"corpse": "core_2_Ectoplasm",
+	"description": "A very angry spirit.",
+	"dialogues": [],
+	"experience_gainer": {
+		"exp": 0,
+		"level": 30
+	},
+	"fighter": {
+		"attackNames": [
+			"Spectral Claw",
+			"Death Chill",
+			"Tomb Grip"
+		]
+	},
+	"glyph": {
+		"frames": [
+			{
+				"color": [
+					255,
+					255,
+					255
+				],
+				"delay": 0,
+				"index": 40
+			}
+		],
+		"random_frame_start": false
+	},
+	"health": 150,
+	"id": "core_2_Ghast",
+	"minimap_pixel": [
+		149,
+		165,
+		101
+	],
+	"moveable": {
+		"speed": 0.8999999761581421
+	},
+	"name": "Ghast",
+	"sight": {
+		"ignore_infra_penalty": true,
+		"infravision": true,
+		"range": 12,
+		"threesixty": false
+	},
+	"stamina": {
+		"fatigue": 100,
+		"stamina": 100,
+		"stamina_regen": 0.0
+	},
+	"statistics": {
+		"dexterity": [
+			12,
+			16
+		],
+		"endurance": [
+			32,
+			36
+		],
+		"intelligence": [
+			28,
+			33
+		],
+		"strength": [
+			41,
+			45
+		],
+		"willpower": [
+			46,
+			50
+		]
+	},
+	"tags": [
+		"4"
+	],
+	"weapon": {
+		"attack_speed": 1.0,
+		"critical_hit": 0.0,
+		"damage": [
+			{
+				"dmg_max": 25,
+				"dmg_min": 15,
+				"dmg_type": "death"
+			}
+		],
+		"hands": 1,
+		"hit_bonus": 1,
+		"parry_bonus": 0,
+		"range": 1,
+		"type": 1
+	}
+}

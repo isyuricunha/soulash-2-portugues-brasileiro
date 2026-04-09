@@ -1,0 +1,16 @@
+{
+	"id": "core_2_cat_eye_ring",
+	"name": "Cat Eye Ring",
+	"requirements": {
+		"milestones": [],
+		"skill": 12
+	},
+	"rewards": [
+		{
+			"recipe": "core_2_Cat_Eye_Ring"
+		}
+	],
+	"skill_id": "core_2_imbuing",
+	"steps": [],
+	"steps_type": 0
+}

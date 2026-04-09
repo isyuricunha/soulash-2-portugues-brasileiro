@@ -1,0 +1,29 @@
+{
+	"enables": [
+		"core_2_pyromancy"
+	],
+	"id": "39",
+	"image": 39,
+	"max": 1,
+	"name": "Collegium Magicae",
+	"occupation_image": 74,
+	"occupation": "457",
+	"produces": [
+		{
+			"entities": [
+				{
+					"daily": 0.2,
+					"id": "2006"
+				}
+			],
+			"takes": "craftable"
+		}
+	],
+	"race": "0",
+	"tier": 3,
+	"type": "military",
+	"workers": [
+		1,
+		6
+	]
+}

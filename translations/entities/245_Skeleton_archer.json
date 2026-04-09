@@ -1,0 +1,138 @@
+{
+	"armor": {
+		"acid": 0,
+		"death": 50,
+		"electricity": 0,
+		"fire": -5,
+		"frost": 0,
+		"holy": -20,
+		"parry": 0,
+		"physical": 1,
+		"poison": 5,
+		"thorns": 0
+	},
+	"artificial_intelligence": {
+		"allies": [
+			"4"
+		],
+		"allow_production": [],
+		"behaviors": [],
+		"enemies": [
+			"5"
+		]
+	},
+	"components": [
+		"actor",
+		"armor",
+		"artificial_intelligence",
+		"collidable",
+		"equipment",
+		"experience_gainer",
+		"fighter",
+		"glyph",
+		"health",
+		"humanoid",
+		"minimap_pixel",
+		"moveable",
+		"name",
+		"position_2d",
+		"sight",
+		"stamina",
+		"statistics",
+		"tags"
+	],
+	"corpse": "55",
+	"description": "This skeleton wields a drawn bow which he aims at you.",
+	"equipment": {
+		"ammo": [
+			{
+				"chance": 1.0,
+				"id": "194",
+				"name": "Arrow",
+				"stack": 15
+			}
+		],
+		"right_hand": [
+			{
+				"chance": 1.0,
+				"id": "102",
+				"name": "Short Bow",
+				"stack": 1
+			}
+		]
+	},
+	"experience_gainer": {
+		"exp": 0,
+		"level": 10
+	},
+	"fighter": {
+		"attackNames": [
+			"Bone"
+		]
+	},
+	"glyph": {
+		"frames": [
+			{
+				"color": [
+					208,
+					204,
+					187
+				],
+				"delay": 0,
+				"index": 145
+			}
+		],
+		"random_frame_start": false
+	},
+	"health": 70,
+	"humanoid": {
+		"race": ""
+	},
+	"id": "245",
+	"minimap_pixel": [
+		208,
+		204,
+		187
+	],
+	"moveable": {
+		"speed": 1.2999999523162842
+	},
+	"name": "Skeleton Archer",
+	"sight": {
+		"ignore_infra_penalty": false,
+		"infravision": true,
+		"range": 9,
+		"threesixty": false
+	},
+	"stamina": {
+		"fatigue": 100,
+		"stamina": 100,
+		"stamina_regen": 0.0
+	},
+	"statistics": {
+		"dexterity": [
+			13,
+			18
+		],
+		"endurance": [
+			9,
+			14
+		],
+		"intelligence": [
+			7,
+			10
+		],
+		"strength": [
+			11,
+			14
+		],
+		"willpower": [
+			6,
+			10
+		]
+	},
+	"tags": [
+		"4",
+		"20"
+	]
+}

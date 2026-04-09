@@ -1,0 +1,45 @@
+{
+	"components": [
+		"glyph",
+		"item",
+		"minimap_pixel",
+		"name",
+		"position_2d",
+		"stackable",
+		"usable",
+		"value",
+		"weight"
+	],
+	"description": "Just a handfull can speed up regeneration of your health.",
+	"glyph": {
+		"frames": [
+			{
+				"color": [
+					255,
+					255,
+					255
+				],
+				"delay": 0,
+				"index": 2121
+			}
+		],
+		"random_frame_start": false
+	},
+	"id": "core_2_Healing_Herbs",
+	"item": {
+		"image": 864,
+		"type": 17
+	},
+	"minimap_pixel": [
+		125,
+		128,
+		128
+	],
+	"name": "Healing Herbs",
+	"usable": {
+		"ability": "core_2_Healing_Herbs",
+		"recipe": ""
+	},
+	"value": 300,
+	"weight": 0.10000000149011612
+}

@@ -1,0 +1,25 @@
+{
+	"id": "118",
+	"image": 84,
+	"max": 2,
+	"name": "Sage Hut",
+	"occupation_image": 68,
+	"occupation": "2374",
+	"produces": [
+		{
+			"entities": [
+				{
+					"daily": 1,
+					"id": "2367"
+				}
+			],
+			"takes": "craftable"
+		}
+	],
+	"race": "26",
+	"tier": 2,
+	"workers": [
+		1,
+		2
+	]
+}

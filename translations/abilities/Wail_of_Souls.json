@@ -1,0 +1,25 @@
+{
+	"animation": "core_2_Wail_of_Souls",
+	"cast_time": 0.5,
+	"cooldown": 10.0,
+	"cost": {
+		"health": 0,
+		"stamina": 5
+	},
+	"description": "Sends crying souls your way, dealing ::damage ::damage_type damage and stunning you and filling you with fear.",
+	"duration": 5.0,
+	"effects": {
+		"damage": [
+			25,
+			40
+		],
+		"damage_type": "death",
+		"fear": 5
+	},
+	"id": "core_2_Wail_of_Souls",
+	"image": 801,
+	"name": "Wail of Souls",
+	"range": 10,
+	"skill": "",
+	"target": "cone"
+}

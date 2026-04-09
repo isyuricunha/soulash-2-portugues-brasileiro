@@ -1,0 +1,82 @@
+{
+	"components": [
+		"glyph",
+		"item",
+		"minimap_pixel",
+		"name",
+		"position_2d",
+		"producer",
+		"stackable",
+		"value",
+		"weight"
+	],
+	"description": "This tree was completely ripped out of the ground. You might be able to produce some oak wooden chunks from it.",
+	"glyph": {
+		"frames": [
+			{
+				"color": [
+					255,
+					255,
+					255
+				],
+				"delay": 0,
+				"index": 3057
+			}
+		],
+		"random_frame_start": false
+	},
+	"id": "core_2_Uprooted_Oak",
+	"item": {
+		"image": 393,
+		"type": 16
+	},
+	"minimap_pixel": [
+		125,
+		115,
+		68
+	],
+	"name": "Uprooted Oak",
+	"producer": {
+		"products": {
+			"1": [
+				{
+					"amount": [
+						7,
+						9
+					],
+					"id": "872",
+					"percent_chance": 100
+				},
+				{
+					"amount": [
+						2,
+						4
+					],
+					"id": "2008",
+					"percent_chance": 100
+				}
+			],
+			"core_2_woodbend": [
+				{
+					"amount": [
+						8,
+						10
+					],
+					"id": "872",
+					"percent_chance": 100
+				},
+				{
+					"amount": [
+						3,
+						5
+					],
+					"id": "2008",
+					"percent_chance": 100
+				}
+			]
+		},
+		"time": 60
+	},
+	"value": 2000,
+	"weight": 80.0
+}

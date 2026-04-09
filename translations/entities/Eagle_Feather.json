@@ -1,0 +1,60 @@
+{
+	"armor": {
+		"acid": 0,
+		"death": 0,
+		"electricity": 2,
+		"fire": 0,
+		"frost": 0,
+		"holy": 0,
+		"parry": 0,
+		"physical": 0,
+		"poison": 0,
+		"thorns": 0
+	},
+	"components": [
+		"armor",
+		"glyph",
+		"item",
+		"minimap_pixel",
+		"name",
+		"position_2d",
+		"resource",
+		"stackable",
+		"value",
+		"weight"
+	],
+	"description": "Big feather of a great eagle.",
+	"glyph": {
+		"frames": [
+			{
+				"color": [
+					255,
+					255,
+					255
+				],
+				"delay": 0,
+				"index": 2304
+			}
+		],
+		"random_frame_start": false
+	},
+	"id": "core_2_Eagle_Feather",
+	"item": {
+		"image": 981,
+		"type": 16
+	},
+	"minimap_pixel": [
+		182,
+		175,
+		158
+	],
+	"name": "Eagle Feather",
+	"resource": {
+		"affix": "of Freedom",
+		"magic_ingredient": 2,
+		"quality": 2,
+		"type": 7
+	},
+	"value": 800,
+	"weight": 0.10000000149011612
+}

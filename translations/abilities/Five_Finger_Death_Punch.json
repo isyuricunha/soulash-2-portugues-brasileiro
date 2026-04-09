@@ -1,0 +1,32 @@
+{
+	"animation": "core_2_Five_Finger_Death_Punch",
+	"cast_time": 1.0,
+	"cooldown": 20.0,
+	"cost": {
+		"health": 0,
+		"stamina": 10
+	},
+	"description": "Enforced by the power of your faith and years of training, you deliver a single punch that creates a shockwave in front of you dealing ::damage ::damage_type to everyone in it's path.",
+	"duration": 0.0,
+	"effects": {
+		"aoe_break": 1,
+		"aoe_range": 5,
+		"damage": [
+			30,
+			40
+		],
+		"damage_type": "holy",
+		"damage_weapon": 1.25
+	},
+	"id": "core_2_Five_Finger_Death_Punch",
+	"image": 223,
+	"name": "Five Finger Death Punch",
+	"range": 5,
+	"skill": "core_2_divine_fists",
+	"slots": {
+		"defensive": 0,
+		"offensive": 2,
+		"utility": 2
+	},
+	"target": "cone"
+}

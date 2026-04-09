@@ -1,0 +1,66 @@
+{
+	"armor": {
+		"acid": 0,
+		"death": 0,
+		"electricity": 0,
+		"fire": 0,
+		"frost": 1,
+		"holy": 0,
+		"parry": 0,
+		"physical": 0,
+		"poison": 0
+	},
+	"components": [
+		"armor",
+		"craftable",
+		"glyph",
+		"item",
+		"minimap_pixel",
+		"name",
+		"position_2d",
+		"value",
+		"weight"
+	],
+	"craftable": {
+		"magic_slots": 1,
+		"resource_types": [
+			{
+				"amount": 1,
+				"id": 4
+			}
+		],
+		"resources": null,
+		"time": 30,
+		"tools": [
+			12
+		]
+	},
+	"description": "Used by bandits and old women.",
+	"glyph": {
+		"frames": [
+			{
+				"color": [
+					255,
+					255,
+					255
+				],
+				"delay": 0,
+				"index": 706
+			}
+		],
+		"random_frame_start": false
+	},
+	"id": "177",
+	"item": {
+		"image": 79,
+		"type": 2
+	},
+	"minimap_pixel": [
+		168,
+		18,
+		4
+	],
+	"name": "Bandana",
+	"value": 100,
+	"weight": 0.25
+}

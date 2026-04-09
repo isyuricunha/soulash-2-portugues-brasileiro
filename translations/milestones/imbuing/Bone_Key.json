@@ -1,0 +1,16 @@
+{
+	"id": "core_2_bone_key",
+	"name": "Bone Key",
+	"requirements": {
+		"milestones": [],
+		"skill": 11
+	},
+	"rewards": [
+		{
+			"recipe": "core_2_Bone_Key"
+		}
+	],
+	"skill_id": "core_2_imbuing",
+	"steps": [],
+	"steps_type": 0
+}

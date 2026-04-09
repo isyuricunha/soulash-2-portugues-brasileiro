@@ -1,0 +1,16 @@
+{
+	"id": "core_2_flash_bomb",
+	"name": "Flash Bomb",
+	"requirements": {
+		"milestones": [],
+		"skill": 29
+	},
+	"rewards": [
+		{
+			"recipe": "2810"
+		}
+	],
+	"skill_id": "core_2_alchemy",
+	"steps": [],
+	"steps_type": 0
+}

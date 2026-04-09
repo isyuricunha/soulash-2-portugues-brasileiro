@@ -1,0 +1,68 @@
+{
+	"components": [
+		"glyph",
+		"item",
+		"liquid_source",
+		"minimap_pixel",
+		"name",
+		"position_2d",
+		"producer",
+		"value",
+		"weight"
+	],
+	"description": "A lifeless body of a grown bear.",
+	"glyph": {
+		"frames": [
+			{
+				"color": [
+					255,
+					255,
+					255
+				],
+				"delay": 0,
+				"index": 152
+			}
+		],
+		"random_frame_start": false
+	},
+	"id": "341",
+	"item": {
+		"image": 315,
+		"type": 18
+	},
+	"liquid_source": {
+		"limit": 500,
+		"type": 4
+	},
+	"minimap_pixel": [
+		139,
+		69,
+		19
+	],
+	"name": "Bear Corpse",
+	"producer": {
+		"products": {
+			"3": [
+				{
+					"amount": [
+						10,
+						15
+					],
+					"id": "318",
+					"percent_chance": 100
+				},
+				{
+					"amount": [
+						1,
+						1
+					],
+					"id": "2143",
+					"percent_chance": 100
+				}
+			]
+		},
+		"time": 0
+	},
+	"value": 0,
+	"weight": 200.0
+}

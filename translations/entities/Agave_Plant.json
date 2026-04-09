@@ -1,0 +1,83 @@
+{
+	"components": [
+		"glyph",
+		"glyph_top",
+		"minimap_pixel",
+		"name",
+		"position_2d",
+		"producer",
+		"stackable"
+	],
+	"description": "Rosette of green leaves. ",
+	"glyph": {
+		"frames": [
+			{
+				"color": [
+					116,
+					128,
+					103
+				],
+				"delay": 0,
+				"index": 860
+			}
+		],
+		"random_frame_start": true,
+		"random_top": {
+			"colors": [
+				[
+					116,
+					128,
+					103
+				],
+				[
+					76,
+					102,
+					90
+				],
+				[
+					147,
+					168,
+					137
+				]
+			],
+			"count": 3,
+			"glyph_ids": [
+				2571,
+				2572
+			],
+			"max_alpha": 255,
+			"max_range": 3,
+			"wind": true
+		}
+	},
+	"id": "core_2_Agave_Plant",
+	"minimap_pixel": [
+		241,
+		90,
+		34
+	],
+	"name": "Agave Plant",
+	"producer": {
+		"products": {
+			"10": [
+				{
+					"amount": [
+						1,
+						2
+					],
+					"id": "2010",
+					"percent_chance": 100
+				},
+				{
+					"amount": [
+						1,
+						2
+					],
+					"id": "core_2_Agave_Seed",
+					"percent_chance": 30
+				}
+			]
+		},
+		"time": 10
+	}
+}

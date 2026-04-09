@@ -1,0 +1,15 @@
+{
+	"id": "core_2_bleed_for_me",
+	"name": "Bleed For Me",
+	"requirements": {
+		"skill": 3
+	},
+	"rewards": [
+		{
+			"amplifier": "core_2_open_wound"
+		}
+	],
+	"skill_id": "core_2_sword_fighting",
+	"steps": [],
+	"steps_type": 0
+}

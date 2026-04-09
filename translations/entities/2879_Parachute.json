@@ -1,0 +1,68 @@
+{
+	"components": [
+		"glyph",
+		"height",
+		"minimap_pixel",
+		"name",
+		"position_2d"
+	],
+	"description": "It allows you to descend slowly when needed. ",
+	"glyph": {
+		"frames": [
+			{
+				"color": [
+					255,
+					255,
+					255
+				],
+				"delay": 0,
+				"index": 261
+			},
+			{
+				"color": [
+					255,
+					255,
+					255
+				],
+				"delay": 0,
+				"index": 1068
+			},
+			{
+				"color": [
+					255,
+					255,
+					255
+				],
+				"delay": 0,
+				"index": 1072
+			},
+			{
+				"color": [
+					255,
+					255,
+					255
+				],
+				"delay": 0,
+				"index": 1073
+			},
+			{
+				"color": [
+					255,
+					255,
+					255
+				],
+				"delay": 0,
+				"index": 1202
+			}
+		],
+		"random_frame_start": true
+	},
+	"height": 0,
+	"id": "2879",
+	"minimap_pixel": [
+		99,
+		68,
+		24
+	],
+	"name": "Parachute"
+}

@@ -1,0 +1,20 @@
+{
+	"animation": "core_2_Ooze_Trail",
+	"cast_time": 0.5,
+	"cooldown": 10.0,
+	"cost": {
+		"health": 0,
+		"stamina": 8
+	},
+	"description": "While walking during the next ::duration turns, leave a ::summon behind.",
+	"duration": 10.0,
+	"effects_keys": {
+		"summon_on_move": "core_2_Ooze"
+	},
+	"id": "core_2_Ooze_Trail",
+	"image": 784,
+	"name": "Ooze Trail",
+	"range": 0,
+	"skill": "",
+	"target": "self"
+}

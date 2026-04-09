@@ -1,0 +1,16 @@
+{
+	"id": "core_2_shrapnel_bomb",
+	"name": "Shrapnel Bomb",
+	"requirements": {
+		"milestones": [],
+		"skill": 17
+	},
+	"rewards": [
+		{
+			"recipe": "core_2_Shrapnel_Bomb"
+		}
+	],
+	"skill_id": "core_2_alchemy",
+	"steps": [],
+	"steps_type": 0
+}

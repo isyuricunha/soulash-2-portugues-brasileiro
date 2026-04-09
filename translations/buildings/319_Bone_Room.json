@@ -1,0 +1,27 @@
+{
+	"enables": [
+		"core_2_necromancy"
+	],
+	"id": "319",
+	"image": 139,
+	"name": "Bone Room",
+	"occupation_image": 37,
+	"occupation": "core_2_Gnoll_Bonekeeper",
+	"produces": [
+		{
+			"entities": [
+				{
+					"daily": 1,
+					"id": "55"
+				}
+			],
+			"takes": []
+		}
+	],
+	"race": "31",
+	"tier": 3,
+	"workers": [
+		1,
+		1
+	]
+}

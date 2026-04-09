@@ -1,0 +1,15 @@
+{
+	"id": "core_2_first_aid",
+	"name": "First Aid",
+	"requirements": {
+		"skill": 21
+	},
+	"rewards": [
+		{
+			"passive": "core_2_first_aid"
+		}
+	],
+	"skill_id": "core_2_leadership",
+	"steps": [],
+	"steps_type": 0
+}

@@ -1,0 +1,84 @@
+{
+	"armor": {
+		"acid": 1000,
+		"death": 1000,
+		"electricity": 1000,
+		"fire": 1000,
+		"frost": 0,
+		"holy": 1000,
+		"parry": 0,
+		"physical": 1000,
+		"poison": 1000,
+		"thorns": 0
+	},
+	"background": {
+		"color": [
+			117,
+			40,
+			29
+		],
+		"movement_penalty": 0.800000011920929,
+		"noise": 5,
+		"noise_intensity": 7
+	},
+	"components": [
+		"armor",
+		"background",
+		"glyph",
+		"health",
+		"liquid_source",
+		"minimap_pixel",
+		"name",
+		"position_2d",
+		"water"
+	],
+	"corpse": [
+		{
+			"damage_type": 2,
+			"id": "947"
+		},
+		{
+			"damage_type": 9,
+			"id": "946"
+		}
+	],
+	"description": "A pond of crimson red blood.",
+	"glyph": {
+		"frames": [
+			{
+				"color": [
+					255,
+					255,
+					255
+				],
+				"delay": 1400,
+				"index": 920
+			},
+			{
+				"color": [
+					255,
+					255,
+					255
+				],
+				"delay": 200,
+				"index": 187
+			}
+		],
+		"random_frame_start": true
+	},
+	"health": 1,
+	"id": "946",
+	"liquid_source": {
+		"limit": -1,
+		"type": 4
+	},
+	"minimap_pixel": [
+		138,
+		62,
+		57
+	],
+	"name": "Blood Pond",
+	"water": {
+		"swimming": true
+	}
+}

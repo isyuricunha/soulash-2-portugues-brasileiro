@@ -1,0 +1,16 @@
+{
+	"id": "core_2_candelabra_sapling",
+	"name": "Candelabra Tree Sapling",
+	"requirements": {
+		"milestones": [],
+		"skill": 15
+	},
+	"rewards": [
+		{
+			"recipe": "core_2_Candelabra_Tree_Sapling"
+		}
+	],
+	"skill_id": "core_2_agriculture",
+	"steps": [],
+	"steps_type": 0
+}

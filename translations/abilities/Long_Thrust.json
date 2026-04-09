@@ -1,0 +1,35 @@
+{
+	"animation": "core_2_Long_Thrust",
+	"cast_time": -1.0,
+	"cooldown": 4.0,
+	"cost": {
+		"health": 0,
+		"stamina": 4
+	},
+	"description": "Weapon attack that deals ::damage ::damage_type damage.",
+	"duration": 0.0,
+	"effects": {
+		"damage": [
+			2,
+			6
+		],
+		"damage_type": "physical",
+		"damage_weapon": 1.0
+	},
+	"id": "44",
+	"image": 709,
+	"name": "Long Thrust",
+	"range": 2,
+	"requirements": {
+		"one_of": [
+			4,
+			5
+		]
+	},
+	"skill": "core_2_pole_fighting",
+	"slots": {
+		"offensive": 1,
+		"utility": 1
+	},
+	"target": "line"
+}

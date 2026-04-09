@@ -1,0 +1,45 @@
+{
+	"components": [
+		"food",
+		"glyph",
+		"item",
+		"name",
+		"position_2d",
+		"stackable",
+		"value",
+		"weight",
+		"minimap_pixel"
+	],
+	"description": "Handful of blackberries for a snack.",
+	"food": {
+		"nutrition": 5,
+		"poisonous": 0,
+		"raw": true
+	},
+	"glyph": {
+		"frames": [
+			{
+				"color": [
+					255,
+					255,
+					255
+				],
+				"delay": 0,
+				"index": 396
+			}
+		]
+	},
+	"id": "815",
+	"item": {
+		"image": 362,
+		"type": 20
+	},
+	"minimap_pixel": [
+		82,
+		82,
+		82
+	],
+	"name": "Blackberry",
+	"value": 50,
+	"weight": 0.009999999776482582
+}

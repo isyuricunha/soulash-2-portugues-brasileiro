@@ -1,0 +1,86 @@
+{
+	"armor": {
+		"acid": 100,
+		"death": 0,
+		"electricity": 10,
+		"fire": -10,
+		"frost": 30,
+		"holy": 100,
+		"parry": 0,
+		"physical": 5,
+		"poison": 100,
+		"thorns": 0
+	},
+	"components": [
+		"armor",
+		"block_light",
+		"glyph",
+		"glyph_top",
+		"health",
+		"height",
+		"minimap_pixel",
+		"name",
+		"position_2d",
+		"random_resource"
+	],
+	"corpse": [],
+	"description": "A small bush with thick leaves. Might have bearberries soon.",
+	"glyph": {
+		"frames": [
+			{
+				"color": [
+					120,
+					88,
+					66
+				],
+				"delay": 0,
+				"index": 860
+			}
+		],
+		"random_frame_start": false,
+		"random_top": {
+			"colors": [
+				[
+					255,
+					255,
+					255
+				]
+			],
+			"count": 5,
+			"glyph_ids": [
+				867,
+				868
+			],
+			"max_alpha": 200,
+			"max_range": 3,
+			"wind": true
+		}
+	},
+	"health": 50,
+	"height": 2,
+	"id": "core_2_Picked_Bearberry_Bush",
+	"minimap_pixel": [
+		100,
+		109,
+		155
+	],
+	"name": "Picked Bearberry Bush",
+	"random_resource": {
+		"delay_spawn": true,
+		"entity": [
+			"core_2_Bearberry_Bush"
+		],
+		"max_amount": 1,
+		"max_distance": 0,
+		"min_amount": 1,
+		"min_distance": 0,
+		"multiply_same": false,
+		"respawn_rate": 72000.0,
+		"spawn_at": [
+			"core_2_Picked_Bearberry_Bush"
+		],
+		"spawn_chance": 100.0,
+		"spawn_multiply": 0.0,
+		"spawn_rolls": 1
+	}
+}

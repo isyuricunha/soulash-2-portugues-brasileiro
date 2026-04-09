@@ -1,0 +1,19 @@
+{
+	"id": "core_2_drying_strings",
+	"name": "Drying Strings",
+	"requirements": {
+		"milestones": [],
+		"skill": 4
+	},
+	"rewards": [
+		{
+			"recipe": "2323"
+		},
+		{
+			"recipe": "2249"
+		}
+	],
+	"skill_id": "core_2_agriculture",
+	"steps": [],
+	"steps_type": 0
+}

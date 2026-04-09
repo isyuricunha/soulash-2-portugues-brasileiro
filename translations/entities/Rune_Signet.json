@@ -1,0 +1,76 @@
+{
+	"armor": {
+		"acid": 0,
+		"death": 0,
+		"electricity": 2,
+		"fire": 0,
+		"frost": 0,
+		"holy": 0,
+		"parry": 0,
+		"physical": 5,
+		"poison": 2,
+		"thorns": 0
+	},
+	"components": [
+		"armor",
+		"craftable",
+		"glyph",
+		"item",
+		"minimap_pixel",
+		"name",
+		"position_2d",
+		"value",
+		"weight"
+	],
+	"craftable": {
+		"backgrounds": [],
+		"biomes": [],
+		"magic_slots": 4,
+		"resource_types": [
+			{
+				"amount": 2,
+				"id": 1
+			},
+			{
+				"amount": 1,
+				"id": 3
+			},
+			{
+				"amount": 1,
+				"id": 8
+			}
+		],
+		"time": 60,
+		"tools": [
+			1
+		]
+	},
+	"description": "A signet with a rune carved into it.",
+	"glyph": {
+		"frames": [
+			{
+				"color": [
+					255,
+					255,
+					255
+				],
+				"delay": 0,
+				"index": 2365
+			}
+		],
+		"random_frame_start": false
+	},
+	"id": "core_2_Rune_Signet",
+	"item": {
+		"image": 1032,
+		"type": 12
+	},
+	"minimap_pixel": [
+		171,
+		102,
+		57
+	],
+	"name": "Rune Signet",
+	"value": 3500,
+	"weight": 0.10000000149011612
+}

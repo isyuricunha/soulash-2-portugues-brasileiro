@@ -1,0 +1,18 @@
+{
+	"enables": [
+		"core_2_armorsmith"
+	],
+	"id": "459",
+	"image": 346,
+	"max": 2,
+	"name": "Armorsmith",
+	"occupation_image": 7,
+	"occupation": "core_2_Skeleton_Armorsmith",
+	"produces": [],
+	"race": "17",
+	"tier": 1,
+	"workers": [
+		1,
+		2
+	]
+}

@@ -1,0 +1,76 @@
+{
+	"armor": {
+		"acid": 5,
+		"death": 5,
+		"electricity": 5,
+		"fire": 5,
+		"frost": 5,
+		"holy": 5,
+		"parry": 0,
+		"physical": 5,
+		"poison": 5,
+		"thorns": 0
+	},
+	"components": [
+		"armor",
+		"craftable",
+		"glyph",
+		"item",
+		"minimap_pixel",
+		"name",
+		"position_2d",
+		"value",
+		"weight"
+	],
+	"craftable": {
+		"backgrounds": [],
+		"biomes": [],
+		"magic_slots": 5,
+		"resource_types": [
+			{
+				"amount": 2,
+				"id": 9
+			},
+			{
+				"amount": 2,
+				"id": 2
+			},
+			{
+				"amount": 1,
+				"id": 4
+			}
+		],
+		"time": 60,
+		"tools": [
+			1
+		]
+	},
+	"description": "A set of golem's legs equipped with some additional armor.",
+	"glyph": {
+		"frames": [
+			{
+				"color": [
+					255,
+					255,
+					255
+				],
+				"delay": 0,
+				"index": 2192
+			}
+		],
+		"random_frame_start": false
+	},
+	"id": "core_2_Armored_Legs",
+	"item": {
+		"image": 918,
+		"type": 28
+	},
+	"minimap_pixel": [
+		156,
+		160,
+		161
+	],
+	"name": "Armored Legs",
+	"value": 15000,
+	"weight": 1.5
+}

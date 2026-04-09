@@ -1,0 +1,131 @@
+{
+	"ability_user": [
+		"98"
+	],
+	"armor": {
+		"acid": 0,
+		"death": 0,
+		"electricity": 0,
+		"fire": -8,
+		"frost": 0,
+		"holy": 0,
+		"parry": 0,
+		"physical": 0,
+		"poison": 8,
+		"thorns": 0
+	},
+	"artificial_intelligence": {
+		"allies": [],
+		"allow_production": [],
+		"behaviors": [],
+		"enemies": [
+			"5"
+		]
+	},
+	"components": [
+		"ability_user",
+		"actor",
+		"armor",
+		"artificial_intelligence",
+		"collidable",
+		"equipment",
+		"experience_gainer",
+		"fighter",
+		"glyph",
+		"health",
+		"minimap_pixel",
+		"name",
+		"position_2d",
+		"sight",
+		"stamina",
+		"statistics",
+		"tags",
+		"weapon"
+	],
+	"corpse": "2445",
+	"description": "Thick vines wiggle, throwing thorns at living beings nearby.",
+	"experience_gainer": {
+		"exp": 0,
+		"level": 20
+	},
+	"fighter": {
+		"attackNames": [
+			"Thorn"
+		]
+	},
+	"glyph": {
+		"frames": [
+			{
+				"color": [
+					255,
+					255,
+					255
+				],
+				"delay": 0,
+				"index": 72
+			}
+		],
+		"random_frame_start": false
+	},
+	"health": 120,
+	"id": "2229",
+	"minimap_pixel": [
+		52,
+		144,
+		108
+	],
+	"name": "Thorn Spitter",
+	"sight": {
+		"ignore_infra_penalty": true,
+		"infravision": true,
+		"range": 6,
+		"threesixty": true
+	},
+	"stamina": {
+		"fatigue": 100,
+		"stamina": 100,
+		"stamina_regen": 0.0
+	},
+	"statistics": {
+		"dexterity": [
+			30,
+			35
+		],
+		"endurance": [
+			25,
+			30
+		],
+		"intelligence": [
+			17,
+			20
+		],
+		"strength": [
+			15,
+			18
+		],
+		"willpower": [
+			5,
+			9
+		]
+	},
+	"tags": [
+		"9"
+	],
+	"weapon": {
+		"attack_animation": "235",
+		"attack_speed": 1.0,
+		"critical_hit": 0.0,
+		"damage": [
+			{
+				"dmg_max": 6,
+				"dmg_min": 2,
+				"dmg_type": "poison"
+			}
+		],
+		"hands": 1,
+		"hit_bonus": 2,
+		"parry_bonus": 0,
+		"range": 6,
+		"type": 3
+	}
+}

@@ -1,0 +1,16 @@
+{
+	"id": "core_2_mushroom_sapling",
+	"name": "Mushroom Tree Sapling",
+	"requirements": {
+		"milestones": [],
+		"skill": 16
+	},
+	"rewards": [
+		{
+			"recipe": "core_2_Mushroom_Tree_Sapling"
+		}
+	],
+	"skill_id": "core_2_agriculture",
+	"steps": [],
+	"steps_type": 0
+}

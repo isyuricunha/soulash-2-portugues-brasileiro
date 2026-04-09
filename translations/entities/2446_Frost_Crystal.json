@@ -1,0 +1,64 @@
+{
+	"components": [
+		"glyph",
+		"item",
+		"minimap_pixel",
+		"name",
+		"position_2d",
+		"resource",
+		"stackable",
+		"value",
+		"weapon",
+		"weight"
+	],
+	"description": "A shimmering gem born of frigid realms, crystallizing the essence of ice and cold. This exquisite crystal radiates an icy blue glow, holding within it the raw power of frost.",
+	"glyph": {
+		"frames": [
+			{
+				"color": [
+					255,
+					255,
+					255
+				],
+				"delay": 0,
+				"index": 1605
+			}
+		],
+		"random_frame_start": false
+	},
+	"id": "2446",
+	"item": {
+		"image": 645,
+		"type": 16
+	},
+	"minimap_pixel": [
+		100,
+		109,
+		155
+	],
+	"name": "Frost Crystal",
+	"resource": {
+		"affix": "of the Frozen Waste",
+		"magic_ingredient": 2,
+		"quality": 2,
+		"type": 7
+	},
+	"value": 1200,
+	"weapon": {
+		"attack_speed": 0.0,
+		"critical_hit": 0.0,
+		"damage": [
+			{
+				"dmg_max": 2,
+				"dmg_min": 2,
+				"dmg_type": "frost"
+			}
+		],
+		"hands": 1,
+		"hit_bonus": 0,
+		"parry_bonus": 0,
+		"range": 0,
+		"type": 9
+	},
+	"weight": 0.10000000149011612
+}

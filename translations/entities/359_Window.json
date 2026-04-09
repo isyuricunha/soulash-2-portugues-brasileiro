@@ -1,0 +1,97 @@
+{
+	"armor": {
+		"acid": 3,
+		"death": 2,
+		"electricity": 10,
+		"fire": 8,
+		"frost": 2,
+		"holy": 2,
+		"parry": 0,
+		"physical": 8,
+		"poison": 6,
+		"thorns": 0
+	},
+	"background": {
+		"color": [
+			23,
+			27,
+			37
+		],
+		"noise": 2
+	},
+	"category_id": 2,
+	"components": [
+		"armor",
+		"background",
+		"collidable",
+		"craftable",
+		"glyph",
+		"health",
+		"height",
+		"minimap_pixel",
+		"name",
+		"position_2d",
+		"producer"
+	],
+	"corpse": [],
+	"craftable": {
+		"backgrounds": [],
+		"biomes": [],
+		"magic_slots": 0,
+		"resource_types": [
+			{
+				"amount": 2,
+				"id": 6
+			}
+		],
+		"resources": [
+			{
+				"amount": 1,
+				"id": "2090"
+			}
+		],
+		"time": 20,
+		"tools": [
+			6
+		]
+	},
+	"description": "Window in a stone wall, allowing for some light to enter the building.",
+	"glyph": {
+		"frames": [
+			{
+				"color": [
+					255,
+					255,
+					255
+				],
+				"delay": 0,
+				"index": 799
+			}
+		],
+		"random_frame_start": false
+	},
+	"health": 200,
+	"height": 10,
+	"id": "359",
+	"minimap_pixel": [
+		74,
+		83,
+		92
+	],
+	"name": "Window",
+	"producer": {
+		"products": {
+			"core_2_deconstruct": [
+				{
+					"amount": [
+						0,
+						0
+					],
+					"id": "",
+					"percent_chance": 100
+				}
+			]
+		},
+		"time": 20
+	}
+}

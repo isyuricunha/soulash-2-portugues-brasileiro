@@ -1,0 +1,43 @@
+{
+	"components": [
+		"collidable",
+		"glyph",
+		"health",
+		"height",
+		"minimap_pixel",
+		"name",
+		"position_2d",
+		"tool"
+	],
+	"corpse": "704",
+	"description": "An altar smeared with fresh blood, engraved with demonic sigils that pulse faintly with dark energy.",
+	"glyph": {
+		"frames": [
+			{
+				"color": [
+					255,
+					255,
+					255
+				],
+				"delay": 0,
+				"index": 3020
+			}
+		],
+		"random_frame_start": false
+	},
+	"health": 150,
+	"height": 0,
+	"id": "core_2_Bloodstained_Altar",
+	"minimap_pixel": [
+		220,
+		220,
+		220
+	],
+	"name": "Bloodstained Altar",
+	"tool": [
+		{
+			"id": 1,
+			"quality": 10
+		}
+	]
+}

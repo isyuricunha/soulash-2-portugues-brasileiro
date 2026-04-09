@@ -1,0 +1,97 @@
+{
+	"armor": {
+		"acid": 0,
+		"death": 0,
+		"electricity": 0,
+		"fire": 0,
+		"frost": 0,
+		"holy": 0,
+		"parry": 0,
+		"physical": 3,
+		"poison": 0,
+		"thorns": 0
+	},
+	"components": [
+		"armor",
+		"craftable",
+		"glyph",
+		"item",
+		"minimap_pixel",
+		"name",
+		"position_2d",
+		"resource",
+		"stackable",
+		"value",
+		"weapon",
+		"weight"
+	],
+	"craftable": {
+		"backgrounds": [],
+		"biomes": [],
+		"magic_slots": 0,
+		"resources": [
+			{
+				"amount": 2,
+				"id": "146"
+			},
+			{
+				"amount": 2,
+				"id": "148"
+			}
+		],
+		"time": 1,
+		"tools": [
+			10
+		]
+	},
+	"description": "Steel is combined from iron and coal. It's very durable.",
+	"glyph": {
+		"frames": [
+			{
+				"color": [
+					255,
+					255,
+					255
+				],
+				"delay": 0,
+				"index": 277
+			}
+		],
+		"random_frame_start": false
+	},
+	"id": "149",
+	"item": {
+		"image": 56,
+		"type": 16
+	},
+	"minimap_pixel": [
+		157,
+		143,
+		137
+	],
+	"name": "Steel Ingot",
+	"resource": {
+		"affix": "Steel",
+		"magic_ingredient": 0,
+		"quality": 3,
+		"type": 1
+	},
+	"value": 9500,
+	"weapon": {
+		"attack_speed": 0.0,
+		"critical_hit": 0.0,
+		"damage": [
+			{
+				"dmg_max": 3,
+				"dmg_min": 3,
+				"dmg_type": "physical"
+			}
+		],
+		"hands": 1,
+		"hit_bonus": 0,
+		"parry_bonus": 0,
+		"range": 0,
+		"type": 9
+	},
+	"weight": 0.10000000149011612
+}

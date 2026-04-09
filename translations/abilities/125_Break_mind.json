@@ -1,0 +1,20 @@
+{
+	"animation": "164",
+	"cast_time": 0.2,
+	"cooldown": 5.0,
+	"cost": {
+		"health": 0,
+		"stamina": 2
+	},
+	"description": "Weaken the mind of opponent reducing intelligence by ::intelligence and willpower by ::willpower.",
+	"duration": 10.0,
+	"effects": {
+		"intelligence": -7,
+		"willpower": -7
+	},
+	"id": "125",
+	"image": 659,
+	"name": "Break Mind",
+	"range": 5,
+	"target": "actor"
+}

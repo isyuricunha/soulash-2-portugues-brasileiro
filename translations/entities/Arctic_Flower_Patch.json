@@ -1,0 +1,58 @@
+{
+	"components": [
+		"glyph",
+		"health",
+		"minimap_pixel",
+		"name",
+		"position_2d",
+		"producer"
+	],
+	"corpse": [],
+	"description": "A small patch of grass with delicate flowers.",
+	"glyph": {
+		"frames": [
+			{
+				"color": [
+					255,
+					255,
+					255
+				],
+				"delay": 0,
+				"index": 2268
+			},
+			{
+				"color": [
+					255,
+					255,
+					255
+				],
+				"delay": 200,
+				"index": 2269
+			}
+		],
+		"random_frame_start": true
+	},
+	"health": 10,
+	"id": "core_2_Arctic_Flower_Patch",
+	"minimap_pixel": [
+		226,
+		89,
+		87
+	],
+	"name": "Arctic Flower Patch",
+	"producer": {
+		"products": {
+			"10": [
+				{
+					"amount": [
+						1,
+						1
+					],
+					"id": "core_2_Arctic_Flower",
+					"percent_chance": 100
+				}
+			]
+		},
+		"time": 10
+	}
+}

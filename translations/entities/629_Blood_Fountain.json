@@ -1,0 +1,67 @@
+{
+	"category_id": 7,
+	"components": [
+		"craftable",
+		"glyph",
+		"liquid_source",
+		"minimap_pixel",
+		"name",
+		"position_2d"
+	],
+	"craftable": {
+		"magic_slots": 0,
+		"resource_types": [
+			{
+				"amount": 2,
+				"id": 1
+			}
+		],
+		"resources": null,
+		"time": 30,
+		"tools": []
+	},
+	"description": "Blood thrown into air through pressure in pipes. A grim sight.",
+	"glyph": {
+		"frames": [
+			{
+				"color": [
+					255,
+					255,
+					255
+				],
+				"delay": 150,
+				"index": 1163
+			},
+			{
+				"color": [
+					255,
+					255,
+					255
+				],
+				"delay": 150,
+				"index": 1164
+			},
+			{
+				"color": [
+					255,
+					255,
+					255
+				],
+				"delay": 150,
+				"index": 1165
+			}
+		],
+		"random_frame_start": true
+	},
+	"id": "629",
+	"liquid_source": {
+		"limit": -1,
+		"type": 4
+	},
+	"minimap_pixel": [
+		178,
+		37,
+		37
+	],
+	"name": "Blood Fountain"
+}

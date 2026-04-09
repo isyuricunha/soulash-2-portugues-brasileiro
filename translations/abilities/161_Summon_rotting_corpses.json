@@ -1,0 +1,24 @@
+{
+	"animation": "",
+	"cast_time": 0.25,
+	"cooldown": 40.0,
+	"cost": {
+		"health": 20,
+		"stamina": 0
+	},
+	"description": "Summons 30 rotting corpses around, that will deal death damage to anyone who steps on them. The corpses remain for ::duration turns.",
+	"duration": 30.0,
+	"effects": {
+		"aoe_range": 10,
+		"aoe_shape": 1,
+		"summon_count": 30
+	},
+	"effects_keys": {
+		"summon": "935"
+	},
+	"id": "161",
+	"image": 511,
+	"name": "Summon Rotting Corpses",
+	"range": 0,
+	"target": "aoe_self"
+}

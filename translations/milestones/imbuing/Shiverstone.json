@@ -1,0 +1,16 @@
+{
+	"id": "core_2_shiverstone",
+	"name": "Shiverstone",
+	"requirements": {
+		"milestones": [],
+		"skill": 39
+	},
+	"rewards": [
+		{
+			"recipe": "core_2_Shiverstone"
+		}
+	],
+	"skill_id": "core_2_imbuing",
+	"steps": [],
+	"steps_type": 0
+}

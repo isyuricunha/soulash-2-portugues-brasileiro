@@ -1,0 +1,33 @@
+{
+	"animation": "229",
+	"cast_time": 1.0,
+	"cooldown": 10.0,
+	"cost": {
+		"health": 0,
+		"stamina": 2
+	},
+	"description": "Concentrate on the fight, increasing hit bonus by ::hit_chance% and parry bonus by ::parry_chance%.",
+	"duration": 6.0,
+	"effects": {
+		"hit_chance": 2,
+		"parry_chance": 2
+	},
+	"id": "122",
+	"image": 91,
+	"level": 12,
+	"name": "Bushido",
+	"profession": 4,
+	"range": 0,
+	"requirements": {
+		"one_of": [
+			2,
+			5
+		]
+	},
+	"skill": "core_2_sword_fighting",
+	"slots": {
+		"defensive": 1,
+		"utility": 1
+	},
+	"target": "self"
+}

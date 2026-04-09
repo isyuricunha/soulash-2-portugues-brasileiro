@@ -1,0 +1,61 @@
+{
+	"id": "107",
+	"image": 81,
+	"name": "Shell Sculptor",
+	"occupation_image": 62,
+	"occupation_per_race": {
+        "0": "core_2_Human_Shell_Sculptor",
+        "1": "core_2_Dwarf_Shell_Sculptor",
+        "2": "core_2_Elf_Shell_Sculptor",
+        "4": "core_2_Goblin_Shell_Sculptor",
+		"6": "core_2_Vampire_Scale_Sculptor",
+        "7": "core_2_Troll_Shell_Sculptor",
+        "8": "core_2_Orc_Shell_Sculptor",
+        "10": "2344",
+        "23": "core_2_Reptilion_Shell_Sculptor",
+        "26": "core_2_Bone_Wraith_Shell_Sculptor",
+        "31": "core_2_Gnoll_Shell_Sculptor",
+        "32": "core_2_Mushman_Shell_Sculptor",
+        "33": "core_2_Ursan_Shell_Sculptor"
+    },
+	"occupation": "2344",
+	"produces": [
+		{
+			"entities": [
+				{
+					"daily": 1,
+					"id": "2429"
+				}
+			],
+			"takes": []
+		},
+		{
+			"entities": [
+				{
+					"daily": 1,
+					"id": "2151"
+				}
+			],
+			"takes": []
+		}
+	],
+	"race": "10",
+	"tier": 1,
+	"workers": [
+		1,
+		2
+	],
+	"allow_player": true,
+	"required_entities": [
+		{
+			"entities": ["155", "2470", "2255", "2411"],
+			"count": 1
+		},
+		{
+			"component": "resting_place",
+			"count": 2
+		}
+	],
+	"min_area": 20,
+	"group": "resources"
+}

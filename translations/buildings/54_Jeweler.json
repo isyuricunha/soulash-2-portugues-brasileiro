@@ -1,0 +1,50 @@
+{
+	"enables": [
+		"core_2_imbuing"
+	],
+	"id": "54",
+	"image": 35,
+	"max": 1,
+	"name": "Jeweler",
+	"occupation_image": 16,
+	"occupation": "2199",
+	"occupation_per_race": {
+        "0": "core_2_Human_Imbuer",
+        "1": "2282",
+        "2": "2199",
+        "4": "core_2_Goblin_Shaman",
+		"6": "core_2_Vampire_Hexer",
+        "7": "core_2_Troll_Shaman",
+        "8": "core_2_Orc_Shaman",
+        "10": "2334",
+        "23": "core_2_Reptilion_Seer",
+        "26": "2385",
+        "31": "core_2_Gnoll_Torturer",
+        "32": "core_2_Mushman_Magus",
+        "33": "core_2_Ursan_Thaumaturge"
+    },
+	"produces": [],
+	"race": "2",
+	"tier": 2,
+	"workers": [
+		1,
+		2
+	],
+	"allow_player": true,
+	"required_entities": [
+		{
+			"entities": ["155", "2470", "2255", "2411"],
+			"count": 1
+		},
+		{
+			"entities": ["2788"],
+			"count": 1
+		},
+		{
+			"component": "resting_place",
+			"count": 2
+		}
+	],
+	"min_area": 20,
+	"group": "crafters"
+}

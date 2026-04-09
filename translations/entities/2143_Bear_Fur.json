@@ -1,0 +1,60 @@
+{
+	"armor": {
+		"acid": 0,
+		"death": 0,
+		"electricity": 0,
+		"fire": 0,
+		"frost": 3,
+		"holy": 0,
+		"parry": 0,
+		"physical": 0,
+		"poison": 0,
+		"thorns": 0
+	},
+	"components": [
+		"armor",
+		"glyph",
+		"item",
+		"minimap_pixel",
+		"name",
+		"position_2d",
+		"resource",
+		"stackable",
+		"value",
+		"weight"
+	],
+	"description": "The thick and insulating texture of this fur makes it an exceptional choice for crafting durable and warm garments.",
+	"glyph": {
+		"frames": [
+			{
+				"color": [
+					255,
+					255,
+					255
+				],
+				"delay": 0,
+				"index": 1593
+			}
+		],
+		"random_frame_start": false
+	},
+	"id": "2143",
+	"item": {
+		"image": 635,
+		"type": 16
+	},
+	"minimap_pixel": [
+		182,
+		175,
+		158
+	],
+	"name": "Bear Fur",
+	"resource": {
+		"affix": "Warm",
+		"magic_ingredient": 0,
+		"quality": 2,
+		"type": 9
+	},
+	"value": 600,
+	"weight": 0.10000000149011612
+}

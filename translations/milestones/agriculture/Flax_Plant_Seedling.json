@@ -1,0 +1,16 @@
+{
+	"id": "core_2_flax_seedling",
+	"name": "Flax Plant Seedling",
+	"requirements": {
+		"milestones": [],
+		"skill": 8
+	},
+	"rewards": [
+		{
+			"recipe": "3073"
+		}
+	],
+	"skill_id": "core_2_agriculture",
+	"steps": [],
+	"steps_type": 0
+}

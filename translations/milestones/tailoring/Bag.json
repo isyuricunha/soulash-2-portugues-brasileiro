@@ -1,0 +1,16 @@
+{
+	"id": "core_2_bag",
+	"name": "Bag",
+	"requirements": {
+		"milestones": [],
+		"skill": 20
+	},
+	"rewards": [
+		{
+			"recipe": "2876"
+		}
+	],
+	"skill_id": "core_2_tailoring",
+	"steps": [],
+	"steps_type": 0
+}

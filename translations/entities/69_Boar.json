@@ -1,0 +1,138 @@
+{
+	"armor": {
+		"acid": 1,
+		"death": 0,
+		"electricity": 1,
+		"fire": 0,
+		"frost": 3,
+		"holy": 2,
+		"parry": 1,
+		"physical": 2,
+		"poison": 0,
+		"thorns": 0
+	},
+	"artificial_intelligence": {
+		"allies": [],
+		"allow_production": [],
+		"behaviors": [],
+		"enemies": [
+			"5"
+		]
+	},
+	"components": [
+		"actor",
+		"armor",
+		"artificial_intelligence",
+		"collidable",
+		"dialogues",
+		"equipment",
+		"experience_gainer",
+		"fighter",
+		"glyph",
+		"health",
+		"minimap_pixel",
+		"moveable",
+		"name",
+		"position_2d",
+		"sight",
+		"stamina",
+		"statistics",
+		"tags"
+	],
+	"corpse": "335",
+	"description": "A wild pig with tusks that is said to eat anything.",
+	"dialogues": [
+		"2",
+		"902"
+	],
+	"equipment": {
+		"disabled_slots": [
+			0,
+			2,
+			3,
+			4,
+			5,
+			6,
+			7,
+			8,
+			9,
+			12,
+			13,
+			14,
+			15,
+			16,
+			17
+		]
+	},
+	"experience_gainer": {
+		"exp": 0,
+		"level": 10
+	},
+	"fighter": {
+		"attackNames": [
+			"Tusks"
+		]
+	},
+	"glyph": {
+		"frames": [
+			{
+				"color": [
+					255,
+					255,
+					255
+				],
+				"delay": 0,
+				"index": 122
+			}
+		],
+		"random_frame_start": false
+	},
+	"health": 40,
+	"id": "69",
+	"minimap_pixel": [
+		171,
+		102,
+		57
+	],
+	"moveable": {
+		"speed": 1.0
+	},
+	"name": "Boar",
+	"sight": {
+		"ignore_infra_penalty": false,
+		"infravision": false,
+		"range": 6,
+		"threesixty": false
+	},
+	"stamina": {
+		"fatigue": 100,
+		"stamina": 100,
+		"stamina_regen": 0.0
+	},
+	"statistics": {
+		"dexterity": [
+			8,
+			12
+		],
+		"endurance": [
+			8,
+			12
+		],
+		"intelligence": [
+			3,
+			8
+		],
+		"strength": [
+			16,
+			20
+		],
+		"willpower": [
+			5,
+			10
+		]
+	},
+	"tags": [
+		"2",
+		"9"
+	]
+}

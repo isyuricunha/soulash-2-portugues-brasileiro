@@ -1,0 +1,16 @@
+{
+	"id": "core_2_book_tailoring",
+	"name": "Book Of Tailoring",
+	"requirements": {
+		"milestones": [],
+		"skill": 44
+	},
+	"rewards": [
+		{
+			"recipe": "3002"
+		}
+	],
+	"skill_id": "core_2_tailoring",
+	"steps": [],
+	"steps_type": 0
+}

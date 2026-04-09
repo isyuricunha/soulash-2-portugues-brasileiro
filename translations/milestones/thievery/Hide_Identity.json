@@ -1,0 +1,15 @@
+{
+	"id": "core_2_hide_identity",
+	"name": "Hide Identity",
+	"requirements": {
+		"skill": 48
+	},
+	"rewards": [
+		{
+			"passive": "core_2_hide_identity"
+		}
+	],
+	"skill_id": "core_2_thievery",
+	"steps": [],
+	"steps_type": 0
+}

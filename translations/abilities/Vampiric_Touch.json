@@ -1,0 +1,31 @@
+{
+	"animation": "53",
+	"cast_time": 1.0,
+	"cooldown": 20.0,
+	"cost": {
+		"health": 0,
+		"stamina": 6
+	},
+	"description": "Deals ::damage ::damage_type damage to target enemy, regaining ::damage_as_life% of it as health.\n\nVampires also regain ::damage_to_bloodlust damage as Bloodlust.",
+	"duration": 0.0,
+	"effects": {
+		"damage": [
+			1,
+			5
+		],
+		"damage_as_life": 0.5,
+		"damage_to_bloodlust": 0.25,
+		"damage_type": "death",
+		"magic_power_damage": 1.3300000429153442
+	},
+	"id": "54",
+	"image": 102,
+	"name": "Vampiric Touch",
+	"range": 1,
+	"skill": "core_2_necromancy",
+	"slots": {
+		"offensive": 2,
+		"utility": 1
+	},
+	"target": "health"
+}

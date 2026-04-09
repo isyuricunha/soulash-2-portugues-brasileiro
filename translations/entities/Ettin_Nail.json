@@ -1,0 +1,48 @@
+{
+	"components": [
+		"glyph",
+		"item",
+		"minimap_pixel",
+		"name",
+		"position_2d",
+		"resource",
+		"stackable",
+		"value",
+		"weight"
+	],
+	"description": "It's big, dirty and a little crooked.",
+	"glyph": {
+		"frames": [
+			{
+				"color": [
+					255,
+					255,
+					255
+				],
+				"delay": 0,
+				"index": 3240
+			}
+		],
+		"random_frame_start": false
+	},
+	"id": "core_2_Ettin_Nail",
+	"item": {
+		"image": 1498,
+		"type": 16
+	},
+	"minimap_pixel": [
+		210,
+		227,
+		120
+	],
+	"name": "Ettin Nail",
+	"resource": {
+		"affix": "of the Quarrel",
+		"granted_passive": "core_2_blooming_aura",
+		"magic_ingredient": 5,
+		"quality": 5,
+		"type": 7
+	},
+	"value": 20000,
+	"weight": 0.10000000149011612
+}

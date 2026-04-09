@@ -1,0 +1,123 @@
+{
+	"background": {
+		"color": [
+			45,
+			46,
+			49
+		],
+		"noise": 0
+	},
+	"components": [
+		"background",
+		"block_light",
+		"glyph",
+		"height",
+		"minimap_pixel",
+		"name",
+		"position_2d"
+	],
+	"description": "A thick cloud of smoke covers the area, obscuring vision in a large area.",
+	"glyph": {
+		"frames": [
+			{
+				"color": [
+					29,
+					30,
+					24
+				],
+				"delay": 50,
+				"index": 1179
+			},
+			{
+				"color": [
+					29,
+					30,
+					24
+				],
+				"delay": 70,
+				"index": 1180
+			},
+			{
+				"color": [
+					29,
+					30,
+					24
+				],
+				"delay": 100,
+				"index": 1181
+			},
+			{
+				"color": [
+					29,
+					30,
+					24
+				],
+				"delay": 200,
+				"index": 1182
+			},
+			{
+				"color": [
+					29,
+					30,
+					24
+				],
+				"delay": 150,
+				"index": 1183
+			},
+			{
+				"color": [
+					29,
+					30,
+					24
+				],
+				"delay": 150,
+				"index": 1184
+			},
+			{
+				"color": [
+					29,
+					30,
+					24
+				],
+				"delay": 100,
+				"index": 1185
+			},
+			{
+				"color": [
+					29,
+					30,
+					24
+				],
+				"delay": 100,
+				"index": 1186
+			},
+			{
+				"color": [
+					29,
+					30,
+					24
+				],
+				"delay": 100,
+				"index": 1187
+			},
+			{
+				"color": [
+					29,
+					30,
+					24
+				],
+				"delay": 400,
+				"index": 700
+			}
+		],
+		"random_frame_start": true
+	},
+	"height": 0,
+	"id": "934",
+	"minimap_pixel": [
+		16,
+		16,
+		14
+	],
+	"name": "Black Smoke"
+}

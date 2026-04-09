@@ -1,0 +1,58 @@
+{
+	"components": [
+		"glyph",
+		"item",
+		"liquid_source",
+		"minimap_pixel",
+		"name",
+		"position_2d",
+		"producer",
+		"weight"
+	],
+	"description": "A lifeless body of a wyvern.",
+	"glyph": {
+		"frames": [
+			{
+				"color": [
+					255,
+					255,
+					255
+				],
+				"delay": 0,
+				"index": 1975
+			}
+		],
+		"random_frame_start": false
+	},
+	"id": "2978",
+	"item": {
+		"image": 772,
+		"type": 18
+	},
+	"liquid_source": {
+		"limit": 140,
+		"type": 4
+	},
+	"minimap_pixel": [
+		150,
+		80,
+		15
+	],
+	"name": "Wyvern Corpse",
+	"producer": {
+		"products": {
+			"3": [
+				{
+					"amount": [
+						1,
+						1
+					],
+					"id": "2136",
+					"percent_chance": 100
+				}
+			]
+		},
+		"time": 10
+	},
+	"weight": 200.0
+}

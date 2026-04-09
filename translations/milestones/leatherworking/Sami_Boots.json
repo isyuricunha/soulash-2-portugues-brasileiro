@@ -1,0 +1,15 @@
+{
+	"id": "core_2_Sami_Boots",
+	"name": "Sami Boots",
+	"requirements": {
+		"skill": 34
+	},
+	"rewards": [
+		{
+			"recipe": "core_2_Sami_Boots"
+		}
+	],
+	"skill_id": "core_2_leatherworking",
+	"steps": [],
+	"steps_type": 0
+}

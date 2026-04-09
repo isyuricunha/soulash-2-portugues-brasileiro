@@ -1,0 +1,15 @@
+{
+	"id": "core_2_Piercing_Shot",
+	"name": "Piercing Shot",
+	"requirements": {
+		"skill": 1
+	},
+	"rewards": [
+		{
+			"ability": "core_2_Piercing_Shot"
+		}
+	],
+	"skill_id": "core_2_hunting",
+	"steps": [],
+	"steps_type": 0
+}

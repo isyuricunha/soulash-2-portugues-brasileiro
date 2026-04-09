@@ -1,0 +1,16 @@
+{
+	"id": "core_2_hoe",
+	"name": "Hoe",
+	"requirements": {
+		"milestones": [],
+		"skill": 5
+	},
+	"rewards": [
+		{
+			"recipe": "3067"
+		}
+	],
+	"skill_id": "core_2_weaponsmith",
+	"steps": [],
+	"steps_type": 0
+}

@@ -1,0 +1,16 @@
+{
+	"id": "core_2_throwing_knife",
+	"name": "Throwing Knife",
+	"requirements": {
+		"milestones": [],
+		"skill": 9
+	},
+	"rewards": [
+		{
+			"recipe": "205"
+		}
+	],
+	"skill_id": "core_2_weaponsmith",
+	"steps": [],
+	"steps_type": 0
+}

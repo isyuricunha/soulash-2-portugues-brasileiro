@@ -1,0 +1,69 @@
+{
+	"components": [
+		"craftable",
+		"glyph",
+		"item",
+		"minimap_pixel",
+		"name",
+		"position_2d",
+		"stackable",
+		"usable",
+		"value",
+		"weight"
+	],
+	"craftable": {
+		"backgrounds": [],
+		"biomes": [],
+		"magic_slots": 0,
+		"resources": [
+			{
+				"amount": 1,
+				"id": "core_2_Ribwort"
+			},
+			{
+				"amount": 1,
+				"id": "300"
+			},
+			{
+				"amount": 1,
+				"id": "2003"
+			}
+		],
+		"time": 10,
+		"tools": [
+			15
+		]
+	},
+	"description": "This bandage is useful in speeding up health regeneration and slightly better than a regular one.",
+	"glyph": {
+		"frames": [
+			{
+				"color": [
+					255,
+					255,
+					255
+				],
+				"delay": 0,
+				"index": 2959
+			}
+		],
+		"random_frame_start": false
+	},
+	"id": "core_2_Better_Bandage",
+	"item": {
+		"image": 1345,
+		"type": 17
+	},
+	"minimap_pixel": [
+		125,
+		128,
+		128
+	],
+	"name": "Better Bandage",
+	"usable": {
+		"ability": "core_2_Better_Bandage",
+		"recipe": ""
+	},
+	"value": 700,
+	"weight": 0.10000000149011612
+}

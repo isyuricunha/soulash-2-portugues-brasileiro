@@ -1,0 +1,20 @@
+{
+	"animation": "core_2_Roots",
+	"cast_time": 1.0,
+	"cooldown": 10.0,
+	"cost": {
+		"health": 0,
+		"stamina": 5
+	},
+	"description": "Root target in place for ::duration turns.",
+	"duration": 4.0,
+	"effects": {
+		"immobilize": 1
+	},
+	"id": "core_2_Roots",
+	"image": 545,
+	"name": "Roots",
+	"range": 6,
+	"skill": "",
+	"target": "health"
+}

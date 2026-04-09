@@ -1,0 +1,15 @@
+{
+	"id": "core_2_perfect_precision",
+	"name": "Perfect Precision",
+	"requirements": {
+		"skill": 27
+	},
+	"rewards": [
+		{
+			"passive": "core_2_critical_hit_from_dex"
+		}
+	],
+	"skill_id": "core_2_thievery",
+	"steps": [],
+	"steps_type": 0
+}

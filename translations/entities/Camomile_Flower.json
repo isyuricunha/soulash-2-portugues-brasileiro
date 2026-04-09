@@ -1,0 +1,40 @@
+{
+	"components": [
+		"glyph",
+		"item",
+		"minimap_pixel",
+		"name",
+		"position_2d",
+		"stackable",
+		"value",
+		"weight"
+	],
+	"description": "A small, white flower.",
+	"glyph": {
+		"frames": [
+			{
+				"color": [
+					255,
+					255,
+					255
+				],
+				"delay": 0,
+				"index": 2911
+			}
+		],
+		"random_frame_start": false
+	},
+	"id": "core_2_Camomile_Flower",
+	"item": {
+		"image": 1314,
+		"type": 16
+	},
+	"minimap_pixel": [
+		73,
+		156,
+		73
+	],
+	"name": "Camomile Flower",
+	"value": 100,
+	"weight": 0.10000000149011612
+}

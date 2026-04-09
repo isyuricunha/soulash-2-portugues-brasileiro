@@ -1,0 +1,70 @@
+{
+	"components": [
+		"glyph",
+		"item",
+		"minimap_pixel",
+		"name",
+		"position_2d",
+		"resource",
+		"stackable",
+		"statistics",
+		"value",
+		"weight"
+	],
+	"description": "This thick and insulating fur reflects the resilience of majestic elks.",
+	"glyph": {
+		"frames": [
+			{
+				"color": [
+					255,
+					255,
+					255
+				],
+				"delay": 0,
+				"index": 475
+			}
+		],
+		"random_frame_start": false
+	},
+	"id": "2140",
+	"item": {
+		"image": 495,
+		"type": 16
+	},
+	"minimap_pixel": [
+		182,
+		175,
+		158
+	],
+	"name": "Elk Fur",
+	"resource": {
+		"affix": "Resilient",
+		"magic_ingredient": 0,
+		"quality": 1,
+		"type": 9
+	},
+	"statistics": {
+		"dexterity": [
+			0,
+			0
+		],
+		"endurance": [
+			1,
+			1
+		],
+		"intelligence": [
+			0,
+			0
+		],
+		"strength": [
+			0,
+			0
+		],
+		"willpower": [
+			0,
+			0
+		]
+	},
+	"value": 250,
+	"weight": 0.10000000149011612
+}

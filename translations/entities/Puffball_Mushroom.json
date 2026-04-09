@@ -1,0 +1,46 @@
+{
+	"components": [
+		"food",
+		"glyph",
+		"item",
+		"minimap_pixel",
+		"name",
+		"position_2d",
+		"stackable",
+		"value",
+		"weight"
+	],
+	"description": "A wild white mushroom.",
+	"food": {
+		"nutrition": 25,
+		"on_eat": "",
+		"raw": false
+	},
+	"glyph": {
+		"frames": [
+			{
+				"color": [
+					255,
+					255,
+					255
+				],
+				"delay": 0,
+				"index": 2917
+			}
+		],
+		"random_frame_start": true
+	},
+	"id": "core_2_Puffball_Mushroom",
+	"item": {
+		"image": 1319,
+		"type": 20
+	},
+	"minimap_pixel": [
+		241,
+		90,
+		34
+	],
+	"name": "Puffball Mushroom",
+	"value": 200,
+	"weight": 0.10000000149011612
+}

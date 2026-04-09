@@ -1,0 +1,125 @@
+{
+	"artificial_intelligence": {
+		"allies": [
+			"1"
+		],
+		"allow_production": [],
+		"behaviors": [
+			1
+		],
+		"enemies": []
+	},
+	"components": [
+		"actor",
+		"artificial_intelligence",
+		"collidable",
+		"dialogues",
+		"equipment",
+		"experience_gainer",
+		"fighter",
+		"glyph",
+		"health",
+		"humanoid",
+		"minimap_pixel",
+		"moveable",
+		"name",
+		"persona",
+		"position_2d",
+		"sight",
+		"stamina",
+		"statistics",
+		"tags"
+	],
+	"corpse": "25",
+	"description": "",
+	"dialogues": [
+		"1",
+		"3",
+		"4"
+	],
+	"equipment": {
+		"torso_cloth": [
+			{
+				"chance": 1.0,
+				"id": "23",
+				"name": "Rags",
+				"stack": 1
+			}
+		]
+	},
+	"experience_gainer": {
+		"exp": 5,
+		"level": 1
+	},
+	"fighter": {
+		"attackNames": null
+	},
+	"glyph": {
+		"frames": [
+			{
+				"color": [
+					255,
+					255,
+					255
+				],
+				"delay": 0,
+				"index": 128
+			}
+		],
+		"random_frame_start": false
+	},
+	"health": 47,
+	"humanoid": {
+		"race": "0"
+	},
+	"id": "694",
+	"minimap_pixel": [
+		113,
+		179,
+		34
+	],
+	"moveable": {
+		"speed": 1.2999999523162842
+	},
+	"name": "Human Adult",
+	"persona": {
+		"occupation": "None"
+	},
+	"sight": {
+		"ignore_infra_penalty": false,
+		"infravision": false,
+		"range": 9,
+		"threesixty": false
+	},
+	"stamina": {
+		"fatigue": 100,
+		"stamina": 100,
+		"stamina_regen": 0.0
+	},
+	"statistics": {
+		"dexterity": [
+			6,
+			10
+		],
+		"endurance": [
+			8,
+			14
+		],
+		"intelligence": [
+			6,
+			9
+		],
+		"strength": [
+			8,
+			11
+		],
+		"willpower": [
+			7,
+			11
+		]
+	},
+	"tags": [
+		"1",
+		"9"
+	]
+}

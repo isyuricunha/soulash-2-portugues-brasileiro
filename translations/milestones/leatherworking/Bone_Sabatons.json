@@ -1,0 +1,15 @@
+{
+	"id": "core_2_bone_sabatons",
+	"name": "Bone Sabatons",
+	"requirements": {
+		"skill": 12
+	},
+	"rewards": [
+		{
+			"recipe": "core_2_Bone_Sabatons"
+		}
+	],
+	"skill_id": "core_2_leatherworking",
+	"steps": [],
+	"steps_type": 0
+}

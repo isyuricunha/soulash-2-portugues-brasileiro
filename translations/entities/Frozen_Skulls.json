@@ -1,0 +1,47 @@
+{
+	"components": [
+		"glyph",
+		"minimap_pixel",
+		"name",
+		"position_2d",
+		"producer",
+		"stackable"
+	],
+	"description": "Pile of humanoid skulls covered in ice and snow.",
+	"glyph": {
+		"frames": [
+			{
+				"color": [
+					255,
+					255,
+					255
+				],
+				"delay": 0,
+				"index": 2771
+			}
+		],
+		"random_frame_start": false
+	},
+	"id": "core_2_Frozen_Skulls",
+	"minimap_pixel": [
+		171,
+		102,
+		57
+	],
+	"name": "Frozen Skulls",
+	"producer": {
+		"products": {
+			"10": [
+				{
+					"amount": [
+						0,
+						2
+					],
+					"id": "2475",
+					"percent_chance": 100
+				}
+			]
+		},
+		"time": 5
+	}
+}

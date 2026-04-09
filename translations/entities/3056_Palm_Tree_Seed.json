@@ -1,0 +1,40 @@
+{
+	"components": [
+		"glyph",
+		"item",
+		"minimap_pixel",
+		"name",
+		"position_2d",
+		"stackable",
+		"value",
+		"weight"
+	],
+	"description": "With enough care this seed will grow into a great palm tree.",
+	"glyph": {
+		"frames": [
+			{
+				"color": [
+					255,
+					255,
+					255
+				],
+				"delay": 0,
+				"index": 2053
+			}
+		],
+		"random_frame_start": false
+	},
+	"id": "3056",
+	"item": {
+		"image": 835,
+		"type": 24
+	},
+	"minimap_pixel": [
+		237,
+		145,
+		33
+	],
+	"name": "Palm Tree Seed",
+	"value": 100,
+	"weight": 0.10000000149011612
+}

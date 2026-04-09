@@ -1,0 +1,137 @@
+{
+	"ability_user": [],
+	"armor": {
+		"acid": 100,
+		"death": 30,
+		"electricity": 0,
+		"fire": 5,
+		"frost": 0,
+		"holy": 10,
+		"parry": 0,
+		"physical": 30,
+		"poison": 10,
+		"thorns": 0
+	},
+	"artificial_intelligence": {
+		"allies": [
+			"18"
+		],
+		"allow_production": [],
+		"behaviors": [],
+		"enemies": [
+			"5"
+		]
+	},
+	"components": [
+		"ability_user",
+		"actor",
+		"armor",
+		"artificial_intelligence",
+		"collidable",
+		"dialogues",
+		"experience_gainer",
+		"fighter",
+		"glyph",
+		"health",
+		"minimap_pixel",
+		"moveable",
+		"name",
+		"position_2d",
+		"sight",
+		"stamina",
+		"statistics",
+		"tags",
+		"weapon"
+	],
+	"corpse": "core_2_Pool_of_Acid",
+	"description": "A tall green creature with a segmented body covered by thick chitinous armor.",
+	"dialogues": [],
+	"experience_gainer": {
+		"exp": 0,
+		"level": 30
+	},
+	"fighter": {
+		"attackNames": [
+			"Claws",
+			"Scratch"
+		]
+	},
+	"glyph": {
+		"frames": [
+			{
+				"color": [
+					255,
+					255,
+					255
+				],
+				"delay": 0,
+				"index": 567
+			}
+		],
+		"random_frame_start": false
+	},
+	"health": 350,
+	"id": "core_2_Acidara_Warrior",
+	"minimap_pixel": [
+		149,
+		165,
+		101
+	],
+	"moveable": {
+		"speed": 1.0
+	},
+	"name": "Acidara Warrior",
+	"sight": {
+		"ignore_infra_penalty": false,
+		"infravision": true,
+		"range": 10,
+		"threesixty": false
+	},
+	"stamina": {
+		"fatigue": 100,
+		"stamina": 100,
+		"stamina_regen": 0.0
+	},
+	"statistics": {
+		"dexterity": [
+			28,
+			36
+		],
+		"endurance": [
+			40,
+			55
+		],
+		"intelligence": [
+			20,
+			26
+		],
+		"strength": [
+			70,
+			75
+		],
+		"willpower": [
+			17,
+			25
+		]
+	},
+	"tags": [
+		"18",
+		"9"
+	],
+	"weapon": {
+		"attack_speed": 1.0,
+		"critical_hit": 0.0,
+		"damage": [
+			{
+				"dmg_max": 35,
+				"dmg_min": 25,
+				"dmg_type": "acid"
+			}
+		],
+		"hands": 1,
+		"hit_bonus": 3,
+		"parry_bonus": 0,
+		"range": 1,
+		"type": 1
+	}
+}

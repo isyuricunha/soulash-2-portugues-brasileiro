@@ -1,0 +1,162 @@
+{
+	"ability_user": [
+		"23"
+	],
+	"artificial_intelligence": {
+		"allies": [
+			"12"
+		],
+		"allow_production": [],
+		"behaviors": [],
+		"enemies": [
+			"5"
+		]
+	},
+	"components": [
+		"ability_user",
+		"actor",
+		"artificial_intelligence",
+		"collidable",
+		"dialogues",
+		"equipment",
+		"experience_gainer",
+		"fighter",
+		"glyph",
+		"health",
+		"humanoid",
+		"minimap_pixel",
+		"moveable",
+		"name",
+		"position_2d",
+		"sight",
+		"stamina",
+		"statistics",
+		"tags"
+	],
+	"corpse": "2461",
+	"description": "",
+	"dialogues": [
+		"30",
+		"31"
+	],
+	"equipment": {
+		"gloves": [
+			{
+				"chance": 0.20000000298023224,
+				"id": "669",
+				"name": "Bracers",
+				"stack": 1
+			}
+		],
+		"head_cloth": [
+			{
+				"chance": 0.05000000074505806,
+				"id": "301",
+				"name": "Eye Patch",
+				"stack": 1
+			}
+		],
+		"left_hand": [
+			{
+				"chance": 0.20000000298023224,
+				"id": "168",
+				"name": "Wooden Shield",
+				"stack": 1
+			}
+		],
+		"right_hand": [
+			{
+				"chance": 0.5,
+				"id": "680",
+				"name": "Bone Axe",
+				"stack": 1
+			},
+			{
+				"chance": 0.5,
+				"id": "312",
+				"name": "Bone Sword",
+				"stack": 1
+			}
+		],
+		"torso_armor": [
+			{
+				"chance": 1.0,
+				"id": "165",
+				"name": "Leather Armor",
+				"stack": 1
+			}
+		]
+	},
+	"experience_gainer": {
+		"exp": 0,
+		"level": 20
+	},
+	"fighter": {
+		"attackNames": null
+	},
+	"glyph": {
+		"frames": [
+			{
+				"color": [
+					255,
+					255,
+					255
+				],
+				"delay": 0,
+				"index": 137
+			}
+		],
+		"random_frame_start": false
+	},
+	"health": 140,
+	"humanoid": {
+		"race": ""
+	},
+	"id": "40",
+	"minimap_pixel": [
+		89,
+		115,
+		97
+	],
+	"moveable": {
+		"speed": 1.0
+	},
+	"name": "Orc Raider",
+	"sight": {
+		"ignore_infra_penalty": false,
+		"infravision": true,
+		"range": 8,
+		"threesixty": false
+	},
+	"stamina": {
+		"fatigue": 100,
+		"stamina": 100,
+		"stamina_regen": 0.0
+	},
+	"statistics": {
+		"dexterity": [
+			8,
+			12
+		],
+		"endurance": [
+			23,
+			27
+		],
+		"intelligence": [
+			7,
+			12
+		],
+		"strength": [
+			30,
+			34
+		],
+		"willpower": [
+			10,
+			15
+		]
+	},
+	"tags": [
+		"12",
+		"9"
+	]
+}

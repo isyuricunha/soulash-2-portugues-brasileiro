@@ -1,0 +1,34 @@
+{
+	"components": [
+		"block_light",
+		"collidable",
+		"glyph",
+		"health",
+		"name",
+		"position_2d",
+		"minimap_pixel"
+	],
+	"corpse": "35",
+	"description": "A stalagmite is a rock formation that rises from the floor of a cave.",
+	"glyph": {
+		"frames": [
+			{
+				"color": [
+					255,
+					255,
+					255
+				],
+				"delay": 0,
+				"index": 174
+			}
+		]
+	},
+	"health": 60,
+	"id": "53",
+	"minimap_pixel": [
+		100,
+		104,
+		102
+	],
+	"name": "Stalagmite"
+}

@@ -1,0 +1,35 @@
+{
+	"components": [
+		"glyph",
+		"health",
+		"height",
+		"minimap_pixel",
+		"name",
+		"position_2d"
+	],
+	"corpse": [],
+	"description": "Soft, white shells of a turtle egg.",
+	"glyph": {
+		"frames": [
+			{
+				"color": [
+					255,
+					255,
+					255
+				],
+				"delay": 0,
+				"index": 3169
+			}
+		],
+		"random_frame_start": true
+	},
+	"health": 20,
+	"height": 0,
+	"id": "core_2_Soft_Egg_Shells",
+	"minimap_pixel": [
+		99,
+		68,
+		0
+	],
+	"name": "Soft Egg Shells"
+}

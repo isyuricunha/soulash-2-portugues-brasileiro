@@ -1,0 +1,151 @@
+{
+	"artificial_intelligence": {
+		"allies": [],
+		"allow_production": [],
+		"behaviors": [],
+		"enemies": []
+	},
+	"components": [
+		"actor",
+		"artificial_intelligence",
+		"collidable",
+		"dialogues",
+		"equipment",
+		"experience_gainer",
+		"fighter",
+		"glyph",
+		"health",
+		"humanoid",
+		"minimap_pixel",
+		"moveable",
+		"name",
+		"persona",
+		"position_2d",
+		"sight",
+		"stamina",
+		"statistics",
+		"tags"
+	],
+	"corpse": "25",
+	"description": "A daring smuggler risking life to deliver weapons to the resistance.",
+	"dialogues": [
+		"20",
+		"21",
+		"22"
+	],
+	"equipment": {
+		"left_hand": [
+			{
+				"chance": 0.5,
+				"id": "56",
+				"name": "Torch",
+				"stack": 1
+			}
+		],
+		"legs_cloth": [
+			{
+				"chance": 1.0,
+				"id": "298",
+				"name": "Pants",
+				"stack": 1
+			}
+		],
+		"right_hand": [
+			{
+				"chance": 0.5,
+				"id": "71",
+				"name": "Dagger",
+				"stack": 1
+			},
+			{
+				"chance": 0.5,
+				"id": "77",
+				"name": "Short Sword",
+				"stack": 1
+			}
+		],
+		"torso_armor": [
+			{
+				"chance": 1.0,
+				"id": "165",
+				"name": "Leather Armor",
+				"stack": 1
+			}
+		]
+	},
+	"experience_gainer": {
+		"exp": 0,
+		"level": 8
+	},
+	"fighter": {
+		"attackNames": null
+	},
+	"glyph": {
+		"frames": [
+			{
+				"color": [
+					200,
+					160,
+					100
+				],
+				"delay": 0,
+				"index": 159
+			}
+		],
+		"random_frame_start": false
+	},
+	"health": 80,
+	"humanoid": {
+		"race": "0"
+	},
+	"id": "core_2_Rebellion_Smuggler",
+	"minimap_pixel": [
+		200,
+		160,
+		100
+	],
+	"moveable": {
+		"speed": 1.0
+	},
+	"name": "Rebellion Smuggler",
+	"persona": {
+		"occupation": "Smuggler"
+	},
+	"sight": {
+		"ignore_infra_penalty": false,
+		"infravision": false,
+		"range": 8,
+		"threesixty": false
+	},
+	"stamina": {
+		"fatigue": 100,
+		"stamina": 100,
+		"stamina_regen": 0.0
+	},
+	"statistics": {
+		"dexterity": [
+			18,
+			24
+		],
+		"endurance": [
+			10,
+			14
+		],
+		"intelligence": [
+			10,
+			14
+		],
+		"strength": [
+			14,
+			18
+		],
+		"willpower": [
+			10,
+			14
+		]
+	},
+	"tags": [
+		"1",
+		"9"
+	]
+}

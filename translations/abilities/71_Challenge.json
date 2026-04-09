@@ -1,0 +1,25 @@
+{
+	"animation": "76",
+	"cast_time": 0.20000000298023224,
+	"cooldown": 20.0,
+	"cost": {
+		"health": 0,
+		"stamina": 1
+	},
+	"description": "Taunt a target forcing it to attack you for the next ::duration turns and reduce its hit chance by ::hit_chance%.",
+	"duration": 3.0,
+	"effects": {
+		"challenge": 1,
+		"hit_chance": -2
+	},
+	"id": "71",
+	"image": 8,
+	"name": "Challenge",
+	"range": 3,
+	"skill": "core_2_protection",
+	"slots": {
+		"offensive": 1,
+		"utility": 2
+	},
+	"target": "actor"
+}

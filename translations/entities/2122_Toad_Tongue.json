@@ -1,0 +1,70 @@
+{
+	"components": [
+		"glyph",
+		"item",
+		"minimap_pixel",
+		"name",
+		"position_2d",
+		"resource",
+		"stackable",
+		"statistics",
+		"value",
+		"weight"
+	],
+	"description": "A long and slimy tongue of a giant toad.",
+	"glyph": {
+		"frames": [
+			{
+				"color": [
+					255,
+					255,
+					255
+				],
+				"delay": 0,
+				"index": 1453
+			}
+		],
+		"random_frame_start": false
+	},
+	"id": "2122",
+	"item": {
+		"image": 467,
+		"type": 16
+	},
+	"minimap_pixel": [
+		100,
+		109,
+		155
+	],
+	"name": "Toad Tongue",
+	"resource": {
+		"affix": "of the Toad",
+		"magic_ingredient": 1,
+		"quality": 1,
+		"type": 7
+	},
+	"statistics": {
+		"dexterity": [
+			0,
+			0
+		],
+		"endurance": [
+			1,
+			1
+		],
+		"intelligence": [
+			0,
+			0
+		],
+		"strength": [
+			0,
+			0
+		],
+		"willpower": [
+			0,
+			0
+		]
+	},
+	"value": 200,
+	"weight": 0.10000000149011612
+}

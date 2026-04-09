@@ -1,0 +1,74 @@
+{
+	"components": [
+		"collidable",
+		"craftable",
+		"glyph",
+		"minimap_pixel",
+		"name",
+		"position_2d",
+		"producer",
+		"tool"
+	],
+	"craftable": {
+		"backgrounds": [],
+		"biomes": [],
+		"magic_slots": 0,
+		"resource_types": [
+			{
+				"amount": 5,
+				"id": 3
+			}
+		],
+		"resources": [
+			{
+				"amount": 5,
+				"id": "2472"
+			}
+		],
+		"time": 60,
+		"tools": []
+	},
+	"description": "Good place to tinker at.",
+	"glyph": {
+		"frames": [
+			{
+				"color": [
+					255,
+					255,
+					255
+				],
+				"delay": 0,
+				"index": 2712
+			}
+		],
+		"random_frame_start": false
+	},
+	"id": "core_2_Frozen_Workbench",
+	"minimap_pixel": [
+		74,
+		83,
+		92
+	],
+	"name": "Frozen Workbench",
+	"producer": {
+		"products": {
+			"core_2_deconstruct": [
+				{
+					"amount": [
+						0,
+						0
+					],
+					"id": "",
+					"percent_chance": 0
+				}
+			]
+		},
+		"time": 40
+	},
+	"tool": [
+		{
+			"id": 14,
+			"quality": 100
+		}
+	]
+}

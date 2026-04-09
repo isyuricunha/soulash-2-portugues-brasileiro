@@ -1,0 +1,24 @@
+{
+	"animation": "179",
+	"cast_time": 0.6000000238418579,
+	"cooldown": 15.0,
+	"cost": {
+		"health": 0,
+		"stamina": 3
+	},
+	"description": "You throw a quick jab hitting the enemy throat, making it unable to use any abilities for ::duration turns.",
+	"duration": 5.0,
+	"effects": {
+		"silence": 1
+	},
+	"id": "139",
+	"image": 303,
+	"name": "Silence!",
+	"range": 1,
+	"skill": "core_2_thievery",
+	"slots": {
+		"offensive": 1,
+		"utility": 1
+	},
+	"target": "health"
+}

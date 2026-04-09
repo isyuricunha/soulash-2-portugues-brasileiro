@@ -1,0 +1,144 @@
+{
+	"artificial_intelligence": {
+		"allies": [],
+		"allow_production": [],
+		"behaviors": [],
+		"enemies": [
+			"5"
+		]
+	},
+	"components": [
+		"actor",
+		"artificial_intelligence",
+		"collidable",
+		"dialogues",
+		"equipment",
+		"experience_gainer",
+		"fighter",
+		"glyph",
+		"health",
+		"humanoid",
+		"minimap_pixel",
+		"moveable",
+		"name",
+		"persona",
+		"position_2d",
+		"sight",
+		"skills",
+		"stamina",
+		"statistics",
+		"tags"
+	],
+	"corpse": "25",
+	"description": "",
+	"dialogues": [
+		"268",
+		"269"
+	],
+	"equipment": {
+		"belt": [
+			{
+				"chance": 1.0,
+				"id": "775",
+				"name": "Green Sash",
+				"stack": 1
+			}
+		],
+		"left_hand": [
+			{
+				"chance": 1.0,
+				"id": "771",
+				"name": "Wide Spear",
+				"stack": 1
+			}
+		],
+		"torso_cloth": [
+			{
+				"chance": 1.0,
+				"id": "183",
+				"name": "Robe",
+				"stack": 1
+			}
+		]
+	},
+	"experience_gainer": {
+		"exp": 0,
+		"level": 30
+	},
+	"fighter": {
+		"attackNames": null
+	},
+	"gender": "male",
+	"glyph": {
+		"frames": [
+			{
+				"color": [
+					255,
+					255,
+					255
+				],
+				"delay": 0,
+				"index": 462
+			}
+		],
+		"random_frame_start": false
+	},
+	"health": 420,
+	"humanoid": {
+		"race": ""
+	},
+	"id": "2997",
+	"minimap_pixel": [
+		109,
+		199,
+		29
+	],
+	"moveable": {
+		"speed": 0.8999999761581421
+	},
+	"name": "Monk",
+	"persona": {
+		"occupation": ""
+	},
+	"sight": {
+		"ignore_infra_penalty": false,
+		"infravision": false,
+		"range": 10,
+		"threesixty": false
+	},
+	"skills": {
+		"milestones": [],
+		"skills": []
+	},
+	"stamina": {
+		"fatigue": 100,
+		"stamina": 100,
+		"stamina_regen": 0.0
+	},
+	"statistics": {
+		"dexterity": [
+			44,
+			49
+		],
+		"endurance": [
+			32,
+			36
+		],
+		"intelligence": [
+			14,
+			17
+		],
+		"strength": [
+			20,
+			28
+		],
+		"willpower": [
+			26,
+			30
+		]
+	},
+	"tags": [
+		"9",
+		"1"
+	]
+}

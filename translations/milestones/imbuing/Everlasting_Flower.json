@@ -1,0 +1,16 @@
+{
+	"id": "core_2_everlasting_flower",
+	"name": "Everlasting Flower",
+	"requirements": {
+		"milestones": [],
+		"skill": 16
+	},
+	"rewards": [
+		{
+			"recipe": "core_2_Everlasting_Flower"
+		}
+	],
+	"skill_id": "core_2_imbuing",
+	"steps": [],
+	"steps_type": 0
+}

@@ -1,0 +1,15 @@
+{
+	"id": "core_2_earmuffs",
+	"name": "Earmuffs",
+	"requirements": {
+		"skill": 2
+	},
+	"rewards": [
+		{
+			"recipe": "core_2_Earmuffs"
+		}
+	],
+	"skill_id": "core_2_leatherworking",
+	"steps": [],
+	"steps_type": 0
+}

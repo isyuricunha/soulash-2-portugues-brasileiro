@@ -1,0 +1,16 @@
+{
+	"id": "core_2_glowing_mushroom_pins",
+	"name": "Glowing Mushroom Pins",
+	"requirements": {
+		"milestones": [],
+		"skill": 24
+	},
+	"rewards": [
+		{
+			"recipe": "core_2_Glowing_Mushroom_Pins"
+		}
+	],
+	"skill_id": "core_2_agriculture",
+	"steps": [],
+	"steps_type": 0
+}

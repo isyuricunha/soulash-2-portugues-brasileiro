@@ -1,0 +1,28 @@
+{
+	"animation": "core_2_Improved_exploding_Bomb_Throw",
+	"cast_time": 0.5,
+	"cooldown": 10.0,
+	"cost": {
+		"health": 0,
+		"stamina": 8
+	},
+	"description": "Throw an exploding bomb at a location, dealing ::damage ::damage_type damage.",
+	"duration": 1.5,
+	"effects": {
+		"aoe_break": 1,
+		"aoe_range": 3,
+		"aoe_shape": 1,
+		"damage": [
+			13,
+			19
+		],
+		"damage_type": "fire",
+		"damage_weapon": 0.25
+	},
+	"id": "core_2_Improved_Exploding_Bomb",
+	"image": 777,
+	"name": "Improved Exploding Bomb",
+	"range": 8,
+	"skill": "",
+	"target": "aoe_tile"
+}

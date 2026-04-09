@@ -1,0 +1,40 @@
+{
+	"components": [
+		"glyph",
+		"item",
+		"minimap_pixel",
+		"name",
+		"position_2d",
+		"stackable",
+		"value",
+		"weight"
+	],
+	"description": "Will grow into bearberry bush one day.",
+	"glyph": {
+		"frames": [
+			{
+				"color": [
+					255,
+					255,
+					255
+				],
+				"delay": 0,
+				"index": 2257
+			}
+		],
+		"random_frame_start": false
+	},
+	"id": "core_2_Bearberry_Seed",
+	"item": {
+		"image": 949,
+		"type": 24
+	},
+	"minimap_pixel": [
+		100,
+		109,
+		155
+	],
+	"name": "Bearberry Seed",
+	"value": 100,
+	"weight": 0.009999999776482582
+}

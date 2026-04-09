@@ -1,0 +1,16 @@
+{
+	"id": "core_2_heavy_armor",
+	"name": "Heavy Armor",
+	"requirements": {
+		"milestones": [],
+		"skill": 33
+	},
+	"rewards": [
+		{
+			"recipe": "397"
+		}
+	],
+	"skill_id": "core_2_armorsmith",
+	"steps": [],
+	"steps_type": 0
+}

@@ -1,0 +1,68 @@
+{
+	"components": [
+		"glyph",
+		"item",
+		"liquid_source",
+		"minimap_pixel",
+		"name",
+		"position_2d",
+		"producer",
+		"value",
+		"weight"
+	],
+	"description": "A bloodied carcass of a black panther.",
+	"glyph": {
+		"frames": [
+			{
+				"color": [
+					255,
+					255,
+					255
+				],
+				"delay": 0,
+				"index": 39
+			}
+		],
+		"random_frame_start": false
+	},
+	"id": "2232",
+	"item": {
+		"image": 575,
+		"type": 18
+	},
+	"liquid_source": {
+		"limit": 60,
+		"type": 4
+	},
+	"minimap_pixel": [
+		203,
+		113,
+		25
+	],
+	"name": "Panther Corpse",
+	"producer": {
+		"products": {
+			"3": [
+				{
+					"amount": [
+						2,
+						4
+					],
+					"id": "318",
+					"percent_chance": 100
+				},
+				{
+					"amount": [
+						1,
+						1
+					],
+					"id": "2133",
+					"percent_chance": 100
+				}
+			]
+		},
+		"time": 0
+	},
+	"value": 0,
+	"weight": 50.0
+}

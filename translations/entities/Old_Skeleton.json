@@ -1,0 +1,65 @@
+{
+	"components": [
+		"glyph",
+		"minimap_pixel",
+		"name",
+		"position_2d",
+		"producer",
+		"stackable"
+	],
+	"description": "Someone must have died here long time ago.",
+	"glyph": {
+		"frames": [
+			{
+				"color": [
+					255,
+					255,
+					255
+				],
+				"delay": 0,
+				"index": 2547
+			},
+			{
+				"color": [
+					255,
+					255,
+					255
+				],
+				"delay": 0,
+				"index": 2548
+			},
+			{
+				"color": [
+					255,
+					255,
+					255
+				],
+				"delay": 0,
+				"index": 2549
+			}
+		],
+		"random_frame_start": false
+	},
+	"id": "core_2_Old_Skeleton",
+	"minimap_pixel": [
+		171,
+		102,
+		57
+	],
+	"name": "Old Skeleton",
+	"producer": {
+		"products": {
+			"10": [
+				{
+					"amount": [
+						1,
+						2
+					],
+					"id": "55",
+					"percent_chance": 100
+				}
+			]
+		},
+		"time": 20
+	}
+}

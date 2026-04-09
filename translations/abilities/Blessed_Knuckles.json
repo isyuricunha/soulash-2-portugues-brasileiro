@@ -1,0 +1,25 @@
+{
+	"animation": "",
+	"cast_time": 0.0,
+	"cooldown": 0.0,
+	"cost": {
+		"health": 0,
+		"stamina": 0
+	},
+	"description": "Hit a target dealing ::damage ::damage_type damage.",
+	"duration": 0.0,
+	"effects": {
+		"damage": [
+			4,
+			8
+		],
+		"damage_type": "holy",
+		"damage_weapon": 1.0
+	},
+	"id": "core_2_Blessed_Knuckles",
+	"image": 778,
+	"name": "Blessed Knuckles",
+	"range": 1,
+	"skill": "core_2_divine_fists",
+	"target": "health"
+}

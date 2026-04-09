@@ -1,0 +1,40 @@
+{
+	"components": [
+		"glyph",
+		"item",
+		"minimap_pixel",
+		"name",
+		"position_2d",
+		"stackable",
+		"value",
+		"weight"
+	],
+	"description": "Fibers left after extracting sugar from sugar cane.",
+	"glyph": {
+		"frames": [
+			{
+				"color": [
+					255,
+					255,
+					255
+				],
+				"delay": 0,
+				"index": 2573
+			}
+		],
+		"random_frame_start": false
+	},
+	"id": "core_2_Bagasse",
+	"item": {
+		"image": 1138,
+		"type": 20
+	},
+	"minimap_pixel": [
+		156,
+		73,
+		73
+	],
+	"name": "Bagasse",
+	"value": 50,
+	"weight": 0.019999999552965164
+}

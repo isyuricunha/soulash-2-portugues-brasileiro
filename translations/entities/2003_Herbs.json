@@ -1,0 +1,40 @@
+{
+	"components": [
+		"glyph",
+		"item",
+		"minimap_pixel",
+		"name",
+		"position_2d",
+		"stackable",
+		"value",
+		"weight"
+	],
+	"description": "A handful of medical herbs, in the right hands can help with sickness or speed up recovery.",
+	"glyph": {
+		"frames": [
+			{
+				"color": [
+					255,
+					255,
+					255
+				],
+				"delay": 0,
+				"index": 249
+			}
+		],
+		"random_frame_start": false
+	},
+	"id": "2003",
+	"item": {
+		"image": 584,
+		"type": 16
+	},
+	"minimap_pixel": [
+		156,
+		73,
+		73
+	],
+	"name": "Herbs",
+	"value": 400,
+	"weight": 0.10000000149011612
+}

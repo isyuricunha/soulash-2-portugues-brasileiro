@@ -1,0 +1,76 @@
+{
+	"armor": {
+		"acid": 3,
+		"death": 4,
+		"electricity": 0,
+		"fire": 2,
+		"frost": 0,
+		"holy": 8,
+		"parry": 0,
+		"physical": 4,
+		"poison": 3,
+		"thorns": 0
+	},
+	"components": [
+		"armor",
+		"craftable",
+		"glyph",
+		"item",
+		"minimap_pixel",
+		"name",
+		"position_2d",
+		"usable",
+		"value",
+		"weight"
+	],
+	"craftable": {
+		"magic_slots": 5,
+		"resource_types": [
+			{
+				"amount": 4,
+				"id": 1
+			},
+			{
+				"amount": 1,
+				"id": 8
+			}
+		],
+		"resources": null,
+		"time": 360,
+		"tools": [
+			1
+		]
+	},
+	"description": "The legend has it that there's a treasure room hidden on a different plane of existence storing the most powerful weapons from every corner of the world. And apparently this armor allows pulling those weapons to this realm for only a brief moment.",
+	"glyph": {
+		"frames": [
+			{
+				"color": [
+					255,
+					255,
+					255
+				],
+				"delay": 0,
+				"index": 608
+			}
+		],
+		"random_frame_start": false
+	},
+	"id": "1099",
+	"item": {
+		"image": 341,
+		"type": 4
+	},
+	"minimap_pixel": [
+		218,
+		165,
+		32
+	],
+	"name": "Emperor's Treasury",
+	"usable": {
+		"ability": "95",
+		"recipe": ""
+	},
+	"value": 22000,
+	"weight": 25.0
+}

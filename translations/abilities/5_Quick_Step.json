@@ -1,0 +1,26 @@
+{
+	"animation": "12",
+	"cast_time": 0.2,
+	"cooldown": 20.0,
+	"cost": {
+		"health": 0,
+		"stamina": 4
+	},
+	"description": "Reduce movement time by ::movement_speed.",
+	"duration": 10,
+	"effects": {
+		"movement_speed": -0.3
+	},
+	"id": "5",
+	"image": 81,
+	"level": 2,
+	"name": "Sprint",
+	"profession": 4,
+	"range": 0,
+	"skill": "core_2_athletics",
+	"slots": {
+		"defensive": 1,
+		"utility": 1
+	},
+	"target": "self"
+}

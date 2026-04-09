@@ -1,0 +1,60 @@
+{
+	"armor": {
+		"acid": 0,
+		"death": 0,
+		"electricity": 0,
+		"fire": 0,
+		"frost": 0,
+		"holy": 0,
+		"parry": 0,
+		"physical": 0,
+		"poison": 2,
+		"thorns": 0
+	},
+	"components": [
+		"armor",
+		"glyph",
+		"item",
+		"minimap_pixel",
+		"name",
+		"position_2d",
+		"resource",
+		"stackable",
+		"value",
+		"weight"
+	],
+	"description": "Delicate wetland flower known for its vibrant colors.",
+	"glyph": {
+		"frames": [
+			{
+				"color": [
+					255,
+					255,
+					255
+				],
+				"delay": 0,
+				"index": 1646
+			}
+		],
+		"random_frame_start": false
+	},
+	"id": "2503",
+	"item": {
+		"image": 657,
+		"type": 16
+	},
+	"minimap_pixel": [
+		73,
+		156,
+		73
+	],
+	"name": "Wavy Marshwort Flower",
+	"resource": {
+		"affix": "of Marshwort",
+		"magic_ingredient": 2,
+		"quality": 2,
+		"type": 7
+	},
+	"value": 400,
+	"weight": 0.10000000149011612
+}

@@ -1,0 +1,47 @@
+{
+	"components": [
+		"glyph",
+		"minimap_pixel",
+		"name",
+		"position_2d",
+		"producer",
+		"stackable"
+	],
+	"description": "A small patch of black morel mushroom. Might be edible.",
+	"glyph": {
+		"frames": [
+			{
+				"color": [
+					255,
+					255,
+					255
+				],
+				"delay": 0,
+				"index": 3217
+			}
+		],
+		"random_frame_start": true
+	},
+	"id": "core_2_Black_Morel_Mushrooms",
+	"minimap_pixel": [
+		241,
+		90,
+		34
+	],
+	"name": "Black Morel Mushrooms",
+	"producer": {
+		"products": {
+			"10": [
+				{
+					"amount": [
+						2,
+						3
+					],
+					"id": "core_2_Black_Morel_Mushroom",
+					"percent_chance": 100
+				}
+			]
+		},
+		"time": 10
+	}
+}

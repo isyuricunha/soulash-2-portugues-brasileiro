@@ -1,0 +1,22 @@
+{
+	"animation": "",
+	"cast_time": 1.0,
+	"cooldown": 300.0,
+	"cost": {
+		"health": 20,
+		"stamina": 0
+	},
+	"description": "Summons a djinni that will fight alongside you.",
+	"duration": 30.0,
+	"effects": {
+		"summon_count": 1
+	},
+	"effects_keys": {
+		"summon": "2845"
+	},
+	"id": "172",
+	"image": 132,
+	"name": "Summon Djinni",
+	"range": 3,
+	"target": "tile"
+}

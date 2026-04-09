@@ -1,0 +1,23 @@
+{
+	"animation": "177",
+	"cast_time": 0.20000000298023224,
+	"cooldown": 1.0,
+	"cost": {
+		"health": 0,
+		"item_type": 0,
+		"stamina": 0
+	},
+	"description": "Neutralizes poison effect.",
+	"duration": 0.0,
+	"effects": {
+		"neutralize": [
+			"poison_effect"
+		]
+	},
+	"id": "137",
+	"image": 341,
+	"level": 0,
+	"name": "Antidote",
+	"range": 0,
+	"target": "self"
+}

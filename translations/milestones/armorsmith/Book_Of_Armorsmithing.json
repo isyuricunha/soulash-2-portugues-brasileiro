@@ -1,0 +1,16 @@
+{
+	"id": "core_2_book_armorsmith",
+	"name": "Book Of Armorsmithing",
+	"requirements": {
+		"milestones": [],
+		"skill": 44
+	},
+	"rewards": [
+		{
+			"recipe": "3011"
+		}
+	],
+	"skill_id": "core_2_armorsmith",
+	"steps": [],
+	"steps_type": 0
+}

@@ -1,0 +1,28 @@
+{
+	"enables": [
+		"core_2_tailoring"
+	],
+	"id": "327",
+	"image": 247,
+	"max": 1,
+	"name": "Tailor",
+	"occupation_image": 10,
+	"occupation": "core_2_Gnoll_Tailor",
+	"produces": [
+		{
+			"entities": [
+				{
+					"daily": 2,
+					"id": "300"
+				}
+			],
+			"takes": "craftable"
+		}
+	],
+	"race": "31",
+	"tier": 2,
+	"workers": [
+		1,
+		3
+	]
+}

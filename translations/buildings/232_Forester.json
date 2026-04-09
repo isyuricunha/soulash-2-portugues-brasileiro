@@ -1,0 +1,33 @@
+{
+	"id": "232",
+	"image": 105,
+	"name": "Forester",
+	"occupation_image": 19,
+	"occupation": "core_2_Reptilion_Forester",
+	"produces": [
+		{
+			"entities": [
+				{
+					"daily": 1.0,
+					"id": "866"
+				}
+			],
+			"takes": []
+		},
+		{
+			"entities": [
+				{
+					"daily": 1.0,
+					"id": "870"
+				}
+			],
+			"takes": []
+		}
+	],
+	"race": "23",
+	"tier": 1,
+	"workers": [
+		1,
+		4
+	]
+}

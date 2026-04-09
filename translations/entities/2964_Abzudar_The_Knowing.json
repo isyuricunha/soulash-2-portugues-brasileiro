@@ -1,0 +1,139 @@
+{
+	"ability_user": [
+		"189",
+		"65",
+		"core_2_Roots",
+		"42",
+		"15"
+	],
+	"armor": {
+		"acid": 40,
+		"death": 20,
+		"electricity": 30,
+		"fire": 20,
+		"frost": 0,
+		"holy": 0,
+		"parry": 2,
+		"physical": 30,
+		"poison": 50,
+		"thorns": 0
+	},
+	"artificial_intelligence": {
+		"allies": [],
+		"allow_production": [],
+		"behaviors": [],
+		"enemies": [
+			"5"
+		]
+	},
+	"components": [
+		"ability_user",
+		"actor",
+		"armor",
+		"artificial_intelligence",
+		"collidable",
+		"dialogues",
+		"experience_gainer",
+		"fighter",
+		"glyph",
+		"health",
+		"minimap_pixel",
+		"moveable",
+		"name",
+		"position_2d",
+		"sight",
+		"statistics",
+		"tags",
+		"weapon"
+	],
+	"corpse": "556",
+	"description": "Great wyrm waiting to make its mark on the world.",
+	"dialogues": [
+		"178",
+		"179"
+	],
+	"experience_gainer": {
+		"exp": 0,
+		"level": 40
+	},
+	"fighter": {
+		"attackNames": [
+			"Blazing Bite"
+		]
+	},
+	"glyph": {
+		"frames": [
+			{
+				"color": [
+					255,
+					255,
+					255
+				],
+				"delay": 1000,
+				"index": 31
+			}
+		],
+		"random_frame_start": false
+	},
+	"health": 1000,
+	"id": "2964",
+	"minimap_pixel": [
+		130,
+		140,
+		143
+	],
+	"moveable": {
+		"speed": 0.8999999761581421
+	},
+	"name": "Abzudar The Knowing",
+	"sight": {
+		"ignore_infra_penalty": false,
+		"infravision": false,
+		"range": 20,
+		"threesixty": false
+	},
+	"statistics": {
+		"dexterity": [
+			74,
+			82
+		],
+		"endurance": [
+			72,
+			80
+		],
+		"intelligence": [
+			67,
+			75
+		],
+		"magic_power": 40,
+		"strength": [
+			82,
+			90
+		],
+		"willpower": [
+			82,
+			90
+		]
+	},
+	"tags": [
+		"3",
+		"38",
+		"19"
+	],
+	"weapon": {
+		"attack_speed": 1.0,
+		"critical_hit": 0.0,
+		"damage": [
+			{
+				"dmg_max": 12,
+				"dmg_min": 6,
+				"dmg_type": "fire"
+			}
+		],
+		"hands": 1,
+		"hit_bonus": 0,
+		"parry_bonus": 0,
+		"range": 1,
+		"type": 1
+	}
+}

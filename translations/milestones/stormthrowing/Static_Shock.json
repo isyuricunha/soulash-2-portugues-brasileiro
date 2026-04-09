@@ -1,0 +1,16 @@
+{
+	"id": "core_2_static_shock",
+	"name": "Static Shock",
+	"requirements": {
+		"milestones": [],
+		"skill": 30
+	},
+	"rewards": [
+		{
+			"passive": "core_2_static_shock"
+		}
+	],
+	"skill_id": "core_2_stormthrowing",
+	"steps": [],
+	"steps_type": 0
+}

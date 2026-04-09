@@ -1,0 +1,16 @@
+{
+	"id": "core_2_fan_palm_sapling",
+	"name": "Fan Palm Sapling",
+	"requirements": {
+		"milestones": [],
+		"skill": 9
+	},
+	"rewards": [
+		{
+			"recipe": "3083"
+		}
+	],
+	"skill_id": "core_2_agriculture",
+	"steps": [],
+	"steps_type": 0
+}

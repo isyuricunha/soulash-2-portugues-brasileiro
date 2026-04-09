@@ -1,0 +1,171 @@
+{
+	"ability_user": [
+		"107"
+	],
+	"armor": {
+		"acid": 0,
+		"death": 0,
+		"electricity": 0,
+		"fire": 25,
+		"frost": -7,
+		"holy": 0,
+		"parry": 0,
+		"physical": 2,
+		"poison": 5,
+		"thorns": 0
+	},
+	"artificial_intelligence": {
+		"allies": [],
+		"allow_production": [],
+		"behaviors": [],
+		"enemies": [
+			"5"
+		]
+	},
+	"components": [
+		"ability_user",
+		"actor",
+		"armor",
+		"artificial_intelligence",
+		"collidable",
+		"dialogues",
+		"equipment",
+		"experience_gainer",
+		"fighter",
+		"glyph",
+		"health",
+		"light_source",
+		"minimap_pixel",
+		"moveable",
+		"name",
+		"position_2d",
+		"sight",
+		"stamina",
+		"statistics",
+		"tags",
+		"weapon"
+	],
+	"corpse": "715",
+	"description": "This dog size beetle can control its temperature to very high degrees. Its presence is an excellent source of light, but the dangerous behavior of the creature prevents it from being used alive.",
+	"dialogues": [
+		"109",
+		"884"
+	],
+	"equipment": {
+		"disabled_slots": [
+			0,
+			1,
+			2,
+			3,
+			4,
+			5,
+			6,
+			7,
+			8,
+			9,
+			10,
+			11,
+			12,
+			13,
+			14,
+			15,
+			16,
+			17,
+			18
+		]
+	},
+	"experience_gainer": {
+		"exp": 0,
+		"level": 20
+	},
+	"fighter": {
+		"attackNames": [
+			"Burning Bite",
+			"Shell Heat"
+		]
+	},
+	"glyph": {
+		"frames": [
+			{
+				"color": [
+					255,
+					255,
+					255
+				],
+				"delay": 0,
+				"index": 679
+			}
+		],
+		"random_frame_start": false
+	},
+	"health": 80,
+	"id": "714",
+	"light_source": {
+		"finish": -1,
+		"range": 8
+	},
+	"minimap_pixel": [
+		221,
+		66,
+		5
+	],
+	"moveable": {
+		"speed": 1.100000023841858
+	},
+	"name": "Fire Beetle",
+	"sight": {
+		"ignore_infra_penalty": false,
+		"infravision": false,
+		"range": 8,
+		"threesixty": false
+	},
+	"stamina": {
+		"fatigue": 100,
+		"stamina": 100,
+		"stamina_regen": 0.0
+	},
+	"statistics": {
+		"dexterity": [
+			18,
+			21
+		],
+		"endurance": [
+			18,
+			24
+		],
+		"intelligence": [
+			24,
+			28
+		],
+		"magic_power": 3,
+		"strength": [
+			6,
+			10
+		],
+		"willpower": [
+			22,
+			28
+		]
+	},
+	"tags": [
+		"9",
+		"18",
+		"2"
+	],
+	"weapon": {
+		"attack_speed": 1.0,
+		"critical_hit": 0.0,
+		"damage": [
+			{
+				"dmg_max": 4,
+				"dmg_min": 1,
+				"dmg_type": "fire"
+			}
+		],
+		"hands": 2,
+		"hit_bonus": 2,
+		"parry_bonus": 0,
+		"range": 1,
+		"type": 2
+	}
+}

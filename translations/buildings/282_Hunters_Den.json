@@ -1,0 +1,54 @@
+{
+	"id": "282",
+	"image": 226,
+	"name": "Hunters Den",
+	"occupation_image": 1,
+	"occupation": "core_2_Ursan_Hunter",
+	"produces": [
+		{
+			"entities": [
+				{
+					"daily": 3,
+					"id": "318"
+				},
+				{
+					"daily": 1,
+					"id": "core_2_Reindeer_Fur"
+				}
+			],
+			"takes": []
+		},
+		{
+			"entities": [
+				{
+					"daily": 3,
+					"id": "318"
+				},
+				{
+					"daily": 1,
+					"id": "2145"
+				}
+			],
+			"takes": []
+		},
+		{
+			"entities": [
+				{
+					"daily": 3,
+					"id": "318"
+				},
+				{
+					"daily": 1,
+					"id": "core_2_Gopher_Teeth"
+				}
+			],
+			"takes": []
+		}
+	],
+	"race": "33",
+	"tier": 1,
+	"workers": [
+		1,
+		3
+	]
+}

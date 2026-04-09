@@ -1,0 +1,107 @@
+{
+	"artificial_intelligence": {
+		"allies": [],
+		"allow_production": [],
+		"behaviors": [
+			1
+		],
+		"enemies": []
+	},
+	"components": [
+		"actor",
+		"artificial_intelligence",
+		"collidable",
+		"glyph",
+		"health",
+		"minimap_pixel",
+		"moveable",
+		"name",
+		"position_2d",
+		"sight",
+		"statistics",
+		"tags"
+	],
+	"corpse": [],
+	"description": " A rolling plant.",
+	"glyph": {
+		"frames": [
+			{
+				"color": [
+					255,
+					255,
+					255
+				],
+				"delay": 110,
+				"index": 1770
+			},
+			{
+				"color": [
+					255,
+					255,
+					255
+				],
+				"delay": 110,
+				"index": 1771
+			},
+			{
+				"color": [
+					255,
+					255,
+					255
+				],
+				"delay": 110,
+				"index": 1772
+			},
+			{
+				"color": [
+					255,
+					255,
+					255
+				],
+				"delay": 110,
+				"index": 1773
+			}
+		],
+		"random_frame_start": true
+	},
+	"health": 20,
+	"id": "2550",
+	"minimap_pixel": [
+		139,
+		108,
+		64
+	],
+	"moveable": {
+		"speed": 1.100000023841858
+	},
+	"name": "Tumbleweed",
+	"sight": {
+		"ignore_infra_penalty": false,
+		"infravision": false,
+		"range": 1,
+		"threesixty": false
+	},
+	"statistics": {
+		"dexterity": [
+			1,
+			1
+		],
+		"endurance": [
+			10,
+			10
+		],
+		"intelligence": [
+			1,
+			1
+		],
+		"strength": [
+			1,
+			1
+		],
+		"willpower": [
+			1,
+			1
+		]
+	},
+	"tags": []
+}

@@ -1,0 +1,19 @@
+{
+	"id": "core_2_beer",
+	"name": "Beer",
+	"requirements": {
+		"milestones": [],
+		"skill": 12
+	},
+	"rewards": [
+		{
+			"recipe": "839"
+		},
+		{
+			"recipe": "core_2_Dwarven_Beer"
+		}
+	],
+	"skill_id": "core_2_agriculture",
+	"steps": [],
+	"steps_type": 0
+}

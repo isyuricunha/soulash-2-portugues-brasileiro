@@ -1,0 +1,66 @@
+{
+	"components": [
+		"glyph",
+		"item",
+		"liquid_source",
+		"minimap_pixel",
+		"name",
+		"position_2d",
+		"producer",
+		"weight"
+	],
+	"description": "A lifeless corpse of a crueboros.",
+	"glyph": {
+		"frames": [
+			{
+				"color": [
+					255,
+					255,
+					255
+				],
+				"delay": 0,
+				"index": 1784
+			}
+		],
+		"random_frame_start": false
+	},
+	"id": "2641",
+	"item": {
+		"image": 689,
+		"type": 18
+	},
+	"liquid_source": {
+		"limit": 40,
+		"type": 4
+	},
+	"minimap_pixel": [
+		115,
+		125,
+		132
+	],
+	"name": "Crueboros Corpse",
+	"producer": {
+		"products": {
+			"3": [
+				{
+					"amount": [
+						3,
+						5
+					],
+					"id": "318",
+					"percent_chance": 100
+				},
+				{
+					"amount": [
+						1,
+						1
+					],
+					"id": "2921",
+					"percent_chance": 100
+				}
+			]
+		},
+		"time": 20
+	},
+	"weight": 130.0
+}

@@ -1,0 +1,173 @@
+{
+	"ability_user": [
+		"120"
+	],
+	"armor": {
+		"acid": 0,
+		"death": 30,
+		"electricity": 0,
+		"fire": -5,
+		"frost": 0,
+		"holy": -10,
+		"parry": 0,
+		"physical": 30,
+		"poison": 10,
+		"thorns": 0
+	},
+	"artificial_intelligence": {
+		"allies": [
+			"4"
+		],
+		"allow_production": [],
+		"behaviors": [],
+		"enemies": [
+			"5"
+		]
+	},
+	"components": [
+		"ability_user",
+		"actor",
+		"armor",
+		"artificial_intelligence",
+		"collidable",
+		"dialogues",
+		"equipment",
+		"experience_gainer",
+		"fighter",
+		"glyph",
+		"health",
+		"humanoid",
+		"minimap_pixel",
+		"moveable",
+		"name",
+		"position_2d",
+		"sight",
+		"stamina",
+		"statistics",
+		"tags",
+		"weapon"
+	],
+	"corpse": "2525",
+	"description": "A mournful wraith once of incredible beauty, now twisted and driven by darkness.",
+	"dialogues": [
+		"202",
+		"203"
+	],
+	"equipment": {
+		"head_cloth": [
+			{
+				"chance": 0.5,
+				"id": "862",
+				"name": "Earrings",
+				"stack": 1
+			}
+		],
+		"ring1": [
+			{
+				"chance": 0.20000000298023224,
+				"id": "710",
+				"name": "Simple Ring",
+				"stack": 1
+			}
+		],
+		"torso_cloth": [
+			{
+				"chance": 1.0,
+				"id": "185",
+				"name": "Dress",
+				"stack": 1
+			}
+		]
+	},
+	"experience_gainer": {
+		"exp": 0,
+		"level": 30
+	},
+	"fighter": {
+		"attackNames": [
+			"Claws",
+			"Scratch"
+		]
+	},
+	"gender": "female",
+	"glyph": {
+		"frames": [
+			{
+				"color": [
+					255,
+					255,
+					255
+				],
+				"delay": 0,
+				"index": 567
+			}
+		],
+		"random_frame_start": false
+	},
+	"health": 350,
+	"humanoid": {
+		"race": ""
+	},
+	"id": "2612",
+	"minimap_pixel": [
+		149,
+		165,
+		101
+	],
+	"moveable": {
+		"speed": 1.0
+	},
+	"name": "Banshee",
+	"sight": {
+		"ignore_infra_penalty": false,
+		"infravision": true,
+		"range": 10,
+		"threesixty": false
+	},
+	"stamina": {
+		"fatigue": 100,
+		"stamina": 100,
+		"stamina_regen": 0.0
+	},
+	"statistics": {
+		"dexterity": [
+			28,
+			36
+		],
+		"endurance": [
+			20,
+			26
+		],
+		"intelligence": [
+			30,
+			40
+		],
+		"strength": [
+			17,
+			22
+		],
+		"willpower": [
+			40,
+			45
+		]
+	},
+	"tags": [
+		"4"
+	],
+	"weapon": {
+		"attack_speed": 1.0,
+		"critical_hit": 0.0,
+		"damage": [
+			{
+				"dmg_max": 3,
+				"dmg_min": 0,
+				"dmg_type": "death"
+			}
+		],
+		"hands": 1,
+		"hit_bonus": 0,
+		"parry_bonus": 0,
+		"range": 1,
+		"type": 3
+	}
+}

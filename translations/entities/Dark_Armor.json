@@ -1,0 +1,68 @@
+{
+	"armor": {
+		"acid": 0,
+		"death": 0,
+		"electricity": 0,
+		"fire": 5,
+		"frost": 5,
+		"holy": -2,
+		"parry": 0,
+		"physical": 3,
+		"poison": 0,
+		"thorns": 0
+	},
+	"components": [
+		"armor",
+		"craftable",
+		"glyph",
+		"item",
+		"minimap_pixel",
+		"name",
+		"position_2d",
+		"value",
+		"weight"
+	],
+	"craftable": {
+		"backgrounds": [],
+		"biomes": [],
+		"magic_slots": 2,
+		"resource_types": [
+			{
+				"amount": 2,
+				"id": 1
+			}
+		],
+		"time": 60,
+		"tools": [
+			1
+		]
+	},
+	"description": "This armor appears to be intentionally blackened and bears the bat symbol on it.",
+	"glyph": {
+		"frames": [
+			{
+				"color": [
+					255,
+					255,
+					255
+				],
+				"delay": 0,
+				"index": 3113
+			}
+		],
+		"random_frame_start": false
+	},
+	"id": "core_2_Dark_Armor",
+	"item": {
+		"image": 1444,
+		"type": 4
+	},
+	"minimap_pixel": [
+		212,
+		200,
+		33
+	],
+	"name": "Dark Armor",
+	"value": 2500,
+	"weight": 5.0
+}

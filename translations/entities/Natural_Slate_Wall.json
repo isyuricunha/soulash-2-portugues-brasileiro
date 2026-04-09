@@ -1,0 +1,75 @@
+{
+	"armor": {
+		"acid": 15,
+		"death": 12,
+		"electricity": 20,
+		"fire": 18,
+		"frost": 12,
+		"holy": 12,
+		"parry": 0,
+		"physical": 18,
+		"poison": 16,
+		"thorns": 0
+	},
+	"background": {
+		"color": [
+			44,
+			45,
+			41
+		],
+		"noise": 4
+	},
+	"components": [
+		"armor",
+		"background",
+		"block_light",
+		"collidable",
+		"glyph",
+		"health",
+		"height",
+		"minimap_pixel",
+		"name",
+		"position_2d",
+		"producer"
+	],
+	"corpse": [],
+	"description": "A wall of grey slate stone, ready for mining.",
+	"glyph": {
+		"frames": [
+			{
+				"color": [
+					255,
+					255,
+					255
+				],
+				"delay": 0,
+				"index": 3053
+			}
+		],
+		"random_frame_start": false
+	},
+	"health": 500,
+	"height": 10,
+	"id": "core_2_Natural_Slate_Wall",
+	"minimap_pixel": [
+		52,
+		49,
+		96
+	],
+	"name": "Natural Slate Wall",
+	"producer": {
+		"products": {
+			"5": [
+				{
+					"amount": [
+						1,
+						1
+					],
+					"id": "core_2_Slate_Stone_Block",
+					"percent_chance": 100
+				}
+			]
+		},
+		"time": 120
+	}
+}

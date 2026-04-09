@@ -1,0 +1,48 @@
+{
+	"components": [
+		"glyph",
+		"minimap_pixel",
+		"name",
+		"position_2d"
+	],
+	"description": "Floating sphere of soft blue light, suspended in midair, resembling frozen will-o'-wisp.",
+	"glyph": {
+		"frames": [
+			{
+				"color": [
+					255,
+					255,
+					255
+				],
+				"delay": 200,
+				"index": 2892
+			},
+			{
+				"color": [
+					255,
+					255,
+					255
+				],
+				"delay": 200,
+				"index": 2893
+			},
+			{
+				"color": [
+					255,
+					255,
+					255
+				],
+				"delay": 200,
+				"index": 2894
+			}
+		],
+		"random_frame_start": true
+	},
+	"id": "core_2_Glowing_Orb",
+	"minimap_pixel": [
+		150,
+		150,
+		150
+	],
+	"name": "Glowing Orb"
+}

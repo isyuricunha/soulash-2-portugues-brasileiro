@@ -1,0 +1,27 @@
+{
+	"animation": "core_2_Animate_Tree",
+	"cast_time": 1.0,
+	"cooldown": 20.0,
+	"cost": {
+		"health": 0,
+		"item": "11",
+		"stamina": 0
+	},
+	"description": "Turn a tree into a living tree that will support you in battle for ::duration turns.",
+	"duration": 20.0,
+	"effects": {
+		"summon_count": 1
+	},
+	"effects_keys": {
+		"summon": "2898"
+	},
+	"id": "core_2_Animate_Trees",
+	"image": 730,
+	"name": "Animate Tree",
+	"range": 10,
+	"skill": "core_2_floromancy",
+	"slots": {
+		"utility": 4
+	},
+	"target": "non_actor"
+}

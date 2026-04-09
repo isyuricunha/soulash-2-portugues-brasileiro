@@ -1,0 +1,20 @@
+{
+	"animation": "",
+	"cast_time": 0.0,
+	"cooldown": 0.0,
+	"cost": {
+		"health": 0,
+		"stamina": 0
+	},
+	"description": "Applies Burning Light effect on target.",
+	"duration": 3.0,
+	"effects": {
+		"burning_light": 5
+	},
+	"id": "core_2_Burning_Light_Effect",
+	"image": 224,
+	"name": "Burning Light Effect",
+	"range": 1,
+	"skill": "",
+	"target": "health"
+}

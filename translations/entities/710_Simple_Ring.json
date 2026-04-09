@@ -1,0 +1,68 @@
+{
+	"armor": {
+		"acid": 1,
+		"death": 1,
+		"electricity": 0,
+		"fire": 0,
+		"frost": 2,
+		"holy": 1,
+		"parry": 0,
+		"physical": 0,
+		"poison": 0,
+		"thorns": 0
+	},
+	"components": [
+		"armor",
+		"craftable",
+		"glyph",
+		"item",
+		"minimap_pixel",
+		"name",
+		"position_2d",
+		"value",
+		"weight"
+	],
+	"craftable": {
+		"backgrounds": [],
+		"biomes": [],
+		"magic_slots": 1,
+		"resource_types": [
+			{
+				"amount": 1,
+				"id": 1
+			}
+		],
+		"time": 25,
+		"tools": [
+			14
+		]
+	},
+	"description": "Very simplistic metal ring without any inscription or gem.",
+	"glyph": {
+		"frames": [
+			{
+				"color": [
+					255,
+					255,
+					255
+				],
+				"delay": 0,
+				"index": 378
+			}
+		],
+		"random_frame_start": false
+	},
+	"id": "710",
+	"item": {
+		"image": 262,
+		"type": 12
+	},
+	"minimap_pixel": [
+		190,
+		171,
+		163
+	],
+	"name": "Simple Ring",
+	"value": 300,
+	"weight": 0.10000000149011612
+}

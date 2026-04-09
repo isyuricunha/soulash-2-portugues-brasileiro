@@ -1,0 +1,16 @@
+{
+	"id": "core_2_barley_flour",
+	"name": "BarleyFlour",
+	"requirements": {
+		"milestones": [],
+		"skill": 11
+	},
+	"rewards": [
+		{
+			"recipe": "core_2_Barley_Flour"
+		}
+	],
+	"skill_id": "core_2_agriculture",
+	"steps": [],
+	"steps_type": 0
+}

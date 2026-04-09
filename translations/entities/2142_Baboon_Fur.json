@@ -1,0 +1,53 @@
+{
+	"components": [
+		"glyph",
+		"item",
+		"minimap_pixel",
+		"name",
+		"position_2d",
+		"resource",
+		"stackable",
+		"stamina",
+		"value",
+		"weight"
+	],
+	"description": "The coarse texture of this fur makes it suitable for crafting refreshing garments.",
+	"glyph": {
+		"frames": [
+			{
+				"color": [
+					255,
+					255,
+					255
+				],
+				"delay": 0,
+				"index": 509
+			}
+		],
+		"random_frame_start": false
+	},
+	"id": "2142",
+	"item": {
+		"image": 505,
+		"type": 16
+	},
+	"minimap_pixel": [
+		182,
+		175,
+		158
+	],
+	"name": "Baboon Fur",
+	"resource": {
+		"affix": "Refreshing",
+		"magic_ingredient": 0,
+		"quality": 1,
+		"type": 9
+	},
+	"stamina": {
+		"fatigue": 0,
+		"stamina": 0,
+		"stamina_regen": 0.10000000149011612
+	},
+	"value": 250,
+	"weight": 0.10000000149011612
+}

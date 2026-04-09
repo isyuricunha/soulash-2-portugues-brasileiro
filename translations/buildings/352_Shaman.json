@@ -1,0 +1,18 @@
+{
+	"enables": [
+		"core_2_imbuing"
+	],
+	"id": "352",
+	"image": 267,
+	"max": 2,
+	"name": "Shaman",
+	"occupation_image": 93,
+	"occupation": "core_2_Orc_Shaman",
+	"produces": [],
+	"race": "8",
+	"tier": 3,
+	"workers": [
+		1,
+		2
+	]
+}

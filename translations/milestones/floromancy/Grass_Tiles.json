@@ -1,0 +1,31 @@
+{
+	"id": "core_2_grass_tiles",
+	"name": "Grass Tiles",
+	"requirements": {
+		"milestones": [],
+		"skill": 3
+	},
+	"rewards": [
+		{
+			"recipe": "1"
+		},
+		{
+			"recipe": "2"
+		},
+		{
+			"recipe": "3"
+		},
+		{
+			"recipe": "410"
+		},
+		{
+			"recipe": "2030"
+		},
+		{
+			"recipe": "2023"
+		}
+	],
+	"skill_id": "core_2_floromancy",
+	"steps": [],
+	"steps_type": 0
+}

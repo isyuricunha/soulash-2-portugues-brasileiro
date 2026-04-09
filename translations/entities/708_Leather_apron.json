@@ -1,0 +1,66 @@
+{
+	"armor": {
+		"acid": 1,
+		"death": 0,
+		"electricity": 0,
+		"fire": 1,
+		"frost": 0,
+		"holy": 0,
+		"parry": 0,
+		"physical": 0,
+		"poison": 0
+	},
+	"components": [
+		"armor",
+		"craftable",
+		"glyph",
+		"item",
+		"minimap_pixel",
+		"name",
+		"position_2d",
+		"value",
+		"weight"
+	],
+	"craftable": {
+		"magic_slots": 1,
+		"resource_types": [
+			{
+				"amount": 1,
+				"id": 2
+			}
+		],
+		"resources": null,
+		"time": 40,
+		"tools": [
+			14
+		]
+	},
+	"description": "Used by blacksmiths to protect from sparks igniting their clothes.",
+	"glyph": {
+		"frames": [
+			{
+				"color": [
+					255,
+					255,
+					255
+				],
+				"delay": 0,
+				"index": 376
+			}
+		],
+		"random_frame_start": false
+	},
+	"id": "708",
+	"item": {
+		"image": 260,
+		"type": 5
+	},
+	"minimap_pixel": [
+		130,
+		82,
+		24
+	],
+	"name": "Leather Apron",
+	"value": 300,
+	"weight": 1.0
+}

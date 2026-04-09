@@ -1,0 +1,136 @@
+{
+	"artificial_intelligence": {
+		"allies": [],
+		"allow_production": [],
+		"behaviors": [],
+		"enemies": [
+			"5"
+		]
+	},
+	"components": [
+		"actor",
+		"artificial_intelligence",
+		"collidable",
+		"dialogues",
+		"equipment",
+		"experience_gainer",
+		"fighter",
+		"glyph",
+		"health",
+		"humanoid",
+		"minimap_pixel",
+		"moveable",
+		"name",
+		"persona",
+		"position_2d",
+		"sight",
+		"stamina",
+		"statistics",
+		"tags",
+		"weapon"
+	],
+	"corpse": "25",
+	"description": "A survivor of the plague, outcast, but alive. A little crazy, and a little dangerous.",
+	"dialogues": [],
+	"equipment": {
+		"torso_cloth": [
+			{
+				"chance": 1.0,
+				"id": "23",
+				"name": "Rags",
+				"stack": 1
+			}
+		]
+	},
+	"experience_gainer": {
+		"exp": 0,
+		"level": 20
+	},
+	"fighter": {
+		"attackNames": [
+			"Bite",
+			"Scratch"
+		]
+	},
+	"glyph": {
+		"frames": [
+			{
+				"color": [
+					255,
+					255,
+					255
+				],
+				"delay": 0,
+				"index": 567
+			}
+		],
+		"random_frame_start": false
+	},
+	"health": 150,
+	"humanoid": {
+		"race": ""
+	},
+	"id": "core_2_Plague_Refugee",
+	"minimap_pixel": [
+		149,
+		165,
+		101
+	],
+	"moveable": {
+		"speed": 1.100000023841858
+	},
+	"name": "Plague Refugee",
+	"persona": {
+		"occupation": "Plague Refugee"
+	},
+	"sight": {
+		"ignore_infra_penalty": false,
+		"infravision": true,
+		"range": 8,
+		"threesixty": false
+	},
+	"stamina": {
+		"fatigue": 100,
+		"stamina": 100,
+		"stamina_regen": 0.0
+	},
+	"statistics": {
+		"dexterity": [
+			12,
+			16
+		],
+		"endurance": [
+			16,
+			20
+		],
+		"intelligence": [
+			8,
+			11
+		],
+		"strength": [
+			27,
+			32
+		],
+		"willpower": [
+			21,
+			26
+		]
+	},
+	"tags": [],
+	"weapon": {
+		"attack_speed": 0.800000011920929,
+		"critical_hit": 0.5,
+		"damage": [
+			{
+				"dmg_max": 6,
+				"dmg_min": 2,
+				"dmg_type": "poison"
+			}
+		],
+		"hands": 1,
+		"hit_bonus": 1,
+		"parry_bonus": 0,
+		"range": 1,
+		"type": 1
+	}
+}

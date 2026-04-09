@@ -1,0 +1,26 @@
+{
+	"animation": "170",
+	"cast_time": 0.6000000238418579,
+	"cooldown": 6.0,
+	"cost": {
+		"health": 0,
+		"item_type": 0,
+		"stamina": 3
+	},
+	"description": "A ranged attack dealing ::damage ::damage_type damage to the target and immobilize it for ::duration turns. Immobilize effect succeeds on opposed caster willpower vs defender strength check.",
+	"duration": 4.0,
+	"effects": {
+		"damage": [
+			10,
+			15
+		],
+		"damage_type": "physical",
+		"damage_weapon": 1.0,
+		"immobilize": 1
+	},
+	"id": "129",
+	"image": 93,
+	"name": "Net Throw",
+	"range": 6,
+	"target": "line"
+}

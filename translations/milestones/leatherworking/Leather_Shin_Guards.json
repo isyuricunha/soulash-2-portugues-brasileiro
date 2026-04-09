@@ -1,0 +1,15 @@
+{
+	"id": "core_2_leather_shin_guards",
+	"name": "Leather Shin Guards",
+	"requirements": {
+		"skill": 22
+	},
+	"rewards": [
+		{
+			"recipe": "2309"
+		}
+	],
+	"skill_id": "core_2_leatherworking",
+	"steps": [],
+	"steps_type": 0
+}

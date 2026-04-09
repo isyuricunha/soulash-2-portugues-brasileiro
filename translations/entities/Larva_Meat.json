@@ -1,0 +1,46 @@
+{
+	"components": [
+		"food",
+		"glyph",
+		"item",
+		"minimap_pixel",
+		"name",
+		"position_2d",
+		"stackable",
+		"value",
+		"weight"
+	],
+	"description": "Quite nutritious, but doesn't taste very good.",
+	"food": {
+		"nutrition": 30,
+		"on_eat": "",
+		"raw": true
+	},
+	"glyph": {
+		"frames": [
+			{
+				"color": [
+					255,
+					255,
+					255
+				],
+				"delay": 0,
+				"index": 2158
+			}
+		],
+		"random_frame_start": false
+	},
+	"id": "core_2_Larva_Meat",
+	"item": {
+		"image": 899,
+		"type": 20
+	},
+	"minimap_pixel": [
+		168,
+		104,
+		91
+	],
+	"name": "Larva Meat",
+	"value": 300,
+	"weight": 0.30000001192092896
+}

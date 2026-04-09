@@ -1,0 +1,62 @@
+{
+	"components": [
+		"glyph",
+		"health",
+		"item",
+		"minimap_pixel",
+		"name",
+		"position_2d",
+		"producer"
+	],
+	"corpse": [],
+	"description": "Large bowl with some fruits.",
+	"glyph": {
+		"frames": [
+			{
+				"color": [
+					255,
+					255,
+					255
+				],
+				"delay": 0,
+				"index": 2586
+			}
+		],
+		"random_frame_start": false
+	},
+	"health": 10,
+	"id": "core_2_Bowl_of_Fruit",
+	"item": {
+		"image": 1146,
+		"type": 24
+	},
+	"minimap_pixel": [
+		71,
+		48,
+		17
+	],
+	"name": "Bowl of Fruit",
+	"producer": {
+		"products": {
+			"10": [
+				{
+					"amount": [
+						1,
+						1
+					],
+					"id": "2168",
+					"percent_chance": 100
+				},
+				{
+					"amount": [
+						1,
+						1
+					],
+					"id": "811",
+					"percent_chance": 100
+				}
+			]
+		},
+		"time": 0
+	}
+}

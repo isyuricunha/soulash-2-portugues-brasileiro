@@ -1,0 +1,87 @@
+{
+	"components": [
+		"glyph",
+		"item",
+		"minimap_pixel",
+		"name",
+		"position_2d",
+		"resource",
+		"stackable",
+		"statistics",
+		"value",
+		"weapon",
+		"weight"
+	],
+	"description": "Glass-like black rock formed from volcanic lava.",
+	"glyph": {
+		"frames": [
+			{
+				"color": [
+					255,
+					255,
+					255
+				],
+				"delay": 0,
+				"index": 1753
+			}
+		],
+		"random_frame_start": true
+	},
+	"id": "2540",
+	"item": {
+		"image": 681,
+		"type": 16
+	},
+	"minimap_pixel": [
+		114,
+		113,
+		115
+	],
+	"name": "Obsidian Stone",
+	"resource": {
+		"affix": "Obsidian",
+		"magic_ingredient": 0,
+		"quality": 4,
+		"type": 6
+	},
+	"statistics": {
+		"dexterity": [
+			0,
+			0
+		],
+		"endurance": [
+			0,
+			0
+		],
+		"intelligence": [
+			0,
+			0
+		],
+		"strength": [
+			4,
+			4
+		],
+		"willpower": [
+			0,
+			0
+		]
+	},
+	"value": 2000,
+	"weapon": {
+		"attack_speed": 0.0,
+		"critical_hit": 0.0,
+		"damage": [
+			{
+				"dmg_max": 2,
+				"dmg_min": 2,
+				"dmg_type": "physical"
+			}
+		],
+		"hands": 1,
+		"hit_bonus": 0,
+		"parry_bonus": 0,
+		"range": 0,
+		"type": 9
+	},
+	"weight": 0.10000000149011612
+}

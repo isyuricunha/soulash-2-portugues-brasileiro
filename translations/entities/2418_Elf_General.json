@@ -1,0 +1,167 @@
+{
+	"artificial_intelligence": {
+		"allies": [
+			"7"
+		],
+		"allow_production": [],
+		"behaviors": [],
+		"enemies": []
+	},
+	"components": [
+		"actor",
+		"artificial_intelligence",
+		"collidable",
+		"consumer",
+		"dialogues",
+		"equipment",
+		"fighter",
+		"glyph",
+		"health",
+		"humanoid",
+		"minimap_pixel",
+		"moveable",
+		"name",
+		"persona",
+		"position_2d",
+		"sight",
+		"skills",
+		"stamina",
+		"statistics",
+		"tags"
+	],
+	"corpse": "322",
+	"description": "",
+	"dialogues": [
+		"552",
+		"553"
+	],
+	"equipment": {
+		"cape": [
+			{
+				"chance": 1.0,
+				"id": "769",
+				"name": "Noble Cape",
+				"stack": 1
+			}
+		],
+		"head_armor": [
+			{
+				"chance": 1.0,
+				"id": "392",
+				"name": "Diadem",
+				"stack": 1
+			}
+		],
+		"legs_armor": [
+			{
+				"chance": 1.0,
+				"id": "2211",
+				"name": "Wooden Greaves",
+				"stack": 1
+			}
+		],
+		"right_hand": [
+			{
+				"chance": 1.0,
+				"id": "2189",
+				"name": "Katana",
+				"stack": 1
+			}
+		],
+		"torso_armor": [
+			{
+				"chance": 1.0,
+				"id": "2213",
+				"name": "Wooden Armor",
+				"stack": 1
+			}
+		]
+	},
+	"fighter": {
+		"attackNames": null
+	},
+	"glyph": {
+		"frames": [
+			{
+				"color": [
+					255,
+					255,
+					255
+				],
+				"delay": 0,
+				"index": 85
+			}
+		],
+		"random_frame_start": false
+	},
+	"health": 500,
+	"humanoid": {
+		"race": "2"
+	},
+	"id": "2418",
+	"minimap_pixel": [
+		224,
+		172,
+		105
+	],
+	"moveable": {
+		"speed": 0.800000011920929
+	},
+	"name": "Elf General",
+	"persona": {
+		"occupation": "General"
+	},
+	"sight": {
+		"ignore_infra_penalty": false,
+		"infravision": false,
+		"range": 10,
+		"threesixty": false
+	},
+	"skills": {
+		"milestones": [
+			"core_2_bleed_it_out",
+			"core_2_bushido",
+			"core_2_chain_slash",
+			"core_2_clean_cut",
+			"core_2_deadly_dance",
+			"core_2_precise_hit",
+			"core_2_three_heads_vow",
+			"core_2_way_of_the_blade"
+		],
+		"skills": [
+			"core_2_sword_fighting",
+			"core_2_leadership"
+		]
+	},
+	"stamina": {
+		"fatigue": 100,
+		"stamina": 100,
+		"stamina_regen": 0.0
+	},
+	"statistics": {
+		"dexterity": [
+			44,
+			47
+		],
+		"endurance": [
+			35,
+			39
+		],
+		"intelligence": [
+			25,
+			29
+		],
+		"strength": [
+			58,
+			63
+		],
+		"willpower": [
+			51,
+			65
+		]
+	},
+	"tags": [
+		"9",
+		"7"
+	]
+}

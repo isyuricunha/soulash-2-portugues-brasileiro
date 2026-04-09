@@ -1,0 +1,69 @@
+{
+	"components": [
+		"craftable",
+		"glyph",
+		"item",
+		"minimap_pixel",
+		"name",
+		"position_2d",
+		"stackable",
+		"usable",
+		"value",
+		"weight"
+	],
+	"craftable": {
+		"backgrounds": [],
+		"biomes": [],
+		"magic_slots": 0,
+		"resources": [
+			{
+				"amount": 1,
+				"id": "835"
+			},
+			{
+				"amount": 1,
+				"id": "2003"
+			},
+			{
+				"amount": 1,
+				"id": "813"
+			}
+		],
+		"time": 20,
+		"tools": [
+			15
+		]
+	},
+	"description": "A vial containing an alchemic antidote, capable of curing most poisons.",
+	"glyph": {
+		"frames": [
+			{
+				"color": [
+					255,
+					255,
+					255
+				],
+				"delay": 0,
+				"index": 663
+			}
+		],
+		"random_frame_start": false
+	},
+	"id": "855",
+	"item": {
+		"image": 322,
+		"type": 17
+	},
+	"minimap_pixel": [
+		182,
+		67,
+		136
+	],
+	"name": "Antidote Vial",
+	"usable": {
+		"ability": "137",
+		"recipe": ""
+	},
+	"value": 1500,
+	"weight": 0.30000001192092896
+}

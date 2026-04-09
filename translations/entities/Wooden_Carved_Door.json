@@ -1,0 +1,79 @@
+{
+	"armor": {
+		"acid": -2,
+		"death": 0,
+		"electricity": 1,
+		"fire": -5,
+		"frost": 2,
+		"holy": 0,
+		"parry": 0,
+		"physical": 1,
+		"poison": 0,
+		"thorns": 0
+	},
+	"background": {
+		"color": [
+			44,
+			45,
+			41
+		],
+		"noise": 3
+	},
+	"components": [
+		"armor",
+		"background",
+		"collidable",
+		"glyph",
+		"health",
+		"height",
+		"minimap_pixel",
+		"name",
+		"openable",
+		"position_2d"
+	],
+	"corpse": [],
+	"description": "A closed wooden door with intricate carvings.",
+	"glyph": {
+		"frames": [
+			{
+				"color": [
+					255,
+					255,
+					255
+				],
+				"delay": 0,
+				"index": 3093
+			}
+		],
+		"random_frame_start": true
+	},
+	"health": 100,
+	"height": 5,
+	"id": "core_2_Wooden_Carved_Door",
+	"minimap_pixel": [
+		70,
+		43,
+		10
+	],
+	"name": "Wooden Carved Door",
+	"openable": {
+		"block_light": false,
+		"collidable": false,
+		"description": "Wooden door with intricate carvings, currently opened.",
+		"glyph": {
+			"frames": [
+				{
+					"color": [
+						255,
+						255,
+						255
+					],
+					"delay": 0,
+					"index": 3094
+				}
+			],
+			"random_frame_start": false
+		},
+		"height": 0
+	}
+}

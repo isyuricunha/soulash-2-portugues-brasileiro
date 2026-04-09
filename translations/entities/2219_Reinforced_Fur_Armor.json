@@ -1,0 +1,70 @@
+{
+	"armor": {
+		"acid": 0,
+		"death": 0,
+		"electricity": 6,
+		"fire": 0,
+		"frost": 8,
+		"holy": 0,
+		"parry": 0,
+		"physical": 6,
+		"poison": 0
+	},
+	"components": [
+		"armor",
+		"craftable",
+		"glyph",
+		"item",
+		"minimap_pixel",
+		"name",
+		"position_2d",
+		"value",
+		"weight"
+	],
+	"craftable": {
+		"magic_slots": 5,
+		"resource_types": [
+			{
+				"amount": 4,
+				"id": 9
+			},
+			{
+				"amount": 1,
+				"id": 1
+			}
+		],
+		"resources": null,
+		"time": 160,
+		"tools": [
+			14
+		]
+	},
+	"description": "This armor is made by layering and stitching together pieces of fur or hide. It's reinforced with metal plates to increase its durability and protective capabilities.",
+	"glyph": {
+		"frames": [
+			{
+				"color": [
+					255,
+					255,
+					255
+				],
+				"delay": 0,
+				"index": 521
+			}
+		],
+		"random_frame_start": false
+	},
+	"id": "2219",
+	"item": {
+		"image": 568,
+		"type": 4
+	},
+	"minimap_pixel": [
+		212,
+		200,
+		33
+	],
+	"name": "Reinforced Fur Armor",
+	"value": 12000,
+	"weight": 5.0
+}

@@ -1,0 +1,103 @@
+{
+	"armor": {
+		"acid": 2,
+		"death": 2,
+		"electricity": 5,
+		"fire": -20,
+		"frost": 5,
+		"holy": 2,
+		"parry": 0,
+		"physical": 3,
+		"poison": 10,
+		"thorns": 0
+	},
+	"components": [
+		"armor",
+		"block_light",
+		"collidable",
+		"glyph",
+		"health",
+		"height",
+		"minimap_pixel",
+		"name",
+		"position_2d",
+		"producer"
+	],
+	"corpse": "48",
+	"description": "A withered and dead tree, though it may still provide some lumber.",
+	"glyph": {
+		"frames": [
+			{
+				"color": [
+					60,
+					34,
+					40
+				],
+				"delay": 0,
+				"index": 217
+			},
+			{
+				"color": [
+					78,
+					43,
+					40
+				],
+				"delay": 0,
+				"index": 217
+			},
+			{
+				"color": [
+					78,
+					60,
+					61
+				],
+				"delay": 0,
+				"index": 217
+			},
+			{
+				"color": [
+					60,
+					34,
+					40
+				],
+				"delay": 0,
+				"index": 217
+			}
+		],
+		"random_frame_start": true
+	},
+	"health": 150,
+	"height": 25,
+	"id": "42",
+	"minimap_pixel": [
+		93,
+		63,
+		20
+	],
+	"name": "Dead Tree",
+	"producer": {
+		"products": {
+			"1": [
+				{
+					"amount": [
+						1,
+						1
+					],
+					"id": "61",
+					"percent_chance": 100
+				}
+			],
+			"core_2_woodbend": [
+				{
+					"amount": [
+						7,
+						10
+					],
+					"id": "62",
+					"percent_chance": 100
+				}
+			]
+		},
+		"time": 10
+	}
+}

@@ -1,0 +1,142 @@
+{
+	"armor": {
+		"acid": 0,
+		"death": 0,
+		"electricity": 1,
+		"fire": -1,
+		"frost": 0,
+		"holy": 0,
+		"parry": 0,
+		"physical": 1,
+		"poison": 0,
+		"thorns": 0
+	},
+	"artificial_intelligence": {
+		"allies": [],
+		"allow_production": [],
+		"behaviors": [],
+		"enemies": [
+			"5"
+		]
+	},
+	"components": [
+		"actor",
+		"armor",
+		"artificial_intelligence",
+		"collidable",
+		"dialogues",
+		"equipment",
+		"experience_gainer",
+		"fighter",
+		"glyph",
+		"health",
+		"minimap_pixel",
+		"moveable",
+		"name",
+		"position_2d",
+		"sight",
+		"stamina",
+		"statistics",
+		"tags"
+	],
+	"corpse": "core_2_Oak_Ripper_Corpse",
+	"description": "Big and dumb humanoid creature. Strong enough to rip a tree from the ground.",
+	"dialogues": [
+		"1002",
+		"1003"
+	],
+	"equipment": {
+		"legs_cloth": [
+			{
+				"chance": 1.0,
+				"id": "323",
+				"name": "Tights",
+				"stack": 1
+			}
+		],
+		"right_hand": [
+			{
+				"chance": 1.0,
+				"id": "85",
+				"name": "Club",
+				"stack": 1
+			}
+		],
+		"torso_cloth": [
+			{
+				"chance": 1.0,
+				"id": "184",
+				"name": "Shirt",
+				"stack": 1
+			}
+		]
+	},
+	"experience_gainer": {
+		"exp": 0,
+		"level": 10
+	},
+	"fighter": {
+		"attackNames": null
+	},
+	"glyph": {
+		"frames": [
+			{
+				"color": [
+					255,
+					255,
+					255
+				],
+				"delay": 0,
+				"index": 90
+			}
+		],
+		"random_frame_start": false
+	},
+	"health": 80,
+	"id": "core_2_Oak_Ripper",
+	"minimap_pixel": [
+		115,
+		125,
+		132
+	],
+	"moveable": {
+		"speed": 1.2000000476837158
+	},
+	"name": "Oak Ripper",
+	"sight": {
+		"ignore_infra_penalty": false,
+		"infravision": true,
+		"range": 7,
+		"threesixty": false
+	},
+	"stamina": {
+		"fatigue": 100,
+		"stamina": 100,
+		"stamina_regen": 0.0
+	},
+	"statistics": {
+		"dexterity": [
+			4,
+			7
+		],
+		"endurance": [
+			10,
+			12
+		],
+		"intelligence": [
+			4,
+			7
+		],
+		"strength": [
+			15,
+			20
+		],
+		"willpower": [
+			4,
+			7
+		]
+	},
+	"tags": [
+		"9"
+	]
+}

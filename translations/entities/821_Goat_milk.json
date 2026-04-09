@@ -1,0 +1,45 @@
+{
+	"components": [
+		"glyph",
+		"item",
+		"liquid_source",
+		"minimap_pixel",
+		"name",
+		"position_2d",
+		"stackable",
+		"value",
+		"weight"
+	],
+	"description": "Milk from a mature goat.",
+	"glyph": {
+		"frames": [
+			{
+				"color": [
+					255,
+					255,
+					255
+				],
+				"delay": 0,
+				"index": 406
+			}
+		],
+		"random_frame_start": false
+	},
+	"id": "821",
+	"item": {
+		"image": 365,
+		"type": 20
+	},
+	"liquid_source": {
+		"limit": 20,
+		"type": 7
+	},
+	"minimap_pixel": [
+		188,
+		188,
+		187
+	],
+	"name": "Goat Milk",
+	"value": 200,
+	"weight": 0.30000001192092896
+}

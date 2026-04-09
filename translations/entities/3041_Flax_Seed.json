@@ -1,0 +1,40 @@
+{
+	"components": [
+		"glyph",
+		"item",
+		"minimap_pixel",
+		"name",
+		"position_2d",
+		"stackable",
+		"value",
+		"weight"
+	],
+	"description": "Will make a beautiful flax plant one day. ",
+	"glyph": {
+		"frames": [
+			{
+				"color": [
+					255,
+					255,
+					255
+				],
+				"delay": 0,
+				"index": 2039
+			}
+		],
+		"random_frame_start": false
+	},
+	"id": "3041",
+	"item": {
+		"image": 821,
+		"type": 24
+	},
+	"minimap_pixel": [
+		153,
+		204,
+		255
+	],
+	"name": "Flax Seed",
+	"value": 300,
+	"weight": 0.10000000149011612
+}

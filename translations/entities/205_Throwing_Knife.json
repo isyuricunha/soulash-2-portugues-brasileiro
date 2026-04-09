@@ -1,0 +1,76 @@
+{
+	"components": [
+		"craftable",
+		"glyph",
+		"item",
+		"minimap_pixel",
+		"name",
+		"position_2d",
+		"value",
+		"weapon",
+		"weight"
+	],
+	"craftable": {
+		"magic_slots": 1,
+		"resource_types": [
+			{
+				"amount": 1,
+				"id": 3
+			},
+			{
+				"amount": 1,
+				"id": 1
+			}
+		],
+		"resources": null,
+		"time": 60,
+		"tools": [
+			1
+		]
+	},
+	"description": "A balanced knife, great for throwing.",
+	"glyph": {
+		"frames": [
+			{
+				"color": [
+					255,
+					255,
+					255
+				],
+				"delay": 0,
+				"index": 486
+			}
+		],
+		"random_frame_start": false
+	},
+	"id": "205",
+	"item": {
+		"image": 98,
+		"type": 13
+	},
+	"minimap_pixel": [
+		49,
+		162,
+		242
+	],
+	"name": "Throwing Knife",
+	"value": 500,
+	"weapon": {
+		"attack_animation": "104",
+		"attack_speed": 0.800000011920929,
+		"critical_hit": 0.0,
+		"damage": [
+			{
+				"dmg_max": 5,
+				"dmg_min": 2,
+				"dmg_type": "physical"
+			}
+		],
+		"hands": 1,
+		"hit_bonus": 0,
+		"parry_bonus": 0,
+		"range": 6,
+		"type": 11
+	},
+	"weight": 0.4000000059604645
+}

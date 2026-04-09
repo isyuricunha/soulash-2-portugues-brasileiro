@@ -1,0 +1,16 @@
+{
+	"id": "core_2_double_axe",
+	"name": "Double Axe",
+	"requirements": {
+		"milestones": [],
+		"skill": 32
+	},
+	"rewards": [
+		{
+			"recipe": "374"
+		}
+	],
+	"skill_id": "core_2_weaponsmith",
+	"steps": [],
+	"steps_type": 0
+}

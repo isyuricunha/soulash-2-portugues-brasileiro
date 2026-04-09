@@ -1,0 +1,22 @@
+{
+	"id": "core_2_anvil",
+	"name": "Anvil",
+	"requirements": {
+		"milestones": [],
+		"skill": 19
+	},
+	"rewards": [
+		{
+			"recipe": "2254"
+		},
+		{
+			"recipe": "150"
+		},
+		{
+			"recipe": "core_2_Mush_Anvil"
+		}
+	],
+	"skill_id": "core_2_construction",
+	"steps": [],
+	"steps_type": 0
+}

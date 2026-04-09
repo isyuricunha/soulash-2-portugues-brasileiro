@@ -1,0 +1,16 @@
+{
+	"id": "core_2_decorated_stash",
+	"name": "Decorated Stash",
+	"requirements": {
+		"milestones": [],
+		"skill": 1
+	},
+	"rewards": [
+		{
+			"recipe": "core_2_Decorated_Stash"
+		}
+	],
+	"skill_id": "core_2_construction",
+	"steps": [],
+	"steps_type": 0
+}

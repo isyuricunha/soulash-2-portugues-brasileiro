@@ -1,0 +1,57 @@
+{
+	"background": {
+		"color": [
+			44,
+			45,
+			41
+		],
+		"noise": 7,
+		"noise_intensity": 4
+	},
+	"components": [
+		"background",
+		"glyph",
+		"minimap_pixel",
+		"name",
+		"position_2d",
+		"producer"
+	],
+	"description": "Muddy clay under your feet.",
+	"glyph": {
+		"frames": [
+			{
+				"color": [
+					255,
+					255,
+					255
+				],
+				"delay": 0,
+				"index": 1483
+			}
+		],
+		"random_frame_start": false
+	},
+	"id": "2015",
+	"minimap_pixel": [
+		68,
+		55,
+		0
+	],
+	"name": "Clay Floor",
+	"producer": {
+		"delay_on_use": 2400,
+		"products": {
+			"12": [
+				{
+					"amount": [
+						1,
+						2
+					],
+					"id": "2004",
+					"percent_chance": 100
+				}
+			]
+		},
+		"time": 60
+	}
+}

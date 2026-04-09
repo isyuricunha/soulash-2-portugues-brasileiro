@@ -1,0 +1,58 @@
+{
+	"components": [
+		"glyph",
+		"health",
+		"minimap_pixel",
+		"name",
+		"position_2d",
+		"producer"
+	],
+	"corpse": [],
+	"description": "A small patch of mugwort.",
+	"glyph": {
+		"frames": [
+			{
+				"color": [
+					255,
+					255,
+					255
+				],
+				"delay": 0,
+				"index": 2927
+			},
+			{
+				"color": [
+					255,
+					255,
+					255
+				],
+				"delay": 200,
+				"index": 2928
+			}
+		],
+		"random_frame_start": true
+	},
+	"health": 10,
+	"id": "core_2_Mugwort_Patch",
+	"minimap_pixel": [
+		24,
+		154,
+		43
+	],
+	"name": "Mugwort Patch",
+	"producer": {
+		"products": {
+			"10": [
+				{
+					"amount": [
+						1,
+						3
+					],
+					"id": "core_2_Mugwort",
+					"percent_chance": 100
+				}
+			]
+		},
+		"time": 10
+	}
+}

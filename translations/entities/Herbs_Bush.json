@@ -1,0 +1,92 @@
+{
+	"armor": {
+		"acid": 100,
+		"death": 0,
+		"electricity": 10,
+		"fire": -10,
+		"frost": 30,
+		"holy": 100,
+		"parry": 0,
+		"physical": 5,
+		"poison": 100,
+		"thorns": 0
+	},
+	"components": [
+		"armor",
+		"block_light",
+		"glyph",
+		"glyph_top",
+		"health",
+		"height",
+		"minimap_pixel",
+		"name",
+		"position_2d",
+		"producer"
+	],
+	"corpse": [],
+	"description": "Aromatic bush full of fresh herbs.",
+	"glyph": {
+		"frames": [
+			{
+				"color": [
+					255,
+					255,
+					255
+				],
+				"delay": 0,
+				"index": 2107
+			}
+		],
+		"random_frame_start": false,
+		"random_top": {
+			"colors": [
+				[
+					255,
+					255,
+					255
+				]
+			],
+			"count": 5,
+			"glyph_ids": [
+				249,
+				863,
+				864
+			],
+			"max_alpha": 200,
+			"max_range": 3,
+			"wind": true
+		}
+	},
+	"health": 50,
+	"height": 2,
+	"id": "core_2_Herbs_Bush",
+	"minimap_pixel": [
+		156,
+		73,
+		73
+	],
+	"name": "Herbs Bush",
+	"producer": {
+		"products": {
+			"10": [
+				{
+					"amount": [
+						1,
+						2
+					],
+					"id": "2003",
+					"percent_chance": 100
+				},
+				{
+					"amount": [
+						1,
+						2
+					],
+					"id": "3043",
+					"percent_chance": 10
+				}
+			]
+		},
+		"time": 15
+	}
+}

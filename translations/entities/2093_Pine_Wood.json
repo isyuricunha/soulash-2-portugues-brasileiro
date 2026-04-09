@@ -1,0 +1,78 @@
+{
+	"armor": {
+		"acid": 0,
+		"death": 2,
+		"electricity": 0,
+		"fire": 0,
+		"frost": 0,
+		"holy": 0,
+		"parry": 0,
+		"physical": 0,
+		"poison": 0,
+		"thorns": 0
+	},
+	"components": [
+		"armor",
+		"glyph",
+		"item",
+		"minimap_pixel",
+		"name",
+		"position_2d",
+		"resource",
+		"stackable",
+		"value",
+		"weapon",
+		"weight"
+	],
+	"description": "Pine wood is one of the most basic types of wood available.",
+	"extra_weight": -0.10000000149011612,
+	"glyph": {
+		"frames": [
+			{
+				"color": [
+					255,
+					255,
+					255
+				],
+				"delay": 0,
+				"index": 173
+			}
+		],
+		"random_frame_start": false
+	},
+	"id": "2093",
+	"item": {
+		"image": 10,
+		"type": 16
+	},
+	"minimap_pixel": [
+		171,
+		102,
+		57
+	],
+	"name": "Pine Wood",
+	"resource": {
+		"affix": "Pine",
+		"magic_ingredient": 0,
+		"quality": 1,
+		"type": 3
+	},
+	"value": 200,
+	"weapon": {
+		"attack_speed": 0.0,
+		"critical_hit": 0.0,
+		"damage": [
+			{
+				"dmg_max": 1,
+				"dmg_min": 1,
+				"dmg_type": "physical"
+			}
+		],
+		"hands": 1,
+		"hit_bonus": 0,
+		"parry_bonus": 0,
+		"range": 0,
+		"type": 9
+	},
+	"weight": 0.10000000149011612
+}

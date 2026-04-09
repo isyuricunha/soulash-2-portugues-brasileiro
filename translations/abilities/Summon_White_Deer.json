@@ -1,0 +1,23 @@
+{
+	"animation": "153",
+	"cast_time": 1.0,
+	"cooldown": 50.0,
+	"cost": {
+		"health": 3,
+		"stamina": 5
+	},
+	"description": "Summons a white deer to aid you in combat.",
+	"duration": 20.0,
+	"effects": {
+		"summon_count": 1
+	},
+	"effects_keys": {
+		"summon": "930"
+	},
+	"id": "153",
+	"image": 561,
+	"name": "Summon White Deer",
+	"range": 3,
+	"skill": "",
+	"target": "tile"
+}

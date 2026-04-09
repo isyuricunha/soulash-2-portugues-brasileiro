@@ -1,0 +1,21 @@
+{
+	"animation": "171",
+	"cast_time": 0.5,
+	"cooldown": 10.0,
+	"cost": {
+		"health": 0,
+		"stamina": 4
+	},
+	"description": "Weapons that you hold are enchanted with ::damage_type power increasing damage by ::damage_bonus for ::duration turns.",
+	"duration": 10.0,
+	"effects": {
+		"damage_bonus": 3,
+		"damage_type": "acid"
+	},
+	"id": "130",
+	"image": 105,
+	"name": "Acid Blade",
+	"range": 0,
+	"skill": "",
+	"target": "self"
+}

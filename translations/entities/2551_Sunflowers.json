@@ -1,0 +1,85 @@
+{
+	"components": [
+		"glyph",
+		"glyph_top",
+		"height",
+		"minimap_pixel",
+		"name",
+		"position_2d",
+		"producer"
+	],
+	"description": "Tall, yellow flowers.",
+	"glyph": {
+		"frames": [
+			{
+				"color": [
+					162,
+					125,
+					66
+				],
+				"delay": 0,
+				"index": 1667
+			},
+			{
+				"color": [
+					162,
+					125,
+					66
+				],
+				"delay": 0,
+				"index": 1668
+			}
+		],
+		"random_frame_start": true,
+		"random_top": {
+			"colors": [
+				[
+					203,
+					133,
+					64
+				],
+				[
+					211,
+					149,
+					81
+				],
+				[
+					169,
+					129,
+					83
+				]
+			],
+			"count": 1,
+			"glyph_ids": [
+				1774,
+				1775
+			],
+			"max_alpha": 200,
+			"max_range": 2,
+			"wind": true
+		}
+	},
+	"height": 0,
+	"id": "2551",
+	"minimap_pixel": [
+		163,
+		138,
+		76
+	],
+	"name": "Sunflowers",
+	"producer": {
+		"products": {
+			"6": [
+				{
+					"amount": [
+						1,
+						2
+					],
+					"id": "796",
+					"percent_chance": 100
+				}
+			]
+		},
+		"time": 10
+	}
+}

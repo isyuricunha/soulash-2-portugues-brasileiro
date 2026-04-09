@@ -1,0 +1,16 @@
+{
+	"id": "core_2_herbs_seedling",
+	"name": "Herbs Seedling",
+	"requirements": {
+		"milestones": [],
+		"skill": 6
+	},
+	"rewards": [
+		{
+			"recipe": "3074"
+		}
+	],
+	"skill_id": "core_2_agriculture",
+	"steps": [],
+	"steps_type": 0
+}

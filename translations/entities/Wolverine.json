@@ -1,0 +1,115 @@
+{
+	"artificial_intelligence": {
+		"allies": [],
+		"allow_production": [],
+		"behaviors": [],
+		"enemies": []
+	},
+	"components": [
+		"actor",
+		"artificial_intelligence",
+		"collidable",
+		"dialogues",
+		"equipment",
+		"experience_gainer",
+		"glyph",
+		"health",
+		"minimap_pixel",
+		"moveable",
+		"name",
+		"position_2d",
+		"sight",
+		"statistics",
+		"tags"
+	],
+	"corpse": "core_2_Wolverine_Corpse",
+	"description": "Looks almost like a small bear.",
+	"dialogues": [
+		"2",
+		"891"
+	],
+	"equipment": {
+		"disabled_slots": [
+			0,
+			1,
+			2,
+			3,
+			4,
+			5,
+			6,
+			7,
+			8,
+			9,
+			10,
+			11,
+			12,
+			13,
+			14,
+			15,
+			16,
+			17,
+			18
+		]
+	},
+	"experience_gainer": {
+		"exp": 0,
+		"level": 20
+	},
+	"glyph": {
+		"frames": [
+			{
+				"color": [
+					255,
+					255,
+					255
+				],
+				"delay": 1000,
+				"index": 31
+			}
+		],
+		"random_frame_start": false
+	},
+	"health": 120,
+	"id": "core_2_Wolverine",
+	"minimap_pixel": [
+		130,
+		140,
+		143
+	],
+	"moveable": {
+		"speed": 0.8999999761581421
+	},
+	"name": "Wolverine",
+	"sight": {
+		"ignore_infra_penalty": false,
+		"infravision": false,
+		"range": 6,
+		"threesixty": false
+	},
+	"statistics": {
+		"dexterity": [
+			20,
+			25
+		],
+		"endurance": [
+			20,
+			25
+		],
+		"intelligence": [
+			10,
+			15
+		],
+		"strength": [
+			30,
+			35
+		],
+		"willpower": [
+			5,
+			10
+		]
+	},
+	"tags": [
+		"2",
+		"9"
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"id": "core_2_stone_bridge",
+	"name": "Stone Bridge",
+	"requirements": {
+		"milestones": [],
+		"skill": 7
+	},
+	"rewards": [
+		{
+			"recipe": "632"
+		}
+	],
+	"skill_id": "core_2_construction",
+	"steps": [],
+	"steps_type": 0
+}

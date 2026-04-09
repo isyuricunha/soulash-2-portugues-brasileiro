@@ -1,0 +1,70 @@
+{
+	"id": "72",
+	"image": 51,
+	"name": "Forest Gatherers",
+	"occupation_image": 17,
+	"occupation": "2264",
+	"occupation_per_race": {
+        "0": "2202",
+        "1": "core_2_Dwarf_Forager",
+        "2": "2264",
+        "4": "core_2_Goblin_Forager",
+		"6": "core_2_Vampire_Forager",
+        "7": "core_2_Troll_Forager",
+        "8": "core_2_Orc_Forager",
+        "10": "2326",
+        "23": "core_2_Reptilion_Forager",
+        "26": "2372",
+        "31": "core_2_Gnoll_Trash_Collector",
+        "32": "core_2_Mushman_Forager",
+        "33": "core_2_Ursan_Forager"
+    },
+	"produces": [
+		{
+			"entities": [
+				{
+					"daily": 1,
+					"id": "2257"
+				}
+			],
+			"takes": []
+		},
+		{
+			"entities": [
+				{
+					"daily": 2,
+					"id": "2008"
+				}
+			],
+			"takes": []
+		},
+		{
+			"entities": [
+				{
+					"daily": 2,
+					"id": "2504"
+				}
+			],
+			"takes": []
+		}
+	],
+	"race": "2",
+	"tier": 1,
+	"workers": [
+		1,
+		2
+	],
+	"allow_player": true,
+	"required_entities": [
+		{
+			"entities": ["2975", "3099"],
+			"count": 4
+		},
+		{
+			"component": "resting_place",
+			"count": 2
+		}
+	],
+	"min_area": 40,
+	"group": "resources"
+}

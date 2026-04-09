@@ -1,0 +1,15 @@
+{
+	"id": "core_2_dig",
+	"name": "Dig",
+	"requirements": {
+		"skill": 32
+	},
+	"rewards": [
+		{
+			"production_action": "12"
+		}
+	],
+	"skill_id": "core_2_construction",
+	"steps": [],
+	"steps_type": 0
+}

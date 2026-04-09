@@ -1,0 +1,172 @@
+{
+	"ability_user": [
+		"35"
+	],
+	"artificial_intelligence": {
+		"allies": [],
+		"allow_production": [],
+		"behaviors": [],
+		"enemies": [
+			"5"
+		]
+	},
+	"category_id": 8,
+	"components": [
+		"ability_user",
+		"actor",
+		"artificial_intelligence",
+		"collidable",
+		"craftable",
+		"dialogues",
+		"equipment",
+		"experience_gainer",
+		"fighter",
+		"glyph",
+		"health",
+		"humanoid",
+		"minimap_pixel",
+		"moveable",
+		"name",
+		"position_2d",
+		"sight",
+		"stamina",
+		"statistics",
+		"tags"
+	],
+	"corpse": "2747",
+	"craftable": {
+		"backgrounds": [],
+		"biomes": [],
+		"magic_slots": 0,
+		"resources": [
+			{
+				"amount": 1,
+				"id": "2115"
+			},
+			{
+				"amount": 1,
+				"id": "2116"
+			},
+			{
+				"amount": 1,
+				"id": "149"
+			},
+			{
+				"amount": 1,
+				"id": "2535"
+			},
+			{
+				"amount": 1,
+				"id": "2547"
+			}
+		],
+		"time": 120,
+		"tools": [
+			6
+		]
+	},
+	"description": "A construct looking like a massive statue.",
+	"dialogues": [
+		"724"
+	],
+	"equipment": {
+		"custom_slots": [
+			"core_2_golem_hand",
+			"core_2_golem_head",
+			"core_2_golem_legs",
+			"core_2_golem_torso"
+		],
+		"disabled_slots": [
+			1,
+			2,
+			4,
+			7,
+			9,
+			10,
+			11,
+			12,
+			14,
+			15,
+			16,
+			17,
+			18,
+			3,
+			6
+		]
+	},
+	"experience_gainer": {
+		"exp": 0,
+		"level": 30
+	},
+	"fighter": {
+		"attackNames": [
+			"Punch",
+			"Slam"
+		]
+	},
+	"glyph": {
+		"frames": [
+			{
+				"color": [
+					255,
+					255,
+					255
+				],
+				"delay": 0,
+				"index": 2215
+			}
+		],
+		"random_frame_start": false
+	},
+	"health": 400,
+	"humanoid": {
+		"race": "27"
+	},
+	"id": "2893",
+	"minimap_pixel": [
+		149,
+		165,
+		101
+	],
+	"moveable": {
+		"speed": 1.0
+	},
+	"name": "Golem",
+	"sight": {
+		"ignore_infra_penalty": false,
+		"infravision": true,
+		"range": 8,
+		"threesixty": false
+	},
+	"stamina": {
+		"fatigue": 100,
+		"stamina": 100,
+		"stamina_regen": 0.0
+	},
+	"statistics": {
+		"dexterity": [
+			4,
+			7
+		],
+		"endurance": [
+			46,
+			50
+		],
+		"intelligence": [
+			2,
+			4
+		],
+		"strength": [
+			47,
+			52
+		],
+		"willpower": [
+			3,
+			6
+		]
+	},
+	"tags": [
+		"3",
+		"32"
+	]
+}

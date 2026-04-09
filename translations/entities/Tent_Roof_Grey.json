@@ -1,0 +1,70 @@
+{
+	"background": {
+		"color": [
+			34,
+			34,
+			35
+		],
+		"noise": 1
+	},
+	"category_id": 1,
+	"components": [
+		"background",
+		"craftable",
+		"glyph",
+		"minimap_pixel",
+		"name",
+		"producer"
+	],
+	"craftable": {
+		"backgrounds": [],
+		"biomes": [],
+		"magic_slots": 0,
+		"resource_types": [
+			{
+				"amount": 1,
+				"id": 4
+			}
+		],
+		"resources": null,
+		"time": 2,
+		"tools": []
+	},
+	"description": "The roof of a tent made from the material.",
+	"glyph": {
+		"frames": [
+			{
+				"color": [
+					255,
+					255,
+					255
+				],
+				"delay": 0,
+				"index": 2484
+			}
+		],
+		"random_frame_start": true
+	},
+	"id": "core_2_Tent_Roof_Gray",
+	"minimap_pixel": [
+		120,
+		120,
+		120
+	],
+	"name": "Tent Roof Grey",
+	"producer": {
+		"products": {
+			"core_2_deconstruct": [
+				{
+					"amount": [
+						0,
+						0
+					],
+					"id": "",
+					"percent_chance": 0
+				}
+			]
+		},
+		"time": 10
+	}
+}

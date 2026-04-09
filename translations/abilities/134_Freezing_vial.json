@@ -1,0 +1,24 @@
+{
+	"animation": "174",
+	"cast_time": 0.699999988079071,
+	"cooldown": 8.0,
+	"cost": {
+		"health": 0,
+		"stamina": 0
+	},
+	"description": "Freeze target in place dealing ::damage ::damage_type damage and immobilizing it for ::duration turns.",
+	"duration": 3.0,
+	"effects": {
+		"damage": [
+			15,
+			20
+		],
+		"damage_type": "frost",
+		"immobilize": 1
+	},
+	"id": "134",
+	"image": 688,
+	"name": "Freezing Vial",
+	"range": 7,
+	"target": "line"
+}

@@ -1,0 +1,16 @@
+{
+	"id": "core_2_coconut_sapling",
+	"name": "Coconut Palm Sapling",
+	"requirements": {
+		"milestones": [],
+		"skill": 8
+	},
+	"rewards": [
+		{
+			"recipe": "3103"
+		}
+	],
+	"skill_id": "core_2_agriculture",
+	"steps": [],
+	"steps_type": 0
+}

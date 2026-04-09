@@ -1,0 +1,61 @@
+{
+	"components": [
+		"craftable",
+		"glyph",
+		"item",
+		"minimap_pixel",
+		"name",
+		"position_2d",
+		"stackable",
+		"usable",
+		"value",
+		"weight"
+	],
+	"craftable": {
+		"backgrounds": [],
+		"biomes": [],
+		"cooldown": 432000,
+		"magic_slots": 0,
+		"resources": [
+			{
+				"amount": 1,
+				"id": "2006"
+			}
+		],
+		"time": 60,
+		"tools": []
+	},
+	"description": "Some cutting edge secrets of axe fighting are hidden within those pages.",
+	"glyph": {
+		"frames": [
+			{
+				"color": [
+					255,
+					255,
+					255
+				],
+				"delay": 0,
+				"index": 1998
+			}
+		],
+		"random_frame_start": false
+	},
+	"id": "3009",
+	"item": {
+		"image": 790,
+		"type": 17
+	},
+	"minimap_pixel": [
+		179,
+		178,
+		176
+	],
+	"name": "Book of Axe Fighting",
+	"usable": {
+		"ability": "",
+		"recipe": "",
+		"skill_p": "core_2_axe_fighting"
+	},
+	"value": 5000,
+	"weight": 0.20000000298023224
+}

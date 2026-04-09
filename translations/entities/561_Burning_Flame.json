@@ -1,0 +1,172 @@
+{
+	"components": [
+		"damage_applier",
+		"glyph",
+		"height",
+		"light_source",
+		"minimap_pixel",
+		"name",
+		"position_2d",
+		"producer",
+		"temporary",
+		"tool"
+	],
+	"damage_applier": {
+		"break_on_entry": false,
+		"dmg_animation": "92",
+		"dmg_max": 10,
+		"dmg_min": 5,
+		"dmg_type": "fire",
+		"duration": 3.0,
+		"tick": 1.0
+	},
+	"description": "Burning flames dance with fierce intensity, engulfing their surroundings in a mesmerizing display of heat and light.",
+	"glyph": {
+		"frames": [
+			{
+				"color": [
+					255,
+					255,
+					255
+				],
+				"delay": 90,
+				"index": 1302
+			},
+			{
+				"color": [
+					255,
+					255,
+					255
+				],
+				"delay": 90,
+				"index": 1303
+			},
+			{
+				"color": [
+					255,
+					255,
+					255
+				],
+				"delay": 90,
+				"index": 1304
+			},
+			{
+				"color": [
+					255,
+					255,
+					255
+				],
+				"delay": 90,
+				"index": 1305
+			},
+			{
+				"color": [
+					255,
+					255,
+					255
+				],
+				"delay": 90,
+				"index": 1306
+			},
+			{
+				"color": [
+					255,
+					255,
+					255
+				],
+				"delay": 90,
+				"index": 1307
+			},
+			{
+				"color": [
+					255,
+					255,
+					255
+				],
+				"delay": 90,
+				"index": 1308
+			},
+			{
+				"color": [
+					255,
+					255,
+					255
+				],
+				"delay": 90,
+				"index": 1309
+			},
+			{
+				"color": [
+					255,
+					255,
+					255
+				],
+				"delay": 90,
+				"index": 1310
+			},
+			{
+				"color": [
+					255,
+					255,
+					255
+				],
+				"delay": 90,
+				"index": 1311
+			},
+			{
+				"color": [
+					255,
+					255,
+					255
+				],
+				"delay": 90,
+				"index": 1312
+			},
+			{
+				"color": [
+					255,
+					255,
+					255
+				],
+				"delay": 90,
+				"index": 1313
+			}
+		],
+		"random_frame_start": true
+	},
+	"height": 0,
+	"id": "561",
+	"light_source": {
+		"finish": -1,
+		"fuel": [],
+		"range": 3
+	},
+	"minimap_pixel": [
+		192,
+		92,
+		13
+	],
+	"name": "Burning Flame",
+	"producer": {
+		"products": {
+			"19": [
+				{
+					"amount": [
+						0,
+						0
+					],
+					"id": "-1",
+					"percent_chance": 100
+				}
+			]
+		},
+		"time": 0
+	},
+	"temporary": 10.0,
+	"tool": [
+		{
+			"id": 2,
+			"quality": 80
+		}
+	]
+}

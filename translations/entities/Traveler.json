@@ -1,0 +1,137 @@
+{
+	"artificial_intelligence": {
+		"allies": [],
+		"allow_production": [],
+		"behaviors": [],
+		"enemies": [
+			"5"
+		]
+	},
+	"components": [
+		"actor",
+		"artificial_intelligence",
+		"collidable",
+		"dialogues",
+		"equipment",
+		"experience_gainer",
+		"fighter",
+		"glyph",
+		"health",
+		"humanoid",
+		"minimap_pixel",
+		"moveable",
+		"name",
+		"position_2d",
+		"sight",
+		"stamina",
+		"statistics",
+		"tags"
+	],
+	"corpse": "25",
+	"description": "This person looks like they traveled the world far and wide.",
+	"dialogues": [
+		"929"
+	],
+	"equipment": {
+		"right_hand": [
+			{
+				"chance": 0.33000001311302185,
+				"id": "108",
+				"name": "Hatchet",
+				"stack": 1
+			},
+			{
+				"chance": 0.33000001311302185,
+				"id": "85",
+				"name": "Club",
+				"stack": 1
+			},
+			{
+				"chance": 0.3400000035762787,
+				"id": "core_2_Dart",
+				"name": "Dart",
+				"stack": 10
+			}
+		],
+		"torso_cloth": [
+			{
+				"chance": 1.0,
+				"id": "184",
+				"name": "Shirt",
+				"stack": 1
+			}
+		]
+	},
+	"experience_gainer": {
+		"exp": 0,
+		"level": 10
+	},
+	"fighter": {
+		"attackNames": null
+	},
+	"glyph": {
+		"frames": [
+			{
+				"color": [
+					255,
+					255,
+					255
+				],
+				"delay": 0,
+				"index": 100
+			}
+		],
+		"random_frame_start": false
+	},
+	"health": 50,
+	"humanoid": {
+		"race": "0"
+	},
+	"id": "core_2_Traveler",
+	"minimap_pixel": [
+		149,
+		96,
+		248
+	],
+	"moveable": {
+		"speed": 1.2000000476837158
+	},
+	"name": "Traveler",
+	"sight": {
+		"ignore_infra_penalty": false,
+		"infravision": true,
+		"range": 7,
+		"threesixty": false
+	},
+	"stamina": {
+		"fatigue": 100,
+		"stamina": 100,
+		"stamina_regen": 0.0
+	},
+	"statistics": {
+		"dexterity": [
+			10,
+			16
+		],
+		"endurance": [
+			9,
+			12
+		],
+		"intelligence": [
+			5,
+			8
+		],
+		"strength": [
+			10,
+			16
+		],
+		"willpower": [
+			6,
+			9
+		]
+	},
+	"tags": [
+		"9",
+		"1"
+	]
+}

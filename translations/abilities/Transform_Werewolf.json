@@ -1,0 +1,28 @@
+{
+	"animation": "core_2_Transform_Werewolf",
+	"cast_time": 1.0,
+	"cooldown": 50.0,
+	"cost": {
+		"health": 0,
+		"stamina": 10
+	},
+	"description": "Calls upon your inner wolf to imbue you with its power. You gain statistics as well as bonus to attack speed and movement speed for a duration of ::duration turns.",
+	"duration": 25.0,
+	"effects": {
+		"attack_speed": -0.20000000298023224,
+		"movement_speed": -0.20000000298023224
+	},
+	"effects_keys": {
+		"transform": "2894"
+	},
+	"id": "core_2_Transform_Werewolf",
+	"image": 731,
+	"name": "Transform Werewolf",
+	"range": 0,
+	"skill": "core_2_alchemy",
+	"slots": {
+		"defensive": 2,
+		"utility": 2
+	},
+	"target": "self"
+}

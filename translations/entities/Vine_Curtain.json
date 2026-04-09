@@ -1,0 +1,34 @@
+{
+	"components": [
+		"collidable",
+		"glyph",
+		"health",
+		"minimap_pixel",
+		"name",
+		"position_2d"
+	],
+	"corpse": [],
+	"description": "A green curtain made of tangled plants.",
+	"glyph": {
+		"frames": [
+			{
+				"color": [
+					255,
+					255,
+					255
+				],
+				"delay": 0,
+				"index": 3181
+			}
+		],
+		"random_frame_start": true
+	},
+	"health": 50,
+	"id": "core_2_Vine_Curtain",
+	"minimap_pixel": [
+		169,
+		108,
+		14
+	],
+	"name": "Vine Curtain"
+}

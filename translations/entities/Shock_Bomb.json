@@ -1,0 +1,71 @@
+{
+	"components": [
+		"craftable",
+		"glyph",
+		"item",
+		"minimap_pixel",
+		"name",
+		"position_2d",
+		"stackable",
+		"usable",
+		"value",
+		"weight"
+	],
+	"craftable": {
+		"backgrounds": [],
+		"biomes": [],
+		"magic_slots": 0,
+		"resource_types": [
+			{
+				"amount": 1,
+				"id": 3
+			}
+		],
+		"resources": [
+			{
+				"amount": 1,
+				"id": "core_2_Elderberry"
+			},
+			{
+				"amount": 1,
+				"id": "core_2_Bluegrass"
+			}
+		],
+		"time": 20,
+		"tools": [
+			15
+		]
+	},
+	"description": "Exploding on impact, sending an electric shock through everybody near.",
+	"glyph": {
+		"frames": [
+			{
+				"color": [
+					255,
+					255,
+					255
+				],
+				"delay": 0,
+				"index": 2972
+			}
+		],
+		"random_frame_start": false
+	},
+	"id": "core_2_Shock_Bomb",
+	"item": {
+		"image": 1356,
+		"type": 17
+	},
+	"minimap_pixel": [
+		194,
+		133,
+		109
+	],
+	"name": "Shock Bomb",
+	"usable": {
+		"ability": "core_2_Shock_Bomb",
+		"recipe": ""
+	},
+	"value": 1100,
+	"weight": 0.20000000298023224
+}

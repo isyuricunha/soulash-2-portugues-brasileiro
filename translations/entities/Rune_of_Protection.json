@@ -1,0 +1,84 @@
+{
+	"armor": {
+		"acid": 0,
+		"death": 0,
+		"electricity": 0,
+		"fire": 0,
+		"frost": 0,
+		"holy": 0,
+		"parry": 1,
+		"physical": 3,
+		"poison": 0,
+		"thorns": 0
+	},
+	"components": [
+		"armor",
+		"craftable",
+		"glyph",
+		"item",
+		"minimap_pixel",
+		"name",
+		"position_2d",
+		"resource",
+		"stackable",
+		"value",
+		"weight"
+	],
+	"craftable": {
+		"backgrounds": [],
+		"biomes": [],
+		"magic_slots": 0,
+		"resources": [
+			{
+				"amount": 1,
+				"id": "869"
+			},
+			{
+				"amount": 1,
+				"id": "2937"
+			},
+			{
+				"amount": 1,
+				"id": "2114"
+			}
+		],
+		"time": 30,
+		"tools": [
+			1
+		]
+	},
+	"description": "Dwarven rune crafted to imbue its user with a means of protection.",
+	"glyph": {
+		"frames": [
+			{
+				"color": [
+					255,
+					255,
+					255
+				],
+				"delay": 0,
+				"index": 2371
+			}
+		],
+		"random_frame_start": false
+	},
+	"id": "core_2_Rune_of_Protection",
+	"item": {
+		"image": 1038,
+		"type": 16
+	},
+	"minimap_pixel": [
+		100,
+		109,
+		155
+	],
+	"name": "Rune of Protection",
+	"resource": {
+		"affix": "of the Protection",
+		"magic_ingredient": 3,
+		"quality": 3,
+		"type": 7
+	},
+	"value": 2000,
+	"weight": 0.10000000149011612
+}

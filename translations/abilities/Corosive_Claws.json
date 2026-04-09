@@ -1,0 +1,29 @@
+{
+	"animation": "core_2_Corosive_Claws",
+	"cast_time": 0.4000000059604645,
+	"cooldown": 10.0,
+	"cost": {
+		"health": 0,
+		"stamina": 4
+	},
+	"description": "Deal ::damage ::damage_type damage to the enemy and make an opposite dexterity check to force it to unequip an item in one of its hands. The effect will persist for ::duration turns and prevent equipping items in this hand.",
+	"duration": 5.0,
+	"effects": {
+		"damage": [
+			20,
+			30
+		],
+		"damage_type": "death",
+		"damage_weapon": 2.0,
+		"disarm": 2
+	},
+	"id": "core_2_Corosive_Claws",
+	"image": 814,
+	"name": "Corosive Claws",
+	"range": 2,
+	"skill": "",
+	"slots": {
+		"utility": 2
+	},
+	"target": "health"
+}

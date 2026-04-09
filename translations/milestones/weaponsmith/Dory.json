@@ -1,0 +1,16 @@
+{
+	"id": "core_2_dory",
+	"name": "Dory",
+	"requirements": {
+		"milestones": [],
+		"skill": 46
+	},
+	"rewards": [
+		{
+			"recipe": "core_2_Dory"
+		}
+	],
+	"skill_id": "core_2_weaponsmith",
+	"steps": [],
+	"steps_type": 0
+}

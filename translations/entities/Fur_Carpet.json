@@ -1,0 +1,30 @@
+{
+	"components": [
+		"glyph",
+		"minimap_pixel",
+		"name",
+		"position_2d"
+	],
+	"description": "Made with soft, silver fur, provides a little warmth against the cold ambiance.",
+	"glyph": {
+		"frames": [
+			{
+				"color": [
+					255,
+					255,
+					255
+				],
+				"delay": 0,
+				"index": 2867
+			}
+		],
+		"random_frame_start": false
+	},
+	"id": "core_2_Fur_Carpet",
+	"minimap_pixel": [
+		148,
+		25,
+		22
+	],
+	"name": "Fur Carpet"
+}

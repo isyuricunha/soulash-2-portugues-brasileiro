@@ -1,0 +1,16 @@
+{
+	"id": "75",
+	"image": 58,
+	"max": 1,
+	"name": "War Dancers",
+	"occupation_image": 56,
+	"occupation": "442",
+	"produces": [],
+	"race": "2",
+	"tier": 1,
+	"type": "military",
+	"workers": [
+		1,
+		12
+	]
+}

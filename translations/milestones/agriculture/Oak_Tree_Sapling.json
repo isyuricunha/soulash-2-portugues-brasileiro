@@ -1,0 +1,16 @@
+{
+	"id": "core_2_oak_sapling",
+	"name": "Oak Tree Sapling",
+	"requirements": {
+		"milestones": [],
+		"skill": 17
+	},
+	"rewards": [
+		{
+			"recipe": "3082"
+		}
+	],
+	"skill_id": "core_2_agriculture",
+	"steps": [],
+	"steps_type": 0
+}

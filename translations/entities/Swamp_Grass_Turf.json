@@ -1,0 +1,95 @@
+{
+	"armor": {
+		"acid": 100,
+		"death": 0,
+		"electricity": 10,
+		"fire": -10,
+		"frost": 30,
+		"holy": 100,
+		"parry": 0,
+		"physical": 5,
+		"poison": 100,
+		"thorns": 0
+	},
+	"components": [
+		"armor",
+		"block_light",
+		"glyph",
+		"glyph_top",
+		"health",
+		"minimap_pixel",
+		"name",
+		"position_2d",
+		"producer"
+	],
+	"corpse": [],
+	"description": "A small patch of swamp grass. Easy to pull out of the ground with bare hands.",
+	"glyph": {
+		"frames": [
+			{
+				"color": [
+					103,
+					75,
+					60
+				],
+				"delay": 0,
+				"index": 2110
+			}
+		],
+		"random_frame_start": false,
+		"random_top": {
+			"colors": [
+				[
+					141,
+					103,
+					77
+				],
+				[
+					114,
+					100,
+					25
+				],
+				[
+					110,
+					75,
+					60
+				],
+				[
+					82,
+					60,
+					56
+				]
+			],
+			"count": 5,
+			"glyph_ids": [
+				2111
+			],
+			"max_alpha": 200,
+			"max_range": 6,
+			"wind": true
+		}
+	},
+	"health": 50,
+	"id": "core_2_Swamp_Grass_Turf",
+	"minimap_pixel": [
+		68,
+		89,
+		31
+	],
+	"name": "Swamp Grass Turf",
+	"producer": {
+		"products": {
+			"10": [
+				{
+					"amount": [
+						1,
+						2
+					],
+					"id": "core_2_Swamp_Grass",
+					"percent_chance": 100
+				}
+			]
+		},
+		"time": 20
+	}
+}

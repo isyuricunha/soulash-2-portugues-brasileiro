@@ -1,0 +1,15 @@
+{
+	"id": "core_2_light_walk",
+	"name": "Light Walk",
+	"requirements": {
+		"skill": 27
+	},
+	"rewards": [
+		{
+			"passive": "core_2_light_walk"
+		}
+	],
+	"skill_id": "core_2_hunting",
+	"steps": [],
+	"steps_type": 0
+}

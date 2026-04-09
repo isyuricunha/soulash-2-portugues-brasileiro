@@ -1,0 +1,25 @@
+{
+	"animation": "118",
+	"cast_time": 0.2,
+	"cooldown": 20,
+	"cost": {
+		"health": 2,
+		"stamina": 0
+	},
+	"description": "You ignore pain and reduce damage done to you by ::damage_reduce_percent%. You won't be able to see your health amount for the duration of this ability.",
+	"duration": 10,
+	"effects": {
+		"damage_reduce_percent": 0.33,
+		"hide_health": 1
+	},
+	"id": "91",
+	"image": 66,
+	"name": "Painless",
+	"range": 0,
+	"skill": "core_2_athletics",
+	"slots": {
+		"defensive": 1,
+		"utility": 2
+	},
+	"target": "self"
+}

@@ -1,0 +1,51 @@
+{
+	"enables": [
+		"core_2_sword_fighting"
+	],
+	"id": "387",
+	"image": 58,
+	"max": 1,
+	"name": "Dojo",
+	"occupation_image": 97,
+	"occupation": "core_2_Samurai",
+	"occupation_per_race": {
+        "0": "core_2_Samurai",
+        "1": "core_2_Dwarf_Samurai",
+        "2": "core_2_Elf_Samurai",
+        "4": "core_2_Goblin_Samurai",
+		"6": "core_2_Vampire_Samurai",
+        "7": "core_2_Troll_Samurai",
+        "8": "core_2_Orc_Samurai",
+        "10": "core_2_Rasimi_Samurai",
+        "23": "core_2_Reptilion_Samurai",
+        "26": "core_2_Bone_Wraith_Samurai",
+        "31": "core_2_Gnoll_Samurai",
+        "32": "core_2_Mushman_Samurai",
+        "33": "core_2_Ursan_Samurai"
+    },
+	"produces": [],
+	"race": "-1",
+	"tier": 2,
+	"type": "military",
+	"workers": [
+		1,
+		10
+	],
+	"allow_player": true,
+	"required_entities": [
+		{
+			"entities": ["2204"],
+			"count": 4
+		},
+		{
+			"entities": ["2205"],
+			"count": 4
+		},
+		{
+			"component": "resting_place",
+			"count": 10
+		}
+	],
+	"min_area": 30,
+	"group": "military"
+}

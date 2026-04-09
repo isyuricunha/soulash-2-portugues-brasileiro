@@ -1,0 +1,16 @@
+{
+	"id": "core_2_sugar_cane_seedling",
+	"name": "Sugar Cane Seedling",
+	"requirements": {
+		"milestones": [],
+		"skill": 7
+	},
+	"rewards": [
+		{
+			"recipe": "core_2_Sugar_Cane_Seedling"
+		}
+	],
+	"skill_id": "core_2_agriculture",
+	"steps": [],
+	"steps_type": 0
+}

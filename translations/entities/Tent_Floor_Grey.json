@@ -1,0 +1,54 @@
+{
+	"background": {
+		"color": [
+			34,
+			34,
+			35
+		],
+		"noise": 1
+	},
+	"category_id": 1,
+	"components": [
+		"background",
+		"craftable",
+		"glyph",
+		"minimap_pixel",
+		"name"
+	],
+	"craftable": {
+		"backgrounds": [],
+		"biomes": [],
+		"magic_slots": 0,
+		"resource_types": [
+			{
+				"amount": 1,
+				"id": 4
+			}
+		],
+		"resources": null,
+		"time": 10,
+		"tools": []
+	},
+	"description": "The floor of a tent made from the material. It's soft under your feet.",
+	"glyph": {
+		"frames": [
+			{
+				"color": [
+					255,
+					255,
+					255
+				],
+				"delay": 0,
+				"index": 2483
+			}
+		],
+		"random_frame_start": true
+	},
+	"id": "core_2_Tent_Floor_Grey",
+	"minimap_pixel": [
+		120,
+		120,
+		120
+	],
+	"name": "Tent Floor Grey"
+}

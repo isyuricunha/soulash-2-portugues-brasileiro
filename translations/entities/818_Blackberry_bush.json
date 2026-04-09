@@ -1,0 +1,91 @@
+{
+	"armor": {
+		"acid": 100,
+		"death": 0,
+		"electricity": 10,
+		"fire": -10,
+		"frost": 30,
+		"holy": 100,
+		"parry": 0,
+		"physical": 5,
+		"poison": 100,
+		"thorns": 0
+	},
+	"components": [
+		"armor",
+		"block_light",
+		"glyph",
+		"glyph_top",
+		"health",
+		"height",
+		"minimap_pixel",
+		"name",
+		"position_2d",
+		"producer"
+	],
+	"corpse": [],
+	"description": "This plant consisting of multiple thin branches covered with leaves and edible blackberries.",
+	"glyph": {
+		"frames": [
+			{
+				"color": [
+					82,
+					82,
+					82
+				],
+				"delay": 0,
+				"index": 860
+			}
+		],
+		"random_frame_start": false,
+		"random_top": {
+			"colors": [
+				[
+					255,
+					255,
+					255
+				]
+			],
+			"count": 5,
+			"glyph_ids": [
+				865,
+				866
+			],
+			"max_alpha": 200,
+			"max_range": 3,
+			"wind": true
+		}
+	},
+	"health": 50,
+	"height": 2,
+	"id": "818",
+	"minimap_pixel": [
+		82,
+		82,
+		82
+	],
+	"name": "Blackberry Bush",
+	"producer": {
+		"products": {
+			"10": [
+				{
+					"amount": [
+						1,
+						1
+					],
+					"id": "core_2_Picked_Blackberry_Bush",
+					"percent_chance": 100
+				},
+				{
+					"amount": [
+						3,
+						7
+					],
+					"id": "815",
+					"percent_chance": 100
+				}
+			]
+		},
+		"time": 10
+	}
+}

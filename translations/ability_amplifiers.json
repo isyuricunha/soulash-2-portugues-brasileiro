@@ -1,0 +1,1166 @@
+[
+    {
+        "id": "core_2_bleed_2",
+        "name": "Bleed",
+        "type": "offensive",
+        "image": 10,
+        "bonuses": [
+            {
+                "effect": "bleed",
+                "value": 25
+            }
+        ],
+        "description": "Bleed is a physical type damage over time. The damage scales with Strength and is reduced by half of target Endurance. It is delivered over 5 turns with diminishing effect each turn."
+    },
+    {
+        "id": "core_2_fear_light",
+        "name": "Fear of the Light",
+        "type": "utility",
+        "image": 97,
+        "cooldown": 8,
+        "bonuses": [
+            {
+                "effect": "effect_per_stack",
+                "value": "core_2_divine_fury",
+                "secondary_value": "fear",
+                "third_value": 0.3
+            }
+        ],
+        "description": "Fear target for 0.3 turn per stack of divine fury on self. Cooldown +8."
+    },
+    {
+        "id": "core_2_chain_2",
+        "name": "Chain",
+        "type": "offensive",
+        "image": 11,
+        "bonuses": [
+            {
+                "effect": "chain",
+                "value": 2
+            }
+        ],
+        "description": "The chain effect repeats the ability causing it to target a nearby valid target."
+    },
+    {
+        "id": "core_2_cast_speed",
+        "name": "Quick",
+        "type": "utility",
+        "image": 51,
+        "cast_time": -0.2,
+        "description": "Cast Speed is measured in fraction of a turn, where negative values reduce the time it takes to use the ability."
+    },
+    {
+        "id": "core_2_rollback",
+        "name": "Rollback",
+        "type": "utility",
+        "image": 52,
+        "bonuses": [
+            {
+                "effect": "rollback",
+                "value": 1
+            }
+        ],
+        "description": "Rollback causes you to immediately move backwards by the specified number of tiles, if there's enough space."
+    },
+    {
+        "id": "core_2_damage",
+        "name": "Damage",
+        "type": "offensive",
+        "image": 37,
+        "bonuses": [
+            {
+                "effect": "damage",
+                "value": [
+                    5,
+                    5
+                ]
+            }
+        ]
+    },
+    {
+        "id": "core_2_bonus_fire_damage",
+        "name": "Bonus Damage 4",
+        "type": "offensive",
+        "image": 46,
+        "bonuses": [
+            {
+                "effect": "damage",
+                "value": [
+                    4,
+                    4
+                ]
+            }
+        ]
+    },
+    {
+        "id": "core_2_bonus_nature_damage",
+        "name": "Bonus Damage 2",
+        "type": "offensive",
+        "image": 37,
+        "bonuses": [
+            {
+                "effect": "damage",
+                "value": [
+                    2,
+                    2
+                ]
+            }
+        ]
+    },
+    {
+        "id": "core_2_burn",
+        "name": "Burn",
+        "type": "offensive",
+        "image": 44,
+        "bonuses": [
+            {
+                "effect": "burn",
+                "value": 2
+            }
+        ],
+        "description": "Burn is a fire type damage over time. The damage scales with Magic Power times the Burn value, indicating the duration of the effect. It is delivered over specified number of turns with diminishing effect each turn."
+    },
+    {
+        "id": "core_2_parry_1",
+        "name": "Parry",
+        "type": "defensive",
+        "image": 21,
+        "bonuses": [
+            {
+                "effect": "parry_chance",
+                "value": 1
+            }
+        ],
+        "description": "Parry increases the chance to mitigate all damage of a basic attack. This effect only works on abilities that have duration and you can apply to self."
+    },
+    {
+        "id": "core_2_parry_2",
+        "name": "Parry II",
+        "type": "defensive",
+        "image": 21,
+        "bonuses": [
+            {
+                "effect": "parry_chance",
+                "value": 2
+            }
+        ],
+        "description": "Parry increases the chance to mitigate all damage of a basic attack. This effect only works on abilities that have duration and you can apply to self."
+    },
+    {
+        "id": "core_2_duration",
+        "name": "Duration 2",
+        "type": "utility",
+        "image": 24,
+        "duration": 2,
+        "description": "Duration increases the time of the effects applied by the ability by speficied number of turns."
+    },
+    {
+        "id": "core_2_duration_3",
+        "name": "Duration 3",
+        "type": "utility",
+        "image": 24,
+        "duration": 3,
+        "description": "Duration increases the time of the effects applied by the ability by speficied number of turns."
+    },
+    {
+        "id": "core_2_damage_reduce",
+        "name": "Damage Reduction",
+        "type": "defensive",
+        "image": 25,
+        "bonuses": [
+            {
+                "effect": "damage_reduce",
+                "value": 4
+            }
+        ],
+        "description": "Damage Reduction reduces the damage done by a flat number, independently of the damage type."
+    },
+    {
+        "id": "core_2_movement_speed",
+        "name": "Movement Speed",
+        "type": "utility",
+        "image": 29,
+        "bonuses": [
+            {
+                "effect": "movement_speed",
+                "value": -0.1
+            }
+        ],
+        "description": "Movement Speed property determines how quickly you can travers one tile. Lower value means you will move quicker."
+    },
+    {
+        "id": "core_2_cripple",
+        "name": "Cripple",
+        "type": "utility",
+        "image": 55,
+        "bonuses": [
+            {
+                "effect": "movement_speed",
+                "value": 0.2
+            }
+        ],
+        "description": "Movement Speed property determines how quickly you can travers one tile. Lower value means you will move quicker."
+    },
+    {
+        "id": "core_2_reach",
+        "name": "Range",
+        "type": "utility",
+        "image": 31,
+        "range": 1
+    },
+    {
+        "id": "core_2_range_melee",
+        "name": "Range (Melee)",
+        "type": "utility",
+        "image": 57,
+        "range_melee": 2,
+        "description": "Applies only to abilities that have the basic range of 1."
+    },
+    {
+        "id": "core_2_range",
+        "name": "Range 2",
+        "type": "utility",
+        "image": 31,
+        "range": 2
+    },
+    {
+        "id": "core_2_knockback",
+        "name": "Knockback",
+        "type": "utility",
+        "image": 30,
+        "bonuses": [
+            {
+                "effect": "knockback",
+                "value": 3
+            }
+        ],
+        "description": "Throw the target away from you in a straight line. The distance is determined by the value of this ability. If the target hits a collidable on its path, it will receive additional true damage determined by your Strength and reduced by half of the target's Endurance."
+    },
+    {
+        "id": "core_2_knockback_damage",
+        "name": "Knockback Bonus Damage",
+        "type": "utility",
+        "image": 22,
+        "bonuses": [
+            {
+                "effect": "knockback_damage_percent",
+                "value": 3.0
+            }
+        ],
+        "description": "Knockback Bonus Damage multiplies the true damage done when knockback causes a collision."
+    },
+    {
+        "id": "core_2_stamina_reduction",
+        "name": "Stamina Cost Reduction",
+        "type": "utility",
+        "image": 40,
+        "cost_stamina": -4,
+        "description": "Reduces the stamina cost of an ability."
+    },
+    {
+        "id": "core_2_pierce_1",
+        "name": "Pierce",
+        "type": "offensive",
+        "image": 56,
+        "cooldown": 3,
+        "bonuses": [
+            {
+                "effect": "pierce",
+                "value": 1
+            }
+        ],
+        "description": "Pierce cause the line abilities to go through collidables, potentially hitting multiple targets in their range."
+    },
+    {
+        "id": "core_2_stun",
+        "name": "Stun",
+        "type": "utility",
+        "image": 39,
+        "cooldown": 8,
+        "bonuses": [
+            {
+                "effect": "stun",
+                "value": 2
+            }
+        ],
+        "description": "Stun causes the target to be unable to perform any action for the duration."
+    },
+    {
+        "id": "core_2_pierce_armor",
+        "name": "Pierce Armor",
+        "type": "offensive",
+        "image": 34,
+        "bonuses": [
+            {
+                "effect": "resistance_percent",
+                "value": -0.5,
+                "secondary_value": "physical"
+            }
+        ],
+        "description": "Reduces the specific type of resistances of the target by given percentage."
+    },
+    {
+        "id": "core_2_cooldown_4",
+        "name": "Cooldown Reduction 4",
+        "type": "utility",
+        "image": 16,
+        "cooldown": -4,
+        "description": "Allows the ability to be used again sooner."
+    },
+    {
+        "id": "core_2_cooldown",
+        "name": "Cooldown Reduction 2",
+        "type": "utility",
+        "image": 16,
+        "cooldown": -2,
+        "description": "Allows the ability to be used again sooner."
+    },
+    {
+        "id": "core_2_strength_4",
+        "name": "Strength",
+        "type": "utility",
+        "image": 13,
+        "bonuses": [
+            {
+                "effect": "strength",
+                "value": 4
+            }
+        ],
+        "description": "Statistic increase effects work only with abilities that apply with duration."
+    },
+    {
+        "id": "core_2_open_wound",
+        "name": "Open Wound",
+        "type": "offensive",
+        "image": 14,
+        "bonuses": [
+            {
+                "effect": "bleed_per_damage",
+                "value": 0.2
+            }
+        ],
+        "description": "Applies Bleed effect equal to 20% of the damage done by the ability."
+    },
+    {
+        "id": "core_2_increase_bleed",
+        "name": "Increase Bleed",
+        "type": "utility",
+        "image": 15,
+        "bonuses": [
+            {
+                "effect": "increase_effect",
+                "value": "bleed",
+                "secondary_value": 0.25
+            }
+        ],
+        "description": "Increases the existing Bleed effect on the target."
+    },
+    {
+        "id": "core_2_precise_hit",
+        "name": "Precise Hit",
+        "type": "utility",
+        "image": 17,
+        "bonuses": [
+            {
+                "effect": "always_hit",
+                "value": true
+            }
+        ]
+    },
+    {
+        "id": "core_2_exploit_weakness",
+        "name": "Exploit Weakness",
+        "type": "offensive",
+        "image": 19,
+        "bonuses": [
+            {
+                "effect": "damage_bonus_percent",
+                "value": 0.2,
+                "secondary_value": "bleed"
+            }
+        ],
+        "description": "Bonus damage if the target has Bleed effect."
+    },
+    {
+        "id": "core_2_overhead",
+        "name": "Overhead",
+        "type": "offensive",
+        "image": 18,
+        "bonuses": [
+            {
+                "effect": "damage_bonus_percent",
+                "value": 0.25
+            },
+            {
+                "effect": "vulnerable",
+                "value": 1,
+                "secondary_value": "self"
+            }
+        ],
+        "description": "Bonus 25% damage, but applies Vulnerable effect to self. While Vulnerable, you cannot parry attacks."
+    },
+    {
+        "id": "core_2_blood_is_life",
+        "name": "Consume Blood",
+        "type": "utility",
+        "image": 20,
+        "bonuses": [
+            {
+                "effect": "consume_tick_damage",
+                "value": "bleed",
+                "secondary_value": "heal",
+                "third_value": 0.25
+            }
+        ],
+        "description": "Consume Bleed effect and heal yourself for 25% of its value."
+    },
+    {
+        "id": "core_2_armor",
+        "name": "Armor",
+        "type": "defensive",
+        "image": 23,
+        "bonuses": [
+            {
+                "effect": "resistance",
+                "value": 4,
+                "secondary_value": "physical"
+            }
+        ],
+        "description": "Adds Physical Resistance to all hit areas."
+    },
+    {
+        "id": "core_2_burn_stamina",
+        "name": "Burn Stamina",
+        "type": "utility",
+        "image": 26,
+        "bonuses": [
+            {
+                "effect": "burn_stamina",
+                "value": 25
+            }
+        ],
+        "description": "Removes 25 stamina from the opponent."
+    },
+    {
+        "id": "core_2_health_for_stamina",
+        "name": "Health For Stamina",
+        "type": "utility",
+        "image": 27,
+        "bonuses": [
+            {
+                "effect": "health_for_stamina",
+                "value": 4.0
+            }
+        ],
+        "description": "Heal for 4x the cost of stamina of the ability."
+    },
+    {
+        "id": "core_2_thorns",
+        "name": "Thorns",
+        "type": "defensive",
+        "image": 28,
+        "bonuses": [
+            {
+                "effect": "thorns",
+                "value": 5
+            }
+        ],
+        "description": "Adds 5 Thorns. Thorns apply true damage when hit by basic melee attack. Works only on abilities with duration."
+    },
+    {
+        "id": "core_2_stamina",
+        "name": "Stamina",
+        "type": "utility",
+        "image": 32,
+        "bonuses": [
+            {
+                "effect": "stamina",
+                "value": 15
+            }
+        ],
+        "description": "Regenerates 15 stamina."
+    },
+    {
+        "id": "core_2_repeat_ability",
+        "name": "Repeat Ability",
+        "type": "utility",
+        "image": 32,
+        "bonuses": [
+            {
+                "effect": "repeat_ability_second_weapon",
+                "value": 0.2
+            }
+        ],
+        "description": "20% chance to repeat the ability with second weapon."
+    },
+    {
+        "id": "core_2_damage_on_missing_health",
+        "name": "Damage On Missing Health",
+        "type": "offensive",
+        "image": 36,
+        "bonuses": [
+            {
+                "effect": "damage_on_missing_health",
+                "value": 0.1
+            }
+        ],
+        "description": "For every 10% missing health, deal +1 damage."
+    },
+    {
+        "id": "core_2_fear",
+        "name": "Fear",
+        "type": "utility",
+        "image": 38,
+        "cooldown": 2,
+        "bonuses": [
+            {
+                "effect": "fear",
+                "value": 1
+            }
+        ],
+        "description": "Applies Fear to target, causing it to be unable to attack and attempt to move away from you."
+    },
+    {
+        "id": "core_2_true_damage",
+        "name": "True Damage",
+        "type": "offensive",
+        "image": 54,
+        "bonuses": [
+            {
+                "effect": "damage_type",
+                "value": "true"
+            }
+        ],
+        "description": "Damage Type changed to True. True damage ignores resistances."
+    },
+    {
+        "id": "core_2_damage_on_missing_stamina",
+        "name": "Damage On Missing Stamina",
+        "type": "offensive",
+        "image": 41,
+        "bonuses": [
+            {
+                "effect": "damage_on_missing_stamina",
+                "value": 0.05
+            }
+        ],
+        "description": "For every 5% of stamina the opponent is missing, add +1 damage."
+    },
+    {
+        "id": "core_2_increase_cooldown",
+        "name": "Increase Target Cooldown",
+        "type": "utility",
+        "image": 33,
+        "bonuses": [
+            {
+                "effect": "increase_target_cooldown",
+                "value": 3
+            }
+        ],
+        "description": "Increase the cooldown of a random ability of the target."
+    },
+    {
+        "id": "core_2_quick_recovery",
+        "name": "Quick Recovery",
+        "type": "utility",
+        "image": 33,
+        "bonuses": [
+            {
+                "effect": "reduce_random_cooldown",
+                "value": 1
+            }
+        ],
+        "description": "Reduces one of your abilities cooldown by 1 at random."
+    },
+    {
+        "id": "core_2_double_stun",
+        "name": "Double Stun",
+        "type": "utility",
+        "image": 42,
+        "bonuses": [
+            {
+                "effect": "increase_effect",
+                "value": "stun",
+                "secondary_value": 1.0
+            }
+        ],
+        "description": "If the target has Stun applied, increase it by 1 turn."
+    },
+    {
+        "id": "core_2_melting_flame",
+        "name": "Melting Flame",
+        "type": "offensive",
+        "image": 47,
+        "bonuses": [
+            {
+                "effect": "damage_bonus_percent",
+                "value": 0.2,
+                "secondary_value": "burn"
+            }
+        ],
+        "description": "Bonus 20% damage to targets afflicted by Burn."
+    },
+    {
+        "id": "core_2_fire_power",
+        "name": "Fire Power",
+        "type": "offensive",
+        "image": 50,
+        "bonuses": [
+            {
+                "effect": "weapon_damage_to_magic",
+                "value": 1
+            },
+            {
+                "effect": "damage_type",
+                "value": "fire"
+            }
+        ],
+        "description": "Weapon Damage modifier on Ability is replaced with Magic Power. Damage Type changed to Fire."
+    },
+    {
+        "id": "core_2_magic_power_to_physical",
+        "name": "Magic Weapon",
+        "type": "offensive",
+        "image": 58,
+        "bonuses": [
+            {
+                "effect": "magic_to_weapon_damage",
+                "value": 1
+            },
+            {
+                "effect": "damage_type",
+                "value": "physical"
+            }
+        ],
+        "description": "Magic Power modifier on Ability is replaced with Weapon Damage. Damage Type changed to Physical."
+    },
+    {
+        "id": "core_2_aoe_increase",
+        "name": "Area Increase",
+        "type": "utility",
+        "image": 48,
+        "bonuses": [
+            {
+                "effect": "aoe_range",
+                "value": 2
+            }
+        ],
+        "description": "Area of Effect range is increased by 2."
+    },
+    {
+        "id": "core_2_hell",
+        "name": "Hell",
+        "type": "offensive",
+        "image": 49,
+        "bonuses": [
+            {
+                "effect": "magic_power_per_entity",
+                "value": "561",
+                "secondary_value": 10
+            }
+        ],
+        "description": "+1 Damage for every Burning Flame entity in the range of 10 tiles."
+    },
+    {
+        "id": "core_2_world_in_flames",
+        "name": "World In Flames",
+        "type": "utility",
+        "image": 45,
+        "bonuses": [
+            {
+                "effect": "summon",
+                "value": "561",
+                "secondary_value": 0.25
+            },
+            {
+                "effect": "summon_count",
+                "value": 100
+            }
+        ],
+        "description": "25% chance to create Burning Flame on empty targetted tile. Max 100."
+    },
+    {
+        "id": "core_2_critical_roll",
+        "name": "Critical Roll",
+        "type": "offensive",
+        "image": 53,
+        "bonuses": [
+            {
+                "effect": "ability_can_crit",
+                "value": 1
+            }
+        ],
+        "description": "Abilities can now critically hit depending on Critical Hit chance."
+    },
+    {
+        "id": "core_2_revenge",
+        "name": "Revenge",
+        "type": "offensive",
+        "image": 61,
+        "bonuses": [
+            {
+                "effect": "revenge_counter",
+                "value": 1
+            }
+        ],
+        "description": "The damage your received in last hit is added to the ability."
+    },
+    {
+        "id": "core_2_range_melee_4",
+        "name": "Range Extended (Melee)",
+        "type": "utility",
+        "image": 59,
+        "range_melee": 4,
+        "description": "Applies only to abilities with default range 1."
+    },
+    {
+        "id": "core_2_distance_damage",
+        "name": "Distance Damage",
+        "type": "offensive",
+        "image": 60,
+        "bonuses": [
+            {
+                "effect": "distance_damage",
+                "value": 0,
+                "secondary_value": 2
+            }
+        ],
+        "description": "For every tile between you and the target add [0 - 2] damage."
+    },
+    {
+        "id": "core_2_skill_level_damage",
+        "name": "Skill Mastery",
+        "type": "offensive",
+        "image": 62,
+        "bonuses": [
+            {
+                "effect": "skill_level_damage",
+                "value": 0.5
+            }
+        ],
+        "description": "For every 2 levels of a skill of the ability, add +1 damage."
+    },
+    {
+        "id": "core_2_ignore_party",
+        "name": "Ignore Party",
+        "type": "utility",
+        "image": 63,
+        "bonuses": [
+            {
+                "effect": "ignore_party",
+                "value": true
+            }
+        ],
+        "description": "The ability does not apply to party members."
+    },
+    {
+        "id": "core_2_copy_to_party",
+        "name": "Party Buff",
+        "type": "utility",
+        "image": 64,
+        "bonuses": [
+            {
+                "effect": "copy_to_party",
+                "value": true
+            }
+        ],
+        "description": "The ability duplicates and applies to all party members."
+    },
+    {
+        "id": "core_2_reduce_cooldown",
+        "name": "Reduce Cooldown",
+        "type": "utility",
+        "image": 65,
+        "bonuses": [
+            {
+                "effect": "reduce_random_cooldown",
+                "value": 1
+            }
+        ]
+    },
+    {
+        "id": "core_2_find_weakness",
+        "name": "Find Weakness",
+        "type": "offensive",
+        "image": 66,
+        "bonuses": [
+            {
+                "effect": "dmg_on_cooldown",
+                "value": 5
+            }
+        ],
+        "description": "When ability is on cooldown, your basic attack damage is increased by +5."
+    },
+    {
+        "id": "core_2_make_them_weak",
+        "name": "Make Them Weak",
+        "type": "offensive",
+        "image": 67,
+        "bonuses": [
+            {
+                "effect": "vulnerable",
+                "value": 3
+            }
+        ],
+        "description": "Applies Vulnerable to the target. While under Vulnerable effect, the target can't parry."
+    },
+    {
+        "id": "core_2_strength_in_numbers",
+        "name": "Strength In Numbers",
+        "type": "offensive",
+        "image": 68,
+        "bonuses": [
+            {
+                "effect": "dmg_per_companion",
+                "value": 0.15
+            }
+        ],
+        "description": "For every Companion in your Party, you deal +15% damage."
+    },
+    {
+        "id": "core_2_flower_power",
+        "name": "Flower Power",
+        "type": "offensive",
+        "image": 69,
+        "bonuses": [
+            {
+                "effect": "weapon_damage_to_magic",
+                "value": 1
+            },
+            {
+                "effect": "damage_type",
+                "value": "poison"
+            }
+        ],
+        "description": "Weapon Damage modifier on Ability is replaced with Magic Power. Damage Type changed to Nature."
+    },
+    {
+        "id": "core_2_burning_poison",
+        "name": "Burning Poison",
+        "type": "offensive",
+        "image": 70,
+        "bonuses": [
+            {
+                "effect": "damage_bonus_percent",
+                "value": 0.2,
+                "secondary_value": "poison_effect"
+            }
+        ],
+        "description": "Bonus 20% damage to targets afflicted by Poison."
+    },
+    {
+        "id": "core_2_poison",
+        "name": "Poison",
+        "type": "offensive",
+        "image": 72,
+        "bonuses": [
+            {
+                "effect": "poison_effect",
+                "value": 2
+            }
+        ],
+        "description": "Poison is a nature type damage over time. The damage scales with Magic Power times the poison value, indicating the duration of the effect. It is delivered over specified number of turns with diminishing effect each turn."
+    },
+    {
+        "id": "core_2_heal_on_cast",
+        "name": "Heal On Cast",
+        "type": "utility",
+        "image": 73,
+        "bonuses": [
+            {
+                "effect": "cast_heals",
+                "value": 3
+            }
+        ],
+        "description": "Heal yourself for 3 Health every time you cast a spell."
+    },
+    {
+        "id": "core_2_bonus_thorns",
+        "name": "Power of Thorns",
+        "type": "offensive",
+        "image": 71,
+        "bonuses": [
+            {
+                "effect": "damage_from_thorns",
+                "value": 1.00
+            }
+        ],
+        "description": "Ability deals additional damage equal to 100% of your Thorns value."
+    },
+    {
+        "id": "core_2_freeze",
+        "name": "Freezing",
+        "type": "utility",
+        "image": 74,
+        "bonuses": [
+            {
+                "effect": "stacker",
+                "value": "core_2_freeze",
+                "secondary_value": 1
+            }
+        ],
+        "description": "Ability applies a Freeze stack to targets hit and refresh its duration. Freeze stacks up to 50 times."
+    },
+    {
+        "id": "core_2_frost_damage",
+        "name": "Frost Damage",
+        "type": "offensive",
+        "image": 75,
+        "bonuses": [
+            {
+                "effect": "damage_type",
+                "value": "frost"
+            },
+            {
+                "effect": "weapon_damage_to_magic",
+                "value": 1
+            }
+        ],
+        "description": "Turn ability damage into Frost and scale with Magic Power instead of Weapon."
+    },
+    {
+        "id": "core_2_gripped_ice",
+        "name": "Gripped By Ice",
+        "type": "utility",
+        "image": 79,
+        "cooldown": 8,
+        "bonuses": [
+            {
+                "effect": "effect_per_stack",
+                "value": "core_2_freeze",
+                "secondary_value": "stun",
+                "third_value": 0.04
+            }
+        ],
+        "description": "Stun target for 0.04 turn per stack of Freeze, and consume all Freeze stacks."
+    },
+    {
+        "id": "core_2_ice_cold",
+        "name": "Ice Cold",
+        "type": "offensive",
+        "image": 76,
+        "bonuses": [
+            {
+                "effect": "turn_damage_to_stacks",
+                "value": "core_2_freeze",
+                "secondary_value": 0.5
+            }
+        ],
+        "description": "Instead of damage, apply half of it as Freeze stacks. Freeze stacks up to 50 times."
+    },
+    {
+        "id": "core_2_cracking_ice",
+        "name": "Cracking Ice",
+        "type": "offensive",
+        "image": 77,
+        "bonuses": [
+            {
+                "effect": "damage_bonus_percent",
+                "value": 0.3,
+                "secondary_value": "frostbite"
+            }
+        ],
+        "description": "Bonus 30% damage to targets afflicted by Frostbite."
+    },
+    {
+        "id": "core_2_stone_cold",
+        "name": "Stone Cold",
+        "type": "defensive",
+        "image": 78,
+        "bonuses": [
+            {
+                "effect": "willpower",
+                "value": 10
+            }
+        ],
+        "description": "Gain 10 willpower for the duration of the used ability."
+    },
+    {
+        "id": "core_2_frostbite",
+        "name": "Frostbite",
+        "type": "offensive",
+        "image": 80,
+        "bonuses": [
+            {
+                "effect": "effect_per_stack",
+                "value": "core_2_freeze",
+                "secondary_value": "frostbite",
+                "third_value": 0.1
+            }
+        ],
+        "description": "Apply Frostbite duration equal to 10% of the number of Freeze stacks on the target, and consume all Freeze stacks."
+    },
+    {
+        "id": "core_2_electric_power",
+        "name": "Electric Power",
+        "type": "offensive",
+        "image": 81,
+        "bonuses": [
+            {
+                "effect": "weapon_damage_to_magic",
+                "value": 1
+            },
+            {
+                "effect": "damage_type",
+                "value": "electricity"
+            }
+        ],
+        "description": "Weapon Damage modifier on Ability is replaced with Magic Power. Damage Type changed to Electricity."
+    },
+    {
+        "id": "core_2_electroshock",
+        "name": "Electroshock",
+        "type": "offensive",
+        "image": 82,
+        "bonuses": [
+            {
+                "effect": "effect_per_stack",
+                "value": "core_2_static",
+                "secondary_value": "stun",
+                "third_value": 0.1
+            }
+        ],
+        "description": "Stun target for 0.1 turn per stack of Static, and consume all Static stacks."
+    },
+    {
+        "id": "core_2_unleash",
+        "name": "Unleash",
+        "type": "offensive",
+        "image": 85,
+        "bonuses": [
+            {
+                "effect": "damage_per_stacks",
+                "value": 1
+            }
+        ],
+        "description": "Ability deals 1 extra damage per stack applied to the caster."
+    },
+    {
+        "id": "core_2_chain_3",
+        "name": "Chain",
+        "type": "offensive",
+        "image": 86,
+        "bonuses": [
+            {
+                "effect": "chain",
+                "value": 3
+            }
+        ],
+        "description": "The chain effect repeats the ability three times causing it to target a nearby valid target."
+    },
+    {
+        "id": "core_2_death_damage",
+        "name": "Death Damage",
+        "type": "offensive",
+        "image": 87,
+        "bonuses": [
+            {
+                "effect": "damage_type",
+                "value": "death"
+            },
+            {
+                "effect": "weapon_damage_to_magic",
+                "value": 1
+            }
+        ],
+        "description": "Turn ability damage into Death and scale with Magic Power instead of Weapon."
+    },
+    {
+        "id": "core_2_undeath",
+        "name": "Undeath",
+        "type": "offensive",
+        "image": 88,
+        "bonuses": [
+            {
+                "effect": "magic_power_per_tag",
+                "value": "4",
+                "secondary_value": 10
+            }
+        ],
+        "description": "+1 Damage for every Undead entity in the range of 10 tiles."
+    },
+    {
+        "id": "core_2_lifesteal",
+        "name": "Lifesteal",
+        "type": "offensive",
+        "image": 89,
+        "bonuses": [
+            {
+                "effect": "damage_as_life",
+                "value": 0.02
+            }
+        ],
+        "description": "2% of damage done regains health."
+    },
+    {
+        "id": "core_2_enduring",
+        "name": "Enduring",
+        "type": "defensive",
+        "image": 98,
+        "bonuses": [
+            {
+                "effect": "endurance",
+                "value": 4
+            }
+        ],
+        "description": "Adds 4 Endurance for duration of ability."
+    },
+    {
+        "id": "core_2_righteous_wrath",
+        "name": "Righteous Wrath",
+        "type": "defensive",
+        "image": 99,
+        "bonuses": [
+            {
+                "effect": "stacker",
+                "value": "core_2_divine_fury",
+                "secondary_value": 1
+            }
+        ],
+        "description": "Adds stack of Divine Fury. Each stack reduces time of attacks by 0.01 and increases damage by 4%."
+    },
+    {
+        "id": "core_2_holy_power",
+        "name": "Holy Power",
+        "type": "offensive",
+        "image": 94,
+        "bonuses": [
+            {
+                "effect": "weapon_damage_to_magic",
+                "value": 1
+            },
+            {
+                "effect": "damage_type",
+                "value": "holy"
+            }
+        ],
+        "description": "Weapon Damage modifier on Ability is replaced with Magic Power. Damage Type changed to Holy."
+    },
+    {
+        "id": "core_2_brighter_light",
+        "name": "Brighter Light",
+        "type": "offensive",
+        "image": 95,
+        "bonuses": [
+            {
+                "effect": "damage_bonus_percent",
+                "value": 0.3,
+                "secondary_value": "burning_light"
+            }
+        ],
+        "description": "Bonus 30% damage to targets afflicted by Burning Light."
+    },
+    {
+        "id": "core_2_loner",
+        "name": "Loner",
+        "type": "offensive",
+        "image": 96,
+        "bonuses": [
+            {
+                "effect": "damage_without_companions",
+                "value": 0.5
+            }
+        ],
+        "description": "Your attacks and abilities deal 50% more damage if you fight without any companions."
+    }
+]

@@ -1,0 +1,40 @@
+{
+	"components": [
+		"glyph",
+		"item",
+		"minimap_pixel",
+		"name",
+		"position_2d",
+		"stackable",
+		"value",
+		"weight"
+	],
+	"description": "With enough care this spores will grow into a healthy mushroom one day.",
+	"glyph": {
+		"frames": [
+			{
+				"color": [
+					255,
+					255,
+					253
+				],
+				"delay": 0,
+				"index": 2045
+			}
+		],
+		"random_frame_start": false
+	},
+	"id": "3047",
+	"item": {
+		"image": 827,
+		"type": 24
+	},
+	"minimap_pixel": [
+		159,
+		90,
+		253
+	],
+	"name": "Purple Mushroom Spores",
+	"value": 50,
+	"weight": 0.10000000149011612
+}

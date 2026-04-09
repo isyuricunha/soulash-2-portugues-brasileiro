@@ -1,0 +1,16 @@
+{
+	"id": "core_2_diadem",
+	"name": "Diadem",
+	"requirements": {
+		"milestones": [],
+		"skill": 27
+	},
+	"rewards": [
+		{
+			"recipe": "392"
+		}
+	],
+	"skill_id": "core_2_armorsmith",
+	"steps": [],
+	"steps_type": 0
+}

@@ -1,0 +1,75 @@
+{
+	"enables": [
+		"core_2_armorsmith"
+	],
+	"id": "14",
+	"image": 12,
+	"max": 1,
+	"name": "Armorsmith",
+	"occupation_image": 7,
+	"occupation": "2193",
+	"produces": [
+		{
+			"entities": [
+				{
+					"daily": 0.5,
+					"id": "145"
+				}
+			],
+			"takes": [
+				{
+					"amount": 1,
+					"id": "144"
+				}
+			]
+		},
+		{
+			"entities": [
+				{
+					"daily": 0.5,
+					"id": "147"
+				}
+			],
+			"takes": [
+				{
+					"amount": 1,
+					"id": "146"
+				}
+			]
+		},
+		{
+			"entities": [
+				{
+					"daily": 0.5,
+					"id": "159"
+				}
+			],
+			"takes": [
+				{
+					"amount": 1,
+					"id": "158"
+				}
+			]
+		},
+		{
+			"entities": [
+				{
+					"daily": 0.5,
+					"id": "161"
+				}
+			],
+			"takes": [
+				{
+					"amount": 1,
+					"id": "160"
+				}
+			]
+		}
+	],
+	"race": "0",
+	"tier": 2,
+	"workers": [
+		1,
+		2
+	]
+}

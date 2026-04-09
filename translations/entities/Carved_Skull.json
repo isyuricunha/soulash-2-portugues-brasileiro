@@ -1,0 +1,80 @@
+{
+	"armor": {
+		"acid": 0,
+		"death": 3,
+		"electricity": 0,
+		"fire": 0,
+		"frost": 0,
+		"holy": 0,
+		"parry": 0,
+		"physical": 2,
+		"poison": 0,
+		"thorns": 0
+	},
+	"components": [
+		"armor",
+		"craftable",
+		"glyph",
+		"item",
+		"minimap_pixel",
+		"name",
+		"position_2d",
+		"resource",
+		"stackable",
+		"value",
+		"weight"
+	],
+	"craftable": {
+		"backgrounds": [],
+		"biomes": [],
+		"magic_slots": 0,
+		"resources": [
+			{
+				"amount": 2,
+				"id": "55"
+			},
+			{
+				"amount": 1,
+				"id": "2475"
+			}
+		],
+		"time": 30,
+		"tools": [
+			15
+		]
+	},
+	"description": "A skull carved with mystic symbols.",
+	"glyph": {
+		"frames": [
+			{
+				"color": [
+					255,
+					255,
+					255
+				],
+				"delay": 0,
+				"index": 2500
+			}
+		],
+		"random_frame_start": false
+	},
+	"id": "core_2_Curved_Skull",
+	"item": {
+		"image": 1110,
+		"type": 16
+	},
+	"minimap_pixel": [
+		100,
+		109,
+		155
+	],
+	"name": "Carved Skull",
+	"resource": {
+		"affix": "of the Skull",
+		"magic_ingredient": 3,
+		"quality": 3,
+		"type": 7
+	},
+	"value": 3000,
+	"weight": 0.10000000149011612
+}

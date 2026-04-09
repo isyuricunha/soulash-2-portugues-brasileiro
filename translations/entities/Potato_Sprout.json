@@ -1,0 +1,40 @@
+{
+	"components": [
+		"glyph",
+		"item",
+		"minimap_pixel",
+		"name",
+		"position_2d",
+		"stackable",
+		"value",
+		"weight"
+	],
+	"description": "With enough care this sprout will grow into a yummy potatoes one day.",
+	"glyph": {
+		"frames": [
+			{
+				"color": [
+					255,
+					255,
+					255
+				],
+				"delay": 0,
+				"index": 2591
+			}
+		],
+		"random_frame_start": false
+	},
+	"id": "core_2_Potato_Seed",
+	"item": {
+		"image": 1151,
+		"type": 24
+	},
+	"minimap_pixel": [
+		237,
+		145,
+		33
+	],
+	"name": "Potato Sprout",
+	"value": 100,
+	"weight": 0.10000000149011612
+}

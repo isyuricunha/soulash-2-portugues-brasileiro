@@ -1,0 +1,56 @@
+{
+	"components": [
+		"glyph",
+		"item",
+		"minimap_pixel",
+		"name",
+		"position_2d",
+		"producer",
+		"stackable",
+		"value",
+		"weight"
+	],
+	"description": "Green fish with dark, vertical stripes. It is commonly found during the spring in rivers and lakes",
+	"glyph": {
+		"frames": [
+			{
+				"color": [
+					255,
+					255,
+					255
+				],
+				"delay": 0,
+				"index": 264
+			}
+		],
+		"random_frame_start": false
+	},
+	"id": "122",
+	"item": {
+		"image": 42,
+		"type": 19
+	},
+	"minimap_pixel": [
+		104,
+		113,
+		59
+	],
+	"name": "Perch",
+	"producer": {
+		"products": {
+			"3": [
+				{
+					"amount": [
+						2,
+						2
+					],
+					"id": "315",
+					"percent_chance": 100
+				}
+			]
+		},
+		"time": 0
+	},
+	"value": 400,
+	"weight": 0.6000000238418579
+}

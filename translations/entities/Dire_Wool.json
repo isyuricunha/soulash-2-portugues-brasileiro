@@ -1,0 +1,60 @@
+{
+	"armor": {
+		"acid": 0,
+		"death": 0,
+		"electricity": 0,
+		"fire": 0,
+		"frost": 2,
+		"holy": 0,
+		"parry": 0,
+		"physical": 0,
+		"poison": 0,
+		"thorns": 0
+	},
+	"components": [
+		"armor",
+		"glyph",
+		"item",
+		"minimap_pixel",
+		"name",
+		"position_2d",
+		"resource",
+		"stackable",
+		"value",
+		"weight"
+	],
+	"description": "Not as soft as a normal type, but so much warmer.",
+	"glyph": {
+		"frames": [
+			{
+				"color": [
+					255,
+					255,
+					255
+				],
+				"delay": 0,
+				"index": 3109
+			}
+		],
+		"random_frame_start": false
+	},
+	"id": "core_2_Dire_Wool",
+	"item": {
+		"image": 1441,
+		"type": 16
+	},
+	"minimap_pixel": [
+		192,
+		158,
+		158
+	],
+	"name": "Dire Wool",
+	"resource": {
+		"affix": "Dire",
+		"magic_ingredient": 0,
+		"quality": 2,
+		"type": 4
+	},
+	"value": 800,
+	"weight": 0.10000000149011612
+}

@@ -1,0 +1,16 @@
+{
+	"id": "core_2_jaw_axe",
+	"name": "Jaw Axe",
+	"requirements": {
+		"milestones": [],
+		"skill": 30
+	},
+	"rewards": [
+		{
+			"recipe": "core_2_Jaw_Axe"
+		}
+	],
+	"skill_id": "core_2_weaponsmith",
+	"steps": [],
+	"steps_type": 0
+}

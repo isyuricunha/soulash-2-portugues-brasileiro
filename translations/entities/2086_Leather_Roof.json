@@ -1,0 +1,85 @@
+{
+	"armor": {
+		"acid": 0,
+		"death": 0,
+		"electricity": 0,
+		"fire": 0,
+		"frost": 0,
+		"holy": 0,
+		"parry": 0,
+		"physical": 0,
+		"poison": 0,
+		"thorns": 0
+	},
+	"background": {
+		"color": [
+			44,
+			45,
+			41
+		],
+		"noise": 1,
+		"noise_intensity": 4
+	},
+	"category_id": 1,
+	"components": [
+		"armor",
+		"background",
+		"craftable",
+		"glyph",
+		"health",
+		"minimap_pixel",
+		"name",
+		"producer"
+	],
+	"corpse": [],
+	"craftable": {
+		"magic_slots": 0,
+		"resource_types": [
+			{
+				"amount": 1,
+				"id": 2
+			}
+		],
+		"resources": null,
+		"time": 2,
+		"tools": []
+	},
+	"description": "Roof made out of stretched animal leather.",
+	"glyph": {
+		"frames": [
+			{
+				"color": [
+					255,
+					255,
+					255
+				],
+				"delay": 0,
+				"index": 19
+			}
+		],
+		"random_frame_start": true
+	},
+	"health": 1,
+	"id": "2086",
+	"minimap_pixel": [
+		135,
+		122,
+		63
+	],
+	"name": "Leather Roof",
+	"producer": {
+		"products": {
+			"core_2_deconstruct": [
+				{
+					"amount": [
+						0,
+						0
+					],
+					"id": "-1",
+					"percent_chance": 0
+				}
+			]
+		},
+		"time": 10
+	}
+}

@@ -1,0 +1,30 @@
+{
+	"animation": "67",
+	"cast_time": 1.5,
+	"cooldown": 20.0,
+	"cost": {
+		"health": 0,
+		"stamina": 15
+	},
+	"description": "Drop a swarm of meteors on the selected area that deals ::damage ::damage_type damage to everyone inside.",
+	"duration": 0.0,
+	"effects": {
+		"aoe_range": 4,
+		"aoe_shape": 1,
+		"damage": [
+			30,
+			40
+		],
+		"damage_type": "fire",
+		"magic_power_damage": 0.6600000262260437
+	},
+	"id": "64",
+	"image": 50,
+	"name": "Armageddon",
+	"range": 8,
+	"skill": "core_2_pyromancy",
+	"slots": {
+		"offensive": 4
+	},
+	"target": "aoe_tile"
+}

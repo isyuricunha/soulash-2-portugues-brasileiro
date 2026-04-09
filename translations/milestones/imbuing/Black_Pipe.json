@@ -1,0 +1,16 @@
+{
+	"id": "core_2_black_pipe",
+	"name": "Black Pipe",
+	"requirements": {
+		"milestones": [],
+		"skill": 19
+	},
+	"rewards": [
+		{
+			"recipe": "core_2_Black_Pipe"
+		}
+	],
+	"skill_id": "core_2_imbuing",
+	"steps": [],
+	"steps_type": 0
+}

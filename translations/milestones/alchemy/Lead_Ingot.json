@@ -1,0 +1,16 @@
+{
+	"id": "core_2_lead_Ingot",
+	"name": "Lead Ingot",
+	"requirements": {
+		"milestones": [],
+		"skill": 25
+	},
+	"rewards": [
+		{
+			"recipe": "core_2_Lead_Ingot"
+		}
+	],
+	"skill_id": "core_2_alchemy",
+	"steps": [],
+	"steps_type": 0
+}

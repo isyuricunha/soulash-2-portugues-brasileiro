@@ -1,0 +1,31 @@
+{
+	"animation": "230",
+	"cast_time": -1.0,
+	"cooldown": 99.0,
+	"cost": {
+		"health": 0,
+		"stamina": 10
+	},
+	"description": "Execute the enemy dealing ::damage ::damage_type damage. If the target dies, the cooldown resets.",
+	"duration": 0.0,
+	"effects": {
+		"damage": [
+			80,
+			120
+		],
+		"damage_type": "physical",
+		"damage_weapon": 1.0,
+		"reset_cooldown_on_kill": 1
+	},
+	"id": "178",
+	"image": 360,
+	"name": "Honorable Execution",
+	"range": 1,
+	"requirements": {
+		"one_of": [
+			2
+		]
+	},
+	"skill": "core_2_sword_fighting",
+	"target": "actor"
+}

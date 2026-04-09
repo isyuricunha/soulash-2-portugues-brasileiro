@@ -1,0 +1,2235 @@
+{
+	"base_abilities": [],
+	"base_items": [
+		{
+			"amount": 3,
+			"index": "803"
+		},
+		{
+			"amount": 1,
+			"index": "310"
+		}
+	],
+	"base_recipes": [],
+	"crimes": {
+		"assault": 40,
+		"forbidden": 50,
+		"murder": 200,
+		"pickpocket": 10,
+		"robbery": 30,
+		"stealing": 20,
+		"vandalism": 0,
+		"gather_souls": -1
+	},
+	"gold_for_potential": {
+		"10": 20,
+		"15": 60,
+		"20": 120,
+		"25": 200,
+		"30": 400,
+		"35": 800,
+		"40": 1600,
+		"45": 2500,
+		"5": 10,
+		"50": 5000,
+		"default": 5000
+	},
+	"max_potential": 200,
+	"starting_gold": 20,
+	"production_actions": [
+		{
+			"animation": "",
+			"askey": 117,
+			"description": "Cut down a tree or a piece of wood.\n\nUse with hotkey: [color=244,247,118,255]u[/color]",
+			"equipment": true,
+			"id": "1",
+			"image": 32,
+			"key": "u",
+			"name": "Cut Wood",
+			"required_tool": 13,
+			"restrict_default": true,
+			"sound": "data/mods/core_2/assets/sfx/cut_wood.ogg",
+			"time_statistic_multiplier": 0.15,
+			"time_statistic_scale": 0,
+			"time_weight_scale": 0,
+			"allow_bulk_action": true
+		},
+		{
+			"animation": "",
+			"askey": 117,
+			"description": "Skin and butcher the corpse attempting to acquire useful resources.\n\nUse with hotkey: [color=244,247,118,255]u[/color]",
+			"equipment": true,
+			"id": "3",
+			"image": 17,
+			"key": "u",
+			"name": "Scavenge",
+			"required_tool": 4,
+			"sound": "data/mods/core_2/assets/sfx/butchering.ogg",
+			"time_statistic_multiplier": 0.1,
+			"time_statistic_scale": 2,
+			"time_weight_scale": 1,
+			"allow_bulk_action": true
+		},
+		{
+			"animation": "",
+			"askey": 117,
+			"description": "Attempt to catch a fish in the water source.\n\nUse with hotkey: [color=244,247,118,255]u[/color]",
+			"force_single_item": true,
+			"id": "4",
+			"image": 33,
+			"key": "u",
+			"name": "Catch Fish",
+			"required_tool": 5,
+			"sound": "data/mods/core_2/assets/sfx/fishing.ogg",
+			"time_statistic_multiplier": 0.1,
+			"time_statistic_scale": 4,
+			"time_weight_scale": 0,
+			"allow_bulk_action": true
+		},
+		{
+			"animation": "",
+			"askey": 117,
+			"description": "Mine the wall destroying it and attempting to acquire resources.\n\nUse with hotkey: [color=244,247,118,255]u[/color]",
+			"id": "5",
+			"image": 31,
+			"key": "u",
+			"name": "Mine",
+			"required_tool": 9,
+			"sound": "data/mods/core_2/assets/sfx/mine.ogg",
+			"time_statistic_multiplier": 0.15,
+			"time_statistic_scale": 0,
+			"time_weight_scale": 0,
+			"allow_bulk_action": true
+		},
+		{
+			"animation": "",
+			"askey": 117,
+			"description": "Harvest resources from the selected object.\n\nUse with hotkey: [color=244,247,118,255]u[/color]",
+			"equipment": true,
+			"id": "6",
+			"image": 0,
+			"key": "u",
+			"name": "Harvest",
+			"required_tool": 7,
+			"sound": "data/mods/core_2/assets/sfx/harvest.ogg",
+			"time_statistic_multiplier": 0.15,
+			"time_statistic_scale": 0,
+			"time_weight_scale": 0,
+			"allow_bulk_action": true
+		},
+		{
+			"animation": "",
+			"askey": 117,
+			"description": "Separate grains from husks of wheat.\n\nUse with hotkey: [color=244,247,118,255]u[/color]",
+			"equipment": true,
+			"id": "7",
+			"image": 41,
+			"key": "u",
+			"name": "Thresh",
+			"required_tool": 16,
+			"sound": "",
+			"time_statistic_multiplier": 0.2,
+			"time_statistic_scale": 0,
+			"time_weight_scale": 0
+		},
+		{
+			"animation": "",
+			"askey": 117,
+			"description": "Cook food to improve its quality.\n\nUse with hotkey: [color=244,247,118,255]u[/color]",
+			"equipment": true,
+			"id": "9",
+			"image": 42,
+			"key": "u",
+			"name": "Cook",
+			"required_tool": 2,
+			"sound": "data/mods/core_2/assets/sfx/cooking.ogg",
+			"time_statistic_multiplier": 0.0,
+			"time_statistic_scale": 0,
+			"time_weight_scale": 100
+		},
+		{
+			"animation": "",
+			"askey": -1,
+			"description": "Gather resource from selected target.",
+			"id": "10",
+			"image": 1,
+			"key": "",
+			"name": "Gather",
+			"required_tool": -1,
+			"sound": "data/mods/core_2/assets/sfx/gather.ogg",
+			"time_statistic_multiplier": 0.1,
+			"time_statistic_scale": 2,
+			"time_weight_scale": 1.0,
+			"allow_bulk_action": true
+		},
+		{
+			"animation": "",
+			"askey": -1,
+			"description": "Acquire milk from the selected target.",
+			"id": "11",
+			"image": 38,
+			"key": "",
+			"name": "Milk",
+			"required_tool": -1,
+			"sound": "data/mods/core_2/assets/sfx/milk.ogg",
+			"time_statistic_multiplier": 0.0,
+			"time_statistic_scale": 0,
+			"time_weight_scale": 0.0,
+			"allow_bulk_action": true
+		},
+		{
+			"animation": "",
+			"askey": -1,
+			"description": "Dig through dirt.\n\nUse with hotkey: [color=244,247,118,255]u[/color]",
+			"force_single_item": true,
+			"id": "12",
+			"image": 43,
+			"key": "u",
+			"name": "Dig",
+			"required_tool": 18,
+			"sound": "data/mods/core_2/assets/sfx/dig.ogg",
+			"time_statistic_multiplier": 0.15,
+			"time_statistic_scale": 0,
+			"time_weight_scale": 0,
+			"allow_bulk_action": true
+		},
+		{
+			"animation": "",
+			"askey": -1,
+			"description": "Open the container and loot its contents.",
+			"id": "15",
+			"image": 29,
+			"key": "",
+			"loot": true,
+			"name": "Loot",
+			"required_tool": -1,
+			"sound": "data/mods/core_2/assets/sfx/loot_chest.ogg",
+			"time_statistic_multiplier": 0,
+			"time_statistic_scale": 0,
+			"time_weight_scale": 0.0
+		},
+		{
+			"animation": "",
+			"askey": -1,
+			"description": "Use a Fire Starter tool to light Fuel entity on fire.",
+			"id": "17",
+			"image": 16,
+			"key": "",
+			"name": "Start a Fire",
+			"required_tool": 20,
+			"sound": "data/mods/core_2/assets/sfx/fire_starter.ogg",
+			"time_statistic_multiplier": 0,
+			"time_statistic_scale": 0,
+			"time_weight_scale": 0.2
+		},
+		{
+			"animation": "",
+			"askey": -1,
+			"description": "Pour water from one of your liquid containers at the tile.",
+			"id": "19",
+			"image": 58,
+			"key": "",
+			"name": "Pour Water",
+			"require_liquid": {
+				"amount": 100,
+				"type": 1
+			},
+			"restrict_default": true,
+			"required_tool": -1,
+			"sound": "data/mods/core_2/assets/sfx/splash.ogg",
+			"time_statistic_multiplier": 0,
+			"time_statistic_scale": 0,
+			"time_weight_scale": 0.0,
+			"allow_bulk_action": true
+		},
+		{
+			"description": "",
+			"id": "core_2_pickpocket",
+			"image": 58,
+			"name": "Pickpocket"
+		},
+		{
+			"description": "",
+			"id": "core_2_rob",
+			"image": 59,
+			"name": "Rob"
+		},
+		{
+			"animation": "",
+			"description": "Shear the sheep to acquire its wool.",
+			"id": "core_2_shear",
+			"image": 69,
+			"name": "Shear",
+			"required_tool": 4,
+			"sound": "data/mods/core_2/assets/sfx/shear.ogg",
+			"time_statistic_multiplier": 0.1,
+			"time_statistic_scale": 2,
+			"time_weight_scale": 0.5,
+			"allow_bulk_action": true
+		},
+		{
+			"animation": "",
+			"description": "Demolish an object like a wall or a furniture in a region you control.",
+			"id": "core_2_deconstruct",
+			"image": 61,
+			"name": "Demolish",
+			"require_unlock": true,
+			"required_tool": 6,
+			"restrict_default": true,
+			"restrict_to_own_region": true,
+			"allow_in_progress": true,
+			"sound": "data/mods/core_2/assets/sfx/abilities/break.ogg",
+			"time_statistic_multiplier": 0.2,
+			"time_statistic_scale": 0
+		},
+		{
+			"animation": "",
+			"askey": 117,
+			"description": "Plant a seed in the ground.\n\nUse with hotkey: [color=244,247,118,255]u[/color]",
+			"equipment": true,
+			"id": "core_2_plant",
+			"image": 61,
+			"key": "u",
+			"name": "Plant",
+			"required_tool": -1,
+			"restrict_to_own_region": true,
+			"sound": "data/mods/core_2/assets/sfx/dig.ogg",
+			"time_statistic_multiplier": 0.2,
+			"time_statistic_scale": 0
+		},
+		{
+			"animation": "",
+			"askey": 98,
+			"description": "Politely ask the tree to become useful to you.\n\nUse with hotkey: [color=244,247,118,255]b[/color]",
+			"equipment": true,
+			"id": "core_2_woodbend",
+			"image": 77,
+			"key": "b",
+			"name": "Woodbend",
+			"required_tool": -1,
+			"require_unlock": true,
+			"restrict_default": true,
+			"sound": "data/mods/core_2/assets/sfx/woodbending.ogg",
+			"time_statistic_multiplier": 0.15,
+			"time_statistic_scale": 0,
+			"time_weight_scale": 0,
+			"allow_bulk_action": true
+		},
+		{
+			"animation": "",
+			"askey": -1,
+			"description": "Catch baby animal to transport it some place else.",
+			"force_single_item": true,
+			"require_unlock": true,
+			"restrict_default": true,
+			"id": "core_2_catch_animal",
+			"image": 29,
+			"key": "",
+			"name": "Catch Animal",
+			"required_tool": -1,
+			"sound": "data/mods/core_2/assets/sfx/inventory/drop_other_1.ogg",
+			"time_statistic_multiplier": 0.1,
+			"time_statistic_scale": 4,
+			"time_weight_scale": 0
+		},
+		{
+			"animation": "",
+			"askey": -1,
+			"description": "Water a plant to help it grow quicker.",
+			"force_single_item": true,
+			"require_unlock": true,
+			"restrict_default": true,
+			"id": "core_2_water_plants",
+			"image": 29,
+			"key": "",
+			"name": "Water Plants",
+			"required_tool": -1,
+			"sound": "data/mods/core_2/assets/sfx/inventory/drop_other_1.ogg",
+			"time_statistic_multiplier": 0.1,
+			"time_statistic_scale": 4,
+			"time_weight_scale": 0
+		},
+		{
+			"animation": "core_2_Transformation_into_Necrotyrant",
+			"askey": -1,
+			"description": "Replace Necrotyrant and take control of his Undead Bastion.\n\nIt may only be used in the ruins of Undead Bastion while interacting with the Monolith of Awakening.",
+			"force_single_item": true,
+			"id": "core_2_become_necrotyrant",
+			"image": 87,
+			"key": "",
+			"name": "Become the Necrotyrant",
+			"required_tool": -1,
+			"require_unlock": true,
+			"restrict_default": true,
+			"sound": "data/mods/core_2/assets/sfx/inventory/drop_other_1.ogg",
+			"time_statistic_multiplier": 0.1,
+			"time_statistic_scale": 4,
+			"time_weight_scale": 0,
+			"claim_ruins": true,
+			"replace_entity": "core_2_Necrotyrant"
+		},
+		{
+			"animation": "core_2_Become_Vampire",
+			"askey": -1,
+			"description": "Become a Vampire and live forever as a bloodthirsty creature.\n\nIt may only be used when performing a ritual at Necrotic Altar with Vampire Blood acquired from a Vampire Lord.",
+			"force_single_item": true,
+			"id": "core_2_become_vampire",
+			"image": 92,
+			"key": "",
+			"name": "Vampiric Ritual",
+			"required_tool": -1,
+			"require_unlock": true,
+			"restrict_default": true,
+			"require_liquid": {
+				"amount": 100,
+				"type": 9
+			},
+			"sound": "data/mods/core_2/assets/sfx/inventory/drop_other_1.ogg",
+			"time_statistic_multiplier": 0.1,
+			"time_statistic_scale": 4,
+			"time_weight_scale": 0,
+			"replace_entity": "core_2_Player_Vampire"
+		},
+		{
+			"animation": "",
+			"askey": -1,
+			"description": "Carve out pieces of flesh attempting to acquire useful alchemical resources.",
+			"equipment": true,
+			"id": "core_2_carve",
+			"image": 89,
+			"name": "Carve",
+			"required_tool": 4,
+			"require_unlock": true,
+			"restrict_default": true,
+			"sound": "data/mods/core_2/assets/sfx/butchering.ogg",
+			"time_statistic_multiplier": 0.1,
+			"time_statistic_scale": 2,
+			"time_weight_scale": 1,
+			"allow_bulk_action": true
+		},
+		{
+			"animation": "",
+			"askey": -1,
+			"description": "Make a wish and see if it comes true.",
+			"force_single_item": true,
+			"id": "core_2_wish",
+			"image": 91,
+			"name": "Wish",
+			"required_tool": -1,
+			"sound": "data/mods/core_2/assets/sfx/abilities/sense_life.ogg",
+			"time_statistic_multiplier": 0.1,
+			"time_statistic_scale": 2,
+			"time_weight_scale": 1
+		},
+		{
+			"animation": "",
+			"askey": -1,
+			"description": "Take a chance. Say a prayer to an unknown deity. Maybe it'll hear you.",
+			"force_single_item": true,
+			"id": "core_2_pray",
+			"image": 90,
+			"name": "Pray",
+			"required_tool": -1,
+			"sound": "data/mods/core_2/assets/sfx/abilities/prayer.ogg",
+			"time_statistic_multiplier": 0.1,
+			"time_statistic_scale": 2,
+			"time_weight_scale": 1
+		}
+	],
+	"control_actions": [
+		{
+			"id": "core_2_tame",
+			"name": "Tame",
+			"description": "Use your willpower to attempt taming an animal. This action requires an empty companion slot and takes 2 turns.",
+			"image": 75,
+			"tags": ["2"],
+			"success_animation": "core_2_Tame_animal",
+			"success_message": "{} becomes your new companion!",
+			"failure_ability": "12",
+			"failure_message": "[{}%] You were unable to tame {}, it becomes enraged!"
+		},
+		{
+			"id": "core_2_control_undead",
+			"name": "Control Undead",
+			"description": "Use your willpower to attempt taking control of an undead being. This action requires an empty companion slot and takes 2 turns.",
+			"image": 84,
+			"tags": ["4"],
+			"success_animation": "core_2_Take_Control",
+			"success_message": "{} becomes your new companion!",
+			"failure_ability": "",
+			"failure_message": "[{}%] You were unable to take control of {}."
+		}
+	],
+	"races": [
+		{
+			"ages": {
+				"adult": 50,
+				"child": 14,
+				"elder": 70
+			},
+			"base_entities": {
+				"adult": "694",
+				"child": "2000",
+				"leader": "2203",
+				"recruit": "691",
+				"rebel": "core_2_Human_Rebel"
+			},
+			"description": "Versatile and adaptable creatures with a wide range of abilities and skills. Humans are short-lived compared to other races, which fuels their drive for progress and achievement. They are known for their ingenuity, ambition, and resilience and are often skilled in various professions and trades.\n\nThe fear of death and the desire to leave a lasting legacy drives many humans to achieve greatness but can also lead to recklessness and greed.\n\nHumans live around [color=244,247,118,255]::elder_age[/color] years.\n[color=244,247,118,255]All Statistics +1[/color]",
+			"forbidden_actions": [
+				"6",
+				"10"
+			],
+			"id": "0",
+			"image": 4,
+			"items": [],
+			"name": "Human",
+			"names": {
+				"female": "npc/names/human_female.txt",
+				"male": "npc/names/human_male.txt",
+				"settlements": "npc/settlements/human_settlements.json",
+				"states": "npc/states/human.json",
+				"surnames": "npc/surnames/human.json"
+			},
+			"orphan_surname": "Grass",
+			"playable": true,
+			"recipes": [],
+			"settlement": {
+				"building_sign": "256",
+				"center_id": "40",
+				"start_spawn_rate": 1.0,
+				"caravan_image": 268,
+				"battle_light_source": "424",
+				"war_causes": [ "conquest", "ride_for_wealth" ]
+			},
+			"state_crests": [
+				{	"id": "core_2_human_1", "image": 1	},
+				{	"id": "core_2_human_2", "image": 2	},
+				{	"id": "core_2_human_3", "image": 3  },
+				{	"id": "core_2_human_4", "image": 4	},
+				{	"id": "core_2_human_5", "image": 5	}
+			],
+			"statistics": {
+				"dexterity": 1,
+				"endurance": 1,
+				"intelligence": 1,
+				"strength": 1,
+				"willpower": 1
+			},
+			"tags": [
+				"1"
+			],
+			"trade_restrictions": [
+				"802"
+			],
+			"courting": {
+				"female": [
+					"core_2_Rose_Flower",
+					"2156"
+				],
+				"male": [
+					"775",
+					"78"
+				]
+			}
+		},
+		{
+			"ages": {
+				"adult": 120,
+				"child": 20,
+				"elder": 200
+			},
+			"base_entities": {
+				"adult": "456",
+				"child": "2244",
+				"leader": "2417",
+				"recruit": "2294",
+				"rebel": "core_2_Dwarf_Rebel"
+			},
+			"crimes": {
+				"forbidden": 50,
+				"murder": -1
+			},
+			"description": "Short, stout, and hardy creatures with love for mining and craftsmanship.\n\nDwarves are renowned for their metallurgy, stonework, and engineering skills and their strong sense of community and loyalty. They have a rich cultural heritage of folklore and song and live in mountain fortresses.\n\nDwarves live around [color=244,247,118,255]::elder_age[/color] years.\n[color=244,247,118,255]Endurance +2, Willpower +2[/color]\n[color=244,247,118,255]Infravision[/color] - full sight range in darkness, half in daylight.",
+			"forbidden_actions": [
+				"5",
+				"6",
+				"10"
+			],
+			"id": "1",
+			"image": 2,
+			"items": [],
+			"name": "Dwarf",
+			"names": {
+				"female": "npc/names/dwarf_female.txt",
+				"male": "npc/names/dwarf_male.txt",
+				"settlements": "npc/settlements/dwarf_settlements.json",
+				"states": "npc/states/dwarf.json",
+				"surnames": "npc/surnames/dwarf.json"
+			},
+			"orphan_surname": "from Stone",
+			"passives": [
+				"core_2_infravision"
+			],
+			"playable": true,
+			"recipes": [],
+			"settlement": {
+				"carve": false,
+				"center_id": "70",
+				"inside_hill": true,
+				"road": true,
+				"stairs_down": "419",
+				"stairs_up": "420",
+				"start_spawn_rate": 0.4,
+				"z_level_growth": -1,
+				"max_radius": 30,
+				"stairs": 3,
+				"non_carvables": [
+					"8",
+					"738",
+					"10",
+					"6"
+				],
+				"caravan_image": 270,
+				"battle_light_source": "424",
+				"war_causes": [ "ride_for_wealth" ]
+			},
+			"state_crests": [
+				{	"id": "core_2_dwarf_1", "image": 20	},
+				{	"id": "core_2_dwarf_2", "image": 21	},
+				{	"id": "core_2_dwarf_3", "image": 22 },
+				{	"id": "core_2_dwarf_4", "image": 23	},
+				{	"id": "core_2_dwarf_5", "image": 24	},
+				{	"id": "core_2_dwarf_6", "image": 25	}
+			],
+			"statistics": {
+				"endurance": 2,
+				"willpower": 2
+			},
+			"tags": [
+				"6"
+			],
+			"trade_restrictions": [
+				"2112",
+				"2115"
+			],
+			"courting": {
+				"male": [
+					"core_2_Dwarven_Beer",
+					"863"
+				],
+				"female": [
+					"852",
+					"396"
+				]
+			}
+		},
+		{
+			"ages": {
+				"adult": 300,
+				"child": 20,
+				"elder": 500
+			},
+			"base_entities": {
+				"adult": "232",
+				"child": "2243",
+				"leader": "2418",
+				"recruit": "2295",
+				"rebel": "core_2_Elf_Rebel"
+			},
+			"crimes": {
+				"forbidden": -1
+			},
+			"description": "Graceful and magical beings with pointed ears and an affinity for nature. Elves are often skilled in archery, magic, and stealth, and are known for their long lives and wisdom.\n\nElves have a rich cultural heritage of song, dance, and storytelling. They live in large trees that they grow from a mystical Seed of Life.\n\nElves live around [color=244,247,118,255]::elder_age[/color] years.\n[color=244,247,118,255]Dexterity +2, Intelligence +2[/color]",
+			"forbidden_actions": [
+				"1"
+			],
+			"id": "2",
+			"image": 41,
+			"name": "Elf",
+			"names": {
+				"female": "npc/names/elf_female.txt",
+				"male": "npc/names/elf_male.txt",
+				"settlements": "npc/settlements/elf_settlements.json",
+				"states": "npc/states/elf.json",
+				"surnames": "npc/surnames/elf.json"
+			},
+			"orphan_surname": "of the Tree",
+			"playable": true,
+			"settlement": {
+				"area_background_id": "68",
+				"carvables": [
+					"3013"
+				],
+				"carve": false,
+				"center_id": "56",
+				"road": false,
+				"stairs_down": "14",
+				"stairs_up": "13",
+				"start_spawn_rate": 0.3,
+				"z_level_growth": 1,
+				"stairs": 3,
+				"caravan_image": 269,
+				"battle_light_source": "424"
+			},
+			"state_crests": [
+				{	"id": "core_2_elf_1", "image": 10	},
+				{	"id": "core_2_elf_2", "image": 11	},
+				{	"id": "core_2_elf_3", "image": 12 },
+				{	"id": "core_2_elf_4", "image": 13	},
+				{	"id": "core_2_elf_5", "image": 14	},
+				{	"id": "core_2_elf_6", "image": 15	}
+			],
+			"statistics": {
+				"dexterity": 2,
+				"intelligence": 2
+			},
+			"tags": [
+				"7"
+			],
+			"trade_restrictions": [
+				"325"
+			],
+			"courting": {
+				"male": [
+					"2360",
+					"core_2_Leaf_Tiara"
+				],
+				"female": [
+					"core_2_Bluebell_Flower",
+					"core_2_Everlasting_Flower"
+				]
+			}
+		},
+		{
+			"description": "None",
+			"id": "3",
+			"name": "Halfling",
+			"names": {
+				"female": "npc/names/human_female.txt",
+				"male": "npc/names/human_male.txt"
+			},
+			"playable": false,
+			"tags": [
+				"25"
+			]
+		},
+		{
+			"ages": {
+				"adult": 50,
+				"child": 10,
+				"elder": 80
+			},
+			"base_entities": {
+				"adult": "core_2_Goblin_Adult",
+				"child": "core_2_Goblin_Child",
+				"leader": "core_2_Goblin_Boss",
+				"recruit": "core_2_Goblin_Recruit",
+				"rebel": "core_2_Goblin_Rebel"
+			},
+			"crimes": {
+				"assault": 5,
+				"murder": 5,
+				"robbery": 200,
+				"stealing": 200
+			},
+			"description": "Goblins are a cunning and resilient race, adept at surviving in the rugged, rocky terrain of the hills. They maintain a tight-knit community, valuing cunning and strength. Their society is built on a mix of survival and an unyielding spirit, making them formidable inhabitants of the hills.\n\nGoblins live around [color=244,247,118,255]::elder_age[/color] years.\n[color=244,247,118,255]Dexterity +3, Endurance +1[/color]\n[color=244,247,118,255]Sneaking +5[/color]",
+			"orphan_surname": "Splinter",
+			"id": "4",
+			"image": 1,
+			"items": [],
+			"name": "Goblin",
+			"names": {
+				"female": "npc/names/goblin_female.txt",
+				"male": "npc/names/goblin_male.txt",
+				"settlements": "npc/settlements/goblin_settlements.json",
+				"states": "npc/states/goblin.json",
+				"surnames": "npc/surnames/goblin.json"
+			},
+			"playable": true,
+			"recipes": [],
+			"settlement": {
+				"center_id": "344",
+				"start_spawn_rate": 1.0,
+				"caravan_image": 299,
+				"battle_light_source": "424",
+				"war_causes": [ "conquest", "ride_for_wealth" ]
+			},
+			"state_crests": [
+				{	"id": "core_2_goblin_1", "image": 100	},
+				{	"id": "core_2_goblin_2", "image": 101	},
+				{	"id": "core_2_goblin_3", "image": 102 },
+				{	"id": "core_2_goblin_4", "image": 103	},
+				{	"id": "core_2_goblin_5", "image": 104	}
+			],
+			"statistics": {
+				"dexterity": 3,
+				"endurance": 1,
+				"sneaking": 5
+			},
+			"tags": [
+				"0",
+				"26"
+			],
+			"courting": {
+				"female": [
+					"core_2_Watermelon",
+					"2876"
+				],
+				"male": [
+					"205",
+					"687"
+				]
+			}
+		},
+		{
+			"description": "None",
+			"id": "5",
+			"image": 3,
+			"items": [],
+			"name": "Dark elf",
+			"names": {
+				"female": "npc/names/elf_female.txt",
+				"male": "npc/names/elf_male.txt"
+			},
+			"playable": false,
+			"recipes": [],
+			"statistics": {
+				"dexterity": 2,
+				"intelligence": 1,
+				"willpower": 1
+			},
+			"tags": [
+				"9"
+			]
+		},
+		{
+			"ages": {
+				"adult": 10000,
+				"child": 0,
+				"elder": 10000
+			},
+			"base_entities": {
+				"adult": "core_2_Vampire_Adult",
+				"child": "core_2_Vampire_Adult",
+				"leader": "core_2_Vampire_Lord",
+				"recruit": "core_2_Vampire_Recruit"
+			},
+			"crimes": {
+				"assault": 100,
+				"robbery": 200,
+				"stealing": 200
+			},
+			"forbidden_actions": [
+				"5",
+				"9",
+				"15"
+			],
+			"settlement": {
+				"birth_cost": {
+					"amount": 1,
+					"resource": "core_2_Vampire_Blood"
+				},
+				"single_family": true,
+				"center_id": "512",
+				"start_spawn_rate": 1.0,
+				"caravan_image": 134,
+				"migration": false,
+				"max": 1,
+				"aggression_default": true,
+				"aggression_per_race": {
+					"6": false,
+					"17": false
+				},
+				"disabled_trading": false,
+				"war_causes": [ "conquest" ],
+				"collapse_on_leader_death": false
+			},
+			"state_crests": [
+				{	"id": "core_2_vampire_1", "image": 140	},
+				{	"id": "core_2_vampire_2", "image": 141	},
+				{	"id": "core_2_vampire_3", "image": 142 },
+				{	"id": "core_2_vampire_4", "image": 143	},
+				{	"id": "core_2_vampire_5", "image": 144	}
+			],
+			"statistics": {
+				"endurance": 2,
+				"intelligence": 1,
+				"strength": 1,
+				"health_regen_tick": 7.0
+			},
+			"description": "Unlike their nocturnal cousins, these vampires are daywalkers, adapted to thrive beneath clouded skies and golden light. They are fierce when provoked — swift riders, devastating archers, and terrifying duelists on the open plains. Their elders speak of a time when the sky itself bowed to their thirst.\n\nStrength +1, Endurance +2, Intelligence +1\nThirst and hunger is replaced by bloodlust.\nInfravision: see in the dark\nHealth Regenetation ticks every 7 turns.",
+			"id": "6",
+			"name": "Vampire",
+			"options": [
+				"sleep_in_bed",
+				"damaging_healing",
+				"spread_vampirism"
+			],
+			"image": 15,
+			"orphan_surname": "Bloodless",
+			"names": {
+				"female": "npc/names/vampire_female.txt",
+				"male": "npc/names/vampire_male.txt",
+				"settlements": "npc/settlements/vampire_settlements.json",
+				"states": "npc/states/vampire.json",
+				"surnames": "npc/surnames/vampire.json"
+			},
+			"passives": [
+				"core_2_vampiric_bloodlust",
+				"core_2_infravision"
+			],
+			"playable": false,
+			"tags": [
+				"23",
+		        "38",
+		        "4"
+			]
+		},
+		{
+			"ages": {
+				"adult": 70,
+				"child": 10,
+				"elder": 80
+			},
+			"base_entities": {
+				"adult": "core_2_Troll_Adult",
+				"child": "core_2_Troll_Child",
+				"leader": "core_2_Troll_Warbringer",
+				"recruit": "core_2_Troll_Recruit",
+				"rebel": "core_2_Troll_Rebel"
+			},
+			"crimes": {
+				"assault": 500,
+				"murder": 500,
+				"robbery": 50,
+				"stealing": 50
+			},
+			"forbidden_actions": [
+				"5",
+				"6",
+				"10",
+				"17",
+				"core_2_woodbend"
+			],
+			"description": "Trolls are a rugged and hardy race, perfectly adapted to their harsh, rocky environment. They have powerful, muscular builds, and are fiercely protective of their clans.\n\nTrolls live around [color=244,247,118,255]::elder_age[/color] years.\n[color=244,247,118,255]Strength +3, Endurance +2, Intelligence -4[/color]\n[color=244,247,118,255]Infravision[/color]\n[color=244,247,118,255]Quicker Health Regeneration[/color]",
+			"id": "7",
+			"image": 6,
+			"items": [],
+			"name": "Troll",
+			"names": {
+				"female": "npc/names/troll_female.txt",
+				"male": "npc/names/troll_male.txt",
+				"settlements": "npc/settlements/troll_settlements.json",
+				"states": "npc/states/troll.json",
+				"surnames": "npc/surnames/troll.json"
+			},
+			"orphan_surname": "Flint",
+			"playable": true,
+			"recipes": [],
+			"passives": [
+				"core_2_infravision"
+			],
+			"settlement": {
+				"carve": false,
+				"inside_hill": true,
+				"road": true,
+				"stairs_down": "2039",
+				"stairs_up": "2038",
+				"z_level_growth": -1,
+				"max_radius": 50,
+				"stairs": 3,
+				"non_carvables": [
+					"738",
+					"2871",
+					"6",
+					"core_2_Makeshift_Stone_Wall",
+					"37",
+					"32"
+				],
+				"center_id": "408",
+				"start_spawn_rate": 0.25,
+				"caravan_image": 294,
+				"battle_light_source": "424",
+				"war_causes": [ "conquest", "ride_for_wealth" ]
+			},
+			"state_crests": [
+				{	"id": "core_2_troll_1", "image": 110	},
+				{	"id": "core_2_troll_2", "image": 111	},
+				{	"id": "core_2_troll_3", "image": 112  },
+				{	"id": "core_2_troll_4", "image": 113	},
+				{	"id": "core_2_troll_5", "image": 114	}
+			],
+			"statistics": {
+				"endurance": 2,
+				"intelligence": -4,
+				"strength": 3,
+				"health_regen_tick": 8.0
+			},
+			"tags": [
+				"11",
+				"26"
+			],
+			"courting": {
+				"male": [
+					"2186",
+					"core_2_Bone_Mace"
+				],
+				"female": [
+					"960",
+					"core_2_Human_Hand"
+				]
+			}
+		},
+		{
+			"ages": {
+				"adult": 60,
+				"child": 10,
+				"elder": 80
+			},
+			"base_entities": {
+				"adult": "core_2_Orc_Adult",
+				"child": "core_2_Orc_Child",
+				"leader": "core_2_Orc_Warchief",
+				"recruit": "core_2_Orc_Recruit",
+				"rebel": "core_2_Orc_Rebel"
+			},
+			"crimes": {
+				"assault": 5,
+				"murder": 5,
+				"robbery": 200,
+				"stealing": 200
+			},
+			"forbidden_actions": [
+				"6",
+				"10"
+			],
+			"settlement": {
+				"center_id": "364",
+				"start_spawn_rate": 1.0,
+				"caravan_image": 304,
+				"battle_light_source": "424",
+				"war_causes": [ "conquest", "ride_for_wealth" ]
+			},
+			"state_crests": [
+				{	"id": "core_2_orc_1", "image": 90	},
+				{	"id": "core_2_orc_2", "image": 91	},
+				{	"id": "core_2_orc_3", "image": 92 },
+				{	"id": "core_2_orc_4", "image": 93	},
+				{	"id": "core_2_orc_5", "image": 94	}
+			],
+			"description": "Orcs are a fierce and hardy race adapted to the rugged terrain of their hilly homeland. With muscular builds and thick, calloused skin, they thrive in rocky, uneven landscapes. Orcs are a warrior society, valuing strength, resilience, and tactical cunning. Their leaders are typically chosen based on combat prowess.\n\nOrcs live around [color=244,247,118,255]::elder_age[/color] years.\n[color=244,247,118,255]Strength +2, Endurance +2[/color]",
+			"id": "8",
+			"image": 7,
+			"items": [],
+			"name": "Orc",
+			"names": {
+				"female": "npc/names/orc_female.txt",
+				"male": "npc/names/orc_male.txt",
+				"settlements": "npc/settlements/orc_settlements.json",
+				"states": "npc/states/orc.json",
+				"surnames": "npc/surnames/orc.json"
+			},
+			"orphan_surname": "Battleborn",
+			"playable": true,
+			"recipes": [],
+			"statistics": {
+				"endurance": 2,
+				"strength": 2
+			},
+			"tags": [
+				"12",
+				"26"
+			],
+			"courting": {
+				"male": [
+					"core_2_Jaw_Axe",
+					"2177"
+				],
+				"female": [
+					"core_2_Jaw_Axe",
+					"2177"
+				]
+			}
+		},
+		{
+			"description": "None",
+			"id": "9",
+			"image": 8,
+			"items": [],
+			"name": "Lich",
+			"names": {
+				"female": "npc/names/lich.txt",
+				"male": "npc/names/lich.txt"
+			},
+			"playable": false,
+			"recipes": [],
+			"statistics": {
+				"intelligence": 2,
+				"willpower": 2
+			},
+			"tags": [
+				"27",
+				"4"
+			]
+		},
+		{
+			"ages": {
+				"adult": 60,
+				"child": 10,
+				"elder": 80
+			},
+			"base_entities": {
+				"adult": "2415",
+				"child": "2412",
+				"leader": "2420",
+				"recruit": "2414",
+				"rebel": "core_2_Rasimi_Rebel"
+			},
+			"forbidden_actions": [
+				"core_2_woodbend"
+			],
+			"crimes": {
+				"assault": 10,
+				"murder": 50,
+				"pickpocket": 4,
+				"robbery": 8,
+				"stealing": 6
+			},
+			"description": "Fierce and agile cat-like humanoids that call the dense jungles their home. They form tribes and clans, often engaging in territorial disputes. Rasimi live in cities built on trees, hunting and gathering resources from the jungle below. They are skilled climbers and hunters, using their sharp claws and teeth to take down prey.\n\nTheir society is fiercely independent, with little regard for outsiders. They have a rich oral tradition, passing down stories of their ancestors and legends of the jungle.\n\nThe Rasimi believe in strength and honor and often engage in ritual combat to determine leadership and resolve disputes. Their culture is wild and untamed, deeply connected to the natural world.\n\nRasimi live around [color=244,247,118,255]::elder_age[/color] years.\n[color=244,247,118,255]Dexterity +2, Endurance +2[/color]\n[color=244,247,118,255]Infravision[/color] - full sight range in darkness, half in daylight.",
+			"id": "10",
+			"image": 9,
+			"items": [],
+			"name": "Rasimi",
+			"names": {
+				"female": "npc/names/rasimi_female.txt",
+				"male": "npc/names/rasimi_male.txt",
+				"settlements": "npc/settlements/rasimi_settlements.json",
+				"states": "npc/states/rasimi.json",
+				"surnames": "npc/surnames/rasimi.json"
+			},
+			"orphan_surname": "Brute",
+			"passives": [
+				"core_2_infravision"
+			],
+			"playable": true,
+			"recipes": [],
+			"settlement": {
+				"carve": false,
+				"center_id": "135",
+				"road": false,
+				"start_spawn_rate": 0.7,
+				"caravan_image": 272,
+				"battle_light_source": "424",
+				"war_causes": [ "conquest", "ride_for_wealth" ]
+			},
+			"state_crests": [
+				{	"id": "core_2_rasimi_1", "image": 30	},
+				{	"id": "core_2_rasimi_2", "image": 31	},
+				{	"id": "core_2_rasimi_3", "image": 32  },
+				{	"id": "core_2_rasimi_4", "image": 33	},
+				{	"id": "core_2_rasimi_5", "image": 34	}
+			],
+			"statistics": {
+				"dexterity": 2,
+				"endurance": 2
+			},
+			"subraces": {
+				"leopard": {
+					"name": "Leopard"
+				},
+				"lion": {
+					"name": "Lion"
+				},
+				"panther": {
+					"name": "Panther"
+				},
+				"tiger": {
+					"name": "Tiger"
+				}
+			},
+			"tags": [
+				"2",
+				"28"
+			],
+			"courting": {
+				"male": [
+					"241",
+					"578"
+				],
+				"female": [
+					"core_2_Claw_Ring",
+					"2157"
+				]
+			}
+		},
+		{
+			"description": "Unknown",
+			"id": "11",
+			"name": "Unknown",
+			"playable": false
+		},
+		{
+			"description": "None",
+			"id": "12",
+			"name": "Troglodyte",
+			"names": {
+				"female": "npc/names/troglodyte.txt",
+				"male": "npc/names/troglodyte.txt"
+			},
+			"playable": false,
+			"tags": [
+				"10"
+			]
+		},
+		{
+			"description": "None",
+			"id": "13",
+			"name": "Fishman",
+			"names": {
+				"female": "npc/names/fishman.txt",
+				"male": "npc/names/fishman.txt"
+			},
+			"playable": false,
+			"tags": [
+				"13"
+			]
+		},
+		{
+			"description": "None",
+			"id": "14",
+			"image": 44,
+			"items": [],
+			"name": "Demon",
+			"names": {
+				"female": "npc/names/demon.txt",
+				"male": "npc/names/demon.txt"
+			},
+			"playable": false,
+			"recipes": [],
+			"statistics": {
+				"endurance": 4
+			},
+			"tags": [
+				"9",
+				"14"
+			]
+		},
+		{
+			"description": "None",
+			"id": "15",
+			"name": "Satyr",
+			"names": {
+				"female": "npc/names/satyr_female.txt",
+				"male": "npc/names/satyr_male.txt"
+			},
+			"playable": false,
+			"tags": [
+				"15"
+			]
+		},
+		{
+			"description": "None",
+			"id": "16",
+			"image": 27,
+			"name": "Centaur",
+			"names": {
+				"female": "npc/names/satyr_female.txt",
+				"male": "npc/names/satyr_male.txt"
+			},
+			"playable": false,
+			"tags": [
+				"16"
+			]
+		},
+		{
+			"ages": {
+				"adult": 10000,
+				"child": 0,
+				"elder": 10000
+			},
+			"base_entities": {
+				"adult": "core_2_Skeleton_Adult",
+				"child": "core_2_Skeleton_Adult",
+				"leader": "core_2_Necrotyrant",
+				"recruit": "core_2_Skeleton_Recruit"
+			},
+			"crimes": {
+				"assault": 100,
+				"robbery": 200,
+				"stealing": 200
+			},
+			"forbidden_actions": [
+				"5",
+				"9",
+				"15"
+			],
+			"settlement": {
+				"birth_cost": {
+					"amount": 1,
+					"resource": "core_2_Soul_Piece"
+				},
+				"single_family": true,
+				"center_id": "473",
+				"start_spawn_rate": 1.0,
+				"caravan_image": 304,
+				"migration": false,
+				"max": 1,
+				"aggression_default": true,
+				"aggression_per_race": {
+					"17": false
+				},
+				"disabled_trading": true,
+				"war_causes": [ "soul_harvest" ],
+				"collapse_on_leader_death": true,
+				"offensive_army_when_conquered": true
+			},
+			"state_crests": [
+				{	"id": "core_2_skeleton_1", "image": 130	},
+				{	"id": "core_2_skeleton_2", "image": 131	},
+				{	"id": "core_2_skeleton_3", "image": 132 },
+				{	"id": "core_2_skeleton_4", "image": 133	},
+				{	"id": "core_2_skeleton_5", "image": 134	}
+			],
+			"description": "Skeletons are a chilling race of undead warriors lead by a Necrotyrant. Adapted to the harsh, cold environment, their bones are as hard as the ice that surrounds them. Their society is militaristic, with a strict hierarchy focused on war and conquest. They raid neighboring lands not just for resources but to expand their icy empire.",
+			"id": "17",
+			"image": 15,
+			"name": "Skeleton",
+			"orphan_surname": "Forsaken",
+			"names": {
+				"female": "npc/names/skeleton.txt",
+				"male": "npc/names/skeleton.txt",
+				"settlements": "npc/settlements/skeleton_settlements.json",
+				"states": "npc/states/skeleton.json",
+				"surnames": "npc/surnames/skeleton.json"
+			},
+			"passives": [
+				"core_2_disable_consumption"
+			],
+			"playable": false,
+			"tags": [
+				"20",
+				"4"
+			]
+		},
+		{
+			"description": "None",
+			"id": "18",
+			"name": "Ghoul",
+			"names": {
+				"female": "npc/names/human_female.txt",
+				"male": "npc/names/human_male.txt"
+			},
+			"playable": false,
+			"tags": [
+				"21",
+				"4"
+			]
+		},
+		{
+			"description": "None",
+			"id": "19",
+			"name": "Dragon",
+			"playable": false,
+			"tags": [
+				"19"
+			]
+		},
+		{
+			"description": "None",
+			"id": "20",
+			"name": "Insectoid",
+			"playable": false,
+			"tags": [
+				"18"
+			]
+		},
+		{
+			"description": "None",
+			"id": "21",
+			"name": "Mutant",
+			"names": {
+				"female": "npc/names/human_female.txt",
+				"male": "npc/names/human_male.txt"
+			},
+			"playable": false,
+			"tags": [
+				"17"
+			]
+		},
+		{
+			"base_entities": {
+				"adult": "694",
+				"child": "2000",
+				"leader": "2203",
+				"recruit": "691"
+			},
+			"ages": {
+				"adult": 10000,
+				"child": 0,
+				"elder": 10000
+			},
+			"description": "None",
+			"id": "22",
+			"name": "Zombie",
+			"names": {
+				"female": "npc/names/human_female.txt",
+				"male": "npc/names/human_male.txt"
+			},
+			"playable": false,
+			"tags": [
+				"22",
+				"4"
+			]
+		},
+		{
+			"ages": {
+				"adult": 60,
+				"child": 8,
+				"elder": 80
+			},
+			"base_entities": {
+				"adult": "core_2_Reptilion_Adult",
+				"child": "core_2_Reptilion_Child",
+				"leader": "core_2_Reptilion_Leader",
+				"recruit": "core_2_Reptilion_Recruit",
+				"rebel": "core_2_Reptilion_Rebel"
+			},
+			"crimes": {
+				"assault": 100,
+				"robbery": 200,
+				"stealing": 200
+			},
+			"forbidden_actions": [
+				"5",
+				"15"
+			],
+			"description": "An ancient, savage, and intelligent race of cold-blooded, reptilian humanoids. Reptilions form tribes in the swamps. When not at war with each other they hunt their primary enemy, the fishmen, who they believe to be their natural prey.\n\nReptilions live around [color=244,247,118,255]::elder_age[/color] years.\n[color=244,247,118,255]Strength +2, Dexterity +2[/color]\n[color=244,247,118,255]Claw Fishing[/color] - Can catch fish with bare hands.",
+			"id": "23",
+			"items": [],
+			"name": "Reptilion",
+			"names": {
+				"female": "npc/names/reptilion_female.txt",
+				"male": "npc/names/reptilion_male.txt",
+				"settlements": "npc/settlements/reptilion_settlements.json",
+				"states": "npc/states/reptilion.json",
+				"surnames": "npc/surnames/reptilion.json"
+			},
+			"orphan_surname": "Scaless",
+			"playable": true,
+			"recipes": [],
+			"passives": [
+				"core_2_claw_fishing"
+			],
+			"settlement": {
+				"carve": false,
+				"center_id": "250",
+				"road": true,
+				"start_spawn_rate": 0.5,
+				"caravan_image": 275,
+				"battle_light_source": "424",
+				"war_causes": [ "conquest", "ride_for_wealth" ]
+			},
+			"state_crests": [
+				{	"id": "core_2_reptilion_1", "image": 50	},
+				{	"id": "core_2_reptilion_2", "image": 51	},
+				{	"id": "core_2_reptilion_3", "image": 52 },
+				{	"id": "core_2_reptilion_4", "image": 53	},
+				{	"id": "core_2_reptilion_5", "image": 54	},
+				{	"id": "core_2_reptilion_6", "image": 55	}
+			],
+			"statistics": {
+				"strength": 2,
+				"dexterity": 2
+			},
+			"tags": [
+				"24"
+			],
+			"courting": {
+				"female": [
+					"376",
+					"2436"
+				],
+				"male": [
+					"2045",
+					"776"
+				]
+			}
+		},
+		{
+			"description": "None",
+			"id": "24",
+			"name": "Gnome",
+			"names": {
+				"female": "npc/names/human_female.txt",
+				"male": "npc/names/human_male.txt"
+			},
+			"playable": false,
+			"tags": [
+				"29"
+			]
+		},
+		{
+			"description": "None",
+			"id": "25",
+			"name": "Kavian",
+			"playable": false,
+			"tags": [
+				"30"
+			]
+		},
+		{
+			"ages": {
+				"adult": 50,
+				"child": -1,
+				"elder": 60
+			},
+			"base_entities": {
+				"adult": "2413",
+				"child": "2413",
+				"leader": "2419",
+				"recruit": "2416",
+				"rebel": "core_2_Bone_Wraith_Rebel"
+			},
+			"description": "A mysterious and enigmatic race that lives in the harsh desert. They are known for their bonecraft, a unique form of construction that involves using bones to create structures and enhance their bodies.\n\nThe Bone Wraiths are nomadic, constantly searching for new bones of powerful beings to add to their collection. They are skilled hunters and trackers, able to navigate the desert easily.\n\nTheir society is structured around power, with the most potent and capable members being the most influential. They are known for being ruthless and cunning and are often feared by other beings.\n\nThe Bone Wraiths keep to themselves and reveal little about their culture or beliefs to outsiders.\n\nBone Wraiths live around [color=244,247,118,255]::elder_age[/color] years.\n[color=244,247,118,255]Strength +2, Intelligence +2[/color]",
+			"id": "26",
+			"image": 43,
+			"items": [],
+			"name": "Bone Wraith",
+			"names": {
+				"female": "npc/names/bone_wraith_female.txt",
+				"male": "npc/names/bone_wraith_male.txt",
+				"settlements": "npc/settlements/wraith_settlements.json",
+				"states": "npc/states/wraith.json",
+				"surnames": "npc/surnames/bone_wraith.json"
+			},
+			"crimes": {
+				"assault": 200,
+				"robbery": 200,
+				"stealing": 200
+			},
+			"forbidden_actions": [
+				"5",
+				"10",
+				"19"
+			],
+			"orphan_surname": "The Boneless",
+			"playable": true,
+			"recipes": [],
+			"settlement": {
+				"birth_cost": {
+					"amount": 100,
+					"max_population": 120,
+					"resource_type": 5
+				},
+				"center_id": "136",
+				"single_family": true,
+				"start_spawn_rate": 1.0,
+				"caravan_image": 271,
+				"battle_light_source": "424",
+				"war_causes": [ "ride_for_wealth" ]
+			},
+			"state_crests": [
+				{	"id": "core_2_bone_wraith_1", "image": 40	},
+				{	"id": "core_2_bone_wraith_2", "image": 41	},
+				{	"id": "core_2_bone_wraith_3", "image": 42 },
+				{	"id": "core_2_bone_wraith_4", "image": 43	},
+				{	"id": "core_2_bone_wraith_5", "image": 44	},
+				{	"id": "core_2_bone_wraith_6", "image": 45	}
+			],
+			"statistics": {
+				"strength": 2,
+				"intelligence": 2
+			},
+			"tags": [
+				"3",
+				"9",
+				"35"
+			],
+			"trade_restrictions": [
+				"55",
+				"2368",
+				"2367"
+			],
+			"courting": {
+				"female": [
+					"2936",
+					"2530"
+				],
+				"male": [
+					"2936",
+					"2526"
+				]
+			}
+		},
+		{
+			"description": "",
+			"id": "27",
+			"image": 46,
+			"items": [],
+			"name": "Golem",
+			"names": {
+				"female": "npc/names/golem.txt",
+				"male": "npc/names/golem.txt"
+			},
+			"playable": false,
+			"recipes": [],
+			"statistics": {
+				"strength": 2,
+				"willpower": 2
+			},
+			"tags": [
+				"3",
+				"32"
+			]
+		},
+		{
+			"description": "",
+			"id": "28",
+			"image": 47,
+			"items": [],
+			"name": "Abomination",
+			"names": {
+				"female": "npc/names/human_female.txt",
+				"male": "npc/names/human_male.txt"
+			},
+			"playable": false,
+			"recipes": [],
+			"statistics": {
+				"endurance": 2,
+				"strength": 2
+			},
+			"tags": [
+				"3",
+				"4"
+			]
+		},
+		{
+			"description": "None",
+			"id": "29",
+			"image": 47,
+			"items": [],
+			"name": "God",
+			"playable": false,
+			"recipes": [],
+			"statistics": {
+				"dexterity": 10,
+				"endurance": 10,
+				"intelligence": 10,
+				"strength": 10,
+				"willpower": 10
+			},
+			"tags": [
+				"31"
+			]
+		},
+		{
+			"description": "",
+			"id": "30",
+			"image": 48,
+			"items": [],
+			"name": "Djinn",
+			"names": {
+				"female": "npc/names/djinn.txt",
+				"male": "npc/names/djinn.txt"
+			},
+			"playable": false,
+			"recipes": [],
+			"statistics": {
+				"intelligence": 2,
+				"willpower": 2
+			},
+			"tags": [
+				"3",
+				"34"
+			]
+		},
+		{
+			"ages": {
+				"adult": 50,
+				"child": 3,
+				"elder": 70
+			},
+			"base_entities": {
+				"adult": "core_2_Gnoll_Adult",
+				"child": "core_2_Gnoll_Child",
+				"leader": "core_2_Gnoll_Pack_Leader",
+				"recruit": "core_2_Gnoll_Recruit",
+				"rebel": "core_2_Gnoll_Rebel"
+			},
+			"crimes": {
+				"assault": 5,
+				"murder": 20,
+				"robbery": 60,
+				"stealing": 60
+			},
+			"orphan_surname": "Packless",
+			"description": "Gnolls, a hyena-like humanoids, are known for being skilled hunters and fierce warriors. They have a bad reputation for eating intelligent races, but they don't do that anymore!\n\nThey only eat humans now.\n\nGnolls live around [color=244,247,118,255]::elder_age[/color] years.\n[color=244,247,118,255]Dexterity +2, Willpower +2[/color]\n[color=244,247,118,255]Infravision[/color] - full sight range in darkness, half in daylight.",
+			"forbidden_actions": [
+				"5"
+			],
+			"id": "31",
+			"image": 49,
+			"items": [],
+			"name": "Gnoll",
+			"names": {
+				"female": "npc/names/gnoll.txt",
+				"male": "npc/names/gnoll.txt",
+				"settlements": "npc/settlements/gnoll_settlements.json",
+				"states": "npc/states/gnoll.json",
+				"surnames": "npc/surnames/gnoll.json"
+			},
+			"playable": true,
+			"passives": [
+				"core_2_infravision"
+			],
+			"recipes": [],
+			"settlement": {
+				"carve": false,
+				"center_id": "326",
+				"road": true,
+				"start_spawn_rate": 0.5,
+				"caravan_image": 289,
+				"battle_light_source": "424",
+				"war_causes": [ "conquest", "ride_for_wealth" ]
+			},
+			"state_crests": [
+				{	"id": "core_2_gnoll_1", "image": 80	},
+				{	"id": "core_2_gnoll_2", "image": 81	},
+				{	"id": "core_2_gnoll_3", "image": 82 },
+				{	"id": "core_2_gnoll_4", "image": 83	},
+				{	"id": "core_2_gnoll_5", "image": 84	}
+			],
+			"statistics": {
+				"dexterity": 2,
+				"willpower": 2
+			},
+			"tags": [
+				"7",
+				"9"
+			],
+			"courting": {
+				"female": [
+					"2174",
+					"3026"
+				],
+				"male": [
+					"710",
+					"775"
+				]
+			}
+		},
+		{
+			"ages": {
+				"adult": 50,
+				"child": 7,
+				"elder": 80
+			},
+			"base_entities": {
+				"adult": "core_2_Mushman_Adult",
+				"child": "core_2_Mushman_Child",
+				"leader": "core_2_Mushman_Circle_King",
+				"recruit": "core_2_Mushman_Recruit",
+				"rebel": "core_2_Mushman_Rebel"
+			},
+			"orphan_surname": "Sporeling",
+			"description": "Mushmen keep order in the forest. They spread spores and create mushrooms everywhere. They are a rare race that lives underground, away from the sun. Large mycelium networks allow them to stay in touch with colonies in different forests.\n\nMushmen live around [color=244,247,118,255]::elder_age[/color] years.\n[color=244,247,118,255]Strength +2, Intelligence +2[/color]\n[color=244,247,118,255]Infravision[/color] - full sight range in darkness, half in daylight.",
+			"forbidden_actions": [
+				"6",
+				"10"
+			],
+			"crimes": {
+				"assault": 200,
+				"murder": 200,
+				"robbery": 200,
+				"stealing": 200
+			},
+			"id": "32",
+			"image": 26,
+			"items": [],
+			"name": "Mushman",
+			"names": {
+				"female": "npc/names/mushman.txt",
+				"male": "npc/names/mushman.txt",
+				"settlements": "npc/settlements/mushman_settlements.json",
+				"states": "npc/states/mushmen.json",
+				"surnames": "npc/surnames/mushman.json"
+			},
+			"settlement": {
+				"center_id": "267",
+				"start_spawn_rate": 0.33,
+				"carve": true,
+				"road": true,
+				"stairs_down": "2035",
+				"stairs_up": "2034",
+				"z_level_growth": -1,
+				"z_level_start": -1,
+				"caravan_image": 274,
+				"battle_light_source": "424",
+				"stairs": 2,
+				"max_radius": 40
+			},
+			"state_crests": [
+				{	"id": "core_2_mushman_1", "image": 60	},
+				{	"id": "core_2_mushman_2", "image": 61	},
+				{	"id": "core_2_mushman_3", "image": 62 },
+				{	"id": "core_2_mushman_4", "image": 63	},
+				{	"id": "core_2_mushman_5", "image": 64	}
+			],
+			"playable": true,
+			"recipes": [],
+			"passives": [
+				"core_2_infravision"
+			],
+			"statistics": {
+				"strength": 2,
+				"intelligence": 2
+			},
+			"tags": [
+				"9"
+			],
+			"courting": {
+				"female": [
+					"core_2_Flower_Necklace",
+					"core_2_Flower_Crown"
+				],
+				"male": [
+					"core_2_Watermelon",
+					"820"
+				]
+			}
+		},
+		{
+			"ages": {
+				"adult": 45,
+				"child": 12,
+				"elder": 70
+			},
+			"base_entities": {
+				"adult": "core_2_Ursan_Adult",
+				"child": "core_2_Ursan_Child",
+				"leader": "core_2_Ursan_Warchief",
+				"recruit": "core_2_Ursan_Recruit",
+				"rebel": "core_2_Ursan_Rebel"
+			},
+			"orphan_surname": "Of Chasm",
+			"description": "Ursans are an ancient race. They value physical strength and loyalty above all. They take great pride in being able to endure anything that a harsh envioroment can throw at them. Living in desolate tundras forced them to be resourceful.\n\nUrsans live around [color=244,247,118,255]::elder_age[/color] years.\n[color=244,247,118,255]Strength +1, Endurance +1, Willpower +2[/color]",
+			"forbidden_actions": [
+				"6",
+				"10"
+			],
+			"id": "33",
+			"image": 26,
+			"items": [],
+			"name": "Ursan",
+			"names": {
+				"female": "npc/names/ursan_female.txt",
+				"male": "npc/names/ursan_male.txt",
+				"settlements": "npc/settlements/ursan_settlements.json",
+				"states": "npc/states/ursan.json",
+				"surnames": "npc/surnames/ursan.json"
+			},
+			"settlement": {
+				"center_id": "295",
+				"start_spawn_rate": 0.4,
+				"carve": true,
+				"road": true,
+				"caravan_image": 273,
+				"battle_light_source": "424",
+				"war_causes": [ "conquest", "ride_for_wealth" ]
+			},
+			"state_crests": [
+				{	"id": "core_2_ursan_1", "image": 70	},
+				{	"id": "core_2_ursan_2", "image": 71	},
+				{	"id": "core_2_ursan_3", "image": 72 },
+				{	"id": "core_2_ursan_4", "image": 73	},
+				{	"id": "core_2_ursan_5", "image": 74	},
+				{	"id": "core_2_ursan_5", "image": 75	}
+			],
+			"playable": true,
+			"recipes": [],
+			"passives": [],
+			"statistics": {
+				"strength": 1,
+				"endurance": 1,
+				"willpower": 2
+			},
+			"tags": [
+				"9",
+				"36"
+			],
+			"courting": {
+				"female": [
+					"820",
+					"125"
+				],
+				"male": [
+					"2178",
+					"2170"
+				]
+			}
+		},
+		{
+			"description": "",
+			"id": "34",
+			"image": 47,
+			"items": [],
+			"name": "Magical Being",
+			"playable": false,
+			"recipes": [],
+			"statistics": {
+				"endurance": 2,
+				"strength": 2
+			},
+			"tags": [
+				"3"
+			]
+		}
+	],
+	"tags": [
+		{
+			"id": "0",
+			"name": "goblin",
+			"options": [
+				"sleep_in_bed",
+				"cover_from_weather"
+			]
+		},
+		{
+			"id": "1",
+			"name": "human",
+			"options": [
+				"sleep_in_bed",
+				"cover_from_weather"
+			]
+		},
+		{
+			"id": "2",
+			"name": "animal"
+		},
+		{
+			"id": "3",
+			"name": "magic"
+		},
+		{
+			"id": "4",
+			"name": "undead",
+			"options": [
+				"ritual_birth",
+				"damaging_healing",
+				"immune_to_fear",
+				"immune_to_transformation"
+			]
+		},
+		{
+			"id": "5",
+			"name": "player",
+			"options": [
+				"player_tag"
+			]
+		},
+		{
+			"id": "6",
+			"name": "dwarf",
+			"options": [
+				"sleep_in_bed",
+				"cover_from_weather"
+			]
+		},
+		{
+			"id": "7",
+			"name": "elf",
+			"options": [
+				"sleep_in_bed",
+				"cover_from_weather"
+			]
+		},
+		{
+			"id": "8",
+			"name": "owlman"
+		},
+		{
+			"id": "9",
+			"name": "alive"
+		},
+		{
+			"id": "10",
+			"name": "troglodyte",
+			"options": [
+				"cover_from_weather"
+			]
+		},
+		{
+			"id": "11",
+			"name": "troll",
+			"options": [
+				"cover_from_weather"
+			]
+		},
+		{
+			"id": "12",
+			"name": "orc",
+			"options": [
+				"sleep_in_bed"
+			]
+		},
+		{
+			"id": "13",
+			"name": "fishman"
+		},
+		{
+			"id": "14",
+			"name": "demon"
+		},
+		{
+			"id": "15",
+			"name": "satyr",
+			"options": [
+				"cover_from_weather"
+			]
+		},
+		{
+			"id": "16",
+			"name": "centaur",
+			"options": [
+				"cover_from_weather"
+			]
+		},
+		{
+			"id": "17",
+			"name": "mutant",
+			"options": [
+				"cover_from_weather"
+			]
+		},
+		{
+			"id": "18",
+			"name": "insectoid"
+		},
+		{
+			"id": "19",
+			"name": "dragon"
+		},
+		{
+			"id": "20",
+			"name": "skeleton",
+			"options": [
+				"damaging_healing",
+				"no_fatigue",
+				"is_corpse"
+			]
+		},
+		{
+			"id": "21",
+			"name": "ghoul",
+			"options": [
+				"damaging_healing"
+			]
+		},
+		{
+			"id": "22",
+			"name": "zombie",
+			"options": [
+				"damaging_healing",
+				"no_fatigue",
+				"is_corpse"
+			]
+		},
+		{
+			"id": "23",
+			"name": "vampire",
+			"options": [
+				"sleep_in_bed",
+				"damaging_healing",
+				"spread_vampirism"
+			]
+		},
+		{
+			"id": "24",
+			"name": "reptilion"
+		},
+		{
+			"id": "25",
+			"name": "halfling",
+			"options": [
+				"sleep_in_bed",
+				"cover_from_weather"
+			]
+		},
+		{
+			"id": "26",
+			"name": "greenskin"
+		},
+		{
+			"id": "27",
+			"name": "lich",
+			"options": [
+				"damaging_healing"
+			]
+		},
+		{
+			"id": "28",
+			"name": "rasimi",
+			"options": [
+				"sleep_in_bed",
+				"cover_from_weather"
+			]
+		},
+		{
+			"id": "29",
+			"name": "gnome",
+			"options": [
+				"sleep_in_bed",
+				"cover_from_weather"
+			]
+		},
+		{
+			"id": "30",
+			"name": "kavian",
+			"options": [
+				"cover_from_weather"
+			]
+		},
+		{
+			"id": "31",
+			"name": "god",
+			"options": [
+				"unique_entity",
+				"immune_to_transformation"
+			]
+		},
+		{
+			"id": "32",
+			"name": "mechanical",
+			"options": [
+				"no_fatigue",
+				"immune_to_transformation"
+			]
+		},
+		{
+			"id": "33",
+			"name": "angelic"
+		},
+		{
+			"id": "34",
+			"name": "djinn"
+		},
+		{
+			"id": "35",
+			"name": "bone wraith",
+			"options": [
+				"ritual_birth"
+			]
+		},
+		{
+			"id": "36",
+			"name": "ursan"
+		},
+		{
+			"id": "37",
+			"name": "gnoll"
+		},
+		{
+			"id": "38",
+			"name": "uncontrollable",
+			"options": [
+				"immune_to_control"
+			]
+		},
+		{
+			"id": "39",
+			"name": "dark dwarf"
+		}
+	],
+	"custom_eq_slots": [
+		{
+			"id": "core_2_golem_head",
+			"name": "Golem Head",
+			"item_types": [
+				26
+			],
+			"replace": "head_armor",
+			"icon": 22
+		},
+		{
+			"id": "core_2_golem_torso",
+			"name": "Golem Torso",
+			"item_types": [
+				27
+			],
+			"replace": "torso_armor",
+			"icon": 25
+		},
+		{
+			"id": "core_2_golem_legs",
+			"name": "Golem Legs",
+			"item_types": [
+				28
+			],
+			"replace": "legs_armor",
+			"icon": 24
+		},
+		{
+			"id": "core_2_golem_hand",
+			"name": "Golem Hand",
+			"item_types": [
+				29
+			],
+			"replace": "right_hand",
+			"icon": 23
+		},
+		{
+			"id": "core_2_soul",
+			"name": "Soul",
+			"item_types": [
+				31
+			],
+			"replace": "torso_armor",
+			"icon": 29
+		},
+		{
+			"id": "core_2_meat_head",
+			"name": "Meat Head",
+			"item_types": [
+				32
+			],
+			"replace": "head_armor",
+			"icon": 26
+		},
+		{
+			"id": "core_2_meat_hand",
+			"name": "Meat Hand",
+			"item_types": [
+				34
+			],
+			"replace": "right_hand",
+			"icon": 27
+		},
+		{
+			"id": "core_2_meat_legs",
+			"name": "Meat Legs",
+			"item_types": [
+				33
+			],
+			"replace": "legs_armor",
+			"icon": 28
+		}
+	],
+	"default_occupation_image" : 136,
+	"leader_occupation_image_per_race":
+	{
+		"0": 137,
+        "1": 137,
+        "2": 137,
+        "4": 139,
+		"6": 110,
+        "7": 139,
+        "8": 139,
+        "10": 139,
+        "23": 139,
+        "26": 137,
+        "31": 139,
+        "32": 137,
+        "33": 139
+  	}
+}
+

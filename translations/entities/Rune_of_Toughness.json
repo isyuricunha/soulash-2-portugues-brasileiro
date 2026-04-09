@@ -1,0 +1,80 @@
+{
+	"armor": {
+		"acid": 0,
+		"death": 0,
+		"electricity": 0,
+		"fire": 0,
+		"frost": 0,
+		"holy": 0,
+		"parry": 0,
+		"physical": 2,
+		"poison": 0,
+		"thorns": 0
+	},
+	"components": [
+		"armor",
+		"craftable",
+		"glyph",
+		"item",
+		"minimap_pixel",
+		"name",
+		"position_2d",
+		"resource",
+		"stackable",
+		"value",
+		"weight"
+	],
+	"craftable": {
+		"backgrounds": [],
+		"biomes": [],
+		"magic_slots": 0,
+		"resources": [
+			{
+				"amount": 1,
+				"id": "850"
+			},
+			{
+				"amount": 1,
+				"id": "147"
+			}
+		],
+		"time": 30,
+		"tools": [
+			1
+		]
+	},
+	"description": "Dwarven rune crafted to imbue its user with toughness.",
+	"glyph": {
+		"frames": [
+			{
+				"color": [
+					255,
+					255,
+					255
+				],
+				"delay": 0,
+				"index": 2374
+			}
+		],
+		"random_frame_start": false
+	},
+	"id": "core_2_Rune_of_Toughness",
+	"item": {
+		"image": 1041,
+		"type": 16
+	},
+	"minimap_pixel": [
+		100,
+		109,
+		155
+	],
+	"name": "Rune of Toughness",
+	"resource": {
+		"affix": "of the Toughness",
+		"magic_ingredient": 2,
+		"quality": 2,
+		"type": 7
+	},
+	"value": 1200,
+	"weight": 0.10000000149011612
+}

@@ -1,0 +1,18 @@
+{
+	"enables": [
+		"core_2_imbuing"
+	],
+	"id": "332",
+	"image": 149,
+	"max": 2,
+	"name": "Shaman",
+	"occupation_image": 93,
+	"occupation": "core_2_Goblin_Shaman",
+	"produces": [],
+	"race": "4",
+	"tier": 3,
+	"workers": [
+		1,
+		2
+	]
+}

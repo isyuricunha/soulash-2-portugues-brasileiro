@@ -1,0 +1,131 @@
+{
+	"artificial_intelligence": {
+		"allies": [],
+		"allow_production": [],
+		"behaviors": [],
+		"enemies": []
+	},
+	"components": [
+		"actor",
+		"artificial_intelligence",
+		"collidable",
+		"dialogues",
+		"experience_gainer",
+		"glyph",
+		"health",
+		"minimap_pixel",
+		"moveable",
+		"name",
+		"position_2d",
+		"producer",
+		"random_resource",
+		"sight",
+		"stamina",
+		"statistics",
+		"tags"
+	],
+	"corpse": "588",
+	"description": "A baby snail without its shell. Looks moist.",
+	"dialogues": [
+		"908"
+	],
+	"experience_gainer": {
+		"exp": 0,
+		"level": 10
+	},
+	"glyph": {
+		"frames": [
+			{
+				"color": [
+					255,
+					255,
+					255
+				],
+				"delay": 0,
+				"index": 159
+			}
+		],
+		"random_frame_start": false
+	},
+	"health": 10,
+	"id": "core_2_Baby_Huge_Slug",
+	"minimap_pixel": [
+		150,
+		80,
+		15
+	],
+	"moveable": {
+		"speed": 0.699999988079071
+	},
+	"name": "Baby Slug",
+	"producer": {
+		"products": {
+			"core_2_catch_animal": [
+				{
+					"amount": [
+						1,
+						1
+					],
+					"id": "core_2_Caught_Baby_Huge_Slug",
+					"percent_chance": 100
+				}
+			]
+		},
+		"time": 0
+	},
+	"random_resource": {
+		"delay_spawn": true,
+		"entity": [
+			"core_2_Huge_Slug"
+		],
+		"max_amount": 1,
+		"max_distance": 0,
+		"min_amount": 1,
+		"min_distance": 0,
+		"multiply_same": false,
+		"respawn_rate": 14400.0,
+		"spawn_at": [
+			"core_2_Baby_Huge_Slug"
+		],
+		"spawn_chance": 100.0,
+		"spawn_multiply": 0.0,
+		"spawn_rolls": 1
+	},
+	"sight": {
+		"ignore_infra_penalty": false,
+		"infravision": true,
+		"range": 5,
+		"threesixty": false
+	},
+	"stamina": {
+		"fatigue": 100,
+		"stamina": 100,
+		"stamina_regen": 0.0
+	},
+	"statistics": {
+		"dexterity": [
+			1,
+			4
+		],
+		"endurance": [
+			7,
+			11
+		],
+		"intelligence": [
+			1,
+			3
+		],
+		"strength": [
+			10,
+			15
+		],
+		"willpower": [
+			1,
+			3
+		]
+	},
+	"tags": [
+		"9",
+		"2"
+	]
+}

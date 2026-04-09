@@ -1,0 +1,16 @@
+{
+	"id": "core_2_battle_gauntlet",
+	"name": "Battle Gauntlet",
+	"requirements": {
+		"milestones": [],
+		"skill": 24
+	},
+	"rewards": [
+		{
+			"recipe": "core_2_Battle_Gauntlet"
+		}
+	],
+	"skill_id": "core_2_weaponsmith",
+	"steps": [],
+	"steps_type": 0
+}

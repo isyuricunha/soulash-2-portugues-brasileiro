@@ -1,0 +1,16 @@
+{
+	"id": "core_2_vial_rack",
+	"name": "Vial Rack",
+	"requirements": {
+		"milestones": [],
+		"skill": 24
+	},
+	"rewards": [
+		{
+			"recipe": "2874"
+		}
+	],
+	"skill_id": "core_2_construction",
+	"steps": [],
+	"steps_type": 0
+}

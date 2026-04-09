@@ -1,0 +1,16 @@
+{
+	"id": "core_2_ebony_log",
+	"name": "Ebony Log",
+	"requirements": {
+		"milestones": [],
+		"skill": 42
+	},
+	"rewards": [
+		{
+			"recipe": "core_2_Ebony_Log"
+		}
+	],
+	"skill_id": "core_2_alchemy",
+	"steps": [],
+	"steps_type": 0
+}

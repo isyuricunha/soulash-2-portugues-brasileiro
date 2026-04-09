@@ -1,0 +1,44 @@
+[
+    {
+        "id": "base",
+        "name": "Base",
+        "priority": 1,
+        "icon": 0,
+        "color": [255, 255, 255, 255]
+    },
+    {
+        "id": "food",
+        "name": "Food",
+        "priority": 2,
+        "icon": 1,
+        "color": [88, 245, 90, 255]
+    },
+    {
+        "id": "resources",
+        "name": "Resources",
+        "priority": 3,
+        "icon": 3,
+        "color": [242, 169, 77, 255]
+    },
+    {
+        "id": "producers",
+        "name": "Producers",
+        "priority": 4,
+        "icon": 2,
+        "color": [236, 235, 41, 255]
+    },
+    {
+        "id": "crafters",
+        "name": "Crafters",
+        "priority": 5,
+        "icon": 4,
+        "color": [41, 177, 236, 255]
+    },
+    {
+        "id": "military",
+        "name": "Military",
+        "priority": 6,
+        "icon": 5,
+        "color": [189, 13, 13, 255]
+    }
+]

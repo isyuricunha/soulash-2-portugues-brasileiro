@@ -1,0 +1,105 @@
+{
+	"armor": {
+		"acid": 0,
+		"death": 8,
+		"electricity": 0,
+		"fire": 8,
+		"frost": 0,
+		"holy": 0,
+		"parry": 0,
+		"physical": 0,
+		"poison": 0,
+		"thorns": 0
+	},
+	"components": [
+		"armor",
+		"craftable",
+		"glyph",
+		"item",
+		"minimap_pixel",
+		"name",
+		"position_2d",
+		"statistics",
+		"value",
+		"weight"
+	],
+	"craftable": {
+		"backgrounds": [],
+		"biomes": [],
+		"magic_slots": 5,
+		"resource_types": [
+			{
+				"amount": 2,
+				"id": 1
+			},
+			{
+				"amount": 1,
+				"id": 8
+			}
+		],
+		"resources": [
+			{
+				"amount": 1,
+				"id": "2475"
+			},
+			{
+				"amount": 1,
+				"id": "core_2_Swordfishs_Bone"
+			}
+		],
+		"time": 60,
+		"tools": [
+			14
+		]
+	},
+	"description": "Metal crown adorned with carved shards of bones.",
+	"glyph": {
+		"frames": [
+			{
+				"color": [
+					255,
+					255,
+					255
+				],
+				"delay": 0,
+				"index": 2493
+			}
+		],
+		"random_frame_start": false
+	},
+	"id": "core_2_Bone_Crown",
+	"item": {
+		"image": 1103,
+		"type": 1
+	},
+	"minimap_pixel": [
+		139,
+		223,
+		194
+	],
+	"name": "Bone Crown",
+	"statistics": {
+		"dexterity": [
+			0,
+			0
+		],
+		"endurance": [
+			0,
+			0
+		],
+		"intelligence": [
+			0,
+			0
+		],
+		"strength": [
+			2,
+			2
+		],
+		"willpower": [
+			0,
+			0
+		]
+	},
+	"value": 40000,
+	"weight": 0.10000000149011612
+}

@@ -1,0 +1,40 @@
+{
+	"components": [
+		"glyph",
+		"item",
+		"minimap_pixel",
+		"name",
+		"position_2d",
+		"stackable",
+		"value",
+		"weight"
+	],
+	"description": "A bunch of aromatic leaves.",
+	"glyph": {
+		"frames": [
+			{
+				"color": [
+					255,
+					255,
+					255
+				],
+				"delay": 0,
+				"index": 2916
+			}
+		],
+		"random_frame_start": false
+	},
+	"id": "core_2_Mugwort",
+	"item": {
+		"image": 1299,
+		"type": 16
+	},
+	"minimap_pixel": [
+		73,
+		156,
+		73
+	],
+	"name": "Mugwort",
+	"value": 100,
+	"weight": 0.10000000149011612
+}

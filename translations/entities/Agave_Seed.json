@@ -1,0 +1,40 @@
+{
+	"components": [
+		"glyph",
+		"item",
+		"minimap_pixel",
+		"name",
+		"position_2d",
+		"stackable",
+		"value",
+		"weight"
+	],
+	"description": "With enough care this seed will grow into a agave plant one day.",
+	"glyph": {
+		"frames": [
+			{
+				"color": [
+					255,
+					255,
+					255
+				],
+				"delay": 0,
+				"index": 2585
+			}
+		],
+		"random_frame_start": false
+	},
+	"id": "core_2_Agave_Seed",
+	"item": {
+		"image": 1145,
+		"type": 24
+	},
+	"minimap_pixel": [
+		237,
+		145,
+		33
+	],
+	"name": "Agave Seed",
+	"value": 100,
+	"weight": 0.10000000149011612
+}

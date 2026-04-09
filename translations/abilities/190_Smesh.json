@@ -1,0 +1,30 @@
+{
+	"animation": "240",
+	"cast_time": 1.0,
+	"cooldown": 20.0,
+	"cost": {
+		"health": 0,
+		"stamina": 15
+	},
+	"description": "Perform a powerful attack that pins the enemy to the ground, dealing ::damage ::damage_type damage and causing immobilize effect for ::duration turns.",
+	"duration": 5.0,
+	"effects": {
+		"damage": [
+			25,
+			30
+		],
+		"damage_type": "physical",
+		"damage_weapon": 1.0,
+		"immobilize": 1
+	},
+	"id": "190",
+	"image": 213,
+	"name": "Smesh",
+	"range": 1,
+	"skill": "core_2_mace_fighting",
+	"slots": {
+		"offensive": 2,
+		"utility": 2
+	},
+	"target": "health"
+}

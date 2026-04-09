@@ -1,0 +1,42 @@
+{
+	"components": [
+		"glyph",
+		"item",
+		"minimap_pixel",
+		"name",
+		"position_2d",
+		"usable",
+		"weight"
+	],
+	"description": "A head of a dead ursan. Might still hold to some memories.",
+	"glyph": {
+		"frames": [
+			{
+				"color": [
+					255,
+					255,
+					255
+				],
+				"delay": 0,
+				"index": 2852
+			}
+		],
+		"random_frame_start": false
+	},
+	"id": "core_2_Ursan_Head",
+	"item": {
+		"image": 1295,
+		"type": 32
+	},
+	"minimap_pixel": [
+		156,
+		160,
+		161
+	],
+	"name": "Ursan Head",
+	"usable": {
+		"ability": "core_2_Cold_Breath",
+		"recipe": ""
+	},
+	"weight": 2.5
+}

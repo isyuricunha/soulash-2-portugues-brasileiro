@@ -1,0 +1,83 @@
+{
+	"armor": {
+		"acid": 0,
+		"death": 0,
+		"electricity": 0,
+		"fire": 0,
+		"frost": 0,
+		"holy": 0,
+		"parry": 0,
+		"physical": 0,
+		"poison": 0,
+		"thorns": 1
+	},
+	"components": [
+		"armor",
+		"glyph",
+		"item",
+		"minimap_pixel",
+		"name",
+		"position_2d",
+		"resource",
+		"stackable",
+		"statistics",
+		"value",
+		"weight"
+	],
+	"description": "Tough, durable fibers harvested from cacti, used for crafting sturdy pieces of clothing.",
+	"glyph": {
+		"frames": [
+			{
+				"color": [
+					255,
+					255,
+					255
+				],
+				"delay": 0,
+				"index": 136
+			}
+		],
+		"random_frame_start": false
+	},
+	"id": "2349",
+	"item": {
+		"image": 621,
+		"type": 16
+	},
+	"minimap_pixel": [
+		200,
+		200,
+		200
+	],
+	"name": "Cactus Fibers",
+	"resource": {
+		"affix": "Stinging",
+		"magic_ingredient": 0,
+		"quality": 1,
+		"type": 4
+	},
+	"statistics": {
+		"dexterity": [
+			0,
+			0
+		],
+		"endurance": [
+			1,
+			1
+		],
+		"intelligence": [
+			0,
+			0
+		],
+		"strength": [
+			0,
+			0
+		],
+		"willpower": [
+			0,
+			0
+		]
+	},
+	"value": 1000,
+	"weight": 0.10000000149011612
+}

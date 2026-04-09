@@ -1,0 +1,119 @@
+{
+	"armor": {
+		"acid": 1,
+		"death": 2,
+		"electricity": -5,
+		"fire": -1,
+		"frost": 0,
+		"holy": -2,
+		"parry": 0,
+		"physical": 1,
+		"poison": 0,
+		"thorns": 0
+	},
+	"artificial_intelligence": {
+		"allies": [],
+		"allow_production": [],
+		"behaviors": [
+			16
+		],
+		"enemies": []
+	},
+	"components": [
+		"actor",
+		"armor",
+		"artificial_intelligence",
+		"collidable",
+		"dialogues",
+		"experience_gainer",
+		"fighter",
+		"glyph",
+		"health",
+		"minimap_pixel",
+		"moveable",
+		"name",
+		"position_2d",
+		"sight",
+		"stamina",
+		"statistics",
+		"tags"
+	],
+	"corpse": "703",
+	"description": "Bats are a flying rats from the darkest pits. Some may think they're cute.",
+	"dialogues": [
+		"28",
+		"899"
+	],
+	"experience_gainer": {
+		"exp": 0,
+		"level": 10
+	},
+	"fighter": {
+		"attackNames": [
+			"Bite",
+			"Wings flap"
+		]
+	},
+	"glyph": {
+		"frames": [
+			{
+				"color": [
+					255,
+					255,
+					255
+				],
+				"delay": 0,
+				"index": 38
+			}
+		],
+		"random_frame_start": false
+	},
+	"health": 20,
+	"id": "core_2_Bat",
+	"minimap_pixel": [
+		158,
+		97,
+		43
+	],
+	"moveable": {
+		"speed": 0.800000011920929
+	},
+	"name": "Tamed Bat",
+	"sight": {
+		"ignore_infra_penalty": false,
+		"infravision": true,
+		"range": 8,
+		"threesixty": false
+	},
+	"stamina": {
+		"fatigue": 100,
+		"stamina": 100,
+		"stamina_regen": 0.0
+	},
+	"statistics": {
+		"dexterity": [
+			8,
+			10
+		],
+		"endurance": [
+			5,
+			8
+		],
+		"intelligence": [
+			4,
+			6
+		],
+		"strength": [
+			8,
+			10
+		],
+		"willpower": [
+			3,
+			6
+		]
+	},
+	"tags": [
+		"2",
+		"9"
+	]
+}

@@ -1,0 +1,137 @@
+{
+	"armor": {
+		"acid": 1000,
+		"death": 1000,
+		"electricity": 1000,
+		"fire": 1000,
+		"frost": 0,
+		"holy": 1000,
+		"parry": 0,
+		"physical": 1000,
+		"poison": 1000,
+		"thorns": 0
+	},
+	"background": {
+		"color": [
+			44,
+			45,
+			41
+		],
+		"movement_penalty": 0.8999999761581421,
+		"noise": 5,
+		"noise_intensity": 7
+	},
+	"components": [
+		"armor",
+		"background",
+		"glyph",
+		"health",
+		"liquid_source",
+		"minimap_pixel",
+		"name",
+		"on_enter",
+		"position_2d",
+		"producer",
+		"water"
+	],
+	"corpse": "core_2_Shore_line",
+	"description": "This is the place where sea meets the land.",
+	"glyph": {
+		"frames": [
+			{
+				"color": [
+					255,
+					255,
+					255
+				],
+				"delay": 300,
+				"index": 2235
+			},
+			{
+				"color": [
+					255,
+					255,
+					255
+				],
+				"delay": 200,
+				"index": 2236
+			},
+			{
+				"color": [
+					255,
+					255,
+					255
+				],
+				"delay": 200,
+				"index": 2237
+			},
+			{
+				"color": [
+					255,
+					255,
+					255
+				],
+				"delay": 200,
+				"index": 2238
+			},
+			{
+				"color": [
+					255,
+					255,
+					255
+				],
+				"delay": 200,
+				"index": 2239
+			}
+		],
+		"random_frame_start": false
+	},
+	"health": 1,
+	"id": "core_2_ews",
+	"liquid_source": {
+		"limit": -1,
+		"type": 1
+	},
+	"minimap_pixel": [
+		30,
+		90,
+		128
+	],
+	"name": "Shore Line Up",
+	"on_enter": {
+		"ability": [
+			"88",
+			"89"
+		],
+		"only_player_triggers": false,
+		"teleport": null,
+		"trigger_chance": 1.0
+	},
+	"producer": {
+		"delay_on_use": 1440,
+		"products": {
+			"4": [
+				{
+					"amount": [
+						1,
+						1
+					],
+					"id": "126",
+					"percent_chance": 15
+				},
+				{
+					"amount": [
+						1,
+						1
+					],
+					"id": "125",
+					"percent_chance": 5
+				}
+			]
+		},
+		"time": 20
+	},
+	"water": {
+		"swimming": true
+	}
+}

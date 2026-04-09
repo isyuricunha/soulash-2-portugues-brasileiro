@@ -1,0 +1,106 @@
+{
+	"artificial_intelligence": {
+		"allies": [
+			"2"
+		],
+		"allow_production": [],
+		"behaviors": [],
+		"enemies": [
+			"5"
+		]
+	},
+	"components": [
+		"actor",
+		"artificial_intelligence",
+		"collidable",
+		"equipment",
+		"experience_gainer",
+		"fighter",
+		"glyph",
+		"health",
+		"humanoid",
+		"minimap_pixel",
+		"moveable",
+		"name",
+		"position_2d",
+		"sight",
+		"stamina",
+		"statistics",
+		"tags"
+	],
+	"corpse": "2638",
+	"description": "Darrmon are small, very brave humanoid creatures. They have something like a scorpion's tail on their head, which can cause poisonous damage.",
+	"experience_gainer": {
+		"exp": 20,
+		"level": 5
+	},
+	"fighter": {
+		"attackNames": [
+			"Sting"
+		]
+	},
+	"glyph": {
+		"frames": [
+			{
+				"color": [
+					255,
+					255,
+					255
+				],
+				"delay": 0,
+				"index": 462
+			}
+		],
+		"random_frame_start": false
+	},
+	"health": 290,
+	"humanoid": {
+		"race": ""
+	},
+	"id": "2623",
+	"minimap_pixel": [
+		109,
+		199,
+		29
+	],
+	"moveable": {
+		"speed": 1.0
+	},
+	"name": "Darrmon",
+	"sight": {
+		"ignore_infra_penalty": false,
+		"infravision": false,
+		"range": 10,
+		"threesixty": false
+	},
+	"stamina": {
+		"fatigue": 100,
+		"stamina": 100,
+		"stamina_regen": 0.0
+	},
+	"statistics": {
+		"dexterity": [
+			24,
+			29
+		],
+		"endurance": [
+			12,
+			16
+		],
+		"intelligence": [
+			18,
+			24
+		],
+		"strength": [
+			15,
+			17
+		],
+		"willpower": [
+			16,
+			20
+		]
+	},
+	"tags": [
+		"9"
+	]
+}

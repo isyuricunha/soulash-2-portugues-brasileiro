@@ -1,0 +1,68 @@
+{
+	"components": [
+		"glyph",
+		"item",
+		"liquid_source",
+		"minimap_pixel",
+		"name",
+		"position_2d",
+		"producer",
+		"value",
+		"weight"
+	],
+	"description": "Stone-dead poultry, ready to be butchered.",
+	"glyph": {
+		"frames": [
+			{
+				"color": [
+					255,
+					255,
+					255
+				],
+				"delay": 0,
+				"index": 118
+			}
+		],
+		"random_frame_start": false
+	},
+	"id": "827",
+	"item": {
+		"image": 366,
+		"type": 18
+	},
+	"liquid_source": {
+		"limit": 15,
+		"type": 4
+	},
+	"minimap_pixel": [
+		184,
+		182,
+		61
+	],
+	"name": "Chicken Corpse",
+	"producer": {
+		"products": {
+			"3": [
+				{
+					"amount": [
+						1,
+						2
+					],
+					"id": "318",
+					"percent_chance": 100
+				},
+				{
+					"amount": [
+						2,
+						4
+					],
+					"id": "828",
+					"percent_chance": 100
+				}
+			]
+		},
+		"time": 0
+	},
+	"value": 0,
+	"weight": 4.0
+}

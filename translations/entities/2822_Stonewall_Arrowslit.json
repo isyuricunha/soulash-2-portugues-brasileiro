@@ -1,0 +1,90 @@
+{
+	"armor": {
+		"acid": -2,
+		"death": 0,
+		"electricity": 1,
+		"fire": -5,
+		"frost": 2,
+		"holy": 0,
+		"parry": 0,
+		"physical": 1,
+		"poison": 0,
+		"thorns": 0
+	},
+	"background": {
+		"color": [
+			44,
+			45,
+			41
+		],
+		"noise": 2
+	},
+	"category_id": 2,
+	"components": [
+		"armor",
+		"background",
+		"collidable",
+		"craftable",
+		"glyph",
+		"health",
+		"height",
+		"minimap_pixel",
+		"name",
+		"position_2d",
+		"producer"
+	],
+	"corpse": [],
+	"craftable": {
+		"magic_slots": 0,
+		"resource_types": [
+			{
+				"amount": 4,
+				"id": 6
+			}
+		],
+		"resources": null,
+		"time": 50,
+		"tools": [
+			6
+		]
+	},
+	"description": "A slit in a stone wall giving just enough space to shoot arrows from it. ",
+	"glyph": {
+		"frames": [
+			{
+				"color": [
+					255,
+					255,
+					255
+				],
+				"delay": 0,
+				"index": 1875
+			}
+		],
+		"random_frame_start": false
+	},
+	"health": 60,
+	"height": 10,
+	"id": "2822",
+	"minimap_pixel": [
+		70,
+		43,
+		10
+	],
+	"name": "Stonewall Arrowslit",
+	"producer": {
+		"products": {
+			"core_2_deconstruct": [
+				{
+					"amount": [
+						0,
+						0
+					],
+					"id": "-1",
+					"percent_chance": 0
+				}
+			]
+		},
+		"time": 40
+	}
+}

@@ -1,0 +1,16 @@
+{
+	"id": "core_2_bloody_tiara",
+	"name": "Bloody Tiara",
+	"requirements": {
+		"milestones": [],
+		"skill": 40
+	},
+	"rewards": [
+		{
+			"recipe": "core_2_Bloody_Tiara"
+		}
+	],
+	"skill_id": "core_2_imbuing",
+	"steps": [],
+	"steps_type": 0
+}

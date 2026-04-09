@@ -1,0 +1,16 @@
+{
+	"id": "core_2_carrot_seedling",
+	"name": "Carrot Seedling",
+	"requirements": {
+		"milestones": [],
+		"skill": 8
+	},
+	"rewards": [
+		{
+			"recipe": "3079"
+		}
+	],
+	"skill_id": "core_2_agriculture",
+	"steps": [],
+	"steps_type": 0
+}

@@ -1,0 +1,75 @@
+{
+	"armor": {
+		"acid": 50,
+		"death": 50,
+		"electricity": 50,
+		"fire": 100,
+		"frost": 30,
+		"holy": 50,
+		"parry": 0,
+		"physical": 100,
+		"poison": 100,
+		"thorns": 0
+	},
+	"background": {
+		"color": [
+			44,
+			45,
+			41
+		],
+		"noise": 5
+	},
+	"components": [
+		"armor",
+		"background",
+		"block_light",
+		"collidable",
+		"glyph",
+		"health",
+		"height",
+		"minimap_pixel",
+		"name",
+		"position_2d",
+		"producer"
+	],
+	"corpse": "core_2_Chromium_Ore",
+	"description": "A vein of chromium in frozen stone.",
+	"glyph": {
+		"frames": [
+			{
+				"color": [
+					255,
+					255,
+					255
+				],
+				"delay": 0,
+				"index": 2659
+			}
+		],
+		"random_frame_start": false
+	},
+	"health": 200,
+	"height": 15,
+	"id": "core_2_Chromium_Vein",
+	"minimap_pixel": [
+		218,
+		165,
+		32
+	],
+	"name": "Chromium Vein",
+	"producer": {
+		"products": {
+			"5": [
+				{
+					"amount": [
+						1,
+						3
+					],
+					"id": "core_2_Chromium_Ore",
+					"percent_chance": 100
+				}
+			]
+		},
+		"time": 30
+	}
+}

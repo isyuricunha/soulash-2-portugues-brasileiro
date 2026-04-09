@@ -1,0 +1,56 @@
+{
+	"background": {
+		"color": [
+			44,
+			45,
+			41
+		],
+		"noise": 4,
+		"noise_intensity": 4
+	},
+	"category_id": 1,
+	"components": [
+		"background",
+		"craftable",
+		"glyph",
+		"minimap_pixel",
+		"name"
+	],
+	"craftable": {
+		"backgrounds": [],
+		"biomes": [],
+		"magic_slots": 0,
+		"resources": [
+			{
+				"amount": 1,
+				"id": "core_2_Limestone_Block"
+			}
+		],
+		"time": 0,
+		"tools": [
+			6
+		]
+	},
+	"description": "Floor made of limestone plates.",
+	"glyph": {
+		"frames": [
+			{
+				"color": [
+					255,
+					255,
+					255
+				],
+				"delay": 0,
+				"index": 2441
+			}
+		],
+		"random_frame_start": false
+	},
+	"id": "core_2_Limestone_Floor",
+	"minimap_pixel": [
+		118,
+		114,
+		127
+	],
+	"name": "Limestone Floor"
+}

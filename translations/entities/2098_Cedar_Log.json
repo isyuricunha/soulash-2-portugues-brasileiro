@@ -1,0 +1,89 @@
+{
+	"components": [
+		"glyph",
+		"item",
+		"minimap_pixel",
+		"name",
+		"position_2d",
+		"producer",
+		"resource",
+		"stackable",
+		"value",
+		"weight"
+	],
+	"description": "A log is a tree trunk with chopped branches. It can be handy for building things. You might be able to cut it further down to make some wood chunks from it.",
+	"glyph": {
+		"frames": [
+			{
+				"color": [
+					255,
+					255,
+					255
+				],
+				"delay": 0,
+				"index": 171
+			}
+		],
+		"random_frame_start": false
+	},
+	"id": "2098",
+	"item": {
+		"image": 9,
+		"type": 16
+	},
+	"minimap_pixel": [
+		171,
+		102,
+		57
+	],
+	"name": "Cedar Log",
+	"producer": {
+		"products": {
+			"1": [
+				{
+					"amount": [
+						3,
+						4
+					],
+					"id": "2100",
+					"percent_chance": 100
+				},
+				{
+					"amount": [
+						3,
+						6
+					],
+					"id": "2008",
+					"percent_chance": 100
+				}
+			],
+			"core_2_woodbend": [
+				{
+					"amount": [
+						4,
+						5
+					],
+					"id": "2100",
+					"percent_chance": 100
+				},
+				{
+					"amount": [
+						4,
+						5
+					],
+					"id": "2008",
+					"percent_chance": 100
+				}
+			]
+		},
+		"time": 60
+	},
+	"resource": {
+		"affix": "",
+		"magic_ingredient": 0,
+		"quality": 0,
+		"type": 11
+	},
+	"value": 1000,
+	"weight": 65.0
+}

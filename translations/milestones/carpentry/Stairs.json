@@ -1,0 +1,19 @@
+{
+	"id": "core_2_wooden_stairs",
+	"name": "Wooden Stairs",
+	"requirements": {
+		"milestones": [],
+		"skill": 18
+	},
+	"rewards": [
+		{
+			"recipe": "13"
+		},
+		{
+			"recipe": "14"
+		}
+	],
+	"skill_id": "core_2_carpentry",
+	"steps": [],
+	"steps_type": 0
+}

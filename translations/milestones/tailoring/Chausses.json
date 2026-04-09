@@ -1,0 +1,16 @@
+{
+	"id": "core_2_chausses",
+	"name": "Chausses",
+	"requirements": {
+		"milestones": [],
+		"skill": 40
+	},
+	"rewards": [
+		{
+			"recipe": "2363"
+		}
+	],
+	"skill_id": "core_2_tailoring",
+	"steps": [],
+	"steps_type": 0
+}

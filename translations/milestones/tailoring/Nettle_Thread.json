@@ -1,0 +1,16 @@
+{
+	"id": "core_2_nettle_thread",
+	"name": "Nettle Thread",
+	"requirements": {
+		"milestones": [],
+		"skill": 9
+	},
+	"rewards": [
+		{
+			"recipe": "2258"
+		}
+	],
+	"skill_id": "core_2_tailoring",
+	"steps": [],
+	"steps_type": 0
+}

@@ -1,0 +1,79 @@
+{
+	"components": [
+		"collidable",
+		"glyph",
+		"health",
+		"minimap_pixel",
+		"name",
+		"position_2d"
+	],
+	"corpse": [],
+	"description": "Come one, come all to The Great Circus! Wild animals, acrobats, magicians, and many more!",
+	"glyph": {
+		"frames": [
+			{
+				"color": [
+					255,
+					255,
+					255
+				],
+				"delay": 0,
+				"index": 293
+			},
+			{
+				"color": [
+					255,
+					255,
+					255
+				],
+				"delay": 0,
+				"index": 292
+			},
+			{
+				"color": [
+					255,
+					255,
+					255
+				],
+				"delay": 0,
+				"index": 291
+			},
+			{
+				"color": [
+					255,
+					255,
+					255
+				],
+				"delay": 0,
+				"index": 290
+			},
+			{
+				"color": [
+					255,
+					255,
+					255
+				],
+				"delay": 0,
+				"index": 289
+			},
+			{
+				"color": [
+					255,
+					255,
+					255
+				],
+				"delay": 0,
+				"index": 288
+			}
+		],
+		"random_frame_start": true
+	},
+	"health": 50,
+	"id": "2588",
+	"minimap_pixel": [
+		169,
+		108,
+		14
+	],
+	"name": "Sign I"
+}

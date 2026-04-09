@@ -1,0 +1,16 @@
+{
+	"id": "core_2_camping",
+	"name": "Camping",
+	"requirements": {
+		"milestones": [],
+		"skill": 1
+	},
+	"rewards": [
+		{
+			"recipe": "424"
+		}
+	],
+	"skill_id": "core_2_adventuring",
+	"steps": [],
+	"steps_type": 0
+}

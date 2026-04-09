@@ -1,0 +1,16 @@
+{
+	"id": "core_2_apron",
+	"name": "Apron",
+	"requirements": {
+		"milestones": [],
+		"skill": 12
+	},
+	"rewards": [
+		{
+			"recipe": "709"
+		}
+	],
+	"skill_id": "core_2_tailoring",
+	"steps": [],
+	"steps_type": 0
+}

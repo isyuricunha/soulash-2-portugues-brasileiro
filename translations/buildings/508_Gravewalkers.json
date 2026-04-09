@@ -1,0 +1,16 @@
+{
+	"id": "508",
+	"image": 377,
+	"max": 1,
+	"name": "Gravewalkers Barracks",
+	"occupation_image": 132,
+	"occupation": "core_2_Vampire_Gravewalker",
+	"produces": [],
+	"race": "6",
+	"tier": 1,
+	"type": "military",
+	"workers": [
+		1,
+		20
+	]
+}

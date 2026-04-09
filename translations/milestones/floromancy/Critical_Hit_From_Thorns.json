@@ -1,0 +1,16 @@
+{
+	"id": "core_2_critical_thorns",
+	"name": "Critical Hit From Thorns",
+	"requirements": {
+		"milestones": [],
+		"skill": 34
+	},
+	"rewards": [
+		{
+			"passive": "core_2_critical_thorns"
+		}
+	],
+	"skill_id": "core_2_floromancy",
+	"steps": [],
+	"steps_type": 0
+}

@@ -1,0 +1,68 @@
+{
+	"category_id": 7,
+	"components": [
+		"craftable",
+		"damage_applier",
+		"glyph",
+		"minimap_pixel",
+		"name",
+		"on_enter",
+		"position_2d"
+	],
+	"craftable": {
+		"magic_slots": 0,
+		"resource_types": [
+			{
+				"amount": 2,
+				"id": 1
+			}
+		],
+		"resources": [
+			{
+				"amount": 1,
+				"id": "845"
+			}
+		],
+		"time": 30,
+		"tools": []
+	},
+	"damage_applier": {
+		"break_on_entry": true,
+		"dmg_animation": "37",
+		"dmg_max": 45,
+		"dmg_min": 40,
+		"dmg_type": "fire",
+		"duration": 0.0,
+		"tick": 0.0
+	},
+	"description": "Intricate mechanism that explodes once triggered.",
+	"glyph": {
+		"frames": [
+			{
+				"color": [
+					255,
+					255,
+					255
+				],
+				"delay": 0,
+				"index": 1970
+			}
+		],
+		"random_frame_start": false
+	},
+	"id": "2957",
+	"minimap_pixel": [
+		51,
+		153,
+		241
+	],
+	"name": "Exploding Trap",
+	"on_enter": {
+		"ability": [
+			"24"
+		],
+		"only_player_triggers": false,
+		"teleport": null,
+		"trigger_chance": 1.0
+	}
+}

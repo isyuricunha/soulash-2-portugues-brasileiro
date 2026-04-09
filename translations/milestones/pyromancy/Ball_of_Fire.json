@@ -1,0 +1,16 @@
+{
+	"id": "core_2_ball_of_fire",
+	"name": "Ball of Fire",
+	"requirements": {
+		"milestones": [],
+		"skill": 15
+	},
+	"rewards": [
+		{
+			"ability": "15"
+		}
+	],
+	"skill_id": "core_2_pyromancy",
+	"steps": [],
+	"steps_type": 0
+}

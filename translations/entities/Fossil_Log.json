@@ -1,0 +1,63 @@
+{
+	"components": [
+		"glyph",
+		"item",
+		"minimap_pixel",
+		"name",
+		"position_2d",
+		"producer",
+		"resource",
+		"stackable",
+		"value",
+		"weight"
+	],
+	"description": "A log is a tree trunk with chopped branches. It can be handy for building things. You might be able to cut it further down to make some wood chunks from it.",
+	"glyph": {
+		"frames": [
+			{
+				"color": [
+					255,
+					255,
+					255
+				],
+				"delay": 0,
+				"index": 2641
+			}
+		],
+		"random_frame_start": false
+	},
+	"id": "core_2_Fossil_Log",
+	"item": {
+		"image": 1172,
+		"type": 16
+	},
+	"minimap_pixel": [
+		171,
+		102,
+		57
+	],
+	"name": "Fossil Log",
+	"producer": {
+		"products": {
+			"5": [
+				{
+					"amount": [
+						4,
+						5
+					],
+					"id": "core_2_Fossil_Wood",
+					"percent_chance": 100
+				}
+			]
+		},
+		"time": 60
+	},
+	"resource": {
+		"affix": "",
+		"magic_ingredient": 0,
+		"quality": 4,
+		"type": 11
+	},
+	"value": 9000,
+	"weight": 50.0
+}

@@ -1,0 +1,67 @@
+{
+	"components": [
+		"craftable",
+		"glyph",
+		"item",
+		"minimap_pixel",
+		"name",
+		"position_2d",
+		"resource",
+		"stackable",
+		"value",
+		"weight"
+	],
+	"craftable": {
+		"backgrounds": [],
+		"biomes": [],
+		"magic_slots": 0,
+		"resource_types": [
+			{
+				"amount": 1,
+				"id": 5
+			},
+			{
+				"amount": 1,
+				"id": 4
+			}
+		],
+		"time": 50,
+		"tools": [
+			15
+		]
+	},
+	"description": "This charm is constantly whispering something in a language you don't know.",
+	"glyph": {
+		"frames": [
+			{
+				"color": [
+					255,
+					255,
+					255
+				],
+				"delay": 0,
+				"index": 3101
+			}
+		],
+		"random_frame_start": false
+	},
+	"id": "core_2_Whispering_Charm",
+	"item": {
+		"image": 1433,
+		"type": 16
+	},
+	"minimap_pixel": [
+		100,
+		109,
+		155
+	],
+	"name": "Whispering Charm",
+	"resource": {
+		"affix": "of the Whispers",
+		"magic_ingredient": 2,
+		"quality": 2,
+		"type": 7
+	},
+	"value": 2000,
+	"weight": 0.10000000149011612
+}

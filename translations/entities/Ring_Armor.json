@@ -1,0 +1,72 @@
+{
+	"armor": {
+		"acid": 0,
+		"death": 2,
+		"electricity": 1,
+		"fire": 0,
+		"frost": 0,
+		"holy": 0,
+		"parry": 0,
+		"physical": 2,
+		"poison": 0,
+		"thorns": 0
+	},
+	"components": [
+		"armor",
+		"craftable",
+		"glyph",
+		"item",
+		"minimap_pixel",
+		"name",
+		"position_2d",
+		"value",
+		"weight"
+	],
+	"craftable": {
+		"backgrounds": [],
+		"biomes": [],
+		"magic_slots": 2,
+		"resource_types": [
+			{
+				"amount": 2,
+				"id": 1
+			},
+			{
+				"amount": 1,
+				"id": 2
+			}
+		],
+		"time": 30,
+		"tools": [
+			1
+		]
+	},
+	"description": "Mesh of metal rings stitched to a leather.",
+	"glyph": {
+		"frames": [
+			{
+				"color": [
+					255,
+					255,
+					255
+				],
+				"delay": 0,
+				"index": 2743
+			}
+		],
+		"random_frame_start": false
+	},
+	"id": "core_2_Ring_Armor",
+	"item": {
+		"image": 1256,
+		"type": 4
+	},
+	"minimap_pixel": [
+		43,
+		140,
+		183
+	],
+	"name": "Ring Armor",
+	"value": 900,
+	"weight": 1.5
+}

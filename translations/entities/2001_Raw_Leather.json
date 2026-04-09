@@ -1,0 +1,47 @@
+{
+	"components": [
+		"glyph",
+		"item",
+		"minimap_pixel",
+		"name",
+		"position_2d",
+		"resource",
+		"stackable",
+		"value",
+		"weight"
+	],
+	"description": "Raw leather from an animal.",
+	"glyph": {
+		"frames": [
+			{
+				"color": [
+					255,
+					255,
+					255
+				],
+				"delay": 0,
+				"index": 381
+			}
+		],
+		"random_frame_start": false
+	},
+	"id": "2001",
+	"item": {
+		"image": 64,
+		"type": 16
+	},
+	"minimap_pixel": [
+		122,
+		93,
+		57
+	],
+	"name": "Raw Leather",
+	"resource": {
+		"affix": "Plain",
+		"magic_ingredient": 0,
+		"quality": 0,
+		"type": 2
+	},
+	"value": 0,
+	"weight": 0.20000000298023224
+}

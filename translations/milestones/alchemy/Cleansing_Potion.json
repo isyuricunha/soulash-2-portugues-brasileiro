@@ -1,0 +1,16 @@
+{
+	"id": "core_2_cleansing_potion",
+	"name": "Cleansing Potion",
+	"requirements": {
+		"milestones": [],
+		"skill": 39
+	},
+	"rewards": [
+		{
+			"recipe": "core_2_Cleansing_Potion"
+		}
+	],
+	"skill_id": "core_2_alchemy",
+	"steps": [],
+	"steps_type": 0
+}

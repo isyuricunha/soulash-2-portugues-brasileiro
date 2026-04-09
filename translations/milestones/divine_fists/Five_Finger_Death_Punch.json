@@ -1,0 +1,16 @@
+{
+	"id": "core_2_five_finger_punch",
+	"name": "Five Finger Deathc Punch",
+	"requirements": {
+		"milestones": [],
+		"skill": 44
+	},
+	"rewards": [
+		{
+			"ability": "core_2_Five_Finger_Death_Punch"
+		}
+	],
+	"skill_id": "core_2_divine_fists",
+	"steps": [],
+	"steps_type": 0
+}

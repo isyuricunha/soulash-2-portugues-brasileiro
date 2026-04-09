@@ -1,0 +1,16 @@
+{
+	"id": "core_2_watermelon_seedling",
+	"name": "Watermelon Seedling",
+	"requirements": {
+		"milestones": [],
+		"skill": 5
+	},
+	"rewards": [
+		{
+			"recipe": "core_2_Watermelon_Seedling"
+		}
+	],
+	"skill_id": "core_2_agriculture",
+	"steps": [],
+	"steps_type": 0
+}

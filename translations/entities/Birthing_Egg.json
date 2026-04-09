@@ -1,0 +1,32 @@
+{
+	"components": [
+		"block_light",
+		"collidable",
+		"glyph",
+		"minimap_pixel",
+		"name",
+		"position_2d"
+	],
+	"description": "It's a huge dark egg just planted into the ground. It looks disturbing with its veins that pulsate rhythmically. Like an egg itself is alive.",
+	"glyph": {
+		"frames": [
+			{
+				"color": [
+					255,
+					255,
+					255
+				],
+				"delay": 0,
+				"index": 2458
+			}
+		],
+		"random_frame_start": false
+	},
+	"id": "core_2_Birthing_Egg",
+	"minimap_pixel": [
+		115,
+		111,
+		146
+	],
+	"name": "Birthing Egg"
+}

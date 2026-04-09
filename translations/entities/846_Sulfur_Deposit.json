@@ -1,0 +1,74 @@
+{
+	"armor": {
+		"acid": 50,
+		"death": 50,
+		"electricity": 50,
+		"fire": 100,
+		"frost": 30,
+		"holy": 50,
+		"parry": 0,
+		"physical": 100,
+		"poison": 100,
+		"thorns": 0
+	},
+	"background": {
+		"color": [
+			44,
+			45,
+			41
+		]
+	},
+	"components": [
+		"armor",
+		"background",
+		"block_light",
+		"collidable",
+		"glyph",
+		"health",
+		"height",
+		"minimap_pixel",
+		"name",
+		"position_2d",
+		"producer"
+	],
+	"corpse": "838",
+	"description": "A sizeable deposit of sulfur.",
+	"glyph": {
+		"frames": [
+			{
+				"color": [
+					255,
+					255,
+					255
+				],
+				"delay": 0,
+				"index": 183
+			}
+		],
+		"random_frame_start": false
+	},
+	"health": 200,
+	"height": 15,
+	"id": "846",
+	"minimap_pixel": [
+		210,
+		202,
+		118
+	],
+	"name": "Sulfur Deposit",
+	"producer": {
+		"products": {
+			"5": [
+				{
+					"amount": [
+						1,
+						2
+					],
+					"id": "838",
+					"percent_chance": 100
+				}
+			]
+		},
+		"time": 30
+	}
+}

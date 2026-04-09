@@ -1,0 +1,16 @@
+{
+	"id": "core_2_bandit_knife",
+	"name": "Bandit Knife",
+	"requirements": {
+		"milestones": [],
+		"skill": 33
+	},
+	"rewards": [
+		{
+			"recipe": "367"
+		}
+	],
+	"skill_id": "core_2_weaponsmith",
+	"steps": [],
+	"steps_type": 0
+}

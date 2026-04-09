@@ -1,0 +1,131 @@
+{
+	"artificial_intelligence": {
+		"allies": [
+			"28"
+		],
+		"allow_production": [],
+		"behaviors": [],
+		"enemies": []
+	},
+	"components": [
+		"actor",
+		"artificial_intelligence",
+		"collidable",
+		"dialogues",
+		"equipment",
+		"experience_gainer",
+		"fighter",
+		"glyph",
+		"health",
+		"humanoid",
+		"minimap_pixel",
+		"moveable",
+		"name",
+		"persona",
+		"position_2d",
+		"sight",
+		"skills",
+		"stamina",
+		"statistics",
+		"tags"
+	],
+	"corpse": "2327",
+	"description": "",
+	"dialogues": [
+		"546",
+		"547"
+	],
+	"equipment": {
+		"right_hand": [
+			{
+				"chance": 1.0,
+				"id": "87",
+				"name": "Mace",
+				"stack": 1
+			}
+		]
+	},
+	"experience_gainer": {
+		"exp": 10,
+		"level": 2
+	},
+	"fighter": {
+		"attackNames": null
+	},
+	"glyph": {
+		"frames": [
+			{
+				"color": [
+					255,
+					255,
+					255
+				],
+				"delay": 0,
+				"index": 462
+			}
+		],
+		"random_frame_start": false
+	},
+	"health": 140,
+	"humanoid": {
+		"race": "2"
+	},
+	"id": "2414",
+	"minimap_pixel": [
+		109,
+		199,
+		29
+	],
+	"moveable": {
+		"speed": 1.0
+	},
+	"name": "Rasimi Recruit",
+	"persona": {
+		"occupation": "Recruit"
+	},
+	"sight": {
+		"ignore_infra_penalty": false,
+		"infravision": false,
+		"range": 10,
+		"threesixty": false
+	},
+	"skills": {
+		"milestones": [
+			"core_2_like_a_watermelon"
+		],
+		"skills": [
+			"core_2_mace_fighting"
+		]
+	},
+	"stamina": {
+		"fatigue": 100,
+		"stamina": 100,
+		"stamina_regen": 0.0
+	},
+	"statistics": {
+		"dexterity": [
+			24,
+			29
+		],
+		"endurance": [
+			12,
+			16
+		],
+		"intelligence": [
+			14,
+			17
+		],
+		"strength": [
+			24,
+			28
+		],
+		"willpower": [
+			16,
+			20
+		]
+	},
+	"tags": [
+		"9",
+		"28"
+	]
+}

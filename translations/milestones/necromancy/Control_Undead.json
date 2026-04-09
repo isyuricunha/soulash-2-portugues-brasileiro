@@ -1,0 +1,15 @@
+{
+	"id": "core_2_control_undead",
+	"name": "Control Undead",
+	"requirements": {
+		"skill": 38
+	},
+	"rewards": [
+		{
+			"control_action": "core_2_control_undead"
+		}
+	],
+	"skill_id": "core_2_necromancy",
+	"steps": [],
+	"steps_type": 0
+}

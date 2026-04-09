@@ -1,0 +1,26 @@
+{
+	"animation": "core_2_Healing_Wave",
+	"cast_time": 1.0,
+	"cooldown": 30.0,
+	"cost": {
+		"health": 0,
+		"stamina": 10
+	},
+	"description": "This ability heals ::heal health to a single living being.",
+	"duration": 0.0,
+	"effects": {
+		"heal": [
+			10,
+			20
+		]
+	},
+	"id": "core_2_Divine_Favour",
+	"name": "Divine Favour",
+	"image": 618,
+	"range": 5,
+	"skill": "core_2_divine_fists",
+	"slots": {
+		"utility": 2
+	},
+	"target": "health"
+}

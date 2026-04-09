@@ -1,0 +1,46 @@
+{
+	"components": [
+		"food",
+		"glyph",
+		"item",
+		"minimap_pixel",
+		"name",
+		"position_2d",
+		"stackable",
+		"value",
+		"weight"
+	],
+	"description": "Leaflike growth, great as a feed for various animals.",
+	"food": {
+		"nutrition": 2,
+		"on_eat": "",
+		"raw": false
+	},
+	"glyph": {
+		"frames": [
+			{
+				"color": [
+					255,
+					255,
+					255
+				],
+				"delay": 0,
+				"index": 2270
+			}
+		],
+		"random_frame_start": false
+	},
+	"id": "core_2_Lichen",
+	"item": {
+		"image": 956,
+		"type": 20
+	},
+	"minimap_pixel": [
+		100,
+		109,
+		155
+	],
+	"name": "Lichen",
+	"value": 300,
+	"weight": 0.009999999776482582
+}

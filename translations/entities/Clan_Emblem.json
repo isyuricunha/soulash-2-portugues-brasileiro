@@ -1,0 +1,90 @@
+{
+	"components": [
+		"craftable",
+		"glyph",
+		"item",
+		"minimap_pixel",
+		"name",
+		"position_2d",
+		"resource",
+		"stackable",
+		"value",
+		"weapon",
+		"weight"
+	],
+	"craftable": {
+		"backgrounds": [],
+		"biomes": [],
+		"magic_slots": 5,
+		"resources": [
+			{
+				"amount": 1,
+				"id": "2526"
+			},
+			{
+				"amount": 1,
+				"id": "2161"
+			},
+			{
+				"amount": 1,
+				"id": "core_2_Swordfishs_Bone"
+			},
+			{
+				"amount": 1,
+				"id": "2937"
+			},
+			{
+				"amount": 1,
+				"id": "2115"
+			}
+		],
+		"time": 60,
+		"tools": [
+			1
+		]
+	},
+	"description": "This emblem is a symbol of belonging to a dwarven clan.",
+	"glyph": {
+		"frames": [
+			{
+				"color": [
+					255,
+					255,
+					255
+				],
+				"delay": 0,
+				"index": 2357
+			}
+		],
+		"random_frame_start": false
+	},
+	"id": "core_2_Clan_Emblem",
+	"item": {
+		"image": 1024,
+		"type": 16
+	},
+	"minimap_pixel": [
+		218,
+		165,
+		32
+	],
+	"name": "Clan Emblem",
+	"resource": {
+		"affix": "of the Clan",
+		"magic_ingredient": 4,
+		"quality": 4,
+		"type": 7
+	},
+	"value": 40000,
+	"weapon": {
+		"attack_speed": -0.02,
+		"critical_hit": 0.0,
+		"damage": null,
+		"hands": 1,
+		"hit_bonus": 0,
+		"parry_bonus": 0,
+		"range": 0,
+		"type": 9
+	},
+	"weight": 0.10000000149011612
+}

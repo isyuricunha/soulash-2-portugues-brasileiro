@@ -1,0 +1,69 @@
+{
+	"category_id": 7,
+	"components": [
+		"craftable",
+		"glyph",
+		"minimap_pixel",
+		"name",
+		"position_2d",
+		"producer",
+		"resting_place"
+	],
+	"craftable": {
+		"backgrounds": [],
+		"biomes": [],
+		"magic_slots": 0,
+		"resource_types": [
+			{
+				"amount": 1,
+				"id": 4
+			}
+		],
+		"resources": [
+			{
+				"amount": 1,
+				"id": "802"
+			}
+		],
+		"time": 20,
+		"tools": []
+	},
+	"description": "A simple matress stuffed with straw.",
+	"glyph": {
+		"frames": [
+			{
+				"color": [
+					255,
+					255,
+					255
+				],
+				"delay": 0,
+				"index": 2599
+			}
+		],
+		"random_frame_start": true
+	},
+	"id": "core_2_Straw_Matress",
+	"minimap_pixel": [
+		135,
+		161,
+		63
+	],
+	"name": "Straw Matress",
+	"producer": {
+		"products": {
+			"core_2_deconstruct": [
+				{
+					"amount": [
+						0,
+						0
+					],
+					"id": "",
+					"percent_chance": 100
+				}
+			]
+		},
+		"time": 20
+	},
+	"resting_place": 110
+}

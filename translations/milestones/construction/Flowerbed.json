@@ -1,0 +1,25 @@
+{
+	"id": "core_2_flowerbed",
+	"name": "Flowerbed",
+	"requirements": {
+		"milestones": [],
+		"skill": 11
+	},
+	"rewards": [
+		{
+			"recipe": "core_2_Purple_Flowerbed"
+		},
+		{
+			"recipe": "core_2_Red_Flowerbed"
+		},
+		{
+			"recipe": "core_2_White_Flowerbed"
+		},
+		{
+			"recipe": "core_2_Yellow_Flowerbed"
+		}
+	],
+	"skill_id": "core_2_construction",
+	"steps": [],
+	"steps_type": 0
+}

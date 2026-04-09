@@ -1,0 +1,83 @@
+{
+	"components": [
+		"craftable",
+		"glyph",
+		"item",
+		"minimap_pixel",
+		"name",
+		"position_2d",
+		"tool",
+		"value",
+		"weapon",
+		"weight"
+	],
+	"craftable": {
+		"backgrounds": [],
+		"biomes": [],
+		"magic_slots": 4,
+		"resource_types": [
+			{
+				"amount": 2,
+				"id": 3
+			},
+			{
+				"amount": 2,
+				"id": 1
+			}
+		],
+		"time": 120,
+		"tools": [
+			1
+		]
+	},
+	"description": "This devastating weapon is designed for heavy, crushing blows. It consists of a large metal head mounted on a long wooden handle.",
+	"glyph": {
+		"frames": [
+			{
+				"color": [
+					255,
+					255,
+					255
+				],
+				"delay": 0,
+				"index": 498
+			}
+		],
+		"random_frame_start": false
+	},
+	"id": "2304",
+	"item": {
+		"image": 587,
+		"type": 13
+	},
+	"minimap_pixel": [
+		188,
+		210,
+		238
+	],
+	"name": "Maul",
+	"tool": [
+		{
+			"id": 6,
+			"quality": 25
+		}
+	],
+	"value": 4200,
+	"weapon": {
+		"attack_speed": 1.0,
+		"critical_hit": 0.0,
+		"damage": [
+			{
+				"dmg_max": 26,
+				"dmg_min": 14,
+				"dmg_type": "physical"
+			}
+		],
+		"hands": 2,
+		"hit_bonus": 5,
+		"parry_bonus": 1,
+		"range": 1,
+		"type": 2
+	},
+	"weight": 4.0
+}

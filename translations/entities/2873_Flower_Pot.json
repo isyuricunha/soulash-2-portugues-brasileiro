@@ -1,0 +1,54 @@
+{
+	"category_id": 7,
+	"components": [
+		"craftable",
+		"glyph",
+		"minimap_pixel",
+		"name",
+		"position_2d"
+	],
+	"craftable": {
+		"magic_slots": 0,
+		"resources": [
+			{
+				"amount": 2,
+				"id": "2004"
+			}
+		],
+		"time": 20,
+		"tools": [
+			1
+		]
+	},
+	"description": "A nice decoration full of colourful flowers. ",
+	"glyph": {
+		"frames": [
+			{
+				"color": [
+					255,
+					255,
+					255
+				],
+				"delay": 0,
+				"index": 1887
+			},
+			{
+				"color": [
+					255,
+					255,
+					255
+				],
+				"delay": 0,
+				"index": 1888
+			}
+		],
+		"random_frame_start": false
+	},
+	"id": "2873",
+	"minimap_pixel": [
+		194,
+		133,
+		109
+	],
+	"name": "Flower Pot"
+}

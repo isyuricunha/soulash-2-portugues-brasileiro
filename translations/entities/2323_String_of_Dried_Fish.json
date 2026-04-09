@@ -1,0 +1,96 @@
+{
+	"category_id": 7,
+	"components": [
+		"craftable",
+		"glyph",
+		"health",
+		"minimap_pixel",
+		"name",
+		"position_2d",
+		"producer"
+	],
+	"corpse": [],
+	"craftable": {
+		"backgrounds": [],
+		"biomes": [],
+		"magic_slots": 0,
+		"resource_types": [
+			{
+				"amount": 1,
+				"id": 3
+			},
+			{
+				"amount": 1,
+				"id": 4
+			}
+		],
+		"resources": [
+			{
+				"amount": 1,
+				"id": "122"
+			},
+			{
+				"amount": 1,
+				"id": "124"
+			}
+		],
+		"time": 10,
+		"tools": []
+	},
+	"description": "A string of smelly dried fish is hanging on two sticks.",
+	"glyph": {
+		"frames": [
+			{
+				"color": [
+					255,
+					255,
+					255
+				],
+				"delay": 0,
+				"index": 1563
+			},
+			{
+				"color": [
+					255,
+					255,
+					255
+				],
+				"delay": 0,
+				"index": 1564
+			},
+			{
+				"color": [
+					255,
+					255,
+					255
+				],
+				"delay": 0,
+				"index": 1565
+			}
+		],
+		"random_frame_start": true
+	},
+	"health": 20,
+	"id": "2323",
+	"minimap_pixel": [
+		58,
+		39,
+		25
+	],
+	"name": "String of Dried Fish",
+	"producer": {
+		"products": {
+			"core_2_deconstruct": [
+				{
+					"amount": [
+						0,
+						0
+					],
+					"id": "",
+					"percent_chance": 100
+				}
+			]
+		},
+		"time": 5
+	}
+}

@@ -1,0 +1,69 @@
+{
+	"components": [
+		"craftable",
+		"food",
+		"glyph",
+		"item",
+		"minimap_pixel",
+		"name",
+		"position_2d",
+		"stackable",
+		"value",
+		"weight"
+	],
+	"craftable": {
+		"backgrounds": [],
+		"biomes": [],
+		"magic_slots": 0,
+		"resources": [
+			{
+				"amount": 1,
+				"id": "801"
+			},
+			{
+				"amount": 2,
+				"id": "318"
+			},
+			{
+				"amount": 1,
+				"id": "793"
+			}
+		],
+		"time": 30,
+		"tools": [
+			2
+		]
+	},
+	"description": "Savoury pie made with vegetables and meat.",
+	"food": {
+		"nutrition": 90,
+		"on_eat": "core_2_Shephards_Pie"
+	},
+	"glyph": {
+		"frames": [
+			{
+				"color": [
+					255,
+					255,
+					255
+				],
+				"delay": 0,
+				"index": 2034
+			}
+		],
+		"random_frame_start": false
+	},
+	"id": "3036",
+	"item": {
+		"image": 816,
+		"type": 20
+	},
+	"minimap_pixel": [
+		157,
+		78,
+		54
+	],
+	"name": "Shepherd's Pie",
+	"value": 1000,
+	"weight": 0.10000000149011612
+}

@@ -1,0 +1,59 @@
+{
+	"background": {
+		"color": [
+			0,
+			0,
+			0
+		],
+		"noise": 1,
+		"noise_intensity": 3
+	},
+	"components": [
+		"background",
+		"glyph",
+		"health",
+		"minimap_pixel",
+		"name"
+	],
+	"corpse": [
+		{
+			"damage_type": 0,
+			"id": "30"
+		},
+		{
+			"damage_type": 2,
+			"id": "603"
+		},
+		{
+			"damage_type": 4,
+			"id": "613"
+		},
+		{
+			"damage_type": 5,
+			"id": "598"
+		}
+	],
+	"description": "This patch of grass has recently burned to ash.",
+	"glyph": {
+		"frames": [
+			{
+				"color": [
+					255,
+					255,
+					255
+				],
+				"delay": 0,
+				"index": 783
+			}
+		],
+		"random_frame_start": false
+	},
+	"health": 1,
+	"id": "601",
+	"minimap_pixel": [
+		26,
+		26,
+		26
+	],
+	"name": "Burned Grass"
+}

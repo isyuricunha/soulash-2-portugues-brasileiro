@@ -1,0 +1,66 @@
+{
+	"armor": {
+		"acid": 0,
+		"death": 0,
+		"electricity": 0,
+		"fire": 0,
+		"frost": 0,
+		"holy": 0,
+		"parry": 0,
+		"physical": 1,
+		"poison": 0
+	},
+	"components": [
+		"armor",
+		"craftable",
+		"glyph",
+		"item",
+		"minimap_pixel",
+		"name",
+		"position_2d",
+		"value",
+		"weight"
+	],
+	"craftable": {
+		"magic_slots": 1,
+		"resource_types": [
+			{
+				"amount": 1,
+				"id": 2
+			}
+		],
+		"resources": null,
+		"time": 30,
+		"tools": [
+			14
+		]
+	},
+	"description": "Many applications for this piece of garment consist of holding pants, hanging, spanking and preventing blood loss.",
+	"glyph": {
+		"frames": [
+			{
+				"color": [
+					255,
+					255,
+					255
+				],
+				"delay": 0,
+				"index": 372
+			}
+		],
+		"random_frame_start": false
+	},
+	"id": "190",
+	"item": {
+		"image": 92,
+		"type": 6
+	},
+	"minimap_pixel": [
+		122,
+		93,
+		57
+	],
+	"name": "Belt",
+	"value": 400,
+	"weight": 0.5
+}

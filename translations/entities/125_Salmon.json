@@ -1,0 +1,56 @@
+{
+	"components": [
+		"glyph",
+		"item",
+		"minimap_pixel",
+		"name",
+		"position_2d",
+		"producer",
+		"stackable",
+		"value",
+		"weight"
+	],
+	"description": "Oceanic, large fish found through out the year. They have silvery scales.",
+	"glyph": {
+		"frames": [
+			{
+				"color": [
+					255,
+					255,
+					255
+				],
+				"delay": 0,
+				"index": 267
+			}
+		],
+		"random_frame_start": false
+	},
+	"id": "125",
+	"item": {
+		"image": 45,
+		"type": 19
+	},
+	"minimap_pixel": [
+		52,
+		64,
+		104
+	],
+	"name": "Salmon",
+	"producer": {
+		"products": {
+			"3": [
+				{
+					"amount": [
+						8,
+						10
+					],
+					"id": "315",
+					"percent_chance": 100
+				}
+			]
+		},
+		"time": 0
+	},
+	"value": 1200,
+	"weight": 3.0
+}

@@ -1,0 +1,47 @@
+{
+	"armor": {
+		"acid": 0,
+		"death": 0,
+		"electricity": 0,
+		"fire": -20,
+		"frost": 0,
+		"holy": 0,
+		"parry": 0,
+		"physical": 2,
+		"poison": 1000,
+		"thorns": 0
+	},
+	"components": [
+		"armor",
+		"collidable",
+		"glyph",
+		"health",
+		"minimap_pixel",
+		"name",
+		"position_2d"
+	],
+	"corpse": "core_2_Metal_Scraps",
+	"description": "Back in a day it might have been a beautiful armor, but someone left it here to rot and decay.",
+	"glyph": {
+		"frames": [
+			{
+				"color": [
+					255,
+					255,
+					255
+				],
+				"delay": 0,
+				"index": 2884
+			}
+		],
+		"random_frame_start": true
+	},
+	"health": 100,
+	"id": "core_2_Rusted_Armor",
+	"minimap_pixel": [
+		71,
+		48,
+		17
+	],
+	"name": "Rusted Armor"
+}

@@ -1,0 +1,149 @@
+{
+	"artificial_intelligence": {
+		"allies": [],
+		"allow_production": [],
+		"behaviors": [],
+		"enemies": [
+			"5"
+		]
+	},
+	"components": [
+		"actor",
+		"artificial_intelligence",
+		"collidable",
+		"dialogues",
+		"equipment",
+		"experience_gainer",
+		"fighter",
+		"glyph",
+		"health",
+		"minimap_pixel",
+		"moveable",
+		"name",
+		"position_2d",
+		"sight",
+		"stamina",
+		"statistics",
+		"tags",
+		"weapon"
+	],
+	"corpse": "593",
+	"description": "This overgrown cat is the perfect hunter. It looks like it didn't get fed for some time, and you can sense its eagerness to eat you.",
+	"dialogues": [
+		"238",
+		"239",
+		"900"
+	],
+	"equipment": {
+		"disabled_slots": [
+			0,
+			1,
+			2,
+			3,
+			4,
+			5,
+			6,
+			7,
+			8,
+			9,
+			10,
+			11,
+			12,
+			13,
+			14,
+			15,
+			16,
+			17,
+			18
+		]
+	},
+	"experience_gainer": {
+		"exp": 0,
+		"level": 30
+	},
+	"fighter": {
+		"attackNames": [
+			"Scratch",
+			"Bite"
+		]
+	},
+	"glyph": {
+		"frames": [
+			{
+				"color": [
+					255,
+					255,
+					255
+				],
+				"delay": 0,
+				"index": 186
+			}
+		],
+		"random_frame_start": false
+	},
+	"health": 530,
+	"id": "core_2_Enhanced_Tiger",
+	"minimap_pixel": [
+		203,
+		113,
+		25
+	],
+	"moveable": {
+		"speed": 0.699999988079071
+	},
+	"name": "Enhanced Tiger",
+	"sight": {
+		"ignore_infra_penalty": false,
+		"infravision": true,
+		"range": 12,
+		"threesixty": false
+	},
+	"stamina": {
+		"fatigue": 100,
+		"stamina": 100,
+		"stamina_regen": 0.0
+	},
+	"statistics": {
+		"dexterity": [
+			30,
+			36
+		],
+		"endurance": [
+			42,
+			47
+		],
+		"intelligence": [
+			7,
+			10
+		],
+		"sneaking": 2,
+		"strength": [
+			65,
+			70
+		],
+		"willpower": [
+			17,
+			20
+		]
+	},
+	"tags": [
+		"2",
+		"9"
+	],
+	"weapon": {
+		"attack_speed": 1.0,
+		"critical_hit": 0.0,
+		"damage": [
+			{
+				"dmg_max": 8,
+				"dmg_min": 5,
+				"dmg_type": "physical"
+			}
+		],
+		"hands": 1,
+		"hit_bonus": 0,
+		"parry_bonus": 0,
+		"range": 1,
+		"type": 3
+	}
+}

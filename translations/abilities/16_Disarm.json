@@ -1,0 +1,38 @@
+{
+	"animation": "42",
+	"cast_time": 0.4000000059604645,
+	"cooldown": 12.0,
+	"cost": {
+		"health": 0,
+		"stamina": 4
+	},
+	"description": "Deal ::damage ::damage_type damage to the enemy and make an opposite dexterity check to force it to unequip an item in one of its hands. The effect will persist for ::duration turns and prevent equipping items in this hand.",
+	"duration": 2.0,
+	"effects": {
+		"damage": [
+			0,
+			2
+		],
+		"damage_type": "physical",
+		"damage_weapon": 1.0,
+		"disarm": 1
+	},
+	"id": "16",
+	"image": 83,
+	"name": "Disarm",
+	"range": 1,
+	"requirements": {
+		"one_of": [
+			1,
+			2,
+			3,
+			4,
+			5
+		]
+	},
+	"skill": "core_2_sword_fighting",
+	"slots": {
+		"utility": 2
+	},
+	"target": "health"
+}

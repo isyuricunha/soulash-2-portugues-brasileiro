@@ -1,0 +1,16 @@
+{
+	"id": "core_2_summon_healing_flower",
+	"name": "Summon Healing Flower",
+	"requirements": {
+		"milestones": [],
+		"skill": 32
+	},
+	"rewards": [
+		{
+			"ability": "core_2_Summon_Healing_Flower"
+		}
+	],
+	"skill_id": "core_2_floromancy",
+	"steps": [],
+	"steps_type": 0
+}

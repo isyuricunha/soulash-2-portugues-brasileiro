@@ -1,0 +1,60 @@
+{
+	"id": "243",
+	"image": 212,
+	"name": "Foragers",
+	"occupation_image": 17,
+	"occupation": "core_2_Reptilion_Forager",
+	"produces": [
+		{
+			"entities": [
+				{
+					"daily": 5,
+					"id": "2060"
+				}
+			],
+			"takes": []
+		},
+		{
+			"entities": [
+				{
+					"daily": 5,
+					"id": "828"
+				}
+			],
+			"takes": []
+		},
+		{
+			"entities": [
+				{
+					"daily": 10,
+					"id": "813"
+				}
+			],
+			"takes": []
+		},
+		{
+			"entities": [
+				{
+					"daily": 10,
+					"id": "814"
+				}
+			],
+			"takes": []
+		},
+		{
+			"entities": [
+				{
+					"daily": 20,
+					"id": "815"
+				}
+			],
+			"takes": []
+		}
+	],
+	"race": "23",
+	"tier": 1,
+	"workers": [
+		1,
+		2
+	]
+}

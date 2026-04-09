@@ -1,0 +1,111 @@
+{
+	"armor": {
+		"acid": 1000,
+		"death": 1000,
+		"electricity": 1000,
+		"fire": 1000,
+		"frost": 0,
+		"holy": 1000,
+		"parry": 0,
+		"physical": 1000,
+		"poison": 1000,
+		"thorns": 0
+	},
+	"background": {
+		"color": [
+			44,
+			45,
+			41
+		],
+		"noise": 5,
+		"noise_intensity": 7
+	},
+	"components": [
+		"armor",
+		"background",
+		"glyph",
+		"health",
+		"liquid_source",
+		"minimap_pixel",
+		"name",
+		"on_enter",
+		"position_2d",
+		"water"
+	],
+	"corpse": [
+		{
+			"damage_type": 2,
+			"id": "973"
+		},
+		{
+			"damage_type": 9,
+			"id": "2033"
+		}
+	],
+	"description": "The water level is more shallow in this place, allowing safer passage.",
+	"glyph": {
+		"frames": [
+			{
+				"color": [
+					255,
+					255,
+					255
+				],
+				"delay": 300,
+				"index": 1530
+			},
+			{
+				"color": [
+					255,
+					255,
+					255
+				],
+				"delay": 200,
+				"index": 1531
+			},
+			{
+				"color": [
+					255,
+					255,
+					255
+				],
+				"delay": 200,
+				"index": 1532
+			},
+			{
+				"color": [
+					255,
+					255,
+					255
+				],
+				"delay": 200,
+				"index": 1533
+			}
+		],
+		"random_frame_start": false
+	},
+	"health": 1,
+	"id": "2033",
+	"liquid_source": {
+		"limit": -1,
+		"type": 1
+	},
+	"minimap_pixel": [
+		50,
+		120,
+		158
+	],
+	"name": "River Ford",
+	"on_enter": {
+		"ability": [
+			"88",
+			"89"
+		],
+		"only_player_triggers": false,
+		"teleport": null,
+		"trigger_chance": 1.0
+	},
+	"water": {
+		"swimming": true
+	}
+}

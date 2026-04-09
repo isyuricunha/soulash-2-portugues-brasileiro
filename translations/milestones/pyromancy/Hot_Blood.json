@@ -1,0 +1,16 @@
+{
+	"id": "core_2_hot_blood",
+	"name": "Hot Blood",
+	"requirements": {
+		"milestones": [],
+		"skill": 46
+	},
+	"rewards": [
+		{
+			"passive": "core_2_hot_blood"
+		}
+	],
+	"skill_id": "core_2_pyromancy",
+	"steps": [],
+	"steps_type": 0
+}

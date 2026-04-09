@@ -1,0 +1,56 @@
+{
+	"id": "244",
+	"image": 108,
+	"name": "Bee Seeker",
+	"occupation_image": 78,
+	"occupation": "core_2_Reptilion_Bee_Seeker",
+	"occupation_per_race": {
+        "0": "core_2_Human_Bee_Seeker",
+        "1": "core_2_Dwarf_Bee_Seeker",
+        "2": "core_2_Elf_Bee_Seeker",
+        "4": "core_2_Goblin_Bee_Seeker",
+		"6": "core_2_Vampire_Bee_Seeker",
+        "7": "core_2_Troll_Bee_Seeker",
+        "8": "core_2_Orc_Bee_Seeker",
+        "10": "core_2_Rasimi_Bee_Seeker",
+        "23": "core_2_Reptilion_Bee_Seeker",
+        "26": "core_2_Bone_Wraith_Bee_Seeker",
+        "31": "core_2_Gnoll_Bee_Seeker",
+        "32": "core_2_Mushman_Bee_Seeker",
+        "33": "core_2_Ursan_Bee_Seeker"
+    },
+	"produces": [
+		{
+			"entities": [
+				{
+					"daily": 8,
+					"id": "820"
+				}
+			],
+			"takes": []
+		}
+	],
+	"race": "23",
+	"tier": 2,
+	"workers": [
+		1,
+		2
+	],
+	"allow_player": true,
+	"required_entities": [
+		{
+			"entities": ["824"],
+			"count": 4
+		},
+		{
+			"entities": ["23109", "222", "3115", "3115", "270", "2511", "core_2_Red_Flowerbed", "core_2_White_Flowerbed", "core_2_Purple_Flowerbed", "core_2_Yellow_Flowerbed"],
+			"count": 8
+		},
+		{
+			"component": "resting_place",
+			"count": 2
+		}
+	],
+	"min_area": 30,
+	"group": "food"
+}

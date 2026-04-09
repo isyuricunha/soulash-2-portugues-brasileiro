@@ -1,0 +1,70 @@
+{
+	"armor": {
+		"acid": 2,
+		"death": 2,
+		"electricity": 2,
+		"fire": 2,
+		"frost": 2,
+		"holy": 2,
+		"parry": 0,
+		"physical": 3,
+		"poison": 2
+	},
+	"components": [
+		"armor",
+		"craftable",
+		"glyph",
+		"item",
+		"minimap_pixel",
+		"name",
+		"position_2d",
+		"value",
+		"weight"
+	],
+	"craftable": {
+		"magic_slots": 5,
+		"resource_types": [
+			{
+				"amount": 3,
+				"id": 2
+			},
+			{
+				"amount": 2,
+				"id": 1
+			}
+		],
+		"resources": null,
+		"time": 70,
+		"tools": [
+			14
+		]
+	},
+	"description": "Leather pants reinforced for extra protection.",
+	"glyph": {
+		"frames": [
+			{
+				"color": [
+					255,
+					255,
+					255
+				],
+				"delay": 0,
+				"index": 636
+			}
+		],
+		"random_frame_start": false
+	},
+	"id": "778",
+	"item": {
+		"image": 235,
+		"type": 8
+	},
+	"minimap_pixel": [
+		155,
+		117,
+		82
+	],
+	"name": "Reinforced Pants",
+	"value": 7000,
+	"weight": 2.0
+}

@@ -1,0 +1,16 @@
+{
+	"id": "core_2_manicles",
+	"name": "Manicles",
+	"requirements": {
+		"milestones": [],
+		"skill": 35
+	},
+	"rewards": [
+		{
+			"recipe": "2954"
+		}
+	],
+	"skill_id": "core_2_armorsmith",
+	"steps": [],
+	"steps_type": 0
+}

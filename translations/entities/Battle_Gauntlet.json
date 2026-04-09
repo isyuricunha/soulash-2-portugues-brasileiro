@@ -1,0 +1,76 @@
+{
+	"components": [
+		"craftable",
+		"glyph",
+		"item",
+		"minimap_pixel",
+		"name",
+		"position_2d",
+		"value",
+		"weapon",
+		"weight"
+	],
+	"craftable": {
+		"backgrounds": [],
+		"biomes": [],
+		"magic_slots": 4,
+		"resource_types": [
+			{
+				"amount": 3,
+				"id": 1
+			},
+			{
+				"amount": 1,
+				"id": 2
+			}
+		],
+		"time": 30,
+		"tools": [
+			1
+		]
+	},
+	"description": "A metal glove made to punch your enemies.",
+	"glyph": {
+		"frames": [
+			{
+				"color": [
+					255,
+					255,
+					255
+				],
+				"delay": 0,
+				"index": 3007
+			}
+		],
+		"random_frame_start": false
+	},
+	"id": "core_2_Battle_Gauntlet",
+	"item": {
+		"image": 1391,
+		"type": 13
+	},
+	"minimap_pixel": [
+		156,
+		160,
+		161
+	],
+	"name": "Battle Gauntlet",
+	"value": 4000,
+	"weapon": {
+		"attack_speed": 0.8999999761581421,
+		"critical_hit": 0.0,
+		"damage": [
+			{
+				"dmg_max": 11,
+				"dmg_min": 6,
+				"dmg_type": "physical"
+			}
+		],
+		"hands": 1,
+		"hit_bonus": 4,
+		"parry_bonus": 1,
+		"range": 1,
+		"type": 6
+	},
+	"weight": 1.5
+}

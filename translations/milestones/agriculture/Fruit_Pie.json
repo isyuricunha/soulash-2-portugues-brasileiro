@@ -1,0 +1,16 @@
+{
+	"id": "core_2_fruit_pie",
+	"name": "Fruit Pie",
+	"requirements": {
+		"milestones": [],
+		"skill": 17
+	},
+	"rewards": [
+		{
+			"recipe": "3029"
+		}
+	],
+	"skill_id": "core_2_agriculture",
+	"steps": [],
+	"steps_type": 0
+}

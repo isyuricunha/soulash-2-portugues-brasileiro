@@ -1,0 +1,153 @@
+{
+	"ability_user": [
+		"94",
+		"124"
+	],
+	"artificial_intelligence": {
+		"allies": [],
+		"allow_production": [],
+		"behaviors": [],
+		"enemies": [
+			"5"
+		]
+	},
+	"components": [
+		"ability_user",
+		"actor",
+		"artificial_intelligence",
+		"collidable",
+		"dialogues",
+		"equipment",
+		"experience_gainer",
+		"fighter",
+		"glyph",
+		"health",
+		"minimap_pixel",
+		"moveable",
+		"name",
+		"position_2d",
+		"sight",
+		"stamina",
+		"statistics",
+		"tags",
+		"weapon"
+	],
+	"corpse": "2753",
+	"description": "Beautiful, but deadly creature.",
+	"dialogues": [
+		"7",
+		"878"
+	],
+	"equipment": {
+		"disabled_slots": [
+			3,
+			0,
+			1,
+			2,
+			4,
+			5,
+			6,
+			7,
+			8,
+			9,
+			10,
+			11,
+			12,
+			13,
+			14,
+			15,
+			16,
+			17,
+			18
+		]
+	},
+	"experience_gainer": {
+		"exp": 0,
+		"level": 30
+	},
+	"fighter": {
+		"attackNames": [
+			"Bite",
+			"Claws"
+		]
+	},
+	"glyph": {
+		"frames": [
+			{
+				"color": [
+					255,
+					255,
+					255
+				],
+				"delay": 0,
+				"index": 91
+			}
+		],
+		"random_frame_start": false
+	},
+	"health": 390,
+	"id": "2816",
+	"minimap_pixel": [
+		190,
+		184,
+		193
+	],
+	"moveable": {
+		"speed": 0.800000011920929
+	},
+	"name": "Crystal Wolf",
+	"sight": {
+		"ignore_infra_penalty": false,
+		"infravision": true,
+		"range": 10,
+		"threesixty": false
+	},
+	"stamina": {
+		"fatigue": 100,
+		"stamina": 100,
+		"stamina_regen": 0.0
+	},
+	"statistics": {
+		"dexterity": [
+			15,
+			18
+		],
+		"endurance": [
+			40,
+			45
+		],
+		"intelligence": [
+			5,
+			8
+		],
+		"magic_power": 10,
+		"strength": [
+			40,
+			45
+		],
+		"willpower": [
+			45,
+			50
+		]
+	},
+	"tags": [
+		"9",
+		"2"
+	],
+	"weapon": {
+		"attack_speed": 1.0,
+		"critical_hit": 0.0,
+		"damage": [
+			{
+				"dmg_max": 7,
+				"dmg_min": 1,
+				"dmg_type": "frost"
+			}
+		],
+		"hands": 1,
+		"hit_bonus": 0,
+		"parry_bonus": 0,
+		"range": 1,
+		"type": 1
+	}
+}

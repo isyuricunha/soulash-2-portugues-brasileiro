@@ -1,0 +1,144 @@
+{
+	"ability_user": [
+		"102",
+		"13"
+	],
+	"armor": {
+		"acid": 5,
+		"death": 50,
+		"electricity": 5,
+		"fire": 0,
+		"frost": 0,
+		"holy": -20,
+		"parry": 0,
+		"physical": 40,
+		"poison": 5,
+		"thorns": 0
+	},
+	"artificial_intelligence": {
+		"allies": [
+			"4"
+		],
+		"allow_production": [],
+		"behaviors": [],
+		"enemies": [
+			"5"
+		]
+	},
+	"components": [
+		"ability_user",
+		"actor",
+		"armor",
+		"artificial_intelligence",
+		"collidable",
+		"dialogues",
+		"equipment",
+		"experience_gainer",
+		"fighter",
+		"glyph",
+		"health",
+		"minimap_pixel",
+		"moveable",
+		"name",
+		"position_2d",
+		"sight",
+		"stamina",
+		"statistics",
+		"tags",
+		"weapon"
+	],
+	"corpse": "core_2_Wraith_Shroud",
+	"description": "Remains of a soul tainted with darkness.",
+	"dialogues": [
+		"982",
+		"983"
+	],
+	"experience_gainer": {
+		"exp": 0,
+		"level": 30
+	},
+	"fighter": {
+		"attackNames": [
+			"Ghastly Touch"
+		]
+	},
+	"glyph": {
+		"frames": [
+			{
+				"color": [
+					208,
+					204,
+					187
+				],
+				"delay": 0,
+				"index": 13
+			}
+		],
+		"random_frame_start": false
+	},
+	"health": 470,
+	"id": "core_2_Ice_Wraith",
+	"minimap_pixel": [
+		208,
+		204,
+		186
+	],
+	"moveable": {
+		"speed": 0.699999988079071
+	},
+	"name": "Ice Wraith",
+	"sight": {
+		"ignore_infra_penalty": false,
+		"infravision": true,
+		"range": 12,
+		"threesixty": false
+	},
+	"stamina": {
+		"fatigue": 100,
+		"stamina": 100,
+		"stamina_regen": 0.0
+	},
+	"statistics": {
+		"dexterity": [
+			10,
+			13
+		],
+		"endurance": [
+			10,
+			15
+		],
+		"hearing": 5,
+		"intelligence": [
+			42,
+			47
+		],
+		"strength": [
+			42,
+			45
+		],
+		"willpower": [
+			36,
+			40
+		]
+	},
+	"tags": [
+		"4",
+		"3"
+	],
+	"weapon": {
+		"attack_speed": 0.699999988079071,
+		"critical_hit": 0.0,
+		"damage": [
+			{
+				"dmg_max": 16,
+				"dmg_min": 12,
+				"dmg_type": "death"
+			}
+		],
+		"hands": 1,
+		"hit_bonus": 3,
+		"parry_bonus": 2,
+		"range": 1,
+		"type": 1
+	}
+}

@@ -1,0 +1,86 @@
+{
+	"category_id": 6,
+	"components": [
+		"collidable",
+		"craftable",
+		"glyph",
+		"health",
+		"light_source",
+		"minimap_pixel",
+		"name",
+		"position_2d",
+		"producer",
+		"tool"
+	],
+	"corpse": [],
+	"craftable": {
+		"backgrounds": [],
+		"biomes": [],
+		"magic_slots": 0,
+		"resources": null,
+		"time": 300,
+		"tools": []
+	},
+	"description": "Useful only for cooking, can't get high enough temperature to smelt anything inside.",
+	"glyph": {
+		"frames": [
+			{
+				"color": [
+					255,
+					255,
+					255
+				],
+				"delay": 200,
+				"index": 87
+			},
+			{
+				"color": [
+					255,
+					255,
+					255
+				],
+				"delay": 200,
+				"index": 86
+			}
+		],
+		"random_frame_start": true
+	},
+	"health": 100,
+	"id": "2256",
+	"light_source": {
+		"finish": -1,
+		"lit_image": -1,
+		"range": 3
+	},
+	"minimap_pixel": [
+		74,
+		83,
+		92
+	],
+	"name": "Dirt Furnace",
+	"producer": {
+		"products": {
+			"core_2_deconstruct": [
+				{
+					"amount": [
+						0,
+						0
+					],
+					"id": "",
+					"percent_chance": 0
+				}
+			]
+		},
+		"time": 10
+	},
+	"tool": [
+		{
+			"id": 2,
+			"quality": 30
+		},
+		{
+			"id": 10,
+			"quality": 10
+		}
+	]
+}

@@ -1,0 +1,55 @@
+{
+	"components": [
+		"glyph",
+		"item",
+		"light_source",
+		"minimap_pixel",
+		"name",
+		"position_2d",
+		"stackable",
+		"value",
+		"weight"
+	],
+	"description": "This item can provide small source of light for an extended period of time",
+	"glyph": {
+		"frames": [
+			{
+				"color": [
+					255,
+					255,
+					255
+				],
+				"delay": 100,
+				"index": 125
+			},
+			{
+				"color": [
+					255,
+					255,
+					255
+				],
+				"delay": 100,
+				"index": 943
+			}
+		],
+		"random_frame_start": true
+	},
+	"id": "116",
+	"item": {
+		"image": 36,
+		"type": 16
+	},
+	"light_source": {
+		"finish": -1,
+		"lit_image": 37,
+		"range": 3
+	},
+	"minimap_pixel": [
+		150,
+		150,
+		150
+	],
+	"name": "Candle",
+	"value": 200,
+	"weight": 0.10000000149011612
+}

@@ -1,0 +1,78 @@
+{
+	"armor": {
+		"acid": 3,
+		"death": 10,
+		"electricity": 0,
+		"fire": 0,
+		"frost": 0,
+		"holy": 0,
+		"parry": 0,
+		"physical": 3,
+		"poison": 4,
+		"thorns": 0
+	},
+	"components": [
+		"armor",
+		"craftable",
+		"glyph",
+		"item",
+		"minimap_pixel",
+		"name",
+		"position_2d",
+		"sight",
+		"value",
+		"weight"
+	],
+	"craftable": {
+		"magic_slots": 5,
+		"resource_types": [
+			{
+				"amount": 4,
+				"id": 2
+			},
+			{
+				"amount": 1,
+				"id": 4
+			}
+		],
+		"resources": null,
+		"time": 150,
+		"tools": [
+			14
+		]
+	},
+	"description": "A bizarrely looking mask made of roughly stiched together pieces of leather.",
+	"glyph": {
+		"frames": [
+			{
+				"color": [
+					255,
+					255,
+					255
+				],
+				"delay": 0,
+				"index": 186
+			}
+		],
+		"random_frame_start": false
+	},
+	"id": "2317",
+	"item": {
+		"image": 623,
+		"type": 1
+	},
+	"minimap_pixel": [
+		122,
+		93,
+		57
+	],
+	"name": "Dread Mask",
+	"sight": {
+		"ignore_infra_penalty": true,
+		"infravision": true,
+		"range": 0,
+		"threesixty": false
+	},
+	"value": 20000,
+	"weight": 2.0
+}

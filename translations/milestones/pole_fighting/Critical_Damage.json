@@ -1,0 +1,15 @@
+{
+	"id": "core_2_critical_damage",
+	"name": "Critical Damage",
+	"requirements": {
+		"skill": 18
+	},
+	"rewards": [
+		{
+			"passive": "core_2_critical_damage"
+		}
+	],
+	"skill_id": "core_2_pole_fighting",
+	"steps": [],
+	"steps_type": 0
+}

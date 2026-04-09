@@ -1,0 +1,39 @@
+{
+	"background": {
+		"color": [
+			119,
+			112,
+			87
+		],
+		"noise": 4,
+		"noise_intensity": 4
+	},
+	"components": [
+		"background",
+		"glyph",
+		"minimap_pixel",
+		"name"
+	],
+	"description": "A floor mosaic inlaid with intricate snowflake design.",
+	"glyph": {
+		"frames": [
+			{
+				"color": [
+					255,
+					255,
+					255
+				],
+				"delay": 0,
+				"index": 2878
+			}
+		],
+		"random_frame_start": false
+	},
+	"id": "core_2_Snowflake_Mosaic_Floor",
+	"minimap_pixel": [
+		58,
+		63,
+		72
+	],
+	"name": "Snowflake Mosaic Floor"
+}

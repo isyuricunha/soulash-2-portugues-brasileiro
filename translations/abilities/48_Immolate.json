@@ -1,0 +1,28 @@
+{
+	"animation": "46",
+	"cast_time": 0.6000000238418579,
+	"cooldown": 3.0,
+	"cost": {
+		"health": 0,
+		"stamina": 5
+	},
+	"description": "Snap your fingers and ignite your target dealing ::damage ::damage_type damage.",
+	"duration": 0.0,
+	"effects": {
+		"damage": [
+			1,
+			4
+		],
+		"damage_type": "fire",
+		"magic_power_damage": 1.0
+	},
+	"id": "48",
+	"image": 140,
+	"name": "Immolate",
+	"range": 4,
+	"skill": "core_2_pyromancy",
+	"slots": {
+		"offensive": 1
+	},
+	"target": "health"
+}
