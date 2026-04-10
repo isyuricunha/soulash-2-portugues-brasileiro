@@ -9,7 +9,7 @@
     "value",
     "weight"
   ],
-  "description": "Thin roots of a speargrass.",
+  "description": "Raízes finas de uma grama de lança.",
   "glyph": {
     "frames": [
       {
@@ -34,7 +34,7 @@
     73,
     73
   ],
-  "name": "Speargrass Root",
+  "name": "Raiz de Grama de Lança",
   "value": 800,
   "weight": 0.10000000149011612
 }
