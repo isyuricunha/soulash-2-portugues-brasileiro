@@ -93,7 +93,7 @@
   "moveable": {
     "speed": 0.800000011920929
   },
-  "name": "Harpy",
+  "name": "Harpia",
   "sight": {
     "ignore_infra_penalty": false,
     "infravision": true,

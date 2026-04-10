@@ -12,7 +12,7 @@
     "weapon",
     "weight"
   ],
-  "description": "Glass-like black rock formed from volcanic lava.",
+  "description": "Rochas negras como vidro formadas a partir de lava vulcânica.",
   "glyph": {
     "frames": [
       {
@@ -37,7 +37,7 @@
     113,
     115
   ],
-  "name": "Obsidian Stone",
+  "name": "Pedra de Obsidiana",
   "resource": {
     "affix": "Obsidian",
     "magic_ingredient": 0,

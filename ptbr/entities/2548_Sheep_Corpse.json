@@ -10,7 +10,7 @@
     "value",
     "weight"
   ],
-  "description": "The remains of a sheep.",
+  "description": "Os restos de uma ovelha.",
   "glyph": {
     "frames": [
       {
@@ -39,7 +39,7 @@
     102,
     57
   ],
-  "name": "Sheep Corpse",
+  "name": "Cadáver de Ovelha",
   "producer": {
     "products": {
       "3": [

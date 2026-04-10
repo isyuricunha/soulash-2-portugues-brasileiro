@@ -1,45 +1,45 @@
 {
   "combat": {
-    "description": "The most basic form of combat in Soulash 2 is melee fighting. To attack someone in melee, you can [color=45,121,37,255]walk into your target[/color] or choose a [color=45,121,37,255]Melee Attack action[/color] and a single attack will be performed, or more if you wield more weapons.\n\nThe first selection on a being will highlight it as a target, allowing you to perform your single target actions and abilities without further confirmation.\n\n::ranged_attack\n\nOther than regular attacks, you may use special abilities. You may acquire new abilities by improving your skills. Check out Skills Screen ::enter_skills and assigning them to your ability bar.",
-    "title": "Combat",
+    "description": "A forma mais básica de combate em Soulash 2 é a luta corpo a corpo. Para atacar alguém em combate corpo a corpo, você pode [color=45,121,37,255]caminhar em direção ao seu alvo[/color] ou escolher uma [color=45,121,37,255]Ação de Ataque Corpo a Corpo[/color] e um único ataque será realizado, ou mais se você estiver empunhando mais armas.\n\nA primeira seleção em um ser irá destacá-lo como alvo, permitindo que você realize suas ações e habilidades de alvo único sem confirmação adicional.\n\n::ranged_attack\n\nAlém de ataques regulares, você pode usar habilidades especiais. Você pode adquirir novas habilidades melhorando suas habilidades. Confira a Tela de Habilidades ::enter_skills e atribua-as à sua barra de habilidades.",
+    "title": "Combate",
     "keys_keyboard": [
       {
         "id": "::ranged_attack",
-        "text": "If you have a ranged weapon like a bow, crossbow, or throwing weapon, you can attack enemies at range by pressing [color=45,121,37,255]t[/color] and selecting your target."
+        "text": "Se você tem uma arma à distância como um arco, uma besta ou uma arma de arremesso, você pode atacar inimigos à distância pressionando [color=45,121,37,255]t[/color] e selecionando seu alvo."
       },
       {
         "id": "::enter_skills",
-        "text": "by pressing [color=45,121,37,255]v[/color]"
+        "text": "pressionando [color=45,121,37,255]v[/color]"
       }
     ],
     "gamepad_keys": [
       {
         "id": "::ranged_attack",
-        "text": "If you have a ranged weapon like a bow, crossbow, or throwing weapon, you the default attack option will reflect that on selected target."
+        "text": "Se você tem uma arma à distância como um arco, besta ou arma de arremesso, a opção de ataque padrão refletirá isso no alvo selecionado."
       },
       {
         "id": "::enter_skills",
-        "text": "by pressing [color=45,121,37,255]Start[/color] on your gamepad and navigating to the screen with [color=45,121,37,255]RB[/color]"
+        "text": "pressionando [color=45,121,37,255]Start[/color] no seu gamepad e navegando até a tela com [color=45,121,37,255]RB[/color]"
       }
     ]
   },
   "creating_items": {
-    "description": "To access the list of available recipes you can choose the corresponding button ::crafting_screen.\n\nWhen you hover over a recipe, you'll see its description with the resources and tools needed to create it. Once you select the recipe, ::select_resources resources under Available Resources column, or purchase them if the settlement you're at offers them.\n\nTo finalize crafting an item, you must fill all top slots for basic resources, the magic ingredients are optional.\n\nIf you stop the item creation process you may resume it later without paying the cost again, unless you explicitly cancel the item.\n\nIf you or the crafter NPC you're talking with knows the recipe for an item you own, you may also upgrade it by replacing any of the resources in it.\n\nTo learn new recipes, advance in skills that provide them - see the list of milestones in the Skills tab.",
+    "description": "Para acessar a lista de receitas disponíveis, você pode escolher o botão correspondente ::crafting_screen.\n\nQuando você passar o mouse sobre uma receita, verá sua descrição com os recursos e ferramentas necessários para criá-la. Uma vez selecionada a receita, ::select_resources recursos sob a coluna Recursos Disponíveis, ou compre-os se o assentamento em que você está os oferece.\n\nPara finalizar a fabricação de um item, você deve preencher todos os slots superiores para recursos básicos, os ingredientes mágicos são opcionais.\n\nSe você interromper o processo de criação do item, poderá retomá-lo mais tarde sem pagar o custo novamente, a menos que você cancele explicitamente o item.\n\nSe você ou o NPC artesão com quem está falando conhece a receita de um item que você possui, você também pode melhorá-lo substituindo qualquer um dos recursos nele.\n\nPara aprender novas receitas, avance em habilidades que as fornecem - veja a lista de marcos na aba de Habilidades.",
     "title": "Artesanato",
     "keys_keyboard": [
       {
         "id": "::crafting_screen",
-        "text": "ability bar or press [color=45,121,37,255]c[/color] key"
+        "text": "barra de habilidades ou pressione a tecla [color=45,121,37,255]c[/color]"
       },
       {
         "id": "::select_resources",
-        "text": "drag & drop"
+        "text": "arrastar e soltar"
       }
     ],
     "gamepad_keys": [
       {
         "id": "::crafting_screen",
-        "text": "above your ability bar or with [color=45,121,37,255]Gamepad Start[/color] key and navigating there with [color=45,121,37,255]RB[/color]"
+        "text": "acima da sua barra de habilidades ou com a tecla [color=45,121,37,255]Gamepad Start[/color] e navegando até lá com [color=45,121,37,255]RB[/color]"
       },
       {
         "id": "::select_resources",
@@ -48,96 +48,96 @@
     ]
   },
   "fatigue": {
-    "description": "After you took a rest, you might have noticed that your stamina bar gained a bit of an [color=176,101,43,255]orange indicator[/color] at the end.\n\nThis is fatigue and you will gain more of it when you rest. Fatigue reduces your maximum stamina by its amount, but you can recover by performing ::sleep_action. Sleeping can be dangerous if done in the open where an enemy group could stumble upon you.",
-    "title": "Fatigue",
+    "description": "Depois de descansar, você pode ter notado que sua barra de fôlego ganhou um pouco de um [color=176,101,43,255]indicador laranja[/color] no final.\n\nEsta é a fadiga e você ganhará mais dela quando descansar. A fadiga reduz seu fôlego máximo pela sua quantidade, mas você pode se recuperar realizando ::sleep_action. Dormir pode ser perigoso se feito ao ar livre, onde um grupo inimigo pode tropeçar em você.",
+    "title": "Fadiga",
     "keys_keyboard": [
       {
         "id": "::sleep_action",
-        "text": "[color=45,121,37,255]Sleep Action (R key)[/color]"
+        "text": "[color=45,121,37,255]Ação de Dormir (Tecla R)[/color]"
       }
     ],
     "gamepad_keys": [
       {
         "id": "::sleep_action",
-        "text": "[color=45,121,37,255]Sleep Action[/color] in contextual menu when you select yourself."
+        "text": "[color=45,121,37,255]Ação de Dormir[/color] no menu contextual quando você se seleciona."
       }
     ]
   },
   "health": {
-    "description": "You got hit!\n\nYou should see a [color=184,35,35,255]red bar indicating your health[/color] on the top left section of your screen. Keep an eye on it, because when it drops to 0 your character will die!\n\nYour health will regenerate slowly over time, but you can speed it up with some abilities or items like bandages.",
+    "description": "Você foi atingido!\n\nVocê deveria ver uma [color=184,35,35,255]barra vermelha indicando sua vida[/color] na seção superior esquerda da sua tela. Mantenha um olho nela, porque quando ela cair para 0 seu personagem morrerá!\n\nSua vida se regenerará lentamente ao longo do tempo, mas você pode acelerar isso com algumas habilidades ou itens como bandagens.",
     "title": "Vida"
   },
   "hunger": {
-    "description": "Hunger and Thirst represent the need to consume food and water, and you'll see them as the green and blue bars in the top left of your screen. When [color=45,121,37,255]hunger or thirst drops below 0, they reset to 100 and you gain starvation or dehydration mark[/color] under the bar.\n\nEach starvation and dehydration mark reduces all your base statistics by 2.\n\nWhen starvation or dehydration marks fill the bar fully, your character will die (except in High Fantasy mode, where you will suffer).\n\nOnce the bars drop, you will eat and drink automatically as long as you have food and water in your backpack. The order food in your backpack determines the priority of consumption starting from top left, and searching horizontally.\n\nYou can't travel between regions if your starvation or dehydration reaches level 4, so make sure you don't get stuck in a region without food or water.\n\nYou may quench your thirst automatically by [color=45,121,37,255]passing by the river on the world map[/color], and most [color=45,121,37,255]settlements will have a water source in their center area[/color].",
-    "title": "Hunger & Thirst"
+    "description": "Fome e Sede representam a necessidade de consumir comida e água, e você as verá como as barras verde e azul no canto superior esquerdo da sua tela. Quando [color=45,121,37,255]a fome ou a sede caírem abaixo de 0, elas voltam a 100 e você ganha uma marca de inanição ou desidratação[/color] abaixo da barra.\n\nCada marca de inanição e desidratação reduz todas as suas estatísticas base em 2.\n\nQuando as marcas de inanição ou desidratação encherem completamente a barra, seu personagem morrerá (exceto no modo Alta Fantasia, onde você sofrerá).\n\nUma vez que as barras caiam, você comerá e beberá automaticamente desde que tenha comida e água na sua mochila. A ordem da comida na sua mochila determina a prioridade de consumo, começando do canto superior esquerdo e buscando horizontalmente.\n\nVocê não pode viajar entre regiões se sua inanição ou desidratação atingirem o nível 4, então certifique-se de não ficar preso em uma região sem comida ou água.\n\nVocê pode saciar sua sede automaticamente [color=45,121,37,255]passando por um rio no mapa do mundo[/color], e a maioria dos [color=45,121,37,255]assentamentos terá uma fonte de água em sua área central[/color].",
+    "title": "Fome & Sede"
   },
   "inventory": {
-    "description": "You can access your inventory screen with ::inventory_screen. This screen is separated into three parts.\n\n[color=45,121,37,255]Left part displays Statistics[/color] of your character. You can read their description by ::hovering. These stats are non-refundable so choose them carefully. Below, you can find damage and protection of your character, as well as hit and parry chance. These values will be explained more in-depth when we get into combat section.\n\n[color=45,121,37,255]The middle part displays Equipment[/color], items that your character currently wears. Clothes, armors, weapons, shields, or jewelry. These slots will highlight when you select a corresponding item in your backpack.\n\n[color=45,121,37,255]Backpack is the last part of the screen[/color], where you can find everything you are carrying. By selecting an item you will see a list of available actions at the bottom with highlighted hotkeys associated with them.",
+    "description": "Você pode acessar sua tela de inventário com ::inventory_screen. Esta tela é dividida em três partes.\n\n[color=45,121,37,255]A parte esquerda exibe as Estatísticas[/color] do seu personagem. Você pode ler a descrição delas ::passando o mouse. Essas estatísticas não podem ser reembolsadas, então escolha-as com cuidado. Abaixo, você pode encontrar o dano e a proteção do seu personagem, bem como a chance de acerto e de aparar. Esses valores serão explicados mais detalhadamente quando chegarmos à seção de combate.\n\n[color=45,121,37,255]A parte do meio exibe o Equipamento[/color], itens que seu personagem está usando atualmente. Roupas, armaduras, armas, escudos ou joias. Esses slots serão destacados quando você selecionar um item correspondente em sua mochila.\n\n[color=45,121,37,255]A Mochila é a última parte da tela[/color], onde você pode encontrar tudo o que está carregando. Ao selecionar um item, você verá uma lista de ações disponíveis na parte inferior com as teclas de atalho destacadas associadas a elas.",
     "title": "Inventário",
     "keys_keyboard": [
       {
         "id": "::inventory_screen",
-        "text": "[color=45,121,37,255]i[/color] key or by clicking an icon in your action bar"
+        "text": "tecla [color=45,121,37,255]i[/color] ou clicando em um ícone na sua barra de ações"
       },
       {
         "id": "::hovering",
-        "text": "hovering over their names. If you acquire new points, you'll see the +/- and accept buttons to distribute them"
+        "text": "passando o mouse sobre os nomes deles. Se você adquirir novos pontos, verá os botões +/- e aceitar para distribuí-los"
       }
     ],
     "gamepad_keys": [
       {
         "id": "::inventory_screen",
-        "text": "a button above your ability bar or with [color=45,121,37,255]Gamepad Start[/color] key and navigating there with [color=45,121,37,255]RB[/color]"
+        "text": "um botão acima da sua barra de habilidades ou com a tecla [color=45,121,37,255]Gamepad Start[/color] e navegando até lá com [color=45,121,37,255]RB[/color]"
       },
       {
         "id": "::hovering",
-        "text": "navigating the +/- buttons when you have new statistics to redistribute"
+        "text": "navegando pelos botões +/- quando você tem novas estatísticas para redistribuir"
       }
     ]
   },
   "leveling_up": {
-    "description": "In Soulash 2 you advance your skills by performing various tasks.\n\nYou can check which tasks advance in each skill tooltip, available in your Skill Book.\n\n[color=72,125,143,255]The Blue bar at the bottom of each ability[/color] indicates how much more experience you need before you'll advance.\n\nWith each milestone, you may gain a new ability, an amplifier to enhance your abilities, learn a new crafting or building recipe, unlock new world interaction actions, or a passive bonus.\n\nYour skills have a limit called Potential. Your character has a maximum level of potential that you can see above your skills list, which applies to the sum of all skill levels, and every skill may have an individual level of potential.\n\nYou may improve your skill potential by finding a trainer NPC and pay gold to teach you new things.",
-    "title": "Leveling"
+    "description": "Em Soulash 2, você avança suas habilidades realizando várias tarefas.\n\nVocê pode verificar quais tarefas avançam em cada dica de habilidade, disponível no seu Livro de Habilidades.\n\n[color=72,125,143,255]A barra azul na parte inferior de cada habilidade[/color] indica quanto mais experiência você precisa antes de avançar.\n\nCom cada marco, você pode ganhar uma nova habilidade, um amplificador para melhorar suas habilidades, aprender uma nova receita de artesanato ou construção, desbloquear novas ações de interação com o mundo ou um bônus passivo.\n\nSuas habilidades têm um limite chamado Potencial. Seu personagem tem um nível máximo de potencial que você pode ver acima da lista de habilidades, que se aplica à soma de todos os níveis de habilidade, e cada habilidade pode ter um nível individual de potencial.\n\nVocê pode melhorar seu potencial de habilidade encontrando um NPC treinador e pagando ouro para que ele ensine coisas novas a você.",
+    "title": "Subindo de Nível"
   },
   "looking": {
-    "description": "You can ::hover.",
-    "title": "Looking Around",
+    "description": "Você pode ::passar o mouse.",
+    "title": "Olhando em Volta",
     "keys_keyboard": [
       {
         "id": "::hover",
-        "text": "use your mouse to target a tile on the map and [color=45,121,37,255]hold left shift[/color] to see description of everything that is there.\n\nYou can also [color=45,121,37,255]hold left alt + left click[/color] on a tile or choose [color=45,121,37,255]Look At[/color] action from the action wheel"
+        "text": "use o mouse para direcionar a uma célula no mapa e [color=45,121,37,255]segure o shift esquerdo[/color] para ver a descrição de tudo o que está lá.\n\nVocê também pode [color=45,121,37,255]segurar alt esquerdo + clique esquerdo[/color] em uma célula ou escolher a ação [color=45,121,37,255]Olhar Para[/color] da roda de ações"
       }
     ],
     "gamepad_keys": [
       {
         "id": "::hover",
-        "text": "rotate your sight direction with [color=45,121,37,255]Right Stick[/color]. When you hold [color=45,121,37,255]LT[/color] you'll instead navigate around nearby tiles with [color=45,121,37,255]Right Stick[/color]. While also holding [color=45,121,37,255]RB[/color] you can see description of what can be found in the tile"
+        "text": "gire a direção do seu olhar com o [color=45,121,37,255]Analógico Direito[/color]. Quando você segurar [color=45,121,37,255]LT[/color], você navegará em vez disso pelas células próximas com o [color=45,121,37,255]Analógico Direito[/color]. Enquanto também segurar [color=45,121,37,255]RB[/color], você pode ver a descrição do que pode ser encontrado na célula"
       }
     ]
   },
   "movement": {
-    "description": "When you navigate to a tile, you will see a default action icon that you may perform by ::click. In case of any NPC being in the tile, the default action will be to select it.\n\nUsually, the default action will be to move, but in some cases, a different action may be more appropriate.\n\nIf the default action is not what you wish to do, use the right mouse button to toggle an action wheel and choose from all available activities.",
-    "title": "Movement",
+    "description": "Quando você navega até uma célula, verá um ícone de ação padrão que pode ser realizado com um ::clique. No caso de qualquer NPC estar na célula, a ação padrão será selecioná-lo.\n\nGeralmente, a ação padrão será mover, mas em alguns casos, uma ação diferente pode ser mais apropriada.\n\nSe a ação padrão não for o que você deseja fazer, use o botão direito do mouse para alternar uma roda de ações e escolher entre todas as atividades disponíveis.",
+    "title": "Movimento",
     "keys_keyboard": [
       {
         "id": "::click",
-        "text": "clicking the [color=45,121,37,255]Left Mouse Button[/color]"
+        "text": "clicando no [color=45,121,37,255]Botão Esquerdo do Mouse[/color]"
       }
     ],
     "gamepad_keys": [
       {
         "id": "::click",
-        "text": "pressing the [color=45,121,37,255]Gamepad A[/color]"
+        "text": "pressionando o [color=45,121,37,255]Botão A do Controle[/color]"
       }
     ]
   },
   "sight": {
-    "description": "Can you see a [color=45,121,37,255]blue arrow[/color] near your character's portrait border? This is a sight direction indicator, it shows which direction you are looking at.\n\nEvery being with eyes in the game will have such an indicator.\n[color=120,120,120,255]Grey colored[/color] indicator means this creature is neutral toward you.\n[color=178,58,51,255]Red color[/color] means that the enemy [color=178,58,51,255]is aware[/color] of your presence and will attack.\n\nYou can rotate using the Look Action, or ::rotate.",
+    "description": "Você vê uma [color=45,121,37,255]seta azul[/color] perto da borda do retrato do seu personagem? Este é um indicador de direção do olhar, ele mostra para qual direção você está olhando.\n\nTodo ser com olhos no jogo terá tal indicador.\n[color=120,120,120,255]Indicador de cor cinza[/color] significa que esta criatura é neutra em relação a você.\n[color=178,58,51,255]Cor vermelha[/color] significa que o inimigo [color=178,58,51,255]está ciente[/color] da sua presença e atacará.\n\nVocê pode girar usando a Ação de Olhar ou ::girar.",
     "title": "Visão",
     "keys_keyboard": [
       {
         "id": "::rotate",
-        "text": "holding [color=45,121,37,255]Left Alt[/color] and clicking a tile away from your character"
+        "text": "segurando [color=45,121,37,255]Alt Esquerdo[/color] e clicando em uma célula longe do seu personagem"
       }
     ],
     "gamepad_keys": [

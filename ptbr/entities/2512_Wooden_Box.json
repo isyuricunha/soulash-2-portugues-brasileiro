@@ -35,7 +35,7 @@
     "time": 10,
     "tools": []
   },
-  "description": "Empty wooden box.",
+  "description": "Caixa de madeira vazia.",
   "glyph": {
     "frames": [
       {
@@ -57,5 +57,5 @@
     48,
     17
   ],
-  "name": "Wooden Box"
+  "name": "Caixa de Madeira"
 }

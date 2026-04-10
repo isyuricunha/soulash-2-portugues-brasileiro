@@ -11,7 +11,7 @@
     "value",
     "weight"
   ],
-  "description": "A spectral residue left behind by vanquished wraith, holds a touch of otherworldly chill.",
+  "description": "Um resíduo espectral deixado por um espectro derrotado, contém um toque de frio sobrenatural.",
   "glyph": {
     "frames": [
       {
@@ -36,7 +36,7 @@
     113,
     204
   ],
-  "name": "Wraith Dust",
+  "name": "Pó de Espectro",
   "resource": {
     "affix": "of the Underworld",
     "magic_ingredient": 3,

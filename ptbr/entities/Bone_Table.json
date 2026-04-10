@@ -27,7 +27,7 @@
       "id": "552"
     }
   ],
-  "description": "An oddly shaped table made of ribs and bones.",
+  "description": "Uma mesa de forma estranha feita de costelas e ossos.",
   "glyph": {
     "frames": [
       {
@@ -49,7 +49,7 @@
     48,
     17
   ],
-  "name": "Bone Table",
+  "name": "Mesa de Osso",
   "producer": {
     "products": {
       "core_2_deconstruct": [

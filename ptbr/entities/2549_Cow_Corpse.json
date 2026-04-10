@@ -10,7 +10,7 @@
     "value",
     "weight"
   ],
-  "description": "The remains of a cow.",
+  "description": "Os restos de uma vaca.",
   "glyph": {
     "frames": [
       {
@@ -39,7 +39,7 @@
     102,
     57
   ],
-  "name": "Cow Corpse",
+  "name": "Cadáver de Vaca",
   "producer": {
     "products": {
       "3": [

@@ -32,7 +32,7 @@
     "tags"
   ],
   "corpse": "342",
-  "description": "This person looks like they had a hell of the night in the woods.",
+  "description": "Esta pessoa parece que passou por um inferno de noite na floresta.",
   "dialogues": [
     "344",
     "345"
@@ -83,7 +83,7 @@
   "moveable": {
     "speed": 1.2000000476837158
   },
-  "name": "Lost human",
+  "name": "Humano perdido",
   "persona": {
     "occupation": "None"
   },

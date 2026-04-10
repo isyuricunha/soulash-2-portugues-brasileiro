@@ -28,7 +28,7 @@
     "time": 0,
     "tools": []
   },
-  "description": "Road made of small stones for easier traversal.",
+  "description": "Estrada feita de pequenas pedras para travessia mais fácil.",
   "glyph": {
     "frames": [
       {
@@ -49,5 +49,5 @@
     71,
     80
   ],
-  "name": "Stone Road"
+  "name": "Estrada de Pedra"
 }

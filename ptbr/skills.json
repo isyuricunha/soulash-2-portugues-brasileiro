@@ -1333,9 +1333,9 @@
   },
   {
     "id": "core_2_tailoring",
-    "name": "Tailoring",
+    "name": "Alfaiataria",
     "image": 8,
-    "description": "Tailoring is the craft of making clothes from natural fibers. Whether stylish, fearsome, or funny, you too can become a decoration for a new hat. Most clothes offer limited to no physical protection but are light and don't restrict movement.\n\nYou can train this skill by crafting, upgrading or salvaging clothes.",
+    "description": "Alfaiataria é a arte de fazer roupas a partir de fibras naturais. Seja estilosa, assustadora ou engraçada, você também pode se tornar um adorno para um novo chapéu. A maioria das roupas oferece pouca ou nenhuma proteção física, mas são leves e não restringem o movimento.\n\nVocê pode treinar esta habilidade criando, melhorando ou desmanchando roupas.",
     "exp_sources": [
       {
         "id": "craft",
@@ -1397,9 +1397,9 @@
   },
   {
     "id": "core_2_thievery",
-    "name": "Thievery",
+    "name": "Ladinagem",
     "image": 14,
-    "description": "Thievery is the art of taking what doesn't yet belong to you. Depending on the practitioner's wit, it can be a path toward incredible wealth or a noose around the neck. This skill is also associated with the mastery of daggers.\n\nYou can train this skill by using abilities and attacking with daggers, as well as pickpocketing people or robbing families.",
+    "description": "Ladinagem é a arte de tomar o que ainda não pertence a você. Dependendo da astúcia do praticante, pode ser um caminho para riqueza incrível ou uma corda ao redor do pescoço. Esta habilidade também está associada ao domínio de adagas.\n\nVocê pode treinar esta habilidade usando habilidades e atacando com adagas, bem como furtando pessoas ou roubando famílias.",
     "weapon_type": 3,
     "exp_sources": [
       {
@@ -1467,9 +1467,9 @@
   },
   {
     "id": "core_2_weaponsmith",
-    "name": "Weaponsmithing",
+    "name": "Armeiro",
     "image": 10,
-    "description": "The only thing better than standing all day near a blazing hot forge assembling armors is to stand in the same spot crafting weapons. Whether you need a sharp sword, a pointy dagger, a mighty axe, or a massive hammer to compensate for something, a weaponsmith will get you the good stuff.\n\nYou can train this skill by crafting, upgrading or salvaging weapons.",
+    "description": "A única coisa melhor do que ficar o dia todo perto de uma forja escaldante montando armaduras é ficar no mesmo lugar fabricando armas. Seja você precise de uma espada afiada, uma adaga pontuda, um machado poderoso ou um martelo massivo para compensar algo, um armeiro irá te fornecer o que há de melhor.\n\nVocê pode treinar esta habilidade fabricando, melhorando ou desmanchando armas.",
     "exp_sources": [
       {
         "id": "craft",

@@ -11626,13 +11626,13 @@
     },
     {
       "id": 57,
-      "name": "Order Hold",
-      "description": "Orders your companion to wait for you in the area."
+      "name": "Ordem de Esperar",
+      "description": "Ordena que seu companheiro espere por você na área."
     },
     {
       "id": 58,
-      "name": "Order Follow",
-      "description": "Order your companion to follow you."
+      "name": "Ordem de Seguir",
+      "description": "Ordena que seu companheiro siga você."
     }
   ],
   "action_plan_description": {
@@ -11727,11 +11727,11 @@
   "race": [
     {
       "name": "Humano",
-      "description": "[color=155,155,155,255]Humans were the most common being in the world once, but these days are long gone. The population decimated by constant wars is now just a shadow of its former glory. Representatives of this race are extremely adaptable to the situation, but their history was marked heavily by external influence. As the War of Worlds has ended, a great empire has been formed, where single human family clings to the seat of power to this day.[/color]\n\nAll statistics +1\nGets hungry 50% slower\n\n[color=130,163,175,255]Items:[/color] Knife, Bandage\n[color=130,163,175,255]Recipes:[/color] Fishing rod"
+      "description": "[color=155,155,155,255]Os humanos já foram os seres mais comuns no mundo, mas esses dias já se foram há muito tempo. A população, dizimada por guerras constantes, agora é apenas uma sombra de sua antiga glória. Os representantes desta raça são extremamente adaptáveis à situação, mas sua história foi marcada fortemente por influências externas. Com o fim da Guerra dos Mundos, um grande império foi formado, onde uma única família humana ainda se apega ao trono do poder até hoje.[/color]\n\nTodos os atributos +1\nFica com fome 50% mais devagar\n\n[color=130,163,175,255]Itens:[/color] Faca, Bandagem\n[color=130,163,175,255]Receitas:[/color] Vara de Pesca"
     },
     {
-      "name": "Dark dwarf",
-      "description": "[color=155,155,155,255]Dark dwarves are a subrace of dwarves completely corrupted by greed. They prefer to build their incredible keeps very deep below the ground or near volcanoes. Beings of these race are known for being cruel and malevolent.[/color]\n\nEndurance +2\nWillpower +2\nInfravision: see in the dark.\nTinkerer: double chance to learn new recipe when salvaging.\n\n[color=130,163,175,255]Items:[/color] Pickaxe, Belt\n[color=130,163,175,255]Recipes:[/color] Pickaxe"
+      "name": "Anão negro",
+      "description": "[color=155,155,155,255]Anões negros são uma sub-raça de anões completamente corrompidos pela ganância. Eles preferem construir suas fortalezas incríveis muito abaixo do solo ou perto de vulcões. Seres desta raça são conhecidos por serem cruéis e malevolentes.[/color]\n\nResistência +2\nForça de Vontade +2\nVisão Noturna: enxergar no escuro.\nArtífice: chance dobrada de aprender nova receita ao desmanchar.\n\n[color=130,163,175,255]Itens:[/color] Picareta, Cinto\n[color=130,163,175,255]Receitas:[/color] Picareta"
     },
     {
       "name": "Elfo",
@@ -11743,31 +11743,31 @@
     },
     {
       "name": "Goblin",
-      "description": "[color=155,155,155,255]Goblins are small greenskin creatures known for their ruthlessness. Some say they are shorter orc cousins. They form tribes and prefer to live in the mountains. Their greed pushes them to challenge dwarves for their territory constantly. From time to time, they organize in hordes that swarm even the human empire.[/color]\n\nDexterity +3, Endurance +1\nInfravision: see in the dark.\nSneaking +10\n\n[color=130,163,175,255]Items:[/color] Rags\n[color=130,163,175,255]Recipes:[/color] Rags"
+      "description": "[color=155,155,155,255]Goblins são pequenas criaturas de pele verde conhecidas por sua crueldade. Alguns dizem que são primos menores dos orcs. Eles formam tribos e preferem viver nas montanhas. Sua ganância os impulsiona a desafiar os anões por seu território constantemente. De tempos em tempos, eles se organizam em hordas que assolam até mesmo o império humano.[/color]\n\nDestreza +3, Resistência +1\nVisão Noturna: enxergar no escuro.\nFurtividade +10\n\n[color=130,163,175,255]Itens:[/color] Farrapos\n[color=130,163,175,255]Receitas:[/color] Farrapos"
     },
     {
       "name": "Elfo negro",
-      "description": "[color=155,155,155,255]A long time ago dark elves were living in the forests with their brethren, but they were corrupted by dark gods. Now they occupy huge underground cities. Their controversial religious practices and rituals make them feared and dreaded. They despise most other races for opposing their rightful place among them.[/color]\n\nDexterity +2, Intelligence +1, Willpower +1\nInfravision: see in the dark.\nSight range +1\n\n[color=130,163,175,255]Items:[/color] Dagger\n[color=130,163,175,255]Recipes:[/color] Short bow"
+      "description": "[color=155,155,155,255]Há muito tempo atrás, os elfos negros viviam nas florestas com seus irmãos, mas foram corrompidos por deuses sombrios. Agora eles ocupam grandes cidades subterrâneas. Suas práticas e rituais religiosos controversos os tornam temidos e temíveis. Eles desprezam a maioria das outras raças por se oporem ao seu lugar legítimo entre elas.[/color]\n\nDestreza +2, Inteligência +1, Força de Vontade +1\nVisão Noturna: enxergar no escuro.\nAlcance de visão +1\n\n[color=130,163,175,255]Itens:[/color] Adaga\n[color=130,163,175,255]Receitas:[/color] Arco Curto"
     },
     {
       "name": "Vampiro",
-      "description": "[color=155,155,155,255]Vampires are dead beings of living races, cursed to wander the world till the end of times. They don't eat regular food and don't drink water. They feed by drinking the blood of the living to sustain their immortal bodies. Vampires have formed an enclave in the ruins of Black Sun Castle, where they scheme to take over the world and enslave the living like cattle.[/color]\n\nStrength +1, Endurance +2, Intelligence +1\nThirst and hunger is replaced by bloodlust.\nInfravision: see in the dark.\n\n[color=130,163,175,255]Items:[/color] Cloak, Hood\n[color=130,163,175,255]Recipes:[/color] Cloak"
+      "description": "[color=155,155,155,255]Vampiros são seres mortos de raças vivas, amaldiçoados a vagar pelo mundo até o fim dos tempos. Eles não comem comida comum nem bebem água. Eles se alimentam bebendo o sangue dos vivos para sustentar seus corpos imortais. Vampiros formaram um enclave nas ruínas do Castelo Sol Negro, onde tramam para tomar o mundo e escravizar os vivos como gado.[/color]\n\nForça +1, Resistência +2, Inteligência +1\nSede e fome são substituídas por sede de sangue.\nVisão Noturna: enxergar no escuro.\n\n[color=130,163,175,255]Itens:[/color] Capa, Capuz\n[color=130,163,175,255]Receitas:[/color] Capa"
     },
     {
       "name": "Troll",
-      "description": "[color=155,155,155,255]Trolls are huge humanoid beasts. Not many beings of this race are considered smart, but they make up for it with brutal, physical power. Trolls have the strength to tear smaller beings apart in the blink of an eye. They are forever hungry and possess very potent regenerative powers.[/color]\n\nStrength +3, Endurance +1, Intelligence -2\nRegenerates health 20% faster.\nGets hungry 50% faster.\n\n[color=130,163,175,255]Items:[/color] Club\n[color=130,163,175,255]Recipes:[/color] Club"
+      "description": "[color=155,155,155,255]Trolls são bestas humanoides enormes. Poucos seres desta raça são considerados inteligentes, mas eles compensam isso com poder físico brutal. Trolls têm a força para rasgar seres menores em um piscar de olhos. Eles estão sempre com fome e possuem poderes regenerativos muito potentes.[/color]\n\nForça +3, Resistência +1, Inteligência -2\nRegenera vida 20% mais rápido.\nFica com fome 50% mais rápido.\n\n[color=130,163,175,255]Itens:[/color] Clava\n[color=130,163,175,255]Receitas:[/color] Clava"
     },
     {
       "name": "Orc",
-      "description": "[color=155,155,155,255]Orcs are green. Orcs are mean. Orcs want to smash, bash and eat. They form hordes led by the most brutal chieftains of their kind to raid other races for loot. Their physical appearance is second only to trolls and giants.[/color]\n\nStrength +2, Endurance +2\nHit bonus +1 on all weapons\n\n[color=130,163,175,255]Items:[/color] Hand axe\n[color=130,163,175,255]Recipes:[/color] Hatchet"
+      "description": "[color=155,155,155,255]Orcs são verdes. Orcs são maus. Orcs querem esmagar, bater e comer. Eles formam hordas lideradas pelos chefes mais brutais de sua espécie para saquear outras raças em busca de saque. Sua aparência física só é superada por trolls e gigantes.[/color]\n\nForça +2, Resistência +2\nBônus de acerto +1 em todas as armas\n\n[color=130,163,175,255]Itens:[/color] Machado de Mão\n[color=130,163,175,255]Receitas:[/color] Machadinha"
     },
     {
       "name": "Lich",
-      "description": "[color=155,155,155,255]Liches are powerful mages that cheated death. There are not many of them in the world, but most are immensely powerful. Their center of power is in the Black Pyramid of Sareth where God Pharaoh Sandaver rules over the dead. The power that allows these beings to defy death is shrouded in mystery.[/color]\n\nIntelligence +2, Willpower +2\nThirst and hunger is replaced by life essence.\nDeath aura dealing 1 death damage to everything nearby every turn.\n\n[color=130,163,175,255]Items:[/color] Quarterstaff\n[color=130,163,175,255]Recipes:[/color] Mask"
+      "description": "[color=155,155,155,255]Liches são magos poderosos que enganaram a morte. Não há muitos deles no mundo, mas a maioria é imensamente poderosa. Seu centro de poder está na Pirâmide Negra de Sareth, onde o Faraó-Deus Sandaver reina sobre os mortos. O poder que permite a esses seres desafiar a morte é envolto em mistério.[/color]\n\nInteligência +2, Força de Vontade +2\nSede e fome são substituídas por essência vital.\nAura da morte causando 1 de dano de morte a tudo nas proximidades a cada turno.\n\n[color=130,163,175,255]Itens:[/color] Bastão\n[color=130,163,175,255]Receitas:[/color] Máscara"
     },
     {
       "name": "Rasimi",
-      "description": "[color=155,155,155,255]Rasimi are cat-like people. They are many sub-races among them, having common parts with lions, panthers, tigers or regular house cats. They live deep in the jungles of Tar'Var. They are individuals, loners and prefer seclusion over contact with others, as they considering other races untrustworthy. The feeling is often mutual.[/color]\n\nDexterity +2, Strength +1, Endurance +1\nInfravision: see in the dark.\nMove 10% faster\n\n[color=130,163,175,255]Items:[/color] Dagger, Shirt\n[color=130,163,175,255]Recipes:[/color] Dagger"
+      "description": "[color=155,155,155,255]Rasimi são pessoas semelhantes a felinos. Há muitas sub-raças entre eles, tendo partes comuns com leões, panteras, tigres ou gatos domésticos comuns. Eles vivem profundamente nas selvas de Tar'Var. São indivíduos, solitários e preferem o isolamento ao contato com outros, pois consideram outras raças não confiáveis. O sentimento é frequentemente mútuo.[/color]\n\nDestreza +2, Força +1, Resistência +1\nVisão Noturna: enxergar no escuro.\nMove 10% mais rápido\n\n[color=130,163,175,255]Itens:[/color] Adaga, Camisa\n[color=130,163,175,255]Receitas:[/color] Adaga"
     },
     {
       "name": "None",
@@ -11798,7 +11798,7 @@
       "description": "None"
     },
     {
-      "name": "Ghoul",
+      "name": "Gul",
       "description": "None"
     },
     {
@@ -11980,43 +11980,43 @@
       "description": "Componente interno in-game."
     },
     {
-      "name": "Minimap Pixel",
-      "description": "Color of the pixel this entity will have when drawn on minimap and world map."
+      "name": "Pixel do Minimapa",
+      "description": "Cor do pixel que esta entidade terá quando desenhada no minimapa e no mapa do mundo."
     },
     {
-      "name": "Mouseovered",
+      "name": "Mouse sobre",
       "description": "Componente interno in-game."
     },
     {
-      "name": "Move animation",
+      "name": "Animação de movimento",
       "description": "Componente interno in-game."
     },
     {
-      "name": "Moveable",
-      "description": "Moveable component is required for entities to move around. [color=192,176,27,255]Value[/color] defines the cost of movement in turns, so higher value means the entity is slower.\n\nRequired components: Actor, Artificial Intelligence, Position2D, Name."
+      "name": "Movível",
+      "description": "O componente Movível é necessário para que as entidades se movam. [color=192,176,27,255]Valor[/color] define o custo do movimento em turnos, então um valor maior significa que a entidade é mais lenta.\n\nComponentes necessários: Ator, Inteligência Artificial, Posição2D, Nome."
     },
     {
-      "name": "Name",
-      "description": "Name is a required component for every entity. [color=192,176,27,255]Name[/color] field should be the entity name, while the description is the extra details to help players imagine what they see.\n[color=192,176,27,255]Description[/color] may be generated procedurally if you enter 'Placeholder' into the description and certain conditions are met. Entity requires a certain tag to have a description generated too. Supported tags are Demon, Dwarf, Elf, Fishman, Goblin, Human, Lich, Orc, Rasimi, Reptilion, Satyr, and Troglodyte.\n\nRequired components: None."
+      "name": "Nome",
+      "description": "Nome é um componente necessário para todas as entidades. O campo [color=192,176,27,255]Nome[/color] deve ser o nome da entidade, enquanto a descrição são detalhes extras para ajudar os jogadores a imaginarem o que veem.\n[color=192,176,27,255]Descrição[/color] pode ser gerada proceduralmente se você inserir 'Placeholder' na descrição e certas condições forem atendidas. A entidade requer uma certa tag para ter uma descrição gerada também. As tags suportadas são Demon, Dwarf, Elf, Fishman, Goblin, Human, Lich, Orc, Rasimi, Reptilion, Satyr e Troglodyte.\n\nComponentes necessários: Nenhum."
     },
     {
-      "name": "On destruction",
-      "description": "On destruction component triggers a special effect that may have a global or local scope when entity dies.\n\nRequired components: Position2D, Name, Health."
+      "name": "Ao destruir",
+      "description": "O componente Ao destruir aciona um efeito especial que pode ter um escopo global ou local quando a entidade morre.\n\nComponentes necessários: Posição2D, Nome, Vida."
     },
     {
-      "name": "On enter",
-      "description": "On enter component triggers an [color=192,176,27,255]ability[/color] when entity enters the tile with this component.\n\nRequired components: Position2D, Name."
+      "name": "Ao entrar",
+      "description": "O componente Ao entrar aciona uma [color=192,176,27,255]habilidade[/color] quando a entidade entra na célula com este componente.\n\nComponentes necessários: Posição2D, Nome."
     },
     {
-      "name": "Openable",
-      "description": "Openable component is used commonly for doors. Its purpose is to replace some elements of the entity depending on its state - either closed or opened. Block light, Collidable, Description, Glyph, and Height are available components that will toggle values with base entity components. Settings defined in this component are for opened entity.\n\nRequired components: Position2D, Name."
+      "name": "Abrível",
+      "description": "O componente Abrível é comumente usado para portas. Seu propósito é substituir alguns elementos da entidade dependendo de seu estado - fechado ou aberto. Bloquear luz, Colidível, Descrição, Glifo e Altura são componentes disponíveis que alternarão valores com os componentes da entidade base. As configurações definidas neste componente são para a entidade aberta.\n\nComponentes necessários: Posição2D, Nome."
     },
     {
-      "name": "Overlay",
+      "name": "Sobreposição",
       "description": "Componente interno in-game."
     },
     {
-      "name": "Ownership",
+      "name": "Propriedade",
       "description": "Componente interno in-game."
     },
     {

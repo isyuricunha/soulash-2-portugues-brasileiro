@@ -10,7 +10,7 @@
     "value",
     "weight"
   ],
-  "description": "The lich phylactery, a vessel of dark sorcery, harbors the essence of its immortal master.",
+  "description": "O filactério do liche, um vaso de feitiçaria sombria, abriga a essência de seu mestre imortal.",
   "glyph": {
     "frames": [
       {
@@ -35,7 +35,7 @@
     109,
     155
   ],
-  "name": "Lich's Phylactery",
+  "name": "Filactério do Liche",
   "resource": {
     "affix": "of Dead Mage",
     "magic_ingredient": 3,

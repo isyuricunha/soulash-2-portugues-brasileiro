@@ -34,7 +34,7 @@
     "tags"
   ],
   "corpse": "25",
-  "description": "This person looks kind of mad, mumbling to themself constantly about some forgotten god,",
+  "description": "Esta pessoa parece meio louca, murmurando constantemente para si mesma sobre algum deus esquecido.",
   "dialogues": [
     "50",
     "51"
@@ -115,7 +115,7 @@
   "moveable": {
     "speed": 1.2000000476837158
   },
-  "name": "Cultist of The One",
+  "name": "Cultista do Único",
   "sight": {
     "ignore_infra_penalty": false,
     "infravision": false,

@@ -32,7 +32,7 @@
     "tags"
   ],
   "corpse": "322",
-  "description": "With a song in their heart, this elf wanders the world in search of inspiration.",
+  "description": "Com uma canção no coração, este elfo vagueia pelo mundo em busca de inspiração.",
   "dialogues": [
     "576",
     "577"
@@ -105,7 +105,7 @@
   "moveable": {
     "speed": 1.0
   },
-  "name": "Wandering bard",
+  "name": "Bardo errante",
   "persona": {
     "occupation": "None"
   },
