@@ -1,0 +1,16 @@
+{
+  "id": "67",
+  "image": 62,
+  "max": 1,
+  "name": "Quartel",
+  "occupation_image": 72,
+  "occupation": "2283",
+  "produces": [],
+  "race": "1",
+  "tier": 1,
+  "type": "military",
+  "workers": [
+    1,
+    16
+  ]
+}

@@ -1,0 +1,115 @@
+{
+  "armor": {
+    "acid": 20,
+    "death": 0,
+    "electricity": 0,
+    "fire": -5,
+    "frost": 0,
+    "holy": 0,
+    "parry": 0,
+    "physical": 0,
+    "poison": 0
+  },
+  "artificial_intelligence": {
+    "allies": [
+      "17"
+    ],
+    "allow_production": [],
+    "behaviors": [],
+    "enemies": [
+      "5"
+    ]
+  },
+  "components": [
+    "actor",
+    "armor",
+    "artificial_intelligence",
+    "collidable",
+    "dialogues",
+    "experience_gainer",
+    "fighter",
+    "glyph",
+    "health",
+    "minimap_pixel",
+    "moveable",
+    "name",
+    "position_2d",
+    "sight",
+    "stamina",
+    "statistics",
+    "tags"
+  ],
+  "corpse": "2167",
+  "description": "É uma massa gelatinosa sem forma. Rumores dizem que pode dissolver matéria ao toque.",
+  "dialogues": [],
+  "experience_gainer": {
+    "exp": 0,
+    "level": 10
+  },
+  "fighter": {
+    "attackNames": [
+      "Acid Touch"
+    ]
+  },
+  "glyph": {
+    "frames": [
+      {
+        "color": [
+          255,
+          255,
+          255
+        ],
+        "delay": 0,
+        "index": 679
+      }
+    ],
+    "random_frame_start": false
+  },
+  "health": 60,
+  "id": "2055",
+  "minimap_pixel": [
+    66,
+    160,
+    5
+  ],
+  "moveable": {
+    "speed": 1.399999976158142
+  },
+  "name": "Slime",
+  "sight": {
+    "ignore_infra_penalty": false,
+    "infravision": true,
+    "range": 6,
+    "threesixty": false
+  },
+  "stamina": {
+    "fatigue": 100,
+    "stamina": 100
+  },
+  "statistics": {
+    "dexterity": [
+      9,
+      12
+    ],
+    "endurance": [
+      14,
+      18
+    ],
+    "intelligence": [
+      8,
+      12
+    ],
+    "strength": [
+      7,
+      11
+    ],
+    "willpower": [
+      8,
+      12
+    ]
+  },
+  "tags": [
+    "9",
+    "17"
+  ]
+}

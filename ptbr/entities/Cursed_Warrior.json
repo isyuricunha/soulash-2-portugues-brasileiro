@@ -1,0 +1,284 @@
+{
+  "ability_user": [
+    "core_2_Death_Stare",
+    "core_2_Wail_of_Souls"
+  ],
+  "armor": {
+    "acid": 20,
+    "death": 10000,
+    "electricity": 20,
+    "fire": 99,
+    "frost": 20,
+    "holy": -20,
+    "parry": 0,
+    "physical": 50,
+    "poison": 20,
+    "thorns": 0
+  },
+  "artificial_intelligence": {
+    "allies": [],
+    "allow_production": [],
+    "behaviors": [],
+    "enemies": [
+      "5"
+    ]
+  },
+  "chained": {
+    "map": [
+      [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "",
+        "",
+        "core_2_Cursed_Wing_Left",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "",
+        "",
+        "",
+        "",
+        "RESERVED_core_2_leader_tile",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "",
+        "",
+        "core_2_Cursed_Wing_Right",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ]
+    ],
+    "snake": false
+  },
+  "components": [
+    "ability_user",
+    "actor",
+    "armor",
+    "artificial_intelligence",
+    "chained",
+    "collidable",
+    "dialogues",
+    "equipment",
+    "experience_gainer",
+    "fighter",
+    "glyph",
+    "health",
+    "minimap_pixel",
+    "moveable",
+    "name",
+    "position_2d",
+    "sight",
+    "stamina",
+    "statistics",
+    "tags",
+    "weapon"
+  ],
+  "corpse": [],
+  "description": "Vestido de preto, com asas semelhantes a morcego, este guerreiro parece ter visto e causado muitas mortes.",
+  "dialogues": [
+    "1036"
+  ],
+  "equipment": {
+    "right_hand": [
+      {
+        "chance": 1.0,
+        "id": "core_2_Black_Scythe",
+        "name": "Foice Negra",
+        "stack": 1
+      }
+    ],
+    "torso_armor": [
+      {
+        "chance": 1.0,
+        "id": "core_2_Dark_Armor",
+        "name": "Armadura Negra",
+        "stack": 1
+      }
+    ]
+  },
+  "experience_gainer": {
+    "exp": 0,
+    "level": 50
+  },
+  "fighter": {
+    "attackNames": null
+  },
+  "glyph": {
+    "frames": [
+      {
+        "color": [
+          255,
+          255,
+          255
+        ],
+        "delay": 0,
+        "index": 2502
+      }
+    ],
+    "random_frame_start": false
+  },
+  "health": 2500,
+  "id": "core_2_Cursed_Warrior",
+  "minimap_pixel": [
+    149,
+    165,
+    101
+  ],
+  "moveable": {
+    "speed": 1.5
+  },
+  "name": "Guerreiro Amaldiçoado",
+  "sight": {
+    "ignore_infra_penalty": false,
+    "infravision": true,
+    "range": 12,
+    "threesixty": false
+  },
+  "stamina": {
+    "fatigue": 100,
+    "stamina": 100,
+    "stamina_regen": 0.0
+  },
+  "statistics": {
+    "dexterity": [
+      50,
+      70
+    ],
+    "endurance": [
+      150,
+      160
+    ],
+    "intelligence": [
+      50,
+      60
+    ],
+    "magic_power": 10,
+    "strength": [
+      110,
+      120
+    ],
+    "willpower": [
+      150,
+      160
+    ]
+  },
+  "tags": [
+    "38",
+    "4"
+  ],
+  "weapon": {
+    "attack_animation": "core_2_Swipe",
+    "attack_speed": 1.0,
+    "critical_hit": 0.0,
+    "damage": [
+      {
+        "dmg_max": 60,
+        "dmg_min": 40,
+        "dmg_type": "death"
+      }
+    ],
+    "hands": 1,
+    "hit_bonus": 0,
+    "parry_bonus": 0,
+    "range": 1,
+    "type": 1
+  }
+}

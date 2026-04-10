@@ -1,0 +1,64 @@
+{
+  "category_id": 7,
+  "components": [
+    "craftable",
+    "glyph",
+    "minimap_pixel",
+    "name",
+    "position_2d",
+    "producer",
+    "resting_place"
+  ],
+  "craftable": {
+    "backgrounds": [],
+    "biomes": [],
+    "magic_slots": 0,
+    "resource_types": [
+      {
+        "amount": 2,
+        "id": 4
+      }
+    ],
+    "resources": null,
+    "time": 0,
+    "tools": []
+  },
+  "description": "Uma cama de corda relaxante e suspensa, perfeita para momentos de lazer e descanso pacífico.",
+  "glyph": {
+    "frames": [
+      {
+        "color": [
+          255,
+          255,
+          255
+        ],
+        "delay": 0,
+        "index": 2598
+      }
+    ],
+    "random_frame_start": true
+  },
+  "id": "core_2_Rope_Hammock",
+  "minimap_pixel": [
+    135,
+    161,
+    63
+  ],
+  "name": "Rede de Corda",
+  "producer": {
+    "products": {
+      "core_2_deconstruct": [
+        {
+          "amount": [
+            0,
+            0
+          ],
+          "id": "",
+          "percent_chance": 100
+        }
+      ]
+    },
+    "time": 20
+  },
+  "resting_place": 110
+}

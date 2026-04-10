@@ -1,0 +1,56 @@
+{
+  "background": {
+    "color": [
+      44,
+      45,
+      41
+    ],
+    "noise": 3,
+    "noise_intensity": 6
+  },
+  "category_id": 1,
+  "components": [
+    "background",
+    "craftable",
+    "glyph",
+    "health",
+    "minimap_pixel",
+    "name"
+  ],
+  "corpse": [],
+  "craftable": {
+    "magic_slots": 0,
+    "resource_types": [
+      {
+        "amount": 1,
+        "id": 3
+      }
+    ],
+    "resources": null,
+    "time": 0,
+    "tools": []
+  },
+  "description": "Sneaking across a creaking wooden floor? The trick is proper shoes.",
+  "glyph": {
+    "frames": [
+      {
+        "color": [
+          255,
+          255,
+          255
+        ],
+        "delay": 0,
+        "index": 873
+      }
+    ],
+    "random_frame_start": false
+  },
+  "health": 1,
+  "id": "4",
+  "minimap_pixel": [
+    61,
+    38,
+    7
+  ],
+  "name": "Wooden Floor"
+}

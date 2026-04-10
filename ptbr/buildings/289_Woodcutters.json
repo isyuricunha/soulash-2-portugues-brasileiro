@@ -1,0 +1,33 @@
+{
+  "id": "289",
+  "image": 228,
+  "name": "Woodcutters",
+  "occupation_image": 40,
+  "occupation": "core_2_Ursan_Woodcutter",
+  "produces": [
+    {
+      "entities": [
+        {
+          "daily": 1.0,
+          "id": "2096"
+        }
+      ],
+      "takes": []
+    },
+    {
+      "entities": [
+        {
+          "daily": 1.0,
+          "id": "2092"
+        }
+      ],
+      "takes": []
+    }
+  ],
+  "race": "33",
+  "tier": 1,
+  "workers": [
+    1,
+    2
+  ]
+}

@@ -1,0 +1,143 @@
+{
+  "armor": {
+    "acid": 1,
+    "death": 2,
+    "electricity": -5,
+    "fire": -1,
+    "frost": 0,
+    "holy": -2,
+    "parry": 0,
+    "physical": 1,
+    "poison": 0,
+    "thorns": 0
+  },
+  "artificial_intelligence": {
+    "allies": [],
+    "allow_production": [],
+    "behaviors": [],
+    "enemies": [
+      "5"
+    ]
+  },
+  "components": [
+    "actor",
+    "armor",
+    "artificial_intelligence",
+    "collidable",
+    "dialogues",
+    "equipment",
+    "experience_gainer",
+    "fighter",
+    "glyph",
+    "health",
+    "minimap_pixel",
+    "moveable",
+    "name",
+    "position_2d",
+    "sight",
+    "stamina",
+    "statistics",
+    "tags"
+  ],
+  "corpse": "703",
+  "description": "Morcegos são ratos voadores das profundezas mais escuras.",
+  "dialogues": [
+    "28",
+    "899"
+  ],
+  "equipment": {
+    "disabled_slots": [
+      1,
+      0,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18
+    ]
+  },
+  "experience_gainer": {
+    "exp": 0,
+    "level": 10
+  },
+  "fighter": {
+    "attackNames": [
+      "Bite",
+      "Wings flap"
+    ]
+  },
+  "glyph": {
+    "frames": [
+      {
+        "color": [
+          255,
+          255,
+          255
+        ],
+        "delay": 0,
+        "index": 38
+      }
+    ],
+    "random_frame_start": false
+  },
+  "health": 20,
+  "id": "736",
+  "minimap_pixel": [
+    158,
+    97,
+    43
+  ],
+  "moveable": {
+    "speed": 0.800000011920929
+  },
+  "name": "Morcego",
+  "sight": {
+    "ignore_infra_penalty": false,
+    "infravision": true,
+    "range": 8,
+    "threesixty": false
+  },
+  "stamina": {
+    "fatigue": 100,
+    "stamina": 100,
+    "stamina_regen": 0.0
+  },
+  "statistics": {
+    "dexterity": [
+      8,
+      10
+    ],
+    "endurance": [
+      5,
+      8
+    ],
+    "intelligence": [
+      4,
+      6
+    ],
+    "strength": [
+      8,
+      10
+    ],
+    "willpower": [
+      3,
+      6
+    ]
+  },
+  "tags": [
+    "2",
+    "9"
+  ]
+}

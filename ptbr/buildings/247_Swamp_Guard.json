@@ -1,0 +1,16 @@
+{
+  "id": "247",
+  "image": 112,
+  "max": 2,
+  "name": "Guarda do Pântano",
+  "occupation_image": 26,
+  "occupation": "core_2_Reptilion_Swamp_Guardian",
+  "produces": [],
+  "race": "23",
+  "tier": 1,
+  "type": "military",
+  "workers": [
+    1,
+    10
+  ]
+}

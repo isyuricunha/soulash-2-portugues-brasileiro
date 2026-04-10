@@ -1,0 +1,68 @@
+{
+  "components": [
+    "glyph",
+    "item",
+    "liquid_source",
+    "minimap_pixel",
+    "name",
+    "position_2d",
+    "producer",
+    "value",
+    "weight"
+  ],
+  "description": "Um corpo sem vida de um canguru.",
+  "glyph": {
+    "frames": [
+      {
+        "color": [
+          255,
+          255,
+          255
+        ],
+        "delay": 0,
+        "index": 2307
+      }
+    ],
+    "random_frame_start": false
+  },
+  "id": "core_2_Kangoroo_Corpse",
+  "item": {
+    "image": 984,
+    "type": 18
+  },
+  "liquid_source": {
+    "limit": 80,
+    "type": 4
+  },
+  "minimap_pixel": [
+    171,
+    102,
+    57
+  ],
+  "name": "Cadáver de Canguru",
+  "producer": {
+    "products": {
+      "3": [
+        {
+          "amount": [
+            1,
+            2
+          ],
+          "id": "318",
+          "percent_chance": 100
+        },
+        {
+          "amount": [
+            1,
+            1
+          ],
+          "id": "core_2_Kangoroo_Leather",
+          "percent_chance": 100
+        }
+      ]
+    },
+    "time": 10
+  },
+  "value": 0,
+  "weight": 60.0
+}

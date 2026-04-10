@@ -1,0 +1,95 @@
+{
+  "armor": {
+    "acid": 3,
+    "death": 2,
+    "electricity": 10,
+    "fire": 8,
+    "frost": 2,
+    "holy": 2,
+    "parry": 0,
+    "physical": 8,
+    "poison": 6,
+    "thorns": 0
+  },
+  "background": {
+    "color": [
+      124,
+      86,
+      20
+    ],
+    "noise": 2
+  },
+  "category_id": 2,
+  "components": [
+    "armor",
+    "background",
+    "collidable",
+    "craftable",
+    "glyph",
+    "health",
+    "height",
+    "minimap_pixel",
+    "name",
+    "position_2d",
+    "producer"
+  ],
+  "corpse": [],
+  "craftable": {
+    "backgrounds": [],
+    "biomes": [],
+    "magic_slots": 0,
+    "resources": [
+      {
+        "amount": 2,
+        "id": "620"
+      },
+      {
+        "amount": 1,
+        "id": "2090"
+      }
+    ],
+    "time": 30,
+    "tools": [
+      6
+    ]
+  },
+  "description": "This exquisite sandstone-framed window, fitted with shimmering glass, captures the essence of the desert landscape, inviting the golden warmth and tranquil beauty of the dunes into your space.",
+  "glyph": {
+    "frames": [
+      {
+        "color": [
+          255,
+          255,
+          255
+        ],
+        "delay": 0,
+        "index": 189
+      }
+    ],
+    "random_frame_start": false
+  },
+  "health": 200,
+  "height": 10,
+  "id": "2424",
+  "minimap_pixel": [
+    74,
+    83,
+    92
+  ],
+  "name": "Sandstone Glass Window",
+  "producer": {
+    "products": {
+      "core_2_deconstruct": [
+        {
+          "amount": [
+            0,
+            0
+          ],
+          "id": "",
+          "percent_chance": 100
+        }
+      ]
+    },
+    "time": 20
+  }
+}

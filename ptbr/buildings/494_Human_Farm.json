@@ -1,0 +1,25 @@
+{
+  "id": "494",
+  "image": 363,
+  "name": "Fazenda Humana",
+  "occupation_image": 45,
+  "occupation": "core_2_Vampire_Human_Farmer",
+  "occupation_per_race": {},
+  "produces": [
+    {
+      "entities": [
+        {
+          "daily": 1,
+          "id": "55"
+        }
+      ],
+      "takes": []
+    }
+  ],
+  "race": "6",
+  "tier": 1,
+  "workers": [
+    1,
+    4
+  ]
+}

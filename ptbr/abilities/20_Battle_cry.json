@@ -1,0 +1,25 @@
+{
+  "animation": "9",
+  "cast_time": 0.5,
+  "cooldown": 15.0,
+  "cost": {
+    "health": 0,
+    "stamina": 10
+  },
+  "description": "Esta habilidade inflige medo por ::duration rodadas a qualquer inimigo no alcance de ::aoe_range. O medo é determinado por uma checagem de força de vontade oposta. Se bem-sucedido, o alvo fugirá o mais rápido possível.",
+  "duration": 3.0,
+  "effects": {
+    "aoe_range": 6,
+    "aoe_shape": 1,
+    "fear": 1
+  },
+  "id": "20",
+  "image": 63,
+  "name": "Grito de Batalha",
+  "range": 0,
+  "skill": "core_2_mace_fighting",
+  "slots": {
+    "utility": 3
+  },
+  "target": "aoe_self"
+}

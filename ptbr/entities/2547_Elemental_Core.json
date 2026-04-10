@@ -1,0 +1,106 @@
+{
+  "components": [
+    "craftable",
+    "glyph",
+    "item",
+    "minimap_pixel",
+    "name",
+    "position_2d",
+    "resource",
+    "stackable",
+    "value",
+    "weapon",
+    "weight"
+  ],
+  "craftable": {
+    "magic_slots": 0,
+    "resources": [
+      {
+        "amount": 1,
+        "id": "2531"
+      },
+      {
+        "amount": 1,
+        "id": "2532"
+      },
+      {
+        "amount": 1,
+        "id": "2534"
+      },
+      {
+        "amount": 1,
+        "id": "2533"
+      }
+    ],
+    "time": 100,
+    "tools": [
+      15
+    ]
+  },
+  "description": "Unstable mix of four elements - fire, air, earth and water. It holds tremendous power.",
+  "extra_weight": 5.0,
+  "glyph": {
+    "frames": [
+      {
+        "color": [
+          255,
+          255,
+          255
+        ],
+        "delay": 0,
+        "index": 1766
+      }
+    ],
+    "random_frame_start": false
+  },
+  "id": "2547",
+  "item": {
+    "image": 682,
+    "type": 16
+  },
+  "minimap_pixel": [
+    100,
+    109,
+    155
+  ],
+  "name": "Elemental Core",
+  "resource": {
+    "affix": "of the Elements",
+    "magic_ingredient": 4,
+    "quality": 4,
+    "type": 7
+  },
+  "value": 50000,
+  "weapon": {
+    "attack_speed": 0.0,
+    "critical_hit": 0.0,
+    "damage": [
+      {
+        "dmg_max": 3,
+        "dmg_min": 3,
+        "dmg_type": "fire"
+      },
+      {
+        "dmg_max": 3,
+        "dmg_min": 3,
+        "dmg_type": "electricity"
+      },
+      {
+        "dmg_max": 3,
+        "dmg_min": 3,
+        "dmg_type": "poison"
+      },
+      {
+        "dmg_max": 3,
+        "dmg_min": 3,
+        "dmg_type": "frost"
+      }
+    ],
+    "hands": 1,
+    "hit_bonus": 0,
+    "parry_bonus": 0,
+    "range": 0,
+    "type": 9
+  },
+  "weight": 5.0
+}

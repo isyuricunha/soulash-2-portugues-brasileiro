@@ -1,0 +1,36 @@
+{
+  "animation": "169",
+  "cast_time": 1.2000000476837158,
+  "cooldown": 8.0,
+  "cost": {
+    "health": 0,
+    "stamina": 10
+  },
+  "description": "Creates a temporary cloud in the selected area dealing ::damage ::damage_type damage immediately and apply Poison to everyone for ::poison_effect turns. The clouds may sometimes remain in random tiles for ::duration turns.",
+  "duration": 2.0,
+  "effects": {
+    "aoe_range": 3,
+    "aoe_shape": 1,
+    "damage": [
+      4,
+      8
+    ],
+    "damage_type": "poison",
+    "poison_effect": 2,
+    "summon_count": 6,
+    "magic_power_damage": 0.4
+  },
+  "effects_keys": {
+    "summon": "789"
+  },
+  "id": "128",
+  "image": 599,
+  "name": "Poison Cloud",
+  "range": 6,
+  "skill": "core_2_floromancy",
+  "slots": {
+    "offensive": 2,
+    "utility": 1
+  },
+  "target": "aoe_tile"
+}

@@ -1,0 +1,32 @@
+{
+  "animation": "core_2_Lightning_Bolt",
+  "cast_time": 1.0,
+  "cooldown": 25.0,
+  "cost": {
+    "health": 0,
+    "stamina": 10
+  },
+  "description": "Throw a lightning piercing up to ::range tiles and electrocuting everything it comes in contact with, dealing ::damage ::damage_type damage and stunning for ::stun turns.",
+  "duration": 0.0,
+  "effects": {
+    "damage": [
+      15,
+      20
+    ],
+    "damage_type": "electricity",
+    "magic_power_damage": 1.0,
+    "pierce": 1,
+    "stun": 1.0
+  },
+  "id": "core_2_Lightning_Bolt",
+  "image": 750,
+  "min_range": 2,
+  "name": "Lightning Bolt",
+  "range": 7,
+  "skill": "core_2_stormthrowing",
+  "slots": {
+    "offensive": 1,
+    "utility": 3
+  },
+  "target": "line"
+}

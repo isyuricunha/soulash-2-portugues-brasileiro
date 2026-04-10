@@ -1,0 +1,84 @@
+{
+  "components": [
+    "glyph",
+    "item",
+    "liquid_source",
+    "minimap_pixel",
+    "name",
+    "position_2d",
+    "producer",
+    "value",
+    "weight"
+  ],
+  "description": "Um cadáver sem vida de um elfo. Orelhas élficas cozidas são consideradas uma iguaria por algumas raças.",
+  "glyph": {
+    "frames": [
+      {
+        "color": [
+          255,
+          255,
+          255
+        ],
+        "delay": 0,
+        "index": 1810
+      }
+    ],
+    "random_frame_start": false
+  },
+  "id": "322",
+  "item": {
+    "image": 122,
+    "type": 18
+  },
+  "liquid_source": {
+    "limit": 100,
+    "type": 4
+  },
+  "minimap_pixel": [
+    0,
+    154,
+    20
+  ],
+  "name": "Cadáver Élfico",
+  "producer": {
+    "products": {
+      "3": [
+        {
+          "amount": [
+            1,
+            2
+          ],
+          "id": "960",
+          "percent_chance": 100
+        },
+        {
+          "amount": [
+            1,
+            1
+          ],
+          "id": "core_2_Elven_Head",
+          "percent_chance": 5
+        },
+        {
+          "amount": [
+            1,
+            1
+          ],
+          "id": "core_2_Elf_Hand",
+          "percent_chance": 5
+        },
+        {
+          "amount": [
+            1,
+            1
+          ],
+          "id": "core_2_Elven_Legs",
+          "percent_chance": 5
+        }
+      ]
+    },
+    "time": 10
+  },
+  "value": 0,
+  "weight": 60.0
+}

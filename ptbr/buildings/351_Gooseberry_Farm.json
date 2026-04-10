@@ -1,0 +1,24 @@
+{
+  "id": "351",
+  "image": 266,
+  "name": "Gooseberry Farm",
+  "occupation_image": 92,
+  "occupation": "core_2_Orc_Farmer",
+  "produces": [
+    {
+      "entities": [
+        {
+          "daily": 20,
+          "id": "core_2_Gooseberry"
+        }
+      ],
+      "takes": []
+    }
+  ],
+  "race": "8",
+  "tier": 1,
+  "workers": [
+    1,
+    4
+  ]
+}

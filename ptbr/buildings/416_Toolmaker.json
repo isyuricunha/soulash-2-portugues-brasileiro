@@ -1,0 +1,19 @@
+{
+  "enables": [
+    "core_2_weaponsmith",
+    "core_2_carpentry"
+  ],
+  "id": "416",
+  "image": 13,
+  "max": 1,
+  "name": "Ferramenteiro",
+  "occupation_image": 8,
+  "occupation": "core_2_Troll_Ferramenteiro",
+  "produces": [],
+  "race": "7",
+  "tier": 1,
+  "workers": [
+    1,
+    2
+  ]
+}

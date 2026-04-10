@@ -1,0 +1,28 @@
+{
+  "animation": "core_2_See",
+  "cast_time": 0.5,
+  "cooldown": 5.0,
+  "cost": {
+    "health": 0,
+    "stamina": 0
+  },
+  "description": "Fireball causes smaller secondary explosion at its center dealing ::damage ::damage_type damage on an area.",
+  "duration": 0.0,
+  "effects": {
+    "aoe_break": 1,
+    "aoe_range": 3,
+    "aoe_shape": 1,
+    "damage": [
+      2,
+      4
+    ],
+    "damage_type": "fire",
+    "magic_power_damage": 0.25
+  },
+  "id": "core_2_Secondary_Fireball",
+  "image": 804,
+  "name": "Secondary Fireball",
+  "range": 7,
+  "skill": "",
+  "target": "aoe_target"
+}

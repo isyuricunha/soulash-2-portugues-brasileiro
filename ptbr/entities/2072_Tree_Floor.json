@@ -1,0 +1,42 @@
+{
+  "background": {
+    "color": [
+      44,
+      45,
+      41
+    ],
+    "noise": 3,
+    "noise_intensity": 6
+  },
+  "components": [
+    "background",
+    "glyph",
+    "health",
+    "minimap_pixel",
+    "name"
+  ],
+  "corpse": [],
+  "description": "Chão esculpido dentro de uma árvore parece antinatural, talvez feito com magia.",
+  "glyph": {
+    "frames": [
+      {
+        "color": [
+          255,
+          255,
+          255
+        ],
+        "delay": 0,
+        "index": 962
+      }
+    ],
+    "random_frame_start": false
+  },
+  "health": 1,
+  "id": "2072",
+  "minimap_pixel": [
+    61,
+    38,
+    7
+  ],
+  "name": "Chão de Árvore"
+}

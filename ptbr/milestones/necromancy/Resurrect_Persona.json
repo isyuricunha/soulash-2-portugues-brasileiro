@@ -1,0 +1,15 @@
+{
+  "id": "core_2_resurrect_persona",
+  "name": "Resurrect Persona",
+  "requirements": {
+    "skill": 48
+  },
+  "rewards": [
+    {
+      "action": 54
+    }
+  ],
+  "skill_id": "core_2_necromancy",
+  "steps": [],
+  "steps_type": 0
+}

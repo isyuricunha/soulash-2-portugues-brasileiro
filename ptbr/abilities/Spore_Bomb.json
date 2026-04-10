@@ -1,0 +1,28 @@
+{
+  "animation": "core_2_Paralyzing_Bomb_Throw",
+  "cast_time": 0.800000011920929,
+  "cooldown": 10.0,
+  "cost": {
+    "health": 0,
+    "stamina": 0
+  },
+  "description": "A bomb dealing ::damage ::damage_type damage to the target and immobilize it for ::duration turns. Succeeds on opposed caster willpower vs defender strength check.",
+  "duration": 4.0,
+  "effects": {
+    "aoe_break": 1,
+    "aoe_range": 3,
+    "aoe_shape": 1,
+    "damage": [
+      10,
+      15
+    ],
+    "damage_type": "poison",
+    "immobilize": 5
+  },
+  "id": "core_2_Paralyzing_Bomb",
+  "image": 459,
+  "name": "Spore Bomb",
+  "range": 6,
+  "skill": "",
+  "target": "aoe_target"
+}

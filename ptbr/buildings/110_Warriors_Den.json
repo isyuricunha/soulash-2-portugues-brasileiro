@@ -1,0 +1,16 @@
+{
+  "id": "110",
+  "image": 79,
+  "max": 1,
+  "name": "Toca do Guerreiro",
+  "occupation_image": 64,
+  "occupation": "2346",
+  "produces": [],
+  "race": "10",
+  "tier": 1,
+  "type": "military",
+  "workers": [
+    1,
+    20
+  ]
+}

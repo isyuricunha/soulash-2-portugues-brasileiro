@@ -1,0 +1,16 @@
+{
+  "id": "core_2_freezing_ray",
+  "name": "Raio Congelante",
+  "requirements": {
+    "milestones": [],
+    "skill": 1
+  },
+  "rewards": [
+    {
+      "ability": "13"
+    }
+  ],
+  "skill_id": "core_2_cryomancy",
+  "steps": [],
+  "steps_type": 0
+}

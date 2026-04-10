@@ -1,0 +1,15 @@
+{
+  "id": "core_2_concussion",
+  "name": "Concussion",
+  "requirements": {
+    "skill": 27
+  },
+  "rewards": [
+    {
+      "amplifier": "core_2_stun"
+    }
+  ],
+  "skill_id": "core_2_mace_fighting",
+  "steps": [],
+  "steps_type": 0
+}

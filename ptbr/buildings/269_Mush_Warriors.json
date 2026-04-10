@@ -1,0 +1,16 @@
+{
+  "id": "269",
+  "image": 114,
+  "max": 1,
+  "name": "Mush Warriors",
+  "occupation_image": 125,
+  "occupation": "core_2_Mushman_Mush_Warrior",
+  "produces": [],
+  "race": "32",
+  "tier": 1,
+  "type": "military",
+  "workers": [
+    1,
+    20
+  ]
+}

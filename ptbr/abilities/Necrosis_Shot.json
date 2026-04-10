@@ -1,0 +1,38 @@
+{
+  "animation": "core_2_Necrosis_shot",
+  "cast_time": -1.0,
+  "cooldown": 9.0,
+  "cost": {
+    "ammo": 1,
+    "health": 0,
+    "stamina": 4
+  },
+  "description": "Shoots a magical projectile that deals ::damage ::damage_type damage and applies ::stun stun effect. May leave the ammunition after shooting.",
+  "duration": 0.0,
+  "effects": {
+    "construct_item_cost": 0.8999999761581421,
+    "damage": [
+      15,
+      20
+    ],
+    "damage_type": "death",
+    "damage_weapon": 2.0,
+    "stun": 2.0
+  },
+  "id": "core_2_Necrosis_Shot",
+  "image": 717,
+  "name": "Necrosis Shot",
+  "range": 7,
+  "requirements": {
+    "one_of": [
+      11,
+      12
+    ]
+  },
+  "skill": "core_2_hunting",
+  "slots": {
+    "offensive": 2,
+    "utility": 2
+  },
+  "target": "line"
+}

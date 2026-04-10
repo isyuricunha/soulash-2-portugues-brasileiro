@@ -1,0 +1,29 @@
+{
+  "components": [
+    "glyph",
+    "minimap_pixel",
+    "name",
+    "position_2d"
+  ],
+  "description": "A carpet decorated with various patterns unseen in these parts of the world.",
+  "glyph": {
+    "frames": [
+      {
+        "color": [
+          255,
+          255,
+          255
+        ],
+        "delay": 0,
+        "index": 817
+      }
+    ]
+  },
+  "id": "251",
+  "minimap_pixel": [
+    148,
+    25,
+    22
+  ],
+  "name": "Carpet"
+}

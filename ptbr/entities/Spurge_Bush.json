@@ -1,0 +1,68 @@
+{
+  "components": [
+    "collidable",
+    "glyph",
+    "glyph_top",
+    "health",
+    "minimap_pixel",
+    "name",
+    "position_2d",
+    "producer"
+  ],
+  "corpse": [],
+  "description": "A sizable bush with very small flowers.",
+  "glyph": {
+    "frames": [
+      {
+        "color": [
+          117,
+          89,
+          56
+        ],
+        "delay": 200,
+        "index": 860
+      }
+    ],
+    "random_frame_start": true,
+    "random_top": {
+      "colors": [
+        [
+          255,
+          255,
+          255
+        ]
+      ],
+      "count": 3,
+      "glyph_ids": [
+        2529,
+        2530
+      ],
+      "max_alpha": 255,
+      "max_range": 4,
+      "wind": true
+    }
+  },
+  "health": 10,
+  "id": "core_2_Spurge_Bush",
+  "minimap_pixel": [
+    226,
+    89,
+    87
+  ],
+  "name": "Spurge Bush",
+  "producer": {
+    "products": {
+      "10": [
+        {
+          "amount": [
+            1,
+            1
+          ],
+          "id": "core_2_Spurge_Flower",
+          "percent_chance": 100
+        }
+      ]
+    },
+    "time": 10
+  }
+}

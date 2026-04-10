@@ -1,0 +1,18 @@
+{
+  "enables": [
+    "core_2_imbuing"
+  ],
+  "id": "503",
+  "image": 382,
+  "max": 1,
+  "name": "Hexer",
+  "occupation_image": 16,
+  "occupation": "core_2_Vampire_Hexer",
+  "produces": [],
+  "race": "6",
+  "tier": 3,
+  "workers": [
+    1,
+    1
+  ]
+}

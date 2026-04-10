@@ -1,0 +1,23 @@
+{
+  "animation": "core_2_Box_Throw",
+  "cast_time": 1.0,
+  "cooldown": 40.0,
+  "cost": {
+    "health": 0,
+    "stamina": 0
+  },
+  "description": "Summons an immobile bolt thrower that will support you in combat.",
+  "duration": 40.0,
+  "effects": {
+    "summon_count": 1
+  },
+  "effects_keys": {
+    "summon": "2958"
+  },
+  "id": "core_2_Summon_Bolt_Thrower",
+  "image": 708,
+  "name": "Invocar Arremessador de Projéteis",
+  "range": 4,
+  "skill": "",
+  "target": "tile"
+}

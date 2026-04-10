@@ -1,0 +1,19 @@
+{
+  "enables": [
+    "core_2_armorsmith",
+    "core_2_weaponsmith"
+  ],
+  "id": "125",
+  "image": 92,
+  "max": 2,
+  "name": "Bone Forge",
+  "occupation_image": 39,
+  "occupation": "2381",
+  "produces": [],
+  "race": "26",
+  "tier": 2,
+  "workers": [
+    1,
+    2
+  ]
+}

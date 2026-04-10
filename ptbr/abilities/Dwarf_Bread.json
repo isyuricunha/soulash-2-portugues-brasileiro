@@ -1,0 +1,18 @@
+{
+  "animation": "core_2_Dwarven_bread",
+  "cast_time": 1.0,
+  "cooldown": 0.0,
+  "cost": {
+    "health": 0,
+    "stamina": 4
+  },
+  "description": "",
+  "duration": 0.0,
+  "effects": null,
+  "id": "core_2_Acid_Spit",
+  "image": 745,
+  "name": "Dwarf Bread",
+  "range": 7,
+  "skill": "",
+  "target": "health"
+}

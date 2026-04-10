@@ -1,0 +1,49 @@
+{
+  "id": "32",
+  "image": 29,
+  "max": 1,
+  "name": "Pottery",
+  "occupation_image": 43,
+  "occupation": "2268",
+  "occupation_per_race": {
+    "0": "211",
+    "1": "core_2_Dwarf_Potter",
+    "2": "2268",
+    "4": "core_2_Goblin_Potter",
+    "6": "core_2_Vampire_Potter",
+    "7": "core_2_Troll_Potter",
+    "8": "core_2_Orc_Carpenter",
+    "10": "2326",
+    "23": "core_2_Reptilion_Potter",
+    "26": "2381",
+    "31": "core_2_Gnoll_Leatherworker",
+    "32": "core_2_Mushman_Alchemist",
+    "33": "core_2_Ursan_Toolmaker"
+  },
+  "produces": [
+    {
+      "entities": [
+        {
+          "daily": 1,
+          "id": "832"
+        }
+      ],
+      "takes": "craftable"
+    }
+  ],
+  "race": "2",
+  "tier": 2,
+  "workers": [
+    1,
+    2
+  ],
+  "allow_player": true,
+  "required_entities": [
+    {
+      "component": "resting_place",
+      "count": 2
+    }
+  ],
+  "min_area": 20,
+  "group": "producers"
+}

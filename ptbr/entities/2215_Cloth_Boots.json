@@ -1,0 +1,68 @@
+{
+  "armor": {
+    "acid": 0,
+    "death": 3,
+    "electricity": 2,
+    "fire": 0,
+    "frost": 1,
+    "holy": 3,
+    "parry": 0,
+    "physical": 0,
+    "poison": 0,
+    "thorns": 0
+  },
+  "components": [
+    "armor",
+    "craftable",
+    "glyph",
+    "item",
+    "minimap_pixel",
+    "name",
+    "position_2d",
+    "value",
+    "weight"
+  ],
+  "craftable": {
+    "backgrounds": [],
+    "biomes": [],
+    "magic_slots": 3,
+    "resource_types": [
+      {
+        "amount": 3,
+        "id": 4
+      }
+    ],
+    "time": 20,
+    "tools": [
+      12
+    ]
+  },
+  "description": "Botinas básicas feitas de pano para movimento leve e fácil, mas não oferecem muita proteção.",
+  "glyph": {
+    "frames": [
+      {
+        "color": [
+          255,
+          255,
+          255
+        ],
+        "delay": 0,
+        "index": 517
+      }
+    ],
+    "random_frame_start": false
+  },
+  "id": "2215",
+  "item": {
+    "image": 564,
+    "type": 9
+  },
+  "minimap_pixel": [
+    200,
+    200,
+    200
+  ],
+  "name": "Botinas de Pano",
+  "value": 2400,
+  "weight": 0.30000001192092896
+}

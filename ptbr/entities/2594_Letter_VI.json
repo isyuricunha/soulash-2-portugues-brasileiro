@@ -1,0 +1,38 @@
+{
+  "components": [
+    "glyph",
+    "item",
+    "minimap_pixel",
+    "name",
+    "position_2d",
+    "stackable",
+    "weight"
+  ],
+  "description": "An old letter that reads:\n\"My good sire, as I was afraid, the construction of the palace is unstable. You must abandon it immediately before it all sinks into the ground.\"",
+  "glyph": {
+    "frames": [
+      {
+        "color": [
+          255,
+          255,
+          255
+        ],
+        "delay": 0,
+        "index": 699
+      }
+    ],
+    "random_frame_start": false
+  },
+  "id": "2594",
+  "item": {
+    "image": 323,
+    "type": 25
+  },
+  "minimap_pixel": [
+    177,
+    153,
+    137
+  ],
+  "name": "Letter VI",
+  "weight": 0.10000000149011612
+}

@@ -1,0 +1,159 @@
+{
+  "ability_user": [
+    "71",
+    "91",
+    "26",
+    "67"
+  ],
+  "artificial_intelligence": {
+    "allies": [
+      "4"
+    ],
+    "allow_production": [],
+    "behaviors": [],
+    "enemies": [
+      "5"
+    ]
+  },
+  "components": [
+    "ability_user",
+    "actor",
+    "artificial_intelligence",
+    "collidable",
+    "dialogues",
+    "equipment",
+    "experience_gainer",
+    "fighter",
+    "glyph",
+    "health",
+    "humanoid",
+    "minimap_pixel",
+    "moveable",
+    "name",
+    "position_2d",
+    "sight",
+    "stamina",
+    "statistics",
+    "tags"
+  ],
+  "corpse": "core_2_Death_Knight_Corpse",
+  "description": "Mesmo a maior armadura não pode cobrir o fedor da morte que cerca esta criatura.",
+  "dialogues": [
+    "274",
+    "275"
+  ],
+  "equipment": {
+    "head_armor": [
+      {
+        "chance": 0.25,
+        "id": "2317",
+        "name": "Máscara do Medo",
+        "stack": 1
+      }
+    ],
+    "legs_armor": [
+      {
+        "chance": 1.0,
+        "id": "2362",
+        "name": "Caneleiras de Osso",
+        "stack": 1
+      }
+    ],
+    "right_hand": [
+      {
+        "chance": 1.0,
+        "id": "80",
+        "name": "Claymore",
+        "stack": 1
+      }
+    ],
+    "ring1": [
+      {
+        "chance": 0.25,
+        "id": "2995",
+        "name": "Anel da Morte",
+        "stack": 1
+      }
+    ],
+    "torso_armor": [
+      {
+        "chance": 1.0,
+        "id": "397",
+        "name": "Armadura Pesada",
+        "stack": 1
+      }
+    ]
+  },
+  "experience_gainer": {
+    "exp": 0,
+    "level": 40
+  },
+  "fighter": {
+    "attackNames": null
+  },
+  "glyph": {
+    "frames": [
+      {
+        "color": [
+          255,
+          255,
+          255
+        ],
+        "delay": 0,
+        "index": 567
+      }
+    ],
+    "random_frame_start": false
+  },
+  "health": 1100,
+  "humanoid": {
+    "race": ""
+  },
+  "id": "2977",
+  "minimap_pixel": [
+    149,
+    165,
+    101
+  ],
+  "moveable": {
+    "speed": 0.800000011920929
+  },
+  "name": "Cavaleiro da Morte",
+  "sight": {
+    "ignore_infra_penalty": false,
+    "infravision": true,
+    "range": 12,
+    "threesixty": false
+  },
+  "stamina": {
+    "fatigue": 100,
+    "stamina": 100,
+    "stamina_regen": 0.0
+  },
+  "statistics": {
+    "dexterity": [
+      76,
+      86
+    ],
+    "endurance": [
+      98,
+      112
+    ],
+    "intelligence": [
+      34,
+      40
+    ],
+    "strength": [
+      98,
+      112
+    ],
+    "willpower": [
+      76,
+      87
+    ]
+  },
+  "tags": [
+    "4",
+    "38"
+  ]
+}

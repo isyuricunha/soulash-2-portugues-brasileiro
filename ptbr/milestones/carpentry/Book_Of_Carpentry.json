@@ -1,0 +1,16 @@
+{
+  "id": "core_2_book_carpentry",
+  "name": "Livro de Carpintaria",
+  "requirements": {
+    "milestones": [],
+    "skill": 44
+  },
+  "rewards": [
+    {
+      "recipe": "3008"
+    }
+  ],
+  "skill_id": "core_2_carpentry",
+  "steps": [],
+  "steps_type": 0
+}

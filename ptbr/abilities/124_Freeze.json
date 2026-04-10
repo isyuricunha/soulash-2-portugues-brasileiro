@@ -1,0 +1,25 @@
+{
+  "animation": "163",
+  "cast_time": 1.0,
+  "cooldown": 8.0,
+  "cost": {
+    "health": 0,
+    "stamina": 4
+  },
+  "description": "Freeze target in place dealing ::damage ::damage_type damage and immobilizing it for ::duration turns. Succeeds on opposed caster willpower vs defender strength check.",
+  "duration": 3.0,
+  "effects": {
+    "damage": [
+      20,
+      25
+    ],
+    "damage_type": "frost",
+    "damage_weapon": 0.75,
+    "immobilize": 1
+  },
+  "id": "124",
+  "image": 631,
+  "name": "Freeze",
+  "range": 4,
+  "target": "health"
+}

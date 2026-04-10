@@ -1,0 +1,73 @@
+{
+  "components": [
+    "glyph",
+    "item",
+    "minimap_pixel",
+    "name",
+    "position_2d",
+    "producer",
+    "resource",
+    "stackable",
+    "value",
+    "weight"
+  ],
+  "description": "Tronco esbelto e cilíndrico de uma árvore de avelã.",
+  "glyph": {
+    "frames": [
+      {
+        "color": [
+          255,
+          255,
+          255
+        ],
+        "delay": 0,
+        "index": 3213
+      }
+    ],
+    "random_frame_start": false
+  },
+  "id": "core_2_Hazelnut_Log",
+  "item": {
+    "image": 1484,
+    "type": 16
+  },
+  "minimap_pixel": [
+    171,
+    102,
+    57
+  ],
+  "name": "Tronco de Avelã",
+  "producer": {
+    "products": {
+      "1": [
+        {
+          "amount": [
+            3,
+            5
+          ],
+          "id": "core_2_Hazelnut_Wood",
+          "percent_chance": 100
+        }
+      ],
+      "core_2_woodbend": [
+        {
+          "amount": [
+            4,
+            6
+          ],
+          "id": "core_2_Hazelnut_Wood",
+          "percent_chance": 100
+        }
+      ]
+    },
+    "time": 60
+  },
+  "resource": {
+    "affix": "",
+    "magic_ingredient": 0,
+    "quality": 0,
+    "type": 11
+  },
+  "value": 1500,
+  "weight": 20.0
+}

@@ -1,0 +1,20 @@
+{
+  "animation": "",
+  "cast_time": 0.0,
+  "cooldown": 0.0,
+  "cost": {
+    "health": 0,
+    "stamina": 0
+  },
+  "description": "Jam increases your health regeneration by ::regeneration.",
+  "duration": 600.0,
+  "effects": {
+    "regeneration": 3.0
+  },
+  "id": "core_2_Jam",
+  "image": 516,
+  "name": "Jam",
+  "range": 0,
+  "skill": "",
+  "target": "self"
+}

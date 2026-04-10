@@ -1,0 +1,16 @@
+{
+  "id": "core_2_seed_extraction",
+  "name": "Extração de Sementes",
+  "requirements": {
+    "milestones": [],
+    "skill": 11
+  },
+  "rewards": [
+    {
+      "passive": "core_2_seed_extraction"
+    }
+  ],
+  "skill_id": "core_2_agriculture",
+  "steps": [],
+  "steps_type": 0
+}

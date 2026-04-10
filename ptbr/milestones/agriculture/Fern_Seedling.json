@@ -1,0 +1,16 @@
+{
+  "id": "core_2_fern_seedling",
+  "name": "Muda de Samambaia",
+  "requirements": {
+    "milestones": [],
+    "skill": 9
+  },
+  "rewards": [
+    {
+      "recipe": "core_2_Fern_Plant_Seedling"
+    }
+  ],
+  "skill_id": "core_2_agriculture",
+  "steps": [],
+  "steps_type": 0
+}

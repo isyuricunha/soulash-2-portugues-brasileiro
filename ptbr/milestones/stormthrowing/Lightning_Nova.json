@@ -1,0 +1,16 @@
+{
+  "id": "core_2_lightning_nova",
+  "name": "Nova de Relâmpagos",
+  "requirements": {
+    "milestones": [],
+    "skill": 21
+  },
+  "rewards": [
+    {
+      "ability": "61"
+    }
+  ],
+  "skill_id": "core_2_stormthrowing",
+  "steps": [],
+  "steps_type": 0
+}

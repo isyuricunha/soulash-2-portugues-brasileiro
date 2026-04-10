@@ -1,0 +1,65 @@
+{
+  "armor": {
+    "acid": -2,
+    "death": 0,
+    "electricity": 1,
+    "fire": -5,
+    "frost": 2,
+    "holy": 0,
+    "parry": 0,
+    "physical": 1,
+    "poison": 0
+  },
+  "background": {
+    "color": [
+      0,
+      0,
+      0
+    ]
+  },
+  "components": [
+    "armor",
+    "background",
+    "block_light",
+    "collidable",
+    "glyph",
+    "health",
+    "height",
+    "minimap_pixel",
+    "name",
+    "position_2d"
+  ],
+  "corpse": [
+    {
+      "damage_type": 8,
+      "id": "596"
+    },
+    {
+      "damage_type": 1,
+      "id": "547"
+    }
+  ],
+  "description": "Beautiful painting representing the valley bathed in the rays of sunshine.",
+  "glyph": {
+    "frames": [
+      {
+        "color": [
+          255,
+          255,
+          255
+        ],
+        "delay": 0,
+        "index": 56
+      }
+    ]
+  },
+  "health": 100,
+  "height": 0,
+  "id": "530",
+  "minimap_pixel": [
+    81,
+    63,
+    59
+  ],
+  "name": "Painting"
+}

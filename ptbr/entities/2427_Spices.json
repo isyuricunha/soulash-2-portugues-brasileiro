@@ -1,0 +1,62 @@
+{
+  "components": [
+    "craftable",
+    "food",
+    "glyph",
+    "item",
+    "minimap_pixel",
+    "name",
+    "position_2d",
+    "stackable",
+    "value",
+    "weight"
+  ],
+  "craftable": {
+    "backgrounds": [],
+    "biomes": [],
+    "magic_slots": 0,
+    "resources": [
+      {
+        "amount": 1,
+        "id": "core_2_Savory_Branch"
+      }
+    ],
+    "time": 20,
+    "tools": [
+      15
+    ]
+  },
+  "description": "A vibrant assortment of spices, bursting with flavors and aromas that transport taste buds on a thrilling culinary journey to distant, undiscovered lands.",
+  "food": {
+    "nutrition": 15,
+    "on_eat": "",
+    "raw": false
+  },
+  "glyph": {
+    "frames": [
+      {
+        "color": [
+          255,
+          255,
+          255
+        ],
+        "delay": 0,
+        "index": 158
+      }
+    ],
+    "random_frame_start": false
+  },
+  "id": "2427",
+  "item": {
+    "image": 609,
+    "type": 20
+  },
+  "minimap_pixel": [
+    212,
+    46,
+    33
+  ],
+  "name": "Spices",
+  "value": 700,
+  "weight": 0.10000000149011612
+}

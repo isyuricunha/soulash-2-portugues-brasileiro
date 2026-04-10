@@ -1,0 +1,37 @@
+{
+  "enables": [
+    "core_2_tailoring"
+  ],
+  "id": "50",
+  "image": 182,
+  "max": 2,
+  "name": "Alfaiataria",
+  "occupation_image": 10,
+  "occupation": "2273",
+  "produces": [
+    {
+      "entities": [
+        {
+          "daily": 1,
+          "id": "2259"
+        }
+      ],
+      "takes": "craftable"
+    },
+    {
+      "entities": [
+        {
+          "daily": 1,
+          "id": "2258"
+        }
+      ],
+      "takes": "craftable"
+    }
+  ],
+  "race": "2",
+  "tier": 1,
+  "workers": [
+    1,
+    4
+  ]
+}

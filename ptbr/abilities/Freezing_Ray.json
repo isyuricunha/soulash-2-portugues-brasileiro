@@ -1,0 +1,28 @@
+{
+  "animation": "2",
+  "cast_time": 1.0,
+  "cooldown": 3.0,
+  "cost": {
+    "health": 0,
+    "stamina": 4
+  },
+  "description": "Shoots a ray of frost from your finger at a straight line hitting first thing it comes in contact with for ::damage ::damage_type damage.",
+  "duration": 0.0,
+  "effects": {
+    "damage": [
+      2,
+      4
+    ],
+    "damage_type": "frost",
+    "magic_power_damage": 1.0
+  },
+  "id": "13",
+  "image": 123,
+  "name": "Freezing Ray",
+  "range": 6,
+  "skill": "core_2_cryomancy",
+  "slots": {
+    "utility": 1
+  },
+  "target": "line"
+}

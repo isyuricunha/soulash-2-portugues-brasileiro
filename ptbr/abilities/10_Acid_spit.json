@@ -1,0 +1,23 @@
+{
+  "animation": "23",
+  "cast_time": 1,
+  "cost": {
+    "health": 0,
+    "stamina": 4
+  },
+  "description": "Spit at an enemy dealing ::damage ::damage_type damage",
+  "duration": 0,
+  "effects": {
+    "damage": [
+      1,
+      4
+    ],
+    "damage_type": "acid",
+    "damage_weapon": 1.0
+  },
+  "id": "10",
+  "image": 101,
+  "name": "Acid Spit",
+  "range": 7,
+  "target": "line"
+}

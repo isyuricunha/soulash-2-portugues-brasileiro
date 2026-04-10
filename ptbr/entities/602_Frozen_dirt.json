@@ -1,0 +1,52 @@
+{
+  "background": {
+    "color": [
+      44,
+      45,
+      41
+    ],
+    "movement_penalty": 0.4000000059604645,
+    "noise": 8,
+    "noise_intensity": 4
+  },
+  "components": [
+    "background",
+    "glyph",
+    "health",
+    "minimap_pixel",
+    "name"
+  ],
+  "corpse": [
+    {
+      "damage_type": 0,
+      "id": "30"
+    },
+    {
+      "damage_type": 1,
+      "id": "30"
+    }
+  ],
+  "description": "Frozen ground, cold and very hard to dig through.",
+  "glyph": {
+    "frames": [
+      {
+        "color": [
+          255,
+          255,
+          255
+        ],
+        "delay": 0,
+        "index": 814
+      }
+    ],
+    "random_frame_start": false
+  },
+  "health": 1,
+  "id": "602",
+  "minimap_pixel": [
+    61,
+    88,
+    113
+  ],
+  "name": "Frozen Dirt"
+}

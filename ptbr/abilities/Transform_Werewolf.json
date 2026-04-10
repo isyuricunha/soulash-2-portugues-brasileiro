@@ -1,0 +1,28 @@
+{
+  "animation": "core_2_Transform_Werewolf",
+  "cast_time": 1.0,
+  "cooldown": 50.0,
+  "cost": {
+    "health": 0,
+    "stamina": 10
+  },
+  "description": "Invoca seu lobo interior para imbuí-lo com seu poder. Você ganha estatísticas, bem como bônus na velocidade de ataque e velocidade de movimento por uma duração de ::duration turnos.",
+  "duration": 25.0,
+  "effects": {
+    "attack_speed": -0.20000000298023224,
+    "movement_speed": -0.20000000298023224
+  },
+  "effects_keys": {
+    "transform": "2894"
+  },
+  "id": "core_2_Transform_Werewolf",
+  "image": 731,
+  "name": "Transformar Lobisomem",
+  "range": 0,
+  "skill": "core_2_alchemy",
+  "slots": {
+    "defensive": 2,
+    "utility": 2
+  },
+  "target": "self"
+}

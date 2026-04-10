@@ -1,0 +1,59 @@
+{
+  "components": [
+    "glyph",
+    "minimap_pixel",
+    "name",
+    "position_2d",
+    "producer",
+    "stackable",
+    "value",
+    "weight"
+  ],
+  "description": "Não muito nutritivo, mas pode crescer em qualquer lugar.",
+  "glyph": {
+    "frames": [
+      {
+        "color": [
+          255,
+          255,
+          255
+        ],
+        "delay": 0,
+        "index": 2150
+      }
+    ],
+    "random_frame_start": false
+  },
+  "id": "core_2_Ground_Jellies",
+  "minimap_pixel": [
+    237,
+    145,
+    33
+  ],
+  "name": "Geléias Terrestres",
+  "producer": {
+    "products": {
+      "10": [
+        {
+          "amount": [
+            1,
+            2
+          ],
+          "id": "core_2_Ground_Jelly",
+          "percent_chance": 100
+        },
+        {
+          "amount": [
+            1,
+            2
+          ],
+          "id": "core_2_Ground_Jelly_Seed",
+          "percent_chance": 35
+        }
+      ]
+    },
+    "time": 10
+  },
+  "value": 200,
+  "weight": 0.10000000149011612
+}

@@ -1,0 +1,147 @@
+{
+  "artificial_intelligence": {
+    "allies": [
+      "7"
+    ],
+    "allow_production": [],
+    "behaviors": [],
+    "enemies": []
+  },
+  "components": [
+    "actor",
+    "artificial_intelligence",
+    "collidable",
+    "dialogues",
+    "equipment",
+    "experience_gainer",
+    "fighter",
+    "glyph",
+    "health",
+    "humanoid",
+    "minimap_pixel",
+    "moveable",
+    "name",
+    "persona",
+    "position_2d",
+    "sight",
+    "skills",
+    "stamina",
+    "statistics",
+    "tags"
+  ],
+  "corpse": "322",
+  "description": "",
+  "dialogues": [
+    "112",
+    "113"
+  ],
+  "equipment": {
+    "ammo": [
+      {
+        "chance": 1.0,
+        "id": "194",
+        "name": "Arrow",
+        "stack": 15
+      }
+    ],
+    "right_hand": [
+      {
+        "chance": 0.6000000238418579,
+        "id": "102",
+        "name": "Short Bow",
+        "stack": 1
+      },
+      {
+        "chance": 0.4000000059604645,
+        "id": "103",
+        "name": "Longbow",
+        "stack": 1
+      }
+    ]
+  },
+  "experience_gainer": {
+    "exp": 10,
+    "level": 2
+  },
+  "fighter": {
+    "attackNames": null
+  },
+  "glyph": {
+    "frames": [
+      {
+        "color": [
+          255,
+          255,
+          255
+        ],
+        "delay": 0,
+        "index": 461
+      }
+    ],
+    "random_frame_start": false
+  },
+  "health": 90,
+  "humanoid": {
+    "race": "2"
+  },
+  "id": "2272",
+  "minimap_pixel": [
+    65,
+    105,
+    0
+  ],
+  "moveable": {
+    "speed": 1.100000023841858
+  },
+  "name": "Elf Bowyer",
+  "persona": {
+    "occupation": "Bowyer"
+  },
+  "sight": {
+    "ignore_infra_penalty": false,
+    "infravision": false,
+    "range": 12,
+    "threesixty": false
+  },
+  "skills": {
+    "milestones": [
+      "core_2_training_bow",
+      "core_2_bow",
+      "core_2_elven_bow"
+    ],
+    "skills": [
+      "core_2_carpentry"
+    ]
+  },
+  "stamina": {
+    "fatigue": 100,
+    "stamina": 100,
+    "stamina_regen": 0.0
+  },
+  "statistics": {
+    "dexterity": [
+      25,
+      28
+    ],
+    "endurance": [
+      9,
+      14
+    ],
+    "intelligence": [
+      12,
+      16
+    ],
+    "strength": [
+      9,
+      13
+    ],
+    "willpower": [
+      12,
+      16
+    ]
+  },
+  "tags": [
+    "7",
+    "9"
+  ]
+}

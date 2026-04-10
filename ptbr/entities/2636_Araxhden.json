@@ -1,0 +1,113 @@
+{
+  "ability_user": [
+    "129"
+  ],
+  "artificial_intelligence": {
+    "allies": [
+      "18"
+    ],
+    "allow_production": [],
+    "behaviors": [],
+    "enemies": [
+      "5"
+    ]
+  },
+  "components": [
+    "ability_user",
+    "actor",
+    "artificial_intelligence",
+    "collidable",
+    "dialogues",
+    "experience_gainer",
+    "fighter",
+    "glyph",
+    "health",
+    "humanoid",
+    "minimap_pixel",
+    "moveable",
+    "name",
+    "position_2d",
+    "sight",
+    "stamina",
+    "statistics",
+    "tags"
+  ],
+  "corpse": "2643",
+  "description": "Uma criatura enorme parecida com uma aranha que corre muito rápido e lança uma teia pegajosa. Parece que foi criado usando magia negra.",
+  "dialogues": [],
+  "experience_gainer": {
+    "exp": 25,
+    "level": 3
+  },
+  "fighter": {
+    "attackNames": [
+      "Bite",
+      "Jump"
+    ]
+  },
+  "glyph": {
+    "frames": [
+      {
+        "color": [
+          255,
+          255,
+          255
+        ],
+        "delay": 0,
+        "index": 1780
+      }
+    ],
+    "random_frame_start": false
+  },
+  "health": 130,
+  "humanoid": {
+    "race": ""
+  },
+  "id": "2643",
+  "minimap_pixel": [
+    30,
+    200,
+    58
+  ],
+  "moveable": {
+    "speed": 0.800000011920929
+  },
+  "name": "Araxhden",
+  "sight": {
+    "ignore_infra_penalty": false,
+    "infravision": false,
+    "range": 10,
+    "threesixty": false
+  },
+  "stamina": {
+    "fatigue": 100,
+    "stamina": 100,
+    "stamina_regen": 0.0
+  },
+  "statistics": {
+    "dexterity": [
+      12,
+      16
+    ],
+    "endurance": [
+      12,
+      15
+    ],
+    "intelligence": [
+      19,
+      22
+    ],
+    "strength": [
+      16,
+      20
+    ],
+    "willpower": [
+      12,
+      17
+    ]
+  },
+  "tags": [
+    "9",
+    "18"
+  ]
+}

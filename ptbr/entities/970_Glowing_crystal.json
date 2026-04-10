@@ -1,0 +1,74 @@
+{
+  "components": [
+    "glyph",
+    "light_source",
+    "minimap_pixel",
+    "name",
+    "position_2d",
+    "producer"
+  ],
+  "description": "Um cristal brilhante natural, cortando a escuridão com sua luz.",
+  "glyph": {
+    "frames": [
+      {
+        "color": [
+          255,
+          255,
+          255
+        ],
+        "delay": 200,
+        "index": 1042
+      },
+      {
+        "color": [
+          255,
+          255,
+          255
+        ],
+        "delay": 200,
+        "index": 1043
+      },
+      {
+        "color": [
+          255,
+          255,
+          255
+        ],
+        "delay": 200,
+        "index": 1044
+      }
+    ],
+    "random_frame_start": false
+  },
+  "id": "970",
+  "light_source": {
+    "finish": -1,
+    "fuel": [
+      62,
+      325
+    ],
+    "lit_image": -1,
+    "range": 5
+  },
+  "minimap_pixel": [
+    139,
+    223,
+    194
+  ],
+  "name": "Cristal Brilhante",
+  "producer": {
+    "products": {
+      "5": [
+        {
+          "amount": [
+            1,
+            2
+          ],
+          "id": "2518",
+          "percent_chance": 100
+        }
+      ]
+    },
+    "time": 10
+  }
+}

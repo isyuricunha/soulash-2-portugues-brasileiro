@@ -1,0 +1,24 @@
+{
+  "id": "455",
+  "image": 342,
+  "name": "Mine",
+  "occupation_image": 36,
+  "occupation": "core_2_Skeleton_Miner",
+  "produces": [
+    {
+      "entities": [
+        {
+          "daily": 2,
+          "id": "core_2_Chromium_Ore"
+        }
+      ],
+      "takes": []
+    }
+  ],
+  "race": "17",
+  "tier": 1,
+  "workers": [
+    1,
+    4
+  ]
+}

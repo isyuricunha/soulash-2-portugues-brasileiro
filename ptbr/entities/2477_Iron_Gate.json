@@ -1,0 +1,111 @@
+{
+  "armor": {
+    "acid": 3,
+    "death": 12,
+    "electricity": 10,
+    "fire": 8,
+    "frost": 2,
+    "holy": 2,
+    "parry": 0,
+    "physical": 8,
+    "poison": 6,
+    "thorns": 0
+  },
+  "background": {
+    "color": [
+      34,
+      39,
+      52
+    ],
+    "noise": 4
+  },
+  "category_id": 3,
+  "components": [
+    "armor",
+    "background",
+    "block_light",
+    "collidable",
+    "craftable",
+    "glyph",
+    "health",
+    "height",
+    "minimap_pixel",
+    "name",
+    "openable",
+    "position_2d",
+    "producer"
+  ],
+  "corpse": [],
+  "craftable": {
+    "magic_slots": 0,
+    "resources": [
+      {
+        "amount": 3,
+        "id": "147"
+      }
+    ],
+    "time": 20,
+    "tools": [
+      6
+    ]
+  },
+  "description": "Um portão de ferro imponente, alto e robusto, guardando a entrada.",
+  "glyph": {
+    "frames": [
+      {
+        "color": [
+          255,
+          255,
+          255
+        ],
+        "delay": 0,
+        "index": 1634
+      }
+    ],
+    "random_frame_start": false
+  },
+  "health": 300,
+  "height": 10,
+  "id": "2477",
+  "minimap_pixel": [
+    73,
+    83,
+    92
+  ],
+  "name": "Portão de Ferro",
+  "openable": {
+    "block_light": false,
+    "collidable": false,
+    "description": "Portão pesado aberto, não muito convidativo.",
+    "glyph": {
+      "frames": [
+        {
+          "color": [
+            255,
+            255,
+            255
+          ],
+          "delay": 0,
+          "index": 1635
+        }
+      ],
+      "random_frame_start": false
+    },
+    "height": 0
+  },
+  "producer": {
+    "products": {
+      "core_2_deconstruct": [
+        {
+          "amount": [
+            0,
+            0
+          ],
+          "id": "-1",
+          "percent_chance": 0
+        }
+      ]
+    },
+    "time": 30
+  }
+}

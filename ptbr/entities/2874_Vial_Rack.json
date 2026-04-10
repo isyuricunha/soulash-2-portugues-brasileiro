@@ -1,0 +1,68 @@
+{
+  "category_id": 7,
+  "components": [
+    "craftable",
+    "glyph",
+    "minimap_pixel",
+    "name",
+    "position_2d",
+    "producer",
+    "stackable"
+  ],
+  "craftable": {
+    "magic_slots": 0,
+    "resource_types": [
+      {
+        "amount": 2,
+        "id": 3
+      }
+    ],
+    "resources": [
+      {
+        "amount": 2,
+        "id": "2090"
+      }
+    ],
+    "time": 20,
+    "tools": [
+      6
+    ]
+  },
+  "description": "Um suporte cheio de frascos coloridos.",
+  "glyph": {
+    "frames": [
+      {
+        "color": [
+          255,
+          255,
+          255
+        ],
+        "delay": 0,
+        "index": 1886
+      }
+    ],
+    "random_frame_start": false
+  },
+  "id": "2874",
+  "minimap_pixel": [
+    200,
+    200,
+    200
+  ],
+  "name": "Suporte de Frascos",
+  "producer": {
+    "products": {
+      "core_2_deconstruct": [
+        {
+          "amount": [
+            0,
+            0
+          ],
+          "id": "-1",
+          "percent_chance": 0
+        }
+      ]
+    },
+    "time": 20
+  }
+}

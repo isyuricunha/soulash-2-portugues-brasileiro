@@ -1,0 +1,30 @@
+{
+  "animation": "130",
+  "cast_time": 1.0,
+  "cooldown": 8.0,
+  "cost": {
+    "health": 0,
+    "stamina": 8
+  },
+  "description": "Undead spectral hands come from the ground around caster dealing ::damage ::damage_type damage to everyone in the area of ::aoe_range around the caster.",
+  "duration": 0.0,
+  "effects": {
+    "aoe_range": 5,
+    "aoe_shape": 1,
+    "damage": [
+      5,
+      10
+    ],
+    "damage_type": "death",
+    "magic_power_damage": 1.25
+  },
+  "id": "102",
+  "image": 111,
+  "name": "Deadly Grasp",
+  "range": 0,
+  "skill": "core_2_necromancy",
+  "slots": {
+    "offensive": 3
+  },
+  "target": "aoe_self"
+}

@@ -1,0 +1,119 @@
+{
+  "ability_user": [
+    "99",
+    "13",
+    "65"
+  ],
+  "artificial_intelligence": {
+    "allies": [
+      "17"
+    ],
+    "allow_production": [],
+    "behaviors": [],
+    "enemies": [
+      "5"
+    ]
+  },
+  "components": [
+    "ability_user",
+    "actor",
+    "artificial_intelligence",
+    "collidable",
+    "dialogues",
+    "equipment",
+    "experience_gainer",
+    "fighter",
+    "glyph",
+    "health",
+    "humanoid",
+    "minimap_pixel",
+    "moveable",
+    "name",
+    "position_2d",
+    "sight",
+    "stamina",
+    "statistics",
+    "tags"
+  ],
+  "corpse": "2985",
+  "description": "Weird creature from a strange place.",
+  "dialogues": [
+    "312",
+    "313"
+  ],
+  "experience_gainer": {
+    "exp": 28,
+    "level": 40
+  },
+  "fighter": {
+    "attackNames": [
+      "Tentacle"
+    ]
+  },
+  "glyph": {
+    "frames": [
+      {
+        "color": [
+          127,
+          185,
+          85
+        ],
+        "delay": 0,
+        "index": 148
+      }
+    ],
+    "random_frame_start": false
+  },
+  "health": 999,
+  "humanoid": {
+    "race": ""
+  },
+  "id": "2967",
+  "minimap_pixel": [
+    127,
+    185,
+    85
+  ],
+  "moveable": {
+    "speed": 1.2999999523162842
+  },
+  "name": "Xanaxas",
+  "sight": {
+    "ignore_infra_penalty": false,
+    "infravision": false,
+    "range": 10,
+    "threesixty": true
+  },
+  "stamina": {
+    "fatigue": 100,
+    "stamina": 100,
+    "stamina_regen": 0.0
+  },
+  "statistics": {
+    "dexterity": [
+      67,
+      75
+    ],
+    "endurance": [
+      82,
+      90
+    ],
+    "intelligence": [
+      93,
+      105
+    ],
+    "strength": [
+      35,
+      40
+    ],
+    "willpower": [
+      95,
+      104
+    ]
+  },
+  "tags": [
+    "9",
+    "3",
+    "38"
+  ]
+}

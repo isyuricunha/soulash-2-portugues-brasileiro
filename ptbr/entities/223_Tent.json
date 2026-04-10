@@ -1,0 +1,47 @@
+{
+  "armor": {
+    "acid": 5,
+    "death": 0,
+    "electricity": 0,
+    "fire": 0,
+    "frost": 5,
+    "holy": 5,
+    "parry": 0,
+    "physical": 0,
+    "poison": 0
+  },
+  "components": [
+    "armor",
+    "block_light",
+    "glyph",
+    "health",
+    "name",
+    "position_2d",
+    "resting_place",
+    "minimap_pixel"
+  ],
+  "corpse": [],
+  "description": "Small enclosed place of rest, shelter from rain and sun.",
+  "glyph": {
+    "frames": [
+      {
+        "color": [
+          255,
+          255,
+          255
+        ],
+        "delay": 0,
+        "index": 238
+      }
+    ]
+  },
+  "health": 50,
+  "id": "223",
+  "minimap_pixel": [
+    145,
+    105,
+    50
+  ],
+  "name": "Tent",
+  "resting_place": 130
+}

@@ -1,0 +1,59 @@
+{
+  "components": [
+    "glyph",
+    "liquid_source",
+    "minimap_pixel",
+    "name",
+    "position_2d",
+    "producer"
+  ],
+  "description": "A humanoid corpse covered in spider webs.",
+  "glyph": {
+    "frames": [
+      {
+        "color": [
+          255,
+          255,
+          255
+        ],
+        "delay": 0,
+        "index": 1956
+      }
+    ],
+    "random_frame_start": true
+  },
+  "id": "2935",
+  "liquid_source": {
+    "limit": 60,
+    "type": 4
+  },
+  "minimap_pixel": [
+    147,
+    128,
+    104
+  ],
+  "name": "Web Covered Corpse",
+  "producer": {
+    "products": {
+      "3": [
+        {
+          "amount": [
+            1,
+            1
+          ],
+          "id": "55",
+          "percent_chance": 100
+        },
+        {
+          "amount": [
+            1,
+            1
+          ],
+          "id": "318",
+          "percent_chance": 100
+        }
+      ]
+    },
+    "time": 10
+  }
+}

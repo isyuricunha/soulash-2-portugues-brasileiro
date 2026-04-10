@@ -1,0 +1,20 @@
+{
+  "animation": "core_2_Drink_thorns_tonic",
+  "cast_time": 1.0,
+  "cooldown": 30.0,
+  "cost": {
+    "health": 0,
+    "stamina": 0
+  },
+  "description": "Esta poção te dá ::thorns espinhos por ::duration turnos.",
+  "duration": 50.0,
+  "effects": {
+    "thorns": 12
+  },
+  "id": "core_2_Throns_Tonic",
+  "image": 766,
+  "name": "Tônico de Espinhos",
+  "range": 0,
+  "skill": "",
+  "target": "self"
+}

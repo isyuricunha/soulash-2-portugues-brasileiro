@@ -1,0 +1,51 @@
+{
+  "background": {
+    "color": [
+      44,
+      45,
+      41
+    ],
+    "noise": 3,
+    "noise_intensity": 6
+  },
+  "components": [
+    "background",
+    "glyph",
+    "health",
+    "minimap_pixel",
+    "name"
+  ],
+  "corpse": [
+    {
+      "damage_type": 0,
+      "id": "30"
+    },
+    {
+      "damage_type": 1,
+      "id": "546"
+    }
+  ],
+  "description": "The wooden boards that make the floor beneath your feet is cracked and damaged in multiple places.",
+  "glyph": {
+    "frames": [
+      {
+        "color": [
+          255,
+          255,
+          255
+        ],
+        "delay": 0,
+        "index": 755
+      }
+    ],
+    "random_frame_start": false
+  },
+  "health": 1,
+  "id": "604",
+  "minimap_pixel": [
+    61,
+    38,
+    7
+  ],
+  "name": "Broken Wooden Floor"
+}

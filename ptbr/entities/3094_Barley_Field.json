@@ -1,0 +1,84 @@
+{
+  "components": [
+    "glyph",
+    "glyph_top",
+    "health",
+    "height",
+    "minimap_pixel",
+    "name",
+    "position_2d",
+    "producer"
+  ],
+  "corpse": [
+    {
+      "damage_type": 1,
+      "id": "561"
+    }
+  ],
+  "description": "Um campo onde a cevada cresce e pode ser colhida com as ferramentas certas.",
+  "glyph": {
+    "frames": [
+      {
+        "color": [
+          167,
+          128,
+          103
+        ],
+        "delay": 0,
+        "index": 2071
+      }
+    ],
+    "random_frame_start": false,
+    "random_top": {
+      "colors": [
+        [
+          221,
+          178,
+          107
+        ],
+        [
+          238,
+          181,
+          131
+        ],
+        [
+          238,
+          205,
+          177
+        ]
+      ],
+      "count": 5,
+      "glyph_ids": [
+        2072,
+        2073
+      ],
+      "max_alpha": 200,
+      "max_range": 3,
+      "wind": true
+    }
+  },
+  "health": 10,
+  "height": 0,
+  "id": "3094",
+  "minimap_pixel": [
+    163,
+    138,
+    76
+  ],
+  "name": "Campo de Cevada",
+  "producer": {
+    "products": {
+      "6": [
+        {
+          "amount": [
+            1,
+            2
+          ],
+          "id": "3093",
+          "percent_chance": 100
+        }
+      ]
+    },
+    "time": 10
+  }
+}

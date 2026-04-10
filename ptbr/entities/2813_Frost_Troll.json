@@ -1,0 +1,136 @@
+{
+  "ability_user": [
+    "47"
+  ],
+  "artificial_intelligence": {
+    "allies": [
+      "11"
+    ],
+    "allow_production": [],
+    "behaviors": [],
+    "enemies": [
+      "5"
+    ]
+  },
+  "components": [
+    "ability_user",
+    "actor",
+    "artificial_intelligence",
+    "collidable",
+    "dialogues",
+    "equipment",
+    "experience_gainer",
+    "fighter",
+    "glyph",
+    "health",
+    "humanoid",
+    "minimap_pixel",
+    "moveable",
+    "name",
+    "position_2d",
+    "sight",
+    "stamina",
+    "statistics",
+    "tags"
+  ],
+  "corpse": "2814",
+  "description": "É grande, meio congelado e parece faminto.",
+  "dialogues": [
+    "222",
+    "223"
+  ],
+  "equipment": {
+    "legs_cloth": [
+      {
+        "chance": 1.0,
+        "id": "2175",
+        "name": "Tanga de Pele",
+        "stack": 1
+      }
+    ],
+    "right_hand": [
+      {
+        "chance": 1.0,
+        "id": "774",
+        "name": "Clava com Espinhos",
+        "stack": 1
+      }
+    ]
+  },
+  "experience_gainer": {
+    "exp": 0,
+    "level": 30
+  },
+  "fighter": {
+    "attackNames": [
+      "Bite"
+    ]
+  },
+  "glyph": {
+    "frames": [
+      {
+        "color": [
+          255,
+          255,
+          255
+        ],
+        "delay": 0,
+        "index": 567
+      }
+    ],
+    "random_frame_start": false
+  },
+  "health": 400,
+  "humanoid": {
+    "race": ""
+  },
+  "id": "2813",
+  "minimap_pixel": [
+    149,
+    165,
+    101
+  ],
+  "moveable": {
+    "speed": 0.8999999761581421
+  },
+  "name": "Troll do Gelo",
+  "sight": {
+    "ignore_infra_penalty": false,
+    "infravision": true,
+    "range": 10,
+    "threesixty": false
+  },
+  "stamina": {
+    "fatigue": 100,
+    "stamina": 100,
+    "stamina_regen": 0.0
+  },
+  "statistics": {
+    "dexterity": [
+      12,
+      16
+    ],
+    "endurance": [
+      42,
+      46
+    ],
+    "health_regen": 1.0,
+    "health_regen_tick": 0.33000001311302185,
+    "intelligence": [
+      8,
+      11
+    ],
+    "strength": [
+      41,
+      45
+    ],
+    "willpower": [
+      26,
+      30
+    ]
+  },
+  "tags": [
+    "11",
+    "9"
+  ]
+}

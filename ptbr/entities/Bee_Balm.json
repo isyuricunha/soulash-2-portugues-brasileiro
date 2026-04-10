@@ -1,0 +1,58 @@
+{
+  "components": [
+    "glyph",
+    "health",
+    "minimap_pixel",
+    "name",
+    "position_2d",
+    "producer"
+  ],
+  "corpse": [],
+  "description": "Uma adorável flor rosa. Abelhas parecem ser obcecadas por ela.",
+  "glyph": {
+    "frames": [
+      {
+        "color": [
+          255,
+          255,
+          255
+        ],
+        "delay": 0,
+        "index": 2419
+      },
+      {
+        "color": [
+          255,
+          255,
+          255
+        ],
+        "delay": 200,
+        "index": 2420
+      }
+    ],
+    "random_frame_start": true
+  },
+  "health": 10,
+  "id": "core_2_Bee_Balm",
+  "minimap_pixel": [
+    226,
+    89,
+    87
+  ],
+  "name": "Bálsamo de Abelha",
+  "producer": {
+    "products": {
+      "10": [
+        {
+          "amount": [
+            1,
+            1
+          ],
+          "id": "core_2_Flower_Pollen",
+          "percent_chance": 100
+        }
+      ]
+    },
+    "time": 10
+  }
+}

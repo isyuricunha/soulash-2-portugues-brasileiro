@@ -1,0 +1,106 @@
+{
+  "ability_user": [
+    "138"
+  ],
+  "artificial_intelligence": {
+    "allies": [],
+    "allow_production": [],
+    "behaviors": [],
+    "enemies": [
+      "5"
+    ]
+  },
+  "components": [
+    "ability_user",
+    "actor",
+    "artificial_intelligence",
+    "collidable",
+    "dialogues",
+    "experience_gainer",
+    "fighter",
+    "glyph",
+    "health",
+    "minimap_pixel",
+    "moveable",
+    "name",
+    "position_2d",
+    "sight",
+    "stamina",
+    "statistics",
+    "tags"
+  ],
+  "corpse": "2760",
+  "description": "Um humanoide parecido com um sapo coberto por uma baba nojenta.",
+  "dialogues": [],
+  "experience_gainer": {
+    "exp": 0,
+    "level": 17
+  },
+  "fighter": {
+    "attackNames": [
+      "Bite",
+      "Tongue whip"
+    ]
+  },
+  "glyph": {
+    "frames": [
+      {
+        "color": [
+          255,
+          255,
+          255
+        ],
+        "delay": 2000,
+        "index": 36
+      }
+    ],
+    "random_frame_start": true
+  },
+  "health": 160,
+  "id": "2759",
+  "minimap_pixel": [
+    187,
+    197,
+    94
+  ],
+  "moveable": {
+    "speed": 0.8999999761581421
+  },
+  "name": "Homem-Sapo",
+  "sight": {
+    "ignore_infra_penalty": false,
+    "infravision": false,
+    "range": 7,
+    "threesixty": false
+  },
+  "stamina": {
+    "fatigue": 100,
+    "stamina": 100,
+    "stamina_regen": 0.0
+  },
+  "statistics": {
+    "dexterity": [
+      12,
+      16
+    ],
+    "endurance": [
+      16,
+      22
+    ],
+    "intelligence": [
+      8,
+      10
+    ],
+    "strength": [
+      24,
+      30
+    ],
+    "willpower": [
+      8,
+      10
+    ]
+  },
+  "tags": [
+    "9"
+  ]
+}

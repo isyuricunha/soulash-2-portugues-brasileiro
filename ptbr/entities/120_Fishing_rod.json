@@ -1,0 +1,76 @@
+{
+  "components": [
+    "craftable",
+    "glyph",
+    "item",
+    "minimap_pixel",
+    "name",
+    "position_2d",
+    "tool",
+    "value",
+    "weapon",
+    "weight"
+  ],
+  "craftable": {
+    "magic_slots": 0,
+    "resource_types": [
+      {
+        "amount": 2,
+        "id": 3
+      }
+    ],
+    "resources": null,
+    "time": 30,
+    "tools": []
+  },
+  "description": "Um simples poste de madeira com uma linha presa a ele e um pequeno gancho de metal na ponta.",
+  "glyph": {
+    "frames": [
+      {
+        "color": [
+          255,
+          255,
+          255
+        ],
+        "delay": 0,
+        "index": 262
+      }
+    ],
+    "random_frame_start": false
+  },
+  "id": "120",
+  "item": {
+    "image": 40,
+    "type": 13
+  },
+  "minimap_pixel": [
+    109,
+    78,
+    34
+  ],
+  "name": "Vara de Pesca",
+  "tool": [
+    {
+      "id": 5,
+      "quality": 100
+    }
+  ],
+  "value": 600,
+  "weapon": {
+    "attack_animation": "106",
+    "attack_speed": 0.800000011920929,
+    "damage": [
+      {
+        "dmg_max": 1,
+        "dmg_min": 0,
+        "dmg_type": "physical"
+      }
+    ],
+    "hands": 2,
+    "hit_bonus": 0,
+    "parry_bonus": 0,
+    "range": 5,
+    "type": 8
+  },
+  "weight": 1.5
+}

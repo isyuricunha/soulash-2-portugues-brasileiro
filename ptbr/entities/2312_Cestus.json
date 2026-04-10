@@ -1,0 +1,70 @@
+{
+  "armor": {
+    "acid": 0,
+    "death": 3,
+    "electricity": 0,
+    "fire": 0,
+    "frost": 3,
+    "holy": 0,
+    "parry": 0,
+    "physical": 3,
+    "poison": 3
+  },
+  "components": [
+    "armor",
+    "craftable",
+    "glyph",
+    "item",
+    "minimap_pixel",
+    "name",
+    "position_2d",
+    "value",
+    "weight"
+  ],
+  "craftable": {
+    "magic_slots": 4,
+    "resource_types": [
+      {
+        "amount": 3,
+        "id": 2
+      },
+      {
+        "amount": 1,
+        "id": 1
+      }
+    ],
+    "resources": null,
+    "time": 60,
+    "tools": [
+      14
+    ]
+  },
+  "description": "Luvas feitas de couro com espinhos de metal presos aos nós dos dedos.",
+  "glyph": {
+    "frames": [
+      {
+        "color": [
+          255,
+          255,
+          255
+        ],
+        "delay": 0,
+        "index": 681
+      }
+    ],
+    "random_frame_start": false
+  },
+  "id": "2312",
+  "item": {
+    "image": 602,
+    "type": 11
+  },
+  "minimap_pixel": [
+    122,
+    93,
+    57
+  ],
+  "name": "Cestus",
+  "value": 4000,
+  "weight": 2.5
+}

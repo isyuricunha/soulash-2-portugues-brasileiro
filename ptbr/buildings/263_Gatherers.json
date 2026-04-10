@@ -1,0 +1,66 @@
+{
+  "id": "263",
+  "image": 0,
+  "name": "Gatherers",
+  "occupation_image": 17,
+  "occupation": "core_2_Mushman_Gatherer",
+  "occupation_per_race": {
+    "0": "2202",
+    "1": "core_2_Dwarf_Forager",
+    "2": "2264",
+    "4": "core_2_Goblin_Forager",
+    "6": "core_2_Vampire_Forager",
+    "7": "core_2_Troll_Forager",
+    "8": "core_2_Orc_Forager",
+    "10": "2326",
+    "23": "core_2_Reptilion_Forager",
+    "26": "2372",
+    "31": "core_2_Gnoll_Trash_Collector",
+    "32": "core_2_Mushman_Forager",
+    "33": "core_2_Ursan_Forager"
+  },
+  "produces": [
+    {
+      "entities": [
+        {
+          "daily": 5,
+          "id": "core_2_Glowing_Mushroom"
+        }
+      ],
+      "takes": []
+    },
+    {
+      "entities": [
+        {
+          "daily": 4,
+          "id": "core_2_Paralyzing_Mushroom"
+        }
+      ],
+      "takes": []
+    }
+  ],
+  "race": "32",
+  "tier": 1,
+  "workers": [
+    1,
+    4
+  ],
+  "allow_player": true,
+  "required_entities": [
+    {
+      "entities": [
+        "core_2_Glowing_Mushrooms",
+        "core_2_Glowing_Mushroom_Pins",
+        "core_2_Paralyzing_Mushrooms",
+        "core_2_Paralyzing_Mushroom_Pins"
+      ],
+      "count": 6
+    },
+    {
+      "component": "resting_place",
+      "count": 4
+    }
+  ],
+  "min_area": 40,
+  "group": "resources"
+}

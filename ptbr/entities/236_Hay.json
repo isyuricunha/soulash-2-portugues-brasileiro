@@ -1,0 +1,48 @@
+{
+  "components": [
+    "glyph",
+    "item",
+    "minimap_pixel",
+    "name",
+    "position_2d",
+    "resting_place",
+    "weight"
+  ],
+  "description": "Algum feno no chão, um local de descanso dos pobres.",
+  "glyph": {
+    "frames": [
+      {
+        "color": [
+          255,
+          255,
+          255
+        ],
+        "delay": 0,
+        "index": 64
+      },
+      {
+        "color": [
+          255,
+          255,
+          255
+        ],
+        "delay": 0,
+        "index": 1210
+      }
+    ],
+    "random_frame_start": true
+  },
+  "id": "236",
+  "item": {
+    "image": 100,
+    "type": 17
+  },
+  "minimap_pixel": [
+    135,
+    122,
+    63
+  ],
+  "name": "Feno",
+  "resting_place": 115,
+  "weight": 3.0
+}

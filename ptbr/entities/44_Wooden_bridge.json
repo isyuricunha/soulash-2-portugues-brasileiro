@@ -1,0 +1,79 @@
+{
+  "background": {
+    "color": [
+      44,
+      45,
+      41
+    ],
+    "noise": 3,
+    "noise_intensity": 3
+  },
+  "category_id": 1,
+  "components": [
+    "background",
+    "craftable",
+    "glyph",
+    "minimap_pixel",
+    "name",
+    "position_2d",
+    "producer"
+  ],
+  "craftable": {
+    "magic_slots": 0,
+    "resource_types": [
+      {
+        "amount": 2,
+        "id": 3
+      }
+    ],
+    "resources": null,
+    "time": 25,
+    "tools": []
+  },
+  "description": "A simple wooden bridge, allowing easy passage to the other side.",
+  "glyph": {
+    "frames": [
+      {
+        "color": [
+          255,
+          255,
+          255
+        ],
+        "delay": 0,
+        "index": 244
+      },
+      {
+        "color": [
+          255,
+          255,
+          255
+        ],
+        "delay": 0,
+        "index": 1232
+      }
+    ],
+    "random_frame_start": true
+  },
+  "id": "44",
+  "minimap_pixel": [
+    61,
+    38,
+    7
+  ],
+  "name": "Wooden Bridge",
+  "producer": {
+    "products": {
+      "core_2_deconstruct": [
+        {
+          "amount": [
+            0,
+            0
+          ],
+          "id": "-1",
+          "percent_chance": 0
+        }
+      ]
+    },
+    "time": 20
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "background": {
+    "color": [
+      44,
+      45,
+      41
+    ],
+    "noise": 4
+  },
+  "components": [
+    "background",
+    "glyph",
+    "minimap_pixel",
+    "name"
+  ],
+  "description": "Um chão feito de substância semelhante a papel.",
+  "glyph": {
+    "frames": [
+      {
+        "color": [
+          255,
+          255,
+          255
+        ],
+        "delay": 0,
+        "index": 2696
+      }
+    ],
+    "random_frame_start": false
+  },
+  "id": "core_2_Wasp_Nest_Floor",
+  "minimap_pixel": [
+    100,
+    96,
+    109
+  ],
+  "name": "Chão de Ninho de Vespa"
+}

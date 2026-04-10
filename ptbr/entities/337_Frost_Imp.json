@@ -1,0 +1,129 @@
+{
+  "ability_user": [
+    "53"
+  ],
+  "armor": {
+    "acid": 0,
+    "death": 0,
+    "electricity": 0,
+    "fire": -5,
+    "frost": 20,
+    "holy": 0,
+    "parry": 0,
+    "physical": 0,
+    "poison": 0,
+    "thorns": 0
+  },
+  "artificial_intelligence": {
+    "allies": [],
+    "allow_production": [],
+    "behaviors": [],
+    "enemies": [
+      "5"
+    ]
+  },
+  "components": [
+    "ability_user",
+    "actor",
+    "armor",
+    "artificial_intelligence",
+    "collidable",
+    "dialogues",
+    "experience_gainer",
+    "fighter",
+    "glyph",
+    "health",
+    "humanoid",
+    "minimap_pixel",
+    "moveable",
+    "name",
+    "position_2d",
+    "sight",
+    "stamina",
+    "statistics",
+    "tags"
+  ],
+  "corpse": "2446",
+  "description": "Um pequeno ser demoníaco ri maniacamente, olhando para você.",
+  "dialogues": [
+    "52",
+    "53"
+  ],
+  "experience_gainer": {
+    "exp": 0,
+    "level": 20
+  },
+  "fighter": {
+    "attackNames": [
+      "Horn",
+      "Kick",
+      "Punch",
+      "Bite"
+    ]
+  },
+  "glyph": {
+    "frames": [
+      {
+        "color": [
+          255,
+          255,
+          255
+        ],
+        "delay": 0,
+        "index": 566
+      }
+    ],
+    "random_frame_start": false
+  },
+  "health": 100,
+  "humanoid": {
+    "race": ""
+  },
+  "id": "337",
+  "minimap_pixel": [
+    130,
+    130,
+    182
+  ],
+  "moveable": {
+    "speed": 1.0
+  },
+  "name": "Diabrete de Gelo",
+  "sight": {
+    "ignore_infra_penalty": false,
+    "infravision": true,
+    "range": 10,
+    "threesixty": false
+  },
+  "stamina": {
+    "fatigue": 100,
+    "stamina": 100,
+    "stamina_regen": 0.0
+  },
+  "statistics": {
+    "dexterity": [
+      10,
+      13
+    ],
+    "endurance": [
+      15,
+      20
+    ],
+    "intelligence": [
+      30,
+      35
+    ],
+    "strength": [
+      10,
+      13
+    ],
+    "willpower": [
+      15,
+      20
+    ]
+  },
+  "tags": [
+    "9",
+    "14"
+  ]
+}

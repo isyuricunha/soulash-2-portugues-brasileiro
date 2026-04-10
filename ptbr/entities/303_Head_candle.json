@@ -1,0 +1,87 @@
+{
+  "armor": {
+    "acid": 0,
+    "death": 0,
+    "electricity": 0,
+    "fire": 3,
+    "frost": 0,
+    "holy": 0,
+    "parry": 0,
+    "physical": 2,
+    "poison": 0
+  },
+  "components": [
+    "armor",
+    "craftable",
+    "glyph",
+    "item",
+    "light_source",
+    "minimap_pixel",
+    "name",
+    "position_2d",
+    "value",
+    "weight"
+  ],
+  "craftable": {
+    "magic_slots": 3,
+    "resource_types": [
+      {
+        "amount": 2,
+        "id": 1
+      }
+    ],
+    "resources": [
+      {
+        "amount": 1,
+        "id": "116"
+      }
+    ],
+    "time": 50,
+    "tools": [
+      1
+    ]
+  },
+  "description": "Ótima invenção da engenharia anã, uma vela presa a um anel de metal que você pode usar na cabeça. Libera as mãos para cometer crimes.",
+  "glyph": {
+    "frames": [
+      {
+        "color": [
+          255,
+          255,
+          255
+        ],
+        "delay": 100,
+        "index": 126
+      },
+      {
+        "color": [
+          255,
+          255,
+          255
+        ],
+        "delay": 100,
+        "index": 1239
+      }
+    ],
+    "random_frame_start": true
+  },
+  "id": "303",
+  "item": {
+    "image": 112,
+    "type": 2
+  },
+  "light_source": {
+    "finish": -1,
+    "fuel": [],
+    "lit_image": 201,
+    "range": 4
+  },
+  "minimap_pixel": [
+    100,
+    74,
+    68
+  ],
+  "name": "Vela de Cabeça",
+  "value": 2700,
+  "weight": 2.0
+}

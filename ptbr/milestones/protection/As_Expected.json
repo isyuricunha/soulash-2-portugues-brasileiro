@@ -1,0 +1,15 @@
+{
+  "id": "core_2_as_expected",
+  "name": "As Expected",
+  "requirements": {
+    "skill": 36
+  },
+  "rewards": [
+    {
+      "passive": "core_2_protected_flanks"
+    }
+  ],
+  "skill_id": "core_2_protection",
+  "steps": [],
+  "steps_type": 0
+}

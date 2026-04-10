@@ -1,0 +1,111 @@
+{
+  "armor": {
+    "acid": 1000,
+    "death": 1000,
+    "electricity": 1000,
+    "fire": 1000,
+    "frost": 0,
+    "holy": 1000,
+    "parry": 0,
+    "physical": 1000,
+    "poison": 1000,
+    "thorns": 0
+  },
+  "background": {
+    "color": [
+      44,
+      45,
+      41
+    ],
+    "noise": 5,
+    "noise_intensity": 7
+  },
+  "components": [
+    "armor",
+    "background",
+    "glyph",
+    "health",
+    "liquid_source",
+    "minimap_pixel",
+    "name",
+    "on_enter",
+    "position_2d",
+    "water"
+  ],
+  "corpse": [
+    {
+      "damage_type": 2,
+      "id": "910"
+    },
+    {
+      "damage_type": 9,
+      "id": "909"
+    }
+  ],
+  "description": "A river of blood that forces you to wonder how this unending stream of crimson liquid is being made.",
+  "glyph": {
+    "frames": [
+      {
+        "color": [
+          255,
+          255,
+          255
+        ],
+        "delay": 300,
+        "index": 14
+      },
+      {
+        "color": [
+          255,
+          255,
+          255
+        ],
+        "delay": 250,
+        "index": 954
+      },
+      {
+        "color": [
+          255,
+          255,
+          255
+        ],
+        "delay": 300,
+        "index": 955
+      },
+      {
+        "color": [
+          255,
+          255,
+          255
+        ],
+        "delay": 300,
+        "index": 956
+      }
+    ],
+    "random_frame_start": false
+  },
+  "health": 1,
+  "id": "909",
+  "liquid_source": {
+    "limit": -1,
+    "type": 4
+  },
+  "minimap_pixel": [
+    138,
+    7,
+    7
+  ],
+  "name": "River of Blood",
+  "on_enter": {
+    "ability": [
+      "88",
+      "89"
+    ],
+    "only_player_triggers": false,
+    "teleport": null,
+    "trigger_chance": 1.0
+  },
+  "water": {
+    "swimming": true
+  }
+}

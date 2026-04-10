@@ -1,0 +1,82 @@
+{
+  "components": [
+    "collidable",
+    "craftable",
+    "glyph",
+    "item",
+    "light_source",
+    "minimap_pixel",
+    "name",
+    "position_2d",
+    "stackable",
+    "value",
+    "weapon",
+    "weight"
+  ],
+  "craftable": {
+    "backgrounds": [],
+    "biomes": [],
+    "magic_slots": 0,
+    "resources": [
+      {
+        "amount": 1,
+        "id": "core_2_Glowing_Mushroom"
+      },
+      {
+        "amount": 1,
+        "id": "core_2_Mush_Wood"
+      }
+    ],
+    "time": 30,
+    "tools": []
+  },
+  "description": "A small lamp with glowing mushrooms.",
+  "glyph": {
+    "frames": [
+      {
+        "color": [
+          255,
+          255,
+          255
+        ],
+        "delay": 300,
+        "index": 2159
+      }
+    ],
+    "random_frame_start": true
+  },
+  "id": "core_2_Spore_Lamp",
+  "item": {
+    "image": 900,
+    "type": 13
+  },
+  "light_source": {
+    "finish": -1,
+    "lit_image": 1112,
+    "range": 7
+  },
+  "minimap_pixel": [
+    136,
+    120,
+    42
+  ],
+  "name": "Spore Lamp",
+  "value": 1000,
+  "weapon": {
+    "attack_speed": 1.0,
+    "critical_hit": 0.0,
+    "damage": [
+      {
+        "dmg_max": 1,
+        "dmg_min": 0,
+        "dmg_type": "poison"
+      }
+    ],
+    "hands": 1,
+    "hit_bonus": 0,
+    "parry_bonus": 0,
+    "range": 1,
+    "type": 8
+  },
+  "weight": 0.5
+}

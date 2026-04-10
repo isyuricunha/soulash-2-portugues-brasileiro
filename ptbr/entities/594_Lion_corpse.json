@@ -1,0 +1,68 @@
+{
+  "components": [
+    "glyph",
+    "item",
+    "liquid_source",
+    "minimap_pixel",
+    "name",
+    "position_2d",
+    "producer",
+    "value",
+    "weight"
+  ],
+  "description": "O corpo carbonizado de um leão.",
+  "glyph": {
+    "frames": [
+      {
+        "color": [
+          255,
+          255,
+          255
+        ],
+        "delay": 0,
+        "index": 130
+      }
+    ],
+    "random_frame_start": false
+  },
+  "id": "594",
+  "item": {
+    "image": 214,
+    "type": 18
+  },
+  "liquid_source": {
+    "limit": 80,
+    "type": 4
+  },
+  "minimap_pixel": [
+    206,
+    167,
+    66
+  ],
+  "name": "Cadáver de Leão",
+  "producer": {
+    "products": {
+      "3": [
+        {
+          "amount": [
+            3,
+            5
+          ],
+          "id": "318",
+          "percent_chance": 100
+        },
+        {
+          "amount": [
+            1,
+            1
+          ],
+          "id": "2144",
+          "percent_chance": 100
+        }
+      ]
+    },
+    "time": 0
+  },
+  "value": 0,
+  "weight": 80.0
+}

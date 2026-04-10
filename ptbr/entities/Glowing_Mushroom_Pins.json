@@ -1,0 +1,83 @@
+{
+  "category_id": 5,
+  "components": [
+    "craftable",
+    "glyph",
+    "health",
+    "minimap_pixel",
+    "name",
+    "position_2d",
+    "random_resource"
+  ],
+  "corpse": [],
+  "craftable": {
+    "backgrounds": [
+      "3068"
+    ],
+    "biomes": [
+      13,
+      14,
+      12,
+      16
+    ],
+    "magic_slots": 0,
+    "resources": [
+      {
+        "amount": 1,
+        "id": "core_2_Glowing_Mushroom_Spores"
+      }
+    ],
+    "time": 20,
+    "tools": []
+  },
+  "description": "Cogumelos brilhantes minúsculos. Ainda crescendo até seu tamanho total.",
+  "glyph": {
+    "frames": [
+      {
+        "color": [
+          255,
+          255,
+          255
+        ],
+        "delay": 0,
+        "index": 2136
+      },
+      {
+        "color": [
+          255,
+          255,
+          255
+        ],
+        "delay": 0,
+        "index": 2136
+      }
+    ],
+    "random_frame_start": true
+  },
+  "health": 20,
+  "id": "core_2_Glowing_Mushroom_Pins",
+  "minimap_pixel": [
+    241,
+    90,
+    34
+  ],
+  "name": "Cogumelos Brilhantes em Botão",
+  "random_resource": {
+    "delay_spawn": true,
+    "entity": [
+      "core_2_Glowing_Mushrooms"
+    ],
+    "max_amount": 1,
+    "max_distance": 0,
+    "min_amount": 1,
+    "min_distance": 0,
+    "multiply_same": false,
+    "respawn_rate": 14400.0,
+    "spawn_at": [
+      "core_2_Glowing_Mushroom_Pins"
+    ],
+    "spawn_chance": 100.0,
+    "spawn_multiply": 0.0,
+    "spawn_rolls": 1
+  }
+}

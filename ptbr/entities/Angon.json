@@ -1,0 +1,77 @@
+{
+  "components": [
+    "craftable",
+    "glyph",
+    "item",
+    "minimap_pixel",
+    "name",
+    "position_2d",
+    "value",
+    "weapon",
+    "weight"
+  ],
+  "craftable": {
+    "backgrounds": [],
+    "biomes": [],
+    "magic_slots": 5,
+    "resource_types": [
+      {
+        "amount": 3,
+        "id": 1
+      },
+      {
+        "amount": 2,
+        "id": 3
+      }
+    ],
+    "time": 45,
+    "tools": [
+      14
+    ]
+  },
+  "description": "Lança curta com cabeça farpada feita especificamente para arremesso.",
+  "glyph": {
+    "frames": [
+      {
+        "color": [
+          255,
+          255,
+          255
+        ],
+        "delay": 0,
+        "index": 2670
+      }
+    ],
+    "random_frame_start": false
+  },
+  "id": "core_2_Angon",
+  "item": {
+    "image": 1192,
+    "type": 13
+  },
+  "minimap_pixel": [
+    198,
+    153,
+    97
+  ],
+  "name": "Angon",
+  "value": 6000,
+  "weapon": {
+    "attack_animation": "5",
+    "attack_speed": 1.0,
+    "critical_hit": 0.0,
+    "damage": [
+      {
+        "dmg_max": 15,
+        "dmg_min": 11,
+        "dmg_type": "physical"
+      }
+    ],
+    "hands": 1,
+    "hit_bonus": 4,
+    "parry_bonus": 0,
+    "range": 6,
+    "type": 11
+  },
+  "weight": 1.2000000476837158
+}

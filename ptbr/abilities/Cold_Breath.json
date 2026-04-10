@@ -1,0 +1,30 @@
+{
+  "animation": "core_2_Cold_breath",
+  "cast_time": 1.0,
+  "cooldown": 5.0,
+  "cost": {
+    "health": 0,
+    "stamina": 5
+  },
+  "description": "Sopre frio em seus inimigos causando ::damage de dano ::damage_type a todos em um cone.",
+  "duration": 0.0,
+  "effects": {
+    "aoe_break": 2,
+    "damage": [
+      3,
+      6
+    ],
+    "damage_type": "frost",
+    "magic_power_damage": 0.6600000262260437
+  },
+  "id": "core_2_Cold_Breath",
+  "image": 738,
+  "name": "Sopro Gélido",
+  "range": 5,
+  "skill": "core_2_cryomancy",
+  "slots": {
+    "offensive": 1,
+    "utility": 1
+  },
+  "target": "cone"
+}

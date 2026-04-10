@@ -1,0 +1,40 @@
+{
+  "components": [
+    "glyph",
+    "minimap_pixel",
+    "name",
+    "position_2d",
+    "stackable"
+  ],
+  "description": "Costelas que pertenciam a algum animal realmente grande.",
+  "glyph": {
+    "frames": [
+      {
+        "color": [
+          255,
+          255,
+          255
+        ],
+        "delay": 0,
+        "index": 3225
+      },
+      {
+        "color": [
+          255,
+          255,
+          255
+        ],
+        "delay": 0,
+        "index": 3226
+      }
+    ],
+    "random_frame_start": false
+  },
+  "id": "core_2_Giant_Rib_Cage",
+  "minimap_pixel": [
+    171,
+    102,
+    57
+  ],
+  "name": "Gaiola de Costelas Gigante"
+}

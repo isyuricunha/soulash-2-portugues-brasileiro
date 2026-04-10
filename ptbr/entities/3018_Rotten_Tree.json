@@ -1,0 +1,134 @@
+{
+  "armor": {
+    "acid": 5,
+    "death": 5,
+    "electricity": 10,
+    "fire": -5,
+    "frost": 10,
+    "holy": 5,
+    "parry": 0,
+    "physical": 5,
+    "poison": 20,
+    "thorns": 0
+  },
+  "components": [
+    "armor",
+    "block_light",
+    "collidable",
+    "glyph",
+    "glyph_top",
+    "health",
+    "height",
+    "name",
+    "position_2d",
+    "producer"
+  ],
+  "corpse": [],
+  "description": "Once a regular tree, that stood for too long in murky water.",
+  "glyph": {
+    "frames": [
+      {
+        "color": [
+          109,
+          86,
+          66
+        ],
+        "delay": 0,
+        "index": 217
+      },
+      {
+        "color": [
+          136,
+          86,
+          66
+        ],
+        "delay": 0,
+        "index": 217
+      },
+      {
+        "color": [
+          145,
+          121,
+          117
+        ],
+        "delay": 0,
+        "index": 217
+      },
+      {
+        "color": [
+          111,
+          79,
+          69
+        ],
+        "delay": 0,
+        "index": 217
+      },
+      {
+        "color": [
+          65,
+          51,
+          53
+        ],
+        "delay": 0,
+        "index": 217
+      }
+    ],
+    "random_frame_start": true,
+    "random_top": {
+      "colors": [
+        [
+          75,
+          46,
+          21
+        ],
+        [
+          89,
+          60,
+          39
+        ],
+        [
+          126,
+          90,
+          72
+        ]
+      ],
+      "count": 10,
+      "glyph_ids": [
+        2014,
+        2015
+      ],
+      "max_alpha": 200,
+      "max_range": 25,
+      "wind": true
+    }
+  },
+  "health": 300,
+  "height": 30,
+  "id": "3018",
+  "name": "Rotten Tree",
+  "producer": {
+    "products": {
+      "1": [
+        {
+          "amount": [
+            1,
+            2
+          ],
+          "id": "722",
+          "percent_chance": 100
+        }
+      ],
+      "core_2_woodbend": [
+        {
+          "amount": [
+            2,
+            3
+          ],
+          "id": "722",
+          "percent_chance": 100
+        }
+      ]
+    },
+    "time": 30
+  }
+}

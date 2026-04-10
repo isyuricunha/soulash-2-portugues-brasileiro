@@ -1,0 +1,16 @@
+{
+  "id": "core_2_vampiric_touch",
+  "name": "Vampiric Touch",
+  "requirements": {
+    "milestones": [],
+    "skill": 44
+  },
+  "rewards": [
+    {
+      "ability": "54"
+    }
+  ],
+  "skill_id": "core_2_necromancy",
+  "steps": [],
+  "steps_type": 0
+}

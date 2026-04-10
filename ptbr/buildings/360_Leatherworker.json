@@ -1,0 +1,18 @@
+{
+  "enables": [
+    "core_2_leatherworking"
+  ],
+  "id": "360",
+  "image": 65,
+  "max": 1,
+  "name": "Leatherworker",
+  "occupation_image": 12,
+  "occupation": "core_2_Orc_Leatherworker",
+  "produces": [],
+  "race": "8",
+  "tier": 2,
+  "workers": [
+    1,
+    3
+  ]
+}

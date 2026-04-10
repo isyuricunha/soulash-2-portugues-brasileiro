@@ -1,0 +1,68 @@
+{
+  "armor": {
+    "acid": 3,
+    "death": 0,
+    "electricity": 0,
+    "fire": 0,
+    "frost": 0,
+    "holy": 0,
+    "parry": 0,
+    "physical": 0,
+    "poison": 3,
+    "thorns": 0
+  },
+  "components": [
+    "armor",
+    "craftable",
+    "glyph",
+    "item",
+    "minimap_pixel",
+    "name",
+    "position_2d",
+    "value",
+    "weight"
+  ],
+  "craftable": {
+    "backgrounds": [],
+    "biomes": [],
+    "magic_slots": 2,
+    "resource_types": [
+      {
+        "amount": 3,
+        "id": 4
+      }
+    ],
+    "time": 80,
+    "tools": [
+      12
+    ]
+  },
+  "description": "Para ocasiões mais formais.",
+  "glyph": {
+    "frames": [
+      {
+        "color": [
+          255,
+          255,
+          255
+        ],
+        "delay": 0,
+        "index": 2140
+      }
+    ],
+    "random_frame_start": false
+  },
+  "id": "core_2_Gown",
+  "item": {
+    "image": 881,
+    "type": 5
+  },
+  "minimap_pixel": [
+    122,
+    93,
+    57
+  ],
+  "name": "Vestido",
+  "value": 1200,
+  "weight": 1.0
+}

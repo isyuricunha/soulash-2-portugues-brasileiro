@@ -1,0 +1,16 @@
+{
+  "id": "core_2_cedar_sapling",
+  "name": "Muda de Cedro",
+  "requirements": {
+    "milestones": [],
+    "skill": 26
+  },
+  "rewards": [
+    {
+      "recipe": "3092"
+    }
+  ],
+  "skill_id": "core_2_agriculture",
+  "steps": [],
+  "steps_type": 0
+}

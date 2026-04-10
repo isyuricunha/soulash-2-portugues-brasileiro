@@ -1,0 +1,34 @@
+{
+  "animation": "119",
+  "cast_time": -1.0,
+  "cooldown": 7.0,
+  "cost": {
+    "health": 0,
+    "stamina": 8
+  },
+  "description": "Smash the ground in front of you creating spikes in a straight line that deal ::damage ::damage_type damage to every target. The spikes are collidable and stay on the map until destroyed.",
+  "duration": 10.0,
+  "effects": {
+    "damage": [
+      3,
+      7
+    ],
+    "damage_type": "physical",
+    "damage_weapon": 1.600000023841858,
+    "pierce": 1,
+    "summon_count": 4
+  },
+  "effects_keys": {
+    "summon": "631"
+  },
+  "id": "92",
+  "image": 68,
+  "name": "Ground Breaker",
+  "range": 4,
+  "skill": "core_2_mace_fighting",
+  "slots": {
+    "offensive": 1,
+    "utility": 2
+  },
+  "target": "line"
+}

@@ -1,0 +1,60 @@
+{
+  "armor": {
+    "acid": 0,
+    "death": 0,
+    "electricity": 0,
+    "fire": 0,
+    "frost": 2,
+    "holy": 0,
+    "parry": 0,
+    "physical": 0,
+    "poison": 0,
+    "thorns": 0
+  },
+  "components": [
+    "armor",
+    "glyph",
+    "item",
+    "minimap_pixel",
+    "name",
+    "position_2d",
+    "resource",
+    "stackable",
+    "value",
+    "weight"
+  ],
+  "description": "Uma parte de um verme luminoso morto.",
+  "glyph": {
+    "frames": [
+      {
+        "color": [
+          255,
+          255,
+          255
+        ],
+        "delay": 0,
+        "index": 1927
+      }
+    ],
+    "random_frame_start": false
+  },
+  "id": "2917",
+  "item": {
+    "image": 753,
+    "type": 16
+  },
+  "minimap_pixel": [
+    195,
+    195,
+    195
+  ],
+  "name": "Cauda de Verme Luminoso",
+  "resource": {
+    "affix": "of Frost",
+    "magic_ingredient": 2,
+    "quality": 2,
+    "type": 7
+  },
+  "value": 1500,
+  "weight": 0.10000000149011612
+}

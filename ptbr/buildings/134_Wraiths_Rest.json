@@ -1,0 +1,30 @@
+{
+  "id": "134",
+  "image": 90,
+  "max": 2,
+  "name": "Wraith's Rest",
+  "occupation_image": 5,
+  "occupation": "2379",
+  "produces": [
+    {
+      "entities": [
+        {
+          "daily": 4,
+          "id": "809"
+        }
+      ],
+      "takes": [
+        {
+          "amount": 4,
+          "id": "318"
+        }
+      ]
+    }
+  ],
+  "race": "26",
+  "tier": 1,
+  "workers": [
+    1,
+    2
+  ]
+}

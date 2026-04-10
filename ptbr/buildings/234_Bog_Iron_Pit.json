@@ -1,0 +1,24 @@
+{
+  "id": "234",
+  "image": 106,
+  "name": "Bog Iron Pit",
+  "occupation_image": 29,
+  "occupation": "core_2_Reptilion_Iron_Maker",
+  "produces": [
+    {
+      "entities": [
+        {
+          "daily": 1,
+          "id": "146"
+        }
+      ],
+      "takes": []
+    }
+  ],
+  "race": "23",
+  "tier": 2,
+  "workers": [
+    1,
+    2
+  ]
+}

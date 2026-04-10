@@ -1,0 +1,60 @@
+{
+  "components": [
+    "craftable",
+    "glyph",
+    "item",
+    "minimap_pixel",
+    "name",
+    "position_2d",
+    "stackable",
+    "value",
+    "weight"
+  ],
+  "craftable": {
+    "backgrounds": [],
+    "biomes": [],
+    "magic_slots": 0,
+    "resources": [
+      {
+        "amount": 1,
+        "id": "2002"
+      },
+      {
+        "amount": 1,
+        "id": "core_2_Poppy_Seed"
+      }
+    ],
+    "time": 10,
+    "tools": [
+      15
+    ]
+  },
+  "description": "Substância estranha e gordurosa, por alguma razão necessária para algumas reações alquímicas.",
+  "glyph": {
+    "frames": [
+      {
+        "color": [
+          255,
+          255,
+          255
+        ],
+        "delay": 0,
+        "index": 2943
+      }
+    ],
+    "random_frame_start": false
+  },
+  "id": "core_2_Transmutation_Oil",
+  "item": {
+    "image": 1329,
+    "type": 16
+  },
+  "minimap_pixel": [
+    179,
+    178,
+    176
+  ],
+  "name": "Óleo de Transmutação",
+  "value": 100,
+  "weight": 0.20000000298023224
+}

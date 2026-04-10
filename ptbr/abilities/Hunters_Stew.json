@@ -1,0 +1,24 @@
+{
+  "animation": "",
+  "cast_time": 0.0,
+  "cooldown": 0.0,
+  "cost": {
+    "health": 0,
+    "stamina": 0
+  },
+  "description": "Tasty stew sharpens your eyesight allowing you to see further by range ::sight. Recover ::heal health immediately.",
+  "duration": 600.0,
+  "effects": {
+    "heal": [
+      5,
+      10
+    ],
+    "sight": 1
+  },
+  "id": "core_2_Hunters_Stew",
+  "image": 661,
+  "name": "Hunter's Stew",
+  "range": 0,
+  "skill": "",
+  "target": "self"
+}

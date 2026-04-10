@@ -1,0 +1,97 @@
+{
+  "armor": {
+    "acid": 4,
+    "death": 4,
+    "electricity": 0,
+    "fire": 0,
+    "frost": 0,
+    "holy": 0,
+    "parry": 0,
+    "physical": 0,
+    "poison": 0,
+    "thorns": 0
+  },
+  "components": [
+    "armor",
+    "craftable",
+    "glyph",
+    "item",
+    "minimap_pixel",
+    "name",
+    "position_2d",
+    "statistics",
+    "value",
+    "weight"
+  ],
+  "craftable": {
+    "backgrounds": [],
+    "biomes": [],
+    "magic_slots": 3,
+    "resource_types": [
+      {
+        "amount": 2,
+        "id": 1
+      }
+    ],
+    "resources": [
+      {
+        "amount": 1,
+        "id": "core_2_Rose_Flower"
+      }
+    ],
+    "time": 50,
+    "tools": [
+      14
+    ]
+  },
+  "description": "Um anel com uma flor tão perfeita que parece ter sido recém-coberta por geada.",
+  "glyph": {
+    "frames": [
+      {
+        "color": [
+          255,
+          255,
+          255
+        ],
+        "delay": 0,
+        "index": 2643
+      }
+    ],
+    "random_frame_start": false
+  },
+  "id": "core_2_Frost_Flower_Ring",
+  "item": {
+    "image": 1170,
+    "type": 12
+  },
+  "minimap_pixel": [
+    190,
+    171,
+    163
+  ],
+  "name": "Anel de Flor Congelada",
+  "statistics": {
+    "dexterity": [
+      0,
+      0
+    ],
+    "endurance": [
+      2,
+      2
+    ],
+    "intelligence": [
+      0,
+      0
+    ],
+    "strength": [
+      0,
+      0
+    ],
+    "willpower": [
+      0,
+      0
+    ]
+  },
+  "value": 2500,
+  "weight": 0.10000000149011612
+}

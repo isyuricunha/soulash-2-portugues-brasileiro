@@ -1,0 +1,42 @@
+{
+  "components": [
+    "glyph",
+    "item",
+    "liquid_source",
+    "minimap_pixel",
+    "name",
+    "position_2d",
+    "weight"
+  ],
+  "description": "A mudman corpse, completely absent of life.",
+  "glyph": {
+    "frames": [
+      {
+        "color": [
+          255,
+          255,
+          255
+        ],
+        "delay": 0,
+        "index": 1820
+      }
+    ],
+    "random_frame_start": true
+  },
+  "id": "2764",
+  "item": {
+    "image": 714,
+    "type": 18
+  },
+  "liquid_source": {
+    "limit": 60,
+    "type": 4
+  },
+  "minimap_pixel": [
+    147,
+    128,
+    104
+  ],
+  "name": "Mudman Corpse",
+  "weight": 90.0
+}

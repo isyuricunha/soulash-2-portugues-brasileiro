@@ -1,0 +1,161 @@
+{
+  "armor": {
+    "acid": 5,
+    "death": 5,
+    "electricity": 10,
+    "fire": -5,
+    "frost": 10,
+    "holy": 5,
+    "parry": 0,
+    "physical": 5,
+    "poison": 20,
+    "thorns": 0
+  },
+  "components": [
+    "armor",
+    "block_light",
+    "collidable",
+    "glyph",
+    "glyph_top",
+    "health",
+    "height",
+    "minimap_pixel",
+    "name",
+    "position_2d",
+    "producer"
+  ],
+  "corpse": [],
+  "description": "Uma grande árvore perene com ramos largos cobertos por agulhas finas e cones.",
+  "glyph": {
+    "frames": [
+      {
+        "color": [
+          109,
+          86,
+          66
+        ],
+        "delay": 0,
+        "index": 217
+      },
+      {
+        "color": [
+          131,
+          86,
+          66
+        ],
+        "delay": 0,
+        "index": 217
+      },
+      {
+        "color": [
+          94,
+          54,
+          57
+        ],
+        "delay": 0,
+        "index": 217
+      },
+      {
+        "color": [
+          125,
+          60,
+          57
+        ],
+        "delay": 0,
+        "index": 217
+      }
+    ],
+    "random_frame_start": true,
+    "random_top": {
+      "colors": [
+        [
+          130,
+          135,
+          65
+        ],
+        [
+          93,
+          129,
+          54
+        ],
+        [
+          53,
+          99,
+          51
+        ],
+        [
+          41,
+          72,
+          52
+        ]
+      ],
+      "count": 60,
+      "glyph_ids": [
+        219,
+        248,
+        249
+      ],
+      "max_alpha": 200,
+      "max_range": 25,
+      "wind": true
+    }
+  },
+  "health": 300,
+  "height": 30,
+  "id": "2099",
+  "minimap_pixel": [
+    192,
+    147,
+    114
+  ],
+  "name": "Árvore de Cedro",
+  "producer": {
+    "products": {
+      "1": [
+        {
+          "amount": [
+            1,
+            1
+          ],
+          "id": "2098",
+          "percent_chance": 100
+        },
+        {
+          "amount": [
+            1,
+            2
+          ],
+          "id": "3058",
+          "percent_chance": 10
+        }
+      ],
+      "core_2_woodbend": [
+        {
+          "amount": [
+            4,
+            5
+          ],
+          "id": "2100",
+          "percent_chance": 100
+        },
+        {
+          "amount": [
+            2,
+            3
+          ],
+          "id": "3058",
+          "percent_chance": 30
+        },
+        {
+          "amount": [
+            4,
+            5
+          ],
+          "id": "2008",
+          "percent_chance": 30
+        }
+      ]
+    },
+    "time": 30
+  }
+}

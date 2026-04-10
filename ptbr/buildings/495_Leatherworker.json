@@ -1,0 +1,18 @@
+{
+  "enables": [
+    "core_2_leatherworking"
+  ],
+  "id": "495",
+  "image": 364,
+  "max": 2,
+  "name": "Couraria",
+  "occupation_image": 12,
+  "occupation": "core_2_Vampire_Leatherworker",
+  "produces": [],
+  "race": "6",
+  "tier": 2,
+  "workers": [
+    1,
+    2
+  ]
+}

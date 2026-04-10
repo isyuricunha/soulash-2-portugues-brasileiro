@@ -1,0 +1,38 @@
+{
+  "components": [
+    "glyph",
+    "item",
+    "minimap_pixel",
+    "name",
+    "position_2d",
+    "stackable",
+    "weight"
+  ],
+  "description": "And ten more after that.",
+  "glyph": {
+    "frames": [
+      {
+        "color": [
+          255,
+          255,
+          255
+        ],
+        "delay": 0,
+        "index": 1556
+      }
+    ],
+    "random_frame_start": false
+  },
+  "id": "2939",
+  "item": {
+    "image": 385,
+    "type": 25
+  },
+  "minimap_pixel": [
+    179,
+    178,
+    176
+  ],
+  "name": "10 First Steps to World Domination",
+  "weight": 0.20000000298023224
+}

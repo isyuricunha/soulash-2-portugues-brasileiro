@@ -1,0 +1,98 @@
+{
+  "armor": {
+    "acid": 100,
+    "death": 0,
+    "electricity": 10,
+    "fire": -10,
+    "frost": 30,
+    "holy": 100,
+    "parry": 0,
+    "physical": 5,
+    "poison": 100,
+    "thorns": 0
+  },
+  "components": [
+    "armor",
+    "glyph",
+    "glyph_top",
+    "health",
+    "height",
+    "minimap_pixel",
+    "name",
+    "position_2d",
+    "producer"
+  ],
+  "corpse": [],
+  "description": "Uma bagunça de ramos e pequenos espinhos pontilhados com groselhas comestíveis.",
+  "glyph": {
+    "frames": [
+      {
+        "color": [
+          120,
+          88,
+          66
+        ],
+        "delay": 0,
+        "index": 860
+      }
+    ],
+    "random_frame_start": false,
+    "random_top": {
+      "colors": [
+        [
+          255,
+          255,
+          255
+        ]
+      ],
+      "count": 5,
+      "glyph_ids": [
+        2452,
+        2453
+      ],
+      "max_alpha": 200,
+      "max_range": 3,
+      "wind": true
+    }
+  },
+  "health": 50,
+  "height": 2,
+  "id": "core_2_Gooseberry_Bush",
+  "minimap_pixel": [
+    25,
+    116,
+    73
+  ],
+  "name": "Arbusto de Groselha",
+  "producer": {
+    "products": {
+      "10": [
+        {
+          "amount": [
+            1,
+            1
+          ],
+          "id": "core_2_Picked_Gooseberry_Bush",
+          "percent_chance": 100
+        },
+        {
+          "amount": [
+            1,
+            2
+          ],
+          "id": "core_2_Gooseberry",
+          "percent_chance": 100
+        },
+        {
+          "amount": [
+            1,
+            2
+          ],
+          "id": "core_2_Gooseberry_Seed",
+          "percent_chance": 30
+        }
+      ]
+    },
+    "time": 10
+  }
+}

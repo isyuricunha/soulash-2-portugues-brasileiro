@@ -1,0 +1,46 @@
+{
+  "components": [
+    "food",
+    "glyph",
+    "item",
+    "minimap_pixel",
+    "name",
+    "position_2d",
+    "stackable",
+    "value",
+    "weight"
+  ],
+  "description": "Fruta doce e comestível.",
+  "food": {
+    "nutrition": 20,
+    "poisonous": 0,
+    "raw": true
+  },
+  "glyph": {
+    "frames": [
+      {
+        "color": [
+          255,
+          255,
+          255
+        ],
+        "delay": 0,
+        "index": 269
+      }
+    ],
+    "random_frame_start": false
+  },
+  "id": "2168",
+  "item": {
+    "image": 305,
+    "type": 20
+  },
+  "minimap_pixel": [
+    206,
+    177,
+    66
+  ],
+  "name": "Banana",
+  "value": 200,
+  "weight": 0.10000000149011612
+}

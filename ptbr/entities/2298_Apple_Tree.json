@@ -1,0 +1,112 @@
+{
+  "armor": {
+    "acid": 5,
+    "death": 5,
+    "electricity": 10,
+    "fire": -5,
+    "frost": 10,
+    "holy": 5,
+    "parry": 0,
+    "physical": 5,
+    "poison": 20,
+    "thorns": 0
+  },
+  "components": [
+    "armor",
+    "block_light",
+    "collidable",
+    "glyph",
+    "glyph_top",
+    "health",
+    "height",
+    "minimap_pixel",
+    "name",
+    "position_2d",
+    "producer"
+  ],
+  "corpse": "61",
+  "description": "A tree that grows apples, often seen in elven gardens.",
+  "glyph": {
+    "frames": [
+      {
+        "color": [
+          125,
+          60,
+          57
+        ],
+        "delay": 0,
+        "index": 217
+      }
+    ],
+    "random_frame_start": true,
+    "random_top": {
+      "colors": [
+        [
+          255,
+          255,
+          255
+        ]
+      ],
+      "count": 40,
+      "glyph_ids": [
+        2100,
+        2101,
+        2102
+      ],
+      "max_alpha": 200,
+      "max_range": 20,
+      "wind": true
+    }
+  },
+  "health": 300,
+  "height": 30,
+  "id": "2298",
+  "minimap_pixel": [
+    161,
+    93,
+    55
+  ],
+  "name": "Apple Tree",
+  "producer": {
+    "delay_on_use": 1440,
+    "products": {
+      "10": [
+        {
+          "amount": [
+            2,
+            4
+          ],
+          "id": "811",
+          "percent_chance": 100
+        },
+        {
+          "amount": [
+            1,
+            2
+          ],
+          "id": "3100",
+          "percent_chance": 30
+        }
+      ],
+      "core_2_woodbend": [
+        {
+          "amount": [
+            3,
+            5
+          ],
+          "id": "811",
+          "percent_chance": 100
+        },
+        {
+          "amount": [
+            2,
+            3
+          ],
+          "id": "3100",
+          "percent_chance": 30
+        }
+      ]
+    },
+    "time": 30
+  }
+}

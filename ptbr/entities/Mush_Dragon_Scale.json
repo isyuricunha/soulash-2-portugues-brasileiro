@@ -1,0 +1,48 @@
+{
+  "components": [
+    "glyph",
+    "item",
+    "minimap_pixel",
+    "name",
+    "position_2d",
+    "resource",
+    "stackable",
+    "value",
+    "weight"
+  ],
+  "description": "Um pedaço de escama de um dragão de cogumelo verde. Parece musgo, mas é duro como aço.",
+  "glyph": {
+    "frames": [
+      {
+        "color": [
+          255,
+          255,
+          255
+        ],
+        "delay": 0,
+        "index": 3186
+      }
+    ],
+    "random_frame_start": false
+  },
+  "id": "core_2_Mush_Dragon_Scale",
+  "item": {
+    "image": 1475,
+    "type": 16
+  },
+  "minimap_pixel": [
+    210,
+    227,
+    120
+  ],
+  "name": "Escama de Dragão de Cogumelo",
+  "resource": {
+    "affix": "of the Spores",
+    "granted_passive": "core_2_Scorch_Ward",
+    "magic_ingredient": 5,
+    "quality": 5,
+    "type": 7
+  },
+  "value": 20000,
+  "weight": 0.10000000149011612
+}

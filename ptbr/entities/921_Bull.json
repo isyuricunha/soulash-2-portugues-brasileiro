@@ -1,0 +1,143 @@
+{
+  "ability_user": [
+    "23"
+  ],
+  "armor": {
+    "acid": 1,
+    "death": 0,
+    "electricity": 1,
+    "fire": 0,
+    "frost": 3,
+    "holy": 2,
+    "parry": 1,
+    "physical": 2,
+    "poison": 0,
+    "thorns": 0
+  },
+  "artificial_intelligence": {
+    "allies": [],
+    "allow_production": [],
+    "behaviors": [
+      16
+    ],
+    "enemies": []
+  },
+  "components": [
+    "ability_user",
+    "actor",
+    "armor",
+    "artificial_intelligence",
+    "collidable",
+    "dialogues",
+    "equipment",
+    "experience_gainer",
+    "fighter",
+    "glyph",
+    "health",
+    "minimap_pixel",
+    "moveable",
+    "name",
+    "position_2d",
+    "sight",
+    "stamina",
+    "statistics",
+    "tags"
+  ],
+  "corpse": "2549",
+  "description": "A male cow with horns. It likes the color red and chasing humans.",
+  "dialogues": [
+    "343",
+    "904"
+  ],
+  "equipment": {
+    "disabled_slots": [
+      0,
+      1,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17
+    ]
+  },
+  "experience_gainer": {
+    "exp": 0,
+    "level": 10
+  },
+  "fighter": {
+    "attackNames": [
+      "Headbutt"
+    ]
+  },
+  "glyph": {
+    "frames": [
+      {
+        "color": [
+          255,
+          255,
+          255
+        ],
+        "delay": 0,
+        "index": 713
+      }
+    ],
+    "random_frame_start": false
+  },
+  "health": 100,
+  "id": "921",
+  "minimap_pixel": [
+    206,
+    203,
+    202
+  ],
+  "moveable": {
+    "speed": 1.0
+  },
+  "name": "Bull",
+  "sight": {
+    "ignore_infra_penalty": false,
+    "infravision": false,
+    "range": 8,
+    "threesixty": false
+  },
+  "stamina": {
+    "fatigue": 100,
+    "stamina": 100,
+    "stamina_regen": 0.0
+  },
+  "statistics": {
+    "dexterity": [
+      10,
+      14
+    ],
+    "endurance": [
+      16,
+      18
+    ],
+    "intelligence": [
+      3,
+      9
+    ],
+    "strength": [
+      25,
+      30
+    ],
+    "willpower": [
+      6,
+      9
+    ]
+  },
+  "tags": [
+    "2",
+    "9"
+  ]
+}

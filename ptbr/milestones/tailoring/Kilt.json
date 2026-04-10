@@ -1,0 +1,16 @@
+{
+  "id": "core_2_kilt",
+  "name": "Kilt",
+  "requirements": {
+    "milestones": [],
+    "skill": 36
+  },
+  "rewards": [
+    {
+      "recipe": "581"
+    }
+  ],
+  "skill_id": "core_2_tailoring",
+  "steps": [],
+  "steps_type": 0
+}

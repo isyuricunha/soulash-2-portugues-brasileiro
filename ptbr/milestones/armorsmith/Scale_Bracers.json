@@ -1,0 +1,16 @@
+{
+  "id": "core_2_scale_bracers",
+  "name": "Braçadeiras de Escamas",
+  "requirements": {
+    "milestones": [],
+    "skill": 39
+  },
+  "rewards": [
+    {
+      "recipe": "2364"
+    }
+  ],
+  "skill_id": "core_2_armorsmith",
+  "steps": [],
+  "steps_type": 0
+}

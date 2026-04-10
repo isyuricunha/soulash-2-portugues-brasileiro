@@ -1,0 +1,72 @@
+{
+  "armor": {
+    "acid": 0,
+    "death": 4,
+    "electricity": 0,
+    "fire": -4,
+    "frost": 0,
+    "holy": 0,
+    "parry": 0,
+    "physical": 2,
+    "poison": 5,
+    "thorns": 0
+  },
+  "components": [
+    "armor",
+    "craftable",
+    "glyph",
+    "item",
+    "minimap_pixel",
+    "name",
+    "position_2d",
+    "value",
+    "weight"
+  ],
+  "craftable": {
+    "backgrounds": [],
+    "biomes": [],
+    "magic_slots": 2,
+    "resource_types": [
+      {
+        "amount": 2,
+        "id": 3
+      },
+      {
+        "amount": 1,
+        "id": 2
+      }
+    ],
+    "time": 75,
+    "tools": [
+      14
+    ]
+  },
+  "description": "Wooden armor made by laminating layers of wood together to create a hard, durable material that protects the wearer against attacks.",
+  "glyph": {
+    "frames": [
+      {
+        "color": [
+          255,
+          255,
+          255
+        ],
+        "delay": 0,
+        "index": 510
+      }
+    ],
+    "random_frame_start": false
+  },
+  "id": "2213",
+  "item": {
+    "image": 557,
+    "type": 4
+  },
+  "minimap_pixel": [
+    114,
+    102,
+    68
+  ],
+  "name": "Armadura de Madeira",
+  "value": 1700,
+  "weight": 1.5
+}

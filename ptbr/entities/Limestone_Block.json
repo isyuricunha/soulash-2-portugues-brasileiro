@@ -1,0 +1,70 @@
+{
+  "components": [
+    "glyph",
+    "item",
+    "minimap_pixel",
+    "name",
+    "position_2d",
+    "resource",
+    "stackable",
+    "statistics",
+    "value",
+    "weight"
+  ],
+  "description": "Propenso a arranhões.",
+  "glyph": {
+    "frames": [
+      {
+        "color": [
+          255,
+          255,
+          255
+        ],
+        "delay": 0,
+        "index": 2437
+      }
+    ],
+    "random_frame_start": true
+  },
+  "id": "core_2_Limestone_Block",
+  "item": {
+    "image": 1073,
+    "type": 16
+  },
+  "minimap_pixel": [
+    114,
+    113,
+    115
+  ],
+  "name": "Bloco de Calcário",
+  "resource": {
+    "affix": "Limestone",
+    "magic_ingredient": 0,
+    "quality": 1,
+    "type": 6
+  },
+  "statistics": {
+    "dexterity": [
+      0,
+      0
+    ],
+    "endurance": [
+      1,
+      1
+    ],
+    "intelligence": [
+      0,
+      0
+    ],
+    "strength": [
+      0,
+      0
+    ],
+    "willpower": [
+      0,
+      0
+    ]
+  },
+  "value": 500,
+  "weight": 0.5
+}

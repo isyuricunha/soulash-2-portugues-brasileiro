@@ -1,0 +1,66 @@
+{
+  "components": [
+    "glyph",
+    "minimap_pixel",
+    "name",
+    "position_2d"
+  ],
+  "description": "Gently smoldering, this stick of incense releases a captivating scent that calms the senses and adds an air of mystique to its surroundings.",
+  "glyph": {
+    "frames": [
+      {
+        "color": [
+          255,
+          255,
+          255
+        ],
+        "delay": 200,
+        "index": 48
+      },
+      {
+        "color": [
+          255,
+          255,
+          255
+        ],
+        "delay": 200,
+        "index": 49
+      },
+      {
+        "color": [
+          255,
+          255,
+          255
+        ],
+        "delay": 200,
+        "index": 51
+      },
+      {
+        "color": [
+          255,
+          255,
+          255
+        ],
+        "delay": 200,
+        "index": 52
+      },
+      {
+        "color": [
+          255,
+          255,
+          255
+        ],
+        "delay": 200,
+        "index": 18
+      }
+    ],
+    "random_frame_start": true
+  },
+  "id": "2433",
+  "minimap_pixel": [
+    206,
+    157,
+    45
+  ],
+  "name": "Burning Incense"
+}

@@ -1,0 +1,24 @@
+{
+  "animation": "93",
+  "cast_time": 1.2000000476837158,
+  "cooldown": 4.0,
+  "cost": {
+    "health": 0,
+    "stamina": 5
+  },
+  "description": "Faça múltiplos ataques furiosos em um alvo causando ::damage ::damage_type de dano.",
+  "duration": 0.0,
+  "effects": {
+    "damage": [
+      8,
+      15
+    ],
+    "damage_type": "physical",
+    "damage_weapon": 1.5
+  },
+  "id": "82",
+  "image": 67,
+  "name": "Ataques Furiosos",
+  "range": -1,
+  "target": "health"
+}

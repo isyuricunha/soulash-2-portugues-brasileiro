@@ -1,0 +1,16 @@
+{
+  "id": "471",
+  "image": 358,
+  "max": 2,
+  "name": "Mages",
+  "occupation_image": 109,
+  "occupation": "core_2_Skeleton_Mage",
+  "produces": [],
+  "race": "17",
+  "tier": 2,
+  "type": "military",
+  "workers": [
+    1,
+    6
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "background": {
+    "color": [
+      44,
+      45,
+      41
+    ],
+    "noise": 2,
+    "noise_intensity": 5
+  },
+  "components": [
+    "background",
+    "glyph",
+    "health",
+    "minimap_pixel",
+    "name"
+  ],
+  "corpse": [
+    {
+      "damage_type": 0,
+      "id": "409"
+    },
+    {
+      "damage_type": 2,
+      "id": "602"
+    },
+    {
+      "damage_type": 5,
+      "id": "1"
+    }
+  ],
+  "description": "Simple dirt, with a small hole. Looks like something heavy dropped here.",
+  "glyph": {
+    "frames": [
+      {
+        "color": [
+          255,
+          255,
+          255
+        ],
+        "delay": 0,
+        "index": 828
+      }
+    ],
+    "random_frame_start": false
+  },
+  "health": 1,
+  "id": "408",
+  "minimap_pixel": [
+    55,
+    35,
+    8
+  ],
+  "name": "Terra com um Buraco Pequeno"
+}

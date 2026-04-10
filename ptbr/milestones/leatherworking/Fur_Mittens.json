@@ -1,0 +1,15 @@
+{
+  "id": "core_2_fur_mittens",
+  "name": "Fur Mittens",
+  "requirements": {
+    "skill": 3
+  },
+  "rewards": [
+    {
+      "recipe": "2172"
+    }
+  ],
+  "skill_id": "core_2_leatherworking",
+  "steps": [],
+  "steps_type": 0
+}

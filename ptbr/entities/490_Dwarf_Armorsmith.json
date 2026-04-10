@@ -1,0 +1,145 @@
+{
+  "artificial_intelligence": {
+    "allies": [],
+    "allow_production": [],
+    "behaviors": [],
+    "enemies": []
+  },
+  "components": [
+    "actor",
+    "artificial_intelligence",
+    "collidable",
+    "dialogues",
+    "equipment",
+    "experience_gainer",
+    "fighter",
+    "glyph",
+    "health",
+    "humanoid",
+    "minimap_pixel",
+    "moveable",
+    "name",
+    "persona",
+    "position_2d",
+    "sight",
+    "skills",
+    "stamina",
+    "statistics",
+    "tags"
+  ],
+  "corpse": "559",
+  "description": "",
+  "dialogues": [
+    "276",
+    "277"
+  ],
+  "equipment": {
+    "right_hand": [
+      {
+        "chance": 1.0,
+        "id": "151",
+        "name": "Hammer",
+        "stack": 1
+      }
+    ]
+  },
+  "experience_gainer": {
+    "exp": 10,
+    "level": 2
+  },
+  "fighter": {
+    "attackNames": null
+  },
+  "glyph": {
+    "frames": [
+      {
+        "color": [
+          255,
+          255,
+          255
+        ],
+        "delay": 0,
+        "index": 1051
+      }
+    ],
+    "random_frame_start": false
+  },
+  "health": 120,
+  "humanoid": {
+    "race": "1"
+  },
+  "id": "490",
+  "minimap_pixel": [
+    125,
+    191,
+    240
+  ],
+  "moveable": {
+    "speed": 1.0
+  },
+  "name": "Dwarf Armorsmith",
+  "persona": {
+    "occupation": "Armorsmith"
+  },
+  "sight": {
+    "ignore_infra_penalty": false,
+    "infravision": true,
+    "range": 10,
+    "threesixty": false
+  },
+  "skills": {
+    "milestones": [
+      "core_2_buckler",
+      "core_2_helmet",
+      "core_2_breastplate",
+      "core_2_armor_stand",
+      "core_2_greaves",
+      "core_2_bracers",
+      "core_2_round_shield",
+      "core_2_leg_guards",
+      "core_2_armguards",
+      "core_2_heavy_armor",
+      "core_2_nasal_helmet",
+      "core_2_great_helmet",
+      "core_2_plate_boots",
+      "core_2_plate_gloves",
+      "core_2_cuisse_armor",
+      "core_2_decorated_shield",
+      "core_2_poleyn_armor"
+    ],
+    "skills": [
+      "core_2_armorsmith"
+    ]
+  },
+  "stamina": {
+    "fatigue": 100,
+    "stamina": 100,
+    "stamina_regen": 0.0
+  },
+  "statistics": {
+    "dexterity": [
+      20,
+      24
+    ],
+    "endurance": [
+      32,
+      36
+    ],
+    "intelligence": [
+      15,
+      19
+    ],
+    "strength": [
+      33,
+      37
+    ],
+    "willpower": [
+      25,
+      29
+    ]
+  },
+  "tags": [
+    "6",
+    "9"
+  ]
+}

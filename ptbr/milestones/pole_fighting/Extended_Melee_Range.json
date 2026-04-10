@@ -1,0 +1,16 @@
+{
+  "id": "core_2_extended_melee_range",
+  "name": "Extended Melee Range",
+  "requirements": {
+    "milestones": [],
+    "skill": 32
+  },
+  "rewards": [
+    {
+      "amplifier": "core_2_range_melee_4"
+    }
+  ],
+  "skill_id": "core_2_pole_fighting",
+  "steps": [],
+  "steps_type": 0
+}

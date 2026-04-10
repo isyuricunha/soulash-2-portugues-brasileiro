@@ -1,0 +1,19 @@
+{
+  "enables": [
+    "core_2_weaponsmith",
+    "core_2_carpentry"
+  ],
+  "id": "321",
+  "image": 248,
+  "max": 1,
+  "name": "Ferramenteiro",
+  "occupation_image": 8,
+  "occupation": "core_2_Gnoll_Ferramenteiro",
+  "produces": [],
+  "race": "31",
+  "tier": 1,
+  "workers": [
+    1,
+    2
+  ]
+}

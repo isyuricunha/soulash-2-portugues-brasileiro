@@ -1,0 +1,16 @@
+{
+  "id": "core_2_ring_of_death",
+  "name": "Ring of Death",
+  "requirements": {
+    "milestones": [],
+    "skill": 30
+  },
+  "rewards": [
+    {
+      "ability": "core_2_Ring_of_Death"
+    }
+  ],
+  "skill_id": "core_2_pole_fighting",
+  "steps": [],
+  "steps_type": 0
+}

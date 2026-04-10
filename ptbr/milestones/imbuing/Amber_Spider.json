@@ -1,0 +1,16 @@
+{
+  "id": "core_2_amber_spider",
+  "name": "Aranha de Âmbar",
+  "requirements": {
+    "milestones": [],
+    "skill": 36
+  },
+  "rewards": [
+    {
+      "recipe": "core_2_Amber_Spider"
+    }
+  ],
+  "skill_id": "core_2_imbuing",
+  "steps": [],
+  "steps_type": 0
+}

@@ -1,0 +1,16 @@
+{
+  "id": "core_2_necrotic_touch",
+  "name": "Necrotic Touch",
+  "requirements": {
+    "milestones": [],
+    "skill": 1
+  },
+  "rewards": [
+    {
+      "ability": "core_2_Necrotic_Touch"
+    }
+  ],
+  "skill_id": "core_2_necromancy",
+  "steps": [],
+  "steps_type": 0
+}

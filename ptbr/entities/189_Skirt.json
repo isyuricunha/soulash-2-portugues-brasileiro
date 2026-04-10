@@ -1,0 +1,66 @@
+{
+  "armor": {
+    "acid": 0,
+    "death": 0,
+    "electricity": 1,
+    "fire": 2,
+    "frost": 0,
+    "holy": 0,
+    "parry": 0,
+    "physical": 0,
+    "poison": 0
+  },
+  "components": [
+    "armor",
+    "craftable",
+    "glyph",
+    "item",
+    "minimap_pixel",
+    "name",
+    "position_2d",
+    "value",
+    "weight"
+  ],
+  "craftable": {
+    "magic_slots": 1,
+    "resource_types": [
+      {
+        "amount": 2,
+        "id": 4
+      }
+    ],
+    "resources": null,
+    "time": 60,
+    "tools": [
+      12
+    ]
+  },
+  "description": "Piece of cloth covering the lower body.",
+  "glyph": {
+    "frames": [
+      {
+        "color": [
+          255,
+          255,
+          255
+        ],
+        "delay": 0,
+        "index": 371
+      }
+    ],
+    "random_frame_start": false
+  },
+  "id": "189",
+  "item": {
+    "image": 91,
+    "type": 8
+  },
+  "minimap_pixel": [
+    192,
+    133,
+    216
+  ],
+  "name": "Skirt",
+  "value": 700,
+  "weight": 0.5
+}

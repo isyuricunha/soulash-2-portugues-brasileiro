@@ -1,0 +1,66 @@
+{
+  "armor": {
+    "acid": 0,
+    "death": 0,
+    "electricity": 0,
+    "fire": 0,
+    "frost": 4,
+    "holy": 4,
+    "parry": 0,
+    "physical": 2,
+    "poison": 4
+  },
+  "components": [
+    "armor",
+    "craftable",
+    "glyph",
+    "item",
+    "minimap_pixel",
+    "name",
+    "position_2d",
+    "value",
+    "weight"
+  ],
+  "craftable": {
+    "magic_slots": 5,
+    "resource_types": [
+      {
+        "amount": 5,
+        "id": 4
+      }
+    ],
+    "resources": null,
+    "time": 60,
+    "tools": [
+      12
+    ]
+  },
+  "description": "Loose heavy pants offering decent protection.",
+  "glyph": {
+    "frames": [
+      {
+        "color": [
+          255,
+          255,
+          255
+        ],
+        "delay": 0,
+        "index": 129
+      }
+    ],
+    "random_frame_start": false
+  },
+  "id": "2363",
+  "item": {
+    "image": 624,
+    "type": 8
+  },
+  "minimap_pixel": [
+    200,
+    200,
+    200
+  ],
+  "name": "Chausses",
+  "value": 6000,
+  "weight": 1.5
+}

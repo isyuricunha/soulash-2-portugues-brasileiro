@@ -1,0 +1,76 @@
+{
+  "components": [
+    "glyph",
+    "health",
+    "item",
+    "minimap_pixel",
+    "name",
+    "position_2d",
+    "producer",
+    "resource",
+    "stackable",
+    "value",
+    "weight"
+  ],
+  "corpse": "865",
+  "description": "Uma tora é uma árvore com galhos cortados. Pode ser muito útil para construir coisas. Você pode ser capaz de produzir alguns pedaços de madeira de álamo a partir dela.",
+  "glyph": {
+    "frames": [
+      {
+        "color": [
+          255,
+          255,
+          255
+        ],
+        "delay": 0,
+        "index": 202
+      }
+    ],
+    "random_frame_start": false
+  },
+  "health": 100,
+  "id": "866",
+  "item": {
+    "image": 391,
+    "type": 16
+  },
+  "minimap_pixel": [
+    196,
+    197,
+    194
+  ],
+  "name": "Tora de Álamo",
+  "producer": {
+    "products": {
+      "1": [
+        {
+          "amount": [
+            3,
+            5
+          ],
+          "id": "865",
+          "percent_chance": 100
+        }
+      ],
+      "core_2_woodbend": [
+        {
+          "amount": [
+            4,
+            6
+          ],
+          "id": "865",
+          "percent_chance": 100
+        }
+      ]
+    },
+    "time": 30
+  },
+  "resource": {
+    "affix": "",
+    "magic_ingredient": 0,
+    "quality": 0,
+    "type": 11
+  },
+  "value": 2000,
+  "weight": 45.0
+}

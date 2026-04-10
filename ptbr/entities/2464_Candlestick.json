@@ -1,0 +1,84 @@
+{
+  "category_id": 7,
+  "components": [
+    "craftable",
+    "glyph",
+    "light_source",
+    "minimap_pixel",
+    "name",
+    "position_2d",
+    "producer"
+  ],
+  "craftable": {
+    "backgrounds": [],
+    "biomes": [],
+    "magic_slots": 0,
+    "resource_types": [
+      {
+        "amount": 1,
+        "id": 1
+      }
+    ],
+    "resources": [
+      {
+        "amount": 1,
+        "id": "core_2_Bee_Wax"
+      }
+    ],
+    "time": 30,
+    "tools": [
+      14
+    ]
+  },
+  "description": "A classic holder for a single candle, casting a gentle glow and creating a warm atmosphere.",
+  "glyph": {
+    "frames": [
+      {
+        "color": [
+          255,
+          255,
+          255
+        ],
+        "delay": 150,
+        "index": 1616
+      },
+      {
+        "color": [
+          255,
+          255,
+          255
+        ],
+        "delay": 100,
+        "index": 1617
+      }
+    ],
+    "random_frame_start": true
+  },
+  "id": "2464",
+  "light_source": {
+    "finish": -1,
+    "lit_image": 37,
+    "range": 3
+  },
+  "minimap_pixel": [
+    150,
+    150,
+    150
+  ],
+  "name": "Castical",
+  "producer": {
+    "products": {
+      "core_2_deconstruct": [
+        {
+          "amount": [
+            0,
+            0
+          ],
+          "id": "",
+          "percent_chance": 100
+        }
+      ]
+    },
+    "time": 5
+  }
+}

@@ -1,0 +1,70 @@
+{
+  "armor": {
+    "acid": 0,
+    "death": 0,
+    "electricity": 0,
+    "fire": -20,
+    "frost": 0,
+    "holy": 0,
+    "parry": 0,
+    "physical": 2,
+    "poison": 1000,
+    "thorns": 0
+  },
+  "category_id": 7,
+  "components": [
+    "armor",
+    "collidable",
+    "craftable",
+    "glyph",
+    "health",
+    "minimap_pixel",
+    "name",
+    "position_2d"
+  ],
+  "corpse": [],
+  "craftable": {
+    "magic_slots": 0,
+    "resource_types": [
+      {
+        "amount": 3,
+        "id": 3
+      }
+    ],
+    "resources": null,
+    "time": 60,
+    "tools": []
+  },
+  "description": "Um veículo confiável para transportar bens e pessoas.",
+  "glyph": {
+    "frames": [
+      {
+        "color": [
+          255,
+          255,
+          255
+        ],
+        "delay": 0,
+        "index": 1620
+      },
+      {
+        "color": [
+          255,
+          255,
+          255
+        ],
+        "delay": 0,
+        "index": 1621
+      }
+    ],
+    "random_frame_start": true
+  },
+  "health": 100,
+  "id": "2467",
+  "minimap_pixel": [
+    71,
+    48,
+    17
+  ],
+  "name": "Carroça"
+}

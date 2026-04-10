@@ -1,0 +1,14 @@
+{
+  "id": "core_2_walking_stick",
+  "name": "Bengala",
+  "requirements": {
+    "milestones": [],
+    "skill": 2
+  },
+  "rewards": [
+    {
+      "recipe": "94"
+    }
+  ],
+  "skill_id": "core_2_adventuring"
+}

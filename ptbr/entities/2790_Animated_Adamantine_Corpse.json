@@ -1,0 +1,53 @@
+{
+  "components": [
+    "glyph",
+    "item",
+    "minimap_pixel",
+    "name",
+    "position_2d",
+    "producer",
+    "weight"
+  ],
+  "description": "Animated adamantine but this time he is dead.",
+  "glyph": {
+    "frames": [
+      {
+        "color": [
+          255,
+          255,
+          255
+        ],
+        "delay": 0,
+        "index": 1827
+      }
+    ],
+    "random_frame_start": true
+  },
+  "id": "2790",
+  "item": {
+    "image": 721,
+    "type": 18
+  },
+  "minimap_pixel": [
+    147,
+    128,
+    104
+  ],
+  "name": "Animated Adamantine Corpse",
+  "producer": {
+    "products": {
+      "3": [
+        {
+          "amount": [
+            4,
+            8
+          ],
+          "id": "2118",
+          "percent_chance": 100
+        }
+      ]
+    },
+    "time": 10
+  },
+  "weight": 100.0
+}

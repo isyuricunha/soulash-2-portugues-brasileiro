@@ -1,0 +1,67 @@
+{
+  "armor": {
+    "acid": 0,
+    "death": 0,
+    "electricity": 0,
+    "fire": 2,
+    "frost": 2,
+    "holy": 0,
+    "parry": 0,
+    "physical": 1,
+    "poison": 0,
+    "thorns": 0
+  },
+  "components": [
+    "armor",
+    "craftable",
+    "glyph",
+    "item",
+    "minimap_pixel",
+    "name",
+    "position_2d",
+    "value",
+    "weight"
+  ],
+  "craftable": {
+    "magic_slots": 2,
+    "resource_types": [
+      {
+        "amount": 3,
+        "id": 2
+      }
+    ],
+    "resources": null,
+    "time": 120,
+    "tools": [
+      14
+    ]
+  },
+  "description": "These leg armor pieces cover the shin.",
+  "glyph": {
+    "frames": [
+      {
+        "color": [
+          255,
+          255,
+          255
+        ],
+        "delay": 0,
+        "index": 563
+      }
+    ],
+    "random_frame_start": false
+  },
+  "id": "2309",
+  "item": {
+    "image": 598,
+    "type": 7
+  },
+  "minimap_pixel": [
+    156,
+    160,
+    161
+  ],
+  "name": "Leather Shin Guards",
+  "value": 1200,
+  "weight": 1.5
+}

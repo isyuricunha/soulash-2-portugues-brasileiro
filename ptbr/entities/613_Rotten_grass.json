@@ -1,0 +1,48 @@
+{
+  "background": {
+    "color": [
+      44,
+      45,
+      41
+    ],
+    "movement_penalty": 0.10000000149011612,
+    "noise": 1,
+    "noise_intensity": 2
+  },
+  "components": [
+    "background",
+    "glyph",
+    "health",
+    "minimap_pixel",
+    "name"
+  ],
+  "corpse": [
+    {
+      "damage_type": 7,
+      "id": "1"
+    }
+  ],
+  "description": "Dead grass in the process of decomposition. It stinks.",
+  "glyph": {
+    "frames": [
+      {
+        "color": [
+          82,
+          110,
+          72
+        ],
+        "delay": 0,
+        "index": 223
+      }
+    ],
+    "random_frame_start": false
+  },
+  "health": 1,
+  "id": "613",
+  "minimap_pixel": [
+    41,
+    13,
+    60
+  ],
+  "name": "Rotten Grass"
+}

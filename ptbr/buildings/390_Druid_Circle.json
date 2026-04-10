@@ -1,0 +1,49 @@
+{
+  "enables": [
+    "core_2_floromancy"
+  ],
+  "id": "390",
+  "image": 52,
+  "max": 1,
+  "name": "Círculo Druídico",
+  "occupation_image": 51,
+  "occupation": "212",
+  "occupation_per_race": {
+    "0": "core_2_Human_Druid",
+    "1": "core_2_Dwarf_Druid",
+    "2": "212",
+    "4": "core_2_Goblin_Druid",
+    "6": "core_2_Vampire_Druid",
+    "7": "core_2_Troll_Druid",
+    "8": "core_2_Orc_Druid",
+    "10": "core_2_Rasimi_Druid",
+    "23": "core_2_Reptilion_Druid",
+    "26": "core_2_Bone_Druid",
+    "31": "core_2_Gnoll_Druid",
+    "32": "core_2_Mushman_Druid",
+    "33": "core_2_Ursan_Druid"
+  },
+  "produces": [],
+  "race": "-1",
+  "tier": 3,
+  "type": "military",
+  "workers": [
+    1,
+    6
+  ],
+  "allow_player": true,
+  "required_entities": [
+    {
+      "entities": [
+        "220"
+      ],
+      "count": 8
+    },
+    {
+      "component": "resting_place",
+      "count": 6
+    }
+  ],
+  "min_area": 30,
+  "group": "military"
+}

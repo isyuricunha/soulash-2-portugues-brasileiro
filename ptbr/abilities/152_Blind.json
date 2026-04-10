@@ -1,0 +1,25 @@
+{
+  "animation": "201",
+  "cast_time": 0.25,
+  "cooldown": 10.0,
+  "cost": {
+    "health": 0,
+    "stamina": 2
+  },
+  "description": "The target sight is reduced to 1 for ::duration turns.",
+  "duration": 6.0,
+  "effects": {
+    "sight": -50
+  },
+  "id": "152",
+  "image": 266,
+  "level": 0,
+  "name": "Blind",
+  "range": 6,
+  "skill": "core_2_thievery",
+  "slots": {
+    "offensive": 1,
+    "utility": 1
+  },
+  "target": "actor"
+}

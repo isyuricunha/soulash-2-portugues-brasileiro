@@ -1,0 +1,16 @@
+{
+  "id": "core_2_animate_trees",
+  "name": "Animar Árvores",
+  "requirements": {
+    "milestones": [],
+    "skill": 50
+  },
+  "rewards": [
+    {
+      "ability": "core_2_Animate_Trees"
+    }
+  ],
+  "skill_id": "core_2_floromancy",
+  "steps": [],
+  "steps_type": 0
+}

@@ -1,0 +1,65 @@
+{
+  "components": [
+    "craftable",
+    "food",
+    "glyph",
+    "item",
+    "minimap_pixel",
+    "name",
+    "position_2d",
+    "stackable",
+    "value",
+    "weight"
+  ],
+  "craftable": {
+    "magic_slots": 0,
+    "resources": [
+      {
+        "amount": 2,
+        "id": "811"
+      },
+      {
+        "amount": 1,
+        "id": "801"
+      }
+    ],
+    "time": 30,
+    "tools": [
+      2,
+      3
+    ]
+  },
+  "description": "A sweet pie filled with cooked apple slices.",
+  "food": {
+    "nutrition": 70,
+    "poisonous": 0,
+    "raw": false
+  },
+  "glyph": {
+    "frames": [
+      {
+        "color": [
+          255,
+          255,
+          255
+        ],
+        "delay": 0,
+        "index": 299
+      }
+    ],
+    "random_frame_start": false
+  },
+  "id": "879",
+  "item": {
+    "image": 400,
+    "type": 20
+  },
+  "minimap_pixel": [
+    206,
+    130,
+    50
+  ],
+  "name": "Apple Pie",
+  "value": 1000,
+  "weight": 0.20000000298023224
+}

@@ -1,0 +1,84 @@
+{
+  "id": "498",
+  "image": 367,
+  "max": 1,
+  "name": "Fundição",
+  "occupation_image": 32,
+  "occupation": "core_2_Vampire_Smelter",
+  "produces": [
+    {
+      "entities": [
+        {
+          "daily": 1,
+          "id": "145"
+        }
+      ],
+      "takes": "craftable"
+    },
+    {
+      "entities": [
+        {
+          "daily": 1,
+          "id": "147"
+        }
+      ],
+      "takes": "craftable"
+    },
+    {
+      "entities": [
+        {
+          "daily": 1,
+          "id": "149"
+        }
+      ],
+      "takes": "craftable"
+    },
+    {
+      "entities": [
+        {
+          "daily": 1,
+          "id": "159"
+        }
+      ],
+      "takes": "craftable"
+    },
+    {
+      "entities": [
+        {
+          "daily": 1,
+          "id": "161"
+        }
+      ],
+      "takes": "craftable"
+    },
+    {
+      "entities": [
+        {
+          "daily": 1,
+          "id": "2114"
+        }
+      ],
+      "takes": "craftable"
+    },
+    {
+      "entities": [
+        {
+          "daily": 2,
+          "id": "148"
+        }
+      ],
+      "takes": [
+        {
+          "amount": 4,
+          "id": "2008"
+        }
+      ]
+    }
+  ],
+  "race": "6",
+  "tier": 2,
+  "workers": [
+    1,
+    2
+  ]
+}

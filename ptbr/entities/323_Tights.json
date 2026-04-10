@@ -1,0 +1,68 @@
+{
+  "armor": {
+    "acid": 0,
+    "death": 4,
+    "electricity": 4,
+    "fire": 0,
+    "frost": 2,
+    "holy": 0,
+    "parry": 0,
+    "physical": 0,
+    "poison": 0,
+    "thorns": 0
+  },
+  "components": [
+    "armor",
+    "craftable",
+    "glyph",
+    "item",
+    "minimap_pixel",
+    "name",
+    "position_2d",
+    "value",
+    "weight"
+  ],
+  "craftable": {
+    "backgrounds": [],
+    "biomes": [],
+    "magic_slots": 3,
+    "resource_types": [
+      {
+        "amount": 3,
+        "id": 4
+      }
+    ],
+    "time": 40,
+    "tools": [
+      12
+    ]
+  },
+  "description": "As calças justas se tornaram fashion após um bandido carismático chamado Hodin Rood vagar pelas terras usando-as.",
+  "glyph": {
+    "frames": [
+      {
+        "color": [
+          255,
+          255,
+          255
+        ],
+        "delay": 0,
+        "index": 741
+      }
+    ],
+    "random_frame_start": false
+  },
+  "id": "323",
+  "item": {
+    "image": 123,
+    "type": 8
+  },
+  "minimap_pixel": [
+    71,
+    217,
+    43
+  ],
+  "name": "Calças Justas",
+  "value": 2000,
+  "weight": 0.5
+}

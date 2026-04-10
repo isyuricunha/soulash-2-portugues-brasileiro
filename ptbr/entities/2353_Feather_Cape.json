@@ -1,0 +1,74 @@
+{
+  "armor": {
+    "acid": 0,
+    "death": 6,
+    "electricity": 8,
+    "fire": 0,
+    "frost": 0,
+    "holy": 2,
+    "parry": 0,
+    "physical": 2,
+    "poison": 0,
+    "thorns": 0
+  },
+  "components": [
+    "armor",
+    "craftable",
+    "glyph",
+    "item",
+    "minimap_pixel",
+    "name",
+    "position_2d",
+    "value",
+    "weight"
+  ],
+  "craftable": {
+    "backgrounds": [],
+    "biomes": [],
+    "magic_slots": 5,
+    "resource_types": [
+      {
+        "amount": 3,
+        "id": 5
+      }
+    ],
+    "resources": [
+      {
+        "amount": 2,
+        "id": "2157"
+      }
+    ],
+    "time": 60,
+    "tools": [
+      12
+    ]
+  },
+  "description": "A cape made of bones and feathers.",
+  "glyph": {
+    "frames": [
+      {
+        "color": [
+          255,
+          255,
+          255
+        ],
+        "delay": 0,
+        "index": 683
+      }
+    ],
+    "random_frame_start": false
+  },
+  "id": "2353",
+  "item": {
+    "image": 605,
+    "type": 10
+  },
+  "minimap_pixel": [
+    200,
+    200,
+    200
+  ],
+  "name": "Feather Cape",
+  "value": 12000,
+  "weight": 0.5
+}

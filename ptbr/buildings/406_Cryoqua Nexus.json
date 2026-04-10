@@ -1,0 +1,66 @@
+{
+  "enables": [
+    "core_2_cryomancy"
+  ],
+  "id": "406",
+  "image": 161,
+  "name": "Nexo Criomântico",
+  "occupation_image": 100,
+  "occupation": "core_2_Reptilion_Water_Shaper",
+  "occupation_per_race": {
+    "0": "core_2_Human_Cryomancer",
+    "1": "core_2_Dwarf_Cryomancy",
+    "2": "core_2_Elf_Cryomancer",
+    "4": "core_2_Goblin_Cryomancer",
+    "6": "core_2_Vampire_Cryomancer",
+    "7": "core_2_Troll_Cryomancer",
+    "8": "core_2_Orc_Cryomancer",
+    "10": "core_2_Rasimi_Cryomancer",
+    "23": "core_2_Reptilion_Water_Shaper",
+    "26": "core_2_Bone_Wraith_Cryomancer",
+    "31": "core_2_Gnoll_Cryomancer",
+    "32": "core_2_Mushman_Cryomancer",
+    "33": "core_2_Ursan_Cryomancer"
+  },
+  "max": 1,
+  "produces": [
+    {
+      "entities": [
+        {
+          "daily": 0.2,
+          "id": "2006"
+        }
+      ],
+      "takes": "craftable"
+    }
+  ],
+  "race": "-1",
+  "tier": 3,
+  "workers": [
+    1,
+    6
+  ],
+  "allow_player": true,
+  "required_entities": [
+    {
+      "entities": [
+        "1043"
+      ],
+      "count": 4
+    },
+    {
+      "entities": [
+        "263",
+        "228"
+      ],
+      "count": 2
+    },
+    {
+      "component": "resting_place",
+      "count": 6
+    }
+  ],
+  "min_area": 30,
+  "group": "military",
+  "type": "military"
+}

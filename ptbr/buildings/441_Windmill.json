@@ -1,0 +1,44 @@
+{
+  "id": "441",
+  "image": 6,
+  "max": 2,
+  "name": "Moinho",
+  "occupation_image": 46,
+  "occupation": "core_2_Goblin_Moinheiro",
+  "produces": [
+    {
+      "entities": [
+        {
+          "daily": 20,
+          "id": "801"
+        }
+      ],
+      "takes": [
+        {
+          "amount": 20,
+          "id": "800"
+        }
+      ]
+    },
+    {
+      "entities": [
+        {
+          "daily": 20,
+          "id": "core_2_Barley_Flour"
+        }
+      ],
+      "takes": [
+        {
+          "amount": 20,
+          "id": "3093"
+        }
+      ]
+    }
+  ],
+  "race": "4",
+  "tier": 1,
+  "workers": [
+    1,
+    2
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "id": "core_2_pancakes",
+  "name": "Panquecas",
+  "requirements": {
+    "milestones": [],
+    "skill": 20
+  },
+  "rewards": [
+    {
+      "recipe": "3032"
+    }
+  ],
+  "skill_id": "core_2_agriculture",
+  "steps": [],
+  "steps_type": 0
+}

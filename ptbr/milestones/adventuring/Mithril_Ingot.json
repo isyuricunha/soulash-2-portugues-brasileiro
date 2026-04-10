@@ -1,0 +1,16 @@
+{
+  "id": "core_2_mithril_ingot",
+  "name": "Lingote de Mithril",
+  "requirements": {
+    "milestones": [],
+    "skill": 41
+  },
+  "rewards": [
+    {
+      "recipe": "2115"
+    }
+  ],
+  "skill_id": "core_2_adventuring",
+  "steps": [],
+  "steps_type": 0
+}

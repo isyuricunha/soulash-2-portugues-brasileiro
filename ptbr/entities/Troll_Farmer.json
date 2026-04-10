@@ -1,0 +1,169 @@
+{
+  "artificial_intelligence": {
+    "allies": [
+      "0",
+      "11",
+      "12"
+    ],
+    "allow_production": [
+      "6",
+      "7"
+    ],
+    "behaviors": [],
+    "enemies": []
+  },
+  "components": [
+    "actor",
+    "artificial_intelligence",
+    "collidable",
+    "consumer",
+    "dialogues",
+    "equipment",
+    "experience_gainer",
+    "fighter",
+    "glyph",
+    "health",
+    "humanoid",
+    "minimap_pixel",
+    "moveable",
+    "name",
+    "persona",
+    "position_2d",
+    "sight",
+    "skills",
+    "stamina",
+    "statistics",
+    "tags"
+  ],
+  "corpse": "2745",
+  "description": "",
+  "dialogues": [
+    "833",
+    "835"
+  ],
+  "equipment": {
+    "backpack": [
+      {
+        "chance": 0.20000000298023224,
+        "id": "164",
+        "name": "Tesoura",
+        "stack": 1
+      }
+    ],
+    "head_cloth": [
+      {
+        "chance": 0.33000001311302185,
+        "id": "804",
+        "name": "Chapéu de Palha",
+        "stack": 1
+      }
+    ],
+    "legs_cloth": [
+      {
+        "chance": 0.800000011920929,
+        "id": "2175",
+        "name": "Tanga de Pele",
+        "stack": 1
+      }
+    ],
+    "right_hand": [
+      {
+        "chance": 0.5,
+        "id": "97",
+        "name": "Foice",
+        "stack": 1
+      },
+      {
+        "chance": 0.5,
+        "id": "693",
+        "name": "Mangual de Madeira",
+        "stack": 1
+      }
+    ]
+  },
+  "experience_gainer": {
+    "exp": 5,
+    "level": 1
+  },
+  "fighter": {
+    "attackNames": null
+  },
+  "glyph": {
+    "frames": [
+      {
+        "color": [
+          255,
+          255,
+          255
+        ],
+        "delay": 0,
+        "index": 176
+      }
+    ],
+    "random_frame_start": false
+  },
+  "health": 85,
+  "humanoid": {
+    "race": "7"
+  },
+  "id": "core_2_Troll_Farmer",
+  "minimap_pixel": [
+    255,
+    128,
+    128
+  ],
+  "moveable": {
+    "speed": 1.5
+  },
+  "name": "Troll Fazendeiro",
+  "persona": {
+    "occupation": "Fazendeiro"
+  },
+  "sight": {
+    "ignore_infra_penalty": false,
+    "infravision": false,
+    "range": 10,
+    "threesixty": false
+  },
+  "skills": {
+    "milestones": [
+      "core_2_quick_growth",
+      "core_2_catch_animal",
+      "core_2_extra_food"
+    ],
+    "skills": [
+      "core_2_agriculture"
+    ]
+  },
+  "stamina": {
+    "fatigue": 100,
+    "stamina": 100,
+    "stamina_regen": 0.0
+  },
+  "statistics": {
+    "dexterity": [
+      8,
+      14
+    ],
+    "endurance": [
+      14,
+      18
+    ],
+    "intelligence": [
+      5,
+      7
+    ],
+    "strength": [
+      12,
+      16
+    ],
+    "willpower": [
+      7,
+      11
+    ]
+  },
+  "tags": [
+    "9",
+    "26"
+  ]
+}

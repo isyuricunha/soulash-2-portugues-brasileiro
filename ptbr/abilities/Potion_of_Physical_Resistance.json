@@ -1,0 +1,21 @@
+{
+  "animation": "core_2_Drink_potion_of_physical_resitance",
+  "cast_time": 1.0,
+  "cooldown": 30.0,
+  "cost": {
+    "health": 0,
+    "stamina": 0
+  },
+  "description": "Esta poção lhe dá ::resistance de resistência ::damage_type por ::duration turnos.",
+  "duration": 50.0,
+  "effects": {
+    "damage_type": "physical",
+    "resistance": 10
+  },
+  "id": "core_2_Potion_of_Physical_Resistance",
+  "image": 765,
+  "name": "Poção de Resistência Física",
+  "range": 0,
+  "skill": "",
+  "target": "self"
+}

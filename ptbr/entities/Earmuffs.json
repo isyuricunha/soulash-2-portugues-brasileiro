@@ -1,0 +1,68 @@
+{
+  "armor": {
+    "acid": 0,
+    "death": 1,
+    "electricity": 0,
+    "fire": 0,
+    "frost": 1,
+    "holy": 0,
+    "parry": 0,
+    "physical": 0,
+    "poison": 0,
+    "thorns": 0
+  },
+  "components": [
+    "armor",
+    "craftable",
+    "glyph",
+    "item",
+    "minimap_pixel",
+    "name",
+    "position_2d",
+    "value",
+    "weight"
+  ],
+  "craftable": {
+    "backgrounds": [],
+    "biomes": [],
+    "magic_slots": 1,
+    "resource_types": [
+      {
+        "amount": 1,
+        "id": 9
+      }
+    ],
+    "time": 30,
+    "tools": [
+      14
+    ]
+  },
+  "description": "Ótimo em um dia frio.",
+  "glyph": {
+    "frames": [
+      {
+        "color": [
+          255,
+          255,
+          255
+        ],
+        "delay": 0,
+        "index": 2260
+      }
+    ],
+    "random_frame_start": false
+  },
+  "id": "core_2_Earmuffs",
+  "item": {
+    "image": 952,
+    "type": 1
+  },
+  "minimap_pixel": [
+    122,
+    93,
+    57
+  ],
+  "name": "Protetores de Orelha",
+  "value": 200,
+  "weight": 0.5
+}

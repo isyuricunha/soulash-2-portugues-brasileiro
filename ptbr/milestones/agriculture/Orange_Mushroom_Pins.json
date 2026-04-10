@@ -1,0 +1,16 @@
+{
+  "id": "core_2_orange_mushroom_pins",
+  "name": "Pinos de Cogumelo Laranja",
+  "requirements": {
+    "milestones": [],
+    "skill": 3
+  },
+  "rewards": [
+    {
+      "recipe": "3089"
+    }
+  ],
+  "skill_id": "core_2_agriculture",
+  "steps": [],
+  "steps_type": 0
+}

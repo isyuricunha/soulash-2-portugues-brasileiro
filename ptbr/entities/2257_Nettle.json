@@ -1,0 +1,40 @@
+{
+  "components": [
+    "glyph",
+    "item",
+    "minimap_pixel",
+    "name",
+    "position_2d",
+    "stackable",
+    "value",
+    "weight"
+  ],
+  "description": "The fibers from the nettle plant can be harvested and spun into thread suitable for making clothes.",
+  "glyph": {
+    "frames": [
+      {
+        "color": [
+          255,
+          255,
+          255
+        ],
+        "delay": 0,
+        "index": 1050
+      }
+    ],
+    "random_frame_start": false
+  },
+  "id": "2257",
+  "item": {
+    "image": 581,
+    "type": 16
+  },
+  "minimap_pixel": [
+    50,
+    72,
+    13
+  ],
+  "name": "Nettle",
+  "value": 300,
+  "weight": 0.10000000149011612
+}

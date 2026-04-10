@@ -1,0 +1,16 @@
+{
+  "id": "core_2_rune_strength",
+  "name": "Runa de Força",
+  "requirements": {
+    "milestones": [],
+    "skill": 32
+  },
+  "rewards": [
+    {
+      "recipe": "core_2_Rune_of_Strength"
+    }
+  ],
+  "skill_id": "core_2_imbuing",
+  "steps": [],
+  "steps_type": 0
+}

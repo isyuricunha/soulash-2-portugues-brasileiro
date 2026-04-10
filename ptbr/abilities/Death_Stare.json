@@ -1,0 +1,26 @@
+{
+  "animation": "core_2_Death_Stare",
+  "cast_time": 1.0,
+  "cooldown": 20.0,
+  "cost": {
+    "health": 0,
+    "stamina": 0
+  },
+  "description": "It's like Death itself stares into your soul, dealing ::damage ::damage_type damage and knocking you back.",
+  "duration": 0.0,
+  "effects": {
+    "damage": [
+      30,
+      50
+    ],
+    "damage_type": "death",
+    "knockback": 5,
+    "knockback_damage_percent": 50.0
+  },
+  "id": "core_2_Death_Stare",
+  "image": 798,
+  "name": "Death Stare",
+  "range": 8,
+  "skill": "",
+  "target": "health"
+}

@@ -1,0 +1,26 @@
+{
+  "animation": "core_2_Spectral_Chain",
+  "cast_time": 0.10000000149011612,
+  "cooldown": 10.0,
+  "cost": {
+    "health": 0,
+    "stamina": 0
+  },
+  "description": "Spectral chain pulls target and deals ::damage ::damage_type damage.",
+  "duration": 0.0,
+  "effects": {
+    "damage": [
+      20,
+      30
+    ],
+    "damage_type": "holy",
+    "damage_weapon": 1.0,
+    "pull_target": 3
+  },
+  "id": "core_2_Spectral_Chain",
+  "image": 800,
+  "name": "Spectral Chain",
+  "range": 10,
+  "skill": "",
+  "target": "health"
+}

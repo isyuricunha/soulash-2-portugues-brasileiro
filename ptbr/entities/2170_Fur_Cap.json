@@ -1,0 +1,66 @@
+{
+  "armor": {
+    "acid": 0,
+    "death": 0,
+    "electricity": 0,
+    "fire": 0,
+    "frost": 3,
+    "holy": 0,
+    "parry": 0,
+    "physical": 1,
+    "poison": 0
+  },
+  "components": [
+    "armor",
+    "craftable",
+    "glyph",
+    "item",
+    "minimap_pixel",
+    "name",
+    "position_2d",
+    "value",
+    "weight"
+  ],
+  "craftable": {
+    "magic_slots": 1,
+    "resource_types": [
+      {
+        "amount": 1,
+        "id": 9
+      }
+    ],
+    "resources": null,
+    "time": 30,
+    "tools": [
+      14
+    ]
+  },
+  "description": "Este gorro protege os ouvidos do frio cortante.",
+  "glyph": {
+    "frames": [
+      {
+        "color": [
+          255,
+          255,
+          255
+        ],
+        "delay": 0,
+        "index": 540
+      }
+    ],
+    "random_frame_start": false
+  },
+  "id": "2170",
+  "item": {
+    "image": 535,
+    "type": 1
+  },
+  "minimap_pixel": [
+    122,
+    93,
+    57
+  ],
+  "name": "Gorro de Pele",
+  "value": 600,
+  "weight": 0.5
+}

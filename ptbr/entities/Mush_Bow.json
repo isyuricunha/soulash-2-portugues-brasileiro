@@ -1,0 +1,71 @@
+{
+  "components": [
+    "craftable",
+    "glyph",
+    "item",
+    "minimap_pixel",
+    "name",
+    "position_2d",
+    "value",
+    "weapon",
+    "weight"
+  ],
+  "craftable": {
+    "backgrounds": [],
+    "biomes": [],
+    "magic_slots": 1,
+    "resources": [
+      {
+        "amount": 2,
+        "id": "core_2_Mush_Wood"
+      }
+    ],
+    "time": 25,
+    "tools": []
+  },
+  "description": "Arco simples feito de madeira de cogumelo.",
+  "glyph": {
+    "frames": [
+      {
+        "color": [
+          208,
+          204,
+          187
+        ],
+        "delay": 0,
+        "index": 2156
+      }
+    ],
+    "random_frame_start": false
+  },
+  "id": "core_2_Mush_Bow",
+  "item": {
+    "image": 897,
+    "type": 13
+  },
+  "minimap_pixel": [
+    208,
+    204,
+    187
+  ],
+  "name": "Arco de Cogumelo",
+  "value": 1500,
+  "weapon": {
+    "attack_animation": "5",
+    "attack_speed": 1.0,
+    "critical_hit": 0.0,
+    "damage": [
+      {
+        "dmg_max": 8,
+        "dmg_min": 5,
+        "dmg_type": "acid"
+      }
+    ],
+    "hands": 2,
+    "hit_bonus": 1,
+    "parry_bonus": 0,
+    "range": 5,
+    "type": 5
+  },
+  "weight": 1.0
+}

@@ -1,0 +1,122 @@
+{
+  "artificial_intelligence": {
+    "allies": [
+      "1"
+    ],
+    "allow_production": [],
+    "behaviors": [],
+    "enemies": []
+  },
+  "components": [
+    "actor",
+    "artificial_intelligence",
+    "collidable",
+    "dialogues",
+    "equipment",
+    "experience_gainer",
+    "fighter",
+    "glyph",
+    "health",
+    "humanoid",
+    "minimap_pixel",
+    "moveable",
+    "name",
+    "persona",
+    "position_2d",
+    "sight",
+    "stamina",
+    "statistics",
+    "tags"
+  ],
+  "corpse": "25",
+  "description": "",
+  "dialogues": [
+    "134",
+    "135"
+  ],
+  "equipment": {
+    "torso_cloth": [
+      {
+        "chance": 1.0,
+        "id": "183",
+        "name": "Robe",
+        "stack": 1
+      }
+    ]
+  },
+  "experience_gainer": {
+    "exp": 5,
+    "level": 1
+  },
+  "fighter": {
+    "attackNames": null
+  },
+  "glyph": {
+    "frames": [
+      {
+        "color": [
+          255,
+          255,
+          255
+        ],
+        "delay": 0,
+        "index": 479
+      }
+    ],
+    "random_frame_start": false
+  },
+  "health": 100,
+  "humanoid": {
+    "race": "0"
+  },
+  "id": "455",
+  "minimap_pixel": [
+    224,
+    172,
+    105
+  ],
+  "moveable": {
+    "speed": 1.2000000476837158
+  },
+  "name": "Human Citizen",
+  "persona": {
+    "occupation": "None"
+  },
+  "sight": {
+    "ignore_infra_penalty": false,
+    "infravision": false,
+    "range": 8,
+    "threesixty": false
+  },
+  "stamina": {
+    "fatigue": 100,
+    "stamina": 100,
+    "stamina_regen": 0.0
+  },
+  "statistics": {
+    "dexterity": [
+      14,
+      18
+    ],
+    "endurance": [
+      14,
+      18
+    ],
+    "intelligence": [
+      14,
+      18
+    ],
+    "strength": [
+      13,
+      17
+    ],
+    "willpower": [
+      13,
+      17
+    ]
+  },
+  "tags": [
+    "1",
+    "9"
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "enables": [
+    "core_2_carpentry"
+  ],
+  "id": "290",
+  "image": 234,
+  "name": "Carpenter",
+  "occupation_image": 0,
+  "occupation": "core_2_Ursan_Carpenter",
+  "produces": [
+    {
+      "entities": [
+        {
+          "daily": 10,
+          "id": "2093"
+        }
+      ],
+      "takes": [
+        {
+          "amount": 1,
+          "id": "2092"
+        }
+      ]
+    },
+    {
+      "entities": [
+        {
+          "daily": 12,
+          "id": "2097"
+        }
+      ],
+      "takes": [
+        {
+          "amount": 2,
+          "id": "2096"
+        }
+      ]
+    }
+  ],
+  "race": "33",
+  "tier": 1,
+  "workers": [
+    1,
+    4
+  ],
+  "max": 2
+}

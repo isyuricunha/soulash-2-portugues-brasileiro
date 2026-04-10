@@ -1,0 +1,24 @@
+{
+  "id": "316",
+  "image": 245,
+  "name": "Mina",
+  "occupation_image": 36,
+  "occupation": "core_2_Gnoll_Mineiro",
+  "produces": [
+    {
+      "entities": [
+        {
+          "daily": 2,
+          "id": "160"
+        }
+      ],
+      "takes": []
+    }
+  ],
+  "race": "31",
+  "tier": 3,
+  "workers": [
+    1,
+    3
+  ]
+}

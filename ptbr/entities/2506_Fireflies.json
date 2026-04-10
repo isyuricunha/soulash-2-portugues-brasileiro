@@ -1,0 +1,102 @@
+{
+  "components": [
+    "glyph",
+    "health",
+    "light_source",
+    "minimap_pixel",
+    "name",
+    "position_2d"
+  ],
+  "corpse": [],
+  "description": "Luminous insects dance through the darkness, creating a mesmerizing spectacle of twinkling lights.",
+  "glyph": {
+    "frames": [
+      {
+        "color": [
+          255,
+          255,
+          255
+        ],
+        "delay": 200,
+        "index": 1651
+      },
+      {
+        "color": [
+          255,
+          255,
+          255
+        ],
+        "delay": 200,
+        "index": 1652
+      },
+      {
+        "color": [
+          255,
+          255,
+          255
+        ],
+        "delay": 200,
+        "index": 1653
+      },
+      {
+        "color": [
+          255,
+          255,
+          255
+        ],
+        "delay": 200,
+        "index": 1654
+      },
+      {
+        "color": [
+          255,
+          255,
+          255
+        ],
+        "delay": 200,
+        "index": 1655
+      },
+      {
+        "color": [
+          255,
+          255,
+          255
+        ],
+        "delay": 200,
+        "index": 1656
+      },
+      {
+        "color": [
+          255,
+          255,
+          255
+        ],
+        "delay": 200,
+        "index": 1657
+      },
+      {
+        "color": [
+          255,
+          255,
+          255
+        ],
+        "delay": 200,
+        "index": 1658
+      }
+    ],
+    "random_frame_start": true
+  },
+  "health": 1,
+  "id": "2506",
+  "light_source": {
+    "finish": -1,
+    "fuel": [],
+    "range": 2
+  },
+  "minimap_pixel": [
+    211,
+    221,
+    211
+  ],
+  "name": "Fireflies"
+}

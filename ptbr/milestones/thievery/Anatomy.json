@@ -1,0 +1,15 @@
+{
+  "id": "core_2_anatomy",
+  "name": "Anatomia",
+  "requirements": {
+    "skill": 12
+  },
+  "rewards": [
+    {
+      "passive": "core_2_critical_hit"
+    }
+  ],
+  "skill_id": "core_2_thievery",
+  "steps": [],
+  "steps_type": 0
+}

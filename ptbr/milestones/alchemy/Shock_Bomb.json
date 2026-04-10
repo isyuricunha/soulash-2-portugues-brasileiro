@@ -1,0 +1,16 @@
+{
+  "id": "core_2_shock_bomb",
+  "name": "Bomba de Choque",
+  "requirements": {
+    "milestones": [],
+    "skill": 13
+  },
+  "rewards": [
+    {
+      "recipe": "core_2_Shock_Bomb"
+    }
+  ],
+  "skill_id": "core_2_alchemy",
+  "steps": [],
+  "steps_type": 0
+}

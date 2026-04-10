@@ -1,0 +1,33 @@
+{
+  "id": "284",
+  "image": 227,
+  "name": "Mine",
+  "occupation_image": 36,
+  "occupation": "core_2_Ursan_Miner",
+  "produces": [
+    {
+      "entities": [
+        {
+          "daily": 2,
+          "id": "144"
+        }
+      ],
+      "takes": []
+    },
+    {
+      "entities": [
+        {
+          "daily": 2,
+          "id": "2111"
+        }
+      ],
+      "takes": []
+    }
+  ],
+  "race": "33",
+  "tier": 1,
+  "workers": [
+    1,
+    3
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "components": [
+    "glyph",
+    "item",
+    "liquid_source",
+    "minimap_pixel",
+    "name",
+    "position_2d",
+    "producer",
+    "value",
+    "weight"
+  ],
+  "description": "The remains of an animated sapphire vein.",
+  "glyph": {
+    "frames": [
+      {
+        "color": [
+          255,
+          255,
+          255
+        ],
+        "delay": 0,
+        "index": 1833
+      }
+    ],
+    "random_frame_start": false
+  },
+  "id": "2777",
+  "item": {
+    "image": 725,
+    "type": 18
+  },
+  "liquid_source": {
+    "limit": 80,
+    "type": 0
+  },
+  "minimap_pixel": [
+    171,
+    102,
+    57
+  ],
+  "name": "Animated Sapphire Vein Corpse",
+  "producer": {
+    "products": {
+      "3": [
+        {
+          "amount": [
+            2,
+            4
+          ],
+          "id": "848",
+          "percent_chance": 100
+        }
+      ]
+    },
+    "time": 20
+  },
+  "value": 0,
+  "weight": 100.0
+}

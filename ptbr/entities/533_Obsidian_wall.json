@@ -1,0 +1,108 @@
+{
+  "armor": {
+    "acid": 25,
+    "death": 22,
+    "electricity": 30,
+    "fire": 28,
+    "frost": 22,
+    "holy": 22,
+    "parry": 0,
+    "physical": 28,
+    "poison": 26,
+    "thorns": 0
+  },
+  "background": {
+    "color": [
+      44,
+      45,
+      41
+    ],
+    "noise": 4
+  },
+  "category_id": 2,
+  "components": [
+    "armor",
+    "background",
+    "block_light",
+    "collidable",
+    "craftable",
+    "glyph",
+    "health",
+    "height",
+    "minimap_pixel",
+    "name",
+    "position_2d",
+    "producer"
+  ],
+  "corpse": [],
+  "craftable": {
+    "magic_slots": 0,
+    "resources": [
+      {
+        "amount": 2,
+        "id": "2540"
+      }
+    ],
+    "time": 10,
+    "tools": [
+      6
+    ]
+  },
+  "description": "Wall made of obsidian blocks.",
+  "glyph": {
+    "frames": [
+      {
+        "color": [
+          255,
+          255,
+          255
+        ],
+        "delay": 0,
+        "index": 761
+      },
+      {
+        "color": [
+          255,
+          255,
+          255
+        ],
+        "delay": 0,
+        "index": 1105
+      },
+      {
+        "color": [
+          255,
+          255,
+          255
+        ],
+        "delay": 0,
+        "index": 1106
+      }
+    ],
+    "random_frame_start": true
+  },
+  "health": 1000,
+  "height": 10,
+  "id": "533",
+  "minimap_pixel": [
+    46,
+    41,
+    58
+  ],
+  "name": "Obsidian Wall",
+  "producer": {
+    "products": {
+      "core_2_deconstruct": [
+        {
+          "amount": [
+            0,
+            0
+          ],
+          "id": "-1",
+          "percent_chance": 0
+        }
+      ]
+    },
+    "time": 180
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "animation": "core_2_Better_bandage",
+  "cast_time": 1.0,
+  "cooldown": 0.0,
+  "cost": {
+    "health": 0,
+    "stamina": 0
+  },
+  "description": "Melhora levemente a regeneração de vida em ::regeneration periodicamente por ::duration turnos",
+  "duration": 100.0,
+  "effects": {
+    "regeneration": 5.0
+  },
+  "id": "core_2_Better_Bandage",
+  "image": 755,
+  "name": "Atadura Superior",
+  "range": 0,
+  "skill": "",
+  "target": "self"
+}

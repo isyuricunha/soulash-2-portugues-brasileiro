@@ -1,0 +1,18 @@
+{
+  "enables": [
+    "core_2_leatherworking"
+  ],
+  "id": "286",
+  "image": 232,
+  "max": 1,
+  "name": "Leatherworker",
+  "occupation_image": 12,
+  "occupation": "core_2_Ursan_Leatherworker",
+  "produces": [],
+  "race": "33",
+  "tier": 2,
+  "workers": [
+    1,
+    3
+  ]
+}

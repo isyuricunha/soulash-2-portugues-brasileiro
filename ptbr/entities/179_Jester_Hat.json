@@ -1,0 +1,70 @@
+{
+  "armor": {
+    "acid": 4,
+    "death": 0,
+    "electricity": 4,
+    "fire": 4,
+    "frost": 0,
+    "holy": 0,
+    "parry": 0,
+    "physical": 0,
+    "poison": 0
+  },
+  "components": [
+    "armor",
+    "craftable",
+    "glyph",
+    "item",
+    "minimap_pixel",
+    "name",
+    "position_2d",
+    "value",
+    "weight"
+  ],
+  "craftable": {
+    "magic_slots": 4,
+    "resource_types": [
+      {
+        "amount": 3,
+        "id": 4
+      },
+      {
+        "amount": 1,
+        "id": 1
+      }
+    ],
+    "resources": null,
+    "time": 90,
+    "tools": [
+      12
+    ]
+  },
+  "description": "Também conhecido como o capuz do bobo. Tem vários sinos presos a ele, então se esgueirar pode ser difícil.",
+  "glyph": {
+    "frames": [
+      {
+        "color": [
+          255,
+          255,
+          255
+        ],
+        "delay": 0,
+        "index": 389
+      }
+    ],
+    "random_frame_start": false
+  },
+  "id": "179",
+  "item": {
+    "image": 81,
+    "type": 2
+  },
+  "minimap_pixel": [
+    255,
+    128,
+    128
+  ],
+  "name": "Chapéu de Bobo",
+  "value": 3400,
+  "weight": 1.0
+}

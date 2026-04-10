@@ -1,0 +1,47 @@
+{
+  "armor": {
+    "acid": 0,
+    "death": 0,
+    "electricity": 0,
+    "fire": -20,
+    "frost": 0,
+    "holy": 0,
+    "parry": 0,
+    "physical": 2,
+    "poison": 1000,
+    "thorns": 0
+  },
+  "components": [
+    "armor",
+    "collidable",
+    "glyph",
+    "health",
+    "minimap_pixel",
+    "name",
+    "position_2d"
+  ],
+  "corpse": [],
+  "description": "A neat stack of round snowballs.",
+  "glyph": {
+    "frames": [
+      {
+        "color": [
+          255,
+          255,
+          255
+        ],
+        "delay": 0,
+        "index": 3145
+      }
+    ],
+    "random_frame_start": true
+  },
+  "health": 100,
+  "id": "core_2_Stack_of_Snowballs",
+  "minimap_pixel": [
+    71,
+    48,
+    17
+  ],
+  "name": "Stack of Snowballs"
+}

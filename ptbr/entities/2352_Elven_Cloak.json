@@ -1,0 +1,70 @@
+{
+  "armor": {
+    "acid": 5,
+    "death": 0,
+    "electricity": 0,
+    "fire": 5,
+    "frost": 0,
+    "holy": 0,
+    "parry": 0,
+    "physical": 2,
+    "poison": 8
+  },
+  "components": [
+    "armor",
+    "craftable",
+    "glyph",
+    "item",
+    "minimap_pixel",
+    "name",
+    "position_2d",
+    "value",
+    "weight"
+  ],
+  "craftable": {
+    "magic_slots": 5,
+    "resource_types": [
+      {
+        "amount": 4,
+        "id": 4
+      },
+      {
+        "amount": 1,
+        "id": 8
+      }
+    ],
+    "resources": null,
+    "time": 60,
+    "tools": [
+      12
+    ]
+  },
+  "description": "Lightweight cloak offering excellent protection from nature.",
+  "glyph": {
+    "frames": [
+      {
+        "color": [
+          255,
+          255,
+          255
+        ],
+        "delay": 0,
+        "index": 695
+      }
+    ],
+    "random_frame_start": false
+  },
+  "id": "2352",
+  "item": {
+    "image": 616,
+    "type": 10
+  },
+  "minimap_pixel": [
+    122,
+    93,
+    57
+  ],
+  "name": "Elven Cloak",
+  "value": 15000,
+  "weight": 1.5
+}

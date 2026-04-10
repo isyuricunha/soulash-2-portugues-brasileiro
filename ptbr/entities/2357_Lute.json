@@ -1,0 +1,57 @@
+{
+  "components": [
+    "glyph",
+    "item",
+    "minimap_pixel",
+    "name",
+    "position_2d",
+    "stackable",
+    "value",
+    "weapon",
+    "weight"
+  ],
+  "description": "A beautifully crafted stringed instrument with a wooden body and intricate carvings.",
+  "glyph": {
+    "frames": [
+      {
+        "color": [
+          255,
+          255,
+          255
+        ],
+        "delay": 0,
+        "index": 1053
+      }
+    ],
+    "random_frame_start": false
+  },
+  "id": "2357",
+  "item": {
+    "image": 585,
+    "type": 13
+  },
+  "minimap_pixel": [
+    50,
+    72,
+    13
+  ],
+  "name": "Lute",
+  "value": 3000,
+  "weapon": {
+    "attack_speed": 1.0,
+    "critical_hit": 0.0,
+    "damage": [
+      {
+        "dmg_max": 5,
+        "dmg_min": 2,
+        "dmg_type": "physical"
+      }
+    ],
+    "hands": 2,
+    "hit_bonus": 1,
+    "parry_bonus": 0,
+    "range": 1,
+    "type": 8
+  },
+  "weight": 1.0
+}

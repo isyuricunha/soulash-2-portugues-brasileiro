@@ -1,0 +1,57 @@
+{
+  "id": "31",
+  "image": 28,
+  "name": "Criação de Ovelhas",
+  "occupation_image": 28,
+  "occupation": "2267",
+  "produces": [
+    {
+      "entities": [
+        {
+          "daily": 4,
+          "id": "318"
+        },
+        {
+          "daily": 1,
+          "id": "176"
+        }
+      ],
+      "takes": []
+    },
+    {
+      "entities": [
+        {
+          "daily": 0.1,
+          "id": "core_2_Caught_Lamb"
+        }
+      ],
+      "takes": [
+        {
+          "amount": 1,
+          "id": "344"
+        }
+      ]
+    },
+    {
+      "entities": [
+        {
+          "daily": 0.1,
+          "id": "core_2_Caught_Lamb"
+        }
+      ],
+      "takes": [
+        {
+          "amount": 1,
+          "id": "343"
+        }
+      ]
+    }
+  ],
+  "race": "1",
+  "max": 3,
+  "tier": 1,
+  "workers": [
+    1,
+    4
+  ]
+}

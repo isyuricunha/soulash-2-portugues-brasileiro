@@ -1,0 +1,58 @@
+{
+  "category_id": 7,
+  "components": [
+    "craftable",
+    "glyph",
+    "health",
+    "height",
+    "minimap_pixel",
+    "name",
+    "position_2d"
+  ],
+  "corpse": "62",
+  "craftable": {
+    "magic_slots": 0,
+    "resource_types": [
+      {
+        "amount": 2,
+        "id": 3
+      }
+    ],
+    "resources": null,
+    "time": 60,
+    "tools": []
+  },
+  "description": "Uma pilha rústica de feno seco, reunido e empilhado para criar um abrigo acolhedor e prático ou área de assentos em ambientes agrícolas.",
+  "glyph": {
+    "frames": [
+      {
+        "color": [
+          255,
+          255,
+          255
+        ],
+        "delay": 0,
+        "index": 1619
+      },
+      {
+        "color": [
+          255,
+          255,
+          255
+        ],
+        "delay": 0,
+        "index": 1649
+      }
+    ],
+    "random_frame_start": true
+  },
+  "health": 20,
+  "height": 0,
+  "id": "2466",
+  "minimap_pixel": [
+    99,
+    68,
+    24
+  ],
+  "name": "Palha"
+}

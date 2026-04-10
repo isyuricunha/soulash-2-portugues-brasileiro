@@ -1,0 +1,15 @@
+{
+  "id": "core_2_hunters_greaves",
+  "name": "Hunter's Greaves",
+  "requirements": {
+    "skill": 33
+  },
+  "rewards": [
+    {
+      "recipe": "570"
+    }
+  ],
+  "skill_id": "core_2_leatherworking",
+  "steps": [],
+  "steps_type": 0
+}

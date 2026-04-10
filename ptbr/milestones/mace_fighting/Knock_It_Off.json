@@ -1,0 +1,15 @@
+{
+  "id": "core_2_knock_it_off",
+  "name": "Knock It Off",
+  "requirements": {
+    "skill": 12
+  },
+  "rewards": [
+    {
+      "ability": "35"
+    }
+  ],
+  "skill_id": "core_2_mace_fighting",
+  "steps": [],
+  "steps_type": 0
+}

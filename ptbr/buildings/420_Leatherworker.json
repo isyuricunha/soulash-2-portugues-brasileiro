@@ -1,0 +1,18 @@
+{
+  "enables": [
+    "core_2_leatherworking"
+  ],
+  "id": "420",
+  "image": 65,
+  "max": 1,
+  "name": "Couraria",
+  "occupation_image": 12,
+  "occupation": "core_2_Troll_Couraria",
+  "produces": [],
+  "race": "7",
+  "tier": 2,
+  "workers": [
+    1,
+    3
+  ]
+}

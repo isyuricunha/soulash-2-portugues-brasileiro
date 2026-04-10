@@ -1,0 +1,33 @@
+{
+  "components": [
+    "glyph",
+    "health",
+    "minimap_pixel",
+    "name",
+    "position_2d"
+  ],
+  "corpse": [],
+  "description": "Esta caixa de madeira toca uma canção de ninar. Provavelmente usa magia.",
+  "glyph": {
+    "frames": [
+      {
+        "color": [
+          255,
+          255,
+          255
+        ],
+        "delay": 0,
+        "index": 2875
+      }
+    ],
+    "random_frame_start": true
+  },
+  "health": 40,
+  "id": "core_2_Music_Box",
+  "minimap_pixel": [
+    150,
+    110,
+    42
+  ],
+  "name": "Caixa de Música"
+}

@@ -1,0 +1,38 @@
+{
+  "components": [
+    "glyph",
+    "item",
+    "minimap_pixel",
+    "name",
+    "position_2d",
+    "stackable",
+    "weight"
+  ],
+  "description": "An old letter that reads:\n\"My good sire, I don't trust the contractors that you hired to build your new palace. They had a weird look in their eyes. If you will allow, I will check the new building myself, to make sure it is safe.\"",
+  "glyph": {
+    "frames": [
+      {
+        "color": [
+          255,
+          255,
+          255
+        ],
+        "delay": 0,
+        "index": 699
+      }
+    ],
+    "random_frame_start": false
+  },
+  "id": "2595",
+  "item": {
+    "image": 323,
+    "type": 25
+  },
+  "minimap_pixel": [
+    177,
+    153,
+    137
+  ],
+  "name": "Letter VII",
+  "weight": 0.10000000149011612
+}

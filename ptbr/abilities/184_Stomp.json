@@ -1,0 +1,26 @@
+{
+  "animation": "236",
+  "cast_time": 1.0,
+  "cooldown": 10.0,
+  "cost": {
+    "health": 0,
+    "stamina": 7
+  },
+  "description": "Um ataque que causa ::damage ::damage_type de dano e aplica o efeito de atordoamento ::stun ao inimigo.",
+  "duration": 0.30000001192092896,
+  "effects": {
+    "damage": [
+      2,
+      4
+    ],
+    "damage_type": "physical",
+    "damage_weapon": 1.0,
+    "stun": 0.30000001192092896
+  },
+  "id": "184",
+  "image": 640,
+  "name": "Pisoteada",
+  "range": 1,
+  "skill": "",
+  "target": "health"
+}

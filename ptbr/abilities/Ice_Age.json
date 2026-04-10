@@ -1,0 +1,35 @@
+{
+  "animation": "core_2_Ice_age",
+  "cast_time": 1.0,
+  "cooldown": 20.0,
+  "cost": {
+    "health": 0,
+    "stamina": 20
+  },
+  "description": "Freezes over area around you dealing ::damage ::damage_type to everyone and adding 5 freeze stack to those affected.",
+  "duration": 0.0,
+  "effects": {
+    "aoe_range": 6,
+    "aoe_shape": 1,
+    "damage": [
+      30,
+      40
+    ],
+    "damage_type": "frost",
+    "magic_power_damage": 1.2000000476837158,
+    "stacker_count": 5
+  },
+  "effects_keys": {
+    "stacker": "core_2_freeze"
+  },
+  "id": "core_2_Ice_Age",
+  "image": 159,
+  "name": "Ice Age",
+  "range": 15,
+  "skill": "core_2_cryomancy",
+  "slots": {
+    "offensive": 2,
+    "utility": 2
+  },
+  "target": "aoe_self"
+}

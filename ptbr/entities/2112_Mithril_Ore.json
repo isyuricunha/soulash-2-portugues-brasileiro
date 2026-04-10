@@ -1,0 +1,47 @@
+{
+  "components": [
+    "glyph",
+    "item",
+    "minimap_pixel",
+    "name",
+    "position_2d",
+    "resource",
+    "stackable",
+    "value",
+    "weight"
+  ],
+  "description": "O minério de mithril é um dos mais raros dos minérios. Quase todas as raças do mundo querem adquiri-lo, mas tem sido um dos recursos mais preciosamente guardados descobertos pelos anões.",
+  "glyph": {
+    "frames": [
+      {
+        "color": [
+          255,
+          255,
+          255
+        ],
+        "delay": 0,
+        "index": 1583
+      }
+    ],
+    "random_frame_start": false
+  },
+  "id": "2112",
+  "item": {
+    "image": 458,
+    "type": 16
+  },
+  "minimap_pixel": [
+    100,
+    74,
+    68
+  ],
+  "name": "Minério de Mithril",
+  "resource": {
+    "affix": "",
+    "magic_ingredient": 0,
+    "quality": 4,
+    "type": 13
+  },
+  "value": 4000,
+  "weight": 0.10000000149011612
+}

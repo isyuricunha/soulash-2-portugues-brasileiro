@@ -1,0 +1,31 @@
+{
+  "animation": "61",
+  "cast_time": 1.0,
+  "cooldown": 10.0,
+  "cost": {
+    "health": 0,
+    "stamina": 5
+  },
+  "description": "Envolve a área próxima a você em chamas, causando ::damage ::damage_type de dano em ::aoe_range células ao seu redor.",
+  "duration": 0.0,
+  "effects": {
+    "aoe_range": 4,
+    "aoe_shape": 1,
+    "damage": [
+      6,
+      12
+    ],
+    "damage_type": "fire",
+    "magic_power_damage": 0.800000011920929
+  },
+  "id": "62",
+  "image": 51,
+  "name": "Nova de Chamas",
+  "range": 0,
+  "skill": "core_2_pyromancy",
+  "slots": {
+    "offensive": 1,
+    "utility": 2
+  },
+  "target": "aoe_self"
+}

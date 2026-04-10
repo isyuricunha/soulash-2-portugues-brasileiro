@@ -1,0 +1,66 @@
+{
+  "armor": {
+    "acid": 2,
+    "death": 0,
+    "electricity": 1,
+    "fire": 0,
+    "frost": 3,
+    "holy": 4,
+    "parry": 0,
+    "physical": 0,
+    "poison": 0
+  },
+  "components": [
+    "armor",
+    "craftable",
+    "glyph",
+    "item",
+    "minimap_pixel",
+    "name",
+    "position_2d",
+    "value",
+    "weight"
+  ],
+  "craftable": {
+    "magic_slots": 2,
+    "resource_types": [
+      {
+        "amount": 3,
+        "id": 9
+      }
+    ],
+    "resources": null,
+    "time": 75,
+    "tools": [
+      12
+    ]
+  },
+  "description": "Esta coisa imita um penteado luxuriante.",
+  "glyph": {
+    "frames": [
+      {
+        "color": [
+          255,
+          255,
+          255
+        ],
+        "delay": 0,
+        "index": 653
+      }
+    ],
+    "random_frame_start": false
+  },
+  "id": "582",
+  "item": {
+    "image": 182,
+    "type": 2
+  },
+  "minimap_pixel": [
+    200,
+    200,
+    200
+  ],
+  "name": "Peruca",
+  "value": 2000,
+  "weight": 0.30000001192092896
+}

@@ -1,0 +1,25 @@
+{
+  "id": "504",
+  "image": 372,
+  "name": "Fazenda de Algodão",
+  "occupation_image": 47,
+  "occupation": "core_2_Vampire_Farmer",
+  "occupation_per_race": {},
+  "produces": [
+    {
+      "entities": [
+        {
+          "daily": 1,
+          "id": "2002"
+        }
+      ],
+      "takes": []
+    }
+  ],
+  "race": "6",
+  "tier": 1,
+  "workers": [
+    1,
+    4
+  ]
+}

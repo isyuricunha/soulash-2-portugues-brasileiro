@@ -1,0 +1,16 @@
+{
+  "id": "core_2_ghoul_tongue_figurine",
+  "name": "Língua de Ghoul",
+  "requirements": {
+    "milestones": [],
+    "skill": 20
+  },
+  "rewards": [
+    {
+      "recipe": "core_2_Ghoul_Tongue_Figurine"
+    }
+  ],
+  "skill_id": "core_2_imbuing",
+  "steps": [],
+  "steps_type": 0
+}

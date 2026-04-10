@@ -1,0 +1,118 @@
+{
+  "armor": {
+    "acid": 5,
+    "death": 5,
+    "electricity": 10,
+    "fire": -5,
+    "frost": 10,
+    "holy": 5,
+    "parry": 0,
+    "physical": 25,
+    "poison": 20,
+    "thorns": 0
+  },
+  "category_id": 5,
+  "components": [
+    "armor",
+    "block_light",
+    "collidable",
+    "craftable",
+    "glyph",
+    "glyph_top",
+    "health",
+    "height",
+    "minimap_pixel",
+    "name",
+    "position_2d",
+    "random_resource"
+  ],
+  "corpse": "2008",
+  "craftable": {
+    "backgrounds": [
+      "3068"
+    ],
+    "biomes": [
+      16,
+      9,
+      12,
+      8
+    ],
+    "magic_slots": 0,
+    "resources": [
+      {
+        "amount": 1,
+        "id": "3055"
+      }
+    ],
+    "time": 20,
+    "tools": []
+  },
+  "description": "Uma árvore de bordo muito jovem e pequena.",
+  "glyph": {
+    "frames": [
+      {
+        "color": [
+          46,
+          29,
+          36
+        ],
+        "delay": 0,
+        "index": 217
+      }
+    ],
+    "random_frame_start": false,
+    "random_top": {
+      "colors": [
+        [
+          110,
+          39,
+          39
+        ],
+        [
+          179,
+          56,
+          49
+        ],
+        [
+          205,
+          104,
+          51
+        ]
+      ],
+      "count": 60,
+      "glyph_ids": [
+        218
+      ],
+      "max_alpha": 150,
+      "max_range": 20,
+      "wind": true
+    }
+  },
+  "health": 300,
+  "height": 30,
+  "id": "3081",
+  "minimap_pixel": [
+    137,
+    99,
+    99
+  ],
+  "name": "Muda de Ácer",
+  "random_resource": {
+    "delay_spawn": true,
+    "entity": [
+      "41"
+    ],
+    "max_amount": 1,
+    "max_distance": 0,
+    "min_amount": 1,
+    "min_distance": 0,
+    "multiply_same": false,
+    "respawn_rate": 288000.0,
+    "spawn_at": [
+      "3081"
+    ],
+    "spawn_chance": 100.0,
+    "spawn_multiply": 0.0,
+    "spawn_rolls": 1
+  }
+}

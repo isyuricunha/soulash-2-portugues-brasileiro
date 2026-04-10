@@ -1,0 +1,251 @@
+{
+  "id": "383",
+  "image": 105,
+  "name": "Guarda Florestal",
+  "occupation_image": 19,
+  "occupation": "core_2_Reptilion_Guarda Florestal",
+  "occupation_per_race": {
+    "0": "203",
+    "1": "2267",
+    "2": "2285",
+    "4": "core_2_Goblin_Farmer",
+    "6": "core_2_Vampire_Farmer",
+    "7": "core_2_Troll_Farmer",
+    "8": "core_2_Orc_Farmer",
+    "10": "2332",
+    "23": "core_2_Reptilion_Forester",
+    "26": "2370",
+    "31": "core_2_Gnoll_Farmer",
+    "32": "core_2_Mushman_Farmer",
+    "33": "core_2_Ursan_Farmer"
+  },
+  "produces": [
+    {
+      "entities": [
+        {
+          "daily": 5.0,
+          "id": "core_2_Acacia_Tree_Seed"
+        }
+      ],
+      "takes": [
+        {
+          "amount": 1,
+          "id": "core_2_Acacia_Log"
+        }
+      ]
+    },
+    {
+      "entities": [
+        {
+          "daily": 5.0,
+          "id": "3053"
+        }
+      ],
+      "takes": [
+        {
+          "amount": 1,
+          "id": "2092"
+        }
+      ]
+    },
+    {
+      "entities": [
+        {
+          "daily": 5.0,
+          "id": "3055"
+        }
+      ],
+      "takes": [
+        {
+          "amount": 1,
+          "id": "870"
+        }
+      ]
+    },
+    {
+      "entities": [
+        {
+          "daily": 5.0,
+          "id": "3056"
+        }
+      ],
+      "takes": [
+        {
+          "amount": 1,
+          "id": "2095"
+        }
+      ]
+    },
+    {
+      "entities": [
+        {
+          "daily": 5.0,
+          "id": "3057"
+        }
+      ],
+      "takes": [
+        {
+          "amount": 1,
+          "id": "2096"
+        }
+      ]
+    },
+    {
+      "entities": [
+        {
+          "daily": 5.0,
+          "id": "3058"
+        }
+      ],
+      "takes": [
+        {
+          "amount": 1,
+          "id": "2098"
+        }
+      ]
+    },
+    {
+      "entities": [
+        {
+          "daily": 5.0,
+          "id": "core_2_CandelabraeTree_Seed"
+        }
+      ],
+      "takes": [
+        {
+          "amount": 1,
+          "id": "core_2_Candelabra_Log"
+        }
+      ]
+    },
+    {
+      "entities": [
+        {
+          "daily": 5.0,
+          "id": "3059"
+        }
+      ],
+      "takes": [
+        {
+          "amount": 1,
+          "id": "873"
+        }
+      ]
+    },
+    {
+      "entities": [
+        {
+          "daily": 5.0,
+          "id": "3060"
+        }
+      ],
+      "takes": [
+        {
+          "amount": 1,
+          "id": "866"
+        }
+      ]
+    },
+    {
+      "entities": [
+        {
+          "daily": 5.0,
+          "id": "3062"
+        }
+      ],
+      "takes": [
+        {
+          "amount": 1,
+          "id": "2104"
+        }
+      ]
+    },
+    {
+      "entities": [
+        {
+          "daily": 5.0,
+          "id": "3063"
+        }
+      ],
+      "takes": [
+        {
+          "amount": 1,
+          "id": "2106"
+        }
+      ]
+    },
+    {
+      "entities": [
+        {
+          "daily": 5.0,
+          "id": "core_2_Fir_Tree_Seed"
+        }
+      ],
+      "takes": [
+        {
+          "amount": 1,
+          "id": "core_2_Fir_Log"
+        }
+      ]
+    },
+    {
+      "entities": [
+        {
+          "daily": 5.0,
+          "id": "3106"
+        }
+      ],
+      "takes": [
+        {
+          "amount": 1,
+          "id": "2109"
+        }
+      ]
+    }
+  ],
+  "race": "-1",
+  "tier": 1,
+  "workers": [
+    1,
+    2
+  ],
+  "max": 1,
+  "allow_player": true,
+  "required_entities": [
+    {
+      "entities": [
+        "core_2_Acacia_Tree",
+        "core_2_Acacia_Tree_Sapling",
+        "2029",
+        "3090",
+        "41",
+        "3081",
+        "2021",
+        "3083",
+        "36",
+        "3091",
+        "2099",
+        "3092",
+        "872",
+        "3082",
+        "868",
+        "3084",
+        "2102",
+        "3086",
+        "2107",
+        "3087",
+        "core_2_Fir_Tree",
+        "core_2_Fir_Tree_Sapling",
+        "2108",
+        "3107"
+      ],
+      "count": 10
+    },
+    {
+      "component": "resting_place",
+      "count": 2
+    }
+  ],
+  "min_area": 20,
+  "group": "producers"
+}

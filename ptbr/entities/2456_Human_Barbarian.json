@@ -1,0 +1,162 @@
+{
+  "ability_user": [
+    "37"
+  ],
+  "artificial_intelligence": {
+    "allies": [],
+    "allow_production": [],
+    "behaviors": [],
+    "enemies": [
+      "5"
+    ]
+  },
+  "components": [
+    "ability_user",
+    "actor",
+    "artificial_intelligence",
+    "collidable",
+    "consumer",
+    "dialogues",
+    "equipment",
+    "experience_gainer",
+    "fighter",
+    "glyph",
+    "health",
+    "humanoid",
+    "minimap_pixel",
+    "moveable",
+    "name",
+    "position_2d",
+    "sight",
+    "skills",
+    "stamina",
+    "statistics",
+    "tags"
+  ],
+  "corpse": "25",
+  "description": "",
+  "dialogues": [
+    "356",
+    "357"
+  ],
+  "equipment": {
+    "belt": [
+      {
+        "chance": 0.20000000298023224,
+        "id": "2174",
+        "name": "Fur Pouch",
+        "stack": 1
+      }
+    ],
+    "boots": [
+      {
+        "chance": 0.20000000298023224,
+        "id": "585",
+        "name": "Leather Boots",
+        "stack": 1
+      }
+    ],
+    "legs_cloth": [
+      {
+        "chance": 1.0,
+        "id": "2175",
+        "name": "Fur Loincloth",
+        "stack": 1
+      }
+    ],
+    "right_hand": [
+      {
+        "chance": 1.0,
+        "id": "2188",
+        "name": "Chopper",
+        "stack": 1
+      }
+    ]
+  },
+  "experience_gainer": {
+    "exp": 0,
+    "level": 20
+  },
+  "fighter": {
+    "attackNames": [
+      "Bite",
+      "Punch"
+    ]
+  },
+  "glyph": {
+    "frames": [
+      {
+        "color": [
+          255,
+          255,
+          255
+        ],
+        "delay": 0,
+        "index": 85
+      }
+    ],
+    "random_frame_start": false
+  },
+  "health": 180,
+  "humanoid": {
+    "race": "0"
+  },
+  "id": "2456",
+  "minimap_pixel": [
+    224,
+    172,
+    105
+  ],
+  "moveable": {
+    "speed": 1.0
+  },
+  "name": "Human Barbarian",
+  "sight": {
+    "ignore_infra_penalty": false,
+    "infravision": false,
+    "range": 10,
+    "threesixty": false
+  },
+  "skills": {
+    "milestones": [
+      "core_2_i_can_do_this_all_day",
+      "core_2_doesnt_hurt",
+      "core_2_i_would_like_to_rage"
+    ],
+    "skills": [
+      "core_2_athletics",
+      "core_2_axe_fighting"
+    ]
+  },
+  "stamina": {
+    "fatigue": 100,
+    "stamina": 100,
+    "stamina_regen": 0.0
+  },
+  "statistics": {
+    "dexterity": [
+      14,
+      17
+    ],
+    "endurance": [
+      25,
+      29
+    ],
+    "intelligence": [
+      10,
+      14
+    ],
+    "strength": [
+      28,
+      33
+    ],
+    "willpower": [
+      21,
+      25
+    ]
+  },
+  "tags": [
+    "1",
+    "9"
+  ]
+}

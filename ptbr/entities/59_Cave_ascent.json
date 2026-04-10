@@ -1,0 +1,44 @@
+{
+  "background": {
+    "color": [
+      40,
+      40,
+      40
+    ],
+    "noise": 4
+  },
+  "components": [
+    "background",
+    "glyph",
+    "map_connector",
+    "minimap_pixel",
+    "name",
+    "position_2d"
+  ],
+  "description": "O chão entra em uma subida íngreme aqui, proporcionando passagem para uma elevação mais alta.",
+  "glyph": {
+    "frames": [
+      {
+        "color": [
+          255,
+          255,
+          255
+        ],
+        "delay": 0,
+        "index": 826
+      }
+    ],
+    "random_frame_start": false
+  },
+  "id": "59",
+  "map_connector": {
+    "opposite_connector": "58",
+    "z_level": 1
+  },
+  "minimap_pixel": [
+    79,
+    78,
+    77
+  ],
+  "name": "Subida da Caverna"
+}

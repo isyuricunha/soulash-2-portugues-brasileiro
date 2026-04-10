@@ -1,0 +1,97 @@
+{
+  "armor": {
+    "acid": 0,
+    "death": 0,
+    "electricity": 0,
+    "fire": 0,
+    "frost": 0,
+    "holy": 0,
+    "parry": 0,
+    "physical": 0,
+    "poison": 0,
+    "thorns": 0
+  },
+  "components": [
+    "armor",
+    "craftable",
+    "glyph",
+    "item",
+    "minimap_pixel",
+    "name",
+    "position_2d",
+    "value",
+    "weapon",
+    "weight"
+  ],
+  "craftable": {
+    "backgrounds": [],
+    "biomes": [],
+    "magic_slots": 5,
+    "resource_types": [
+      {
+        "amount": 1,
+        "id": 3
+      },
+      {
+        "amount": 2,
+        "id": 5
+      },
+      {
+        "amount": 1,
+        "id": 1
+      },
+      {
+        "amount": 1,
+        "id": 10
+      }
+    ],
+    "time": 60,
+    "tools": [
+      1
+    ]
+  },
+  "description": "A set of golem's legs equipped with some nasty spikes.",
+  "glyph": {
+    "frames": [
+      {
+        "color": [
+          255,
+          255,
+          255
+        ],
+        "delay": 0,
+        "index": 2191
+      }
+    ],
+    "random_frame_start": false
+  },
+  "id": "core_2_Spiked_Legs",
+  "item": {
+    "image": 917,
+    "type": 28
+  },
+  "minimap_pixel": [
+    156,
+    160,
+    161
+  ],
+  "name": "Spiked Legs",
+  "value": 15000,
+  "weapon": {
+    "attack_speed": 0.0,
+    "critical_hit": 0.0,
+    "damage": [
+      {
+        "dmg_max": 10,
+        "dmg_min": 10,
+        "dmg_type": "physical"
+      }
+    ],
+    "hands": 1,
+    "hit_bonus": 0,
+    "parry_bonus": 0,
+    "range": 0,
+    "type": 9
+  },
+  "weight": 1.5
+}

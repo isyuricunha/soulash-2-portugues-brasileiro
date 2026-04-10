@@ -1,0 +1,24 @@
+{
+  "id": "115",
+  "image": 86,
+  "name": "Pedreira",
+  "occupation_image": 18,
+  "occupation": "2371",
+  "produces": [
+    {
+      "entities": [
+        {
+          "daily": 0.5,
+          "id": "620"
+        }
+      ],
+      "takes": []
+    }
+  ],
+  "race": "26",
+  "tier": 1,
+  "workers": [
+    1,
+    2
+  ]
+}

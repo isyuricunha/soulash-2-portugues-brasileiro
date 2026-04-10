@@ -1,0 +1,133 @@
+{
+  "artificial_intelligence": {
+    "allies": [
+      "6"
+    ],
+    "allow_production": [],
+    "behaviors": [],
+    "enemies": [
+      "39"
+    ]
+  },
+  "components": [
+    "actor",
+    "artificial_intelligence",
+    "collidable",
+    "dialogues",
+    "equipment",
+    "experience_gainer",
+    "fighter",
+    "glyph",
+    "health",
+    "humanoid",
+    "minimap_pixel",
+    "moveable",
+    "name",
+    "persona",
+    "position_2d",
+    "sight",
+    "skills",
+    "stamina",
+    "statistics",
+    "tags"
+  ],
+  "corpse": "559",
+  "description": "",
+  "dialogues": [
+    "114",
+    "115"
+  ],
+  "equipment": {
+    "right_hand": [
+      {
+        "chance": 1.0,
+        "id": "87",
+        "name": "Maça",
+        "stack": 1
+      }
+    ]
+  },
+  "experience_gainer": {
+    "exp": 22,
+    "level": 3
+  },
+  "fighter": {
+    "attackNames": null
+  },
+  "glyph": {
+    "frames": [
+      {
+        "color": [
+          255,
+          255,
+          255
+        ],
+        "delay": 0,
+        "index": 451
+      }
+    ],
+    "random_frame_start": false
+  },
+  "health": 180,
+  "humanoid": {
+    "race": "1"
+  },
+  "id": "304",
+  "minimap_pixel": [
+    169,
+    190,
+    194
+  ],
+  "moveable": {
+    "speed": 1.100000023841858
+  },
+  "name": "Guarda Anão",
+  "persona": {
+    "occupation": "Guarda"
+  },
+  "sight": {
+    "ignore_infra_penalty": false,
+    "infravision": false,
+    "range": 9,
+    "threesixty": false
+  },
+  "skills": {
+    "milestones": [
+      "core_2_like_a_watermelon"
+    ],
+    "skills": [
+      "core_2_mace_fighting"
+    ]
+  },
+  "stamina": {
+    "fatigue": 100,
+    "stamina": 100,
+    "stamina_regen": 0.0
+  },
+  "statistics": {
+    "dexterity": [
+      10,
+      14
+    ],
+    "endurance": [
+      22,
+      27
+    ],
+    "intelligence": [
+      9,
+      12
+    ],
+    "strength": [
+      25,
+      30
+    ],
+    "willpower": [
+      16,
+      20
+    ]
+  },
+  "tags": [
+    "6",
+    "9"
+  ]
+}

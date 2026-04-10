@@ -1,0 +1,57 @@
+{
+  "enables": [
+    "core_2_carpentry"
+  ],
+  "id": "379",
+  "image": 14,
+  "max": 1,
+  "name": "Arqueiro",
+  "occupation_image": 9,
+  "occupation": "2195",
+  "occupation_per_race": {
+    "0": "2195",
+    "1": "2278",
+    "2": "2272",
+    "4": "core_2_Goblin_Bowyer",
+    "6": "core_2_Vampire_Bowyer",
+    "7": "core_2_Troll_Bowyer",
+    "8": "core_2_Orc_Bowyer",
+    "10": "core_2_Rasimi_Bowyer",
+    "23": "core_2_Reptilion_Bowyer",
+    "26": "core_2_Bone_Wraith_Bowyer",
+    "31": "core_2_Gnoll_Bowyer",
+    "32": "core_2_Mushman_Bowyer",
+    "33": "core_2_Ursan_Bowyer"
+  },
+  "produces": [],
+  "race": "-1",
+  "tier": 2,
+  "workers": [
+    1,
+    2
+  ],
+  "allow_player": true,
+  "required_entities": [
+    {
+      "entities": [
+        "155",
+        "2470",
+        "2255",
+        "2411"
+      ],
+      "count": 1
+    },
+    {
+      "entities": [
+        "358"
+      ],
+      "count": 2
+    },
+    {
+      "component": "resting_place",
+      "count": 2
+    }
+  ],
+  "min_area": 20,
+  "group": "crafters"
+}

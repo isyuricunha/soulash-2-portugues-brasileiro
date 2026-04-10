@@ -1,0 +1,38 @@
+{
+  "animation": "core_2_Bleeding_Shot",
+  "cast_time": -1.0,
+  "cooldown": 6.0,
+  "cost": {
+    "ammo": 1,
+    "health": 0,
+    "stamina": 5
+  },
+  "description": "Dispara um projétil mágico que causa ::damage de dano ::damage_type e aplica o efeito ::bleed de sangramento. Pode deixar a munição após o disparo.",
+  "duration": 0.0,
+  "effects": {
+    "bleed": 3,
+    "construct_item_cost": 0.8999999761581421,
+    "damage": [
+      7,
+      13
+    ],
+    "damage_type": "physical",
+    "damage_weapon": 1.2000000476837158
+  },
+  "id": "core_2_Bleeding_Shot",
+  "image": 723,
+  "name": "Disparo Sangrento",
+  "range": 7,
+  "requirements": {
+    "one_of": [
+      11,
+      12
+    ]
+  },
+  "skill": "core_2_hunting",
+  "slots": {
+    "offensive": 2,
+    "utility": 1
+  },
+  "target": "line"
+}

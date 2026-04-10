@@ -1,0 +1,100 @@
+{
+  "components": [
+    "craftable",
+    "glyph",
+    "item",
+    "minimap_pixel",
+    "name",
+    "position_2d",
+    "statistics",
+    "value",
+    "weapon",
+    "weight"
+  ],
+  "craftable": {
+    "backgrounds": [],
+    "biomes": [],
+    "magic_slots": 2,
+    "resource_types": [
+      {
+        "amount": 1,
+        "id": 3
+      },
+      {
+        "amount": 1,
+        "id": 5
+      }
+    ],
+    "time": 60,
+    "tools": [
+      14
+    ]
+  },
+  "description": "Toque-o e você será infectado pelo cajado.",
+  "glyph": {
+    "frames": [
+      {
+        "color": [
+          255,
+          255,
+          255
+        ],
+        "delay": 0,
+        "index": 433
+      }
+    ],
+    "random_frame_start": false
+  },
+  "id": "339",
+  "item": {
+    "image": 136,
+    "type": 13
+  },
+  "minimap_pixel": [
+    208,
+    204,
+    187
+  ],
+  "name": "Cajado de Bruxa",
+  "statistics": {
+    "dexterity": [
+      0,
+      0
+    ],
+    "endurance": [
+      0,
+      0
+    ],
+    "intelligence": [
+      0,
+      0
+    ],
+    "magic_power": 1,
+    "strength": [
+      0,
+      0
+    ],
+    "willpower": [
+      0,
+      0
+    ]
+  },
+  "value": 3000,
+  "weapon": {
+    "attack_speed": 1.0,
+    "critical_hit": 0.0,
+    "damage": [
+      {
+        "dmg_max": 12,
+        "dmg_min": 7,
+        "dmg_type": "acid"
+      }
+    ],
+    "hands": 2,
+    "hit_bonus": 3,
+    "parry_bonus": 2,
+    "range": 1,
+    "type": 4
+  },
+  "weight": 2.0
+}

@@ -1,0 +1,64 @@
+{
+  "components": [
+    "glyph",
+    "item",
+    "minimap_pixel",
+    "name",
+    "position_2d",
+    "resource",
+    "stackable",
+    "value",
+    "weapon",
+    "weight"
+  ],
+  "description": "The earth core is a solid, weighty gem resonating with the grounding energy of the land.",
+  "glyph": {
+    "frames": [
+      {
+        "color": [
+          255,
+          255,
+          255
+        ],
+        "delay": 0,
+        "index": 1743
+      }
+    ],
+    "random_frame_start": false
+  },
+  "id": "2534",
+  "item": {
+    "image": 679,
+    "type": 16
+  },
+  "minimap_pixel": [
+    100,
+    109,
+    155
+  ],
+  "name": "Earth Core",
+  "resource": {
+    "affix": "of the Earthquake",
+    "magic_ingredient": 3,
+    "quality": 3,
+    "type": 7
+  },
+  "value": 10000,
+  "weapon": {
+    "attack_speed": 0.0,
+    "critical_hit": 0.0,
+    "damage": [
+      {
+        "dmg_max": 3,
+        "dmg_min": 3,
+        "dmg_type": "poison"
+      }
+    ],
+    "hands": 1,
+    "hit_bonus": 0,
+    "parry_bonus": 0,
+    "range": 0,
+    "type": 9
+  },
+  "weight": 0.10000000149011612
+}

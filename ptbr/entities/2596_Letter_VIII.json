@@ -1,0 +1,38 @@
+{
+  "components": [
+    "glyph",
+    "item",
+    "minimap_pixel",
+    "name",
+    "position_2d",
+    "stackable",
+    "weight"
+  ],
+  "description": "An old letter that reads: \n\"Don't let anybody stop you from bettering your position. By taking this palace as your headquarters, you will show them all what you're made of. No other king will match you.\"",
+  "glyph": {
+    "frames": [
+      {
+        "color": [
+          255,
+          255,
+          255
+        ],
+        "delay": 0,
+        "index": 699
+      }
+    ],
+    "random_frame_start": false
+  },
+  "id": "2596",
+  "item": {
+    "image": 323,
+    "type": 25
+  },
+  "minimap_pixel": [
+    177,
+    153,
+    137
+  ],
+  "name": "Letter VIII",
+  "weight": 0.10000000149011612
+}

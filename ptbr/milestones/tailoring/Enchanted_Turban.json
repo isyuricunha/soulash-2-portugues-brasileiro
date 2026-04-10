@@ -1,0 +1,16 @@
+{
+  "id": "core_2_enchanted_turban",
+  "name": "Turbante Encantado",
+  "requirements": {
+    "milestones": [],
+    "skill": 42
+  },
+  "rewards": [
+    {
+      "recipe": "2216"
+    }
+  ],
+  "skill_id": "core_2_tailoring",
+  "steps": [],
+  "steps_type": 0
+}

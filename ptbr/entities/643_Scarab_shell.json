@@ -1,0 +1,70 @@
+{
+  "components": [
+    "glyph",
+    "item",
+    "minimap_pixel",
+    "name",
+    "position_2d",
+    "resource",
+    "stackable",
+    "statistics",
+    "value",
+    "weight"
+  ],
+  "description": "Um emblema reluzente de mistérios antigos, capturando a essência sagrada de renascimento e ciclos eternos.",
+  "glyph": {
+    "frames": [
+      {
+        "color": [
+          255,
+          255,
+          255
+        ],
+        "delay": 0,
+        "index": 1469
+      }
+    ],
+    "random_frame_start": false
+  },
+  "id": "643",
+  "item": {
+    "image": 491,
+    "type": 16
+  },
+  "minimap_pixel": [
+    210,
+    227,
+    120
+  ],
+  "name": "Casca de Escaravelho",
+  "resource": {
+    "affix": "Eternal",
+    "magic_ingredient": 0,
+    "quality": 1,
+    "type": 10
+  },
+  "statistics": {
+    "dexterity": [
+      0,
+      0
+    ],
+    "endurance": [
+      0,
+      0
+    ],
+    "intelligence": [
+      1,
+      1
+    ],
+    "strength": [
+      0,
+      0
+    ],
+    "willpower": [
+      0,
+      0
+    ]
+  },
+  "value": 300,
+  "weight": 0.10000000149011612
+}

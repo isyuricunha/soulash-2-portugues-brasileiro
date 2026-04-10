@@ -1,0 +1,24 @@
+{
+  "id": "122",
+  "image": 88,
+  "name": "Strand Seekers",
+  "occupation_image": 44,
+  "occupation": "2377",
+  "produces": [
+    {
+      "entities": [
+        {
+          "daily": 1.0,
+          "id": "2349"
+        }
+      ],
+      "takes": []
+    }
+  ],
+  "race": "26",
+  "tier": 1,
+  "workers": [
+    1,
+    4
+  ]
+}

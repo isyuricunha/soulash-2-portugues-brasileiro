@@ -1,0 +1,16 @@
+{
+  "id": "core_2_enchanted_gloves",
+  "name": "Luvas Encantadas",
+  "requirements": {
+    "milestones": [],
+    "skill": 48
+  },
+  "rewards": [
+    {
+      "recipe": "2355"
+    }
+  ],
+  "skill_id": "core_2_tailoring",
+  "steps": [],
+  "steps_type": 0
+}

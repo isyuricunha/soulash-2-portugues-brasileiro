@@ -1,0 +1,18 @@
+{
+  "enables": [
+    "core_2_tailoring"
+  ],
+  "id": "123",
+  "image": 89,
+  "max": 1,
+  "name": "Fiber Weaver",
+  "occupation_image": 10,
+  "occupation": "2378",
+  "produces": [],
+  "race": "26",
+  "tier": 1,
+  "workers": [
+    1,
+    2
+  ]
+}

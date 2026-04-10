@@ -1,0 +1,32 @@
+{
+  "animation": "3",
+  "cast_time": 1.2000000476837158,
+  "cooldown": 5.0,
+  "cost": {
+    "health": 0,
+    "stamina": 10
+  },
+  "description": "Throws a ball of fire that explodes on impact dealing ::damage ::damage_type damage on a large area.",
+  "duration": 0.0,
+  "effects": {
+    "aoe_break": 1,
+    "aoe_range": 6,
+    "aoe_shape": 1,
+    "damage": [
+      4,
+      8
+    ],
+    "damage_type": "fire",
+    "magic_power_damage": 0.25
+  },
+  "id": "15",
+  "image": 42,
+  "name": "Fireball",
+  "range": 7,
+  "skill": "core_2_pyromancy",
+  "slots": {
+    "offensive": 1,
+    "utility": 1
+  },
+  "target": "aoe_target"
+}

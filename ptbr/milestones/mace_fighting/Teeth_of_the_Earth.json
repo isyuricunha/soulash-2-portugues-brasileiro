@@ -1,0 +1,15 @@
+{
+  "id": "core_2_teeth_of_the_earth",
+  "name": "Teeth of the Earth",
+  "requirements": {
+    "skill": 30
+  },
+  "rewards": [
+    {
+      "ability": "92"
+    }
+  ],
+  "skill_id": "core_2_mace_fighting",
+  "steps": [],
+  "steps_type": 0
+}

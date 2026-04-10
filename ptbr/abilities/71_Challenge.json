@@ -1,0 +1,25 @@
+{
+  "animation": "76",
+  "cast_time": 0.20000000298023224,
+  "cooldown": 20.0,
+  "cost": {
+    "health": 0,
+    "stamina": 1
+  },
+  "description": "Provocar um alvo, forçando-o a atacá-lo pelos próximos ::duration turnos e reduzindo sua chance de acerto em ::hit_chance%.",
+  "duration": 3.0,
+  "effects": {
+    "challenge": 1,
+    "hit_chance": -2
+  },
+  "id": "71",
+  "image": 8,
+  "name": "Desafio",
+  "range": 3,
+  "skill": "core_2_protection",
+  "slots": {
+    "offensive": 1,
+    "utility": 2
+  },
+  "target": "actor"
+}

@@ -1,0 +1,15 @@
+{
+  "id": "core_2_unleash_power",
+  "name": "Unleash Power",
+  "requirements": {
+    "skill": 40
+  },
+  "rewards": [
+    {
+      "ability": "68"
+    }
+  ],
+  "skill_id": "core_2_mace_fighting",
+  "steps": [],
+  "steps_type": 0
+}

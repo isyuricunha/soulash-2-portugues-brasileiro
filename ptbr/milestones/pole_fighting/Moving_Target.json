@@ -1,0 +1,15 @@
+{
+  "id": "core_2_moving_target",
+  "name": "Moving Target",
+  "requirements": {
+    "skill": 40
+  },
+  "rewards": [
+    {
+      "passive": "core_2_dodge_advanced"
+    }
+  ],
+  "skill_id": "core_2_pole_fighting",
+  "steps": [],
+  "steps_type": 0
+}

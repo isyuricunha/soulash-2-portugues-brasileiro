@@ -1,0 +1,25 @@
+{
+  "animation": "142",
+  "cast_time": 1.0,
+  "cooldown": 4.0,
+  "cost": {
+    "health": 1,
+    "stamina": 7
+  },
+  "description": "Lightnings zap from your fingers, dealing ::damage ::damage_type damage to everyone in a cone.",
+  "duration": 0.0,
+  "effects": {
+    "aoe_break": 2,
+    "damage": [
+      7,
+      14
+    ],
+    "damage_type": "electricity",
+    "damage_weapon": 1.7999999523162842
+  },
+  "id": "105",
+  "image": 492,
+  "name": "Unlimited Lightning",
+  "range": 7,
+  "target": "cone"
+}

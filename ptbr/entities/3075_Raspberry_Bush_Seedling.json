@@ -1,0 +1,73 @@
+{
+  "category_id": 5,
+  "components": [
+    "craftable",
+    "glyph",
+    "health",
+    "minimap_pixel",
+    "name",
+    "position_2d",
+    "random_resource"
+  ],
+  "corpse": [],
+  "craftable": {
+    "backgrounds": [
+      "3068"
+    ],
+    "biomes": [
+      12,
+      9,
+      8
+    ],
+    "magic_slots": 0,
+    "resources": [
+      {
+        "amount": 1,
+        "id": "3046"
+      }
+    ],
+    "time": 20,
+    "tools": []
+  },
+  "description": "Um arbusto muito pequeno sem framboesas.",
+  "glyph": {
+    "frames": [
+      {
+        "color": [
+          255,
+          255,
+          255
+        ],
+        "delay": 0,
+        "index": 2091
+      }
+    ],
+    "random_frame_start": false
+  },
+  "health": 50,
+  "id": "3075",
+  "minimap_pixel": [
+    203,
+    105,
+    174
+  ],
+  "name": "Muda de Arbusto de Framboesa",
+  "random_resource": {
+    "delay_spawn": true,
+    "entity": [
+      "819"
+    ],
+    "max_amount": 1,
+    "max_distance": 0,
+    "min_amount": 1,
+    "min_distance": 0,
+    "multiply_same": false,
+    "respawn_rate": 36000.0,
+    "spawn_at": [
+      "3075"
+    ],
+    "spawn_chance": 100.0,
+    "spawn_multiply": 0.0,
+    "spawn_rolls": 1
+  }
+}

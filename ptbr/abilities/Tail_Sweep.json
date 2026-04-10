@@ -1,0 +1,37 @@
+{
+  "animation": "core_2_Tali_Sweep",
+  "cast_time": -1.0,
+  "cooldown": 12.0,
+  "cost": {
+    "health": 0,
+    "stamina": 8
+  },
+  "description": "Uma cauda faz um grande golpe causando ::damage de dano ::damage_type em todos com uma força capaz de empurrá-los 2 células para trás.",
+  "duration": 0.0,
+  "effects": {
+    "aoe_range": 3,
+    "aoe_shape": 2,
+    "damage": [
+      10,
+      15
+    ],
+    "damage_type": "true",
+    "knockback": 2
+  },
+  "id": "core_2_Tail_Sweep",
+  "image": 812,
+  "name": "Golpe de Cauda",
+  "range": 2,
+  "requirements": {
+    "one_of": [
+      3,
+      5
+    ]
+  },
+  "skill": "",
+  "slots": {
+    "offensive": 2,
+    "utility": 1
+  },
+  "target": "aoe_target"
+}

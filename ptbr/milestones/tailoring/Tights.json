@@ -1,0 +1,16 @@
+{
+  "id": "core_2_tights",
+  "name": "Collant",
+  "requirements": {
+    "milestones": [],
+    "skill": 31
+  },
+  "rewards": [
+    {
+      "recipe": "323"
+    }
+  ],
+  "skill_id": "core_2_tailoring",
+  "steps": [],
+  "steps_type": 0
+}

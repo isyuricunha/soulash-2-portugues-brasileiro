@@ -1,0 +1,52 @@
+{
+  "background": {
+    "color": [
+      44,
+      45,
+      41
+    ],
+    "noise": 1
+  },
+  "category_id": 1,
+  "components": [
+    "background",
+    "craftable",
+    "glyph",
+    "minimap_pixel",
+    "name"
+  ],
+  "craftable": {
+    "magic_slots": 0,
+    "resource_types": [
+      {
+        "amount": 1,
+        "id": 4
+      }
+    ],
+    "resources": null,
+    "time": 10,
+    "tools": []
+  },
+  "description": "O chão de uma tenda feita do material. É macio sob seus pés.",
+  "glyph": {
+    "frames": [
+      {
+        "color": [
+          255,
+          255,
+          255
+        ],
+        "delay": 0,
+        "index": 989
+      }
+    ],
+    "random_frame_start": true
+  },
+  "id": "2394",
+  "minimap_pixel": [
+    120,
+    120,
+    120
+  ],
+  "name": "Chão de Tenda Azul Claro"
+}

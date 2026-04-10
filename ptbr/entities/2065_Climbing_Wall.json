@@ -1,0 +1,59 @@
+{
+  "components": [
+    "glyph",
+    "map_connector",
+    "minimap_pixel",
+    "name",
+    "position_2d"
+  ],
+  "description": "Você deve ser capaz de escalar isso.",
+  "glyph": {
+    "frames": [
+      {
+        "color": [
+          255,
+          255,
+          255
+        ],
+        "delay": 250,
+        "index": 771
+      },
+      {
+        "color": [
+          255,
+          255,
+          255
+        ],
+        "delay": 250,
+        "index": 772
+      },
+      {
+        "color": [
+          255,
+          255,
+          255
+        ],
+        "delay": 250,
+        "index": 773
+      },
+      {
+        "color": [
+          255,
+          255,
+          255
+        ],
+        "delay": 250,
+        "index": 772
+      }
+    ],
+    "random_frame_start": false
+  },
+  "id": "2065",
+  "map_connector": 1,
+  "minimap_pixel": [
+    122,
+    82,
+    41
+  ],
+  "name": "Parede de Escalada"
+}

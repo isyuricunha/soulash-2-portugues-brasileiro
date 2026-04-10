@@ -1,0 +1,72 @@
+{
+  "armor": {
+    "acid": 0,
+    "death": 0,
+    "electricity": 0,
+    "fire": 5,
+    "frost": 0,
+    "holy": 0,
+    "parry": 0,
+    "physical": 2,
+    "poison": 5,
+    "thorns": 0
+  },
+  "components": [
+    "armor",
+    "craftable",
+    "glyph",
+    "item",
+    "minimap_pixel",
+    "name",
+    "position_2d",
+    "value",
+    "weight"
+  ],
+  "craftable": {
+    "backgrounds": [],
+    "biomes": [],
+    "magic_slots": 3,
+    "resource_types": [
+      {
+        "amount": 2,
+        "id": 2
+      },
+      {
+        "amount": 1,
+        "id": 5
+      }
+    ],
+    "time": 120,
+    "tools": [
+      14
+    ]
+  },
+  "description": "Botas robustas com fragmentos de osso em suas solas para aderência extra.",
+  "glyph": {
+    "frames": [
+      {
+        "color": [
+          255,
+          255,
+          255
+        ],
+        "delay": 0,
+        "index": 2429
+      }
+    ],
+    "random_frame_start": false
+  },
+  "id": "core_2_Hobnailed_Boots",
+  "item": {
+    "image": 1065,
+    "type": 9
+  },
+  "minimap_pixel": [
+    122,
+    93,
+    57
+  ],
+  "name": "Botas com Tachas",
+  "value": 5000,
+  "weight": 2.5
+}

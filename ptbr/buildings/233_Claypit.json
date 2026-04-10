@@ -1,0 +1,24 @@
+{
+  "id": "233",
+  "image": 206,
+  "name": "Claypit",
+  "occupation_image": 50,
+  "occupation": "core_2_Reptilion_Peat_Gatherer",
+  "produces": [
+    {
+      "entities": [
+        {
+          "daily": 1,
+          "id": "2004"
+        }
+      ],
+      "takes": []
+    }
+  ],
+  "race": "23",
+  "tier": 1,
+  "workers": [
+    1,
+    2
+  ]
+}

@@ -1,0 +1,142 @@
+{
+  "artificial_intelligence": {
+    "allies": [
+      "0"
+    ],
+    "allow_production": [],
+    "behaviors": [],
+    "enemies": [
+      "5"
+    ]
+  },
+  "components": [
+    "actor",
+    "artificial_intelligence",
+    "collidable",
+    "dialogues",
+    "equipment",
+    "fighter",
+    "glyph",
+    "health",
+    "humanoid",
+    "minimap_pixel",
+    "moveable",
+    "name",
+    "position_2d",
+    "sight",
+    "stamina",
+    "statistics",
+    "tags"
+  ],
+  "corpse": "560",
+  "description": "Este goblin parece estar irritado por algum motivo.",
+  "dialogues": [
+    "162",
+    "163"
+  ],
+  "equipment": {
+    "backpack": [
+      {
+        "chance": 1.0,
+        "id": "96",
+        "name": "Lança",
+        "stack": 1
+      }
+    ],
+    "left_hand": [
+      {
+        "chance": 0.5,
+        "id": "168",
+        "name": "Escudo de Madeira",
+        "stack": 1
+      }
+    ],
+    "right_hand": [
+      {
+        "chance": 1.0,
+        "id": "100",
+        "name": "Dardo",
+        "stack": 1
+      }
+    ],
+    "torso_cloth": [
+      {
+        "chance": 1.0,
+        "id": "23",
+        "name": "Farrapos",
+        "stack": 1
+      }
+    ]
+  },
+  "fighter": {
+    "attackNames": [
+      "Punch",
+      "Bite"
+    ]
+  },
+  "glyph": {
+    "frames": [
+      {
+        "color": [
+          255,
+          255,
+          255
+        ],
+        "delay": 0,
+        "index": 877
+      }
+    ],
+    "random_frame_start": false
+  },
+  "health": 140,
+  "humanoid": {
+    "race": ""
+  },
+  "id": "719",
+  "minimap_pixel": [
+    89,
+    115,
+    97
+  ],
+  "moveable": {
+    "speed": 1.100000023841858
+  },
+  "name": "Goblin Escaramuçador",
+  "sight": {
+    "ignore_infra_penalty": false,
+    "infravision": true,
+    "range": 7,
+    "threesixty": false
+  },
+  "stamina": {
+    "fatigue": 100,
+    "stamina": 100,
+    "stamina_regen": 0.0
+  },
+  "statistics": {
+    "dexterity": [
+      22,
+      26
+    ],
+    "endurance": [
+      17,
+      22
+    ],
+    "intelligence": [
+      11,
+      15
+    ],
+    "strength": [
+      12,
+      15
+    ],
+    "willpower": [
+      17,
+      21
+    ]
+  },
+  "tags": [
+    "0",
+    "9"
+  ]
+}

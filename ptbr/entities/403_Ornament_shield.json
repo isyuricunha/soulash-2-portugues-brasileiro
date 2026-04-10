@@ -1,0 +1,70 @@
+{
+  "armor": {
+    "acid": 0,
+    "death": 3,
+    "electricity": 0,
+    "fire": 0,
+    "frost": 0,
+    "holy": 2,
+    "parry": 3,
+    "physical": 3,
+    "poison": 0
+  },
+  "components": [
+    "armor",
+    "craftable",
+    "glyph",
+    "item",
+    "minimap_pixel",
+    "name",
+    "position_2d",
+    "value",
+    "weight"
+  ],
+  "craftable": {
+    "magic_slots": 3,
+    "resource_types": [
+      {
+        "amount": 2,
+        "id": 1
+      },
+      {
+        "amount": 1,
+        "id": 8
+      }
+    ],
+    "resources": null,
+    "time": 100,
+    "tools": [
+      1
+    ]
+  },
+  "description": "Shield covered in protection runes.",
+  "glyph": {
+    "frames": [
+      {
+        "color": [
+          255,
+          255,
+          255
+        ],
+        "delay": 0,
+        "index": 343
+      }
+    ],
+    "random_frame_start": false
+  },
+  "id": "403",
+  "item": {
+    "image": 174,
+    "type": 14
+  },
+  "minimap_pixel": [
+    57,
+    194,
+    165
+  ],
+  "name": "Ornament Shield",
+  "value": 3000,
+  "weight": 3.5
+}

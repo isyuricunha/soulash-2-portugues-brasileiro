@@ -1,0 +1,16 @@
+{
+  "id": "core_2_rune_fire",
+  "name": "Runa de Fogo",
+  "requirements": {
+    "milestones": [],
+    "skill": 8
+  },
+  "rewards": [
+    {
+      "recipe": "core_2_Rune_of_Fire"
+    }
+  ],
+  "skill_id": "core_2_imbuing",
+  "steps": [],
+  "steps_type": 0
+}

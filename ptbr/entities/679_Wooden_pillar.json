@@ -1,0 +1,78 @@
+{
+  "armor": {
+    "acid": -2,
+    "death": 0,
+    "electricity": 1,
+    "fire": -5,
+    "frost": 2,
+    "holy": 0,
+    "parry": 0,
+    "physical": 1,
+    "poison": 0,
+    "thorns": 0
+  },
+  "category_id": 7,
+  "components": [
+    "armor",
+    "block_light",
+    "collidable",
+    "craftable",
+    "glyph",
+    "health",
+    "minimap_pixel",
+    "name",
+    "position_2d",
+    "producer"
+  ],
+  "corpse": "62",
+  "craftable": {
+    "magic_slots": 0,
+    "resource_types": [
+      {
+        "amount": 1,
+        "id": 11
+      }
+    ],
+    "resources": null,
+    "time": 10,
+    "tools": []
+  },
+  "description": "Grande pilar de madeira com entalhes artísticos e suaves. Um carpinteiro decente deve tê-lo criado.",
+  "glyph": {
+    "frames": [
+      {
+        "color": [
+          255,
+          255,
+          255
+        ],
+        "delay": 0,
+        "index": 190
+      }
+    ],
+    "random_frame_start": false
+  },
+  "health": 60,
+  "id": "679",
+  "minimap_pixel": [
+    109,
+    78,
+    34
+  ],
+  "name": "Pilar de Madeira",
+  "producer": {
+    "products": {
+      "core_2_deconstruct": [
+        {
+          "amount": [
+            0,
+            0
+          ],
+          "id": "-1",
+          "percent_chance": 0
+        }
+      ]
+    },
+    "time": 20
+  }
+}

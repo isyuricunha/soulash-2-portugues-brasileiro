@@ -1,0 +1,68 @@
+{
+  "armor": {
+    "acid": 0,
+    "death": 0,
+    "electricity": 0,
+    "fire": 0,
+    "frost": 0,
+    "holy": 0,
+    "parry": 0,
+    "physical": 2,
+    "poison": 0,
+    "thorns": 0
+  },
+  "components": [
+    "armor",
+    "craftable",
+    "glyph",
+    "item",
+    "minimap_pixel",
+    "name",
+    "position_2d",
+    "value",
+    "weight"
+  ],
+  "craftable": {
+    "backgrounds": [],
+    "biomes": [],
+    "magic_slots": 1,
+    "resource_types": [
+      {
+        "amount": 1,
+        "id": 6
+      }
+    ],
+    "time": 60,
+    "tools": [
+      14
+    ]
+  },
+  "description": "Not very practical, but will protect your feet.",
+  "glyph": {
+    "frames": [
+      {
+        "color": [
+          255,
+          255,
+          255
+        ],
+        "delay": 0,
+        "index": 3037
+      }
+    ],
+    "random_frame_start": false
+  },
+  "id": "core_2_Stone_Clogs",
+  "item": {
+    "image": 1404,
+    "type": 9
+  },
+  "minimap_pixel": [
+    142,
+    113,
+    77
+  ],
+  "name": "Stone Clogs",
+  "value": 200,
+  "weight": 3.0
+}

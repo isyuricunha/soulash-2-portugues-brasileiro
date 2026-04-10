@@ -1,0 +1,40 @@
+{
+  "components": [
+    "glyph",
+    "item",
+    "minimap_pixel",
+    "name",
+    "position_2d",
+    "stackable",
+    "value",
+    "weight"
+  ],
+  "description": "Com cuidado suficiente, esta semente crescerá em uma árvore de cogumelos.",
+  "glyph": {
+    "frames": [
+      {
+        "color": [
+          255,
+          255,
+          255
+        ],
+        "delay": 0,
+        "index": 2479
+      }
+    ],
+    "random_frame_start": false
+  },
+  "id": "core_2_Mushroom_Tree_Seed",
+  "item": {
+    "image": 1094,
+    "type": 24
+  },
+  "minimap_pixel": [
+    237,
+    145,
+    33
+  ],
+  "name": "Semente de Árvore de Cogumelos",
+  "value": 100,
+  "weight": 0.10000000149011612
+}

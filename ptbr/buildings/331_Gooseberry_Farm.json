@@ -1,0 +1,24 @@
+{
+  "id": "331",
+  "image": 148,
+  "name": "Gooseberry Farm",
+  "occupation_image": 92,
+  "occupation": "core_2_Goblin_Farmer",
+  "produces": [
+    {
+      "entities": [
+        {
+          "daily": 10,
+          "id": "core_2_Gooseberry"
+        }
+      ],
+      "takes": []
+    }
+  ],
+  "race": "4",
+  "tier": 1,
+  "workers": [
+    1,
+    4
+  ]
+}

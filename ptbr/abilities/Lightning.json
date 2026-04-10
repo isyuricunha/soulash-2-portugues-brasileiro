@@ -1,0 +1,28 @@
+{
+  "animation": "7",
+  "cast_time": 1.0,
+  "cooldown": 7.0,
+  "cost": {
+    "health": 0,
+    "stamina": 10
+  },
+  "description": "Shoots a lightning bolt from your finger at a straight line hitting first thing it comes in contact with for ::damage ::damage_type damage.",
+  "duration": 0.0,
+  "effects": {
+    "damage": [
+      2,
+      8
+    ],
+    "damage_type": "electricity",
+    "magic_power_damage": 1.0
+  },
+  "id": "18",
+  "image": 44,
+  "name": "Lightning",
+  "range": 8,
+  "skill": "",
+  "slots": {
+    "offensive": 1
+  },
+  "target": "line"
+}

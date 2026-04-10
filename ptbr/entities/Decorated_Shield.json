@@ -1,0 +1,68 @@
+{
+  "armor": {
+    "acid": 0,
+    "death": 0,
+    "electricity": 2,
+    "fire": 2,
+    "frost": 0,
+    "holy": 0,
+    "parry": 3,
+    "physical": 2,
+    "poison": 0,
+    "thorns": 0
+  },
+  "components": [
+    "armor",
+    "craftable",
+    "glyph",
+    "item",
+    "minimap_pixel",
+    "name",
+    "position_2d",
+    "value",
+    "weight"
+  ],
+  "craftable": {
+    "backgrounds": [],
+    "biomes": [],
+    "magic_slots": 3,
+    "resource_types": [
+      {
+        "amount": 3,
+        "id": 1
+      }
+    ],
+    "time": 90,
+    "tools": [
+      1
+    ]
+  },
+  "description": "Um escudo de metal com belas esculturas.",
+  "glyph": {
+    "frames": [
+      {
+        "color": [
+          255,
+          255,
+          255
+        ],
+        "delay": 0,
+        "index": 2744
+      }
+    ],
+    "random_frame_start": false
+  },
+  "id": "core_2_Decorated_Shield",
+  "item": {
+    "image": 1257,
+    "type": 14
+  },
+  "minimap_pixel": [
+    156,
+    160,
+    161
+  ],
+  "name": "Escudo Decorado",
+  "value": 1700,
+  "weight": 2.5
+}

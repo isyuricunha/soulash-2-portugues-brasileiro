@@ -1,0 +1,38 @@
+{
+  "animation": "core_2_Poison_Shot",
+  "cast_time": -1.0,
+  "cooldown": 5.0,
+  "cost": {
+    "ammo": 1,
+    "health": 0,
+    "stamina": 3
+  },
+  "description": "Dispara um projétil mágico que causa ::damage de dano ::damage_type e aplica o efeito de veneno por ::poison_effect turnos. Pode deixar a munição após o disparo.",
+  "duration": 0.0,
+  "effects": {
+    "construct_item_cost": 0.8999999761581421,
+    "damage": [
+      2,
+      4
+    ],
+    "damage_type": "poison",
+    "damage_weapon": 1.0,
+    "poison_effect": 2
+  },
+  "id": "core_2_Poison_Shot",
+  "image": 720,
+  "name": "Disparo de Veneno",
+  "range": 7,
+  "requirements": {
+    "one_of": [
+      11,
+      12
+    ]
+  },
+  "skill": "core_2_hunting",
+  "slots": {
+    "offensive": 2,
+    "utility": 1
+  },
+  "target": "line"
+}

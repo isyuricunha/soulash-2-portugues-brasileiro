@@ -1,0 +1,67 @@
+{
+  "background": {
+    "color": [
+      44,
+      45,
+      41
+    ],
+    "noise": 4
+  },
+  "components": [
+    "background",
+    "block_light",
+    "collidable",
+    "glyph",
+    "health",
+    "height",
+    "minimap_pixel",
+    "name",
+    "openable",
+    "position_2d"
+  ],
+  "corpse": "-1",
+  "description": "Porta de madeira queimada, atualmente fechada.",
+  "glyph": {
+    "frames": [
+      {
+        "color": [
+          255,
+          255,
+          255
+        ],
+        "delay": 0,
+        "index": 752
+      }
+    ],
+    "random_frame_start": false
+  },
+  "health": 25,
+  "height": 10,
+  "id": "548",
+  "minimap_pixel": [
+    14,
+    11,
+    14
+  ],
+  "name": "Porta Queimada",
+  "openable": {
+    "block_light": false,
+    "collidable": false,
+    "description": "Porta de madeira queimada, atualmente aberta.",
+    "glyph": {
+      "frames": [
+        {
+          "color": [
+            255,
+            255,
+            255
+          ],
+          "delay": 0,
+          "index": 753
+        }
+      ],
+      "random_frame_start": false
+    },
+    "height": 0
+  }
+}

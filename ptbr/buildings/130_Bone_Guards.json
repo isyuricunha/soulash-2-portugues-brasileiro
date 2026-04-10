@@ -1,0 +1,16 @@
+{
+  "id": "130",
+  "image": 91,
+  "max": 2,
+  "name": "Bone Guards",
+  "occupation_image": 20,
+  "occupation": "2386",
+  "produces": [],
+  "race": "26",
+  "tier": 1,
+  "type": "military",
+  "workers": [
+    1,
+    10
+  ]
+}

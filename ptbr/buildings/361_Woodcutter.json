@@ -1,0 +1,33 @@
+{
+  "id": "361",
+  "image": 270,
+  "name": "Woodcutter",
+  "occupation_image": 40,
+  "occupation": "core_2_Orc_Lenhador",
+  "produces": [
+    {
+      "entities": [
+        {
+          "daily": 1.0,
+          "id": "2098"
+        }
+      ],
+      "takes": []
+    },
+    {
+      "entities": [
+        {
+          "daily": 1.0,
+          "id": "2092"
+        }
+      ],
+      "takes": []
+    }
+  ],
+  "race": "8",
+  "tier": 1,
+  "workers": [
+    1,
+    3
+  ]
+}

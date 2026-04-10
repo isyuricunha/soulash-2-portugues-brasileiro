@@ -1,0 +1,51 @@
+{
+  "category_id": 7,
+  "components": [
+    "craftable",
+    "glyph",
+    "health",
+    "height",
+    "minimap_pixel",
+    "name",
+    "position_2d"
+  ],
+  "corpse": "62",
+  "craftable": {
+    "backgrounds": [],
+    "biomes": [],
+    "magic_slots": 0,
+    "resource_types": [
+      {
+        "amount": 2,
+        "id": 3
+      }
+    ],
+    "resources": null,
+    "time": 60,
+    "tools": []
+  },
+  "description": "Uma simples carroça de madeira.",
+  "glyph": {
+    "frames": [
+      {
+        "color": [
+          255,
+          255,
+          255
+        ],
+        "delay": 0,
+        "index": 2699
+      }
+    ],
+    "random_frame_start": true
+  },
+  "health": 20,
+  "height": 0,
+  "id": "core_2_Wheelbarrow",
+  "minimap_pixel": [
+    99,
+    68,
+    0
+  ],
+  "name": "Carroça"
+}

@@ -1,0 +1,51 @@
+{
+  "id": "119",
+  "image": 201,
+  "name": "Mina de Gema",
+  "occupation_image": 29,
+  "occupation": "2371",
+  "produces": [
+    {
+      "entities": [
+        {
+          "daily": 0.5,
+          "id": "848"
+        }
+      ],
+      "takes": []
+    },
+    {
+      "entities": [
+        {
+          "daily": 0.5,
+          "id": "2121"
+        }
+      ],
+      "takes": []
+    },
+    {
+      "entities": [
+        {
+          "daily": 0.5,
+          "id": "2120"
+        }
+      ],
+      "takes": []
+    },
+    {
+      "entities": [
+        {
+          "daily": 0.5,
+          "id": "845"
+        }
+      ],
+      "takes": []
+    }
+  ],
+  "race": "26",
+  "tier": 1,
+  "workers": [
+    1,
+    2
+  ]
+}

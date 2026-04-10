@@ -1,0 +1,31 @@
+{
+  "animation": "196",
+  "cast_time": 1.0,
+  "cooldown": 8.0,
+  "cost": {
+    "health": 0,
+    "stamina": 6
+  },
+  "description": "Invoca uma onda de água fria atingindo todos os oponentes em linha reta por ::damage de dano ::damage_type. A onda é perfurante e empurra todos ::knockback células.",
+  "duration": 0.0,
+  "effects": {
+    "damage": [
+      6,
+      10
+    ],
+    "damage_type": "frost",
+    "knockback": 4,
+    "magic_power_damage": 1.5,
+    "pierce": 1
+  },
+  "id": "147",
+  "image": 386,
+  "name": "Onda de Água",
+  "range": 6,
+  "skill": "core_2_cryomancy",
+  "slots": {
+    "offensive": 2,
+    "utility": 1
+  },
+  "target": "line"
+}

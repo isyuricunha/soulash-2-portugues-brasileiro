@@ -1,0 +1,22 @@
+{
+  "id": "core_2_marble_wall",
+  "name": "Parede de Mármore",
+  "requirements": {
+    "milestones": [],
+    "skill": 34
+  },
+  "rewards": [
+    {
+      "recipe": "285"
+    },
+    {
+      "recipe": "237"
+    },
+    {
+      "recipe": "293"
+    }
+  ],
+  "skill_id": "core_2_construction",
+  "steps": [],
+  "steps_type": 0
+}

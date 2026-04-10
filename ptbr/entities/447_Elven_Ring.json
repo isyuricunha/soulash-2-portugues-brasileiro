@@ -1,0 +1,95 @@
+{
+  "armor": {
+    "acid": 0,
+    "death": 4,
+    "electricity": 0,
+    "fire": 0,
+    "frost": 0,
+    "holy": 4,
+    "parry": 0,
+    "physical": 0,
+    "poison": 4,
+    "thorns": 0
+  },
+  "components": [
+    "armor",
+    "craftable",
+    "glyph",
+    "item",
+    "minimap_pixel",
+    "name",
+    "position_2d",
+    "statistics",
+    "value",
+    "weight"
+  ],
+  "craftable": {
+    "backgrounds": [],
+    "biomes": [],
+    "magic_slots": 4,
+    "resource_types": [
+      {
+        "amount": 2,
+        "id": 3
+      },
+      {
+        "amount": 2,
+        "id": 8
+      }
+    ],
+    "time": 200,
+    "tools": [
+      14
+    ]
+  },
+  "description": "Anel de poder concedido aos elfos por sua deusa.",
+  "glyph": {
+    "frames": [
+      {
+        "color": [
+          255,
+          255,
+          255
+        ],
+        "delay": 0,
+        "index": 387
+      }
+    ],
+    "random_frame_start": false
+  },
+  "id": "447",
+  "item": {
+    "image": 105,
+    "type": 12
+  },
+  "minimap_pixel": [
+    91,
+    237,
+    66
+  ],
+  "name": "Elven Ring",
+  "statistics": {
+    "dexterity": [
+      2,
+      2
+    ],
+    "endurance": [
+      0,
+      0
+    ],
+    "intelligence": [
+      2,
+      2
+    ],
+    "strength": [
+      0,
+      0
+    ],
+    "willpower": [
+      0,
+      0
+    ]
+  },
+  "value": 6000,
+  "weight": 0.10000000149011612
+}

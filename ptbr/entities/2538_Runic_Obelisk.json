@@ -1,0 +1,81 @@
+{
+  "components": [
+    "glyph",
+    "light_source",
+    "minimap_pixel",
+    "name",
+    "position_2d"
+  ],
+  "description": "Unnatural, seemingly indestructible structure doesn't look like it's built by mortal hands. Glowing runes of unknown origin cut through darkness, calling for you to touch them.",
+  "glyph": {
+    "frames": [
+      {
+        "color": [
+          255,
+          255,
+          255
+        ],
+        "delay": 250,
+        "index": 1746
+      },
+      {
+        "color": [
+          255,
+          255,
+          255
+        ],
+        "delay": 250,
+        "index": 1747
+      },
+      {
+        "color": [
+          255,
+          255,
+          255
+        ],
+        "delay": 250,
+        "index": 1748
+      },
+      {
+        "color": [
+          255,
+          255,
+          255
+        ],
+        "delay": 250,
+        "index": 1749
+      },
+      {
+        "color": [
+          255,
+          255,
+          255
+        ],
+        "delay": 250,
+        "index": 1748
+      },
+      {
+        "color": [
+          255,
+          255,
+          255
+        ],
+        "delay": 250,
+        "index": 1747
+      }
+    ],
+    "random_frame_start": true
+  },
+  "id": "2538",
+  "light_source": {
+    "finish": -1,
+    "fuel": [],
+    "range": 3
+  },
+  "minimap_pixel": [
+    97,
+    182,
+    228
+  ],
+  "name": "Runic Obelisk"
+}

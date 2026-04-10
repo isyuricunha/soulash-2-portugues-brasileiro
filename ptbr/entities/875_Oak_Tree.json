@@ -1,0 +1,127 @@
+{
+  "armor": {
+    "acid": 5,
+    "death": 10,
+    "electricity": 10,
+    "fire": 0,
+    "frost": 10,
+    "holy": 10,
+    "parry": 0,
+    "physical": 40,
+    "poison": 40,
+    "thorns": 0
+  },
+  "components": [
+    "armor",
+    "block_light",
+    "collidable",
+    "glyph",
+    "glyph_top",
+    "health",
+    "height",
+    "minimap_pixel",
+    "name",
+    "position_2d",
+    "producer"
+  ],
+  "corpse": [],
+  "description": "Uma grande árvore transbordando com folhas verdes e bolotas.",
+  "glyph": {
+    "frames": [
+      {
+        "color": [
+          83,
+          60,
+          41
+        ],
+        "delay": 0,
+        "index": 217
+      }
+    ],
+    "random_frame_start": false,
+    "random_top": {
+      "colors": [
+        [
+          84,
+          126,
+          100
+        ],
+        [
+          146,
+          169,
+          132
+        ],
+        [
+          55,
+          78,
+          74
+        ]
+      ],
+      "count": 60,
+      "glyph_ids": [
+        218
+      ],
+      "max_alpha": 200,
+      "max_range": 25,
+      "wind": true
+    }
+  },
+  "health": 300,
+  "height": 50,
+  "id": "875",
+  "minimap_pixel": [
+    144,
+    134,
+    93
+  ],
+  "name": "Oak Tree",
+  "producer": {
+    "products": {
+      "1": [
+        {
+          "amount": [
+            1,
+            1
+          ],
+          "id": "873",
+          "percent_chance": 100
+        },
+        {
+          "amount": [
+            1,
+            2
+          ],
+          "id": "3059",
+          "percent_chance": 10
+        }
+      ],
+      "core_2_woodbend": [
+        {
+          "amount": [
+            8,
+            10
+          ],
+          "id": "872",
+          "percent_chance": 100
+        },
+        {
+          "amount": [
+            2,
+            3
+          ],
+          "id": "3059",
+          "percent_chance": 30
+        },
+        {
+          "amount": [
+            3,
+            5
+          ],
+          "id": "2008",
+          "percent_chance": 100
+        }
+      ]
+    },
+    "time": 60
+  }
+}

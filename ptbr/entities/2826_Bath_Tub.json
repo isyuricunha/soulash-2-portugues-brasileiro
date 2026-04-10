@@ -1,0 +1,56 @@
+{
+  "category_id": 7,
+  "components": [
+    "container",
+    "craftable",
+    "glyph",
+    "liquid_source",
+    "minimap_pixel",
+    "name",
+    "position_2d"
+  ],
+  "container": {
+    "capacity": 600,
+    "type": 1
+  },
+  "craftable": {
+    "magic_slots": 0,
+    "resource_types": [
+      {
+        "amount": 5,
+        "id": 1
+      }
+    ],
+    "resources": null,
+    "time": 20,
+    "tools": [
+      14
+    ]
+  },
+  "description": "Grande o suficiente para um bom banho.",
+  "glyph": {
+    "frames": [
+      {
+        "color": [
+          255,
+          255,
+          255
+        ],
+        "delay": 0,
+        "index": 1870
+      }
+    ],
+    "random_frame_start": false
+  },
+  "id": "2826",
+  "liquid_source": {
+    "limit": 0,
+    "type": 1
+  },
+  "minimap_pixel": [
+    194,
+    133,
+    109
+  ],
+  "name": "Banheira"
+}

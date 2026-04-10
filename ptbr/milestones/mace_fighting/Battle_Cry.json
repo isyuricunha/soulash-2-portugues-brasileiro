@@ -1,0 +1,15 @@
+{
+  "id": "core_2_battle_cry",
+  "name": "Battle Cry",
+  "requirements": {
+    "skill": 21
+  },
+  "rewards": [
+    {
+      "ability": "20"
+    }
+  ],
+  "skill_id": "core_2_mace_fighting",
+  "steps": [],
+  "steps_type": 0
+}

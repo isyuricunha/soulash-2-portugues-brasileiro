@@ -1,0 +1,99 @@
+{
+  "armor": {
+    "acid": 1000,
+    "death": 1000,
+    "electricity": 1000,
+    "fire": 1000,
+    "frost": 0,
+    "holy": 1000,
+    "parry": 0,
+    "physical": 1000,
+    "poison": 1000,
+    "thorns": 0
+  },
+  "background": {
+    "color": [
+      44,
+      45,
+      51
+    ],
+    "movement_penalty": 0.800000011920929,
+    "noise": 5,
+    "noise_intensity": 7
+  },
+  "components": [
+    "armor",
+    "background",
+    "damage_applier",
+    "glyph",
+    "health",
+    "minimap_pixel",
+    "name",
+    "position_2d"
+  ],
+  "corpse": [
+    {
+      "damage_type": 2,
+      "id": "534"
+    }
+  ],
+  "damage_applier": {
+    "break_on_entry": false,
+    "dmg_animation": "37",
+    "dmg_max": 600,
+    "dmg_min": 300,
+    "dmg_type": "fire",
+    "duration": 0.0,
+    "tick": 0.0
+  },
+  "description": "Você pisa nisso, você queima.",
+  "glyph": {
+    "frames": [
+      {
+        "color": [
+          255,
+          255,
+          255
+        ],
+        "delay": 200,
+        "index": 1791
+      },
+      {
+        "color": [
+          255,
+          255,
+          255
+        ],
+        "delay": 200,
+        "index": 1792
+      },
+      {
+        "color": [
+          255,
+          255,
+          255
+        ],
+        "delay": 200,
+        "index": 1793
+      },
+      {
+        "color": [
+          255,
+          255,
+          255
+        ],
+        "delay": 200,
+        "index": 1792
+      }
+    ],
+    "random_frame_start": true
+  },
+  "health": 10,
+  "id": "2627",
+  "minimap_pixel": [
+    41,
+    36,
+    51
+  ],
+  "name": "Lava"
+}

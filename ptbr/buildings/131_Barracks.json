@@ -1,0 +1,16 @@
+{
+  "id": "131",
+  "image": 95,
+  "max": 1,
+  "name": "Barracks",
+  "occupation_image": 72,
+  "occupation": "2387",
+  "produces": [],
+  "race": "26",
+  "tier": 2,
+  "type": "military",
+  "workers": [
+    1,
+    20
+  ]
+}

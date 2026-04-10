@@ -1,0 +1,70 @@
+{
+  "armor": {
+    "acid": 0,
+    "death": 5,
+    "electricity": 0,
+    "fire": 0,
+    "frost": 0,
+    "holy": 5,
+    "parry": 5,
+    "physical": 5,
+    "poison": 3
+  },
+  "components": [
+    "armor",
+    "craftable",
+    "glyph",
+    "item",
+    "minimap_pixel",
+    "name",
+    "position_2d",
+    "value",
+    "weight"
+  ],
+  "craftable": {
+    "magic_slots": 5,
+    "resource_types": [
+      {
+        "amount": 4,
+        "id": 1
+      },
+      {
+        "amount": 1,
+        "id": 5
+      }
+    ],
+    "resources": null,
+    "time": 125,
+    "tools": [
+      1
+    ]
+  },
+  "description": "Shield wielded by templars and inquisitors of the Holy Order.",
+  "glyph": {
+    "frames": [
+      {
+        "color": [
+          255,
+          255,
+          255
+        ],
+        "delay": 0,
+        "index": 344
+      }
+    ],
+    "random_frame_start": false
+  },
+  "id": "404",
+  "item": {
+    "image": 171,
+    "type": 14
+  },
+  "minimap_pixel": [
+    186,
+    219,
+    212
+  ],
+  "name": "Holy Shield",
+  "value": 12000,
+  "weight": 6.0
+}

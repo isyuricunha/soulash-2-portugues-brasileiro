@@ -1,0 +1,91 @@
+{
+  "armor": {
+    "acid": 13,
+    "death": 2,
+    "electricity": 20,
+    "fire": 18,
+    "frost": 12,
+    "holy": 2,
+    "parry": 0,
+    "physical": 13,
+    "poison": 16,
+    "thorns": 0
+  },
+  "category_id": 7,
+  "components": [
+    "armor",
+    "craftable",
+    "glyph",
+    "health",
+    "height",
+    "minimap_pixel",
+    "name",
+    "position_2d",
+    "producer",
+    "resting_place"
+  ],
+  "corpse": "161",
+  "craftable": {
+    "magic_slots": 0,
+    "resources": [
+      {
+        "amount": 2,
+        "id": "161"
+      },
+      {
+        "amount": 2,
+        "id": "2103"
+      },
+      {
+        "amount": 1,
+        "id": "852"
+      },
+      {
+        "amount": 2,
+        "id": "2160"
+      }
+    ],
+    "time": 100,
+    "tools": []
+  },
+  "description": "Majestoso e real, o trono irradia poder e autoridade dignos de um Imperador.",
+  "glyph": {
+    "frames": [
+      {
+        "color": [
+          255,
+          255,
+          255
+        ],
+        "delay": 0,
+        "index": 625
+      }
+    ],
+    "random_frame_start": false
+  },
+  "health": 400,
+  "height": 0,
+  "id": "540",
+  "minimap_pixel": [
+    102,
+    16,
+    11
+  ],
+  "name": "Trono Imperial",
+  "producer": {
+    "products": {
+      "core_2_deconstruct": [
+        {
+          "amount": [
+            0,
+            0
+          ],
+          "id": "-1",
+          "percent_chance": 0
+        }
+      ]
+    },
+    "time": 40
+  },
+  "resting_place": 200
+}

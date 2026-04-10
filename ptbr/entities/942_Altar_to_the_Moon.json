@@ -1,0 +1,70 @@
+{
+  "category_id": 7,
+  "components": [
+    "block_light",
+    "collidable",
+    "craftable",
+    "glyph",
+    "minimap_pixel",
+    "name",
+    "position_2d",
+    "producer"
+  ],
+  "craftable": {
+    "magic_slots": 0,
+    "resource_types": [
+      {
+        "amount": 2,
+        "id": 6
+      },
+      {
+        "amount": 2,
+        "id": 3
+      },
+      {
+        "amount": 1,
+        "id": 8
+      }
+    ],
+    "resources": null,
+    "time": 30,
+    "tools": []
+  },
+  "description": "A beautiful stone altar with a blue symbol of the moon carved in the middle. This seems to be an important place of worship, judging by the many sacrificial gifts placed around here.",
+  "glyph": {
+    "frames": [
+      {
+        "color": [
+          255,
+          255,
+          255
+        ],
+        "delay": 0,
+        "index": 924
+      }
+    ],
+    "random_frame_start": false
+  },
+  "id": "942",
+  "minimap_pixel": [
+    35,
+    147,
+    168
+  ],
+  "name": "Altar to the Moon",
+  "producer": {
+    "products": {
+      "core_2_deconstruct": [
+        {
+          "amount": [
+            0,
+            0
+          ],
+          "id": "-1",
+          "percent_chance": 0
+        }
+      ]
+    },
+    "time": 40
+  }
+}

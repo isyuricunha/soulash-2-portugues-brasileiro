@@ -1,0 +1,77 @@
+{
+  "components": [
+    "craftable",
+    "glyph",
+    "item",
+    "minimap_pixel",
+    "name",
+    "position_2d",
+    "stackable",
+    "usable",
+    "value",
+    "weight"
+  ],
+  "craftable": {
+    "backgrounds": [],
+    "biomes": [],
+    "magic_slots": 0,
+    "resources": [
+      {
+        "amount": 1,
+        "id": "55"
+      },
+      {
+        "amount": 1,
+        "id": "835"
+      },
+      {
+        "amount": 1,
+        "id": "core_2_Death_Knights_Finger"
+      },
+      {
+        "amount": 1,
+        "id": "core_2_Misfortune_Leaves"
+      },
+      {
+        "amount": 1,
+        "id": "core_2_Cyclops_Ear"
+      }
+    ],
+    "time": 30,
+    "tools": [
+      15
+    ]
+  },
+  "description": "Esta poção aumentará suas chances de ter um filho. Não, ela garantirá!",
+  "glyph": {
+    "frames": [
+      {
+        "color": [
+          255,
+          255,
+          255
+        ],
+        "delay": 0,
+        "index": 2983
+      }
+    ],
+    "random_frame_start": false
+  },
+  "id": "core_2_Fertility_Potion",
+  "item": {
+    "image": 1367,
+    "type": 17
+  },
+  "minimap_pixel": [
+    157,
+    78,
+    54
+  ],
+  "name": "Poção de Fertilidade",
+  "usable": {
+    "ability": "core_2_Fertility_Boost",
+    "recipe": ""
+  },
+  "value": 10000,
+  "weight": 0.10000000149011612
+}

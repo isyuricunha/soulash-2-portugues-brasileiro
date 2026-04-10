@@ -1,0 +1,35 @@
+{
+  "animation": "36",
+  "cast_time": 1.0,
+  "cooldown": 10.0,
+  "cost": {
+    "health": 0,
+    "stamina": 4
+  },
+  "description": "Perform a thrusting attack at nearby opponent that deals ::damage ::damage_type damage, and moves you one step backwards.",
+  "duration": 0.0,
+  "effects": {
+    "damage": [
+      2,
+      4
+    ],
+    "damage_type": "physical",
+    "damage_weapon": 1.0,
+    "rollback": 1
+  },
+  "id": "177",
+  "image": 711,
+  "name": "Hit and Run",
+  "range": 1,
+  "requirements": {
+    "one_of": [
+      5
+    ]
+  },
+  "skill": "core_2_pole_fighting",
+  "slots": {
+    "offensive": 1,
+    "utility": 1
+  },
+  "target": "health"
+}

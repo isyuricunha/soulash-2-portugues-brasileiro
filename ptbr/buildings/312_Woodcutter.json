@@ -1,0 +1,42 @@
+{
+  "id": "312",
+  "image": 241,
+  "name": "Lenhador",
+  "occupation_image": 40,
+  "occupation": "core_2_Gnoll_Lenhador",
+  "produces": [
+    {
+      "entities": [
+        {
+          "daily": 1.0,
+          "id": "2095"
+        }
+      ],
+      "takes": []
+    },
+    {
+      "entities": [
+        {
+          "daily": 1.0,
+          "id": "core_2_Acacia_Log"
+        }
+      ],
+      "takes": []
+    },
+    {
+      "entities": [
+        {
+          "daily": 2.0,
+          "id": "core_2_Candelabra_Log"
+        }
+      ],
+      "takes": []
+    }
+  ],
+  "race": "31",
+  "tier": 1,
+  "workers": [
+    1,
+    3
+  ]
+}

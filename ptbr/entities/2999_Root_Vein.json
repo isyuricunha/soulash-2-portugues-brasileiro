@@ -1,0 +1,56 @@
+{
+  "components": [
+    "glyph",
+    "minimap_pixel",
+    "name",
+    "position_2d",
+    "producer",
+    "stackable"
+  ],
+  "description": "Veio estranho feito inteiramente de raiz nodosa.",
+  "glyph": {
+    "frames": [
+      {
+        "color": [
+          255,
+          255,
+          255
+        ],
+        "delay": 0,
+        "index": 1989
+      },
+      {
+        "color": [
+          255,
+          255,
+          255
+        ],
+        "delay": 0,
+        "index": 1990
+      }
+    ],
+    "random_frame_start": true
+  },
+  "id": "2999",
+  "minimap_pixel": [
+    206,
+    177,
+    66
+  ],
+  "name": "Veio de Raiz",
+  "producer": {
+    "products": {
+      "6": [
+        {
+          "amount": [
+            1,
+            1
+          ],
+          "id": "2366",
+          "percent_chance": 100
+        }
+      ]
+    },
+    "time": 20
+  }
+}

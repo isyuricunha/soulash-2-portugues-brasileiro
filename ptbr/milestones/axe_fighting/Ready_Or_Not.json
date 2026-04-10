@@ -1,0 +1,15 @@
+{
+  "id": "core_2_ready_or_not",
+  "name": "Pronto ou Não...",
+  "requirements": {
+    "skill": 15
+  },
+  "rewards": [
+    {
+      "amplifier": "core_2_cooldown"
+    }
+  ],
+  "skill_id": "core_2_axe_fighting",
+  "steps": [],
+  "steps_type": 0
+}

@@ -1,0 +1,42 @@
+{
+  "components": [
+    "glyph",
+    "item",
+    "minimap_pixel",
+    "name",
+    "position_2d",
+    "usable",
+    "weight"
+  ],
+  "description": "Uma cabeça de um elfo morto. Pode ainda conter algumas memórias.",
+  "glyph": {
+    "frames": [
+      {
+        "color": [
+          255,
+          255,
+          255
+        ],
+        "delay": 0,
+        "index": 2834
+      }
+    ],
+    "random_frame_start": false
+  },
+  "id": "core_2_Elven_Head",
+  "item": {
+    "image": 1273,
+    "type": 32
+  },
+  "minimap_pixel": [
+    156,
+    160,
+    161
+  ],
+  "name": "Cabeça Élfica",
+  "usable": {
+    "ability": "9",
+    "recipe": ""
+  },
+  "weight": 2.5
+}

@@ -1,0 +1,72 @@
+{
+  "components": [
+    "craftable",
+    "glyph",
+    "item",
+    "minimap_pixel",
+    "name",
+    "position_2d",
+    "value",
+    "weapon",
+    "weight"
+  ],
+  "craftable": {
+    "backgrounds": [],
+    "biomes": [],
+    "magic_slots": 2,
+    "resource_types": [
+      {
+        "amount": 2,
+        "id": 1
+      }
+    ],
+    "time": 30,
+    "tools": [
+      1
+    ]
+  },
+  "description": "Uma arma simples, mas eficaz.",
+  "glyph": {
+    "frames": [
+      {
+        "color": [
+          255,
+          255,
+          255
+        ],
+        "delay": 0,
+        "index": 3005
+      }
+    ],
+    "random_frame_start": false
+  },
+  "id": "core_2_Brass_Knuckles",
+  "item": {
+    "image": 1389,
+    "type": 13
+  },
+  "minimap_pixel": [
+    156,
+    160,
+    161
+  ],
+  "name": "Soqueiras de Latão",
+  "value": 900,
+  "weapon": {
+    "attack_speed": 0.800000011920929,
+    "critical_hit": 0.0,
+    "damage": [
+      {
+        "dmg_max": 7,
+        "dmg_min": 4,
+        "dmg_type": "physical"
+      }
+    ],
+    "hands": 1,
+    "hit_bonus": 2,
+    "parry_bonus": 1,
+    "range": 1,
+    "type": 6
+  },
+  "weight": 1.0
+}

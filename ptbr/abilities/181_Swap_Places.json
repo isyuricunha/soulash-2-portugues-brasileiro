@@ -1,0 +1,23 @@
+{
+  "animation": "232",
+  "cast_time": 0.5,
+  "cooldown": 12.0,
+  "cost": {
+    "health": 0,
+    "stamina": 5
+  },
+  "description": "Troca de lugar com um ser de mesmo tamanho em um alcance de ::range células.",
+  "duration": 0.0,
+  "effects": {
+    "trade_places": 1
+  },
+  "id": "181",
+  "image": 471,
+  "name": "Trocar de Lugar",
+  "range": 5,
+  "skill": "core_2_protection",
+  "slots": {
+    "utility": 2
+  },
+  "target": "actor"
+}

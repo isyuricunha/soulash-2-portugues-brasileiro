@@ -1,0 +1,148 @@
+{
+  "ability_user": [
+    "18"
+  ],
+  "artificial_intelligence": {
+    "allies": [],
+    "allow_production": [],
+    "behaviors": [],
+    "enemies": [
+      "5"
+    ]
+  },
+  "components": [
+    "ability_user",
+    "actor",
+    "artificial_intelligence",
+    "collidable",
+    "dialogues",
+    "equipment",
+    "experience_gainer",
+    "fighter",
+    "glyph",
+    "health",
+    "humanoid",
+    "minimap_pixel",
+    "moveable",
+    "name",
+    "position_2d",
+    "sight",
+    "stamina",
+    "statistics",
+    "tags"
+  ],
+  "corpse": "25",
+  "description": "",
+  "dialogues": [
+    "97",
+    "98"
+  ],
+  "equipment": {
+    "backpack": [
+      {
+        "chance": 1.0,
+        "id": "2441",
+        "name": "Raiz de Bruxa",
+        "stack": 1
+      }
+    ],
+    "head_cloth": [
+      {
+        "chance": 1.0,
+        "id": "178",
+        "name": "Chapéu",
+        "stack": 1
+      }
+    ],
+    "right_hand": [
+      {
+        "chance": 1.0,
+        "id": "339",
+        "name": "Cajado de Bruxa",
+        "stack": 1
+      }
+    ],
+    "torso_cloth": [
+      {
+        "chance": 1.0,
+        "id": "185",
+        "name": "Vestido",
+        "stack": 1
+      }
+    ]
+  },
+  "experience_gainer": {
+    "exp": 0,
+    "level": 20
+  },
+  "fighter": {
+    "attackNames": null
+  },
+  "gender": "female",
+  "glyph": {
+    "frames": [
+      {
+        "color": [
+          255,
+          255,
+          255
+        ],
+        "delay": 0,
+        "index": 565
+      }
+    ],
+    "random_frame_start": false
+  },
+  "health": 140,
+  "humanoid": {
+    "race": ""
+  },
+  "id": "336",
+  "minimap_pixel": [
+    102,
+    51,
+    153
+  ],
+  "moveable": {
+    "speed": 1.0
+  },
+  "name": "Bruxa",
+  "sight": {
+    "ignore_infra_penalty": false,
+    "infravision": false,
+    "range": 10,
+    "threesixty": false
+  },
+  "stamina": {
+    "fatigue": 100,
+    "stamina": 100,
+    "stamina_regen": 0.0
+  },
+  "statistics": {
+    "dexterity": [
+      12,
+      17
+    ],
+    "endurance": [
+      10,
+      13
+    ],
+    "intelligence": [
+      29,
+      32
+    ],
+    "magic_power": 2,
+    "strength": [
+      12,
+      16
+    ],
+    "willpower": [
+      22,
+      27
+    ]
+  },
+  "tags": [
+    "1",
+    "9"
+  ]
+}

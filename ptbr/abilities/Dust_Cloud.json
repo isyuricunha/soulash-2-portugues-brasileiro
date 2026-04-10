@@ -1,0 +1,26 @@
+{
+  "animation": "core_2_Dust_Cloud",
+  "cast_time": 1.0,
+  "cooldown": 5.0,
+  "cost": {
+    "health": 0,
+    "stamina": 5
+  },
+  "description": "Summons a cloud of dust, dealing ::damage ::damage_type damage to everyone in a cone.",
+  "duration": 0.0,
+  "effects": {
+    "aoe_break": 2,
+    "damage": [
+      4,
+      9
+    ],
+    "damage_type": "physical",
+    "damage_weapon": 0.5
+  },
+  "id": "core_2_Dust_Cloud",
+  "image": 751,
+  "name": "Dust Cloud",
+  "range": 5,
+  "skill": "",
+  "target": "cone"
+}

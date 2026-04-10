@@ -1,0 +1,16 @@
+{
+  "id": "425",
+  "image": 274,
+  "max": 1,
+  "name": "Quartel dos Esmagadores de Crânios",
+  "occupation_image": 106,
+  "occupation": "core_2_Troll_Esmagador de Crânios",
+  "produces": [],
+  "race": "7",
+  "tier": 2,
+  "type": "military",
+  "workers": [
+    1,
+    6
+  ]
+}

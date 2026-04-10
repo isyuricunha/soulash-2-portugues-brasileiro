@@ -1,0 +1,78 @@
+{
+  "background": {
+    "color": [
+      44,
+      45,
+      41
+    ],
+    "movement_penalty": 0.20000000298023224,
+    "noise": 1,
+    "noise_intensity": 4
+  },
+  "components": [
+    "background",
+    "glyph",
+    "health",
+    "minimap_pixel",
+    "name"
+  ],
+  "corpse": [
+    {
+      "damage_type": 0,
+      "id": "2"
+    },
+    {
+      "damage_type": 1,
+      "id": "600"
+    },
+    {
+      "damage_type": 2,
+      "id": "603"
+    },
+    {
+      "damage_type": 4,
+      "id": "613"
+    }
+  ],
+  "description": "There may be an enemy hidden behind every blade of grass.",
+  "glyph": {
+    "frames": [
+      {
+        "color": [
+          82,
+          110,
+          72
+        ],
+        "delay": 0,
+        "index": 1659
+      },
+      {
+        "color": [
+          82,
+          110,
+          72
+        ],
+        "delay": 0,
+        "index": 1660
+      },
+      {
+        "color": [
+          82,
+          110,
+          72
+        ],
+        "delay": 0,
+        "index": 1661
+      }
+    ],
+    "random_frame_start": true
+  },
+  "health": 1,
+  "id": "2507",
+  "minimap_pixel": [
+    25,
+    39,
+    13
+  ],
+  "name": "High Grass"
+}

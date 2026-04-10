@@ -1,0 +1,48 @@
+{
+  "components": [
+    "glyph",
+    "item",
+    "minimap_pixel",
+    "name",
+    "position_2d",
+    "resource",
+    "stackable",
+    "value",
+    "weight"
+  ],
+  "description": "Um fragmento de escama negra, brilhando com um brilho interno doentio.",
+  "glyph": {
+    "frames": [
+      {
+        "color": [
+          255,
+          255,
+          255
+        ],
+        "delay": 0,
+        "index": 3231
+      }
+    ],
+    "random_frame_start": false
+  },
+  "id": "core_2_Black_Dragon_Scale",
+  "item": {
+    "image": 1491,
+    "type": 16
+  },
+  "minimap_pixel": [
+    210,
+    227,
+    120
+  ],
+  "name": "Escama de Dragão Negro",
+  "resource": {
+    "affix": "of the Black Death",
+    "granted_passive": "core_2_poison_transfer_on_kill",
+    "magic_ingredient": 5,
+    "quality": 5,
+    "type": 7
+  },
+  "value": 20000,
+  "weight": 0.10000000149011612
+}

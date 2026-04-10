@@ -1,0 +1,78 @@
+{
+  "components": [
+    "craftable",
+    "glyph",
+    "item",
+    "minimap_pixel",
+    "name",
+    "position_2d",
+    "value",
+    "weapon",
+    "weight"
+  ],
+  "craftable": {
+    "backgrounds": [],
+    "biomes": [],
+    "magic_slots": 3,
+    "resource_types": [
+      {
+        "amount": 2,
+        "id": 1
+      }
+    ],
+    "resources": [
+      {
+        "amount": 1,
+        "id": "325"
+      }
+    ],
+    "time": 60,
+    "tools": [
+      14
+    ]
+  },
+  "description": "A lâmina de metal parece exatamente como uma folha. Muito élfico.",
+  "glyph": {
+    "frames": [
+      {
+        "color": [
+          255,
+          255,
+          255
+        ],
+        "delay": 0,
+        "index": 2246
+      }
+    ],
+    "random_frame_start": false
+  },
+  "id": "core_2_Leaf_Spear",
+  "item": {
+    "image": 937,
+    "type": 13
+  },
+  "minimap_pixel": [
+    157,
+    152,
+    202
+  ],
+  "name": "Lança de Folha",
+  "value": 3000,
+  "weapon": {
+    "attack_speed": 1.0,
+    "critical_hit": 0.0,
+    "damage": [
+      {
+        "dmg_max": 11,
+        "dmg_min": 6,
+        "dmg_type": "poison"
+      }
+    ],
+    "hands": 1,
+    "hit_bonus": 3,
+    "parry_bonus": 2,
+    "range": 1,
+    "type": 4
+  },
+  "weight": 2.0
+}

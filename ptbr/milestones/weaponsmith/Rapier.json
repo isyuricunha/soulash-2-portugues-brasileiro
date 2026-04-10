@@ -1,0 +1,16 @@
+{
+  "id": "core_2_rapier",
+  "name": "Espada",
+  "requirements": {
+    "milestones": [],
+    "skill": 18
+  },
+  "rewards": [
+    {
+      "recipe": "696"
+    }
+  ],
+  "skill_id": "core_2_weaponsmith",
+  "steps": [],
+  "steps_type": 0
+}

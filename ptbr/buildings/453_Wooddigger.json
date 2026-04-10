@@ -1,0 +1,24 @@
+{
+  "id": "453",
+  "image": 340,
+  "name": "Woodminer",
+  "occupation_image": 101,
+  "occupation": "core_2_Skeleton_Woodminer",
+  "produces": [
+    {
+      "entities": [
+        {
+          "daily": 0.5,
+          "id": "core_2_Fossil_Log"
+        }
+      ],
+      "takes": []
+    }
+  ],
+  "race": "17",
+  "tier": 1,
+  "workers": [
+    1,
+    3
+  ]
+}

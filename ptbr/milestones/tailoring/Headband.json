@@ -1,0 +1,16 @@
+{
+  "id": "core_2_headband",
+  "name": "Faixa de Cabeça",
+  "requirements": {
+    "milestones": [],
+    "skill": 37
+  },
+  "rewards": [
+    {
+      "recipe": "2225"
+    }
+  ],
+  "skill_id": "core_2_tailoring",
+  "steps": [],
+  "steps_type": 0
+}

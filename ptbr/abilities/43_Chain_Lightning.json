@@ -1,0 +1,25 @@
+{
+  "animation": "7",
+  "cast_time": 1.0,
+  "cooldown": 4.0,
+  "cost": {
+    "health": 1,
+    "stamina": 8
+  },
+  "description": "Dispara um raio dos seus dedos em linha reta, acertando a primeira coisa com que entra em contato, causando ::damage de dano ::damage_type e então salta ::chain vezes para outro ser no alcance de até ::range células.",
+  "duration": 0.0,
+  "effects": {
+    "chain": 4,
+    "damage": [
+      2,
+      8
+    ],
+    "damage_type": "electricity",
+    "damage_weapon": 1.0
+  },
+  "id": "43",
+  "image": 44,
+  "name": "Raio em Cadeia",
+  "range": 5,
+  "target": "line"
+}

@@ -1,0 +1,40 @@
+{
+  "components": [
+    "glyph",
+    "item",
+    "minimap_pixel",
+    "name",
+    "position_2d",
+    "stackable",
+    "value",
+    "weight"
+  ],
+  "description": "Alguns ramos aromáticos de arbusto saboroso.",
+  "glyph": {
+    "frames": [
+      {
+        "color": [
+          255,
+          255,
+          255
+        ],
+        "delay": 0,
+        "index": 2480
+      }
+    ],
+    "random_frame_start": false
+  },
+  "id": "core_2_Savory_Branch",
+  "item": {
+    "image": 1095,
+    "type": 17
+  },
+  "minimap_pixel": [
+    125,
+    128,
+    128
+  ],
+  "name": "Ramo Saboroso",
+  "value": 200,
+  "weight": 0.10000000149011612
+}

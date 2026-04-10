@@ -1,0 +1,60 @@
+{
+  "components": [
+    "glyph",
+    "item",
+    "liquid_source",
+    "minimap_pixel",
+    "name",
+    "position_2d",
+    "producer",
+    "value",
+    "weight"
+  ],
+  "description": "Furry dead body of a grutaur.",
+  "glyph": {
+    "frames": [
+      {
+        "color": [
+          255,
+          255,
+          255
+        ],
+        "delay": 0,
+        "index": 1824
+      }
+    ],
+    "random_frame_start": false
+  },
+  "id": "2768",
+  "item": {
+    "image": 718,
+    "type": 18
+  },
+  "liquid_source": {
+    "limit": 90,
+    "type": 4
+  },
+  "minimap_pixel": [
+    171,
+    183,
+    183
+  ],
+  "name": "Grutaur Corpse",
+  "producer": {
+    "products": {
+      "3": [
+        {
+          "amount": [
+            2,
+            5
+          ],
+          "id": "318",
+          "percent_chance": 100
+        }
+      ]
+    },
+    "time": 0
+  },
+  "value": 0,
+  "weight": 120.0
+}

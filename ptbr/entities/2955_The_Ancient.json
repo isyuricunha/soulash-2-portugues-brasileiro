@@ -1,0 +1,142 @@
+{
+  "ability_user": [
+    "102",
+    "116",
+    "99"
+  ],
+  "artificial_intelligence": {
+    "allies": [
+      "4"
+    ],
+    "allow_production": [],
+    "behaviors": [],
+    "enemies": [
+      "5"
+    ]
+  },
+  "components": [
+    "ability_user",
+    "actor",
+    "artificial_intelligence",
+    "collidable",
+    "dialogues",
+    "equipment",
+    "experience_gainer",
+    "fighter",
+    "glyph",
+    "health",
+    "humanoid",
+    "minimap_pixel",
+    "moveable",
+    "name",
+    "position_2d",
+    "sight",
+    "stamina",
+    "statistics",
+    "tags"
+  ],
+  "corpse": "2160",
+  "description": "Um grande governante, que não pode descansar em paz.",
+  "dialogues": [
+    "639",
+    "640"
+  ],
+  "equipment": {
+    "head_cloth": [
+      {
+        "chance": 1.0,
+        "id": "668",
+        "name": "Máscara da Morte",
+        "stack": 1
+      }
+    ],
+    "right_hand": [
+      {
+        "chance": 1.0,
+        "id": "2308",
+        "name": "Adaga do Faraó",
+        "stack": 1
+      }
+    ],
+    "torso_cloth": [
+      {
+        "chance": 1.0,
+        "id": "2217",
+        "name": "Túnica Decorada",
+        "stack": 1
+      }
+    ]
+  },
+  "experience_gainer": {
+    "exp": 0,
+    "level": 40
+  },
+  "fighter": {
+    "attackNames": null
+  },
+  "glyph": {
+    "frames": [
+      {
+        "color": [
+          255,
+          255,
+          255
+        ],
+        "delay": 0,
+        "index": 558
+      }
+    ],
+    "random_frame_start": false
+  },
+  "health": 1036,
+  "humanoid": {
+    "race": ""
+  },
+  "id": "2955",
+  "minimap_pixel": [
+    228,
+    212,
+    105
+  ],
+  "moveable": {
+    "speed": 1.0
+  },
+  "name": "O Antigo",
+  "sight": {
+    "ignore_infra_penalty": false,
+    "infravision": true,
+    "range": 12,
+    "threesixty": false
+  },
+  "stamina": {
+    "fatigue": 100,
+    "stamina": 100,
+    "stamina_regen": 0.0
+  },
+  "statistics": {
+    "dexterity": [
+      76,
+      82
+    ],
+    "endurance": [
+      98,
+      112
+    ],
+    "intelligence": [
+      56,
+      62
+    ],
+    "strength": [
+      89,
+      94
+    ],
+    "willpower": [
+      78,
+      86
+    ]
+  },
+  "tags": [
+    "4",
+    "38"
+  ]
+}

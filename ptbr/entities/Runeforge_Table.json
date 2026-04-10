@@ -1,0 +1,77 @@
+{
+  "category_id": 6,
+  "components": [
+    "collidable",
+    "craftable",
+    "glyph",
+    "height",
+    "minimap_pixel",
+    "name",
+    "position_2d",
+    "producer",
+    "tool"
+  ],
+  "craftable": {
+    "backgrounds": [],
+    "biomes": [],
+    "magic_slots": 0,
+    "resource_types": [
+      {
+        "amount": 5,
+        "id": 6
+      }
+    ],
+    "resources": [
+      {
+        "amount": 3,
+        "id": "2090"
+      }
+    ],
+    "time": 60,
+    "tools": []
+  },
+  "description": "Uma mesa coberta com pedaços de pedra e cinzéis.",
+  "glyph": {
+    "frames": [
+      {
+        "color": [
+          255,
+          255,
+          255
+        ],
+        "delay": 0,
+        "index": 2546
+      }
+    ],
+    "random_frame_start": false
+  },
+  "height": 0,
+  "id": "core_2_Runeforge_Table",
+  "minimap_pixel": [
+    99,
+    150,
+    221
+  ],
+  "name": "Mesa de Forja de Runas",
+  "producer": {
+    "products": {
+      "core_2_deconstruct": [
+        {
+          "amount": [
+            0,
+            0
+          ],
+          "id": "",
+          "percent_chance": 0
+        }
+      ]
+    },
+    "time": 20
+  },
+  "tool": [
+    {
+      "id": 15,
+      "quality": 100
+    }
+  ]
+}

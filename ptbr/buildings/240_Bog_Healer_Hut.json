@@ -1,0 +1,55 @@
+{
+  "id": "240",
+  "image": 107,
+  "name": "Bog Healer Hut",
+  "occupation_image": 77,
+  "occupation": "core_2_Reptilion_Bog_Healer",
+  "occupation_per_race": {
+    "0": "2202",
+    "1": "core_2_Dwarf_Forager",
+    "2": "2264",
+    "4": "core_2_Goblin_Forager",
+    "6": "core_2_Vampire_Forager",
+    "7": "core_2_Troll_Forager",
+    "8": "core_2_Orc_Forager",
+    "10": "2326",
+    "23": "core_2_Reptilion_Bog_Healer",
+    "26": "2372",
+    "31": "core_2_Gnoll_Trash_Collector",
+    "32": "core_2_Mushman_Forager",
+    "33": "core_2_Ursan_Forager"
+  },
+  "produces": [
+    {
+      "entities": [
+        {
+          "daily": 1.0,
+          "id": "core_2_Healing_Herbs"
+        }
+      ],
+      "takes": []
+    }
+  ],
+  "race": "23",
+  "tier": 3,
+  "workers": [
+    1,
+    1
+  ],
+  "allow_player": true,
+  "required_entities": [
+    {
+      "entities": [
+        "core_2_Healing_Herbs_Bush",
+        "core_2_Healing_Herbs_Seedling"
+      ],
+      "count": 4
+    },
+    {
+      "component": "resting_place",
+      "count": 1
+    }
+  ],
+  "min_area": 20,
+  "group": "resources"
+}

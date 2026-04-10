@@ -1,0 +1,74 @@
+{
+  "armor": {
+    "acid": 0,
+    "death": 7,
+    "electricity": 0,
+    "fire": 0,
+    "frost": 0,
+    "holy": 6,
+    "parry": 0,
+    "physical": 3,
+    "poison": 2,
+    "thorns": 0
+  },
+  "components": [
+    "armor",
+    "craftable",
+    "glyph",
+    "item",
+    "minimap_pixel",
+    "name",
+    "position_2d",
+    "value",
+    "weight"
+  ],
+  "craftable": {
+    "backgrounds": [],
+    "biomes": [],
+    "magic_slots": 4,
+    "resource_types": [
+      {
+        "amount": 2,
+        "id": 1
+      }
+    ],
+    "resources": [
+      {
+        "amount": 1,
+        "id": "core_2_Blood_Vial"
+      }
+    ],
+    "time": 30,
+    "tools": [
+      14
+    ]
+  },
+  "description": "Anel bonito com manchas de sangue por toda parte.",
+  "glyph": {
+    "frames": [
+      {
+        "color": [
+          255,
+          255,
+          255
+        ],
+        "delay": 0,
+        "index": 3099
+      }
+    ],
+    "random_frame_start": false
+  },
+  "id": "core_2_Bloody_Ring",
+  "item": {
+    "image": 1431,
+    "type": 12
+  },
+  "minimap_pixel": [
+    210,
+    227,
+    120
+  ],
+  "name": "Anel Sangrento",
+  "value": 4000,
+  "weight": 0.10000000149011612
+}

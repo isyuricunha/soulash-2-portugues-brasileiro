@@ -1,0 +1,16 @@
+{
+  "id": "core_2_steel_ingot",
+  "name": "Lingote de Aço",
+  "requirements": {
+    "milestones": [],
+    "skill": 24
+  },
+  "rewards": [
+    {
+      "recipe": "149"
+    }
+  ],
+  "skill_id": "core_2_adventuring",
+  "steps": [],
+  "steps_type": 0
+}

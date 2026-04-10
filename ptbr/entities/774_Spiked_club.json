@@ -1,0 +1,75 @@
+{
+  "components": [
+    "craftable",
+    "glyph",
+    "item",
+    "minimap_pixel",
+    "name",
+    "position_2d",
+    "value",
+    "weapon",
+    "weight"
+  ],
+  "craftable": {
+    "magic_slots": 2,
+    "resource_types": [
+      {
+        "amount": 1,
+        "id": 1
+      },
+      {
+        "amount": 1,
+        "id": 10
+      }
+    ],
+    "resources": null,
+    "time": 30,
+    "tools": [
+      1
+    ]
+  },
+  "description": "Algumas pancadas com isso vão transformar qualquer humano em queijo.",
+  "glyph": {
+    "frames": [
+      {
+        "color": [
+          255,
+          255,
+          255
+        ],
+        "delay": 0,
+        "index": 632
+      }
+    ],
+    "random_frame_start": false
+  },
+  "id": "774",
+  "item": {
+    "image": 271,
+    "type": 13
+  },
+  "minimap_pixel": [
+    201,
+    131,
+    84
+  ],
+  "name": "Clava com Espinhos",
+  "value": 400,
+  "weapon": {
+    "attack_speed": 1.0,
+    "critical_hit": 0.0,
+    "damage": [
+      {
+        "dmg_max": 10,
+        "dmg_min": 6,
+        "dmg_type": "physical"
+      }
+    ],
+    "hands": 2,
+    "hit_bonus": 2,
+    "parry_bonus": 1,
+    "range": 1,
+    "type": 2
+  },
+  "weight": 1.5
+}

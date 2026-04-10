@@ -1,0 +1,61 @@
+{
+  "armor": {
+    "acid": 0,
+    "death": 0,
+    "electricity": 0,
+    "fire": -20,
+    "frost": 0,
+    "holy": 0,
+    "parry": 0,
+    "physical": 2,
+    "poison": 1000,
+    "thorns": 0
+  },
+  "category_id": 7,
+  "components": [
+    "armor",
+    "collidable",
+    "craftable",
+    "glyph",
+    "health",
+    "minimap_pixel",
+    "name",
+    "position_2d"
+  ],
+  "corpse": [],
+  "craftable": {
+    "magic_slots": 0,
+    "resource_types": [
+      {
+        "amount": 3,
+        "id": 3
+      }
+    ],
+    "resources": null,
+    "time": 20,
+    "tools": []
+  },
+  "description": "",
+  "glyph": {
+    "frames": [
+      {
+        "color": [
+          255,
+          255,
+          255
+        ],
+        "delay": 0,
+        "index": 1720
+      }
+    ],
+    "random_frame_start": true
+  },
+  "health": 100,
+  "id": "2513",
+  "minimap_pixel": [
+    71,
+    48,
+    17
+  ],
+  "name": "Log Stack"
+}

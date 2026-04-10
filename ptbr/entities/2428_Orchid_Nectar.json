@@ -1,0 +1,59 @@
+{
+  "components": [
+    "craftable",
+    "glyph",
+    "item",
+    "liquid_source",
+    "minimap_pixel",
+    "name",
+    "position_2d",
+    "stackable",
+    "value",
+    "weight"
+  ],
+  "craftable": {
+    "magic_slots": 0,
+    "resources": [
+      {
+        "amount": 1,
+        "id": "2427"
+      }
+    ],
+    "time": 30,
+    "tools": [
+      15
+    ]
+  },
+  "description": "This sweet and fragrant orchid nectar, carefully collected from delicate blossoms, holds the essence of nature's beauty in every tantalizing drop.",
+  "glyph": {
+    "frames": [
+      {
+        "color": [
+          255,
+          255,
+          255
+        ],
+        "delay": 0,
+        "index": 159
+      }
+    ],
+    "random_frame_start": false
+  },
+  "id": "2428",
+  "item": {
+    "image": 610,
+    "type": 16
+  },
+  "liquid_source": {
+    "limit": 50,
+    "type": 8
+  },
+  "minimap_pixel": [
+    190,
+    186,
+    83
+  ],
+  "name": "Orchid Nectar",
+  "value": 1200,
+  "weight": 0.30000001192092896
+}

@@ -1,0 +1,21 @@
+{
+  "animation": "core_2_frozen_blade",
+  "cast_time": 0.5,
+  "cooldown": 0.0,
+  "cost": {
+    "health": 0,
+    "stamina": 0
+  },
+  "description": "Weapons that you hold are enchanted with ::damage_type power increasing damage by ::damage_bonus for ::duration turns.",
+  "duration": 10.0,
+  "effects": {
+    "damage_bonus": 5,
+    "damage_type": "frost"
+  },
+  "id": "core_2_Frozen_Blade",
+  "image": 752,
+  "name": "Frozen Blade",
+  "range": 0,
+  "skill": "",
+  "target": "self"
+}

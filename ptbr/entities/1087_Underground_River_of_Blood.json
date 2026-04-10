@@ -1,0 +1,111 @@
+{
+  "armor": {
+    "acid": 1000,
+    "death": 1000,
+    "electricity": 1000,
+    "fire": 1000,
+    "frost": 0,
+    "holy": 1000,
+    "parry": 0,
+    "physical": 1000,
+    "poison": 1000,
+    "thorns": 0
+  },
+  "background": {
+    "color": [
+      74,
+      7,
+      7
+    ],
+    "noise": 5,
+    "noise_intensity": 7
+  },
+  "components": [
+    "armor",
+    "background",
+    "glyph",
+    "health",
+    "liquid_source",
+    "minimap_pixel",
+    "name",
+    "on_enter",
+    "position_2d",
+    "water"
+  ],
+  "corpse": [
+    {
+      "damage_type": 2,
+      "id": "1088"
+    },
+    {
+      "damage_type": 9,
+      "id": "1087"
+    }
+  ],
+  "description": "Rio de sangue fluindo através de cavernas montanhosas.",
+  "glyph": {
+    "frames": [
+      {
+        "color": [
+          233,
+          99,
+          94
+        ],
+        "delay": 300,
+        "index": 1444
+      },
+      {
+        "color": [
+          233,
+          99,
+          94
+        ],
+        "delay": 300,
+        "index": 1445
+      },
+      {
+        "color": [
+          233,
+          99,
+          94
+        ],
+        "delay": 300,
+        "index": 1446
+      },
+      {
+        "color": [
+          233,
+          99,
+          94
+        ],
+        "delay": 300,
+        "index": 1447
+      }
+    ],
+    "random_frame_start": true
+  },
+  "health": 1,
+  "id": "1087",
+  "liquid_source": {
+    "limit": -1,
+    "type": 4
+  },
+  "minimap_pixel": [
+    124,
+    7,
+    7
+  ],
+  "name": "Rio Subterrâneo de Sangue",
+  "on_enter": {
+    "ability": [
+      "88",
+      "89"
+    ],
+    "only_player_triggers": false,
+    "teleport": null,
+    "trigger_chance": 0.0
+  },
+  "water": {
+    "swimming": true
+  }
+}

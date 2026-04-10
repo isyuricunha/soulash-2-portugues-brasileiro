@@ -1,0 +1,65 @@
+{
+  "components": [
+    "craftable",
+    "food",
+    "glyph",
+    "item",
+    "minimap_pixel",
+    "name",
+    "position_2d",
+    "stackable",
+    "value",
+    "weight"
+  ],
+  "craftable": {
+    "backgrounds": [],
+    "biomes": [],
+    "magic_slots": 0,
+    "resources": [
+      {
+        "amount": 2,
+        "id": "814"
+      },
+      {
+        "amount": 1,
+        "id": "820"
+      }
+    ],
+    "time": 30,
+    "tools": [
+      2
+    ]
+  },
+  "description": "Um pote de frutas doces cozidas.",
+  "food": {
+    "nutrition": 90,
+    "on_eat": "core_2_Jam"
+  },
+  "glyph": {
+    "frames": [
+      {
+        "color": [
+          255,
+          255,
+          255
+        ],
+        "delay": 0,
+        "index": 2032
+      }
+    ],
+    "random_frame_start": false
+  },
+  "id": "3034",
+  "item": {
+    "image": 814,
+    "type": 20
+  },
+  "minimap_pixel": [
+    157,
+    78,
+    54
+  ],
+  "name": "Geleia",
+  "value": 1000,
+  "weight": 0.10000000149011612
+}

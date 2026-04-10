@@ -1,0 +1,66 @@
+{
+  "armor": {
+    "acid": 0,
+    "death": 0,
+    "electricity": 0,
+    "fire": 0,
+    "frost": 5,
+    "holy": 5,
+    "parry": 0,
+    "physical": 2,
+    "poison": 2
+  },
+  "components": [
+    "armor",
+    "craftable",
+    "glyph",
+    "item",
+    "minimap_pixel",
+    "name",
+    "position_2d",
+    "value",
+    "weight"
+  ],
+  "craftable": {
+    "magic_slots": 4,
+    "resource_types": [
+      {
+        "amount": 4,
+        "id": 9
+      }
+    ],
+    "resources": null,
+    "time": 45,
+    "tools": [
+      14
+    ]
+  },
+  "description": "Perfect for the coming winter.",
+  "glyph": {
+    "frames": [
+      {
+        "color": [
+          255,
+          255,
+          255
+        ],
+        "delay": 0,
+        "index": 348
+      }
+    ],
+    "random_frame_start": false
+  },
+  "id": "191",
+  "item": {
+    "image": 93,
+    "type": 9
+  },
+  "minimap_pixel": [
+    182,
+    175,
+    158
+  ],
+  "name": "Fur Boots",
+  "value": 6600,
+  "weight": 2.0
+}

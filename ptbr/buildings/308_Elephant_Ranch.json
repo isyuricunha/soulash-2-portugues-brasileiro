@@ -1,0 +1,59 @@
+{
+  "id": "308",
+  "image": 137,
+  "name": "Criação de Elefantes",
+  "occupation_image": 28,
+  "occupation": "core_2_Gnoll_Criador",
+  "occupation_per_race": {
+    "0": "2265",
+    "1": "2267",
+    "2": "2285",
+    "4": "core_2_Goblin_Rancher",
+    "6": "core_2_Vampire_Rancher",
+    "7": "core_2_Troll_Rancher",
+    "8": "core_2_Orc_Rancher",
+    "10": "2326",
+    "23": "core_2_Reptilion_Rancher",
+    "26": "2370",
+    "31": "core_2_Gnoll_Rancher",
+    "32": "core_2_Mushman_Leatherworker",
+    "33": "core_2_Ursan_Rancher"
+  },
+  "produces": [
+    {
+      "entities": [
+        {
+          "daily": 2,
+          "id": "2131"
+        },
+        {
+          "daily": 4,
+          "id": "318"
+        }
+      ],
+      "takes": []
+    }
+  ],
+  "race": "31",
+  "tier": 3,
+  "workers": [
+    1,
+    4
+  ],
+  "max": 2,
+  "allow_player": true,
+  "required_entities": [
+    {
+      "entities": [
+        "474"
+      ],
+      "count": 2
+    },
+    {
+      "component": "resting_place",
+      "count": 4
+    }
+  ],
+  "min_area": 40,
+  "group": "food"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "core_2_icicle_charm",
+  "name": "Amuleto de Gelo",
+  "requirements": {
+    "milestones": [],
+    "skill": 9
+  },
+  "rewards": [
+    {
+      "recipe": "core_2_Icicle_Charm"
+    }
+  ],
+  "skill_id": "core_2_imbuing",
+  "steps": [],
+  "steps_type": 0
+}

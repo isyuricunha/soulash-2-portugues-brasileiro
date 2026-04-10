@@ -1,0 +1,24 @@
+{
+  "id": "294",
+  "image": 130,
+  "name": "Wicker Gatherers",
+  "occupation_image": 44,
+  "occupation": "core_2_Ursan_Gatherer",
+  "produces": [
+    {
+      "entities": [
+        {
+          "daily": 5,
+          "id": "core_2_Wicker"
+        }
+      ],
+      "takes": []
+    }
+  ],
+  "race": "33",
+  "tier": 3,
+  "workers": [
+    1,
+    4
+  ]
+}

@@ -1,0 +1,261 @@
+{
+  "ability_user": [
+    "core_2_Chlorospore_Burst",
+    "core_2_Poison_Air",
+    "core_2_Roots"
+  ],
+  "armor": {
+    "acid": 999,
+    "death": 20,
+    "electricity": 20,
+    "fire": 50,
+    "frost": 20,
+    "holy": 20,
+    "parry": 0,
+    "physical": 20,
+    "poison": 999,
+    "thorns": 0
+  },
+  "artificial_intelligence": {
+    "allies": [],
+    "allow_production": [],
+    "behaviors": [],
+    "enemies": [
+      "5"
+    ]
+  },
+  "chained": {
+    "map": [
+      [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "",
+        "core_2_Mush_Dragon_Leg_Left",
+        "",
+        "",
+        "core_2_Mush_Dragon_Leg_Left",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "RESERVED_core_2_leader_tile",
+        "core_2_Mush_Dragon_Torso",
+        "core_2_Mush_Dragon_Torso",
+        "core_2_Mush_Dragon_Torso",
+        "core_2_Mush_Dragon_Torso",
+        "core_2_Mush_Dragon_Torso",
+        "core_2_Mush_Dragon_Tail",
+        "",
+        "",
+        ""
+      ],
+      [
+        "",
+        "core_2_Mush_Dragon_Leg_Right",
+        "",
+        "",
+        "core_2_Mush_Dragon_Leg_Right",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ]
+    ],
+    "snake": false
+  },
+  "components": [
+    "ability_user",
+    "actor",
+    "armor",
+    "artificial_intelligence",
+    "chained",
+    "collidable",
+    "experience_gainer",
+    "fighter",
+    "glyph",
+    "health",
+    "minimap_pixel",
+    "moveable",
+    "name",
+    "position_2d",
+    "sight",
+    "stamina",
+    "statistics",
+    "tags",
+    "weapon"
+  ],
+  "corpse": "core_2_Mush_Dragon_Corpse",
+  "description": "Um verme serpenteado sem asas, envolto em vibrantes cápsulas fúngicas e tendrils miceliais.",
+  "experience_gainer": {
+    "exp": 0,
+    "level": 50
+  },
+  "fighter": {
+    "attackNames": [
+      "Bite"
+    ]
+  },
+  "glyph": {
+    "frames": [
+      {
+        "color": [
+          255,
+          255,
+          255
+        ],
+        "delay": 0,
+        "index": 567
+      }
+    ],
+    "random_frame_start": false
+  },
+  "health": 4700,
+  "id": "core_2_Mush_Dragon",
+  "minimap_pixel": [
+    149,
+    165,
+    101
+  ],
+  "moveable": {
+    "speed": 0.699999988079071
+  },
+  "name": "Dragão de Cogumelo",
+  "sight": {
+    "ignore_infra_penalty": true,
+    "infravision": true,
+    "range": 12,
+    "threesixty": true
+  },
+  "stamina": {
+    "fatigue": 100,
+    "stamina": 100,
+    "stamina_regen": 0.0
+  },
+  "statistics": {
+    "dexterity": [
+      90,
+      100
+    ],
+    "endurance": [
+      106,
+      108
+    ],
+    "intelligence": [
+      164,
+      170
+    ],
+    "strength": [
+      100,
+      110
+    ],
+    "willpower": [
+      96,
+      107
+    ]
+  },
+  "tags": [
+    "38"
+  ],
+  "weapon": {
+    "attack_speed": 1.0,
+    "critical_hit": 0.0,
+    "damage": [
+      {
+        "dmg_max": 40,
+        "dmg_min": 25,
+        "dmg_type": "poison"
+      }
+    ],
+    "hands": 1,
+    "hit_bonus": 0,
+    "parry_bonus": 0,
+    "range": 1,
+    "type": 0
+  }
+}

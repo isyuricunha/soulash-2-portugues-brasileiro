@@ -1,0 +1,21 @@
+{
+  "animation": "core_2_Cold_breath",
+  "cast_time": 1.0,
+  "cooldown": 0.0,
+  "cost": {
+    "health": 0,
+    "stamina": 0
+  },
+  "description": "Está frio aqui fora, sua resistência ::damage_type é reduzida em ::resistance.",
+  "duration": 50.0,
+  "effects": {
+    "damage_type": "frost",
+    "resistance": -10
+  },
+  "id": "169",
+  "image": 738,
+  "name": "Frio",
+  "range": 0,
+  "skill": "core_2_cryomancy",
+  "target": "self"
+}

@@ -1,0 +1,56 @@
+{
+  "category_id": 7,
+  "components": [
+    "block_light",
+    "collidable",
+    "craftable",
+    "glyph",
+    "health",
+    "minimap_pixel",
+    "name",
+    "position_2d"
+  ],
+  "corpse": "791",
+  "craftable": {
+    "backgrounds": [],
+    "biomes": [],
+    "magic_slots": 0,
+    "resource_types": [
+      {
+        "amount": 2,
+        "id": 3
+      }
+    ],
+    "resources": [
+      {
+        "amount": 1,
+        "id": "2006"
+      }
+    ],
+    "time": 20,
+    "tools": []
+  },
+  "description": "A functional holder for books, keeping them upright for easy reading or display.",
+  "glyph": {
+    "frames": [
+      {
+        "color": [
+          255,
+          255,
+          255
+        ],
+        "delay": 0,
+        "index": 1613
+      }
+    ],
+    "random_frame_start": true
+  },
+  "health": 50,
+  "id": "2462",
+  "minimap_pixel": [
+    218,
+    131,
+    77
+  ],
+  "name": "Book Stand"
+}

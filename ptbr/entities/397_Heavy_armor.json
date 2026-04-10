@@ -1,0 +1,66 @@
+{
+  "armor": {
+    "acid": 0,
+    "death": 3,
+    "electricity": 0,
+    "fire": 3,
+    "frost": 0,
+    "holy": 0,
+    "parry": 0,
+    "physical": 6,
+    "poison": 3
+  },
+  "components": [
+    "armor",
+    "craftable",
+    "glyph",
+    "item",
+    "minimap_pixel",
+    "name",
+    "position_2d",
+    "value",
+    "weight"
+  ],
+  "craftable": {
+    "magic_slots": 4,
+    "resource_types": [
+      {
+        "amount": 4,
+        "id": 1
+      }
+    ],
+    "resources": null,
+    "time": 250,
+    "tools": [
+      1
+    ]
+  },
+  "description": "Steel armor offers great protection, but requires above average strength from it's wearer.",
+  "glyph": {
+    "frames": [
+      {
+        "color": [
+          255,
+          255,
+          255
+        ],
+        "delay": 0,
+        "index": 606
+      }
+    ],
+    "random_frame_start": false
+  },
+  "id": "397",
+  "item": {
+    "image": 68,
+    "type": 4
+  },
+  "minimap_pixel": [
+    147,
+    133,
+    127
+  ],
+  "name": "Heavy Armor",
+  "value": 3500,
+  "weight": 6.0
+}

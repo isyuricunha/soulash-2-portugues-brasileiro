@@ -1,0 +1,68 @@
+{
+  "armor": {
+    "acid": 0,
+    "death": 0,
+    "electricity": 0,
+    "fire": 0,
+    "frost": 2,
+    "holy": 1,
+    "parry": 0,
+    "physical": 0,
+    "poison": 2,
+    "thorns": 0
+  },
+  "components": [
+    "armor",
+    "craftable",
+    "glyph",
+    "item",
+    "minimap_pixel",
+    "name",
+    "position_2d",
+    "value",
+    "weight"
+  ],
+  "craftable": {
+    "backgrounds": [],
+    "biomes": [],
+    "magic_slots": 3,
+    "resource_types": [
+      {
+        "amount": 3,
+        "id": 4
+      }
+    ],
+    "time": 40,
+    "tools": [
+      12
+    ]
+  },
+  "description": "A camisa branca mais simples e entediante que existe.",
+  "glyph": {
+    "frames": [
+      {
+        "color": [
+          255,
+          255,
+          255
+        ],
+        "delay": 0,
+        "index": 635
+      }
+    ],
+    "random_frame_start": false
+  },
+  "id": "777",
+  "item": {
+    "image": 275,
+    "type": 5
+  },
+  "minimap_pixel": [
+    89,
+    154,
+    38
+  ],
+  "name": "Camisa Longa",
+  "value": 900,
+  "weight": 0.5
+}

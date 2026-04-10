@@ -1,0 +1,40 @@
+{
+  "components": [
+    "glyph",
+    "item",
+    "minimap_pixel",
+    "name",
+    "position_2d",
+    "stackable",
+    "value",
+    "weight"
+  ],
+  "description": "Este fio pode ser usado na produção de seda durável e flexível.",
+  "glyph": {
+    "frames": [
+      {
+        "color": [
+          255,
+          255,
+          255
+        ],
+        "delay": 0,
+        "index": 332
+      }
+    ],
+    "random_frame_start": false
+  },
+  "id": "2123",
+  "item": {
+    "image": 454,
+    "type": 16
+  },
+  "minimap_pixel": [
+    200,
+    200,
+    200
+  ],
+  "name": "Fio de Aranha",
+  "value": 50,
+  "weight": 0.10000000149011612
+}

@@ -1,0 +1,91 @@
+{
+  "armor": {
+    "acid": -2,
+    "death": 0,
+    "electricity": 1,
+    "fire": -5,
+    "frost": 2,
+    "holy": 0,
+    "parry": 0,
+    "physical": 1,
+    "poison": 0,
+    "thorns": 0
+  },
+  "components": [
+    "armor",
+    "block_light",
+    "collidable",
+    "glyph",
+    "health",
+    "minimap_pixel",
+    "name",
+    "position_2d",
+    "producer"
+  ],
+  "corpse": "62",
+  "description": "Estátua feita de madeira retratando um elfo chorando incontrolavelmente.",
+  "glyph": {
+    "frames": [
+      {
+        "color": [
+          255,
+          255,
+          255
+        ],
+        "delay": 0,
+        "index": 3178
+      },
+      {
+        "color": [
+          255,
+          255,
+          255
+        ],
+        "delay": 0,
+        "index": 1094
+      },
+      {
+        "color": [
+          255,
+          255,
+          255
+        ],
+        "delay": 0,
+        "index": 1095
+      },
+      {
+        "color": [
+          255,
+          255,
+          255
+        ],
+        "delay": 0,
+        "index": 1096
+      }
+    ],
+    "random_frame_start": true
+  },
+  "health": 150,
+  "id": "core_2_Weeping_Statue",
+  "minimap_pixel": [
+    71,
+    48,
+    17
+  ],
+  "name": "Estátua Chorosa",
+  "producer": {
+    "products": {
+      "core_2_deconstruct": [
+        {
+          "amount": [
+            0,
+            0
+          ],
+          "id": "",
+          "percent_chance": 0
+        }
+      ]
+    },
+    "time": 20
+  }
+}

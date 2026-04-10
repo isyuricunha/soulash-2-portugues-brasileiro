@@ -1,0 +1,26 @@
+{
+  "animation": "core_2_Hedgehog",
+  "cast_time": 0.6000000238418579,
+  "cooldown": 25.0,
+  "cost": {
+    "health": 0,
+    "stamina": 6
+  },
+  "description": "Deal bonus ::damage_bonus_percent% damage, and gain +::thorns thorns, but your movement speed becomes slower by ::movement_speed.",
+  "duration": 10.0,
+  "effects": {
+    "damage_bonus_percent": 0.20000000298023224,
+    "movement_speed": 1.0,
+    "thorns": 5
+  },
+  "id": "core_2_Hedgehog",
+  "image": 712,
+  "name": "Hedgehog",
+  "range": 0,
+  "skill": "core_2_pole_fighting",
+  "slots": {
+    "defensive": 2,
+    "utility": 1
+  },
+  "target": "self"
+}

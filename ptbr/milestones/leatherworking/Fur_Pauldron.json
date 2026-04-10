@@ -1,0 +1,15 @@
+{
+  "id": "core_2_fur_pauldron",
+  "name": "Fur Pauldron",
+  "requirements": {
+    "skill": 19
+  },
+  "rewards": [
+    {
+      "recipe": "2178"
+    }
+  ],
+  "skill_id": "core_2_leatherworking",
+  "steps": [],
+  "steps_type": 0
+}

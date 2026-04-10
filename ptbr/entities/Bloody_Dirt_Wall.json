@@ -1,0 +1,67 @@
+{
+  "background": {
+    "color": [
+      44,
+      45,
+      41
+    ],
+    "noise": 4
+  },
+  "components": [
+    "background",
+    "block_light",
+    "collidable",
+    "glyph",
+    "health",
+    "height",
+    "minimap_pixel",
+    "name",
+    "position_2d",
+    "producer"
+  ],
+  "corpse": [
+    {
+      "damage_type": 2,
+      "id": "2018"
+    }
+  ],
+  "description": "Uma parede de terra fácil de cavar, encharcada com sangue pegajoso.",
+  "glyph": {
+    "frames": [
+      {
+        "color": [
+          255,
+          255,
+          255
+        ],
+        "delay": 0,
+        "index": 3015
+      }
+    ],
+    "random_frame_start": false
+  },
+  "health": 50,
+  "height": 10,
+  "id": "core_2_Bloody_Dirt_Wall",
+  "minimap_pixel": [
+    55,
+    35,
+    10
+  ],
+  "name": "Parede de Terra Sangrenta",
+  "producer": {
+    "products": {
+      "12": [
+        {
+          "amount": [
+            0,
+            0
+          ],
+          "id": "",
+          "percent_chance": 100
+        }
+      ]
+    },
+    "time": 40
+  }
+}

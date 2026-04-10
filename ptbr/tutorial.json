@@ -1,0 +1,270 @@
+{
+  "combat": {
+    "description": "The most basic form of combat in Soulash 2 is melee fighting. To attack someone in melee, you can [color=45,121,37,255]walk into your target[/color] or choose a [color=45,121,37,255]Melee Attack action[/color] and a single attack will be performed, or more if you wield more weapons.\n\nThe first selection on a being will highlight it as a target, allowing you to perform your single target actions and abilities without further confirmation.\n\n::ranged_attack\n\nOther than regular attacks, you may use special abilities. You may acquire new abilities by improving your skills. Check out Skills Screen ::enter_skills and assigning them to your ability bar.",
+    "title": "Combat",
+    "keys_keyboard": [
+      {
+        "id": "::ranged_attack",
+        "text": "If you have a ranged weapon like a bow, crossbow, or throwing weapon, you can attack enemies at range by pressing [color=45,121,37,255]t[/color] and selecting your target."
+      },
+      {
+        "id": "::enter_skills",
+        "text": "by pressing [color=45,121,37,255]v[/color]"
+      }
+    ],
+    "gamepad_keys": [
+      {
+        "id": "::ranged_attack",
+        "text": "If you have a ranged weapon like a bow, crossbow, or throwing weapon, you the default attack option will reflect that on selected target."
+      },
+      {
+        "id": "::enter_skills",
+        "text": "by pressing [color=45,121,37,255]Start[/color] on your gamepad and navigating to the screen with [color=45,121,37,255]RB[/color]"
+      }
+    ]
+  },
+  "creating_items": {
+    "description": "To access the list of available recipes you can choose the corresponding button ::crafting_screen.\n\nWhen you hover over a recipe, you'll see its description with the resources and tools needed to create it. Once you select the recipe, ::select_resources resources under Available Resources column, or purchase them if the settlement you're at offers them.\n\nTo finalize crafting an item, you must fill all top slots for basic resources, the magic ingredients are optional.\n\nIf you stop the item creation process you may resume it later without paying the cost again, unless you explicitly cancel the item.\n\nIf you or the crafter NPC you're talking with knows the recipe for an item you own, you may also upgrade it by replacing any of the resources in it.\n\nTo learn new recipes, advance in skills that provide them - see the list of milestones in the Skills tab.",
+    "title": "Crafting",
+    "keys_keyboard": [
+      {
+        "id": "::crafting_screen",
+        "text": "ability bar or press [color=45,121,37,255]c[/color] key"
+      },
+      {
+        "id": "::select_resources",
+        "text": "drag & drop"
+      }
+    ],
+    "gamepad_keys": [
+      {
+        "id": "::crafting_screen",
+        "text": "above your ability bar or with [color=45,121,37,255]Gamepad Start[/color] key and navigating there with [color=45,121,37,255]RB[/color]"
+      },
+      {
+        "id": "::select_resources",
+        "text": "select"
+      }
+    ]
+  },
+  "fatigue": {
+    "description": "After you took a rest, you might have noticed that your stamina bar gained a bit of an [color=176,101,43,255]orange indicator[/color] at the end.\n\nThis is fatigue and you will gain more of it when you rest. Fatigue reduces your maximum stamina by its amount, but you can recover by performing ::sleep_action. Sleeping can be dangerous if done in the open where an enemy group could stumble upon you.",
+    "title": "Fatigue",
+    "keys_keyboard": [
+      {
+        "id": "::sleep_action",
+        "text": "[color=45,121,37,255]Sleep Action (R key)[/color]"
+      }
+    ],
+    "gamepad_keys": [
+      {
+        "id": "::sleep_action",
+        "text": "[color=45,121,37,255]Sleep Action[/color] in contextual menu when you select yourself."
+      }
+    ]
+  },
+  "health": {
+    "description": "You got hit!\n\nYou should see a [color=184,35,35,255]red bar indicating your health[/color] on the top left section of your screen. Keep an eye on it, because when it drops to 0 your character will die!\n\nYour health will regenerate slowly over time, but you can speed it up with some abilities or items like bandages.",
+    "title": "Health"
+  },
+  "hunger": {
+    "description": "Hunger and Thirst represent the need to consume food and water, and you'll see them as the green and blue bars in the top left of your screen. When [color=45,121,37,255]hunger or thirst drops below 0, they reset to 100 and you gain starvation or dehydration mark[/color] under the bar.\n\nEach starvation and dehydration mark reduces all your base statistics by 2.\n\nWhen starvation or dehydration marks fill the bar fully, your character will die (except in High Fantasy mode, where you will suffer).\n\nOnce the bars drop, you will eat and drink automatically as long as you have food and water in your backpack. The order food in your backpack determines the priority of consumption starting from top left, and searching horizontally.\n\nYou can't travel between regions if your starvation or dehydration reaches level 4, so make sure you don't get stuck in a region without food or water.\n\nYou may quench your thirst automatically by [color=45,121,37,255]passing by the river on the world map[/color], and most [color=45,121,37,255]settlements will have a water source in their center area[/color].",
+    "title": "Hunger & Thirst"
+  },
+  "inventory": {
+    "description": "You can access your inventory screen with ::inventory_screen. This screen is separated into three parts.\n\n[color=45,121,37,255]Left part displays Statistics[/color] of your character. You can read their description by ::hovering. These stats are non-refundable so choose them carefully. Below, you can find damage and protection of your character, as well as hit and parry chance. These values will be explained more in-depth when we get into combat section.\n\n[color=45,121,37,255]The middle part displays Equipment[/color], items that your character currently wears. Clothes, armors, weapons, shields, or jewelry. These slots will highlight when you select a corresponding item in your backpack.\n\n[color=45,121,37,255]Backpack is the last part of the screen[/color], where you can find everything you are carrying. By selecting an item you will see a list of available actions at the bottom with highlighted hotkeys associated with them.",
+    "title": "Inventory",
+    "keys_keyboard": [
+      {
+        "id": "::inventory_screen",
+        "text": "[color=45,121,37,255]i[/color] key or by clicking an icon in your action bar"
+      },
+      {
+        "id": "::hovering",
+        "text": "hovering over their names. If you acquire new points, you'll see the +/- and accept buttons to distribute them"
+      }
+    ],
+    "gamepad_keys": [
+      {
+        "id": "::inventory_screen",
+        "text": "a button above your ability bar or with [color=45,121,37,255]Gamepad Start[/color] key and navigating there with [color=45,121,37,255]RB[/color]"
+      },
+      {
+        "id": "::hovering",
+        "text": "navigating the +/- buttons when you have new statistics to redistribute"
+      }
+    ]
+  },
+  "leveling_up": {
+    "description": "In Soulash 2 you advance your skills by performing various tasks.\n\nYou can check which tasks advance in each skill tooltip, available in your Skill Book.\n\n[color=72,125,143,255]The Blue bar at the bottom of each ability[/color] indicates how much more experience you need before you'll advance.\n\nWith each milestone, you may gain a new ability, an amplifier to enhance your abilities, learn a new crafting or building recipe, unlock new world interaction actions, or a passive bonus.\n\nYour skills have a limit called Potential. Your character has a maximum level of potential that you can see above your skills list, which applies to the sum of all skill levels, and every skill may have an individual level of potential.\n\nYou may improve your skill potential by finding a trainer NPC and pay gold to teach you new things.",
+    "title": "Leveling"
+  },
+  "looking": {
+    "description": "You can ::hover.",
+    "title": "Looking Around",
+    "keys_keyboard": [
+      {
+        "id": "::hover",
+        "text": "use your mouse to target a tile on the map and [color=45,121,37,255]hold left shift[/color] to see description of everything that is there.\n\nYou can also [color=45,121,37,255]hold left alt + left click[/color] on a tile or choose [color=45,121,37,255]Look At[/color] action from the action wheel"
+      }
+    ],
+    "gamepad_keys": [
+      {
+        "id": "::hover",
+        "text": "rotate your sight direction with [color=45,121,37,255]Right Stick[/color]. When you hold [color=45,121,37,255]LT[/color] you'll instead navigate around nearby tiles with [color=45,121,37,255]Right Stick[/color]. While also holding [color=45,121,37,255]RB[/color] you can see description of what can be found in the tile"
+      }
+    ]
+  },
+  "movement": {
+    "description": "When you navigate to a tile, you will see a default action icon that you may perform by ::click. In case of any NPC being in the tile, the default action will be to select it.\n\nUsually, the default action will be to move, but in some cases, a different action may be more appropriate.\n\nIf the default action is not what you wish to do, use the right mouse button to toggle an action wheel and choose from all available activities.",
+    "title": "Movement",
+    "keys_keyboard": [
+      {
+        "id": "::click",
+        "text": "clicking the [color=45,121,37,255]Left Mouse Button[/color]"
+      }
+    ],
+    "gamepad_keys": [
+      {
+        "id": "::click",
+        "text": "pressing the [color=45,121,37,255]Gamepad A[/color]"
+      }
+    ]
+  },
+  "sight": {
+    "description": "Can you see a [color=45,121,37,255]blue arrow[/color] near your character's portrait border? This is a sight direction indicator, it shows which direction you are looking at.\n\nEvery being with eyes in the game will have such an indicator.\n[color=120,120,120,255]Grey colored[/color] indicator means this creature is neutral toward you.\n[color=178,58,51,255]Red color[/color] means that the enemy [color=178,58,51,255]is aware[/color] of your presence and will attack.\n\nYou can rotate using the Look Action, or ::rotate.",
+    "title": "Sight",
+    "keys_keyboard": [
+      {
+        "id": "::rotate",
+        "text": "holding [color=45,121,37,255]Left Alt[/color] and clicking a tile away from your character"
+      }
+    ],
+    "gamepad_keys": [
+      {
+        "id": "::rotate",
+        "text": "[color=45,121,37,255]Left Stick[/color]"
+      }
+    ]
+  },
+  "nearby": {
+    "description": "Did you see that [color=178,58,51,255]red exlamation mark[/color] in the dark?\n\nIt means your character heard [color=178,58,51,255]something suspicious[/color] there.\n\nYou can detect threats more frequently by increasing Willpower and Hearing statistics or move more silently by increasing Dexterity and Sneaking.\n\nSneaking won't help you if you are in a line of sight of your enemy, so remember to take note of the sight direction markers pointing out of the circles.",
+    "title": "Someone Nearby"
+  },
+  "pickup": {
+    "description": "When there are items on the ground you can choose a Pick Up action from the action wheel. If there's more than one item, a popup will appear allowing you to choose items to take.\n\nSome items might be too heavy, in which case you'll get notified in the message log. You can see your current carry weight at the bottom of your backpack.\n\nYou can also [color=45,121,37,255]drop items[/color] to make room by selecting them in your inventory screen and pressing ::drop.\n\nPicking up items marked as owned by someone else in the settlement may result in committing a stealing crime!",
+    "title": "Picking Up Items",
+    "keys_keyboard": [
+      {
+        "id": "::drop",
+        "text": "[color=45,121,37,255]d[/color] key"
+      }
+    ],
+    "gamepad_keys": [
+      {
+        "id": "::drop",
+        "text": "[color=45,121,37,255]Gamepad Y[/color] button"
+      }
+    ]
+  },
+  "stamina": {
+    "description": "Do you see the yellow bar in the top left of your screen? That is your stamina bar. Your stamina is being depleted by your actions like movement, attacking, or crafting. You can increase [color=45,121,37,255]Endurance[/color] statistic to reduce the stamina reduction.\n\nYou may regain your stamina by ::rest.",
+    "title": "Stamina",
+    "keys_keyboard": [
+      {
+        "id": "::rest",
+        "text": "pressing [color=45,121,37,255]r[/color] key to rest, or right clicking on yourself and choosing the [color=45,121,37,255]Rest Action[/color]"
+      }
+    ],
+    "gamepad_keys": [
+      {
+        "id": "::rest",
+        "text": "choosing the [color=45,121,37,255]Rest Action[/color] after selecting yourself"
+      }
+    ]
+  },
+  "world_map": {
+    "description": "Select a region to see its name and discovered resources on the left, and to travel there select the Move to Region button. Once you arrive you may enter the region. Traveling will consume food and water, but you will automatically drink if you pass by the river.\n\nYou won't be able to travel when you reach 4th level of starvation or dehydration, so keep an eye on your supplies!\n\nYou can navigate the map with ::navigate. You can also zoom in or out with ::zoom.",
+    "title": "World Map",
+    "keys_keyboard": [
+      {
+        "id": "::navigate",
+        "text": "[color=45,121,37,255]WASD keys or holding right mouse button[/color]"
+      },
+      {
+        "id": "::zoom",
+        "text": "[color=45,121,37,255]mouse wheel or +/- keys[/color]"
+      }
+    ],
+    "gamepad_keys": [
+      {
+        "id": "::navigate",
+        "text": "[color=45,121,37,255]Right Stick[/color]"
+      },
+      {
+        "id": "::zoom",
+        "text": "[color=45,121,37,255]Left and Right Trigger[/color] buttons"
+      }
+    ]
+  },
+  "building": {
+    "description": "In Soulash 2 you can build your own structures. Press ::building_key to access the list of available structures or selecting the building action icon in the action bar.\n\nWhen you choose a structure you want to build you will see required resources at the bottom, sometimes you'll be able to choose resources of required type.\n\nIf you stop the building process for any reason, you may resume it later without paying the cost again, unless you explicitly cancel the item.",
+    "title": "Building",
+    "keys_keyboard": [
+      {
+        "id": "::building_key",
+        "text": "[color=45,121,37,255]l[/color] key"
+      }
+    ],
+    "gamepad_keys": [
+      {
+        "id": "::building_key",
+        "text": "[color=45,121,37,255]D-pad Left[/color] button"
+      }
+    ]
+  },
+  "scoring": {
+    "description": "After your playthrough, whether it is successful or not, you will see the overview screen of your accomplishments with the final score value. The score value is calculated as follows:\n\n- Every crafted item, upgraded item, built structure, and creature met is worth [color=45,121,37,255]1[/color] point.\n- Every skill earned above your starting skills is worth [color=45,121,37,255]4[/color] points.\n- Every year passed equals [color=45,121,37,255]100[/color] points.\n- Every discovered region equals [color=45,121,37,255]1[/color] point and every plundered special location is worth [color=45,121,37,255]10[/color] points.\n- Every 100 gold earned while trading is worth [color=45,121,37,255]1[/color] point.\n- Every resurrection costs [color=45,121,37,255]-100[/color] points.",
+    "title": "Scoring"
+  },
+  "welcome_demo": {
+    "description": "Welcome to Soulash 2 demo!\n\nSoulash 2 is a sandbox open world RPG roguelike with no restrictions on your goals and aspirations. Travel, craft, build, fight and grow stronger. You may trade with existing settlements, or wipe them out as you see fit.\n\n::interact\n\nThis game is best played without much hand-holding, like in the good old days, except with informative tooltips. The best way to begin this game is by traveling around the world and visiting special locations that pop up, while figuring out the immediate challenge of starvation and dehydration as you go.\n\nThe demo version has the following limitations:\n- Skills limited to level 20 instead of 50, with some being unavailable.\n- Only 1 out of 4 difficulty tiers for special locations available.\n- Only smaller world maps can be generated.\n- New settlement cannot be established.\n- Wars are disabled.\n- Necrotyrant bastion is disabled.\n- Modding and cheats disabled.\n\nEnjoy your time exploring the world you've created, and pick up the full game if you want more fun!",
+    "title": "Welcome",
+    "keys_keyboard": [
+      {
+        "id": "::interact",
+        "text": "Interact with the world using mouse, and [color=45,121,37,255]right click[/color] to see alternative actions."
+      }
+    ],
+    "gamepad_keys": [
+      {
+        "id": "::interact",
+        "text": "Interact with the world by holding [color=45,121,37,255]LT[/color] while navigating with [color=45,121,37,255]Right Stick[/color], and press [color=45,121,37,255]Gamepad Y[/color] to see alternative actions."
+      }
+    ]
+  },
+  "welcome": {
+    "description": "Welcome to Soulash 2!\n\nSoulash 2 is a sandbox open world RPG roguelike with no restrictions on your goals and aspirations. Travel, craft, build, fight and grow stronger. You may trade with existing settlements, or wipe them out as you see fit.\n\n::interact\n\nThis game is best played without much hand-holding, like in the good old days, except with informative tooltips. The best way to begin this game is by traveling around the world and visiting special locations that pop up, while figuring out the immediate challenge of starvation and dehydration as you go.\n\nEnjoy your time exploring the world you've created!",
+    "title": "Welcome",
+    "keys_keyboard": [
+      {
+        "id": "::interact",
+        "text": "Interact with the world using mouse, and [color=45,121,37,255]right click[/color] to see alternative actions."
+      }
+    ],
+    "gamepad_keys": [
+      {
+        "id": "::interact",
+        "text": "Interact with the world by holding [color=45,121,37,255]LT[/color] while navigating with [color=45,121,37,255]Right Stick[/color], and press [color=45,121,37,255]Gamepad Y[/color] to see alternative actions."
+      }
+    ]
+  },
+  "crime": {
+    "description": "Committing a crime in any settlement may have dire consequences, as any crime you commit, be it stealing, vandalism, assault, or murder, will result in a bounty on your head.\n\nWith a bounty, military units will attack you on sight in the settlement where you've committed a crime.\n\nYou can find settlements where you committed a crime in the Knowledge Screen - they will have a wanted poster icon near their name on the list.\n\nOn the same screen, you can find details about your wanted poster and pay it off to nullify your crimes.\n\nBeware that some crimes may be unforgivable in certain cultures, in which case your death or self-banishment will be the only way to resolve the situation.",
+    "title": "Crime"
+  },
+  "aging": {
+    "description": "Your character begins their journey as a young adult, full of hopes and dreams of big adventures.\n\nAs time progresses, and you manage to survive the dangers of the world, you may one day reach the elderly age, where you will begin to slowly lose your physical attributes, but gain mental attributes and additional maximum skill potential.\n\nWhen your endurance drops to 1 as an elderly character, you'll have a chance of dying of natural causes during every step you take.",
+    "title": "Aging"
+  }
+}

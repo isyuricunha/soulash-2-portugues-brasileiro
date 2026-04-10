@@ -1,0 +1,15 @@
+{
+  "id": "core_2_smesh",
+  "name": "Smesh",
+  "requirements": {
+    "skill": 50
+  },
+  "rewards": [
+    {
+      "ability": "190"
+    }
+  ],
+  "skill_id": "core_2_mace_fighting",
+  "steps": [],
+  "steps_type": 0
+}

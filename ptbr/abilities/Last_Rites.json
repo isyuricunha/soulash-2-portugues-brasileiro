@@ -1,0 +1,27 @@
+{
+  "animation": "core_2_Last_Rites",
+  "cast_time": 5.0,
+  "cooldown": 5.0,
+  "cost": {
+    "health": 0,
+    "item_type": 18,
+    "stamina": 5
+  },
+  "description": "Recite the last rites for the soul stolen from body, burn the body, and make the soul accept it's defeat and new purpose. This ability consumes a corpse and restores 20-40 health to the caster.",
+  "duration": 0.0,
+  "effects": {
+    "heal": [
+      20,
+      40
+    ]
+  },
+  "id": "core_2_Last_Rites",
+  "image": 553,
+  "name": "Last Rites",
+  "range": 2,
+  "skill": "core_2_divine_fists",
+  "slots": {
+    "utility": 2
+  },
+  "target": "corpse"
+}

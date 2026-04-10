@@ -1,0 +1,20 @@
+{
+  "animation": "-1",
+  "cast_time": 1.0,
+  "cooldown": 0.0,
+  "cost": {
+    "health": 0,
+    "stamina": 0
+  },
+  "description": "Está frio aqui fora, sua resistência ::damage_type é reduzida por ::resistance.",
+  "duration": 50.0,
+  "effects": {
+    "damage_type": "frost",
+    "resistance": -10
+  },
+  "id": "169",
+  "image": 447,
+  "name": "Frio",
+  "range": 0,
+  "target": "self"
+}

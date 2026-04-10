@@ -1,0 +1,15 @@
+{
+  "id": "core_2_reinforce_fur_armor",
+  "name": "Reinforced Fur Armor",
+  "requirements": {
+    "skill": 48
+  },
+  "rewards": [
+    {
+      "recipe": "2219"
+    }
+  ],
+  "skill_id": "core_2_leatherworking",
+  "steps": [],
+  "steps_type": 0
+}

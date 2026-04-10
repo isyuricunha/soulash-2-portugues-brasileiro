@@ -1,0 +1,15 @@
+{
+  "id": "core_2_lamellar_armor",
+  "name": "Lamellar Armor",
+  "requirements": {
+    "skill": 29
+  },
+  "rewards": [
+    {
+      "recipe": "2180"
+    }
+  ],
+  "skill_id": "core_2_leatherworking",
+  "steps": [],
+  "steps_type": 0
+}

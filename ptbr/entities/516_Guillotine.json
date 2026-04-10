@@ -1,0 +1,70 @@
+{
+  "category_id": 7,
+  "components": [
+    "block_light",
+    "craftable",
+    "glyph",
+    "health",
+    "height",
+    "minimap_pixel",
+    "name",
+    "position_2d",
+    "producer"
+  ],
+  "corpse": [],
+  "craftable": {
+    "magic_slots": 0,
+    "resource_types": [
+      {
+        "amount": 4,
+        "id": 3
+      },
+      {
+        "amount": 3,
+        "id": 1
+      }
+    ],
+    "resources": null,
+    "time": 60,
+    "tools": []
+  },
+  "description": "Efficient mechanism for beheading.",
+  "glyph": {
+    "frames": [
+      {
+        "color": [
+          255,
+          255,
+          255
+        ],
+        "delay": 0,
+        "index": 595
+      }
+    ],
+    "random_frame_start": false
+  },
+  "health": 200,
+  "height": 0,
+  "id": "516",
+  "minimap_pixel": [
+    40,
+    40,
+    40
+  ],
+  "name": "Guillotine",
+  "producer": {
+    "products": {
+      "core_2_deconstruct": [
+        {
+          "amount": [
+            0,
+            0
+          ],
+          "id": "-1",
+          "percent_chance": 0
+        }
+      ]
+    },
+    "time": 30
+  }
+}

@@ -1,0 +1,85 @@
+{
+  "components": [
+    "craftable",
+    "glyph",
+    "item",
+    "minimap_pixel",
+    "name",
+    "position_2d",
+    "usable",
+    "value",
+    "weapon",
+    "weight"
+  ],
+  "craftable": {
+    "backgrounds": [],
+    "biomes": [],
+    "magic_slots": 5,
+    "resource_types": [
+      {
+        "amount": 1,
+        "id": 8
+      },
+      {
+        "amount": 1,
+        "id": 9
+      },
+      {
+        "amount": 3,
+        "id": 1
+      }
+    ],
+    "time": 90,
+    "tools": [
+      1
+    ]
+  },
+  "description": "Uma mão de um golem equipada com um grande machado.",
+  "glyph": {
+    "frames": [
+      {
+        "color": [
+          255,
+          255,
+          255
+        ],
+        "delay": 0,
+        "index": 2185
+      }
+    ],
+    "random_frame_start": false
+  },
+  "id": "core_2_Axe_Hand",
+  "item": {
+    "image": 911,
+    "type": 29
+  },
+  "minimap_pixel": [
+    156,
+    160,
+    161
+  ],
+  "name": "Mão de Machado",
+  "usable": {
+    "ability": "28",
+    "recipe": ""
+  },
+  "value": 15000,
+  "weapon": {
+    "attack_speed": 1.0,
+    "critical_hit": 0.0,
+    "damage": [
+      {
+        "dmg_max": 9,
+        "dmg_min": 4,
+        "dmg_type": "physical"
+      }
+    ],
+    "hands": 1,
+    "hit_bonus": 0,
+    "parry_bonus": 0,
+    "range": 1,
+    "type": 0
+  },
+  "weight": 2.5
+}

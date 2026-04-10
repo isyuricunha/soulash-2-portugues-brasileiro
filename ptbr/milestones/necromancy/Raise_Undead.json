@@ -1,0 +1,16 @@
+{
+  "id": "core_2_raise_undead",
+  "name": "Raise Undead",
+  "requirements": {
+    "milestones": [],
+    "skill": 30
+  },
+  "rewards": [
+    {
+      "passive": "core_2_raise_undead"
+    }
+  ],
+  "skill_id": "core_2_necromancy",
+  "steps": [],
+  "steps_type": 0
+}

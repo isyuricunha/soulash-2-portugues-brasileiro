@@ -1,0 +1,82 @@
+{
+  "armor": {
+    "acid": 3,
+    "death": 2,
+    "electricity": 10,
+    "fire": 8,
+    "frost": 2,
+    "holy": 2,
+    "parry": 0,
+    "physical": 8,
+    "poison": 6,
+    "thorns": 0
+  },
+  "category_id": 7,
+  "components": [
+    "armor",
+    "craftable",
+    "glyph",
+    "health",
+    "height",
+    "minimap_pixel",
+    "name",
+    "position_2d",
+    "producer",
+    "resting_place"
+  ],
+  "corpse": "35",
+  "craftable": {
+    "backgrounds": [],
+    "biomes": [],
+    "magic_slots": 0,
+    "resource_types": [
+      {
+        "amount": 3,
+        "id": 6
+      }
+    ],
+    "resources": null,
+    "time": 20,
+    "tools": []
+  },
+  "description": "Bed carved from huge stone block.",
+  "glyph": {
+    "frames": [
+      {
+        "color": [
+          255,
+          255,
+          255
+        ],
+        "delay": 0,
+        "index": 30
+      }
+    ],
+    "random_frame_start": false
+  },
+  "health": 150,
+  "height": 0,
+  "id": "276",
+  "minimap_pixel": [
+    80,
+    90,
+    97
+  ],
+  "name": "Stone Bed",
+  "producer": {
+    "products": {
+      "core_2_deconstruct": [
+        {
+          "amount": [
+            0,
+            0
+          ],
+          "id": "",
+          "percent_chance": 100
+        }
+      ]
+    },
+    "time": 10
+  },
+  "resting_place": 140
+}

@@ -1,0 +1,101 @@
+{
+  "armor": {
+    "acid": 0,
+    "death": 0,
+    "electricity": 2,
+    "fire": 0,
+    "frost": 0,
+    "holy": 0,
+    "parry": 0,
+    "physical": 1,
+    "poison": 0,
+    "thorns": 0
+  },
+  "components": [
+    "armor",
+    "glyph",
+    "item",
+    "minimap_pixel",
+    "name",
+    "position_2d",
+    "resource",
+    "stackable",
+    "statistics",
+    "value",
+    "weapon",
+    "weight"
+  ],
+  "description": "Um tipo de madeira muito durável e barato.",
+  "extra_weight": -0.20000000298023224,
+  "glyph": {
+    "frames": [
+      {
+        "color": [
+          255,
+          255,
+          255
+        ],
+        "delay": 0,
+        "index": 138
+      }
+    ],
+    "random_frame_start": false
+  },
+  "id": "2105",
+  "item": {
+    "image": 525,
+    "type": 16
+  },
+  "minimap_pixel": [
+    117,
+    74,
+    81
+  ],
+  "name": "Madeira de Bambu",
+  "resource": {
+    "affix": "Bamboo",
+    "magic_ingredient": 0,
+    "quality": 3,
+    "type": 3
+  },
+  "statistics": {
+    "dexterity": [
+      0,
+      0
+    ],
+    "endurance": [
+      1,
+      1
+    ],
+    "intelligence": [
+      0,
+      0
+    ],
+    "strength": [
+      0,
+      0
+    ],
+    "willpower": [
+      0,
+      0
+    ]
+  },
+  "value": 850,
+  "weapon": {
+    "attack_speed": 0.0,
+    "critical_hit": 0.0,
+    "damage": [
+      {
+        "dmg_max": 2,
+        "dmg_min": 2,
+        "dmg_type": "physical"
+      }
+    ],
+    "hands": 1,
+    "hit_bonus": 0,
+    "parry_bonus": 0,
+    "range": 0,
+    "type": 9
+  },
+  "weight": 0.10000000149011612
+}
