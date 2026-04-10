@@ -10,7 +10,7 @@
     "value",
     "weight"
   ],
-  "description": "Um cogumelo roxo selvagem. Pode ser comestível.",
+  "description": "Um cogumelo selvagem roxo. Pode ser comestível.",
   "food": {
     "nutrition": 15,
     "on_eat": "",

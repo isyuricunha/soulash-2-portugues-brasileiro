@@ -28,7 +28,7 @@
     "weapon"
   ],
   "corpse": "2779",
-  "description": "Could be valuable if it wasn't trying to kill you.",
+  "description": "Poderia ser valioso se não estivesse tentando te matar.",
   "dialogues": [
     "596",
     "597"
@@ -66,7 +66,7 @@
   "moveable": {
     "speed": 1.0
   },
-  "name": "Animated Opal Vein",
+  "name": "Veio de Opala Animado",
   "sight": {
     "ignore_infra_penalty": false,
     "infravision": true,

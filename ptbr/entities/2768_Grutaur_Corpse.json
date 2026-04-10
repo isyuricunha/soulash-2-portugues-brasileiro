@@ -10,7 +10,7 @@
     "value",
     "weight"
   ],
-  "description": "Furry dead body of a grutaur.",
+  "description": "Corpo peludo morto de um grutaur.",
   "glyph": {
     "frames": [
       {
@@ -39,7 +39,7 @@
     183,
     183
   ],
-  "name": "Grutaur Corpse",
+  "name": "Cadáver de Grutaur",
   "producer": {
     "products": {
       "3": [

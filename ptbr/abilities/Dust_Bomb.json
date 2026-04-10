@@ -16,7 +16,7 @@
   },
   "id": "core_2_Dust_Bomb",
   "image": 770,
-  "name": "Dust Bomb",
+  "name": "Bomba de Pó",
   "range": 8,
   "skill": "",
   "target": "aoe_tile"

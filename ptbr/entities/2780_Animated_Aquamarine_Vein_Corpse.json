@@ -9,7 +9,7 @@
     "producer",
     "weight"
   ],
-  "description": "Animated aquamarine vein but this time it is dead.",
+  "description": "Veio de água-marinha animado, mas desta vez está morto.",
   "glyph": {
     "frames": [
       {
@@ -38,7 +38,7 @@
     128,
     104
   ],
-  "name": "Animated Aquamarine Vein Corpse",
+  "name": "Cadáver de Veio de Água-Marinha Animado",
   "producer": {
     "products": {
       "3": [

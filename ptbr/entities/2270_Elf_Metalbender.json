@@ -40,7 +40,7 @@
       {
         "chance": 1.0,
         "id": "151",
-        "name": "Hammer",
+        "name": "Martelo",
         "stack": 1
       }
     ]
@@ -79,9 +79,9 @@
   "moveable": {
     "speed": 1.100000023841858
   },
-  "name": "Elf Metalbender",
+  "name": "Dobrador de Metais Elfo",
   "persona": {
-    "occupation": "Metalbender"
+    "occupation": "Dobrador de Metais"
   },
   "sight": {
     "ignore_infra_penalty": false,

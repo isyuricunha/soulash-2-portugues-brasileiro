@@ -25,7 +25,7 @@
     "value",
     "weight"
   ],
-  "description": "A mesmerizing blend of feline grace and untamed power, this fur embodies the mysterious allure of the mystical shapeshifting beings.",
+  "description": "Uma mistura fascinante de graça felina e poder indomável, esta pelagem incorpora o fascínio misterioso dos seres místicos metamorfos.",
   "glyph": {
     "frames": [
       {
@@ -50,7 +50,7 @@
     175,
     158
   ],
-  "name": "Werelion Fur",
+  "name": "Pele de Leão Metamorfoseado",
   "resource": {
     "affix": "Splendid",
     "magic_ingredient": 0,

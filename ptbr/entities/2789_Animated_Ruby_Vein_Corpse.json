@@ -8,7 +8,7 @@
     "producer",
     "weight"
   ],
-  "description": "Animated ruby vein but this time it is dead.",
+  "description": "Veio de rubi animado, mas desta vez está morto.",
   "glyph": {
     "frames": [
       {
@@ -33,7 +33,7 @@
     128,
     104
   ],
-  "name": "Animated Ruby Vein Corpse",
+  "name": "Cadáver de Veio de Rubi Animado",
   "producer": {
     "products": {
       "3": [

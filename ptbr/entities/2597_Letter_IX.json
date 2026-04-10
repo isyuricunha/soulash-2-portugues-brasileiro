@@ -8,7 +8,7 @@
     "stackable",
     "weight"
   ],
-  "description": "A letter that reads: \n\"I just hope we won't take the fun too far this time. Blood for the blood gods!\"",
+  "description": "Uma carta que diz: \n\"Eu só espero que não levemos a diversão longe demais desta vez. Sangue para os deuses do sangue!\"",
   "glyph": {
     "frames": [
       {
@@ -33,6 +33,6 @@
     153,
     137
   ],
-  "name": "Letter IX",
+  "name": "Carta IX",
   "weight": 0.10000000149011612
 }

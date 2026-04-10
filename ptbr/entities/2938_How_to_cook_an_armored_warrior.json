@@ -8,7 +8,7 @@
     "stackable",
     "weight"
   ],
-  "description": "Yummy reciepies without removing an armor!",
+  "description": "Receitas deliciosas sem remover uma armadura!",
   "glyph": {
     "frames": [
       {
@@ -33,6 +33,6 @@
     178,
     176
   ],
-  "name": "How to Cook an Armored Warrior",
+  "name": "Como Cozinhar um Guerreiro Armado",
   "weight": 0.20000000298023224
 }

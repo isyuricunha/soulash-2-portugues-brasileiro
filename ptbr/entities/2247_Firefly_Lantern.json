@@ -39,7 +39,7 @@
     "time": 30,
     "tools": []
   },
-  "description": "An elven lantern fueled by fireflies.",
+  "description": "Uma lanterna élfica alimentada por vagalumes.",
   "glyph": {
     "frames": [
       {
@@ -96,5 +96,5 @@
     120,
     42
   ],
-  "name": "Firefly Lantern"
+  "name": "Lanterna de Vagalume"
 }

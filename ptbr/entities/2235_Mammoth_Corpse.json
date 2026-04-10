@@ -10,7 +10,7 @@
     "value",
     "weight"
   ],
-  "description": "A large body of a mammoth.",
+  "description": "Um grande corpo de um mamute.",
   "glyph": {
     "frames": [
       {
@@ -39,7 +39,7 @@
     120,
     120
   ],
-  "name": "Mammoth Corpse",
+  "name": "Cadáver de Mamute",
   "producer": {
     "products": {
       "3": [

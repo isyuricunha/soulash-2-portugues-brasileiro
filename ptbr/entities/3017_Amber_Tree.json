@@ -25,7 +25,7 @@
     "producer"
   ],
   "corpse": [],
-  "description": "An odd tree made entirely out of amber.",
+  "description": "Uma árvore estranha feita inteiramente de âmbar.",
   "glyph": {
     "frames": [
       {
@@ -102,7 +102,7 @@
     93,
     40
   ],
-  "name": "Amber Tree",
+  "name": "Árvore de Âmbar",
   "producer": {
     "products": {
       "5": [

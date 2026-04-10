@@ -56,7 +56,7 @@
       {
         "chance": 1.0,
         "id": "2309",
-        "name": "Guarda-Canela de Couro",
+        "name": "Caneleiras de Couro",
         "stack": 1
       }
     ],
@@ -72,7 +72,7 @@
       {
         "chance": 1.0,
         "id": "394",
-        "name": "Brigandine",
+        "name": "Brigantina",
         "stack": 1
       }
     ]
@@ -109,7 +109,7 @@
   },
   "name": "Rasimi Warchief",
   "persona": {
-    "occupation": "Warchief"
+    "occupation": "Chefe de Guerra"
   },
   "sight": {
     "ignore_infra_penalty": false,

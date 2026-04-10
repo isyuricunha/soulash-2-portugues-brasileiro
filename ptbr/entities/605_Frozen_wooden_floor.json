@@ -25,7 +25,7 @@
       "id": "4"
     }
   ],
-  "description": "The wooden boards that make this floor are frozen.",
+  "description": "As tábuas de madeira que compõem este chão estão congeladas.",
   "glyph": {
     "frames": [
       {
@@ -47,5 +47,5 @@
     46,
     23
   ],
-  "name": "Frozen Wooden Floor"
+  "name": "Chão de Madeira Congelado"
 }

@@ -24,7 +24,7 @@
       15
     ]
   },
-  "description": "This sweet and fragrant orchid nectar, carefully collected from delicate blossoms, holds the essence of nature's beauty in every tantalizing drop.",
+  "description": "Este néctar de orquídea doce e perfumado, cuidadosamente coletado de delicadas flores, contém a essência da beleza da natureza em cada gota tentadora.",
   "glyph": {
     "frames": [
       {
@@ -53,7 +53,7 @@
     186,
     83
   ],
-  "name": "Orchid Nectar",
+  "name": "Néctar de Orquídea",
   "value": 1200,
   "weight": 0.30000001192092896
 }

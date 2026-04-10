@@ -40,7 +40,7 @@
       {
         "chance": 1.0,
         "id": "234",
-        "name": "Bolt",
+        "name": "Dardo",
         "stack": 20
       }
     ],
@@ -48,7 +48,7 @@
       {
         "chance": 1.0,
         "id": "106",
-        "name": "Crossbow",
+        "name": "Besta",
         "stack": 1
       }
     ]
@@ -87,9 +87,9 @@
   "moveable": {
     "speed": 1.2000000476837158
   },
-  "name": "Dwarf Crossbower",
+  "name": "Anão Besteiro",
   "persona": {
-    "occupation": "Crossbower"
+    "occupation": "Besteiro"
   },
   "sight": {
     "ignore_infra_penalty": false,

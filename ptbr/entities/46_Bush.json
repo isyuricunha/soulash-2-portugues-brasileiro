@@ -24,7 +24,7 @@
     "random_resource"
   ],
   "corpse": [],
-  "description": "A series of branches and leaves that obscures the vision and hinders movement.",
+  "description": "Uma série de galhos e folhas que obscurecem a visão e dificultam o movimento.",
   "glyph": {
     "frames": [
       {
@@ -64,7 +64,7 @@
     89,
     31
   ],
-  "name": "Bush",
+  "name": "Arbusto",
   "random_resource": {
     "entity": [
       "816",

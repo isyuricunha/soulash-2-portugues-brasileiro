@@ -41,7 +41,7 @@
       1
     ]
   },
-  "description": "An iron skullcap with a short bar to protect the nose.",
+  "description": "Uma gorra de ferro com uma barra curta para proteger o nariz.",
   "glyph": {
     "frames": [
       {
@@ -66,7 +66,7 @@
     160,
     161
   ],
-  "name": "Nasal Helmet",
+  "name": "Capacete Nasal",
   "value": 2800,
   "weight": 2.5
 }

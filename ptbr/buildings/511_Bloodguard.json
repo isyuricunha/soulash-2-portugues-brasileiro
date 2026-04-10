@@ -4,7 +4,7 @@
   "max": 1,
   "name": "Quartel da Guarda de Sangue",
   "occupation_image": 135,
-  "occupation": "Núcleo 2 Guarda de Sangue Vampiro",
+  "occupation": "core_2_Vampire_Bloodguard",
   "produces": [],
   "race": "6",
   "tier": 3,

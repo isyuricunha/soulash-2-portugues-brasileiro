@@ -48,7 +48,7 @@
       6
     ]
   },
-  "description": "A simply designed yet very sturdy steel door.",
+  "description": "Uma porta de aço com design simples, mas muito resistente.",
   "glyph": {
     "frames": [
       {
@@ -71,11 +71,11 @@
     146,
     172
   ],
-  "name": "Steel Door",
+  "name": "Porta de Aço",
   "openable": {
     "block_light": false,
     "collidable": false,
-    "description": "You see before you a simplistic in design, but very sturdy steel doors, currently opened.",
+    "description": "Você vê diante de si portas de aço com design simplista, mas muito resistentes, atualmente abertas.",
     "glyph": {
       "frames": [
         {

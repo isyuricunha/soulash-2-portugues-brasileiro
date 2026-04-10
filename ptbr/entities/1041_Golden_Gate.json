@@ -80,7 +80,7 @@
   "openable": {
     "block_light": false,
     "collidable": false,
-    "description": "Blocos de pedra são movidos para os lados, permitindo passagem.",
+    "description": "Blocos de pedra são movidos para os lados permitindo a passagem.",
     "glyph": {
       "frames": [
         {

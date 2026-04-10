@@ -25,7 +25,7 @@
     "time": 60,
     "tools": []
   },
-  "description": "Some cutting edge secrets of axe fighting are hidden within those pages.",
+  "description": "Alguns segredos de ponta de combate com machado estão escondidos dentro dessas páginas.",
   "glyph": {
     "frames": [
       {
@@ -50,7 +50,7 @@
     178,
     176
   ],
-  "name": "Book of Axe Fighting",
+  "name": "Livro de Combate com Machado",
   "usable": {
     "ability": "",
     "recipe": "",

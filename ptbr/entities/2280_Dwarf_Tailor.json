@@ -38,7 +38,7 @@
       {
         "chance": 1.0,
         "id": "164",
-        "name": "Scissors",
+        "name": "Tesoura",
         "stack": 1
       }
     ],
@@ -46,7 +46,7 @@
       {
         "chance": 1.0,
         "id": "70",
-        "name": "Knife",
+        "name": "Faca",
         "stack": 1
       }
     ]
@@ -85,9 +85,9 @@
   "moveable": {
     "speed": 1.2000000476837158
   },
-  "name": "Dwarf Tailor",
+  "name": "Anão Alfaiate",
   "persona": {
-    "occupation": "Tailor"
+    "occupation": "Alfaiate"
   },
   "sight": {
     "ignore_infra_penalty": false,

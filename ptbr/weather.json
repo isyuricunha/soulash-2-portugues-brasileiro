@@ -1,7 +1,7 @@
 [
   {
     "id": "1",
-    "name": "Rain",
+    "name": "Chuva",
     "animation": "113",
     "animation_tick": 2000.0,
     "ability": [
@@ -23,11 +23,11 @@
       "high_mountain",
       "peak"
     ],
-    "trigger_message": "It's starting to rain!"
+    "trigger_message": "Está começando a chover!"
   },
   {
     "id": "2",
-    "name": "Acid Rain",
+    "name": "Chuva Ácida",
     "animation": "132",
     "animation_tick": 2000.0,
     "ability": [],
@@ -39,11 +39,11 @@
     "biomes": [
       "swamps"
     ],
-    "trigger_message": "It's starting to rain!"
+    "trigger_message": "Está começando a chover!"
   },
   {
     "id": "3",
-    "name": "Snowfall",
+    "name": "Neve",
     "animation": "182",
     "animation_tick": 2000.0,
     "ability": [
@@ -58,11 +58,11 @@
       "snow",
       "tundra"
     ],
-    "trigger_message": "It's starting to snow!"
+    "trigger_message": "Está começando a nevar!"
   },
   {
     "id": "4",
-    "name": "Fire rain",
+    "name": "Chuva de fogo",
     "animation": "190",
     "animation_tick": 2000.0,
     "ability": [
@@ -74,11 +74,11 @@
     "trigger_every": 25.0,
     "trigger_chance": 0.1,
     "biomes": [],
-    "trigger_message": "It's raining fire!"
+    "trigger_message": "Está chovendo fogo!"
   },
   {
     "id": "5",
-    "name": "Blood rain",
+    "name": "Chuva de sangue",
     "animation": "187",
     "animation_tick": 2000.0,
     "ability": [
@@ -90,11 +90,11 @@
     "trigger_every": 25.0,
     "trigger_chance": 0.1,
     "biomes": [],
-    "trigger_message": "It's raining blood!!!"
+    "trigger_message": "Está chovendo sangue!!!"
   },
   {
     "id": "7",
-    "name": "Heavy rain",
+    "name": "Chuva pesada",
     "animation": "core_2_Heavy_Rain",
     "animation_tick": 2000.0,
     "ability": [
@@ -109,6 +109,6 @@
     "biomes": [
       "tropical_rainforest"
     ],
-    "trigger_message": "It's a cloudburst!"
+    "trigger_message": "É um temporal!"
   }
 ]

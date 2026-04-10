@@ -44,7 +44,7 @@
     "time": 5,
     "tools": []
   },
-  "description": "Short grass found in swamps.",
+  "description": "Grama curta encontrada em pântanos.",
   "glyph": {
     "frames": [
       {
@@ -66,5 +66,5 @@
     58,
     37
   ],
-  "name": "Swamp Grass"
+  "name": "Grama do Pântano"
 }

@@ -21,7 +21,7 @@
   },
   "id": "core_2_Improved_Exploding_Bomb",
   "image": 777,
-  "name": "Improved Exploding Bomb",
+  "name": "Bomba Explosiva Melhorada",
   "range": 8,
   "skill": "",
   "target": "aoe_tile"

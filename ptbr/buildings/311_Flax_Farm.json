@@ -3,7 +3,7 @@
   "image": 240,
   "name": "Fazenda de Linho",
   "occupation_image": 48,
-  "occupation": "core_2_Gnoll_Fazendeiro",
+  "occupation": "core_2_Gnoll_Farmer",
   "produces": [
     {
       "entities": [

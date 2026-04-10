@@ -74,7 +74,7 @@
   "moveable": {
     "speed": 1.100000023841858
   },
-  "name": "Tumbleweed",
+  "name": "Erva-rolante",
   "sight": {
     "ignore_infra_penalty": false,
     "infravision": false,

@@ -6,7 +6,7 @@
     "health": 0,
     "stamina": 8
   },
-  "description": "Throw a bomb at a location, dealing ::damage ::damage_type damage.",
+  "description": "Arremesse uma bomba em um local, causando ::damage de dano ::damage_type.",
   "duration": 1.5,
   "effects": {
     "aoe_break": 1,
@@ -21,7 +21,7 @@
   },
   "id": "core_2_Shrapnel_Bomb",
   "image": 769,
-  "name": "Shrapnel Bomb",
+  "name": "Bomba de Estilhaços",
   "range": 8,
   "skill": "",
   "target": "aoe_tile"

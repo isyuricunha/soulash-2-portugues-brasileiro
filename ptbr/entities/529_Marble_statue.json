@@ -39,7 +39,7 @@
       6
     ]
   },
-  "description": "Statue made of marble preserving an image of a person long gone.",
+  "description": "Estátua feita de mármore preservando a imagem de uma pessoa há muito desaparecida.",
   "glyph": {
     "frames": [
       {
@@ -62,7 +62,7 @@
     124,
     137
   ],
-  "name": "Marble Statue",
+  "name": "Estátua de Mármore",
   "producer": {
     "products": {
       "core_2_deconstruct": [

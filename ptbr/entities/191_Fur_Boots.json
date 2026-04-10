@@ -35,7 +35,7 @@
       14
     ]
   },
-  "description": "Perfect for the coming winter.",
+  "description": "Perfeito para o inverno que se aproxima.",
   "glyph": {
     "frames": [
       {
@@ -60,7 +60,7 @@
     175,
     158
   ],
-  "name": "Fur Boots",
+  "name": "Botas de Pele",
   "value": 6600,
   "weight": 2.0
 }

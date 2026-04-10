@@ -29,7 +29,7 @@
     "time": 30,
     "tools": []
   },
-  "description": "Altar made of skulls and bones, with copper bowls filled with blood.",
+  "description": "Altar feito de crânios e ossos, com tigelas de cobre cheias de sangue.",
   "glyph": {
     "frames": [
       {
@@ -50,7 +50,7 @@
     7,
     7
   ],
-  "name": "Creepy Altar",
+  "name": "Altar Assustador",
   "producer": {
     "products": {
       "core_2_deconstruct": [

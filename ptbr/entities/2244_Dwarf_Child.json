@@ -59,9 +59,9 @@
   "moveable": {
     "speed": 2.0
   },
-  "name": "Dwarf Child",
+  "name": "Criança Anã",
   "persona": {
-    "occupation": "Child"
+    "occupation": "Filhote"
   },
   "sight": {
     "ignore_infra_penalty": false,

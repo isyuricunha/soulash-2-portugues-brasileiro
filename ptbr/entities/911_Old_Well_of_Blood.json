@@ -48,7 +48,7 @@
     "time": 30,
     "tools": []
   },
-  "description": "A well created long ago and overgrown with moss, but should still provide some water. At least it did when Sangre lived, now it holds only blood.",
+  "description": "Um poço criado há muito tempo e coberto de musgo, mas ainda deve fornecer alguma água. Pelo menos fazia quando Sangre vivia, agora contém apenas sangue.",
   "glyph": {
     "frames": [
       {
@@ -74,7 +74,7 @@
     56,
     61
   ],
-  "name": "Old Well of Blood",
+  "name": "Velho Poço de Sangue",
   "producer": {
     "products": {
       "core_2_deconstruct": [

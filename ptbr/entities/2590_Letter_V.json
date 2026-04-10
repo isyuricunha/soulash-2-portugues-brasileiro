@@ -8,7 +8,7 @@
     "stackable",
     "weight"
   ],
-  "description": "A letter that reads:\n\"They are not happy with your work. You need to keep providing the offerings, or you will become one..\"",
+  "description": "Uma carta que diz:\n\"Eles não estão felizes com seu trabalho. Você precisa continuar fornecendo as ofertas, ou se tornará um deles...\"",
   "glyph": {
     "frames": [
       {
@@ -33,6 +33,6 @@
     153,
     137
   ],
-  "name": "Letter V",
+  "name": "Carta V",
   "weight": 0.10000000149011612
 }

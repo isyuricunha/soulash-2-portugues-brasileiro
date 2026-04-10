@@ -6,7 +6,7 @@
     "health": 0,
     "stamina": 6
   },
-  "description": "Attack everyone in a ring around you for ::damage ::damage_type damage.",
+  "description": "Ataque todos em um anel ao seu redor com ::damage de dano ::damage_type.",
   "duration": 0.0,
   "effects": {
     "aoe_break": 0,
@@ -21,7 +21,7 @@
   },
   "id": "core_2_Ring_of_Death",
   "image": 713,
-  "name": "Ring of Death",
+  "name": "Anel da Morte",
   "range": 3,
   "requirements": {
     "one_of": [

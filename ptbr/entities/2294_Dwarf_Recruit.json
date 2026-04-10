@@ -42,7 +42,7 @@
       {
         "chance": 1.0,
         "id": "2185",
-        "name": "Light Axe",
+        "name": "Machado Leve",
         "stack": 1
       }
     ]
@@ -81,9 +81,9 @@
   "moveable": {
     "speed": 1.0
   },
-  "name": "Dwarf Recruit",
+  "name": "Anão Recruta",
   "persona": {
-    "occupation": "Recruit"
+    "occupation": "Recruta"
   },
   "sight": {
     "ignore_infra_penalty": false,

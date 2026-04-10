@@ -6,7 +6,7 @@
     "health": 0,
     "stamina": 0
   },
-  "description": "Summons an immobile bolt thrower that will support you in combat.",
+  "description": "Invoca um besteiro imóvel que irá apoiá-lo em combate.",
   "duration": 40.0,
   "effects": {
     "summon_count": 1

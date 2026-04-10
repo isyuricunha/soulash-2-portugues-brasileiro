@@ -7,7 +7,7 @@
     "item_type": 0,
     "stamina": 0
   },
-  "description": "Neutralizes poison effect.",
+  "description": "Neutraliza o efeito de veneno.",
   "duration": 0.0,
   "effects": {
     "neutralize": [
@@ -17,7 +17,7 @@
   "id": "137",
   "image": 341,
   "level": 0,
-  "name": "Antidote",
+  "name": "Antídoto",
   "range": 0,
   "target": "self"
 }

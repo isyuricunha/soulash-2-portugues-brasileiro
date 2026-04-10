@@ -37,7 +37,7 @@
       {
         "chance": 0.10000000149011612,
         "id": "303",
-        "name": "Head Candle",
+        "name": "Vela de Cabeça",
         "stack": 1
       }
     ],
@@ -45,7 +45,7 @@
       {
         "chance": 1.0,
         "id": "111",
-        "name": "Pickaxe",
+        "name": "Picareta",
         "stack": 1
       }
     ],
@@ -53,7 +53,7 @@
       {
         "chance": 1.0,
         "id": "184",
-        "name": "Shirt",
+        "name": "Camisa",
         "stack": 1
       }
     ]
@@ -92,9 +92,9 @@
   "moveable": {
     "speed": 1.5
   },
-  "name": "Dwarf Miner",
+  "name": "Minerador Anão",
   "persona": {
-    "occupation": "Minerador"
+    "occupation": "Mineiro"
   },
   "sight": {
     "ignore_infra_penalty": false,

@@ -40,7 +40,7 @@
       {
         "chance": 1.0,
         "id": "323",
-        "name": "Tights",
+        "name": "Collant",
         "stack": 1
       }
     ],
@@ -48,7 +48,7 @@
       {
         "chance": 1.0,
         "id": "184",
-        "name": "Shirt",
+        "name": "Camisa",
         "stack": 1
       }
     ]
@@ -87,9 +87,9 @@
   "moveable": {
     "speed": 1.100000023841858
   },
-  "name": "Elf Woodbender",
+  "name": "Elfo Moldador de Madeira",
   "persona": {
-    "occupation": "Woodbender"
+    "occupation": "Curvador de Madeira"
   },
   "sight": {
     "ignore_infra_penalty": false,

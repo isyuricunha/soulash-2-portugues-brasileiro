@@ -68,9 +68,9 @@
   "moveable": {
     "speed": 1.100000023841858
   },
-  "name": "Elf Ambermaker",
+  "name": "Elfo Âmbar",
   "persona": {
-    "occupation": "Ambermaker"
+    "occupation": "Âmbar"
   },
   "sight": {
     "ignore_infra_penalty": false,

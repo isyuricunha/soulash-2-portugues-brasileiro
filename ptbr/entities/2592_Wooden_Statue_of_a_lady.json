@@ -23,7 +23,7 @@
     "producer"
   ],
   "corpse": "62",
-  "description": "Statue made of wood preserving an image of a beautiful lady.",
+  "description": "Estátua feita de madeira preservando a imagem de uma bela dama.",
   "glyph": {
     "frames": [
       {
@@ -72,7 +72,7 @@
     48,
     17
   ],
-  "name": "Wooden Statue of a lady",
+  "name": "Estátua de Madeira de uma Dama",
   "producer": {
     "delay_on_use": 1440,
     "products": {

@@ -39,7 +39,7 @@
       1
     ]
   },
-  "description": "Uniquely shaped shield wielded into battle by ancient armies of United Torifu.",
+  "description": "Escudo com formato único empunhado em batalha por exércitos antigos de Torifu Unido.",
   "glyph": {
     "frames": [
       {
@@ -64,7 +64,7 @@
     57,
     194
   ],
-  "name": "Ancient Shield",
+  "name": "Escudo Ancestral",
   "value": 8000,
   "weight": 5.0
 }

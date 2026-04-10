@@ -6,7 +6,7 @@
     "health": 0,
     "stamina": 5
   },
-  "description": "Envolve a área próxima a você em chamas, causando ::damage ::damage_type de dano em ::aoe_range células ao seu redor.",
+  "description": "Envolve a área próxima a você em chamas, causando ::damage de dano ::damage_type em ::aoe_range células ao seu redor.",
   "duration": 0.0,
   "effects": {
     "aoe_range": 4,

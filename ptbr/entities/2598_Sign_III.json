@@ -8,7 +8,7 @@
     "position_2d"
   ],
   "corpse": [],
-  "description": "Blood for the blood gods!",
+  "description": "Sangue para os deuses do sangue!",
   "glyph": {
     "frames": [
       {
@@ -75,5 +75,5 @@
     108,
     14
   ],
-  "name": "Sign III"
+  "name": "Placa III"
 }

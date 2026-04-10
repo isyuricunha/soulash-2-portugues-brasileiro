@@ -46,7 +46,7 @@
     "time": 30,
     "tools": []
   },
-  "description": "A closed, beautifully ornamented elven door.",
+  "description": "Uma porta élfica fechada, belamente ornamentada.",
   "glyph": {
     "frames": [
       {
@@ -69,11 +69,11 @@
     43,
     10
   ],
-  "name": "Elven Door",
+  "name": "Porta Élfica",
   "openable": {
     "block_light": false,
     "collidable": false,
-    "description": "A open, beautifully ornamented elven door.",
+    "description": "Uma porta élfica aberta, belamente ornamentada.",
     "glyph": {
       "frames": [
         {

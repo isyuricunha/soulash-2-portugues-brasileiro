@@ -43,7 +43,7 @@
       1
     ]
   },
-  "description": "Mystical item that covers only breasts, but protects the whole torso pretty well.",
+  "description": "Item místico que cobre apenas os seios, mas protege todo o torso muito bem.",
   "glyph": {
     "frames": [
       {
@@ -68,7 +68,7 @@
     140,
     183
   ],
-  "name": "Metal Bra",
+  "name": "Sutiã de Metal",
   "value": 1000,
   "weight": 1.5
 }

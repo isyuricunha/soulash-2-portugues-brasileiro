@@ -10,7 +10,7 @@
     "value",
     "weight"
   ],
-  "description": "The remains of an animated gold vein.",
+  "description": "Os restos de um veio de ouro animado.",
   "glyph": {
     "frames": [
       {
@@ -39,7 +39,7 @@
     102,
     57
   ],
-  "name": "Animated Gold Vein Corpse",
+  "name": "Cadáver de Veio de Ouro Animado",
   "producer": {
     "products": {
       "3": [

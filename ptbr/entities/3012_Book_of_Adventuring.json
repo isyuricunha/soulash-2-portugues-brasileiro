@@ -25,7 +25,7 @@
     "time": 60,
     "tools": []
   },
-  "description": "Some practical secrets of adventuring are hidden within those pages.",
+  "description": "Alguns segredos práticos de aventura estão escondidos dentro dessas páginas.",
   "glyph": {
     "frames": [
       {
@@ -50,7 +50,7 @@
     178,
     176
   ],
-  "name": "Book of Adventuring",
+  "name": "Livro de Aventura",
   "usable": {
     "ability": "",
     "recipe": "",

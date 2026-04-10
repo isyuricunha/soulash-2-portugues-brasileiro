@@ -31,7 +31,7 @@
     "tags"
   ],
   "corpse": "2778",
-  "description": "Could be valuable if it wasn't trying to kill you.",
+  "description": "Poderia ser valioso se não estivesse tentando te matar.",
   "dialogues": [
     "596",
     "597"
@@ -70,7 +70,7 @@
   "moveable": {
     "speed": 1.0
   },
-  "name": "Animated Iron Ore",
+  "name": "Minério de Ferro Animado",
   "sight": {
     "ignore_infra_penalty": false,
     "infravision": true,

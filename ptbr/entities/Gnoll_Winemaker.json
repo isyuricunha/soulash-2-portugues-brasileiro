@@ -81,7 +81,7 @@
   },
   "name": "Gnoll Fabricante de Vinho",
   "persona": {
-    "occupation": "Fabricante de Vinho"
+    "occupation": "Vinicultor"
   },
   "sight": {
     "ignore_infra_penalty": false,

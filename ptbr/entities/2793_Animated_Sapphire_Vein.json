@@ -32,7 +32,7 @@
     "weapon"
   ],
   "corpse": "2777",
-  "description": "Could be valuable if it wasn't trying to kill you.",
+  "description": "Poderia ser valioso se não estivesse tentando te matar.",
   "dialogues": [
     "596",
     "597"
@@ -70,7 +70,7 @@
   "moveable": {
     "speed": 1.0
   },
-  "name": "Animated Sapphire Vein",
+  "name": "Veio de Safira Animado",
   "sight": {
     "ignore_infra_penalty": false,
     "infravision": true,

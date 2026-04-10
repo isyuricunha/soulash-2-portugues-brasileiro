@@ -6,7 +6,7 @@
     "health": 0,
     "stamina": 0
   },
-  "description": "Weapons that you hold are enchanted with ::damage_type power increasing damage by ::damage_bonus for ::duration turns.",
+  "description": "Armas que você segura são encantadas com poder ::damage_type aumentando o dano em ::damage_bonus por ::duration turnos.",
   "duration": 10.0,
   "effects": {
     "damage_bonus": 5,

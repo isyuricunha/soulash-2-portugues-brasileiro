@@ -30,7 +30,7 @@
       14
     ]
   },
-  "description": "Might look primitive, but it hurts like more advanced one.",
+  "description": "Pode parecer primitivo, mas dói como um mais avançado.",
   "glyph": {
     "frames": [
       {
@@ -55,7 +55,7 @@
     160,
     161
   ],
-  "name": "Stone Axe",
+  "name": "Machado de Pedra",
   "tool": [
     {
       "id": 13,

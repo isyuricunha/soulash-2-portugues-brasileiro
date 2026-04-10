@@ -29,7 +29,7 @@
       1
     ]
   },
-  "description": "Maces are weapons favored by strong warriors that are very useful for breaking a few bones.",
+  "description": "Maças são armas favorecidas por guerreiros fortes que são muito úteis para quebrar alguns ossos.",
   "glyph": {
     "frames": [
       {
@@ -54,7 +54,7 @@
     160,
     161
   ],
-  "name": "Mace",
+  "name": "Maça",
   "value": 3800,
   "weapon": {
     "attack_speed": 1.0,

@@ -6,7 +6,7 @@
     "health": 3,
     "stamina": 1
   },
-  "description": "Deals ::damage ::damage_type damage to everyone in a cone before the caster.",
+  "description": "Causa ::damage de dano ::damage_type a todos em um cone na frente do conjurador.",
   "duration": 0.0,
   "effects": {
     "aoe_break": 4,

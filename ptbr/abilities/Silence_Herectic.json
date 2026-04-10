@@ -6,7 +6,7 @@
     "health": 0,
     "stamina": 3
   },
-  "description": "You utter holy words to your enemy, preventing it from using abilities for ::duration turns and knocking it back ::knockback tiles.",
+  "description": "Você pronuncia palavras sagradas para seu inimigo, impedindo-o de usar habilidades por ::duration turnos e empurrando-o ::knockback células.",
   "duration": 2.0,
   "effects": {
     "knockback": 5,
@@ -14,7 +14,7 @@
   },
   "id": "core_2_Silence_Herectic",
   "image": 778,
-  "name": "Silence, Herectic!",
+  "name": "Silêncio, Herege!",
   "range": 1,
   "skill": "core_2_divine_fists",
   "slots": {

@@ -28,7 +28,7 @@
     "weapon"
   ],
   "corpse": "2232",
-  "description": "Dark as the night, only the eyes may warn their prey before it's too late.",
+  "description": "Escura como a noite, apenas os olhos podem alertar sua presa antes que seja tarde demais.",
   "dialogues": [
     "580",
     "581",
@@ -91,7 +91,7 @@
   "moveable": {
     "speed": 0.699999988079071
   },
-  "name": "Black Panther",
+  "name": "Pantera Negra",
   "sight": {
     "ignore_infra_penalty": false,
     "infravision": true,

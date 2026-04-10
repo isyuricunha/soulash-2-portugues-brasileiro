@@ -3,7 +3,7 @@
   "image": 135,
   "name": "Fazenda de Cana-de-Açúcar",
   "occupation_image": 90,
-  "occupation": "core_2_Gnoll_Fazendeiro",
+  "occupation": "core_2_Gnoll_Farmer",
   "occupation_per_race": {
     "0": "203",
     "1": "2267",

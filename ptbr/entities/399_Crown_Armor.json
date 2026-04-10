@@ -39,7 +39,7 @@
       1
     ]
   },
-  "description": "This armor is worn only by kings and emperors.",
+  "description": "Esta armadura é usada apenas por reis e imperadores.",
   "glyph": {
     "frames": [
       {
@@ -64,7 +64,7 @@
     165,
     32
   ],
-  "name": "Crown Armor",
+  "name": "Armadura de Coroa",
   "value": 20000,
   "weight": 10.0
 }

@@ -6,14 +6,14 @@
     "health": 0,
     "stamina": 0
   },
-  "description": "Tasty dish grants you bonus ::damage_bonus damage.",
+  "description": "O prato saboroso concede a você um bônus de ::damage_bonus de dano.",
   "duration": 600.0,
   "effects": {
     "damage_bonus": 2
   },
   "id": "core_2_Shephards_Pie",
   "image": 520,
-  "name": "Shepherd's Pie",
+  "name": "Torta do Pastor",
   "range": 0,
   "skill": "",
   "target": "self"

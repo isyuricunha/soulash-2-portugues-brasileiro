@@ -25,7 +25,7 @@
     "time": 60,
     "tools": []
   },
-  "description": "Some precise secrets of carpentry are hidden within those pages.",
+  "description": "Alguns segredos precisos de carpintaria estão escondidos dentro dessas páginas.",
   "glyph": {
     "frames": [
       {
@@ -50,7 +50,7 @@
     178,
     176
   ],
-  "name": "Book of Carpentry",
+  "name": "Livro de Carpintaria",
   "usable": {
     "ability": "",
     "recipe": "",

@@ -6,7 +6,7 @@
     "health": 0,
     "stamina": 4
   },
-  "description": "Summons clouds of smoke temporary bloking vision.",
+  "description": "Invoca nuvens de fumaça bloqueando temporariamente a visão.",
   "duration": 10.0,
   "effects": {
     "aoe_break": 3,
@@ -19,7 +19,7 @@
   },
   "id": "core_2_Smoke_Bomb",
   "image": 773,
-  "name": "Smoke Bomb",
+  "name": "Bomba de Fumaça",
   "range": 8,
   "skill": "",
   "slots": {

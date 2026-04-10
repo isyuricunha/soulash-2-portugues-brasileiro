@@ -38,7 +38,7 @@
       "id": "411"
     }
   ],
-  "description": "This muddy water is frozen.",
+  "description": "Esta água lamacenta está congelada.",
   "glyph": {
     "frames": [
       {
@@ -60,5 +60,5 @@
     75,
     93
   ],
-  "name": "Frozen Muddy Water"
+  "name": "Água Lamacenta Congelada"
 }

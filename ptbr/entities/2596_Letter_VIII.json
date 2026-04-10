@@ -8,7 +8,7 @@
     "stackable",
     "weight"
   ],
-  "description": "An old letter that reads: \n\"Don't let anybody stop you from bettering your position. By taking this palace as your headquarters, you will show them all what you're made of. No other king will match you.\"",
+  "description": "Uma carta antiga que diz: \n\"Não deixe ninguém impedi-lo de melhorar sua posição. Ao tomar este palácio como sua sede, você mostrará a todos do que é feito. Nenhum outro rei o igualará.\"",
   "glyph": {
     "frames": [
       {
@@ -33,6 +33,6 @@
     153,
     137
   ],
-  "name": "Letter VIII",
+  "name": "Carta VIII",
   "weight": 0.10000000149011612
 }

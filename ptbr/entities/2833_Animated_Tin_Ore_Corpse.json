@@ -8,7 +8,7 @@
     "producer",
     "weight"
   ],
-  "description": "Animated tin ore, but this time it is dead.",
+  "description": "Minério de estanho animado, mas desta vez está morto.",
   "glyph": {
     "frames": [
       {
@@ -33,7 +33,7 @@
     128,
     104
   ],
-  "name": "Animated Tin Ore Corpse",
+  "name": "Cadáver de Minério de Estanho Animado",
   "producer": {
     "products": {
       "3": [

@@ -16,7 +16,7 @@
     "name"
   ],
   "corpse": [],
-  "description": "Floor inside an elven Tree of Life. It seems unnatural, maybe carved out with magic.",
+  "description": "Piso dentro de uma Árvore da Vida élfica. Parece antinatural, talvez esculpida com magia.",
   "glyph": {
     "frames": [
       {
@@ -38,5 +38,5 @@
     44,
     7
   ],
-  "name": "Elven Tree Floor"
+  "name": "Piso da Árvore Élfica"
 }

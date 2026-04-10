@@ -43,7 +43,7 @@
       {
         "chance": 1.0,
         "id": "298",
-        "name": "Pants",
+        "name": "Calças",
         "stack": 1
       }
     ],
@@ -51,7 +51,7 @@
       {
         "chance": 1.0,
         "id": "core_2_Toothed_Spear",
-        "name": "Toothed Spear",
+        "name": "Lança Dentada",
         "stack": 1
       }
     ],
@@ -59,7 +59,7 @@
       {
         "chance": 1.0,
         "id": "165",
-        "name": "Leather Armor",
+        "name": "Armadura de Couro",
         "stack": 1
       }
     ]
@@ -100,7 +100,7 @@
   },
   "name": "Reptilion Guard",
   "persona": {
-    "occupation": "Guard"
+    "occupation": "Guarda"
   },
   "sight": {
     "ignore_infra_penalty": false,

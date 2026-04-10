@@ -41,7 +41,7 @@
       {
         "chance": 1.0,
         "id": "854",
-        "name": "Alchemic Fire",
+        "name": "Fogo Alquímico",
         "stack": 4
       }
     ]
@@ -80,9 +80,9 @@
   "moveable": {
     "speed": 1.2000000476837158
   },
-  "name": "Elf Alchemist",
+  "name": "Alquimista Elfo",
   "persona": {
-    "occupation": "Alchemist"
+    "occupation": "Alquimista"
   },
   "sight": {
     "ignore_infra_penalty": false,

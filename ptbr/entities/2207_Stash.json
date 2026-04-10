@@ -27,7 +27,7 @@
     "time": 5,
     "tools": []
   },
-  "description": "This container helps store and share resources among faction members. Claim the region on the world map to create a new settlement and create a stash to access its storage.",
+  "description": "Este recipiente ajuda a armazenar e compartilhar recursos entre os membros da facção. Reivindique a região no mapa do mundo para criar um novo assentamento e criar um esconderijo para acessar seu armazenamento.",
   "glyph": {
     "frames": [
       {
@@ -48,7 +48,7 @@
     48,
     17
   ],
-  "name": "Stash",
+  "name": "Armazém",
   "producer": {
     "products": {
       "core_2_deconstruct": [

@@ -6,7 +6,7 @@
     "health": 0,
     "stamina": 7
   },
-  "description": "Um ataque que causa ::damage ::damage_type de dano e aplica o efeito de atordoamento ::stun ao inimigo.",
+  "description": "Um ataque que causa ::damage ::damage_type de dano e aplica o efeito de atordoamento ::stun no inimigo.",
   "duration": 0.30000001192092896,
   "effects": {
     "damage": [

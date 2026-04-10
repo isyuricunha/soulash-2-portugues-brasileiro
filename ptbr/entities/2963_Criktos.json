@@ -35,7 +35,7 @@
     "tags"
   ],
   "corpse": "25",
-  "description": "Best and bravest of all gladiators. You WILL be entertained.",
+  "description": "O melhor e mais bravo de todos os gladiadores. Você SERÁ entretido.",
   "dialogues": [
     "649",
     "650"
@@ -45,7 +45,7 @@
       {
         "chance": 1.0,
         "id": "167",
-        "name": "Kite Shield",
+        "name": "Escudo de Adarga",
         "stack": 1
       }
     ],
@@ -61,7 +61,7 @@
       {
         "chance": 1.0,
         "id": "686",
-        "name": "Gladius",
+        "name": "Gládio",
         "stack": 1
       }
     ],
@@ -69,7 +69,7 @@
       {
         "chance": 1.0,
         "id": "166",
-        "name": "Breastplate",
+        "name": "Peitoral",
         "stack": 1
       }
     ]

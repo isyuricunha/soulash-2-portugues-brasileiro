@@ -25,7 +25,7 @@
       "id": "2018"
     }
   ],
-  "description": "A wall of dirt melted by acid.",
+  "description": "Uma parede de terra derretida por ácido.",
   "glyph": {
     "frames": [
       {
@@ -48,7 +48,7 @@
     35,
     10
   ],
-  "name": "Melted Dirt Wall",
+  "name": "Parede de Terra Derretida",
   "producer": {
     "products": {
       "12": [

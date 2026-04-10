@@ -42,7 +42,7 @@
       14
     ]
   },
-  "description": "This ring makes its owner magnificent.",
+  "description": "Este anel torna seu dono magnífico.",
   "glyph": {
     "frames": [
       {
@@ -67,7 +67,7 @@
     107,
     201
   ],
-  "name": "Magnificent Ring",
+  "name": "Anel Magnífico",
   "statistics": {
     "dexterity": [
       0,

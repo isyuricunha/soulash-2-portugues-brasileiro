@@ -34,7 +34,7 @@
       "id": "411"
     }
   ],
-  "description": "Smelly water",
+  "description": "Água Fétida",
   "glyph": {
     "frames": [
       {
@@ -56,5 +56,5 @@
     32,
     82
   ],
-  "name": "Rotten Water"
+  "name": "Água Podre"
 }

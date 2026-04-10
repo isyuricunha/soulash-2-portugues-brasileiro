@@ -14,7 +14,7 @@
     "minimap_pixel",
     "name"
   ],
-  "description": "rock solid path carved in stone. It's bumpy and irregular.",
+  "description": "Caminho sólido como uma rocha esculpido em pedra. É irregular e esburacado.",
   "glyph": {
     "frames": [
       {
@@ -62,5 +62,5 @@
     73,
     72
   ],
-  "name": "Natural Stone Floor"
+  "name": "Piso de Pedra Natural"
 }

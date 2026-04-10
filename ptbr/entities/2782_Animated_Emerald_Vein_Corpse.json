@@ -9,7 +9,7 @@
     "producer",
     "weight"
   ],
-  "description": "Animated emerald vein but this time it is dead.",
+  "description": "Veio de esmeralda animado, mas desta vez está morto.",
   "glyph": {
     "frames": [
       {
@@ -38,7 +38,7 @@
     128,
     104
   ],
-  "name": "Animated Emerald Vein Corpse",
+  "name": "Cadáver de Veio de Esmeralda Animado",
   "producer": {
     "products": {
       "3": [

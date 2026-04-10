@@ -1,7 +1,7 @@
 {
   "id": "core_2_disable_consumption",
   "innate": true,
-  "name": "Disable Consumption",
+  "name": "Desativar Consumo",
   "requirements": {},
   "rewards": [
     {

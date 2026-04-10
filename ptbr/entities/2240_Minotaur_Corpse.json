@@ -9,7 +9,7 @@
     "producer",
     "weight"
   ],
-  "description": "Motionless corpse of a minotaur.",
+  "description": "Cadáver imóvel de um minotauro.",
   "glyph": {
     "frames": [
       {
@@ -38,7 +38,7 @@
     98,
     64
   ],
-  "name": "Minotaur Corpse",
+  "name": "Cadáver de Minotauro",
   "producer": {
     "products": {
       "3": [

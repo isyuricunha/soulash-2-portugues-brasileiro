@@ -1,6 +1,6 @@
 {
   "id": "core_2_critical_damage",
-  "name": "Critical Damage",
+  "name": "Dano Crítico",
   "requirements": {
     "skill": 18
   },

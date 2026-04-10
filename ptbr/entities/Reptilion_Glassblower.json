@@ -36,7 +36,7 @@
       {
         "chance": 1.0,
         "id": "23",
-        "name": "Rags",
+        "name": "Farrapos",
         "stack": 1
       }
     ]
@@ -77,7 +77,7 @@
   },
   "name": "Reptilion Glassblower",
   "persona": {
-    "occupation": "Glassblower"
+    "occupation": "Soprador de Vidro"
   },
   "sight": {
     "ignore_infra_penalty": false,

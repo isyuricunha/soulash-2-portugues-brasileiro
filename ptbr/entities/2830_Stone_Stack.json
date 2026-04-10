@@ -7,7 +7,7 @@
     "producer",
     "stackable"
   ],
-  "description": "Many rocks and stones stack on one another. May block your way.",
+  "description": "Muitas rochas e pedras empilhadas umas sobre as outras. Pode bloquear seu caminho.",
   "glyph": {
     "frames": [
       {
@@ -28,7 +28,7 @@
     113,
     115
   ],
-  "name": "Stone Stack",
+  "name": "Pilha de Pedras",
   "producer": {
     "products": {
       "10": [

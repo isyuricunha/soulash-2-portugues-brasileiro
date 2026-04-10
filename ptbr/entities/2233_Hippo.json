@@ -44,7 +44,7 @@
     "tags"
   ],
   "corpse": "2234",
-  "description": "This massive creature is a big threat in close range.",
+  "description": "Esta criatura massiva é uma grande ameaça em curto alcance.",
   "dialogues": [
     "368",
     "369",
@@ -105,7 +105,7 @@
   "moveable": {
     "speed": 1.2000000476837158
   },
-  "name": "Hippo",
+  "name": "Hipopótamo",
   "sight": {
     "ignore_infra_penalty": false,
     "infravision": false,

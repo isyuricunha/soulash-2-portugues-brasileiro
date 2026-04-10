@@ -59,7 +59,7 @@
       18
     ]
   },
-  "description": "Just a small body of standing water.",
+  "description": "Apenas um pequeno corpo de água parada.",
   "glyph": {
     "frames": [
       {
@@ -94,7 +94,7 @@
     75,
     93
   ],
-  "name": "Pond",
+  "name": "Lagoa",
   "on_enter": {
     "ability": [
       "88",

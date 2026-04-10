@@ -35,7 +35,7 @@
     "weapon"
   ],
   "corpse": "2996",
-  "description": "Putrid creature with toothed mouth. It's covered in tough scales, walks on two legs and has a medium sized tail. Acid drips from it's flapping tongue.",
+  "description": "Criatura pútrida com boca dentada. Está coberta por escamas duras, caminha sobre duas pernas e tem uma cauda de tamanho médio. Ácido pinga de sua língua oscilante.",
   "dialogues": [
     "182",
     "183",
@@ -98,7 +98,7 @@
   "moveable": {
     "speed": 0.800000011920929
   },
-  "name": "Spitter",
+  "name": "Cuspidor",
   "sight": {
     "ignore_infra_penalty": false,
     "infravision": true,

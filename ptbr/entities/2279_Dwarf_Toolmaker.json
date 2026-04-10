@@ -38,7 +38,7 @@
       {
         "chance": 1.0,
         "id": "151",
-        "name": "Hammer",
+        "name": "Martelo",
         "stack": 1
       }
     ]
@@ -77,9 +77,9 @@
   "moveable": {
     "speed": 1.2000000476837158
   },
-  "name": "Dwarf Toolmaker",
+  "name": "Anão Ferramenteiro",
   "persona": {
-    "occupation": "Toolmaker"
+    "occupation": "Ferreiro"
   },
   "sight": {
     "ignore_infra_penalty": false,

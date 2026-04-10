@@ -90,7 +90,7 @@
   },
   "name": "Gnoll Flecheiro",
   "persona": {
-    "occupation": "Flecheiro"
+    "occupation": "Arqueiro"
   },
   "sight": {
     "ignore_infra_penalty": false,

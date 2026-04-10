@@ -16,7 +16,7 @@
     "position_2d",
     "producer"
   ],
-  "description": "Obsidian blocks carved into a staircase leading up.",
+  "description": "Blocos de obsidiana esculpidos em uma escadaria que leva para cima.",
   "glyph": {
     "frames": [
       {
@@ -41,7 +41,7 @@
     41,
     58
   ],
-  "name": "Ascending Obsidian Stairs",
+  "name": "Escadas de Obsidiana Ascendentes",
   "producer": {
     "products": {
       "core_2_deconstruct": [

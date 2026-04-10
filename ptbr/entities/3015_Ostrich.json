@@ -30,7 +30,7 @@
     "weapon"
   ],
   "corpse": "3016",
-  "description": "Gotta go fast.",
+  "description": "Tem que ir rápido.",
   "dialogues": [
     "2",
     "886"
@@ -90,7 +90,7 @@
   "moveable": {
     "speed": 0.4
   },
-  "name": "Ostrich",
+  "name": "Avestruz",
   "sight": {
     "ignore_infra_penalty": false,
     "infravision": false,

@@ -39,7 +39,7 @@
       "id": "547"
     }
   ],
-  "description": "Painting representing a battle between Humans and Elves.",
+  "description": "Pintura representando uma batalha entre Humanos e Elfos.",
   "glyph": {
     "frames": [
       {
@@ -61,5 +61,5 @@
     63,
     59
   ],
-  "name": "Painting"
+  "name": "Pintura"
 }

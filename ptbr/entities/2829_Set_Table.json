@@ -22,7 +22,7 @@
     "producer"
   ],
   "corpse": [],
-  "description": "A table set and ready for a meal.",
+  "description": "Uma mesa posta e pronta para uma refeição.",
   "glyph": {
     "frames": [
       {
@@ -62,7 +62,7 @@
     48,
     17
   ],
-  "name": "Set Table",
+  "name": "Mesa Posta",
   "producer": {
     "products": {
       "core_2_deconstruct": [

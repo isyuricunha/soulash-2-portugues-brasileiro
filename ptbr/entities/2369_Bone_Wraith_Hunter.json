@@ -42,13 +42,13 @@
       {
         "chance": 0.25,
         "id": "70",
-        "name": "Knife",
+        "name": "Faca",
         "stack": 1
       },
       {
         "chance": 1.0,
         "id": "100",
-        "name": "Javelin",
+        "name": "Dardo",
         "stack": 2
       }
     ],
@@ -56,7 +56,7 @@
       {
         "chance": 1.0,
         "id": "100",
-        "name": "Javelin",
+        "name": "Dardo",
         "stack": 1
       }
     ]

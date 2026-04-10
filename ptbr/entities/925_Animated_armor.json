@@ -55,25 +55,25 @@
       {
         "chance": 0.25,
         "id": "21",
-        "name": "Nasal Helmet",
+        "name": "Capacete Nasal",
         "stack": 1
       },
       {
         "chance": 0.25,
         "id": "169",
-        "name": "Helmet",
+        "name": "Capacete",
         "stack": 1
       },
       {
         "chance": 0.25,
         "id": "328",
-        "name": "Rusty Helmet",
+        "name": "Capacete Enferrujado",
         "stack": 1
       },
       {
         "chance": 0.25,
         "id": "393",
-        "name": "Great Helmet",
+        "name": "Grande Capacete",
         "stack": 1
       }
     ],
@@ -81,25 +81,25 @@
       {
         "chance": 0.25,
         "id": "439",
-        "name": "Greaves",
+        "name": "Caneleiras",
         "stack": 1
       },
       {
         "chance": 0.25,
         "id": "452",
-        "name": "Plate Greaves",
+        "name": "Caneleiras de Placas",
         "stack": 1
       },
       {
         "chance": 0.25,
         "id": "571",
-        "name": "Chainmail Pants",
+        "name": "Calças de Cota de Malha",
         "stack": 1
       },
       {
         "chance": 0.25,
         "id": "572",
-        "name": "Leg Guards",
+        "name": "Guarda-Pernas",
         "stack": 1
       }
     ],
@@ -107,19 +107,19 @@
       {
         "chance": 0.25,
         "id": "166",
-        "name": "Breastplate",
+        "name": "Peitoral",
         "stack": 1
       },
       {
         "chance": 0.25,
         "id": "397",
-        "name": "Heavy Armor",
+        "name": "Armadura Pesada",
         "stack": 1
       },
       {
         "chance": 0.25,
         "id": "398",
-        "name": "Noble Armor",
+        "name": "Armadura Nobre",
         "stack": 1
       }
     ]

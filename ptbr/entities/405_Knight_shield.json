@@ -35,7 +35,7 @@
       1
     ]
   },
-  "description": "Shield chosen by the virtuous.",
+  "description": "Escudo escolhido pelos virtuosos.",
   "glyph": {
     "frames": [
       {
@@ -60,7 +60,7 @@
     43,
     28
   ],
-  "name": "Knight Shield",
+  "name": "Escudo de Cavaleiro",
   "value": 5000,
   "weight": 4.0
 }

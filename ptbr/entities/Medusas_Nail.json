@@ -10,7 +10,7 @@
     "value",
     "weight"
   ],
-  "description": "Long and painted black.",
+  "description": "Longa e pintada de preto.",
   "glyph": {
     "frames": [
       {
@@ -35,7 +35,7 @@
     144,
     88
   ],
-  "name": "Medusa's Nail",
+  "name": "Unhas de Medusa",
   "resource": {
     "affix": "",
     "magic_ingredient": 0,

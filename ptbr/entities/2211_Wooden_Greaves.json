@@ -35,7 +35,7 @@
       14
     ]
   },
-  "description": "Strong wood protects your tibia.",
+  "description": "Madeira forte protege sua tíbia.",
   "glyph": {
     "frames": [
       {
@@ -60,7 +60,7 @@
     166,
     66
   ],
-  "name": "Wooden Greaves",
+  "name": "Caneleiras de Madeira",
   "value": 500,
   "weight": 0.6000000238418579
 }

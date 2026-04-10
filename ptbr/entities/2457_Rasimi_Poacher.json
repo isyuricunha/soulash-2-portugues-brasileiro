@@ -41,7 +41,7 @@
       {
         "chance": 1.0,
         "id": "194",
-        "name": "Arrow",
+        "name": "Flecha",
         "stack": 20
       }
     ],
@@ -57,7 +57,7 @@
       {
         "chance": 1.0,
         "id": "2176",
-        "name": "Loincloth",
+        "name": "Tanga",
         "stack": 1
       }
     ],
@@ -65,7 +65,7 @@
       {
         "chance": 1.0,
         "id": "882",
-        "name": "Bow",
+        "name": "Arco",
         "stack": 1
       }
     ]
@@ -104,7 +104,7 @@
   "moveable": {
     "speed": 0.8999999761581421
   },
-  "name": "Rasimi Poacher",
+  "name": "Caçador Rasimi",
   "sight": {
     "ignore_infra_penalty": false,
     "infravision": true,

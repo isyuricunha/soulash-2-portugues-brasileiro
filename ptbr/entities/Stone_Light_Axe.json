@@ -30,7 +30,7 @@
       14
     ]
   },
-  "description": "Light axe designed for accuracy and quick maneuvers in crowded battlefields.",
+  "description": "Machado leve projetado para precisão e manobras rápidas em campos de batalha lotados.",
   "glyph": {
     "frames": [
       {
@@ -55,7 +55,7 @@
     160,
     161
   ],
-  "name": "Stone Light Axe",
+  "name": "Machado Leve de Pedra",
   "tool": [
     {
       "id": 13,

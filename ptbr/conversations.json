@@ -1,7 +1,7 @@
 {
   "conversations": [
     {
-      "answer_negative": "Eu choro por sua misericórdia, não posso ajudá-lo.",
+      "answer_negative": "Peço sua misericórdia, não posso ajudá-lo.",
       "answer_positive": "Bom dia, viajante, você precisa de algo?",
       "entities": [
         "203",
@@ -106,7 +106,7 @@
       "type": "begin_conversation"
     },
     {
-      "answer_negative": "Peço sua misericórdia, podemos falar mais tarde.",
+      "answer_negative": "Peço sua misericórdia, podemos conversar mais tarde.",
       "answer_positive": "Ei! Como vais?",
       "entities": [
         "208",
@@ -247,7 +247,7 @@
       "options": [
         "core_2_back_1"
       ],
-      "text": "Comerciar bens.",
+      "text": "Comercie bens.",
       "type": "trade"
     },
     {
@@ -257,7 +257,7 @@
       "options": [
         "core_2_back_1"
       ],
-      "text": "Pedir treinamento.",
+      "text": "Peça por treinamento.",
       "type": "train"
     },
     {
@@ -266,7 +266,7 @@
       "options": [
         "core_2_back_1"
       ],
-      "text": "Encomendar um produto.",
+      "text": "Peça um produto.",
       "type": "order"
     },
     {
@@ -285,7 +285,7 @@
       "options": [
         "core_2_back_1"
       ],
-      "text": "Pedir ordens da companhia.",
+      "text": "Pergunte sobre as ordens da companhia.",
       "type": "company_order"
     },
     {
@@ -423,7 +423,7 @@
     },
     {
       "answer_negative": "Não agora, meu pão está queimando!",
-      "answer_positive": "Hmmm? Precisa de algo?",
+      "answer_positive": "Hmm? Precisas de algo?",
       "entities": [
         "2261",
         "core_2_Human_Glassblower",
@@ -577,7 +577,7 @@
       "type": "begin_conversation"
     },
     {
-      "answer_negative": "Some daqui.",
+      "answer_negative": "Vá embora.",
       "answer_positive": "Você parece forte! Quer se juntar ao exército?",
       "entities": [
         "691"
@@ -651,7 +651,7 @@
     },
     {
       "answer_negative": "Não tenho tempo agora.",
-      "answer_positive": "O que posso fazer por você, meu amigo?",
+      "answer_positive": "O que posso fazer por ti, meu amigo?",
       "entities": [
         "141"
       ],
@@ -676,7 +676,7 @@
     },
     {
       "answer_negative": "Não tenho tempo agora.",
-      "answer_positive": "O que posso fazer por você, meu amigo?",
+      "answer_positive": "O que posso fazer por ti, meu amigo?",
       "entities": [
         "208",
         "core_2_Human_Basketweaver"
@@ -835,7 +835,7 @@
       "options": [
         "core_2_back_1"
       ],
-      "text": "Mercadorias para comércio.",
+      "text": "Comercie bens.",
       "type": "trade"
     },
     {
@@ -844,7 +844,7 @@
       "options": [
         "core_2_back_1"
       ],
-      "text": "Mercadorias para comércio.",
+      "text": "Comercie bens.",
       "type": "trade"
     },
     {
@@ -853,7 +853,7 @@
       "options": [
         "core_2_back_1"
       ],
-      "text": "Mercadorias para comércio.",
+      "text": "Comercie bens.",
       "type": "trade"
     },
     {
@@ -862,7 +862,7 @@
       "options": [
         "core_2_back_1"
       ],
-      "text": "Mercadorias para comércio.",
+      "text": "Comercie bens.",
       "type": "trade"
     },
     {
@@ -871,7 +871,7 @@
       "options": [
         "core_2_back_1"
       ],
-      "text": "Mercadorias para comércio.",
+      "text": "Comercie bens.",
       "type": "trade"
     },
     {
@@ -880,7 +880,7 @@
       "options": [
         "core_2_back_1"
       ],
-      "text": "Mercadorias para comércio.",
+      "text": "Comercie bens.",
       "type": "trade"
     },
     {
@@ -889,7 +889,7 @@
       "options": [
         "core_2_back_1"
       ],
-      "text": "Mercadorias para comércio.",
+      "text": "Comercie bens.",
       "type": "trade"
     },
     {
@@ -1244,7 +1244,7 @@
       "type": "begin_conversation"
     },
     {
-      "answer_negative": "Minhas desculpas, mas estou de serviço e devo permanecer vigilante.",
+      "answer_negative": "Meus pedidos, mas estou de serviço e devo permanecer vigilante.",
       "answer_positive": "Ah, bem-vindo. Precisa de assistência?",
       "entities": [
         "2287"
@@ -1269,7 +1269,7 @@
       "type": "begin_conversation"
     },
     {
-      "answer_negative": "Estou bastante ocupado no momento. Podemos conversar mais tarde?",
+      "answer_negative": "Estou bastante ocupado no momento. Poderíamos conversar mais tarde?",
       "answer_positive": "Olá. Como posso ajudá-lo?",
       "entities": [
         "232",
@@ -1517,7 +1517,7 @@
       "type": "begin_conversation"
     },
     {
-      "answer_negative": "Não estou com vontade de conversar no momento.",
+      "answer_negative": "Não estou com disposição para conversar no momento.",
       "answer_positive": "Bem-vindo! Cada pedaço de madeira conta uma história, e nosso objetivo é aprimorar essa história através do nosso ofício.",
       "entities": [
         "2245"
@@ -1641,7 +1641,7 @@
       "options": [
         "core_2_back_1"
       ],
-      "text": "Mercadorias para troca.",
+      "text": "Comercie bens.",
       "type": "trade"
     },
     {
@@ -1650,7 +1650,7 @@
       "options": [
         "core_2_back_1"
       ],
-      "text": "Mercadorias para troca.",
+      "text": "Comercie bens.",
       "type": "trade"
     },
     {
@@ -1659,7 +1659,7 @@
       "options": [
         "core_2_back_1"
       ],
-      "text": "Mercadorias para troca.",
+      "text": "Comercie bens.",
       "type": "trade"
     },
     {
@@ -1668,7 +1668,7 @@
       "options": [
         "core_2_back_1"
       ],
-      "text": "Mercadorias para troca.",
+      "text": "Comercie bens.",
       "type": "trade"
     },
     {
@@ -1677,7 +1677,7 @@
       "options": [
         "core_2_back_1"
       ],
-      "text": "Mercadorias para troca.",
+      "text": "Comercie bens.",
       "type": "trade"
     },
     {
@@ -1686,7 +1686,7 @@
       "options": [
         "core_2_back_1"
       ],
-      "text": "Mercadorias para troca.",
+      "text": "Comercie bens.",
       "type": "trade"
     },
     {
@@ -1695,7 +1695,7 @@
       "options": [
         "core_2_back_1"
       ],
-      "text": "Mercadorias para troca.",
+      "text": "Comercie bens.",
       "type": "trade"
     },
     {
@@ -1704,7 +1704,7 @@
       "options": [
         "core_2_back_1"
       ],
-      "text": "Mercadorias para troca.",
+      "text": "Comercie bens.",
       "type": "trade"
     },
     {
@@ -1732,7 +1732,7 @@
       "type": "begin_conversation"
     },
     {
-      "answer_negative": "Continue andando.",
+      "answer_negative": "Continue, agora.",
       "answer_positive": "Você não está causando problemas, está?",
       "entities": [
         "304"
@@ -1928,7 +1928,7 @@
       "type": "begin_conversation"
     },
     {
-      "answer_negative": "Não estou com vontade de conversar no momento.",
+      "answer_negative": "Não estou a fim de conversar no momento.",
       "answer_positive": "Saudações! O que te traz a estas partes?",
       "entities": [
         "2267"
@@ -1952,7 +1952,7 @@
       "type": "begin_conversation"
     },
     {
-      "answer_negative": "Estou no meio de algo no momento.",
+      "answer_negative": "Estou no meio de algo agora.",
       "answer_positive": "Saudações, amigo! Está no mercado para algo brilhante?",
       "entities": [
         "2282"
@@ -2331,7 +2331,7 @@
       "options": [
         "core_2_back_1"
       ],
-      "text": "Mercadorias para comércio.",
+      "text": "Comercie bens.",
       "type": "trade"
     },
     {
@@ -2340,7 +2340,7 @@
       "options": [
         "core_2_back_1"
       ],
-      "text": "Mercadorias para comércio.",
+      "text": "Comercie bens.",
       "type": "trade"
     },
     {
@@ -2349,7 +2349,7 @@
       "options": [
         "core_2_back_1"
       ],
-      "text": "Mercadorias para comércio.",
+      "text": "Comercie bens.",
       "type": "trade"
     },
     {
@@ -2358,7 +2358,7 @@
       "options": [
         "core_2_back_1"
       ],
-      "text": "Mercadorias para comércio.",
+      "text": "Comercie bens.",
       "type": "trade"
     },
     {
@@ -2367,7 +2367,7 @@
       "options": [
         "core_2_back_1"
       ],
-      "text": "Mercadorias para comércio.",
+      "text": "Comercie bens.",
       "type": "trade"
     },
     {
@@ -2376,7 +2376,7 @@
       "options": [
         "core_2_back_1"
       ],
-      "text": "Mercadorias para comércio.",
+      "text": "Comercie bens.",
       "type": "trade"
     },
     {
@@ -2385,7 +2385,7 @@
       "options": [
         "core_2_back_1"
       ],
-      "text": "Mercadorias para comércio.",
+      "text": "Comercie bens.",
       "type": "trade"
     },
     {
@@ -2394,7 +2394,7 @@
       "options": [
         "core_2_back_1"
       ],
-      "text": "Mercadorias para comércio.",
+      "text": "Comercie bens.",
       "type": "trade"
     },
     {
@@ -2403,7 +2403,7 @@
       "options": [
         "core_2_back_1"
       ],
-      "text": "Mercadorias para comércio.",
+      "text": "Comercie bens.",
       "type": "trade"
     },
     {
@@ -2412,7 +2412,7 @@
       "options": [
         "core_2_back_1"
       ],
-      "text": "Mercadorias para comércio.",
+      "text": "Comercie bens.",
       "type": "trade"
     },
     {
@@ -2421,7 +2421,7 @@
       "options": [
         "core_2_back_1"
       ],
-      "text": "Mercadorias para comércio.",
+      "text": "Comercie bens.",
       "type": "trade"
     },
     {
@@ -2430,7 +2430,7 @@
       "options": [
         "core_2_back_1"
       ],
-      "text": "Mercadorias para comércio.",
+      "text": "Comercie bens.",
       "type": "trade"
     },
     {
@@ -2439,7 +2439,7 @@
       "options": [
         "core_2_back_1"
       ],
-      "text": "Mercadorias para comércio.",
+      "text": "Comercie bens.",
       "type": "trade"
     },
     {
@@ -2448,7 +2448,7 @@
       "options": [
         "core_2_back_1"
       ],
-      "text": "Mercadorias para comércio.",
+      "text": "Comercie bens.",
       "type": "trade"
     },
     {
@@ -2457,7 +2457,7 @@
       "options": [
         "core_2_back_1"
       ],
-      "text": "Mercadorias para comércio.",
+      "text": "Comercie bens.",
       "type": "trade"
     },
     {
@@ -2466,7 +2466,7 @@
       "options": [
         "core_2_back_1"
       ],
-      "text": "Bens comerciais.",
+      "text": "Comercie bens.",
       "type": "trade"
     },
     {
@@ -2475,7 +2475,7 @@
       "options": [
         "core_2_back_1"
       ],
-      "text": "Bens comerciais.",
+      "text": "Comercie bens.",
       "type": "trade"
     },
     {
@@ -2484,7 +2484,7 @@
       "options": [
         "core_2_back_1"
       ],
-      "text": "Bens comerciais.",
+      "text": "Comercie bens.",
       "type": "trade"
     },
     {
@@ -2619,8 +2619,8 @@
       "type": "begin_conversation"
     },
     {
-      "answer_negative": "I'm a bit busy at the moment.",
-      "answer_positive": "Well, well, well! What do we have here?",
+      "answer_negative": "Estou um pouco ocupado no momento.",
+      "answer_positive": "Bem, bem, bem! O que temos aqui?",
       "entities": [
         "2381"
       ],
@@ -2641,8 +2641,8 @@
       "type": "begin_conversation"
     },
     {
-      "answer_negative": "Sorry, traveler. I don't mean to be rude, but I've got a lot on my mind at the moment.",
-      "answer_positive": "You look like you could use a break from your travels. Why not sit and rest a while with us?",
+      "answer_negative": "Desculpe, viajante. Não quero ser rude, mas tenho muito em que pensar no momento.",
+      "answer_positive": "Você parece precisar de uma pausa em suas viagens. Por que não sentar e descansar um pouco conosco?",
       "entities": [
         "2413"
       ],
@@ -2661,8 +2661,8 @@
       "type": "begin_conversation"
     },
     {
-      "answer_negative": "I can't really spare the time.",
-      "answer_positive": "You look like someone who enjoys the thrill of the hunt.",
+      "answer_negative": "Não posso realmente dispensar o tempo.",
+      "answer_positive": "Você parece alguém que aprecia a emoção da caça.",
       "entities": [
         "2369"
       ],
@@ -2683,8 +2683,8 @@
       "type": "begin_conversation"
     },
     {
-      "answer_negative": "We're in the middle of harvest season, and we can't afford any distractions.",
-      "answer_positive": "What brings you to our little corner of the world?",
+      "answer_negative": "Estamos no meio da temporada de colheita e não podemos nos dar ao luxo de ter distrações.",
+      "answer_positive": "O que o traz ao nosso pequeno canto do mundo?",
       "entities": [
         "2370"
       ],
@@ -2704,8 +2704,8 @@
       "type": "begin_conversation"
     },
     {
-      "answer_negative": "I'm afraid I can't talk at the moment.",
-      "answer_positive": "You look like someone who appreciates fine artistry.",
+      "answer_negative": "Receio não poder conversar no momento.",
+      "answer_positive": "Você parece alguém que aprecia uma arte fina.",
       "entities": [
         "2376"
       ],
@@ -2724,8 +2724,8 @@
       "type": "begin_conversation"
     },
     {
-      "answer_negative": "I have a mission to fulfill, and time is of the essence.",
-      "answer_positive": "You look like you have the heart of a warrior. What brings you to cross paths with me?",
+      "answer_negative": "Tenho uma missão para cumprir, e o tempo é essencial.",
+      "answer_positive": "Você parece ter o coração de um guerreiro. O que o traz a cruzar caminhos comigo?",
       "entities": [
         "2387"
       ],
@@ -2746,8 +2746,8 @@
       "type": "begin_conversation"
     },
     {
-      "answer_negative": "I'm in the middle of some important training.",
-      "answer_positive": "What can I do for you today?",
+      "answer_negative": "Estou no meio de um treinamento importante.",
+      "answer_positive": "O que posso fazer por você hoje?",
       "entities": [
         "2388"
       ],
@@ -2768,8 +2768,8 @@
       "type": "begin_conversation"
     },
     {
-      "answer_negative": "I'm not supposed to chat with civilians.",
-      "answer_positive": "I'm a fresh-faced recruit, eager to serve my country and make a difference. What about you?",
+      "answer_negative": "Não devo conversar com civis.",
+      "answer_positive": "Sou um recém-chegado, ansioso para servir ao meu país e fazer a diferença. E você?",
       "entities": [
         "2416"
       ],
@@ -2789,8 +2789,8 @@
       "type": "begin_conversation"
     },
     {
-      "answer_negative": "I am not here to chat, but to protect.",
-      "answer_positive": "What brings you to my watch?",
+      "answer_negative": "Não estou aqui para conversar, mas para proteger.",
+      "answer_positive": "O que o traz à minha vigília?",
       "entities": [
         "2386"
       ],
@@ -2811,7 +2811,7 @@
       "type": "begin_conversation"
     },
     {
-      "answer_negative": "Can't talk now. Got a good haul to sort through.",
+      "answer_negative": "Não posso conversar agora. Tenho um bom espólio para organizar.",
       "answer_positive": "I'm always on the lookout for new treasures. Care to trade or share your spoils?",
       "entities": [
         "2372"
@@ -2832,8 +2832,8 @@
       "type": "begin_conversation"
     },
     {
-      "answer_negative": "I am a busy person, and I don't suffer fools gladly.",
-      "answer_positive": "What troubles you?",
+      "answer_negative": "Sou uma pessoa ocupada e não tolero tolos.",
+      "answer_positive": "O que o aflige?",
       "entities": [
         "2373"
       ],
@@ -2853,8 +2853,8 @@
       "type": "begin_conversation"
     },
     {
-      "answer_negative": "I cannot be disturbed at the moment.",
-      "answer_positive": "I harness the power of the elements to create new forms and shapes. What interests you?",
+      "answer_negative": "Não posso ser incomodado no momento.",
+      "answer_positive": "Eu utilizo o poder dos elementos para criar novas formas e formatos. O que lhe interessa?",
       "entities": [
         "2380"
       ],
@@ -2875,8 +2875,8 @@
       "type": "begin_conversation"
     },
     {
-      "answer_negative": "I am a professional, and I do not have time for idle chitchat.",
-      "answer_positive": "I take great care to ensure that my tools are of the highest possible quality.",
+      "answer_negative": "Sou um profissional e não tenho tempo para conversas ociosas.",
+      "answer_positive": "Tomar grande cuidado para garantir que minhas ferramentas sejam da mais alta qualidade possível.",
       "entities": [
         "2382"
       ],
@@ -2897,8 +2897,8 @@
       "type": "begin_conversation"
     },
     {
-      "answer_negative": "I am not interested in casual conversation.",
-      "answer_positive": "Ah, a potential patron.",
+      "answer_negative": "Não estou interessado em conversas casuais.",
+      "answer_positive": "Ah, um possível patrão.",
       "entities": [
         "2383"
       ],
@@ -2918,8 +2918,8 @@
       "type": "begin_conversation"
     },
     {
-      "answer_negative": "I prefer to work in silence.",
-      "answer_positive": "I take great pride in my ability to create weapons that are both beautiful and deadly.",
+      "answer_negative": "Prefiro trabalhar em silêncio.",
+      "answer_positive": "Tenho grande orgulho na minha habilidade de criar armas que são tanto belas quanto mortais.",
       "entities": [
         "2384"
       ],
@@ -2940,8 +2940,8 @@
       "type": "begin_conversation"
     },
     {
-      "answer_negative": "I don't have much to say.",
-      "answer_positive": "I am always looking for new challenges.",
+      "answer_negative": "Não tenho muito a dizer.",
+      "answer_positive": "Sempre estou procurando por novos desafios.",
       "entities": [
         "2375"
       ],
@@ -2961,8 +2961,8 @@
       "type": "begin_conversation"
     },
     {
-      "answer_negative": "If you're not interested in purchasing a textile, I'm afraid I don't have much to say.",
-      "answer_positive": "I specialize in creating beautiful textiles using traditional techniques.",
+      "answer_negative": "Se não está interessado em comprar um têxtil, receio não ter muito a dizer.",
+      "answer_positive": "Especializo-me em criar têxteis bonitos usando técnicas tradicionais.",
       "entities": [
         "2378"
       ],
@@ -2983,8 +2983,8 @@
       "type": "begin_conversation"
     },
     {
-      "answer_negative": "I'm not much of a talker.",
-      "answer_positive": "I hunt the most dangerous creatures of the desert in order to protect my people.",
+      "answer_negative": "Não sou muito de conversar.",
+      "answer_positive": "Caço as criaturas mais perigosas do deserto para proteger meu povo.",
       "entities": [
         "2388"
       ],
@@ -3003,8 +3003,8 @@
       "type": "begin_conversation"
     },
     {
-      "answer_negative": "I prefer to keep my thoughts to myself.",
-      "answer_positive": "My powers allow me to control the most destructive force in the world.",
+      "answer_negative": "Prefiro manter meus pensamentos para mim mesmo.",
+      "answer_positive": "Meus poderes permitem-me controlar a força mais destrutiva do mundo.",
       "entities": [
         "2389"
       ],
@@ -3025,8 +3025,8 @@
       "type": "begin_conversation"
     },
     {
-      "answer_negative": "I'm not interested in talking right now.",
-      "answer_positive": "I have dedicated my life to mastering the art of working with cactus fibers.",
+      "answer_negative": "Não estou interessado em conversar no momento.",
+      "answer_positive": "Dediquei minha vida a dominar a arte de trabalhar com fibras de cacto.",
       "entities": [
         "2377"
       ],
@@ -3116,7 +3116,7 @@
       "options": [
         "core_2_back_1"
       ],
-      "text": "Mercadorias para troca.",
+      "text": "Comercie bens.",
       "type": "trade"
     },
     {
@@ -3125,7 +3125,7 @@
       "options": [
         "core_2_back_1"
       ],
-      "text": "Mercadorias para troca.",
+      "text": "Comercie bens.",
       "type": "trade"
     },
     {
@@ -3134,7 +3134,7 @@
       "options": [
         "core_2_back_1"
       ],
-      "text": "Mercadorias para troca.",
+      "text": "Comercie bens.",
       "type": "trade"
     },
     {
@@ -3143,7 +3143,7 @@
       "options": [
         "core_2_back_1"
       ],
-      "text": "Mercadorias para troca.",
+      "text": "Comercie bens.",
       "type": "trade"
     },
     {
@@ -3152,7 +3152,7 @@
       "options": [
         "core_2_back_1"
       ],
-      "text": "Mercadorias para troca.",
+      "text": "Comercie bens.",
       "type": "trade"
     },
     {
@@ -3161,7 +3161,7 @@
       "options": [
         "core_2_back_1"
       ],
-      "text": "Mercadorias para troca.",
+      "text": "Comercie bens.",
       "type": "trade"
     },
     {
@@ -3170,7 +3170,7 @@
       "options": [
         "core_2_back_1"
       ],
-      "text": "Mercadorias para troca.",
+      "text": "Comercie bens.",
       "type": "trade"
     },
     {
@@ -3179,7 +3179,7 @@
       "options": [
         "core_2_back_1"
       ],
-      "text": "Mercadorias para troca.",
+      "text": "Comercie bens.",
       "type": "trade"
     },
     {
@@ -3188,7 +3188,7 @@
       "options": [
         "core_2_back_1"
       ],
-      "text": "Mercadorias para troca.",
+      "text": "Comercie bens.",
       "type": "trade"
     },
     {
@@ -3197,7 +3197,7 @@
       "options": [
         "core_2_back_1"
       ],
-      "text": "Mercadorias para troca.",
+      "text": "Comercie bens.",
       "type": "trade"
     },
     {
@@ -3206,7 +3206,7 @@
       "options": [
         "core_2_back_1"
       ],
-      "text": "Mercadorias para troca.",
+      "text": "Comercie bens.",
       "type": "trade"
     },
     {
@@ -3215,7 +3215,7 @@
       "options": [
         "core_2_back_1"
       ],
-      "text": "Mercadorias para troca.",
+      "text": "Comercie bens.",
       "type": "trade"
     },
     {
@@ -3224,7 +3224,7 @@
       "options": [
         "core_2_back_1"
       ],
-      "text": "Mercadorias para troca.",
+      "text": "Comercie bens.",
       "type": "trade"
     },
     {
@@ -3254,12 +3254,12 @@
       "options": [
         "core_2_back_1"
       ],
-      "text": "Ask for training.",
+      "text": "Peça por treinamento.",
       "type": "train"
     },
     {
-      "answer_negative": "Quiet time for me.",
-      "answer_positive": "Watch out for the river's current. It's strong and can pull you under.",
+      "answer_negative": "Tempo de silêncio para mim.",
+      "answer_positive": "Cuidado com a correnteza do rio. É forte e pode te puxar para baixo.",
       "entities": [
         "2328"
       ],
@@ -3282,8 +3282,8 @@
       "type": "begin_conversation"
     },
     {
-      "answer_negative": "Busy day.",
-      "answer_positive": "I dig deep and hard, just like the earth.",
+      "answer_negative": "Dia ocupado.",
+      "answer_positive": "Cavo fundo e duro, assim como a terra.",
       "entities": [
         "2333"
       ],
@@ -3306,8 +3306,8 @@
       "type": "begin_conversation"
     },
     {
-      "answer_negative": "*stares at you silently*",
-      "answer_positive": "Do you know any stories about the moon? The Moon Priests tell the best stories.",
+      "answer_negative": "*olha para você em silêncio*",
+      "answer_positive": "Você conhece alguma história sobre a lua? Os Sacerdotes da Lua contam as melhores histórias.",
       "entities": [
         "2412"
       ],
@@ -3329,8 +3329,8 @@
       "type": "begin_conversation"
     },
     {
-      "answer_negative": "I prefer the company of animals. They're more honest and less noisy.",
-      "answer_positive": "It's a good night for hunting.",
+      "answer_negative": "Prefiro a companhia de animais. Eles são mais honestos e menos barulhentos.",
+      "answer_positive": "É uma boa noite para caçar.",
       "entities": [
         "2325"
       ],
@@ -3354,8 +3354,8 @@
       "type": "begin_conversation"
     },
     {
-      "answer_negative": "I'm not much of a talker.",
-      "answer_positive": "It's hard work, but it's worth it.",
+      "answer_negative": "Não sou muito de conversar.",
+      "answer_positive": "É um trabalho árduo, mas vale a pena.",
       "entities": [
         "2331"
       ],
@@ -3378,8 +3378,8 @@
       "type": "begin_conversation"
     },
     {
-      "answer_negative": "I need to stay focused.",
-      "answer_positive": "Do you seek guidance from the spirits?",
+      "answer_negative": "Preciso me manter focado.",
+      "answer_positive": "Você busca orientação dos espíritos?",
       "entities": [
         "2335"
       ],
@@ -3403,8 +3403,8 @@
       "type": "begin_conversation"
     },
     {
-      "answer_negative": "*grunts in response*",
-      "answer_positive": "You carry a lot of weapons for someone who claims to be a peaceful traveler.",
+      "answer_negative": "*resmunga em resposta*",
+      "answer_positive": "Você carrega muitas armas para alguém que afirma ser um viajante pacífico.",
       "entities": [
         "2345"
       ],
@@ -3428,8 +3428,8 @@
       "type": "begin_conversation"
     },
     {
-      "answer_negative": "*ignores you*",
-      "answer_positive": "You have the scent of danger about you. Speak quickly.",
+      "answer_negative": "*te ignora*",
+      "answer_positive": "Você tem o cheiro de perigo. Fale rápido.",
       "entities": [
         "2346"
       ],
@@ -3453,8 +3453,8 @@
       "type": "begin_conversation"
     },
     {
-      "answer_negative": "No speak.",
-      "answer_positive": "We do not suffer trespassers lightly.",
+      "answer_negative": "Não falo.",
+      "answer_positive": "Não toleramos invasores.",
       "entities": [
         "2347"
       ],
@@ -3478,8 +3478,8 @@
       "type": "begin_conversation"
     },
     {
-      "answer_negative": "Silent.",
-      "answer_positive": "Together, we are strong.",
+      "answer_negative": "Silencioso.",
+      "answer_positive": "Juntos, somos fortes.",
       "entities": [
         "2414"
       ],
@@ -3502,8 +3502,8 @@
       "type": "begin_conversation"
     },
     {
-      "answer_negative": "*walks away*",
-      "answer_positive": "Are you lost?",
+      "answer_negative": "*vai embora*",
+      "answer_positive": "Está perdido?",
       "entities": [
         "2326"
       ],
@@ -3526,8 +3526,8 @@
       "type": "begin_conversation"
     },
     {
-      "answer_negative": "*shakes their head*",
-      "answer_positive": "Be careful not to step on any venomous plants.",
+      "answer_negative": "*balança a cabeça*",
+      "answer_positive": "Cuidado para não pisar em plantas venenosas.",
       "entities": [
         "2332"
       ],
@@ -3550,8 +3550,8 @@
       "type": "begin_conversation"
     },
     {
-      "answer_negative": "*ignores you*",
-      "answer_positive": "Do you hear the sounds of the jungle? It's like music to my ears.",
+      "answer_negative": "*te ignora*",
+      "answer_positive": "Você ouve os sons da selva? É como música para meus ouvidos.",
       "entities": [
         "2415"
       ],
@@ -3574,8 +3574,8 @@
       "type": "begin_conversation"
     },
     {
-      "answer_negative": "*grunts in response*",
-      "answer_positive": "You are brave to approach me so brazenly. Or perhaps foolish.",
+      "answer_negative": "*resmunga em resposta*",
+      "answer_positive": "Você é corajoso ao se aproximar de mim tão ousadamente. Ou talvez tolo.",
       "entities": [
         "2420"
       ],
@@ -3597,8 +3597,8 @@
       "type": "begin_conversation"
     },
     {
-      "answer_negative": "Can't you see I'm busy? Move along.",
-      "answer_positive": "Careful where you step - I have traps set up all around here.",
+      "answer_negative": "Não vê que estou ocupado? Continue andando.",
+      "answer_positive": "Cuidado onde pisa - tenho armadilhas por toda parte aqui.",
       "entities": [
         "2337"
       ],
@@ -3622,8 +3622,8 @@
       "type": "begin_conversation"
     },
     {
-      "answer_negative": "Quiet now, I'm working on something important.",
-      "answer_positive": "What brings you to me today?",
+      "answer_negative": "Silêncio agora, estou trabalhando em algo importante.",
+      "answer_positive": "O que te traz até mim hoje?",
       "entities": [
         "2338"
       ],
@@ -3647,8 +3647,8 @@
       "type": "begin_conversation"
     },
     {
-      "answer_negative": "I have a lot of work to do today.",
-      "answer_positive": "I may not have the fanciest tools, but I make up for it with skill and experience.",
+      "answer_negative": "Tenho muito trabalho para fazer hoje.",
+      "answer_positive": "Posso não ter as ferramentas mais sofisticadas, mas compenso com habilidade e experiência.",
       "entities": [
         "2339"
       ],
@@ -3672,8 +3672,8 @@
       "type": "begin_conversation"
     },
     {
-      "answer_negative": "I'm busy at the moment.",
-      "answer_positive": "I've been doing this for years, and I still find surprises in these woods.",
+      "answer_negative": "Estou ocupado no momento.",
+      "answer_positive": "Faço isso há anos e ainda encontro surpresas nestas florestas.",
       "entities": [
         "2329"
       ],
@@ -3696,8 +3696,8 @@
       "type": "begin_conversation"
     },
     {
-      "answer_negative": "I'm just finishing up my work for the day.",
-      "answer_positive": "You look like you could use an upgrade to your current weapon.",
+      "answer_negative": "Estou apenas terminando meu trabalho do dia.",
+      "answer_positive": "Parece que você poderia usar uma melhoria na sua arma atual.",
       "entities": [
         "2336"
       ],
@@ -3721,7 +3721,7 @@
       "type": "begin_conversation"
     },
     {
-      "answer_negative": "If you want to buy something, speak with my assistant.",
+      "answer_negative": "Se quer comprar algo, fale com meu assistente.",
       "answer_positive": "Uma boa funda pode derrubar até a presa mais poderosa.",
       "entities": [
         "2342"
@@ -4108,7 +4108,7 @@
       "options": [
         "core_2_back_1"
       ],
-      "text": "Mercadorias para comércio.",
+      "text": "Comercie bens.",
       "type": "trade"
     },
     {
@@ -4117,7 +4117,7 @@
       "options": [
         "core_2_back_1"
       ],
-      "text": "Mercadorias para comércio.",
+      "text": "Comercie bens.",
       "type": "trade"
     },
     {
@@ -4126,7 +4126,7 @@
       "options": [
         "core_2_back_1"
       ],
-      "text": "Mercadorias para comércio.",
+      "text": "Comercie bens.",
       "type": "trade"
     },
     {
@@ -4135,7 +4135,7 @@
       "options": [
         "core_2_back_1"
       ],
-      "text": "Mercadorias para comércio.",
+      "text": "Comercie bens.",
       "type": "trade"
     },
     {
@@ -4144,7 +4144,7 @@
       "options": [
         "core_2_back_1"
       ],
-      "text": "Mercadorias para comércio.",
+      "text": "Comercie bens.",
       "type": "trade"
     },
     {
@@ -4153,7 +4153,7 @@
       "options": [
         "core_2_back_1"
       ],
-      "text": "Mercadorias para comércio.",
+      "text": "Comercie bens.",
       "type": "trade"
     },
     {
@@ -4162,7 +4162,7 @@
       "options": [
         "core_2_back_1"
       ],
-      "text": "Mercadorias para comércio.",
+      "text": "Comercie bens.",
       "type": "trade"
     },
     {
@@ -4171,7 +4171,7 @@
       "options": [
         "core_2_back_1"
       ],
-      "text": "Mercadorias para comércio.",
+      "text": "Comercie bens.",
       "type": "trade"
     },
     {
@@ -4180,7 +4180,7 @@
       "options": [
         "core_2_back_1"
       ],
-      "text": "Mercadorias para comércio.",
+      "text": "Comercie bens.",
       "type": "trade"
     },
     {
@@ -4189,7 +4189,7 @@
       "options": [
         "core_2_back_1"
       ],
-      "text": "Mercadorias para comércio.",
+      "text": "Comercie bens.",
       "type": "trade"
     },
     {
@@ -4198,7 +4198,7 @@
       "options": [
         "core_2_back_1"
       ],
-      "text": "Mercadorias para comércio.",
+      "text": "Comercie bens.",
       "type": "trade"
     },
     {
@@ -4207,7 +4207,7 @@
       "options": [
         "core_2_back_1"
       ],
-      "text": "Mercadorias para comércio.",
+      "text": "Comercie bens.",
       "type": "trade"
     },
     {
@@ -4216,7 +4216,7 @@
       "options": [
         "core_2_back_1"
       ],
-      "text": "Mercadorias para comércio.",
+      "text": "Comercie bens.",
       "type": "trade"
     },
     {
@@ -4225,7 +4225,7 @@
       "options": [
         "core_2_back_1"
       ],
-      "text": "Mercadorias para comércio.",
+      "text": "Comercie bens.",
       "type": "trade"
     },
     {
@@ -4234,7 +4234,7 @@
       "options": [
         "core_2_back_1"
       ],
-      "text": "Mercadorias para comércio.",
+      "text": "Comercie bens.",
       "type": "trade"
     },
     {
@@ -4243,7 +4243,7 @@
       "options": [
         "core_2_back_1"
       ],
-      "text": "Mercadorias para comércio.",
+      "text": "Comercie bens.",
       "type": "trade"
     },
     {
@@ -4252,7 +4252,7 @@
       "options": [
         "core_2_back_1"
       ],
-      "text": "Mercadorias para comércio.",
+      "text": "Comercie bens.",
       "type": "trade"
     },
     {
@@ -4261,7 +4261,7 @@
       "options": [
         "core_2_back_1"
       ],
-      "text": "Mercadorias para comércio.",
+      "text": "Comercie bens.",
       "type": "trade"
     },
     {
@@ -4270,7 +4270,7 @@
       "options": [
         "core_2_back_1"
       ],
-      "text": "Mercadorias para comércio.",
+      "text": "Comercie bens.",
       "type": "trade"
     },
     {
@@ -4454,7 +4454,7 @@
       "options": [
         "core_2_back_1"
       ],
-      "text": "Mercadorias para troca.",
+      "text": "Comercie bens.",
       "type": "trade"
     },
     {
@@ -4490,21 +4490,21 @@
       "options": [
         "core_2_back_1"
       ],
-      "text": "Ask for training.",
+      "text": "Peça por treinamento.",
       "type": "train"
     },
     {
-      "answer_positive": "You can alwaysss come back for more.",
+      "answer_positive": "Você sempre pode voltar para mais.",
       "id": "core_2_trade_50",
       "options": [
         "core_2_back_1"
       ],
-      "text": "Trade goods.",
+      "text": "Comercie bens.",
       "type": "trade"
     },
     {
-      "answer_negative": "You will ssscare the ssslugsss!",
-      "answer_positive": "Looking for sssome deliciousss meat?",
+      "answer_negative": "Você vai assustar os lesmas!",
+      "answer_positive": "Procurando por alguma carne deliciosa?",
       "entities": [
         "core_2_Reptilion_Rancher"
       ],
@@ -4528,27 +4528,27 @@
       "type": "begin_conversation"
     },
     {
-      "answer_negative": "I'm not in the mood for that.",
-      "answer_positive": "I can teach you everything I know!",
+      "answer_negative": "Não estou com vontade para isso.",
+      "answer_positive": "Posso te ensinar tudo que sei!",
       "id": "core_2_train_83",
       "options": [
         "core_2_back_1"
       ],
-      "text": "Ask for training.",
+      "text": "Peça por treinamento.",
       "type": "train"
     },
     {
-      "answer_positive": "Tassstes better if you cook it.",
+      "answer_positive": "Fica melhor se você cozinhar.",
       "id": "core_2_trade_51",
       "options": [
         "core_2_back_1"
       ],
-      "text": "Trade goods.",
+      "text": "Comercie bens.",
       "type": "trade"
     },
     {
-      "answer_negative": "I don't have to talk to you.",
-      "answer_positive": "I like the sssmell of freshly cut wood.",
+      "answer_negative": "Não tenho que falar com você.",
+      "answer_positive": "Gosto do cheiro de madeira recém-cortada.",
       "entities": [
         "core_2_Reptilion_Woodcutter",
         "core_2_Reptilion_Bowyer",
@@ -4575,27 +4575,27 @@
       "type": "begin_conversation"
     },
     {
-      "answer_negative": "I wish I could, but I don't want to.",
-      "answer_positive": "I jussst love to talk about my craft!",
+      "answer_negative": "Eu gostaria, mas não quero.",
+      "answer_positive": "Amo falar sobre meu ofício!",
       "id": "core_2_train_82",
       "options": [
         "core_2_back_1"
       ],
-      "text": "Ask for training.",
+      "text": "Peça por treinamento.",
       "type": "train"
     },
     {
-      "answer_positive": "New stock every few daysss!",
+      "answer_positive": "Novo estoque a cada poucos dias!",
       "id": "core_2_trade_52",
       "options": [
         "core_2_back_1"
       ],
-      "text": "Trade goods.",
+      "text": "Comercie bens.",
       "type": "trade"
     },
     {
-      "answer_negative": "I have better ssstuff to do.",
-      "answer_positive": "You need sssomething?",
+      "answer_negative": "Tenho coisas melhores para fazer.",
+      "answer_positive": "Você precisa de algo?",
       "entities": [
         "core_2_Reptilion_Grass_Cutter",
         "core_2_Reptilion_Miller",
@@ -4623,27 +4623,27 @@
       "type": "begin_conversation"
     },
     {
-      "answer_negative": "I wish I could, but I don't want to.",
-      "answer_positive": "I jussst love to talk about my craft!",
+      "answer_negative": "Eu gostaria, mas não quero.",
+      "answer_positive": "Amo falar sobre meu ofício!",
       "id": "core_2_train_81",
       "options": [
         "core_2_back_1"
       ],
-      "text": "Ask for training.",
+      "text": "Peça por treinamento.",
       "type": "train"
     },
     {
-      "answer_positive": "Let me know if you need more.",
+      "answer_positive": "Me avise se precisar de mais.",
       "id": "core_2_trade_53",
       "options": [
         "core_2_back_1"
       ],
-      "text": "Trade goods.",
+      "text": "Comercie bens.",
       "type": "trade"
     },
     {
-      "answer_negative": "I'd rather talk to a tree.",
-      "answer_positive": "The leavesss are ssso calm today, don't you think?",
+      "answer_negative": "Prefiro falar com uma árvore.",
+      "answer_positive": "As folhas estão tão calmas hoje, não acha?",
       "entities": [
         "core_2_Reptilion_Forester"
       ],
@@ -4667,28 +4667,28 @@
       "type": "begin_conversation"
     },
     {
-      "answer_negative": "I would rather talk to the treesss.",
-      "answer_positive": "I will gladly help you.",
+      "answer_negative": "Prefiro falar com as árvores.",
+      "answer_positive": "Ficarei feliz em ajudá-lo.",
       "id": "core_2_train_80",
       "options": [
         "core_2_back_1"
       ],
-      "text": "Ask for training.",
+      "text": "Peça por treinamento.",
       "type": "train"
     },
     {
-      "answer_negative": "You woudn't know a difference between a log and a branch. I won't teach you.",
-      "answer_positive": "Of courssse. I just love teaching sssomeone my craft.",
+      "answer_negative": "Você não saberia a diferença entre uma tora e um galho. Não vou te ensinar.",
+      "answer_positive": "Claro. Eu simplesmente amo ensinar alguém sobre meu ofício.",
       "id": "core_2_train_41",
       "options": [
         "core_2_back_1"
       ],
-      "text": "Ask for training.",
+      "text": "Peça por treinamento.",
       "type": "train"
     },
     {
-      "answer_negative": "Go away, I have work to do.",
-      "answer_positive": "Sssomething I can help you with?",
+      "answer_negative": "Vá embora, tenho trabalho a fazer.",
+      "answer_positive": "Algo em que eu possa ajudá-lo?",
       "entities": [
         "core_2_Reptilion_Iron_Maker"
       ],
@@ -4712,27 +4712,27 @@
       "type": "begin_conversation"
     },
     {
-      "answer_negative": "I don't think I want to.",
-      "answer_positive": "I don't know much, but I know sssome.",
+      "answer_negative": "Não acho que quero.",
+      "answer_positive": "Não sei muito, mas sei algumas coisas.",
       "id": "core_2_train_79",
       "options": [
         "core_2_back_1"
       ],
-      "text": "Ask for training.",
+      "text": "Peça por treinamento.",
       "type": "train"
     },
     {
-      "answer_positive": "Hope you put it to good ussse.",
+      "answer_positive": "Espero que você faça bom uso.",
       "id": "core_2_trade_54",
       "options": [
         "core_2_back_1"
       ],
-      "text": "Trade goods.",
+      "text": "Comercie bens.",
       "type": "trade"
     },
     {
-      "answer_negative": "Not now! The frogsss are calling me.",
-      "answer_positive": "Do you alssso hear the calling of the frogs?",
+      "answer_negative": "Não agora! Os sapos estão me chamando.",
+      "answer_positive": "Você também ouve o chamado dos sapos?",
       "entities": [
         "core_2_Reptilion_Frog_Hunter"
       ],
@@ -4756,27 +4756,27 @@
       "type": "begin_conversation"
     },
     {
-      "answer_positive": "It'sss a good ssstuff.",
+      "answer_positive": "É uma coisa boa.",
       "id": "core_2_trade_55",
       "options": [
         "core_2_back_1"
       ],
-      "text": "Trade goods.",
+      "text": "Comercie bens.",
       "type": "trade"
     },
     {
-      "answer_negative": "Ha! You woudn't lassst a day. I won't wassste my time on you.",
-      "answer_positive": "It will not be easssy, but I will try.",
+      "answer_negative": "Ha! Você não duraria um dia. Não vou desperdiçar meu tempo com você.",
+      "answer_positive": "Não será fácil, mas vou tentar.",
       "id": "core_2_train_42",
       "options": [
         "core_2_back_1"
       ],
-      "text": "Ask for training.",
+      "text": "Peça por treinamento.",
       "type": "train"
     },
     {
-      "answer_negative": "Can't you sssee I'm busssy?",
-      "answer_positive": "Another happy cussstomer in the making, welcome!",
+      "answer_negative": "Não pode ver que estou ocupado?",
+      "answer_positive": "Outro cliente feliz em formação, bem-vindo!",
       "entities": [
         "core_2_Reptilion_Leatherworker",
         "core_2_Reptilion_Shell_Sculptor"
@@ -4802,27 +4802,27 @@
       "type": "begin_conversation"
     },
     {
-      "answer_positive": "It will lassst you forever.",
+      "answer_positive": "Isso vai durar para sempre.",
       "id": "core_2_trade_56",
       "options": [
         "core_2_back_1"
       ],
-      "text": "Trade goods.",
+      "text": "Comercie bens.",
       "type": "trade"
     },
     {
-      "answer_negative": "No, I don't think ssso.",
-      "answer_positive": "You look like a type that jussst might get it. Let'sss give it a try.",
+      "answer_negative": "Não, não acho.",
+      "answer_positive": "Você parece o tipo que pode entender. Vamos tentar.",
       "id": "core_2_train_43",
       "options": [
         "core_2_back_1"
       ],
-      "text": "Ask for training.",
+      "text": "Peça por treinamento.",
       "type": "train"
     },
     {
-      "answer_negative": "Can't I have jussst a few momentsss of peace?!",
-      "answer_positive": "Need sssome tools?",
+      "answer_negative": "Não posso ter apenas alguns momentos de paz?!",
+      "answer_positive": "Precisa de algumas ferramentas?",
       "entities": [
         "core_2_Reptilion_Toolmaker"
       ],
@@ -4847,27 +4847,27 @@
       "type": "begin_conversation"
     },
     {
-      "answer_positive": "Bessst work in a whole ssswamp!",
+      "answer_positive": "Melhor trabalho em todo o pântano!",
       "id": "core_2_trade_57",
       "options": [
         "core_2_back_1"
       ],
-      "text": "Trade goods.",
+      "text": "Comercie bens.",
       "type": "trade"
     },
     {
-      "answer_negative": "Forget about it.",
-      "answer_positive": "Why not. I have sssome free time now.",
+      "answer_negative": "Esqueça isso.",
+      "answer_positive": "Por que não. Tenho um tempo livre agora.",
       "id": "core_2_train_44",
       "options": [
         "core_2_back_1"
       ],
-      "text": "Ask for training.",
+      "text": "Peça por treinamento.",
       "type": "train"
     },
     {
-      "answer_negative": "I have nothing to sssay to you.",
-      "answer_positive": "There isss nothing better than playing with hot metal all day, don't you think?",
+      "answer_negative": "Não tenho nada a dizer a você.",
+      "answer_positive": "Não há nada melhor do que trabalhar com metal quente o dia todo, não acha?",
       "entities": [
         "core_2_Reptilion_Smelter",
         "core_2_Reptilion_Engineer"
@@ -4893,18 +4893,18 @@
       "type": "begin_conversation"
     },
     {
-      "answer_negative": "No.",
-      "answer_positive": "Yeah, I think I can do that.",
+      "answer_negative": "Não.",
+      "answer_positive": "Sim, acho que posso fazer isso.",
       "id": "core_2_train_45",
       "options": [
         "core_2_back_1"
       ],
-      "text": "Ask for training.",
+      "text": "Peça por treinamento.",
       "type": "train"
     },
     {
-      "answer_negative": "Find sssomeone who caresss to talk to you. It'sss not me.",
-      "answer_positive": "What do you need? A sssword? A dagger?",
+      "answer_negative": "Encontre alguém que se importe em falar com você. Não sou eu.",
+      "answer_positive": "O que você precisa? Uma espada? Uma adaga?",
       "entities": [
         "core_2_Reptilion_Weaponsmith"
       ],
@@ -4929,27 +4929,27 @@
       "type": "begin_conversation"
     },
     {
-      "answer_positive": "Very good choice.",
+      "answer_positive": "Muito boa escolha.",
       "id": "core_2_trade_58",
       "options": [
         "core_2_back_1"
       ],
-      "text": "Trade goods.",
+      "text": "Comercie bens.",
       "type": "trade"
     },
     {
-      "answer_negative": "Not going to happen. Find sssomeone elssse.",
-      "answer_positive": "If you have enough gold, I can teach you anything I know.",
+      "answer_negative": "Não vai acontecer. Procure outra pessoa.",
+      "answer_positive": "Se você tiver ouro suficiente, posso te ensinar tudo que sei.",
       "id": "core_2_train_46",
       "options": [
         "core_2_back_1"
       ],
-      "text": "Ask for training.",
+      "text": "Peça por treinamento.",
       "type": "train"
     },
     {
-      "answer_negative": "Sssorry, I have to take care of an emergency.",
-      "answer_positive": "Do you know the power of our ssswamp?",
+      "answer_negative": "Sssinto muito, tenho que cuidar de uma emergência.",
+      "answer_positive": "Você conhece o poder do nosso pântano?",
       "entities": [
         "core_2_Reptilion_Bog_Healer"
       ],
@@ -4974,26 +4974,26 @@
       "type": "begin_conversation"
     },
     {
-      "answer_negative": "Sssome knowlege is not for sssharing.",
-      "answer_positive": "I can ssshare ssso much knowlege with you!",
+      "answer_negative": "Alguns conhecimentos não são para compartilhar.",
+      "answer_positive": "Posso compartilhar tanto conhecimento com você!",
       "id": "core_2_train_78",
       "options": [
         "core_2_back_1"
       ],
-      "text": "Ask for training.",
+      "text": "Peça por treinamento.",
       "type": "train"
     },
     {
-      "answer_positive": "Jussst don't overussse it.",
+      "answer_positive": "Apenas não abuse disso.",
       "id": "core_2_trade_59",
       "options": [
         "core_2_back_1"
       ],
-      "text": "Trade goods.",
+      "text": "Comercie bens.",
       "type": "trade"
     },
     {
-      "answer_negative": "Not now, thisss jugsss won't make themssself.",
+      "answer_negative": "Não agora, esses jarros não vão se fazer sozinhos.",
       "answer_positive": "Você tem sorte de eu estar de folga. O que você quer?",
       "entities": [
         "core_2_Reptilion_Potter"
@@ -5023,7 +5023,7 @@
       "options": [
         "core_2_back_1"
       ],
-      "text": "Pedir treinamento.",
+      "text": "Peça por treinamento.",
       "type": "train"
     },
     {
@@ -5058,7 +5058,7 @@
       "options": [
         "core_2_back_1"
       ],
-      "text": "Pedir treinamento.",
+      "text": "Peça por treinamento.",
       "type": "train"
     },
     {
@@ -5067,7 +5067,7 @@
       "options": [
         "core_2_back_1"
       ],
-      "text": "Comerciar bens.",
+      "text": "Comercie bens.",
       "type": "trade"
     },
     {
@@ -5102,7 +5102,7 @@
       "options": [
         "core_2_back_1"
       ],
-      "text": "Pedir treinamento.",
+      "text": "Peça por treinamento.",
       "type": "train"
     },
     {
@@ -5111,7 +5111,7 @@
       "options": [
         "core_2_back_1"
       ],
-      "text": "Comerciar bens.",
+      "text": "Comercie bens.",
       "type": "trade"
     },
     {
@@ -5146,7 +5146,7 @@
       "options": [
         "core_2_back_1"
       ],
-      "text": "Pedir treinamento.",
+      "text": "Peça por treinamento.",
       "type": "train"
     },
     {
@@ -5155,7 +5155,7 @@
       "options": [
         "core_2_back_1"
       ],
-      "text": "Comerciar bens.",
+      "text": "Comercie bens.",
       "type": "trade"
     },
     {
@@ -5190,7 +5190,7 @@
       "options": [
         "core_2_back_1"
       ],
-      "text": "Pedir treinamento.",
+      "text": "Peça por treinamento.",
       "type": "train"
     },
     {
@@ -5199,7 +5199,7 @@
       "options": [
         "core_2_back_1"
       ],
-      "text": "Comerciar bens.",
+      "text": "Comercie bens.",
       "type": "trade"
     },
     {
@@ -5236,7 +5236,7 @@
       "options": [
         "core_2_back_1"
       ],
-      "text": "Pedir treinamento.",
+      "text": "Peça por treinamento.",
       "type": "train"
     },
     {
@@ -5268,17 +5268,17 @@
     },
     {
       "answer_negative": "Você não é bom o suficiente para treinar comigo.",
-      "answer_positive": "It'sss not easssy, but maybe you will be capable to learn.",
+      "answer_positive": "Não é fácil, mas talvez você seja capaz de aprender.",
       "id": "core_2_train_47",
       "options": [
         "core_2_back_1"
       ],
-      "text": "Ask for training.",
+      "text": "Peça por treinamento.",
       "type": "train"
     },
     {
-      "answer_negative": "I'm late already!",
-      "answer_positive": "I know I'm kind of ussslesss now, but I will train hard!",
+      "answer_negative": "Já estou atrasado!",
+      "answer_positive": "Sei que sou meio inútil agora, mas vou treinar muito!",
       "entities": [
         "core_2_Reptilion_Recruit"
       ],
@@ -5302,18 +5302,18 @@
       "type": "begin_conversation"
     },
     {
-      "answer_negative": "I have better thingsss to do.",
-      "answer_positive": "I can ssshow you exactly what to do.",
+      "answer_negative": "Tenho coisas melhores para fazer.",
+      "answer_positive": "Posso mostrar exatamente o que fazer.",
       "id": "core_2_train_71",
       "options": [
         "core_2_back_1"
       ],
-      "text": "Ask for training.",
+      "text": "Peça por treinamento.",
       "type": "train"
     },
     {
-      "answer_negative": "Get out of my way.",
-      "answer_positive": "Let sseee... Yesss, what do you want?",
+      "answer_negative": "Saia do meu caminho.",
+      "answer_positive": "Vejamos... Sim, o que você quer?",
       "entities": [
         "core_2_Reptilion_Leader"
       ],
@@ -5336,18 +5336,18 @@
       "type": "begin_conversation"
     },
     {
-      "answer_negative": "Ha ha ha! That'sss really funny. No.",
-      "answer_positive": "Ssshould I sssacriface my preciousss time to train you? Hmm... Well, I have nothing better to do right now.",
+      "answer_negative": "Ha ha ha! Isso é realmente engraçado. Não.",
+      "answer_positive": "Devo sacrificar meu tempo precioso para treinar você? Hmm... Bem, não tenho nada melhor para fazer agora.",
       "id": "core_2_train_48",
       "options": [
         "core_2_back_1"
       ],
-      "text": "Ask for training.",
+      "text": "Peça por treinamento.",
       "type": "train"
     },
     {
-      "answer_negative": "*doesn't acknowledge you*",
-      "answer_positive": "You need sssomething? I'm trying to look busssy here!",
+      "answer_negative": "*não te reconhece*",
+      "answer_positive": "Você precisa de algo? Estou tentando parecer ocupado aqui!",
       "entities": [
         "core_2_Reptilion_Adult"
       ],
@@ -5372,17 +5372,17 @@
       "type": "begin_conversation"
     },
     {
-      "answer_positive": "Hope you like what you got!",
+      "answer_positive": "Espero que goste do que recebeu!",
       "id": "core_2_trade_64",
       "options": [
         "core_2_back_1"
       ],
-      "text": "Trade goods.",
+      "text": "Comercie bens.",
       "type": "trade"
     },
     {
-      "answer_negative": "*nods and move on*",
-      "answer_positive": "We will alwaysss protect our home.",
+      "answer_negative": "*acena e segue em frente*",
+      "answer_positive": "Sempre protegeremos nosso lar.",
       "entities": [
         "core_2_Reptilion_Bog_Warrior"
       ],
@@ -5407,18 +5407,18 @@
       "type": "begin_conversation"
     },
     {
-      "answer_negative": "Not before sssky fallsss down.",
-      "answer_positive": "I can train you, if you want it bad enough.",
+      "answer_negative": "Não antes do céu cair.",
+      "answer_positive": "Posso te treinar, se você quiser o suficiente.",
       "id": "core_2_train_49",
       "options": [
         "core_2_back_1"
       ],
-      "text": "Ask for training.",
+      "text": "Peça por treinamento.",
       "type": "train"
     },
     {
-      "answer_negative": "I'm late on an order!",
-      "answer_positive": "Need sssomething trendy?",
+      "answer_negative": "Estou atrasado em um pedido!",
+      "answer_positive": "Precisa de algo da moda?",
       "entities": [
         "core_2_Reptilion_Tailor"
       ],
@@ -5443,27 +5443,27 @@
       "type": "begin_conversation"
     },
     {
-      "answer_negative": "I'm sssure you can find sssomeone better.",
-      "answer_positive": "You came to the right place to learn!",
+      "answer_negative": "Tenho certeza que pode encontrar alguém melhor.",
+      "answer_positive": "Você veio ao lugar certo para aprender!",
       "id": "core_2_train_70",
       "options": [
         "core_2_back_1"
       ],
-      "text": "Ask for training.",
+      "text": "Peça por treinamento.",
       "type": "train"
     },
     {
-      "answer_positive": "Wear it with pride!",
+      "answer_positive": "Use com orgulho!",
       "id": "core_2_trade_65",
       "options": [
         "core_2_back_1"
       ],
-      "text": "Trade goods.",
+      "text": "Comercie bens.",
       "type": "trade"
     },
     {
-      "answer_negative": "We have nothing to say to you.",
-      "answer_positive": "Do you need something from us?",
+      "answer_negative": "Não temos nada a dizer a você.",
+      "answer_positive": "Você precisa de algo de nós?",
       "entities": [
         "core_2_Mushman_Adult",
         "core_2_Mushman_Fist"
@@ -5489,27 +5489,27 @@
       "type": "begin_conversation"
     },
     {
-      "answer_negative": "We don't feel like doing that.",
-      "answer_positive": "Sure, we will gladly share what we know.",
+      "answer_negative": "Não temos vontade de fazer isso.",
+      "answer_positive": "Claro, compartilharemos o que sabemos com prazer.",
       "id": "core_2_train_69",
       "options": [
         "core_2_back_1"
       ],
-      "text": "Ask for training.",
+      "text": "Peça por treinamento.",
       "type": "train"
     },
     {
-      "answer_positive": "We hope this helps.",
+      "answer_positive": "Esperamos que isso ajude.",
       "id": "core_2_trade_66",
       "options": [
         "core_2_back_1"
       ],
-      "text": "Trade goods.",
+      "text": "Comercie bens.",
       "type": "trade"
     },
     {
-      "answer_negative": "We are busy, go away.",
-      "answer_positive": "We have fresh stuff, if you need any.",
+      "answer_negative": "Estamos ocupados, vá embora.",
+      "answer_positive": "Temos coisas frescas, se precisar de alguma.",
       "entities": [
         "core_2_Mushman_Forager",
         "core_2_Mushman_Bee_Seeker"
@@ -5534,13 +5534,13 @@
       "type": "begin_conversation"
     },
     {
-      "answer_negative": "Just forget about it.",
-      "answer_positive": "We don't know much, so it will be quick!",
+      "answer_negative": "Apenas esqueça isso.",
+      "answer_positive": "Não sabemos muito, então será rápido!",
       "id": "core_2_train_68",
       "options": [
         "core_2_back_1"
       ],
-      "text": "Ask for training.",
+      "text": "Peça por treinamento.",
       "type": "train"
     },
     {
@@ -5549,7 +5549,7 @@
       "options": [
         "core_2_back_1"
       ],
-      "text": "Mercadorias para troca.",
+      "text": "Comercie bens.",
       "type": "trade"
     },
     {
@@ -5594,7 +5594,7 @@
       "options": [
         "core_2_back_1"
       ],
-      "text": "Mercadorias para troca.",
+      "text": "Comercie bens.",
       "type": "trade"
     },
     {
@@ -5640,7 +5640,7 @@
       "options": [
         "core_2_back_1"
       ],
-      "text": "Mercadorias para troca.",
+      "text": "Comercie bens.",
       "type": "trade"
     },
     {
@@ -5674,7 +5674,7 @@
       "options": [
         "core_2_back_1"
       ],
-      "text": "Mercadorias para troca.",
+      "text": "Comercie bens.",
       "type": "trade"
     },
     {
@@ -5688,7 +5688,7 @@
       "type": "train"
     },
     {
-      "answer_negative": "Agora não, estamos a caminho de uma grande caçada!",
+      "answer_negative": "Não agora, estamos a caminho de uma grande caçada!",
       "answer_positive": "Você precisa de algumas dicas?",
       "entities": [
         "core_2_Mushman_Hunter"
@@ -5729,7 +5729,7 @@
       "options": [
         "core_2_back_1"
       ],
-      "text": "Mercadorias para troca.",
+      "text": "Comercie bens.",
       "type": "trade"
     },
     {
@@ -5775,11 +5775,11 @@
       "options": [
         "core_2_back_1"
       ],
-      "text": "Mercadorias para troca.",
+      "text": "Comercie bens.",
       "type": "trade"
     },
     {
-      "answer_negative": "Agora não, agora não!",
+      "answer_negative": "Não agora, não agora!",
       "answer_positive": "Temos todas as últimas tendências!",
       "entities": [
         "core_2_Mushman_Tailor"
@@ -5810,7 +5810,7 @@
       "options": [
         "core_2_back_1"
       ],
-      "text": "Comercializar bens.",
+      "text": "Comercie bens.",
       "type": "trade"
     },
     {
@@ -5820,7 +5820,7 @@
       "options": [
         "core_2_back_1"
       ],
-      "text": "Pedir treinamento.",
+      "text": "Peça por treinamento.",
       "type": "train"
     },
     {
@@ -5855,7 +5855,7 @@
       "options": [
         "core_2_back_1"
       ],
-      "text": "Pedir treinamento.",
+      "text": "Peça por treinamento.",
       "type": "train"
     },
     {
@@ -5864,7 +5864,7 @@
       "options": [
         "core_2_back_1"
       ],
-      "text": "Comercializar bens.",
+      "text": "Comercie bens.",
       "type": "trade"
     },
     {
@@ -5901,7 +5901,7 @@
       "options": [
         "core_2_back_1"
       ],
-      "text": "Comercializar bens.",
+      "text": "Comercie bens.",
       "type": "trade"
     },
     {
@@ -5911,11 +5911,11 @@
       "options": [
         "core_2_back_1"
       ],
-      "text": "Pedir treinamento.",
+      "text": "Peça por treinamento.",
       "type": "train"
     },
     {
-      "answer_negative": "*ignora você*",
+      "answer_negative": "*te ignora*",
       "answer_positive": "Podemos trazer alguma luz para sua vida.",
       "entities": [
         "core_2_Mushman_Light_Bringer"
@@ -5946,7 +5946,7 @@
       "options": [
         "core_2_back_1"
       ],
-      "text": "Comercializar bens.",
+      "text": "Comercie bens.",
       "type": "trade"
     },
     {
@@ -5956,7 +5956,7 @@
       "options": [
         "core_2_back_1"
       ],
-      "text": "Pedir treinamento.",
+      "text": "Peça por treinamento.",
       "type": "train"
     },
     {
@@ -5990,7 +5990,7 @@
       "options": [
         "core_2_back_1"
       ],
-      "text": "Comercializar bens.",
+      "text": "Comercie bens.",
       "type": "trade"
     },
     {
@@ -6000,7 +6000,7 @@
       "options": [
         "core_2_back_1"
       ],
-      "text": "Pedir treinamento.",
+      "text": "Peça por treinamento.",
       "type": "train"
     },
     {
@@ -6035,7 +6035,7 @@
       "options": [
         "core_2_back_1"
       ],
-      "text": "Pedir treinamento.",
+      "text": "Peça por treinamento.",
       "type": "train"
     },
     {
@@ -6044,7 +6044,7 @@
       "options": [
         "core_2_back_1"
       ],
-      "text": "Comercializar bens.",
+      "text": "Comercie bens.",
       "type": "trade"
     },
     {
@@ -6089,7 +6089,7 @@
       "options": [
         "core_2_back_1"
       ],
-      "text": "Mercadorias para troca.",
+      "text": "Comercie bens.",
       "type": "trade"
     },
     {
@@ -6130,7 +6130,7 @@
       "type": "train"
     },
     {
-      "answer_negative": "Agora não, a colônia precisa de nós.",
+      "answer_negative": "Não agora, a colônia precisa de nós.",
       "answer_positive": "Esperamos que você esteja tendo um dia calmo e pacífico.",
       "entities": [
         "core_2_Mushman_Mush_Guardian"
@@ -6277,7 +6277,7 @@
       "options": [
         "core_2_back_1"
       ],
-      "text": "Mercadorias para troca.",
+      "text": "Comercie bens.",
       "type": "trade"
     },
     {
@@ -6322,12 +6322,12 @@
       "options": [
         "core_2_back_1"
       ],
-      "text": "Mercadorias para troca.",
+      "text": "Comercie bens.",
       "type": "trade"
     },
     {
-      "answer_negative": "We are practising patrolling, go away.",
-      "answer_positive": "We will learn how to protect our colony!",
+      "answer_negative": "Estamos praticando patrulha, vá embora.",
+      "answer_positive": "Nós aprenderemos a proteger nossa colônia!",
       "entities": [
         "core_2_Mushman_Recruit"
       ],
@@ -6351,18 +6351,18 @@
       "type": "begin_conversation"
     },
     {
-      "answer_negative": "We have better things to do.",
-      "answer_positive": "We have nothing better to do.",
+      "answer_negative": "Temos coisas melhores para fazer.",
+      "answer_positive": "Não temos nada melhor para fazer.",
       "id": "core_2_train_84",
       "options": [
         "core_2_back_1"
       ],
-      "text": "Ask for training.",
+      "text": "Peça por treinamento.",
       "type": "train"
     },
     {
-      "answer_negative": "Why can't everybody just let us be!",
-      "answer_positive": "We do have a lot of mycelium, if you need any. Normal kind, not sacred kind.",
+      "answer_negative": "Por que ninguém pode simplesmente nos deixar em paz!",
+      "answer_positive": "Temos muito micélio, se precisar de algum. Do tipo normal, não do sagrado.",
       "entities": [
         "core_2_Mushman_Mycelium_Farmer"
       ],
@@ -6386,27 +6386,27 @@
       "type": "begin_conversation"
     },
     {
-      "answer_negative": "*scoffs at you*",
-      "answer_positive": "Yes, we can help you with that.",
+      "answer_negative": "*zomba de você*",
+      "answer_positive": "Sim, podemos ajudar com isso.",
       "id": "core_2_train_85",
       "options": [
         "core_2_back_1"
       ],
-      "text": "Ask for training.",
+      "text": "Peça por treinamento.",
       "type": "train"
     },
     {
-      "answer_positive": "Come back if you every need more.",
+      "answer_positive": "Volte se precisar de mais.",
       "id": "core_2_trade_83",
       "options": [
         "core_2_back_1"
       ],
-      "text": "Trade goods.",
+      "text": "Comercie bens.",
       "type": "trade"
     },
     {
-      "answer_negative": "We have to tend to our bats.",
-      "answer_positive": "Have you seen a bat around here? We think we lost one.",
+      "answer_negative": "Temos que cuidar dos nossos morcegos.",
+      "answer_positive": "Você viu um morcego por aqui? Achamos que perdemos um.",
       "entities": [
         "core_2_Mushman_Bat_Keeper"
       ],
@@ -6430,95 +6430,95 @@
       "type": "begin_conversation"
     },
     {
-      "answer_negative": "We would rather train our bats.",
-      "answer_positive": "We hope you are better student than a bat.",
+      "answer_negative": "Preferiríamos treinar nossos morcegos.",
+      "answer_positive": "Esperamos que você seja um aluno melhor do que um morcego.",
       "id": "core_2_train_86",
       "options": [
         "core_2_back_1"
       ],
-      "text": "Ask for training.",
+      "text": "Peça por treinamento.",
       "type": "train"
     },
     {
-      "answer_positive": "It is a fair trade.",
+      "answer_positive": "É um negócio justo.",
       "id": "core_2_trade_84",
       "options": [
         "core_2_back_1"
       ],
-      "text": "Trade goods.",
+      "text": "Comercie bens.",
       "type": "trade"
     },
     {
-      "answer_positive": "How much?",
+      "answer_positive": "Quanto?",
       "id": "core_2_hire_1",
       "options": [
         "core_2_back_1"
       ],
-      "text": "Hire to party.",
+      "text": "Contratar para o grupo.",
       "type": "hire_to_party"
     },
     {
-      "answer_positive": "Good deal. Come back for more someday!",
+      "answer_positive": "Bom negócio. Volte para mais algum dia!",
       "id": "core_2_trade_88",
       "options": [
         "core_2_back_1"
       ],
-      "text": "Trade goods.",
+      "text": "Comercie bens.",
       "type": "trade"
     },
     {
-      "answer_negative": "I don't have time for this.",
-      "answer_positive": "My time will cost you.",
+      "answer_negative": "Não tenho tempo para isso.",
+      "answer_positive": "Meu tempo terá um custo.",
       "id": "core_2_train_90",
       "options": [
         "core_2_back_1"
       ],
-      "text": "Ask for training.",
+      "text": "Peça por treinamento.",
       "type": "train"
     },
     {
-      "answer_negative": "I won't take someone like you on board my ship!",
-      "answer_positive": "I can drop you at any shore you wish. For a price.",
+      "answer_negative": "Não levarei alguém como você a bordo do meu navio!",
+      "answer_positive": "Posso deixá-lo em qualquer costa que desejar. Por um preço.",
       "id": "core_2_sail_1",
       "options": [
         "core_2_back_1"
       ],
-      "text": "Ask to sail.",
+      "text": "Pedir para navegar.",
       "type": "sail"
     },
     {
-      "answer_negative": "I don't deal with your kind.",
-      "answer_positive": "Where do you wish to sail?",
+      "answer_negative": "Não lido com o seu tipo.",
+      "answer_positive": "Para onde deseja navegar?",
       "id": "core_2_sail_2",
       "options": [
         "core_2_back_1"
       ],
-      "text": "Ask to sail.",
+      "text": "Pedir para navegar.",
       "type": "sail"
     },
     {
-      "answer_negative": "I won't take you on board my ssship.",
-      "answer_positive": "Where do you wish to sssail?",
+      "answer_negative": "Não levarei você a bordo do meu navisssio.",
+      "answer_positive": "Para onde deseja navesssegar?",
       "id": "core_2_sail_3",
       "options": [
         "core_2_back_1"
       ],
-      "text": "Ask to sail.",
+      "text": "Pedir para navegar.",
       "type": "sail"
     },
     {
-      "answer_negative": "I don't deal with your kind.",
-      "answer_positive": "My services are not cheap.",
+      "answer_negative": "Não lido com o seu tipo.",
+      "answer_positive": "Meus serviços não são baratos.",
       "id": "core_2_sail_4",
       "options": [
         "core_2_back_1"
       ],
-      "text": "Ask to sail.",
+      "text": "Pedir para navegar.",
       "type": "sail"
     },
     {
-      "answer_negative": "I don't deal with your kind.",
-      "answer_positive": "I can smuggle you wherever you want.",
+      "answer_negative": "Não lido com o seu tipo.",
+      "answer_positive": "Posso contrabandear você para onde quiser.",
       "id": "core_2_sail_5",
       "options": [
         "core_2_back_1"
@@ -6527,7 +6527,7 @@
       "type": "sail"
     },
     {
-      "answer_negative": "Encontre outra pessoa para conversar!",
+      "answer_negative": "Encontre alguém mais para conversar!",
       "answer_positive": "Nada melhor que carne fresca!",
       "entities": [
         "core_2_Ursan_Rancher"
@@ -6559,7 +6559,7 @@
       "options": [
         "core_2_back_1"
       ],
-      "text": "Pedir treinamento.",
+      "text": "Peça por treinamento.",
       "type": "train"
     },
     {
@@ -6596,7 +6596,7 @@
       "options": [
         "core_2_back_1"
       ],
-      "text": "Pedir treinamento.",
+      "text": "Peça por treinamento.",
       "type": "train"
     },
     {
@@ -6605,7 +6605,7 @@
       "options": [
         "core_2_back_1"
       ],
-      "text": "Comercializar bens.",
+      "text": "Comercie bens.",
       "type": "trade"
     },
     {
@@ -6642,7 +6642,7 @@
       "options": [
         "core_2_back_1"
       ],
-      "text": "Pedir treinamento.",
+      "text": "Peça por treinamento.",
       "type": "train"
     },
     {
@@ -6651,11 +6651,11 @@
       "options": [
         "core_2_back_1"
       ],
-      "text": "Comercializar bens.",
+      "text": "Comercie bens.",
       "type": "trade"
     },
     {
-      "answer_negative": "Vá ser irritante em outro lugar!",
+      "answer_negative": "Vá ser chato em outro lugar!",
       "answer_positive": "Acho que está ficando mais quente novamente. Não acha?",
       "entities": [
         "core_2_Ursan_Toolmaker",
@@ -6689,7 +6689,7 @@
       "options": [
         "core_2_back_1"
       ],
-      "text": "Pedir treinamento.",
+      "text": "Peça por treinamento.",
       "type": "train"
     },
     {
@@ -6698,7 +6698,7 @@
       "options": [
         "core_2_back_1"
       ],
-      "text": "Comercializar bens.",
+      "text": "Comercie bens.",
       "type": "trade"
     },
     {
@@ -6734,7 +6734,7 @@
       "options": [
         "core_2_back_1"
       ],
-      "text": "Pedir treinamento.",
+      "text": "Peça por treinamento.",
       "type": "train"
     },
     {
@@ -6743,7 +6743,7 @@
       "options": [
         "core_2_back_1"
       ],
-      "text": "Comercializar bens.",
+      "text": "Comercie bens.",
       "type": "trade"
     },
     {
@@ -6779,7 +6779,7 @@
       "options": [
         "core_2_back_1"
       ],
-      "text": "Pedir treinamento.",
+      "text": "Peça por treinamento.",
       "type": "train"
     },
     {
@@ -6788,11 +6788,11 @@
       "options": [
         "core_2_back_1"
       ],
-      "text": "Mercadorias para comércio.",
+      "text": "Comercie bens.",
       "type": "trade"
     },
     {
-      "answer_negative": "Não agora, volte mais tarde.",
+      "answer_negative": "Agora não, volte mais tarde.",
       "answer_positive": "Acho que toda cidade deveria ter um armeiro. Punhos nus nem sempre são a melhor resposta.",
       "entities": [
         "core_2_Ursan_Weaponsmith"
@@ -6834,7 +6834,7 @@
       "options": [
         "core_2_back_1"
       ],
-      "text": "Mercadorias para comércio.",
+      "text": "Comercie bens.",
       "type": "trade"
     },
     {
@@ -6865,7 +6865,7 @@
       "type": "begin_conversation"
     },
     {
-      "answer_negative": "Não acho que sim.",
+      "answer_negative": "Eu não acho.",
       "answer_positive": "Bem. Pelo menos você saberá como se manter aquecido.",
       "id": "core_2_train_94",
       "options": [
@@ -6880,7 +6880,7 @@
       "options": [
         "core_2_back_1"
       ],
-      "text": "Mercadorias para comércio.",
+      "text": "Comercie bens.",
       "type": "trade"
     },
     {
@@ -6925,11 +6925,11 @@
       "options": [
         "core_2_back_1"
       ],
-      "text": "Mercadorias para comércio.",
+      "text": "Comercie bens.",
       "type": "trade"
     },
     {
-      "answer_negative": "Não agora, amigo.",
+      "answer_negative": "Agora não, amigo.",
       "answer_positive": "Adoro fazer pequenas pausas para uma conversa. Como posso ajudá-lo?",
       "entities": [
         "core_2_Ursan_Leatherworker"
@@ -6971,7 +6971,7 @@
       "options": [
         "core_2_back_1"
       ],
-      "text": "Mercadorias para comércio.",
+      "text": "Comercie bens.",
       "type": "trade"
     },
     {
@@ -7017,12 +7017,12 @@
       "options": [
         "core_2_back_1"
       ],
-      "text": "Mercadorias para comércio.",
+      "text": "Comercie bens.",
       "type": "trade"
     },
     {
-      "answer_negative": "Não quero falar.",
-      "answer_positive": "Gosto da paz e do silêncio que você obtém quando encontra um ótimo local para pescar.",
+      "answer_negative": "Não quero conversar.",
+      "answer_positive": "Gosto da paz e do silêncio que se encontra em um ótimo ponto de pesca.",
       "entities": [
         "core_2_Ursan_Fisherman"
       ],
@@ -7053,7 +7053,7 @@
       "options": [
         "core_2_back_1"
       ],
-      "text": "Pedir treinamento.",
+      "text": "Peça por treinamento.",
       "type": "train"
     },
     {
@@ -7062,7 +7062,7 @@
       "options": [
         "core_2_back_1"
       ],
-      "text": "Comerciar bens.",
+      "text": "Comercie bens.",
       "type": "trade"
     },
     {
@@ -7099,7 +7099,7 @@
       "options": [
         "core_2_back_1"
       ],
-      "text": "Pedir treinamento.",
+      "text": "Peça por treinamento.",
       "type": "train"
     },
     {
@@ -7108,7 +7108,7 @@
       "options": [
         "core_2_back_1"
       ],
-      "text": "Comerciar bens.",
+      "text": "Comercie bens.",
       "type": "trade"
     },
     {
@@ -7145,7 +7145,7 @@
       "options": [
         "core_2_back_1"
       ],
-      "text": "Pedir treinamento.",
+      "text": "Peça por treinamento.",
       "type": "train"
     },
     {
@@ -7154,7 +7154,7 @@
       "options": [
         "core_2_back_1"
       ],
-      "text": "Comerciar bens.",
+      "text": "Comercie bens.",
       "type": "trade"
     },
     {
@@ -7190,7 +7190,7 @@
       "options": [
         "core_2_back_1"
       ],
-      "text": "Pedir treinamento.",
+      "text": "Peça por treinamento.",
       "type": "train"
     },
     {
@@ -7199,7 +7199,7 @@
       "options": [
         "core_2_back_1"
       ],
-      "text": "Comerciar bens.",
+      "text": "Comercie bens.",
       "type": "trade"
     },
     {
@@ -7234,7 +7234,7 @@
       "options": [
         "core_2_back_1"
       ],
-      "text": "Pedir treinamento.",
+      "text": "Peça por treinamento.",
       "type": "train"
     },
     {
@@ -7269,7 +7269,7 @@
       "options": [
         "core_2_back_1"
       ],
-      "text": "Pedir treinamento.",
+      "text": "Peça por treinamento.",
       "type": "train"
     },
     {
@@ -7307,12 +7307,12 @@
       "options": [
         "core_2_back_1"
       ],
-      "text": "Pedir treinamento.",
+      "text": "Peça por treinamento.",
       "type": "train"
     },
     {
       "answer_negative": "*não te reconhece*",
-      "answer_positive": "I think I am the strongest one here.",
+      "answer_positive": "Acho que sou o mais forte aqui.",
       "entities": [
         "core_2_Ursan_Totem_Berserker",
         "core_2_Ursan_Samurai"
@@ -7339,18 +7339,18 @@
       "type": "begin_conversation"
     },
     {
-      "answer_negative": "Maybe later.",
-      "answer_positive": "I can show you how it's done.",
+      "answer_negative": "Talvez mais tarde.",
+      "answer_positive": "Posso mostrar como se faz.",
       "id": "core_2_train_105",
       "options": [
         "core_2_back_1"
       ],
-      "text": "Ask for training.",
+      "text": "Peça por treinamento.",
       "type": "train"
     },
     {
-      "answer_negative": "*doesn't acknowledge you*",
-      "answer_positive": "I think I am the strongest one here. You do agree, right?",
+      "answer_negative": "*não reconhece você*",
+      "answer_positive": "Acho que sou o mais forte aqui. Você concorda, certo?",
       "entities": [
         "core_2_Ursan_Reckless_Berserker"
       ],
@@ -7376,18 +7376,18 @@
       "type": "begin_conversation"
     },
     {
-      "answer_negative": "Maybe later.",
-      "answer_positive": "I can show how it's done.",
+      "answer_negative": "Talvez mais tarde.",
+      "answer_positive": "Posso mostrar como se faz.",
       "id": "core_2_train_105",
       "options": [
         "core_2_back_1"
       ],
-      "text": "Ask for training.",
+      "text": "Peça por treinamento.",
       "type": "train"
     },
     {
-      "answer_negative": "*growls at you",
-      "answer_positive": "Cold is not the problem. We need to embrace it. Be one with the cold.",
+      "answer_negative": "*rosna para você*",
+      "answer_positive": "O frio não é o problema. Precisamos abraçá-lo. Ser um com o frio.",
       "entities": [
         "core_2_Ursan_Icy_Berserker"
       ],
@@ -7413,8 +7413,8 @@
       "type": "begin_conversation"
     },
     {
-      "answer_negative": "Can you see I'm busy right now?",
-      "answer_positive": "Do you want to find an adventure somewhere else?",
+      "answer_negative": "Você pode ver que estou ocupado agora?",
+      "answer_positive": "Você quer encontrar uma aventura em outro lugar?",
       "entities": [
         "core_2_Elf_Pirate"
       ],
@@ -7435,8 +7435,8 @@
       "type": "begin_conversation"
     },
     {
-      "answer_negative": "Come back when the waters are calmer.",
-      "answer_positive": "What can I do for ya?",
+      "answer_negative": "Volte quando as águas estiverem mais calmas.",
+      "answer_positive": "O que posso fazer por você?",
       "entities": [
         "core_2_Human_Pirate"
       ],
@@ -7457,8 +7457,8 @@
       "type": "begin_conversation"
     },
     {
-      "answer_negative": "Get lossst and pretend you didn't see anything.",
-      "answer_positive": "Are you looking for sssomething?",
+      "answer_negative": "Perca-se e finja que não viu nada.",
+      "answer_positive": "Você está procurando por alsssgo?",
       "entities": [
         "core_2_Reptilion_Pirate"
       ],
@@ -7479,8 +7479,8 @@
       "type": "begin_conversation"
     },
     {
-      "answer_negative": "*ignores you and keeps working*",
-      "answer_positive": "Just be quick. The tide is rising.",
+      "answer_negative": "*te ignora e continua trabalhando*",
+      "answer_positive": "Apenas seja rápido. A maré está subindo.",
       "entities": [
         "core_2_Bone_Wraith_Pirate"
       ],
@@ -7499,8 +7499,8 @@
       "type": "begin_conversation"
     },
     {
-      "answer_negative": "I'm not here to chat.",
-      "answer_positive": "How can I help you on this fine day?",
+      "answer_negative": "Não estou aqui para conversar.",
+      "answer_positive": "Como posso ajudá-lo neste belo dia?",
       "entities": [
         "core_2_Rasimi_Pirate"
       ],
@@ -7525,7 +7525,7 @@
       "options": [
         "core_2_back_1"
       ],
-      "text": "Ask for training.",
+      "text": "Peça por treinamento.",
       "type": "train"
     },
     {
@@ -7535,7 +7535,7 @@
       "options": [
         "core_2_back_1"
       ],
-      "text": "Ask for training.",
+      "text": "Peça por treinamento.",
       "type": "train"
     },
     {
@@ -7545,7 +7545,7 @@
       "options": [
         "core_2_back_1"
       ],
-      "text": "Ask for training.",
+      "text": "Peça por treinamento.",
       "type": "train"
     },
     {
@@ -7555,7 +7555,7 @@
       "options": [
         "core_2_back_1"
       ],
-      "text": "Ask for training.",
+      "text": "Peça por treinamento.",
       "type": "train"
     },
     {
@@ -7565,7 +7565,7 @@
       "options": [
         "core_2_back_1"
       ],
-      "text": "Ask for training.",
+      "text": "Peça por treinamento.",
       "type": "train"
     },
     {
@@ -7575,11 +7575,11 @@
       "options": [
         "core_2_back_1"
       ],
-      "text": "Ask for training.",
+      "text": "Peça por treinamento.",
       "type": "train"
     },
     {
-      "answer_negative": "Just leave me alone.",
+      "answer_negative": "Apenas me deixe em paz.",
       "answer_positive": "Está frio aqui fora. A gente se acostuma com isso.",
       "entities": [
         "core_2_Ursan_Adult"
@@ -7693,7 +7693,7 @@
       "type": "begin_conversation"
     },
     {
-      "answer_negative": "Vá incomodar alguém mais.",
+      "answer_negative": "Vá incomodar outra pessoa.",
       "answer_positive": "Treinamento com um gnoll não é como lições chiques de elfo. Você está pronto para isso?",
       "id": "core_2_train_113",
       "options": [
@@ -7845,7 +7845,7 @@
       "type": "trade"
     },
     {
-      "answer_negative": "Não estou a fim de conversa.",
+      "answer_negative": "Sem disposição para conversa.",
       "answer_positive": "Oi, cuidado com a serragem. O que te traz aqui?",
       "entities": [
         "core_2_Gnoll_Carpenter",
@@ -7878,7 +7878,7 @@
       "options": [
         "core_2_back_1"
       ],
-      "text": "Pedir treinamento.",
+      "text": "Peça por treinamento.",
       "type": "train"
     },
     {
@@ -7887,11 +7887,11 @@
       "options": [
         "core_2_back_1"
       ],
-      "text": "Comerciar bens.",
+      "text": "Comercie bens.",
       "type": "trade"
     },
     {
-      "answer_negative": "O silêncio me serve melhor.",
+      "answer_negative": "O silêncio me atende melhor.",
       "answer_positive": "Oi, cuidado com seu passo. O que te traz aqui?",
       "entities": [
         "core_2_Gnoll_Leatherworker",
@@ -7925,7 +7925,7 @@
       "options": [
         "core_2_back_1"
       ],
-      "text": "Pedir treinamento.",
+      "text": "Peça por treinamento.",
       "type": "train"
     },
     {
@@ -7934,7 +7934,7 @@
       "options": [
         "core_2_back_1"
       ],
-      "text": "Comerciar bens.",
+      "text": "Comercie bens.",
       "type": "trade"
     },
     {
@@ -7970,7 +7970,7 @@
       "options": [
         "core_2_back_1"
       ],
-      "text": "Pedir treinamento.",
+      "text": "Peça por treinamento.",
       "type": "train"
     },
     {
@@ -7979,11 +7979,11 @@
       "options": [
         "core_2_back_1"
       ],
-      "text": "Comerciar bens.",
+      "text": "Comercie bens.",
       "type": "trade"
     },
     {
-      "answer_negative": "Tem perguntas? Guarde-as para alguém com tempo a perder.",
+      "answer_negative": "Tem perguntas? Guarde-as para alguém com tempo de sobra.",
       "answer_positive": "Você parece perdido. Precisa de orientação, ou está apenas passando?",
       "entities": [
         "core_2_Gnoll_Trash_Collector"
@@ -8014,7 +8014,7 @@
       "options": [
         "core_2_back_1"
       ],
-      "text": "Pedir treinamento.",
+      "text": "Peça por treinamento.",
       "type": "train"
     },
     {
@@ -8023,11 +8023,11 @@
       "options": [
         "core_2_back_1"
       ],
-      "text": "Comerciar bens.",
+      "text": "Comercie bens.",
       "type": "trade"
     },
     {
-      "answer_negative": "Tem perguntas? Guarde-as para alguém com tempo a perder.",
+      "answer_negative": "Tem perguntas? Guarde-as para alguém com tempo de sobra.",
       "answer_positive": "Procurando melhorar sua aparência? Você veio ao gnoll certo.",
       "entities": [
         "core_2_Gnoll_Tailor"
@@ -8059,7 +8059,7 @@
       "options": [
         "core_2_back_1"
       ],
-      "text": "Pedir treinamento.",
+      "text": "Peça por treinamento.",
       "type": "train"
     },
     {
@@ -8068,7 +8068,7 @@
       "options": [
         "core_2_back_1"
       ],
-      "text": "Comerciar bens.",
+      "text": "Comercie bens.",
       "type": "trade"
     },
     {
@@ -8105,7 +8105,7 @@
       "options": [
         "core_2_back_1"
       ],
-      "text": "Pedir treinamento.",
+      "text": "Peça por treinamento.",
       "type": "train"
     },
     {
@@ -8114,7 +8114,7 @@
       "options": [
         "core_2_back_1"
       ],
-      "text": "Comerciar bens.",
+      "text": "Comercie bens.",
       "type": "trade"
     },
     {
@@ -8162,7 +8162,7 @@
       "type": "trade"
     },
     {
-      "answer_negative": "Some daqui.",
+      "answer_negative": "Vá embora.",
       "answer_positive": "Diga logo o que quer, e seja rápido.",
       "entities": [
         "core_2_Gnoll_Recruit",
@@ -8208,8 +8208,8 @@
       "type": "trade"
     },
     {
-      "answer_negative": "Não tenho tempo para você. Vá embora.",
-      "answer_positive": "Procurando uma briga ou só está perdido?",
+      "answer_negative": "Não tenho tempo para gente como você. Continue andando.",
+      "answer_positive": "Procurando uma briga ou apenas perdido?",
       "entities": [
         "core_2_Gnoll_Tooth",
         "core_2_Gnoll_Samurai"
@@ -8280,7 +8280,7 @@
       "type": "begin_conversation"
     },
     {
-      "answer_negative": "Treinamento é para os fortes, não para os fracos. Você não está pronto.",
+      "answer_negative": "Treino é para os fortes, não para os fracos. Você não está pronto.",
       "answer_positive": "Já vi piores. Vamos ver se você tem o que é preciso.",
       "id": "core_2_train_126",
       "options": [
@@ -8383,7 +8383,7 @@
       "options": [
         "core_2_back_1"
       ],
-      "text": "Mercadorias para troca.",
+      "text": "Comercie bens.",
       "type": "trade"
     },
     {
@@ -8428,7 +8428,7 @@
       "options": [
         "core_2_back_1"
       ],
-      "text": "Mercadorias para troca.",
+      "text": "Comercie bens.",
       "type": "trade"
     },
     {
@@ -8474,11 +8474,11 @@
       "options": [
         "core_2_back_1"
       ],
-      "text": "Mercadorias para troca.",
+      "text": "Comercie bens.",
       "type": "trade"
     },
     {
-      "answer_negative": "Não tenho tempo para você. Siga em frente.",
+      "answer_negative": "Não tenho tempo para gente como você. Continue andando.",
       "answer_positive": "Curiosidade ou necessidade guiam seus passos aqui. Fale e seja ouvido.",
       "entities": [
         "core_2_Gnoll_Toolmaker"
@@ -8519,7 +8519,7 @@
       "options": [
         "core_2_back_1"
       ],
-      "text": "Mercadorias para troca.",
+      "text": "Comercie bens.",
       "type": "trade"
     },
     {
@@ -8564,7 +8564,7 @@
       "options": [
         "core_2_back_1"
       ],
-      "text": "Mercadorias para troca.",
+      "text": "Comercie bens.",
       "type": "trade"
     },
     {
@@ -8641,12 +8641,12 @@
       "options": [
         "core_2_back_1"
       ],
-      "text": "Mercadorias para troca.",
+      "text": "Comercie bens.",
       "type": "trade"
     },
     {
       "answer_negative": "Guarde seu fôlego, não tenho interesse em conversa fiada.",
-      "answer_positive": "Antes de você, está o mestre da bigorna. O que deseja saber?",
+      "answer_positive": "Diante de você, está o mestre da bigorna. O que deseja saber?",
       "entities": [
         "core_2_Gnoll_Weaponsmith"
       ],
@@ -8677,7 +8677,7 @@
       "options": [
         "core_2_back_1"
       ],
-      "text": "Pedir treinamento.",
+      "text": "Peça por treinamento.",
       "type": "train"
     },
     {
@@ -8686,7 +8686,7 @@
       "options": [
         "core_2_back_1"
       ],
-      "text": "Mercadorias para troca.",
+      "text": "Comercie bens.",
       "type": "trade"
     },
     {
@@ -8721,7 +8721,7 @@
       "options": [
         "core_2_back_1"
       ],
-      "text": "Pedir treinamento.",
+      "text": "Peça por treinamento.",
       "type": "train"
     },
     {
@@ -8730,11 +8730,11 @@
       "options": [
         "core_2_back_1"
       ],
-      "text": "Mercadorias para troca.",
+      "text": "Comercie bens.",
       "type": "trade"
     },
     {
-      "answer_negative": "Vá passear! Goblin não tem palavras para você!",
+      "answer_negative": "Vá embora! Goblin não tem palavras para você!",
       "answer_positive": "Ei, cuidado com seus bolsos! Meus bichinhos têm um olho para bugigangas brilhantes!",
       "entities": [
         "core_2_Goblin_Thief"
@@ -8765,7 +8765,7 @@
       "options": [
         "core_2_back_1"
       ],
-      "text": "Pedir treinamento.",
+      "text": "Peça por treinamento.",
       "type": "train"
     },
     {
@@ -8774,11 +8774,11 @@
       "options": [
         "core_2_back_1"
       ],
-      "text": "Mercadorias para troca.",
+      "text": "Comercie bens.",
       "type": "trade"
     },
     {
-      "answer_negative": "Ah, não estou interessado em conversar com",
+      "answer_negative": "Eh, não estou interessado em conversar com",
       "answer_positive": "Aproxime-se, aproxime-se! Teste sua sorte com amuletos feitos por goblins!",
       "entities": [
         "core_2_Goblin_Shaman"
@@ -8810,7 +8810,7 @@
       "options": [
         "core_2_back_1"
       ],
-      "text": "Pedir treinamento.",
+      "text": "Peça por treinamento.",
       "type": "train"
     },
     {
@@ -8819,11 +8819,11 @@
       "options": [
         "core_2_back_1"
       ],
-      "text": "Mercadorias para troca.",
+      "text": "Comercie bens.",
       "type": "trade"
     },
     {
-      "answer_negative": "Você ainda está aqui? Não tenho tempo para conversar!",
+      "answer_negative": "Ainda está aqui? Não tenho tempo para conversar!",
       "answer_positive": "Procurando enriquecer como o resto de nós?",
       "entities": [
         "core_2_Goblin_Miner"
@@ -8854,7 +8854,7 @@
       "options": [
         "core_2_back_1"
       ],
-      "text": "Pedir treinamento.",
+      "text": "Peça por treinamento.",
       "type": "train"
     },
     {
@@ -8863,11 +8863,11 @@
       "options": [
         "core_2_back_1"
       ],
-      "text": "Mercadorias para troca.",
+      "text": "Comercie bens.",
       "type": "trade"
     },
     {
-      "answer_negative": "Você ainda está aqui? Não tenho tempo para conversar!",
+      "answer_negative": "Ainda está aqui? Não tenho tempo para conversar!",
       "answer_positive": "Ei, ei! Aproxime-se! Minhas armas vão fazer de você a inveja do campo de batalha!",
       "entities": [
         "core_2_Goblin_Weaponsmith"
@@ -8899,7 +8899,7 @@
       "options": [
         "core_2_back_1"
       ],
-      "text": "Pedir treinamento.",
+      "text": "Peça por treinamento.",
       "type": "train"
     },
     {
@@ -8908,11 +8908,11 @@
       "options": [
         "core_2_back_1"
       ],
-      "text": "Comerciar bens.",
+      "text": "Comercie bens.",
       "type": "trade"
     },
     {
-      "answer_negative": "Você está falando demais! Eu preciso de silêncio!",
+      "answer_negative": "Estás tagarelando demais! Preciso de silêncio!",
       "answer_positive": "Procurando temperar algum metal, é?",
       "entities": [
         "core_2_Goblin_Smelter"
@@ -8944,7 +8944,7 @@
       "options": [
         "core_2_back_1"
       ],
-      "text": "Pedir treinamento.",
+      "text": "Peça por treinamento.",
       "type": "train"
     },
     {
@@ -8953,11 +8953,11 @@
       "options": [
         "core_2_back_1"
       ],
-      "text": "Comerciar bens.",
+      "text": "Comercie bens.",
       "type": "trade"
     },
     {
-      "answer_negative": "Você está falando demais! Eu preciso de silêncio!",
+      "answer_negative": "Estás tagarelando demais! Preciso de silêncio!",
       "answer_positive": "Ahoy, qual é seu problema? Talvez eu tenha um artefato para consertar!",
       "entities": [
         "core_2_Goblin_Toolmaker"
@@ -8989,7 +8989,7 @@
       "options": [
         "core_2_back_1"
       ],
-      "text": "Pedir treinamento.",
+      "text": "Peça por treinamento.",
       "type": "train"
     },
     {
@@ -8998,11 +8998,11 @@
       "options": [
         "core_2_back_1"
       ],
-      "text": "Comerciar bens.",
+      "text": "Comercie bens.",
       "type": "trade"
     },
     {
-      "answer_negative": "Você está falando demais! Eu preciso de silêncio!",
+      "answer_negative": "Estás tagarelando demais! Preciso de silêncio!",
       "answer_positive": "Ahoy, qual é seu jogo? Perseguindo bestas ou sendo perseguido?",
       "entities": [
         "core_2_Goblin_Hunter"
@@ -9034,7 +9034,7 @@
       "options": [
         "core_2_back_1"
       ],
-      "text": "Pedir treinamento.",
+      "text": "Peça por treinamento.",
       "type": "train"
     },
     {
@@ -9043,11 +9043,11 @@
       "options": [
         "core_2_back_1"
       ],
-      "text": "Comerciar bens.",
+      "text": "Comercie bens.",
       "type": "trade"
     },
     {
-      "answer_negative": "Você está falando demais! Eu preciso de silêncio!",
+      "answer_negative": "Estás tagarelando demais! Preciso de silêncio!",
       "answer_positive": "Ah, outra alma em busca de maravilhas feitas por goblins! Qual é seu prazer?",
       "entities": [
         "core_2_Goblin_Carpenter",
@@ -9081,7 +9081,7 @@
       "options": [
         "core_2_back_1"
       ],
-      "text": "Pedir treinamento.",
+      "text": "Peça por treinamento.",
       "type": "train"
     },
     {
@@ -9090,7 +9090,7 @@
       "options": [
         "core_2_back_1"
       ],
-      "text": "Comerciar bens.",
+      "text": "Comercie bens.",
       "type": "trade"
     },
     {
@@ -9125,7 +9125,7 @@
       "options": [
         "core_2_back_1"
       ],
-      "text": "Pedir treinamento.",
+      "text": "Peça por treinamento.",
       "type": "train"
     },
     {
@@ -9134,7 +9134,7 @@
       "options": [
         "core_2_back_1"
       ],
-      "text": "Comerciar bens.",
+      "text": "Comercie bens.",
       "type": "trade"
     },
     {
@@ -9170,7 +9170,7 @@
       "options": [
         "core_2_back_1"
       ],
-      "text": "Pergunte sobre treinamento.",
+      "text": "Peça por treinamento.",
       "type": "train"
     },
     {
@@ -9179,11 +9179,11 @@
       "options": [
         "core_2_back_1"
       ],
-      "text": "Trocar mercadorias.",
+      "text": "Comercie bens.",
       "type": "trade"
     },
     {
-      "answer_negative": "Continue se movendo, ou eu invocarei a brigada de trolls!",
+      "answer_negative": "Continue se movendo, ou eu chamarei a brigada de trolls!",
       "answer_positive": "Hoy! Cuidado com esses galhos, eles são conhecidos por voltarem!",
       "entities": [
         "core_2_Goblin_Woodcutter"
@@ -9214,7 +9214,7 @@
       "options": [
         "core_2_back_1"
       ],
-      "text": "Pergunte sobre treinamento.",
+      "text": "Peça por treinamento.",
       "type": "train"
     },
     {
@@ -9223,7 +9223,7 @@
       "options": [
         "core_2_back_1"
       ],
-      "text": "Trocar mercadorias.",
+      "text": "Comercie bens.",
       "type": "trade"
     },
     {
@@ -9259,7 +9259,7 @@
       "options": [
         "core_2_back_1"
       ],
-      "text": "Pergunte sobre treinamento.",
+      "text": "Peça por treinamento.",
       "type": "train"
     },
     {
@@ -9268,11 +9268,11 @@
       "options": [
         "core_2_back_1"
       ],
-      "text": "Trocar mercadorias.",
+      "text": "Comercie bens.",
       "type": "trade"
     },
     {
-      "answer_negative": "Oi, conversar não está na agenda do goblin.",
+      "answer_negative": "Ei, conversar não está na agenda do goblin.",
       "answer_positive": "Qual é o seu plano? Precisa de alguém para ficar no caminho do perigo?",
       "entities": [
         "core_2_Goblin_Meat_Shield",
@@ -9299,13 +9299,13 @@
       "type": "begin_conversation"
     },
     {
-      "answer_negative": "Oi, goblin não está aceitando ordens de você!",
-      "answer_positive": "Goblin não vai ensinar qualquer um, você sabe.",
+      "answer_negative": "Ei, goblin não está recebendo ordens de você!",
+      "answer_positive": "Goblin não vai ensinar qualquer um, sabe.",
       "id": "core_2_train_150",
       "options": [
         "core_2_back_1"
       ],
-      "text": "Pergunte sobre treinamento.",
+      "text": "Peça por treinamento.",
       "type": "train"
     },
     {
@@ -9341,7 +9341,7 @@
       "options": [
         "core_2_back_1"
       ],
-      "text": "Pergunte sobre treinamento.",
+      "text": "Peça por treinamento.",
       "type": "train"
     },
     {
@@ -9378,7 +9378,7 @@
       "options": [
         "core_2_back_1"
       ],
-      "text": "Pergunte sobre treinamento.",
+      "text": "Peça por treinamento.",
       "type": "train"
     },
     {
@@ -9414,7 +9414,7 @@
       "options": [
         "core_2_back_1"
       ],
-      "text": "Pergunte sobre treinamento.",
+      "text": "Peça por treinamento.",
       "type": "train"
     },
     {
@@ -9482,7 +9482,7 @@
       "options": [
         "core_2_back_1"
       ],
-      "text": "Mercadorias para troca.",
+      "text": "Comercie bens.",
       "type": "trade"
     },
     {
@@ -9519,7 +9519,7 @@
       "options": [
         "core_2_back_1"
       ],
-      "text": "Mercadorias para troca.",
+      "text": "Comercie bens.",
       "type": "trade"
     },
     {
@@ -9563,7 +9563,7 @@
       "options": [
         "core_2_back_1"
       ],
-      "text": "Mercadorias para troca.",
+      "text": "Comercie bens.",
       "type": "trade"
     },
     {
@@ -9577,7 +9577,7 @@
       "type": "train"
     },
     {
-      "answer_negative": "Estou trabalhando, não falando.",
+      "answer_negative": "Estou trabalhando, não conversando.",
       "answer_positive": "Tem um aperto forte? Veremos quando você domar uma das minhas bestas.",
       "entities": [
         "core_2_Orc_Rancher"
@@ -9607,7 +9607,7 @@
       "options": [
         "core_2_back_1"
       ],
-      "text": "Mercadorias para troca.",
+      "text": "Comercie bens.",
       "type": "trade"
     },
     {
@@ -9652,7 +9652,7 @@
       "options": [
         "core_2_back_1"
       ],
-      "text": "Mercadorias para troca.",
+      "text": "Comercie bens.",
       "type": "trade"
     },
     {
@@ -9666,7 +9666,7 @@
       "type": "train"
     },
     {
-      "answer_negative": "Não tenho tempo para suas bobagens.",
+      "answer_negative": "Sem tempo para suas bobagens.",
       "answer_positive": "Não vá tocando em nada a menos que saiba o que está fazendo.",
       "entities": [
         "core_2_Orc_Miner"
@@ -9696,7 +9696,7 @@
       "options": [
         "core_2_back_1"
       ],
-      "text": "Bens comerciais.",
+      "text": "Comercie bens.",
       "type": "trade"
     },
     {
@@ -9741,7 +9741,7 @@
       "options": [
         "core_2_back_1"
       ],
-      "text": "Bens comerciais.",
+      "text": "Comercie bens.",
       "type": "trade"
     },
     {
@@ -9786,7 +9786,7 @@
       "options": [
         "core_2_back_1"
       ],
-      "text": "Bens comerciais.",
+      "text": "Comercie bens.",
       "type": "trade"
     },
     {
@@ -9831,7 +9831,7 @@
       "options": [
         "core_2_back_1"
       ],
-      "text": "Bens comerciais.",
+      "text": "Comercie bens.",
       "type": "trade"
     },
     {
@@ -9876,7 +9876,7 @@
       "options": [
         "core_2_back_1"
       ],
-      "text": "Bens comerciais.",
+      "text": "Comercie bens.",
       "type": "trade"
     },
     {
@@ -9916,12 +9916,12 @@
       "type": "begin_conversation"
     },
     {
-      "answer_positive": "Espero que você esteja feliz com isso.",
+      "answer_positive": "Espero que fique feliz com isso.",
       "id": "core_2_trade_148",
       "options": [
         "core_2_back_1"
       ],
-      "text": "Bens comerciais.",
+      "text": "Comercie bens.",
       "type": "trade"
     },
     {
@@ -9968,7 +9968,7 @@
       "options": [
         "core_2_back_1"
       ],
-      "text": "Trade goods.",
+      "text": "Comercie bens.",
       "type": "trade"
     },
     {
@@ -9978,11 +9978,11 @@
       "options": [
         "core_2_back_1"
       ],
-      "text": "Ask for training.",
+      "text": "Peça por treinamento.",
       "type": "train"
     },
     {
-      "answer_negative": "I'm workin', not talkin'.",
+      "answer_negative": "Estou trabalhando, não conversando.",
       "answer_positive": "Keep yer hands off the mushrooms unless ya wanna lose 'em.",
       "entities": [
         "core_2_Orc_Forager"
@@ -10012,7 +10012,7 @@
       "options": [
         "core_2_back_1"
       ],
-      "text": "Trade goods.",
+      "text": "Comercie bens.",
       "type": "trade"
     },
     {
@@ -10022,7 +10022,7 @@
       "options": [
         "core_2_back_1"
       ],
-      "text": "Ask for training.",
+      "text": "Peça por treinamento.",
       "type": "train"
     },
     {
@@ -10057,21 +10057,21 @@
       "options": [
         "core_2_back_1"
       ],
-      "text": "Trade goods.",
+      "text": "Comercie bens.",
       "type": "trade"
     },
     {
-      "answer_negative": "I don't have time for the likes of you.",
+      "answer_negative": "Eu não tenho tempo para você.",
       "answer_positive": "You wanna learn? Prove yer worth!",
       "id": "core_2_train_166",
       "options": [
         "core_2_back_1"
       ],
-      "text": "Ask for training.",
+      "text": "Peça por treinamento.",
       "type": "train"
     },
     {
-      "answer_negative": "Ain't got time for you.",
+      "answer_negative": "Não tenho tempo para você.",
       "answer_positive": "Ain't nothin' like the sound of a tree fallin'.",
       "entities": [
         "core_2_Orc_Woodcutter"
@@ -10101,7 +10101,7 @@
       "options": [
         "core_2_back_1"
       ],
-      "text": "Trade goods.",
+      "text": "Comercie bens.",
       "type": "trade"
     },
     {
@@ -10111,7 +10111,7 @@
       "options": [
         "core_2_back_1"
       ],
-      "text": "Ask for training.",
+      "text": "Peça por treinamento.",
       "type": "train"
     },
     {
@@ -10146,7 +10146,7 @@
       "options": [
         "core_2_back_1"
       ],
-      "text": "Trade goods.",
+      "text": "Comercie bens.",
       "type": "trade"
     },
     {
@@ -10156,11 +10156,11 @@
       "options": [
         "core_2_back_1"
       ],
-      "text": "Ask for training.",
+      "text": "Peça por treinamento.",
       "type": "train"
     },
     {
-      "answer_negative": "Got no time for chit-chat!",
+      "answer_negative": "Não tenho tempo para conversa fiada!",
       "answer_positive": "Ain't got time for chatter. Speak your purpose or get outta my sight.",
       "entities": [
         "core_2_Orc_Recruit",
@@ -10188,16 +10188,16 @@
     },
     {
       "answer_negative": "I don't train cowards.",
-      "answer_positive": "Strength comes from suffering. Ready?",
+      "answer_positive": "A força vem do sofrimento. Está pronto?",
       "id": "core_2_train_169",
       "options": [
         "core_2_back_1"
       ],
-      "text": "Ask for training.",
+      "text": "Peça por treinamento.",
       "type": "train"
     },
     {
-      "answer_negative": "Go bother someone else.",
+      "answer_negative": "Vá incomodar outra pessoa.",
       "answer_positive": "Você tá procurando alguma coisa pra comer ou alguém pra lutar?",
       "entities": [
         "core_2_Orc_Adult"
@@ -10232,12 +10232,12 @@
       "type": "train"
     },
     {
-      "answer_positive": "Espero que você fique feliz com isso.",
+      "answer_positive": "Espero que fique feliz com isso.",
       "id": "core_2_trade_154",
       "options": [
         "core_2_back_1"
       ],
-      "text": "Mercadorias para troca.",
+      "text": "Comercie bens.",
       "type": "trade"
     },
     {
@@ -10436,7 +10436,7 @@
       "options": [
         "core_2_back_1"
       ],
-      "text": "Peça para migrar.",
+      "text": "Pedir para migrar.",
       "type": "migrate"
     },
     {
@@ -10446,7 +10446,7 @@
       "options": [
         "core_2_back_1"
       ],
-      "text": "Peça para migrar.",
+      "text": "Pedir para migrar.",
       "type": "migrate"
     },
     {
@@ -10568,13 +10568,13 @@
       "type": "begin_conversation"
     },
     {
-      "answer_negative": "Não acho.",
+      "answer_negative": "Eu não acho.",
       "answer_positive": "Claro! Todo conhecimento é para ser compartilhado.",
       "id": "core_2_train_177",
       "options": [
         "core_2_back_1"
       ],
-      "text": "Pedir por treinamento.",
+      "text": "Peça por treinamento.",
       "type": "train"
     },
     {
@@ -10610,7 +10610,7 @@
       "options": [
         "core_2_back_1"
       ],
-      "text": "Pedir por treinamento.",
+      "text": "Peça por treinamento.",
       "type": "train"
     },
     {
@@ -10754,8 +10754,8 @@
       "type": "train"
     },
     {
-      "answer_negative": "Saia do meu caminho, estou trabalhando.",
-      "answer_positive": "Que conhecimento você busca?",
+      "answer_negative": "Saia do meu caminho, estou trabalhando",
+      "answer_positive": "Que conhecimento buscas?",
       "entities": [
         "core_2_Troll_Shaman"
       ],
@@ -10780,7 +10780,7 @@
       "type": "begin_conversation"
     },
     {
-      "answer_negative": "Vai embora, estou ocupado.",
+      "answer_negative": "Vá embora, estou ocupado.",
       "answer_positive": "Tem costas fortes e nervos firmes? Vai precisar deles.",
       "id": "core_2_train_183",
       "options": [
@@ -10795,7 +10795,7 @@
       "options": [
         "core_2_back_1"
       ],
-      "text": "Mercadorias para troca.",
+      "text": "Comercie bens.",
       "type": "trade"
     },
     {
@@ -10824,7 +10824,7 @@
       "type": "begin_conversation"
     },
     {
-      "answer_negative": "Continue andando, não tenho tempo.",
+      "answer_negative": "Continue, não tenho tempo.",
       "answer_positive": "Tá bem, mas não venha reclamar quando suas costas doerem.",
       "id": "core_2_train_184",
       "options": [
@@ -10839,11 +10839,11 @@
       "options": [
         "core_2_back_1"
       ],
-      "text": "Mercadorias para troca.",
+      "text": "Comercie bens.",
       "type": "trade"
     },
     {
-      "answer_negative": "Vá passear, estou ocupado.",
+      "answer_negative": "Vá embora, estou ocupado.",
       "answer_positive": "Procurando algo para esmagar?",
       "entities": [
         "core_2_Troll_Weaponsmith"
@@ -10869,7 +10869,7 @@
       "type": "begin_conversation"
     },
     {
-      "answer_negative": "Não agora, tenho trabalho.",
+      "answer_negative": "Não agora, estou trabalhando.",
       "answer_positive": "Bem, vou te treinar. Só lembre, trolls não são gentis com ninguém.",
       "id": "core_2_train_185",
       "options": [
@@ -10884,7 +10884,7 @@
       "options": [
         "core_2_back_1"
       ],
-      "text": "Mercadorias para comércio.",
+      "text": "Comercie bens.",
       "type": "trade"
     },
     {
@@ -10929,7 +10929,7 @@
       "options": [
         "core_2_back_1"
       ],
-      "text": "Mercadorias para comércio.",
+      "text": "Comercie bens.",
       "type": "trade"
     },
     {
@@ -10976,12 +10976,12 @@
       "options": [
         "core_2_back_1"
       ],
-      "text": "Mercadorias para comércio.",
+      "text": "Comercie bens.",
       "type": "trade"
     },
     {
-      "answer_negative": "Agora não.",
-      "answer_positive": "Tem negócios comigo ou só está passeando?",
+      "answer_negative": "Não agora.",
+      "answer_positive": "Você tem negócios comigo ou está apenas vagando?",
       "entities": [
         "core_2_Troll_Hunter"
       ],
@@ -11006,7 +11006,7 @@
       "type": "begin_conversation"
     },
     {
-      "answer_negative": "Vá passear, estou ocupado.",
+      "answer_negative": "Vá embora, estou ocupado.",
       "answer_positive": "Quer aprender? Primeira lição: mantenha seus sentidos aguçados.",
       "id": "core_2_train_188",
       "options": [
@@ -11021,7 +11021,7 @@
       "options": [
         "core_2_back_1"
       ],
-      "text": "Mercadorias para comércio.",
+      "text": "Comercie bens.",
       "type": "trade"
     },
     {
@@ -11067,7 +11067,7 @@
       "options": [
         "core_2_back_1"
       ],
-      "text": "Mercadorias para comércio.",
+      "text": "Comercie bens.",
       "type": "trade"
     },
     {
@@ -11111,7 +11111,7 @@
       "options": [
         "core_2_back_1"
       ],
-      "text": "Mercadorias para comércio.",
+      "text": "Comercie bens.",
       "type": "trade"
     },
     {
@@ -11147,7 +11147,7 @@
       "options": [
         "core_2_back_1"
       ],
-      "text": "Pedir treinamento.",
+      "text": "Peça por treinamento.",
       "type": "train"
     },
     {
@@ -11156,7 +11156,7 @@
       "options": [
         "core_2_back_1"
       ],
-      "text": "Comerciar bens.",
+      "text": "Comercie bens.",
       "type": "trade"
     },
     {
@@ -11191,7 +11191,7 @@
       "options": [
         "core_2_back_1"
       ],
-      "text": "Pedir treinamento.",
+      "text": "Peça por treinamento.",
       "type": "train"
     },
     {
@@ -11200,7 +11200,7 @@
       "options": [
         "core_2_back_1"
       ],
-      "text": "Comerciar bens.",
+      "text": "Comercie bens.",
       "type": "trade"
     },
     {
@@ -11236,7 +11236,7 @@
       "options": [
         "core_2_back_1"
       ],
-      "text": "Pedir treinamento.",
+      "text": "Peça por treinamento.",
       "type": "train"
     },
     {
@@ -11245,7 +11245,7 @@
       "options": [
         "core_2_back_1"
       ],
-      "text": "Comerciar bens.",
+      "text": "Comercie bens.",
       "type": "trade"
     },
     {
@@ -11282,7 +11282,7 @@
       "options": [
         "core_2_back_1"
       ],
-      "text": "Pedir treinamento.",
+      "text": "Peça por treinamento.",
       "type": "train"
     },
     {
@@ -11319,7 +11319,7 @@
       "options": [
         "core_2_back_1"
       ],
-      "text": "Pedir treinamento.",
+      "text": "Peça por treinamento.",
       "type": "train"
     },
     {
@@ -11329,7 +11329,7 @@
       "options": [
         "core_2_back_1"
       ],
-      "text": "Pedir treinamento.",
+      "text": "Peça por treinamento.",
       "type": "train"
     },
     {
@@ -11365,7 +11365,7 @@
       "options": [
         "core_2_back_1"
       ],
-      "text": "Pedir treinamento.",
+      "text": "Peça por treinamento.",
       "type": "train"
     },
     {
@@ -11401,11 +11401,11 @@
       "options": [
         "core_2_back_1"
       ],
-      "text": "Pedir treinamento.",
+      "text": "Peça por treinamento.",
       "type": "train"
     },
     {
-      "answer_negative": "Não estou aqui para conversar. Suma daqui.",
+      "answer_negative": "Não estou aqui para conversar. Cai fora.",
       "answer_positive": "Você quer alguma coisa ou está aqui só para ficar de boca aberta?",
       "entities": [
         "core_2_Troll_Spiritcaller"
@@ -11480,7 +11480,7 @@
       "options": [
         "core_2_back_1"
       ],
-      "text": "Negocie bens.",
+      "text": "Comercie bens.",
       "type": "trade"
     },
     {
@@ -11511,7 +11511,7 @@
       "type": "begin_conversation"
     },
     {
-      "answer_negative": "Some daqui.",
+      "answer_negative": "Vá embora.",
       "answer_positive": "Tem certeza disso?",
       "id": "core_2_train_200",
       "options": [
@@ -11521,8 +11521,8 @@
       "type": "train"
     },
     {
-      "answer_negative": "Não tenho tempo para conversa fiada.",
-      "answer_positive": "Fale logo! Não tenho o dia todo.",
+      "answer_negative": "Não tenho tempo para conversa.",
+      "answer_positive": "Fale mais alto! Não tenho o dia todo.",
       "entities": [
         "core_2_Samurai"
       ],
@@ -11564,7 +11564,7 @@
       "options": [
         "core_2_back_1"
       ],
-      "text": "Peça em casamento.",
+      "text": "Pedir em casamento.",
       "type": "marry"
     },
     {
@@ -11575,7 +11575,7 @@
       "options": [
         "core_2_back_1"
       ],
-      "text": "Peça em casamento.",
+      "text": "Pedir em casamento.",
       "type": "marry"
     },
     {
@@ -11586,7 +11586,7 @@
       "options": [
         "core_2_back_1"
       ],
-      "text": "Peça em casamento.",
+      "text": "Pedir em casamento.",
       "type": "marry"
     },
     {
@@ -11597,7 +11597,7 @@
       "options": [
         "core_2_back_1"
       ],
-      "text": "Peça em casamento.",
+      "text": "Pedir em casamento.",
       "type": "marry"
     },
     {
@@ -11608,7 +11608,7 @@
       "options": [
         "core_2_back_1"
       ],
-      "text": "Peça em casamento.",
+      "text": "Pedir em casamento.",
       "type": "marry"
     },
     {
@@ -11619,7 +11619,7 @@
       "options": [
         "core_2_back_1"
       ],
-      "text": "Peça em casamento.",
+      "text": "Pedir em casamento.",
       "type": "marry"
     },
     {
@@ -11630,7 +11630,7 @@
       "options": [
         "core_2_back_1"
       ],
-      "text": "Pedido de casamento.",
+      "text": "Pedir em casamento.",
       "type": "marry"
     },
     {
@@ -11641,7 +11641,7 @@
       "options": [
         "core_2_back_1"
       ],
-      "text": "Pedido de casamento.",
+      "text": "Pedir em casamento.",
       "type": "marry"
     },
     {
@@ -11652,7 +11652,7 @@
       "options": [
         "core_2_back_1"
       ],
-      "text": "Pedido de casamento.",
+      "text": "Pedir em casamento.",
       "type": "marry"
     },
     {
@@ -11663,7 +11663,7 @@
       "options": [
         "core_2_back_1"
       ],
-      "text": "Pedido de casamento.",
+      "text": "Pedir em casamento.",
       "type": "marry"
     },
     {
@@ -11674,7 +11674,7 @@
       "options": [
         "core_2_back_1"
       ],
-      "text": "Pedido de casamento.",
+      "text": "Pedir em casamento.",
       "type": "marry"
     },
     {
@@ -11685,7 +11685,7 @@
       "options": [
         "core_2_back_1"
       ],
-      "text": "Pedido de casamento.",
+      "text": "Pedir em casamento.",
       "type": "marry"
     },
     {
@@ -11696,7 +11696,7 @@
       "options": [
         "core_2_back_1"
       ],
-      "text": "Pedido de casamento.",
+      "text": "Pedir em casamento.",
       "type": "marry"
     },
     {
@@ -11707,7 +11707,7 @@
       "options": [
         "core_2_back_1"
       ],
-      "text": "Pedido de casamento.",
+      "text": "Pedir em casamento.",
       "type": "marry"
     },
     {
@@ -11718,7 +11718,7 @@
       "options": [
         "core_2_back_1"
       ],
-      "text": "Pedido de casamento.",
+      "text": "Pedir em casamento.",
       "type": "marry"
     },
     {
@@ -11729,7 +11729,7 @@
       "options": [
         "core_2_back_1"
       ],
-      "text": "Pedido de casamento.",
+      "text": "Pedir em casamento.",
       "type": "marry"
     },
     {
@@ -11740,7 +11740,7 @@
       "options": [
         "core_2_back_1"
       ],
-      "text": "Pedido de casamento.",
+      "text": "Pedir em casamento.",
       "type": "marry"
     },
     {
@@ -11751,7 +11751,7 @@
       "options": [
         "core_2_back_1"
       ],
-      "text": "Pedido de casamento.",
+      "text": "Pedir em casamento.",
       "type": "marry"
     },
     {
@@ -11762,7 +11762,7 @@
       "options": [
         "core_2_back_1"
       ],
-      "text": "Pedido de casamento.",
+      "text": "Pedir em casamento.",
       "type": "marry"
     },
     {
@@ -12026,7 +12026,7 @@
     },
     {
       "answer_negative": "Prefiro focar no meu trabalho em vez de conversa fiada.",
-      "answer_positive": "A terra nos provê, e devemos cuidar para extrair seus recursos de forma responsável.",
+      "answer_positive": "A terra nos provê, e devemos cuidar para extrair seus recursos responsavelmente.",
       "entities": [
         "core_2_Elf_Miller"
       ],
@@ -12224,7 +12224,7 @@
       "type": "begin_conversation"
     },
     {
-      "answer_negative": "Vá ser irritante em outro lugar!",
+      "answer_negative": "Vá ser chato em outro lugar!",
       "answer_positive": "Acho que está ficando mais quente novamente. Não acha?",
       "entities": [
         "core_2_Ursan_Miller"
@@ -12251,7 +12251,7 @@
     },
     {
       "answer_negative": "Podemos conversar depois?",
-      "answer_positive": "O que posso fazer por você?",
+      "answer_positive": "O que posso fazer por ti?",
       "entities": [
         "core_2_Elf_Baker"
       ],
@@ -12274,7 +12274,7 @@
       "type": "begin_conversation"
     },
     {
-      "answer_negative": "Continue se movendo, ou eu invocarei a brigada de trolls!",
+      "answer_negative": "Continue se movendo, ou eu chamarei a brigada de trolls!",
       "answer_positive": "Ei aí! Já está com fome?",
       "entities": [
         "core_2_Goblin_Baker"
@@ -12350,7 +12350,7 @@
       "type": "begin_conversation"
     },
     {
-      "answer_negative": "Continue se movendo, ou eu invocarei a brigada de trolls!",
+      "answer_negative": "Continue se movendo, ou eu chamarei a brigada de trolls!",
       "answer_positive": "Ei! Esses peixes podem ser astutos.",
       "entities": [
         "core_2_Goblin_Fisher"
@@ -12471,7 +12471,7 @@
       "type": "begin_conversation"
     },
     {
-      "answer_negative": "Sou um profissional e não tenho tempo para conversa fiada.",
+      "answer_negative": "Sou um profissional e não tenho tempo para conversas ociosas.",
       "answer_positive": "Minhas criações são da mais alta qualidade possível.",
       "entities": [
         "core_2_Bone_Wraith_Trapmaker",
@@ -12597,7 +12597,7 @@
       "type": "begin_conversation"
     },
     {
-      "answer_negative": "Vá passear, estou ocupado.",
+      "answer_negative": "Vá embora, estou ocupado.",
       "answer_positive": "Eu faço boom-booms.",
       "entities": [
         "core_2_Troll_Alchemist"
@@ -12675,7 +12675,7 @@
       "type": "begin_conversation"
     },
     {
-      "answer_negative": "Sem paciência para conversa.",
+      "answer_negative": "Sem disposição para conversa.",
       "answer_positive": "Oi! O que te traz aqui?",
       "entities": [
         "core_2_Gnoll_Alchemist"
@@ -12701,7 +12701,7 @@
       "type": "begin_conversation"
     },
     {
-      "answer_negative": "Vá incomodar alguém mais!",
+      "answer_negative": "Vá incomodar outra pessoa!",
       "answer_positive": "Precisa de algum conselho? Posso te dizer uma coisa - tente não congelar até a morte.",
       "entities": [
         "core_2_Ursan_Alchemist"
@@ -12752,7 +12752,7 @@
       "type": "begin_conversation"
     },
     {
-      "answer_negative": "Ainda está aqui? Não tenho tempo para conversa!",
+      "answer_negative": "Ainda está aqui? Não tenho tempo para conversar!",
       "answer_positive": "Oi, oi! Aproxime-se! Minhas armaduras vão fazer de você a inveja do campo de batalha!",
       "entities": [
         "core_2_Goblin_Armorsmith"
@@ -12936,7 +12936,7 @@
       "type": "begin_conversation"
     },
     {
-      "answer_negative": "Sou um profissional e não tenho tempo para conversa fiada.",
+      "answer_negative": "Sou um profissional e não tenho tempo para conversas ociosas.",
       "answer_positive": "Farei o meu melhor por você, meu amigo.",
       "entities": [
         "core_2_Bone_Wraith_Leatherworker"
@@ -13034,7 +13034,7 @@
       "type": "begin_conversation"
     },
     {
-      "answer_negative": "Ainda está aqui? Não tenho tempo para conversa!",
+      "answer_negative": "Ainda está aqui? Não tenho tempo para conversar!",
       "answer_positive": "Oi, oi! Quer um vestido elegante?",
       "entities": [
         "core_2_Goblin_Tailor"
@@ -13165,8 +13165,8 @@
       "type": "begin_conversation"
     },
     {
-      "answer_negative": "Saia do meu caminho, estou trabalhando.",
-      "answer_positive": "Que conhecimento você busca?",
+      "answer_negative": "Saia do meu caminho, estou trabalhando",
+      "answer_positive": "Que conhecimento buscas?",
       "entities": [
         "core_2_Troll_Druid"
       ],
@@ -13191,8 +13191,8 @@
       "type": "begin_conversation"
     },
     {
-      "answer_negative": "*grunts in response*",
-      "answer_positive": "How can I help you on this fine day?",
+      "answer_negative": "*resmunga em resposta*",
+      "answer_positive": "Como posso ajudá-lo neste belo dia?",
       "entities": [
         "core_2_Rasimi_Druid"
       ],
@@ -13215,8 +13215,8 @@
       "type": "begin_conversation"
     },
     {
-      "answer_negative": "Get lost.",
-      "answer_positive": "State your business, and make it quick.",
+      "answer_negative": "Vá embora.",
+      "answer_positive": "Diga logo o que quer, e seja rápido.",
       "entities": [
         "core_2_Gnoll_Druid"
       ],
@@ -13241,8 +13241,8 @@
       "type": "begin_conversation"
     },
     {
-      "answer_negative": "I'm not much of a talker.",
-      "answer_positive": "Do you need help with something?",
+      "answer_negative": "Não sou muito de conversar.",
+      "answer_positive": "Precisa de ajuda com algo?",
       "entities": [
         "core_2_Dwarf_Cryomancy",
         "core_2_Dwarf_Samurai"
@@ -13267,7 +13267,7 @@
       "type": "begin_conversation"
     },
     {
-      "answer_negative": "Keep moving, or I'll summon the troll brigade!",
+      "answer_negative": "Continue se movendo, ou eu chamarei a brigada de trolls!",
       "answer_positive": "What do ya need?",
       "entities": [
         "core_2_Goblin_Cryomancer",
@@ -13293,8 +13293,8 @@
       "type": "begin_conversation"
     },
     {
-      "answer_negative": "Not now.",
-      "answer_positive": "You got business wit' me or just wanderin'?",
+      "answer_negative": "Não agora.",
+      "answer_positive": "Você tem negócios comigo ou está apenas vagando?",
       "entities": [
         "core_2_Troll_Cryomancer"
       ],
@@ -13318,7 +13318,7 @@
       "type": "begin_conversation"
     },
     {
-      "answer_negative": "I'm in the middle of something important.",
+      "answer_negative": "Estou no meio de algo importante.",
       "answer_positive": "Do you need some help, my friend?",
       "entities": [
         "core_2_Bone_Wraith_Cryomancer",
@@ -13341,7 +13341,7 @@
       "type": "begin_conversation"
     },
     {
-      "answer_negative": "Got questions? Save 'em for someone with time to spare.",
+      "answer_negative": "Tem perguntas? Guarde-as para alguém com tempo de sobra.",
       "answer_positive": "Need anything?",
       "entities": [
         "core_2_Gnoll_Cryomancer"
@@ -13366,8 +13366,8 @@
       "type": "begin_conversation"
     },
     {
-      "answer_negative": "Come back later.",
-      "answer_positive": "How can we help you today?",
+      "answer_negative": "Volte mais tarde.",
+      "answer_positive": "Como podemos ajudá-lo hoje?",
       "entities": [
         "core_2_Mushman_Cryomancer"
       ],
@@ -13392,7 +13392,7 @@
       "type": "begin_conversation"
     },
     {
-      "answer_negative": "Go away.",
+      "answer_negative": "Vá embora.",
       "answer_positive": "How can I help?",
       "entities": [
         "core_2_Ursan_Cryomancer"
@@ -13418,7 +13418,7 @@
       "type": "begin_conversation"
     },
     {
-      "answer_negative": "*ignores you*",
+      "answer_negative": "*te ignora*",
       "answer_positive": "Do you need anything?",
       "entities": [
         "core_2_Human_Stormthrower"
@@ -13440,8 +13440,8 @@
       "type": "begin_conversation"
     },
     {
-      "answer_negative": "I'm busy right now.",
-      "answer_positive": "Oi, my friend! You need something?",
+      "answer_negative": "Estou ocupado no momento.",
+      "answer_positive": "Olá, meu amigo! Precisa de algo?",
       "entities": [
         "core_2_Dwarf_Stormthrower"
       ],
@@ -13465,8 +13465,8 @@
       "type": "begin_conversation"
     },
     {
-      "answer_negative": "Not now, not now!",
-      "answer_positive": "What do you need? Just be quick.",
+      "answer_negative": "Não agora, não agora!",
+      "answer_positive": "O que você precisa? Apenas seja rápido.",
       "entities": [
         "core_2_Reptilion_Stormthrower",
         "core_2_Reptilion_Wizard",
@@ -13493,18 +13493,18 @@
       "type": "begin_conversation"
     },
     {
-      "answer_negative": "I would never do that!",
-      "answer_positive": "You want me to destroy our food supply? Well, I am quite hungry.",
+      "answer_negative": "Eu nunca faria isso!",
+      "answer_positive": "Você quer que eu destrua nosso suprimento de comida? Bem, estou bem faminto.",
       "id": "core_2_sabotage_1",
       "options": [
         "core_2_back_1"
       ],
-      "text": "Ask for sabotage.",
+      "text": "Pedir sabotagem.",
       "type": "sabotage"
     },
     {
-      "answer_negative": "*groans*",
-      "answer_positive": "*looks at you without any interest*",
+      "answer_negative": "*geme*",
+      "answer_positive": "*olha para você sem nenhum interesse*",
       "entities": [
         "core_2_Skeleton_Adult"
       ],
@@ -13524,8 +13524,8 @@
       "type": "begin_conversation"
     },
     {
-      "answer_negative": "*grunts*",
-      "answer_positive": "The cold spares no weakness.",
+      "answer_negative": "*resmunga*",
+      "answer_positive": "O frio não poupa fraquezas.",
       "entities": [
         "core_2_Skeleton_Hunter"
       ],
@@ -13548,27 +13548,27 @@
       "type": "begin_conversation"
     },
     {
-      "answer_negative": "No.",
-      "answer_positive": "Prove you are not prey.",
+      "answer_negative": "Não.",
+      "answer_positive": "Prove que você não é uma presa.",
       "id": "core_2_train_209",
       "options": [
         "core_2_back_1"
       ],
-      "text": "Ask for training.",
+      "text": "Peça por treinamento.",
       "type": "train"
     },
     {
-      "answer_positive": "Done.",
+      "answer_positive": "Pronto.",
       "id": "core_2_trade_167",
       "options": [
         "core_2_back_1"
       ],
-      "text": "Trade goods.",
+      "text": "Comercie bens.",
       "type": "trade"
     },
     {
-      "answer_negative": "*walks away*",
-      "answer_positive": "*stares at you*",
+      "answer_negative": "*vai embora*",
+      "answer_positive": "*encara você*",
       "entities": [
         "core_2_Skeleton_Wooddigger"
       ],
@@ -13590,13 +13590,13 @@
       "type": "begin_conversation"
     },
     {
-      "answer_negative": "*walks away*",
-      "answer_positive": "If you can keep up, I won't have to bury you.",
+      "answer_negative": "*vai embora*",
+      "answer_positive": "Se você conseguir acompanhar, não terei que enterrar você.",
       "id": "core_2_train_217",
       "options": [
         "core_2_back_1"
       ],
-      "text": "Pedir treinamento.",
+      "text": "Peça por treinamento.",
       "type": "train"
     },
     {
@@ -13605,7 +13605,7 @@
       "options": [
         "core_2_back_1"
       ],
-      "text": "Comerciar bens.",
+      "text": "Comercie bens.",
       "type": "trade"
     },
     {
@@ -13632,13 +13632,13 @@
       "type": "begin_conversation"
     },
     {
-      "answer_negative": "*caminha para longe*",
+      "answer_negative": "*vai embora*",
       "answer_positive": "Pegar, golpear, quebrar. Assim como costelas em batalha.",
       "id": "core_2_train_202",
       "options": [
         "core_2_back_1"
       ],
-      "text": "Pedir treinamento.",
+      "text": "Peça por treinamento.",
       "type": "train"
     },
     {
@@ -13647,7 +13647,7 @@
       "options": [
         "core_2_back_1"
       ],
-      "text": "Comerciar bens.",
+      "text": "Comercie bens.",
       "type": "trade"
     },
     {
@@ -13681,16 +13681,16 @@
       "options": [
         "core_2_back_1"
       ],
-      "text": "Pedir treinamento.",
+      "text": "Peça por treinamento.",
       "type": "train"
     },
     {
-      "answer_positive": "Feito.",
+      "answer_positive": "Pronto.",
       "id": "core_2_trade_170",
       "options": [
         "core_2_back_1"
       ],
-      "text": "Comerciar bens.",
+      "text": "Comercie bens.",
       "type": "trade"
     },
     {
@@ -13724,16 +13724,16 @@
       "options": [
         "core_2_back_1"
       ],
-      "text": "Pedir treinamento.",
+      "text": "Peça por treinamento.",
       "type": "train"
     },
     {
-      "answer_positive": "Feito.",
+      "answer_positive": "Pronto.",
       "id": "core_2_trade_171",
       "options": [
         "core_2_back_1"
       ],
-      "text": "Comerciar bens.",
+      "text": "Comercie bens.",
       "type": "trade"
     },
     {
@@ -13767,16 +13767,16 @@
       "options": [
         "core_2_back_1"
       ],
-      "text": "Pedir treinamento.",
+      "text": "Peça por treinamento.",
       "type": "train"
     },
     {
-      "answer_positive": "Feito.",
+      "answer_positive": "Pronto.",
       "id": "core_2_trade_172",
       "options": [
         "core_2_back_1"
       ],
-      "text": "Comerciar bens.",
+      "text": "Comercie bens.",
       "type": "trade"
     },
     {
@@ -13810,7 +13810,7 @@
       "options": [
         "core_2_back_1"
       ],
-      "text": "Pedir treinamento.",
+      "text": "Peça por treinamento.",
       "type": "train"
     },
     {
@@ -13819,7 +13819,7 @@
       "options": [
         "core_2_back_1"
       ],
-      "text": "Comerciar bens.",
+      "text": "Comercie bens.",
       "type": "trade"
     },
     {
@@ -14012,7 +14012,7 @@
       "type": "trade"
     },
     {
-      "answer_negative": "*desvia o olhar*",
+      "answer_negative": "*olha para longe*",
       "answer_positive": "Uma boa ferramenta não quebra.",
       "entities": [
         "core_2_Skeleton_Toolmaker"
@@ -14055,7 +14055,7 @@
       "type": "train"
     },
     {
-      "answer_negative": "*desvia o olhar*",
+      "answer_negative": "*olha para longe*",
       "answer_positive": "A podridão é paciente.",
       "entities": [
         "core_2_Skeleton_Rotgrinder"
@@ -14329,7 +14329,7 @@
       "type": "train"
     },
     {
-      "answer_negative": "*caminha para longe*",
+      "answer_negative": "*vai embora*",
       "answer_positive": "Se você conseguir acompanhar, não terei que enterrar você.",
       "id": "core_2_train_217",
       "options": [
@@ -14403,7 +14403,7 @@
       "options": [
         "core_2_back_1"
       ],
-      "text": "Perguntar por treinamento.",
+      "text": "Peça por treinamento.",
       "type": "train"
     },
     {
@@ -14431,11 +14431,11 @@
       "options": [
         "core_2_back_1"
       ],
-      "text": "Perguntar por treinamento.",
+      "text": "Peça por treinamento.",
       "type": "train"
     },
     {
-      "answer_negative": "Peço sua misericórdia, não posso te ajudar.",
+      "answer_negative": "Peço sua misericórdia, não posso ajudá-lo.",
       "answer_positive": "Precisa de algo de mim?",
       "entities": [
         "core_2_Human_Bee_Seeker"
@@ -14456,7 +14456,7 @@
       "type": "begin_conversation"
     },
     {
-      "answer_negative": "Peço sua misericórdia, podemos falar mais tarde.",
+      "answer_negative": "Peço sua misericórdia, podemos conversar mais tarde.",
       "answer_positive": "Precisa de um pouco de luz?",
       "entities": [
         "core_2_Human_Light_Bringer"
@@ -14482,7 +14482,7 @@
       "type": "begin_conversation"
     },
     {
-      "answer_negative": "Peço sua misericórdia, podemos falar mais tarde.",
+      "answer_negative": "Peço sua misericórdia, podemos conversar mais tarde.",
       "answer_positive": "Às vezes encontro coisas muito estranhas nas minhas armadilhas.",
       "entities": [
         "core_2_Human_Trapmaker"
@@ -14509,7 +14509,7 @@
     },
     {
       "answer_negative": "Devo ir.",
-      "answer_positive": "Algo em que eu possa te ajudar?",
+      "answer_positive": "Há algo com que eu possa te ajudar?",
       "entities": [
         "core_2_Human_Winemaker"
       ],
@@ -14577,7 +14577,7 @@
     },
     {
       "answer_negative": "Não tenho tempo agora.",
-      "answer_positive": "Posso te ajudar com algo?",
+      "answer_positive": "Posso ajudar você com algo?",
       "entities": [
         "core_2_Human_Engineer"
       ],
@@ -14654,7 +14654,7 @@
       "type": "begin_conversation"
     },
     {
-      "answer_negative": "Minhas desculpas, mas estou de serviço e devo permanecer vigilante.",
+      "answer_negative": "Meus pedidos, mas estou de serviço e devo permanecer vigilante.",
       "answer_positive": "Precisa de assistência?",
       "entities": [
         "core_2_Elf_Mauler",
@@ -14687,11 +14687,11 @@
       "options": [
         "core_2_back_1"
       ],
-      "text": "Perguntar por treinamento.",
+      "text": "Peça por treinamento.",
       "type": "train"
     },
     {
-      "answer_negative": "Estou bastante ocupado no momento. Poderíamos falar mais tarde?",
+      "answer_negative": "Estou bastante ocupado no momento. Poderíamos conversar mais tarde?",
       "answer_positive": "Precisa de alguém furtivo para fazer um trabalho?",
       "entities": [
         "core_2_Elf_Thief"
@@ -14716,7 +14716,7 @@
       "type": "begin_conversation"
     },
     {
-      "answer_negative": "Estou bastante ocupado no momento. Poderíamos falar mais tarde?",
+      "answer_negative": "Estou bastante ocupado no momento. Poderíamos conversar mais tarde?",
       "answer_positive": "Precisa de um pouco de magia em sua vida?",
       "entities": [
         "core_2_Elf_Wizard"
@@ -15085,7 +15085,7 @@
       "type": "begin_conversation"
     },
     {
-      "answer_negative": "Sou um profissional e não tenho tempo para conversa fiada.",
+      "answer_negative": "Sou um profissional e não tenho tempo para conversas ociosas.",
       "answer_positive": "Fazer algo com suas próprias mãos é sempre satisfatório.",
       "entities": [
         "core_2_Bone_Wraith_Engineer"
@@ -15376,7 +15376,7 @@
     },
     {
       "answer_negative": "*vai embora*",
-      "answer_positive": "Você precisa de algo?",
+      "answer_positive": "Precisa de algo?",
       "entities": [
         "core_2_Rasimi_Glassblower"
       ],
@@ -15984,7 +15984,7 @@
       "type": "begin_conversation"
     },
     {
-      "answer_negative": "Não agora, amigo.",
+      "answer_negative": "Agora não, amigo.",
       "answer_positive": "Hmph, o que você quer?",
       "entities": [
         "core_2_Ursan_Engineer"
@@ -16011,7 +16011,7 @@
       "type": "begin_conversation"
     },
     {
-      "answer_negative": "Não agora, amigo.",
+      "answer_negative": "Agora não, amigo.",
       "answer_positive": "Tanto poder... ter fogo sempre à mão.",
       "entities": [
         "core_2_Ursan_Wizard"
@@ -16065,7 +16065,7 @@
       "type": "begin_conversation"
     },
     {
-      "answer_negative": "Some.",
+      "answer_negative": "Vá embora.",
       "answer_positive": "Poder bruto sempre vence!",
       "entities": [
         "core_2_Ursan_Mauler"
@@ -16586,11 +16586,11 @@
       "options": [
         "core_2_back_1"
       ],
-      "text": "Pedir treinamento.",
+      "text": "Peça por treinamento.",
       "type": "train"
     },
     {
-      "answer_negative": "Você está falando demais! Preciso de silêncio!",
+      "answer_negative": "Estás tagarelando demais! Preciso de silêncio!",
       "answer_positive": "Meus cestos podem não ser bonitos, mas funcionam.",
       "entities": [
         "core_2_Goblin_Basketweaver"
@@ -16616,7 +16616,7 @@
       "type": "begin_conversation"
     },
     {
-      "answer_negative": "Você está falando demais! Preciso de silêncio!",
+      "answer_negative": "Estás tagarelando demais! Preciso de silêncio!",
       "answer_positive": "Precisa armar armadilhas para algumas criaturas?",
       "entities": [
         "core_2_Goblin_Trapmaker"
@@ -16642,8 +16642,8 @@
       "type": "begin_conversation"
     },
     {
-      "answer_negative": "Você está falando demais! Preciso de silêncio!",
-      "answer_positive": "Quer alguns pratos bonitos? Procure outra pessoa!",
+      "answer_negative": "Estás tagarelando demais! Preciso de silêncio!",
+      "answer_positive": "Queres pratos bonitos? Encontre alguém mais!",
       "entities": [
         "core_2_Goblin_Potter"
       ],
@@ -16668,7 +16668,7 @@
       "type": "begin_conversation"
     },
     {
-      "answer_negative": "Você está falando demais! Preciso de silêncio!",
+      "answer_negative": "Estás tagarelando demais! Preciso de silêncio!",
       "answer_positive": "O que deseja?",
       "entities": [
         "core_2_Goblin_Bowyer"
@@ -16927,7 +16927,7 @@
     },
     {
       "answer_negative": "Sem conversa.",
-      "answer_positive": "Precisa de algo?",
+      "answer_positive": "Precisa de alguma coisa?",
       "entities": [
         "core_2_Orc_Glassblower"
       ],
@@ -17029,7 +17029,7 @@
       "type": "begin_conversation"
     },
     {
-      "answer_negative": "Pareço que quero companhia? Fora daqui.",
+      "answer_negative": "Pareço querer companhia? Vai embora.",
       "answer_positive": "Ei, o que você está olhando?",
       "entities": [
         "core_2_Troll_Thief"
@@ -17080,7 +17080,7 @@
       "type": "begin_conversation"
     },
     {
-      "answer_negative": "Pareço que quero companhia? Fora daqui.",
+      "answer_negative": "Pareço querer companhia? Vai embora.",
       "answer_positive": "Precisa de alguma coisa?",
       "entities": [
         "core_2_Troll_Glassblower"
@@ -17343,7 +17343,7 @@
       "type": "begin_conversation"
     },
     {
-      "answer_negative": "Você está falando demais! Preciso de silêncio!",
+      "answer_negative": "Estás tagarelando demais! Preciso de silêncio!",
       "answer_positive": "Precisa de alguma engenharia goblin?",
       "entities": [
         "core_2_Goblin_Engineer"
@@ -17475,7 +17475,7 @@
       "options": [
         "core_2_back_1"
       ],
-      "text": "Pedir treinamento.",
+      "text": "Peça por treinamento.",
       "type": "train"
     },
     {
@@ -17503,7 +17503,7 @@
       "options": [
         "core_2_back_1"
       ],
-      "text": "Pedir treinamento.",
+      "text": "Peça por treinamento.",
       "type": "train"
     },
     {
@@ -17531,7 +17531,7 @@
       "options": [
         "core_2_back_1"
       ],
-      "text": "Pedir treinamento.",
+      "text": "Peça por treinamento.",
       "type": "train"
     },
     {
@@ -17625,7 +17625,7 @@
       "options": [
         "core_2_back_1"
       ],
-      "text": "Pedir treinamento.",
+      "text": "Peça por treinamento.",
       "type": "train"
     },
     {
@@ -17634,7 +17634,7 @@
       "options": [
         "core_2_back_1"
       ],
-      "text": "Comerciar bens.",
+      "text": "Comercie bens.",
       "type": "trade"
     },
     {
@@ -17665,7 +17665,7 @@
       "options": [
         "core_2_back_1"
       ],
-      "text": "Pedir treinamento.",
+      "text": "Peça por treinamento.",
       "type": "train"
     },
     {
@@ -17674,7 +17674,7 @@
       "options": [
         "core_2_back_1"
       ],
-      "text": "Comerciar bens.",
+      "text": "Comercie bens.",
       "type": "trade"
     },
     {
@@ -17706,7 +17706,7 @@
       "options": [
         "core_2_back_1"
       ],
-      "text": "Pedir treinamento.",
+      "text": "Peça por treinamento.",
       "type": "train"
     },
     {
@@ -17715,7 +17715,7 @@
       "options": [
         "core_2_back_1"
       ],
-      "text": "Comerciar bens.",
+      "text": "Comercie bens.",
       "type": "trade"
     },
     {
@@ -17755,7 +17755,7 @@
       "options": [
         "core_2_back_1"
       ],
-      "text": "Mercadorias para troca.",
+      "text": "Comercie bens.",
       "type": "trade"
     },
     {
@@ -17796,7 +17796,7 @@
       "options": [
         "core_2_back_1"
       ],
-      "text": "Mercadorias para troca.",
+      "text": "Comercie bens.",
       "type": "trade"
     },
     {
@@ -17837,7 +17837,7 @@
       "options": [
         "core_2_back_1"
       ],
-      "text": "Mercadorias para troca.",
+      "text": "Comercie bens.",
       "type": "trade"
     },
     {
@@ -17878,7 +17878,7 @@
       "options": [
         "core_2_back_1"
       ],
-      "text": "Mercadorias para troca.",
+      "text": "Comercie bens.",
       "type": "trade"
     },
     {
@@ -17919,7 +17919,7 @@
       "options": [
         "core_2_back_1"
       ],
-      "text": "Mercadorias para troca.",
+      "text": "Comercie bens.",
       "type": "trade"
     },
     {
@@ -17960,7 +17960,7 @@
       "options": [
         "core_2_back_1"
       ],
-      "text": "Mercadorias para troca.",
+      "text": "Comercie bens.",
       "type": "trade"
     },
     {
@@ -18754,7 +18754,7 @@
       "options": [
         "core_2_back_1"
       ],
-      "text": "Peça por ordens da companhia.",
+      "text": "Pergunte sobre as ordens da companhia.",
       "type": "company_order"
     },
     {
@@ -18764,7 +18764,7 @@
       "options": [
         "core_2_back_1"
       ],
-      "text": "Peça por ordens da companhia.",
+      "text": "Pergunte sobre as ordens da companhia.",
       "type": "company_order"
     },
     {
@@ -18774,7 +18774,7 @@
       "options": [
         "core_2_back_1"
       ],
-      "text": "Peça por ordens da companhia.",
+      "text": "Pergunte sobre as ordens da companhia.",
       "type": "company_order"
     },
     {
@@ -18784,7 +18784,7 @@
       "options": [
         "core_2_back_1"
       ],
-      "text": "Peça por ordens da companhia.",
+      "text": "Pergunte sobre as ordens da companhia.",
       "type": "company_order"
     },
     {
@@ -18794,7 +18794,7 @@
       "options": [
         "core_2_back_1"
       ],
-      "text": "Peça por ordens da companhia.",
+      "text": "Pergunte sobre as ordens da companhia.",
       "type": "company_order"
     },
     {
@@ -18804,7 +18804,7 @@
       "options": [
         "core_2_back_1"
       ],
-      "text": "Peça por ordens da companhia.",
+      "text": "Pergunte sobre as ordens da companhia.",
       "type": "company_order"
     },
     {
@@ -18814,7 +18814,7 @@
       "options": [
         "core_2_back_1"
       ],
-      "text": "Peça por ordens da companhia.",
+      "text": "Pergunte sobre as ordens da companhia.",
       "type": "company_order"
     },
     {
@@ -18894,7 +18894,7 @@
       "options": [
         "core_2_back_1"
       ],
-      "text": "Pergunte sobre pessoas.",
+      "text": "Perguntar sobre pessoas.",
       "type": "ask_favorite_people"
     },
     {
@@ -18904,7 +18904,7 @@
       "options": [
         "core_2_back_1"
       ],
-      "text": "Pergunte sobre pessoas.",
+      "text": "Perguntar sobre pessoas.",
       "type": "ask_favorite_people"
     },
     {
@@ -18914,7 +18914,7 @@
       "options": [
         "core_2_back_1"
       ],
-      "text": "Pergunte sobre pessoas.",
+      "text": "Perguntar sobre pessoas.",
       "type": "ask_favorite_people"
     },
     {
@@ -18924,7 +18924,7 @@
       "options": [
         "core_2_back_1"
       ],
-      "text": "Pergunte sobre pessoas.",
+      "text": "Perguntar sobre pessoas.",
       "type": "ask_favorite_people"
     },
     {
@@ -18934,7 +18934,7 @@
       "options": [
         "core_2_back_1"
       ],
-      "text": "Pergunte sobre pessoas.",
+      "text": "Perguntar sobre pessoas.",
       "type": "ask_favorite_people"
     },
     {
@@ -18944,7 +18944,7 @@
       "options": [
         "core_2_back_1"
       ],
-      "text": "Pergunte sobre pessoas.",
+      "text": "Perguntar sobre pessoas.",
       "type": "ask_favorite_people"
     },
     {

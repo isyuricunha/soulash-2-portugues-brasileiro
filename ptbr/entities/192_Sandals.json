@@ -35,7 +35,7 @@
       14
     ]
   },
-  "description": "Don't offer much protection but are ideal for hot regions of the world.",
+  "description": "Não oferecem muita proteção, mas são ideais para regiões quentes do mundo.",
   "glyph": {
     "frames": [
       {
@@ -60,7 +60,7 @@
     113,
     77
   ],
-  "name": "Sandals",
+  "name": "Sandálias",
   "value": 100,
   "weight": 0.20000000298023224
 }

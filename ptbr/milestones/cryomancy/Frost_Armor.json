@@ -1,6 +1,6 @@
 {
   "id": "core_2_frost_armor",
-  "name": "Armadura de Gelo",
+  "name": "Frost_Armor",
   "requirements": {
     "milestones": [],
     "skill": 32

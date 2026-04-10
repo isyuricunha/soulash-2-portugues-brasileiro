@@ -37,7 +37,7 @@
       {
         "chance": 1.0,
         "id": "71",
-        "name": "Dagger",
+        "name": "Adaga",
         "stack": 1
       }
     ],
@@ -45,7 +45,7 @@
       {
         "chance": 1.0,
         "id": "184",
-        "name": "Shirt",
+        "name": "Camisa",
         "stack": 1
       }
     ]
@@ -84,7 +84,7 @@
   "moveable": {
     "speed": 1.2000000476837158
   },
-  "name": "Dwarf Citizen",
+  "name": "Cidadão Anão",
   "persona": {
     "occupation": "None"
   },

@@ -25,7 +25,7 @@
     "producer"
   ],
   "corpse": "61",
-  "description": "A tree that grows apples, often seen in elven gardens.",
+  "description": "Uma árvore que cresce maçãs, frequentemente vista em jardins élficos.",
   "glyph": {
     "frames": [
       {
@@ -66,7 +66,7 @@
     93,
     55
   ],
-  "name": "Apple Tree",
+  "name": "Macieira",
   "producer": {
     "delay_on_use": 1440,
     "products": {

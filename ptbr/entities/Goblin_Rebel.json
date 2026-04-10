@@ -41,7 +41,7 @@
       {
         "chance": 1.0,
         "id": "core_2_Bone_Javelin",
-        "name": "Javeline de Osso",
+        "name": "Dardo de Osso",
         "stack": 10
       }
     ],
@@ -49,7 +49,7 @@
       {
         "chance": 1.0,
         "id": "core_2_Bone_Javelin",
-        "name": "Javeline de Osso",
+        "name": "Dardo de Osso",
         "stack": 1
       }
     ]

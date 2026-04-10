@@ -16,7 +16,7 @@
   },
   {
     "id": "core_2_static",
-    "name": "Estática",
+    "name": "Estático",
     "image": 1,
     "effects": [
       {
@@ -78,7 +78,7 @@
   },
   {
     "id": "core_2_blessed_knuckles",
-    "name": "Nódulos Abençoados",
+    "name": "Nodosos Abençoados",
     "image": 6,
     "effects": [],
     "max_stacks": 5,

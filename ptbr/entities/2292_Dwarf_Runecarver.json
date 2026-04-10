@@ -41,7 +41,7 @@
       {
         "chance": 1.0,
         "id": "70",
-        "name": "Knife",
+        "name": "Faca",
         "stack": 1
       }
     ]
@@ -80,9 +80,9 @@
   "moveable": {
     "speed": 1.100000023841858
   },
-  "name": "Dwarf Runecarver",
+  "name": "Anão Entalhador de Runas",
   "persona": {
-    "occupation": "Runecarver"
+    "occupation": "Entalhador de Runas"
   },
   "sight": {
     "ignore_infra_penalty": false,

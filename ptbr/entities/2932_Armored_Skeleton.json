@@ -42,13 +42,13 @@
     "tags"
   ],
   "corpse": "55",
-  "description": "Reanimated human remains must be somehow infused with dark magic that allows them to move.",
+  "description": "Restos humanos reanimados devem ser de alguma forma infundidos com magia negra que permite que se movam.",
   "equipment": {
     "head_armor": [
       {
         "chance": 1.0,
         "id": "21",
-        "name": "Nasal Helmet",
+        "name": "Capacete Nasal",
         "stack": 1
       }
     ],
@@ -56,7 +56,7 @@
       {
         "chance": 0.75,
         "id": "2182",
-        "name": "Buckler",
+        "name": "Broquel",
         "stack": 1
       }
     ],
@@ -64,7 +64,7 @@
       {
         "chance": 1.0,
         "id": "77",
-        "name": "Short Sword",
+        "name": "Espada Curta",
         "stack": 1
       }
     ],
@@ -72,7 +72,7 @@
       {
         "chance": 1.0,
         "id": "397",
-        "name": "Heavy Armor",
+        "name": "Armadura Pesada",
         "stack": 1
       }
     ]

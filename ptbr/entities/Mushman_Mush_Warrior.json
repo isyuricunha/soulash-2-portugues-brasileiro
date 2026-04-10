@@ -41,7 +41,7 @@
       {
         "chance": 1.0,
         "id": "168",
-        "name": "Wooden Shield",
+        "name": "Escudo de Madeira",
         "stack": 1
       }
     ],
@@ -49,7 +49,7 @@
       {
         "chance": 1.0,
         "id": "690",
-        "name": "Wooden Sword",
+        "name": "Espada de Madeira",
         "stack": 1
       }
     ],
@@ -57,7 +57,7 @@
       {
         "chance": 1.0,
         "id": "165",
-        "name": "Leather Armor",
+        "name": "Armadura de Couro",
         "stack": 1
       }
     ]
@@ -96,9 +96,9 @@
   "moveable": {
     "speed": 1.0
   },
-  "name": "Mushman Mush Warrior",
+  "name": "Guerreiro Cogumelo Mushman",
   "persona": {
-    "occupation": "Mush Warrior"
+    "occupation": "Guerreiro Cogumelo"
   },
   "sight": {
     "ignore_infra_penalty": false,

@@ -9,7 +9,7 @@
     "producer",
     "weight"
   ],
-  "description": "A humanoid corpse covered in acid. Nearly unrecognizable.",
+  "description": "Um cadáver humanoide coberto de ácido. Quase irreconhecível.",
   "glyph": {
     "frames": [
       {
@@ -65,7 +65,7 @@
     128,
     104
   ],
-  "name": "Melted Humanoid Corpse",
+  "name": "Cadáver Humanoide Derretido",
   "producer": {
     "products": {
       "3": [

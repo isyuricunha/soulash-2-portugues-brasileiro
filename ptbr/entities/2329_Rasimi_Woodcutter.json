@@ -41,7 +41,7 @@
       {
         "chance": 1.0,
         "id": "108",
-        "name": "Machado",
+        "name": "Machadinha",
         "stack": 1
       }
     ]
@@ -82,7 +82,7 @@
   },
   "name": "Lenhador Rasimi",
   "persona": {
-    "occupation": "Lenhador"
+    "occupation": "Lanhador"
   },
   "sight": {
     "ignore_infra_penalty": false,

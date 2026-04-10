@@ -39,7 +39,7 @@
       "id": "547"
     }
   ],
-  "description": "Painting representing an island floating in the skies. Mythical humanoid creatures with angelic wings fly nearby.",
+  "description": "Pintura representando uma ilha flutuando nos céus. Criaturas humanoides míticas com asas angelicais voam nas proximidades.",
   "glyph": {
     "frames": [
       {
@@ -61,5 +61,5 @@
     63,
     59
   ],
-  "name": "Painting"
+  "name": "Pintura"
 }

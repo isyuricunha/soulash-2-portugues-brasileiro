@@ -28,7 +28,7 @@
     "weapon"
   ],
   "corpse": "594",
-  "description": "A large cat with collar of long hair around it's neck.",
+  "description": "Um grande gato com uma coleira de pelos longos ao redor do pescoço.",
   "dialogues": [
     "214",
     "215",
@@ -91,7 +91,7 @@
   "moveable": {
     "speed": 0.8999999761581421
   },
-  "name": "Lion",
+  "name": "Leão",
   "sight": {
     "ignore_infra_penalty": false,
     "infravision": true,

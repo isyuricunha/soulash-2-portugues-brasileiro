@@ -42,7 +42,7 @@
     "time": 20,
     "tools": []
   },
-  "description": "Cozy little place to spend long evenings next to.",
+  "description": "Lugar aconchegante para passar longas noites ao lado.",
   "glyph": {
     "frames": [
       {
@@ -100,7 +100,7 @@
     55,
     20
   ],
-  "name": "Stone Fireplace",
+  "name": "Lareira de Pedra",
   "producer": {
     "products": {
       "core_2_deconstruct": [

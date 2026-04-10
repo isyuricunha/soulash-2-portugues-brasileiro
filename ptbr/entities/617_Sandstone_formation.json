@@ -23,7 +23,7 @@
     "producer"
   ],
   "corpse": "35",
-  "description": "Rock formation created from cemented grains of sand and minerals.",
+  "description": "Formação rochosa criada a partir de grãos de areia e minerais cimentados.",
   "glyph": {
     "frames": [
       {
@@ -64,7 +64,7 @@
     108,
     58
   ],
-  "name": "Sandstone Formation",
+  "name": "Formação de Arenito",
   "producer": {
     "products": {
       "5": [

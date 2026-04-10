@@ -53,7 +53,7 @@
       6
     ]
   },
-  "description": "This exquisite sandstone-framed window, fitted with shimmering glass, captures the essence of the desert landscape, inviting the golden warmth and tranquil beauty of the dunes into your space.",
+  "description": "Esta janela exquisita emoldurada em arenito, equipada com vidro cintilante, captura a essência da paisagem desértica, convidando o calor dourado e a beleza tranquila das dunas para o seu espaço.",
   "glyph": {
     "frames": [
       {
@@ -76,7 +76,7 @@
     83,
     92
   ],
-  "name": "Sandstone Glass Window",
+  "name": "Janela de Vidro de Arenito",
   "producer": {
     "products": {
       "core_2_deconstruct": [

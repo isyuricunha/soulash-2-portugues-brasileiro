@@ -24,7 +24,7 @@
     "producer"
   ],
   "corpse": "620",
-  "description": "Broken pillar made of sandstone. It looks like something shattered it.",
+  "description": "Pilar quebrado feito de arenito. Parece que algo o espatifou.",
   "glyph": {
     "frames": [
       {
@@ -47,7 +47,7 @@
     178,
     128
   ],
-  "name": "Broken Sandstone Pillar",
+  "name": "Pilar de Arenito Quebrado",
   "producer": {
     "products": {
       "core_2_deconstruct": [

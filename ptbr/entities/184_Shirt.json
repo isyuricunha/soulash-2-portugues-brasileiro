@@ -35,7 +35,7 @@
       12
     ]
   },
-  "description": "The most plain and boring white shirt there is.",
+  "description": "A camisa branca mais simples e entediante que existe.",
   "glyph": {
     "frames": [
       {
@@ -60,7 +60,7 @@
     200,
     200
   ],
-  "name": "Shirt",
+  "name": "Camisa",
   "value": 150,
   "weight": 0.5
 }

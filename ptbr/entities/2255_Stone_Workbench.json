@@ -22,7 +22,7 @@
     "time": 60,
     "tools": []
   },
-  "description": "Good place to tinker at.",
+  "description": "Bom lugar para trabalhar.",
   "glyph": {
     "frames": [
       {
@@ -43,7 +43,7 @@
     83,
     92
   ],
-  "name": "Stone Workbench",
+  "name": "Bancada de Pedra",
   "producer": {
     "products": {
       "core_2_deconstruct": [

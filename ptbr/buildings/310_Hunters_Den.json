@@ -1,9 +1,9 @@
 {
   "id": "310",
   "image": 239,
-  "name": "Toca de Caçadores",
+  "name": "Toca do Caçador",
   "occupation_image": 1,
-  "occupation": "core_2_Gnoll_Caçador",
+  "occupation": "core_2_Gnoll_Hunter",
   "produces": [
     {
       "entities": [

@@ -23,7 +23,7 @@
     "time": 30,
     "tools": []
   },
-  "description": "It's so fancy that people are afraid to sit on it.",
+  "description": "É tão elegante que as pessoas têm medo de sentar nele.",
   "glyph": {
     "frames": [
       {
@@ -46,7 +46,7 @@
     68,
     24
   ],
-  "name": "Fancy Chair",
+  "name": "Cadeira Sofisticada",
   "producer": {
     "products": {
       "core_2_deconstruct": [

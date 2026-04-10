@@ -43,7 +43,7 @@
     "time": 20,
     "tools": []
   },
-  "description": "Fireplace inside a house for cooking and heat.",
+  "description": "Lareira dentro de uma casa para cozinhar e aquecer.",
   "glyph": {
     "frames": [
       {
@@ -169,7 +169,7 @@
     83,
     92
   ],
-  "name": "Hearth",
+  "name": "Lareira",
   "producer": {
     "products": {
       "core_2_deconstruct": [

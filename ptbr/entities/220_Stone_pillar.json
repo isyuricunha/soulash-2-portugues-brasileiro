@@ -37,7 +37,7 @@
     "time": 20,
     "tools": []
   },
-  "description": "A huge stone pillar with unusual carvings.",
+  "description": "Um enorme pilar de pedra com entalhes incomuns.",
   "glyph": {
     "frames": [
       {
@@ -59,7 +59,7 @@
     150,
     150
   ],
-  "name": "Stone Pillar",
+  "name": "Pilar de Pedra",
   "producer": {
     "products": {
       "core_2_deconstruct": [

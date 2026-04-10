@@ -35,7 +35,7 @@
       1
     ]
   },
-  "description": "Steel armor offers great protection, but requires above average strength from it's wearer.",
+  "description": "A armadura de aço oferece grande proteção, mas requer força acima da média de quem a veste.",
   "glyph": {
     "frames": [
       {
@@ -60,7 +60,7 @@
     133,
     127
   ],
-  "name": "Heavy Armor",
+  "name": "Armadura Pesada",
   "value": 3500,
   "weight": 6.0
 }

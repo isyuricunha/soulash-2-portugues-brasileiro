@@ -8,7 +8,7 @@
     "producer",
     "weight"
   ],
-  "description": "Animated adamantine but this time he is dead.",
+  "description": "Adamantina animada, mas desta vez está morta.",
   "glyph": {
     "frames": [
       {
@@ -33,7 +33,7 @@
     128,
     104
   ],
-  "name": "Animated Adamantine Corpse",
+  "name": "Cadáver de Adamantina Animada",
   "producer": {
     "products": {
       "3": [

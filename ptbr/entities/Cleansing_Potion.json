@@ -63,7 +63,7 @@
     78,
     54
   ],
-  "name": "Poção de Limpeza",
+  "name": "Poção de Purificação",
   "usable": {
     "ability": "core_2_Cleansing_Potion",
     "recipe": ""

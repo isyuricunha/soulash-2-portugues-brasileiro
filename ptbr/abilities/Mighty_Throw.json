@@ -6,7 +6,7 @@
     "health": 0,
     "stamina": 10
   },
-  "description": "Hit everything in line for ::damage ::damage_type damage in range ::range piercing everything on the path.",
+  "description": "Acerte tudo em linha com ::damage de dano ::damage_type em um alcance ::range, perfurando tudo em seu caminho.",
   "duration": 0.0,
   "effects": {
     "damage": [
@@ -19,7 +19,7 @@
   },
   "id": "core_2_Mighty_Throw",
   "image": 749,
-  "name": "Mighty Throw",
+  "name": "Arremesso Poderoso",
   "range": 10,
   "requirements": {
     "always": [

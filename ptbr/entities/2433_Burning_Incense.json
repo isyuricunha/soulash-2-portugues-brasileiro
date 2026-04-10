@@ -5,7 +5,7 @@
     "name",
     "position_2d"
   ],
-  "description": "Gently smoldering, this stick of incense releases a captivating scent that calms the senses and adds an air of mystique to its surroundings.",
+  "description": "Queimando suavemente, este bastão de incenso libera um aroma cativante que acalma os sentidos e adiciona um ar de mistério ao seu entorno.",
   "glyph": {
     "frames": [
       {
@@ -62,5 +62,5 @@
     157,
     45
   ],
-  "name": "Burning Incense"
+  "name": "Incenso Queimando"
 }

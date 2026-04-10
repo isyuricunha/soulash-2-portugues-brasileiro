@@ -1,6 +1,6 @@
 {
   "id": "core_2_dodge",
-  "name": "Dodge",
+  "name": "Esquiva",
   "requirements": {
     "skill": 27
   },

@@ -43,7 +43,7 @@
       "id": "429"
     }
   ],
-  "description": "This water is frozen.",
+  "description": "Esta água está congelada.",
   "glyph": {
     "frames": [
       {
@@ -65,5 +65,5 @@
     75,
     93
   ],
-  "name": "Frozen Underground Pond"
+  "name": "Lagoa Subterrânea Congelada"
 }

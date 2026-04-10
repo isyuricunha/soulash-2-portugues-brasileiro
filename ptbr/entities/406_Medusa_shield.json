@@ -35,7 +35,7 @@
       1
     ]
   },
-  "description": "Made by followers of Cienar, the Snake Queen.",
+  "description": "Feito por seguidores de Cienar, a Rainha Serpente.",
   "glyph": {
     "frames": [
       {
@@ -60,7 +60,7 @@
     185,
     81
   ],
-  "name": "Medusa Shield",
+  "name": "Escudo de Medusa",
   "value": 20000,
   "weight": 8.0
 }

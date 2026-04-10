@@ -21,7 +21,7 @@
     "minimap_pixel"
   ],
   "corpse": [],
-  "description": "Small enclosed place of rest, shelter from rain and sun.",
+  "description": "Pequeno local fechado de descanso, abrigo contra chuva e sol.",
   "glyph": {
     "frames": [
       {
@@ -42,6 +42,6 @@
     105,
     50
   ],
-  "name": "Tent",
+  "name": "Barraca",
   "resting_place": 130
 }

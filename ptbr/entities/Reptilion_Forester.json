@@ -39,13 +39,13 @@
       {
         "chance": 0.5,
         "id": "3063",
-        "name": "Bamboo Seed",
+        "name": "Semente de Bambu",
         "stack": 1
       },
       {
         "chance": 0.5,
         "id": "3062",
-        "name": "Mahogany Tree Seed",
+        "name": "Semente de Mogno",
         "stack": 1
       }
     ]
@@ -86,7 +86,7 @@
   },
   "name": "Reptilion Forester",
   "persona": {
-    "occupation": "Forester"
+    "occupation": "Guarda Florestal"
   },
   "sight": {
     "ignore_infra_penalty": false,

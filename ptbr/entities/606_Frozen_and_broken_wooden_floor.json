@@ -25,7 +25,7 @@
       "id": "604"
     }
   ],
-  "description": "The wooden boards that make the floor beneath your feet is frozen and cracked in multiple places.",
+  "description": "As tábuas de madeira que compõem o chão sob seus pés estão congeladas e rachadas em vários lugares.",
   "glyph": {
     "frames": [
       {
@@ -47,5 +47,5 @@
     46,
     23
   ],
-  "name": "Frozen and Broken Wooden Floor"
+  "name": "Chão de Madeira Congelado e Rachado"
 }

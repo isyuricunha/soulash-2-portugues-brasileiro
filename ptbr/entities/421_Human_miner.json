@@ -91,7 +91,7 @@
   },
   "name": "Minerador Humano",
   "persona": {
-    "occupation": "Minerador"
+    "occupation": "Mineiro"
   },
   "sight": {
     "ignore_infra_penalty": false,

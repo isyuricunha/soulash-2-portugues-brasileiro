@@ -10,7 +10,7 @@
     "value",
     "weight"
   ],
-  "description": "Small and delicate milkweed flower.",
+  "description": "Pequena e delicada flor de algodão.",
   "glyph": {
     "frames": [
       {
@@ -35,7 +35,7 @@
     73,
     73
   ],
-  "name": "Milkweed Flower",
+  "name": "Flor de Algodão",
   "resource": {
     "affix": "",
     "magic_ingredient": 0,

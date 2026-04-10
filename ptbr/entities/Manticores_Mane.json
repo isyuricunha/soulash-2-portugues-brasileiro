@@ -10,7 +10,7 @@
     "value",
     "weight"
   ],
-  "description": "Like getting a lion's mane with extra steps.",
+  "description": "Como obter uma juba de leão com etapas extras.",
   "glyph": {
     "frames": [
       {
@@ -35,7 +35,7 @@
     144,
     88
   ],
-  "name": "Manticore's Mane",
+  "name": "Juba de Manticora",
   "resource": {
     "affix": "",
     "magic_ingredient": 0,

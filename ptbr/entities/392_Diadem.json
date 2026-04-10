@@ -39,7 +39,7 @@
       1
     ]
   },
-  "description": "Symbol of wealth and power.",
+  "description": "Símbolo de riqueza e poder.",
   "glyph": {
     "frames": [
       {
@@ -64,7 +64,7 @@
     171,
     163
   ],
-  "name": "Diadem",
+  "name": "Diadema",
   "value": 2500,
   "weight": 1.0
 }

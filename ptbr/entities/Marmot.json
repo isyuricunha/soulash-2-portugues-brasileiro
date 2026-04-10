@@ -26,7 +26,7 @@
     "tags"
   ],
   "corpse": "589",
-  "description": "A large rodent.",
+  "description": "Um grande roedor.",
   "dialogues": [
     "937",
     "944"
@@ -82,7 +82,7 @@
   "moveable": {
     "speed": 0.8999999761581421
   },
-  "name": "Marmot",
+  "name": "Marmota",
   "sight": {
     "ignore_infra_penalty": false,
     "infravision": false,

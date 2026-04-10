@@ -8,7 +8,7 @@
     "position_2d"
   ],
   "corpse": [],
-  "description": "An unfortunate victim's skull gruesomely impaled upon a menacing spike.",
+  "description": "Um crânio de uma vítima infeliz grotescamente empalado em uma estaca ameaçadora.",
   "glyph": {
     "frames": [
       {
@@ -49,5 +49,5 @@
     128,
     104
   ],
-  "name": "Impaled Skull"
+  "name": "Crânio Empalado"
 }

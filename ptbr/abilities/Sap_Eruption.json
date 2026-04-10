@@ -6,7 +6,7 @@
     "health": 0,
     "stamina": 0
   },
-  "description": "Send acidic sap dealing ::damage ::damage_type damage to everyone in a cone and stick enemy to the ground.",
+  "description": "Envie seiva ácida causando ::damage de dano ::damage_type a todos em um cone e grude o inimigo no chão.",
   "duration": 0.0,
   "effects": {
     "aoe_break": 6,
@@ -19,7 +19,7 @@
   },
   "id": "core_2_Sap_Eruption",
   "image": 795,
-  "name": "Sap Eruption",
+  "name": "Erupção de Seiva",
   "range": 6,
   "skill": "",
   "target": "cone"

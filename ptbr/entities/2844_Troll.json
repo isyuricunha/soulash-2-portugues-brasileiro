@@ -57,7 +57,7 @@
       {
         "chance": 1.0,
         "id": "2175",
-        "name": "Fur Loincloth",
+        "name": "Tanga de Pele",
         "stack": 1
       }
     ],
@@ -65,7 +65,7 @@
       {
         "chance": 1.0,
         "id": "774",
-        "name": "Spiked Club",
+        "name": "Clava Espinhosa",
         "stack": 1
       }
     ]

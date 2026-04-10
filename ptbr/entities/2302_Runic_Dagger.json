@@ -32,7 +32,7 @@
       1
     ]
   },
-  "description": "This blade was made from the bones of powerful beasts, expertly crafted and sharpened to a razor's edge. The dagger's hilt is adorned with intricate runes and symbols, which are said to grant the wielder supernatural abilities and protection.",
+  "description": "Esta lâmina foi feita a partir dos ossos de bestas poderosas, habilmente trabalhada e afiada até a borda de uma navalha. O cabo da adaga é adornado com runas e símbolos intricados, que se diz conceder ao portador habilidades sobrenaturais e proteção.",
   "glyph": {
     "frames": [
       {
@@ -57,7 +57,7 @@
     165,
     32
   ],
-  "name": "Runic Dagger",
+  "name": "Adaga Rúnica",
   "value": 5000,
   "weapon": {
     "attack_speed": 0.800000011920929,

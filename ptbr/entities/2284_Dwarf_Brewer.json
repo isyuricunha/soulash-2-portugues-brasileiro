@@ -68,9 +68,9 @@
   "moveable": {
     "speed": 1.2000000476837158
   },
-  "name": "Dwarf Brewer",
+  "name": "Anão Cervejeiro",
   "persona": {
-    "occupation": "Brewer"
+    "occupation": "Cervejeiro"
   },
   "sight": {
     "ignore_infra_penalty": false,

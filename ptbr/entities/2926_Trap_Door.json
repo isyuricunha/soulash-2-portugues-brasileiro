@@ -83,7 +83,7 @@
   "openable": {
     "block_light": false,
     "collidable": false,
-    "description": "Wooden door, currently opened.",
+    "description": "Porta de madeira, atualmente aberta.",
     "glyph": {
       "frames": [
         {

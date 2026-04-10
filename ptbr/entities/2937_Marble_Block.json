@@ -24,7 +24,7 @@
     "weapon",
     "weight"
   ],
-  "description": "Softer than many other stones and easier to work with.",
+  "description": "Mais macio que muitas outras pedras e mais fácil de trabalhar.",
   "glyph": {
     "frames": [
       {
@@ -49,7 +49,7 @@
     113,
     115
   ],
-  "name": "Marble Block",
+  "name": "Bloco de Mármore",
   "resource": {
     "affix": "Marble",
     "magic_ingredient": 0,

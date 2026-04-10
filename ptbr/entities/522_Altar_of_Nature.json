@@ -28,7 +28,7 @@
     "time": 30,
     "tools": []
   },
-  "description": "This altar represents a beautiful half-naked elven woman covered only with leaves, holding a water jug.",
+  "description": "Este altar representa uma bela mulher elfa semi-nua coberta apenas com folhas, segurando um jarro de água.",
   "glyph": {
     "frames": [
       {
@@ -49,7 +49,7 @@
     166,
     140
   ],
-  "name": "Altar of Nature",
+  "name": "Altar da Natureza",
   "producer": {
     "products": {
       "core_2_deconstruct": [

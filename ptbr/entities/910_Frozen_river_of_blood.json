@@ -42,7 +42,7 @@
       "id": "909"
     }
   ],
-  "description": "There is thick ice going over this river of blood. You might be able to stand on it.",
+  "description": "Há gelo espesso sobre este rio de sangue. Você pode ser capaz de ficar em cima dele.",
   "glyph": {
     "frames": [
       {
@@ -64,5 +64,5 @@
     62,
     57
   ],
-  "name": "Frozen River of Blood"
+  "name": "Rio de Sangue Congelado"
 }

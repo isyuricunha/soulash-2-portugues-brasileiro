@@ -25,7 +25,7 @@
       1
     ]
   },
-  "description": "This axe is designed for use in beheadings. It has a large, heavy blade, allowing for a more precise and efficient strike. The blade is mounted on a long wooden handle, which enables the executioner to deliver a decisive blow with both hands.",
+  "description": "Este machado é projetado para uso em decapitações. Tem uma lâmina grande e pesada, permitindo um golpe mais preciso e eficiente. A lâmina é montada em um cabo de madeira longo, que permite ao carrasco desferir um golpe decisivo com as duas mãos.",
   "glyph": {
     "frames": [
       {
@@ -50,7 +50,7 @@
     190,
     191
   ],
-  "name": "Executioner's Axe",
+  "name": "Machado do Carrasco",
   "tool": [
     {
       "id": 13,

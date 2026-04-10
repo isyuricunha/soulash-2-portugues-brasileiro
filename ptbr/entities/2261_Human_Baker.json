@@ -40,7 +40,7 @@
       {
         "chance": 0.5,
         "id": "70",
-        "name": "Knife",
+        "name": "Faca",
         "stack": 1
       }
     ]
@@ -79,9 +79,9 @@
   "moveable": {
     "speed": 1.5
   },
-  "name": "Human Baker",
+  "name": "Padeiro Humano",
   "persona": {
-    "occupation": "Baker"
+    "occupation": "Padeiro"
   },
   "sight": {
     "ignore_infra_penalty": false,

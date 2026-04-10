@@ -41,7 +41,7 @@
       6
     ]
   },
-  "description": "Miracle of dwarven engineering, a box with a bolt thrower inside. Allows quick deployment.",
+  "description": "Milagre da engenharia anã, uma caixa com um lançador de dardos dentro. Permite implantação rápida.",
   "glyph": {
     "frames": [
       {
@@ -66,7 +66,7 @@
     128,
     128
   ],
-  "name": "Bolt Thrower Box",
+  "name": "Caixa de Lançador de Dardos",
   "usable": {
     "ability": "core_2_Summon_Bolt_Thrower",
     "recipe": ""

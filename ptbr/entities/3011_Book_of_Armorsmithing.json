@@ -25,7 +25,7 @@
     "time": 60,
     "tools": []
   },
-  "description": "Some crafty secrets of armorsmithing are hidden within those pages.",
+  "description": "Alguns segredos astutos de forja de armaduras estão escondidos dentro dessas páginas.",
   "glyph": {
     "frames": [
       {
@@ -50,7 +50,7 @@
     178,
     176
   ],
-  "name": "Book of Armorsmithing",
+  "name": "Livro de Armoreiro",
   "usable": {
     "ability": "",
     "recipe": "",

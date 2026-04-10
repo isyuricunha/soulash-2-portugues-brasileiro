@@ -8,7 +8,7 @@
     "producer",
     "weight"
   ],
-  "description": "Animated silver ore, but this time it is dead.",
+  "description": "Minério de prata animado, mas desta vez está morto.",
   "glyph": {
     "frames": [
       {
@@ -33,7 +33,7 @@
     128,
     104
   ],
-  "name": "Animated Silver Ore Corpse",
+  "name": "Cadáver de Minério de Prata Animado",
   "producer": {
     "products": {
       "3": [

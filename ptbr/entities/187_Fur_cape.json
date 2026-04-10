@@ -36,7 +36,7 @@
       14
     ]
   },
-  "description": "Heavy, but very warm cape.",
+  "description": "Pesada, mas muito quente.",
   "glyph": {
     "frames": [
       {
@@ -61,7 +61,7 @@
     175,
     158
   ],
-  "name": "Fur Cape",
+  "name": "Capa de Pele",
   "value": 10000,
   "weight": 4.0
 }

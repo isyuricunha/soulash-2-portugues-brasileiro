@@ -47,7 +47,7 @@
       {
         "chance": 1.0,
         "id": "958",
-        "name": "Humanoid Arm",
+        "name": "Braço Humanoide",
         "stack": 1
       }
     ],
@@ -55,7 +55,7 @@
       {
         "chance": 1.0,
         "id": "2302",
-        "name": "Runic Dagger",
+        "name": "Adaga Rúnica",
         "stack": 1
       }
     ],
@@ -63,7 +63,7 @@
       {
         "chance": 1.0,
         "id": "2217",
-        "name": "Decorated Tunic",
+        "name": "Túnica Decorada",
         "stack": 1
       }
     ]

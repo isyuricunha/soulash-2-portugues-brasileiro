@@ -39,7 +39,7 @@
       14
     ]
   },
-  "description": "Decorative wooden armguards protecting forearms.",
+  "description": "Guarda-braços de madeira decorativos protegendo os antebraços.",
   "glyph": {
     "frames": [
       {
@@ -64,7 +64,7 @@
     160,
     161
   ],
-  "name": "Wooden Armguards",
+  "name": "Braçadeiras de Madeira",
   "value": 1200,
   "weight": 1.5
 }

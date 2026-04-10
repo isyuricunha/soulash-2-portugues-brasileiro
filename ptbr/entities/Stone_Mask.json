@@ -37,7 +37,7 @@
       14
     ]
   },
-  "description": "Heavy, stone mask with narrow slits for the eyes.",
+  "description": "Máscara de pedra pesada com fendas estreitas para os olhos.",
   "glyph": {
     "frames": [
       {
@@ -62,7 +62,7 @@
     73,
     29
   ],
-  "name": "Stone Mask",
+  "name": "Máscara de Pedra",
   "value": 3200,
   "weight": 3.5
 }

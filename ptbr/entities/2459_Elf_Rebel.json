@@ -40,7 +40,7 @@
       {
         "chance": 1.0,
         "id": "194",
-        "name": "Arrow",
+        "name": "Flecha",
         "stack": 20
       }
     ],
@@ -48,7 +48,7 @@
       {
         "chance": 1.0,
         "id": "298",
-        "name": "Pants",
+        "name": "Calças",
         "stack": 1
       }
     ],
@@ -56,13 +56,13 @@
       {
         "chance": 0.800000011920929,
         "id": "882",
-        "name": "Bow",
+        "name": "Arco",
         "stack": 1
       },
       {
         "chance": 0.20000000298023224,
         "id": "324",
-        "name": "Elven Bow",
+        "name": "Arco Élfico",
         "stack": 1
       }
     ],
@@ -70,7 +70,7 @@
       {
         "chance": 1.0,
         "id": "184",
-        "name": "Shirt",
+        "name": "Camisa",
         "stack": 1
       }
     ]
@@ -109,7 +109,7 @@
   "moveable": {
     "speed": 1.0
   },
-  "name": "Elf Rebel",
+  "name": "Elfo Rebelde",
   "sight": {
     "ignore_infra_penalty": false,
     "infravision": false,

@@ -35,7 +35,7 @@
       12
     ]
   },
-  "description": "Piece of cloth covering the lower body.",
+  "description": "Peça de tecido que cobre a parte inferior do corpo.",
   "glyph": {
     "frames": [
       {
@@ -60,7 +60,7 @@
     133,
     216
   ],
-  "name": "Skirt",
+  "name": "Saia",
   "value": 700,
   "weight": 0.5
 }

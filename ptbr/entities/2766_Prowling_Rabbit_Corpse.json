@@ -10,7 +10,7 @@
     "value",
     "weight"
   ],
-  "description": "The dead body of a prowling rabbit",
+  "description": "O corpo morto de um coelho espreitador",
   "glyph": {
     "frames": [
       {
@@ -39,7 +39,7 @@
     140,
     143
   ],
-  "name": "Prowling Rabbit Corpse",
+  "name": "Cadáver de Coelho Espreitador",
   "producer": {
     "products": {
       "3": [

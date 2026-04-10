@@ -43,13 +43,13 @@
       {
         "chance": 1.0,
         "id": "56",
-        "name": "Torch",
+        "name": "Tocha",
         "stack": 15
       },
       {
         "chance": 0.25,
         "id": "100",
-        "name": "Javelin",
+        "name": "Dardo",
         "stack": 3
       }
     ],
@@ -57,7 +57,7 @@
       {
         "chance": 1.0,
         "id": "100",
-        "name": "Javelin",
+        "name": "Dardo",
         "stack": 1
       }
     ]
@@ -98,7 +98,7 @@
   },
   "name": "Reptilion Hunter",
   "persona": {
-    "occupation": "Hunter"
+    "occupation": "Caçador"
   },
   "sight": {
     "ignore_infra_penalty": false,

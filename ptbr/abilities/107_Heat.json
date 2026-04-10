@@ -6,7 +6,7 @@
     "health": 2,
     "stamina": 8
   },
-  "description": "Increase body heat to very high degrees dealing ::damage ::damage_type to everyone in range of ::aoe_range tiles around the caster.",
+  "description": "Aumenta o calor corporal a graus muito altos, causando ::damage de dano ::damage_type a todos no alcance de ::aoe_range células ao redor do conjurador.",
   "duration": 0.0,
   "effects": {
     "aoe_range": 3,
@@ -21,7 +21,7 @@
   "id": "107",
   "image": 531,
   "level": 3,
-  "name": "Heat",
+  "name": "Calor",
   "range": 1,
   "target": "aoe_self"
 }

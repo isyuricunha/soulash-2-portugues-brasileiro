@@ -9,7 +9,7 @@
     "value",
     "weight"
   ],
-  "description": "The dead body of a great forest larva covered in green ichor.",
+  "description": "O corpo morto de uma grande larva da floresta coberta de icor verde.",
   "glyph": {
     "frames": [
       {
@@ -38,7 +38,7 @@
     140,
     143
   ],
-  "name": "Great Forest Larva Corpse",
+  "name": "Cadáver de Grande Larva da Floresta",
   "value": 200,
   "weight": 80.0
 }

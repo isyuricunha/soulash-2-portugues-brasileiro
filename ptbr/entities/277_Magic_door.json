@@ -53,7 +53,7 @@
       14
     ]
   },
-  "description": "Closed door, sparkling!",
+  "description": "Porta fechada, cintilante!",
   "glyph": {
     "frames": [
       {
@@ -85,11 +85,11 @@
     29,
     81
   ],
-  "name": "Magic Door",
+  "name": "Porta Mágica",
   "openable": {
     "block_light": false,
     "collidable": false,
-    "description": "Opened door, still sparkling!",
+    "description": "Porta aberta, ainda cintilante!",
     "glyph": {
       "frames": [
         {

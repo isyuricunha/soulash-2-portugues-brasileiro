@@ -4,9 +4,9 @@
     "random_resource",
     "position_2d"
   ],
-  "description": "Spawns random trees",
+  "description": "Gera árvores aleatórias",
   "id": "407",
-  "name": "Random Tree Spawn",
+  "name": "Geração Aleatória de Árvores",
   "random_resource": {
     "entity": [
       "11",

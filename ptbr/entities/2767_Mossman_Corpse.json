@@ -9,7 +9,7 @@
     "producer",
     "weight"
   ],
-  "description": "Dead body of a mossman.",
+  "description": "Corpo morto de um homem-musgo.",
   "glyph": {
     "frames": [
       {
@@ -38,7 +38,7 @@
     128,
     104
   ],
-  "name": "Mossman Corpse",
+  "name": "Cadáver de Homem-Musgo",
   "producer": {
     "products": {
       "3": [

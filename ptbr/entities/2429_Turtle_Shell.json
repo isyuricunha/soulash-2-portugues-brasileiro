@@ -11,7 +11,7 @@
     "value",
     "weight"
   ],
-  "description": "This resilient turtle shell, a testament to the wonders of the natural world, once safeguarded its original owner and now awaits a new purpose in skillful hands.",
+  "description": "Esta casca de tartaruga resistente, um testemunho das maravilhas do mundo natural, já protegeu seu dono original e agora aguarda um novo propósito em mãos habilidosas.",
   "glyph": {
     "frames": [
       {
@@ -36,7 +36,7 @@
     227,
     120
   ],
-  "name": "Turtle Shell",
+  "name": "Casca de Tartaruga",
   "resource": {
     "affix": "Enduring",
     "magic_ingredient": 0,

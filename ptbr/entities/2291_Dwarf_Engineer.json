@@ -40,7 +40,7 @@
       {
         "chance": 1.0,
         "id": "151",
-        "name": "Hammer",
+        "name": "Martelo",
         "stack": 1
       }
     ]
@@ -79,9 +79,9 @@
   "moveable": {
     "speed": 1.2000000476837158
   },
-  "name": "Dwarf Engineer",
+  "name": "Anão Engenheiro",
   "persona": {
-    "occupation": "Engineer"
+    "occupation": "Engenheiro"
   },
   "sight": {
     "ignore_infra_penalty": false,

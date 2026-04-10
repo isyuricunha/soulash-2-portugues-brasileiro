@@ -1,6 +1,6 @@
 {
   "id": "core_2_slow_down",
-  "name": "Slow Down",
+  "name": "Desacelerar",
   "requirements": {
     "skill": 15
   },

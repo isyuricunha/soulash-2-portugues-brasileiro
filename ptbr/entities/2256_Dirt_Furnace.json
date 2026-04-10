@@ -21,7 +21,7 @@
     "time": 300,
     "tools": []
   },
-  "description": "Useful only for cooking, can't get high enough temperature to smelt anything inside.",
+  "description": "Útil apenas para cozinhar, não pode atingir temperatura alta o suficiente para fundir qualquer coisa dentro.",
   "glyph": {
     "frames": [
       {
@@ -57,7 +57,7 @@
     83,
     92
   ],
-  "name": "Dirt Furnace",
+  "name": "Forno de Terra",
   "producer": {
     "products": {
       "core_2_deconstruct": [

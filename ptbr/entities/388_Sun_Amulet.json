@@ -46,7 +46,7 @@
       14
     ]
   },
-  "description": "Golden amulet with symbol of the sun.",
+  "description": "Amuleto dourado com símbolo do sol.",
   "glyph": {
     "frames": [
       {
@@ -71,7 +71,7 @@
     165,
     32
   ],
-  "name": "Sun Amulet",
+  "name": "Amuleto do Sol",
   "statistics": {
     "dexterity": [
       1,

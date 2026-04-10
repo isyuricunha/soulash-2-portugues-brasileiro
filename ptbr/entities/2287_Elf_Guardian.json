@@ -40,7 +40,7 @@
       {
         "chance": 1.0,
         "id": "168",
-        "name": "Wooden Shield",
+        "name": "Escudo de Madeira",
         "stack": 1
       }
     ],
@@ -48,7 +48,7 @@
       {
         "chance": 1.0,
         "id": "96",
-        "name": "Spear",
+        "name": "Lança",
         "stack": 1
       }
     ]
@@ -87,9 +87,9 @@
   "moveable": {
     "speed": 1.0
   },
-  "name": "Elf Guardian",
+  "name": "Elfo Guardião",
   "persona": {
-    "occupation": "Guardian"
+    "occupation": "Guardião"
   },
   "sight": {
     "ignore_infra_penalty": false,

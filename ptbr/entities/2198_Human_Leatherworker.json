@@ -82,7 +82,7 @@
   },
   "name": "Courador Humano",
   "persona": {
-    "occupation": "Leatherworker"
+    "occupation": "Courador"
   },
   "sight": {
     "ignore_infra_penalty": false,

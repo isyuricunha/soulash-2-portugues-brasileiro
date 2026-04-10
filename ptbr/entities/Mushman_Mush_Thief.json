@@ -41,7 +41,7 @@
       {
         "chance": 1.0,
         "id": "194",
-        "name": "Arrow",
+        "name": "Flecha",
         "stack": 20
       }
     ],
@@ -49,7 +49,7 @@
       {
         "chance": 1.0,
         "id": "core_2_Flat_Bow",
-        "name": "Flat Bow",
+        "name": "Arco Plano",
         "stack": 1
       }
     ],
@@ -57,7 +57,7 @@
       {
         "chance": 1.0,
         "id": "165",
-        "name": "Leather Armor",
+        "name": "Armadura de Couro",
         "stack": 1
       }
     ]
@@ -96,9 +96,9 @@
   "moveable": {
     "speed": 1.0
   },
-  "name": "Mushman Mush Thief",
+  "name": "Ladrão de Cogumelos Mushman",
   "persona": {
-    "occupation": "Thief"
+    "occupation": "Ladino"
   },
   "sight": {
     "ignore_infra_penalty": false,

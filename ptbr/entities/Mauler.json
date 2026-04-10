@@ -39,7 +39,7 @@
       {
         "chance": 1.0,
         "id": "2304",
-        "name": "Maul",
+        "name": "Malho",
         "stack": 1
       }
     ]
@@ -78,9 +78,9 @@
   "moveable": {
     "speed": 0.8999999761581421
   },
-  "name": "Mauler",
+  "name": "Esmagador",
   "persona": {
-    "occupation": "Mauler"
+    "occupation": "Esmagador"
   },
   "sight": {
     "ignore_infra_penalty": false,

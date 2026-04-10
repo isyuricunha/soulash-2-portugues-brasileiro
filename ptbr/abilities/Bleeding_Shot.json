@@ -21,7 +21,7 @@
   },
   "id": "core_2_Bleeding_Shot",
   "image": 723,
-  "name": "Disparo Sangrento",
+  "name": "Tiro Sangrante",
   "range": 7,
   "requirements": {
     "one_of": [

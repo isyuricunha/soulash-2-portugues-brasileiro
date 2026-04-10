@@ -8,7 +8,7 @@
     "position_2d",
     "weight"
   ],
-  "description": "A mudman corpse, completely absent of life.",
+  "description": "Um cadáver de homem-lama, completamente sem vida.",
   "glyph": {
     "frames": [
       {
@@ -37,6 +37,6 @@
     128,
     104
   ],
-  "name": "Mudman Corpse",
+  "name": "Cadáver de Homem-Lama",
   "weight": 90.0
 }

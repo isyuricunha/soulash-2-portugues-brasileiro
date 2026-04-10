@@ -37,7 +37,7 @@
     "time": 20,
     "tools": []
   },
-  "description": "Huge pillar made of sandstone covered with carved images depicting some unknown language.",
+  "description": "Pilar enorme feito de arenito coberto com imagens esculpidas representando alguma linguagem desconhecida.",
   "glyph": {
     "frames": [
       {
@@ -60,7 +60,7 @@
     178,
     128
   ],
-  "name": "Sandstone Pillar",
+  "name": "Pilar de Arenito",
   "producer": {
     "products": {
       "core_2_deconstruct": [

@@ -82,7 +82,7 @@
   "moveable": {
     "speed": 1.5
   },
-  "name": "Squirrel",
+  "name": "Esquilo",
   "sight": {
     "ignore_infra_penalty": false,
     "infravision": false,

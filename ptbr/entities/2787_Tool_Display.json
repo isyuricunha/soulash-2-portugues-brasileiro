@@ -36,7 +36,7 @@
     "time": 30,
     "tools": []
   },
-  "description": "Some quality tools are displayed here.",
+  "description": "Algumas ferramentas de qualidade são exibidas aqui.",
   "glyph": {
     "frames": [
       {
@@ -68,5 +68,5 @@
     48,
     17
   ],
-  "name": "Tools Display"
+  "name": "Exibição de Ferramentas"
 }

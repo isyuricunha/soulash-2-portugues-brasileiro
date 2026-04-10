@@ -7,7 +7,7 @@
     "health": 0,
     "stamina": 4
   },
-  "description": "Shoots a magical projectile that deals ::damage ::damage_type damage and applies ::stun stun effect. May leave the ammunition after shooting.",
+  "description": "Dispara um projétil mágico que causa ::damage de dano ::damage_type e aplica o efeito de ::stun de atordoamento. Pode deixar a munição após o disparo.",
   "duration": 0.0,
   "effects": {
     "construct_item_cost": 0.8999999761581421,
@@ -21,7 +21,7 @@
   },
   "id": "core_2_Necrosis_Shot",
   "image": 717,
-  "name": "Necrosis Shot",
+  "name": "Tiro Necrótico",
   "range": 7,
   "requirements": {
     "one_of": [

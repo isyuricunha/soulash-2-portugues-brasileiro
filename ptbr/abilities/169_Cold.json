@@ -6,7 +6,7 @@
     "health": 0,
     "stamina": 0
   },
-  "description": "Está frio aqui fora, sua resistência ::damage_type é reduzida por ::resistance.",
+  "description": "Está frio aqui fora, sua resistência ::damage_type é reduzida em ::resistance.",
   "duration": 50.0,
   "effects": {
     "damage_type": "frost",

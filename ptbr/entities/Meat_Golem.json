@@ -46,7 +46,7 @@
       11
     ]
   },
-  "description": "A construct made out of rotting meat.",
+  "description": "Um construto feito de carne em decomposição.",
   "dialogues": [],
   "equipment": {
     "custom_slots": [
@@ -110,7 +110,7 @@
   "moveable": {
     "speed": 1.0
   },
-  "name": "Meat Golem",
+  "name": "Golem de Carne",
   "sight": {
     "ignore_infra_penalty": false,
     "infravision": true,

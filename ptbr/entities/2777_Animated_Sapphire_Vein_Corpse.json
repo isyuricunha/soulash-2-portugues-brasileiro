@@ -10,7 +10,7 @@
     "value",
     "weight"
   ],
-  "description": "The remains of an animated sapphire vein.",
+  "description": "Os restos de um veio de safira animado.",
   "glyph": {
     "frames": [
       {
@@ -39,7 +39,7 @@
     102,
     57
   ],
-  "name": "Animated Sapphire Vein Corpse",
+  "name": "Cadáver de Veio de Safira Animado",
   "producer": {
     "products": {
       "3": [

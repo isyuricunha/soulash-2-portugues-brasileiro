@@ -32,7 +32,7 @@
     "tags"
   ],
   "corpse": "2444",
-  "description": "A mannequin in a humanoid shape dressed in old clothes. It exists to give you nightmares.",
+  "description": "Um manequim em forma humanoide vestido com roupas velhas. Ele existe para dar pesadelos a você.",
   "dialogues": [
     "372",
     "373"
@@ -42,13 +42,13 @@
       {
         "chance": 0.5,
         "id": "97",
-        "name": "Scythe",
+        "name": "Foice",
         "stack": 1
       },
       {
         "chance": 0.5,
         "id": "730",
-        "name": "Pitchfork",
+        "name": "Forquilha",
         "stack": 1
       }
     ],
@@ -56,7 +56,7 @@
       {
         "chance": 1.0,
         "id": "23",
-        "name": "Rags",
+        "name": "Farrapos",
         "stack": 1
       }
     ]
@@ -95,7 +95,7 @@
   "moveable": {
     "speed": 1.0
   },
-  "name": "Animated Scarecrow",
+  "name": "Espantalho Animado",
   "sight": {
     "ignore_infra_penalty": false,
     "infravision": true,

@@ -42,7 +42,7 @@
       {
         "chance": 1.0,
         "id": "72",
-        "name": "Sickle",
+        "name": "Foice",
         "stack": 1
       }
     ]
@@ -81,9 +81,9 @@
   "moveable": {
     "speed": 1.2999999523162842
   },
-  "name": "Human Forager",
+  "name": "Forrageador Humano",
   "persona": {
-    "occupation": "Forager"
+    "occupation": "Forrageador"
   },
   "sight": {
     "ignore_infra_penalty": false,

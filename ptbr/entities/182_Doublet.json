@@ -39,7 +39,7 @@
       12
     ]
   },
-  "description": "Worn as a sign of wealth by merchants and aristocrats.",
+  "description": "Usada como sinal de riqueza por comerciantes e aristocratas.",
   "glyph": {
     "frames": [
       {
@@ -64,7 +64,7 @@
     18,
     4
   ],
-  "name": "Doublet",
+  "name": "Gibão",
   "value": 2800,
   "weight": 1.0
 }

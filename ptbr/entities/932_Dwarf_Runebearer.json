@@ -46,7 +46,7 @@
       {
         "chance": 1.0,
         "id": "387",
-        "name": "Wolf Necklace",
+        "name": "Colar de Lobo",
         "stack": 1
       }
     ],
@@ -54,7 +54,7 @@
       {
         "chance": 1.0,
         "id": "2091",
-        "name": "Barbarian Belt",
+        "name": "Cinto Bárbaro",
         "stack": 1
       }
     ],
@@ -62,7 +62,7 @@
       {
         "chance": 1.0,
         "id": "115",
-        "name": "Battle Axe",
+        "name": "Machado de Batalha",
         "stack": 1
       }
     ],
@@ -78,7 +78,7 @@
       {
         "chance": 1.0,
         "id": "115",
-        "name": "Battle Axe",
+        "name": "Machado de Batalha",
         "stack": 1
       }
     ]

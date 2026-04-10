@@ -6,14 +6,14 @@
     "health": 0,
     "stamina": 0
   },
-  "description": "Slightly improves health regeneration by ::regeneration periodically for ::duration turns",
+  "description": "Melhora levemente a regeneração de vida em ::regeneration periodicamente por ::duration turnos",
   "duration": 150.0,
   "effects": {
     "regeneration": 1.0
   },
   "id": "core_2_Healing_Herbs",
   "image": 341,
-  "name": "Healing Herbs",
+  "name": "Ervas Medicinais",
   "range": 0,
   "skill": "",
   "target": "self"

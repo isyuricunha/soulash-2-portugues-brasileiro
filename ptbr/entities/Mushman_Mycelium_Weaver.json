@@ -39,7 +39,7 @@
       {
         "chance": 1.0,
         "id": "70",
-        "name": "Knife",
+        "name": "Faca",
         "stack": 1
       }
     ]
@@ -78,9 +78,9 @@
   "moveable": {
     "speed": 1.0
   },
-  "name": "Mushman Mycelium Weaver",
+  "name": "Tecelão de Micélio Mushman",
   "persona": {
-    "occupation": "Mycelium Weaver"
+    "occupation": "Tecelão de Micélio"
   },
   "sight": {
     "ignore_infra_penalty": false,

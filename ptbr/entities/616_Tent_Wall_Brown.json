@@ -47,7 +47,7 @@
     "time": 2,
     "tools": []
   },
-  "description": "Wall of a tent made from a material. It can shield goods from prying eyes and a person from the scorching sun.",
+  "description": "Parede de uma tenda feita de um material. Pode esconder bens de olhos curiosos e uma pessoa do sol escaldante.",
   "glyph": {
     "frames": [
       {
@@ -70,7 +70,7 @@
     144,
     80
   ],
-  "name": "Tent Wall Brown",
+  "name": "Parede de Tenda Marrom",
   "producer": {
     "products": {
       "core_2_deconstruct": [

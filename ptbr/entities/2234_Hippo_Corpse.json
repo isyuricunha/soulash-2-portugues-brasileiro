@@ -10,7 +10,7 @@
     "value",
     "weight"
   ],
-  "description": "A lifeless corpse of a hippopotamus.",
+  "description": "Um cadáver sem vida de um hipopótamo.",
   "glyph": {
     "frames": [
       {
@@ -39,7 +39,7 @@
     69,
     19
   ],
-  "name": "Hippo Corpse",
+  "name": "Cadáver de Hipopótamo",
   "producer": {
     "products": {
       "3": [

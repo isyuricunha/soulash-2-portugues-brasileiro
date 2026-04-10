@@ -48,7 +48,7 @@
       {
         "chance": 1.0,
         "id": "2220",
-        "name": "Scale Helmet",
+        "name": "Capacete de Escamas",
         "stack": 1
       }
     ],
@@ -56,7 +56,7 @@
       {
         "chance": 1.0,
         "id": "2311",
-        "name": "Oval Shield",
+        "name": "Escudo Oval",
         "stack": 1
       }
     ],
@@ -64,7 +64,7 @@
       {
         "chance": 1.0,
         "id": "core_2_Cracking_Spear",
-        "name": "Cracking Spear",
+        "name": "Lança Rachadora",
         "stack": 1
       }
     ],
@@ -72,7 +72,7 @@
       {
         "chance": 1.0,
         "id": "166",
-        "name": "Breastplate",
+        "name": "Peitoral",
         "stack": 1
       }
     ],
@@ -80,7 +80,7 @@
       {
         "chance": 1.0,
         "id": "2171",
-        "name": "Fur Shirt",
+        "name": "Camisa de Pele",
         "stack": 1
       }
     ]

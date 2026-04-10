@@ -22,7 +22,7 @@
     "producer"
   ],
   "corpse": [],
-  "description": "Probably full of pride and accomplishment.",
+  "description": "Provavelmente cheio de orgulho e realização.",
   "glyph": {
     "frames": [
       {
@@ -44,7 +44,7 @@
     48,
     17
   ],
-  "name": "Mystery Box",
+  "name": "Caixa de Mistério",
   "producer": {
     "products": {
       "core_2_deconstruct": [

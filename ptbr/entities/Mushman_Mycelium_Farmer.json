@@ -39,7 +39,7 @@
       {
         "chance": 1.0,
         "id": "72",
-        "name": "Sickle",
+        "name": "Foice",
         "stack": 1
       }
     ]
@@ -78,9 +78,9 @@
   "moveable": {
     "speed": 1.2000000476837158
   },
-  "name": "Mushman Mycelium Farmer",
+  "name": "Fazendeiro de Micélio Mushman",
   "persona": {
-    "occupation": "Mycelium Farmer"
+    "occupation": "Fazendeiro de Micélio"
   },
   "sight": {
     "ignore_infra_penalty": false,

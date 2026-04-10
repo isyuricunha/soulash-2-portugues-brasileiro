@@ -6,7 +6,7 @@
     "health": 0,
     "stamina": 10
   },
-  "description": "Gaze of a basilisk turns you into a stone for a duration of ::duration turns.",
+  "description": "O olhar de um basilisco transforma você em pedra por uma duração de ::duration turnos.",
   "duration": 10.0,
   "effects": {
     "immobilize": 10,
@@ -16,7 +16,7 @@
   },
   "id": "core_2_Stone_Gaze",
   "image": 786,
-  "name": "Stone Gaze",
+  "name": "Olhar Petrificador",
   "range": 10,
   "skill": "",
   "target": "actor"

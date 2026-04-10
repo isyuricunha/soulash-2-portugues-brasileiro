@@ -39,7 +39,7 @@
       "id": "547"
     }
   ],
-  "description": "Painting representing a beautiful plains, grass undisturbed by living creatures.",
+  "description": "Pintura representando belas planícies, grama intocada por criaturas vivas.",
   "glyph": {
     "frames": [
       {
@@ -61,5 +61,5 @@
     63,
     59
   ],
-  "name": "Painting"
+  "name": "Pintura"
 }

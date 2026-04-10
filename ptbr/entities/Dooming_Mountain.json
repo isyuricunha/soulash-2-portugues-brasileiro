@@ -168,7 +168,7 @@
     "tags"
   ],
   "corpse": "core_2_Obsidian_Heart",
-  "description": "Esta montanha despertou e está à procura de sangue.",
+  "description": "Esta montanha acordou e está à procura de sangue.",
   "experience_gainer": {
     "exp": 0,
     "level": 50
@@ -199,7 +199,7 @@
     0,
     42
   ],
-  "name": "Montanha da Perdição",
+  "name": "Montanha Condenada",
   "sight": {
     "ignore_infra_penalty": false,
     "infravision": true,

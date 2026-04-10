@@ -24,7 +24,7 @@
     "producer"
   ],
   "corpse": [],
-  "description": "Once a regular tree, that stood for too long in murky water.",
+  "description": "Era uma árvore comum, que ficou por muito tempo em água turva.",
   "glyph": {
     "frames": [
       {
@@ -105,7 +105,7 @@
   "health": 300,
   "height": 30,
   "id": "3018",
-  "name": "Rotten Tree",
+  "name": "Árvore Podre",
   "producer": {
     "products": {
       "1": [

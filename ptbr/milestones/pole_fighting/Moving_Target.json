@@ -1,6 +1,6 @@
 {
   "id": "core_2_moving_target",
-  "name": "Moving Target",
+  "name": "Alvo Móvel",
   "requirements": {
     "skill": 40
   },

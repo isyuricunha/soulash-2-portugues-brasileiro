@@ -39,7 +39,7 @@
       1
     ]
   },
-  "description": "Shield wielded by templars and inquisitors of the Holy Order.",
+  "description": "Escudo empunhado por templários e inquisidores da Ordem Sagrada.",
   "glyph": {
     "frames": [
       {
@@ -64,7 +64,7 @@
     219,
     212
   ],
-  "name": "Holy Shield",
+  "name": "Escudo Sagrado",
   "value": 12000,
   "weight": 6.0
 }

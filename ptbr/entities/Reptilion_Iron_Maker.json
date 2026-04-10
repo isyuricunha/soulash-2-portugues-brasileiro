@@ -42,7 +42,7 @@
       {
         "chance": 0.0,
         "id": "841",
-        "name": "Shovel",
+        "name": "Pá",
         "stack": 1
       }
     ],
@@ -50,7 +50,7 @@
       {
         "chance": 1.0,
         "id": "184",
-        "name": "Shirt",
+        "name": "Camisa",
         "stack": 1
       }
     ]

@@ -24,7 +24,7 @@
     "producer"
   ],
   "corpse": [],
-  "description": "A small bush with lots of delicate flowers.",
+  "description": "Um pequeno arbusto com muitas flores delicadas.",
   "glyph": {
     "frames": [
       {
@@ -65,7 +65,7 @@
     73,
     73
   ],
-  "name": "Milkweed",
+  "name": "Asclépia",
   "producer": {
     "products": {
       "10": [

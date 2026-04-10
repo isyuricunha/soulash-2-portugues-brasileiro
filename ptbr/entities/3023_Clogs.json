@@ -36,7 +36,7 @@
       14
     ]
   },
-  "description": "Most commonly used to protect farmers' feet.",
+  "description": "Mais comumente usado para proteger os pés dos agricultores.",
   "glyph": {
     "frames": [
       {
@@ -61,7 +61,7 @@
     113,
     77
   ],
-  "name": "Clogs",
+  "name": "Tamancos",
   "value": 200,
   "weight": 0.20000000298023224
 }

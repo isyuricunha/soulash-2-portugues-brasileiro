@@ -36,7 +36,7 @@
       14
     ]
   },
-  "description": "Wooden shield covered with leather for extra durability.",
+  "description": "Escudo de madeira coberto com couro para maior durabilidade.",
   "glyph": {
     "frames": [
       {
@@ -61,7 +61,7 @@
     93,
     57
   ],
-  "name": "Leather Shield",
+  "name": "Escudo de Couro",
   "value": 850,
   "weight": 0.5
 }

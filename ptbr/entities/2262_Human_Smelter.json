@@ -42,7 +42,7 @@
       {
         "chance": 1.0,
         "id": "709",
-        "name": "Apron",
+        "name": "Avental",
         "stack": 1
       }
     ]
@@ -81,9 +81,9 @@
   "moveable": {
     "speed": 1.5
   },
-  "name": "Human Smelter",
+  "name": "Fundidor Humano",
   "persona": {
-    "occupation": "Smelter"
+    "occupation": "Fundidor"
   },
   "sight": {
     "ignore_infra_penalty": false,

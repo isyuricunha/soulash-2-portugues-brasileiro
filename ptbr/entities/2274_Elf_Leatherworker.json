@@ -40,7 +40,7 @@
       {
         "chance": 1.0,
         "id": "164",
-        "name": "Scissors",
+        "name": "Tesoura",
         "stack": 1
       }
     ]
@@ -79,9 +79,9 @@
   "moveable": {
     "speed": 1.100000023841858
   },
-  "name": "Elf Leatherworker",
+  "name": "Coureiro Elfo",
   "persona": {
-    "occupation": "Leatherworker"
+    "occupation": "Courador"
   },
   "sight": {
     "ignore_infra_penalty": false,

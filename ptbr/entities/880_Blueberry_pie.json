@@ -29,7 +29,7 @@
       3
     ]
   },
-  "description": "A sweet pie filled with blueberries.",
+  "description": "Uma torta doce recheada com mirtilos.",
   "food": {
     "nutrition": 60,
     "poisonous": 0,
@@ -59,7 +59,7 @@
     109,
     155
   ],
-  "name": "Blueberry Pie",
+  "name": "Torta de Mirtilo",
   "value": 1000,
   "weight": 0.20000000298023224
 }

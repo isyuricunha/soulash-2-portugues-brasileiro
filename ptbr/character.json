@@ -93,7 +93,7 @@
       "id": "5",
       "image": 31,
       "key": "u",
-      "name": "Minerar",
+      "name": "Mina",
       "required_tool": 9,
       "sound": "data/mods/core_2/assets/sfx/mine.ogg",
       "time_statistic_multiplier": 0.15,
@@ -169,7 +169,7 @@
       "id": "11",
       "image": 38,
       "key": "",
-      "name": "Ordenhar",
+      "name": "Leite",
       "required_tool": -1,
       "sound": "data/mods/core_2/assets/sfx/milk.ogg",
       "time_statistic_multiplier": 0.0,
@@ -325,7 +325,7 @@
       "id": "core_2_catch_animal",
       "image": 29,
       "key": "",
-      "name": "Pegar Animal",
+      "name": "Capturar Animal",
       "required_tool": -1,
       "sound": "data/mods/core_2/assets/sfx/inventory/drop_other_1.ogg",
       "time_statistic_multiplier": 0.1,
@@ -397,7 +397,7 @@
       "equipment": true,
       "id": "core_2_carve",
       "image": 89,
-      "name": "Cortar",
+      "name": "Entalhar",
       "required_tool": 4,
       "require_unlock": true,
       "restrict_default": true,
@@ -428,7 +428,7 @@
       "force_single_item": true,
       "id": "core_2_pray",
       "image": 90,
-      "name": "Orar",
+      "name": "Rezar",
       "required_tool": -1,
       "sound": "data/mods/core_2/assets/sfx/abilities/prayer.ogg",
       "time_statistic_multiplier": 0.1,
@@ -1018,7 +1018,7 @@
         "states": "npc/states/troll.json",
         "surnames": "npc/surnames/troll.json"
       },
-      "orphan_surname": "Sílex",
+      "orphan_surname": "Pederneira",
       "playable": true,
       "recipes": [],
       "passives": [
@@ -1232,13 +1232,13 @@
       "items": [],
       "name": "Rasimi",
       "names": {
-        "female": "npc/nomes/rasimi_femea.txt",
-        "male": "npc/nomes/rasimi_macho.txt",
+        "female": "npc/names/rasimi_female.txt",
+        "male": "npc/names/rasimi_male.txt",
         "settlements": "npc/settlements/rasimi_settlements.json",
         "states": "npc/states/rasimi.json",
-        "surnames": "npc/sobrenomes/rasimi.json"
+        "surnames": "npc/surnames/rasimi.json"
       },
-      "orphan_surname": "Bruto",
+      "orphan_surname": "Brutamontes",
       "passives": [
         "core_2_infravision"
       ],
@@ -1322,8 +1322,8 @@
       "id": "12",
       "name": "Troglodita",
       "names": {
-        "female": "npc/nomes/troglodita.txt",
-        "male": "npc/nomes/troglodita.txt"
+        "female": "npc/names/troglodyte.txt",
+        "male": "npc/names/troglodyte.txt"
       },
       "playable": false,
       "tags": [
@@ -1335,8 +1335,8 @@
       "id": "13",
       "name": "Homem-Peixe",
       "names": {
-        "female": "npc/nomes/homem_peixe.txt",
-        "male": "npc/nomes/homem_peixe.txt"
+        "female": "npc/names/fishman.txt",
+        "male": "npc/names/fishman.txt"
       },
       "playable": false,
       "tags": [
@@ -1350,8 +1350,8 @@
       "items": [],
       "name": "Demônio",
       "names": {
-        "female": "npc/nomes/demonio.txt",
-        "male": "npc/nomes/demonio.txt"
+        "female": "npc/names/demon.txt",
+        "male": "npc/names/demon.txt"
       },
       "playable": false,
       "recipes": [],
@@ -1368,8 +1368,8 @@
       "id": "15",
       "name": "Sátiro",
       "names": {
-        "female": "npc/nomes/satiro_femea.txt",
-        "male": "npc/nomes/satiro_macho.txt"
+        "female": "npc/names/satyr_female.txt",
+        "male": "npc/names/satyr_male.txt"
       },
       "playable": false,
       "tags": [
@@ -1382,8 +1382,8 @@
       "image": 27,
       "name": "Centauro",
       "names": {
-        "female": "npc/nomes/satiro_femea.txt",
-        "male": "npc/nomes/satiro_macho.txt"
+        "female": "npc/names/satyr_female.txt",
+        "male": "npc/names/satyr_male.txt"
       },
       "playable": false,
       "tags": [
@@ -1398,9 +1398,9 @@
       },
       "base_entities": {
         "adult": "core_2_Skeleton_Adult",
-        "child": "core_2_Esqueleto_Adulto",
-        "leader": "core_2_Necrotirano",
-        "recruit": "core_2_Esqueleto_Recruta"
+        "child": "core_2_Skeleton_Adult",
+        "leader": "core_2_Necrotyrant",
+        "recruit": "core_2_Skeleton_Recruit"
       },
       "crimes": {
         "assault": 100,
@@ -1462,11 +1462,11 @@
       "name": "Esqueleto",
       "orphan_surname": "Renegado",
       "names": {
-        "female": "npc/nomes/esqueleto.txt",
-        "male": "npc/nomes/esqueleto.txt",
+        "female": "npc/names/skeleton.txt",
+        "male": "npc/names/skeleton.txt",
         "settlements": "npc/settlements/skeleton_settlements.json",
         "states": "npc/states/skeleton.json",
-        "surnames": "npc/sobrenomes/esqueleto.json"
+        "surnames": "npc/surnames/skeleton.json"
       },
       "passives": [
         "core_2_disable_consumption"
@@ -1482,8 +1482,8 @@
       "id": "18",
       "name": "Ghoul",
       "names": {
-        "female": "npc/nomes/humano_femea.txt",
-        "male": "npc/nomes/humano_macho.txt"
+        "female": "npc/names/human_female.txt",
+        "male": "npc/names/human_male.txt"
       },
       "playable": false,
       "tags": [
@@ -2051,7 +2051,7 @@
         "recruit": "core_2_Ursan_Recruit",
         "rebel": "core_2_Ursan_Rebel"
       },
-      "orphan_surname": "Of Chasm",
+      "orphan_surname": "Do Abismo",
       "description": "Os Ursans são uma raça antiga. Eles valorizam a força física e a lealdade acima de tudo. Eles têm grande orgulho em ser capazes de suportar qualquer coisa que um ambiente hostil possa lançar contra eles. Vivendo em tundras desoladas, foram forçados a ser engenhosos.\n\nOs Ursans vivem por volta de [color=244,247,118,255]::elder_age[/color] anos.\n[color=244,247,118,255]Força +1, Resistência +1, Força de Vontade +2[/color]",
       "forbidden_actions": [
         "6",
@@ -2376,7 +2376,7 @@
     },
     {
       "id": "35",
-      "name": "bone wraith",
+      "name": "Espectro de Osso",
       "options": [
         "ritual_birth"
       ]
@@ -2398,7 +2398,7 @@
     },
     {
       "id": "39",
-      "name": "dark dwarf"
+      "name": "Anão Negro"
     }
   ],
   "custom_eq_slots": [

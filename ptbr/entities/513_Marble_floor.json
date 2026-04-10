@@ -29,7 +29,7 @@
       6
     ]
   },
-  "description": "Floor made of marble plates.",
+  "description": "Chão feito de placas de mármore.",
   "glyph": {
     "frames": [
       {
@@ -50,5 +50,5 @@
     114,
     127
   ],
-  "name": "Marble Floor"
+  "name": "Chão de Mármore"
 }

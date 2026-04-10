@@ -19,7 +19,7 @@
     "name",
     "position_2d"
   ],
-  "description": "Twisted and sharp scraps of metal, almost unusable.",
+  "description": "Restos de metal retorcidos e afiados, quase inutilizáveis.",
   "glyph": {
     "frames": [
       {
@@ -40,5 +40,5 @@
     48,
     17
   ],
-  "name": "Metal Scraps"
+  "name": "Sucata de Metal"
 }

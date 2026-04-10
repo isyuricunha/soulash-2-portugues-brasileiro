@@ -6,14 +6,14 @@
     "health": 0,
     "stamina": 3
   },
-  "description": "You throw a quick jab hitting the enemy throat, making it unable to use any abilities for ::duration turns.",
+  "description": "Você lança um golpe rápido na garganta do inimigo, impedindo-o de usar quaisquer habilidades por ::duration turnos.",
   "duration": 5.0,
   "effects": {
     "silence": 1
   },
   "id": "139",
   "image": 303,
-  "name": "Silence!",
+  "name": "Silêncio!",
   "range": 1,
   "skill": "core_2_thievery",
   "slots": {

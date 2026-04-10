@@ -36,7 +36,7 @@
     "time": 30,
     "tools": []
   },
-  "description": "A display of nice and comfy shoes.",
+  "description": "Uma exibição de sapatos bonitos e confortáveis.",
   "glyph": {
     "frames": [
       {
@@ -68,5 +68,5 @@
     48,
     17
   ],
-  "name": "Shoe Display"
+  "name": "Exibição de Sapatos"
 }

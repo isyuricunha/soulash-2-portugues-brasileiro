@@ -8,7 +8,7 @@
     "minimap_pixel"
   ],
   "corpse": "35",
-  "description": "Stalactite is a rock formation that hangs from the ceiling of the cave.",
+  "description": "Estalactite é uma formação rochosa que pende do teto da caverna.",
   "glyph": {
     "frames": [
       {
@@ -29,5 +29,5 @@
     104,
     102
   ],
-  "name": "Stalactite"
+  "name": "Estalactite"
 }

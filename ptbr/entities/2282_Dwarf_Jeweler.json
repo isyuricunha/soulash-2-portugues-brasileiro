@@ -40,7 +40,7 @@
       {
         "chance": 1.0,
         "id": "863",
-        "name": "Decorated Belt",
+        "name": "Cinto Decorado",
         "stack": 1
       }
     ]
@@ -79,9 +79,9 @@
   "moveable": {
     "speed": 1.5
   },
-  "name": "Dwarf Jeweler",
+  "name": "Anão Joalheiro",
   "persona": {
-    "occupation": "Jeweler"
+    "occupation": "Joalheiro"
   },
   "sight": {
     "ignore_infra_penalty": false,

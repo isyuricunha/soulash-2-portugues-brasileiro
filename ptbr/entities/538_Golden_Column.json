@@ -38,7 +38,7 @@
       6
     ]
   },
-  "description": "Decorative column made with pure gold.",
+  "description": "Coluna decorativa feita de ouro puro.",
   "glyph": {
     "frames": [
       {
@@ -61,5 +61,5 @@
     165,
     32
   ],
-  "name": "Golden Column"
+  "name": "Coluna Dourada"
 }

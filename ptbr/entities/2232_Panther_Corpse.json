@@ -10,7 +10,7 @@
     "value",
     "weight"
   ],
-  "description": "A bloodied carcass of a black panther.",
+  "description": "Uma carcaça ensanguentada de uma pantera negra.",
   "glyph": {
     "frames": [
       {
@@ -39,7 +39,7 @@
     113,
     25
   ],
-  "name": "Panther Corpse",
+  "name": "Cadáver de Pantera",
   "producer": {
     "products": {
       "3": [

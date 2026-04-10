@@ -26,7 +26,7 @@
       "id": "30"
     }
   ],
-  "description": "Frozen ground, cold and very hard to dig through.",
+  "description": "Chão congelado, frio e muito difícil de cavar.",
   "glyph": {
     "frames": [
       {
@@ -48,5 +48,5 @@
     88,
     113
   ],
-  "name": "Frozen Dirt"
+  "name": "Terra Congelada"
 }

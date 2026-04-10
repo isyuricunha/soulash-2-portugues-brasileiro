@@ -3,7 +3,7 @@
   "image": 145,
   "name": "Coleta de Lixo",
   "occupation_image": 34,
-  "occupation": "core_2_Gnoll_Catador",
+  "occupation": "core_2_Gnoll_Trash_Collector",
   "produces": [
     {
       "entities": [

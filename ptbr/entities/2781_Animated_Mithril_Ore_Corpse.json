@@ -9,7 +9,7 @@
     "producer",
     "weight"
   ],
-  "description": "Animated mithril ore but this time it is dead.",
+  "description": "Minério de mithril animado, mas desta vez está morto.",
   "glyph": {
     "frames": [
       {
@@ -38,7 +38,7 @@
     128,
     104
   ],
-  "name": "Animated Mithril Ore Corpse",
+  "name": "Cadáver de Minério de Mithril Animado",
   "producer": {
     "products": {
       "3": [

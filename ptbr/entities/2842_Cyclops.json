@@ -44,7 +44,7 @@
       {
         "chance": 1.0,
         "id": "190",
-        "name": "Belt",
+        "name": "Cinto",
         "stack": 1
       }
     ],
@@ -52,7 +52,7 @@
       {
         "chance": 1.0,
         "id": "303",
-        "name": "Head Candle",
+        "name": "Vela de Cabeça",
         "stack": 1
       }
     ],
@@ -60,7 +60,7 @@
       {
         "chance": 1.0,
         "id": "2175",
-        "name": "Fur Loincloth",
+        "name": "Tanga de Pele",
         "stack": 1
       }
     ],
@@ -68,7 +68,7 @@
       {
         "chance": 1.0,
         "id": "48",
-        "name": "Tree Trunk",
+        "name": "Tronco de Árvore",
         "stack": 1
       }
     ]

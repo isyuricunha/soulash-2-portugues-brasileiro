@@ -29,7 +29,7 @@
     "time": 10,
     "tools": []
   },
-  "description": "A string of smelly herbs is hanging below the roof.",
+  "description": "Um cordão de ervas cheirosas está pendurado abaixo do teto.",
   "glyph": {
     "frames": [
       {
@@ -78,7 +78,7 @@
     39,
     25
   ],
-  "name": "String of Dried Herbs",
+  "name": "Cordão de Ervas Secas",
   "producer": {
     "products": {
       "core_2_deconstruct": [

@@ -25,7 +25,7 @@
       14
     ]
   },
-  "description": "This sturdy net ensnares foes with ruthless efficiency, leaving them helplessly entwined in its unforgiving grasp.",
+  "description": "Esta rede resistente captura inimigos com eficiência implacável, deixando-os impotentemente entrelaçados em seu aperto inescapável.",
   "glyph": {
     "frames": [
       {
@@ -50,7 +50,7 @@
     200,
     200
   ],
-  "name": "Net",
+  "name": "Rede",
   "usable": {
     "ability": "129",
     "recipe": ""

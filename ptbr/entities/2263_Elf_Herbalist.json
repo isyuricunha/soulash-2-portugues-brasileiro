@@ -39,7 +39,7 @@
       {
         "chance": 0.6000000238418579,
         "id": "72",
-        "name": "Sickle",
+        "name": "Foice",
         "stack": 1
       }
     ],
@@ -47,7 +47,7 @@
       {
         "chance": 0.30000001192092896,
         "id": "184",
-        "name": "Shirt",
+        "name": "Camisa",
         "stack": 1
       }
     ]
@@ -86,9 +86,9 @@
   "moveable": {
     "speed": 1.100000023841858
   },
-  "name": "Elf Herbalist",
+  "name": "Herbalista Elfo",
   "persona": {
-    "occupation": "Herbalist"
+    "occupation": "Herbalista"
   },
   "sight": {
     "ignore_infra_penalty": false,

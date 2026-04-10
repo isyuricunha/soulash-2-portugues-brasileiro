@@ -6,7 +6,7 @@
     "health": 1,
     "stamina": 3
   },
-  "description": "Touch a target near you to deal ::damage ::damage_type damage.",
+  "description": "Toque um alvo próximo para causar ::damage de dano ::damage_type.",
   "duration": 0.0,
   "effects": {
     "damage": [
@@ -18,7 +18,7 @@
   },
   "id": "core_2_Necrotic_Touch",
   "image": 130,
-  "name": "Necrotic Touch",
+  "name": "Toque Necrótico",
   "range": 1,
   "skill": "core_2_necromancy",
   "slots": {

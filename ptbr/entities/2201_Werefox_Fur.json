@@ -24,7 +24,7 @@
     "value",
     "weight"
   ],
-  "description": "A bewitching fusion of cunning and grace, this fur captures the essence of an elusive werefox.",
+  "description": "Uma fusão encantadora de astúcia e graça, esta pelagem captura a essência de uma raposa metamorfoseada.",
   "glyph": {
     "frames": [
       {
@@ -49,7 +49,7 @@
     175,
     158
   ],
-  "name": "Werefox Fur",
+  "name": "Pele de Raposa Metamorfoseada",
   "resource": {
     "affix": "Cunning",
     "magic_ingredient": 0,

@@ -34,14 +34,14 @@
     "tags"
   ],
   "corpse": "2242",
-  "description": "A tiny humanoid creature is flapping colorful butterfly-like wings to stay in the air.",
+  "description": "Uma minúscula criatura humanoide está batendo asas coloridas semelhantes a de borboleta para permanecer no ar.",
   "dialogues": [],
   "equipment": {
     "ammo": [
       {
         "chance": 1.0,
         "id": "194",
-        "name": "Arrow",
+        "name": "Flecha",
         "stack": 15
       }
     ],
@@ -49,7 +49,7 @@
       {
         "chance": 1.0,
         "id": "102",
-        "name": "Short Bow",
+        "name": "Arco Curto",
         "stack": 1
       }
     ]
@@ -91,7 +91,7 @@
   "moveable": {
     "speed": 1.0
   },
-  "name": "Pixie",
+  "name": "Fada",
   "sight": {
     "ignore_infra_penalty": false,
     "infravision": true,

@@ -22,7 +22,7 @@
       "id": "1"
     }
   ],
-  "description": "Dead grass in the process of decomposition. It stinks.",
+  "description": "Grama morta em processo de decomposição. Fede.",
   "glyph": {
     "frames": [
       {
@@ -44,5 +44,5 @@
     13,
     60
   ],
-  "name": "Rotten Grass"
+  "name": "Gramínea Podre"
 }

@@ -39,7 +39,7 @@
       {
         "chance": 1.0,
         "id": "72",
-        "name": "Sickle",
+        "name": "Foice",
         "stack": 1
       }
     ]
@@ -78,9 +78,9 @@
   "moveable": {
     "speed": 1.100000023841858
   },
-  "name": "Elf Gardener",
+  "name": "Elfo Jardineiro",
   "persona": {
-    "occupation": "Gardener"
+    "occupation": "Jardineiro"
   },
   "sight": {
     "ignore_infra_penalty": false,

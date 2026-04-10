@@ -30,7 +30,7 @@
     "time": 0,
     "tools": []
   },
-  "description": "Sneaking across a creaking wooden floor? The trick is proper shoes.",
+  "description": "Esgueirando-se por um piso de madeira rangente? O truque são os sapatos adequados.",
   "glyph": {
     "frames": [
       {
@@ -52,5 +52,5 @@
     38,
     7
   ],
-  "name": "Wooden Floor"
+  "name": "Piso de Madeira"
 }

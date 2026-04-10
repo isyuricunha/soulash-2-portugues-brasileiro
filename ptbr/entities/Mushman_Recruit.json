@@ -37,7 +37,7 @@
       {
         "chance": 1.0,
         "id": "194",
-        "name": "Arrow",
+        "name": "Flecha",
         "stack": 12
       }
     ],
@@ -45,7 +45,7 @@
       {
         "chance": 1.0,
         "id": "core_2_Mush_Bow",
-        "name": "Mush Bow",
+        "name": "Arco Cogumelo",
         "stack": 1
       }
     ]
@@ -84,9 +84,9 @@
   "moveable": {
     "speed": 1.0
   },
-  "name": "Mushman Recruit",
+  "name": "Recruta Mushman",
   "persona": {
-    "occupation": "Recruit"
+    "occupation": "Recruta"
   },
   "sight": {
     "ignore_infra_penalty": false,

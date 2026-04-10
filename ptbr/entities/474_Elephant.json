@@ -29,7 +29,7 @@
     "tags"
   ],
   "corpse": "595",
-  "description": "Large animal with a long trunk, flat ears and very valuable bones.",
+  "description": "Grande animal com uma longa tromba, orelhas planas e ossos muito valiosos.",
   "dialogues": [
     "240",
     "241",
@@ -91,7 +91,7 @@
   "moveable": {
     "speed": 1.100000023841858
   },
-  "name": "Elephant",
+  "name": "Elefante",
   "sight": {
     "ignore_infra_penalty": false,
     "infravision": false,

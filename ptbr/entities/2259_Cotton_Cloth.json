@@ -37,7 +37,7 @@
       12
     ]
   },
-  "description": "Lightweight, soft and durable cloth woven from cotton.",
+  "description": "Tecido leve, macio e durável tecido a partir de algodão.",
   "glyph": {
     "frames": [
       {
@@ -62,7 +62,7 @@
     200,
     200
   ],
-  "name": "Cotton Cloth",
+  "name": "Tecido de Algodão",
   "resource": {
     "affix": "Cotton",
     "magic_ingredient": 0,

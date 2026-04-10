@@ -35,7 +35,7 @@
       14
     ]
   },
-  "description": "Leather mask striking fear in criminals, because it's often the last thing they see in the mortal world.",
+  "description": "Máscara de couro que incute medo em criminosos, pois muitas vezes é a última coisa que veem no mundo mortal.",
   "glyph": {
     "frames": [
       {
@@ -60,7 +60,7 @@
     93,
     57
   ],
-  "name": "Executioners Mask",
+  "name": "Máscara do Carrasco",
   "value": 5200,
   "weight": 1.5
 }

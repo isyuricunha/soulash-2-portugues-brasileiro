@@ -37,7 +37,7 @@
       12
     ]
   },
-  "description": "Linen is produced from flax and is used in crafting of various clothing.",
+  "description": "O linho é produzido a partir do linho e é usado na fabricação de várias roupas.",
   "glyph": {
     "frames": [
       {
@@ -62,7 +62,7 @@
     200,
     200
   ],
-  "name": "Linen",
+  "name": "Linho",
   "resource": {
     "affix": "Linen",
     "magic_ingredient": 0,

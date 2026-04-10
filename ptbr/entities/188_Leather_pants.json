@@ -35,7 +35,7 @@
       14
     ]
   },
-  "description": "Don't sweat it.",
+  "description": "Não se preocupe com isso.",
   "glyph": {
     "frames": [
       {
@@ -60,7 +60,7 @@
     93,
     57
   ],
-  "name": "Leather Pants",
+  "name": "Calças de Couro",
   "value": 800,
   "weight": 1.0
 }

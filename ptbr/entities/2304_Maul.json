@@ -30,7 +30,7 @@
       1
     ]
   },
-  "description": "This devastating weapon is designed for heavy, crushing blows. It consists of a large metal head mounted on a long wooden handle.",
+  "description": "Esta arma devastadora é projetada para golpes pesados e esmagadores. Consiste em uma grande cabeça de metal montada em um cabo de madeira longo.",
   "glyph": {
     "frames": [
       {
@@ -55,7 +55,7 @@
     210,
     238
   ],
-  "name": "Maul",
+  "name": "Malho",
   "tool": [
     {
       "id": 6,

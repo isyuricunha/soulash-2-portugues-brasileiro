@@ -6,7 +6,7 @@
     "health": 0,
     "stamina": 2
   },
-  "description": "Slice the enemy for ::damage ::damage_type and cause bleed for ::bleed turns.",
+  "description": "Corta o inimigo para ::damage de dano ::damage_type e causa sangramento por ::bleed turnos.",
   "duration": 0.0,
   "effects": {
     "bleed": 2,
@@ -20,7 +20,7 @@
   "id": "106",
   "image": 82,
   "level": 2,
-  "name": "Slice",
+  "name": "Corte",
   "range": 1,
   "requirements": {
     "one_of": [

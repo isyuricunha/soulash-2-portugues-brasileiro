@@ -39,7 +39,7 @@
       "id": "547"
     }
   ],
-  "description": "Beautiful painting representing the valley bathed in the rays of sunshine.",
+  "description": "Bela pintura representando o vale banhado pelos raios de sol.",
   "glyph": {
     "frames": [
       {
@@ -61,5 +61,5 @@
     63,
     59
   ],
-  "name": "Painting"
+  "name": "Pintura"
 }

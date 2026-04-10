@@ -8,7 +8,7 @@
     "producer"
   ],
   "corpse": [],
-  "description": "The waterlily flower floats gracefully atop water surface.",
+  "description": "A flor de vitória-régia flutua graciosamente sobre a superfície da água.",
   "glyph": {
     "frames": [
       {
@@ -48,7 +48,7 @@
     60,
     87
   ],
-  "name": "Waterlily",
+  "name": "Vitória-Régia",
   "producer": {
     "products": {
       "10": [

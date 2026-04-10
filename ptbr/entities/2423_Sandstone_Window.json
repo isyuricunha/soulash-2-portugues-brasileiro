@@ -49,7 +49,7 @@
       6
     ]
   },
-  "description": "Nestled within a sturdy sandstone wall, this open window offers a glimpse into the boundless desert, inviting in the sun's warmth and the gentle whisper of the wind through the sands.",
+  "description": "Aninhada em uma parede de arenito resistente, esta janela aberta oferece um vislumbre do deserto sem limites, convidando o calor do sol e o suave sussurro do vento através das areias.",
   "glyph": {
     "frames": [
       {
@@ -72,7 +72,7 @@
     188,
     109
   ],
-  "name": "Sandstone Window",
+  "name": "Janela de Arenito",
   "producer": {
     "products": {
       "core_2_deconstruct": [

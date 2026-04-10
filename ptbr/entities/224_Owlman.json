@@ -30,7 +30,7 @@
     "tags"
   ],
   "corpse": "20",
-  "description": "A humanoid with owl head, covered in feathers. He attacks with razor sharp talons and hard beak.",
+  "description": "Um humanoide com cabeça de coruja, coberto de penas. Ele ataca com garras afiadas como navalhas e um bico duro.",
   "dialogues": [
     "15"
   ],
@@ -39,13 +39,13 @@
       {
         "chance": 0.5,
         "id": "310",
-        "name": "Bone Knife",
+        "name": "Faca de Osso",
         "stack": 1
       },
       {
         "chance": 0.5,
         "id": "311",
-        "name": "Bone Spear",
+        "name": "Lança de Osso",
         "stack": 1
       }
     ],
@@ -53,7 +53,7 @@
       {
         "chance": 1.0,
         "id": "23",
-        "name": "Rags",
+        "name": "Farrapos",
         "stack": 1
       }
     ]
@@ -95,7 +95,7 @@
   "moveable": {
     "speed": 1.0
   },
-  "name": "Owlman",
+  "name": "Homem-Coruja",
   "sight": {
     "ignore_infra_penalty": false,
     "infravision": true,

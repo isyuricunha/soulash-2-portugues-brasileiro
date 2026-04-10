@@ -42,7 +42,7 @@
       "id": "909"
     }
   ],
-  "description": "A river of blood that forces you to wonder how this unending stream of crimson liquid is being made.",
+  "description": "Um rio de sangue que te força a se perguntar como este fluxo interminável de líquido carmesim é feito.",
   "glyph": {
     "frames": [
       {
@@ -95,7 +95,7 @@
     7,
     7
   ],
-  "name": "River of Blood",
+  "name": "Rio de Sangue",
   "on_enter": {
     "ability": [
       "88",

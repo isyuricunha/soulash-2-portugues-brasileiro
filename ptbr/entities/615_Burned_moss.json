@@ -19,7 +19,7 @@
       "id": "431"
     }
   ],
-  "description": "Looks comfortable, although quite burned.",
+  "description": "Parece confortável, embora bastante queimado.",
   "glyph": {
     "frames": [
       {
@@ -41,5 +41,5 @@
     50,
     54
   ],
-  "name": "Burned Moss"
+  "name": "Musgo Queimado"
 }

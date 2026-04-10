@@ -10,7 +10,7 @@
     "value",
     "weight"
   ],
-  "description": "An oceanic fish, tastes great when smoked.",
+  "description": "Um peixe oceânico, fica ótimo quando defumado.",
   "glyph": {
     "frames": [
       {
@@ -35,7 +35,7 @@
     82,
     104
   ],
-  "name": "Mackerel",
+  "name": "Cavala",
   "producer": {
     "products": {
       "3": [

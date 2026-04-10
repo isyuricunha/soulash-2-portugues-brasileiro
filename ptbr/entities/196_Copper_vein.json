@@ -33,7 +33,7 @@
     "producer"
   ],
   "corpse": [],
-  "description": "A vein of copper ore.",
+  "description": "Um veio de minério de cobre.",
   "glyph": {
     "frames": [
       {
@@ -56,7 +56,7 @@
     53,
     25
   ],
-  "name": "Copper Vein",
+  "name": "Veio de Cobre",
   "producer": {
     "products": {
       "5": [

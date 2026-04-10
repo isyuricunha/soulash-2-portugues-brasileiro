@@ -42,13 +42,13 @@
     "tags"
   ],
   "corpse": "55",
-  "description": "This skeleton wields a drawn bow which he aims at you.",
+  "description": "Este esqueleto empunha um arco armado que ele mira em você.",
   "equipment": {
     "ammo": [
       {
         "chance": 1.0,
         "id": "194",
-        "name": "Arrow",
+        "name": "Flecha",
         "stack": 15
       }
     ],
@@ -56,7 +56,7 @@
       {
         "chance": 1.0,
         "id": "102",
-        "name": "Short Bow",
+        "name": "Arco Curto",
         "stack": 1
       }
     ]
@@ -97,7 +97,7 @@
   "moveable": {
     "speed": 1.2999999523162842
   },
-  "name": "Skeleton Archer",
+  "name": "Arqueiro Esqueleto",
   "sight": {
     "ignore_infra_penalty": false,
     "infravision": true,

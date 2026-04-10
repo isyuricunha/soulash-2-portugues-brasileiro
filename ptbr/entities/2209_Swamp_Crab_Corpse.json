@@ -9,7 +9,7 @@
     "producer",
     "weight"
   ],
-  "description": "The dead remains of a swamp crab.",
+  "description": "Os restos mortos de um caranguejo do pântano.",
   "glyph": {
     "frames": [
       {
@@ -38,7 +38,7 @@
     227,
     120
   ],
-  "name": "Swamp Crab Corpse",
+  "name": "Cadáver de Caranguejo do Pântano",
   "producer": {
     "products": {
       "3": [

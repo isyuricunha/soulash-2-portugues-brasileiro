@@ -29,7 +29,7 @@
       13
     ]
   },
-  "description": "A freshly skinned piece of leather drying here before it can be processed further.",
+  "description": "Um pedaço de couro recém-esfolado secando aqui antes de ser processado.",
   "glyph": {
     "frames": [
       {
@@ -50,7 +50,7 @@
     200,
     200
   ],
-  "name": "Leather on Drying Rack",
+  "name": "Couro no Esticador de Secagem",
   "producer": {
     "products": {
       "core_2_deconstruct": [

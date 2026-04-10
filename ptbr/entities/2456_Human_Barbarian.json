@@ -44,7 +44,7 @@
       {
         "chance": 0.20000000298023224,
         "id": "2174",
-        "name": "Fur Pouch",
+        "name": "Bolsa de Pele",
         "stack": 1
       }
     ],
@@ -52,7 +52,7 @@
       {
         "chance": 0.20000000298023224,
         "id": "585",
-        "name": "Leather Boots",
+        "name": "Botas de Couro",
         "stack": 1
       }
     ],
@@ -60,7 +60,7 @@
       {
         "chance": 1.0,
         "id": "2175",
-        "name": "Fur Loincloth",
+        "name": "Tanga de Pele",
         "stack": 1
       }
     ],
@@ -68,7 +68,7 @@
       {
         "chance": 1.0,
         "id": "2188",
-        "name": "Chopper",
+        "name": "Cortador",
         "stack": 1
       }
     ]
@@ -110,7 +110,7 @@
   "moveable": {
     "speed": 1.0
   },
-  "name": "Human Barbarian",
+  "name": "Bárbaro Humano",
   "sight": {
     "ignore_infra_penalty": false,
     "infravision": false,

@@ -9,7 +9,7 @@
     "producer",
     "weight"
   ],
-  "description": "A lifeless body of an ostrich.",
+  "description": "Um corpo sem vida de um avestruz.",
   "glyph": {
     "frames": [
       {
@@ -38,7 +38,7 @@
     80,
     15
   ],
-  "name": "Ostrich Corpse",
+  "name": "Cadáver de Avestruz",
   "producer": {
     "products": {
       "3": [

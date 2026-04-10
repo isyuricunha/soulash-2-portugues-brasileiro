@@ -50,7 +50,7 @@
     "time": 40,
     "tools": []
   },
-  "description": "Fashioned by the enigmatic Bone Wraiths, this striking door is a mosaic of sun-bleached shells, reflecting the tribe's nomadic spirit and their deep connection to the arid sands.",
+  "description": "Confeccionada pelos enigmáticos Espectros de Osso, esta porta impressionante é um mosaico de conchas desbotadas pelo sol, refletindo o espírito nômade da tribo e sua profunda conexão com as areias áridas.",
   "glyph": {
     "frames": [
       {
@@ -73,11 +73,11 @@
     43,
     10
   ],
-  "name": "Shell Door",
+  "name": "Porta de Conchas",
   "openable": {
     "block_light": false,
     "collidable": false,
-    "description": "Shell door, currently opened.",
+    "description": "Porta de conchas, atualmente aberta.",
     "glyph": {
       "frames": [
         {

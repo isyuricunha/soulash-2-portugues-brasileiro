@@ -39,7 +39,7 @@
       1
     ]
   },
-  "description": "Shield covered in protection runes.",
+  "description": "Escudo coberto com runas de proteção.",
   "glyph": {
     "frames": [
       {
@@ -64,7 +64,7 @@
     194,
     165
   ],
-  "name": "Ornament Shield",
+  "name": "Escudo Ornamentado",
   "value": 3000,
   "weight": 3.5
 }

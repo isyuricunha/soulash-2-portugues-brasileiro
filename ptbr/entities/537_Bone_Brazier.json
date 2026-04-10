@@ -44,7 +44,7 @@
     "time": 60,
     "tools": []
   },
-  "description": "This eerie brazier is made entirely of bones.",
+  "description": "Este braseiro sinistro é feito inteiramente de ossos.",
   "glyph": {
     "frames": [
       {
@@ -116,7 +116,7 @@
     74,
     68
   ],
-  "name": "Bone Brazier",
+  "name": "Braseiro de Osso",
   "producer": {
     "products": {
       "core_2_deconstruct": [

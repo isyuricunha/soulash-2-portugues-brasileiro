@@ -33,7 +33,7 @@
     "producer"
   ],
   "corpse": [],
-  "description": "This is part of the magical elder tree inside of the elven keep of Anheluna.",
+  "description": "Esta é parte da árvore ancestral mágica dentro da fortaleza élfica de Anheluna.",
   "glyph": {
     "frames": [
       {
@@ -74,7 +74,7 @@
     58,
     75
   ],
-  "name": "Elven Room Wall",
+  "name": "Parede de Sala Élfica",
   "producer": {
     "products": {
       "1": [

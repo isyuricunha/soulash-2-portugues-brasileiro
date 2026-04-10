@@ -82,7 +82,7 @@
       "buildings": [],
       "cost": 10000,
       "culture": "player",
-      "full_name": "{} Aldeia",
+      "full_name": "Aldeia {}",
       "image": 306,
       "level": 2,
       "min_population": 0,
@@ -102,7 +102,7 @@
       "buildings": [],
       "cost": 1000000,
       "culture": "player",
-      "full_name": "{} Metrópole",
+      "full_name": "Metrópole {}",
       "image": 310,
       "level": 4,
       "min_population": 200,
@@ -125,7 +125,7 @@
       "buildings": [],
       "cost": 10000,
       "culture": "0",
-      "full_name": "{} Aldeia",
+      "full_name": "Aldeia {}",
       "image": 140,
       "level": 1,
       "min_population": 0,
@@ -145,7 +145,7 @@
       "buildings": [],
       "cost": 1000000,
       "culture": "0",
-      "full_name": "{} Metrópole",
+      "full_name": "Metrópole {}",
       "image": 142,
       "level": 3,
       "min_population": 200,
@@ -250,7 +250,7 @@
       "buildings": [],
       "cost": 1000000,
       "culture": "1",
-      "full_name": "{} Cidadela",
+      "full_name": "Cidadela {}",
       "image": 182,
       "level": 3,
       "min_population": 150,
@@ -284,7 +284,7 @@
       "buildings": [],
       "cost": 100000,
       "culture": "7",
-      "full_name": "Acampamento {}",
+      "full_name": "{} Acampamento",
       "image": 291,
       "level": 2,
       "min_population": 50,
@@ -327,7 +327,7 @@
       "buildings": [],
       "cost": 100000,
       "culture": "10",
-      "full_name": "Cidade {}",
+      "full_name": "{} Cidade",
       "image": 188,
       "level": 2,
       "min_population": 50,
@@ -419,7 +419,7 @@
       "buildings": [],
       "cost": 10000,
       "culture": "23",
-      "full_name": "Acampamento {}",
+      "full_name": "{} Acampamento",
       "image": 257,
       "level": 1,
       "min_population": 0,
@@ -430,7 +430,7 @@
       "buildings": [],
       "cost": 100000,
       "culture": "23",
-      "full_name": "Cidade {}",
+      "full_name": "{} Cidade",
       "image": 258,
       "level": 2,
       "min_population": 80,
@@ -446,7 +446,7 @@
       "buildings": [],
       "cost": 1000000,
       "culture": "23",
-      "full_name": "Fortaleza {}",
+      "full_name": "{} Forte",
       "image": 259,
       "level": 3,
       "min_population": 150,
@@ -482,7 +482,7 @@
       ],
       "cost": 10000,
       "culture": "26",
-      "full_name": "Acampamento {}",
+      "full_name": "{} Acampamento",
       "image": 190,
       "level": 1,
       "min_population": 0,
@@ -498,7 +498,7 @@
       "buildings": [],
       "cost": 100000,
       "culture": "26",
-      "full_name": "Cidade {}",
+      "full_name": "{} Cidade",
       "image": 191,
       "level": 2,
       "min_population": 50,
@@ -514,7 +514,7 @@
       "buildings": [],
       "cost": 1000000,
       "culture": "26",
-      "full_name": "Fortaleza {}",
+      "full_name": "{} Forte",
       "image": 192,
       "level": 3,
       "min_population": 100,
@@ -1860,7 +1860,7 @@
       "difficulty": 2,
       "id": "core_2_snow_cave_1",
       "image": 158,
-      "name": "Cavernas de Neve",
+      "name": "Caverna de Neve",
       "scenarios": [
         {
           "building_maps": [],
@@ -2698,7 +2698,7 @@
       "difficulty": 1,
       "id": "core_2_smuggler_cave_mountain_0",
       "image": 156,
-      "name": "Cavernas da Montanha",
+      "name": "Caverna da Montanha",
       "scenarios": [
         {
           "building_maps": [],
@@ -2767,7 +2767,7 @@
       "difficulty": 1,
       "id": "core_2_mountain_cave_0",
       "image": 144,
-      "name": "Cavernas da Montanha",
+      "name": "Caverna da Montanha",
       "scenarios": [
         {
           "building_maps": [],
@@ -4210,7 +4210,7 @@
       "difficulty": 0,
       "id": "core_2_boreal_hunting_0",
       "image": 173,
-      "name": "Terras de Caça",
+      "name": "Terreno de Caça",
       "scenarios": [
         {
           "building_maps": [],
@@ -5012,7 +5012,7 @@
       "difficulty": 1,
       "id": "core_2_savanna_hunting_1",
       "image": 173,
-      "name": "Terras de Caça",
+      "name": "Terreno de Caça",
       "scenarios": [
         {
           "building_maps": [],
@@ -6967,7 +6967,7 @@
       "id": "core_2_grasslands_tin",
       "image": -1,
       "matches_resource": "2111",
-      "name": "Buraco nas Terras de Erva",
+      "name": "Buraco das Terras Gramadas",
       "scenarios": [
         {
           "building_maps": [],
@@ -7011,7 +7011,7 @@
       "id": "core_2_grasslands_silver",
       "image": -1,
       "matches_resource": "158",
-      "name": "Buraco nas Terras de Erva",
+      "name": "Buraco das Terras Gramadas",
       "scenarios": [
         {
           "building_maps": [],
@@ -7056,7 +7056,7 @@
       "id": "core_2_grasslands_copper",
       "image": -1,
       "matches_resource": "144",
-      "name": "Buraco nas Terras de Erva",
+      "name": "Buraco das Terras Gramadas",
       "scenarios": [
         {
           "building_maps": [],
@@ -7864,7 +7864,7 @@
       "id": "core_2_swamp_crocodiles",
       "image": -1,
       "matches_resource": "2134",
-      "name": "Terrenos de Caça",
+      "name": "Terreno de Caça",
       "scenarios": [
         {
           "building_maps": [],
@@ -7975,7 +7975,7 @@
       "id": "core_2_swamp_crabs",
       "image": -1,
       "matches_resource": "2151",
-      "name": "Terrenos de Caça",
+      "name": "Terreno de Caça",
       "scenarios": [
         {
           "building_maps": [],
@@ -8228,7 +8228,7 @@
       "id": "core_2_mountain_copper",
       "image": -1,
       "matches_resource": "144",
-      "name": "Cavernas da Montanha",
+      "name": "Caverna da Montanha",
       "scenarios": [
         {
           "building_maps": [],
@@ -8337,7 +8337,7 @@
       "id": "core_2_mountain_tin",
       "image": -1,
       "matches_resource": "2111",
-      "name": "Cavernas da Montanha",
+      "name": "Caverna da Montanha",
       "scenarios": [
         {
           "building_maps": [],
@@ -8444,7 +8444,7 @@
       "id": "core_2_mountain_adamantine",
       "image": -1,
       "matches_resource": "2113",
-      "name": "Cavernas da Montanha",
+      "name": "Caverna da Montanha",
       "scenarios": [
         {
           "building_maps": [],
@@ -8508,7 +8508,7 @@
       "id": "core_2_mountain_coal",
       "image": -1,
       "matches_resource": "148",
-      "name": "Cavernas da Montanha",
+      "name": "Caverna da Montanha",
       "scenarios": [
         {
           "building_maps": [],
@@ -8617,7 +8617,7 @@
       "id": "core_2_mountain_iron",
       "image": -1,
       "matches_resource": "146",
-      "name": "Cavernas da Montanha",
+      "name": "Caverna da Montanha",
       "scenarios": [
         {
           "building_maps": [],
@@ -8725,7 +8725,7 @@
       "id": "core_2_mountain_silver",
       "image": -1,
       "matches_resource": "158",
-      "name": "Cavernas da Montanha",
+      "name": "Caverna da Montanha",
       "scenarios": [
         {
           "building_maps": [],
@@ -8833,7 +8833,7 @@
       "id": "core_2_mountain_gold",
       "image": -1,
       "matches_resource": "160",
-      "name": "Cavernas da Montanha",
+      "name": "Caverna da Montanha",
       "scenarios": [
         {
           "building_maps": [],
@@ -8940,7 +8940,7 @@
       "id": "core_2_mountain_mithril",
       "image": -1,
       "matches_resource": "2112",
-      "name": "Cavernas da Montanha",
+      "name": "Caverna da Montanha",
       "scenarios": [
         {
           "building_maps": [],
@@ -9037,7 +9037,7 @@
       "id": "core_2_mountain_diamonds",
       "image": -1,
       "matches_resource": "852",
-      "name": "Cavernas da Montanha",
+      "name": "Caverna da Montanha",
       "scenarios": [
         {
           "building_maps": [],
@@ -9102,7 +9102,7 @@
       "id": "core_2_mountain_emerald",
       "image": -1,
       "matches_resource": "847",
-      "name": "Buraco na Montanha",
+      "name": "Buraco da Montanha",
       "scenarios": [
         {
           "building_maps": [],
@@ -9192,7 +9192,7 @@
       "id": "core_2_mountain_aquamarine",
       "image": -1,
       "matches_resource": "851",
-      "name": "Buraco na Montanha",
+      "name": "Buraco da Montanha",
       "scenarios": [
         {
           "building_maps": [],
@@ -9370,7 +9370,7 @@
       "id": "core_2_mountain_amethyst",
       "image": -1,
       "matches_resource": "850",
-      "name": "Buraco na Montanha",
+      "name": "Buraco da Montanha",
       "scenarios": [
         {
           "building_maps": [],
@@ -9459,7 +9459,7 @@
       "id": "core_2_mountain_ruby",
       "image": -1,
       "matches_resource": "845",
-      "name": "Buraco na Montanha",
+      "name": "Buraco da Montanha",
       "scenarios": [
         {
           "building_maps": [],
@@ -10544,7 +10544,7 @@
       "id": "core_2_coconut",
       "image": -1,
       "matches_resource": "2365",
-      "name": "Palmeiras de Coco",
+      "name": "Coqueiros",
       "scenarios": [
         {
           "building_maps": [],
@@ -15530,7 +15530,7 @@
       "difficulty": 3,
       "id": "core_2_hassasin_camp_1",
       "image": 148,
-      "name": "Acampamento dos Hassassins",
+      "name": "Acampamento Hassasin",
       "scenarios": [
         {
           "building_maps": [
@@ -15885,7 +15885,7 @@
       "difficulty": 3,
       "id": "core_2_big_game_camp_1",
       "image": 192,
-      "name": "Acampamento do Caçador de Grandes Presas",
+      "name": "Acampamento de Caça de Grande Porte",
       "scenarios": [
         {
           "building_maps": [
@@ -16009,7 +16009,7 @@
       "difficulty": 3,
       "id": "core_2_ice_witch_hut_1",
       "image": 203,
-      "name": "Cabana da Bruxa do Gelo",
+      "name": "Cabana da Bruxa de Gelo",
       "scenarios": [
         {
           "building_maps": [
@@ -16348,7 +16348,7 @@
       "difficulty": 3,
       "id": "core_2_bog_fiend_1",
       "image": 250,
-      "name": "Covil do Demônio do Pântano",
+      "name": "Covil da Aberração do Pântano",
       "scenarios": [
         {
           "building_maps": [
@@ -16514,7 +16514,7 @@
       "difficulty": 3,
       "id": "core_2_centaur_camp_1",
       "image": 191,
-      "name": "Acampamento do Centauro",
+      "name": "Acampamento Centauro",
       "scenarios": [
         {
           "building_maps": [
@@ -22131,7 +22131,7 @@
       "difficulty": 4,
       "id": "core_2_wyvern_1",
       "image": 249,
-      "name": "Covil da Víbora",
+      "name": "Covil da Wiverno",
       "scenarios": [
         {
           "building_maps": [
@@ -23903,7 +23903,7 @@
       "id": "core_2_swamp_grass_0",
       "image": -1,
       "matches_resource": "core_2_Swamp_Grass",
-      "name": "Gramínea do Pântano",
+      "name": "Grama do Pântano",
       "scenarios": [
         {
           "building_maps": [],
@@ -24263,7 +24263,7 @@
       "id": "core_2_mossman_1",
       "image": -1,
       "matches_resource": "core_2_Live_Moss",
-      "name": "Homem-Musgo",
+      "name": "Homem de Musgo",
       "scenarios": [
         {
           "building_maps": [],
@@ -24407,7 +24407,7 @@
       "id": "core_2_mush_wood_1",
       "image": -1,
       "matches_resource": "core_2_Mush_Log",
-      "name": "Árvore-Cogumelo",
+      "name": "Árvore de Cogumelos",
       "scenarios": [
         {
           "building_maps": [],
@@ -24443,7 +24443,7 @@
       "id": "core_2_paralyzing_mushroom_1",
       "image": -1,
       "matches_resource": "core_2_Paralyzing_Mushroom",
-      "name": "Cogumelo Paralizante",
+      "name": "Cogumelo Paralisante",
       "scenarios": [
         {
           "building_maps": [],
@@ -24515,7 +24515,7 @@
       "id": "core_2_ground_jelly_1",
       "image": -1,
       "matches_resource": "core_2_Ground_Jelly",
-      "name": "Gelatina Terrestre",
+      "name": "Geléia Terrestre",
       "scenarios": [
         {
           "building_maps": [],
@@ -25224,7 +25224,7 @@
       "id": "core_2_bearberry_1",
       "image": -1,
       "matches_resource": "core_2_Bearberry",
-      "name": "Uva-de-urso",
+      "name": "Amora-de-urso",
       "scenarios": [
         {
           "building_maps": [],
@@ -25420,7 +25420,7 @@
       "id": "core_2_poppy_seed_1",
       "image": -1,
       "matches_resource": "core_2_Poppy_Seed",
-      "name": "Papoula",
+      "name": "Papoulas",
       "scenarios": [
         {
           "internal_name": "Poppies 1",
@@ -25845,7 +25845,7 @@
       "id": "core_2_speargress_1",
       "image": -1,
       "matches_resource": "core_2_Speargrass_Root",
-      "name": "Grama-de-lança",
+      "name": "Grama-de-Lança",
       "scenarios": [
         {
           "internal_name": "Speargrass 1",
@@ -25883,7 +25883,7 @@
       "id": "core_2_coyote_1",
       "image": -1,
       "matches_resource": "core_2_Coyote_Fur",
-      "name": "Coote",
+      "name": "Coióte",
       "scenarios": [
         {
           "internal_name": "Coyote 1",
@@ -25979,7 +25979,7 @@
       "id": "core_2_lemming_1",
       "image": -1,
       "matches_resource": "core_2_Lemming_Teeth",
-      "name": "Lemming",
+      "name": "Lemingue",
       "scenarios": [
         {
           "internal_name": "Lemming 1",
@@ -26093,7 +26093,7 @@
       "id": "core_2_bobcat_1",
       "image": -1,
       "matches_resource": "core_2_Bobcat_Fur",
-      "name": "Lince-vermelho",
+      "name": "Lince",
       "scenarios": [
         {
           "internal_name": "Bobcat 1",
@@ -26131,7 +26131,7 @@
       "id": "core_2_milkweed_1",
       "image": -1,
       "matches_resource": "core_2_Milkweed_Flower",
-      "name": "Algodão-de-asclepias",
+      "name": "Asclépia",
       "scenarios": [
         {
           "internal_name": "Milkweed 1",
@@ -26359,7 +26359,7 @@
       "id": "core_2_fennec_1",
       "image": -1,
       "matches_resource": "core_2_Fennec_Fur",
-      "name": "Raposa-fênix",
+      "name": "Raposa-Feneco",
       "scenarios": [
         {
           "internal_name": "Fennec Fox 1",
@@ -27256,7 +27256,7 @@
       "id": "core_2_elephant_grass_1",
       "image": -1,
       "matches_resource": "core_2_Elephant_Grass",
-      "name": "Grama de Elefante",
+      "name": "Capim Elefante",
       "scenarios": [
         {
           "internal_name": "Elephant Grass 1",
@@ -27452,7 +27452,7 @@
       "id": "core_2_wolverine",
       "image": -1,
       "matches_resource": "core_2_Wolverine_Claw",
-      "name": "Caribu",
+      "name": "Carívoro",
       "scenarios": [
         {
           "internal_name": "Wolverine 1",
@@ -27697,7 +27697,7 @@
       "id": "core_2_savory",
       "image": -1,
       "matches_resource": "core_2_Savory_Branch",
-      "name": "Salsão",
+      "name": "Segurel",
       "scenarios": [
         {
           "internal_name": "Savory 1",
@@ -28725,7 +28725,7 @@
       "id": "core_2_silkworm",
       "image": -1,
       "matches_resource": "core_2_Silk_Thread",
-      "name": "Bicho-da-seda",
+      "name": "Bicho-da-Seda",
       "scenarios": [
         {
           "internal_name": "Silkworm 1",
@@ -29808,7 +29808,7 @@
       "difficulty": -1,
       "id": "core_2_branches",
       "image": -1,
-      "name": "Ramos",
+      "name": "Galhos",
       "scenarios": [
         {
           "internal_name": "Branches",
@@ -30029,7 +30029,7 @@
       "difficulty": 3,
       "id": "core_2_acorn_town_1",
       "image": 315,
-      "name": "Vila do Carvalho",
+      "name": "Cidade Bolota",
       "scenarios": [
         {
           "building_maps": [
@@ -31359,7 +31359,7 @@
       "difficulty": 1,
       "id": "core_2_training_camp_1",
       "image": 326,
-      "name": "Acampamento de Treinamento",
+      "name": "Campo de Treinamento",
       "scenarios": [
         {
           "building_maps": [
@@ -31986,7 +31986,7 @@
       "difficulty": -1,
       "id": "core_2_frog",
       "image": -1,
-      "name": "Rã",
+      "name": "Sapo",
       "scenarios": [
         {
           "internal_name": "Frog 1",
@@ -33798,7 +33798,7 @@
       "id": "core_2_ribwort_1",
       "image": -1,
       "matches_resource": "core_2_Ribwort",
-      "name": "Ribwort",
+      "name": "Plantago",
       "scenarios": [
         {
           "building_maps": [],
@@ -34337,7 +34337,7 @@
       "difficulty": -1,
       "id": "core_2_ribwort_3",
       "image": -1,
-      "name": "Ribwort",
+      "name": "Plantago",
       "scenarios": [
         {
           "building_maps": [],
@@ -35443,7 +35443,7 @@
       "difficulty": -1,
       "id": "core_2_spruce_2",
       "image": -1,
-      "name": "Pícea",
+      "name": "Picea",
       "scenarios": [
         {
           "internal_name": "Spruce 1",
@@ -35577,7 +35577,7 @@
       "difficulty": -1,
       "id": "core_2_fennec_2",
       "image": -1,
-      "name": "Raposa-Fênix",
+      "name": "Raposa-Feneco",
       "scenarios": [
         {
           "internal_name": "Fennec Fox 2",
@@ -35773,7 +35773,7 @@
       "difficulty": -1,
       "id": "core_2_bobcat_2",
       "image": -1,
-      "name": "Lince-Vermelho",
+      "name": "Lince",
       "scenarios": [
         {
           "internal_name": "Bobcat 2",
@@ -35832,7 +35832,7 @@
       "difficulty": -1,
       "id": "core_2_forest_wolves_2",
       "image": -1,
-      "name": "Lince-Vermelho",
+      "name": "Lince",
       "scenarios": [
         {
           "internal_name": "Wolves 2",
@@ -36048,7 +36048,7 @@
       "difficulty": -1,
       "id": "core_2_mossman_2",
       "image": -1,
-      "name": "Homem-Musgo",
+      "name": "Homem de Musgo",
       "scenarios": [
         {
           "internal_name": "Mossman 2",
@@ -36829,7 +36829,7 @@
       "difficulty": -1,
       "id": "core_2_wolverine_2",
       "image": -1,
-      "name": "Caribu",
+      "name": "Carívoro",
       "scenarios": [
         {
           "internal_name": "Wolverine 2",
@@ -38869,7 +38869,7 @@
       "difficulty": -1,
       "id": "core_2_bearberry_2",
       "image": -1,
-      "name": "Uva-de-urso",
+      "name": "Amora-de-urso",
       "scenarios": [
         {
           "internal_name": "Bearberry 2",
@@ -39134,7 +39134,7 @@
       "difficulty": -1,
       "id": "core_2_lemming_2",
       "image": -1,
-      "name": "Lemming",
+      "name": "Lemingue",
       "scenarios": [
         {
           "internal_name": "Lemming 2",
@@ -40460,7 +40460,7 @@
       "difficulty": 2,
       "id": "core_2_dire_pasture",
       "image": 138,
-      "name": "Pastagem Sinistra",
+      "name": "Pastagem Lúgubre",
       "scenarios": [
         {
           "building_maps": [
@@ -41629,7 +41629,7 @@
       "difficulty": 5,
       "id": "core_2_holy_war",
       "image": 125,
-      "name": "Guerra Sagrada",
+      "name": "Guerra Santa",
       "scenarios": [
         {
           "building_maps": [
@@ -41979,7 +41979,7 @@
       "difficulty": 5,
       "id": "core_2_dooming_mountain",
       "image": 217,
-      "name": "Montanha do Juízo Final",
+      "name": "Montanha Condenada",
       "scenarios": [
         {
           "building_maps": [

@@ -48,7 +48,7 @@
     "time": 10,
     "tools": []
   },
-  "description": "A closed wooden fence door.",
+  "description": "Uma porta de cerca de madeira fechada.",
   "glyph": {
     "frames": [
       {
@@ -71,11 +71,11 @@
     43,
     10
   ],
-  "name": "Wooden Fence Door",
+  "name": "Porta de Cerca de Madeira",
   "openable": {
     "block_light": false,
     "collidable": false,
-    "description": "Wooden door, currently opened.",
+    "description": "Porta de madeira, atualmente aberta.",
     "glyph": {
       "frames": [
         {

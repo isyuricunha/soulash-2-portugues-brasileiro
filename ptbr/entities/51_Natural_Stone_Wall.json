@@ -32,7 +32,7 @@
     "producer"
   ],
   "corpse": "35",
-  "description": "Natural stone wall with a rough surface shows signs of erosion.",
+  "description": "Parede de pedra natural com superfície áspera mostra sinais de erosão.",
   "glyph": {
     "frames": [
       {
@@ -82,7 +82,7 @@
     63,
     67
   ],
-  "name": "Natural Stone Wall",
+  "name": "Parede de Pedra Natural",
   "producer": {
     "products": {
       "5": [

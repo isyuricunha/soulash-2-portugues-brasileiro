@@ -5,9 +5,9 @@
   "id": "317",
   "image": 16,
   "max": 1,
-  "name": "Alfaiataria",
+  "name": "Alfaiate",
   "occupation_image": 10,
-  "occupation": "core_2_Gnoll_Alfaiate",
+  "occupation": "core_2_Gnoll_Tailor",
   "produces": [
     {
       "entities": [

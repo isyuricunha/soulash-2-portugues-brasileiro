@@ -7,7 +7,7 @@
     "health": 0,
     "stamina": 3
   },
-  "description": "Hit everything in line for ::damage ::damage_type damage in range ::range. May leave the ammunition after shooting.",
+  "description": "Acerte tudo em linha com ::damage de dano ::damage_type em um alcance ::range. Pode deixar a munição após o disparo.",
   "duration": 0.0,
   "effects": {
     "construct_item_cost": 0.8999999761581421,
@@ -21,7 +21,7 @@
   },
   "id": "core_2_Piercing_Shot",
   "image": 719,
-  "name": "Piercing Shot",
+  "name": "Tiro Perfurante",
   "range": 7,
   "requirements": {
     "one_of": [

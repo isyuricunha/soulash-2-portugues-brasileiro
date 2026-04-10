@@ -22,7 +22,7 @@
     "time": 60,
     "tools": []
   },
-  "description": "A few branches of exotic tree.",
+  "description": "Alguns galhos de árvore exótica.",
   "glyph": {
     "frames": [
       {
@@ -72,5 +72,5 @@
     68,
     24
   ],
-  "name": "Jungle Tree Branches"
+  "name": "Galhos de Árvore da Selva"
 }

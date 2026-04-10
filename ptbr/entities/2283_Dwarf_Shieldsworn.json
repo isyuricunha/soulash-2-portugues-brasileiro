@@ -40,7 +40,7 @@
       {
         "chance": 1.0,
         "id": "2311",
-        "name": "Oval Shield",
+        "name": "Escudo Oval",
         "stack": 1
       }
     ],
@@ -48,7 +48,7 @@
       {
         "chance": 1.0,
         "id": "2185",
-        "name": "Light Axe",
+        "name": "Machado Leve",
         "stack": 1
       }
     ]
@@ -87,9 +87,9 @@
   "moveable": {
     "speed": 1.0
   },
-  "name": "Dwarf Shieldsworn",
+  "name": "Anão Escudado",
   "persona": {
-    "occupation": "Shieldsworn"
+    "occupation": "Escudado"
   },
   "sight": {
     "ignore_infra_penalty": false,

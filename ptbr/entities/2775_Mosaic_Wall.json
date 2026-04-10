@@ -48,7 +48,7 @@
     "time": 10,
     "tools": []
   },
-  "description": "Very elegant wall showing a mosaic of irregular pieces of colored stones.",
+  "description": "Parede muito elegante mostrando um mosaico de peças irregulares de pedras coloridas.",
   "glyph": {
     "frames": [
       {
@@ -71,7 +71,7 @@
     43,
     10
   ],
-  "name": "Mosaic Wall",
+  "name": "Parede de Mosaico",
   "producer": {
     "products": {
       "core_2_deconstruct": [

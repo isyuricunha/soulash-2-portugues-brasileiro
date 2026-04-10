@@ -42,7 +42,7 @@
       {
         "chance": 1.0,
         "id": "108",
-        "name": "Hatchet",
+        "name": "Machadinha",
         "stack": 1
       }
     ]
@@ -81,9 +81,9 @@
   "moveable": {
     "speed": 1.2000000476837158
   },
-  "name": "Dwarf Woodcutter",
+  "name": "Lenhador Anão",
   "persona": {
-    "occupation": "Woodcutter"
+    "occupation": "Lanhador"
   },
   "sight": {
     "ignore_infra_penalty": false,

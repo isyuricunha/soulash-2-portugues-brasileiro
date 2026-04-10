@@ -35,7 +35,7 @@
       14
     ]
   },
-  "description": "Helmet made from hardened leather.",
+  "description": "Capacete feito de couro endurecido.",
   "glyph": {
     "frames": [
       {
@@ -60,7 +60,7 @@
     93,
     57
   ],
-  "name": "Leather Helmet",
+  "name": "Capacete de Couro",
   "value": 1000,
   "weight": 1.5
 }

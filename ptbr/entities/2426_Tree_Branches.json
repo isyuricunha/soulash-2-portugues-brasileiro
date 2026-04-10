@@ -22,7 +22,7 @@
     "time": 60,
     "tools": []
   },
-  "description": "These outstretched tree branches, still connected to their mighty trunk, offer shade and shelter, while harboring the potential for countless future crafts and endeavors.",
+  "description": "Estes galhos de árvore estendidos, ainda conectados ao seu tronco poderoso, oferecem sombra e abrigo, enquanto abrigam o potencial para inúmeras artes e empreendimentos futuros.",
   "glyph": {
     "frames": [
       {
@@ -81,5 +81,5 @@
     68,
     24
   ],
-  "name": "Tree Branches"
+  "name": "Galhos de Árvore"
 }

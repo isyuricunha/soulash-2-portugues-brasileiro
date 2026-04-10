@@ -40,7 +40,7 @@
       {
         "chance": 1.0,
         "id": "841",
-        "name": "Shovel",
+        "name": "Pá",
         "stack": 1
       }
     ]
@@ -79,9 +79,9 @@
   "moveable": {
     "speed": 1.5
   },
-  "name": "Dwarf Smelter",
+  "name": "Anão Fundidor",
   "persona": {
-    "occupation": "Smelter"
+    "occupation": "Fundidor"
   },
   "sight": {
     "ignore_infra_penalty": false,

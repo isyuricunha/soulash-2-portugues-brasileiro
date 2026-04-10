@@ -34,7 +34,7 @@
     "time": 10,
     "tools": []
   },
-  "description": "Simple sack.",
+  "description": "Saco simples.",
   "glyph": {
     "frames": [
       {
@@ -74,5 +74,5 @@
     108,
     64
   ],
-  "name": "Sack"
+  "name": "Saco"
 }

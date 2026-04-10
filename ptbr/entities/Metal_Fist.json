@@ -29,7 +29,7 @@
       1
     ]
   },
-  "description": "A special metal glove designed to knock down your opponents.",
+  "description": "Uma luva de metal especial projetada para derrubar seus oponentes.",
   "glyph": {
     "frames": [
       {
@@ -54,7 +54,7 @@
     160,
     161
   ],
-  "name": "Metal Fist",
+  "name": "Punho de Metal",
   "value": 8000,
   "weapon": {
     "attack_speed": 0.8999999761581421,

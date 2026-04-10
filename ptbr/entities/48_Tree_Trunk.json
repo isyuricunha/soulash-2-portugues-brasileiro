@@ -11,7 +11,7 @@
     "weight"
   ],
   "corpse": "62",
-  "description": "Tree trunk that was ripped off the ground by some mighty creature.",
+  "description": "Tronco de árvore que foi arrancado do chão por alguma criatura poderosa.",
   "glyph": {
     "frames": [
       {
@@ -37,7 +37,7 @@
     63,
     20
   ],
-  "name": "Tree Trunk",
+  "name": "Tronco de Árvore",
   "producer": {
     "products": {
       "1": [

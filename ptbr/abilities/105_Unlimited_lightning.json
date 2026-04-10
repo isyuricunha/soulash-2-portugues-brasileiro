@@ -6,7 +6,7 @@
     "health": 1,
     "stamina": 7
   },
-  "description": "Lightnings zap from your fingers, dealing ::damage ::damage_type damage to everyone in a cone.",
+  "description": "Relâmpagos saem de seus dedos, causando ::damage de dano ::damage_type a todos em um cone.",
   "duration": 0.0,
   "effects": {
     "aoe_break": 2,
@@ -19,7 +19,7 @@
   },
   "id": "105",
   "image": 492,
-  "name": "Unlimited Lightning",
+  "name": "Relâmpagos Ilimitados",
   "range": 7,
   "target": "cone"
 }

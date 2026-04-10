@@ -10,7 +10,7 @@
     "value",
     "weight"
   ],
-  "description": "A lifeless body of an uhorn.",
+  "description": "Um corpo sem vida de um uhorn.",
   "glyph": {
     "frames": [
       {
@@ -39,7 +39,7 @@
     69,
     19
   ],
-  "name": "Uhorn Corpse",
+  "name": "Cadáver de Uhorn",
   "producer": {
     "products": {
       "3": [

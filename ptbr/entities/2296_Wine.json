@@ -30,7 +30,7 @@
       2
     ]
   },
-  "description": "Apple wine beloved by elves.",
+  "description": "Vinho de maçã amado por elfos.",
   "glyph": {
     "frames": [
       {
@@ -59,7 +59,7 @@
     186,
     83
   ],
-  "name": "Wine",
+  "name": "Vinho",
   "value": 1500,
   "weight": 0.20000000298023224
 }

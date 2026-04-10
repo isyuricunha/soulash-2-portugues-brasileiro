@@ -8,7 +8,7 @@
     "stackable",
     "weight"
   ],
-  "description": "An old letter that reads:\n\"My good sire, I don't trust the contractors that you hired to build your new palace. They had a weird look in their eyes. If you will allow, I will check the new building myself, to make sure it is safe.\"",
+  "description": "Uma carta antiga que diz:\n\"Meu bom senhor, não confio nos empreiteiros que você contratou para construir seu novo palácio. Eles tinham um olhar estranho nos olhos. Se você permitir, eu mesmo verificarei o novo edifício, para garantir que seja seguro.\"",
   "glyph": {
     "frames": [
       {
@@ -33,6 +33,6 @@
     153,
     137
   ],
-  "name": "Letter VII",
+  "name": "Carta VII",
   "weight": 0.10000000149011612
 }

@@ -29,7 +29,7 @@
       1
     ]
   },
-  "description": "This snake sword made by elven smiths is a truly unique weapon designed to strike fear into the hearts of the wielder's enemies. The blade is characterized by a distinctive wavy pattern resembling a snake's movement.",
+  "description": "Esta espada serpente feita por ferreiros élficos é uma arma verdadeiramente única projetada para incutir medo nos corações dos inimigos do portador. A lâmina é caracterizada por um padrão ondulado distinto que lembra o movimento de uma serpente.",
   "glyph": {
     "frames": [
       {
@@ -54,7 +54,7 @@
     160,
     161
   ],
-  "name": "Snake Sword",
+  "name": "Espada Serpente",
   "value": 5000,
   "weapon": {
     "attack_speed": 1.0,

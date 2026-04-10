@@ -10406,7 +10406,7 @@
     },
     {
       "id": 5,
-      "effect": "Invocação",
+      "effect": "Invocar",
       "success": "{} invocou {} com sucesso.",
       "fail": "Você não pode invocar nada aqui."
     },
@@ -10448,7 +10448,7 @@
     },
     {
       "id": 12,
-      "effect": "Dano Bônus",
+      "effect": "Bônus de Dano",
       "success": "{} causará {} de dano extra de {} com ataques.",
       "fail": "Encantamento já aplicado."
     },
@@ -10496,7 +10496,7 @@
     },
     {
       "id": 21,
-      "effect": "Carga",
+      "effect": "Investida",
       "success": "none",
       "fail": "none"
     },
@@ -10874,7 +10874,7 @@
     },
     {
       "id": 84,
-      "effect": "Acerto Crítico",
+      "effect": "Golpe Crítico",
       "success": "none",
       "fail": "none"
     },
@@ -11076,7 +11076,7 @@
     "Objeto Inanimado",
     "Ser",
     "Linha para Vida",
-    "Vá e Vem",
+    "Para Frente e Para Trás",
     "Linha do Alvo",
     "Aleatório"
   ],
@@ -11416,7 +11416,7 @@
     },
     {
       "id": 15,
-      "name": "Armazenar",
+      "name": "Armazém",
       "description": "Armazene um item em um armazenamento próximo da sua família."
     },
     {
@@ -11501,13 +11501,13 @@
     },
     {
       "id": 32,
-      "name": "Dormir Até o Anoitecer",
-      "description": "O personagem dorme até o final da tarde, reduzindo a fadiga e ganhando um bônus na regeneração de vida enquanto realiza esta ação, com base na duração do descanso, com um valor máximo baseado na resistência."
+      "name": "Dormir Até a Noite",
+      "description": "O personagem dorme até o final da noite, reduzindo a fadiga e ganhando um bônus na regeneração de vida enquanto realiza esta ação baseado na duração do descanso, com um valor máximo baseado na resistência."
     },
     {
       "id": 33,
       "name": "Dormir Até a Manhã",
-      "description": "O personagem dorme até o início da manhã, reduzindo a fadiga e ganhando um bônus na regeneração de vida enquanto realiza esta ação com base na duração do descanso, com um valor máximo baseado na resistência."
+      "description": "O personagem dorme até o início da manhã, reduzindo a fadiga e ganhando um bônus na regeneração de vida enquanto realiza esta ação baseado na duração do descanso, com um valor máximo baseado na resistência."
     },
     {
       "id": 34,
@@ -11606,23 +11606,23 @@
     },
     {
       "id": 53,
-      "name": "Soul Tithe",
-      "description": "Demand tribute of 5 Sullied Embers as a settlement's sacrifice. This action is available at any settlement with less than 10 military units and at least 20 population."
+      "name": "Dízimo da Alma",
+      "description": "Exija um tributo de 5 Brasa Maculada como sacrifício de um assentamento. Esta ação está disponível em qualquer assentamento com menos de 10 unidades militares e pelo menos 20 de população."
     },
     {
       "id": 54,
-      "name": "Resurrect",
-      "description": "Reconstruct a dead person's body and soul to join you as a companion. Use this option in the Being Knowledge tab.\n\nRequires 1 Prismatic Abyss and an empty compaion slot."
+      "name": "Ressuscitar",
+      "description": "Reconstrua o corpo e a alma de uma pessoa morta para se juntar a você como um companheiro. Use esta opção na aba Conhecimento do Ser.\n\nRequer 1 Abismo Prismático e um espaço vazio de companheiro."
     },
     {
       "id": 55,
-      "name": "Lock Item",
-      "description": "Lock the item, preventing it from accidental salvage or selling."
+      "name": "Bloquear Item",
+      "description": "Bloquear o item, impedindo-o de ser desmanchado ou vendido acidentalmente."
     },
     {
       "id": 56,
-      "name": "Turn Vampire",
-      "description": "As a Vampire, you can turn other denizens of a controlled settlement or your party members into lesser vampires. Consumes 100 units of Vampiric Blood."
+      "name": "Transformar em Vampiro",
+      "description": "Como um Vampiro, você pode transformar outros habitantes de um assentamento controlado ou membros do seu grupo em vampiros menores. Consome 100 unidades de Sangue Vampírico."
     },
     {
       "id": 57,
@@ -11726,7 +11726,7 @@
   ],
   "race": [
     {
-      "name": "Human",
+      "name": "Humano",
       "description": "[color=155,155,155,255]Humans were the most common being in the world once, but these days are long gone. The population decimated by constant wars is now just a shadow of its former glory. Representatives of this race are extremely adaptable to the situation, but their history was marked heavily by external influence. As the War of Worlds has ended, a great empire has been formed, where single human family clings to the seat of power to this day.[/color]\n\nAll statistics +1\nGets hungry 50% slower\n\n[color=130,163,175,255]Items:[/color] Knife, Bandage\n[color=130,163,175,255]Recipes:[/color] Fishing rod"
     },
     {
@@ -11734,11 +11734,11 @@
       "description": "[color=155,155,155,255]Dark dwarves are a subrace of dwarves completely corrupted by greed. They prefer to build their incredible keeps very deep below the ground or near volcanoes. Beings of these race are known for being cruel and malevolent.[/color]\n\nEndurance +2\nWillpower +2\nInfravision: see in the dark.\nTinkerer: double chance to learn new recipe when salvaging.\n\n[color=130,163,175,255]Items:[/color] Pickaxe, Belt\n[color=130,163,175,255]Recipes:[/color] Pickaxe"
     },
     {
-      "name": "Elf",
+      "name": "Elfo",
       "description": "None"
     },
     {
-      "name": "Halfling",
+      "name": "Meio-Humano",
       "description": "None"
     },
     {
@@ -11746,11 +11746,11 @@
       "description": "[color=155,155,155,255]Goblins are small greenskin creatures known for their ruthlessness. Some say they are shorter orc cousins. They form tribes and prefer to live in the mountains. Their greed pushes them to challenge dwarves for their territory constantly. From time to time, they organize in hordes that swarm even the human empire.[/color]\n\nDexterity +3, Endurance +1\nInfravision: see in the dark.\nSneaking +10\n\n[color=130,163,175,255]Items:[/color] Rags\n[color=130,163,175,255]Recipes:[/color] Rags"
     },
     {
-      "name": "Dark elf",
+      "name": "Elfo negro",
       "description": "[color=155,155,155,255]A long time ago dark elves were living in the forests with their brethren, but they were corrupted by dark gods. Now they occupy huge underground cities. Their controversial religious practices and rituals make them feared and dreaded. They despise most other races for opposing their rightful place among them.[/color]\n\nDexterity +2, Intelligence +1, Willpower +1\nInfravision: see in the dark.\nSight range +1\n\n[color=130,163,175,255]Items:[/color] Dagger\n[color=130,163,175,255]Recipes:[/color] Short bow"
     },
     {
-      "name": "Vampire",
+      "name": "Vampiro",
       "description": "[color=155,155,155,255]Vampires are dead beings of living races, cursed to wander the world till the end of times. They don't eat regular food and don't drink water. They feed by drinking the blood of the living to sustain their immortal bodies. Vampires have formed an enclave in the ruins of Black Sun Castle, where they scheme to take over the world and enslave the living like cattle.[/color]\n\nStrength +1, Endurance +2, Intelligence +1\nThirst and hunger is replaced by bloodlust.\nInfravision: see in the dark.\n\n[color=130,163,175,255]Items:[/color] Cloak, Hood\n[color=130,163,175,255]Recipes:[/color] Cloak"
     },
     {
@@ -11774,27 +11774,27 @@
       "description": "None"
     },
     {
-      "name": "Troglodyte",
+      "name": "Troglodita",
       "description": "None"
     },
     {
-      "name": "Fishman",
+      "name": "Homem-Peixe",
       "description": "None"
     },
     {
-      "name": "Demon",
+      "name": "Demônio",
       "description": "None"
     },
     {
-      "name": "Satyr",
+      "name": "Sátiro",
       "description": "None"
     },
     {
-      "name": "Centaur",
+      "name": "Centauro",
       "description": "None"
     },
     {
-      "name": "Skeleton",
+      "name": "Esqueleto",
       "description": "None"
     },
     {
@@ -11802,7 +11802,7 @@
       "description": "None"
     },
     {
-      "name": "Dragon",
+      "name": "Dragão",
       "description": "None"
     },
     {
@@ -11857,7 +11857,7 @@
     },
     {
       "name": "Recompensa",
-      "description": "Componente interno do jogo."
+      "description": "Componente interno in-game."
     },
     {
       "name": "Construtor",
@@ -11985,11 +11985,11 @@
     },
     {
       "name": "Mouseovered",
-      "description": "Internal in-game component."
+      "description": "Componente interno in-game."
     },
     {
       "name": "Move animation",
-      "description": "Internal in-game component."
+      "description": "Componente interno in-game."
     },
     {
       "name": "Moveable",
@@ -12013,15 +12013,15 @@
     },
     {
       "name": "Overlay",
-      "description": "Internal in-game component."
+      "description": "Componente interno in-game."
     },
     {
       "name": "Ownership",
-      "description": "Internal in-game component."
+      "description": "Componente interno in-game."
     },
     {
       "name": "Party",
-      "description": "Internal in-game component."
+      "description": "Componente interno in-game."
     },
     {
       "name": "Persona",
@@ -12029,7 +12029,7 @@
     },
     {
       "name": "Player",
-      "description": "Internal in-game component."
+      "description": "Componente interno in-game."
     },
     {
       "name": "Position",
@@ -12045,7 +12045,7 @@
     },
     {
       "name": "Relations",
-      "description": "Internal in-game component."
+      "description": "Componente interno in-game."
     },
     {
       "name": "Resource",
@@ -12061,11 +12061,11 @@
     },
     {
       "name": "Visto",
-      "description": "Internal in-game component."
+      "description": "Componente interno in-game."
     },
     {
       "name": "Tremor",
-      "description": "Internal in-game component."
+      "description": "Componente interno in-game."
     },
     {
       "name": "Visão",
@@ -12089,7 +12089,7 @@
     },
     {
       "name": "Invocar",
-      "description": "Internal in-game component."
+      "description": "Componente interno in-game."
     },
     {
       "name": "Tags",
@@ -12109,7 +12109,7 @@
     },
     {
       "name": "Transformado",
-      "description": "Internal in-game component."
+      "description": "Componente interno in-game."
     },
     {
       "name": "Usável",
@@ -12381,11 +12381,11 @@
     },
     {
       "id": 9,
-      "name": "Minerador"
+      "name": "Mineiro"
     },
     {
       "id": 10,
-      "name": "Forno"
+      "name": "Fundidor"
     },
     {
       "id": 11,
@@ -12397,11 +12397,11 @@
     },
     {
       "id": 13,
-      "name": "Lenhador"
+      "name": "Lanhador"
     },
     {
       "id": 14,
-      "name": "Bancada de Trabalho"
+      "name": "Banco de Trabalho"
     },
     {
       "id": 15,
@@ -12690,7 +12690,7 @@
     },
     {
       "id": 3,
-      "name": "Filho"
+      "name": "Filhote"
     },
     {
       "id": 4,
@@ -12774,7 +12774,7 @@
     },
     {
       "id": 2,
-      "name": "Visão Noturna",
+      "name": "Visão Infravermelha",
       "description": "Você enxerga à distância total no escuro, mas metade da distância durante o dia."
     },
     {
@@ -12919,7 +12919,7 @@
     },
     {
       "id": 31,
-      "name": "Parry",
+      "name": "Aparar",
       "description": "Parry +::value%."
     },
     {
@@ -12929,7 +12929,7 @@
     },
     {
       "id": 33,
-      "name": "Resource Discovery",
+      "name": "Descoberta de Recursos",
       "description": "You can now spend a few hours to discover a resource on the World Map."
     },
     {
@@ -12939,12 +12939,12 @@
     },
     {
       "id": 35,
-      "name": "Points of Interest",
+      "name": "Pontos de Interesse",
       "description": "You can now ask innkeepers and hunters to discover Points of Interest close to their settlement."
     },
     {
       "id": 36,
-      "name": "Sleep Faster",
+      "name": "Dormir Mais Rápido",
       "description": "Fatigue Recovery during sleep is quicker by ::value%."
     },
     {
@@ -12989,7 +12989,7 @@
     },
     {
       "id": 45,
-      "name": "Carry Capacity",
+      "name": "Capacidade de Carga",
       "description": "Carry Capacity +::value."
     },
     {
@@ -13009,7 +13009,7 @@
     },
     {
       "id": 49,
-      "name": "Attack Speed",
+      "name": "Velocidade de Ataque",
       "description": "Speed up basic attacks by ::value."
     },
     {
@@ -13024,7 +13024,7 @@
     },
     {
       "id": 52,
-      "name": "Knockback Immunity",
+      "name": "Imunidade a Repulsão",
       "description": "You are immune to knockback effects."
     },
     {
@@ -13039,7 +13039,7 @@
     },
     {
       "id": 55,
-      "name": "Dueling Tactician",
+      "name": "Tático de Duelo",
       "description": "You can see the stamina of hurt beings under their health bar."
     },
     {
@@ -13109,12 +13109,12 @@
     },
     {
       "id": 69,
-      "name": "Extra Loot",
+      "name": "Loot Extra",
       "description": "Acquire ::value% more loot from treasure chests found in discoverable locations."
     },
     {
       "id": 70,
-      "name": "Critical Hit",
+      "name": "Golpe Crítico",
       "description": "Your attacks have an additional ::value% chance to critically hit."
     },
     {
@@ -13129,7 +13129,7 @@
     },
     {
       "id": 73,
-      "name": "Esconder Identidade",
+      "name": "Ocultar Identidade",
       "description": "Quando você tem uma recompensa sobre sua cabeça, unidades militares em um assentamento reconhecem você apenas quando você está no alcance de ::value célula."
     },
     {
@@ -13219,7 +13219,7 @@
     },
     {
       "id": 91,
-      "name": "Espinhos Atiradores",
+      "name": "Disparo de Espinhos",
       "description": "::value% dos espinhos são aplicados quando atingido por um ataque básico à distância."
     },
     {
@@ -13299,7 +13299,7 @@
     },
     {
       "id": 107,
-      "name": "Melhores Negócios",
+      "name": "Negócios Melhorados",
       "description": "Melhora os preços de venda em ::value% de itens ::secondary_value."
     },
     {
@@ -13493,7 +13493,7 @@
   "npc_ages": [
     {
       "id": 0,
-      "name": "Criança"
+      "name": "Filhote"
     },
     {
       "id": 1,

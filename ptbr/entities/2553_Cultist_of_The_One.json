@@ -44,7 +44,7 @@
       {
         "chance": 1.0,
         "id": "192",
-        "name": "Sandals",
+        "name": "Sandálias",
         "stack": 1
       }
     ],
@@ -52,7 +52,7 @@
       {
         "chance": 1.0,
         "id": "186",
-        "name": "Cloak",
+        "name": "Capa",
         "stack": 1
       }
     ],
@@ -60,7 +60,7 @@
       {
         "chance": 1.0,
         "id": "180",
-        "name": "Hood",
+        "name": "Capuz",
         "stack": 1
       }
     ],
@@ -68,7 +68,7 @@
       {
         "chance": 1.0,
         "id": "308",
-        "name": "Ceremonial Dagger",
+        "name": "Adaga Cerimonial",
         "stack": 1
       }
     ],
@@ -76,7 +76,7 @@
       {
         "chance": 1.0,
         "id": "23",
-        "name": "Rags",
+        "name": "Farrapos",
         "stack": 1
       }
     ]

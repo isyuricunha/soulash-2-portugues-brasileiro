@@ -53,7 +53,7 @@
     "time": 20,
     "tools": []
   },
-  "description": "Gate made of torns magicaly bound together, blocking the way.",
+  "description": "Portão feito de espinhos magicamente unidos, bloqueando o caminho.",
   "glyph": {
     "frames": [
       {
@@ -76,11 +76,11 @@
     38,
     0
   ],
-  "name": "Thorn Gate",
+  "name": "Portão de Espinhos",
   "openable": {
     "block_light": false,
     "collidable": false,
-    "description": "Thorns are at the sides allowing passage.",
+    "description": "Os espinhos estão nas laterais, permitindo a passagem.",
     "glyph": {
       "frames": [
         {

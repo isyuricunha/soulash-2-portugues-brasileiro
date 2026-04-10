@@ -47,7 +47,7 @@
     "time": 10,
     "tools": []
   },
-  "description": "A cold wall constructed from stone blocks. It's quite durable.",
+  "description": "Uma parede fria construída de blocos de pedra. É bastante durável.",
   "glyph": {
     "frames": [
       {
@@ -88,7 +88,7 @@
     83,
     92
   ],
-  "name": "Stone Wall",
+  "name": "Parede de Pedra",
   "producer": {
     "products": {
       "core_2_deconstruct": [

@@ -18,7 +18,7 @@
     "on_enter",
     "position_2d"
   ],
-  "description": "Blood tumbles down from above.",
+  "description": "Sangue desce de cima.",
   "glyph": {
     "frames": [
       {

@@ -37,7 +37,7 @@
       {
         "chance": 1.0,
         "id": "111",
-        "name": "Pickaxe",
+        "name": "Picareta",
         "stack": 1
       }
     ]
@@ -76,9 +76,9 @@
   "moveable": {
     "speed": 1.5
   },
-  "name": "Dwarf Stonemason",
+  "name": "Anão Pedreiro",
   "persona": {
-    "occupation": "Stonemason"
+    "occupation": "Pedreiro"
   },
   "sight": {
     "ignore_infra_penalty": false,

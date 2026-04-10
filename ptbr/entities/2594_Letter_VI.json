@@ -8,7 +8,7 @@
     "stackable",
     "weight"
   ],
-  "description": "An old letter that reads:\n\"My good sire, as I was afraid, the construction of the palace is unstable. You must abandon it immediately before it all sinks into the ground.\"",
+  "description": "Uma carta antiga que diz:\n\"Meu bom senhor, como eu temia, a construção do palácio é instável. Você deve abandoná-lo imediatamente antes que tudo afunde no chão.\"",
   "glyph": {
     "frames": [
       {
@@ -33,6 +33,6 @@
     153,
     137
   ],
-  "name": "Letter VI",
+  "name": "Carta VI",
   "weight": 0.10000000149011612
 }

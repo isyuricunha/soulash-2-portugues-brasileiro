@@ -67,7 +67,7 @@
   "moveable": {
     "speed": 1.0
   },
-  "name": "Macehand",
+  "name": "Mão de Maça",
   "sight": {
     "ignore_infra_penalty": false,
     "infravision": true,

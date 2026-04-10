@@ -39,7 +39,7 @@
       {
         "chance": 1.0,
         "id": "115",
-        "name": "Battle Axe",
+        "name": "Machado de Batalha",
         "stack": 1
       }
     ],
@@ -47,7 +47,7 @@
       {
         "chance": 1.0,
         "id": "2219",
-        "name": "Reinforced Fur Armor",
+        "name": "Armadura de Pele Reforçada",
         "stack": 1
       }
     ]
@@ -86,9 +86,9 @@
   "moveable": {
     "speed": 1.0
   },
-  "name": "Mushman Mycelium Warden",
+  "name": "Guarda de Micélio Mushman",
   "persona": {
-    "occupation": "Mycelium Warden"
+    "occupation": "Guarda de Micélio"
   },
   "sight": {
     "ignore_infra_penalty": false,

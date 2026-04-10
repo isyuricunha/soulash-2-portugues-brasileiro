@@ -33,7 +33,7 @@
       15
     ]
   },
-  "description": "A bunch of berries cast in metal.",
+  "description": "Um monte de frutas fundidas em metal.",
   "glyph": {
     "frames": [
       {
@@ -58,7 +58,7 @@
     109,
     155
   ],
-  "name": "Metallic Berries",
+  "name": "Frutas Metálicas",
   "resource": {
     "affix": "of the Seed",
     "magic_ingredient": 2,

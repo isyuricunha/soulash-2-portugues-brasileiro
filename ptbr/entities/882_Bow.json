@@ -28,7 +28,7 @@
       14
     ]
   },
-  "description": "A regular bow used often by humans.",
+  "description": "Um arco comum frequentemente usado por humanos.",
   "glyph": {
     "frames": [
       {
@@ -53,7 +53,7 @@
     85,
     54
   ],
-  "name": "Bow",
+  "name": "Arco",
   "value": 1500,
   "weapon": {
     "attack_animation": "5",

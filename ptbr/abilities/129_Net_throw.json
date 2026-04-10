@@ -7,7 +7,7 @@
     "item_type": 0,
     "stamina": 3
   },
-  "description": "A ranged attack dealing ::damage ::damage_type damage to the target and immobilize it for ::duration turns. Immobilize effect succeeds on opposed caster willpower vs defender strength check.",
+  "description": "Um ataque à distância que causa ::damage de dano ::damage_type ao alvo e o imobiliza por ::duration turnos. O efeito de imobilização tem sucesso na verificação de força de vontade do conjurador vs força do defensor.",
   "duration": 4.0,
   "effects": {
     "damage": [
@@ -20,7 +20,7 @@
   },
   "id": "129",
   "image": 93,
-  "name": "Net Throw",
+  "name": "Arremesso de Rede",
   "range": 6,
   "target": "line"
 }

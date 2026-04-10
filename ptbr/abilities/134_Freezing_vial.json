@@ -6,7 +6,7 @@
     "health": 0,
     "stamina": 0
   },
-  "description": "Freeze target in place dealing ::damage ::damage_type damage and immobilizing it for ::duration turns.",
+  "description": "Congela o alvo no lugar, causando ::damage de dano ::damage_type e imobilizando-o por ::duration turnos.",
   "duration": 3.0,
   "effects": {
     "damage": [
@@ -18,7 +18,7 @@
   },
   "id": "134",
   "image": 688,
-  "name": "Freezing Vial",
+  "name": "Frasco Congelante",
   "range": 7,
   "target": "line"
 }

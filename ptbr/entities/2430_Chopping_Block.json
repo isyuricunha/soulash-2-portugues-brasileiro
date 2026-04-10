@@ -39,7 +39,7 @@
     "time": 5,
     "tools": []
   },
-  "description": "This well-worn chopping block has seen countless logs cleaved by the skilled hands of woodcutters, transforming raw timber into fuel for life's necessities.",
+  "description": "Este bloco de corte desgastado já viu inúmeras toras clivadas por mãos habilidosas de lenhadores, transformando madeira bruta em combustível para as necessidades da vida.",
   "glyph": {
     "frames": [
       {
@@ -61,7 +61,7 @@
     150,
     150
   ],
-  "name": "Chopping Block",
+  "name": "Toco de Corte",
   "producer": {
     "products": {
       "core_2_deconstruct": [

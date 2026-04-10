@@ -36,7 +36,7 @@
     "time": 30,
     "tools": []
   },
-  "description": "Big standing bookcase filled with various books.",
+  "description": "Grande estante de livros em pé cheia de vários livros.",
   "glyph": {
     "frames": [
       {
@@ -76,7 +76,7 @@
     48,
     17
   ],
-  "name": "Bookcase",
+  "name": "Estante de Livros",
   "producer": {
     "products": {
       "core_2_deconstruct": [

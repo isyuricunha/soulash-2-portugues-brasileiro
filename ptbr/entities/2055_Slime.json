@@ -75,7 +75,7 @@
   "moveable": {
     "speed": 1.399999976158142
   },
-  "name": "Slime",
+  "name": "Limo",
   "sight": {
     "ignore_infra_penalty": false,
     "infravision": true,

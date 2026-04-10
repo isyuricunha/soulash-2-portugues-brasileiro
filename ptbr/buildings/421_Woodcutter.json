@@ -1,9 +1,9 @@
 {
   "id": "421",
   "image": 8,
-  "name": "Lenhador",
+  "name": "Lanhador",
   "occupation_image": 40,
-  "occupation": "core_2_Troll_Lenhador",
+  "occupation": "core_2_Troll_Woodcutter",
   "produces": [
     {
       "entities": [

@@ -39,7 +39,7 @@
       {
         "chance": 0.699999988079071,
         "id": "183",
-        "name": "Robe",
+        "name": "Túnica",
         "stack": 1
       }
     ]
@@ -78,9 +78,9 @@
   "moveable": {
     "speed": 1.100000023841858
   },
-  "name": "Elf Potter",
+  "name": "Oleiro Elfo",
   "persona": {
-    "occupation": "Potter"
+    "occupation": "Oleiro"
   },
   "sight": {
     "ignore_infra_penalty": false,

@@ -6,7 +6,7 @@
     "health": 0,
     "stamina": 7
   },
-  "description": "Materializa e lança uma arma circular especial usada comumente por nômades do Deserto em Decadência. O ataque causa ::damage ::damage_type de dano a todos em linha.",
+  "description": "Materializa e arremessa uma arma circular especial usada comumente por nômades do Deserto em Decomposição. O ataque causa ::damage de dano ::damage_type a todos em linha.",
   "duration": 0.0,
   "effects": {
     "damage": [
@@ -19,7 +19,7 @@
   },
   "id": "87",
   "image": 166,
-  "name": "Chakram",
+  "name": "Chacra",
   "range": 6,
   "target": "line"
 }

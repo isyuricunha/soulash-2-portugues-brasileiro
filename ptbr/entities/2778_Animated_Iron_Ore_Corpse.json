@@ -9,7 +9,7 @@
     "producer",
     "weight"
   ],
-  "description": "Animated iron ore but this time it is dead.",
+  "description": "Minério de ferro animado, mas desta vez está morto.",
   "glyph": {
     "frames": [
       {
@@ -38,7 +38,7 @@
     128,
     104
   ],
-  "name": "Animated Iron Ore Corpse",
+  "name": "Cadáver de Minério de Ferro Animado",
   "producer": {
     "products": {
       "3": [

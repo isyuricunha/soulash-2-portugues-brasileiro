@@ -28,7 +28,7 @@
     "time": 60,
     "tools": []
   },
-  "description": "Efficient mechanism for beheading.",
+  "description": "Mecanismo eficiente para decapitação.",
   "glyph": {
     "frames": [
       {
@@ -51,7 +51,7 @@
     40,
     40
   ],
-  "name": "Guillotine",
+  "name": "Guilhotina",
   "producer": {
     "products": {
       "core_2_deconstruct": [

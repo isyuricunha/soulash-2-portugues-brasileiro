@@ -44,7 +44,7 @@
     "time": 5,
     "tools": []
   },
-  "description": "There may be an enemy hidden behind every blade of grass.",
+  "description": "Pode haver um inimigo escondido atrás de cada folha de grama.",
   "glyph": {
     "frames": [
       {
@@ -84,5 +84,5 @@
     39,
     13
   ],
-  "name": "Long Grass"
+  "name": "Grama Alta"
 }

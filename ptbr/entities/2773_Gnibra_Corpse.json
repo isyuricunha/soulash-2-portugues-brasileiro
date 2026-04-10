@@ -10,7 +10,7 @@
     "value",
     "weight"
   ],
-  "description": "The remains of a gnibra.",
+  "description": "Os restos de um gnibra.",
   "glyph": {
     "frames": [
       {
@@ -39,7 +39,7 @@
     102,
     57
   ],
-  "name": "Gnibra Corpse",
+  "name": "Cadáver de Gnibra",
   "producer": {
     "products": {
       "3": [

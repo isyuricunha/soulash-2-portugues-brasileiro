@@ -44,7 +44,7 @@
     "tags"
   ],
   "corpse": "2235",
-  "description": "Large animal with a long trunk, long fur, and large tusks.",
+  "description": "Grande animal com uma longa tromba, pelagem longa e grandes presas.",
   "dialogues": [
     "240",
     "241",
@@ -106,7 +106,7 @@
   "moveable": {
     "speed": 1.2000000476837158
   },
-  "name": "Mammoth",
+  "name": "Mamute",
   "sight": {
     "ignore_infra_penalty": false,
     "infravision": false,

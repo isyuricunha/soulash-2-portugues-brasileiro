@@ -49,14 +49,14 @@
     "weapon"
   ],
   "corpse": "25",
-  "description": "Berly a humanoid, hold togheter by some thred and magic.",
+  "description": "Mal um humanoide, mantido junto por algum fio e magia.",
   "dialogues": [],
   "equipment": {
     "cape": [
       {
         "chance": 1.0,
         "id": "768",
-        "name": "Leather Cape",
+        "name": "Capa de Couro",
         "stack": 1
       }
     ],
@@ -64,7 +64,7 @@
       {
         "chance": 1.0,
         "id": "170",
-        "name": "Leather Cap",
+        "name": "Capuz de Couro",
         "stack": 1
       }
     ],
@@ -72,7 +72,7 @@
       {
         "chance": 1.0,
         "id": "583",
-        "name": "Monocle",
+        "name": "Monóculo",
         "stack": 1
       }
     ],
@@ -80,7 +80,7 @@
       {
         "chance": 1.0,
         "id": "323",
-        "name": "Tights",
+        "name": "Collant",
         "stack": 1
       }
     ]
@@ -122,7 +122,7 @@
   "moveable": {
     "speed": 0.8999999761581421
   },
-  "name": "Homunculus",
+  "name": "Homúnculo",
   "sight": {
     "ignore_infra_penalty": false,
     "infravision": false,

@@ -49,7 +49,7 @@
   },
   {
     "id": "core_2_area_maps",
-    "name": "Vem Preparado",
+    "name": "Vim Preparado",
     "image": 5,
     "effects": [
       {
@@ -419,7 +419,7 @@
   },
   {
     "id": "core_2_nose_for_trouble",
-    "name": "Faro para Problemas",
+    "name": "Faro Para Problemas",
     "image": 40,
     "effects": [
       {
@@ -581,7 +581,7 @@
   },
   {
     "id": "core_2_good_harvest",
-    "name": "Colheita Farta",
+    "name": "Boa Colheita",
     "image": 55,
     "effects": [
       {
@@ -719,7 +719,7 @@
   },
   {
     "id": "core_2_heavy_duty",
-    "name": "Resistente",
+    "name": "Serviço Pesado",
     "image": 64,
     "apply_mode": "party_only",
     "effects": [
@@ -754,7 +754,7 @@
   },
   {
     "id": "core_2_better_friends",
-    "name": "Amigos Melhorados",
+    "name": "Melhores Amigos",
     "image": 67,
     "apply_mode": "party_only",
     "effects": [
@@ -933,7 +933,7 @@
   },
   {
     "id": "core_2_shooting_thorns",
-    "name": "Espinhos Atirantes",
+    "name": "Disparo de Espinhos",
     "image": 79,
     "effects": [
       {
@@ -1108,7 +1108,7 @@
   },
   {
     "id": "core_2_energy_steal",
-    "name": "Roubo de Energia",
+    "name": "Roubar Energia",
     "image": 91,
     "effects": [
       {
@@ -1130,7 +1130,7 @@
   },
   {
     "id": "core_2_lightning_strike",
-    "name": "Golpe Relâmpago",
+    "name": "Golpe de Relâmpago",
     "image": 96,
     "effects": [
       {
@@ -1223,7 +1223,7 @@
   },
   {
     "id": "core_2_raise_bone_wraith",
-    "name": "Reanimar Espectro de Osso",
+    "name": "Invocar Espectro de Osso",
     "image": 113,
     "effects": [
       {
@@ -1271,7 +1271,7 @@
   },
   {
     "id": "core_2_blessed_knuckles",
-    "name": "Soco Divino",
+    "name": "Nodosos Abençoados",
     "image": 127,
     "effects": [
       {

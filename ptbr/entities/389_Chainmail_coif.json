@@ -35,7 +35,7 @@
       1
     ]
   },
-  "description": "Hood of mail covering throat, neck and shoulders. Offers good protection.",
+  "description": "Capuz de malha cobrindo garganta, pescoço e ombros. Oferece boa proteção.",
   "glyph": {
     "frames": [
       {
@@ -60,7 +60,7 @@
     160,
     161
   ],
-  "name": "Chainmail Coif",
+  "name": "Capuz de Cota de Malha",
   "value": 1500,
   "weight": 2.0
 }

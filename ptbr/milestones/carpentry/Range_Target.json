@@ -1,6 +1,6 @@
 {
   "id": "core_2_range_target",
-  "name": "Alcance_Alvo",
+  "name": "Range_Target",
   "requirements": {
     "milestones": [],
     "skill": 14

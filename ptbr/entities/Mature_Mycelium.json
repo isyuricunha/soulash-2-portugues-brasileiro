@@ -13,7 +13,7 @@
       "id": "561"
     }
   ],
-  "description": "Fully matured mycelium, ready for harvest.",
+  "description": "Micélio totalmente maduro, pronto para a colheita.",
   "glyph": {
     "frames": [
       {
@@ -35,7 +35,7 @@
     204,
     255
   ],
-  "name": "Mature Mycelium",
+  "name": "Micélio Maduro",
   "producer": {
     "products": {
       "6": [

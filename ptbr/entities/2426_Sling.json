@@ -25,7 +25,7 @@
       1
     ]
   },
-  "description": "This unassuming yet lethal sling, crafted from supple leather and sturdy cord, has proven its worth in the hands of skilled warriors, toppling giants and striking foes from afar.",
+  "description": "Esta funda aparentemente inofensiva, mas letal, feita de couro macio e corda resistente, provou seu valor nas mãos de guerreiros habilidosos, derrubando gigantes e atingindo inimigos de longe.",
   "glyph": {
     "frames": [
       {
@@ -50,7 +50,7 @@
     210,
     211
   ],
-  "name": "Sling",
+  "name": "Funda",
   "tool": [
     {
       "id": 4,

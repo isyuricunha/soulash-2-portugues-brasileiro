@@ -9,7 +9,7 @@
     "value",
     "weight"
   ],
-  "description": "The fibers from the nettle plant can be harvested and spun into thread suitable for making clothes.",
+  "description": "As fibras da planta de urtiga podem ser colhidas e fiadas em fios adequados para fazer roupas.",
   "glyph": {
     "frames": [
       {
@@ -34,7 +34,7 @@
     72,
     13
   ],
-  "name": "Nettle",
+  "name": "Urtiga",
   "value": 300,
   "weight": 0.10000000149011612
 }

@@ -35,7 +35,7 @@
       12
     ]
   },
-  "description": "With this beautiful black eye patch you can pretend to be a pirate.",
+  "description": "Com este belo tapa-olho preto você pode fingir ser um pirata.",
   "glyph": {
     "frames": [
       {
@@ -60,7 +60,7 @@
     100,
     100
   ],
-  "name": "Eye Patch",
+  "name": "Tapa-olho",
   "value": 400,
   "weight": 0.10000000149011612
 }

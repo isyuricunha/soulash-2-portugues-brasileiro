@@ -8,7 +8,7 @@
     "stackable",
     "weight"
   ],
-  "description": "Not as easy as it seems.",
+  "description": "Não é tão fácil quanto parece.",
   "glyph": {
     "frames": [
       {
@@ -33,6 +33,6 @@
     178,
     176
   ],
-  "name": "\"The Making of a Game\"",
+  "name": "\"A Criação de um Jogo\"",
   "weight": 0.10000000149011612
 }

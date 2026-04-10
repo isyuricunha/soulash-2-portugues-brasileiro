@@ -39,7 +39,7 @@
       {
         "chance": 1.0,
         "id": "323",
-        "name": "Tights",
+        "name": "Collant",
         "stack": 1
       }
     ],
@@ -47,7 +47,7 @@
       {
         "chance": 1.0,
         "id": "72",
-        "name": "Sickle",
+        "name": "Foice",
         "stack": 1
       }
     ],
@@ -55,13 +55,13 @@
       {
         "chance": 0.30000001192092896,
         "id": "184",
-        "name": "Shirt",
+        "name": "Camisa",
         "stack": 1
       },
       {
         "chance": 0.699999988079071,
         "id": "183",
-        "name": "Robe",
+        "name": "Túnica",
         "stack": 1
       }
     ]
@@ -100,9 +100,9 @@
   "moveable": {
     "speed": 1.100000023841858
   },
-  "name": "Elf Forager",
+  "name": "Elfo Forrageiro",
   "persona": {
-    "occupation": "Forager"
+    "occupation": "Forrageador"
   },
   "sight": {
     "ignore_infra_penalty": false,

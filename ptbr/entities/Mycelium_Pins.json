@@ -52,7 +52,7 @@
     204,
     255
   ],
-  "name": "Alfinetes de Micélio",
+  "name": "Pinos de Micélio",
   "random_resource": {
     "delay_spawn": true,
     "entity": [

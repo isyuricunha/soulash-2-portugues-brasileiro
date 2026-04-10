@@ -40,7 +40,7 @@
     "time": 60,
     "tools": []
   },
-  "description": "Good for many things.",
+  "description": "Bom para muitas coisas.",
   "glyph": {
     "frames": [
       {
@@ -65,7 +65,7 @@
     160,
     161
   ],
-  "name": "Multitool",
+  "name": "Ferramenta Multiuso",
   "tool": [
     {
       "id": 6,

@@ -35,7 +35,7 @@
       12
     ]
   },
-  "description": "Protects from wind and dust during travels.",
+  "description": "Protege do vento e da poeira durante viagens.",
   "glyph": {
     "frames": [
       {
@@ -60,7 +60,7 @@
     93,
     57
   ],
-  "name": "Cloak",
+  "name": "Capa",
   "value": 1800,
   "weight": 0.800000011920929
 }

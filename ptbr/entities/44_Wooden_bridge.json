@@ -30,7 +30,7 @@
     "time": 25,
     "tools": []
   },
-  "description": "A simple wooden bridge, allowing easy passage to the other side.",
+  "description": "Uma simples ponte de madeira, permitindo passagem fácil para o outro lado.",
   "glyph": {
     "frames": [
       {
@@ -60,7 +60,7 @@
     38,
     7
   ],
-  "name": "Wooden Bridge",
+  "name": "Ponte de Madeira",
   "producer": {
     "products": {
       "core_2_deconstruct": [

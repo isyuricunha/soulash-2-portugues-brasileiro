@@ -39,7 +39,7 @@
     "time": 20,
     "tools": []
   },
-  "description": "Bed carved from huge stone block.",
+  "description": "Cama esculpida em um enorme bloco de pedra.",
   "glyph": {
     "frames": [
       {
@@ -62,7 +62,7 @@
     90,
     97
   ],
-  "name": "Stone Bed",
+  "name": "Cama de Pedra",
   "producer": {
     "products": {
       "core_2_deconstruct": [

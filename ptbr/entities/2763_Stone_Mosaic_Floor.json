@@ -30,7 +30,7 @@
       6
     ]
   },
-  "description": "A cold stone floor covered in elaborate patterns.",
+  "description": "Um chão de pedra fria coberto por padrões elaborados.",
   "glyph": {
     "frames": [
       {
@@ -51,5 +51,5 @@
     63,
     72
   ],
-  "name": "Stone Mosaic Floor"
+  "name": "Chão de Mosaico de Pedra"
 }

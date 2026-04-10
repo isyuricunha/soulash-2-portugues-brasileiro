@@ -24,7 +24,7 @@
     "weapon",
     "weight"
   ],
-  "description": "A twisted and robust hoof, harkening to the wild and mischievous nature of the satyrs. This hoof exhibits a rugged texture, with hints of dark brown and earthy tones.",
+  "description": "Um casco retorcido e robusto, reminiscente da natureza selvagem e travessa dos sátiros. Este casco exibe uma textura rústica, com tons de marrom escuro e terrosos.",
   "glyph": {
     "frames": [
       {
@@ -49,7 +49,7 @@
     204,
     187
   ],
-  "name": "Satyr's Hoof",
+  "name": "Casco de Sátiro",
   "resource": {
     "affix": "Feral",
     "magic_ingredient": 0,

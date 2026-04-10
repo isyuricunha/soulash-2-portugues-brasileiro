@@ -55,7 +55,7 @@
     "time": 30,
     "tools": []
   },
-  "description": "A wooden post with padding and markings to train combat techniques.",
+  "description": "Um poste de madeira com acolchoamento e marcações para treinar técnicas de combate.",
   "glyph": {
     "frames": [
       {
@@ -77,7 +77,7 @@
     48,
     17
   ],
-  "name": "Training Dummy",
+  "name": "Boneco de Treinamento",
   "producer": {
     "products": {
       "core_2_deconstruct": [

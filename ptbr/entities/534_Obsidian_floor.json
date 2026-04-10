@@ -29,7 +29,7 @@
       6
     ]
   },
-  "description": "Floor made of obsidian blocks.",
+  "description": "Chão feito de blocos de obsidiana.",
   "glyph": {
     "frames": [
       {
@@ -50,5 +50,5 @@
     36,
     51
   ],
-  "name": "Obsidian Floor"
+  "name": "Chão de Obsidiana"
 }

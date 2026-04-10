@@ -9,7 +9,7 @@
     "producer",
     "weight"
   ],
-  "description": "Animated onyx but this time he is dead.",
+  "description": "Ônix animado, mas desta vez ele está morto.",
   "glyph": {
     "frames": [
       {
@@ -38,7 +38,7 @@
     128,
     104
   ],
-  "name": "Animated Onyx Corpse",
+  "name": "Cadáver de Ônix Animado",
   "producer": {
     "products": {
       "3": [

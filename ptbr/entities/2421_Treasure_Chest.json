@@ -7,7 +7,7 @@
     "position_2d",
     "producer"
   ],
-  "description": "This ornate treasure chest, adorned with intricate carvings and gleaming metalwork, harbors a trove of precious secrets, awaiting the thrill of discovery by those bold enough to unlock its mysteries.",
+  "description": "Este baú do tesouro ornamentado, adornado com entalhes intricados e trabalho em metal reluzente, abriga um tesouro de segredos preciosos, aguardando a emoção da descoberta por aqueles ousados o suficiente para desvendar seus mistérios.",
   "glyph": {
     "frames": [
       {
@@ -82,7 +82,7 @@
     157,
     45
   ],
-  "name": "Treasure Chest",
+  "name": "Baú do Tesouro",
   "producer": {
     "products": {
       "15": [

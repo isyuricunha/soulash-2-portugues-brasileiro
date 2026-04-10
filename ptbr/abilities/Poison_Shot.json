@@ -21,7 +21,7 @@
   },
   "id": "core_2_Poison_Shot",
   "image": 720,
-  "name": "Disparo de Veneno",
+  "name": "Tiro Envenenado",
   "range": 7,
   "requirements": {
     "one_of": [

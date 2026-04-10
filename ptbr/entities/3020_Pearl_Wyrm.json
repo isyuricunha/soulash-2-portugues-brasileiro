@@ -31,7 +31,7 @@
     "weapon"
   ],
   "corpse": "3019",
-  "description": "A beautiful wyrm seemingly made out of pearly substance.",
+  "description": "Um lindo verme aparentemente feito de substância pérola.",
   "dialogues": [],
   "experience_gainer": {
     "exp": 0,
@@ -66,7 +66,7 @@
   "moveable": {
     "speed": 1.100000023841858
   },
-  "name": "Pearl Wyrm",
+  "name": "Verme de Pérola",
   "sight": {
     "ignore_infra_penalty": false,
     "infravision": true,

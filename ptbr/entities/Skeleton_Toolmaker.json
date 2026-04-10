@@ -90,7 +90,7 @@
   },
   "name": "Esqueleto Ferramenteiro",
   "persona": {
-    "occupation": "Ferramenteiro"
+    "occupation": "Ferreiro"
   },
   "sight": {
     "ignore_infra_penalty": false,

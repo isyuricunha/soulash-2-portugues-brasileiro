@@ -383,7 +383,7 @@
   },
   {
     "id": "core_2_overhead",
-    "name": "Sobrecarga",
+    "name": "Golpe por Cima",
     "type": "offensive",
     "image": 18,
     "bonuses": [
@@ -793,7 +793,7 @@
   },
   {
     "id": "core_2_make_them_weak",
-    "name": "Torná-los Fracos",
+    "name": "Enfraquecê-los",
     "type": "offensive",
     "image": 67,
     "bonuses": [
@@ -819,7 +819,7 @@
   },
   {
     "id": "core_2_flower_power",
-    "name": "Poder da Flor",
+    "name": "Poder das Flores",
     "type": "offensive",
     "image": 69,
     "bonuses": [
@@ -836,7 +836,7 @@
   },
   {
     "id": "core_2_burning_poison",
-    "name": "Veneno Queimante",
+    "name": "Veneno Ardente",
     "type": "offensive",
     "image": 70,
     "bonuses": [
@@ -964,7 +964,7 @@
   },
   {
     "id": "core_2_stone_cold",
-    "name": "Frio como Pedra",
+    "name": "Pedra Fria",
     "type": "defensive",
     "image": 78,
     "bonuses": [
@@ -1009,7 +1009,7 @@
   },
   {
     "id": "core_2_electroshock",
-    "name": "Choque Elétrico",
+    "name": "Eletrochoque",
     "type": "offensive",
     "image": 82,
     "bonuses": [
@@ -1094,7 +1094,7 @@
   },
   {
     "id": "core_2_enduring",
-    "name": "Endurante",
+    "name": "Resistente",
     "type": "defensive",
     "image": 98,
     "bonuses": [
@@ -1107,7 +1107,7 @@
   },
   {
     "id": "core_2_righteous_wrath",
-    "name": "Ira Justa",
+    "name": "Fúria Justa",
     "type": "defensive",
     "image": 99,
     "bonuses": [
@@ -1138,7 +1138,7 @@
   },
   {
     "id": "core_2_brighter_light",
-    "name": "Luz Mais Brilhante",
+    "name": "Luz Brilhante",
     "type": "offensive",
     "image": 95,
     "bonuses": [

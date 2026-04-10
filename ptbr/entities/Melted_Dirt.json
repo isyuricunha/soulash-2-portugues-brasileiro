@@ -35,7 +35,7 @@
     "time": 5,
     "tools": []
   },
-  "description": "Simple dirt, but looks like it was melted with some acid.",
+  "description": "Terra simples, mas parece que foi derretida com algum ácido.",
   "glyph": {
     "frames": [
       {
@@ -84,5 +84,5 @@
     45,
     12
   ],
-  "name": "Melted Dirt"
+  "name": "Terra Derretida"
 }

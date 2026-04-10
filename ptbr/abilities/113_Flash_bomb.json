@@ -6,7 +6,7 @@
     "health": 0,
     "stamina": 8
   },
-  "description": "Throw a flash bomb at a location, dealing ::damage ::damage_type damage and potentially stunning everyone in range of ::aoe_range for ::stun turns.",
+  "description": "Arremessa uma bomba de clarão em um local, causando ::damage de dano ::damage_type e potencialmente atordoando todos no alcance de ::aoe_range por ::stun turnos.",
   "duration": 1.5,
   "effects": {
     "aoe_break": 1,
@@ -22,7 +22,7 @@
   },
   "id": "113",
   "image": 94,
-  "name": "Flash Bomb",
+  "name": "Bomba de Flash",
   "range": 8,
   "target": "aoe_tile"
 }

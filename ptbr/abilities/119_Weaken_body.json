@@ -6,7 +6,7 @@
     "health": 0,
     "stamina": 4
   },
-  "description": "Weaken the body of an enemy reducing it's strength by ::strength and endurance by ::endurance.",
+  "description": "Enfraquece o corpo de um inimigo, reduzindo sua força em ::strength e resistência em ::endurance.",
   "duration": 8.0,
   "effects": {
     "endurance": -7,
@@ -14,7 +14,7 @@
   },
   "id": "119",
   "image": 178,
-  "name": "Weaken Body",
+  "name": "Enfraquecer Corpo",
   "range": 4,
   "target": "actor"
 }

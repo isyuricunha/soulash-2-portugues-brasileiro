@@ -11,7 +11,7 @@
     "value",
     "weight"
   ],
-  "description": "Curved horn of a minotaur.",
+  "description": "Chifre curvo de um minotauro.",
   "glyph": {
     "frames": [
       {
@@ -36,7 +36,7 @@
     195,
     195
   ],
-  "name": "Minotaur Horn",
+  "name": "Chifre de Minotauro",
   "resource": {
     "affix": "Barbaric",
     "magic_ingredient": 0,

@@ -5,7 +5,7 @@
     "health": 0,
     "stamina": 4
   },
-  "description": "Spit at an enemy dealing ::damage ::damage_type damage",
+  "description": "Cuspa em um inimigo causando ::damage de ::damage_type de dano",
   "duration": 0,
   "effects": {
     "damage": [
@@ -17,7 +17,7 @@
   },
   "id": "10",
   "image": 101,
-  "name": "Acid Spit",
+  "name": "Cuspe Ácido",
   "range": 7,
   "target": "line"
 }

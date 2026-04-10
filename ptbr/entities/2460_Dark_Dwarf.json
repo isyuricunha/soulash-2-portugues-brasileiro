@@ -43,7 +43,7 @@
       {
         "chance": 1.0,
         "id": "21",
-        "name": "Nasal Helmet",
+        "name": "Capacete Nasal",
         "stack": 1
       }
     ],
@@ -51,7 +51,7 @@
       {
         "chance": 1.0,
         "id": "403",
-        "name": "Ornament Shield",
+        "name": "Escudo Ornamentado",
         "stack": 1
       }
     ],
@@ -59,7 +59,7 @@
       {
         "chance": 1.0,
         "id": "109",
-        "name": "Hand Axe",
+        "name": "Machado de Mão",
         "stack": 1
       }
     ],
@@ -67,7 +67,7 @@
       {
         "chance": 1.0,
         "id": "175",
-        "name": "Chainmail",
+        "name": "Cota de Malha",
         "stack": 1
       }
     ]

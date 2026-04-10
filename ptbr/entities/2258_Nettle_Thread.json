@@ -37,7 +37,7 @@
       12
     ]
   },
-  "description": "Nettle thread is produced from nettle and is used in crafting of various clothing.",
+  "description": "O fio de urtiga é produzido a partir da urtiga e é usado na fabricação de várias roupas.",
   "glyph": {
     "frames": [
       {
@@ -62,7 +62,7 @@
     73,
     73
   ],
-  "name": "Nettle Thread",
+  "name": "Fio de Urtiga",
   "resource": {
     "affix": "Nettle",
     "magic_ingredient": 0,

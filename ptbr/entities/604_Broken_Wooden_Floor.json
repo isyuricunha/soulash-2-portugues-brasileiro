@@ -25,7 +25,7 @@
       "id": "546"
     }
   ],
-  "description": "The wooden boards that make the floor beneath your feet is cracked and damaged in multiple places.",
+  "description": "As tábuas de madeira que compõem o chão sob seus pés estão rachadas e danificadas em vários lugares.",
   "glyph": {
     "frames": [
       {
@@ -47,5 +47,5 @@
     38,
     7
   ],
-  "name": "Broken Wooden Floor"
+  "name": "Chão de Madeira Rachado"
 }

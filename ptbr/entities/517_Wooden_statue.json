@@ -23,7 +23,7 @@
     "producer"
   ],
   "corpse": "62",
-  "description": "Statue made of wood preserving an image of a person long gone.",
+  "description": "Estátua feita de madeira preservando a imagem de uma pessoa há muito desaparecida.",
   "glyph": {
     "frames": [
       {
@@ -72,7 +72,7 @@
     48,
     17
   ],
-  "name": "Wooden Statue",
+  "name": "Estátua de Madeira",
   "producer": {
     "products": {
       "core_2_deconstruct": [

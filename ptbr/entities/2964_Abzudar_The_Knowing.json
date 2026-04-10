@@ -47,7 +47,7 @@
     "weapon"
   ],
   "corpse": "556",
-  "description": "Great wyrm waiting to make its mark on the world.",
+  "description": "Grande verme esperando para deixar sua marca no mundo.",
   "dialogues": [
     "178",
     "179"
@@ -85,7 +85,7 @@
   "moveable": {
     "speed": 0.8999999761581421
   },
-  "name": "Abzudar The Knowing",
+  "name": "Abzudar O Sábio",
   "sight": {
     "ignore_infra_penalty": false,
     "infravision": false,

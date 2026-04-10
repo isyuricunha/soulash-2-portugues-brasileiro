@@ -58,7 +58,7 @@
     204,
     255
   ],
-  "name": "Muda de Planta de Linho",
+  "name": "Muda de Linho",
   "random_resource": {
     "delay_spawn": true,
     "entity": [

@@ -28,7 +28,7 @@
       1
     ]
   },
-  "description": "Mace on a metal hilt with a scale pommel.",
+  "description": "Maça em um cabo de metal com um pomo em forma de escama.",
   "glyph": {
     "frames": [
       {
@@ -53,7 +53,7 @@
     160,
     161
   ],
-  "name": "Scale Mace",
+  "name": "Maça Escamada",
   "value": 3500,
   "weapon": {
     "attack_speed": 1.0,

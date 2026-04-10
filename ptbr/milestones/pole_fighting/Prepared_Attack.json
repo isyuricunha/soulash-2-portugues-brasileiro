@@ -1,6 +1,6 @@
 {
   "id": "core_2_prepared_attack",
-  "name": "Prepared Attack",
+  "name": "Ataque Preparado",
   "requirements": {
     "milestones": [],
     "skill": 42

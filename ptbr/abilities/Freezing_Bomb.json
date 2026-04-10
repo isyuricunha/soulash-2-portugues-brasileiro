@@ -21,7 +21,7 @@
   },
   "id": "core_2_Freezing_Bomb",
   "image": 771,
-  "name": "Freezing Bomb",
+  "name": "Bomba Congelante",
   "range": 6,
   "skill": "",
   "target": "aoe_tile"

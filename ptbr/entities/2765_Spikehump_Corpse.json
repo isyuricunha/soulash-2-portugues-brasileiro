@@ -9,7 +9,7 @@
     "producer",
     "weight"
   ],
-  "description": "A dead body of a spikehump.",
+  "description": "Um corpo morto de um espinhocorcunda.",
   "glyph": {
     "frames": [
       {
@@ -38,7 +38,7 @@
     128,
     104
   ],
-  "name": "Spikehump Corpse",
+  "name": "Cadáver de Espinho-Corpo",
   "producer": {
     "products": {
       "3": [

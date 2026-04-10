@@ -6,7 +6,7 @@
     "health": 0,
     "stamina": 4
   },
-  "description": "Slash an enemy dealing ::damage ::damage_type damage.",
+  "description": "Golpeia um inimigo causando ::damage de dano ::damage_type.",
   "duration": 0.0,
   "effects": {
     "damage": [
@@ -18,7 +18,7 @@
   },
   "id": "108",
   "image": 154,
-  "name": "Slash",
+  "name": "Golpe",
   "range": 1,
   "requirements": {
     "one_of": [

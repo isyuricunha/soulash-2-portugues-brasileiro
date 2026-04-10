@@ -13,7 +13,7 @@
     "weight"
   ],
   "corpse": "62",
-  "description": "Log is a tree with chopped branches. It can be very useful for building stuff. You might be able to produce some wooden chunks from it.",
+  "description": "Tora é uma árvore com galhos cortados. Pode ser muito útil para construir coisas. Você pode ser capaz de produzir alguns pedaços de madeira a partir dela.",
   "glyph": {
     "frames": [
       {
@@ -39,7 +39,7 @@
     102,
     57
   ],
-  "name": "Log",
+  "name": "Tora",
   "producer": {
     "products": {
       "1": [

@@ -12,7 +12,7 @@
     "value",
     "weight"
   ],
-  "description": "It's so fluffy!",
+  "description": "É tão fofinho!",
   "glyph": {
     "frames": [
       {
@@ -40,7 +40,7 @@
   "moveable": {
     "speed": -0.05000000074505806
   },
-  "name": "Ostrich Feather",
+  "name": "Pena de Avestruz",
   "resource": {
     "affix": "of the Ostrich",
     "magic_ingredient": 2,

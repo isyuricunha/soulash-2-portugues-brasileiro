@@ -51,7 +51,7 @@
     "time": 60,
     "tools": []
   },
-  "description": "A display rack designed to hold and showcase weapons, such as swords, axes, spears, or other similar items.",
+  "description": "Um expositor projetado para segurar e exibir armas, como espadas, machados, lanças ou outros itens similares.",
   "glyph": {
     "frames": [
       {
@@ -118,7 +118,7 @@
     48,
     17
   ],
-  "name": "Weapon Stand",
+  "name": "Suporte de Armas",
   "producer": {
     "products": {
       "core_2_deconstruct": [

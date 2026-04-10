@@ -24,7 +24,7 @@
     "weapon",
     "weight"
   ],
-  "description": "Grains of sand cemented together to form this rock.",
+  "description": "Grãos de areia cimentados juntos para formar esta rocha.",
   "glyph": {
     "frames": [
       {
@@ -49,7 +49,7 @@
     168,
     118
   ],
-  "name": "Sandstone",
+  "name": "Arenito",
   "resource": {
     "affix": "Sandstone",
     "magic_ingredient": 0,

@@ -39,7 +39,7 @@
       1
     ]
   },
-  "description": "Solid plates of metal to protect your legs from being cut off.",
+  "description": "Placas sólidas de metal para proteger suas pernas de serem cortadas.",
   "glyph": {
     "frames": [
       {
@@ -64,7 +64,7 @@
     143,
     137
   ],
-  "name": "Plate Greaves",
+  "name": "Caneleiras de Placas",
   "value": 2600,
   "weight": 4.0
 }

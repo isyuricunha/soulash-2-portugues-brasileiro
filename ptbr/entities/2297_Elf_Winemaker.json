@@ -68,9 +68,9 @@
   "moveable": {
     "speed": 1.100000023841858
   },
-  "name": "Elf Winemaker",
+  "name": "Elfo Vinicultor",
   "persona": {
-    "occupation": "Winemaker"
+    "occupation": "Vinicultor"
   },
   "sight": {
     "ignore_infra_penalty": false,

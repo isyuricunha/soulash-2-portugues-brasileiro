@@ -36,7 +36,7 @@
     "time": 30,
     "tools": []
   },
-  "description": "Beautiful pieces of jewelry are displayed here.",
+  "description": "Peças bonitas de joalheria são exibidas aqui.",
   "glyph": {
     "frames": [
       {
@@ -67,5 +67,5 @@
     131,
     77
   ],
-  "name": "Jewelry Display"
+  "name": "Expositor de Joias"
 }

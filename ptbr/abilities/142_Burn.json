@@ -6,7 +6,7 @@
     "health": 0,
     "stamina": 0
   },
-  "description": "Target is set ablaze and receives ::damage ::damage_type every turn.",
+  "description": "O alvo é posto em chamas e recebe ::damage de dano ::damage_type a cada turno.",
   "duration": 1.0,
   "effects": {
     "burn": 1,
@@ -19,7 +19,7 @@
   "id": "142",
   "image": 214,
   "level": 0,
-  "name": "Burn",
+  "name": "Queimadura",
   "range": 0,
   "target": "self"
 }

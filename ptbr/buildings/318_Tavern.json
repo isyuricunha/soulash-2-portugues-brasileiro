@@ -4,7 +4,7 @@
   "max": 2,
   "name": "Taberna",
   "occupation_image": 5,
-  "occupation": "core_2_Gnoll_Taberneiro",
+  "occupation": "core_2_Gnoll_Innkeeper",
   "produces": [
     {
       "entities": [

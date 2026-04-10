@@ -6,7 +6,7 @@
     "health": 0,
     "stamina": 3
   },
-  "description": "Ataque corpo a corpo que causa ::damage de ::damage_type de dano e aplica efeito de veneno por ::poison_effect rodadas.",
+  "description": "Ataque corpo a corpo que causa ::damage de dano ::damage_type e aplica efeito de veneno por ::poison_effect rodadas.",
   "duration": 0.0,
   "effects": {
     "damage": [

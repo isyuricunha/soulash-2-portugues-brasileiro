@@ -17,7 +17,7 @@
   },
   "id": "core_2_Summon_Healing_Flower",
   "image": 729,
-  "name": "Invocar Flor de Cura",
+  "name": "Invocar Flor Curativa",
   "range": 5,
   "skill": "core_2_floromancy",
   "slots": {

@@ -39,7 +39,7 @@
       14
     ]
   },
-  "description": "Leather armor with iron plates for extra protection. Common among outlaws.",
+  "description": "Armadura de couro com placas de ferro para proteção extra. Comum entre fora-da-lei.",
   "glyph": {
     "frames": [
       {
@@ -64,7 +64,7 @@
     140,
     141
   ],
-  "name": "Brigandine",
+  "name": "Brigantina",
   "value": 5000,
   "weight": 3.5
 }

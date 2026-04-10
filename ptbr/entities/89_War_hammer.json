@@ -29,7 +29,7 @@
       1
     ]
   },
-  "description": "Only the strongest and most savage warriors can wield this weapon with skill, and it is often said that a single strike could shatter every bone in a human's body.",
+  "description": "Apenas os guerreiros mais fortes e selvagens podem manejar esta arma com habilidade, e muitas vezes se diz que um único golpe poderia espatifar todos os ossos no corpo de um humano.",
   "glyph": {
     "frames": [
       {
@@ -54,7 +54,7 @@
     210,
     238
   ],
-  "name": "War Hammer",
+  "name": "Martelo de Guerra",
   "tool": [
     {
       "id": 6,

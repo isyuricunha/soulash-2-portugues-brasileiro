@@ -9,7 +9,7 @@
     "producer",
     "weight"
   ],
-  "description": "A humanoid corpse, impaled on a wooden stake.",
+  "description": "Um cadáver humanoide, empalado em uma estaca de madeira.",
   "glyph": {
     "frames": [
       {
@@ -47,7 +47,7 @@
     128,
     104
   ],
-  "name": "Impaled Humanoid Corpse",
+  "name": "Cadáver Humanoide Empalado",
   "producer": {
     "products": {
       "3": [

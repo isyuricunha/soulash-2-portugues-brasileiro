@@ -21,7 +21,7 @@
   },
   "id": "core_2_Exploding_Bomb",
   "image": 768,
-  "name": "Exploding Bomb",
+  "name": "Bomba Explosiva",
   "range": 6,
   "skill": "",
   "target": "aoe_tile"

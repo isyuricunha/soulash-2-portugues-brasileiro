@@ -39,7 +39,7 @@
       {
         "chance": 1.0,
         "id": "194",
-        "name": "Arrow",
+        "name": "Flecha",
         "stack": 20
       }
     ],
@@ -47,7 +47,7 @@
       {
         "chance": 1.0,
         "id": "102",
-        "name": "Short Bow",
+        "name": "Arco Curto",
         "stack": 1
       }
     ]
@@ -86,9 +86,9 @@
   "moveable": {
     "speed": 1.0
   },
-  "name": "Elf Recruit",
+  "name": "Elfo Recruta",
   "persona": {
-    "occupation": "Recruit"
+    "occupation": "Recruta"
   },
   "sight": {
     "ignore_infra_penalty": false,

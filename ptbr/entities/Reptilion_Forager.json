@@ -39,7 +39,7 @@
       {
         "chance": 1.0,
         "id": "323",
-        "name": "Calças Justas",
+        "name": "Collant",
         "stack": 1
       }
     ],
@@ -61,7 +61,7 @@
       {
         "chance": 0.699999988079071,
         "id": "183",
-        "name": "Manto",
+        "name": "Túnica",
         "stack": 1
       }
     ]
@@ -102,7 +102,7 @@
   },
   "name": "Forrageador Reptilion",
   "persona": {
-    "occupation": "Forager"
+    "occupation": "Forrageador"
   },
   "sight": {
     "ignore_infra_penalty": false,

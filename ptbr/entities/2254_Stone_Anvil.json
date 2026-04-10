@@ -21,7 +21,7 @@
     "time": 60,
     "tools": []
   },
-  "description": "An experienced smith can make some quality weapons and armors with an anvil.",
+  "description": "Um ferreiro experiente pode fazer algumas armas e armaduras de qualidade com uma bigorna.",
   "glyph": {
     "frames": [
       {
@@ -42,7 +42,7 @@
     143,
     137
   ],
-  "name": "Stone Anvil",
+  "name": "Bigorna de Pedra",
   "producer": {
     "products": {
       "core_2_deconstruct": [

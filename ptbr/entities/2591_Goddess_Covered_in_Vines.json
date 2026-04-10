@@ -39,7 +39,7 @@
     "time": 120,
     "tools": []
   },
-  "description": "Statue made of stone preserving an image of a forgotten goddess. The vines take a shape of letters that says: \"There's no gods but Ladies of the Woods.\"",
+  "description": "Estátua feita de pedra preservando a imagem de uma deusa esquecida. As vinhas tomam a forma de letras que dizem: \"Não há deuses além das Damas dos Bosques.\"",
   "glyph": {
     "frames": [
       {
@@ -80,5 +80,5 @@
     80,
     80
   ],
-  "name": "Goddess Covered in Vines"
+  "name": "Deusa Coberta por Vinhas"
 }

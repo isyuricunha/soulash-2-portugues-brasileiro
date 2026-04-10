@@ -9,7 +9,7 @@
     "value",
     "weight"
   ],
-  "description": "The small twisted body of a gniseggi.",
+  "description": "O pequeno corpo retorcido de um gniseggi.",
   "glyph": {
     "frames": [
       {
@@ -38,7 +38,7 @@
     154,
     20
   ],
-  "name": "Gniseggi Corpse",
+  "name": "Cadáver de Gniseggi",
   "value": 0,
   "weight": 35.0
 }

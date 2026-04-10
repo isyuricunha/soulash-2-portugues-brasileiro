@@ -40,7 +40,7 @@
       {
         "chance": 1.0,
         "id": "78",
-        "name": "Sword",
+        "name": "Espada",
         "stack": 1
       }
     ],
@@ -48,7 +48,7 @@
       {
         "chance": 1.0,
         "id": "165",
-        "name": "Leather Armor",
+        "name": "Armadura de Couro",
         "stack": 1
       }
     ]
@@ -87,7 +87,7 @@
   "moveable": {
     "speed": 1.2000000476837158
   },
-  "name": "Soldier",
+  "name": "Soldado",
   "sight": {
     "ignore_infra_penalty": false,
     "infravision": false,

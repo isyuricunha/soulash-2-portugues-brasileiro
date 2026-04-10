@@ -23,7 +23,7 @@
     "time": 60,
     "tools": []
   },
-  "description": "Great for making all kinds of baked goods.",
+  "description": "Ótimo para fazer todo tipo de produtos assados.",
   "glyph": {
     "frames": [
       {
@@ -61,7 +61,7 @@
     83,
     92
   ],
-  "name": "Oven",
+  "name": "Forno",
   "producer": {
     "products": {
       "core_2_deconstruct": [

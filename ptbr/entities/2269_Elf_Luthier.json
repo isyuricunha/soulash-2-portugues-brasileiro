@@ -40,7 +40,7 @@
       {
         "chance": 1.0,
         "id": "323",
-        "name": "Tights",
+        "name": "Collant",
         "stack": 1
       }
     ],
@@ -48,7 +48,7 @@
       {
         "chance": 1.0,
         "id": "2357",
-        "name": "Lute",
+        "name": "Alaúde",
         "stack": 1
       }
     ]
@@ -87,9 +87,9 @@
   "moveable": {
     "speed": 1.0
   },
-  "name": "Elf Luthier",
+  "name": "Lutier Elfo",
   "persona": {
-    "occupation": "Luthier"
+    "occupation": "Lutier"
   },
   "sight": {
     "ignore_infra_penalty": false,

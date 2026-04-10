@@ -1,6 +1,6 @@
 {
   "id": "core_2_earthquake",
-  "name": "Earthquake",
+  "name": "Terremoto",
   "requirements": {
     "skill": 44
   },

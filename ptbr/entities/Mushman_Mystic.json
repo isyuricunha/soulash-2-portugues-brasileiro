@@ -78,9 +78,9 @@
   "moveable": {
     "speed": 1.0
   },
-  "name": "Mushman Mystic",
+  "name": "Místico Mushman",
   "persona": {
-    "occupation": "Mystic"
+    "occupation": "Místico"
   },
   "sight": {
     "ignore_infra_penalty": false,

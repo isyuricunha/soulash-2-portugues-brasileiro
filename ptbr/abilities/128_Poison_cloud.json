@@ -6,7 +6,7 @@
     "health": 0,
     "stamina": 10
   },
-  "description": "Creates a temporary cloud in the selected area dealing ::damage ::damage_type damage immediately and apply Poison to everyone for ::poison_effect turns. The clouds may sometimes remain in random tiles for ::duration turns.",
+  "description": "Cria uma nuvem temporária na área selecionada, causando ::damage de dano ::damage_type imediatamente e aplicando Veneno a todos por ::poison_effect turnos. As nuvens podem às vezes permanecer em células aleatórias por ::duration turnos.",
   "duration": 2.0,
   "effects": {
     "aoe_range": 3,
@@ -25,7 +25,7 @@
   },
   "id": "128",
   "image": 599,
-  "name": "Poison Cloud",
+  "name": "Nuvem de Veneno",
   "range": 6,
   "skill": "core_2_floromancy",
   "slots": {

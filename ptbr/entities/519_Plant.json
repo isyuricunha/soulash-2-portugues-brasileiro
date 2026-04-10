@@ -11,7 +11,7 @@
     "position_2d"
   ],
   "corpse": "-1",
-  "description": "Plant that is usually kept indoors for decoration purposes.",
+  "description": "Planta que geralmente é mantida dentro de casa para fins decorativos.",
   "glyph": {
     "frames": [
       {
@@ -61,5 +61,5 @@
     53,
     10
   ],
-  "name": "Plant"
+  "name": "Plantar"
 }

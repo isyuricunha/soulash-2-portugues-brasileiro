@@ -37,7 +37,7 @@
       {
         "chance": 1.0,
         "id": "70",
-        "name": "Knife",
+        "name": "Faca",
         "stack": 1
       }
     ],
@@ -45,7 +45,7 @@
       {
         "chance": 1.0,
         "id": "184",
-        "name": "Shirt",
+        "name": "Camisa",
         "stack": 1
       }
     ]
@@ -84,9 +84,9 @@
   "moveable": {
     "speed": 1.2000000476837158
   },
-  "name": "Dwarf Rancher",
+  "name": "Criador Anão",
   "persona": {
-    "occupation": "Rancher"
+    "occupation": "Fazendeiro"
   },
   "sight": {
     "ignore_infra_penalty": false,

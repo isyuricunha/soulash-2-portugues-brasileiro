@@ -27,7 +27,7 @@
     "time": 5,
     "tools": []
   },
-  "description": "Heavy wooden crate that can be thrown at someone.",
+  "description": "Caixote de madeira pesado que pode ser arremessado em alguém.",
   "glyph": {
     "frames": [
       {
@@ -58,7 +58,7 @@
     78,
     34
   ],
-  "name": "Wooden Crate",
+  "name": "Caixote de Madeira",
   "producer": {
     "products": {
       "core_2_deconstruct": [

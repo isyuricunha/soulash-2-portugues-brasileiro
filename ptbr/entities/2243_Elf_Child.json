@@ -57,9 +57,9 @@
   "moveable": {
     "speed": 2.0
   },
-  "name": "Elf Child",
+  "name": "Criança Elfo",
   "persona": {
-    "occupation": "Child"
+    "occupation": "Filhote"
   },
   "sight": {
     "ignore_infra_penalty": false,

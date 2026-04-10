@@ -36,7 +36,7 @@
     "tags"
   ],
   "corpse": "25",
-  "description": "A powerful spellcaster who has sworn their loyalty to an ancient being.",
+  "description": "Um poderoso conjurador que jurou lealdade a um ser ancestral.",
   "dialogues": [
     "641",
     "642"
@@ -46,7 +46,7 @@
       {
         "chance": 1.0,
         "id": "2986",
-        "name": "Book of Pyromancy",
+        "name": "Livro de Piromancia",
         "stack": 1
       }
     ],
@@ -54,7 +54,7 @@
       {
         "chance": 0.0,
         "id": "2224",
-        "name": "Enchanted Sash",
+        "name": "Faixa Encantada",
         "stack": 1
       }
     ],
@@ -62,7 +62,7 @@
       {
         "chance": 1.0,
         "id": "370",
-        "name": "Dark Blade",
+        "name": "Lâmina Negra",
         "stack": 1
       }
     ],
@@ -70,7 +70,7 @@
       {
         "chance": 1.0,
         "id": "2217",
-        "name": "Decorated Tunic",
+        "name": "Túnica Decorada",
         "stack": 1
       }
     ]

@@ -1,9 +1,9 @@
 {
   "id": "312",
   "image": 241,
-  "name": "Lenhador",
+  "name": "Lanhador",
   "occupation_image": 40,
-  "occupation": "core_2_Gnoll_Lenhador",
+  "occupation": "core_2_Gnoll_Woodcutter",
   "produces": [
     {
       "entities": [

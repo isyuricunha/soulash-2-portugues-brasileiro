@@ -6,7 +6,7 @@
     "health": 0,
     "stamina": 6
   },
-  "description": "Make a shrill cry dealing ::damage ::damage_type damage to everyone in a cone.",
+  "description": "Emite um grito agudo causando ::damage de dano ::damage_type a todos em um cone.",
   "duration": 0.0,
   "effects": {
     "aoe_break": 2,
@@ -19,7 +19,7 @@
   },
   "id": "120",
   "image": 569,
-  "name": "Screech",
+  "name": "Grito",
   "range": 5,
   "target": "cone"
 }

@@ -24,7 +24,7 @@
     "producer"
   ],
   "corpse": "783",
-  "description": "Stone statue covered in vines that take the shape of scripture: \"There's no gods but Ladies of the Woods.\"",
+  "description": "Estátua de pedra coberta por vinhas que tomam a forma de escritura: \"Não há deuses além das Damas dos Bosques.\"",
   "glyph": {
     "frames": [
       {
@@ -65,7 +65,7 @@
     80,
     80
   ],
-  "name": "Statue covered in Letter Vines",
+  "name": "Estátua Coberta por Vinhas em Forma de Letras",
   "producer": {
     "products": {
       "core_2_deconstruct": [

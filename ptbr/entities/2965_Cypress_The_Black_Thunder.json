@@ -34,7 +34,7 @@
     "tags"
   ],
   "corpse": "2994",
-  "description": "Once a magnificent dragon, now bones and scraps of skin held togher with sinister magic.",
+  "description": "Já foi um magnífico dragão, agora ossos e pedaços de pele mantidos juntos com magia sinistra.",
   "dialogues": [
     "637",
     "638"
@@ -67,7 +67,7 @@
   "moveable": {
     "speed": 0.8999999761581421
   },
-  "name": "Cypress The Black Thunder",
+  "name": "Cypress O Trovão Negro",
   "sight": {
     "ignore_infra_penalty": false,
     "infravision": true,

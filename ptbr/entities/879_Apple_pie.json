@@ -29,7 +29,7 @@
       3
     ]
   },
-  "description": "A sweet pie filled with cooked apple slices.",
+  "description": "Uma torta doce recheada com fatias de maçã cozidas.",
   "food": {
     "nutrition": 70,
     "poisonous": 0,
@@ -59,7 +59,7 @@
     130,
     50
   ],
-  "name": "Apple Pie",
+  "name": "Torta de Maçã",
   "value": 1000,
   "weight": 0.20000000298023224
 }

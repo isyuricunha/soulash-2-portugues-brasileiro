@@ -28,7 +28,7 @@
     "tags"
   ],
   "corpse": "2240",
-  "description": "A large, muscular humanoid with a bull-like head. It looks angry.",
+  "description": "Um grande humanoide musculoso com uma cabeça de touro. Parece bravo.",
   "dialogues": [
     "584",
     "585"
@@ -38,7 +38,7 @@
       {
         "chance": 1.0,
         "id": "190",
-        "name": "Belt",
+        "name": "Cinto",
         "stack": 1
       }
     ],
@@ -46,7 +46,7 @@
       {
         "chance": 1.0,
         "id": "2175",
-        "name": "Fur Loincloth",
+        "name": "Tanga de Pele",
         "stack": 1
       }
     ],
@@ -54,7 +54,7 @@
       {
         "chance": 1.0,
         "id": "374",
-        "name": "Double Axe",
+        "name": "Machado Duplo",
         "stack": 1
       }
     ]
@@ -93,7 +93,7 @@
   "moveable": {
     "speed": 1.0
   },
-  "name": "Minotaur",
+  "name": "Minotauro",
   "sight": {
     "ignore_infra_penalty": false,
     "infravision": false,

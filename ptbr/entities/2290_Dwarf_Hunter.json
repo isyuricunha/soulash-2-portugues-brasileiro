@@ -40,7 +40,7 @@
       {
         "chance": 1.0,
         "id": "234",
-        "name": "Bolt",
+        "name": "Dardo",
         "stack": 12
       }
     ],
@@ -48,7 +48,7 @@
       {
         "chance": 1.0,
         "id": "106",
-        "name": "Crossbow",
+        "name": "Besta",
         "stack": 1
       }
     ]
@@ -87,9 +87,9 @@
   "moveable": {
     "speed": 1.0
   },
-  "name": "Dwarf Hunter",
+  "name": "Anão Caçador",
   "persona": {
-    "occupation": "Hunter"
+    "occupation": "Caçador"
   },
   "sight": {
     "ignore_infra_penalty": false,

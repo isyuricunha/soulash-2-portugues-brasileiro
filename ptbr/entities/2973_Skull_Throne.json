@@ -36,7 +36,7 @@
     "time": 100,
     "tools": []
   },
-  "description": "Majestic throne build entirely from skulls.",
+  "description": "Trono majestoso construído inteiramente de caveiras.",
   "glyph": {
     "frames": [
       {
@@ -59,7 +59,7 @@
     16,
     11
   ],
-  "name": "Skull Throne",
+  "name": "Trono de Caveiras",
   "producer": {
     "products": {
       "core_2_deconstruct": [

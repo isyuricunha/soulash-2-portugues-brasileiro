@@ -41,7 +41,7 @@
       {
         "chance": 1.0,
         "id": "21",
-        "name": "Nasal Helmet",
+        "name": "Capacete Nasal",
         "stack": 1
       }
     ],
@@ -49,7 +49,7 @@
       {
         "chance": 1.0,
         "id": "572",
-        "name": "Leg Guards",
+        "name": "Guarda-Pernas",
         "stack": 1
       }
     ],
@@ -65,7 +65,7 @@
       {
         "chance": 1.0,
         "id": "166",
-        "name": "Breastplate",
+        "name": "Peitoral",
         "stack": 1
       }
     ]
@@ -100,7 +100,7 @@
   "moveable": {
     "speed": 0.800000011920929
   },
-  "name": "Human General",
+  "name": "General Humano",
   "persona": {
     "occupation": "General"
   },

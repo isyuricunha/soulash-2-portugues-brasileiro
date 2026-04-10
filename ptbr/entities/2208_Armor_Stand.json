@@ -51,7 +51,7 @@
     "time": 60,
     "tools": []
   },
-  "description": "A stand designed to display and store armor.",
+  "description": "Um suporte projetado para exibir e armazenar armaduras.",
   "glyph": {
     "frames": [
       {
@@ -100,7 +100,7 @@
     48,
     17
   ],
-  "name": "Armor Stand",
+  "name": "Suporte de Armadura",
   "producer": {
     "products": {
       "core_2_deconstruct": [

@@ -37,7 +37,7 @@
       1
     ]
   },
-  "description": "Cover the head and face very well, but obscures vision.",
+  "description": "Cobre a cabeça e o rosto muito bem, mas obscurece a visão.",
   "glyph": {
     "frames": [
       {
@@ -62,7 +62,7 @@
     190,
     191
   ],
-  "name": "Great Helmet",
+  "name": "Grande Capacete",
   "value": 5000,
   "weight": 3.5
 }

@@ -63,7 +63,7 @@
       {
         "chance": 1.0,
         "id": "370",
-        "name": "Lâmina Sombria",
+        "name": "Lâmina Negra",
         "stack": 1
       }
     ],
@@ -71,7 +71,7 @@
       {
         "chance": 1.0,
         "id": "183",
-        "name": "Veste",
+        "name": "Túnica",
         "stack": 1
       }
     ]

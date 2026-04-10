@@ -28,7 +28,7 @@
     "weapon"
   ],
   "corpse": "593",
-  "description": "This overgrown cat is the perfect hunter. It looks like it didn't get fed for some time, and you can sense its eagerness to eat you.",
+  "description": "Este gato grande é o caçador perfeito. Parece que não foi alimentado há algum tempo, e você pode sentir seu desejo de te devorar.",
   "dialogues": [
     "238",
     "239",
@@ -91,7 +91,7 @@
   "moveable": {
     "speed": 0.699999988079071
   },
-  "name": "Tiger",
+  "name": "Tigre",
   "sight": {
     "ignore_infra_penalty": false,
     "infravision": true,

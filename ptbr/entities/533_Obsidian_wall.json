@@ -48,7 +48,7 @@
       6
     ]
   },
-  "description": "Wall made of obsidian blocks.",
+  "description": "Parede feita de blocos de obsidiana.",
   "glyph": {
     "frames": [
       {
@@ -89,7 +89,7 @@
     41,
     58
   ],
-  "name": "Obsidian Wall",
+  "name": "Parede de Obsidiana",
   "producer": {
     "products": {
       "core_2_deconstruct": [
