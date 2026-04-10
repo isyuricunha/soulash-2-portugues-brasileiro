@@ -23,7 +23,7 @@
     "position_2d"
   ],
   "corpse": [],
-  "description": "A stone statue of a gargolye that seems to be following you with its eyes.",
+  "description": "Uma estátua de pedra de um gárgula que parece estar te seguindo com seus olhos.",
   "glyph": {
     "frames": [
       {
@@ -46,5 +46,5 @@
     80,
     80
   ],
-  "name": "Stone Gargoyle"
+  "name": "Gárgula de Pedra"
 }

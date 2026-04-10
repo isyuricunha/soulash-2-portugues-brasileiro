@@ -34,7 +34,7 @@
     "weapon"
   ],
   "corpse": "2652",
-  "description": "A large humanoid with only one eye in the middle of its face,",
+  "description": "Um grande humanoide com apenas um olho no meio do rosto,",
   "dialogues": [
     "616",
     "617"
@@ -109,7 +109,7 @@
   "moveable": {
     "speed": 1.0
   },
-  "name": "Cyclops",
+  "name": "Cíclope",
   "sight": {
     "ignore_infra_penalty": false,
     "infravision": false,

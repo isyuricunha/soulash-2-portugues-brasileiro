@@ -34,7 +34,7 @@
     "weapon"
   ],
   "corpse": "core_2_Collectors_Bone",
-  "description": "This spider-like creature has many very thin, long arms.",
+  "description": "Esta criatura semelhante a uma aranha tem muitos braços muito finos e longos.",
   "dialogues": [
     "1028"
   ],
@@ -81,7 +81,7 @@
   "moveable": {
     "speed": 0.800000011920929
   },
-  "name": "Bone Collector",
+  "name": "Colecionador de Ossos",
   "sight": {
     "ignore_infra_penalty": false,
     "infravision": false,

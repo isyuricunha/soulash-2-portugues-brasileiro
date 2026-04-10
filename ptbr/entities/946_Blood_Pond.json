@@ -42,7 +42,7 @@
       "id": "946"
     }
   ],
-  "description": "A pond of crimson red blood.",
+  "description": "Uma lagoa de sangue vermelho carmesim.",
   "glyph": {
     "frames": [
       {
@@ -77,7 +77,7 @@
     62,
     57
   ],
-  "name": "Blood Pond",
+  "name": "Lagoa de Sangue",
   "water": {
     "swimming": true
   }

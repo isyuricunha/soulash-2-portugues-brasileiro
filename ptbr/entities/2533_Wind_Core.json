@@ -11,7 +11,7 @@
     "weapon",
     "weight"
   ],
-  "description": "The wind core is an ethereal gem resonating with the boundless energy of the skies. It hums with the essence of air and carries a whisper of distant breezes.",
+  "description": "O núcleo de vento é uma gema etérea que ressoa com a energia ilimitada dos céus. Ele vibra com a essência do ar e carrega um sussurro de brisas distantes.",
   "glyph": {
     "frames": [
       {
@@ -36,7 +36,7 @@
     109,
     155
   ],
-  "name": "Wind Core",
+  "name": "Núcleo de Vento",
   "resource": {
     "affix": "of the Hurricane",
     "magic_ingredient": 3,

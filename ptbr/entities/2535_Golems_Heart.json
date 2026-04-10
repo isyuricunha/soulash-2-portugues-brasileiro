@@ -11,7 +11,7 @@
     "value",
     "weight"
   ],
-  "description": "Crafted by skilled artificers and infused with arcane energy, the golem heart is the core that gives the golem its sentience and strength.",
+  "description": "Criado por artesãos habilidosos e infundido com energia arcana, o coração de golem é o núcleo que dá ao golem sua consciência e força.",
   "glyph": {
     "frames": [
       {
@@ -36,7 +36,7 @@
     109,
     155
   ],
-  "name": "Golem's Heart",
+  "name": "Coração de Golem",
   "resource": {
     "affix": "of the Servant",
     "magic_ingredient": 3,

@@ -8,7 +8,7 @@
     "producer",
     "weight"
   ],
-  "description": "Animated topaz vein, but this time it is dead.",
+  "description": "Veio de topázio animado, mas desta vez está morto.",
   "glyph": {
     "frames": [
       {
@@ -33,7 +33,7 @@
     128,
     104
   ],
-  "name": "Animated Topaz Vein Corpse",
+  "name": "Cadáver de Veio de Topázio Animado",
   "producer": {
     "products": {
       "3": [

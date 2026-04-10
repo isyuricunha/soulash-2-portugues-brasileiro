@@ -12020,44 +12020,44 @@
       "description": "Componente interno in-game."
     },
     {
-      "name": "Party",
+      "name": "Grupo",
       "description": "Componente interno in-game."
     },
     {
       "name": "Persona",
-      "description": "Characters with Persona component are global NPCs. Occupation will display in the character's tooltip.\n\nRequired components: Position2D, Name."
+      "description": "Personagens com o componente Persona são NPCs globais. A ocupação será exibida na dica do personagem.\n\nComponentes necessários: Position2D, Nome."
     },
     {
-      "name": "Player",
+      "name": "Jogador",
       "description": "Componente interno in-game."
     },
     {
-      "name": "Position",
-      "description": "All advanced entities required Position2D component. Without this component, you can create only a limited entity that serves as a background tile like grass or dirt. It's used this way for optimization. Components available without the Position2D component are Name, Background, Height, Health, Collidable, Block light, Random Resource.\n\nRequired components: None."
+      "name": "Posição",
+      "description": "Todas as entidades avançadas exigem o componente Position2D. Sem este componente, você só pode criar uma entidade limitada que serve como uma célula de fundo, como grama ou terra. É usado dessa forma para otimização. Os componentes disponíveis sem o componente Position2D são Nome, Fundo, Altura, Vida, Colisível, Bloquear luz, Recurso Aleatório.\n\nComponentes necessários: Nenhum."
     },
     {
-      "name": "Producer",
-      "description": "Producer component allows creating any entity as a result of an action that player or AI entity can take. \n\nRequired components: Position2D."
+      "name": "Produtor",
+      "description": "O componente Produtor permite criar qualquer entidade como resultado de uma ação que o jogador ou a entidade de IA pode realizar.\n\nComponentes necessários: Position2D."
     },
     {
-      "name": "Random Resource",
-      "description": "Random resource component allows placing multiple new entities in range, randomly during world generation.\n[color=192,176,27,255]Entities[/color] are a list entities that may spawn on the spot.\n[color=192,176,27,255]Spawn at entities[/color] is optional and may restrict where entities will spawn - for example spawn the entities only on grass tiles.\n[color=192,176,27,255]Amount between[/color] defines range that will be used to generate the count of the entities.\n[color=192,176,27,255]Distance between[/color] defines distance in tiles (radius) that can be used to define position where entity should spawn.\n[color=192,176,27,255]Spawn chance[/color] determines the chance (0.01 = 1%) for entity to spawn at selected spot during world generation.\n[color=192,176,27,255]Spawn rolls[/color] determines how many times the spawn attempt should be repeated.\n[color=192,176,27,255]Respawn rate[/color] defines time required to another spawn. If not set the spawn happens only during new world generation.\n[color=192,176,27,255]Multiply chance[/color] defines percentage (0.01 = 1%) chance to spawn extra entity into adjacent tile.\n[color=192,176,27,255]Multiply same[/color] when checked forces the adjacent tile spawn to be exactly the same as the first rolled.\n\nRequired components: Name."
+      "name": "Recurso Aleatório",
+      "description": "O componente de recurso aleatório permite colocar várias novas entidades em um intervalo, aleatoriamente durante a geração do mundo.\n[color=192,176,27,255]Entidades[/color] são uma lista de entidades que podem aparecer no local.\n[color=192,176,27,255]Aparecer em entidades[/color] é opcional e pode restringir onde as entidades vão aparecer - por exemplo, fazer com que as entidades apareçam apenas em células de grama.\n[color=192,176,27,255]Quantidade entre[/color] define o intervalo que será usado para gerar a contagem das entidades.\n[color=192,176,27,255]Distância entre[/color] define a distância em células (raio) que pode ser usada para definir a posição onde a entidade deve aparecer.\n[color=192,176,27,255]Chance de aparecer[/color] determina a chance (0,01 = 1%) de a entidade aparecer no local selecionado durante a geração do mundo.\n[color=192,176,27,255]Tentativas de aparecer[/color] determina quantas vezes a tentativa de aparecer deve ser repetida.\n[color=192,176,27,255]Taxa de reaparecimento[/color] define o tempo necessário para outro aparecimento. Se não definido, o aparecimento acontece apenas durante a geração de um novo mundo.\n[color=192,176,27,255]Multiplicar chance[/color] define a chance de porcentagem (0,01 = 1%) de aparecer uma entidade extra na célula adjacente.\n[color=192,176,27,255]Multiplicar igual[/color] quando marcado força o aparecimento na célula adjacente a ser exatamente o mesmo que o primeiro rolado.\n\nComponentes necessários: Nome."
     },
     {
-      "name": "Relations",
+      "name": "Relações",
       "description": "Componente interno in-game."
     },
     {
-      "name": "Resource",
-      "description": "Resources are used in crafting and provide bonuses to base item recipes. The item with Resource component must have item type Resource set up. To add bonuses to weapons, or armors add Weapon and Armor components respectively and add bonuses there.\n\nRequired components: Position2D, Name, Item."
+      "name": "Recurso",
+      "description": "Os recursos são usados na criação de itens e fornecem bônus às receitas básicas de itens. O item com o componente Recurso deve ter o tipo de item Recurso configurado. Para adicionar bônus a armas ou armaduras, adicione os componentes Arma e Armadura, respectivamente, e adicione os bônus lá.\n\nComponentes necessários: Position2D, Nome, Item."
     },
     {
-      "name": "Resurrector",
-      "description": "Resurrector component resurrects the entity. For player, it will resurrect in the starting location. If the component is on item, the effect will apply to the owner. Item will be destroyed upon resurrecting the actor. If this component is on Actor, there's no limit to resurrections making the entity immortal.\n\nRequired components: Position2D, Name, Item or Actor."
+      "name": "Ressuscitador",
+      "description": "O componente Ressuscitador ressuscita a entidade. Para o jogador, ele ressuscitará no local inicial. Se o componente estiver em um item, o efeito será aplicado ao proprietário. O item será destruído ao ressuscitar o ator. Se este componente estiver no Ator, não há limite para ressurreições, tornando a entidade imortal.\n\nComponentes necessários: Position2D, Nome, Item ou Ator."
     },
     {
-      "name": "Resting",
-      "description": "Resting place component adds bonus to sleep speed when some entity with [color=192,176,27,255]Stamina[/color] component sleeps on top of it. The standard resting bonus is 100, so entities with this component should have a higher value unless some area is supposed to have negative resting bonus.\n\nRequired components: Position2D, Name."
+      "name": "Descanso",
+      "description": "O componente local de descanso adiciona um bônus à velocidade do sono quando alguma entidade com o componente [color=192,176,27,255]Fôlego[/color] dorme em cima dele. O bônus de descanso padrão é 100, então entidades com este componente devem ter um valor maior, a menos que alguma área deva ter um bônus de descanso negativo.\n\nComponentes necessários: Position2D, Nome."
     },
     {
       "name": "Visto",
@@ -12920,147 +12920,147 @@
     {
       "id": 31,
       "name": "Aparar",
-      "description": "Parry +::value%."
+      "description": "Aparar +::value%."
     },
     {
       "id": 32,
-      "name": "Extra Equip Slot",
-      "description": "You gain additional equipment slot for ::value."
+      "name": "Slot de Equipamento Extra",
+      "description": "Você ganha um slot de equipamento adicional para ::value."
     },
     {
       "id": 33,
       "name": "Descoberta de Recursos",
-      "description": "You can now spend a few hours to discover a resource on the World Map."
+      "description": "Você pode agora passar algumas horas para descobrir um recurso no Mapa Mundial."
     },
     {
       "id": 34,
-      "name": "Movement Stamina",
-      "description": "Stamina cost to move ::value%."
+      "name": "Fôlego de Movimento",
+      "description": "Custo de Fôlego para mover ::value%."
     },
     {
       "id": 35,
       "name": "Pontos de Interesse",
-      "description": "You can now ask innkeepers and hunters to discover Points of Interest close to their settlement."
+      "description": "Você pode agora pedir a estalajadeiros e caçadores para descobrir Pontos de Interesse próximos aos seus assentamentos."
     },
     {
       "id": 36,
       "name": "Dormir Mais Rápido",
-      "description": "Fatigue Recovery during sleep is quicker by ::value%."
+      "description": "A recuperação de Fadiga durante o sono é ::value% mais rápida."
     },
     {
       "id": 37,
-      "name": "Area Maps",
-      "description": "When you enter a new region of z-level ::value, the region map for that level becomes fully discovered."
+      "name": "Mapas de Área",
+      "description": "Quando você entra em uma nova região do nível z ::value, o mapa da região para aquele nível fica completamente descoberto."
     },
     {
       "id": 38,
-      "name": "Effect Immunity",
-      "description": "You're immune to ::value effects."
+      "name": "Imunidade a Efeitos",
+      "description": "Você é imune a efeitos de ::value."
     },
     {
       "id": 39,
-      "name": "Parry Counter",
-      "description": "Max Parry Counter +::value. Parry counters reset when you perform an attack."
+      "name": "Contador de Aparar",
+      "description": "Contador Máximo de Aparar +::value. Os contadores de aparar são resetados quando você realiza um ataque."
     },
     {
       "id": 40,
       "name": "Esquiva",
-      "description": "You have ::value% chance to dodge basic attacks."
+      "description": "Você tem ::value% de chance de esquivar de ataques básicos."
     },
     {
       "id": 41,
-      "name": "See Behind",
-      "description": "You can see behind you up to ::value% of your normal range."
+      "name": "Ver Atrás",
+      "description": "Você pode ver atrás de você até ::value% do seu alcance normal."
     },
     {
       "id": 42,
-      "name": "No Fall Damage",
-      "description": "You're immune to fall damage."
+      "name": "Sem Dano de Queda",
+      "description": "Você é imune a dano de queda."
     },
     {
       "id": 43,
-      "name": "Unlock Production Action",
-      "description": "Unlocks action ::value."
+      "name": "Desbloquear Ação de Produção",
+      "description": "Desbloqueia a ação ::value."
     },
     {
       "id": 44,
-      "name": "Thorns From Missing Health",
-      "description": "Gain +1 Thorns for every ::value% of missing health."
+      "name": "Espinhos da Vida Perdida",
+      "description": "Ganha +1 Espinhos para cada ::value% de vida perdida."
     },
     {
       "id": 45,
       "name": "Capacidade de Carga",
-      "description": "Carry Capacity +::value."
+      "description": "Capacidade de Carga +::value."
     },
     {
       "id": 46,
-      "name": "Max Health",
-      "description": "Max Health is increased by +::value%. Applies to base Health and Health gained from Endurance."
+      "name": "Vida Máxima",
+      "description": "Vida Máxima é aumentada em +::value%. Aplica-se à Vida base e à Vida ganha da Resistência."
     },
     {
       "id": 47,
-      "name": "Max Stamina",
-      "description": "Max Stamina +::value."
+      "name": "Fôlego Máximo",
+      "description": "Fôlego Máximo +::value."
     },
     {
       "id": 48,
-      "name": "Health Regeneration Tick",
-      "description": "Health Regeneration Time -::value%."
+      "name": "Tempo de Regeneração de Vida",
+      "description": "Tempo de Regeneração de Vida -::value%."
     },
     {
       "id": 49,
       "name": "Velocidade de Ataque",
-      "description": "Speed up basic attacks by ::value."
+      "description": "Acelera ataques básicos em ::value."
     },
     {
       "id": 50,
-      "name": "Movement Penalty",
-      "description": "Movement penalty from rough terrain is reduced by ::value%."
+      "name": "Penalidade de Movimento",
+      "description": "A penalidade de movimento em terrenos acidentados é reduzida em ::value%."
     },
     {
       "id": 51,
-      "name": "Production Action Speed",
-      "description": "Speed of ::value action is reduced by ::secondary_value%."
+      "name": "Velocidade de Ação de Produção",
+      "description": "A velocidade da ação ::value é reduzida em ::secondary_value%."
     },
     {
       "id": 52,
       "name": "Imunidade a Repulsão",
-      "description": "You are immune to knockback effects."
+      "description": "Você é imune a efeitos de repulsão."
     },
     {
       "id": 53,
-      "name": "Heal On Kill",
-      "description": "Heal for ::value% of the health of the killed Actor."
+      "name": "Curar ao Matar",
+      "description": "Cura ::value% da vida do ator morto."
     },
     {
       "id": 54,
-      "name": "Dual Wield 2-Handers",
-      "description": "You can wield 2-handed weapons in both hands."
+      "name": "Empunhar Duas Armas de Duas Mãos",
+      "description": "Você pode empunhar armas de duas mãos em ambas as mãos."
     },
     {
       "id": 55,
       "name": "Tático de Duelo",
-      "description": "You can see the stamina of hurt beings under their health bar."
+      "description": "Você pode ver o fôlego de seres feridos abaixo da barra de vida deles."
     },
     {
       "id": 56,
-      "name": "Target Resistance",
-      "description": "Your target resistance to ::value damage is reduced by ::secondary_value%."
+      "name": "Resistência do Alvo",
+      "description": "Sua resistência do alvo a dano ::value é reduzida em ::secondary_value%."
     },
     {
       "id": 57,
-      "name": "Self Resistance",
-      "description": "Your resistance to ::value damage is increased by ::secondary_value%."
+      "name": "Auto Resistência",
+      "description": "Sua resistência a dano ::value é aumentada em ::secondary_value%."
     },
     {
       "id": 58,
-      "name": "Extra Damage Under Effect",
-      "description": "Increased damage by ::secondary_value% to targets affected by ::value effect."
+      "name": "Dano Extra Sob Efeito",
+      "description": "Dano aumentado em ::secondary_value% a alvos afetados pelo efeito ::value."
     },
     {
       "id": 59,
-      "name": "Light Source",
-      "description": "You always emit light in the range of ::value."
+      "name": "Fonte de Luz",
+      "description": "Você sempre emite luz no alcance de ::value."
     },
     {
       "id": 60,

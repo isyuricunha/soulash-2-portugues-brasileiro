@@ -21,7 +21,7 @@
     "position_2d"
   ],
   "corpse": [],
-  "description": "A neat stack of round snowballs.",
+  "description": "Uma pilha arrumada de bolas de neve redondas.",
   "glyph": {
     "frames": [
       {
@@ -43,5 +43,5 @@
     48,
     17
   ],
-  "name": "Stack of Snowballs"
+  "name": "Pilha de Bolas de Neve"
 }

@@ -11,7 +11,7 @@
     "value",
     "weight"
   ],
-  "description": "An eye of the size of a small shield, characterized by its eerie iridescence and supernatural glow.",
+  "description": "Um olho do tamanho de um pequeno escudo, caracterizado por sua iridescência assustadora e brilho sobrenatural.",
   "glyph": {
     "frames": [
       {
@@ -36,7 +36,7 @@
     158,
     158
   ],
-  "name": "Cyclops Eye",
+  "name": "Olho de Ciclope",
   "resource": {
     "affix": "of the Eye",
     "magic_ingredient": 3,

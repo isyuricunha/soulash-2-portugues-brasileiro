@@ -9,7 +9,7 @@
     "position_2d"
   ],
   "corpse": [],
-  "description": "The lantern emits a warm and flickering glow, casting soft light in the surrounding area.",
+  "description": "A lanterna emite um brilho quente e tremeluzente, lançando uma luz suave na área circundante.",
   "glyph": {
     "frames": [
       {
@@ -48,5 +48,5 @@
     120,
     42
   ],
-  "name": "Lantern"
+  "name": "Lanterna"
 }

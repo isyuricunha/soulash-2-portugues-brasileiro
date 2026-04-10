@@ -29,7 +29,7 @@
       14
     ]
   },
-  "description": "Very similar to pike, but much shorter.",
+  "description": "Muito semelhante a uma pica, mas muito mais curta.",
   "glyph": {
     "frames": [
       {
@@ -54,7 +54,7 @@
     102,
     57
   ],
-  "name": "Spontoon",
+  "name": "Espingarda",
   "value": 2200,
   "weapon": {
     "attack_speed": 1.0,

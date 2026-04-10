@@ -41,7 +41,7 @@
       1
     ]
   },
-  "description": "A simple armor made with leather straps connecting small metal plates.",
+  "description": "Uma armadura simples feita com tiras de couro conectando pequenas placas de metal.",
   "glyph": {
     "frames": [
       {
@@ -66,7 +66,7 @@
     160,
     161
   ],
-  "name": "Splinted Armor",
+  "name": "Armadura de Tala",
   "value": 500,
   "weight": 3.0
 }

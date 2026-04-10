@@ -8,7 +8,7 @@
     "producer",
     "weight"
   ],
-  "description": "Animated diamond vein, but this time it is dead.",
+  "description": "Veio de diamante animado, mas desta vez está morto.",
   "glyph": {
     "frames": [
       {
@@ -33,7 +33,7 @@
     128,
     104
   ],
-  "name": "Animated Diamond Vein Corpse",
+  "name": "Cadáver de Veio de Diamante Animado",
   "producer": {
     "products": {
       "3": [

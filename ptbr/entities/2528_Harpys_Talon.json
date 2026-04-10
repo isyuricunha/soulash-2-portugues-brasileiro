@@ -24,7 +24,7 @@
     "weapon",
     "weight"
   ],
-  "description": "A razor-sharp, deadly claw serves as a symbol of the trecherous monsters roaming the skies.",
+  "description": "Uma garra afiada e mortal serve como símbolo dos monstros traiçoeiros que vagam pelos céus.",
   "glyph": {
     "frames": [
       {
@@ -49,7 +49,7 @@
     109,
     155
   ],
-  "name": "Harpy's Talon",
+  "name": "Garra de Harpia",
   "resource": {
     "affix": "Tempting",
     "magic_ingredient": 0,

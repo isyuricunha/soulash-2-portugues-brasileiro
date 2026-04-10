@@ -9,7 +9,7 @@
     "value",
     "weight"
   ],
-  "description": "A branch with very small flowers.",
+  "description": "Um ramo com flores muito pequenas.",
   "glyph": {
     "frames": [
       {
@@ -34,7 +34,7 @@
     156,
     73
   ],
-  "name": "Spurge Flower",
+  "name": "Flor de Euphorbia",
   "value": 100,
   "weight": 0.10000000149011612
 }

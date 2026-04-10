@@ -31,7 +31,7 @@
       15
     ]
   },
-  "description": "A delicate figurine dancing in the blizzard.",
+  "description": "Uma figurinha delicada dançando na nevasca.",
   "glyph": {
     "frames": [
       {
@@ -56,7 +56,7 @@
     109,
     155
   ],
-  "name": "Spirit of the Snowfall Figurine",
+  "name": "Espírito da Figurinha da Nevasca",
   "resource": {
     "affix": "of the Snowfall",
     "magic_ingredient": 4,

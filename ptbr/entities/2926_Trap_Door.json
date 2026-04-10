@@ -47,7 +47,7 @@
     "time": 15,
     "tools": []
   },
-  "description": "Easy to overlook.",
+  "description": "Fácil de ignorar.",
   "glyph": {
     "frames": [
       {
@@ -79,7 +79,7 @@
     43,
     10
   ],
-  "name": "Trap Door",
+  "name": "Porta Armadilha",
   "openable": {
     "block_light": false,
     "collidable": false,

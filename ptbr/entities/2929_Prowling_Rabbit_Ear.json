@@ -23,7 +23,7 @@
     "value",
     "weight"
   ],
-  "description": "Small and fluffy.",
+  "description": "Pequeno e fofo.",
   "glyph": {
     "frames": [
       {
@@ -48,7 +48,7 @@
     104,
     91
   ],
-  "name": "Prowling Rabbit Ear",
+  "name": "Orelha de Coelho Esgueirando",
   "resource": {
     "affix": "of Warmth",
     "magic_ingredient": 1,

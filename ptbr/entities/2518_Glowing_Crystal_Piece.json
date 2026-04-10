@@ -11,7 +11,7 @@
     "value",
     "weight"
   ],
-  "description": "A luminous crystal emanating a soft, ethereal glow.",
+  "description": "Um cristal luminoso emanando um brilho suave e etéreo.",
   "glyph": {
     "frames": [
       {
@@ -42,7 +42,7 @@
     109,
     155
   ],
-  "name": "Glowing Crystal Piece",
+  "name": "Pedra de Cristal Brilhante",
   "resource": {
     "affix": "Glowing",
     "magic_ingredient": 0,

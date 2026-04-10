@@ -11,7 +11,7 @@
     "weapon",
     "weight"
   ],
-  "description": "The fire core is a scorching gemstone that pulses with intense heat and elemental power.",
+  "description": "O núcleo de fogo é uma pedra preciosa escaldante que pulsa com calor intenso e poder elemental.",
   "glyph": {
     "frames": [
       {
@@ -36,7 +36,7 @@
     109,
     155
   ],
-  "name": "Fire Core",
+  "name": "Núcleo de Fogo",
   "resource": {
     "affix": "of the Volcano",
     "magic_ingredient": 3,

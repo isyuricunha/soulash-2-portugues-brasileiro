@@ -11,7 +11,7 @@
     "weapon",
     "weight"
   ],
-  "description": "The earth core is a solid, weighty gem resonating with the grounding energy of the land.",
+  "description": "O núcleo de terra é uma gema sólida e pesada que ressoa com a energia aterrada da terra.",
   "glyph": {
     "frames": [
       {
@@ -36,7 +36,7 @@
     109,
     155
   ],
-  "name": "Earth Core",
+  "name": "Núcleo de Terra",
   "resource": {
     "affix": "of the Earthquake",
     "magic_ingredient": 3,

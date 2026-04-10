@@ -30,7 +30,7 @@
     "time": 30,
     "tools": []
   },
-  "description": "A beautiful stone altar with a blue symbol of the moon carved in the middle. This seems to be an important place of worship, judging by the many sacrificial gifts placed around here.",
+  "description": "Um belo altar de pedra com um símbolo azul da lua esculpido no centro. Este parece ser um importante local de culto, a julgar pelos muitos presentes sacrificiais colocados ao redor aqui.",
   "glyph": {
     "frames": [
       {
@@ -51,7 +51,7 @@
     147,
     168
   ],
-  "name": "Altar to the Moon",
+  "name": "Altar à Lua",
   "producer": {
     "products": {
       "core_2_deconstruct": [

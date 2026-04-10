@@ -25,7 +25,7 @@
     "weapon",
     "weight"
   ],
-  "description": "A bone of once powerful dragon.",
+  "description": "Um osso de um dragão outrora poderoso.",
   "glyph": {
     "frames": [
       {
@@ -50,7 +50,7 @@
     140,
     143
   ],
-  "name": "Dragon Bone",
+  "name": "Osso de Dragão",
   "resource": {
     "affix": "Dragon",
     "magic_ingredient": 0,

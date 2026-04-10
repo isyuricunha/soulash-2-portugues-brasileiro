@@ -11,7 +11,7 @@
     "value",
     "weight"
   ],
-  "description": "A sturdy hoof harvested from a creature that melds human and horse.",
+  "description": "Um casco resistente colhido de uma criatura que funde humano e cavalo.",
   "glyph": {
     "frames": [
       {
@@ -39,7 +39,7 @@
   "moveable": {
     "speed": -0.05
   },
-  "name": "Centaur's Hoof",
+  "name": "Casco de Centauro",
   "resource": {
     "affix": "Galloping",
     "magic_ingredient": 0,

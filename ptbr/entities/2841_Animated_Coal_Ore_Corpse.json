@@ -10,7 +10,7 @@
     "value",
     "weight"
   ],
-  "description": "The remains of an animated coal ore.",
+  "description": "Os restos de um minério de carvão animado.",
   "glyph": {
     "frames": [
       {
@@ -39,7 +39,7 @@
     102,
     57
   ],
-  "name": "Animated Coal Ore Corpse",
+  "name": "Cadáver de Minério de Carvão Animado",
   "producer": {
     "products": {
       "3": [

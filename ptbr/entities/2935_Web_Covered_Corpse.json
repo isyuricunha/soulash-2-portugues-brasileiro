@@ -7,7 +7,7 @@
     "position_2d",
     "producer"
   ],
-  "description": "A humanoid corpse covered in spider webs.",
+  "description": "Um cadáver humanoide coberto por teias de aranha.",
   "glyph": {
     "frames": [
       {
@@ -32,7 +32,7 @@
     128,
     104
   ],
-  "name": "Web Covered Corpse",
+  "name": "Cadáver Coberto por Teias",
   "producer": {
     "products": {
       "3": [

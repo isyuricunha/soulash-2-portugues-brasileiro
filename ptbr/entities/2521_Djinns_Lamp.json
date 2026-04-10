@@ -9,7 +9,7 @@
     "value",
     "weight"
   ],
-  "description": "A legendary lamp that is said to summon a djinn when rubbed in a proper way.",
+  "description": "Uma lâmpada lendária que dizem invocar um djinn quando esfregada da maneira correta.",
   "glyph": {
     "frames": [
       {
@@ -34,7 +34,7 @@
     144,
     88
   ],
-  "name": "Djinn's Lamp",
+  "name": "Lâmpada do Djinn",
   "usable": {
     "ability": "172",
     "recipe": ""

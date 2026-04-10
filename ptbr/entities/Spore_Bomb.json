@@ -30,7 +30,7 @@
     "time": 20,
     "tools": []
   },
-  "description": "This bomb flashes on impact and paralyzes everyone nearby.",
+  "description": "Esta bomba pisca no impacto e paralisa todos nas proximidades.",
   "glyph": {
     "frames": [
       {

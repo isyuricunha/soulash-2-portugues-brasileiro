@@ -10,7 +10,7 @@
     "producer"
   ],
   "corpse": [],
-  "description": "A sizable bush with very small flowers.",
+  "description": "Um arbusto considerável com flores muito pequenas.",
   "glyph": {
     "frames": [
       {
@@ -49,7 +49,7 @@
     89,
     87
   ],
-  "name": "Spurge Bush",
+  "name": "Arbusto de Euphorbia",
   "producer": {
     "products": {
       "10": [

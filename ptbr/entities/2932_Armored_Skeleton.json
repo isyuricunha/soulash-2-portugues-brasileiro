@@ -113,7 +113,7 @@
   "moveable": {
     "speed": 1.2999999523162842
   },
-  "name": "Armored Skeleton",
+  "name": "Esqueleto Blindado",
   "sight": {
     "ignore_infra_penalty": false,
     "infravision": true,

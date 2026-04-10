@@ -43,7 +43,7 @@
       "id": "946"
     }
   ],
-  "description": "A frozen pool of blood.",
+  "description": "Uma poça congelada de sangue.",
   "glyph": {
     "frames": [
       {
@@ -65,5 +65,5 @@
     62,
     57
   ],
-  "name": "Frozen Blood Pond"
+  "name": "Poça de Sangue Congelado"
 }

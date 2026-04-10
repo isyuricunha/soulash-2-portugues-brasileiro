@@ -32,7 +32,7 @@
     "position_2d"
   ],
   "corpse": [],
-  "description": "A closed stone door with intricate carvings.",
+  "description": "Uma porta de pedra fechada com entalhes intricados.",
   "glyph": {
     "frames": [
       {
@@ -55,11 +55,11 @@
     43,
     10
   ],
-  "name": "Stone Carved Door",
+  "name": "Porta de Pedra Entalhada",
   "openable": {
     "block_light": false,
     "collidable": false,
-    "description": "Stone door with intricate carvings, currently opened.",
+    "description": "Porta de pedra com entalhes intricados, atualmente aberta.",
     "glyph": {
       "frames": [
         {
