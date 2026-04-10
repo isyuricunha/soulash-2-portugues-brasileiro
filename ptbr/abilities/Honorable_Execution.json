@@ -6,7 +6,7 @@
     "health": 0,
     "stamina": 10
   },
-  "description": "Execute the enemy dealing ::damage ::damage_type damage. If the target dies, the cooldown resets.",
+  "description": "Execute o inimigo causando ::damage ::damage_type de dano. Se o alvo morrer, o tempo de recarga é resetado.",
   "duration": 0.0,
   "effects": {
     "damage": [
@@ -19,7 +19,7 @@
   },
   "id": "178",
   "image": 360,
-  "name": "Honorable Execution",
+  "name": "Execução Honorável",
   "range": 1,
   "requirements": {
     "one_of": [

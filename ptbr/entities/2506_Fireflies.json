@@ -8,7 +8,7 @@
     "position_2d"
   ],
   "corpse": [],
-  "description": "Luminous insects dance through the darkness, creating a mesmerizing spectacle of twinkling lights.",
+  "description": "Insetos luminosos dançam através da escuridão, criando um espetáculo fascinante de luzes cintilantes.",
   "glyph": {
     "frames": [
       {
@@ -98,5 +98,5 @@
     221,
     211
   ],
-  "name": "Fireflies"
+  "name": "Vagalumes"
 }

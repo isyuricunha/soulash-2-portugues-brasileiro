@@ -6,7 +6,7 @@
     "health": 0,
     "stamina": 0
   },
-  "description": "Tasty stew sharpens your eyesight allowing you to see further by range ::sight. Recover ::heal health immediately.",
+  "description": "O ensopado saboroso aguça sua visão permitindo que você veja mais longe em um alcance de ::sight. Recupere ::heal de vida imediatamente.",
   "duration": 600.0,
   "effects": {
     "heal": [

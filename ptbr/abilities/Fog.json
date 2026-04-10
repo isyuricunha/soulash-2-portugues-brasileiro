@@ -6,7 +6,7 @@
     "health": 0,
     "stamina": 5
   },
-  "description": "Envelop someone with a thick fog that obscures vision in the area around them.",
+  "description": "Envolva alguém com uma névoa espessa que obscurece a visão na área ao seu redor.",
   "duration": 10.0,
   "effects": {
     "aoe_range": 5,

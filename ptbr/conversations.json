@@ -2812,7 +2812,7 @@
     },
     {
       "answer_negative": "Não posso conversar agora. Tenho um bom espólio para organizar.",
-      "answer_positive": "I'm always on the lookout for new treasures. Care to trade or share your spoils?",
+      "answer_positive": "Estou sempre à procura de novos tesouros. Quer negociar ou compartilhar seus despojos?",
       "entities": [
         "2372"
       ],
@@ -5346,7 +5346,7 @@
       "type": "train"
     },
     {
-      "answer_negative": "*não te reconhece*",
+      "answer_negative": "*não reconhece você*",
       "answer_positive": "Você precisa de algo? Estou tentando parecer ocupado aqui!",
       "entities": [
         "core_2_Reptilion_Adult"
@@ -7519,8 +7519,8 @@
       "type": "begin_conversation"
     },
     {
-      "answer_negative": "Definitely not.",
-      "answer_positive": "I'm always willing to teach my craft.",
+      "answer_negative": "Definitivamente não.",
+      "answer_positive": "Estou sempre disposto a ensinar meu ofício.",
       "id": "core_2_train_106",
       "options": [
         "core_2_back_1"
@@ -7529,8 +7529,8 @@
       "type": "train"
     },
     {
-      "answer_negative": "No. I don't think I will.",
-      "answer_positive": "Fine. I can show you some tricks.",
+      "answer_negative": "Não. Não acho que vou.",
+      "answer_positive": "Bem. Posso mostrar alguns truques.",
       "id": "core_2_train_107",
       "options": [
         "core_2_back_1"
@@ -7539,8 +7539,8 @@
       "type": "train"
     },
     {
-      "answer_negative": "Like I have some spare time!",
-      "answer_positive": "I can teach you everything I know, if you pay well enough.",
+      "answer_negative": "Como se eu tivesse tempo livre!",
+      "answer_positive": "Posso te ensinar tudo que sei, se você pagar bem o suficiente.",
       "id": "core_2_train_108",
       "options": [
         "core_2_back_1"
@@ -7549,8 +7549,8 @@
       "type": "train"
     },
     {
-      "answer_negative": "No, I don't like you.",
-      "answer_positive": "If one hasss coinsss, one has ssskillsss.",
+      "answer_negative": "Não, não gosto de você.",
+      "answer_positive": "Se alguém tem moedas, alguém tem habilidades.",
       "id": "core_2_train_109",
       "options": [
         "core_2_back_1"
@@ -7559,8 +7559,8 @@
       "type": "train"
     },
     {
-      "answer_negative": "Not even for all the gold of the world!",
-      "answer_positive": "Everything has a price.",
+      "answer_negative": "Nem mesmo por todo o ouro do mundo!",
+      "answer_positive": "Tudo tem um preço.",
       "id": "core_2_train_110",
       "options": [
         "core_2_back_1"
@@ -7569,8 +7569,8 @@
       "type": "train"
     },
     {
-      "answer_negative": "I don't want to deal with you.",
-      "answer_positive": "Did you bring me my gold?",
+      "answer_negative": "Não quero lidar com você.",
+      "answer_positive": "Você me trouxe meu ouro?",
       "id": "core_2_train_111",
       "options": [
         "core_2_back_1"
@@ -9936,7 +9936,7 @@
     },
     {
       "answer_negative": "Não tenho tempo para você.",
-      "answer_positive": "You lookin' for somethin' sturdy or somethin' fancy?",
+      "answer_positive": "Você tá procurando algo resistente ou algo elegante?",
       "entities": [
         "core_2_Orc_Carpenter",
         "core_2_Orc_Basketweaver",
@@ -9963,7 +9963,7 @@
       "type": "begin_conversation"
     },
     {
-      "answer_positive": "You got what you came for, now scram!",
+      "answer_positive": "Você pegou o que veio buscar, agora suma daqui!",
       "id": "core_2_trade_149",
       "options": [
         "core_2_back_1"
@@ -9972,8 +9972,8 @@
       "type": "trade"
     },
     {
-      "answer_negative": "You're too soft. Go away.",
-      "answer_positive": "Talk's cheap, work ain't.",
+      "answer_negative": "Você é muito fraco. Vá embora.",
+      "answer_positive": "Conversa é barata, trabalho não.",
       "id": "core_2_train_164",
       "options": [
         "core_2_back_1"
@@ -9983,7 +9983,7 @@
     },
     {
       "answer_negative": "Estou trabalhando, não conversando.",
-      "answer_positive": "Keep yer hands off the mushrooms unless ya wanna lose 'em.",
+      "answer_positive": "Mantenha suas mãos longe dos cogumelos, a menos que queira perdê-las.",
       "entities": [
         "core_2_Orc_Forager"
       ],
@@ -10007,7 +10007,7 @@
       "type": "begin_conversation"
     },
     {
-      "answer_positive": "Come back when ya got somethin' good.",
+      "answer_positive": "Volte quando tiver algo bom.",
       "id": "core_2_trade_150",
       "options": [
         "core_2_back_1"
@@ -10016,8 +10016,8 @@
       "type": "trade"
     },
     {
-      "answer_negative": "You wouldn't last a day.",
-      "answer_positive": "Only the strong survive. You strong?",
+      "answer_negative": "Você não duraria um dia.",
+      "answer_positive": "Apenas os fortes sobrevivem. Você é forte?",
       "id": "core_2_train_165",
       "options": [
         "core_2_back_1"
@@ -10026,8 +10026,8 @@
       "type": "train"
     },
     {
-      "answer_negative": "Not in the mood for talk.",
-      "answer_positive": "You got hides? I got the skills. Let's make a deal.",
+      "answer_negative": "Não estou a fim de conversar.",
+      "answer_positive": "Você tem peles? Eu tenho as habilidades. Vamos fazer um acordo.",
       "entities": [
         "core_2_Orc_Leatherworker"
       ],
@@ -10052,7 +10052,7 @@
       "type": "begin_conversation"
     },
     {
-      "answer_positive": "Spend yer gold well, orc-bait.",
+      "answer_positive": "Gaste seu ouro bem, isca de orc.",
       "id": "core_2_trade_151",
       "options": [
         "core_2_back_1"
@@ -10062,7 +10062,7 @@
     },
     {
       "answer_negative": "Eu não tenho tempo para você.",
-      "answer_positive": "You wanna learn? Prove yer worth!",
+      "answer_positive": "Quer aprender? Prove seu valor!",
       "id": "core_2_train_166",
       "options": [
         "core_2_back_1"
@@ -10072,7 +10072,7 @@
     },
     {
       "answer_negative": "Não tenho tempo para você.",
-      "answer_positive": "Ain't nothin' like the sound of a tree fallin'.",
+      "answer_positive": "Nada como o som de uma árvore caindo.",
       "entities": [
         "core_2_Orc_Woodcutter"
       ],
@@ -10096,7 +10096,7 @@
       "type": "begin_conversation"
     },
     {
-      "answer_positive": "Next time, bring more to trade!",
+      "answer_positive": "Da próxima vez, traga mais para negociar!",
       "id": "core_2_trade_152",
       "options": [
         "core_2_back_1"
@@ -10105,8 +10105,8 @@
       "type": "trade"
     },
     {
-      "answer_negative": "Go train with the children.",
-      "answer_positive": "Think you can handle the axe like an orc?",
+      "answer_negative": "Vá treinar com as crianças.",
+      "answer_positive": "Acha que consegue manejar o machado como um orc?",
       "id": "core_2_train_167",
       "options": [
         "core_2_back_1"
@@ -10115,8 +10115,8 @@
       "type": "train"
     },
     {
-      "answer_negative": "You got business or not?",
-      "answer_positive": "Walk outta here with my shoes, and you'll walk with orc pride.",
+      "answer_negative": "Tem negócios ou não?",
+      "answer_positive": "Saia daqui com minhas botas, e você andará com orgulho de orc.",
       "entities": [
         "core_2_Orc_Shoemaker"
       ],
@@ -10141,7 +10141,7 @@
       "type": "begin_conversation"
     },
     {
-      "answer_positive": "Keep that up, and we might be friends.",
+      "answer_positive": "Continue assim, e podemos ser amigos.",
       "id": "core_2_trade_153",
       "options": [
         "core_2_back_1"
@@ -10150,8 +10150,8 @@
       "type": "trade"
     },
     {
-      "answer_negative": "Training you would be pointless.",
-      "answer_positive": "Can't rush craftsmanship. Ya gotta have patience.",
+      "answer_negative": "Treinar você seria inútil.",
+      "answer_positive": "Não se pode apressar o artesanato. Você tem que ter paciência.",
       "id": "core_2_train_168",
       "options": [
         "core_2_back_1"
@@ -10161,7 +10161,7 @@
     },
     {
       "answer_negative": "Não tenho tempo para conversa fiada!",
-      "answer_positive": "Ain't got time for chatter. Speak your purpose or get outta my sight.",
+      "answer_positive": "Não tenho tempo para conversa. Fale seu propósito ou saia da minha vista.",
       "entities": [
         "core_2_Orc_Recruit",
         "core_2_Orc_Guard"
@@ -10187,7 +10187,7 @@
       "type": "begin_conversation"
     },
     {
-      "answer_negative": "I don't train cowards.",
+      "answer_negative": "Eu não treino covardes.",
       "answer_positive": "A força vem do sofrimento. Está pronto?",
       "id": "core_2_train_169",
       "options": [
@@ -13268,7 +13268,7 @@
     },
     {
       "answer_negative": "Continue se movendo, ou eu chamarei a brigada de trolls!",
-      "answer_positive": "What do ya need?",
+      "answer_positive": "O que você precisa?",
       "entities": [
         "core_2_Goblin_Cryomancer",
         "core_2_Goblin_Bee_Seeker"
@@ -13319,7 +13319,7 @@
     },
     {
       "answer_negative": "Estou no meio de algo importante.",
-      "answer_positive": "Do you need some help, my friend?",
+      "answer_positive": "Precisa de ajuda, meu amigo?",
       "entities": [
         "core_2_Bone_Wraith_Cryomancer",
         "core_2_Bone_Wraith_Samurai"
@@ -13342,7 +13342,7 @@
     },
     {
       "answer_negative": "Tem perguntas? Guarde-as para alguém com tempo de sobra.",
-      "answer_positive": "Need anything?",
+      "answer_positive": "Precisa de algo?",
       "entities": [
         "core_2_Gnoll_Cryomancer"
       ],
@@ -13393,7 +13393,7 @@
     },
     {
       "answer_negative": "Vá embora.",
-      "answer_positive": "How can I help?",
+      "answer_positive": "Como posso ajudar?",
       "entities": [
         "core_2_Ursan_Cryomancer"
       ],
@@ -13419,7 +13419,7 @@
     },
     {
       "answer_negative": "*te ignora*",
-      "answer_positive": "Do you need anything?",
+      "answer_positive": "Precisa de algo?",
       "entities": [
         "core_2_Human_Stormthrower"
       ],

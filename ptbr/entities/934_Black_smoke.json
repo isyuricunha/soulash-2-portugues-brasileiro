@@ -16,7 +16,7 @@
     "name",
     "position_2d"
   ],
-  "description": "A thick cloud of smoke covers the area, obscuring vision in a large area.",
+  "description": "Uma nuvem espessa de fumaça cobre a área, obscurecendo a visão em uma grande área.",
   "glyph": {
     "frames": [
       {
@@ -119,5 +119,5 @@
     16,
     14
   ],
-  "name": "Black Smoke"
+  "name": "Fumaça Negra"
 }

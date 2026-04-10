@@ -32,7 +32,7 @@
     "tags"
   ],
   "corpse": "326",
-  "description": "These blue flames dancing above the ground are spirits of the forest.",
+  "description": "Estas chamas azuis dançando acima do chão são espíritos da floresta.",
   "dialogues": [
     "42",
     "43"
@@ -79,7 +79,7 @@
   "moveable": {
     "speed": 1.0
   },
-  "name": "Wisp",
+  "name": "Luz Bruxuleante",
   "sight": {
     "ignore_infra_penalty": false,
     "infravision": true,

@@ -37,7 +37,7 @@
     "time": 20,
     "tools": []
   },
-  "description": "A stone pillar with old engraving \"The One will come. Ashes to ashes.\"",
+  "description": "Um pilar de pedra com uma antiga inscrição \"O Único virá. Cinzas às cinzas.\"",
   "glyph": {
     "frames": [
       {
@@ -59,7 +59,7 @@
     150,
     150
   ],
-  "name": "Temple Pillar II",
+  "name": "Pilar do Templo II",
   "producer": {
     "products": {
       "core_2_deconstruct": [

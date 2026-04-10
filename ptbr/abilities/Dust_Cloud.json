@@ -6,7 +6,7 @@
     "health": 0,
     "stamina": 5
   },
-  "description": "Summons a cloud of dust, dealing ::damage ::damage_type damage to everyone in a cone.",
+  "description": "Invoca uma nuvem de poeira, causando ::damage de ::damage_type a todos em um cone.",
   "duration": 0.0,
   "effects": {
     "aoe_break": 2,
@@ -19,7 +19,7 @@
   },
   "id": "core_2_Dust_Cloud",
   "image": 751,
-  "name": "Dust Cloud",
+  "name": "Nuvem de Poeira",
   "range": 5,
   "skill": "",
   "target": "cone"

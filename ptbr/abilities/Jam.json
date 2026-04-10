@@ -6,7 +6,7 @@
     "health": 0,
     "stamina": 0
   },
-  "description": "Jam increases your health regeneration by ::regeneration.",
+  "description": "A geleia aumenta sua regeneração de vida em ::regeneration.",
   "duration": 600.0,
   "effects": {
     "regeneration": 3.0

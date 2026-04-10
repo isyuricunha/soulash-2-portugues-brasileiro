@@ -93,9 +93,9 @@
   "moveable": {
     "speed": 1.0
   },
-  "name": "Reptilion Frog Hunter",
+  "name": "Caçador de Rãs Reptilion",
   "persona": {
-    "occupation": "Frog Hunter"
+    "occupation": "Caçador de Sapos"
   },
   "sight": {
     "ignore_infra_penalty": false,

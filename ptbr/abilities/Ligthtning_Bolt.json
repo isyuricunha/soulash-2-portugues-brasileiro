@@ -6,7 +6,7 @@
     "health": 0,
     "stamina": 20
   },
-  "description": "Turn yourself into lightning bolt rushing forward ::range tiles hitting everyone in your way, dealing ::damage ::damage_type damage.",
+  "description": "Transforme-se em um raio avançando ::range células acertando todos em seu caminho, causando ::damage ::damage_type de dano.",
   "duration": 0.0,
   "effects": {
     "charge": 1,
@@ -21,7 +21,7 @@
   "id": "core_2_Ligthning_Bolt",
   "image": 742,
   "min_range": 2,
-  "name": "Ligthtning Bolt",
+  "name": "Raio Relâmpago",
   "range": 7,
   "skill": "",
   "slots": {

@@ -31,7 +31,7 @@
     "tags"
   ],
   "corpse": "931",
-  "description": "A huge deer with massive ivory antlers. You get the feeling that this mythical beast comes straight from legend.",
+  "description": "Um veado enorme com presas de marfim maciças. Você tem a sensação de que esta besta mítica vem diretamente da lenda.",
   "dialogues": [
     "346",
     "347",
@@ -90,7 +90,7 @@
   "moveable": {
     "speed": 0.800000011920929
   },
-  "name": "White Deer",
+  "name": "Veado Branco",
   "sight": {
     "ignore_infra_penalty": false,
     "infravision": true,

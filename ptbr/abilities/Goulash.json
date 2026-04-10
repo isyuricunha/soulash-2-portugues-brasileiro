@@ -6,7 +6,7 @@
     "health": 0,
     "stamina": 0
   },
-  "description": "You feel empowered by a tasty Goulash, giving you bonus ::strength Strength, ::endurance Endurance, and ::dexterity Dexterity for ::duration turns.",
+  "description": "Você se sente fortalecido por um Goulash saboroso, dando a você bônus de ::strength Força, ::endurance Resistência e ::dexterity Destreza por ::duration turnos.",
   "duration": 600.0,
   "effects": {
     "dexterity": 3,

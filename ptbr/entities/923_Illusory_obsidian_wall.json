@@ -32,7 +32,7 @@
     "time": 10,
     "tools": []
   },
-  "description": "A wall made of obsidian blocks... or is it?",
+  "description": "Uma parede feita de blocos de obsidiana... ou será que não?",
   "glyph": {
     "frames": [
       {
@@ -82,7 +82,7 @@
     55,
     72
   ],
-  "name": "Illusory Obsidian Wall",
+  "name": "Parede Ilusória de Obsidiana",
   "producer": {
     "products": {
       "core_2_deconstruct": [

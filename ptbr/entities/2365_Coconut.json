@@ -10,7 +10,7 @@
     "value",
     "weight"
   ],
-  "description": "A hard, brown, tropical fruit with a fibrous outer layer and a white, edible interior.",
+  "description": "Um fruto tropical duro e marrom, com uma camada externa fibrosa e um interior branco e comestível.",
   "food": {
     "nutrition": 30,
     "poisonous": 0,
@@ -40,7 +40,7 @@
     177,
     66
   ],
-  "name": "Coconut",
+  "name": "Coco",
   "value": 300,
   "weight": 0.10000000149011612
 }

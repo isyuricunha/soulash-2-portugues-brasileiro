@@ -8,7 +8,7 @@
     "usable",
     "weight"
   ],
-  "description": "A head of a dead reptilion. Might still hold to some memories.",
+  "description": "Uma cabeça de um reptilion morto. Pode ainda reter algumas memórias.",
   "glyph": {
     "frames": [
       {
@@ -33,7 +33,7 @@
     160,
     161
   ],
-  "name": "Reptilion Head",
+  "name": "Cabeça de Reptilion",
   "usable": {
     "ability": "44",
     "recipe": ""

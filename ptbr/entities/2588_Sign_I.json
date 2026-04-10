@@ -8,7 +8,7 @@
     "position_2d"
   ],
   "corpse": [],
-  "description": "Come one, come all to The Great Circus! Wild animals, acrobats, magicians, and many more!",
+  "description": "Venham todos ao Grande Circo! Animais selvagens, acrobatas, mágicos e muito mais!",
   "glyph": {
     "frames": [
       {
@@ -75,5 +75,5 @@
     108,
     14
   ],
-  "name": "Sign I"
+  "name": "Placa I"
 }

@@ -44,7 +44,7 @@
     "tags"
   ],
   "corpse": "2549",
-  "description": "A male cow with horns. It likes the color red and chasing humans.",
+  "description": "Um touro macho com chifres. Ele gosta da cor vermelha e de perseguir humanos.",
   "dialogues": [
     "343",
     "904"
@@ -102,7 +102,7 @@
   "moveable": {
     "speed": 1.0
   },
-  "name": "Bull",
+  "name": "Touro",
   "sight": {
     "ignore_infra_penalty": false,
     "infravision": false,

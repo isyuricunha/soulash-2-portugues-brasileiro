@@ -8,7 +8,7 @@
     "stackable",
     "weight"
   ],
-  "description": "An old letter that reads:\n\"Those crazy prophets came back. This time, we told them to get lost. If they want to pray to some imaginary god, they can do it somewhere else.\"",
+  "description": "Uma carta antiga que diz:\n\"Aqueles profetas malucos voltaram. Desta vez, dissemos a eles para se perderem. Se querem rezar para algum deus imaginário, podem fazer isso em outro lugar.\"",
   "glyph": {
     "frames": [
       {
@@ -33,6 +33,6 @@
     153,
     137
   ],
-  "name": "Letter I",
+  "name": "Carta I",
   "weight": 0.10000000149011612
 }

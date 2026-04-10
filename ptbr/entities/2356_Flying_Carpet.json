@@ -24,7 +24,7 @@
     "time": 60,
     "tools": []
   },
-  "description": "A magical carpet capable of flight, controlled by the rider's will. It can take you anywhere in the world, soaring over mountains and seas with ease.",
+  "description": "Um tapete mágico capaz de voar, controlado pela vontade do cavaleiro. Pode levá-lo a qualquer lugar do mundo, sobrevoando montanhas e mares com facilidade.",
   "glyph": {
     "frames": [
       {
@@ -49,6 +49,6 @@
     128,
     128
   ],
-  "name": "Flying Carpet",
+  "name": "Tapete Voador",
   "weight": 1.0
 }

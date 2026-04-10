@@ -11621,7 +11621,7 @@
     },
     {
       "id": 56,
-      "name": "Transformar em Vampiro",
+      "name": "Tornar-se Vampiro",
       "description": "Como um Vampiro, você pode transformar outros habitantes de um assentamento controlado ou membros do seu grupo em vampiros menores. Consome 100 unidades de Sangue Vampírico."
     },
     {
@@ -12964,7 +12964,7 @@
     },
     {
       "id": 40,
-      "name": "Dodge",
+      "name": "Esquiva",
       "description": "You have ::value% chance to dodge basic attacks."
     },
     {
@@ -13064,58 +13064,58 @@
     },
     {
       "id": 60,
-      "name": "Acquire Tool",
-      "description": "You gain the ::value tool with quality ::secondary_value."
+      "name": "Adquirir Ferramenta",
+      "description": "Você ganha a ferramenta ::value com qualidade ::secondary_value."
     },
     {
       "id": 61,
-      "name": "Gain Stamina On Death Under Effect",
-      "description": "When anyone in the region dies while having active ::value effect, you regain ::secondary_value stamina."
+      "name": "Ganhar Fôlego ao Morrer Sob Efeito",
+      "description": "Quando alguém na região morre enquanto tem o efeito ::value ativo, você recupera ::secondary_value de fôlego."
     },
     {
       "id": 62,
-      "name": "Damage Type Reduction",
-      "description": "You reduce any ::value damage done to you by ::secondary_value%."
+      "name": "Redução de Tipo de Dano",
+      "description": "Você reduz qualquer dano ::value recebido em ::secondary_value%."
     },
     {
       "id": 63,
-      "name": "Spread Entity",
-      "description": "Any ::value entity in the range of 10 tiles has a ::secondary_value% chance to duplicate into an adjacent tile."
+      "name": "Espalhar Entidade",
+      "description": "Qualquer entidade ::value em um alcance de 10 células tem uma chance de ::secondary_value% de se duplicar em uma célula adjacente."
     },
     {
       "id": 64,
-      "name": "Discovery Range",
-      "description": "You discover special locations in range of ::value instead of 1."
+      "name": "Alcance de Descoberta",
+      "description": "Você descobre locais especiais em um alcance de ::value em vez de 1."
     },
     {
       "id": 65,
-      "name": "Reveal Discovery",
-      "description": "The details of discovered locations during world travels are immediately revealed."
+      "name": "Revelar Descoberta",
+      "description": "Os detalhes dos locais descobertos durante viagens pelo mundo são revelados imediatamente."
     },
     {
       "id": 66,
-      "name": "Salvage Chance",
-      "description": "Bonus ::value% chance to recover resources when salvaging items."
+      "name": "Chance de Desmanche",
+      "description": "Chance adicional de ::value% de recuperar recursos ao desmanchar itens."
     },
     {
       "id": 67,
-      "name": "Hunt & Gather",
-      "description": "While traveling the world you'll automatically gather 1 unit of random food available in the region."
+      "name": "Caçar e Coletar",
+      "description": "Enquanto viaja pelo mundo, você coletará automaticamente 1 unidade de comida aleatória disponível na região."
     },
     {
       "id": 68,
-      "name": "Discover All Locations",
-      "description": "While traveling you reveal locations of all difficulties, independently of your combat skills."
+      "name": "Descobrir Todos os Locais",
+      "description": "Enquanto viaja, você revela locais de todas as dificuldades, independentemente de suas habilidades de combate."
     },
     {
       "id": 69,
       "name": "Loot Extra",
-      "description": "Acquire ::value% more loot from treasure chests found in discoverable locations."
+      "description": "Adquirir ::value% mais butim de baús de tesouro encontrados em locais descobertos."
     },
     {
       "id": 70,
       "name": "Golpe Crítico",
-      "description": "Your attacks have an additional ::value% chance to critically hit."
+      "description": "Seus ataques têm uma chance adicional de ::value% de acertar criticamente."
     },
     {
       "id": 71,

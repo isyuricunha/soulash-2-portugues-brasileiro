@@ -7,7 +7,7 @@
     "position_2d"
   ],
   "corpse": [],
-  "description": "A whimsical broom hovers effortlessly above the ground, guided by mystical energies.",
+  "description": "Uma vassoura caprichosa paira sem esforço acima do chão, guiada por energias místicas.",
   "glyph": {
     "frames": [
       {
@@ -92,5 +92,5 @@
     108,
     64
   ],
-  "name": "Magic Broom"
+  "name": "Vassoura Mágica"
 }

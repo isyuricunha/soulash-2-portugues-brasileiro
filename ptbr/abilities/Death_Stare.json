@@ -6,7 +6,7 @@
     "health": 0,
     "stamina": 0
   },
-  "description": "It's like Death itself stares into your soul, dealing ::damage ::damage_type damage and knocking you back.",
+  "description": "É como se a própria Morte olhasse para sua alma, causando ::damage de ::damage_type e derrubando você para trás.",
   "duration": 0.0,
   "effects": {
     "damage": [
@@ -19,7 +19,7 @@
   },
   "id": "core_2_Death_Stare",
   "image": 798,
-  "name": "Death Stare",
+  "name": "Olhar da Morte",
   "range": 8,
   "skill": "",
   "target": "health"

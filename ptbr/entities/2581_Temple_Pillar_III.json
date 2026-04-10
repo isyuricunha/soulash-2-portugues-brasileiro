@@ -37,7 +37,7 @@
     "time": 20,
     "tools": []
   },
-  "description": "A stone pillar with old engraving \"He will take back what's His. Ashes to ashes.\"",
+  "description": "Um pilar de pedra com uma antiga inscrição \"Ele retomará o que é Dele. Cinzas às cinzas.\"",
   "glyph": {
     "frames": [
       {
@@ -59,7 +59,7 @@
     150,
     150
   ],
-  "name": "Temple Pillar III",
+  "name": "Pilar do Templo III",
   "producer": {
     "products": {
       "core_2_deconstruct": [

@@ -8,7 +8,7 @@
     "producer",
     "weight"
   ],
-  "description": "Animated copper ores, but this time it is dead.",
+  "description": "Veios de cobre animados, mas desta vez está morto.",
   "glyph": {
     "frames": [
       {
@@ -33,7 +33,7 @@
     128,
     104
   ],
-  "name": "Animated Copper Ore Corpse",
+  "name": "Cadáver de Veio de Cobre Animado",
   "producer": {
     "products": {
       "3": [

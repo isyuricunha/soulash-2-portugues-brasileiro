@@ -6,7 +6,7 @@
     "health": 0,
     "stamina": 6
   },
-  "description": "Deal bonus ::damage_bonus_percent% damage, and gain +::thorns thorns, but your movement speed becomes slower by ::movement_speed.",
+  "description": "Causa bônus de ::damage_bonus_percent% de dano e ganha +::thorns espinhos, mas sua velocidade de movimento fica mais lenta em ::movement_speed.",
   "duration": 10.0,
   "effects": {
     "damage_bonus_percent": 0.20000000298023224,

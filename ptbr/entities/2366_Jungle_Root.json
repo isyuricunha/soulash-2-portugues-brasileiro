@@ -10,7 +10,7 @@
     "value",
     "weight"
   ],
-  "description": "An edible root found in the dense jungles.",
+  "description": "Uma raiz comestível encontrada nas densas selvas.",
   "food": {
     "nutrition": 20,
     "poisonous": 0,
@@ -40,7 +40,7 @@
     177,
     66
   ],
-  "name": "Jungle Root",
+  "name": "Raiz da Selva",
   "value": 300,
   "weight": 0.10000000149011612
 }

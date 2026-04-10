@@ -8,7 +8,7 @@
     "position_2d"
   ],
   "corpse": [],
-  "description": "\"Welcome to The Great Circus! Now with even more greatness!\"",
+  "description": "\"Bem-vindo ao Grande Circo! Agora com ainda mais grandiosidade!\"",
   "glyph": {
     "frames": [
       {
@@ -75,5 +75,5 @@
     108,
     14
   ],
-  "name": "Sign II"
+  "name": "Placa II"
 }

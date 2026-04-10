@@ -106,7 +106,7 @@
   "moveable": {
     "speed": 1.0
   },
-  "name": "Dark Dwarf",
+  "name": "Anão Negro",
   "sight": {
     "ignore_infra_penalty": false,
     "infravision": true,

@@ -23,7 +23,7 @@
     "position_2d"
   ],
   "corpse": [],
-  "description": "Several snow globes stacked on top of each other and decorated with a funny hat.",
+  "description": "Várias bolas de neve empilhadas umas sobre as outras e decoradas com um chapéu engraçado.",
   "glyph": {
     "frames": [
       {
@@ -46,5 +46,5 @@
     80,
     136
   ],
-  "name": "Snowman"
+  "name": "Boneco de Neve"
 }

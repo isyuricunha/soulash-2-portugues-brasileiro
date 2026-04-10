@@ -24,7 +24,7 @@
     "time": 10,
     "tools": []
   },
-  "description": "Fine powder made from pulverized bones.",
+  "description": "Pó fino feito de ossos pulverizados.",
   "glyph": {
     "frames": [
       {
@@ -49,7 +49,7 @@
     109,
     155
   ],
-  "name": "Bone Dust",
+  "name": "Pó de Osso",
   "resource": {
     "affix": "of the Ash",
     "magic_ingredient": 1,

@@ -6,7 +6,7 @@
     "health": 0,
     "stamina": 0
   },
-  "description": "That gingerbread must have been special because it hurts those who hurt you. Thorns +::thorns for ::duration turns.",
+  "description": "Aquele pão de mel deve ter sido especial porque machuca aqueles que te machucam. Espinhos +::thorns por ::duration turnos.",
   "duration": 600.0,
   "effects": {
     "thorns": 2

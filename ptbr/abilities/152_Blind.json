@@ -6,7 +6,7 @@
     "health": 0,
     "stamina": 2
   },
-  "description": "The target sight is reduced to 1 for ::duration turns.",
+  "description": "A visão do alvo é reduzida para 1 por ::duration turnos.",
   "duration": 6.0,
   "effects": {
     "sight": -50

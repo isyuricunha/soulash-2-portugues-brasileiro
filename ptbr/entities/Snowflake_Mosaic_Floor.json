@@ -14,7 +14,7 @@
     "minimap_pixel",
     "name"
   ],
-  "description": "A floor mosaic inlaid with intricate snowflake design.",
+  "description": "Um mosaico de chão incrustado com intrincado desenho de flocos de neve.",
   "glyph": {
     "frames": [
       {
@@ -35,5 +35,5 @@
     63,
     72
   ],
-  "name": "Snowflake Mosaic Floor"
+  "name": "Mosaico de Flocos de Neve no Chão"
 }

@@ -18,7 +18,7 @@
     "on_enter",
     "position_2d"
   ],
-  "description": "Blood tumbles down to the lake from the rocky cave ceiling.",
+  "description": "Sangue escorre para o lago a partir do teto rochoso da caverna.",
   "glyph": {
     "frames": [
       {
@@ -188,7 +188,7 @@
     7,
     7
   ],
-  "name": "Underground Waterfall of Blood",
+  "name": "Cachoeira Subterrânea de Sangue",
   "on_enter": {
     "ability": [
       "88",

@@ -6,7 +6,7 @@
     "health": 0,
     "stamina": 10
   },
-  "description": "Throws a ball of fire that explodes on impact dealing ::damage ::damage_type damage on a large area.",
+  "description": "Arremessa uma bola de fogo que explode ao impacto, causando ::damage de ::damage_type em uma grande área.",
   "duration": 0.0,
   "effects": {
     "aoe_break": 1,
@@ -21,7 +21,7 @@
   },
   "id": "15",
   "image": 42,
-  "name": "Fireball",
+  "name": "Bola de Fogo",
   "range": 7,
   "skill": "core_2_pyromancy",
   "slots": {

@@ -37,7 +37,7 @@
       "id": "916"
     }
   ],
-  "description": "The blood rocks gently back and forth in the shadow of the cave.",
+  "description": "O sangue balança suavemente para frente e para trás na sombra da caverna.",
   "glyph": {
     "frames": [
       {
@@ -62,7 +62,7 @@
     7,
     7
   ],
-  "name": "Underground Lake of Blood",
+  "name": "Lago Subterrâneo de Sangue",
   "on_enter": {
     "ability": [
       "88",

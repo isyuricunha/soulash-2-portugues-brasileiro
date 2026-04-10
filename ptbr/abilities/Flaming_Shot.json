@@ -7,7 +7,7 @@
     "health": 0,
     "stamina": 5
   },
-  "description": "Shoots a flaming projectile that deals ::damage ::damage_type damage and applies ::burn burning effect. May leave the ammunition after shooting.",
+  "description": "Dispara um projétil flamejante que causa ::damage de ::damage_type e aplica o efeito de queimadura ::burn. Pode deixar a munição após o disparo.",
   "duration": 0.0,
   "effects": {
     "burn": 3,

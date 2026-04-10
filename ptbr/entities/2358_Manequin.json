@@ -22,7 +22,7 @@
     "time": 60,
     "tools": []
   },
-  "description": "A wooden mannequin used by medieval tailors to design and create clothing, allowing for precise measurements and fittings for garments ranging from simple tunics to ornate gowns.",
+  "description": "Um manequim de madeira usado por alfaiates medievais para projetar e criar roupas, permitindo medidas e ajustes precisos para vestimentas que variam de túnicas simples a vestidos ornamentados.",
   "glyph": {
     "frames": [
       {
@@ -63,5 +63,5 @@
     68,
     24
   ],
-  "name": "Manequin"
+  "name": "Manequim"
 }

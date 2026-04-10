@@ -9,7 +9,7 @@
     "producer",
     "weight"
   ],
-  "description": "A lifeless body of a mythical white deer.",
+  "description": "Um corpo sem vida de um veado branco mítico.",
   "glyph": {
     "frames": [
       {
@@ -38,7 +38,7 @@
     219,
     219
   ],
-  "name": "White Deer Corpse",
+  "name": "Cadáver de Veado Branco",
   "producer": {
     "products": {
       "3": [

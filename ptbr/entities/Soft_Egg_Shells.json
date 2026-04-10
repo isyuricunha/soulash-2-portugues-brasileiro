@@ -8,7 +8,7 @@
     "position_2d"
   ],
   "corpse": [],
-  "description": "Soft, white shells of a turtle egg.",
+  "description": "Cascas brancas e macias de um ovo de tartaruga.",
   "glyph": {
     "frames": [
       {
@@ -31,5 +31,5 @@
     68,
     0
   ],
-  "name": "Soft Egg Shells"
+  "name": "Cascas de Ovos Macias"
 }

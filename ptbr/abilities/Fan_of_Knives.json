@@ -6,7 +6,7 @@
     "health": 0,
     "stamina": 10
   },
-  "description": "Sprays the area near you with knives, dealing ::damage ::damage_type damage in ::aoe_range tiles around you.",
+  "description": "Borra poeira na área próxima a você com facas, causando ::damage de ::damage_type em ::aoe_range células ao seu redor.",
   "duration": 0.0,
   "effects": {
     "aoe_range": 5,

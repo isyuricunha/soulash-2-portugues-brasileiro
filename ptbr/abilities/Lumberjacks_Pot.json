@@ -6,7 +6,7 @@
     "health": 0,
     "stamina": 0
   },
-  "description": "Empowering stew increases damage you deal by ::damage_bonus_percent%.",
+  "description": "O ensopado fortalecedor aumenta o dano que você causa em ::damage_bonus_percent%.",
   "duration": 600.0,
   "effects": {
     "damage_bonus_percent": 0.10000000149011612

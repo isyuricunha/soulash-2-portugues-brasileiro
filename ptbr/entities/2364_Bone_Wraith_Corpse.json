@@ -9,7 +9,7 @@
     "value",
     "weight"
   ],
-  "description": "Lifeless body of a Bone Wraith.",
+  "description": "Corpo sem vida de um Espectro de Osso.",
   "glyph": {
     "frames": [
       {
@@ -38,7 +38,7 @@
     183,
     183
   ],
-  "name": "Bone Wraith Corpse",
+  "name": "Cadáver de Espectro de Osso",
   "value": 0,
   "weight": 60.0
 }

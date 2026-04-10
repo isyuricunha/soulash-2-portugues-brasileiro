@@ -6,7 +6,7 @@
     "health": 0,
     "stamina": 0
   },
-  "description": "This potion improves your magic power by ::magic_power for ::duration turns.",
+  "description": "Esta poção melhora seu Poder Mágico em ::magic_power por ::duration turnos.",
   "duration": 100.0,
   "effects": {
     "magic_power": 5.0

@@ -6,7 +6,7 @@
     "health": 0,
     "stamina": 6
   },
-  "description": "Deals ::damage ::damage_type damage.",
+  "description": "Causa ::damage ::damage_type de dano.",
   "duration": 0.0,
   "effects": {
     "damage": [
@@ -17,7 +17,7 @@
   },
   "id": "core_2_Holy_Strike",
   "image": 609,
-  "name": "Holy Strike",
+  "name": "Golpe Sagrado",
   "range": 2,
   "skill": "",
   "target": "health"

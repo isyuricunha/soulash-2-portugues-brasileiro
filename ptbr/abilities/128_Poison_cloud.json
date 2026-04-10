@@ -6,7 +6,7 @@
     "health": 0,
     "stamina": 10
   },
-  "description": "Cria uma nuvem temporária na área selecionada, causando ::damage de dano ::damage_type imediatamente e aplicando Veneno a todos por ::poison_effect turnos. As nuvens podem às vezes permanecer em células aleatórias por ::duration turnos.",
+  "description": "Cria uma nuvem temporária na área selecionada causando ::damage de dano ::damage_type imediatamente e aplicando Veneno em todos por ::poison_effect turnos. As nuvens podem às vezes permanecer em células aleatórias por ::duration turnos.",
   "duration": 2.0,
   "effects": {
     "aoe_range": 3,

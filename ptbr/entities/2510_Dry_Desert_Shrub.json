@@ -11,7 +11,7 @@
     "position_2d"
   ],
   "corpse": [],
-  "description": "Looks like it didn't see any water for years.",
+  "description": "Parece que não viu água há anos.",
   "glyph": {
     "frames": [
       {
@@ -56,5 +56,5 @@
     89,
     31
   ],
-  "name": "Dry Desert Shrub"
+  "name": "Arbusto Seco do Deserto"
 }

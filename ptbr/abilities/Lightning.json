@@ -6,7 +6,7 @@
     "health": 0,
     "stamina": 10
   },
-  "description": "Shoots a lightning bolt from your finger at a straight line hitting first thing it comes in contact with for ::damage ::damage_type damage.",
+  "description": "Dispara um raio do seu dedo em linha reta acertando a primeira coisa com a qual entrar em contato causando ::damage ::damage_type de dano.",
   "duration": 0.0,
   "effects": {
     "damage": [
@@ -18,7 +18,7 @@
   },
   "id": "18",
   "image": 44,
-  "name": "Lightning",
+  "name": "Raio",
   "range": 8,
   "skill": "",
   "slots": {

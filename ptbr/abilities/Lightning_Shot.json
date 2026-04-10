@@ -7,7 +7,7 @@
     "health": 0,
     "stamina": 4
   },
-  "description": "Shoots a magical projectile that deals ::damage ::damage_type damage in an area on impact. May leave the ammunition after shooting.",
+  "description": "Dispara um projétil mágico que causa ::damage ::damage_type de dano em uma área no impacto. Pode deixar a munição após o disparo.",
   "duration": 0.0,
   "effects": {
     "aoe_range": 4,

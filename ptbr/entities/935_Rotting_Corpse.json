@@ -19,7 +19,7 @@
     "duration": 0.0,
     "tick": 0.0
   },
-  "description": "A deformed and rotting corpse. Don't step on it!",
+  "description": "Um cadáver deformado e apodrecido. Não pise nele!",
   "glyph": {
     "frames": [
       {
@@ -44,7 +44,7 @@
     39,
     173
   ],
-  "name": "Rotting Corpse",
+  "name": "Cadáver Apodrecido",
   "producer": {
     "products": {
       "3": [

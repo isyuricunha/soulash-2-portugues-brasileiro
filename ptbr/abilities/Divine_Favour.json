@@ -6,7 +6,7 @@
     "health": 0,
     "stamina": 10
   },
-  "description": "This ability heals ::heal health to a single living being.",
+  "description": "Esta habilidade cura ::heal de Vida de um único ser vivo.",
   "duration": 0.0,
   "effects": {
     "heal": [

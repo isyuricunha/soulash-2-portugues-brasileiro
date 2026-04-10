@@ -188,7 +188,7 @@
     7,
     7
   ],
-  "name": "Waterfall of Blood",
+  "name": "Cachoeira de Sangue",
   "on_enter": {
     "ability": [
       "88",

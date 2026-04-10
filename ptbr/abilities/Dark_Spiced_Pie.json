@@ -6,7 +6,7 @@
     "health": 0,
     "stamina": 0
   },
-  "description": "Delicious pie grants +::intelligence Intelligence for ::duration turns.",
+  "description": "Torta deliciosa concede +::intelligence de Inteligência por ::duration turnos.",
   "duration": 600.0,
   "effects": {
     "intelligence": 2

@@ -46,7 +46,7 @@
     "weapon"
   ],
   "corpse": [],
-  "description": "This armor moves of its own accord!",
+  "description": "Esta armadura se move por conta própria!",
   "dialogues": [
     "362"
   ],
@@ -160,7 +160,7 @@
   "moveable": {
     "speed": 0.800000011920929
   },
-  "name": "Animated Armor",
+  "name": "Armadura Animada",
   "sight": {
     "ignore_infra_penalty": false,
     "infravision": true,

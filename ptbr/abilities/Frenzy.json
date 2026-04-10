@@ -6,7 +6,7 @@
     "health": 0,
     "stamina": 25
   },
-  "description": "You enter a state of uncontrolled, wild excitement, increasing your attack speed by ::attack_speed and hit chance by ::hit_chance%. While the frenzy lasts, you won't see your current health.",
+  "description": "Você entra em um estado de excitação selvagem e incontrolável, aumentando sua velocidade de ataque em ::attack_speed e chance de acerto em ::hit_chance%. Enquanto a frenesi durar, você não verá sua Vida atual.",
   "duration": 6.0,
   "effects": {
     "attack_speed": -0.20000000298023224,

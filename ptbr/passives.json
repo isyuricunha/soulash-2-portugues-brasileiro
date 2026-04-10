@@ -302,7 +302,7 @@
   },
   {
     "id": "core_2_2h_dual_wield",
-    "name": "Dual Wield 2-Handers",
+    "name": "Empunhar Duas Armas de Duas Mãos",
     "image": 25,
     "restrict_weapon_type": "axe",
     "effects": [

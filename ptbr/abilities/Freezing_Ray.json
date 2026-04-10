@@ -6,7 +6,7 @@
     "health": 0,
     "stamina": 4
   },
-  "description": "Shoots a ray of frost from your finger at a straight line hitting first thing it comes in contact with for ::damage ::damage_type damage.",
+  "description": "Dispara um raio de gelo do seu dedo em linha reta, atingindo a primeira coisa com que entrar em contato, causando ::damage de ::damage_type.",
   "duration": 0.0,
   "effects": {
     "damage": [

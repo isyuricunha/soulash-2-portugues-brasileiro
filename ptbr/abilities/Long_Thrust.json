@@ -6,7 +6,7 @@
     "health": 0,
     "stamina": 4
   },
-  "description": "Weapon attack that deals ::damage ::damage_type damage.",
+  "description": "Ataque com arma que causa ::damage ::damage_type de dano.",
   "duration": 0.0,
   "effects": {
     "damage": [
@@ -18,7 +18,7 @@
   },
   "id": "44",
   "image": 709,
-  "name": "Long Thrust",
+  "name": "Estocada Longa",
   "range": 2,
   "requirements": {
     "one_of": [

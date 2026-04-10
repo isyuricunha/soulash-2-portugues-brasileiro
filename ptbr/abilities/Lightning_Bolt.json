@@ -6,7 +6,7 @@
     "health": 0,
     "stamina": 10
   },
-  "description": "Throw a lightning piercing up to ::range tiles and electrocuting everything it comes in contact with, dealing ::damage ::damage_type damage and stunning for ::stun turns.",
+  "description": "Joga um raio perfurando até ::range células e eletrocutando tudo com o que entrar em contato, causando ::damage ::damage_type de dano e atordoando por ::stun turnos.",
   "duration": 0.0,
   "effects": {
     "damage": [

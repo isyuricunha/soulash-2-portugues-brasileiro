@@ -6,7 +6,7 @@
     "health": 0,
     "stamina": 4
   },
-  "description": "Throw an exploding bomb at a location, dealing ::damage ::damage_type damage.",
+  "description": "Arremesse uma bomba explosiva em um local, causando ::damage de ::damage_type.",
   "duration": 1.5,
   "effects": {
     "aoe_break": 1,

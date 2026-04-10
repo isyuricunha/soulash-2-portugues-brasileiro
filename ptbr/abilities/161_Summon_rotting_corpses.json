@@ -6,7 +6,7 @@
     "health": 20,
     "stamina": 0
   },
-  "description": "Summons 30 rotting corpses around, that will deal death damage to anyone who steps on them. The corpses remain for ::duration turns.",
+  "description": "Invoca 30 cadáveres em decomposição ao redor, que causarão dano de morte a quem pisar neles. Os cadáveres permanecem por ::duration turnos.",
   "duration": 30.0,
   "effects": {
     "aoe_range": 10,

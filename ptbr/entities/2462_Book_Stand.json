@@ -30,7 +30,7 @@
     "time": 20,
     "tools": []
   },
-  "description": "A functional holder for books, keeping them upright for easy reading or display.",
+  "description": "Um suporte funcional para livros, mantendo-os na vertical para leitura ou exibição fácil.",
   "glyph": {
     "frames": [
       {
@@ -52,5 +52,5 @@
     131,
     77
   ],
-  "name": "Book Stand"
+  "name": "Suporte de Livros"
 }

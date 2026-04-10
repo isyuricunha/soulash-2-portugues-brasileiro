@@ -143,7 +143,7 @@
     "gamepad_keys": [
       {
         "id": "::rotate",
-        "text": "[color=45,121,37,255]Left Stick[/color]"
+        "text": "[color=45,121,37,255]Analógico Esquerdo[/color]"
       }
     ]
   },

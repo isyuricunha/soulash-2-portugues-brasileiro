@@ -8,7 +8,7 @@
     "producer",
     "weight"
   ],
-  "description": "Animated jadeite vein, but this time it is dead.",
+  "description": "Veio de jadeíta animado, mas desta vez está morto.",
   "glyph": {
     "frames": [
       {
@@ -33,7 +33,7 @@
     128,
     104
   ],
-  "name": "Animated Jadeite Vein Corpse",
+  "name": "Cadáver de Veio de Jadeíta Animado",
   "producer": {
     "products": {
       "3": [

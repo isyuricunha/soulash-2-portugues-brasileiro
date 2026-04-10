@@ -6,7 +6,7 @@
     "health": 0,
     "stamina": 0
   },
-  "description": "Your speed changes by ::movement_speed for ::duration turns.",
+  "description": "Sua velocidade muda em ::movement_speed por ::duration turnos.",
   "duration": 100.0,
   "effects": {
     "attack_speed": -0.20000000298023224,

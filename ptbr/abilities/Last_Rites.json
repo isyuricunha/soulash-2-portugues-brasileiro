@@ -7,7 +7,7 @@
     "item_type": 18,
     "stamina": 5
   },
-  "description": "Recite the last rites for the soul stolen from body, burn the body, and make the soul accept it's defeat and new purpose. This ability consumes a corpse and restores 20-40 health to the caster.",
+  "description": "Recite os últimos ritos para a alma roubada do corpo, queime o corpo e faça a alma aceitar sua derrota e novo propósito. Esta habilidade consome um cadáver e restaura 20-40 de vida ao conjurador.",
   "duration": 0.0,
   "effects": {
     "heal": [

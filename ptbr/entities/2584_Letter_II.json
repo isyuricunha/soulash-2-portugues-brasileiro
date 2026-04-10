@@ -8,7 +8,7 @@
     "stackable",
     "weight"
   ],
-  "description": "A letter that reads:\n\"It has to be done by night. Kill a creature that rises from the grave. One blow to the heart should be enough.\"",
+  "description": "Uma carta que diz:\n\"Isso deve ser feito à noite. Mate uma criatura que ressuscita da cova. Um golpe no coração deve ser suficiente.\"",
   "glyph": {
     "frames": [
       {
@@ -33,6 +33,6 @@
     153,
     137
   ],
-  "name": "Letter II",
+  "name": "Carta II",
   "weight": 0.10000000149011612
 }

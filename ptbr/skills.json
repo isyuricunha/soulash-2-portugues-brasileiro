@@ -863,9 +863,9 @@
   },
   {
     "id": "core_2_leatherworking",
-    "name": "Leatherworking",
+    "name": "Couraria",
     "image": 9,
-    "description": "Leatherworking utilizes furs and leathers of dead things to create extra layers of protection against weather conditions or physical harm as clothing or armor. Even though metal offers better defense, leather is cheaper and doesn't reduce reflexes making it ideal for agile characters.\n\nYou can train this skill by crafting, upgrading or salvaging armor pieces.",
+    "description": "A Couraria utiliza peles e couros de criaturas mortas para criar camadas extras de proteção contra condições climáticas ou danos físicos, como roupas ou armaduras. Embora o metal ofereça melhor defesa, o couro é mais barato e não reduz os reflexos, tornando-o ideal para personagens ágeis.\n\nVocê pode treinar esta habilidade craftando, melhorando ou desmanchando peças de armadura.",
     "exp_sources": [
       {
         "id": "craft",
@@ -927,9 +927,9 @@
   },
   {
     "id": "core_2_mace_fighting",
-    "name": "Mace Fighting",
+    "name": "Combate com Maça",
     "image": 6,
-    "description": "It may not be possible to decapitate an opponent with a mace or a hammer, but popping someone's head like a watermelon is probably the next best thing. The specialty of mace fighting is control of the battlefield, as the users focus on disrupting the enemy's actions.\n\nYou can train this skill by using abilities and attacking with maces.",
+    "description": "Pode não ser possível decapitar um oponente com uma maça ou um martelo, mas esmagar a cabeça de alguém como uma melancia é provavelmente a próxima melhor coisa. A especialidade do combate com maça é o controle do campo de batalha, pois os usuários focam em perturbar as ações do inimigo.\n\nVocê pode treinar esta habilidade usando habilidades e atacando com maças.",
     "combat_skill": true,
     "exp_sources": [
       {
@@ -990,9 +990,9 @@
   },
   {
     "id": "core_2_necromancy",
-    "name": "Necromancy",
+    "name": "Necromancia",
     "image": 1,
-    "description": "Necromancy is the magical art of communing with the dead. It's dangerous and corrupts its practitioners' mind and soul. Most mortals fear death, but not as much as they fear the beings willing to go to any lengths to defy it. This path is not often chosen by those seeking devastating destructive powers, as most individuals desire it not to cause harm to others but to prolong their life or recover a lost loved one. That is until their grief and lust for knowledge consume them entirely.\n\nYou can train this skill by using abilities, corrupting souls, and taking control of undead creatures.",
+    "description": "A Necromancia é a arte mágica de se comunicar com os mortos. É perigosa e corrompe a mente e a alma de seus praticantes. A maioria dos mortais teme a morte, mas não tanto quanto temem os seres dispostos a qualquer coisa para desafiá-la. Este caminho não é frequentemente escolhido por aqueles que buscam poderes destrutivos devastadores, pois a maioria dos indivíduos não deseja causar dano aos outros, mas prolongar sua vida ou recuperar um ente querido perdido. Isso até que sua dor e sede por conhecimento os consumam completamente.\n\nVocê pode treinar esta habilidade usando habilidades, corrompendo almas e tomando controle de criaturas mortas-vivas.",
     "combat_skill": true,
     "exp_sources": [
       {
@@ -1044,9 +1044,9 @@
   },
   {
     "id": "core_2_pole_fighting",
-    "name": "Pole Fighting",
+    "name": "Combate com Armas de Haste",
     "image": 13,
-    "description": "Riders are not a problem if they charge directly at a prepared pike. Your opponents can't make a sword slash attack against you if you keep them at the tip of your long spear. Polearms can be a great addition to any warrior's arsenal, as they focus on benefits of range and positioning.\n\nYou can train this skill by using abilities and attacking with polearms.",
+    "description": "Cavaleiros não são um problema se carregarem diretamente em uma piqua preparada. Seus oponentes não podem fazer um ataque de corte com espada contra você se você os mantiver na ponta de sua longa lança. Armas de haste podem ser uma grande adição ao arsenal de qualquer guerreiro, pois focam nos benefícios de alcance e posicionamento.\n\nVocê pode treinar esta habilidade usando habilidades e atacando com armas de haste.",
     "weapon_type": 4,
     "exp_sources": [
       {
@@ -1106,9 +1106,9 @@
   },
   {
     "id": "core_2_protection",
-    "name": "Protection",
+    "name": "Proteção",
     "image": 3,
-    "description": "Protection is a skill focused entirely on one single goal - not dying. Whether you want to nimbly dodge attacks or use a bulky shield to cover yourself, this is the path to becoming an old veteran one day.\n\nYou can train this skill by using abilities and parrying with a shield equipped.",
+    "description": "Proteção é uma habilidade focada inteiramente em um único objetivo - não morrer. Seja você quer esquivar ágilmente de ataques ou usar um escudo robusto para se cobrir, este é o caminho para se tornar um veterano um dia.\n\nVocê pode treinar esta habilidade usando habilidades e aparando com um escudo equipado.",
     "combat_skill": true,
     "exp_sources": [
       {
@@ -1167,9 +1167,9 @@
   },
   {
     "id": "core_2_pyromancy",
-    "name": "Pyromancy",
+    "name": "Piromancia",
     "image": 2,
-    "description": "Pyromancy is one of the schools of magic that focuses on the devastating power of fire and extremely high temperatures. It's a path for people who want to see the world burn and their enemies turn to ash.\n\nYou can train this skill by using abilities.",
+    "description": "A Piromancia é uma das escolas de magia que se concentra no poder devastador do fogo e em temperaturas extremamente altas. É um caminho para pessoas que querem ver o mundo queimar e seus inimigos se transformarem em cinzas.\n\nVocê pode treinar esta habilidade usando habilidades.",
     "combat_skill": true,
     "exp_sources": [
       {
@@ -1212,9 +1212,9 @@
   },
   {
     "id": "core_2_stormthrowing",
-    "name": "Stormthrowing",
+    "name": "Arremesso de Tempestades",
     "image": 24,
-    "description": "Stormthrowing fuses expert weapon throwing with electrifying magic. Perfect for combatants seeking a blend of ranged physical attacks and elemental magic. This deadly combination makes them formidable foes on the battlefield.\n\nYou can train this skill by attacking with throwing weapons and by using abilities.",
+    "description": "O Arremesso de Tempestades funde o arremesso especializado de armas com magia eletrizante. Perfeito para combatentes que buscam uma mistura de ataques físicos à distância e magia elemental. Esta combinação mortal os torna formidáveis oponentes no campo de batalha.\n\nVocê pode treinar esta habilidade atacando com armas de arremesso e usando habilidades.",
     "combat_skill": true,
     "exp_sources": [
       {
@@ -1274,9 +1274,9 @@
   },
   {
     "id": "core_2_sword_fighting",
-    "name": "Sword Fighting",
+    "name": "Combate com Espada",
     "image": 4,
-    "description": "Swords are the most common and versatile weapons. They are light, fast, and well-balanced. Mastery of the blade comes with advantages in hit chance, counterattacks, and causing devastating bleed attacks.\n\nYou can train this skill by using abilities and attacking with swords.",
+    "description": "Espadas são as armas mais comuns e versáteis. São leves, rápidas e bem equilibradas. O domínio da lâmina vem com vantagens na chance de acerto, contra-ataques e causar ataques devastadores de sangramento.\n\nVocê pode treinar esta habilidade usando habilidades e atacando com espadas.",
     "weapon_type": 1,
     "exp_sources": [
       {

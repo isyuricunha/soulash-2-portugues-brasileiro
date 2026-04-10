@@ -33,7 +33,7 @@
     "producer"
   ],
   "corpse": "35",
-  "description": "Natural obsidian wall.",
+  "description": "Parede natural de obsidiana.",
   "glyph": {
     "frames": [
       {
@@ -65,7 +65,7 @@
     63,
     67
   ],
-  "name": "Natural Obsidian Wall",
+  "name": "Parede Natural de Obsidiana",
   "producer": {
     "products": {
       "5": [

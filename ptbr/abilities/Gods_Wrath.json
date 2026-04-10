@@ -6,7 +6,7 @@
     "health": 0,
     "stamina": 10
   },
-  "description": "Apply poison, bleed, burning, fear, immobilize, and stun for ::duration turns and knockback target enemy ::knockback tiles.",
+  "description": "Aplica veneno, sangramento, queimadura, medo, imobilização e atordoamento por ::duration turnos e empurra o inimigo alvo ::knockback células.",
   "duration": 3.0,
   "effects": {
     "bleed": 3,
@@ -19,7 +19,7 @@
   },
   "id": "core_2_Gods_Wrath",
   "image": 89,
-  "name": "God's Wrath",
+  "name": "Fúria Divina",
   "range": 8,
   "skill": "",
   "slots": {

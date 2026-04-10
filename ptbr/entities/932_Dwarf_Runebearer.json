@@ -117,9 +117,9 @@
   "moveable": {
     "speed": 1.0
   },
-  "name": "Dwarf Runebearer",
+  "name": "Anão Portador de Runas",
   "persona": {
-    "occupation": "Runebearer"
+    "occupation": "Portador de Runas"
   },
   "sight": {
     "ignore_infra_penalty": false,

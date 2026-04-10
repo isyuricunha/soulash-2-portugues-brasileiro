@@ -6,7 +6,7 @@
     "health": 0,
     "stamina": 8
   },
-  "description": "Throw a bomb at a location, silencing your opponents for ::duration turns.",
+  "description": "Arremesse uma bomba em um local, silenciando seus oponentes por ::duration turnos.",
   "duration": 5.0,
   "effects": {
     "aoe_break": 1,

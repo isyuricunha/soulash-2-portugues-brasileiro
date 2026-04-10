@@ -6,7 +6,7 @@
     "health": 0,
     "stamina": 8
   },
-  "description": "Throw a bomb at a location, dealing ::damage ::damage_type damage and freeze stack.",
+  "description": "Arremesse uma bomba em um local, causando ::damage de ::damage_type e congelamento.",
   "duration": 1.5,
   "effects": {
     "aoe_break": 1,

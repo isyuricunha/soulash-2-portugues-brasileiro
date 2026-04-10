@@ -8,7 +8,7 @@
     "weapon",
     "weight"
   ],
-  "description": "A lifeless hand of a dead reptilion.",
+  "description": "Uma mão sem vida de um reptilion morto.",
   "glyph": {
     "frames": [
       {
@@ -33,7 +33,7 @@
     160,
     161
   ],
-  "name": "Reptilion Hand",
+  "name": "Mão de Reptilion",
   "weapon": {
     "attack_speed": 1.0,
     "critical_hit": 0.0,

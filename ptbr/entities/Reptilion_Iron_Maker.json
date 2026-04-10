@@ -89,9 +89,9 @@
   "moveable": {
     "speed": 1.5
   },
-  "name": "Reptilion Iron Maker",
+  "name": "Ferreiro Reptilion",
   "persona": {
-    "occupation": "Iron Maker"
+    "occupation": "Ferreiro"
   },
   "sight": {
     "ignore_infra_penalty": false,

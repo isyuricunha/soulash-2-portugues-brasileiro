@@ -6,7 +6,7 @@
     "health": 0,
     "stamina": 4
   },
-  "description": "Perform a thrusting attack at nearby opponent that deals ::damage ::damage_type damage, and moves you one step backwards.",
+  "description": "Execute um ataque de estocada em um oponente próximo que causa ::damage ::damage_type de dano e move você um passo para trás.",
   "duration": 0.0,
   "effects": {
     "damage": [
@@ -19,7 +19,7 @@
   },
   "id": "177",
   "image": 711,
-  "name": "Hit and Run",
+  "name": "Bater e Correr",
   "range": 1,
   "requirements": {
     "one_of": [

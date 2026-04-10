@@ -9,7 +9,7 @@
     "producer",
     "weight"
   ],
-  "description": "An orc corpse, completely absent of life.",
+  "description": "Um cadáver de orc, completamente sem vida.",
   "glyph": {
     "frames": [
       {
@@ -38,7 +38,7 @@
     128,
     104
   ],
-  "name": "Orc Corpse",
+  "name": "Cadáver de Orc",
   "producer": {
     "products": {
       "3": [
