@@ -1,0 +1,75 @@
+{
+  "animation_origin_self": false,
+  "camera_shake": {
+    "bounces": 3,
+    "duration": 0.10000000149011612,
+    "power": 3,
+    "type": 1
+  },
+  "chain_particles": true,
+  "id": "236",
+  "ignore_roof": false,
+  "name": "Pisoteada",
+  "particles": [
+    {
+      "color": [
+        [
+          255,
+          255,
+          255,
+          255
+        ]
+      ],
+      "delay": 50.0,
+      "flags": 0,
+      "life": 50.0,
+      "tile_id": 225
+    },
+    {
+      "color": [
+        [
+          255,
+          255,
+          255,
+          255
+        ]
+      ],
+      "delay": 100.0,
+      "flags": 0,
+      "life": 50.0,
+      "tile_id": 226
+    },
+    {
+      "color": [
+        [
+          255,
+          255,
+          255,
+          255
+        ]
+      ],
+      "delay": 150.0,
+      "flags": 0,
+      "life": 50.0,
+      "tile_id": 227
+    },
+    {
+      "color": [
+        [
+          255,
+          255,
+          255,
+          255
+        ]
+      ],
+      "delay": 300.0,
+      "flags": 0,
+      "life": 50.0,
+      "tile_id": 228
+    }
+  ],
+  "sound": {
+    "id": "-1",
+    "volume": 100
+  }
+}

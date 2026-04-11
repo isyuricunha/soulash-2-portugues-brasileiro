@@ -1,0 +1,44 @@
+{
+  "camera_shake": {
+    "duration": 0.0,
+    "power": 0.0
+  },
+  "chain_particles": false,
+  "id": "140",
+  "ignore_roof": true,
+  "name": "Fogo de artifício único",
+  "particles": [
+    {
+      "color": [
+        [
+          128,
+          219,
+          102,
+          200
+        ],
+        [
+          246,
+          182,
+          90,
+          255
+        ],
+        [
+          66,
+          129,
+          218,
+          255
+        ]
+      ],
+      "elevation": 200,
+      "flags": 131072,
+      "life": 600.0,
+      "on_impact": "141",
+      "pulse_background": 250.0,
+      "tile_id": 247
+    }
+  ],
+  "sound": {
+    "id": "-1",
+    "volume": 100
+  }
+}

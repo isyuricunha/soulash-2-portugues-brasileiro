@@ -1,0 +1,115 @@
+{
+  "camera_shake": {
+    "bounces": 2,
+    "duration": 0.20000000298023224,
+    "power": 10,
+    "type": 1
+  },
+  "chain_particles": false,
+  "id": "11",
+  "ignore_roof": true,
+  "name": "Golpe",
+  "particles": [
+    {
+      "color": [
+        [
+          255,
+          255,
+          255,
+          255
+        ]
+      ],
+      "flags": 0,
+      "life": 40.0,
+      "tile_id": 416
+    },
+    {
+      "color": [
+        [
+          255,
+          255,
+          255,
+          255
+        ]
+      ],
+      "delay": 40.0,
+      "flags": 0,
+      "life": 40.0,
+      "tile_id": 417
+    },
+    {
+      "color": [
+        [
+          255,
+          255,
+          255,
+          255
+        ]
+      ],
+      "delay": 80.0,
+      "flags": 0,
+      "life": 40.0,
+      "tile_id": 418
+    },
+    {
+      "color": [
+        [
+          255,
+          255,
+          255,
+          255
+        ]
+      ],
+      "delay": 120.0,
+      "flags": 0,
+      "life": 40.0,
+      "tile_id": 419
+    },
+    {
+      "color": [
+        [
+          255,
+          255,
+          255,
+          255
+        ]
+      ],
+      "delay": 160.0,
+      "flags": 0,
+      "life": 40.0,
+      "tile_id": 426
+    },
+    {
+      "color": [
+        [
+          255,
+          255,
+          255,
+          255
+        ]
+      ],
+      "delay": 200.0,
+      "flags": 0,
+      "life": 40.0,
+      "tile_id": 427
+    },
+    {
+      "color": [
+        [
+          255,
+          255,
+          255,
+          255
+        ]
+      ],
+      "delay": 240.0,
+      "flags": 0,
+      "life": 40.0,
+      "tile_id": 428
+    }
+  ],
+  "sound": {
+    "id": "1",
+    "volume": 100
+  }
+}

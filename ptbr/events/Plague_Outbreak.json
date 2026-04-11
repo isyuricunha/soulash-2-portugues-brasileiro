@@ -1,0 +1,107 @@
+{
+  "id": "core_2_plague_outbreak",
+  "name": "Surtos de Peste",
+  "category": "settlement",
+  "flavor": "A mysterious sickness spreads through the streets. Beings cough black blood and production of those affected grinds to a halt.",
+  "icon": 0,
+  "small_icon": 0,
+  "rarity": "uncommon",
+  "restrict_races": [
+    "0",
+    "4",
+    "7",
+    "8",
+    "10",
+    "31"
+  ],
+  "trigger": {
+    "base_probability": 0.001,
+    "conditions": [
+      {
+        "type": "settlement_population_min",
+        "value": 30
+      },
+      {
+        "type": "race",
+        "values": [
+          "0",
+          "4",
+          "7",
+          "8",
+          "10",
+          "31"
+        ]
+      },
+      {
+        "type": "min_unemployed",
+        "value": 8
+      }
+    ]
+  },
+  "duration": {
+    "type": "temporary",
+    "days": [
+      60,
+      180
+    ]
+  },
+  "effects": [
+    {
+      "type": "production_multiplier",
+      "multiplier": 0.5
+    },
+    {
+      "type": "death_rate",
+      "rate_per_day": 0.015
+    },
+    {
+      "type": "spread_rate",
+      "rate_per_day": 0.001
+    },
+    {
+      "type": "spawn_group",
+      "amount": [
+        2,
+        4
+      ],
+      "group_type": "robbing",
+      "entity": "core_2_Plague_Refugee",
+      "stats": {
+        "health_percent": -0.1
+      },
+      "abilities": []
+    }
+  ],
+  "extra_dialogues": [
+    "core_2_plague_caugh",
+    "core_2_plague_whispers"
+  ],
+  "interactions": [
+    {
+      "type": "conversation",
+      "id": "core_2_cure_plague",
+      "required_skill": "core_2_alchemy",
+      "required_level": 20,
+      "required_ingredients": [
+        {
+          "id": "core_2_Dandelion_Flower",
+          "amount": 2
+        }
+      ],
+      "reward": {
+        "gold": 1000,
+        "reputation": 15,
+        "remove_event": true,
+        "skill_id": "core_2_alchemy",
+        "exp": 100
+      },
+      "trigger_event": "core_2_Productivity_Boost",
+      "history_event": "::name has cured the plague and saved this settlement!",
+      "announcement": "You have cured ::settlement of plague!"
+    }
+  ],
+  "history_events": {
+    "begin": "The plague outbrake has begun!",
+    "end": "The plague outbrake has passed, taking ::deaths souls from this settlements."
+  }
+}

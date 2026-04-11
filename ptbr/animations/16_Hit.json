@@ -1,0 +1,69 @@
+{
+  "blocking": false,
+  "camera_shake": {
+    "duration": 0.25,
+    "power": 5
+  },
+  "chain_particles": true,
+  "id": "16",
+  "ignore_roof": true,
+  "name": "Acerto",
+  "particles": [
+    {
+      "color": [
+        [
+          150,
+          50,
+          40,
+          255
+        ]
+      ],
+      "flags": 16,
+      "life": 50.0,
+      "tile_id": 334
+    },
+    {
+      "color": [
+        [
+          150,
+          50,
+          40,
+          255
+        ]
+      ],
+      "flags": 16,
+      "life": 50.0,
+      "tile_id": 319
+    },
+    {
+      "color": [
+        [
+          150,
+          50,
+          40,
+          255
+        ]
+      ],
+      "flags": 16,
+      "life": 50.0,
+      "tile_id": 312
+    },
+    {
+      "color": [
+        [
+          108,
+          33,
+          18,
+          179
+        ]
+      ],
+      "flags": 24,
+      "life": 100.0,
+      "tile_id": 280
+    }
+  ],
+  "sound": {
+    "id": "42",
+    "volume": 100
+  }
+}

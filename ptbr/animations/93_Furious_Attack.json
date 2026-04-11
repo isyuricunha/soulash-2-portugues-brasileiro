@@ -1,0 +1,182 @@
+{
+  "camera_shake": {
+    "bounces": 0,
+    "duration": 1.0,
+    "power": 10,
+    "type": 1
+  },
+  "chain_particles": true,
+  "id": "93",
+  "ignore_roof": true,
+  "name": "Ataque Furioso",
+  "particles": [
+    {
+      "color": [
+        [
+          255,
+          255,
+          255,
+          255
+        ]
+      ],
+      "flags": 0,
+      "life": 50.0,
+      "tile_id": 416
+    },
+    {
+      "color": [
+        [
+          255,
+          255,
+          255,
+          255
+        ]
+      ],
+      "delay": 50.0,
+      "flags": 0,
+      "life": 50.0,
+      "tile_id": 417
+    },
+    {
+      "color": [
+        [
+          255,
+          255,
+          255,
+          255
+        ]
+      ],
+      "flags": 0,
+      "life": 50.0,
+      "tile_id": 418
+    },
+    {
+      "color": [
+        [
+          255,
+          255,
+          255,
+          255
+        ]
+      ],
+      "flags": 8,
+      "life": 100.0,
+      "tile_id": 419
+    },
+    {
+      "color": [
+        [
+          255,
+          255,
+          255,
+          255
+        ]
+      ],
+      "flags": 0,
+      "life": 50.0,
+      "tile_id": 421
+    },
+    {
+      "color": [
+        [
+          255,
+          255,
+          255,
+          255
+        ]
+      ],
+      "delay": 550.0,
+      "flags": 0,
+      "life": 50.0,
+      "tile_id": 422
+    },
+    {
+      "color": [
+        [
+          255,
+          255,
+          255,
+          255
+        ]
+      ],
+      "delay": 650.0,
+      "flags": 0,
+      "life": 50.0,
+      "tile_id": 423
+    },
+    {
+      "color": [
+        [
+          255,
+          255,
+          255,
+          255
+        ]
+      ],
+      "delay": 600.0,
+      "flags": 8,
+      "life": 50.0,
+      "tile_id": 424
+    },
+    {
+      "color": [
+        [
+          255,
+          255,
+          255,
+          255
+        ]
+      ],
+      "delay": 600.0,
+      "flags": 8,
+      "life": 50.0,
+      "tile_id": 425
+    },
+    {
+      "color": [
+        [
+          255,
+          255,
+          255,
+          255
+        ]
+      ],
+      "delay": 900.0,
+      "flags": 0,
+      "life": 100.0,
+      "tile_id": 426
+    },
+    {
+      "color": [
+        [
+          255,
+          255,
+          255,
+          255
+        ]
+      ],
+      "delay": 1000.0,
+      "flags": 0,
+      "life": 100.0,
+      "tile_id": 427
+    },
+    {
+      "color": [
+        [
+          255,
+          255,
+          255,
+          255
+        ]
+      ],
+      "delay": 1100.0,
+      "flags": 8,
+      "life": 150.0,
+      "tile_id": 428
+    }
+  ],
+  "sound": {
+    "id": "49",
+    "volume": 100
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "animation_origin_self": false,
+  "camera_shake": {
+    "bounces": 4,
+    "duration": 0.15000000596046448,
+    "power": 2,
+    "type": 1
+  },
+  "chain_particles": false,
+  "id": "core_2_Healing_Herbs",
+  "ignore_roof": true,
+  "name": "Ervas Medicinais",
+  "particles": [
+    {
+      "color": [
+        [
+          4,
+          121,
+          197,
+          184
+        ]
+      ],
+      "flags": 264,
+      "life": 500.0,
+      "tile_id": 366
+    }
+  ],
+  "sound": {
+    "id": "36",
+    "volume": 100
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "animation": "58",
+  "camera_shake": {
+    "duration": 0.0,
+    "power": 0.0
+  },
+  "chain_particles": false,
+  "explosion_range": 4,
+  "id": "67",
+  "name": "Chuva de Meteoritos",
+  "random_delay": [
+    0,
+    1000
+  ],
+  "random_target": true,
+  "repeat": 10,
+  "sound": {
+    "id": "-1",
+    "volume": 100
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "animation_origin_self": false,
+  "camera_shake": {
+    "bounces": 0,
+    "duration": 0.0,
+    "power": 0.0,
+    "type": 1
+  },
+  "chain_particles": false,
+  "id": "core_2_Sap_Eruption",
+  "ignore_roof": false,
+  "name": "Erupção de Seiva",
+  "particles": [
+    {
+      "color": [
+        [
+          255,
+          255,
+          255,
+          255
+        ]
+      ],
+      "flags": 128,
+      "life": 50.0,
+      "on_impact": "core_2_Sap_Eruption_Impact",
+      "tile_id": 1456,
+      "velocity": 30.0
+    }
+  ],
+  "sound": {
+    "id": "47",
+    "volume": 100
+  }
+}

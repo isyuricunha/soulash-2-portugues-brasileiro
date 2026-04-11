@@ -1,0 +1,181 @@
+{
+  "camera_shake": {
+    "bounces": 6,
+    "duration": 0.5,
+    "power": 8,
+    "type": 1
+  },
+  "chain_particles": false,
+  "id": "214",
+  "ignore_roof": true,
+  "name": "Explosão do sol ardente",
+  "particles": [
+    {
+      "color": [
+        [
+          250,
+          255,
+          255,
+          255
+        ]
+      ],
+      "explosion_range": 1,
+      "flags": 0,
+      "life": 100.0,
+      "pulse_background": 60.0,
+      "tile_id": 752
+    },
+    {
+      "color": [
+        [
+          250,
+          255,
+          255,
+          255
+        ]
+      ],
+      "delay": 100.0,
+      "explosion_range": 1,
+      "flags": 0,
+      "life": 100.0,
+      "pulse_background": 60.0,
+      "tile_id": 753
+    },
+    {
+      "color": [
+        [
+          250,
+          255,
+          255,
+          255
+        ]
+      ],
+      "delay": 200.0,
+      "explosion_range": 1,
+      "flags": 0,
+      "life": 200.0,
+      "pulse_background": 60.0,
+      "tile_id": 754
+    },
+    {
+      "color": [
+        [
+          250,
+          255,
+          255,
+          255
+        ]
+      ],
+      "delay": 300.0,
+      "explosion_range": 1,
+      "flags": 0,
+      "life": 100.0,
+      "pulse_background": 60.0,
+      "tile_id": 755
+    },
+    {
+      "color": [
+        [
+          250,
+          255,
+          255,
+          255
+        ]
+      ],
+      "delay": 400.0,
+      "explosion_range": 4,
+      "flags": 2058,
+      "life": 250.0,
+      "pulse_background": 60.0,
+      "tile_id": 755
+    },
+    {
+      "color": [
+        [
+          250,
+          255,
+          255,
+          255
+        ]
+      ],
+      "delay": 400.0,
+      "explosion_range": 4,
+      "flags": 10,
+      "life": 350.0,
+      "pulse_background": 60.0,
+      "tile_id": 757,
+      "velocity": 50.0
+    },
+    {
+      "color": [
+        [
+          250,
+          255,
+          255,
+          255
+        ]
+      ],
+      "delay": 400.0,
+      "explosion_range": 4,
+      "flags": 74,
+      "life": 350.0,
+      "pulse_background": 60.0,
+      "tile_id": 758,
+      "velocity": 60.0
+    },
+    {
+      "color": [
+        [
+          250,
+          255,
+          255,
+          255
+        ]
+      ],
+      "delay": 400.0,
+      "explosion_range": 4,
+      "flags": 74,
+      "life": 400.0,
+      "pulse_background": 60.0,
+      "tile_id": 759,
+      "velocity": 70.0
+    },
+    {
+      "color": [
+        [
+          250,
+          255,
+          255,
+          255
+        ]
+      ],
+      "delay": 400.0,
+      "explosion_range": 4,
+      "flags": 74,
+      "life": 400.0,
+      "pulse_background": 60.0,
+      "tile_id": 760,
+      "velocity": 80.0
+    },
+    {
+      "color": [
+        [
+          250,
+          255,
+          255,
+          255
+        ]
+      ],
+      "delay": 500.0,
+      "explosion_range": 4,
+      "flags": 2058,
+      "life": 250.0,
+      "pulse_background": 60.0,
+      "tile_id": 756
+    }
+  ],
+  "sound": {
+    "id": "13",
+    "volume": 100
+  }
+}

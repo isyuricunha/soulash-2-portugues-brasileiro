@@ -1,0 +1,50 @@
+{
+  "blocking": false,
+  "camera_shake": {
+    "bounces": 0,
+    "duration": 0.10000000149011612,
+    "power": 3,
+    "type": 1
+  },
+  "chain_particles": false,
+  "id": "198",
+  "ignore_roof": true,
+  "name": "Impacto inferior de onda de água",
+  "particles": [
+    {
+      "color": [
+        [
+          255,
+          255,
+          255,
+          255
+        ]
+      ],
+      "flags": 0,
+      "height": 10,
+      "life": 60.0,
+      "pulse_background": 580.0,
+      "tile_id": 716
+    },
+    {
+      "color": [
+        [
+          255,
+          255,
+          255,
+          255
+        ]
+      ],
+      "delay": 60.0,
+      "flags": 0,
+      "height": 10,
+      "life": 120.0,
+      "pulse_background": 580.0,
+      "tile_id": 747
+    }
+  ],
+  "sound": {
+    "id": "",
+    "volume": 100
+  }
+}

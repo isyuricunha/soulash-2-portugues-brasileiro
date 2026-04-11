@@ -1,0 +1,45 @@
+{
+  "animation_origin_self": false,
+  "camera_shake": {
+    "bounces": 0,
+    "duration": 0.0,
+    "power": 0.0,
+    "type": 1
+  },
+  "chain_particles": false,
+  "id": "232",
+  "ignore_roof": false,
+  "name": "Trocar de Lugar",
+  "particles": [
+    {
+      "color": [
+        [
+          255,
+          255,
+          255,
+          29
+        ]
+      ],
+      "flags": 128,
+      "tile_id": 242,
+      "velocity": 50.0
+    },
+    {
+      "color": [
+        [
+          255,
+          255,
+          255,
+          43
+        ]
+      ],
+      "flags": 16384,
+      "tile_id": 243,
+      "velocity": 50.0
+    }
+  ],
+  "sound": {
+    "id": "133",
+    "volume": 100
+  }
+}
