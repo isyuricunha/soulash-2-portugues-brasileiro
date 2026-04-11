@@ -21,8 +21,11 @@ Link do Workshop: https://steamcommunity.com/workshop/filedetails/?id=3704275307
 Para quem nao utiliza a versao da Steam ou prefere a instalacao manual, os passos sao:
 
 1. Baixe os arquivos da traducao pelo link do GitHub abaixo.
-2. Va ate a pasta onde o seu jogo esta instalado. Um caminho de exemplo comum e: E:\SteamLibrary\steamapps\common\Soulash 2
-3. Procure pela pasta chamada data e depois pela pasta mods. O caminho completo deve ser parecido com: E:\SteamLibrary\steamapps\common\Soulash 2\data\mods
+2. Va ate a pasta onde o seu jogo esta instalado. Alguns caminhos de exemplo comuns sao:
+* C:\Program Files (x86)\Steam\steamapps\common\Soulash 2
+* E:\SteamLibrary\steamapps\common\Soulash 2 (Para quem instala fora do C)
+* C:\Games\Soulash 2 (Para versoes fora da Steam ou pirata)
+3. Procure pela pasta chamada data e depois pela pasta mods. O caminho completo deve ser parecido com: C:\Games\Soulash 2\data\mods ou C:\Program Files (x86)\Steam\steamapps\common\Soulash 2\data\mods
 4. Copie a pasta ptbr que voce baixou para dentro desta pasta mods.
 5. Abra o jogo e va ate a aba Mods no menu inicial.
 6. Procure o mod Portugues Brasileiro e clique no botao para Ativar.
