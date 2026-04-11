@@ -11107,7 +11107,7 @@
     "Primavera",
     "Verão",
     "Outono",
-    "Winter"
+    "Inverno"
   ],
   "day_part": [
     "Meia-Noite",
@@ -11117,11 +11117,11 @@
     "Manhã",
     "Meio-Dia",
     "Tarde",
-    "Fim de Tarde",
+    "Final da Tarde",
     "Noite",
-    "Noite Avançada",
+    "Final da Noite",
     "Noite",
-    "Madrugada Tardia"
+    "Final da Noite"
   ],
   "item_type": [
     "Qualquer",
@@ -12326,8 +12326,8 @@
   "ai_behaviors": [
     "Covarde",
     "Covarde sem aliados",
-    "Guarda riqueza",
-    "Guarda líder",
+    "Guardar riqueza",
+    "Líder da guarda",
     "Seguidor",
     "Patrulheiro",
     "Fazendeiro",
@@ -12335,12 +12335,12 @@
     "Caçador",
     "Cobrir de ataques à distância",
     "Artista",
-    "Cobrir do clima",
+    "Proteção contra o clima",
     "Emboscador",
     "Pesca",
     "Desativar prosperidade",
     "Permanecer na região de origem",
-    "Mantém distância"
+    "Manter distância"
   ],
   "tool_types": [
     {
@@ -13622,11 +13622,11 @@
     "Congelamento",
     "Frio",
     "Frio",
-    "Fresco",
-    "Suave",
+    "Ameno",
+    "Moderado",
     "Quente",
-    "Quente",
-    "Chamejante"
+    "Muito Quente",
+    "Escaldante"
   ],
   "precipitations": [
     "Árido",
@@ -13635,7 +13635,7 @@
     "Moderado",
     "Encharcado",
     "Chuvoso",
-    "Enchente"
+    "Chuva torrencial"
   ],
   "crimes": [
     "None",
@@ -13650,7 +13650,7 @@
   ],
   "skill_levels": [
     "Iniciante",
-    "Aprendiz",
+    "Jornadeiro",
     "Especialista",
     "Mestre",
     "Grão-Mestre"

@@ -76,8 +76,8 @@
         "Sentinela",
         "Inflexível",
         "Fortificado",
-        "Atento",
-        "Alto"
+        "Observador",
+        "Elevado"
       ],
       "suffixes": [
         "Olho de Águia",
@@ -126,12 +126,12 @@
       "id": "12",
       "prefixes": [
         "Alcoolizado",
-        "Risonho",
+        "Risadinhas",
         "Travesso",
         "Aconchegante",
         "Excêntrico",
         "Atrevido",
-        "Tremido",
+        "Tremulo",
         "Ébrio",
         "Barulhento",
         "Alegre",
@@ -159,7 +159,7 @@
         "Estalagem",
         "Descansar",
         "Refúgio",
-        "Retiro"
+        "Retirada"
       ]
     },
     {
@@ -245,7 +245,7 @@
         "Mortal",
         "Destrutivo",
         "Letal",
-        "Grande"
+        "Ótimo"
       ],
       "suffixes": [
         "Ferraria",
@@ -281,7 +281,7 @@
         "Versátil",
         "Quente",
         "Frágil",
-        "Grande",
+        "Ótimo",
         "Fantástico"
       ],
       "suffixes": [
@@ -362,13 +362,13 @@
         "Luminoso",
         "Brilhante",
         "Macio",
-        "Aveludado",
+        "Mole",
         "Pálido",
         "Sutil",
         "Sedoso",
         "Estiloso",
         "Sofisticado",
-        "Grand",
+        "Grande",
         "Refinado",
         "Digno"
       ],
@@ -399,12 +399,12 @@
         "Encantado",
         "Místico",
         "Feiticeiro",
-        "Lendário",
+        "Fabuloso",
         "Notável",
-        "Grande",
+        "Ótimo",
         "Proeminente",
         "Lendário",
-        "Fabulosos",
+        "Fabuloso",
         "Magnífico",
         "Bom",
         "Grande",
@@ -454,8 +454,8 @@
       ],
       "suffixes": [
         "Oficina",
-        "Coureiro",
-        "Couraria"
+        "Couraria",
+        "Trabalhos em Couro"
       ]
     },
     {
@@ -484,7 +484,7 @@
       "suffixes": [
         "Fazenda",
         "Campos",
-        "Terra Agrícola"
+        "Terra Agriculturável"
       ]
     },
     {
@@ -495,7 +495,7 @@
       "suffixes": [
         "Fazenda",
         "Campos",
-        "Terra Agrícola"
+        "Terra Agriculturável"
       ]
     },
     {
@@ -523,9 +523,9 @@
       "id": "31",
       "suffixes": [
         "Rancho",
-        "Propriedade Rural",
+        "Lar",
         "Propriedade",
-        "Land",
+        "Terra",
         "Fazenda de Ovelhas"
       ]
     },
@@ -536,7 +536,7 @@
       "id": "32",
       "suffixes": [
         "Cerâmica",
-        "Cerâmica"
+        "Cerâmicas"
       ]
     },
     {
@@ -820,7 +820,7 @@
       ],
       "id": "299",
       "suffixes": [
-        "Granizo"
+        "Tempestades de Granizo"
       ]
     },
     {
@@ -901,7 +901,7 @@
       ],
       "id": "345",
       "suffixes": [
-        "Escudos Vivos"
+        "Escudos de Carne"
       ]
     },
     {
@@ -1036,7 +1036,7 @@
       ],
       "id": "426",
       "suffixes": [
-        "Invocadores de Espíritos"
+        "Invocadores de Espírito"
       ]
     },
     {
