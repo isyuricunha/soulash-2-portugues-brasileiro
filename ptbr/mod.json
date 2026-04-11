@@ -1,0 +1,13 @@
+{
+	"author": "Yuri Cunha",
+	"description": "Tradução para Português Brasileiro.",
+	"disable_transition_tiles": true,
+	"draw_all_glyphs": true,
+	"game_required": "0.6.0",
+	"icon": "S2.png",
+	"mods_required": [],
+	"name": "Portugues Brasileiro",
+	"steam_publish_id": 3704209285,
+	"thumbnail": "thumbnail.png",
+	"version": "0.1.0"
+}
