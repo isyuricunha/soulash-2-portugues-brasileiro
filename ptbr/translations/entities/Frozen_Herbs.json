@@ -1,0 +1,40 @@
+{
+  "components": [
+    "glyph",
+    "item",
+    "minimap_pixel",
+    "name",
+    "position_2d",
+    "stackable",
+    "value",
+    "weight"
+  ],
+  "description": "Um punhado de folhas congeladas.",
+  "glyph": {
+    "frames": [
+      {
+        "color": [
+          255,
+          255,
+          255
+        ],
+        "delay": 0,
+        "index": 2707
+      }
+    ],
+    "random_frame_start": false
+  },
+  "id": "core_2_Frozen_Herbs",
+  "item": {
+    "image": 1224,
+    "type": 17
+  },
+  "minimap_pixel": [
+    125,
+    128,
+    128
+  ],
+  "name": "Ervas Congeladas",
+  "value": 500,
+  "weight": 0.10000000149011612
+}

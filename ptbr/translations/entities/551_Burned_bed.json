@@ -1,0 +1,35 @@
+{
+  "components": [
+    "glyph",
+    "health",
+    "minimap_pixel",
+    "name",
+    "position_2d",
+    "resting_place"
+  ],
+  "corpse": [],
+  "description": "Uma cama de madeira queimada. Está mal conservada neste ponto.",
+  "glyph": {
+    "frames": [
+      {
+        "color": [
+          255,
+          255,
+          255
+        ],
+        "delay": 0,
+        "index": 60
+      }
+    ],
+    "random_frame_start": false
+  },
+  "health": 15,
+  "id": "551",
+  "minimap_pixel": [
+    19,
+    16,
+    19
+  ],
+  "name": "Cama Queimada",
+  "resting_place": 110
+}

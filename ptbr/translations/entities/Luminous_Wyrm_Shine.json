@@ -1,0 +1,47 @@
+{
+  "components": [
+    "glyph",
+    "item",
+    "minimap_pixel",
+    "name",
+    "position_2d",
+    "resource",
+    "stackable",
+    "value",
+    "weight"
+  ],
+  "description": "Como alguém conseguiu colocá-lo na garrafa?",
+  "glyph": {
+    "frames": [
+      {
+        "color": [
+          255,
+          255,
+          255
+        ],
+        "delay": 0,
+        "index": 2984
+      }
+    ],
+    "random_frame_start": false
+  },
+  "id": "core_2_Lumynous_Wyrm_Shine",
+  "item": {
+    "image": 1368,
+    "type": 16
+  },
+  "minimap_pixel": [
+    217,
+    144,
+    88
+  ],
+  "name": "Brilho Luminoso de Vermes",
+  "resource": {
+    "affix": "",
+    "magic_ingredient": 0,
+    "quality": 1,
+    "type": 12
+  },
+  "value": 300,
+  "weight": 0.10000000149011612
+}

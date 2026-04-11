@@ -1,0 +1,46 @@
+{
+  "components": [
+    "food",
+    "glyph",
+    "item",
+    "minimap_pixel",
+    "name",
+    "position_2d",
+    "stackable",
+    "value",
+    "weight"
+  ],
+  "description": "Repolho verde redondo e bonito.",
+  "food": {
+    "nutrition": 10,
+    "on_eat": "",
+    "raw": true
+  },
+  "glyph": {
+    "frames": [
+      {
+        "color": [
+          255,
+          255,
+          255
+        ],
+        "delay": 0,
+        "index": 3054
+      }
+    ],
+    "random_frame_start": false
+  },
+  "id": "core_2_Cabbage",
+  "item": {
+    "image": 1415,
+    "type": 20
+  },
+  "minimap_pixel": [
+    237,
+    145,
+    33
+  ],
+  "name": "Repolho",
+  "value": 100,
+  "weight": 0.10000000149011612
+}

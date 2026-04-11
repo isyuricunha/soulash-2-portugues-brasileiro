@@ -1,0 +1,77 @@
+{
+  "components": [
+    "craftable",
+    "glyph",
+    "item",
+    "minimap_pixel",
+    "name",
+    "position_2d",
+    "tool",
+    "value",
+    "weapon",
+    "weight"
+  ],
+  "craftable": {
+    "magic_slots": 4,
+    "resource_types": [
+      {
+        "amount": 4,
+        "id": 1
+      }
+    ],
+    "resources": null,
+    "time": 150,
+    "tools": [
+      1
+    ]
+  },
+  "description": "Este machado é projetado para uso em decapitações. Tem uma lâmina grande e pesada, permitindo um golpe mais preciso e eficiente. A lâmina é montada em um cabo de madeira longo, que permite ao carrasco desferir um golpe decisivo com as duas mãos.",
+  "glyph": {
+    "frames": [
+      {
+        "color": [
+          255,
+          255,
+          255
+        ],
+        "delay": 0,
+        "index": 469
+      }
+    ],
+    "random_frame_start": false
+  },
+  "id": "2301",
+  "item": {
+    "image": 595,
+    "type": 13
+  },
+  "minimap_pixel": [
+    186,
+    190,
+    191
+  ],
+  "name": "Machado do Carrasco",
+  "tool": [
+    {
+      "id": 13,
+      "quality": 75
+    }
+  ],
+  "value": 5000,
+  "weapon": {
+    "attack_speed": 1.25,
+    "damage": [
+      {
+        "dmg_max": 22,
+        "dmg_min": 13,
+        "dmg_type": "physical"
+      }
+    ],
+    "hands": 2,
+    "hit_bonus": 3,
+    "parry_bonus": 3,
+    "range": 1,
+    "type": 0
+  },
+  "weight": 6.0
+}

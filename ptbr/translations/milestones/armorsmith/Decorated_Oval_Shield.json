@@ -1,0 +1,16 @@
+{
+  "id": "core_2_decorated_oval_shield",
+  "name": "Escudo Oval Decorado",
+  "requirements": {
+    "milestones": [],
+    "skill": 8
+  },
+  "rewards": [
+    {
+      "recipe": "core_2_Oval_Shield"
+    }
+  ],
+  "skill_id": "core_2_armorsmith",
+  "steps": [],
+  "steps_type": 0
+}

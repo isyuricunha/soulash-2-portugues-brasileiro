@@ -1,0 +1,16 @@
+{
+  "id": "264",
+  "image": 115,
+  "max": 1,
+  "name": "Guardas Cogumelo",
+  "occupation_image": 26,
+  "occupation": "core_2_Mushman_Mush_Guardian",
+  "produces": [],
+  "race": "32",
+  "tier": 1,
+  "type": "military",
+  "workers": [
+    1,
+    10
+  ]
+}

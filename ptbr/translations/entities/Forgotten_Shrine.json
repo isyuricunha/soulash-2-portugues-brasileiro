@@ -1,0 +1,110 @@
+{
+  "components": [
+    "collidable",
+    "glyph",
+    "health",
+    "height",
+    "minimap_pixel",
+    "name",
+    "position_2d",
+    "producer",
+    "tool"
+  ],
+  "corpse": "35",
+  "description": "Um antigo e pequeno santuário para um deus desconhecido, coberto de rachaduras.",
+  "glyph": {
+    "frames": [
+      {
+        "color": [
+          255,
+          255,
+          255
+        ],
+        "delay": 0,
+        "index": 2904
+      }
+    ],
+    "random_frame_start": false
+  },
+  "health": 150,
+  "height": 0,
+  "id": "core_2_Forgotten_Shrine",
+  "minimap_pixel": [
+    220,
+    220,
+    220
+  ],
+  "name": "Santuário Esquecido",
+  "producer": {
+    "delay_on_use": 1440,
+    "products": {
+      "core_2_deconstruct": [
+        {
+          "amount": [
+            0,
+            0
+          ],
+          "id": "",
+          "percent_chance": 0
+        }
+      ],
+      "core_2_pray": [
+        {
+          "amount": [
+            1,
+            1
+          ],
+          "id": "core_2_Caught_Kitty",
+          "percent_chance": 10
+        },
+        {
+          "amount": [
+            1,
+            1
+          ],
+          "id": "core_2_Caught_Puppy",
+          "percent_chance": 10
+        },
+        {
+          "amount": [
+            1,
+            1
+          ],
+          "id": "core_2_Caught_Chick",
+          "percent_chance": 10
+        },
+        {
+          "amount": [
+            1,
+            1
+          ],
+          "id": "core_2_Caught_Piglet",
+          "percent_chance": 10
+        },
+        {
+          "amount": [
+            1,
+            1
+          ],
+          "id": "68",
+          "percent_chance": 10
+        },
+        {
+          "amount": [
+            1,
+            1
+          ],
+          "id": "67",
+          "percent_chance": 10
+        }
+      ]
+    },
+    "time": 30
+  },
+  "tool": [
+    {
+      "id": 15,
+      "quality": 10
+    }
+  ]
+}

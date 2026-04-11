@@ -1,0 +1,99 @@
+{
+  "armor": {
+    "acid": 100,
+    "death": 0,
+    "electricity": 10,
+    "fire": -10,
+    "frost": 30,
+    "holy": 100,
+    "parry": 0,
+    "physical": 5,
+    "poison": 100,
+    "thorns": 0
+  },
+  "components": [
+    "armor",
+    "block_light",
+    "glyph",
+    "glyph_top",
+    "health",
+    "height",
+    "minimap_pixel",
+    "name",
+    "position_2d",
+    "producer"
+  ],
+  "corpse": [],
+  "description": "Um pequeno arbusto com folhas grossas e cachos de amoras-de-urso vermelhas.",
+  "glyph": {
+    "frames": [
+      {
+        "color": [
+          120,
+          88,
+          66
+        ],
+        "delay": 0,
+        "index": 860
+      }
+    ],
+    "random_frame_start": false,
+    "random_top": {
+      "colors": [
+        [
+          255,
+          255,
+          255
+        ]
+      ],
+      "count": 5,
+      "glyph_ids": [
+        2281,
+        2282
+      ],
+      "max_alpha": 200,
+      "max_range": 3,
+      "wind": true
+    }
+  },
+  "health": 50,
+  "height": 2,
+  "id": "core_2_Bearberry_Bush",
+  "minimap_pixel": [
+    100,
+    109,
+    155
+  ],
+  "name": "Arbusto de Amora-de-urso",
+  "producer": {
+    "products": {
+      "10": [
+        {
+          "amount": [
+            1,
+            1
+          ],
+          "id": "core_2_Picked_Bearberry_Bush",
+          "percent_chance": 100
+        },
+        {
+          "amount": [
+            2,
+            5
+          ],
+          "id": "core_2_Bearberry",
+          "percent_chance": 100
+        },
+        {
+          "amount": [
+            1,
+            2
+          ],
+          "id": "core_2_Bearberry_Seed",
+          "percent_chance": 30
+        }
+      ]
+    },
+    "time": 10
+  }
+}

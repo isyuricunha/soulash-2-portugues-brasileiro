@@ -1,0 +1,57 @@
+{
+  "components": [
+    "craftable",
+    "fuel",
+    "glyph",
+    "item",
+    "minimap_pixel",
+    "name",
+    "position_2d",
+    "stackable",
+    "value",
+    "weight"
+  ],
+  "craftable": {
+    "magic_slots": 0,
+    "resource_types": [
+      {
+        "amount": 1,
+        "id": 3
+      }
+    ],
+    "resources": null,
+    "time": 5,
+    "tools": []
+  },
+  "description": "Pedacinhos de madeira picada para queimar.",
+  "fuel": {
+    "time": 120
+  },
+  "glyph": {
+    "frames": [
+      {
+        "color": [
+          255,
+          255,
+          255
+        ],
+        "delay": 0,
+        "index": 1472
+      }
+    ],
+    "random_frame_start": false
+  },
+  "id": "2008",
+  "item": {
+    "image": 443,
+    "type": 16
+  },
+  "minimap_pixel": [
+    171,
+    102,
+    57
+  ],
+  "name": "Lenha",
+  "value": 10,
+  "weight": 0.1
+}

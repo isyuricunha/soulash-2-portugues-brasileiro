@@ -1,0 +1,16 @@
+{
+  "id": "core_2_play_with_fire",
+  "name": "Brincar com Fogo",
+  "requirements": {
+    "milestones": [],
+    "skill": 1
+  },
+  "rewards": [
+    {
+      "ability": "48"
+    }
+  ],
+  "skill_id": "core_2_pyromancy",
+  "steps": [],
+  "steps_type": 0
+}

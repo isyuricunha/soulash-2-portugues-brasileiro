@@ -1,0 +1,16 @@
+{
+  "id": "core_2_longsword",
+  "name": "Espada Longa",
+  "requirements": {
+    "milestones": [],
+    "skill": 26
+  },
+  "rewards": [
+    {
+      "recipe": "79"
+    }
+  ],
+  "skill_id": "core_2_weaponsmith",
+  "steps": [],
+  "steps_type": 0
+}

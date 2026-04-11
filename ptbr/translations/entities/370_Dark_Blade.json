@@ -1,0 +1,78 @@
+{
+  "components": [
+    "craftable",
+    "glyph",
+    "item",
+    "minimap_pixel",
+    "name",
+    "position_2d",
+    "value",
+    "weapon",
+    "weight"
+  ],
+  "craftable": {
+    "magic_slots": 5,
+    "resource_types": [
+      {
+        "amount": 2,
+        "id": 1
+      },
+      {
+        "amount": 2,
+        "id": 5
+      },
+      {
+        "amount": 1,
+        "id": 3
+      }
+    ],
+    "resources": null,
+    "time": 150,
+    "tools": [
+      1
+    ]
+  },
+  "description": "Olhar para esta lâmina vai te enlouquecer.",
+  "glyph": {
+    "frames": [
+      {
+        "color": [
+          255,
+          255,
+          255
+        ],
+        "delay": 0,
+        "index": 480
+      }
+    ],
+    "random_frame_start": false
+  },
+  "id": "370",
+  "item": {
+    "image": 149,
+    "type": 13
+  },
+  "minimap_pixel": [
+    90,
+    90,
+    90
+  ],
+  "name": "Lâmina Negra",
+  "value": 6500,
+  "weapon": {
+    "attack_speed": 0.800000011920929,
+    "damage": [
+      {
+        "dmg_max": 12,
+        "dmg_min": 7,
+        "dmg_type": "death"
+      }
+    ],
+    "hands": 1,
+    "hit_bonus": 4,
+    "parry_bonus": 0,
+    "range": 1,
+    "type": 3
+  },
+  "weight": 1.5
+}

@@ -1,0 +1,71 @@
+{
+  "armor": {
+    "acid": 2,
+    "death": 6,
+    "electricity": 4,
+    "fire": -4,
+    "frost": 2,
+    "holy": 0,
+    "parry": 0,
+    "physical": 4,
+    "poison": 8,
+    "thorns": 0
+  },
+  "components": [
+    "armor",
+    "craftable",
+    "glyph",
+    "item",
+    "minimap_pixel",
+    "name",
+    "position_2d",
+    "value",
+    "weight"
+  ],
+  "craftable": {
+    "magic_slots": 5,
+    "resource_types": [
+      {
+        "amount": 4,
+        "id": 3
+      },
+      {
+        "amount": 1,
+        "id": 2
+      }
+    ],
+    "resources": null,
+    "time": 375,
+    "tools": [
+      14
+    ]
+  },
+  "description": "Armadura projetada para ser leve e confortável de usar, permitindo que o usuário se mova livremente e facilmente em batalha. É decorada com designs intricados e fluidos que refletem a graça e elegância dos elfos.",
+  "glyph": {
+    "frames": [
+      {
+        "color": [
+          255,
+          255,
+          255
+        ],
+        "delay": 0,
+        "index": 521
+      }
+    ],
+    "random_frame_start": false
+  },
+  "id": "2214",
+  "item": {
+    "image": 561,
+    "type": 4
+  },
+  "minimap_pixel": [
+    114,
+    102,
+    68
+  ],
+  "name": "Armadura Élfica",
+  "value": 20000,
+  "weight": 2.0
+}

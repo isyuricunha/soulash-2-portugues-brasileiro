@@ -1,0 +1,77 @@
+{
+  "armor": {
+    "acid": 1,
+    "death": 0,
+    "electricity": 0,
+    "fire": 0,
+    "frost": 0,
+    "holy": 0,
+    "parry": 0,
+    "physical": 0,
+    "poison": 0,
+    "thorns": 0
+  },
+  "components": [
+    "armor",
+    "glyph",
+    "item",
+    "minimap_pixel",
+    "name",
+    "position_2d",
+    "resource",
+    "stackable",
+    "value",
+    "weapon",
+    "weight"
+  ],
+  "description": "Uma escama de um peixe humanoide que já protegeu seu coração.",
+  "glyph": {
+    "frames": [
+      {
+        "color": [
+          255,
+          255,
+          255
+        ],
+        "delay": 0,
+        "index": 1471
+      }
+    ],
+    "random_frame_start": false
+  },
+  "id": "2150",
+  "item": {
+    "image": 483,
+    "type": 16
+  },
+  "minimap_pixel": [
+    210,
+    227,
+    120
+  ],
+  "name": "Escama de Peixe-Homem",
+  "resource": {
+    "affix": "Fishy",
+    "magic_ingredient": 0,
+    "quality": 1,
+    "type": 10
+  },
+  "value": 300,
+  "weapon": {
+    "attack_speed": 0.0,
+    "critical_hit": 0.0,
+    "damage": [
+      {
+        "dmg_max": 1,
+        "dmg_min": 1,
+        "dmg_type": "acid"
+      }
+    ],
+    "hands": 1,
+    "hit_bonus": 0,
+    "parry_bonus": 0,
+    "range": 0,
+    "type": -1
+  },
+  "weight": 0.10000000149011612
+}

@@ -1,0 +1,16 @@
+{
+  "id": "core_2_natural_death",
+  "name": "Morte Natural",
+  "requirements": {
+    "milestones": [],
+    "skill": 48
+  },
+  "rewards": [
+    {
+      "passive": "core_2_natural_death"
+    }
+  ],
+  "skill_id": "core_2_floromancy",
+  "steps": [],
+  "steps_type": 0
+}

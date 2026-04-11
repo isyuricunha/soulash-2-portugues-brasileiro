@@ -1,0 +1,63 @@
+{
+  "armor": {
+    "acid": -2,
+    "death": 0,
+    "electricity": 1,
+    "fire": -5,
+    "frost": 2,
+    "holy": 0,
+    "parry": 0,
+    "physical": 0,
+    "poison": 0
+  },
+  "category_id": 2,
+  "components": [
+    "armor",
+    "block_light",
+    "collidable",
+    "craftable",
+    "glyph",
+    "health",
+    "height",
+    "minimap_pixel",
+    "name",
+    "position_2d"
+  ],
+  "corpse": [],
+  "craftable": {
+    "magic_slots": 0,
+    "resource_types": [
+      {
+        "amount": 1,
+        "id": 11
+      }
+    ],
+    "resources": null,
+    "time": 60,
+    "tools": []
+  },
+  "description": "Esta paliçada imponente, construída com estacas de madeira resistente, oferece uma linha de defesa contra intrusos indesejados e os perigos da natureza.",
+  "glyph": {
+    "frames": [
+      {
+        "color": [
+          255,
+          255,
+          255
+        ],
+        "delay": 0,
+        "index": 1590
+      }
+    ],
+    "random_frame_start": true
+  },
+  "health": 100,
+  "height": 5,
+  "id": "2434",
+  "minimap_pixel": [
+    70,
+    43,
+    10
+  ],
+  "name": "Paliçada"
+}

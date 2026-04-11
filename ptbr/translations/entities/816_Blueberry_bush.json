@@ -1,0 +1,99 @@
+{
+  "armor": {
+    "acid": 100,
+    "death": 0,
+    "electricity": 10,
+    "fire": -10,
+    "frost": 30,
+    "holy": 100,
+    "parry": 0,
+    "physical": 5,
+    "poison": 100,
+    "thorns": 0
+  },
+  "components": [
+    "armor",
+    "block_light",
+    "glyph",
+    "glyph_top",
+    "health",
+    "height",
+    "minimap_pixel",
+    "name",
+    "position_2d",
+    "producer"
+  ],
+  "corpse": [],
+  "description": "Esta planta consiste em múltiplos ramos finos cobertos com folhas e mirtilos comestíveis.",
+  "glyph": {
+    "frames": [
+      {
+        "color": [
+          120,
+          88,
+          66
+        ],
+        "delay": 0,
+        "index": 860
+      }
+    ],
+    "random_frame_start": false,
+    "random_top": {
+      "colors": [
+        [
+          255,
+          255,
+          255
+        ]
+      ],
+      "count": 5,
+      "glyph_ids": [
+        865,
+        866
+      ],
+      "max_alpha": 200,
+      "max_range": 3,
+      "wind": true
+    }
+  },
+  "health": 50,
+  "height": 2,
+  "id": "816",
+  "minimap_pixel": [
+    100,
+    109,
+    155
+  ],
+  "name": "Arbusto de Mirtilo",
+  "producer": {
+    "products": {
+      "10": [
+        {
+          "amount": [
+            1,
+            1
+          ],
+          "id": "core_2_Picked_Blueberry_Bush",
+          "percent_chance": 100
+        },
+        {
+          "amount": [
+            2,
+            5
+          ],
+          "id": "812",
+          "percent_chance": 100
+        },
+        {
+          "amount": [
+            1,
+            2
+          ],
+          "id": "3044",
+          "percent_chance": 10
+        }
+      ]
+    },
+    "time": 10
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "components": [
+    "glyph",
+    "item",
+    "minimap_pixel",
+    "name",
+    "position_2d",
+    "stackable",
+    "weight"
+  ],
+  "description": "Uma carta antiga que diz: \n\"Não deixe ninguém impedi-lo de melhorar sua posição. Ao tomar este palácio como sua sede, você mostrará a todos do que é feito. Nenhum outro rei o igualará.\"",
+  "glyph": {
+    "frames": [
+      {
+        "color": [
+          255,
+          255,
+          255
+        ],
+        "delay": 0,
+        "index": 699
+      }
+    ],
+    "random_frame_start": false
+  },
+  "id": "2596",
+  "item": {
+    "image": 323,
+    "type": 25
+  },
+  "minimap_pixel": [
+    177,
+    153,
+    137
+  ],
+  "name": "Carta VIII",
+  "weight": 0.10000000149011612
+}

@@ -1,0 +1,18 @@
+{
+  "enables": [
+    "core_2_leatherworking"
+  ],
+  "id": "51",
+  "image": 184,
+  "max": 2,
+  "name": "Courador",
+  "occupation_image": 12,
+  "occupation": "2274",
+  "produces": [],
+  "race": "2",
+  "tier": 1,
+  "workers": [
+    1,
+    3
+  ]
+}

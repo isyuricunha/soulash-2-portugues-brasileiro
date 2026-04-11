@@ -1,0 +1,57 @@
+{
+  "components": [
+    "glyph",
+    "minimap_pixel",
+    "name",
+    "position_2d"
+  ],
+  "description": "Pedra preta polida e imponente irradiando calor.",
+  "glyph": {
+    "frames": [
+      {
+        "color": [
+          255,
+          255,
+          255
+        ],
+        "delay": 300,
+        "index": 3010
+      },
+      {
+        "color": [
+          255,
+          255,
+          255
+        ],
+        "delay": 300,
+        "index": 3011
+      },
+      {
+        "color": [
+          255,
+          255,
+          255
+        ],
+        "delay": 300,
+        "index": 3012
+      },
+      {
+        "color": [
+          255,
+          255,
+          255
+        ],
+        "delay": 300,
+        "index": 3011
+      }
+    ],
+    "random_frame_start": true
+  },
+  "id": "core_2_Obsydian_Monolith",
+  "minimap_pixel": [
+    99,
+    174,
+    208
+  ],
+  "name": "Monólito de Obsidiana"
+}

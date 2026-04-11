@@ -1,0 +1,65 @@
+{
+  "category_id": 7,
+  "components": [
+    "craftable",
+    "glyph",
+    "health",
+    "minimap_pixel",
+    "name",
+    "position_2d",
+    "producer"
+  ],
+  "corpse": "35",
+  "craftable": {
+    "backgrounds": [],
+    "biomes": [],
+    "magic_slots": 0,
+    "resource_types": [
+      {
+        "amount": 1,
+        "id": 6
+      }
+    ],
+    "resources": null,
+    "time": 10,
+    "tools": []
+  },
+  "description": "Um banco feito de um único bloco de pedra.",
+  "glyph": {
+    "frames": [
+      {
+        "color": [
+          255,
+          255,
+          255
+        ],
+        "delay": 0,
+        "index": 295
+      }
+    ],
+    "random_frame_start": false
+  },
+  "health": 60,
+  "id": "284",
+  "minimap_pixel": [
+    74,
+    83,
+    92
+  ],
+  "name": "Banco de Pedra",
+  "producer": {
+    "products": {
+      "core_2_deconstruct": [
+        {
+          "amount": [
+            0,
+            0
+          ],
+          "id": "",
+          "percent_chance": 100
+        }
+      ]
+    },
+    "time": 5
+  }
+}

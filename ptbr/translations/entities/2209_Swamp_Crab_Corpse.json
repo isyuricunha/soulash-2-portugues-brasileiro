@@ -1,0 +1,66 @@
+{
+  "components": [
+    "glyph",
+    "item",
+    "liquid_source",
+    "minimap_pixel",
+    "name",
+    "position_2d",
+    "producer",
+    "weight"
+  ],
+  "description": "Os restos mortos de um caranguejo do pântano.",
+  "glyph": {
+    "frames": [
+      {
+        "color": [
+          255,
+          255,
+          255
+        ],
+        "delay": 0,
+        "index": 73
+      }
+    ],
+    "random_frame_start": false
+  },
+  "id": "2209",
+  "item": {
+    "image": 480,
+    "type": 18
+  },
+  "liquid_source": {
+    "limit": 60,
+    "type": 6
+  },
+  "minimap_pixel": [
+    210,
+    227,
+    120
+  ],
+  "name": "Cadáver de Caranguejo do Pântano",
+  "producer": {
+    "products": {
+      "3": [
+        {
+          "amount": [
+            1,
+            1
+          ],
+          "id": "2151",
+          "percent_chance": 100
+        },
+        {
+          "amount": [
+            1,
+            1
+          ],
+          "id": "318",
+          "percent_chance": 100
+        }
+      ]
+    },
+    "time": 10
+  },
+  "weight": 60.0
+}

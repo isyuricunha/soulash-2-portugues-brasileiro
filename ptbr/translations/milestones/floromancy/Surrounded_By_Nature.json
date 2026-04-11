@@ -1,0 +1,16 @@
+{
+  "id": "core_2_surrounded_by_nature",
+  "name": "Cercado pela Natureza",
+  "requirements": {
+    "milestones": [],
+    "skill": 40
+  },
+  "rewards": [
+    {
+      "passive": "core_2_surrounded_by_nature"
+    }
+  ],
+  "skill_id": "core_2_floromancy",
+  "steps": [],
+  "steps_type": 0
+}

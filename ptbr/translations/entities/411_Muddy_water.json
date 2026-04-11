@@ -1,0 +1,94 @@
+{
+  "armor": {
+    "acid": 1000,
+    "death": 0,
+    "electricity": 1000,
+    "fire": 1000,
+    "frost": 0,
+    "holy": 1000,
+    "parry": 0,
+    "physical": 1000,
+    "poison": 0,
+    "thorns": 0
+  },
+  "background": {
+    "color": [
+      44,
+      45,
+      41
+    ],
+    "movement_penalty": 0.5,
+    "noise": 7,
+    "noise_intensity": 7
+  },
+  "components": [
+    "armor",
+    "background",
+    "glyph",
+    "health",
+    "liquid_source",
+    "minimap_pixel",
+    "name",
+    "on_enter",
+    "position_2d"
+  ],
+  "corpse": [
+    {
+      "damage_type": 2,
+      "id": "612"
+    },
+    {
+      "damage_type": 4,
+      "id": "614"
+    },
+    {
+      "damage_type": 5,
+      "id": "609"
+    }
+  ],
+  "description": "Água muito suja, beber pode ser perigoso.",
+  "glyph": {
+    "frames": [
+      {
+        "color": [
+          255,
+          255,
+          255
+        ],
+        "delay": 1400,
+        "index": 1466
+      },
+      {
+        "color": [
+          255,
+          255,
+          255
+        ],
+        "delay": 400,
+        "index": 1467
+      }
+    ],
+    "random_frame_start": true
+  },
+  "health": 1,
+  "id": "411",
+  "liquid_source": {
+    "limit": -1,
+    "type": 1
+  },
+  "minimap_pixel": [
+    25,
+    39,
+    13
+  ],
+  "name": "Água Lamacenta",
+  "on_enter": {
+    "ability": [
+      "88",
+      "89"
+    ],
+    "only_player_triggers": false,
+    "teleport": null,
+    "trigger_chance": 1.0
+  }
+}

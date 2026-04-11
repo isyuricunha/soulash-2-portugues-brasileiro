@@ -1,0 +1,123 @@
+{
+  "ability_user": [
+    "53"
+  ],
+  "artificial_intelligence": {
+    "allies": [],
+    "allow_production": [],
+    "behaviors": [],
+    "enemies": [
+      "5"
+    ]
+  },
+  "components": [
+    "ability_user",
+    "actor",
+    "artificial_intelligence",
+    "collidable",
+    "dialogues",
+    "experience_gainer",
+    "fighter",
+    "glyph",
+    "health",
+    "minimap_pixel",
+    "moveable",
+    "name",
+    "position_2d",
+    "sight",
+    "stamina",
+    "statistics",
+    "tags",
+    "weapon"
+  ],
+  "corpse": "3019",
+  "description": "Um lindo verme aparentemente feito de substância pérola.",
+  "dialogues": [],
+  "experience_gainer": {
+    "exp": 0,
+    "level": 20
+  },
+  "fighter": {
+    "attackNames": [
+      "Bite"
+    ]
+  },
+  "glyph": {
+    "frames": [
+      {
+        "color": [
+          255,
+          255,
+          255
+        ],
+        "delay": 0,
+        "index": 80
+      }
+    ],
+    "random_frame_start": false
+  },
+  "health": 165,
+  "id": "3020",
+  "minimap_pixel": [
+    200,
+    118,
+    35
+  ],
+  "moveable": {
+    "speed": 1.100000023841858
+  },
+  "name": "Verme de Pérola",
+  "sight": {
+    "ignore_infra_penalty": false,
+    "infravision": true,
+    "range": 9,
+    "threesixty": false
+  },
+  "stamina": {
+    "fatigue": 100,
+    "stamina": 100,
+    "stamina_regen": 0.0
+  },
+  "statistics": {
+    "dexterity": [
+      10,
+      14
+    ],
+    "endurance": [
+      22,
+      26
+    ],
+    "intelligence": [
+      8,
+      12
+    ],
+    "magic_power": 5,
+    "strength": [
+      32,
+      36
+    ],
+    "willpower": [
+      28,
+      32
+    ]
+  },
+  "tags": [
+    "9"
+  ],
+  "weapon": {
+    "attack_speed": 0.8999999761581421,
+    "critical_hit": 0.0,
+    "damage": [
+      {
+        "dmg_max": 7,
+        "dmg_min": 2,
+        "dmg_type": "frost"
+      }
+    ],
+    "hands": 1,
+    "hit_bonus": 0,
+    "parry_bonus": 0,
+    "range": 1,
+    "type": 1
+  }
+}

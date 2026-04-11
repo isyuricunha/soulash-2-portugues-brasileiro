@@ -1,0 +1,80 @@
+{
+  "armor": {
+    "acid": 5,
+    "death": 5,
+    "electricity": 10,
+    "fire": -5,
+    "frost": 10,
+    "holy": 5,
+    "parry": 0,
+    "physical": 5,
+    "poison": 20
+  },
+  "background": {
+    "color": [
+      40,
+      40,
+      40
+    ],
+    "noise": 3,
+    "noise_intensity": 6
+  },
+  "category_id": 1,
+  "components": [
+    "armor",
+    "background",
+    "craftable",
+    "glyph",
+    "health",
+    "height",
+    "minimap_pixel",
+    "name",
+    "position_2d"
+  ],
+  "corpse": "30",
+  "craftable": {
+    "magic_slots": 0,
+    "resource_types": [
+      {
+        "amount": 1,
+        "id": 3
+      }
+    ],
+    "resources": null,
+    "time": 20,
+    "tools": []
+  },
+  "description": "Palco de madeira, colocado um pouco mais alto que o chão para apresentar oradores e artistas ao público.",
+  "glyph": {
+    "frames": [
+      {
+        "color": [
+          255,
+          255,
+          255
+        ],
+        "delay": 0,
+        "index": 245
+      },
+      {
+        "color": [
+          255,
+          255,
+          255
+        ],
+        "delay": 0,
+        "index": 1233
+      }
+    ],
+    "random_frame_start": true
+  },
+  "health": 150,
+  "height": 3,
+  "id": "255",
+  "minimap_pixel": [
+    81,
+    58,
+    27
+  ],
+  "name": "Palco de Madeira"
+}

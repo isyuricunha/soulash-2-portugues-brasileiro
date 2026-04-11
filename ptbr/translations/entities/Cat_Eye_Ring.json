@@ -1,0 +1,79 @@
+{
+  "armor": {
+    "acid": 0,
+    "death": 0,
+    "electricity": 0,
+    "fire": 0,
+    "frost": 0,
+    "holy": 0,
+    "parry": 0,
+    "physical": 0,
+    "poison": 0,
+    "thorns": 0
+  },
+  "components": [
+    "armor",
+    "craftable",
+    "glyph",
+    "item",
+    "minimap_pixel",
+    "name",
+    "position_2d",
+    "sight",
+    "value",
+    "weight"
+  ],
+  "craftable": {
+    "backgrounds": [],
+    "biomes": [],
+    "magic_slots": 2,
+    "resource_types": [
+      {
+        "amount": 1,
+        "id": 8
+      },
+      {
+        "amount": 1,
+        "id": 5
+      }
+    ],
+    "time": 50,
+    "tools": [
+      14
+    ]
+  },
+  "description": "Um anel com um símbolo de olho de gato.",
+  "glyph": {
+    "frames": [
+      {
+        "color": [
+          255,
+          255,
+          255
+        ],
+        "delay": 0,
+        "index": 2351
+      }
+    ],
+    "random_frame_start": false
+  },
+  "id": "core_2_Cat_Eye_Ring",
+  "item": {
+    "image": 1018,
+    "type": 12
+  },
+  "minimap_pixel": [
+    255,
+    102,
+    57
+  ],
+  "name": "Anel Olho de Gato",
+  "sight": {
+    "ignore_infra_penalty": false,
+    "infravision": false,
+    "range": 3,
+    "threesixty": false
+  },
+  "value": 900,
+  "weight": 0.10000000149011612
+}

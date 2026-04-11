@@ -1,0 +1,31 @@
+{
+  "components": [
+    "glyph",
+    "minimap_pixel",
+    "name",
+    "position_2d",
+    "stackable"
+  ],
+  "description": "Este mapa representa alguma área deste mundo.",
+  "glyph": {
+    "frames": [
+      {
+        "color": [
+          255,
+          255,
+          255
+        ],
+        "delay": 0,
+        "index": 1876
+      }
+    ],
+    "random_frame_start": false
+  },
+  "id": "2821",
+  "minimap_pixel": [
+    177,
+    153,
+    137
+  ],
+  "name": "Mapa de Parede"
+}

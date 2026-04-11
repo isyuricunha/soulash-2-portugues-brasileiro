@@ -1,0 +1,148 @@
+{
+  "ability_user": [
+    "108",
+    "129"
+  ],
+  "artificial_intelligence": {
+    "allies": [],
+    "allow_production": [],
+    "behaviors": [],
+    "enemies": [
+      "5"
+    ]
+  },
+  "components": [
+    "ability_user",
+    "actor",
+    "artificial_intelligence",
+    "collidable",
+    "dialogues",
+    "equipment",
+    "experience_gainer",
+    "fighter",
+    "glyph",
+    "health",
+    "humanoid",
+    "minimap_pixel",
+    "moveable",
+    "name",
+    "position_2d",
+    "sight",
+    "stamina",
+    "statistics",
+    "tags"
+  ],
+  "corpse": "25",
+  "description": "Grande guerreiro vivendo por um espetáculo.",
+  "dialogues": [
+    "208",
+    "209"
+  ],
+  "equipment": {
+    "head_armor": [
+      {
+        "chance": 0.33000001311302185,
+        "id": "169",
+        "name": "Capacete",
+        "stack": 1
+      }
+    ],
+    "left_hand": [
+      {
+        "chance": 1.0,
+        "id": "168",
+        "name": "Escudo de Madeira",
+        "stack": 1
+      }
+    ],
+    "legs_cloth": [
+      {
+        "chance": 0.0,
+        "id": "2176",
+        "name": "Tanga",
+        "stack": 1
+      }
+    ],
+    "right_hand": [
+      {
+        "chance": 1.0,
+        "id": "686",
+        "name": "Gládio",
+        "stack": 1
+      }
+    ]
+  },
+  "experience_gainer": {
+    "exp": 0,
+    "level": 30
+  },
+  "fighter": {
+    "attackNames": null
+  },
+  "gender": "male",
+  "glyph": {
+    "frames": [
+      {
+        "color": [
+          255,
+          255,
+          255
+        ],
+        "delay": 0,
+        "index": 462
+      }
+    ],
+    "random_frame_start": false
+  },
+  "health": 400,
+  "humanoid": {
+    "race": ""
+  },
+  "id": "2891",
+  "minimap_pixel": [
+    109,
+    199,
+    29
+  ],
+  "moveable": {
+    "speed": 1.0
+  },
+  "name": "Gladiador",
+  "sight": {
+    "ignore_infra_penalty": false,
+    "infravision": false,
+    "range": 10,
+    "threesixty": false
+  },
+  "stamina": {
+    "fatigue": 100,
+    "stamina": 100,
+    "stamina_regen": 0.0
+  },
+  "statistics": {
+    "dexterity": [
+      34,
+      39
+    ],
+    "endurance": [
+      22,
+      26
+    ],
+    "intelligence": [
+      14,
+      17
+    ],
+    "strength": [
+      40,
+      44
+    ],
+    "willpower": [
+      26,
+      30
+    ]
+  },
+  "tags": [
+    "9",
+    "1"
+  ]
+}

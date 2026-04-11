@@ -1,0 +1,16 @@
+{
+  "id": "core_2_bloodstone",
+  "name": "Pedra de Sangue",
+  "requirements": {
+    "milestones": [],
+    "skill": 27
+  },
+  "rewards": [
+    {
+      "recipe": "core_2_Bloodstone"
+    }
+  ],
+  "skill_id": "core_2_alchemy",
+  "steps": [],
+  "steps_type": 0
+}

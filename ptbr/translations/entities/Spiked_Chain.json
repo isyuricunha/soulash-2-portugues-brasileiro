@@ -1,0 +1,74 @@
+{
+  "armor": {
+    "acid": 0,
+    "death": 0,
+    "electricity": 0,
+    "fire": 0,
+    "frost": 0,
+    "holy": 5,
+    "parry": 0,
+    "physical": 0,
+    "poison": 5,
+    "thorns": 0
+  },
+  "components": [
+    "armor",
+    "craftable",
+    "glyph",
+    "item",
+    "minimap_pixel",
+    "name",
+    "position_2d",
+    "value",
+    "weight"
+  ],
+  "craftable": {
+    "backgrounds": [],
+    "biomes": [],
+    "magic_slots": 3,
+    "resource_types": [
+      {
+        "amount": 2,
+        "id": 1
+      }
+    ],
+    "resources": [
+      {
+        "amount": 1,
+        "id": "158"
+      }
+    ],
+    "time": 60,
+    "tools": [
+      1
+    ]
+  },
+  "description": "Uma corrente de metal grossa com espinhos afiados.",
+  "glyph": {
+    "frames": [
+      {
+        "color": [
+          255,
+          255,
+          255
+        ],
+        "delay": 0,
+        "index": 2470
+      }
+    ],
+    "random_frame_start": false
+  },
+  "id": "core_2_Spiked_Chain",
+  "item": {
+    "image": 1088,
+    "type": 3
+  },
+  "minimap_pixel": [
+    218,
+    165,
+    32
+  ],
+  "name": "Corrente Espinhosa",
+  "value": 2100,
+  "weight": 0.10000000149011612
+}

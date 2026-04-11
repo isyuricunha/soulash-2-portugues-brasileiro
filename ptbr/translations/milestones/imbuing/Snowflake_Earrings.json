@@ -1,0 +1,16 @@
+{
+  "id": "core_2_snowflake_earrings",
+  "name": "Brinco de Floco de Neve",
+  "requirements": {
+    "milestones": [],
+    "skill": 16
+  },
+  "rewards": [
+    {
+      "recipe": "core_2_Snowflake_Earrings"
+    }
+  ],
+  "skill_id": "core_2_imbuing",
+  "steps": [],
+  "steps_type": 0
+}

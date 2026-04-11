@@ -1,0 +1,16 @@
+{
+  "id": "core_2_wooden_stake",
+  "name": "Estaca de Madeira",
+  "requirements": {
+    "milestones": [],
+    "skill": 31
+  },
+  "rewards": [
+    {
+      "recipe": "684"
+    }
+  ],
+  "skill_id": "core_2_carpentry",
+  "steps": [],
+  "steps_type": 0
+}

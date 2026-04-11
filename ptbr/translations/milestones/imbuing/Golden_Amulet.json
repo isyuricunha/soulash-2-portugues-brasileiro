@@ -1,0 +1,16 @@
+{
+  "id": "core_2_golden_amulet",
+  "name": "Amuleto Dourado",
+  "requirements": {
+    "milestones": [],
+    "skill": 38
+  },
+  "rewards": [
+    {
+      "recipe": "569"
+    }
+  ],
+  "skill_id": "core_2_imbuing",
+  "steps": [],
+  "steps_type": 0
+}

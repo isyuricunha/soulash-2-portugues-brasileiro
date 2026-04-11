@@ -1,0 +1,80 @@
+{
+  "components": [
+    "craftable",
+    "glyph",
+    "item",
+    "minimap_pixel",
+    "name",
+    "position_2d",
+    "value",
+    "weapon",
+    "weight"
+  ],
+  "craftable": {
+    "backgrounds": [],
+    "biomes": [],
+    "magic_slots": 3,
+    "resource_types": [
+      {
+        "amount": 1,
+        "id": 2
+      },
+      {
+        "amount": 1,
+        "id": 8
+      },
+      {
+        "amount": 1,
+        "id": 3
+      }
+    ],
+    "time": 90,
+    "tools": [
+      14
+    ]
+  },
+  "description": "Lança de madeira com tiras de couro no topo. Cada tira termina com uma pequena pedra. Se você girá-la rápido o suficiente, fará um som de estalo.",
+  "glyph": {
+    "frames": [
+      {
+        "color": [
+          255,
+          255,
+          255
+        ],
+        "delay": 0,
+        "index": 2126
+      }
+    ],
+    "random_frame_start": false
+  },
+  "id": "core_2_Cracking_Spear",
+  "item": {
+    "image": 869,
+    "type": 13
+  },
+  "minimap_pixel": [
+    171,
+    152,
+    132
+  ],
+  "name": "Lança Rachadora",
+  "value": 4000,
+  "weapon": {
+    "attack_speed": 1.0,
+    "critical_hit": 0.0,
+    "damage": [
+      {
+        "dmg_max": 12,
+        "dmg_min": 7,
+        "dmg_type": "electricity"
+      }
+    ],
+    "hands": 2,
+    "hit_bonus": 2,
+    "parry_bonus": 2,
+    "range": 1,
+    "type": 4
+  },
+  "weight": 2.0
+}

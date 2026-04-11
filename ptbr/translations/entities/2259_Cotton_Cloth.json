@@ -1,0 +1,74 @@
+{
+  "armor": {
+    "acid": 0,
+    "death": 0,
+    "electricity": 0,
+    "fire": 1,
+    "frost": 0,
+    "holy": 0,
+    "parry": 0,
+    "physical": 0,
+    "poison": 0,
+    "thorns": 0
+  },
+  "components": [
+    "armor",
+    "craftable",
+    "glyph",
+    "item",
+    "minimap_pixel",
+    "name",
+    "position_2d",
+    "resource",
+    "stackable",
+    "value",
+    "weight"
+  ],
+  "craftable": {
+    "magic_slots": 0,
+    "resources": [
+      {
+        "amount": 2,
+        "id": "2002"
+      }
+    ],
+    "time": 10,
+    "tools": [
+      12
+    ]
+  },
+  "description": "Tecido leve, macio e durável tecido a partir de algodão.",
+  "glyph": {
+    "frames": [
+      {
+        "color": [
+          255,
+          255,
+          255
+        ],
+        "delay": 0,
+        "index": 1204
+      }
+    ],
+    "random_frame_start": false
+  },
+  "id": "2259",
+  "item": {
+    "image": 583,
+    "type": 16
+  },
+  "minimap_pixel": [
+    200,
+    200,
+    200
+  ],
+  "name": "Tecido de Algodão",
+  "resource": {
+    "affix": "Cotton",
+    "magic_ingredient": 0,
+    "quality": 0,
+    "type": 4
+  },
+  "value": 1000,
+  "weight": 0.10000000149011612
+}

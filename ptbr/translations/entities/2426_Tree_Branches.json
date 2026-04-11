@@ -1,0 +1,85 @@
+{
+  "category_id": 7,
+  "components": [
+    "craftable",
+    "glyph",
+    "health",
+    "height",
+    "minimap_pixel",
+    "name",
+    "position_2d"
+  ],
+  "corpse": "62",
+  "craftable": {
+    "magic_slots": 0,
+    "resource_types": [
+      {
+        "amount": 2,
+        "id": 3
+      }
+    ],
+    "resources": null,
+    "time": 60,
+    "tools": []
+  },
+  "description": "Estes galhos de árvore estendidos, ainda conectados ao seu tronco poderoso, oferecem sombra e abrigo, enquanto abrigam o potencial para inúmeras artes e empreendimentos futuros.",
+  "glyph": {
+    "frames": [
+      {
+        "color": [
+          255,
+          255,
+          255
+        ],
+        "delay": 0,
+        "index": 1569
+      },
+      {
+        "color": [
+          255,
+          255,
+          255
+        ],
+        "delay": 0,
+        "index": 1570
+      },
+      {
+        "color": [
+          255,
+          255,
+          255
+        ],
+        "delay": 0,
+        "index": 1571
+      },
+      {
+        "color": [
+          255,
+          255,
+          255
+        ],
+        "delay": 0,
+        "index": 1572
+      },
+      {
+        "color": [
+          255,
+          255,
+          255
+        ],
+        "delay": 0,
+        "index": 1573
+      }
+    ],
+    "random_frame_start": true
+  },
+  "health": 20,
+  "height": 0,
+  "id": "2426",
+  "minimap_pixel": [
+    99,
+    68,
+    24
+  ],
+  "name": "Galhos de Árvore"
+}

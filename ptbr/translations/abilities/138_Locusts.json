@@ -1,0 +1,29 @@
+{
+  "animation": "178",
+  "cast_time": 1.0,
+  "cooldown": 12.0,
+  "cost": {
+    "health": 0,
+    "stamina": 8
+  },
+  "description": "Envie um enxame de gafanhotos à sua frente para causar dano a todos por ::damage de dano ::damage_type.",
+  "duration": 0.0,
+  "effects": {
+    "damage": [
+      8,
+      16
+    ],
+    "damage_type": "poison",
+    "magic_power_damage": 1.0
+  },
+  "id": "138",
+  "image": 352,
+  "name": "Gafanhotos",
+  "range": 5,
+  "skill": "core_2_floromancy",
+  "slots": {
+    "offensive": 2,
+    "utility": 1
+  },
+  "target": "cone"
+}

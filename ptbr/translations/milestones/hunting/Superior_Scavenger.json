@@ -1,0 +1,15 @@
+{
+  "id": "core_2_superior_scavenger",
+  "name": "Catador Superior",
+  "requirements": {
+    "skill": 38
+  },
+  "rewards": [
+    {
+      "passive": "core_2_superior_scavenger"
+    }
+  ],
+  "skill_id": "core_2_hunting",
+  "steps": [],
+  "steps_type": 0
+}

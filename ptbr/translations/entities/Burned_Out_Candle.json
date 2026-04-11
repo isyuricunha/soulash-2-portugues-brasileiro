@@ -1,0 +1,40 @@
+{
+  "components": [
+    "glyph",
+    "item",
+    "minimap_pixel",
+    "name",
+    "position_2d",
+    "stackable",
+    "value",
+    "weight"
+  ],
+  "description": "Esta vela foi completamente consumida.",
+  "glyph": {
+    "frames": [
+      {
+        "color": [
+          255,
+          255,
+          255
+        ],
+        "delay": 100,
+        "index": 2889
+      }
+    ],
+    "random_frame_start": true
+  },
+  "id": "core_2_Burned_Out_Candle",
+  "item": {
+    "image": 1308,
+    "type": 16
+  },
+  "minimap_pixel": [
+    150,
+    150,
+    150
+  ],
+  "name": "Vela Queimada",
+  "value": 10,
+  "weight": 0.10000000149011612
+}

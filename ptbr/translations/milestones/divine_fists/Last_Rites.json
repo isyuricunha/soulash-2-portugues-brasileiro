@@ -1,0 +1,16 @@
+{
+  "id": "core_2_last_rites",
+  "name": "Extrema-Unção",
+  "requirements": {
+    "milestones": [],
+    "skill": 30
+  },
+  "rewards": [
+    {
+      "ability": "core_2_Last_Rites"
+    }
+  ],
+  "skill_id": "core_2_divine_fists",
+  "steps": [],
+  "steps_type": 0
+}

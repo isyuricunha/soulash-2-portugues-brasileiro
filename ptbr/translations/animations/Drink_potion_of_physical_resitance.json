@@ -1,0 +1,96 @@
+{
+  "animation_origin_self": false,
+  "camera_shake": {
+    "bounces": 0,
+    "duration": 0.0,
+    "power": 0.0
+  },
+  "chain_particles": true,
+  "id": "core_2_Drink_potion_of_physical_resitance",
+  "ignore_roof": false,
+  "name": "Beber Poção de Resistência Física",
+  "particles": [
+    {
+      "color": [
+        [
+          255,
+          255,
+          255,
+          255
+        ]
+      ],
+      "flags": 0,
+      "life": 80.0,
+      "tile_id": 1280
+    },
+    {
+      "color": [
+        [
+          255,
+          255,
+          255,
+          255
+        ]
+      ],
+      "flags": 0,
+      "life": 80.0,
+      "tile_id": 1281
+    },
+    {
+      "color": [
+        [
+          255,
+          255,
+          255,
+          255
+        ]
+      ],
+      "flags": 0,
+      "life": 80.0,
+      "tile_id": 1282
+    },
+    {
+      "color": [
+        [
+          255,
+          255,
+          255,
+          255
+        ]
+      ],
+      "flags": 0,
+      "life": 80.0,
+      "tile_id": 1280
+    },
+    {
+      "color": [
+        [
+          255,
+          255,
+          255,
+          255
+        ]
+      ],
+      "flags": 0,
+      "life": 80.0,
+      "tile_id": 1281
+    },
+    {
+      "color": [
+        [
+          255,
+          255,
+          255,
+          255
+        ]
+      ],
+      "flags": 8,
+      "life": 150.0,
+      "tile_id": 1282
+    }
+  ],
+  "sound": {
+    "id": "",
+    "volume": 100
+  }
+}

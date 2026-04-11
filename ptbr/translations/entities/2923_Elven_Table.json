@@ -1,0 +1,76 @@
+{
+  "armor": {
+    "acid": 0,
+    "death": 0,
+    "electricity": 0,
+    "fire": -20,
+    "frost": 0,
+    "holy": 0,
+    "parry": 0,
+    "physical": 2,
+    "poison": 1000,
+    "thorns": 0
+  },
+  "category_id": 7,
+  "components": [
+    "armor",
+    "collidable",
+    "craftable",
+    "glyph",
+    "health",
+    "minimap_pixel",
+    "name",
+    "position_2d",
+    "producer"
+  ],
+  "corpse": [],
+  "craftable": {
+    "magic_slots": 0,
+    "resources": [
+      {
+        "amount": 2,
+        "id": "325"
+      }
+    ],
+    "time": 10,
+    "tools": []
+  },
+  "description": "Se as pernas fossem quebradas, talvez pudessem ser usadas como armas.",
+  "glyph": {
+    "frames": [
+      {
+        "color": [
+          255,
+          255,
+          255
+        ],
+        "delay": 0,
+        "index": 1947
+      }
+    ],
+    "random_frame_start": true
+  },
+  "health": 100,
+  "id": "2923",
+  "minimap_pixel": [
+    71,
+    48,
+    17
+  ],
+  "name": "Mesa Élfica",
+  "producer": {
+    "products": {
+      "core_2_deconstruct": [
+        {
+          "amount": [
+            0,
+            0
+          ],
+          "id": "-1",
+          "percent_chance": 0
+        }
+      ]
+    },
+    "time": 20
+  }
+}

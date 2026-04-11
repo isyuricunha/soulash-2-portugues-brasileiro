@@ -1,0 +1,113 @@
+{
+  "armor": {
+    "acid": 5,
+    "death": 5,
+    "electricity": 10,
+    "fire": -5,
+    "frost": 10,
+    "holy": 5,
+    "parry": 0,
+    "physical": 5,
+    "poison": 20,
+    "thorns": 0
+  },
+  "components": [
+    "armor",
+    "block_light",
+    "collidable",
+    "glyph",
+    "glyph_top",
+    "health",
+    "height",
+    "minimap_pixel",
+    "name",
+    "position_2d",
+    "producer"
+  ],
+  "corpse": "61",
+  "description": "Parece um pouco com um arbusto ambicioso.",
+  "glyph": {
+    "frames": [
+      {
+        "color": [
+          153,
+          94,
+          48
+        ],
+        "delay": 0,
+        "index": 217
+      }
+    ],
+    "random_frame_start": true,
+    "random_top": {
+      "colors": [
+        [
+          255,
+          255,
+          255
+        ]
+      ],
+      "count": 20,
+      "glyph_ids": [
+        3220,
+        3221
+      ],
+      "max_alpha": 200,
+      "max_range": 23,
+      "wind": true
+    }
+  },
+  "health": 300,
+  "height": 30,
+  "id": "core_2_Hazelnut_Tree",
+  "minimap_pixel": [
+    123,
+    93,
+    40
+  ],
+  "name": "Árvore de Avelã",
+  "producer": {
+    "delay_on_use": 1440,
+    "products": {
+      "1": [
+        {
+          "amount": [
+            1,
+            1
+          ],
+          "id": "core_2_Hazelnut_Log",
+          "percent_chance": 100
+        }
+      ],
+      "10": [
+        {
+          "amount": [
+            2,
+            4
+          ],
+          "id": "core_2_Hazelnuts",
+          "percent_chance": 100
+        }
+      ],
+      "core_2_woodbend": [
+        {
+          "amount": [
+            4,
+            6
+          ],
+          "id": "core_2_Hazelnut_Wood",
+          "percent_chance": 100
+        },
+        {
+          "amount": [
+            4,
+            6
+          ],
+          "id": "core_2_Hazelnuts",
+          "percent_chance": 100
+        }
+      ]
+    },
+    "time": 20
+  }
+}

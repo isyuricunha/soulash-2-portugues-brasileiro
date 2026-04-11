@@ -1,0 +1,34 @@
+{
+  "id": "core_2_stone_wall",
+  "name": "Parede e Piso de Pedra",
+  "requirements": {
+    "milestones": [],
+    "skill": 2
+  },
+  "rewards": [
+    {
+      "recipe": "8"
+    },
+    {
+      "recipe": "624"
+    },
+    {
+      "recipe": "5"
+    },
+    {
+      "recipe": "280"
+    },
+    {
+      "recipe": "2406"
+    },
+    {
+      "recipe": "359"
+    },
+    {
+      "recipe": "2423"
+    }
+  ],
+  "skill_id": "core_2_construction",
+  "steps": [],
+  "steps_type": 0
+}

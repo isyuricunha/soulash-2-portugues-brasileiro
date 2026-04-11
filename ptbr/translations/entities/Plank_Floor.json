@@ -1,0 +1,58 @@
+{
+  "background": {
+    "color": [
+      44,
+      45,
+      41
+    ],
+    "noise": 3,
+    "noise_intensity": 6
+  },
+  "category_id": 1,
+  "components": [
+    "background",
+    "craftable",
+    "glyph",
+    "health",
+    "minimap_pixel",
+    "name"
+  ],
+  "corpse": [],
+  "craftable": {
+    "backgrounds": [],
+    "biomes": [],
+    "magic_slots": 0,
+    "resource_types": [
+      {
+        "amount": 1,
+        "id": 3
+      }
+    ],
+    "resources": null,
+    "time": 0,
+    "tools": []
+  },
+  "description": "Apenas algumas tábuas de madeira jogadas no chão.",
+  "glyph": {
+    "frames": [
+      {
+        "color": [
+          255,
+          255,
+          255
+        ],
+        "delay": 0,
+        "index": 2474
+      }
+    ],
+    "random_frame_start": false
+  },
+  "health": 1,
+  "id": "core_2_Plank_Floor",
+  "minimap_pixel": [
+    61,
+    114,
+    7
+  ],
+  "name": "Chão de Tábuas"
+}

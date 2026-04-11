@@ -1,0 +1,66 @@
+{
+  "armor": {
+    "acid": 0,
+    "death": 1,
+    "electricity": 0,
+    "fire": 0,
+    "frost": 0,
+    "holy": 0,
+    "parry": 0,
+    "physical": 0,
+    "poison": 0
+  },
+  "components": [
+    "armor",
+    "craftable",
+    "glyph",
+    "item",
+    "minimap_pixel",
+    "name",
+    "position_2d",
+    "value",
+    "weight"
+  ],
+  "craftable": {
+    "magic_slots": 2,
+    "resource_types": [
+      {
+        "amount": 1,
+        "id": 2
+      }
+    ],
+    "resources": null,
+    "time": 60,
+    "tools": [
+      12
+    ]
+  },
+  "description": "Com este belo tapa-olho preto você pode fingir ser um pirata.",
+  "glyph": {
+    "frames": [
+      {
+        "color": [
+          255,
+          255,
+          255
+        ],
+        "delay": 0,
+        "index": 367
+      }
+    ],
+    "random_frame_start": false
+  },
+  "id": "301",
+  "item": {
+    "image": 110,
+    "type": 2
+  },
+  "minimap_pixel": [
+    100,
+    100,
+    100
+  ],
+  "name": "Tapa-olho",
+  "value": 400,
+  "weight": 0.10000000149011612
+}

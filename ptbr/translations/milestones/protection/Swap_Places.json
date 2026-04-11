@@ -1,0 +1,15 @@
+{
+  "id": "core_2_swap_places",
+  "name": "Trocar de Lugar",
+  "requirements": {
+    "skill": 27
+  },
+  "rewards": [
+    {
+      "ability": "181"
+    }
+  ],
+  "skill_id": "core_2_protection",
+  "steps": [],
+  "steps_type": 1
+}

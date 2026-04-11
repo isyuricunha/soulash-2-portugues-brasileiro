@@ -1,0 +1,35 @@
+{
+  "animation": "core_2_Back_and_Forth",
+  "cast_time": -1.0,
+  "cooldown": 10.0,
+  "cost": {
+    "health": 0,
+    "stamina": 12
+  },
+  "description": "Realiza um ataque na frente e atrás de você ao mesmo tempo aplicando repulsão e causando ::damage de ::damage_type.",
+  "duration": 0.0,
+  "effects": {
+    "damage": [
+      10,
+      15
+    ],
+    "damage_type": "physical",
+    "damage_weapon": 1.5,
+    "knockback": 4
+  },
+  "id": "core_2_Back_and_Forth",
+  "image": 717,
+  "name": "Para Frente e Para Trás",
+  "range": 1,
+  "requirements": {
+    "one_of": [
+      5
+    ]
+  },
+  "skill": "core_2_pole_fighting",
+  "slots": {
+    "offensive": 2,
+    "utility": 2
+  },
+  "target": "back_and_forth"
+}

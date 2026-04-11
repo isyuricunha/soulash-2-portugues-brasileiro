@@ -1,0 +1,60 @@
+{
+  "camera_shake": {
+    "bounces": 0,
+    "duration": 0.0,
+    "power": 0.0,
+    "type": 1
+  },
+  "chain_particles": false,
+  "id": "23",
+  "ignore_roof": true,
+  "name": "Cuspe Ácido",
+  "particles": [
+    {
+      "color": [
+        [
+          27,
+          226,
+          21,
+          200
+        ],
+        [
+          27,
+          226,
+          21,
+          175
+        ]
+      ],
+      "flags": 128,
+      "life": 180.0,
+      "pulse_background": 580.0,
+      "tile_id": 348
+    },
+    {
+      "color": [
+        [
+          27,
+          226,
+          21,
+          200
+        ],
+        [
+          27,
+          226,
+          21,
+          175
+        ]
+      ],
+      "delay": 200.0,
+      "flags": 128,
+      "on_impact": "24",
+      "pulse_background": 60.0,
+      "tile_id": 365,
+      "velocity": 40.0
+    }
+  ],
+  "sound": {
+    "id": "27",
+    "volume": 100
+  }
+}

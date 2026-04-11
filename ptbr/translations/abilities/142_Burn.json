@@ -1,0 +1,25 @@
+{
+  "animation": "46",
+  "cast_time": 1.0,
+  "cooldown": 0.0,
+  "cost": {
+    "health": 0,
+    "stamina": 0
+  },
+  "description": "O alvo é posto em chamas e recebe ::damage de dano ::damage_type a cada turno.",
+  "duration": 1.0,
+  "effects": {
+    "burn": 1,
+    "damage": [
+      10,
+      20
+    ],
+    "damage_type": "fire"
+  },
+  "id": "142",
+  "image": 214,
+  "level": 0,
+  "name": "Queimadura",
+  "range": 0,
+  "target": "self"
+}

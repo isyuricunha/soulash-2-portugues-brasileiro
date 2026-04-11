@@ -1,0 +1,108 @@
+{
+  "armor": {
+    "acid": 0,
+    "death": 0,
+    "electricity": 0,
+    "fire": 0,
+    "frost": 0,
+    "holy": 0,
+    "parry": 0,
+    "physical": 3,
+    "poison": 0,
+    "thorns": 0
+  },
+  "components": [
+    "armor",
+    "craftable",
+    "glyph",
+    "item",
+    "minimap_pixel",
+    "name",
+    "position_2d",
+    "resource",
+    "stackable",
+    "value",
+    "weapon",
+    "weight"
+  ],
+  "craftable": {
+    "backgrounds": [],
+    "biomes": [],
+    "magic_slots": 0,
+    "resource_types": [
+      {
+        "amount": 1,
+        "id": 1
+      }
+    ],
+    "resources": [
+      {
+        "amount": 1,
+        "id": "core_2_Transmutation_Oil"
+      },
+      {
+        "amount": 1,
+        "id": "148"
+      },
+      {
+        "amount": 1,
+        "id": "core_2_Elderberry"
+      }
+    ],
+    "time": 1,
+    "tools": [
+      15
+    ]
+  },
+  "description": "O chumbo é muito macio e resistente à corrosão. É muito pesado.",
+  "extra_weight": 2.5,
+  "glyph": {
+    "frames": [
+      {
+        "color": [
+          255,
+          255,
+          255
+        ],
+        "delay": 0,
+        "index": 2996
+      }
+    ],
+    "random_frame_start": false
+  },
+  "id": "core_2_Lead_Ingot",
+  "item": {
+    "image": 1380,
+    "type": 16
+  },
+  "minimap_pixel": [
+    157,
+    143,
+    137
+  ],
+  "name": "Lingote de Chumbo",
+  "resource": {
+    "affix": "Lead",
+    "magic_ingredient": 0,
+    "quality": 3,
+    "type": 1
+  },
+  "value": 10000,
+  "weapon": {
+    "attack_speed": 0.0,
+    "critical_hit": 0.0,
+    "damage": [
+      {
+        "dmg_max": 2,
+        "dmg_min": 2,
+        "dmg_type": "physical"
+      }
+    ],
+    "hands": 1,
+    "hit_bonus": 0,
+    "parry_bonus": 0,
+    "range": 0,
+    "type": 9
+  },
+  "weight": 0.10000000149011612
+}

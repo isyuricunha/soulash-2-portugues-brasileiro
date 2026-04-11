@@ -1,0 +1,68 @@
+{
+  "armor": {
+    "acid": 2,
+    "death": 0,
+    "electricity": 0,
+    "fire": 0,
+    "frost": 0,
+    "holy": 0,
+    "parry": 2,
+    "physical": 1,
+    "poison": 0,
+    "thorns": 0
+  },
+  "components": [
+    "armor",
+    "craftable",
+    "glyph",
+    "item",
+    "minimap_pixel",
+    "name",
+    "position_2d",
+    "value",
+    "weight"
+  ],
+  "craftable": {
+    "backgrounds": [],
+    "biomes": [],
+    "magic_slots": 2,
+    "resource_types": [
+      {
+        "amount": 2,
+        "id": 1
+      }
+    ],
+    "time": 60,
+    "tools": [
+      1
+    ]
+  },
+  "description": "Escudo oval de metal. Fácil de usar, difícil de dominar.",
+  "glyph": {
+    "frames": [
+      {
+        "color": [
+          255,
+          255,
+          255
+        ],
+        "delay": 0,
+        "index": 2738
+      }
+    ],
+    "random_frame_start": false
+  },
+  "id": "core_2_Oval_Shield",
+  "item": {
+    "image": 1251,
+    "type": 14
+  },
+  "minimap_pixel": [
+    126,
+    130,
+    131
+  ],
+  "name": "Escudo Oval Decorado",
+  "value": 500,
+  "weight": 2.0
+}

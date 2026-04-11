@@ -1,0 +1,120 @@
+{
+  "artificial_intelligence": {
+    "allies": [],
+    "allow_production": [],
+    "behaviors": [],
+    "enemies": []
+  },
+  "components": [
+    "actor",
+    "artificial_intelligence",
+    "collidable",
+    "dialogues",
+    "equipment",
+    "experience_gainer",
+    "fighter",
+    "glyph",
+    "health",
+    "humanoid",
+    "minimap_pixel",
+    "moveable",
+    "name",
+    "persona",
+    "position_2d",
+    "sight",
+    "stamina",
+    "statistics",
+    "tags"
+  ],
+  "corpse": "559",
+  "description": "",
+  "dialogues": [
+    "390",
+    "391"
+  ],
+  "equipment": {
+    "right_hand": [
+      {
+        "chance": 1.0,
+        "id": "111",
+        "name": "Picareta",
+        "stack": 1
+      }
+    ]
+  },
+  "experience_gainer": {
+    "exp": 5,
+    "level": 1
+  },
+  "fighter": {
+    "attackNames": null
+  },
+  "glyph": {
+    "frames": [
+      {
+        "color": [
+          255,
+          255,
+          255
+        ],
+        "delay": 0,
+        "index": 450
+      }
+    ],
+    "random_frame_start": false
+  },
+  "health": 150,
+  "humanoid": {
+    "race": "1"
+  },
+  "id": "2281",
+  "minimap_pixel": [
+    171,
+    183,
+    183
+  ],
+  "moveable": {
+    "speed": 1.5
+  },
+  "name": "Anão Pedreiro",
+  "persona": {
+    "occupation": "Pedreiro"
+  },
+  "sight": {
+    "ignore_infra_penalty": false,
+    "infravision": true,
+    "range": 9,
+    "threesixty": false
+  },
+  "stamina": {
+    "fatigue": 100,
+    "stamina": 100,
+    "stamina_regen": 0.0
+  },
+  "statistics": {
+    "dexterity": [
+      10,
+      15
+    ],
+    "endurance": [
+      21,
+      26
+    ],
+    "intelligence": [
+      9,
+      12
+    ],
+    "strength": [
+      27,
+      31
+    ],
+    "willpower": [
+      15,
+      20
+    ]
+  },
+  "tags": [
+    "6",
+    "9"
+  ]
+}

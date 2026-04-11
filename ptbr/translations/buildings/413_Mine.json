@@ -1,0 +1,159 @@
+{
+  "id": "413",
+  "image": 19,
+  "name": "Mina",
+  "occupation_image": 36,
+  "occupation": "core_2_Troll_Miner",
+  "produces": [
+    {
+      "entities": [
+        {
+          "daily": 2,
+          "id": "144"
+        }
+      ],
+      "takes": []
+    },
+    {
+      "entities": [
+        {
+          "daily": 2,
+          "id": "146"
+        }
+      ],
+      "takes": []
+    },
+    {
+      "entities": [
+        {
+          "daily": 2,
+          "id": "158"
+        }
+      ],
+      "takes": []
+    },
+    {
+      "entities": [
+        {
+          "daily": 2,
+          "id": "160"
+        }
+      ],
+      "takes": []
+    },
+    {
+      "entities": [
+        {
+          "daily": 2,
+          "id": "2111"
+        }
+      ],
+      "takes": []
+    },
+    {
+      "entities": [
+        {
+          "daily": 0.5,
+          "id": "851"
+        }
+      ],
+      "takes": []
+    },
+    {
+      "entities": [
+        {
+          "daily": 0.5,
+          "id": "847"
+        }
+      ],
+      "takes": []
+    },
+    {
+      "entities": [
+        {
+          "daily": 0.5,
+          "id": "848"
+        }
+      ],
+      "takes": []
+    },
+    {
+      "entities": [
+        {
+          "daily": 0.5,
+          "id": "1093"
+        }
+      ],
+      "takes": []
+    },
+    {
+      "entities": [
+        {
+          "daily": 0.5,
+          "id": "850"
+        }
+      ],
+      "takes": []
+    },
+    {
+      "entities": [
+        {
+          "daily": 0.5,
+          "id": "845"
+        }
+      ],
+      "takes": []
+    },
+    {
+      "entities": [
+        {
+          "daily": 0.5,
+          "id": "2118"
+        }
+      ],
+      "takes": []
+    },
+    {
+      "entities": [
+        {
+          "daily": 0.5,
+          "id": "849"
+        }
+      ],
+      "takes": []
+    },
+    {
+      "entities": [
+        {
+          "daily": 0.5,
+          "id": "2120"
+        }
+      ],
+      "takes": []
+    },
+    {
+      "entities": [
+        {
+          "daily": 0.5,
+          "id": "2121"
+        }
+      ],
+      "takes": []
+    },
+    {
+      "entities": [
+        {
+          "daily": 0.3,
+          "id": "852"
+        }
+      ],
+      "takes": []
+    }
+  ],
+  "race": "7",
+  "tier": 2,
+  "workers": [
+    1,
+    4
+  ]
+}

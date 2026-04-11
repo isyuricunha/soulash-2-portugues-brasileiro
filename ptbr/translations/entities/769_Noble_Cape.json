@@ -1,0 +1,71 @@
+{
+  "armor": {
+    "acid": 4,
+    "death": 4,
+    "electricity": 0,
+    "fire": 0,
+    "frost": 0,
+    "holy": 4,
+    "parry": 0,
+    "physical": 0,
+    "poison": 0,
+    "thorns": 0
+  },
+  "components": [
+    "armor",
+    "craftable",
+    "glyph",
+    "item",
+    "minimap_pixel",
+    "name",
+    "position_2d",
+    "value",
+    "weight"
+  ],
+  "craftable": {
+    "magic_slots": 3,
+    "resource_types": [
+      {
+        "amount": 2,
+        "id": 4
+      },
+      {
+        "amount": 1,
+        "id": 1
+      }
+    ],
+    "resources": null,
+    "time": 60,
+    "tools": [
+      12
+    ]
+  },
+  "description": "Uma capa simples e branca presa com um broche de metal.",
+  "glyph": {
+    "frames": [
+      {
+        "color": [
+          255,
+          255,
+          255
+        ],
+        "delay": 0,
+        "index": 385
+      }
+    ],
+    "random_frame_start": false
+  },
+  "id": "769",
+  "item": {
+    "image": 268,
+    "type": 10
+  },
+  "minimap_pixel": [
+    200,
+    200,
+    200
+  ],
+  "name": "Capa Nobre",
+  "value": 3500,
+  "weight": 1.0
+}

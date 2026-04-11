@@ -1,0 +1,16 @@
+{
+  "id": "core_2_flower_crown",
+  "name": "Coroa de Flores",
+  "requirements": {
+    "milestones": [],
+    "skill": 17
+  },
+  "rewards": [
+    {
+      "recipe": "core_2_Flower_Crown"
+    }
+  ],
+  "skill_id": "core_2_imbuing",
+  "steps": [],
+  "steps_type": 0
+}

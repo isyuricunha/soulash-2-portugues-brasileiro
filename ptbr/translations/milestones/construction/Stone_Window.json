@@ -1,0 +1,22 @@
+{
+  "id": "core_2_stone_window",
+  "name": "Janela de Pedra",
+  "requirements": {
+    "milestones": [],
+    "skill": 29
+  },
+  "rewards": [
+    {
+      "recipe": "2865"
+    },
+    {
+      "recipe": "2866"
+    },
+    {
+      "recipe": "2867"
+    }
+  ],
+  "skill_id": "core_2_construction",
+  "steps": [],
+  "steps_type": 0
+}

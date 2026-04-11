@@ -1,0 +1,58 @@
+{
+  "components": [
+    "glyph",
+    "item",
+    "liquid_source",
+    "minimap_pixel",
+    "name",
+    "position_2d",
+    "producer",
+    "weight"
+  ],
+  "description": "Ônix animado, mas desta vez ele está morto.",
+  "glyph": {
+    "frames": [
+      {
+        "color": [
+          255,
+          255,
+          255
+        ],
+        "delay": 0,
+        "index": 1827
+      }
+    ],
+    "random_frame_start": true
+  },
+  "id": "2771",
+  "item": {
+    "image": 721,
+    "type": 18
+  },
+  "liquid_source": {
+    "limit": 60,
+    "type": 0
+  },
+  "minimap_pixel": [
+    147,
+    128,
+    104
+  ],
+  "name": "Cadáver de Ônix Animado",
+  "producer": {
+    "products": {
+      "3": [
+        {
+          "amount": [
+            4,
+            8
+          ],
+          "id": "2118",
+          "percent_chance": 100
+        }
+      ]
+    },
+    "time": 10
+  },
+  "weight": 100.0
+}

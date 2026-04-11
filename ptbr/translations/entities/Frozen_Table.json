@@ -1,0 +1,52 @@
+{
+  "armor": {
+    "acid": 0,
+    "death": 0,
+    "electricity": 0,
+    "fire": -20,
+    "frost": 0,
+    "holy": 0,
+    "parry": 0,
+    "physical": 2,
+    "poison": 1000,
+    "thorns": 0
+  },
+  "components": [
+    "armor",
+    "collidable",
+    "glyph",
+    "health",
+    "minimap_pixel",
+    "name",
+    "position_2d"
+  ],
+  "corpse": [
+    {
+      "damage_type": 1,
+      "id": "552"
+    }
+  ],
+  "description": "Esta mesa pode ser útil, se alguém limpasse a neve e o gelo.",
+  "glyph": {
+    "frames": [
+      {
+        "color": [
+          255,
+          255,
+          255
+        ],
+        "delay": 0,
+        "index": 2868
+      }
+    ],
+    "random_frame_start": true
+  },
+  "health": 100,
+  "id": "core_2_Frozen_Table",
+  "minimap_pixel": [
+    71,
+    48,
+    17
+  ],
+  "name": "Mesa Congelada"
+}

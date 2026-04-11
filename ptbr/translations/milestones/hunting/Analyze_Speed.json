@@ -1,0 +1,15 @@
+{
+  "id": "core_2_analyze_speed",
+  "name": "Analisar Velocidade",
+  "requirements": {
+    "skill": 12
+  },
+  "rewards": [
+    {
+      "passive": "core_2_analyze_speed"
+    }
+  ],
+  "skill_id": "core_2_hunting",
+  "steps": [],
+  "steps_type": 0
+}

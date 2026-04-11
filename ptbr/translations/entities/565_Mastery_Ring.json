@@ -1,0 +1,91 @@
+{
+  "armor": {
+    "acid": 0,
+    "death": 0,
+    "electricity": 0,
+    "fire": 0,
+    "frost": 0,
+    "holy": 0,
+    "parry": 0,
+    "physical": 0,
+    "poison": 0,
+    "thorns": 0
+  },
+  "components": [
+    "armor",
+    "craftable",
+    "glyph",
+    "item",
+    "minimap_pixel",
+    "name",
+    "position_2d",
+    "statistics",
+    "value",
+    "weight"
+  ],
+  "craftable": {
+    "backgrounds": [],
+    "biomes": [],
+    "magic_slots": 4,
+    "resource_types": [
+      {
+        "amount": 4,
+        "id": 1
+      }
+    ],
+    "time": 60,
+    "tools": [
+      14
+    ]
+  },
+  "description": "Com este anel, um faz-tudo é mestre em tudo.",
+  "glyph": {
+    "frames": [
+      {
+        "color": [
+          255,
+          255,
+          255
+        ],
+        "delay": 0,
+        "index": 415
+      }
+    ],
+    "random_frame_start": false
+  },
+  "id": "565",
+  "item": {
+    "image": 258,
+    "type": 12
+  },
+  "minimap_pixel": [
+    171,
+    102,
+    57
+  ],
+  "name": "Anel de Mestria",
+  "statistics": {
+    "dexterity": [
+      2,
+      2
+    ],
+    "endurance": [
+      2,
+      2
+    ],
+    "intelligence": [
+      2,
+      2
+    ],
+    "strength": [
+      2,
+      2
+    ],
+    "willpower": [
+      0,
+      0
+    ]
+  },
+  "value": 6600,
+  "weight": 0.10000000149011612
+}

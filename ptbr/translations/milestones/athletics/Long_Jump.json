@@ -1,0 +1,16 @@
+{
+  "id": "core_2_long_jump",
+  "name": "Salto Longo",
+  "requirements": {
+    "milestones": [],
+    "skill": 18
+  },
+  "rewards": [
+    {
+      "ability": "37"
+    }
+  ],
+  "skill_id": "core_2_athletics",
+  "steps": [],
+  "steps_type": 0
+}

@@ -1,0 +1,19 @@
+{
+  "id": "core_2_marble_statue",
+  "name": "Estátua de Mármore",
+  "requirements": {
+    "milestones": [],
+    "skill": 36
+  },
+  "rewards": [
+    {
+      "recipe": "529"
+    },
+    {
+      "recipe": "1027"
+    }
+  ],
+  "skill_id": "core_2_construction",
+  "steps": [],
+  "steps_type": 0
+}

@@ -1,0 +1,15 @@
+{
+  "id": "core_2_vambraces",
+  "name": "Braçadeiras",
+  "requirements": {
+    "skill": 15
+  },
+  "rewards": [
+    {
+      "recipe": "578"
+    }
+  ],
+  "skill_id": "core_2_leatherworking",
+  "steps": [],
+  "steps_type": 0
+}

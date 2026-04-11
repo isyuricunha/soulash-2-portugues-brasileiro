@@ -1,0 +1,19 @@
+{
+  "id": "core_2_wood_workbench",
+  "name": "Bancada de Trabalho em Madeira",
+  "requirements": {
+    "milestones": [],
+    "skill": 12
+  },
+  "rewards": [
+    {
+      "recipe": "155"
+    },
+    {
+      "recipe": "2470"
+    }
+  ],
+  "skill_id": "core_2_carpentry",
+  "steps": [],
+  "steps_type": 0
+}

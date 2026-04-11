@@ -1,0 +1,20 @@
+{
+  "animation": "",
+  "cast_time": 0.0,
+  "cooldown": 0.0,
+  "cost": {
+    "health": 0,
+    "stamina": 0
+  },
+  "description": "O ensopado fortalecedor aumenta o dano que você causa em ::damage_bonus_percent%.",
+  "duration": 600.0,
+  "effects": {
+    "damage_bonus_percent": 0.10000000149011612
+  },
+  "id": "core_2_Lumberjacks_Pot",
+  "image": 696,
+  "name": "Panela do Lenhador",
+  "range": 0,
+  "skill": "",
+  "target": "self"
+}

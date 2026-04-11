@@ -1,0 +1,33 @@
+{
+  "id": "341",
+  "image": 253,
+  "name": "Lanhador",
+  "occupation_image": 40,
+  "occupation": "core_2_Goblin_Woodcutter",
+  "produces": [
+    {
+      "entities": [
+        {
+          "daily": 1.0,
+          "id": "2098"
+        }
+      ],
+      "takes": []
+    },
+    {
+      "entities": [
+        {
+          "daily": 1.0,
+          "id": "2092"
+        }
+      ],
+      "takes": []
+    }
+  ],
+  "race": "4",
+  "tier": 1,
+  "workers": [
+    1,
+    3
+  ]
+}

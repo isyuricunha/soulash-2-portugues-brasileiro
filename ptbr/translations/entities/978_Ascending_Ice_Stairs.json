@@ -1,0 +1,73 @@
+{
+  "background": {
+    "color": [
+      40,
+      40,
+      40
+    ],
+    "noise": 4
+  },
+  "category_id": 4,
+  "components": [
+    "background",
+    "craftable",
+    "glyph",
+    "map_connector",
+    "minimap_pixel",
+    "name",
+    "position_2d",
+    "producer"
+  ],
+  "craftable": {
+    "magic_slots": 0,
+    "resources": [
+      {
+        "amount": 1,
+        "id": "2472"
+      }
+    ],
+    "time": 20,
+    "tools": []
+  },
+  "description": "Uma escadaria que leva para cima esculpida no gelo mais puro.",
+  "glyph": {
+    "frames": [
+      {
+        "color": [
+          255,
+          255,
+          255
+        ],
+        "delay": 0,
+        "index": 1003
+      }
+    ],
+    "random_frame_start": false
+  },
+  "id": "978",
+  "map_connector": {
+    "opposite_connector": "977",
+    "z_level": 1
+  },
+  "minimap_pixel": [
+    113,
+    157,
+    188
+  ],
+  "name": "Escadas de Gelo Ascendente",
+  "producer": {
+    "products": {
+      "core_2_deconstruct": [
+        {
+          "amount": [
+            0,
+            0
+          ],
+          "id": "-1",
+          "percent_chance": 0
+        }
+      ]
+    },
+    "time": 20
+  }
+}

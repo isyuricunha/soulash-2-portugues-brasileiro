@@ -1,0 +1,53 @@
+{
+  "background": {
+    "color": [
+      44,
+      45,
+      41
+    ],
+    "noise": 4,
+    "noise_intensity": 4
+  },
+  "category_id": 1,
+  "components": [
+    "background",
+    "craftable",
+    "glyph",
+    "minimap_pixel",
+    "name"
+  ],
+  "craftable": {
+    "magic_slots": 0,
+    "resource_types": [
+      {
+        "amount": 1,
+        "id": 6
+      }
+    ],
+    "resources": null,
+    "time": 0,
+    "tools": []
+  },
+  "description": "Piso de pedra pintado de amarelo com mosaico decorativo",
+  "glyph": {
+    "frames": [
+      {
+        "color": [
+          255,
+          255,
+          255
+        ],
+        "delay": 0,
+        "index": 163
+      }
+    ],
+    "random_frame_start": false
+  },
+  "id": "262",
+  "minimap_pixel": [
+    92,
+    82,
+    28
+  ],
+  "name": "Piso de Pedra Pintado"
+}

@@ -1,0 +1,20 @@
+{
+  "animation": "50",
+  "cast_time": 1.0,
+  "cooldown": 0.0,
+  "cost": {
+    "health": 0,
+    "stamina": 0
+  },
+  "description": "Melhora levemente a regeneração de vida em ::regeneration periodicamente por ::duration turnos",
+  "duration": 100.0,
+  "effects": {
+    "regeneration": 3.0
+  },
+  "id": "52",
+  "image": 160,
+  "name": "Bandagem",
+  "range": 0,
+  "skill": "",
+  "target": "self"
+}

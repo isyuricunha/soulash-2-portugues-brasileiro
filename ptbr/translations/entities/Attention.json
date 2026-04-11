@@ -1,0 +1,52 @@
+{
+  "components": [
+    "collidable",
+    "glyph",
+    "health",
+    "minimap_pixel",
+    "name",
+    "position_2d"
+  ],
+  "corpse": [],
+  "description": "Perigo à frente. Prossiga com cautela.",
+  "glyph": {
+    "frames": [
+      {
+        "color": [
+          255,
+          255,
+          255
+        ],
+        "delay": 0,
+        "index": 2612
+      },
+      {
+        "color": [
+          255,
+          255,
+          255
+        ],
+        "delay": 0,
+        "index": 2613
+      },
+      {
+        "color": [
+          255,
+          255,
+          255
+        ],
+        "delay": 0,
+        "index": 2614
+      }
+    ],
+    "random_frame_start": true
+  },
+  "health": 50,
+  "id": "core_2_Attention",
+  "minimap_pixel": [
+    169,
+    108,
+    14
+  ],
+  "name": "Atenção!"
+}

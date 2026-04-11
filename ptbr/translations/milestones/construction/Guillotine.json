@@ -1,0 +1,16 @@
+{
+  "id": "core_2_guillotine",
+  "name": "Guilhotina",
+  "requirements": {
+    "milestones": [],
+    "skill": 21
+  },
+  "rewards": [
+    {
+      "recipe": "516"
+    }
+  ],
+  "skill_id": "core_2_construction",
+  "steps": [],
+  "steps_type": 0
+}

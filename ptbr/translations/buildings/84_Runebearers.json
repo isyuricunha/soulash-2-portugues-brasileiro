@@ -1,0 +1,16 @@
+{
+  "id": "84",
+  "image": 69,
+  "max": 1,
+  "name": "Portadores de Runa",
+  "occupation_image": 59,
+  "occupation": "932",
+  "produces": [],
+  "race": "1",
+  "tier": 3,
+  "type": "military",
+  "workers": [
+    1,
+    6
+  ]
+}

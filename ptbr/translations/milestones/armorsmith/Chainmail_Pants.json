@@ -1,0 +1,16 @@
+{
+  "id": "core_2_chainmail_pants",
+  "name": "Calças de Cota de Malha",
+  "requirements": {
+    "milestones": [],
+    "skill": 22
+  },
+  "rewards": [
+    {
+      "recipe": "571"
+    }
+  ],
+  "skill_id": "core_2_armorsmith",
+  "steps": [],
+  "steps_type": 0
+}

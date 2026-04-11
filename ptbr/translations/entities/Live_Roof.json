@@ -1,0 +1,74 @@
+{
+  "background": {
+    "color": [
+      44,
+      45,
+      41
+    ],
+    "movement_penalty": 0.30000001192092896,
+    "noise": 3,
+    "noise_intensity": 6
+  },
+  "category_id": 1,
+  "components": [
+    "background",
+    "craftable",
+    "glyph",
+    "health",
+    "minimap_pixel",
+    "name",
+    "producer"
+  ],
+  "corpse": [],
+  "craftable": {
+    "backgrounds": [],
+    "biomes": [],
+    "magic_slots": 0,
+    "resources": [
+      {
+        "amount": 1,
+        "id": "core_2_Speargrass_Root"
+      }
+    ],
+    "time": 5,
+    "tools": []
+  },
+  "description": "Teto feito de arbustos e plantas vivas.",
+  "glyph": {
+    "frames": [
+      {
+        "color": [
+          255,
+          255,
+          255
+        ],
+        "delay": 0,
+        "index": 2396
+      }
+    ],
+    "random_frame_start": true
+  },
+  "health": 1,
+  "id": "core_2_Live_Roof",
+  "minimap_pixel": [
+    61,
+    38,
+    7
+  ],
+  "name": "Teto Vivo",
+  "producer": {
+    "products": {
+      "core_2_deconstruct": [
+        {
+          "amount": [
+            0,
+            0
+          ],
+          "id": "",
+          "percent_chance": 0
+        }
+      ]
+    },
+    "time": 10
+  }
+}

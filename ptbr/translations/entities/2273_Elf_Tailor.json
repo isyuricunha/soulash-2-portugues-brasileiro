@@ -1,0 +1,145 @@
+{
+  "artificial_intelligence": {
+    "allies": [
+      "7"
+    ],
+    "allow_production": [],
+    "behaviors": [],
+    "enemies": []
+  },
+  "components": [
+    "actor",
+    "artificial_intelligence",
+    "collidable",
+    "dialogues",
+    "equipment",
+    "experience_gainer",
+    "fighter",
+    "glyph",
+    "health",
+    "humanoid",
+    "minimap_pixel",
+    "moveable",
+    "name",
+    "persona",
+    "position_2d",
+    "sight",
+    "skills",
+    "stamina",
+    "statistics",
+    "tags"
+  ],
+  "corpse": "322",
+  "description": "",
+  "dialogues": [
+    "428",
+    "429"
+  ],
+  "equipment": {
+    "backpack": [
+      {
+        "chance": 1.0,
+        "id": "164",
+        "name": "Tesoura",
+        "stack": 1
+      }
+    ]
+  },
+  "experience_gainer": {
+    "exp": 5,
+    "level": 1
+  },
+  "fighter": {
+    "attackNames": null
+  },
+  "glyph": {
+    "frames": [
+      {
+        "color": [
+          255,
+          255,
+          255
+        ],
+        "delay": 0,
+        "index": 139
+      }
+    ],
+    "random_frame_start": false
+  },
+  "health": 95,
+  "humanoid": {
+    "race": "2"
+  },
+  "id": "2273",
+  "minimap_pixel": [
+    95,
+    105,
+    15
+  ],
+  "moveable": {
+    "speed": 1.100000023841858
+  },
+  "name": "Alfaiate Elfo",
+  "persona": {
+    "occupation": "Alfaiate"
+  },
+  "sight": {
+    "ignore_infra_penalty": false,
+    "infravision": false,
+    "range": 12,
+    "threesixty": false
+  },
+  "skills": {
+    "milestones": [
+      "core_2_bandana",
+      "core_2_shirt",
+      "core_2_silk",
+      "core_2_scarf",
+      "core_2_nettle_thread",
+      "core_2_green_sash",
+      "core_2_skirt",
+      "core_2_gloves",
+      "core_2_hood",
+      "core_2_corset",
+      "core_2_tights",
+      "core_2_dress",
+      "core_2_elven_cloak",
+      "core_2_decorated_tunic",
+      "core_2_big_bag"
+    ],
+    "skills": [
+      "core_2_tailoring"
+    ]
+  },
+  "stamina": {
+    "fatigue": 100,
+    "stamina": 100,
+    "stamina_regen": 0.0
+  },
+  "statistics": {
+    "dexterity": [
+      14,
+      18
+    ],
+    "endurance": [
+      10,
+      14
+    ],
+    "intelligence": [
+      10,
+      14
+    ],
+    "strength": [
+      10,
+      14
+    ],
+    "willpower": [
+      13,
+      17
+    ]
+  },
+  "tags": [
+    "7",
+    "9"
+  ]
+}

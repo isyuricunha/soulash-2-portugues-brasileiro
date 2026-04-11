@@ -1,0 +1,78 @@
+{
+  "animation_origin_self": false,
+  "camera_shake": {
+    "bounces": 2,
+    "duration": 0.20000000298023224,
+    "power": 8,
+    "type": 1
+  },
+  "chain_particles": false,
+  "id": "core_2_Paralyzing_Bomb",
+  "ignore_roof": true,
+  "name": "Bomba Paralizante",
+  "particles": [
+    {
+      "color": [
+        [
+          255,
+          255,
+          255,
+          255
+        ]
+      ],
+      "explosion_range": 3,
+      "flags": 2049,
+      "life": 120.0,
+      "tile_id": 202
+    },
+    {
+      "color": [
+        [
+          255,
+          255,
+          255,
+          255
+        ]
+      ],
+      "delay": 120.0,
+      "explosion_range": 3,
+      "flags": 2049,
+      "life": 70.0,
+      "tile_id": 203
+    },
+    {
+      "color": [
+        [
+          255,
+          255,
+          255,
+          255
+        ]
+      ],
+      "delay": 190.0,
+      "explosion_range": 3,
+      "flags": 2049,
+      "life": 70.0,
+      "tile_id": 221
+    },
+    {
+      "color": [
+        [
+          255,
+          255,
+          255,
+          255
+        ]
+      ],
+      "delay": 260.0,
+      "explosion_range": 3,
+      "flags": 2049,
+      "life": 250.0,
+      "tile_id": 223
+    }
+  ],
+  "sound": {
+    "id": "96",
+    "volume": 100
+  }
+}

@@ -1,0 +1,100 @@
+{
+  "armor": {
+    "acid": 3,
+    "death": 2,
+    "electricity": 10,
+    "fire": 18,
+    "frost": 2,
+    "holy": 2,
+    "parry": 0,
+    "physical": 3,
+    "poison": 16,
+    "thorns": 0
+  },
+  "category_id": 7,
+  "components": [
+    "armor",
+    "collidable",
+    "craftable",
+    "glyph",
+    "health",
+    "light_source",
+    "minimap_pixel",
+    "name",
+    "position_2d"
+  ],
+  "corpse": [],
+  "craftable": {
+    "magic_slots": 0,
+    "resources": [
+      {
+        "amount": 1,
+        "id": "2974"
+      },
+      {
+        "amount": 1,
+        "id": "325"
+      }
+    ],
+    "time": 30,
+    "tools": []
+  },
+  "description": "Uma lanterna élfica alimentada por vagalumes.",
+  "glyph": {
+    "frames": [
+      {
+        "color": [
+          255,
+          255,
+          255
+        ],
+        "delay": 300,
+        "index": 806
+      },
+      {
+        "color": [
+          255,
+          255,
+          255
+        ],
+        "delay": 300,
+        "index": 807
+      },
+      {
+        "color": [
+          255,
+          255,
+          255
+        ],
+        "delay": 300,
+        "index": 808
+      },
+      {
+        "color": [
+          255,
+          255,
+          255
+        ],
+        "delay": 300,
+        "index": 809
+      }
+    ],
+    "random_frame_start": true
+  },
+  "health": 100,
+  "id": "2247",
+  "light_source": {
+    "finish": -1,
+    "fuel": [
+      62
+    ],
+    "lit_image": -1,
+    "range": 5
+  },
+  "minimap_pixel": [
+    136,
+    120,
+    42
+  ],
+  "name": "Lanterna de Vagalume"
+}

@@ -1,0 +1,63 @@
+{
+  "components": [
+    "glyph",
+    "minimap_pixel",
+    "name",
+    "position_2d",
+    "producer"
+  ],
+  "description": "Um cogumelo paralisante selvagem. Pode ser comestível.",
+  "glyph": {
+    "frames": [
+      {
+        "color": [
+          255,
+          255,
+          255
+        ],
+        "delay": 0,
+        "index": 2146
+      },
+      {
+        "color": [
+          255,
+          255,
+          255
+        ],
+        "delay": 0,
+        "index": 2146
+      }
+    ],
+    "random_frame_start": true
+  },
+  "id": "core_2_Paralyzing_Mushrooms",
+  "minimap_pixel": [
+    241,
+    90,
+    34
+  ],
+  "name": "Cogumelos Paralizantes",
+  "producer": {
+    "products": {
+      "10": [
+        {
+          "amount": [
+            1,
+            3
+          ],
+          "id": "core_2_Paralyzing_Mushroom",
+          "percent_chance": 100
+        },
+        {
+          "amount": [
+            1,
+            2
+          ],
+          "id": "core_2_Paralyzing_Mushroom_Spores",
+          "percent_chance": 15
+        }
+      ]
+    },
+    "time": 10
+  }
+}

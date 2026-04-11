@@ -1,0 +1,66 @@
+{
+  "components": [
+    "glyph",
+    "item",
+    "liquid_source",
+    "minimap_pixel",
+    "name",
+    "position_2d",
+    "producer",
+    "weight"
+  ],
+  "description": "Um corpo sem vida de um babuíno.",
+  "glyph": {
+    "frames": [
+      {
+        "color": [
+          255,
+          255,
+          248
+        ],
+        "delay": 0,
+        "index": 69
+      }
+    ],
+    "random_frame_start": false
+  },
+  "id": "2082",
+  "item": {
+    "image": 475,
+    "type": 18
+  },
+  "liquid_source": {
+    "limit": 40,
+    "type": 4
+  },
+  "minimap_pixel": [
+    149,
+    96,
+    112
+  ],
+  "name": "Cadáver de Babuíno",
+  "producer": {
+    "products": {
+      "3": [
+        {
+          "amount": [
+            1,
+            1
+          ],
+          "id": "318",
+          "percent_chance": 100
+        },
+        {
+          "amount": [
+            1,
+            1
+          ],
+          "id": "2142",
+          "percent_chance": 100
+        }
+      ]
+    },
+    "time": 15
+  },
+  "weight": 20.0
+}

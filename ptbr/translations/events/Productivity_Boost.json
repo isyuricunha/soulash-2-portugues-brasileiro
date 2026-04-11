@@ -1,0 +1,33 @@
+{
+  "id": "core_2_productivity_boost",
+  "name": "Impulso de Produtividade",
+  "category": "settlement",
+  "flavor": "After the successful resolution of previous event, the town enjoys increased productivity.",
+  "icon": 3,
+  "small_icon": 3,
+  "rarity": "none",
+  "restrict_races": [],
+  "trigger": {
+    "base_probability": 0.0,
+    "conditions": []
+  },
+  "duration": {
+    "type": "temporary",
+    "days": [
+      50,
+      100
+    ]
+  },
+  "effects": [
+    {
+      "type": "production_multiplier",
+      "multiplier": 1.5
+    }
+  ],
+  "extra_dialogues": [],
+  "interactions": [],
+  "history_events": {
+    "begin": "The settlement enjoys a joyful time after the recent tragic event!",
+    "end": ""
+  }
+}

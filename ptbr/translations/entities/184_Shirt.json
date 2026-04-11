@@ -1,0 +1,66 @@
+{
+  "armor": {
+    "acid": 0,
+    "death": 0,
+    "electricity": 0,
+    "fire": 0,
+    "frost": 1,
+    "holy": 0,
+    "parry": 0,
+    "physical": 0,
+    "poison": 0
+  },
+  "components": [
+    "armor",
+    "craftable",
+    "glyph",
+    "item",
+    "minimap_pixel",
+    "name",
+    "position_2d",
+    "value",
+    "weight"
+  ],
+  "craftable": {
+    "magic_slots": 1,
+    "resource_types": [
+      {
+        "amount": 1,
+        "id": 4
+      }
+    ],
+    "resources": null,
+    "time": 30,
+    "tools": [
+      12
+    ]
+  },
+  "description": "A camisa branca mais simples e entediante que existe.",
+  "glyph": {
+    "frames": [
+      {
+        "color": [
+          255,
+          255,
+          255
+        ],
+        "delay": 0,
+        "index": 366
+      }
+    ],
+    "random_frame_start": false
+  },
+  "id": "184",
+  "item": {
+    "image": 0,
+    "type": 5
+  },
+  "minimap_pixel": [
+    200,
+    200,
+    200
+  ],
+  "name": "Camisa",
+  "value": 150,
+  "weight": 0.5
+}

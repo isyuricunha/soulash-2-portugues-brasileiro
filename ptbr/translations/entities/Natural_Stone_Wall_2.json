@@ -1,0 +1,102 @@
+{
+  "armor": {
+    "acid": 50,
+    "death": 50,
+    "electricity": 50,
+    "fire": 100,
+    "frost": 30,
+    "holy": 50,
+    "parry": 0,
+    "physical": 100,
+    "poison": 100,
+    "thorns": 0
+  },
+  "background": {
+    "color": [
+      44,
+      45,
+      41
+    ],
+    "noise": 0
+  },
+  "components": [
+    "armor",
+    "background",
+    "block_light",
+    "collidable",
+    "glyph",
+    "health",
+    "height",
+    "minimap_pixel",
+    "name",
+    "position_2d",
+    "producer"
+  ],
+  "corpse": "35",
+  "description": "Parede de pedra natural com superfície áspera mostra sinais de erosão.",
+  "glyph": {
+    "frames": [
+      {
+        "color": [
+          255,
+          255,
+          255
+        ],
+        "delay": 0,
+        "index": 211
+      },
+      {
+        "color": [
+          255,
+          255,
+          255
+        ],
+        "delay": 0,
+        "index": 1211
+      },
+      {
+        "color": [
+          255,
+          255,
+          255
+        ],
+        "delay": 0,
+        "index": 1212
+      },
+      {
+        "color": [
+          255,
+          255,
+          255
+        ],
+        "delay": 0,
+        "index": 1213
+      }
+    ],
+    "random_frame_start": true
+  },
+  "health": 200,
+  "height": 15,
+  "id": "core_2_Natural_Stone_Wall_2",
+  "minimap_pixel": [
+    64,
+    63,
+    67
+  ],
+  "name": "Parede de Pedra Natural",
+  "producer": {
+    "products": {
+      "5": [
+        {
+          "amount": [
+            1,
+            2
+          ],
+          "id": "35",
+          "percent_chance": 100
+        }
+      ]
+    },
+    "time": 30
+  }
+}

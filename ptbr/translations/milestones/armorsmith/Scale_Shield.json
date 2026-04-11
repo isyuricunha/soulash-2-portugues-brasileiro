@@ -1,0 +1,16 @@
+{
+  "id": "core_2_scale_shield",
+  "name": "Escudo de Escamas",
+  "requirements": {
+    "milestones": [],
+    "skill": 34
+  },
+  "rewards": [
+    {
+      "recipe": "2359"
+    }
+  ],
+  "skill_id": "core_2_armorsmith",
+  "steps": [],
+  "steps_type": 0
+}

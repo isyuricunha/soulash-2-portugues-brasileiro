@@ -1,0 +1,114 @@
+[
+  {
+    "id": "1",
+    "name": "Chuva",
+    "animation": "113",
+    "animation_tick": 2000.0,
+    "ability": [
+      "88",
+      "89"
+    ],
+    "ability_trigger_time": 1.0,
+    "disabled_under_roof": true,
+    "duration": 500.0,
+    "trigger_every": 500.0,
+    "trigger_chance": 0.25,
+    "biomes": [
+      "grasslands",
+      "forest",
+      "boreal_forest",
+      "savanna",
+      "low_mountain",
+      "mountain",
+      "high_mountain",
+      "peak"
+    ],
+    "trigger_message": "Está começando a chover!"
+  },
+  {
+    "id": "2",
+    "name": "Chuva Ácida",
+    "animation": "132",
+    "animation_tick": 2000.0,
+    "ability": [],
+    "ability_trigger_time": 1.0,
+    "disabled_under_roof": true,
+    "duration": 1000.0,
+    "trigger_every": 1000.0,
+    "trigger_chance": 0.15,
+    "biomes": [
+      "swamps"
+    ],
+    "trigger_message": "Está começando a chover!"
+  },
+  {
+    "id": "3",
+    "name": "Neve",
+    "animation": "182",
+    "animation_tick": 2000.0,
+    "ability": [
+      "169"
+    ],
+    "ability_trigger_time": 0.0,
+    "disabled_under_roof": true,
+    "duration": 1000.0,
+    "trigger_every": 1000.0,
+    "trigger_chance": 0.2,
+    "biomes": [
+      "snow",
+      "tundra"
+    ],
+    "trigger_message": "Está começando a nevar!"
+  },
+  {
+    "id": "4",
+    "name": "Chuva de fogo",
+    "animation": "190",
+    "animation_tick": 2000.0,
+    "ability": [
+      "142"
+    ],
+    "ability_trigger_time": 1.0,
+    "disabled_under_roof": true,
+    "duration": 300.0,
+    "trigger_every": 25.0,
+    "trigger_chance": 0.1,
+    "biomes": [],
+    "trigger_message": "Está chovendo fogo!"
+  },
+  {
+    "id": "5",
+    "name": "Chuva de sangue",
+    "animation": "187",
+    "animation_tick": 2000.0,
+    "ability": [
+      "125"
+    ],
+    "ability_trigger_time": 0.0,
+    "disabled_under_roof": true,
+    "duration": 300.0,
+    "trigger_every": 25.0,
+    "trigger_chance": 0.1,
+    "biomes": [],
+    "trigger_message": "Está chovendo sangue!!!"
+  },
+  {
+    "id": "7",
+    "name": "Chuva pesada",
+    "animation": "core_2_Heavy_Rain",
+    "animation_tick": 2000.0,
+    "ability": [
+      "88",
+      "89"
+    ],
+    "ability_trigger_time": 1.0,
+    "disabled_under_roof": true,
+    "duration": 500.0,
+    "trigger_every": 500.0,
+    "trigger_chance": 0.25,
+    "biomes": [
+      "tropical_rainforest"
+    ],
+    "trigger_message": "É um temporal!"
+  }
+]

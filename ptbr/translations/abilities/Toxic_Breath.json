@@ -1,0 +1,25 @@
+{
+  "animation": "core_2_Toxic_Breath",
+  "cast_time": 1.0,
+  "cooldown": 7.0,
+  "cost": {
+    "health": 0,
+    "stamina": 5
+  },
+  "description": "Respire fumos tóxicos causando ::damage de dano ::damage_type em todos em um cone.",
+  "duration": 0.0,
+  "effects": {
+    "aoe_break": 2,
+    "damage": [
+      20,
+      30
+    ],
+    "damage_type": "acid"
+  },
+  "id": "core_2_Toxic_Breath",
+  "image": 813,
+  "name": "Respiração Tóxica",
+  "range": 5,
+  "skill": "",
+  "target": "cone"
+}

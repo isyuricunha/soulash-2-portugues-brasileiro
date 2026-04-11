@@ -1,0 +1,16 @@
+{
+  "id": "297",
+  "image": 132,
+  "max": 1,
+  "name": "Berserkers do Totem",
+  "occupation_image": 87,
+  "occupation": "core_2_Ursan_Totem_Berserker",
+  "produces": [],
+  "race": "33",
+  "tier": 1,
+  "type": "military",
+  "workers": [
+    1,
+    10
+  ]
+}

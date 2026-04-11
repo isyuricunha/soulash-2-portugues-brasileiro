@@ -1,0 +1,57 @@
+{
+  "category_id": 7,
+  "components": [
+    "block_light",
+    "collidable",
+    "craftable",
+    "glyph",
+    "minimap_pixel",
+    "name",
+    "position_2d"
+  ],
+  "craftable": {
+    "backgrounds": [],
+    "biomes": [],
+    "magic_slots": 0,
+    "resource_types": [
+      {
+        "amount": 2,
+        "id": 1
+      },
+      {
+        "amount": 2,
+        "id": 10
+      }
+    ],
+    "resources": [
+      {
+        "amount": 1,
+        "id": "2368"
+      }
+    ],
+    "time": 30,
+    "tools": []
+  },
+  "description": "Este grande caldeirão enegrecido é feito inteiramente de ossos interligados e unidos com cascas. Espectros de Osso o usam em um ritual escuro e misterioso para criar novos seres do seu tipo. O interior do caldeirão está cheio de um líquido fervente e borbulhante que emite um aroma picante e terroso. Ossos e outros ingredientes misteriosos são jogados no caldeirão, onde são fervidos durante o ritual de criação de novos espectros de osso.",
+  "glyph": {
+    "frames": [
+      {
+        "color": [
+          255,
+          255,
+          255
+        ],
+        "delay": 0,
+        "index": 16
+      }
+    ],
+    "random_frame_start": false
+  },
+  "id": "2409",
+  "minimap_pixel": [
+    115,
+    111,
+    146
+  ],
+  "name": "Caldeirão de Ossos"
+}

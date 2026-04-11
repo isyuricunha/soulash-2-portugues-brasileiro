@@ -1,0 +1,34 @@
+{
+  "components": [
+    "collidable",
+    "glyph",
+    "health",
+    "minimap_pixel",
+    "name",
+    "position_2d"
+  ],
+  "corpse": [],
+  "description": "Uma tapeçaria bonita com uma árvore espalhada nela.",
+  "glyph": {
+    "frames": [
+      {
+        "color": [
+          255,
+          255,
+          255
+        ],
+        "delay": 0,
+        "index": 1777
+      }
+    ],
+    "random_frame_start": true
+  },
+  "health": 50,
+  "id": "2602",
+  "minimap_pixel": [
+    169,
+    108,
+    14
+  ],
+  "name": "Bandeira da Árvore"
+}

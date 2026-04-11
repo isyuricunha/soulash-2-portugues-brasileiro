@@ -1,0 +1,40 @@
+{
+  "components": [
+    "glyph",
+    "item",
+    "minimap_pixel",
+    "name",
+    "position_2d",
+    "stackable",
+    "value",
+    "weight"
+  ],
+  "description": "Um pequeno frasco cheio de sangue.",
+  "glyph": {
+    "frames": [
+      {
+        "color": [
+          255,
+          255,
+          255
+        ],
+        "delay": 0,
+        "index": 2476
+      }
+    ],
+    "random_frame_start": false
+  },
+  "id": "core_2_Blood_Vial",
+  "item": {
+    "image": 1091,
+    "type": 16
+  },
+  "minimap_pixel": [
+    190,
+    188,
+    188
+  ],
+  "name": "Frasco de Sangue",
+  "value": 100,
+  "weight": 0.20000000298023224
+}

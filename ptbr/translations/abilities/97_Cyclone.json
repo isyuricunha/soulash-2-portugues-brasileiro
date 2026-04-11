@@ -1,0 +1,26 @@
+{
+  "animation": "125",
+  "cast_time": 1.0,
+  "cooldown": 10.0,
+  "cost": {
+    "health": 0,
+    "stamina": 5
+  },
+  "description": "Causa ::damage de ::damage_type de dano ao alvo e a todos adjacentes ao alvo.",
+  "duration": 0.0,
+  "effects": {
+    "aoe_range": 2,
+    "aoe_shape": 1,
+    "damage": [
+      7,
+      13
+    ],
+    "damage_type": "electricity",
+    "magic_power_damage": 1.2
+  },
+  "id": "97",
+  "image": 392,
+  "name": "Ciclone",
+  "range": 6,
+  "target": "aoe_tile"
+}

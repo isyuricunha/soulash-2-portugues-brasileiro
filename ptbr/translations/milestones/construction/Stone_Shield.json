@@ -1,0 +1,16 @@
+{
+  "id": "core_2_stone_shield",
+  "name": "Escudo de Pedra",
+  "requirements": {
+    "milestones": [],
+    "skill": 10
+  },
+  "rewards": [
+    {
+      "recipe": "core_2_Stone_Shield"
+    }
+  ],
+  "skill_id": "core_2_construction",
+  "steps": [],
+  "steps_type": 0
+}

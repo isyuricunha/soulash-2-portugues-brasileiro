@@ -1,0 +1,151 @@
+{
+  "armor": {
+    "acid": 5,
+    "death": 5,
+    "electricity": 10,
+    "fire": -5,
+    "frost": 10,
+    "holy": 5,
+    "parry": 0,
+    "physical": 25,
+    "poison": 20,
+    "thorns": 0
+  },
+  "components": [
+    "armor",
+    "block_light",
+    "collidable",
+    "glyph",
+    "glyph_top",
+    "health",
+    "height",
+    "minimap_pixel",
+    "name",
+    "position_2d",
+    "producer"
+  ],
+  "corpse": "2008",
+  "description": "O Bordo é uma árvore com casca marrom e folhas de forma única. Produz madeira muito valiosa para artesanato.",
+  "glyph": {
+    "frames": [
+      {
+        "color": [
+          46,
+          29,
+          36
+        ],
+        "delay": 0,
+        "index": 217
+      }
+    ],
+    "random_frame_start": false,
+    "random_top": {
+      "colors": [
+        [
+          110,
+          39,
+          39
+        ],
+        [
+          179,
+          56,
+          49
+        ],
+        [
+          205,
+          104,
+          51
+        ]
+      ],
+      "count": 60,
+      "glyph_ids": [
+        218
+      ],
+      "max_alpha": 150,
+      "max_range": 20,
+      "wind": true
+    }
+  },
+  "health": 300,
+  "height": 30,
+  "id": "41",
+  "minimap_pixel": [
+    137,
+    99,
+    99
+  ],
+  "name": "Árvore de Bordo",
+  "producer": {
+    "products": {
+      "1": [
+        {
+          "amount": [
+            1,
+            1
+          ],
+          "id": "870",
+          "percent_chance": 100
+        },
+        {
+          "amount": [
+            1,
+            1
+          ],
+          "id": "2050",
+          "percent_chance": 40
+        },
+        {
+          "amount": [
+            1,
+            3
+          ],
+          "id": "2008",
+          "percent_chance": 100
+        },
+        {
+          "amount": [
+            1,
+            2
+          ],
+          "id": "3055",
+          "percent_chance": 10
+        }
+      ],
+      "core_2_woodbend": [
+        {
+          "amount": [
+            8,
+            12
+          ],
+          "id": "869",
+          "percent_chance": 100
+        },
+        {
+          "amount": [
+            2,
+            3
+          ],
+          "id": "3055",
+          "percent_chance": 30
+        },
+        {
+          "amount": [
+            1,
+            1
+          ],
+          "id": "2050",
+          "percent_chance": 50
+        },
+        {
+          "amount": [
+            1,
+            4
+          ],
+          "id": "2008",
+          "percent_chance": 100
+        }
+      ]
+    },
+    "time": 60
+  }
+}

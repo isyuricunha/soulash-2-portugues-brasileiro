@@ -1,0 +1,35 @@
+{
+  "animation": "145",
+  "cast_time": -1.0,
+  "cooldown": 3.0,
+  "cost": {
+    "health": 0,
+    "stamina": 4
+  },
+  "description": "Golpeia um inimigo causando ::damage de dano ::damage_type.",
+  "duration": 0.0,
+  "effects": {
+    "damage": [
+      2,
+      8
+    ],
+    "damage_type": "physical",
+    "damage_weapon": 1.0
+  },
+  "id": "108",
+  "image": 154,
+  "name": "Golpe",
+  "range": 1,
+  "requirements": {
+    "one_of": [
+      2
+    ]
+  },
+  "skill": "core_2_sword_fighting",
+  "slots": {
+    "offensive": 1,
+    "utility": 1
+  },
+  "target": "actor",
+  "upgrades": 2
+}

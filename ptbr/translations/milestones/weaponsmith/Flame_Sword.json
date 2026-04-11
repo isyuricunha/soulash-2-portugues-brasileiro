@@ -1,0 +1,16 @@
+{
+  "id": "core_2_flame_sword",
+  "name": "Espada Flamejante",
+  "requirements": {
+    "milestones": [],
+    "skill": 49
+  },
+  "rewards": [
+    {
+      "recipe": "372"
+    }
+  ],
+  "skill_id": "core_2_weaponsmith",
+  "steps": [],
+  "steps_type": 0
+}

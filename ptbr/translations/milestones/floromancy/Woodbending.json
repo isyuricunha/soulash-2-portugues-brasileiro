@@ -1,0 +1,15 @@
+{
+  "id": "core_2_woodbending",
+  "name": "Curvatura de Madeira",
+  "requirements": {
+    "skill": 15
+  },
+  "rewards": [
+    {
+      "production_action": "core_2_woodbend"
+    }
+  ],
+  "skill_id": "core_2_floromancy",
+  "steps": [],
+  "steps_type": 0
+}

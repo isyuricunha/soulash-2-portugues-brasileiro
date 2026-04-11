@@ -1,0 +1,169 @@
+{
+  "ability_user": [
+    "54",
+    "119",
+    "180",
+    "65"
+  ],
+  "artificial_intelligence": {
+    "allies": [
+      "4"
+    ],
+    "allow_production": [],
+    "behaviors": [],
+    "enemies": [
+      "5"
+    ]
+  },
+  "components": [
+    "ability_user",
+    "actor",
+    "artificial_intelligence",
+    "collidable",
+    "dialogues",
+    "equipment",
+    "experience_gainer",
+    "fighter",
+    "glyph",
+    "health",
+    "humanoid",
+    "minimap_pixel",
+    "moveable",
+    "name",
+    "on_destruction",
+    "position_2d",
+    "sight",
+    "stamina",
+    "statistics",
+    "tags",
+    "weapon"
+  ],
+  "corpse": "2514",
+  "description": "Morto-vivo poderoso na forma de uma névoa sangrenta humanoide.",
+  "dialogues": [
+    "869",
+    "870"
+  ],
+  "equipment": {
+    "amulet": [
+      {
+        "chance": 1.0,
+        "id": "core_2_Bloody_Amulet",
+        "name": "Amuleto Sangrento",
+        "stack": 1
+      }
+    ]
+  },
+  "experience_gainer": {
+    "exp": 0,
+    "level": 40
+  },
+  "fighter": {
+    "attackNames": [
+      "Bloody Touch"
+    ]
+  },
+  "glyph": {
+    "frames": [
+      {
+        "color": [
+          255,
+          255,
+          255
+        ],
+        "delay": 0,
+        "index": 2422
+      }
+    ],
+    "random_frame_start": false
+  },
+  "health": 1200,
+  "humanoid": {
+    "race": ""
+  },
+  "id": "core_2_Bloody_Lich",
+  "minimap_pixel": [
+    149,
+    165,
+    101
+  ],
+  "moveable": {
+    "speed": 1.100000023841858
+  },
+  "name": "Lich Sangrento",
+  "on_destruction": {
+    "abilities": [],
+    "change_entities_globally": null,
+    "change_weather": null,
+    "destroy_entities_globally": [],
+    "disable_day": false,
+    "disable_fatigue": false,
+    "disable_hearing": false,
+    "disable_night": false,
+    "drinkable_blood": false,
+    "enable_teleport": false,
+    "infinite_crafting_durability": false,
+    "move_player": null,
+    "recipes": [
+      "core_2_Bloody_Amulet"
+    ],
+    "reduce_durability_globally": 0,
+    "trigger_weather": null,
+    "trigger_weather_now": false
+  },
+  "sight": {
+    "ignore_infra_penalty": false,
+    "infravision": true,
+    "range": 12,
+    "threesixty": false
+  },
+  "stamina": {
+    "fatigue": 100,
+    "stamina": 100,
+    "stamina_regen": 0.0
+  },
+  "statistics": {
+    "dexterity": [
+      40,
+      46
+    ],
+    "endurance": [
+      63,
+      68
+    ],
+    "intelligence": [
+      70,
+      85
+    ],
+    "magic_power": 5,
+    "strength": [
+      52,
+      67
+    ],
+    "willpower": [
+      75,
+      86
+    ]
+  },
+  "tags": [
+    "4",
+    "3",
+    "38"
+  ],
+  "weapon": {
+    "attack_speed": 1.0,
+    "critical_hit": 0.0,
+    "damage": [
+      {
+        "dmg_max": 10,
+        "dmg_min": 4,
+        "dmg_type": "death"
+      }
+    ],
+    "hands": 1,
+    "hit_bonus": 1,
+    "parry_bonus": 0,
+    "range": 1,
+    "type": 1
+  }
+}

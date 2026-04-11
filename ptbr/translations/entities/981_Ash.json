@@ -1,0 +1,48 @@
+{
+  "background": {
+    "color": [
+      70,
+      70,
+      70
+    ],
+    "noise": 2,
+    "noise_intensity": 5
+  },
+  "components": [
+    "background",
+    "glyph",
+    "minimap_pixel",
+    "name"
+  ],
+  "description": "Tudo o que já esteve aqui agora está queimado até virar nada.",
+  "glyph": {
+    "frames": [
+      {
+        "color": [
+          255,
+          255,
+          255
+        ],
+        "delay": 999999999,
+        "index": 1004
+      },
+      {
+        "color": [
+          255,
+          255,
+          255
+        ],
+        "delay": 999999999,
+        "index": 1167
+      }
+    ],
+    "random_frame_start": true
+  },
+  "id": "981",
+  "minimap_pixel": [
+    70,
+    70,
+    70
+  ],
+  "name": "Cinzas"
+}

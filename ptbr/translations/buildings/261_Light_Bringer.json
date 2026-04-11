@@ -1,0 +1,59 @@
+{
+  "enables": [
+    "core_2_adventuring"
+  ],
+  "id": "261",
+  "image": 117,
+  "name": "Portador de Luz",
+  "occupation_image": 82,
+  "occupation": "core_2_Mushman_Light_Bringer",
+  "occupation_per_race": {
+    "0": "core_2_Human_Light_Bringer",
+    "1": "core_2_Dwarf_Light_Bringer",
+    "2": "core_2_Elf_Light_Bringer",
+    "4": "core_2_Goblin_Light_Bringer",
+    "6": "core_2_Vampire_Light_Bringer",
+    "7": "core_2_Troll_Light_Bringer",
+    "8": "core_2_Orc_Light_Bringer",
+    "10": "core_2_Rasimi_Light_Bringer",
+    "23": "core_2_Reptilion_Light_Bringer",
+    "26": "core_2_Bone_Wraith_Light_Bringer",
+    "31": "core_2_Gnoll_Light_Bringer",
+    "32": "core_2_Mushman_Light_Bringer",
+    "33": "core_2_Ursan_Light_Bringer"
+  },
+  "produces": [
+    {
+      "entities": [
+        {
+          "daily": 1,
+          "id": "core_2_Spore_Lamp"
+        }
+      ],
+      "takes": "craftable"
+    }
+  ],
+  "race": "32",
+  "tier": 3,
+  "workers": [
+    1,
+    2
+  ],
+  "max": 1,
+  "allow_player": true,
+  "required_entities": [
+    {
+      "entities": [
+        "core_2_Glowing_Mushrooms",
+        "core_2_Glowing_Mushroom_Pins"
+      ],
+      "count": 5
+    },
+    {
+      "component": "resting_place",
+      "count": 2
+    }
+  ],
+  "min_area": 20,
+  "group": "producers"
+}

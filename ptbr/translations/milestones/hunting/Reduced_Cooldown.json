@@ -1,0 +1,15 @@
+{
+  "id": "core_2_reduced_cooldown",
+  "name": "Tempo de Recarga Reduzido",
+  "requirements": {
+    "skill": 18
+  },
+  "rewards": [
+    {
+      "amplifier": "core_2_reduce_cooldown"
+    }
+  ],
+  "skill_id": "core_2_hunting",
+  "steps": [],
+  "steps_type": 0
+}

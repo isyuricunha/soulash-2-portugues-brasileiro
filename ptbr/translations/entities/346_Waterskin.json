@@ -1,0 +1,62 @@
+{
+  "components": [
+    "container",
+    "craftable",
+    "glyph",
+    "item",
+    "liquid_source",
+    "minimap_pixel",
+    "name",
+    "position_2d",
+    "value",
+    "weight"
+  ],
+  "container": {
+    "capacity": 150,
+    "type": 1
+  },
+  "craftable": {
+    "magic_slots": 0,
+    "resource_types": [
+      {
+        "amount": 3,
+        "id": 2
+      }
+    ],
+    "resources": null,
+    "time": 15,
+    "tools": []
+  },
+  "description": "Bolsa de couro que pode conter água, sangue ou outros líquidos.",
+  "glyph": {
+    "frames": [
+      {
+        "color": [
+          255,
+          255,
+          255
+        ],
+        "delay": 0,
+        "index": 214
+      }
+    ],
+    "random_frame_start": false
+  },
+  "id": "346",
+  "item": {
+    "image": 145,
+    "type": 17
+  },
+  "liquid_source": {
+    "limit": 0,
+    "type": 1
+  },
+  "minimap_pixel": [
+    122,
+    93,
+    57
+  ],
+  "name": "Odre",
+  "value": 600,
+  "weight": 0.5
+}

@@ -1,0 +1,16 @@
+{
+  "id": "core_2_wooden_buckler",
+  "name": "Broquel de Madeira",
+  "requirements": {
+    "milestones": [],
+    "skill": 10
+  },
+  "rewards": [
+    {
+      "recipe": "2183"
+    }
+  ],
+  "skill_id": "core_2_carpentry",
+  "steps": [],
+  "steps_type": 0
+}

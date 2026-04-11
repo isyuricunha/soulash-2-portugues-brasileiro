@@ -1,0 +1,40 @@
+{
+  "components": [
+    "glyph",
+    "item",
+    "minimap_pixel",
+    "name",
+    "position_2d",
+    "stackable",
+    "value",
+    "weight"
+  ],
+  "description": "Com cuidado suficiente, estes esporos se tornarão belos cogumelos um dia.",
+  "glyph": {
+    "frames": [
+      {
+        "color": [
+          255,
+          255,
+          255
+        ],
+        "delay": 0,
+        "index": 2046
+      }
+    ],
+    "random_frame_start": false
+  },
+  "id": "3048",
+  "item": {
+    "image": 828,
+    "type": 24
+  },
+  "minimap_pixel": [
+    241,
+    90,
+    34
+  ],
+  "name": "Esporos de Cogumelo Laranja",
+  "value": 20,
+  "weight": 0.10000000149011612
+}

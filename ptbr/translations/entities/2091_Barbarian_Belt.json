@@ -1,0 +1,74 @@
+{
+  "armor": {
+    "acid": 0,
+    "death": 6,
+    "electricity": 0,
+    "fire": 0,
+    "frost": 6,
+    "holy": 0,
+    "parry": 0,
+    "physical": 3,
+    "poison": 3
+  },
+  "components": [
+    "armor",
+    "craftable",
+    "glyph",
+    "item",
+    "minimap_pixel",
+    "name",
+    "position_2d",
+    "value",
+    "weight"
+  ],
+  "craftable": {
+    "magic_slots": 4,
+    "resource_types": [
+      {
+        "amount": 1,
+        "id": 2
+      },
+      {
+        "amount": 1,
+        "id": 5
+      },
+      {
+        "amount": 2,
+        "id": 9
+      }
+    ],
+    "resources": null,
+    "time": 60,
+    "tools": [
+      14
+    ]
+  },
+  "description": "Cinto pesado decorado com crânios de inimigos caídos.",
+  "glyph": {
+    "frames": [
+      {
+        "color": [
+          255,
+          255,
+          255
+        ],
+        "delay": 0,
+        "index": 691
+      }
+    ],
+    "random_frame_start": false
+  },
+  "id": "2091",
+  "item": {
+    "image": 249,
+    "type": 6
+  },
+  "minimap_pixel": [
+    142,
+    96,
+    77
+  ],
+  "name": "Cinto Bárbaro",
+  "value": 8000,
+  "weight": 2.0
+}

@@ -1,0 +1,73 @@
+{
+  "components": [
+    "glyph",
+    "item",
+    "minimap_pixel",
+    "name",
+    "position_2d",
+    "producer",
+    "resource",
+    "stackable",
+    "value",
+    "weight"
+  ],
+  "description": "Uma tora é um tronco de árvore com galhos cortados. Pode ser útil para construir coisas. Você pode ser capaz de cortá-la ainda mais para fazer alguns pedaços de madeira.",
+  "glyph": {
+    "frames": [
+      {
+        "color": [
+          255,
+          255,
+          255
+        ],
+        "delay": 0,
+        "index": 171
+      }
+    ],
+    "random_frame_start": false
+  },
+  "id": "2092",
+  "item": {
+    "image": 9,
+    "type": 16
+  },
+  "minimap_pixel": [
+    171,
+    102,
+    57
+  ],
+  "name": "Tora de Pinheiro",
+  "producer": {
+    "products": {
+      "1": [
+        {
+          "amount": [
+            8,
+            12
+          ],
+          "id": "2093",
+          "percent_chance": 100
+        }
+      ],
+      "core_2_woodbend": [
+        {
+          "amount": [
+            10,
+            14
+          ],
+          "id": "2093",
+          "percent_chance": 100
+        }
+      ]
+    },
+    "time": 30
+  },
+  "resource": {
+    "affix": "",
+    "magic_ingredient": 0,
+    "quality": 0,
+    "type": 11
+  },
+  "value": 1000,
+  "weight": 72.0
+}

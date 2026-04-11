@@ -1,0 +1,34 @@
+{
+  "animation": "19",
+  "cast_time": 0.699999988079071,
+  "cooldown": 7.0,
+  "cost": {
+    "health": 0,
+    "stamina": 3
+  },
+  "description": "Execute um ataque rápido de estocada no seu oponente, causando ::damage de dano ::damage_type.",
+  "duration": 0.0,
+  "effects": {
+    "damage": [
+      3,
+      6
+    ],
+    "damage_type": "physical",
+    "damage_weapon": 1.0
+  },
+  "id": "176",
+  "image": 88,
+  "name": "Investida Rápida",
+  "range": 1,
+  "requirements": {
+    "one_of": [
+      4,
+      5
+    ]
+  },
+  "skill": "core_2_thievery",
+  "slots": {
+    "offensive": 2
+  },
+  "target": "actor"
+}

@@ -1,0 +1,91 @@
+{
+  "armor": {
+    "acid": 3,
+    "death": 2,
+    "electricity": 10,
+    "fire": 8,
+    "frost": 2,
+    "holy": 2,
+    "parry": 0,
+    "physical": 8,
+    "poison": 6,
+    "thorns": 0
+  },
+  "background": {
+    "color": [
+      124,
+      86,
+      20
+    ],
+    "noise": 2
+  },
+  "category_id": 2,
+  "components": [
+    "armor",
+    "background",
+    "collidable",
+    "craftable",
+    "glyph",
+    "health",
+    "height",
+    "minimap_pixel",
+    "name",
+    "position_2d",
+    "producer"
+  ],
+  "corpse": [],
+  "craftable": {
+    "backgrounds": [],
+    "biomes": [],
+    "magic_slots": 0,
+    "resources": [
+      {
+        "amount": 2,
+        "id": "620"
+      }
+    ],
+    "time": 20,
+    "tools": [
+      6
+    ]
+  },
+  "description": "Aninhada em uma parede de arenito resistente, esta janela aberta oferece um vislumbre do deserto sem limites, convidando o calor do sol e o suave sussurro do vento através das areias.",
+  "glyph": {
+    "frames": [
+      {
+        "color": [
+          255,
+          255,
+          255
+        ],
+        "delay": 0,
+        "index": 188
+      }
+    ],
+    "random_frame_start": false
+  },
+  "health": 200,
+  "height": 10,
+  "id": "2423",
+  "minimap_pixel": [
+    201,
+    188,
+    109
+  ],
+  "name": "Janela de Arenito",
+  "producer": {
+    "products": {
+      "core_2_deconstruct": [
+        {
+          "amount": [
+            0,
+            0
+          ],
+          "id": "",
+          "percent_chance": 100
+        }
+      ]
+    },
+    "time": 20
+  }
+}

@@ -1,0 +1,132 @@
+{
+  "ability_user": [
+    "68"
+  ],
+  "artificial_intelligence": {
+    "allies": [],
+    "allow_production": [],
+    "behaviors": [],
+    "enemies": [
+      "5"
+    ]
+  },
+  "components": [
+    "ability_user",
+    "actor",
+    "artificial_intelligence",
+    "collidable",
+    "dialogues",
+    "equipment",
+    "experience_gainer",
+    "fighter",
+    "glyph",
+    "health",
+    "minimap_pixel",
+    "moveable",
+    "name",
+    "position_2d",
+    "sight",
+    "stamina",
+    "statistics",
+    "tags"
+  ],
+  "corpse": "931",
+  "description": "Um veado enorme com presas de marfim maciças. Você tem a sensação de que esta besta mítica vem diretamente da lenda.",
+  "dialogues": [
+    "346",
+    "347",
+    "888"
+  ],
+  "equipment": {
+    "disabled_slots": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17
+    ]
+  },
+  "experience_gainer": {
+    "exp": 0,
+    "level": 10
+  },
+  "fighter": {
+    "attackNames": [
+      "Antlers"
+    ]
+  },
+  "glyph": {
+    "frames": [
+      {
+        "color": [
+          255,
+          255,
+          255
+        ],
+        "delay": 0,
+        "index": 804
+      }
+    ],
+    "random_frame_start": false
+  },
+  "health": 80,
+  "id": "930",
+  "minimap_pixel": [
+    219,
+    219,
+    219
+  ],
+  "moveable": {
+    "speed": 0.800000011920929
+  },
+  "name": "Veado Branco",
+  "sight": {
+    "ignore_infra_penalty": false,
+    "infravision": true,
+    "range": 8,
+    "threesixty": false
+  },
+  "stamina": {
+    "fatigue": 100,
+    "stamina": 100,
+    "stamina_regen": 0.0
+  },
+  "statistics": {
+    "dexterity": [
+      10,
+      14
+    ],
+    "endurance": [
+      10,
+      14
+    ],
+    "intelligence": [
+      7,
+      10
+    ],
+    "strength": [
+      15,
+      20
+    ],
+    "willpower": [
+      18,
+      22
+    ]
+  },
+  "tags": [
+    "2",
+    "9",
+    "3"
+  ]
+}

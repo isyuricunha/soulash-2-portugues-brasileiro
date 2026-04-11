@@ -1,0 +1,78 @@
+{
+  "armor": {
+    "acid": 0,
+    "death": 0,
+    "electricity": 0,
+    "fire": 8,
+    "frost": 6,
+    "holy": 0,
+    "parry": 0,
+    "physical": 0,
+    "poison": 0,
+    "thorns": 0
+  },
+  "components": [
+    "armor",
+    "craftable",
+    "glyph",
+    "item",
+    "minimap_pixel",
+    "name",
+    "position_2d",
+    "value",
+    "weight"
+  ],
+  "craftable": {
+    "backgrounds": [],
+    "biomes": [],
+    "magic_slots": 5,
+    "resource_types": [
+      {
+        "amount": 2,
+        "id": 8
+      },
+      {
+        "amount": 1,
+        "id": 3
+      }
+    ],
+    "resources": [
+      {
+        "amount": 1,
+        "id": "325"
+      }
+    ],
+    "time": 50,
+    "tools": [
+      14
+    ]
+  },
+  "description": "Um sinete com um símbolo de folha nele.",
+  "glyph": {
+    "frames": [
+      {
+        "color": [
+          255,
+          255,
+          255
+        ],
+        "delay": 0,
+        "index": 2354
+      }
+    ],
+    "random_frame_start": false
+  },
+  "id": "core_2_Leaf_Signet",
+  "item": {
+    "image": 1021,
+    "type": 12
+  },
+  "minimap_pixel": [
+    171,
+    102,
+    57
+  ],
+  "name": "Selo de Folha",
+  "value": 15000,
+  "weight": 0.10000000149011612
+}

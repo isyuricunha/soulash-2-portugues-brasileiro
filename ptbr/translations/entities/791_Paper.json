@@ -1,0 +1,55 @@
+{
+  "components": [
+    "craftable",
+    "glyph",
+    "item",
+    "minimap_pixel",
+    "name",
+    "position_2d",
+    "stackable",
+    "value",
+    "weight"
+  ],
+  "craftable": {
+    "magic_slots": 0,
+    "resource_types": [
+      {
+        "amount": 1,
+        "id": 3
+      }
+    ],
+    "resources": null,
+    "time": 10,
+    "tools": [
+      14
+    ]
+  },
+  "description": "Uma folha de papel em branco.",
+  "glyph": {
+    "frames": [
+      {
+        "color": [
+          255,
+          255,
+          255
+        ],
+        "delay": 0,
+        "index": 699
+      }
+    ],
+    "random_frame_start": false
+  },
+  "id": "791",
+  "item": {
+    "image": 323,
+    "type": 16
+  },
+  "minimap_pixel": [
+    177,
+    153,
+    137
+  ],
+  "name": "Papel",
+  "value": 500,
+  "weight": 0.10000000149011612
+}

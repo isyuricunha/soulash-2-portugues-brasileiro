@@ -1,0 +1,25 @@
+{
+  "id": "core_2_wells",
+  "name": "Poços",
+  "requirements": {
+    "milestones": [],
+    "skill": 10
+  },
+  "rewards": [
+    {
+      "recipe": "32"
+    },
+    {
+      "recipe": "37"
+    },
+    {
+      "recipe": "912"
+    },
+    {
+      "recipe": "911"
+    }
+  ],
+  "skill_id": "core_2_construction",
+  "steps": [],
+  "steps_type": 0
+}

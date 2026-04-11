@@ -1,0 +1,42 @@
+{
+  "background": {
+    "color": [
+      44,
+      45,
+      41
+    ],
+    "noise": 3,
+    "noise_intensity": 6
+  },
+  "components": [
+    "background",
+    "glyph",
+    "health",
+    "minimap_pixel",
+    "name"
+  ],
+  "corpse": [],
+  "description": "Piso dentro de uma Árvore da Vida élfica. Parece antinatural, talvez esculpida com magia.",
+  "glyph": {
+    "frames": [
+      {
+        "color": [
+          255,
+          255,
+          255
+        ],
+        "delay": 0,
+        "index": 135
+      }
+    ],
+    "random_frame_start": true
+  },
+  "health": 1,
+  "id": "2248",
+  "minimap_pixel": [
+    61,
+    44,
+    7
+  ],
+  "name": "Piso da Árvore Élfica"
+}

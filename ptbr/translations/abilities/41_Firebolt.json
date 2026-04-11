@@ -1,0 +1,23 @@
+{
+  "animation": "38",
+  "cast_time": 1.25,
+  "cost": {
+    "health": 1,
+    "stamina": 4
+  },
+  "description": "Lança uma bola de fogo em um único alvo que causa ::damage de dano ::damage_type.",
+  "duration": 0,
+  "effects": {
+    "damage": [
+      3,
+      6
+    ],
+    "damage_type": "fire",
+    "magic_power_damage": 0.8
+  },
+  "id": "41",
+  "image": 40,
+  "name": "Lança-Chamas",
+  "range": 6,
+  "target": "line"
+}

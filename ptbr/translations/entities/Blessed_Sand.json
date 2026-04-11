@@ -1,0 +1,48 @@
+{
+  "components": [
+    "glyph",
+    "item",
+    "minimap_pixel",
+    "name",
+    "position_2d",
+    "resource",
+    "stackable",
+    "value",
+    "weight"
+  ],
+  "description": "Esta areia brilha com um brilho azul místico.",
+  "glyph": {
+    "frames": [
+      {
+        "color": [
+          255,
+          255,
+          255
+        ],
+        "delay": 0,
+        "index": 3121
+      }
+    ],
+    "random_frame_start": true
+  },
+  "id": "core_2_Blessed_Sand",
+  "item": {
+    "image": 1452,
+    "type": 16
+  },
+  "minimap_pixel": [
+    208,
+    204,
+    187
+  ],
+  "name": "Areia Abençoada",
+  "resource": {
+    "affix": "of Blessed Sand",
+    "granted_passive": "core_2_repeated_offender",
+    "magic_ingredient": 5,
+    "quality": 5,
+    "type": 7
+  },
+  "value": 100000,
+  "weight": 0.10000000149011612
+}

@@ -1,0 +1,72 @@
+{
+  "armor": {
+    "acid": 0,
+    "death": 0,
+    "electricity": 0,
+    "fire": -20,
+    "frost": 0,
+    "holy": 0,
+    "parry": 0,
+    "physical": 2,
+    "poison": 20,
+    "thorns": 0
+  },
+  "components": [
+    "armor",
+    "collidable",
+    "glyph",
+    "health",
+    "minimap_pixel",
+    "name",
+    "position_2d",
+    "producer"
+  ],
+  "corpse": [],
+  "description": "Grande saco vermelho cheio de algo.",
+  "glyph": {
+    "frames": [
+      {
+        "color": [
+          255,
+          255,
+          255
+        ],
+        "delay": 0,
+        "index": 3162
+      },
+      {
+        "color": [
+          255,
+          255,
+          255
+        ],
+        "delay": 0,
+        "index": 3163
+      }
+    ],
+    "random_frame_start": true
+  },
+  "health": 50,
+  "id": "core_2_Santas_Bag",
+  "minimap_pixel": [
+    71,
+    48,
+    17
+  ],
+  "name": "Saco do Santa",
+  "producer": {
+    "products": {
+      "3": [
+        {
+          "amount": [
+            1,
+            5
+          ],
+          "id": "148",
+          "percent_chance": 100
+        }
+      ]
+    },
+    "time": 0
+  }
+}

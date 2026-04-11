@@ -1,0 +1,21 @@
+{
+  "animation": "core_2_Drink_potion_of_fire_resistance",
+  "cast_time": 1.0,
+  "cooldown": 30.0,
+  "cost": {
+    "health": 0,
+    "stamina": 0
+  },
+  "description": "Esta poção lhe dá imunidade a dano de fogo por ::duration turnos.",
+  "duration": 20.0,
+  "effects": {
+    "damage_type": "fire",
+    "resistance": 1000
+  },
+  "id": "core_2_Potion_of_Fire_Immunity",
+  "image": 761,
+  "name": "Poção da Imunidade ao Fogo",
+  "range": 0,
+  "skill": "",
+  "target": "self"
+}

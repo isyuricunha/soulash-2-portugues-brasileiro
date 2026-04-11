@@ -1,0 +1,55 @@
+{
+  "id": "398",
+  "image": 0,
+  "name": "Coleta",
+  "occupation_image": 17,
+  "occupation": "2326",
+  "occupation_per_race": {
+    "0": "2202",
+    "1": "core_2_Dwarf_Forager",
+    "2": "2264",
+    "4": "core_2_Goblin_Forager",
+    "6": "core_2_Vampire_Forager",
+    "7": "core_2_Troll_Forager",
+    "8": "core_2_Orc_Forager",
+    "10": "2326",
+    "23": "core_2_Reptilion_Forager",
+    "26": "2372",
+    "31": "core_2_Gnoll_Trash_Collector",
+    "32": "core_2_Mushman_Forager",
+    "33": "core_2_Ursan_Forager"
+  },
+  "produces": [
+    {
+      "entities": [
+        {
+          "daily": 4,
+          "id": "2365"
+        }
+      ],
+      "takes": []
+    }
+  ],
+  "race": "-1",
+  "tier": 1,
+  "workers": [
+    1,
+    4
+  ],
+  "allow_player": true,
+  "required_entities": [
+    {
+      "entities": [
+        "2499",
+        "3103"
+      ],
+      "count": 4
+    },
+    {
+      "component": "resting_place",
+      "count": 4
+    }
+  ],
+  "min_area": 40,
+  "group": "food"
+}

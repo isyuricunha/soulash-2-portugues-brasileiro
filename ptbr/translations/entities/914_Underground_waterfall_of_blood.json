@@ -1,0 +1,199 @@
+{
+  "background": {
+    "color": [
+      40,
+      40,
+      40
+    ],
+    "noise": 5
+  },
+  "components": [
+    "background",
+    "block_light",
+    "glyph",
+    "height",
+    "liquid_source",
+    "minimap_pixel",
+    "name",
+    "on_enter",
+    "position_2d"
+  ],
+  "description": "Sangue escorre para o lago a partir do teto rochoso da caverna.",
+  "glyph": {
+    "frames": [
+      {
+        "color": [
+          255,
+          255,
+          255
+        ],
+        "delay": 60,
+        "index": 1427
+      },
+      {
+        "color": [
+          255,
+          255,
+          255
+        ],
+        "delay": 60,
+        "index": 1428
+      },
+      {
+        "color": [
+          255,
+          255,
+          255
+        ],
+        "delay": 60,
+        "index": 1429
+      },
+      {
+        "color": [
+          255,
+          255,
+          255
+        ],
+        "delay": 60,
+        "index": 1430
+      },
+      {
+        "color": [
+          255,
+          255,
+          255
+        ],
+        "delay": 60,
+        "index": 1431
+      },
+      {
+        "color": [
+          255,
+          255,
+          255
+        ],
+        "delay": 60,
+        "index": 1432
+      },
+      {
+        "color": [
+          255,
+          255,
+          255
+        ],
+        "delay": 60,
+        "index": 1433
+      },
+      {
+        "color": [
+          255,
+          255,
+          255
+        ],
+        "delay": 60,
+        "index": 1434
+      },
+      {
+        "color": [
+          255,
+          255,
+          255
+        ],
+        "delay": 60,
+        "index": 1435
+      },
+      {
+        "color": [
+          255,
+          255,
+          255
+        ],
+        "delay": 60,
+        "index": 1436
+      },
+      {
+        "color": [
+          255,
+          255,
+          255
+        ],
+        "delay": 60,
+        "index": 1437
+      },
+      {
+        "color": [
+          255,
+          255,
+          255
+        ],
+        "delay": 60,
+        "index": 1438
+      },
+      {
+        "color": [
+          255,
+          255,
+          255
+        ],
+        "delay": 60,
+        "index": 1439
+      },
+      {
+        "color": [
+          255,
+          255,
+          255
+        ],
+        "delay": 60,
+        "index": 1196
+      },
+      {
+        "color": [
+          255,
+          255,
+          255
+        ],
+        "delay": 60,
+        "index": 1197
+      },
+      {
+        "color": [
+          255,
+          255,
+          255
+        ],
+        "delay": 60,
+        "index": 1198
+      },
+      {
+        "color": [
+          255,
+          255,
+          255
+        ],
+        "delay": 60,
+        "index": 1199
+      }
+    ],
+    "random_frame_start": true
+  },
+  "height": 0,
+  "id": "914",
+  "liquid_source": {
+    "limit": -1,
+    "type": 4
+  },
+  "minimap_pixel": [
+    124,
+    7,
+    7
+  ],
+  "name": "Cachoeira Subterrânea de Sangue",
+  "on_enter": {
+    "ability": [
+      "88",
+      "89"
+    ],
+    "teleport": null
+  }
+}

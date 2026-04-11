@@ -1,0 +1,20 @@
+{
+  "animation": "core_2_Alle_seeing",
+  "cast_time": 1.0,
+  "cooldown": 30.0,
+  "cost": {
+    "health": 0,
+    "stamina": 0
+  },
+  "description": "Esta poção concede a você visão completa por ::duration turnos.",
+  "duration": 100.0,
+  "effects": {
+    "full_vision": 1
+  },
+  "id": "core_2_All_Seeing",
+  "image": 754,
+  "name": "Visão Onisciente",
+  "range": 0,
+  "skill": "",
+  "target": "self"
+}

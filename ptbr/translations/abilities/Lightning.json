@@ -1,0 +1,28 @@
+{
+  "animation": "7",
+  "cast_time": 1.0,
+  "cooldown": 7.0,
+  "cost": {
+    "health": 0,
+    "stamina": 10
+  },
+  "description": "Dispara um raio do seu dedo em linha reta acertando a primeira coisa com a qual entrar em contato causando ::damage ::damage_type de dano.",
+  "duration": 0.0,
+  "effects": {
+    "damage": [
+      2,
+      8
+    ],
+    "damage_type": "electricity",
+    "magic_power_damage": 1.0
+  },
+  "id": "18",
+  "image": 44,
+  "name": "Raio",
+  "range": 8,
+  "skill": "",
+  "slots": {
+    "offensive": 1
+  },
+  "target": "line"
+}

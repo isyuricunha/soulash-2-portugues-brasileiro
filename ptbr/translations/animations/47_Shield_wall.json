@@ -1,0 +1,45 @@
+{
+  "camera_shake": {
+    "bounces": 6,
+    "duration": 0.5,
+    "power": 2,
+    "type": 1
+  },
+  "chain_particles": true,
+  "id": "47",
+  "ignore_roof": true,
+  "name": "Muralha de Escudo",
+  "particles": [
+    {
+      "color": [
+        [
+          255,
+          255,
+          255,
+          255
+        ]
+      ],
+      "flags": 0,
+      "life": 600.0,
+      "tile_id": 414
+    },
+    {
+      "color": [
+        [
+          255,
+          255,
+          255,
+          255
+        ]
+      ],
+      "delay": 600.0,
+      "flags": 8,
+      "life": 200.0,
+      "tile_id": 414
+    }
+  ],
+  "sound": {
+    "id": "39",
+    "volume": 100
+  }
+}

@@ -1,0 +1,74 @@
+{
+  "components": [
+    "craftable",
+    "glyph",
+    "item",
+    "minimap_pixel",
+    "name",
+    "position_2d",
+    "value",
+    "weapon",
+    "weight"
+  ],
+  "craftable": {
+    "backgrounds": [],
+    "biomes": [],
+    "magic_slots": 0,
+    "resource_types": [
+      {
+        "amount": 1,
+        "id": 5
+      },
+      {
+        "amount": 1,
+        "id": 3
+      }
+    ],
+    "time": 37,
+    "tools": []
+  },
+  "description": "Uma lança curta feita de um osso afiado em um bastão.",
+  "glyph": {
+    "frames": [
+      {
+        "color": [
+          255,
+          255,
+          255
+        ],
+        "delay": 0,
+        "index": 318
+      }
+    ],
+    "random_frame_start": false
+  },
+  "id": "311",
+  "item": {
+    "image": 116,
+    "type": 13
+  },
+  "minimap_pixel": [
+    208,
+    204,
+    187
+  ],
+  "name": "Lança de Osso",
+  "value": 1100,
+  "weapon": {
+    "attack_speed": 1.0,
+    "critical_hit": 0.0,
+    "damage": [
+      {
+        "dmg_max": 5,
+        "dmg_min": 1,
+        "dmg_type": "physical"
+      }
+    ],
+    "hands": 1,
+    "hit_bonus": 1,
+    "parry_bonus": 0,
+    "range": 1,
+    "type": 4
+  },
+  "weight": 0.800000011920929
+}

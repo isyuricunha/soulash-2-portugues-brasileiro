@@ -1,0 +1,45 @@
+{
+  "background": {
+    "color": [
+      51,
+      66,
+      12
+    ]
+  },
+  "components": [
+    "background",
+    "glyph",
+    "health",
+    "minimap_pixel",
+    "name"
+  ],
+  "corpse": [
+    {
+      "damage_type": 0,
+      "id": "30"
+    }
+  ],
+  "description": "Macio e úmido.",
+  "glyph": {
+    "frames": [
+      {
+        "color": [
+          255,
+          255,
+          255
+        ],
+        "delay": 0,
+        "index": 2162
+      }
+    ],
+    "random_frame_start": false
+  },
+  "health": 1,
+  "id": "core_2_Deep_Moss",
+  "minimap_pixel": [
+    47,
+    89,
+    56
+  ],
+  "name": "Musgo Profundo"
+}

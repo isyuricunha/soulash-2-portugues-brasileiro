@@ -1,0 +1,16 @@
+{
+  "id": "core_2_string_ring",
+  "name": "Anel de Cordão",
+  "requirements": {
+    "milestones": [],
+    "skill": 1
+  },
+  "rewards": [
+    {
+      "recipe": "core_2_String_Ring"
+    }
+  ],
+  "skill_id": "core_2_imbuing",
+  "steps": [],
+  "steps_type": 0
+}

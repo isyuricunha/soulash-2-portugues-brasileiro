@@ -1,0 +1,72 @@
+{
+  "armor": {
+    "acid": 4,
+    "death": 0,
+    "electricity": 4,
+    "fire": 4,
+    "frost": 0,
+    "holy": 0,
+    "parry": 0,
+    "physical": 2,
+    "poison": 0,
+    "thorns": 0
+  },
+  "components": [
+    "armor",
+    "craftable",
+    "glyph",
+    "item",
+    "minimap_pixel",
+    "name",
+    "position_2d",
+    "value",
+    "weight"
+  ],
+  "craftable": {
+    "backgrounds": [],
+    "biomes": [],
+    "magic_slots": 4,
+    "resource_types": [
+      {
+        "amount": 3,
+        "id": 4
+      },
+      {
+        "amount": 1,
+        "id": 8
+      }
+    ],
+    "time": 60,
+    "tools": [
+      12
+    ]
+  },
+  "description": "Um xale mágico adornado com gemas brilhantes.",
+  "glyph": {
+    "frames": [
+      {
+        "color": [
+          255,
+          255,
+          255
+        ],
+        "delay": 0,
+        "index": 525
+      }
+    ],
+    "random_frame_start": false
+  },
+  "id": "2224",
+  "item": {
+    "image": 573,
+    "type": 6
+  },
+  "minimap_pixel": [
+    212,
+    200,
+    33
+  ],
+  "name": "Faixa Encantada",
+  "value": 7500,
+  "weight": 0.5
+}

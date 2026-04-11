@@ -1,0 +1,16 @@
+{
+  "id": "core_2_rune_of_power",
+  "name": "Runa de Poder",
+  "requirements": {
+    "milestones": [],
+    "skill": 47
+  },
+  "rewards": [
+    {
+      "recipe": "core_2_Rune_of_Power"
+    }
+  ],
+  "skill_id": "core_2_imbuing",
+  "steps": [],
+  "steps_type": 0
+}

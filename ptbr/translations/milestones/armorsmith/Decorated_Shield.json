@@ -1,0 +1,16 @@
+{
+  "id": "core_2_decorated_shield",
+  "name": "Escudo Decorado",
+  "requirements": {
+    "milestones": [],
+    "skill": 20
+  },
+  "rewards": [
+    {
+      "recipe": "core_2_Decorated_Shield"
+    }
+  ],
+  "skill_id": "core_2_armorsmith",
+  "steps": [],
+  "steps_type": 0
+}

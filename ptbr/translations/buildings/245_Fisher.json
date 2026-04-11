@@ -1,0 +1,24 @@
+{
+  "id": "245",
+  "image": 213,
+  "name": "Pescador",
+  "occupation_image": 2,
+  "occupation": "core_2_Reptilion_Fisherman",
+  "produces": [
+    {
+      "entities": [
+        {
+          "daily": 2,
+          "id": "315"
+        }
+      ],
+      "takes": []
+    }
+  ],
+  "race": "23",
+  "tier": 1,
+  "workers": [
+    1,
+    3
+  ]
+}

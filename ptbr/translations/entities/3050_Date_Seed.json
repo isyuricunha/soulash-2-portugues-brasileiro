@@ -1,0 +1,40 @@
+{
+  "components": [
+    "glyph",
+    "item",
+    "minimap_pixel",
+    "name",
+    "position_2d",
+    "stackable",
+    "value",
+    "weight"
+  ],
+  "description": "Com cuidado suficiente, esta semente se tornará uma tamareira.",
+  "glyph": {
+    "frames": [
+      {
+        "color": [
+          255,
+          255,
+          255
+        ],
+        "delay": 0,
+        "index": 2048
+      }
+    ],
+    "random_frame_start": false
+  },
+  "id": "3050",
+  "item": {
+    "image": 830,
+    "type": 24
+  },
+  "minimap_pixel": [
+    206,
+    177,
+    66
+  ],
+  "name": "Semente de Tâmara",
+  "value": 200,
+  "weight": 0.10000000149011612
+}

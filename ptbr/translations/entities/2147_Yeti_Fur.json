@@ -1,0 +1,60 @@
+{
+  "armor": {
+    "acid": 0,
+    "death": 0,
+    "electricity": 0,
+    "fire": 0,
+    "frost": 1,
+    "holy": 0,
+    "parry": 0,
+    "physical": 2,
+    "poison": 0,
+    "thorns": 0
+  },
+  "components": [
+    "armor",
+    "glyph",
+    "item",
+    "minimap_pixel",
+    "name",
+    "position_2d",
+    "resource",
+    "stackable",
+    "value",
+    "weight"
+  ],
+  "description": "Pele branca que já pertenceu a um Yeti.",
+  "glyph": {
+    "frames": [
+      {
+        "color": [
+          255,
+          255,
+          255
+        ],
+        "delay": 0,
+        "index": 478
+      }
+    ],
+    "random_frame_start": false
+  },
+  "id": "2147",
+  "item": {
+    "image": 498,
+    "type": 16
+  },
+  "minimap_pixel": [
+    182,
+    175,
+    158
+  ],
+  "name": "Pele de Yeti",
+  "resource": {
+    "affix": "Brutal",
+    "magic_ingredient": 0,
+    "quality": 3,
+    "type": 9
+  },
+  "value": 2500,
+  "weight": 0.10000000149011612
+}

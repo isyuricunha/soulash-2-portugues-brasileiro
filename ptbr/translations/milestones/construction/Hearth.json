@@ -1,0 +1,16 @@
+{
+  "id": "core_2_hearth",
+  "name": "Lareira",
+  "requirements": {
+    "milestones": [],
+    "skill": 5
+  },
+  "rewards": [
+    {
+      "recipe": "18"
+    }
+  ],
+  "skill_id": "core_2_construction",
+  "steps": [],
+  "steps_type": 0
+}

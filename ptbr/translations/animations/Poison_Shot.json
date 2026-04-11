@@ -1,0 +1,32 @@
+{
+  "animation_origin_self": false,
+  "camera_shake": {
+    "bounces": 0,
+    "duration": 0.0,
+    "power": 0.0
+  },
+  "chain_particles": false,
+  "id": "core_2_Poison_Shot",
+  "ignore_roof": false,
+  "name": "Tiro Envenenado",
+  "particles": [
+    {
+      "color": [
+        [
+          255,
+          255,
+          255,
+          255
+        ]
+      ],
+      "flags": 128,
+      "on_impact": "core_2_Poison_Shot_impact",
+      "tile_id": 14,
+      "velocity": 35.0
+    }
+  ],
+  "sound": {
+    "id": "44",
+    "volume": 100
+  }
+}

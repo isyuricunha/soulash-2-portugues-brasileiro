@@ -1,0 +1,67 @@
+{
+  "armor": {
+    "acid": 4,
+    "death": 0,
+    "electricity": 0,
+    "fire": 0,
+    "frost": 6,
+    "holy": 4,
+    "parry": 0,
+    "physical": 4,
+    "poison": 0,
+    "thorns": 0
+  },
+  "components": [
+    "armor",
+    "craftable",
+    "glyph",
+    "item",
+    "minimap_pixel",
+    "name",
+    "position_2d",
+    "value",
+    "weight"
+  ],
+  "craftable": {
+    "magic_slots": 5,
+    "resource_types": [
+      {
+        "amount": 5,
+        "id": 9
+      }
+    ],
+    "resources": null,
+    "time": 60,
+    "tools": [
+      14
+    ]
+  },
+  "description": "Pesada, mas muito quente.",
+  "glyph": {
+    "frames": [
+      {
+        "color": [
+          255,
+          255,
+          255
+        ],
+        "delay": 0,
+        "index": 358
+      }
+    ],
+    "random_frame_start": false
+  },
+  "id": "187",
+  "item": {
+    "image": 89,
+    "type": 10
+  },
+  "minimap_pixel": [
+    182,
+    175,
+    158
+  ],
+  "name": "Capa de Pele",
+  "value": 10000,
+  "weight": 4.0
+}

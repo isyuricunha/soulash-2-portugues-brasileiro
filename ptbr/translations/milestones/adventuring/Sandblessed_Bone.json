@@ -1,0 +1,16 @@
+{
+  "id": "core_2_sandblessed_bone",
+  "name": "Osso Abençoado pela Areia",
+  "requirements": {
+    "milestones": [],
+    "skill": 22
+  },
+  "rewards": [
+    {
+      "recipe": "2368"
+    }
+  ],
+  "skill_id": "core_2_adventuring",
+  "steps": [],
+  "steps_type": 0
+}

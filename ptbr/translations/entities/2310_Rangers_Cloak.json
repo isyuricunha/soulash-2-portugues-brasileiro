@@ -1,0 +1,66 @@
+{
+  "armor": {
+    "acid": 2,
+    "death": 0,
+    "electricity": 0,
+    "fire": 0,
+    "frost": 2,
+    "holy": 0,
+    "parry": 0,
+    "physical": 2,
+    "poison": 4
+  },
+  "components": [
+    "armor",
+    "craftable",
+    "glyph",
+    "item",
+    "minimap_pixel",
+    "name",
+    "position_2d",
+    "value",
+    "weight"
+  ],
+  "craftable": {
+    "magic_slots": 3,
+    "resource_types": [
+      {
+        "amount": 3,
+        "id": 2
+      }
+    ],
+    "resources": null,
+    "time": 60,
+    "tools": [
+      14
+    ]
+  },
+  "description": "A capa é feita de couro de alta qualidade que é leve, durável e fácil de mover. Também possui bolsos para armazenar itens essenciais, tornando-a um acessório ideal para rangers que passam longos períodos na natureza.",
+  "glyph": {
+    "frames": [
+      {
+        "color": [
+          255,
+          255,
+          255
+        ],
+        "delay": 0,
+        "index": 682
+      }
+    ],
+    "random_frame_start": false
+  },
+  "id": "2310",
+  "item": {
+    "image": 603,
+    "type": 10
+  },
+  "minimap_pixel": [
+    122,
+    93,
+    57
+  ],
+  "name": "Capa do Ranger",
+  "value": 3300,
+  "weight": 1.5
+}

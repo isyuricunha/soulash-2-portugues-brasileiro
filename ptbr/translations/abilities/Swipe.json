@@ -1,0 +1,38 @@
+{
+  "animation": "core_2_Swipe",
+  "cast_time": -1.0,
+  "cooldown": 12.0,
+  "cost": {
+    "health": 0,
+    "stamina": 8
+  },
+  "description": "Golpeie sua arma causando ::damage de dano ::damage_type em todos em um formato de T à sua frente com uma força capaz de empurrá-los 2 células para trás.",
+  "duration": 0.0,
+  "effects": {
+    "aoe_range": 1,
+    "aoe_shape": 2,
+    "damage": [
+      0,
+      5
+    ],
+    "damage_type": "physical",
+    "damage_weapon": 0.6000000238418579,
+    "knockback": 2
+  },
+  "id": "core_2_Swipe",
+  "image": 715,
+  "name": "Golpe",
+  "range": 1,
+  "requirements": {
+    "one_of": [
+      3,
+      5
+    ]
+  },
+  "skill": "core_2_pole_fighting",
+  "slots": {
+    "offensive": 2,
+    "utility": 1
+  },
+  "target": "aoe_target"
+}

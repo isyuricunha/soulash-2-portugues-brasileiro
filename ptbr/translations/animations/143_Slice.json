@@ -1,0 +1,97 @@
+{
+  "camera_shake": {
+    "bounces": 2,
+    "duration": 0.0,
+    "power": 0.0,
+    "type": 1
+  },
+  "chain_particles": true,
+  "id": "143",
+  "ignore_roof": true,
+  "name": "Corte",
+  "particles": [
+    {
+      "color": [
+        [
+          255,
+          255,
+          255,
+          255
+        ]
+      ],
+      "flags": 0,
+      "life": 130.0,
+      "tile_id": 384
+    },
+    {
+      "color": [
+        [
+          255,
+          255,
+          255,
+          255
+        ]
+      ],
+      "flags": 0,
+      "life": 40.0,
+      "tile_id": 385
+    },
+    {
+      "color": [
+        [
+          255,
+          255,
+          255,
+          255
+        ]
+      ],
+      "flags": 0,
+      "life": 80.0,
+      "tile_id": 386
+    },
+    {
+      "color": [
+        [
+          255,
+          255,
+          255,
+          255
+        ]
+      ],
+      "flags": 0,
+      "life": 50.0,
+      "tile_id": 387
+    },
+    {
+      "color": [
+        [
+          255,
+          255,
+          255,
+          255
+        ]
+      ],
+      "delay": 350.0,
+      "flags": 0,
+      "life": 100.0,
+      "tile_id": 388
+    },
+    {
+      "color": [
+        [
+          255,
+          255,
+          255,
+          255
+        ]
+      ],
+      "flags": 0,
+      "life": 300.0,
+      "tile_id": 389
+    }
+  ],
+  "sound": {
+    "id": "2",
+    "volume": 100
+  }
+}

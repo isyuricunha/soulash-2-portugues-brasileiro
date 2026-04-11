@@ -1,0 +1,138 @@
+{
+  "artificial_intelligence": {
+    "allies": [
+      "24"
+    ],
+    "allow_production": [],
+    "behaviors": [],
+    "enemies": []
+  },
+  "components": [
+    "actor",
+    "artificial_intelligence",
+    "collidable",
+    "dialogues",
+    "equipment",
+    "experience_gainer",
+    "fighter",
+    "glyph",
+    "health",
+    "humanoid",
+    "minimap_pixel",
+    "moveable",
+    "name",
+    "persona",
+    "position_2d",
+    "sight",
+    "stamina",
+    "statistics",
+    "tags"
+  ],
+  "corpse": "core_2_Reptilion_Corpse",
+  "description": "",
+  "dialogues": [
+    "682",
+    "683"
+  ],
+  "equipment": {
+    "backpack": [
+      {
+        "chance": 1.0,
+        "id": "100",
+        "name": "Dardo",
+        "stack": 3
+      }
+    ],
+    "right_hand": [
+      {
+        "chance": 1.0,
+        "id": "100",
+        "name": "Dardo",
+        "stack": 1
+      }
+    ],
+    "torso_cloth": [
+      {
+        "chance": 1.0,
+        "id": "184",
+        "name": "Camisa",
+        "stack": 1
+      }
+    ]
+  },
+  "experience_gainer": {
+    "exp": 5,
+    "level": 1
+  },
+  "fighter": {
+    "attackNames": null
+  },
+  "glyph": {
+    "frames": [
+      {
+        "color": [
+          255,
+          255,
+          255
+        ],
+        "delay": 0,
+        "index": 128
+      }
+    ],
+    "random_frame_start": false
+  },
+  "health": 150,
+  "humanoid": {
+    "race": "23"
+  },
+  "id": "core_2_Reptilion_Recruit",
+  "minimap_pixel": [
+    113,
+    179,
+    34
+  ],
+  "moveable": {
+    "speed": 1.100000023841858
+  },
+  "name": "Recruta Reptilion",
+  "persona": {
+    "occupation": "Recruta"
+  },
+  "sight": {
+    "ignore_infra_penalty": false,
+    "infravision": false,
+    "range": 9,
+    "threesixty": false
+  },
+  "stamina": {
+    "fatigue": 100,
+    "stamina": 100,
+    "stamina_regen": 0.0
+  },
+  "statistics": {
+    "dexterity": [
+      20,
+      26
+    ],
+    "endurance": [
+      14,
+      20
+    ],
+    "intelligence": [
+      10,
+      13
+    ],
+    "strength": [
+      16,
+      22
+    ],
+    "willpower": [
+      7,
+      11
+    ]
+  },
+  "tags": [
+    "9",
+    "24"
+  ]
+}

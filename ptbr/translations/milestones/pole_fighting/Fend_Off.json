@@ -1,0 +1,16 @@
+{
+  "id": "core_2_fend_off",
+  "name": "Repelir",
+  "requirements": {
+    "milestones": [],
+    "skill": 3
+  },
+  "rewards": [
+    {
+      "amplifier": "core_2_cripple"
+    }
+  ],
+  "skill_id": "core_2_pole_fighting",
+  "steps": [],
+  "steps_type": 0
+}

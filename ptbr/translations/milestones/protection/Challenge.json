@@ -1,0 +1,15 @@
+{
+  "id": "core_2_challenge",
+  "name": "Desafio",
+  "requirements": {
+    "skill": 18
+  },
+  "rewards": [
+    {
+      "ability": "71"
+    }
+  ],
+  "skill_id": "core_2_protection",
+  "steps": [],
+  "steps_type": 1
+}

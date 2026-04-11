@@ -1,0 +1,51 @@
+{
+  "background": {
+    "color": [
+      44,
+      45,
+      41
+    ],
+    "noise": 8,
+    "noise_intensity": 4
+  },
+  "components": [
+    "background",
+    "glyph",
+    "health",
+    "minimap_pixel",
+    "name"
+  ],
+  "corpse": [
+    {
+      "damage_type": 0,
+      "id": "4"
+    },
+    {
+      "damage_type": 1,
+      "id": "604"
+    }
+  ],
+  "description": "As tábuas de madeira que compõem o chão sob seus pés estão congeladas e rachadas em vários lugares.",
+  "glyph": {
+    "frames": [
+      {
+        "color": [
+          255,
+          255,
+          255
+        ],
+        "delay": 0,
+        "index": 759
+      }
+    ],
+    "random_frame_start": false
+  },
+  "health": 1,
+  "id": "606",
+  "minimap_pixel": [
+    63,
+    46,
+    23
+  ],
+  "name": "Chão de Madeira Congelado e Rachado"
+}

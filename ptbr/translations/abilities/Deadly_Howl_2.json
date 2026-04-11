@@ -1,0 +1,26 @@
+{
+  "animation": "core_2_Deadly_Howl",
+  "cast_time": 1.0,
+  "cooldown": 5.0,
+  "cost": {
+    "health": 0,
+    "stamina": 5
+  },
+  "description": "Solte um uivo terrível, causando ::damage de ::damage_type a todos em um cone.",
+  "duration": 0.0,
+  "effects": {
+    "aoe_break": 2,
+    "damage": [
+      20,
+      30
+    ],
+    "damage_type": "poison",
+    "stun": 2.0
+  },
+  "id": "core_2_Deadly_Howl_2",
+  "image": 810,
+  "name": "Uivo Mortal",
+  "range": 5,
+  "skill": "",
+  "target": "cone"
+}

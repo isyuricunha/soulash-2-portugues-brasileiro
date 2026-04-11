@@ -1,0 +1,16 @@
+{
+  "id": "core_2_spiked_knuckle",
+  "name": "Soqueira Espinhosa",
+  "requirements": {
+    "milestones": [],
+    "skill": 32
+  },
+  "rewards": [
+    {
+      "recipe": "core_2_Spiked_Knuckle"
+    }
+  ],
+  "skill_id": "core_2_weaponsmith",
+  "steps": [],
+  "steps_type": 0
+}

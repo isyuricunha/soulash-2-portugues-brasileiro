@@ -1,0 +1,40 @@
+{
+  "components": [
+    "glyph",
+    "item",
+    "minimap_pixel",
+    "name",
+    "position_2d",
+    "stackable",
+    "value",
+    "weight"
+  ],
+  "description": "Com alguns cuidados, esta semente crescerá em uma geléia terrestre.",
+  "glyph": {
+    "frames": [
+      {
+        "color": [
+          255,
+          255,
+          255
+        ],
+        "delay": 0,
+        "index": 2145
+      }
+    ],
+    "random_frame_start": false
+  },
+  "id": "core_2_Ground_Jelly_Seed",
+  "item": {
+    "image": 886,
+    "type": 24
+  },
+  "minimap_pixel": [
+    205,
+    168,
+    110
+  ],
+  "name": "Semente de Geléia Terrestre",
+  "value": 50,
+  "weight": 0.009999999776482582
+}

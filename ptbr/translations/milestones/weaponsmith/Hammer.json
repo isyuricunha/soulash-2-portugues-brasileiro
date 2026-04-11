@@ -1,0 +1,16 @@
+{
+  "id": "core_2_hammer",
+  "name": "Martelo",
+  "requirements": {
+    "milestones": [],
+    "skill": 3
+  },
+  "rewards": [
+    {
+      "recipe": "151"
+    }
+  ],
+  "skill_id": "core_2_weaponsmith",
+  "steps": [],
+  "steps_type": 0
+}

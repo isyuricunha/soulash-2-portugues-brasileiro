@@ -1,0 +1,23 @@
+{
+  "animation": "",
+  "cast_time": 1.0,
+  "cooldown": 30.0,
+  "cost": {
+    "health": 0,
+    "stamina": 10
+  },
+  "description": "[color=192,176,27,255]Aura:[/color] ::aura\n\nEsta aura ativa a cada turno e dura ::duration turnos.",
+  "duration": 7.0,
+  "effects": {
+    "magic_power_damage": 1.0
+  },
+  "effects_keys": {
+    "aura": "core_2_Pollen_Frenzy_Trigger"
+  },
+  "id": "core_2_Pollen_Frenzy",
+  "image": 728,
+  "name": "Frenesi de Pólen",
+  "range": 0,
+  "skill": "",
+  "target": "self"
+}

@@ -1,0 +1,33 @@
+{
+  "id": "343",
+  "image": 260,
+  "name": "Pedreira",
+  "occupation_image": 18,
+  "occupation": "core_2_Goblin_Miner",
+  "produces": [
+    {
+      "entities": [
+        {
+          "daily": 0.4,
+          "id": "35"
+        }
+      ],
+      "takes": []
+    },
+    {
+      "entities": [
+        {
+          "daily": 0.4,
+          "id": "core_2_Limestone_Block"
+        }
+      ],
+      "takes": []
+    }
+  ],
+  "race": "4",
+  "tier": 1,
+  "workers": [
+    1,
+    2
+  ]
+}

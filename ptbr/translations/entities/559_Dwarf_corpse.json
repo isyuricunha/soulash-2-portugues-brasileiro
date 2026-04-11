@@ -1,0 +1,84 @@
+{
+  "components": [
+    "glyph",
+    "item",
+    "liquid_source",
+    "minimap_pixel",
+    "name",
+    "position_2d",
+    "producer",
+    "value",
+    "weight"
+  ],
+  "description": "O cadáver baixo e gordo de um anão.",
+  "glyph": {
+    "frames": [
+      {
+        "color": [
+          255,
+          255,
+          255
+        ],
+        "delay": 0,
+        "index": 457
+      }
+    ],
+    "random_frame_start": false
+  },
+  "id": "559",
+  "item": {
+    "image": 216,
+    "type": 18
+  },
+  "liquid_source": {
+    "limit": 80,
+    "type": 4
+  },
+  "minimap_pixel": [
+    171,
+    183,
+    183
+  ],
+  "name": "Cadáver Anão",
+  "producer": {
+    "products": {
+      "3": [
+        {
+          "amount": [
+            1,
+            1
+          ],
+          "id": "55",
+          "percent_chance": 100
+        },
+        {
+          "amount": [
+            1,
+            1
+          ],
+          "id": "core_2_Dwarven_Head",
+          "percent_chance": 5
+        },
+        {
+          "amount": [
+            1,
+            1
+          ],
+          "id": "core_2_Dwarf_Hand",
+          "percent_chance": 5
+        },
+        {
+          "amount": [
+            1,
+            1
+          ],
+          "id": "core_2_Dwarven_Legs",
+          "percent_chance": 5
+        }
+      ]
+    },
+    "time": 0
+  },
+  "value": 0,
+  "weight": 60.0
+}

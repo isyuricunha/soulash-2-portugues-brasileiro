@@ -1,0 +1,81 @@
+{
+  "components": [
+    "craftable",
+    "glyph",
+    "item",
+    "minimap_pixel",
+    "name",
+    "position_2d",
+    "tool",
+    "value",
+    "weapon",
+    "weight"
+  ],
+  "craftable": {
+    "magic_slots": 4,
+    "resource_types": [
+      {
+        "amount": 3,
+        "id": 1
+      },
+      {
+        "amount": 1,
+        "id": 3
+      }
+    ],
+    "resources": null,
+    "time": 160,
+    "tools": [
+      1
+    ]
+  },
+  "description": "Sua especialidade - destripar.",
+  "glyph": {
+    "frames": [
+      {
+        "color": [
+          255,
+          255,
+          255
+        ],
+        "delay": 0,
+        "index": 487
+      }
+    ],
+    "random_frame_start": false
+  },
+  "id": "367",
+  "item": {
+    "image": 147,
+    "type": 13
+  },
+  "minimap_pixel": [
+    206,
+    210,
+    211
+  ],
+  "name": "Faca de Bandido",
+  "tool": [
+    {
+      "id": 4,
+      "quality": 150
+    }
+  ],
+  "value": 4000,
+  "weapon": {
+    "attack_speed": 0.800000011920929,
+    "damage": [
+      {
+        "dmg_max": 10,
+        "dmg_min": 7,
+        "dmg_type": "physical"
+      }
+    ],
+    "hands": 1,
+    "hit_bonus": 3,
+    "parry_bonus": 3,
+    "range": 1,
+    "type": 3
+  },
+  "weight": 1.0
+}

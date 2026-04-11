@@ -1,0 +1,126 @@
+{
+  "ability_user": [
+    "53"
+  ],
+  "artificial_intelligence": {
+    "allies": [],
+    "allow_production": [],
+    "behaviors": [],
+    "enemies": [
+      "5"
+    ]
+  },
+  "components": [
+    "ability_user",
+    "actor",
+    "artificial_intelligence",
+    "collidable",
+    "dialogues",
+    "equipment",
+    "experience_gainer",
+    "fighter",
+    "glyph",
+    "health",
+    "minimap_pixel",
+    "moveable",
+    "name",
+    "position_2d",
+    "sight",
+    "stamina",
+    "statistics",
+    "tags",
+    "weapon"
+  ],
+  "corpse": "2777",
+  "description": "Poderia ser valioso se não estivesse tentando te matar.",
+  "dialogues": [
+    "596",
+    "597"
+  ],
+  "experience_gainer": {
+    "exp": 0,
+    "level": 30
+  },
+  "fighter": {
+    "attackNames": [
+      "Frost Shards"
+    ]
+  },
+  "glyph": {
+    "frames": [
+      {
+        "color": [
+          255,
+          255,
+          255
+        ],
+        "delay": 0,
+        "index": 876
+      }
+    ],
+    "random_frame_start": false
+  },
+  "health": 400,
+  "id": "2793",
+  "minimap_pixel": [
+    176,
+    164,
+    59
+  ],
+  "moveable": {
+    "speed": 1.0
+  },
+  "name": "Veio de Safira Animado",
+  "sight": {
+    "ignore_infra_penalty": false,
+    "infravision": true,
+    "range": 7,
+    "threesixty": false
+  },
+  "stamina": {
+    "fatigue": 100,
+    "stamina": 100,
+    "stamina_regen": 0.0
+  },
+  "statistics": {
+    "dexterity": [
+      26,
+      30
+    ],
+    "endurance": [
+      17,
+      22
+    ],
+    "intelligence": [
+      32,
+      45
+    ],
+    "strength": [
+      26,
+      30
+    ],
+    "willpower": [
+      22,
+      26
+    ]
+  },
+  "tags": [
+    "3"
+  ],
+  "weapon": {
+    "attack_speed": 1.0,
+    "critical_hit": 0.0,
+    "damage": [
+      {
+        "dmg_max": 5,
+        "dmg_min": 1,
+        "dmg_type": "frost"
+      }
+    ],
+    "hands": 1,
+    "hit_bonus": 1,
+    "parry_bonus": 0,
+    "range": 3,
+    "type": 6
+  }
+}

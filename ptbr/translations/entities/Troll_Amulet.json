@@ -1,0 +1,68 @@
+{
+  "armor": {
+    "acid": 6,
+    "death": 2,
+    "electricity": 0,
+    "fire": 0,
+    "frost": 0,
+    "holy": 0,
+    "parry": 0,
+    "physical": 0,
+    "poison": 0,
+    "thorns": 0
+  },
+  "components": [
+    "armor",
+    "craftable",
+    "glyph",
+    "item",
+    "minimap_pixel",
+    "name",
+    "position_2d",
+    "value",
+    "weight"
+  ],
+  "craftable": {
+    "backgrounds": [],
+    "biomes": [],
+    "magic_slots": 2,
+    "resources": [
+      {
+        "amount": 2,
+        "id": "2516"
+      }
+    ],
+    "time": 60,
+    "tools": [
+      14
+    ]
+  },
+  "description": "Parece ter sido feito com pele de troll de verdade.",
+  "glyph": {
+    "frames": [
+      {
+        "color": [
+          255,
+          255,
+          255
+        ],
+        "delay": 0,
+        "index": 2431
+      }
+    ],
+    "random_frame_start": false
+  },
+  "id": "core_2_Troll_Amulet",
+  "item": {
+    "image": 1067,
+    "type": 3
+  },
+  "minimap_pixel": [
+    218,
+    165,
+    32
+  ],
+  "name": "Amuleto de Troll",
+  "value": 1800,
+  "weight": 0.10000000149011612
+}

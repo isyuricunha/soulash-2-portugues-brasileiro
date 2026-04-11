@@ -1,0 +1,25 @@
+{
+  "animation": "0",
+  "cast_time": 1,
+  "cooldown": 30,
+  "cost": {
+    "health": 0,
+    "stamina": 0
+  },
+  "description": "Você deixa morte em seu caminho, causando ::damage de dano ::damage_type a tudo na área de ::aoe_range a cada turno.",
+  "duration": 10,
+  "effects": {
+    "aoe_range": 6,
+    "aoe_shape": 4,
+    "damage": [
+      8,
+      15
+    ],
+    "damage_type": "death"
+  },
+  "id": "104",
+  "image": 111,
+  "name": "Aura da Morte",
+  "range": 0,
+  "target": "aoe_self"
+}

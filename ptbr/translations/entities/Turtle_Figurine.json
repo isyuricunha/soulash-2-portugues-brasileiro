@@ -1,0 +1,48 @@
+{
+  "components": [
+    "glyph",
+    "item",
+    "minimap_pixel",
+    "name",
+    "position_2d",
+    "resource",
+    "stackable",
+    "value",
+    "weight"
+  ],
+  "description": "Uma pequena estatueta de uma tartaruga com um mundo plano em seu casco. A tartaruga se move. Levemente.",
+  "glyph": {
+    "frames": [
+      {
+        "color": [
+          255,
+          255,
+          255
+        ],
+        "delay": 0,
+        "index": 3172
+      }
+    ],
+    "random_frame_start": false
+  },
+  "id": "core_2_Turtle_Figurine",
+  "item": {
+    "image": 1468,
+    "type": 16
+  },
+  "minimap_pixel": [
+    100,
+    109,
+    155
+  ],
+  "name": "Estatueta de Tartaruga",
+  "resource": {
+    "affix": "of the Turtle",
+    "granted_passive": "core_2_stunning_hit",
+    "magic_ingredient": 5,
+    "quality": 5,
+    "type": 7
+  },
+  "value": 200000,
+  "weight": 0.10000000149011612
+}

@@ -1,0 +1,66 @@
+{
+  "armor": {
+    "acid": 3,
+    "death": 2,
+    "electricity": 0,
+    "fire": 2,
+    "frost": 0,
+    "holy": 0,
+    "parry": 0,
+    "physical": 0,
+    "poison": 3
+  },
+  "components": [
+    "armor",
+    "craftable",
+    "glyph",
+    "item",
+    "minimap_pixel",
+    "name",
+    "position_2d",
+    "value",
+    "weight"
+  ],
+  "craftable": {
+    "magic_slots": 3,
+    "resource_types": [
+      {
+        "amount": 3,
+        "id": 2
+      }
+    ],
+    "resources": null,
+    "time": 75,
+    "tools": [
+      14
+    ]
+  },
+  "description": "Máscara de couro que incute medo em criminosos, pois muitas vezes é a última coisa que veem no mundo mortal.",
+  "glyph": {
+    "frames": [
+      {
+        "color": [
+          255,
+          255,
+          255
+        ],
+        "delay": 0,
+        "index": 644
+      }
+    ],
+    "random_frame_start": false
+  },
+  "id": "390",
+  "item": {
+    "image": 228,
+    "type": 1
+  },
+  "minimap_pixel": [
+    122,
+    93,
+    57
+  ],
+  "name": "Máscara do Carrasco",
+  "value": 5200,
+  "weight": 1.5
+}

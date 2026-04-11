@@ -1,0 +1,54 @@
+{
+  "background": {
+    "color": [
+      44,
+      45,
+      41
+    ],
+    "noise": 4,
+    "noise_intensity": 3
+  },
+  "category_id": 1,
+  "components": [
+    "background",
+    "craftable",
+    "glyph",
+    "minimap_pixel",
+    "name"
+  ],
+  "craftable": {
+    "magic_slots": 0,
+    "resources": [
+      {
+        "amount": 1,
+        "id": "2540"
+      }
+    ],
+    "time": 10,
+    "tools": [
+      6
+    ]
+  },
+  "description": "Chão feito de bloco de obsidiana.",
+  "glyph": {
+    "frames": [
+      {
+        "color": [
+          255,
+          255,
+          255
+        ],
+        "delay": 0,
+        "index": 879
+      }
+    ],
+    "random_frame_start": false
+  },
+  "id": "541",
+  "minimap_pixel": [
+    51,
+    46,
+    63
+  ],
+  "name": "Chão de Obsidiana"
+}
