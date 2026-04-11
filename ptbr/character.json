@@ -1480,7 +1480,7 @@
     {
       "description": "None",
       "id": "18",
-      "name": "Ghoul",
+      "name": "Gul",
       "names": {
         "female": "npc/names/human_female.txt",
         "male": "npc/names/human_male.txt"
