@@ -11107,7 +11107,7 @@
     "Primavera",
     "Verão",
     "Outono",
-    "Inverno"
+    "Winter"
   ],
   "day_part": [
     "Meia-Noite",
@@ -11120,7 +11120,7 @@
     "Fim de Tarde",
     "Noite",
     "Noite Avançada",
-    "Madrugada",
+    "Noite",
     "Madrugada Tardia"
   ],
   "item_type": [
@@ -13623,10 +13623,10 @@
     "Frio",
     "Frio",
     "Fresco",
-    "Ameno",
-    "Morno",
+    "Suave",
     "Quente",
-    "Escaldante"
+    "Quente",
+    "Chamejante"
   ],
   "precipitations": [
     "Árido",

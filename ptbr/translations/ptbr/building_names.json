@@ -74,10 +74,10 @@
         "Poderoso",
         "Imponente",
         "Sentinela",
-        "Inabalável",
+        "Inflexível",
         "Fortificado",
         "Atento",
-        "Elevado"
+        "Alto"
       ],
       "suffixes": [
         "Olho de Águia",
@@ -245,7 +245,7 @@
         "Mortal",
         "Destrutivo",
         "Letal",
-        "Ótimo"
+        "Grande"
       ],
       "suffixes": [
         "Ferraria",
@@ -281,7 +281,7 @@
         "Versátil",
         "Quente",
         "Frágil",
-        "Ótimo",
+        "Grande",
         "Fantástico"
       ],
       "suffixes": [
@@ -313,7 +313,7 @@
         "Rápido",
         "Intrépido",
         "Olho de Águia",
-        "Mestre",
+        "Primoroso",
         "Rápido",
         "Rápido"
       ],
@@ -358,7 +358,7 @@
         "Padrão",
         "Atemporal",
         "Elegante",
-        "Mestre",
+        "Primoroso",
         "Luminoso",
         "Brilhante",
         "Macio",
@@ -368,7 +368,7 @@
         "Sedoso",
         "Estiloso",
         "Sofisticado",
-        "Grandioso",
+        "Grand",
         "Refinado",
         "Digno"
       ],
@@ -404,7 +404,7 @@
         "Grande",
         "Proeminente",
         "Lendário",
-        "Fabuloso",
+        "Fabulosos",
         "Magnífico",
         "Bom",
         "Grande",
@@ -525,7 +525,7 @@
         "Rancho",
         "Propriedade Rural",
         "Propriedade",
-        "Terra",
+        "Land",
         "Fazenda de Ovelhas"
       ]
     },
