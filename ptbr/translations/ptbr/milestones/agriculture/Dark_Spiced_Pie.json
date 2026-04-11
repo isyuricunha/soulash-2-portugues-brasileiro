@@ -1,0 +1,16 @@
+{
+  "id": "core_2_dark_pie",
+  "name": "Torta de Especiarias Escuras",
+  "requirements": {
+    "milestones": [],
+    "skill": 27
+  },
+  "rewards": [
+    {
+      "recipe": "core_2_Dark_Spiced_Pie"
+    }
+  ],
+  "skill_id": "core_2_agriculture",
+  "steps": [],
+  "steps_type": 0
+}

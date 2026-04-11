@@ -1,0 +1,77 @@
+{
+  "components": [
+    "glyph",
+    "glyph_top",
+    "height",
+    "minimap_pixel",
+    "name",
+    "position_2d",
+    "producer"
+  ],
+  "description": "Um pequeno trecho de flores amarelas.",
+  "glyph": {
+    "frames": [
+      {
+        "color": [
+          106,
+          106,
+          6
+        ],
+        "delay": 0,
+        "index": 76
+      }
+    ],
+    "random_frame_start": false,
+    "random_top": {
+      "colors": [
+        [
+          219,
+          194,
+          64
+        ],
+        [
+          219,
+          194,
+          64
+        ],
+        [
+          219,
+          194,
+          64
+        ]
+      ],
+      "count": 1,
+      "glyph_ids": [
+        1755,
+        2522,
+        2523
+      ],
+      "max_alpha": 200,
+      "max_range": 3,
+      "wind": true
+    }
+  },
+  "height": 0,
+  "id": "2541",
+  "minimap_pixel": [
+    171,
+    164,
+    0
+  ],
+  "name": "Dentes-de-leão",
+  "producer": {
+    "products": {
+      "6": [
+        {
+          "amount": [
+            1,
+            2
+          ],
+          "id": "core_2_Dandelion_Flower",
+          "percent_chance": 100
+        }
+      ]
+    },
+    "time": 10
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "components": [
+    "glyph",
+    "item",
+    "liquid_source",
+    "minimap_pixel",
+    "name",
+    "position_2d",
+    "producer",
+    "weight"
+  ],
+  "description": "Corpo morto de um arranca-carvalho.",
+  "glyph": {
+    "frames": [
+      {
+        "color": [
+          255,
+          255,
+          255
+        ],
+        "delay": 0,
+        "index": 3060
+      }
+    ],
+    "random_frame_start": false
+  },
+  "id": "core_2_Oak_Ripper_Corpse",
+  "item": {
+    "image": 1421,
+    "type": 18
+  },
+  "liquid_source": {
+    "limit": 100,
+    "type": 4
+  },
+  "minimap_pixel": [
+    0,
+    154,
+    20
+  ],
+  "name": "Cadáver de Arranca-Carvalho",
+  "producer": {
+    "products": {
+      "3": [
+        {
+          "amount": [
+            1,
+            1
+          ],
+          "id": "core_2_Oak_Heart",
+          "percent_chance": 100
+        }
+      ]
+    },
+    "time": 0
+  },
+  "weight": 90.0
+}

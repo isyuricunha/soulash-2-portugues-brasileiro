@@ -1,0 +1,70 @@
+{
+  "armor": {
+    "acid": 3,
+    "death": 3,
+    "electricity": 3,
+    "fire": 3,
+    "frost": 3,
+    "holy": 3,
+    "parry": 0,
+    "physical": 3,
+    "poison": 3
+  },
+  "components": [
+    "armor",
+    "craftable",
+    "glyph",
+    "item",
+    "minimap_pixel",
+    "name",
+    "position_2d",
+    "value",
+    "weight"
+  ],
+  "craftable": {
+    "magic_slots": 5,
+    "resource_types": [
+      {
+        "amount": 2,
+        "id": 1
+      },
+      {
+        "amount": 3,
+        "id": 8
+      }
+    ],
+    "resources": null,
+    "time": 60,
+    "tools": [
+      14
+    ]
+  },
+  "description": "Este anel é um sinal de poder ilimitado no Império.",
+  "glyph": {
+    "frames": [
+      {
+        "color": [
+          255,
+          255,
+          255
+        ],
+        "delay": 0,
+        "index": 416
+      }
+    ],
+    "random_frame_start": false
+  },
+  "id": "567",
+  "item": {
+    "image": 104,
+    "type": 12
+  },
+  "minimap_pixel": [
+    139,
+    223,
+    194
+  ],
+  "name": "Anel Real",
+  "value": 40000,
+  "weight": 0.10000000149011612
+}

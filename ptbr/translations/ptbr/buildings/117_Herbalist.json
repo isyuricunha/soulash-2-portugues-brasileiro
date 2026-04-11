@@ -1,0 +1,24 @@
+{
+  "id": "117",
+  "image": 200,
+  "name": "Herbalista",
+  "occupation_image": 13,
+  "occupation": "2373",
+  "produces": [
+    {
+      "entities": [
+        {
+          "daily": 1,
+          "id": "2003"
+        }
+      ],
+      "takes": []
+    }
+  ],
+  "race": "26",
+  "tier": 1,
+  "workers": [
+    1,
+    2
+  ]
+}

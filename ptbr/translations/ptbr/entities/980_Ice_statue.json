@@ -1,0 +1,77 @@
+{
+  "armor": {
+    "acid": 2,
+    "death": 2,
+    "electricity": 10,
+    "fire": -20,
+    "frost": 200,
+    "holy": 2,
+    "parry": 0,
+    "physical": -10,
+    "poison": 5,
+    "thorns": 0
+  },
+  "category_id": 7,
+  "components": [
+    "armor",
+    "block_light",
+    "collidable",
+    "craftable",
+    "glyph",
+    "health",
+    "minimap_pixel",
+    "name",
+    "position_2d",
+    "producer"
+  ],
+  "corpse": [],
+  "craftable": {
+    "magic_slots": 0,
+    "resources": [
+      {
+        "amount": 3,
+        "id": "2472"
+      }
+    ],
+    "time": 50,
+    "tools": []
+  },
+  "description": "Esta estátua parece ser um ser vivo congelado no gelo, sua pose mostrando um último momento de medo.",
+  "glyph": {
+    "frames": [
+      {
+        "color": [
+          255,
+          255,
+          255
+        ],
+        "delay": 0,
+        "index": 1000
+      }
+    ],
+    "random_frame_start": false
+  },
+  "health": 100,
+  "id": "980",
+  "minimap_pixel": [
+    113,
+    157,
+    188
+  ],
+  "name": "Estátua de Gelo",
+  "producer": {
+    "products": {
+      "core_2_deconstruct": [
+        {
+          "amount": [
+            0,
+            0
+          ],
+          "id": "-1",
+          "percent_chance": 0
+        }
+      ]
+    },
+    "time": 10
+  }
+}

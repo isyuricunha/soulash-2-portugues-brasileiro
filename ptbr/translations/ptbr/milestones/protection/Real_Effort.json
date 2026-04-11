@@ -1,0 +1,15 @@
+{
+  "id": "core_2_real_effort",
+  "name": "Esforço Real",
+  "requirements": {
+    "skill": 48
+  },
+  "rewards": [
+    {
+      "amplifier": "core_2_health_for_stamina"
+    }
+  ],
+  "skill_id": "core_2_protection",
+  "steps": [],
+  "steps_type": 0
+}

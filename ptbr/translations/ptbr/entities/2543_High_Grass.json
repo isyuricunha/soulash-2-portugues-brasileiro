@@ -1,0 +1,68 @@
+{
+  "components": [
+    "glyph",
+    "glyph_top",
+    "health",
+    "height",
+    "minimap_pixel",
+    "name",
+    "position_2d",
+    "producer"
+  ],
+  "corpse": [],
+  "description": "Um trecho de grama realmente alta.",
+  "glyph": {
+    "frames": [
+      {
+        "color": [
+          106,
+          106,
+          6
+        ],
+        "delay": 0,
+        "index": 1758
+      }
+    ],
+    "random_frame_start": false,
+    "random_top": {
+      "colors": [
+        [
+          106,
+          106,
+          6
+        ]
+      ],
+      "count": 1,
+      "glyph_ids": [
+        1759
+      ],
+      "max_alpha": 200,
+      "max_range": 3,
+      "wind": true
+    }
+  },
+  "health": 10,
+  "height": 0,
+  "id": "2543",
+  "minimap_pixel": [
+    106,
+    106,
+    6
+  ],
+  "name": "Grama Alta",
+  "producer": {
+    "products": {
+      "core_2_deconstruct": [
+        {
+          "amount": [
+            0,
+            0
+          ],
+          "id": "",
+          "percent_chance": 100
+        }
+      ]
+    },
+    "time": 5
+  }
+}

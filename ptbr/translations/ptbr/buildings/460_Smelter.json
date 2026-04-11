@@ -1,0 +1,98 @@
+{
+  "id": "460",
+  "image": 347,
+  "max": 2,
+  "name": "Fundidor",
+  "occupation_image": 32,
+  "occupation": "core_2_Skeleton_Smelter",
+  "produces": [
+    {
+      "entities": [
+        {
+          "daily": 1,
+          "id": "145"
+        }
+      ],
+      "takes": "craftable"
+    },
+    {
+      "entities": [
+        {
+          "daily": 1,
+          "id": "147"
+        }
+      ],
+      "takes": "craftable"
+    },
+    {
+      "entities": [
+        {
+          "daily": 1,
+          "id": "149"
+        }
+      ],
+      "takes": "craftable"
+    },
+    {
+      "entities": [
+        {
+          "daily": 1,
+          "id": "159"
+        }
+      ],
+      "takes": "craftable"
+    },
+    {
+      "entities": [
+        {
+          "daily": 1,
+          "id": "161"
+        }
+      ],
+      "takes": "craftable"
+    },
+    {
+      "entities": [
+        {
+          "daily": 1,
+          "id": "2114"
+        }
+      ],
+      "takes": "craftable"
+    },
+    {
+      "entities": [
+        {
+          "daily": 2,
+          "id": "148"
+        }
+      ],
+      "takes": [
+        {
+          "amount": 4,
+          "id": "2008"
+        }
+      ]
+    },
+    {
+      "entities": [
+        {
+          "daily": 2,
+          "id": "core_2_Chromium_Ingot"
+        }
+      ],
+      "takes": [
+        {
+          "amount": 4,
+          "id": "core_2_Chromium_Ore"
+        }
+      ]
+    }
+  ],
+  "race": "17",
+  "tier": 1,
+  "workers": [
+    1,
+    2
+  ]
+}

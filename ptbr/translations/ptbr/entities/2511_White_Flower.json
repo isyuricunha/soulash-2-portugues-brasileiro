@@ -1,0 +1,33 @@
+{
+  "components": [
+    "glyph",
+    "health",
+    "minimap_pixel",
+    "name",
+    "position_2d"
+  ],
+  "corpse": [],
+  "description": "Flores brancas bonitas.",
+  "glyph": {
+    "frames": [
+      {
+        "color": [
+          255,
+          255,
+          255
+        ],
+        "delay": 0,
+        "index": 1663
+      }
+    ],
+    "random_frame_start": false
+  },
+  "health": 1,
+  "id": "2511",
+  "minimap_pixel": [
+    202,
+    204,
+    201
+  ],
+  "name": "Flor Branca"
+}

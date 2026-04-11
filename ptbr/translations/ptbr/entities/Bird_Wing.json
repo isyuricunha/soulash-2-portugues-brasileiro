@@ -1,0 +1,73 @@
+{
+  "armor": {
+    "acid": 50,
+    "death": 50,
+    "electricity": 50,
+    "fire": 100,
+    "frost": 30,
+    "holy": 50,
+    "parry": 0,
+    "physical": 100,
+    "poison": 100,
+    "thorns": 0
+  },
+  "components": [
+    "armor",
+    "block_light",
+    "collidable",
+    "glyph",
+    "health",
+    "minimap_pixel",
+    "name",
+    "position_2d",
+    "producer"
+  ],
+  "corpse": [],
+  "description": "Ainda coberto de penas.",
+  "glyph": {
+    "frames": [
+      {
+        "color": [
+          255,
+          255,
+          255
+        ],
+        "delay": 0,
+        "index": 2785
+      },
+      {
+        "color": [
+          255,
+          255,
+          255
+        ],
+        "delay": 0,
+        "index": 2724
+      }
+    ],
+    "random_frame_start": false
+  },
+  "health": 50,
+  "id": "core_2_Bird_Wing",
+  "minimap_pixel": [
+    140,
+    114,
+    98
+  ],
+  "name": "Asa de Pássaro",
+  "producer": {
+    "products": {
+      "10": [
+        {
+          "amount": [
+            1,
+            3
+          ],
+          "id": "828",
+          "percent_chance": 100
+        }
+      ]
+    },
+    "time": 10
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "armor": {
+    "acid": 0,
+    "death": 0,
+    "electricity": 0,
+    "fire": 10,
+    "frost": 0,
+    "holy": 0,
+    "parry": 0,
+    "physical": 0,
+    "poison": 0,
+    "thorns": 0
+  },
+  "components": [
+    "armor",
+    "glyph",
+    "item",
+    "minimap_pixel",
+    "name",
+    "position_2d",
+    "weight"
+  ],
+  "description": "Um conjunto de pernas ósseas de um espectro de osso morto.",
+  "glyph": {
+    "frames": [
+      {
+        "color": [
+          255,
+          255,
+          255
+        ],
+        "delay": 0,
+        "index": 2829
+      }
+    ],
+    "random_frame_start": false
+  },
+  "id": "core_2_Bone_Wraith_Legs",
+  "item": {
+    "image": 1268,
+    "type": 33
+  },
+  "minimap_pixel": [
+    156,
+    160,
+    161
+  ],
+  "name": "Pernas de Espectro de Osso",
+  "weight": 1.5
+}

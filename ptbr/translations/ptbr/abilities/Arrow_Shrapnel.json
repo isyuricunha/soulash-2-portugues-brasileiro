@@ -1,0 +1,39 @@
+{
+  "animation": "core_2_Arrow_Shrapnels",
+  "cast_time": -1.0,
+  "cooldown": 7.0,
+  "cost": {
+    "ammo": 1,
+    "health": 0,
+    "stamina": 5
+  },
+  "description": "Sua flecha explode no impacto em múltiplos estilhaços pequenos que acertam tudo atrás do alvo em um cone causando ::damage de ::damage_type de dano.",
+  "duration": 0.0,
+  "effects": {
+    "aoe_break": 2,
+    "aoe_range": 4,
+    "aoe_shape": 1,
+    "damage": [
+      5,
+      8
+    ],
+    "damage_type": "physical",
+    "damage_weapon": 1.75
+  },
+  "id": "core_2_Arrow_Shrapnel",
+  "image": 725,
+  "name": "Estilhaços de Flecha",
+  "range": 7,
+  "requirements": {
+    "one_of": [
+      11,
+      12
+    ]
+  },
+  "skill": "core_2_hunting",
+  "slots": {
+    "offensive": 2,
+    "utility": 1
+  },
+  "target": "line_cone"
+}

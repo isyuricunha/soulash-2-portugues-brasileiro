@@ -1,0 +1,84 @@
+{
+  "animation_origin_self": false,
+  "camera_shake": {
+    "bounces": 2,
+    "duration": 0.10000000149011612,
+    "power": 4,
+    "type": 1
+  },
+  "chain_particles": true,
+  "id": "core_2_Mighty_Throw_impact",
+  "ignore_roof": false,
+  "name": "Impacto de Arremesso Poderoso",
+  "particles": [
+    {
+      "color": [
+        [
+          255,
+          255,
+          255,
+          255
+        ]
+      ],
+      "flags": 0,
+      "life": 20.0,
+      "tile_id": 1174
+    },
+    {
+      "color": [
+        [
+          255,
+          255,
+          255,
+          255
+        ]
+      ],
+      "flags": 0,
+      "life": 20.0,
+      "tile_id": 1175
+    },
+    {
+      "color": [
+        [
+          255,
+          255,
+          255,
+          255
+        ]
+      ],
+      "flags": 0,
+      "life": 30.0,
+      "tile_id": 1176
+    },
+    {
+      "color": [
+        [
+          255,
+          255,
+          255,
+          255
+        ]
+      ],
+      "flags": 0,
+      "life": 40.0,
+      "tile_id": 1177
+    },
+    {
+      "color": [
+        [
+          255,
+          255,
+          255,
+          255
+        ]
+      ],
+      "flags": 0,
+      "life": 40.0,
+      "tile_id": 1178
+    }
+  ],
+  "sound": {
+    "id": "67",
+    "volume": 100
+  }
+}

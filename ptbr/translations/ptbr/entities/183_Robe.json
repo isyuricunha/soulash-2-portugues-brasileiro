@@ -1,0 +1,66 @@
+{
+  "armor": {
+    "acid": 0,
+    "death": 2,
+    "electricity": 2,
+    "fire": 0,
+    "frost": 0,
+    "holy": 3,
+    "parry": 0,
+    "physical": 0,
+    "poison": 0
+  },
+  "components": [
+    "armor",
+    "craftable",
+    "glyph",
+    "item",
+    "minimap_pixel",
+    "name",
+    "position_2d",
+    "value",
+    "weight"
+  ],
+  "craftable": {
+    "magic_slots": 2,
+    "resource_types": [
+      {
+        "amount": 3,
+        "id": 4
+      }
+    ],
+    "resources": null,
+    "time": 60,
+    "tools": [
+      12
+    ]
+  },
+  "description": "Veste ricamente decorada feita para algum mago.",
+  "glyph": {
+    "frames": [
+      {
+        "color": [
+          255,
+          255,
+          255
+        ],
+        "delay": 0,
+        "index": 365
+      }
+    ],
+    "random_frame_start": false
+  },
+  "id": "183",
+  "item": {
+    "image": 85,
+    "type": 5
+  },
+  "minimap_pixel": [
+    129,
+    207,
+    224
+  ],
+  "name": "Túnica",
+  "value": 2000,
+  "weight": 0.699999988079071
+}

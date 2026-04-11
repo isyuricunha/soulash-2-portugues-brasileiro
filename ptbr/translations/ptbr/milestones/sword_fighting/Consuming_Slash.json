@@ -1,0 +1,16 @@
+{
+  "id": "core_2_consuming_slash",
+  "name": "Corte Consumidor",
+  "requirements": {
+    "milestones": [],
+    "skill": 44
+  },
+  "rewards": [
+    {
+      "ability": "179"
+    }
+  ],
+  "skill_id": "core_2_sword_fighting",
+  "steps": [],
+  "steps_type": 0
+}

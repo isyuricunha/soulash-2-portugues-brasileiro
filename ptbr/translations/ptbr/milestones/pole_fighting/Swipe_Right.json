@@ -1,0 +1,16 @@
+{
+  "id": "core_2_swipe_right",
+  "name": "Golpe à Direita",
+  "requirements": {
+    "milestones": [],
+    "skill": 36
+  },
+  "rewards": [
+    {
+      "ability": "core_2_Swipe"
+    }
+  ],
+  "skill_id": "core_2_pole_fighting",
+  "steps": [],
+  "steps_type": 0
+}

@@ -1,0 +1,21 @@
+{
+  "animation": "core_2_Poisonous_Weapon",
+  "cast_time": 0.5,
+  "cooldown": 0.0,
+  "cost": {
+    "health": 0,
+    "stamina": 0
+  },
+  "description": "Armas que você segura são encantadas com poder ::damage_type aumentando o dano em ::damage_bonus por ::duration turnos.",
+  "duration": 10.0,
+  "effects": {
+    "damage_bonus": 3,
+    "damage_type": "poison"
+  },
+  "id": "core_2_Poison_Blade",
+  "image": 24,
+  "name": "Lâmina de Veneno",
+  "range": 0,
+  "skill": "",
+  "target": "self"
+}

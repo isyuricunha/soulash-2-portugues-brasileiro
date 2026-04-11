@@ -1,0 +1,102 @@
+{
+  "components": [
+    "craftable",
+    "glyph",
+    "item",
+    "minimap_pixel",
+    "name",
+    "position_2d",
+    "statistics",
+    "value",
+    "weapon",
+    "weight"
+  ],
+  "craftable": {
+    "backgrounds": [],
+    "biomes": [],
+    "magic_slots": 3,
+    "resource_types": [
+      {
+        "amount": 2,
+        "id": 3
+      }
+    ],
+    "resources": [
+      {
+        "amount": 1,
+        "id": "848"
+      }
+    ],
+    "time": 60,
+    "tools": [
+      14
+    ]
+  },
+  "description": "O cristal é hipnotizante.",
+  "glyph": {
+    "frames": [
+      {
+        "color": [
+          255,
+          255,
+          255
+        ],
+        "delay": 0,
+        "index": 432
+      }
+    ],
+    "random_frame_start": false
+  },
+  "id": "381",
+  "item": {
+    "image": 243,
+    "type": 13
+  },
+  "minimap_pixel": [
+    157,
+    152,
+    202
+  ],
+  "name": "Cajado de Cristal",
+  "statistics": {
+    "dexterity": [
+      0,
+      0
+    ],
+    "endurance": [
+      0,
+      0
+    ],
+    "intelligence": [
+      0,
+      0
+    ],
+    "magic_power": 2,
+    "strength": [
+      0,
+      0
+    ],
+    "willpower": [
+      0,
+      0
+    ]
+  },
+  "value": 6000,
+  "weapon": {
+    "attack_speed": 1.5,
+    "critical_hit": 0.0,
+    "damage": [
+      {
+        "dmg_max": 14,
+        "dmg_min": 9,
+        "dmg_type": "frost"
+      }
+    ],
+    "hands": 2,
+    "hit_bonus": 2,
+    "parry_bonus": 4,
+    "range": 1,
+    "type": 4
+  },
+  "weight": 2.0
+}

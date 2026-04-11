@@ -1,0 +1,72 @@
+{
+  "components": [
+    "craftable",
+    "food",
+    "glyph",
+    "item",
+    "minimap_pixel",
+    "name",
+    "position_2d",
+    "stackable",
+    "value",
+    "weight"
+  ],
+  "craftable": {
+    "backgrounds": [],
+    "biomes": [],
+    "magic_slots": 0,
+    "resources": [
+      {
+        "amount": 1,
+        "id": "812"
+      },
+      {
+        "amount": 1,
+        "id": "2168"
+      },
+      {
+        "amount": 1,
+        "id": "811"
+      },
+      {
+        "amount": 1,
+        "id": "2365"
+      }
+    ],
+    "time": 20,
+    "tools": []
+  },
+  "description": "Prato simples feito com várias frutas.",
+  "food": {
+    "nutrition": 75,
+    "on_eat": "",
+    "raw": false
+  },
+  "glyph": {
+    "frames": [
+      {
+        "color": [
+          255,
+          255,
+          255
+        ],
+        "delay": 0,
+        "index": 2031
+      }
+    ],
+    "random_frame_start": false
+  },
+  "id": "3033",
+  "item": {
+    "image": 813,
+    "type": 20
+  },
+  "minimap_pixel": [
+    157,
+    78,
+    54
+  ],
+  "name": "Salada de Frutas",
+  "value": 1000,
+  "weight": 0.10000000149011612
+}

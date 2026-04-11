@@ -1,0 +1,82 @@
+{
+  "components": [
+    "craftable",
+    "glyph",
+    "item",
+    "minimap_pixel",
+    "name",
+    "position_2d",
+    "value",
+    "weapon",
+    "weight"
+  ],
+  "craftable": {
+    "backgrounds": [],
+    "biomes": [],
+    "magic_slots": 4,
+    "resource_types": [
+      {
+        "amount": 2,
+        "id": 3
+      },
+      {
+        "amount": 1,
+        "id": 1
+      }
+    ],
+    "resources": [
+      {
+        "amount": 1,
+        "id": "147"
+      }
+    ],
+    "time": 100,
+    "tools": [
+      14
+    ]
+  },
+  "description": "A lâmina desta lança é pesada, mas equilibrada por um espigão de metal na extremidade.",
+  "glyph": {
+    "frames": [
+      {
+        "color": [
+          255,
+          255,
+          255
+        ],
+        "delay": 0,
+        "index": 2244
+      }
+    ],
+    "random_frame_start": false
+  },
+  "id": "core_2_Dory",
+  "item": {
+    "image": 935,
+    "type": 13
+  },
+  "minimap_pixel": [
+    225,
+    39,
+    22
+  ],
+  "name": "Dory",
+  "value": 5500,
+  "weapon": {
+    "attack_speed": 1.0,
+    "critical_hit": 0.0,
+    "damage": [
+      {
+        "dmg_max": 12,
+        "dmg_min": 8,
+        "dmg_type": "physical"
+      }
+    ],
+    "hands": 1,
+    "hit_bonus": 4,
+    "parry_bonus": 2,
+    "range": 1,
+    "type": 4
+  },
+  "weight": 2.5
+}

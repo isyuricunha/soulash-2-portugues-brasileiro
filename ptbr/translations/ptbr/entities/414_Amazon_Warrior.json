@@ -1,0 +1,153 @@
+{
+  "ability_user": [
+    "108"
+  ],
+  "artificial_intelligence": {
+    "allies": [
+      "1"
+    ],
+    "allow_production": [],
+    "behaviors": [],
+    "enemies": [
+      "5"
+    ]
+  },
+  "components": [
+    "ability_user",
+    "actor",
+    "artificial_intelligence",
+    "collidable",
+    "dialogues",
+    "equipment",
+    "experience_gainer",
+    "fighter",
+    "glyph",
+    "health",
+    "humanoid",
+    "minimap_pixel",
+    "moveable",
+    "name",
+    "position_2d",
+    "sight",
+    "stamina",
+    "statistics",
+    "tags"
+  ],
+  "corpse": "25",
+  "description": "",
+  "dialogues": [
+    "56",
+    "57"
+  ],
+  "equipment": {
+    "backpack": [
+      {
+        "chance": 0.75,
+        "id": "100",
+        "name": "Dardo",
+        "stack": 1
+      },
+      {
+        "chance": 0.75,
+        "id": "100",
+        "name": "Dardo",
+        "stack": 1
+      },
+      {
+        "chance": 1.0,
+        "id": "77",
+        "name": "Espada Curta",
+        "stack": 1
+      }
+    ],
+    "legs_cloth": [
+      {
+        "chance": 1.0,
+        "id": "2176",
+        "name": "Tanga",
+        "stack": 1
+      }
+    ],
+    "torso_armor": [
+      {
+        "chance": 0.05000000074505806,
+        "id": "396",
+        "name": "Sutiã de Metal",
+        "stack": 1
+      }
+    ]
+  },
+  "experience_gainer": {
+    "exp": 0,
+    "level": 20
+  },
+  "fighter": {
+    "attackNames": null
+  },
+  "gender": "female",
+  "glyph": {
+    "frames": [
+      {
+        "color": [
+          255,
+          255,
+          255
+        ],
+        "delay": 0,
+        "index": 471
+      }
+    ],
+    "random_frame_start": false
+  },
+  "health": 120,
+  "humanoid": {
+    "race": ""
+  },
+  "id": "414",
+  "minimap_pixel": [
+    145,
+    185,
+    46
+  ],
+  "moveable": {
+    "speed": 1.0
+  },
+  "name": "Guerreira Amazona",
+  "sight": {
+    "ignore_infra_penalty": false,
+    "infravision": false,
+    "range": 10,
+    "threesixty": false
+  },
+  "stamina": {
+    "fatigue": 100,
+    "stamina": 100,
+    "stamina_regen": 0.0
+  },
+  "statistics": {
+    "dexterity": [
+      25,
+      30
+    ],
+    "endurance": [
+      15,
+      20
+    ],
+    "intelligence": [
+      8,
+      10
+    ],
+    "strength": [
+      10,
+      16
+    ],
+    "willpower": [
+      18,
+      20
+    ]
+  },
+  "tags": [
+    "1",
+    "9"
+  ]
+}

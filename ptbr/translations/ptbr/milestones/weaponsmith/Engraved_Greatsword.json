@@ -1,0 +1,16 @@
+{
+  "id": "core_2_engraved_greatsword",
+  "name": "Espada Longa Gravada",
+  "requirements": {
+    "milestones": [],
+    "skill": 9
+  },
+  "rewards": [
+    {
+      "recipe": "core_2_Engraved_Greatsword"
+    }
+  ],
+  "skill_id": "core_2_weaponsmith",
+  "steps": [],
+  "steps_type": 0
+}

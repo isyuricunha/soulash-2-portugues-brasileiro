@@ -1,0 +1,266 @@
+{
+  "ability_user": [
+    "138"
+  ],
+  "artificial_intelligence": {
+    "allies": [],
+    "allow_production": [],
+    "behaviors": [],
+    "enemies": [
+      "5"
+    ]
+  },
+  "chained": {
+    "map": [
+      [
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "",
+        "2081",
+        "RESERVED_core_2_leader_tile",
+        "",
+        ""
+      ],
+      [
+        "",
+        "",
+        "1067",
+        "2005",
+        ""
+      ],
+      [
+        "",
+        "",
+        "",
+        "",
+        ""
+      ]
+    ],
+    "snake": false
+  },
+  "components": [
+    "ability_user",
+    "actor",
+    "artificial_intelligence",
+    "chained",
+    "collidable",
+    "dialogues",
+    "experience_gainer",
+    "fighter",
+    "glyph",
+    "health",
+    "minimap_pixel",
+    "moveable",
+    "name",
+    "position_2d",
+    "sight",
+    "skills",
+    "stamina",
+    "statistics",
+    "tags"
+  ],
+  "corpse": "2760",
+  "description": "Teste para componente encadeado.",
+  "dialogues": [],
+  "experience_gainer": {
+    "exp": 0,
+    "level": 17
+  },
+  "fighter": {
+    "attackNames": [
+      "Bite",
+      "Tongue whip"
+    ]
+  },
+  "glyph": {
+    "frames": [
+      {
+        "color": [
+          255,
+          255,
+          255
+        ],
+        "delay": 2000,
+        "index": 36
+      }
+    ],
+    "random_frame_start": true
+  },
+  "health": 160,
+  "id": "core_2_Test_Chain",
+  "minimap_pixel": [
+    187,
+    197,
+    94
+  ],
+  "moveable": {
+    "speed": 0.8999999761581421
+  },
+  "name": "Teste de Cadeia",
+  "sight": {
+    "ignore_infra_penalty": false,
+    "infravision": false,
+    "range": 7,
+    "threesixty": false
+  },
+  "skills": {
+    "milestones": [
+      "core_2_Aligator_Teeth_Necklace",
+      "core_2_Armored_Legs",
+      "core_2_Armored_Torso",
+      "core_2_Axe_Hand",
+      "core_2_Bare_Bow",
+      "core_2_Bigger_Drill",
+      "core_2_Bladed_Hand",
+      "core_2_Bog_Staff",
+      "core_2_Box_Torso",
+      "core_2_Candle_Head",
+      "core_2_Cracking_Spear",
+      "core_2_Desecrated_Torso",
+      "core_2_Druid_Rod",
+      "core_2_Fire_Rod",
+      "core_2_Flat_Bow",
+      "core_2_Fur_Vest",
+      "core_2_FurnanceTorso",
+      "core_2_Gown",
+      "core_2_Ground_Jelly_Seedling",
+      "core_2_Hammer_Hand",
+      "core_2_Helmet_Head",
+      "core_2_Ice_Rod",
+      "core_2_Leather_Vest",
+      "core_2_Mace_Hand",
+      "core_2_Mush_Bow",
+      "core_2_Mycelium_Pins",
+      "core_2_Mycelium_Thread",
+      "core_2_Piercing_Shot",
+      "core_2_Quick_Legs",
+      "core_2_Reinforced_Legs",
+      "core_2_Shield_Hand",
+      "core_2_Skull_Rod",
+      "core_2_Spear_Hand",
+      "core_2_Spiked_Head",
+      "core_2_Saw_Hand",
+      "core_2_Spiked_Torso",
+      "core_2_Spore_Bomb",
+      "core_2_Spore_Lamp",
+      "core_2_Throwing_Club",
+      "core_2_Toothed_Spear",
+      "core_2_Tunic",
+      "core_2_adamantine_ingot",
+      "core_2_agave_seedling",
+      "core_2_Poncho",
+      "core_2_Sami_Boots",
+      "core_2_Spiked_Legs",
+      "core_2_Toga",
+      "core_2_acacia_sapling",
+      "core_2_adamantine_ore",
+      "core_2_alchemy_tables",
+      "core_2_all_seeing",
+      "core_2_amber_spider",
+      "core_2_analyze_weakness",
+      "core_2_ancient_cloth",
+      "core_2_angon",
+      "core_2_Storm_Rod",
+      "core_2_alexandrite",
+      "core_2_analyze_speed",
+      "core_2_ancient_shield",
+      "core_2_animate_trees",
+      "core_2_antidote_vial",
+      "core_2_animal_companion_2",
+      "core_2_altars",
+      "core_2_anatomy",
+      "core_2_apple_sapling",
+      "core_2_area_increase",
+      "core_2_Torch_Hand",
+      "core_2_apron",
+      "core_2_armageddon",
+      "core_2_armet_helmet",
+      "core_2_armguards",
+      "core_2_arrow_shrapnels",
+      "core_2_aspen_sapling",
+      "core_2_assasin_blade",
+      "core_2_aura_of_petals",
+      "core_2_back_and_forth",
+      "core_2_backpack",
+      "core_2_alchemic_fire",
+      "core_2_armor_stand",
+      "core_2_attack_barrage",
+      "core_2_awl_pike",
+      "core_2_backstab",
+      "core_2_baked_fish",
+      "core_2_ball_club",
+      "core_2_bamboo_sapling",
+      "core_2_bandana",
+      "core_2_barbarian_axe"
+    ],
+    "skills": [
+      "core_2_adventuring",
+      "core_2_agriculture",
+      "core_2_alchemy",
+      "core_2_armorsmith",
+      "core_2_athletics",
+      "core_2_axe_fighting",
+      "core_2_construction",
+      "core_2_cryomancy",
+      "core_2_divine_fists",
+      "core_2_floromancy",
+      "core_2_hunting",
+      "core_2_imbuing",
+      "core_2_carpentry",
+      "core_2_leadership",
+      "core_2_leatherworking",
+      "core_2_mace_fighting",
+      "core_2_pole_fighting",
+      "core_2_protection",
+      "core_2_stormthrowing",
+      "core_2_tailoring",
+      "core_2_pyromancy",
+      "core_2_sword_fighting",
+      "core_2_thievery",
+      "core_2_weaponsmith",
+      "core_2_necromancy"
+    ]
+  },
+  "stamina": {
+    "fatigue": 100,
+    "stamina": 100,
+    "stamina_regen": 0.0
+  },
+  "statistics": {
+    "dexterity": [
+      12,
+      16
+    ],
+    "endurance": [
+      16,
+      22
+    ],
+    "intelligence": [
+      8,
+      10
+    ],
+    "strength": [
+      24,
+      30
+    ],
+    "willpower": [
+      8,
+      10
+    ]
+  },
+  "tags": [
+    "9"
+  ]
+}

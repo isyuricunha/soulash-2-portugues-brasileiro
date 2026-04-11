@@ -1,0 +1,19 @@
+{
+  "id": "core_2_furnace",
+  "name": "Fornalha",
+  "requirements": {
+    "milestones": [],
+    "skill": 9
+  },
+  "rewards": [
+    {
+      "recipe": "2256"
+    },
+    {
+      "recipe": "143"
+    }
+  ],
+  "skill_id": "core_2_construction",
+  "steps": [],
+  "steps_type": 0
+}

@@ -1,0 +1,46 @@
+{
+  "components": [
+    "food",
+    "glyph",
+    "item",
+    "minimap_pixel",
+    "name",
+    "position_2d",
+    "stackable",
+    "value",
+    "weight"
+  ],
+  "description": "Alimento básico usado entre sociedades humanas. Pode ser moído em farinha.",
+  "food": {
+    "nutrition": 5,
+    "on_eat": "",
+    "raw": true
+  },
+  "glyph": {
+    "frames": [
+      {
+        "color": [
+          255,
+          255,
+          255
+        ],
+        "delay": 0,
+        "index": 401
+      }
+    ],
+    "random_frame_start": false
+  },
+  "id": "800",
+  "item": {
+    "image": 199,
+    "type": 24
+  },
+  "minimap_pixel": [
+    205,
+    168,
+    110
+  ],
+  "name": "Grão de Trigo",
+  "value": 100,
+  "weight": 0.019999999552965164
+}

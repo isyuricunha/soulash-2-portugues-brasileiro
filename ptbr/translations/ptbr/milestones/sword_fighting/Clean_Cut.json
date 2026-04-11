@@ -1,0 +1,16 @@
+{
+  "id": "core_2_clean_cut",
+  "name": "Corte Limpo",
+  "requirements": {
+    "milestones": [],
+    "skill": 1
+  },
+  "rewards": [
+    {
+      "ability": "108"
+    }
+  ],
+  "skill_id": "core_2_sword_fighting",
+  "steps": [],
+  "steps_type": 0
+}

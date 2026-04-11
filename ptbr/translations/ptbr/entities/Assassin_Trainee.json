@@ -1,0 +1,147 @@
+{
+  "artificial_intelligence": {
+    "allies": [],
+    "allow_production": [],
+    "behaviors": [],
+    "enemies": [
+      "5"
+    ]
+  },
+  "components": [
+    "actor",
+    "artificial_intelligence",
+    "collidable",
+    "dialogues",
+    "equipment",
+    "experience_gainer",
+    "fighter",
+    "glyph",
+    "health",
+    "humanoid",
+    "minimap_pixel",
+    "moveable",
+    "name",
+    "position_2d",
+    "sight",
+    "stamina",
+    "statistics",
+    "tags"
+  ],
+  "corpse": "25",
+  "description": "",
+  "dialogues": [
+    "934",
+    "935"
+  ],
+  "equipment": {
+    "backpack": [
+      {
+        "chance": 0.5,
+        "id": "core_2_Frog_Poison",
+        "name": "Veneno de Sapo",
+        "stack": 1
+      }
+    ],
+    "legs_cloth": [
+      {
+        "chance": 1.0,
+        "id": "298",
+        "name": "Calças",
+        "stack": 1
+      }
+    ],
+    "right_hand": [
+      {
+        "chance": 0.33000001311302185,
+        "id": "71",
+        "name": "Adaga",
+        "stack": 1
+      },
+      {
+        "chance": 0.33000001311302185,
+        "id": "100",
+        "name": "Dardo",
+        "stack": 10
+      },
+      {
+        "chance": 0.33000001311302185,
+        "id": "77",
+        "name": "Espada Curta",
+        "stack": 1
+      }
+    ]
+  },
+  "experience_gainer": {
+    "exp": 0,
+    "level": 10
+  },
+  "fighter": {
+    "attackNames": null
+  },
+  "glyph": {
+    "frames": [
+      {
+        "color": [
+          224,
+          172,
+          105
+        ],
+        "delay": 0,
+        "index": 159
+      }
+    ],
+    "random_frame_start": false
+  },
+  "health": 60,
+  "humanoid": {
+    "race": "0"
+  },
+  "id": "core_2_Assassin_Trainee",
+  "minimap_pixel": [
+    224,
+    172,
+    105
+  ],
+  "moveable": {
+    "speed": 1.0
+  },
+  "name": "Assassino em Treinamento",
+  "sight": {
+    "ignore_infra_penalty": false,
+    "infravision": false,
+    "range": 7,
+    "threesixty": false
+  },
+  "stamina": {
+    "fatigue": 100,
+    "stamina": 100,
+    "stamina_regen": 0.0
+  },
+  "statistics": {
+    "dexterity": [
+      11,
+      16
+    ],
+    "endurance": [
+      8,
+      10
+    ],
+    "intelligence": [
+      8,
+      10
+    ],
+    "sneaking": 2,
+    "strength": [
+      11,
+      16
+    ],
+    "willpower": [
+      8,
+      10
+    ]
+  },
+  "tags": [
+    "1",
+    "9"
+  ]
+}

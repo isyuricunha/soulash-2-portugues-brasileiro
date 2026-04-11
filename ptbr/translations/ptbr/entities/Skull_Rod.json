@@ -1,0 +1,78 @@
+{
+  "components": [
+    "craftable",
+    "glyph",
+    "item",
+    "minimap_pixel",
+    "name",
+    "position_2d",
+    "value",
+    "weapon",
+    "weight"
+  ],
+  "craftable": {
+    "backgrounds": [],
+    "biomes": [],
+    "magic_slots": 3,
+    "resource_types": [
+      {
+        "amount": 2,
+        "id": 1
+      }
+    ],
+    "resources": [
+      {
+        "amount": 1,
+        "id": "2475"
+      }
+    ],
+    "time": 125,
+    "tools": [
+      15
+    ]
+  },
+  "description": "Uma haste curta com uma caveira no topo.",
+  "glyph": {
+    "frames": [
+      {
+        "color": [
+          255,
+          255,
+          255
+        ],
+        "delay": 0,
+        "index": 2666
+      }
+    ],
+    "random_frame_start": false
+  },
+  "id": "core_2_Skull_Rod",
+  "item": {
+    "image": 1188,
+    "type": 13
+  },
+  "minimap_pixel": [
+    171,
+    102,
+    57
+  ],
+  "name": "Bastão de Crânio",
+  "value": 5500,
+  "weapon": {
+    "attack_speed": 1.0,
+    "critical_hit": 0.0,
+    "damage": [
+      {
+        "dmg_max": 13,
+        "dmg_min": 7,
+        "dmg_type": "death"
+      }
+    ],
+    "hands": 1,
+    "hit_bonus": 3,
+    "parry_bonus": 1,
+    "range": 1,
+    "type": 4
+  },
+  "weight": 1.0
+}

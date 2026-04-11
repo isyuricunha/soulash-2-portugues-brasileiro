@@ -1,0 +1,16 @@
+{
+  "id": "core_2_decorated_bracers",
+  "name": "Braçadeiras Decoradas",
+  "requirements": {
+    "milestones": [],
+    "skill": 25
+  },
+  "rewards": [
+    {
+      "recipe": "2360"
+    }
+  ],
+  "skill_id": "core_2_armorsmith",
+  "steps": [],
+  "steps_type": 0
+}

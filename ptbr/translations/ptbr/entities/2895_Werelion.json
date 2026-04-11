@@ -1,0 +1,156 @@
+{
+  "ability_user": [
+    "23"
+  ],
+  "armor": {
+    "acid": 5,
+    "death": 0,
+    "electricity": 3,
+    "fire": 0,
+    "frost": 3,
+    "holy": 0,
+    "parry": 0,
+    "physical": 5,
+    "poison": 20,
+    "thorns": 0
+  },
+  "artificial_intelligence": {
+    "allies": [],
+    "allow_production": [],
+    "behaviors": [],
+    "enemies": [
+      "5"
+    ]
+  },
+  "components": [
+    "ability_user",
+    "actor",
+    "armor",
+    "artificial_intelligence",
+    "collidable",
+    "dialogues",
+    "equipment",
+    "experience_gainer",
+    "fighter",
+    "glyph",
+    "health",
+    "minimap_pixel",
+    "moveable",
+    "name",
+    "position_2d",
+    "sight",
+    "stamina",
+    "statistics",
+    "tags",
+    "weapon"
+  ],
+  "corpse": "2758",
+  "description": "Um metamorfo natural.",
+  "dialogues": [
+    "630",
+    "631",
+    "897"
+  ],
+  "equipment": {
+    "disabled_slots": [
+      1,
+      0,
+      4,
+      9,
+      10,
+      11,
+      15,
+      16,
+      17,
+      18
+    ]
+  },
+  "experience_gainer": {
+    "exp": 0,
+    "level": 30
+  },
+  "fighter": {
+    "attackNames": [
+      "Bite",
+      "Scratch"
+    ]
+  },
+  "glyph": {
+    "frames": [
+      {
+        "color": [
+          255,
+          255,
+          255
+        ],
+        "delay": 0,
+        "index": 90
+      }
+    ],
+    "random_frame_start": false
+  },
+  "health": 500,
+  "id": "2895",
+  "minimap_pixel": [
+    115,
+    125,
+    132
+  ],
+  "moveable": {
+    "speed": 0.8999999761581421
+  },
+  "name": "Leão Metamorfo",
+  "sight": {
+    "ignore_infra_penalty": false,
+    "infravision": true,
+    "range": 12,
+    "threesixty": false
+  },
+  "stamina": {
+    "fatigue": 100,
+    "stamina": 100,
+    "stamina_regen": 0.0
+  },
+  "statistics": {
+    "dexterity": [
+      18,
+      24
+    ],
+    "endurance": [
+      30,
+      36
+    ],
+    "intelligence": [
+      14,
+      17
+    ],
+    "strength": [
+      40,
+      44
+    ],
+    "willpower": [
+      50,
+      60
+    ]
+  },
+  "tags": [
+    "2",
+    "9"
+  ],
+  "weapon": {
+    "attack_speed": 1.0,
+    "critical_hit": 0.0,
+    "damage": [
+      {
+        "dmg_max": 4,
+        "dmg_min": 2,
+        "dmg_type": "physical"
+      }
+    ],
+    "hands": 1,
+    "hit_bonus": 1,
+    "parry_bonus": 0,
+    "range": 1,
+    "type": 1
+  }
+}

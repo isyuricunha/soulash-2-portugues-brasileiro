@@ -1,0 +1,137 @@
+{
+  "ability_user": [
+    "142"
+  ],
+  "armor": {
+    "acid": 0,
+    "death": 0,
+    "electricity": 0,
+    "fire": 30,
+    "frost": -20,
+    "holy": 0,
+    "parry": 0,
+    "physical": 5,
+    "poison": 0,
+    "thorns": 0
+  },
+  "artificial_intelligence": {
+    "allies": [
+      "2"
+    ],
+    "allow_production": [],
+    "behaviors": [],
+    "enemies": [
+      "5"
+    ]
+  },
+  "components": [
+    "ability_user",
+    "actor",
+    "armor",
+    "artificial_intelligence",
+    "collidable",
+    "dialogues",
+    "experience_gainer",
+    "fighter",
+    "glyph",
+    "health",
+    "minimap_pixel",
+    "moveable",
+    "name",
+    "position_2d",
+    "sight",
+    "stamina",
+    "statistics",
+    "tags",
+    "weapon"
+  ],
+  "corpse": [],
+  "description": "Uma chama flamejante que pode queimar você se chegar muito perto.",
+  "dialogues": [],
+  "experience_gainer": {
+    "exp": 0,
+    "level": 20
+  },
+  "fighter": {
+    "attackNames": [
+      "Burn"
+    ]
+  },
+  "glyph": {
+    "frames": [
+      {
+        "color": [
+          255,
+          255,
+          255
+        ],
+        "delay": 0,
+        "index": 186
+      }
+    ],
+    "random_frame_start": false
+  },
+  "health": 90,
+  "id": "2634",
+  "minimap_pixel": [
+    203,
+    113,
+    25
+  ],
+  "moveable": {
+    "speed": 0.699999988079071
+  },
+  "name": "Chama Viva",
+  "sight": {
+    "ignore_infra_penalty": false,
+    "infravision": true,
+    "range": 8,
+    "threesixty": false
+  },
+  "stamina": {
+    "fatigue": 100,
+    "stamina": 100,
+    "stamina_regen": 0.0
+  },
+  "statistics": {
+    "dexterity": [
+      29,
+      33
+    ],
+    "endurance": [
+      13,
+      16
+    ],
+    "intelligence": [
+      20,
+      24
+    ],
+    "strength": [
+      12,
+      15
+    ],
+    "willpower": [
+      17,
+      20
+    ]
+  },
+  "tags": [
+    "3"
+  ],
+  "weapon": {
+    "attack_speed": 1.0,
+    "critical_hit": 0.0,
+    "damage": [
+      {
+        "dmg_max": 6,
+        "dmg_min": 2,
+        "dmg_type": "fire"
+      }
+    ],
+    "hands": 1,
+    "hit_bonus": 0,
+    "parry_bonus": 0,
+    "range": 6,
+    "type": 5
+  }
+}

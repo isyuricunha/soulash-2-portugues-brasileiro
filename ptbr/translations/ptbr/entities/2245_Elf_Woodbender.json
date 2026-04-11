@@ -1,0 +1,155 @@
+{
+  "artificial_intelligence": {
+    "allies": [
+      "7"
+    ],
+    "allow_production": [],
+    "behaviors": [],
+    "enemies": []
+  },
+  "components": [
+    "actor",
+    "artificial_intelligence",
+    "collidable",
+    "dialogues",
+    "equipment",
+    "experience_gainer",
+    "fighter",
+    "glyph",
+    "health",
+    "humanoid",
+    "minimap_pixel",
+    "moveable",
+    "name",
+    "persona",
+    "position_2d",
+    "sight",
+    "skills",
+    "stamina",
+    "statistics",
+    "tags"
+  ],
+  "corpse": "322",
+  "description": "",
+  "dialogues": [
+    "414",
+    "415"
+  ],
+  "equipment": {
+    "legs_cloth": [
+      {
+        "chance": 1.0,
+        "id": "323",
+        "name": "Collant",
+        "stack": 1
+      }
+    ],
+    "torso_cloth": [
+      {
+        "chance": 1.0,
+        "id": "184",
+        "name": "Camisa",
+        "stack": 1
+      }
+    ]
+  },
+  "experience_gainer": {
+    "exp": 5,
+    "level": 1
+  },
+  "fighter": {
+    "attackNames": null
+  },
+  "glyph": {
+    "frames": [
+      {
+        "color": [
+          255,
+          255,
+          255
+        ],
+        "delay": 0,
+        "index": 17
+      }
+    ],
+    "random_frame_start": false
+  },
+  "health": 95,
+  "humanoid": {
+    "race": "2"
+  },
+  "id": "2245",
+  "minimap_pixel": [
+    95,
+    105,
+    15
+  ],
+  "moveable": {
+    "speed": 1.100000023841858
+  },
+  "name": "Elfo Moldador de Madeira",
+  "persona": {
+    "occupation": "Curvador de Madeira"
+  },
+  "sight": {
+    "ignore_infra_penalty": false,
+    "infravision": false,
+    "range": 12,
+    "threesixty": false
+  },
+  "skills": {
+    "milestones": [
+      "core_2_elven_armor",
+      "core_2_elven_bow",
+      "core_2_elven_door",
+      "core_2_elven_ring",
+      "core_2_firewood",
+      "core_2_spinning_wheel",
+      "core_2_thorn_gate",
+      "core_2_wooden_armguards",
+      "core_2_wooden_armor",
+      "core_2_wooden_barrel",
+      "core_2_wooden_buckler",
+      "core_2_wooden_greaves",
+      "core_2_wooden_ring",
+      "core_2_wooden_stairs",
+      "core_2_wooden_sword",
+      "core_2_woodbending"
+    ],
+    "skills": [
+      "core_2_carpentry",
+      "core_2_floromancy"
+    ]
+  },
+  "stamina": {
+    "fatigue": 100,
+    "stamina": 100,
+    "stamina_regen": 0.0
+  },
+  "statistics": {
+    "dexterity": [
+      14,
+      18
+    ],
+    "endurance": [
+      10,
+      14
+    ],
+    "intelligence": [
+      10,
+      14
+    ],
+    "strength": [
+      20,
+      24
+    ],
+    "willpower": [
+      13,
+      17
+    ]
+  },
+  "tags": [
+    "7",
+    "9"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "id": "core_2_blood_is_life",
+  "name": "Sangue é Vida",
+  "requirements": {
+    "milestones": [],
+    "skill": 48
+  },
+  "rewards": [
+    {
+      "amplifier": "core_2_blood_is_life"
+    }
+  ],
+  "skill_id": "core_2_sword_fighting",
+  "steps": [],
+  "steps_type": 0
+}

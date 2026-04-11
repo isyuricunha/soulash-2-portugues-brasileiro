@@ -1,0 +1,33 @@
+{
+  "components": [
+    "glyph",
+    "health",
+    "minimap_pixel",
+    "name",
+    "position_2d"
+  ],
+  "corpse": [],
+  "description": "Flores amarelas bonitas.",
+  "glyph": {
+    "frames": [
+      {
+        "color": [
+          255,
+          255,
+          255
+        ],
+        "delay": 0,
+        "index": 133
+      }
+    ],
+    "random_frame_start": false
+  },
+  "health": 1,
+  "id": "270",
+  "minimap_pixel": [
+    25,
+    39,
+    13
+  ],
+  "name": "Flor Amarela"
+}

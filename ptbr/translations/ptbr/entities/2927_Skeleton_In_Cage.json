@@ -1,0 +1,65 @@
+{
+  "category_id": 7,
+  "components": [
+    "craftable",
+    "glyph",
+    "minimap_pixel",
+    "name",
+    "position_2d",
+    "stackable"
+  ],
+  "craftable": {
+    "backgrounds": [],
+    "biomes": [],
+    "magic_slots": 0,
+    "resource_types": [
+      {
+        "amount": 1,
+        "id": 5
+      },
+      {
+        "amount": 2,
+        "id": 1
+      }
+    ],
+    "resources": [
+      {
+        "amount": 1,
+        "id": "2475"
+      }
+    ],
+    "time": 30,
+    "tools": []
+  },
+  "description": "Um velho osso de esqueleto propositalmente deixado na gaiola.",
+  "glyph": {
+    "frames": [
+      {
+        "color": [
+          255,
+          255,
+          255
+        ],
+        "delay": 0,
+        "index": 1938
+      },
+      {
+        "color": [
+          255,
+          255,
+          255
+        ],
+        "delay": 0,
+        "index": 1939
+      }
+    ],
+    "random_frame_start": false
+  },
+  "id": "2927",
+  "minimap_pixel": [
+    171,
+    102,
+    57
+  ],
+  "name": "Esqueleto na Gaiola"
+}

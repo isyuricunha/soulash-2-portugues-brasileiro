@@ -1,0 +1,64 @@
+{
+  "components": [
+    "glyph",
+    "item",
+    "minimap_pixel",
+    "name",
+    "position_2d",
+    "resource",
+    "stackable",
+    "value",
+    "weapon",
+    "weight"
+  ],
+  "description": "Preto e branco e muito fofinho.",
+  "glyph": {
+    "frames": [
+      {
+        "color": [
+          255,
+          255,
+          255
+        ],
+        "delay": 0,
+        "index": 2313
+      }
+    ],
+    "random_frame_start": false
+  },
+  "id": "core_2_Skunk_Tail",
+  "item": {
+    "image": 990,
+    "type": 16
+  },
+  "minimap_pixel": [
+    182,
+    175,
+    158
+  ],
+  "name": "Cauda de Gambá",
+  "resource": {
+    "affix": "of Aroma",
+    "magic_ingredient": 1,
+    "quality": 1,
+    "type": 7
+  },
+  "value": 300,
+  "weapon": {
+    "attack_speed": 0.0,
+    "critical_hit": 0.0,
+    "damage": [
+      {
+        "dmg_max": 1,
+        "dmg_min": 1,
+        "dmg_type": "poison"
+      }
+    ],
+    "hands": 1,
+    "hit_bonus": 0,
+    "parry_bonus": 0,
+    "range": 0,
+    "type": 9
+  },
+  "weight": 0.10000000149011612
+}

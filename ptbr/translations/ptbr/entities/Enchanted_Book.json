@@ -1,0 +1,119 @@
+{
+  "ability_user": [
+    "core_2_Dust_Cloud"
+  ],
+  "armor": {
+    "acid": 0,
+    "death": 20,
+    "electricity": 20,
+    "fire": -5,
+    "frost": 20,
+    "holy": 20,
+    "parry": 0,
+    "physical": 3,
+    "poison": 3,
+    "thorns": 0
+  },
+  "artificial_intelligence": {
+    "allies": [],
+    "allow_production": [],
+    "behaviors": [],
+    "enemies": [
+      "5"
+    ]
+  },
+  "components": [
+    "ability_user",
+    "actor",
+    "armor",
+    "artificial_intelligence",
+    "collidable",
+    "dialogues",
+    "equipment",
+    "experience_gainer",
+    "fighter",
+    "glyph",
+    "health",
+    "minimap_pixel",
+    "moveable",
+    "name",
+    "position_2d",
+    "sight",
+    "stamina",
+    "statistics",
+    "tags"
+  ],
+  "corpse": "791",
+  "description": "Este livro não quer apenas ficar na prateleira.",
+  "dialogues": [],
+  "experience_gainer": {
+    "exp": 0,
+    "level": 10
+  },
+  "fighter": {
+    "attackNames": [
+      "Page Slap"
+    ]
+  },
+  "glyph": {
+    "frames": [
+      {
+        "color": [
+          255,
+          255,
+          255
+        ],
+        "delay": 0,
+        "index": 2689
+      }
+    ],
+    "random_frame_start": false
+  },
+  "health": 45,
+  "id": "core_2_Enchanted_Book",
+  "minimap_pixel": [
+    149,
+    96,
+    255
+  ],
+  "moveable": {
+    "speed": 1.2000000476837158
+  },
+  "name": "Livro Encantado",
+  "sight": {
+    "ignore_infra_penalty": false,
+    "infravision": true,
+    "range": 7,
+    "threesixty": false
+  },
+  "stamina": {
+    "fatigue": 100,
+    "stamina": 100,
+    "stamina_regen": 0.0
+  },
+  "statistics": {
+    "dexterity": [
+      4,
+      6
+    ],
+    "endurance": [
+      12,
+      18
+    ],
+    "intelligence": [
+      10,
+      15
+    ],
+    "strength": [
+      14,
+      18
+    ],
+    "willpower": [
+      6,
+      9
+    ]
+  },
+  "tags": [
+    "3"
+  ]
+}

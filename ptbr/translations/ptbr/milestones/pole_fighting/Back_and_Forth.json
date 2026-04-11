@@ -1,0 +1,16 @@
+{
+  "id": "core_2_back_and_forth",
+  "name": "Para Frente e Para Trás",
+  "requirements": {
+    "milestones": [],
+    "skill": 46
+  },
+  "rewards": [
+    {
+      "ability": "core_2_Back_and_Forth"
+    }
+  ],
+  "skill_id": "core_2_pole_fighting",
+  "steps": [],
+  "steps_type": 0
+}

@@ -1,0 +1,38 @@
+{
+  "animation": "core_2_Lighting_Shot",
+  "cast_time": -1.0,
+  "cooldown": 6.0,
+  "cost": {
+    "ammo": 1,
+    "health": 0,
+    "stamina": 4
+  },
+  "description": "Dispara um projétil mágico que causa ::damage ::damage_type de dano em uma área no impacto. Pode deixar a munição após o disparo.",
+  "duration": 0.0,
+  "effects": {
+    "aoe_range": 4,
+    "aoe_shape": 1,
+    "construct_item_cost": 0.8999999761581421,
+    "damage": [
+      5,
+      10
+    ],
+    "damage_type": "electricity",
+    "damage_weapon": 1.0
+  },
+  "id": "core_2_Lightning_Shot",
+  "image": 718,
+  "name": "Tiro Relâmpago",
+  "range": 7,
+  "requirements": {
+    "one_of": [
+      11,
+      12
+    ]
+  },
+  "skill": "core_2_hunting",
+  "slots": {
+    "offensive": 2
+  },
+  "target": "aoe_target"
+}

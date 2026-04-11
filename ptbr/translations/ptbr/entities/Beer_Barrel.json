@@ -1,0 +1,35 @@
+{
+  "components": [
+    "glyph",
+    "health",
+    "minimap_pixel",
+    "name",
+    "position_2d",
+    "weight"
+  ],
+  "corpse": "839",
+  "description": "Você tem certeza que esmagar este barril vai te conceder algum líquido dourado.",
+  "glyph": {
+    "frames": [
+      {
+        "color": [
+          255,
+          255,
+          255
+        ],
+        "delay": 0,
+        "index": 3241
+      }
+    ],
+    "random_frame_start": false
+  },
+  "health": 200,
+  "id": "core_2_Beer_Barrel",
+  "minimap_pixel": [
+    194,
+    133,
+    109
+  ],
+  "name": "Barril de Cerveja",
+  "weight": 10.0
+}

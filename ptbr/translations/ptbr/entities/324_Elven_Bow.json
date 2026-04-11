@@ -1,0 +1,77 @@
+{
+  "components": [
+    "craftable",
+    "glyph",
+    "item",
+    "minimap_pixel",
+    "name",
+    "position_2d",
+    "value",
+    "weapon",
+    "weight"
+  ],
+  "craftable": {
+    "backgrounds": [],
+    "biomes": [],
+    "magic_slots": 5,
+    "resource_types": [
+      {
+        "amount": 4,
+        "id": 3
+      },
+      {
+        "amount": 1,
+        "id": 4
+      }
+    ],
+    "time": 300,
+    "tools": [
+      14
+    ]
+  },
+  "description": "Obra da mais fina artesanato élfico. Este arco foi a arma primária protegendo florestas de lenhadores por séculos.",
+  "glyph": {
+    "frames": [
+      {
+        "color": [
+          255,
+          255,
+          255
+        ],
+        "delay": 0,
+        "index": 423
+      }
+    ],
+    "random_frame_start": false
+  },
+  "id": "324",
+  "item": {
+    "image": 124,
+    "type": 13
+  },
+  "minimap_pixel": [
+    114,
+    72,
+    95
+  ],
+  "name": "Arco Élfico",
+  "value": 10000,
+  "weapon": {
+    "attack_animation": "5",
+    "attack_speed": 1.0,
+    "critical_hit": 0.0,
+    "damage": [
+      {
+        "dmg_max": 14,
+        "dmg_min": 8,
+        "dmg_type": "physical"
+      }
+    ],
+    "hands": 2,
+    "hit_bonus": 5,
+    "parry_bonus": 0,
+    "range": 10,
+    "type": 5
+  },
+  "weight": 2.5
+}

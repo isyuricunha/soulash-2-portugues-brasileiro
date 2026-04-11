@@ -1,0 +1,105 @@
+{
+  "components": [
+    "block_light",
+    "glyph",
+    "height",
+    "minimap_pixel",
+    "name",
+    "position_2d"
+  ],
+  "description": "Uma espessa névoa cobre a área, obscurecendo a visão.",
+  "glyph": {
+    "frames": [
+      {
+        "color": [
+          179,
+          181,
+          181
+        ],
+        "delay": 50,
+        "index": 1179
+      },
+      {
+        "color": [
+          179,
+          181,
+          181
+        ],
+        "delay": 70,
+        "index": 1180
+      },
+      {
+        "color": [
+          179,
+          181,
+          181
+        ],
+        "delay": 100,
+        "index": 1181
+      },
+      {
+        "color": [
+          179,
+          181,
+          181
+        ],
+        "delay": 200,
+        "index": 1182
+      },
+      {
+        "color": [
+          179,
+          181,
+          181
+        ],
+        "delay": 150,
+        "index": 1183
+      },
+      {
+        "color": [
+          179,
+          181,
+          181
+        ],
+        "delay": 150,
+        "index": 1184
+      },
+      {
+        "color": [
+          179,
+          181,
+          181
+        ],
+        "delay": 100,
+        "index": 1185
+      },
+      {
+        "color": [
+          179,
+          181,
+          181
+        ],
+        "delay": 100,
+        "index": 1186
+      },
+      {
+        "color": [
+          179,
+          181,
+          181
+        ],
+        "delay": 100,
+        "index": 1187
+      }
+    ],
+    "random_frame_start": true
+  },
+  "height": 0,
+  "id": "core_2_Fog",
+  "minimap_pixel": [
+    16,
+    16,
+    14
+  ],
+  "name": "Névoa"
+}

@@ -1,0 +1,72 @@
+{
+  "armor": {
+    "acid": 4,
+    "death": 0,
+    "electricity": 0,
+    "fire": 2,
+    "frost": 0,
+    "holy": 4,
+    "parry": 0,
+    "physical": 0,
+    "poison": 0,
+    "thorns": 0
+  },
+  "components": [
+    "armor",
+    "craftable",
+    "glyph",
+    "item",
+    "minimap_pixel",
+    "name",
+    "position_2d",
+    "value",
+    "weight"
+  ],
+  "craftable": {
+    "backgrounds": [],
+    "biomes": [],
+    "magic_slots": 4,
+    "resource_types": [
+      {
+        "amount": 2,
+        "id": 4
+      },
+      {
+        "amount": 2,
+        "id": 5
+      }
+    ],
+    "time": 90,
+    "tools": [
+      12
+    ]
+  },
+  "description": "Uma camisa bonita totalmente bordada com pequenas contas.",
+  "glyph": {
+    "frames": [
+      {
+        "color": [
+          255,
+          255,
+          255
+        ],
+        "delay": 0,
+        "index": 2436
+      }
+    ],
+    "random_frame_start": false
+  },
+  "id": "core_2_Beaded_Shirt",
+  "item": {
+    "image": 1072,
+    "type": 5
+  },
+  "minimap_pixel": [
+    168,
+    18,
+    4
+  ],
+  "name": "Camisa com Miçangas",
+  "value": 2800,
+  "weight": 1.0
+}

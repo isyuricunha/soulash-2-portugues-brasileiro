@@ -1,0 +1,16 @@
+{
+  "id": "11",
+  "image": 42,
+  "max": 2,
+  "name": "Torre de Guarda",
+  "occupation_image": 26,
+  "occupation": "209",
+  "produces": [],
+  "race": "0",
+  "tier": 1,
+  "type": "military",
+  "workers": [
+    1,
+    8
+  ]
+}

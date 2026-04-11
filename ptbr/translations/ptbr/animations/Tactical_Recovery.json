@@ -1,0 +1,96 @@
+{
+  "animation_origin_self": false,
+  "camera_shake": {
+    "bounces": 0,
+    "duration": 0.0,
+    "power": 0.0
+  },
+  "chain_particles": true,
+  "id": "241",
+  "ignore_roof": false,
+  "name": "Recuperação Tática",
+  "particles": [
+    {
+      "color": [
+        [
+          255,
+          255,
+          255,
+          255
+        ]
+      ],
+      "flags": 0,
+      "life": 60.0,
+      "tile_id": 212
+    },
+    {
+      "color": [
+        [
+          255,
+          255,
+          255,
+          255
+        ]
+      ],
+      "flags": 0,
+      "life": 60.0,
+      "tile_id": 213
+    },
+    {
+      "color": [
+        [
+          255,
+          255,
+          255,
+          209
+        ]
+      ],
+      "flags": 0,
+      "life": 60.0,
+      "tile_id": 214
+    },
+    {
+      "color": [
+        [
+          255,
+          255,
+          255,
+          164
+        ]
+      ],
+      "flags": 0,
+      "life": 60.0,
+      "tile_id": 215
+    },
+    {
+      "color": [
+        [
+          255,
+          255,
+          255,
+          103
+        ]
+      ],
+      "flags": 0,
+      "life": 60.0,
+      "tile_id": 216
+    },
+    {
+      "color": [
+        [
+          255,
+          255,
+          255,
+          60
+        ]
+      ],
+      "flags": 1048576,
+      "life": 60.0,
+      "tile_id": 217
+    }
+  ],
+  "sound": {
+    "id": "137",
+    "volume": 100
+  }
+}

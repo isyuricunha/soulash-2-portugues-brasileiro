@@ -1,0 +1,16 @@
+{
+  "id": "core_2_holy_res",
+  "name": "Poção de Resistência Sagrada",
+  "requirements": {
+    "milestones": [],
+    "skill": 16
+  },
+  "rewards": [
+    {
+      "recipe": "core_2_Potion_of_Holy_Resistance"
+    }
+  ],
+  "skill_id": "core_2_alchemy",
+  "steps": [],
+  "steps_type": 0
+}

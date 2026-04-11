@@ -1,0 +1,66 @@
+{
+  "components": [
+    "craftable",
+    "food",
+    "glyph",
+    "item",
+    "minimap_pixel",
+    "name",
+    "position_2d",
+    "stackable",
+    "value",
+    "weight"
+  ],
+  "craftable": {
+    "backgrounds": [],
+    "biomes": [],
+    "magic_slots": 0,
+    "resources": [
+      {
+        "amount": 2,
+        "id": "318"
+      },
+      {
+        "amount": 1,
+        "id": "core_2_Sugar"
+      }
+    ],
+    "time": 30,
+    "tools": [
+      2
+    ]
+  },
+  "description": "Um prato clássico de carne assada. Sempre delicioso.",
+  "food": {
+    "nutrition": 60,
+    "on_eat": "",
+    "raw": false
+  },
+  "glyph": {
+    "frames": [
+      {
+        "color": [
+          255,
+          255,
+          255
+        ],
+        "delay": 0,
+        "index": 2385
+      }
+    ],
+    "random_frame_start": false
+  },
+  "id": "core_2_Roast",
+  "item": {
+    "image": 1049,
+    "type": 20
+  },
+  "minimap_pixel": [
+    157,
+    78,
+    54
+  ],
+  "name": "Assar",
+  "value": 1000,
+  "weight": 0.10000000149011612
+}

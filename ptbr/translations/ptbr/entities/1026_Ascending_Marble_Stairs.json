@@ -1,0 +1,75 @@
+{
+  "background": {
+    "color": [
+      40,
+      40,
+      40
+    ],
+    "noise": 4
+  },
+  "category_id": 4,
+  "components": [
+    "background",
+    "craftable",
+    "glyph",
+    "map_connector",
+    "minimap_pixel",
+    "name",
+    "position_2d",
+    "producer"
+  ],
+  "craftable": {
+    "magic_slots": 0,
+    "resources": [
+      {
+        "amount": 2,
+        "id": "2937"
+      }
+    ],
+    "time": 20,
+    "tools": [
+      6
+    ]
+  },
+  "description": "Uma escadaria ascendente esculpida em belos blocos de mármore.",
+  "glyph": {
+    "frames": [
+      {
+        "color": [
+          255,
+          255,
+          255
+        ],
+        "delay": 0,
+        "index": 1027
+      }
+    ],
+    "random_frame_start": false
+  },
+  "id": "1026",
+  "map_connector": {
+    "opposite_connector": "1025",
+    "z_level": 1
+  },
+  "minimap_pixel": [
+    128,
+    124,
+    137
+  ],
+  "name": "Escadaria de Mármore Ascendente",
+  "producer": {
+    "products": {
+      "core_2_deconstruct": [
+        {
+          "amount": [
+            0,
+            0
+          ],
+          "id": "-1",
+          "percent_chance": 0
+        }
+      ]
+    },
+    "time": 20
+  }
+}

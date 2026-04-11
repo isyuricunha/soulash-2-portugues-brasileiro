@@ -1,0 +1,74 @@
+{
+  "components": [
+    "craftable",
+    "glyph",
+    "item",
+    "minimap_pixel",
+    "name",
+    "position_2d",
+    "value",
+    "weapon",
+    "weight"
+  ],
+  "craftable": {
+    "magic_slots": 5,
+    "resource_types": [
+      {
+        "amount": 4,
+        "id": 1
+      },
+      {
+        "amount": 1,
+        "id": 2
+      }
+    ],
+    "resources": null,
+    "time": 150,
+    "tools": [
+      1
+    ]
+  },
+  "description": "Esta lâmina é projetada especificamente para furtividade e mortes rápidas. Sua lâmina esbelta e pontiaguda permite que ela perfure carne e osso facilmente.",
+  "glyph": {
+    "frames": [
+      {
+        "color": [
+          255,
+          255,
+          255
+        ],
+        "delay": 0,
+        "index": 675
+      }
+    ],
+    "random_frame_start": false
+  },
+  "id": "2306",
+  "item": {
+    "image": 597,
+    "type": 13
+  },
+  "minimap_pixel": [
+    90,
+    90,
+    90
+  ],
+  "name": "Lâmina do Assassino",
+  "value": 10000,
+  "weapon": {
+    "attack_speed": 0.75,
+    "damage": [
+      {
+        "dmg_max": 12,
+        "dmg_min": 8,
+        "dmg_type": "physical"
+      }
+    ],
+    "hands": 1,
+    "hit_bonus": 6,
+    "parry_bonus": 0,
+    "range": 1,
+    "type": 3
+  },
+  "weight": 1.2000000476837158
+}

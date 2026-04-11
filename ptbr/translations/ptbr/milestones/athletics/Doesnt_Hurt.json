@@ -1,0 +1,15 @@
+{
+  "id": "core_2_doesnt_hurt",
+  "name": "Não Dói",
+  "requirements": {
+    "skill": 38
+  },
+  "rewards": [
+    {
+      "ability": "91"
+    }
+  ],
+  "skill_id": "core_2_athletics",
+  "steps": [],
+  "steps_type": 0
+}

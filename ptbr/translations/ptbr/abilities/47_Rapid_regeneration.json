@@ -1,0 +1,24 @@
+{
+  "animation": "45",
+  "cast_time": 1,
+  "cooldown": 100,
+  "cost": {
+    "health": 0,
+    "stamina": 20.0
+  },
+  "description": "Esta habilidade cura ::regeneration de vida extra periodicamente por ::duration turnos.",
+  "duration": 100,
+  "effects": {
+    "regeneration": 4
+  },
+  "id": "47",
+  "image": 124,
+  "name": "Regeneração Rápida",
+  "range": 0,
+  "skill": "core_2_floromancy",
+  "slots": {
+    "utility": 1,
+    "defensive": 1
+  },
+  "target": "self"
+}

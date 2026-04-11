@@ -1,0 +1,47 @@
+{
+  "components": [
+    "glyph",
+    "minimap_pixel",
+    "name",
+    "position_2d",
+    "producer",
+    "stackable"
+  ],
+  "description": "Pilha perfumada de composto fresco.",
+  "glyph": {
+    "frames": [
+      {
+        "color": [
+          255,
+          255,
+          255
+        ],
+        "delay": 0,
+        "index": 2161
+      }
+    ],
+    "random_frame_start": true
+  },
+  "id": "core_2_Pile_Of_Compost",
+  "minimap_pixel": [
+    114,
+    113,
+    115
+  ],
+  "name": "Pilha de Composto",
+  "producer": {
+    "products": {
+      "5": [
+        {
+          "amount": [
+            1,
+            3
+          ],
+          "id": "2061",
+          "percent_chance": 100
+        }
+      ]
+    },
+    "time": 10
+  }
+}

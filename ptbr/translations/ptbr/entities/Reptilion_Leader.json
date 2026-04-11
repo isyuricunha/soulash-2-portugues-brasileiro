@@ -1,0 +1,172 @@
+{
+  "ability_user": [
+    "122",
+    "137",
+    "16",
+    "91",
+    "44"
+  ],
+  "artificial_intelligence": {
+    "allies": [
+      "24"
+    ],
+    "allow_production": [],
+    "behaviors": [],
+    "enemies": []
+  },
+  "components": [
+    "ability_user",
+    "actor",
+    "artificial_intelligence",
+    "collidable",
+    "dialogues",
+    "equipment",
+    "experience_gainer",
+    "fighter",
+    "glyph",
+    "health",
+    "humanoid",
+    "minimap_pixel",
+    "moveable",
+    "name",
+    "persona",
+    "position_2d",
+    "sight",
+    "skills",
+    "stamina",
+    "statistics",
+    "tags"
+  ],
+  "corpse": "core_2_Reptilion_Corpse",
+  "description": "",
+  "dialogues": [
+    "680",
+    "681"
+  ],
+  "equipment": {
+    "head_armor": [
+      {
+        "chance": 1.0,
+        "id": "2220",
+        "name": "Capacete de Escamas",
+        "stack": 1
+      }
+    ],
+    "left_hand": [
+      {
+        "chance": 1.0,
+        "id": "2311",
+        "name": "Escudo Oval",
+        "stack": 1
+      }
+    ],
+    "right_hand": [
+      {
+        "chance": 1.0,
+        "id": "core_2_Cracking_Spear",
+        "name": "Lança Rachadora",
+        "stack": 1
+      }
+    ],
+    "torso_armor": [
+      {
+        "chance": 1.0,
+        "id": "166",
+        "name": "Peitoral",
+        "stack": 1
+      }
+    ],
+    "torso_cloth": [
+      {
+        "chance": 1.0,
+        "id": "2171",
+        "name": "Camisa de Pele",
+        "stack": 1
+      }
+    ]
+  },
+  "experience_gainer": {
+    "exp": 5,
+    "level": 4
+  },
+  "fighter": {
+    "attackNames": null
+  },
+  "glyph": {
+    "frames": [
+      {
+        "color": [
+          255,
+          255,
+          255
+        ],
+        "delay": 0,
+        "index": 128
+      }
+    ],
+    "random_frame_start": false
+  },
+  "health": 750,
+  "humanoid": {
+    "race": "23"
+  },
+  "id": "core_2_Reptilion_Leader",
+  "minimap_pixel": [
+    113,
+    179,
+    34
+  ],
+  "moveable": {
+    "speed": 0.6000000238418579
+  },
+  "name": "Líder Reptilion",
+  "persona": {
+    "occupation": "Líder"
+  },
+  "sight": {
+    "ignore_infra_penalty": false,
+    "infravision": false,
+    "range": 9,
+    "threesixty": false
+  },
+  "skills": {
+    "milestones": [],
+    "skills": [
+      "core_2_pole_fighting",
+      "core_2_protection",
+      "core_2_leadership"
+    ]
+  },
+  "stamina": {
+    "fatigue": 100,
+    "stamina": 100,
+    "stamina_regen": 0.0
+  },
+  "statistics": {
+    "dexterity": [
+      34,
+      38
+    ],
+    "endurance": [
+      50,
+      56
+    ],
+    "health_regen": 4.0,
+    "intelligence": [
+      24,
+      28
+    ],
+    "strength": [
+      50,
+      56
+    ],
+    "willpower": [
+      47,
+      51
+    ]
+  },
+  "tags": [
+    "9",
+    "24"
+  ]
+}

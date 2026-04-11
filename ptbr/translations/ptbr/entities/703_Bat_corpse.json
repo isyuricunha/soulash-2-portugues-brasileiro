@@ -1,0 +1,68 @@
+{
+  "components": [
+    "glyph",
+    "item",
+    "liquid_source",
+    "minimap_pixel",
+    "name",
+    "position_2d",
+    "producer",
+    "value",
+    "weight"
+  ],
+  "description": "Um cadáver de morcego morto.",
+  "glyph": {
+    "frames": [
+      {
+        "color": [
+          255,
+          255,
+          255
+        ],
+        "delay": 0,
+        "index": 9
+      }
+    ],
+    "random_frame_start": false
+  },
+  "id": "703",
+  "item": {
+    "image": 314,
+    "type": 18
+  },
+  "liquid_source": {
+    "limit": 10,
+    "type": 4
+  },
+  "minimap_pixel": [
+    158,
+    97,
+    43
+  ],
+  "name": "Cadáver de Morcego",
+  "producer": {
+    "products": {
+      "3": [
+        {
+          "amount": [
+            1,
+            1
+          ],
+          "id": "318",
+          "percent_chance": 100
+        },
+        {
+          "amount": [
+            1,
+            1
+          ],
+          "id": "2061",
+          "percent_chance": 20
+        }
+      ]
+    },
+    "time": 0
+  },
+  "value": 0,
+  "weight": 2.0
+}

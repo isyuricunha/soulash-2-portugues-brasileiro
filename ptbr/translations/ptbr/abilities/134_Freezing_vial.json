@@ -1,0 +1,24 @@
+{
+  "animation": "174",
+  "cast_time": 0.699999988079071,
+  "cooldown": 8.0,
+  "cost": {
+    "health": 0,
+    "stamina": 0
+  },
+  "description": "Congela o alvo no lugar, causando ::damage de dano ::damage_type e imobilizando-o por ::duration turnos.",
+  "duration": 3.0,
+  "effects": {
+    "damage": [
+      15,
+      20
+    ],
+    "damage_type": "frost",
+    "immobilize": 1
+  },
+  "id": "134",
+  "image": 688,
+  "name": "Frasco Congelante",
+  "range": 7,
+  "target": "line"
+}

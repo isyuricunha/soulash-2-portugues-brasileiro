@@ -1,0 +1,53 @@
+{
+  "components": [
+    "glyph",
+    "item",
+    "minimap_pixel",
+    "name",
+    "position_2d",
+    "producer",
+    "weight"
+  ],
+  "description": "Veio de topázio animado, mas desta vez está morto.",
+  "glyph": {
+    "frames": [
+      {
+        "color": [
+          255,
+          255,
+          255
+        ],
+        "delay": 0,
+        "index": 1855
+      }
+    ],
+    "random_frame_start": true
+  },
+  "id": "2838",
+  "item": {
+    "image": 738,
+    "type": 18
+  },
+  "minimap_pixel": [
+    147,
+    128,
+    104
+  ],
+  "name": "Cadáver de Veio de Topázio Animado",
+  "producer": {
+    "products": {
+      "3": [
+        {
+          "amount": [
+            2,
+            4
+          ],
+          "id": "849",
+          "percent_chance": 100
+        }
+      ]
+    },
+    "time": 20
+  },
+  "weight": 100.0
+}

@@ -1,0 +1,109 @@
+{
+  "armor": {
+    "acid": 3,
+    "death": 2,
+    "electricity": 10,
+    "fire": 8,
+    "frost": 2,
+    "holy": 2,
+    "parry": 0,
+    "physical": 8,
+    "poison": 6,
+    "thorns": 0
+  },
+  "background": {
+    "color": [
+      23,
+      27,
+      37
+    ],
+    "noise": 4
+  },
+  "category_id": 2,
+  "components": [
+    "armor",
+    "background",
+    "block_light",
+    "collidable",
+    "craftable",
+    "glyph",
+    "health",
+    "height",
+    "minimap_pixel",
+    "name",
+    "position_2d",
+    "producer"
+  ],
+  "corpse": "2443",
+  "craftable": {
+    "magic_slots": 0,
+    "resource_types": [
+      {
+        "amount": 2,
+        "id": 6
+      }
+    ],
+    "resources": null,
+    "time": 40,
+    "tools": [
+      6
+    ]
+  },
+  "description": "Uma parede fria construída de blocos de pedra. É bastante durável.",
+  "glyph": {
+    "frames": [
+      {
+        "color": [
+          255,
+          255,
+          255
+        ],
+        "delay": 0,
+        "index": 1584
+      },
+      {
+        "color": [
+          255,
+          255,
+          255
+        ],
+        "delay": 0,
+        "index": 1585
+      },
+      {
+        "color": [
+          255,
+          255,
+          255
+        ],
+        "delay": 0,
+        "index": 1586
+      }
+    ],
+    "random_frame_start": true
+  },
+  "health": 250,
+  "height": 10,
+  "id": "2442",
+  "minimap_pixel": [
+    74,
+    83,
+    92
+  ],
+  "name": "Parede de Pedra Coberta por Trepadeiras",
+  "producer": {
+    "products": {
+      "core_2_deconstruct": [
+        {
+          "amount": [
+            0,
+            0
+          ],
+          "id": "-1",
+          "percent_chance": 0
+        }
+      ]
+    },
+    "time": 40
+  }
+}

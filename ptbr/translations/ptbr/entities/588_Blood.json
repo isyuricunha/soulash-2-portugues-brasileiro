@@ -1,0 +1,74 @@
+{
+  "components": [
+    "glyph",
+    "liquid_source",
+    "minimap_pixel",
+    "name",
+    "position_2d",
+    "producer",
+    "transform_liquid"
+  ],
+  "description": "Uma poça de líquido vermelho carmesim que veio do corpo de um ser vivo.",
+  "glyph": {
+    "frames": [
+      {
+        "color": [
+          255,
+          255,
+          255
+        ],
+        "delay": 0,
+        "index": 847
+      },
+      {
+        "color": [
+          255,
+          255,
+          255
+        ],
+        "delay": 999999999,
+        "index": 1111
+      },
+      {
+        "color": [
+          255,
+          255,
+          255
+        ],
+        "delay": 999999999,
+        "index": 1117
+      }
+    ],
+    "random_frame_start": true
+  },
+  "id": "588",
+  "liquid_source": {
+    "limit": 5,
+    "type": 4
+  },
+  "minimap_pixel": [
+    138,
+    7,
+    7
+  ],
+  "name": "Sangue",
+  "producer": {
+    "products": {
+      "19": [
+        {
+          "amount": [
+            0,
+            0
+          ],
+          "id": "",
+          "percent_chance": 100
+        }
+      ]
+    },
+    "time": 0
+  },
+  "transform_liquid": {
+    "liquid_limit": 40,
+    "swap_to_index": "589"
+  }
+}

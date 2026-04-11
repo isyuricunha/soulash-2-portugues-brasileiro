@@ -1,0 +1,16 @@
+{
+  "id": "core_2_executioners_axe",
+  "name": "Machado do Carrasco",
+  "requirements": {
+    "milestones": [],
+    "skill": 40
+  },
+  "rewards": [
+    {
+      "recipe": "2301"
+    }
+  ],
+  "skill_id": "core_2_weaponsmith",
+  "steps": [],
+  "steps_type": 0
+}

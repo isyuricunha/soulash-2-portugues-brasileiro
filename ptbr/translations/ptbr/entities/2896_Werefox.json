@@ -1,0 +1,155 @@
+{
+  "ability_user": [
+    "138",
+    "18"
+  ],
+  "armor": {
+    "acid": 0,
+    "death": 0,
+    "electricity": 1,
+    "fire": 0,
+    "frost": 0,
+    "holy": 0,
+    "parry": 0,
+    "physical": 1,
+    "poison": 0,
+    "thorns": 0
+  },
+  "artificial_intelligence": {
+    "allies": [],
+    "allow_production": [],
+    "behaviors": [],
+    "enemies": [
+      "5"
+    ]
+  },
+  "components": [
+    "ability_user",
+    "actor",
+    "armor",
+    "artificial_intelligence",
+    "collidable",
+    "dialogues",
+    "equipment",
+    "experience_gainer",
+    "fighter",
+    "glyph",
+    "health",
+    "minimap_pixel",
+    "moveable",
+    "name",
+    "position_2d",
+    "sight",
+    "stamina",
+    "statistics",
+    "tags",
+    "weapon"
+  ],
+  "corpse": "2754",
+  "description": "Um metamorfo natural.",
+  "dialogues": [
+    "630",
+    "631",
+    "898"
+  ],
+  "equipment": {
+    "disabled_slots": [
+      4,
+      5,
+      0,
+      13,
+      16,
+      17,
+      18
+    ]
+  },
+  "experience_gainer": {
+    "exp": 0,
+    "level": 30
+  },
+  "fighter": {
+    "attackNames": [
+      "Bite",
+      "Scratch"
+    ]
+  },
+  "glyph": {
+    "frames": [
+      {
+        "color": [
+          255,
+          255,
+          255
+        ],
+        "delay": 0,
+        "index": 90
+      }
+    ],
+    "random_frame_start": false
+  },
+  "health": 350,
+  "id": "2896",
+  "minimap_pixel": [
+    115,
+    125,
+    132
+  ],
+  "moveable": {
+    "speed": 1.0
+  },
+  "name": "Raposa Metamorfa",
+  "sight": {
+    "ignore_infra_penalty": false,
+    "infravision": true,
+    "range": 7,
+    "threesixty": false
+  },
+  "stamina": {
+    "fatigue": 100,
+    "stamina": 100,
+    "stamina_regen": 0.0
+  },
+  "statistics": {
+    "dexterity": [
+      38,
+      44
+    ],
+    "endurance": [
+      10,
+      12
+    ],
+    "intelligence": [
+      44,
+      48
+    ],
+    "magic_power": 5,
+    "strength": [
+      12,
+      14
+    ],
+    "willpower": [
+      50,
+      60
+    ]
+  },
+  "tags": [
+    "2",
+    "9"
+  ],
+  "weapon": {
+    "attack_speed": 1.0,
+    "critical_hit": 0.0,
+    "damage": [
+      {
+        "dmg_max": 8,
+        "dmg_min": 3,
+        "dmg_type": "poison"
+      }
+    ],
+    "hands": 1,
+    "hit_bonus": 1,
+    "parry_bonus": 0,
+    "range": 1,
+    "type": 3
+  }
+}

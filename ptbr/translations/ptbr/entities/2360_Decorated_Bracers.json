@@ -1,0 +1,70 @@
+{
+  "armor": {
+    "acid": 0,
+    "death": 0,
+    "electricity": 4,
+    "fire": 0,
+    "frost": 0,
+    "holy": 4,
+    "parry": 0,
+    "physical": 2,
+    "poison": 0
+  },
+  "components": [
+    "armor",
+    "craftable",
+    "glyph",
+    "item",
+    "minimap_pixel",
+    "name",
+    "position_2d",
+    "value",
+    "weight"
+  ],
+  "craftable": {
+    "magic_slots": 4,
+    "resource_types": [
+      {
+        "amount": 2,
+        "id": 1
+      },
+      {
+        "amount": 2,
+        "id": 8
+      }
+    ],
+    "resources": null,
+    "time": 100,
+    "tools": [
+      1
+    ]
+  },
+  "description": "Braçadeiras elaboradas adornadas com motivos élficos intricados, craftadas com grande cuidado e atenção aos detalhes.",
+  "glyph": {
+    "frames": [
+      {
+        "color": [
+          255,
+          255,
+          255
+        ],
+        "delay": 0,
+        "index": 562
+      }
+    ],
+    "random_frame_start": false
+  },
+  "id": "2360",
+  "item": {
+    "image": 596,
+    "type": 11
+  },
+  "minimap_pixel": [
+    217,
+    144,
+    88
+  ],
+  "name": "Braçadeiras Decoradas",
+  "value": 2200,
+  "weight": 2.0
+}

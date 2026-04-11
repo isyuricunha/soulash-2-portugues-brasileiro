@@ -1,0 +1,16 @@
+{
+  "id": "core_2_stone_hatchet",
+  "name": "Machadinha de Pedra",
+  "requirements": {
+    "milestones": [],
+    "skill": 7
+  },
+  "rewards": [
+    {
+      "recipe": "core_2_Stone_Hatchet"
+    }
+  ],
+  "skill_id": "core_2_construction",
+  "steps": [],
+  "steps_type": 0
+}

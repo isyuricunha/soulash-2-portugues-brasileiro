@@ -1,0 +1,67 @@
+{
+  "category_id": 7,
+  "components": [
+    "craftable",
+    "glyph",
+    "health",
+    "minimap_pixel",
+    "name",
+    "position_2d",
+    "producer"
+  ],
+  "corpse": [],
+  "craftable": {
+    "magic_slots": 0,
+    "resource_types": [
+      {
+        "amount": 3,
+        "id": 3
+      },
+      {
+        "amount": 2,
+        "id": 4
+      }
+    ],
+    "resources": null,
+    "time": 60,
+    "tools": []
+  },
+  "description": "Uma cadeira de madeira elaboradamente decorada, um assento de poder para alguém importante.",
+  "glyph": {
+    "frames": [
+      {
+        "color": [
+          255,
+          255,
+          255
+        ],
+        "delay": 0,
+        "index": 1040
+      }
+    ],
+    "random_frame_start": false
+  },
+  "health": 250,
+  "id": "971",
+  "minimap_pixel": [
+    70,
+    43,
+    10
+  ],
+  "name": "Trono de Madeira",
+  "producer": {
+    "products": {
+      "core_2_deconstruct": [
+        {
+          "amount": [
+            0,
+            0
+          ],
+          "id": "-1",
+          "percent_chance": 0
+        }
+      ]
+    },
+    "time": 10
+  }
+}

@@ -1,0 +1,68 @@
+{
+  "components": [
+    "glyph",
+    "item",
+    "liquid_source",
+    "minimap_pixel",
+    "name",
+    "position_2d",
+    "producer",
+    "value",
+    "weight"
+  ],
+  "description": "Um cadáver sem vida de um hipopótamo.",
+  "glyph": {
+    "frames": [
+      {
+        "color": [
+          255,
+          255,
+          255
+        ],
+        "delay": 0,
+        "index": 106
+      }
+    ],
+    "random_frame_start": false
+  },
+  "id": "2234",
+  "item": {
+    "image": 579,
+    "type": 18
+  },
+  "liquid_source": {
+    "limit": 500,
+    "type": 4
+  },
+  "minimap_pixel": [
+    139,
+    69,
+    19
+  ],
+  "name": "Cadáver de Hipopótamo",
+  "producer": {
+    "products": {
+      "3": [
+        {
+          "amount": [
+            7,
+            14
+          ],
+          "id": "318",
+          "percent_chance": 100
+        },
+        {
+          "amount": [
+            1,
+            1
+          ],
+          "id": "2132",
+          "percent_chance": 100
+        }
+      ]
+    },
+    "time": 0
+  },
+  "value": 0,
+  "weight": 140.0
+}

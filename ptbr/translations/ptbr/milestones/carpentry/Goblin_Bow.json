@@ -1,0 +1,16 @@
+{
+  "id": "core_2_goblin_bow",
+  "name": "Arco Goblin",
+  "requirements": {
+    "milestones": [],
+    "skill": 22
+  },
+  "rewards": [
+    {
+      "recipe": "2088"
+    }
+  ],
+  "skill_id": "core_2_carpentry",
+  "steps": [],
+  "steps_type": 0
+}

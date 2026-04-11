@@ -1,0 +1,66 @@
+{
+  "armor": {
+    "acid": 50,
+    "death": 50,
+    "electricity": 50,
+    "fire": 100,
+    "frost": 30,
+    "holy": 50,
+    "parry": 0,
+    "physical": 100,
+    "poison": 100,
+    "thorns": 0
+  },
+  "components": [
+    "armor",
+    "block_light",
+    "collidable",
+    "glyph",
+    "health",
+    "height",
+    "minimap_pixel",
+    "name",
+    "position_2d",
+    "producer"
+  ],
+  "corpse": [],
+  "description": "Uma pedra com minério de ferro.",
+  "glyph": {
+    "frames": [
+      {
+        "color": [
+          255,
+          255,
+          255
+        ],
+        "delay": 0,
+        "index": 2132
+      }
+    ],
+    "random_frame_start": false
+  },
+  "health": 200,
+  "height": 15,
+  "id": "core_2_Bog_Iron_Ore",
+  "minimap_pixel": [
+    140,
+    114,
+    98
+  ],
+  "name": "Minério de Ferro do Pântano",
+  "producer": {
+    "products": {
+      "5": [
+        {
+          "amount": [
+            2,
+            4
+          ],
+          "id": "146",
+          "percent_chance": 100
+        }
+      ]
+    },
+    "time": 30
+  }
+}

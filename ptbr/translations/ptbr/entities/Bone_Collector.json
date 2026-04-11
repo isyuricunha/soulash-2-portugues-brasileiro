@@ -1,0 +1,138 @@
+{
+  "ability_user": [
+    "core_2_Rot",
+    "129",
+    "16"
+  ],
+  "artificial_intelligence": {
+    "allies": [],
+    "allow_production": [],
+    "behaviors": [],
+    "enemies": [
+      "5"
+    ]
+  },
+  "components": [
+    "ability_user",
+    "actor",
+    "artificial_intelligence",
+    "collidable",
+    "dialogues",
+    "equipment",
+    "experience_gainer",
+    "fighter",
+    "glyph",
+    "health",
+    "minimap_pixel",
+    "moveable",
+    "name",
+    "position_2d",
+    "sight",
+    "stamina",
+    "statistics",
+    "tags",
+    "weapon"
+  ],
+  "corpse": "core_2_Collectors_Bone",
+  "description": "Esta criatura semelhante a uma aranha tem muitos braços muito finos e longos.",
+  "dialogues": [
+    "1028"
+  ],
+  "equipment": {
+    "backpack": [
+      {
+        "chance": 1.0,
+        "id": "2432",
+        "name": "Rede",
+        "stack": 5
+      }
+    ]
+  },
+  "experience_gainer": {
+    "exp": 0,
+    "level": 30
+  },
+  "fighter": {
+    "attackNames": [
+      "Claws"
+    ]
+  },
+  "glyph": {
+    "frames": [
+      {
+        "color": [
+          255,
+          255,
+          255
+        ],
+        "delay": 0,
+        "index": 19
+      }
+    ],
+    "random_frame_start": false
+  },
+  "health": 400,
+  "id": "core_2_Bone_Collector",
+  "minimap_pixel": [
+    163,
+    218,
+    96
+  ],
+  "moveable": {
+    "speed": 0.800000011920929
+  },
+  "name": "Colecionador de Ossos",
+  "sight": {
+    "ignore_infra_penalty": false,
+    "infravision": false,
+    "range": 10,
+    "threesixty": false
+  },
+  "stamina": {
+    "fatigue": 100,
+    "stamina": 100,
+    "stamina_regen": 0.0
+  },
+  "statistics": {
+    "dexterity": [
+      20,
+      24
+    ],
+    "endurance": [
+      25,
+      30
+    ],
+    "intelligence": [
+      32,
+      40
+    ],
+    "strength": [
+      32,
+      40
+    ],
+    "willpower": [
+      22,
+      26
+    ]
+  },
+  "tags": [
+    "9"
+  ],
+  "weapon": {
+    "attack_animation": "143",
+    "attack_speed": 1.0,
+    "critical_hit": 0.0,
+    "damage": [
+      {
+        "dmg_max": 12,
+        "dmg_min": 8,
+        "dmg_type": "acid"
+      }
+    ],
+    "hands": 1,
+    "hit_bonus": 3,
+    "parry_bonus": 0,
+    "range": 1,
+    "type": 9
+  }
+}

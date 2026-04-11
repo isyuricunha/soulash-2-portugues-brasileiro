@@ -1,0 +1,16 @@
+{
+  "id": "core_2_Ground_Jelly_Seedling",
+  "name": "Muda de Geléia Terrestre",
+  "requirements": {
+    "milestones": [],
+    "skill": 10
+  },
+  "rewards": [
+    {
+      "recipe": "core_2_Ground_Jelly_Seedling"
+    }
+  ],
+  "skill_id": "core_2_agriculture",
+  "steps": [],
+  "steps_type": 0
+}

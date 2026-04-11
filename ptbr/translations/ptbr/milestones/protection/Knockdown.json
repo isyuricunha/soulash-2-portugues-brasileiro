@@ -1,0 +1,15 @@
+{
+  "id": "core_2_knockdown",
+  "name": "Derrotar",
+  "requirements": {
+    "skill": 12
+  },
+  "rewards": [
+    {
+      "amplifier": "core_2_knockback_damage"
+    }
+  ],
+  "skill_id": "core_2_protection",
+  "steps": [],
+  "steps_type": 0
+}

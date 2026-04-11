@@ -1,0 +1,25 @@
+{
+  "animation": "core_2_Boulder_Spit",
+  "cast_time": 1.2000000476837158,
+  "cooldown": 5.0,
+  "cost": {
+    "health": 1,
+    "stamina": 4
+  },
+  "description": "Arremessa uma pedra massiva de sua goela em um único alvo que causa ::damage de dano ::damage_type.",
+  "duration": 0.0,
+  "effects": {
+    "damage": [
+      20,
+      40
+    ],
+    "damage_type": "physical",
+    "magic_power_damage": 1.2000000476837158
+  },
+  "id": "core_2_Boulder_Spit",
+  "image": 791,
+  "name": "Cuspe Pedregulho",
+  "range": 10,
+  "skill": "",
+  "target": "line"
+}

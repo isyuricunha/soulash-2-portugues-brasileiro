@@ -1,0 +1,30 @@
+{
+  "animation": "233",
+  "cast_time": 0.5,
+  "cooldown": 10.0,
+  "cost": {
+    "health": 0,
+    "stamina": 6
+  },
+  "description": "Consome o efeito de sangramento no alvo e causa dano igual ::damage_type.",
+  "duration": 0.0,
+  "effects": {
+    "damage_type": "true",
+    "consume_tick_damage": "bleed"
+  },
+  "id": "179",
+  "image": 245,
+  "name": "Corte Consumidor",
+  "range": 1,
+  "requirements": {
+    "one_of": [
+      2
+    ]
+  },
+  "skill": "core_2_sword_fighting",
+  "slots": {
+    "offensive": 1,
+    "utility": 2
+  },
+  "target": "actor"
+}

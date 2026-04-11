@@ -1,0 +1,95 @@
+{
+  "armor": {
+    "acid": 0,
+    "death": 0,
+    "electricity": 0,
+    "fire": 0,
+    "frost": 0,
+    "holy": 0,
+    "parry": 0,
+    "physical": 0,
+    "poison": 0,
+    "thorns": 0
+  },
+  "components": [
+    "armor",
+    "craftable",
+    "glyph",
+    "item",
+    "minimap_pixel",
+    "name",
+    "position_2d",
+    "statistics",
+    "value",
+    "weight"
+  ],
+  "craftable": {
+    "backgrounds": [],
+    "biomes": [],
+    "magic_slots": 4,
+    "resource_types": [
+      {
+        "amount": 3,
+        "id": 6
+      },
+      {
+        "amount": 1,
+        "id": 8
+      }
+    ],
+    "time": 60,
+    "tools": [
+      14
+    ]
+  },
+  "description": "Este anel é feito com contas de pedra muito pequenas dispostas em um padrão complexo.",
+  "glyph": {
+    "frames": [
+      {
+        "color": [
+          255,
+          255,
+          255
+        ],
+        "delay": 0,
+        "index": 3035
+      }
+    ],
+    "random_frame_start": false
+  },
+  "id": "core_2_Stone_Beads_Ring",
+  "item": {
+    "image": 1402,
+    "type": 12
+  },
+  "minimap_pixel": [
+    171,
+    102,
+    65
+  ],
+  "name": "Anel de Contas de Pedra",
+  "statistics": {
+    "dexterity": [
+      0,
+      0
+    ],
+    "endurance": [
+      2,
+      2
+    ],
+    "intelligence": [
+      0,
+      0
+    ],
+    "strength": [
+      2,
+      2
+    ],
+    "willpower": [
+      0,
+      0
+    ]
+  },
+  "value": 3800,
+  "weight": 0.5
+}

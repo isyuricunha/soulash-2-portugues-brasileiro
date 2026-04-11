@@ -1,0 +1,65 @@
+{
+  "components": [
+    "glyph",
+    "glyph_top",
+    "height",
+    "minimap_pixel",
+    "name",
+    "position_2d",
+    "producer"
+  ],
+  "description": "Flores bonitas, vermelhas como sangue",
+  "glyph": {
+    "frames": [
+      {
+        "color": [
+          106,
+          106,
+          6
+        ],
+        "delay": 0,
+        "index": 1764
+      }
+    ],
+    "random_frame_start": false,
+    "random_top": {
+      "colors": [
+        [
+          255,
+          52,
+          9
+        ]
+      ],
+      "count": 2,
+      "glyph_ids": [
+        1765
+      ],
+      "max_alpha": 200,
+      "max_range": 3,
+      "wind": true
+    }
+  },
+  "height": 0,
+  "id": "2546",
+  "minimap_pixel": [
+    106,
+    106,
+    6
+  ],
+  "name": "Papoulas",
+  "producer": {
+    "products": {
+      "6": [
+        {
+          "amount": [
+            1,
+            2
+          ],
+          "id": "796",
+          "percent_chance": 100
+        }
+      ]
+    },
+    "time": 10
+  }
+}

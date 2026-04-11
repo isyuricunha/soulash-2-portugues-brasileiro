@@ -1,0 +1,16 @@
+{
+  "id": "core_2_Helmet_Head",
+  "name": "Cabeça de Capacete",
+  "requirements": {
+    "milestones": [],
+    "skill": 48
+  },
+  "rewards": [
+    {
+      "recipe": "core_2_Helmet_Head"
+    }
+  ],
+  "skill_id": "core_2_construction",
+  "steps": [],
+  "steps_type": 0
+}

@@ -1,0 +1,28 @@
+{
+  "animation": "161",
+  "cast_time": 0.5,
+  "cooldown": 10.0,
+  "cost": {
+    "health": 0,
+    "stamina": 8
+  },
+  "description": "Arremessa uma bomba de clarão em um local, causando ::damage de dano ::damage_type e potencialmente atordoando todos no alcance de ::aoe_range por ::stun turnos.",
+  "duration": 1.5,
+  "effects": {
+    "aoe_break": 1,
+    "aoe_range": 2,
+    "aoe_shape": 1,
+    "damage": [
+      15,
+      25
+    ],
+    "damage_type": "electricity",
+    "damage_weapon": 0.25,
+    "stun": 1.5
+  },
+  "id": "113",
+  "image": 94,
+  "name": "Bomba de Flash",
+  "range": 8,
+  "target": "aoe_tile"
+}

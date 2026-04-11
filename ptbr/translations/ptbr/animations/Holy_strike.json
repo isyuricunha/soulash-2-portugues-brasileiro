@@ -1,0 +1,175 @@
+{
+  "animation_origin_self": false,
+  "camera_shake": {
+    "bounces": 12,
+    "duration": 0.10000000149011612,
+    "power": 1,
+    "type": 1
+  },
+  "chain_particles": true,
+  "id": "core_2_Holy_strike",
+  "ignore_roof": false,
+  "name": "Golpe Sagrado",
+  "particles": [
+    {
+      "color": [
+        [
+          255,
+          255,
+          255,
+          255
+        ]
+      ],
+      "flags": 0,
+      "life": 30.0,
+      "tile_id": 1091
+    },
+    {
+      "color": [
+        [
+          255,
+          255,
+          255,
+          255
+        ]
+      ],
+      "flags": 0,
+      "life": 30.0,
+      "tile_id": 1092
+    },
+    {
+      "color": [
+        [
+          255,
+          255,
+          255,
+          255
+        ]
+      ],
+      "flags": 0,
+      "life": 30.0,
+      "tile_id": 1093
+    },
+    {
+      "color": [
+        [
+          255,
+          255,
+          255,
+          255
+        ]
+      ],
+      "flags": 0,
+      "life": 30.0,
+      "tile_id": 1094
+    },
+    {
+      "color": [
+        [
+          255,
+          255,
+          255,
+          255
+        ]
+      ],
+      "flags": 0,
+      "life": 20.0,
+      "tile_id": 1095
+    },
+    {
+      "color": [
+        [
+          255,
+          255,
+          255,
+          255
+        ]
+      ],
+      "flags": 0,
+      "life": 50.0,
+      "tile_id": 1096
+    },
+    {
+      "color": [
+        [
+          255,
+          255,
+          255,
+          255
+        ]
+      ],
+      "flags": 0,
+      "life": 50.0,
+      "tile_id": 1097
+    },
+    {
+      "color": [
+        [
+          255,
+          255,
+          255,
+          255
+        ]
+      ],
+      "flags": 0,
+      "life": 50.0,
+      "tile_id": 1098
+    },
+    {
+      "color": [
+        [
+          255,
+          255,
+          255,
+          255
+        ]
+      ],
+      "flags": 0,
+      "life": 50.0,
+      "tile_id": 1099
+    },
+    {
+      "color": [
+        [
+          255,
+          255,
+          255,
+          255
+        ]
+      ],
+      "flags": 0,
+      "life": 50.0,
+      "tile_id": 1100
+    },
+    {
+      "color": [
+        [
+          255,
+          255,
+          255,
+          255
+        ]
+      ],
+      "flags": 0,
+      "life": 50.0,
+      "tile_id": 1101
+    },
+    {
+      "color": [
+        [
+          255,
+          255,
+          255,
+          181
+        ]
+      ],
+      "flags": 0,
+      "life": 50.0,
+      "tile_id": 1101
+    }
+  ],
+  "sound": {
+    "id": "",
+    "volume": 100
+  }
+}

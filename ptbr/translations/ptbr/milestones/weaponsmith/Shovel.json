@@ -1,0 +1,16 @@
+{
+  "id": "core_2_shovel",
+  "name": "Pá",
+  "requirements": {
+    "milestones": [],
+    "skill": 7
+  },
+  "rewards": [
+    {
+      "recipe": "841"
+    }
+  ],
+  "skill_id": "core_2_weaponsmith",
+  "steps": [],
+  "steps_type": 0
+}

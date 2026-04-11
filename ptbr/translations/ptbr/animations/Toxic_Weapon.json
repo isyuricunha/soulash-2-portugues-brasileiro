@@ -1,0 +1,59 @@
+{
+  "animation_origin_self": false,
+  "camera_shake": {
+    "bounces": 0,
+    "duration": 0.0,
+    "power": 0.0,
+    "type": 1
+  },
+  "chain_particles": true,
+  "id": "core_2_Toxic_Weapon",
+  "ignore_roof": true,
+  "name": "Arma Tóxica",
+  "particles": [
+    {
+      "color": [
+        [
+          255,
+          255,
+          255,
+          255
+        ]
+      ],
+      "flags": 0,
+      "life": 100.0,
+      "pulse_background": 480.0,
+      "tile_id": 836
+    },
+    {
+      "color": [
+        [
+          255,
+          255,
+          255,
+          255
+        ]
+      ],
+      "flags": 0,
+      "life": 100.0,
+      "tile_id": 835
+    },
+    {
+      "color": [
+        [
+          255,
+          255,
+          255,
+          255
+        ]
+      ],
+      "flags": 0,
+      "life": 100.0,
+      "tile_id": 834
+    }
+  ],
+  "sound": {
+    "id": "27",
+    "volume": 100
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "enables": [
+    "core_2_weaponsmith"
+  ],
+  "id": "60",
+  "image": 174,
+  "max": 2,
+  "name": "Armeiro",
+  "occupation_image": 6,
+  "occupation": "725",
+  "produces": [],
+  "race": "1",
+  "tier": 2,
+  "workers": [
+    1,
+    2
+  ]
+}

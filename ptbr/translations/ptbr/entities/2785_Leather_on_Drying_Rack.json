@@ -1,0 +1,69 @@
+{
+  "category_id": 7,
+  "components": [
+    "craftable",
+    "glyph",
+    "minimap_pixel",
+    "name",
+    "position_2d",
+    "producer",
+    "stackable"
+  ],
+  "craftable": {
+    "backgrounds": [],
+    "biomes": [],
+    "magic_slots": 0,
+    "resource_types": [
+      {
+        "amount": 2,
+        "id": 3
+      },
+      {
+        "amount": 1,
+        "id": 2
+      }
+    ],
+    "resources": null,
+    "time": 20,
+    "tools": [
+      13
+    ]
+  },
+  "description": "Um pedaço de couro recém-esfolado secando aqui antes de ser processado.",
+  "glyph": {
+    "frames": [
+      {
+        "color": [
+          255,
+          255,
+          255
+        ],
+        "delay": 0,
+        "index": 1841
+      }
+    ],
+    "random_frame_start": false
+  },
+  "id": "2785",
+  "minimap_pixel": [
+    200,
+    200,
+    200
+  ],
+  "name": "Couro no Esticador de Secagem",
+  "producer": {
+    "products": {
+      "core_2_deconstruct": [
+        {
+          "amount": [
+            0,
+            0
+          ],
+          "id": "",
+          "percent_chance": 0
+        }
+      ]
+    },
+    "time": 20
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "id": "core_2_Bigger_Drill",
+  "name": "Furadeira Maior",
+  "requirements": {
+    "milestones": [],
+    "skill": 46
+  },
+  "rewards": [
+    {
+      "recipe": "core_2_Bigger_Drill"
+    }
+  ],
+  "skill_id": "core_2_construction",
+  "steps": [],
+  "steps_type": 0
+}

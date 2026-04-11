@@ -1,0 +1,66 @@
+{
+  "armor": {
+    "acid": 0,
+    "death": 0,
+    "electricity": 0,
+    "fire": 0,
+    "frost": 4,
+    "holy": 0,
+    "parry": 0,
+    "physical": 3,
+    "poison": 0
+  },
+  "components": [
+    "armor",
+    "craftable",
+    "glyph",
+    "item",
+    "minimap_pixel",
+    "name",
+    "position_2d",
+    "value",
+    "weight"
+  ],
+  "craftable": {
+    "magic_slots": 2,
+    "resource_types": [
+      {
+        "amount": 3,
+        "id": 9
+      }
+    ],
+    "resources": null,
+    "time": 60,
+    "tools": [
+      14
+    ]
+  },
+  "description": "Esta peça de armadura feita de pele de animal protege o torso do frio.",
+  "glyph": {
+    "frames": [
+      {
+        "color": [
+          255,
+          255,
+          255
+        ],
+        "delay": 0,
+        "index": 547
+      }
+    ],
+    "random_frame_start": false
+  },
+  "id": "2177",
+  "item": {
+    "image": 541,
+    "type": 4
+  },
+  "minimap_pixel": [
+    122,
+    93,
+    57
+  ],
+  "name": "Armadura de Pele",
+  "value": 1700,
+  "weight": 3.0
+}

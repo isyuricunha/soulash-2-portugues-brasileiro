@@ -1,0 +1,103 @@
+{
+  "armor": {
+    "acid": 0,
+    "death": 3,
+    "electricity": 0,
+    "fire": 0,
+    "frost": 0,
+    "holy": 3,
+    "parry": 0,
+    "physical": 0,
+    "poison": 3,
+    "thorns": 0
+  },
+  "components": [
+    "armor",
+    "craftable",
+    "glyph",
+    "item",
+    "minimap_pixel",
+    "name",
+    "position_2d",
+    "statistics",
+    "value",
+    "weight"
+  ],
+  "craftable": {
+    "backgrounds": [],
+    "biomes": [],
+    "magic_slots": 4,
+    "resource_types": [
+      {
+        "amount": 1,
+        "id": 1
+      },
+      {
+        "amount": 1,
+        "id": 2
+      },
+      {
+        "amount": 1,
+        "id": 9
+      },
+      {
+        "amount": 1,
+        "id": 8
+      }
+    ],
+    "time": 60,
+    "tools": [
+      14
+    ]
+  },
+  "description": "Símbolo peludo de uma cabeça de lobo preso a uma corda.",
+  "glyph": {
+    "frames": [
+      {
+        "color": [
+          255,
+          255,
+          255
+        ],
+        "delay": 0,
+        "index": 611
+      }
+    ],
+    "random_frame_start": false
+  },
+  "id": "387",
+  "item": {
+    "image": 162,
+    "type": 3
+  },
+  "minimap_pixel": [
+    115,
+    125,
+    132
+  ],
+  "name": "Colar de Lobo",
+  "statistics": {
+    "dexterity": [
+      0,
+      0
+    ],
+    "endurance": [
+      0,
+      0
+    ],
+    "intelligence": [
+      0,
+      0
+    ],
+    "strength": [
+      0,
+      0
+    ],
+    "willpower": [
+      2,
+      2
+    ]
+  },
+  "value": 10000,
+  "weight": 0.10000000149011612
+}

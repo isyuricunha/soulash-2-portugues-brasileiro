@@ -1,0 +1,59 @@
+{
+  "background": {
+    "color": [
+      44,
+      45,
+      41
+    ],
+    "noise": 2,
+    "noise_intensity": 5
+  },
+  "category_id": 1,
+  "components": [
+    "background",
+    "craftable",
+    "glyph",
+    "health",
+    "minimap_pixel",
+    "name"
+  ],
+  "corpse": [
+    {
+      "damage_type": 2,
+      "id": "602"
+    },
+    {
+      "damage_type": 5,
+      "id": "1"
+    }
+  ],
+  "craftable": {
+    "magic_slots": 0,
+    "resources": null,
+    "time": 0,
+    "tools": []
+  },
+  "description": "Caminho criado por muitas pessoas indo e vindo, destruindo a natureza.",
+  "glyph": {
+    "frames": [
+      {
+        "color": [
+          255,
+          255,
+          255
+        ],
+        "delay": 0,
+        "index": 1500
+      }
+    ],
+    "random_frame_start": false
+  },
+  "health": 1,
+  "id": "2016",
+  "minimap_pixel": [
+    65,
+    45,
+    12
+  ],
+  "name": "Estrada de Terra"
+}

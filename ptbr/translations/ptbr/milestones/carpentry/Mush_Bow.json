@@ -1,0 +1,16 @@
+{
+  "id": "core_2_Mush_Bow",
+  "name": "Arco Cogumelo",
+  "requirements": {
+    "milestones": [],
+    "skill": 23
+  },
+  "rewards": [
+    {
+      "recipe": "core_2_Mush_Bow"
+    }
+  ],
+  "skill_id": "core_2_carpentry",
+  "steps": [],
+  "steps_type": 0
+}

@@ -1,0 +1,60 @@
+{
+  "components": [
+    "container",
+    "craftable",
+    "glyph",
+    "item",
+    "minimap_pixel",
+    "name",
+    "position_2d",
+    "value",
+    "weight"
+  ],
+  "container": {
+    "capacity": 20,
+    "type": 2
+  },
+  "craftable": {
+    "magic_slots": 0,
+    "resource_types": [
+      {
+        "amount": 3,
+        "id": 4
+      }
+    ],
+    "resources": null,
+    "time": 40,
+    "tools": [
+      12
+    ]
+  },
+  "description": "Uma bolsa grande usada para carregar coisas nas costas.",
+  "extra_weight": 20.0,
+  "glyph": {
+    "frames": [
+      {
+        "color": [
+          255,
+          255,
+          255
+        ],
+        "delay": 0,
+        "index": 1624
+      }
+    ],
+    "random_frame_start": true
+  },
+  "id": "2878",
+  "item": {
+    "image": 651,
+    "type": 22
+  },
+  "minimap_pixel": [
+    99,
+    68,
+    24
+  ],
+  "name": "Mochila",
+  "value": 4400,
+  "weight": 2.0
+}

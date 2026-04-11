@@ -1,0 +1,66 @@
+{
+  "armor": {
+    "acid": 0,
+    "death": 0,
+    "electricity": 0,
+    "fire": 2,
+    "frost": 2,
+    "holy": 0,
+    "parry": 0,
+    "physical": 2,
+    "poison": 0
+  },
+  "components": [
+    "armor",
+    "craftable",
+    "glyph",
+    "item",
+    "minimap_pixel",
+    "name",
+    "position_2d",
+    "value",
+    "weight"
+  ],
+  "craftable": {
+    "magic_slots": 1,
+    "resource_types": [
+      {
+        "amount": 2,
+        "id": 2
+      }
+    ],
+    "resources": null,
+    "time": 30,
+    "tools": [
+      14
+    ]
+  },
+  "description": "Armadura feita de couro endurecido oferece proteção sólida ao torso.",
+  "glyph": {
+    "frames": [
+      {
+        "color": [
+          255,
+          255,
+          255
+        ],
+        "delay": 0,
+        "index": 361
+      }
+    ],
+    "random_frame_start": false
+  },
+  "id": "165",
+  "item": {
+    "image": 67,
+    "type": 4
+  },
+  "minimap_pixel": [
+    122,
+    93,
+    57
+  ],
+  "name": "Armadura de Couro",
+  "value": 1000,
+  "weight": 2.0
+}

@@ -1,0 +1,65 @@
+{
+  "components": [
+    "block_light",
+    "collidable",
+    "glyph",
+    "glyph_top",
+    "health",
+    "height",
+    "minimap_pixel",
+    "name",
+    "position_2d"
+  ],
+  "corpse": "-1",
+  "description": "Planta que geralmente é mantida dentro de casa para fins decorativos.",
+  "glyph": {
+    "frames": [
+      {
+        "color": [
+          83,
+          53,
+          14
+        ],
+        "delay": 0,
+        "index": 860
+      }
+    ],
+    "random_frame_start": false,
+    "random_top": {
+      "colors": [
+        [
+          64,
+          116,
+          230
+        ],
+        [
+          77,
+          101,
+          180
+        ],
+        [
+          72,
+          74,
+          119
+        ]
+      ],
+      "count": 10,
+      "glyph_ids": [
+        858,
+        859
+      ],
+      "max_alpha": 200,
+      "max_range": 5,
+      "wind": false
+    }
+  },
+  "health": 30,
+  "height": 5,
+  "id": "519",
+  "minimap_pixel": [
+    83,
+    53,
+    10
+  ],
+  "name": "Plantar"
+}

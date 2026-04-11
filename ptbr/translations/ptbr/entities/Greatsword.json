@@ -1,0 +1,72 @@
+{
+  "components": [
+    "craftable",
+    "glyph",
+    "item",
+    "minimap_pixel",
+    "name",
+    "position_2d",
+    "value",
+    "weapon",
+    "weight"
+  ],
+  "craftable": {
+    "backgrounds": [],
+    "biomes": [],
+    "magic_slots": 1,
+    "resource_types": [
+      {
+        "amount": 2,
+        "id": 1
+      }
+    ],
+    "time": 120,
+    "tools": [
+      1
+    ]
+  },
+  "description": "Uma espada com lâmina longa e dupla.",
+  "glyph": {
+    "frames": [
+      {
+        "color": [
+          255,
+          255,
+          255
+        ],
+        "delay": 0,
+        "index": 2727
+      }
+    ],
+    "random_frame_start": false
+  },
+  "id": "core_2_Greatsword",
+  "item": {
+    "image": 1240,
+    "type": 13
+  },
+  "minimap_pixel": [
+    156,
+    160,
+    161
+  ],
+  "name": "Espada Grande",
+  "value": 600,
+  "weapon": {
+    "attack_speed": 1.0,
+    "critical_hit": 0.0,
+    "damage": [
+      {
+        "dmg_max": 5,
+        "dmg_min": 3,
+        "dmg_type": "physical"
+      }
+    ],
+    "hands": 2,
+    "hit_bonus": 1,
+    "parry_bonus": 1,
+    "range": 1,
+    "type": 1
+  },
+  "weight": 2.0
+}

@@ -1,0 +1,16 @@
+{
+  "id": "core_2_enchanted_sash",
+  "name": "Faixa Encantada",
+  "requirements": {
+    "milestones": [],
+    "skill": 41
+  },
+  "rewards": [
+    {
+      "recipe": "2224"
+    }
+  ],
+  "skill_id": "core_2_tailoring",
+  "steps": [],
+  "steps_type": 0
+}

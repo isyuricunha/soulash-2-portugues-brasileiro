@@ -1,0 +1,68 @@
+{
+  "armor": {
+    "acid": 0,
+    "death": 0,
+    "electricity": 1,
+    "fire": 0,
+    "frost": 0,
+    "holy": 0,
+    "parry": 0,
+    "physical": 2,
+    "poison": 0,
+    "thorns": 0
+  },
+  "components": [
+    "armor",
+    "craftable",
+    "glyph",
+    "item",
+    "minimap_pixel",
+    "name",
+    "position_2d",
+    "value",
+    "weight"
+  ],
+  "craftable": {
+    "backgrounds": [],
+    "biomes": [],
+    "magic_slots": 1,
+    "resource_types": [
+      {
+        "amount": 2,
+        "id": 1
+      }
+    ],
+    "time": 50,
+    "tools": [
+      1
+    ]
+  },
+  "description": "Um capacete com proteção especial para seu rosto adorável.",
+  "glyph": {
+    "frames": [
+      {
+        "color": [
+          255,
+          255,
+          255
+        ],
+        "delay": 0,
+        "index": 2740
+      }
+    ],
+    "random_frame_start": false
+  },
+  "id": "core_2_Bassinet_Helmet",
+  "item": {
+    "image": 1253,
+    "type": 1
+  },
+  "minimap_pixel": [
+    156,
+    160,
+    161
+  ],
+  "name": "Capacete Bassinet",
+  "value": 900,
+  "weight": 2.0
+}

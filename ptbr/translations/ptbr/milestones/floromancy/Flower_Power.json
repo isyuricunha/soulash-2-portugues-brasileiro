@@ -1,0 +1,15 @@
+{
+  "id": "core_2_flower_power",
+  "name": "Poder das Flores",
+  "requirements": {
+    "skill": 9
+  },
+  "rewards": [
+    {
+      "amplifier": "core_2_flower_power"
+    }
+  ],
+  "skill_id": "core_2_floromancy",
+  "steps": [],
+  "steps_type": 0
+}

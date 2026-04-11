@@ -1,0 +1,122 @@
+{
+  "animation_origin_self": false,
+  "camera_shake": {
+    "bounces": 0,
+    "duration": 0.0,
+    "power": 0.0
+  },
+  "chain_particles": true,
+  "id": "core_2_Fog",
+  "ignore_roof": false,
+  "name": "Névoa",
+  "particles": [
+    {
+      "color": [
+        [
+          255,
+          255,
+          255,
+          255
+        ]
+      ],
+      "flags": 1,
+      "life": 50.0,
+      "tile_id": 1120
+    },
+    {
+      "color": [
+        [
+          255,
+          255,
+          255,
+          255
+        ]
+      ],
+      "flags": 0,
+      "life": 50.0,
+      "tile_id": 1121
+    },
+    {
+      "color": [
+        [
+          255,
+          255,
+          255,
+          255
+        ]
+      ],
+      "flags": 0,
+      "life": 50.0,
+      "tile_id": 1122
+    },
+    {
+      "color": [
+        [
+          255,
+          255,
+          255,
+          255
+        ]
+      ],
+      "flags": 0,
+      "life": 50.0,
+      "tile_id": 1123
+    },
+    {
+      "color": [
+        [
+          255,
+          255,
+          255,
+          255
+        ]
+      ],
+      "flags": 0,
+      "life": 50.0,
+      "tile_id": 1124
+    },
+    {
+      "color": [
+        [
+          255,
+          255,
+          255,
+          255
+        ]
+      ],
+      "flags": 0,
+      "life": 50.0,
+      "tile_id": 1125
+    },
+    {
+      "color": [
+        [
+          255,
+          255,
+          255,
+          213
+        ]
+      ],
+      "flags": 0,
+      "life": 50.0,
+      "tile_id": 1126
+    },
+    {
+      "color": [
+        [
+          255,
+          255,
+          255,
+          221
+        ]
+      ],
+      "flags": 8,
+      "life": 100.0,
+      "tile_id": 1127
+    }
+  ],
+  "sound": {
+    "id": "127",
+    "volume": 100
+  }
+}

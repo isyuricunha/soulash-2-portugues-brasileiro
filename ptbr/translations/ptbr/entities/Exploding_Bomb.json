@@ -1,0 +1,65 @@
+{
+  "components": [
+    "craftable",
+    "glyph",
+    "item",
+    "minimap_pixel",
+    "name",
+    "position_2d",
+    "stackable",
+    "usable",
+    "value",
+    "weight"
+  ],
+  "craftable": {
+    "backgrounds": [],
+    "biomes": [],
+    "magic_slots": 0,
+    "resource_types": [
+      {
+        "amount": 1,
+        "id": 3
+      }
+    ],
+    "resources": [
+      {
+        "amount": 1,
+        "id": "2257"
+      }
+    ],
+    "time": 20,
+    "tools": []
+  },
+  "description": "Explodindo no impacto, prejudicando todos por perto. Luzes bonitas, no entanto.",
+  "glyph": {
+    "frames": [
+      {
+        "color": [
+          255,
+          255,
+          255
+        ],
+        "delay": 0,
+        "index": 2949
+      }
+    ],
+    "random_frame_start": false
+  },
+  "id": "core_2_Exploding_Bomb",
+  "item": {
+    "image": 1335,
+    "type": 17
+  },
+  "minimap_pixel": [
+    194,
+    133,
+    109
+  ],
+  "name": "Bomba Explosiva",
+  "usable": {
+    "ability": "core_2_Exploding_Bomb",
+    "recipe": ""
+  },
+  "value": 500,
+  "weight": 0.20000000298023224
+}

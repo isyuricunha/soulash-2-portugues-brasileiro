@@ -1,0 +1,29 @@
+{
+  "animation": "52",
+  "cast_time": 1.0,
+  "cooldown": 5.0,
+  "cost": {
+    "health": 3,
+    "stamina": 1
+  },
+  "description": "Causa ::damage de dano ::damage_type a todos em um cone na frente do conjurador.",
+  "duration": 0.0,
+  "effects": {
+    "aoe_break": 2,
+    "damage": [
+      3,
+      7
+    ],
+    "damage_type": "death",
+    "magic_power_damage": 0.6000000238418579
+  },
+  "id": "55",
+  "image": 103,
+  "name": "Ventos da Decadência",
+  "range": 5,
+  "skill": "core_2_necromancy",
+  "slots": {
+    "offensive": 2
+  },
+  "target": "cone"
+}

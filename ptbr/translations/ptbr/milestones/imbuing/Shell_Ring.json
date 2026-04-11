@@ -1,0 +1,16 @@
+{
+  "id": "core_2_shell_ring",
+  "name": "Anel de Concha",
+  "requirements": {
+    "milestones": [],
+    "skill": 40
+  },
+  "rewards": [
+    {
+      "recipe": "666"
+    }
+  ],
+  "skill_id": "core_2_imbuing",
+  "steps": [],
+  "steps_type": 0
+}

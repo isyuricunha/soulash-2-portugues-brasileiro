@@ -1,0 +1,16 @@
+{
+  "id": "core_2_bread",
+  "name": "Pão",
+  "requirements": {
+    "milestones": [],
+    "skill": 3
+  },
+  "rewards": [
+    {
+      "recipe": "803"
+    }
+  ],
+  "skill_id": "core_2_agriculture",
+  "steps": [],
+  "steps_type": 0
+}

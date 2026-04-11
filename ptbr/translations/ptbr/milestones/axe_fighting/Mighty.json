@@ -1,0 +1,15 @@
+{
+  "id": "core_2_mighty",
+  "name": "Poderoso",
+  "requirements": {
+    "skill": 9
+  },
+  "rewards": [
+    {
+      "amplifier": "core_2_strength_4"
+    }
+  ],
+  "skill_id": "core_2_axe_fighting",
+  "steps": [],
+  "steps_type": 0
+}

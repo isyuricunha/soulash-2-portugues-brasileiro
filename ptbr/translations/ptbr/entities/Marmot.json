@@ -1,0 +1,118 @@
+{
+  "artificial_intelligence": {
+    "allies": [],
+    "allow_production": [],
+    "behaviors": [
+      0,
+      16
+    ],
+    "enemies": []
+  },
+  "components": [
+    "actor",
+    "artificial_intelligence",
+    "collidable",
+    "dialogues",
+    "equipment",
+    "experience_gainer",
+    "glyph",
+    "health",
+    "minimap_pixel",
+    "moveable",
+    "name",
+    "position_2d",
+    "sight",
+    "statistics",
+    "tags"
+  ],
+  "corpse": "589",
+  "description": "Um grande roedor.",
+  "dialogues": [
+    "937",
+    "944"
+  ],
+  "equipment": {
+    "disabled_slots": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18
+    ]
+  },
+  "experience_gainer": {
+    "exp": 0,
+    "level": 10
+  },
+  "glyph": {
+    "frames": [
+      {
+        "color": [
+          255,
+          255,
+          255
+        ],
+        "delay": 1000,
+        "index": 56
+      }
+    ],
+    "random_frame_start": false
+  },
+  "health": 20,
+  "id": "core_2_Marmot",
+  "minimap_pixel": [
+    130,
+    140,
+    143
+  ],
+  "moveable": {
+    "speed": 0.8999999761581421
+  },
+  "name": "Marmota",
+  "sight": {
+    "ignore_infra_penalty": false,
+    "infravision": false,
+    "range": 6,
+    "threesixty": false
+  },
+  "statistics": {
+    "dexterity": [
+      6,
+      12
+    ],
+    "endurance": [
+      3,
+      6
+    ],
+    "intelligence": [
+      3,
+      8
+    ],
+    "strength": [
+      6,
+      10
+    ],
+    "willpower": [
+      3,
+      8
+    ]
+  },
+  "tags": [
+    "2",
+    "9"
+  ]
+}

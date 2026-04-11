@@ -1,0 +1,15 @@
+{
+  "id": "core_2_bottomless_pit",
+  "name": "Poço Sem Fundo",
+  "requirements": {
+    "skill": 42
+  },
+  "rewards": [
+    {
+      "passive": "core_2_no_fall_damage"
+    }
+  ],
+  "skill_id": "core_2_athletics",
+  "steps": [],
+  "steps_type": 0
+}

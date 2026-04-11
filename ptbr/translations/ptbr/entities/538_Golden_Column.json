@@ -1,0 +1,65 @@
+{
+  "armor": {
+    "acid": 13,
+    "death": 2,
+    "electricity": 20,
+    "fire": 18,
+    "frost": 12,
+    "holy": 2,
+    "parry": 0,
+    "physical": 13,
+    "poison": 16,
+    "thorns": 0
+  },
+  "category_id": 7,
+  "components": [
+    "armor",
+    "block_light",
+    "collidable",
+    "craftable",
+    "glyph",
+    "health",
+    "height",
+    "minimap_pixel",
+    "name",
+    "position_2d"
+  ],
+  "corpse": "161",
+  "craftable": {
+    "magic_slots": 0,
+    "resources": [
+      {
+        "amount": 2,
+        "id": "161"
+      }
+    ],
+    "time": 20,
+    "tools": [
+      6
+    ]
+  },
+  "description": "Coluna decorativa feita de ouro puro.",
+  "glyph": {
+    "frames": [
+      {
+        "color": [
+          255,
+          255,
+          255
+        ],
+        "delay": 0,
+        "index": 239
+      }
+    ],
+    "random_frame_start": false
+  },
+  "health": 400,
+  "height": 0,
+  "id": "538",
+  "minimap_pixel": [
+    218,
+    165,
+    32
+  ],
+  "name": "Coluna Dourada"
+}

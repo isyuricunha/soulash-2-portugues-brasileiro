@@ -1,0 +1,67 @@
+{
+  "id": "core_2_tent_wall",
+  "name": "Parede de Tenda",
+  "requirements": {
+    "milestones": [],
+    "skill": 19
+  },
+  "rewards": [
+    {
+      "recipe": "264"
+    },
+    {
+      "recipe": "265"
+    },
+    {
+      "recipe": "266"
+    },
+    {
+      "recipe": "267"
+    },
+    {
+      "recipe": "423"
+    },
+    {
+      "recipe": "616"
+    },
+    {
+      "recipe": "2390"
+    },
+    {
+      "recipe": "2391"
+    },
+    {
+      "recipe": "2392"
+    },
+    {
+      "recipe": "2393"
+    },
+    {
+      "recipe": "2394"
+    },
+    {
+      "recipe": "2395"
+    },
+    {
+      "recipe": "2396"
+    },
+    {
+      "recipe": "2397"
+    },
+    {
+      "recipe": "2398"
+    },
+    {
+      "recipe": "2399"
+    },
+    {
+      "recipe": "2400"
+    },
+    {
+      "recipe": "2401"
+    }
+  ],
+  "skill_id": "core_2_tailoring",
+  "steps": [],
+  "steps_type": 0
+}

@@ -1,0 +1,16 @@
+{
+  "id": "core_2_fast_as_lightning",
+  "name": "Rápido como um Raio",
+  "requirements": {
+    "milestones": [],
+    "skill": 12
+  },
+  "rewards": [
+    {
+      "passive": "core_2_lightning_reflexes"
+    }
+  ],
+  "skill_id": "core_2_stormthrowing",
+  "steps": [],
+  "steps_type": 0
+}

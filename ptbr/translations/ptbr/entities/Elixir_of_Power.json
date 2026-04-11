@@ -1,0 +1,75 @@
+{
+  "components": [
+    "craftable",
+    "glyph",
+    "item",
+    "minimap_pixel",
+    "name",
+    "position_2d",
+    "stackable",
+    "usable",
+    "value",
+    "weight"
+  ],
+  "craftable": {
+    "backgrounds": [],
+    "biomes": [],
+    "magic_slots": 0,
+    "resource_types": [
+      {
+        "amount": 1,
+        "id": 7
+      }
+    ],
+    "resources": [
+      {
+        "amount": 1,
+        "id": "core_2_Datura_Flower"
+      },
+      {
+        "amount": 1,
+        "id": "835"
+      },
+      {
+        "amount": 1,
+        "id": "core_2_Wicker"
+      }
+    ],
+    "time": 20,
+    "tools": [
+      15
+    ]
+  },
+  "description": "Esta poção está cintilando com poder.",
+  "glyph": {
+    "frames": [
+      {
+        "color": [
+          255,
+          255,
+          255
+        ],
+        "delay": 0,
+        "index": 2964
+      }
+    ],
+    "random_frame_start": false
+  },
+  "id": "core_2_Elixir_of_Power",
+  "item": {
+    "image": 1348,
+    "type": 16
+  },
+  "minimap_pixel": [
+    157,
+    78,
+    54
+  ],
+  "name": "Elixir de Poder",
+  "usable": {
+    "ability": "core_2_Elixir_of_Power",
+    "recipe": ""
+  },
+  "value": 2500,
+  "weight": 0.10000000149011612
+}

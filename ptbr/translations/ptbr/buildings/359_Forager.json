@@ -1,0 +1,33 @@
+{
+  "id": "359",
+  "image": 268,
+  "name": "Forrageador",
+  "occupation_image": 17,
+  "occupation": "core_2_Orc_Forager",
+  "produces": [
+    {
+      "entities": [
+        {
+          "daily": 4,
+          "id": "core_2_Fern_Leaves"
+        }
+      ],
+      "takes": []
+    },
+    {
+      "entities": [
+        {
+          "daily": 4,
+          "id": "core_2_Gooseberry"
+        }
+      ],
+      "takes": []
+    }
+  ],
+  "race": "8",
+  "tier": 1,
+  "workers": [
+    1,
+    3
+  ]
+}

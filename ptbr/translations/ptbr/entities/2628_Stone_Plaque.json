@@ -1,0 +1,47 @@
+{
+  "category_id": 7,
+  "components": [
+    "craftable",
+    "glyph",
+    "minimap_pixel",
+    "name",
+    "position_2d",
+    "stackable"
+  ],
+  "craftable": {
+    "magic_slots": 0,
+    "resource_types": [
+      {
+        "amount": 1,
+        "id": 6
+      }
+    ],
+    "resources": null,
+    "time": 10,
+    "tools": [
+      14
+    ]
+  },
+  "description": "",
+  "glyph": {
+    "frames": [
+      {
+        "color": [
+          255,
+          255,
+          255
+        ],
+        "delay": 0,
+        "index": 1794
+      }
+    ],
+    "random_frame_start": false
+  },
+  "id": "2628",
+  "minimap_pixel": [
+    177,
+    153,
+    137
+  ],
+  "name": "Placa de Pedra"
+}

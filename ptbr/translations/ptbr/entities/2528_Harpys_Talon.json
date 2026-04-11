@@ -1,0 +1,71 @@
+{
+  "armor": {
+    "acid": 0,
+    "death": 0,
+    "electricity": 2,
+    "fire": 0,
+    "frost": 0,
+    "holy": 0,
+    "parry": 0,
+    "physical": 0,
+    "poison": 0,
+    "thorns": 0
+  },
+  "components": [
+    "armor",
+    "glyph",
+    "item",
+    "minimap_pixel",
+    "name",
+    "position_2d",
+    "resource",
+    "stackable",
+    "value",
+    "weapon",
+    "weight"
+  ],
+  "description": "Uma garra afiada e mortal serve como símbolo dos monstros traiçoeiros que vagam pelos céus.",
+  "glyph": {
+    "frames": [
+      {
+        "color": [
+          255,
+          255,
+          255
+        ],
+        "delay": 0,
+        "index": 1735
+      }
+    ],
+    "random_frame_start": false
+  },
+  "id": "2528",
+  "item": {
+    "image": 673,
+    "type": 16
+  },
+  "minimap_pixel": [
+    100,
+    109,
+    155
+  ],
+  "name": "Garra de Harpia",
+  "resource": {
+    "affix": "Tempting",
+    "magic_ingredient": 0,
+    "quality": 3,
+    "type": 5
+  },
+  "value": 2200,
+  "weapon": {
+    "attack_speed": 0.0,
+    "critical_hit": 0.009999999776482582,
+    "damage": null,
+    "hands": 1,
+    "hit_bonus": 0,
+    "parry_bonus": 0,
+    "range": 0,
+    "type": 9
+  },
+  "weight": 0.10000000149011612
+}

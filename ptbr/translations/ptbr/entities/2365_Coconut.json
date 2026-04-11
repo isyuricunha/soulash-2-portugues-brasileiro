@@ -1,0 +1,46 @@
+{
+  "components": [
+    "food",
+    "glyph",
+    "item",
+    "minimap_pixel",
+    "name",
+    "position_2d",
+    "stackable",
+    "value",
+    "weight"
+  ],
+  "description": "Um fruto tropical duro e marrom, com uma camada externa fibrosa e um interior branco e comestível.",
+  "food": {
+    "nutrition": 30,
+    "poisonous": 0,
+    "raw": true
+  },
+  "glyph": {
+    "frames": [
+      {
+        "color": [
+          255,
+          255,
+          255
+        ],
+        "delay": 0,
+        "index": 131
+      }
+    ],
+    "random_frame_start": false
+  },
+  "id": "2365",
+  "item": {
+    "image": 625,
+    "type": 20
+  },
+  "minimap_pixel": [
+    206,
+    177,
+    66
+  ],
+  "name": "Coco",
+  "value": 300,
+  "weight": 0.10000000149011612
+}

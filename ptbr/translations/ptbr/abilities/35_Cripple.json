@@ -1,0 +1,36 @@
+{
+  "animation": "29",
+  "cast_time": -1.0,
+  "cooldown": 12.0,
+  "cost": {
+    "health": 0,
+    "stamina": 5
+  },
+  "description": "Ataque corpo a corpo regular com ::damage de dano ::damage_type que desacelera o alvo, aumentando o tempo necessário para se mover em ::movement_speed.",
+  "duration": 6.0,
+  "effects": {
+    "damage": [
+      0,
+      3
+    ],
+    "damage_type": "physical",
+    "damage_weapon": 1.0,
+    "movement_speed": 0.5
+  },
+  "id": "35",
+  "image": 1,
+  "name": "Aleijar",
+  "range": -1,
+  "requirements": {
+    "one_of": [
+      1,
+      3
+    ]
+  },
+  "skill": "core_2_mace_fighting",
+  "slots": {
+    "offensive": 1,
+    "utility": 1
+  },
+  "target": "health"
+}

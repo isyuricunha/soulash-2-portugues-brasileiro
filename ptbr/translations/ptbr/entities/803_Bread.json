@@ -1,0 +1,59 @@
+{
+  "components": [
+    "craftable",
+    "food",
+    "glyph",
+    "item",
+    "minimap_pixel",
+    "name",
+    "position_2d",
+    "stackable",
+    "value",
+    "weight"
+  ],
+  "craftable": {
+    "resources": [
+      {
+        "amount": 3,
+        "id": "801"
+      }
+    ],
+    "time": 15,
+    "tools": [
+      2
+    ]
+  },
+  "description": "Assado a partir de massa de farinha e água. Alimento mais proeminente na sociedade humana.",
+  "food": {
+    "nutrition": 40,
+    "poisonous": 0,
+    "raw": false
+  },
+  "glyph": {
+    "frames": [
+      {
+        "color": [
+          255,
+          255,
+          255
+        ],
+        "delay": 0,
+        "index": 403
+      }
+    ],
+    "random_frame_start": false
+  },
+  "id": "803",
+  "item": {
+    "image": 356,
+    "type": 20
+  },
+  "minimap_pixel": [
+    225,
+    182,
+    121
+  ],
+  "name": "Pão de Trigo",
+  "value": 400,
+  "weight": 0.10000000149011612
+}

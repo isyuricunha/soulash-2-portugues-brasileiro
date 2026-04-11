@@ -1,0 +1,61 @@
+{
+  "components": [
+    "container",
+    "craftable",
+    "glyph",
+    "item",
+    "minimap_pixel",
+    "name",
+    "position_2d",
+    "value",
+    "weight"
+  ],
+  "container": {
+    "capacity": 10,
+    "type": 2
+  },
+  "craftable": {
+    "backgrounds": [],
+    "biomes": [],
+    "magic_slots": 0,
+    "resource_types": [
+      {
+        "amount": 2,
+        "id": 2
+      }
+    ],
+    "time": 30,
+    "tools": [
+      14
+    ]
+  },
+  "description": "Um coldre de tamanho considerável que você pode montar nas costas. Funciona apenas para armas de arremesso.",
+  "extra_weight": 10.0,
+  "glyph": {
+    "frames": [
+      {
+        "color": [
+          255,
+          255,
+          255
+        ],
+        "delay": 0,
+        "index": 2686
+      }
+    ],
+    "random_frame_start": true
+  },
+  "id": "core_2_Back_Quiver",
+  "item": {
+    "image": 1209,
+    "type": 30
+  },
+  "minimap_pixel": [
+    99,
+    68,
+    24
+  ],
+  "name": "Aljava nas Costas",
+  "value": 2000,
+  "weight": 0.5
+}

@@ -1,0 +1,71 @@
+{
+  "components": [
+    "craftable",
+    "glyph",
+    "item",
+    "minimap_pixel",
+    "name",
+    "position_2d",
+    "value",
+    "weapon",
+    "weight"
+  ],
+  "craftable": {
+    "magic_slots": 1,
+    "resource_types": [
+      {
+        "amount": 2,
+        "id": 3
+      }
+    ],
+    "resources": null,
+    "time": 30,
+    "tools": [
+      14
+    ]
+  },
+  "description": "O arco curto é fácil de fazer. Não proporciona grande alcance, mas é rápido de puxar.",
+  "glyph": {
+    "frames": [
+      {
+        "color": [
+          255,
+          255,
+          255
+        ],
+        "delay": 0,
+        "index": 308
+      }
+    ],
+    "random_frame_start": false
+  },
+  "id": "102",
+  "item": {
+    "image": 27,
+    "type": 13
+  },
+  "minimap_pixel": [
+    171,
+    102,
+    57
+  ],
+  "name": "Arco Curto",
+  "value": 400,
+  "weapon": {
+    "attack_animation": "5",
+    "attack_speed": 1.2000000476837158,
+    "damage": [
+      {
+        "dmg_max": 6,
+        "dmg_min": 3,
+        "dmg_type": "physical"
+      }
+    ],
+    "hands": 2,
+    "hit_bonus": 2,
+    "parry_bonus": 0,
+    "range": 8,
+    "type": 5
+  },
+  "weight": 1.0
+}

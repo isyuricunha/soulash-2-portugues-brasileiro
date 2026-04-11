@@ -1,0 +1,16 @@
+{
+  "id": "core_2_frost_damage",
+  "name": "Dano de Gelo",
+  "requirements": {
+    "milestones": [],
+    "skill": 18
+  },
+  "rewards": [
+    {
+      "amplifier": "core_2_frost_damage"
+    }
+  ],
+  "skill_id": "core_2_cryomancy",
+  "steps": [],
+  "steps_type": 0
+}

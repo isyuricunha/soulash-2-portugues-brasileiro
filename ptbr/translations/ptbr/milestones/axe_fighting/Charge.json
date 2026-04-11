@@ -1,0 +1,15 @@
+{
+  "id": "core_2_charge",
+  "name": "Ataque!",
+  "requirements": {
+    "skill": 24
+  },
+  "rewards": [
+    {
+      "ability": "23"
+    }
+  ],
+  "skill_id": "core_2_axe_fighting",
+  "steps": [],
+  "steps_type": 0
+}

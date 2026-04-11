@@ -1,0 +1,21 @@
+{
+  "animation": "core_2_Drink_haste_potion",
+  "cast_time": 1.0,
+  "cooldown": 30.0,
+  "cost": {
+    "health": 0,
+    "stamina": 0
+  },
+  "description": "Sua velocidade muda em ::movement_speed por ::duration turnos.",
+  "duration": 10.0,
+  "effects": {
+    "attack_speed": -0.10000000149011612,
+    "movement_speed": -0.10000000149011612
+  },
+  "id": "core_2_Haste_Potion",
+  "image": 758,
+  "name": "Poção de Pressa",
+  "range": 0,
+  "skill": "",
+  "target": "self"
+}

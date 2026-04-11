@@ -1,0 +1,42 @@
+{
+  "components": [
+    "glyph",
+    "health",
+    "minimap_pixel",
+    "name",
+    "position_2d"
+  ],
+  "corpse": [],
+  "description": "Apenas algumas ervas daninhas crescendo na natureza.",
+  "glyph": {
+    "frames": [
+      {
+        "color": [
+          255,
+          255,
+          255
+        ],
+        "delay": 0,
+        "index": 2525
+      },
+      {
+        "color": [
+          255,
+          255,
+          255
+        ],
+        "delay": 0,
+        "index": 2526
+      }
+    ],
+    "random_frame_start": true
+  },
+  "health": 20,
+  "id": "core_2_Weeds",
+  "minimap_pixel": [
+    139,
+    108,
+    64
+  ],
+  "name": "Ervas Daninhas"
+}

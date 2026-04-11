@@ -1,0 +1,55 @@
+{
+  "components": [
+    "food",
+    "glyph",
+    "item",
+    "minimap_pixel",
+    "name",
+    "position_2d",
+    "stackable",
+    "value",
+    "weight"
+  ],
+  "description": "Um cogumelo laranja selvagem. Pode ser comestível.",
+  "food": {
+    "nutrition": 12,
+    "on_eat": "",
+    "raw": false
+  },
+  "glyph": {
+    "frames": [
+      {
+        "color": [
+          255,
+          255,
+          255
+        ],
+        "delay": 0,
+        "index": 391
+      },
+      {
+        "color": [
+          255,
+          255,
+          255
+        ],
+        "delay": 0,
+        "index": 935
+      }
+    ],
+    "random_frame_start": true
+  },
+  "id": "344",
+  "item": {
+    "image": 141,
+    "type": 20
+  },
+  "minimap_pixel": [
+    241,
+    90,
+    34
+  ],
+  "name": "Cogumelo Laranja",
+  "value": 100,
+  "weight": 0.10000000149011612
+}

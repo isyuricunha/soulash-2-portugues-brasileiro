@@ -1,0 +1,93 @@
+{
+  "armor": {
+    "acid": 0,
+    "death": 0,
+    "electricity": 0,
+    "fire": 0,
+    "frost": 0,
+    "holy": 0,
+    "parry": 0,
+    "physical": 2,
+    "poison": 0,
+    "thorns": 0
+  },
+  "components": [
+    "armor",
+    "craftable",
+    "glyph",
+    "item",
+    "minimap_pixel",
+    "name",
+    "position_2d",
+    "statistics",
+    "value",
+    "weight"
+  ],
+  "craftable": {
+    "backgrounds": [],
+    "biomes": [],
+    "magic_slots": 3,
+    "resource_types": [
+      {
+        "amount": 2,
+        "id": 5
+      },
+      {
+        "amount": 1,
+        "id": 2
+      }
+    ],
+    "time": 40,
+    "tools": []
+  },
+  "description": "Longas presas de besta conectadas por uma tira.",
+  "glyph": {
+    "frames": [
+      {
+        "color": [
+          255,
+          255,
+          255
+        ],
+        "delay": 0,
+        "index": 610
+      }
+    ],
+    "random_frame_start": false
+  },
+  "id": "297",
+  "item": {
+    "image": 106,
+    "type": 3
+  },
+  "minimap_pixel": [
+    37,
+    188,
+    79
+  ],
+  "name": "Colar de Presas",
+  "statistics": {
+    "dexterity": [
+      0,
+      0
+    ],
+    "endurance": [
+      1,
+      1
+    ],
+    "intelligence": [
+      0,
+      0
+    ],
+    "strength": [
+      1,
+      1
+    ],
+    "willpower": [
+      0,
+      0
+    ]
+  },
+  "value": 3500,
+  "weight": 0.10000000149011612
+}

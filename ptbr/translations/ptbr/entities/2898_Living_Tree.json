@@ -1,0 +1,140 @@
+{
+  "ability_user": [
+    "35",
+    "core_2_Roots"
+  ],
+  "armor": {
+    "acid": 0,
+    "death": -2,
+    "electricity": -2,
+    "fire": -10,
+    "frost": -3,
+    "holy": 0,
+    "parry": 0,
+    "physical": 30,
+    "poison": 40,
+    "thorns": 7
+  },
+  "artificial_intelligence": {
+    "allies": [],
+    "allow_production": [],
+    "behaviors": [],
+    "enemies": [
+      "5"
+    ]
+  },
+  "components": [
+    "ability_user",
+    "actor",
+    "armor",
+    "artificial_intelligence",
+    "collidable",
+    "dialogues",
+    "experience_gainer",
+    "fighter",
+    "glyph",
+    "health",
+    "minimap_pixel",
+    "moveable",
+    "name",
+    "position_2d",
+    "sight",
+    "stamina",
+    "statistics",
+    "tags",
+    "weapon"
+  ],
+  "corpse": "2101",
+  "description": "Uma árvore mágica com consciência e mobilidade.",
+  "dialogues": [
+    "632",
+    "351"
+  ],
+  "experience_gainer": {
+    "exp": 0,
+    "level": 30
+  },
+  "fighter": {
+    "attackNames": [
+      "Slam"
+    ]
+  },
+  "glyph": {
+    "frames": [
+      {
+        "color": [
+          255,
+          255,
+          255
+        ],
+        "delay": 0,
+        "index": 90
+      }
+    ],
+    "random_frame_start": false
+  },
+  "health": 450,
+  "id": "2898",
+  "minimap_pixel": [
+    115,
+    125,
+    132
+  ],
+  "moveable": {
+    "speed": 1.0
+  },
+  "name": "Árvore Viva",
+  "sight": {
+    "ignore_infra_penalty": false,
+    "infravision": true,
+    "range": 7,
+    "threesixty": false
+  },
+  "stamina": {
+    "fatigue": 100,
+    "stamina": 100,
+    "stamina_regen": 0.0
+  },
+  "statistics": {
+    "dexterity": [
+      8,
+      10
+    ],
+    "endurance": [
+      40,
+      45
+    ],
+    "intelligence": [
+      4,
+      7
+    ],
+    "strength": [
+      42,
+      46
+    ],
+    "willpower": [
+      40,
+      47
+    ]
+  },
+  "tags": [
+    "9",
+    "3"
+  ],
+  "weapon": {
+    "attack_speed": 1.0,
+    "critical_hit": 0.0,
+    "damage": [
+      {
+        "dmg_max": 8,
+        "dmg_min": 2,
+        "dmg_type": "physical"
+      }
+    ],
+    "hands": 1,
+    "hit_bonus": 1,
+    "parry_bonus": 0,
+    "range": 1,
+    "type": 2
+  }
+}

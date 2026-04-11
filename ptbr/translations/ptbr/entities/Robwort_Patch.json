@@ -1,0 +1,49 @@
+{
+  "components": [
+    "glyph",
+    "health",
+    "minimap_pixel",
+    "name",
+    "position_2d",
+    "producer"
+  ],
+  "corpse": [],
+  "description": "Um pequeno trecho de folhas longas e planas.",
+  "glyph": {
+    "frames": [
+      {
+        "color": [
+          255,
+          255,
+          255
+        ],
+        "delay": 0,
+        "index": 2931
+      }
+    ],
+    "random_frame_start": true
+  },
+  "health": 10,
+  "id": "core_2_Robwort_Patch",
+  "minimap_pixel": [
+    73,
+    161,
+    51
+  ],
+  "name": "Trecho de Ribwort",
+  "producer": {
+    "products": {
+      "10": [
+        {
+          "amount": [
+            1,
+            3
+          ],
+          "id": "core_2_Ribwort",
+          "percent_chance": 100
+        }
+      ]
+    },
+    "time": 10
+  }
+}

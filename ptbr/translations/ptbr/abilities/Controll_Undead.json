@@ -1,0 +1,18 @@
+{
+  "animation": "",
+  "cast_time": 1.0,
+  "cooldown": 20.0,
+  "cost": {
+    "health": 0,
+    "stamina": 10
+  },
+  "description": "controlar mortos-vivos",
+  "duration": 0.0,
+  "effects": null,
+  "id": "core_2_Controll_Undead",
+  "image": 816,
+  "name": "Controlar Mortos-Vivos",
+  "range": 6,
+  "skill": "",
+  "target": "aoe_tile"
+}

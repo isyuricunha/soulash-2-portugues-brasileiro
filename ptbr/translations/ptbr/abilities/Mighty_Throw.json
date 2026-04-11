@@ -1,0 +1,35 @@
+{
+  "animation": "core_2_Mighty_Throw",
+  "cast_time": -1.0,
+  "cooldown": 20.0,
+  "cost": {
+    "health": 0,
+    "stamina": 10
+  },
+  "description": "Acerte tudo em linha com ::damage de dano ::damage_type em um alcance ::range, perfurando tudo em seu caminho.",
+  "duration": 0.0,
+  "effects": {
+    "damage": [
+      15,
+      20
+    ],
+    "damage_type": "physical",
+    "damage_weapon": 0.75,
+    "pierce": 1
+  },
+  "id": "core_2_Mighty_Throw",
+  "image": 749,
+  "name": "Arremesso Poderoso",
+  "range": 10,
+  "requirements": {
+    "always": [
+      13
+    ]
+  },
+  "skill": "core_2_stormthrowing",
+  "slots": {
+    "offensive": 2,
+    "utility": 2
+  },
+  "target": "line"
+}

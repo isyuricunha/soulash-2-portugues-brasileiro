@@ -1,0 +1,130 @@
+{
+  "armor": {
+    "acid": 10,
+    "death": 10,
+    "electricity": 10,
+    "fire": 60,
+    "frost": 10,
+    "holy": 10,
+    "parry": 0,
+    "physical": 10,
+    "poison": 10,
+    "thorns": 20
+  },
+  "artificial_intelligence": {
+    "allies": [],
+    "allow_production": [],
+    "behaviors": [],
+    "enemies": [
+      "5"
+    ]
+  },
+  "components": [
+    "actor",
+    "armor",
+    "artificial_intelligence",
+    "collidable",
+    "experience_gainer",
+    "fighter",
+    "glyph",
+    "health",
+    "minimap_pixel",
+    "moveable",
+    "name",
+    "position_2d",
+    "sight",
+    "stamina",
+    "statistics",
+    "tags",
+    "weapon"
+  ],
+  "corpse": "2025",
+  "description": "Parede móvel com atitude agressiva.",
+  "experience_gainer": {
+    "exp": 0,
+    "level": 50
+  },
+  "fighter": {
+    "attackNames": [
+      "Slam"
+    ]
+  },
+  "glyph": {
+    "frames": [
+      {
+        "color": [
+          255,
+          255,
+          255
+        ],
+        "delay": 0,
+        "index": 260
+      }
+    ],
+    "random_frame_start": false
+  },
+  "health": 1200,
+  "id": "core_2_Attacking_Walls",
+  "minimap_pixel": [
+    149,
+    165,
+    109
+  ],
+  "moveable": {
+    "speed": 1.2999999523162842
+  },
+  "name": "Paredes de Ataque",
+  "sight": {
+    "ignore_infra_penalty": true,
+    "infravision": true,
+    "range": 12,
+    "threesixty": true
+  },
+  "stamina": {
+    "fatigue": 100,
+    "stamina": 100,
+    "stamina_regen": 0.0
+  },
+  "statistics": {
+    "dexterity": [
+      100,
+      120
+    ],
+    "endurance": [
+      136,
+      148
+    ],
+    "intelligence": [
+      64,
+      70
+    ],
+    "strength": [
+      150,
+      160
+    ],
+    "willpower": [
+      96,
+      107
+    ]
+  },
+  "tags": [
+    "38"
+  ],
+  "weapon": {
+    "attack_animation": "5",
+    "attack_speed": 0.800000011920929,
+    "critical_hit": 0.0,
+    "damage": [
+      {
+        "dmg_max": 45,
+        "dmg_min": 35,
+        "dmg_type": "physical"
+      }
+    ],
+    "hands": 1,
+    "hit_bonus": 4,
+    "parry_bonus": 0,
+    "range": 1,
+    "type": 1
+  }
+}

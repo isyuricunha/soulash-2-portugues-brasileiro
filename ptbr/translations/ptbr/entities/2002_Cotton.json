@@ -1,0 +1,40 @@
+{
+  "components": [
+    "glyph",
+    "item",
+    "minimap_pixel",
+    "name",
+    "position_2d",
+    "stackable",
+    "value",
+    "weight"
+  ],
+  "description": "Algodão é usado na produção de tecidos.",
+  "glyph": {
+    "frames": [
+      {
+        "color": [
+          255,
+          255,
+          255
+        ],
+        "delay": 0,
+        "index": 1455
+      }
+    ],
+    "random_frame_start": false
+  },
+  "id": "2002",
+  "item": {
+    "image": 441,
+    "type": 16
+  },
+  "minimap_pixel": [
+    200,
+    200,
+    200
+  ],
+  "name": "Algodão",
+  "value": 400,
+  "weight": 0.10000000149011612
+}

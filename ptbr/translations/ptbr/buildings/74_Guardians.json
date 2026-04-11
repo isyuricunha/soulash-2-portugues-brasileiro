@@ -1,0 +1,16 @@
+{
+  "id": "74",
+  "image": 57,
+  "max": 2,
+  "name": "Guardas",
+  "occupation_image": 21,
+  "occupation": "2287",
+  "produces": [],
+  "race": "2",
+  "tier": 1,
+  "type": "military",
+  "workers": [
+    1,
+    6
+  ]
+}

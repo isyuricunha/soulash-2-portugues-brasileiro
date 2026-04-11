@@ -1,0 +1,70 @@
+{
+  "components": [
+    "glyph",
+    "item",
+    "minimap_pixel",
+    "name",
+    "position_2d",
+    "resource",
+    "stackable",
+    "statistics",
+    "value",
+    "weight"
+  ],
+  "description": "Presa dura de um elefante.",
+  "glyph": {
+    "frames": [
+      {
+        "color": [
+          255,
+          255,
+          255
+        ],
+        "delay": 0,
+        "index": 473
+      }
+    ],
+    "random_frame_start": true
+  },
+  "id": "2161",
+  "item": {
+    "image": 472,
+    "type": 16
+  },
+  "minimap_pixel": [
+    208,
+    204,
+    187
+  ],
+  "name": "Marfim",
+  "resource": {
+    "affix": "Ivory",
+    "magic_ingredient": 0,
+    "quality": 2,
+    "type": 5
+  },
+  "statistics": {
+    "dexterity": [
+      0,
+      0
+    ],
+    "endurance": [
+      1,
+      1
+    ],
+    "intelligence": [
+      0,
+      0
+    ],
+    "strength": [
+      0,
+      0
+    ],
+    "willpower": [
+      0,
+      0
+    ]
+  },
+  "value": 1200,
+  "weight": 0.10000000149011612
+}

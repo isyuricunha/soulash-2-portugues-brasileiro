@@ -1,0 +1,32 @@
+{
+  "components": [
+    "glyph",
+    "minimap_pixel",
+    "name",
+    "position_2d",
+    "resting_place"
+  ],
+  "description": "Uma cama de tecido suspensa e relaxante, perfeita para momentos de lazer e descanso pacífico.",
+  "glyph": {
+    "frames": [
+      {
+        "color": [
+          255,
+          255,
+          255
+        ],
+        "delay": 0,
+        "index": 1618
+      }
+    ],
+    "random_frame_start": true
+  },
+  "id": "2465",
+  "minimap_pixel": [
+    135,
+    161,
+    63
+  ],
+  "name": "Rede",
+  "resting_place": 110
+}

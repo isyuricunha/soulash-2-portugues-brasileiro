@@ -1,0 +1,148 @@
+{
+  "artificial_intelligence": {
+    "allies": [],
+    "allow_production": [],
+    "behaviors": [],
+    "enemies": [
+      "5"
+    ]
+  },
+  "components": [
+    "actor",
+    "artificial_intelligence",
+    "collidable",
+    "dialogues",
+    "equipment",
+    "experience_gainer",
+    "fighter",
+    "glyph",
+    "health",
+    "minimap_pixel",
+    "moveable",
+    "name",
+    "position_2d",
+    "sight",
+    "stamina",
+    "statistics",
+    "tags",
+    "weapon"
+  ],
+  "corpse": "594",
+  "description": "Um grande gato com uma coleira de pelos longos ao redor do pescoço.",
+  "dialogues": [
+    "214",
+    "215",
+    "900"
+  ],
+  "equipment": {
+    "disabled_slots": [
+      10,
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18
+    ]
+  },
+  "experience_gainer": {
+    "exp": 0,
+    "level": 30
+  },
+  "fighter": {
+    "attackNames": [
+      "Scratch",
+      "Bite"
+    ]
+  },
+  "glyph": {
+    "frames": [
+      {
+        "color": [
+          255,
+          255,
+          255
+        ],
+        "delay": 0,
+        "index": 129
+      }
+    ],
+    "random_frame_start": false
+  },
+  "health": 440,
+  "id": "core_2_Enhanced_Lion",
+  "minimap_pixel": [
+    206,
+    167,
+    66
+  ],
+  "moveable": {
+    "speed": 0.8999999761581421
+  },
+  "name": "Leão Aprimorado",
+  "sight": {
+    "ignore_infra_penalty": false,
+    "infravision": true,
+    "range": 15,
+    "threesixty": false
+  },
+  "stamina": {
+    "fatigue": 100,
+    "stamina": 110,
+    "stamina_regen": 0.0
+  },
+  "statistics": {
+    "dexterity": [
+      23,
+      28
+    ],
+    "endurance": [
+      55,
+      60
+    ],
+    "intelligence": [
+      8,
+      11
+    ],
+    "strength": [
+      65,
+      79
+    ],
+    "willpower": [
+      19,
+      22
+    ]
+  },
+  "tags": [
+    "2",
+    "9"
+  ],
+  "weapon": {
+    "attack_speed": 0.699999988079071,
+    "critical_hit": 0.0,
+    "damage": [
+      {
+        "dmg_max": 7,
+        "dmg_min": 5,
+        "dmg_type": "physical"
+      }
+    ],
+    "hands": 1,
+    "hit_bonus": 1,
+    "parry_bonus": 0,
+    "range": 1,
+    "type": 1
+  }
+}

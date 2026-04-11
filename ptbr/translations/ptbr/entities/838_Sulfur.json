@@ -1,0 +1,64 @@
+{
+  "components": [
+    "glyph",
+    "item",
+    "minimap_pixel",
+    "name",
+    "position_2d",
+    "resource",
+    "stackable",
+    "value",
+    "weapon",
+    "weight"
+  ],
+  "description": "Um mineral sem gosto e sem cheiro com uma consistência cristalina amarela.",
+  "glyph": {
+    "frames": [
+      {
+        "color": [
+          255,
+          255,
+          255
+        ],
+        "delay": 0,
+        "index": 240
+      }
+    ],
+    "random_frame_start": false
+  },
+  "id": "838",
+  "item": {
+    "image": 377,
+    "type": 16
+  },
+  "minimap_pixel": [
+    210,
+    202,
+    118
+  ],
+  "name": "Enxofre",
+  "resource": {
+    "affix": "of Evaporation",
+    "magic_ingredient": 2,
+    "quality": 2,
+    "type": 7
+  },
+  "value": 1000,
+  "weapon": {
+    "attack_speed": 0.0,
+    "critical_hit": 0.0,
+    "damage": [
+      {
+        "dmg_max": 2,
+        "dmg_min": 2,
+        "dmg_type": "fire"
+      }
+    ],
+    "hands": 1,
+    "hit_bonus": 0,
+    "parry_bonus": 0,
+    "range": 0,
+    "type": 9
+  },
+  "weight": 0.10000000149011612
+}

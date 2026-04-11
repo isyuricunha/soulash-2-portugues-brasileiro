@@ -1,0 +1,96 @@
+{
+  "components": [
+    "glyph",
+    "health",
+    "minimap_pixel",
+    "name",
+    "position_2d"
+  ],
+  "corpse": [],
+  "description": "Uma vassoura caprichosa paira sem esforço acima do chão, guiada por energias místicas.",
+  "glyph": {
+    "frames": [
+      {
+        "color": [
+          255,
+          255,
+          255
+        ],
+        "delay": 130,
+        "index": 1704
+      },
+      {
+        "color": [
+          255,
+          255,
+          255
+        ],
+        "delay": 130,
+        "index": 1705
+      },
+      {
+        "color": [
+          255,
+          255,
+          255
+        ],
+        "delay": 130,
+        "index": 1706
+      },
+      {
+        "color": [
+          255,
+          255,
+          255
+        ],
+        "delay": 130,
+        "index": 1707
+      },
+      {
+        "color": [
+          255,
+          255,
+          255
+        ],
+        "delay": 130,
+        "index": 1708
+      },
+      {
+        "color": [
+          255,
+          255,
+          255
+        ],
+        "delay": 130,
+        "index": 1709
+      },
+      {
+        "color": [
+          255,
+          255,
+          255
+        ],
+        "delay": 130,
+        "index": 1738
+      },
+      {
+        "color": [
+          255,
+          255,
+          255
+        ],
+        "delay": 130,
+        "index": 1739
+      }
+    ],
+    "random_frame_start": true
+  },
+  "health": 20,
+  "id": "2508",
+  "minimap_pixel": [
+    139,
+    108,
+    64
+  ],
+  "name": "Vassoura Mágica"
+}

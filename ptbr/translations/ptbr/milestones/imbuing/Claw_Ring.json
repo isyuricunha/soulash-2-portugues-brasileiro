@@ -1,0 +1,16 @@
+{
+  "id": "core_2_claw_ring",
+  "name": "Anel de Garra",
+  "requirements": {
+    "milestones": [],
+    "skill": 6
+  },
+  "rewards": [
+    {
+      "recipe": "core_2_Claw_Ring"
+    }
+  ],
+  "skill_id": "core_2_imbuing",
+  "steps": [],
+  "steps_type": 0
+}

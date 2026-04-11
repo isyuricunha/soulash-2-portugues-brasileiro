@@ -1,0 +1,16 @@
+{
+  "id": "core_2_frost_flower_ring",
+  "name": "Anel de Flor de Gelo",
+  "requirements": {
+    "milestones": [],
+    "skill": 27
+  },
+  "rewards": [
+    {
+      "recipe": "core_2_Frost_Flower_Ring"
+    }
+  ],
+  "skill_id": "core_2_imbuing",
+  "steps": [],
+  "steps_type": 0
+}

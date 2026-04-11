@@ -1,0 +1,72 @@
+{
+  "armor": {
+    "acid": 0,
+    "death": 0,
+    "electricity": 0,
+    "fire": -1,
+    "frost": 2,
+    "holy": 0,
+    "parry": 0,
+    "physical": 2,
+    "poison": 0,
+    "thorns": 0
+  },
+  "components": [
+    "armor",
+    "craftable",
+    "glyph",
+    "item",
+    "minimap_pixel",
+    "name",
+    "position_2d",
+    "value",
+    "weight"
+  ],
+  "craftable": {
+    "backgrounds": [],
+    "biomes": [],
+    "magic_slots": 1,
+    "resource_types": [
+      {
+        "amount": 1,
+        "id": 2
+      },
+      {
+        "amount": 1,
+        "id": 1
+      }
+    ],
+    "time": 60,
+    "tools": [
+      1
+    ]
+  },
+  "description": "Uma armadura simples feita com tiras de couro conectando pequenas placas de metal.",
+  "glyph": {
+    "frames": [
+      {
+        "color": [
+          255,
+          255,
+          255
+        ],
+        "delay": 0,
+        "index": 2742
+      }
+    ],
+    "random_frame_start": false
+  },
+  "id": "core_2_Splinted_Armor",
+  "item": {
+    "image": 1255,
+    "type": 4
+  },
+  "minimap_pixel": [
+    156,
+    160,
+    161
+  ],
+  "name": "Armadura de Tala",
+  "value": 500,
+  "weight": 3.0
+}

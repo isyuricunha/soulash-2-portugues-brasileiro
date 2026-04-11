@@ -1,0 +1,58 @@
+{
+  "animation_origin_self": false,
+  "camera_shake": {
+    "bounces": 0,
+    "duration": 0.0,
+    "power": 0.0,
+    "type": 1
+  },
+  "chain_particles": true,
+  "id": "core_2_Silence_heretic",
+  "ignore_roof": true,
+  "name": "Silencie o Herético",
+  "particles": [
+    {
+      "color": [
+        [
+          255,
+          255,
+          255,
+          255
+        ]
+      ],
+      "flags": 0,
+      "life": 200.0,
+      "tile_id": 1337
+    },
+    {
+      "color": [
+        [
+          255,
+          255,
+          255,
+          255
+        ]
+      ],
+      "flags": 0,
+      "life": 200.0,
+      "tile_id": 1336
+    },
+    {
+      "color": [
+        [
+          255,
+          255,
+          255,
+          255
+        ]
+      ],
+      "flags": 8,
+      "life": 100.0,
+      "tile_id": 1336
+    }
+  ],
+  "sound": {
+    "id": "106",
+    "volume": 100
+  }
+}

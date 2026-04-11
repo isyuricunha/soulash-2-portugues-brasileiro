@@ -1,0 +1,16 @@
+{
+  "id": "core_2_hunting_crossbow",
+  "name": "Besta de Caça",
+  "requirements": {
+    "milestones": [],
+    "skill": 13
+  },
+  "rewards": [
+    {
+      "recipe": "core_2_Hunting_Crossbow"
+    }
+  ],
+  "skill_id": "core_2_carpentry",
+  "steps": [],
+  "steps_type": 0
+}

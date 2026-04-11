@@ -1,0 +1,96 @@
+{
+  "components": [
+    "collidable",
+    "craftable",
+    "glyph",
+    "health",
+    "minimap_pixel",
+    "name",
+    "position_2d",
+    "producer"
+  ],
+  "corpse": "35",
+  "craftable": {
+    "backgrounds": [],
+    "biomes": [],
+    "magic_slots": 0,
+    "resource_types": [
+      {
+        "amount": 1,
+        "id": 6
+      }
+    ],
+    "time": 10,
+    "tools": []
+  },
+  "description": "Aqui jaz Sebille. Você será sentida.",
+  "glyph": {
+    "frames": [
+      {
+        "color": [
+          255,
+          255,
+          255
+        ],
+        "delay": 0,
+        "index": 578
+      }
+    ],
+    "random_frame_start": false
+  },
+  "health": 20,
+  "id": "2558",
+  "minimap_pixel": [
+    120,
+    120,
+    120
+  ],
+  "name": "Lápide III",
+  "producer": {
+    "products": {
+      "12": [
+        {
+          "amount": [
+            1,
+            1
+          ],
+          "id": "322",
+          "percent_chance": 30
+        },
+        {
+          "amount": [
+            1,
+            1
+          ],
+          "id": "core_2_Wooden_Splinter",
+          "percent_chance": 5
+        },
+        {
+          "amount": [
+            1,
+            1
+          ],
+          "id": "core_2_Button",
+          "percent_chance": 5
+        },
+        {
+          "amount": [
+            1,
+            1
+          ],
+          "id": "55",
+          "percent_chance": 30
+        },
+        {
+          "amount": [
+            1,
+            1
+          ],
+          "id": "core_2_Dug_Up_Grave",
+          "percent_chance": 100
+        }
+      ]
+    },
+    "time": 10
+  }
+}

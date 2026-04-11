@@ -1,0 +1,15 @@
+{
+  "id": "core_2_cleanse",
+  "name": "Purificação",
+  "requirements": {
+    "skill": 32
+  },
+  "rewards": [
+    {
+      "ability": "163"
+    }
+  ],
+  "skill_id": "core_2_protection",
+  "steps": [],
+  "steps_type": 1
+}

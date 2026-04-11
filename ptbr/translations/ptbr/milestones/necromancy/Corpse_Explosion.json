@@ -1,0 +1,16 @@
+{
+  "id": "core_2_corpse_explosion",
+  "name": "Explosão de Cadáver",
+  "requirements": {
+    "milestones": [],
+    "skill": 27
+  },
+  "rewards": [
+    {
+      "ability": "116"
+    }
+  ],
+  "skill_id": "core_2_necromancy",
+  "steps": [],
+  "steps_type": 0
+}

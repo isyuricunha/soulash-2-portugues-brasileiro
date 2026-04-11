@@ -1,0 +1,16 @@
+{
+  "id": "core_2_training_dummy",
+  "name": "Boneco de Treinamento",
+  "requirements": {
+    "milestones": [],
+    "skill": 9
+  },
+  "rewards": [
+    {
+      "recipe": "2205"
+    }
+  ],
+  "skill_id": "core_2_carpentry",
+  "steps": [],
+  "steps_type": 0
+}

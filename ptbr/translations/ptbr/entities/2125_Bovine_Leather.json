@@ -1,0 +1,61 @@
+{
+  "armor": {
+    "acid": 0,
+    "death": 0,
+    "electricity": 0,
+    "fire": 0,
+    "frost": 0,
+    "holy": 0,
+    "parry": 0,
+    "physical": 1,
+    "poison": 0,
+    "thorns": 0
+  },
+  "components": [
+    "armor",
+    "glyph",
+    "item",
+    "minimap_pixel",
+    "name",
+    "position_2d",
+    "resource",
+    "stackable",
+    "value",
+    "weight"
+  ],
+  "description": "Couro feito de pele de vaca.",
+  "extra_weight": 0.20000000298023224,
+  "glyph": {
+    "frames": [
+      {
+        "color": [
+          255,
+          255,
+          255
+        ],
+        "delay": 0,
+        "index": 566
+      }
+    ],
+    "random_frame_start": false
+  },
+  "id": "2125",
+  "item": {
+    "image": 517,
+    "type": 16
+  },
+  "minimap_pixel": [
+    122,
+    93,
+    57
+  ],
+  "name": "Couro Bovino",
+  "resource": {
+    "affix": "Sluggish",
+    "magic_ingredient": 0,
+    "quality": 1,
+    "type": 2
+  },
+  "value": 350,
+  "weight": 0.10000000149011612
+}

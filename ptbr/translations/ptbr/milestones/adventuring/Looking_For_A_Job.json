@@ -1,0 +1,16 @@
+{
+  "id": "core_2_looking_for_a_job",
+  "name": "Procurando um Trabalho",
+  "requirements": {
+    "milestones": [],
+    "skill": 4
+  },
+  "rewards": [
+    {
+      "passive": "core_2_points_of_interest"
+    }
+  ],
+  "skill_id": "core_2_adventuring",
+  "steps": [],
+  "steps_type": 1
+}

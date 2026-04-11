@@ -1,0 +1,71 @@
+{
+  "armor": {
+    "acid": 2,
+    "death": 0,
+    "electricity": 0,
+    "fire": 2,
+    "frost": 0,
+    "holy": 0,
+    "parry": 0,
+    "physical": 3,
+    "poison": 0,
+    "thorns": 0
+  },
+  "components": [
+    "armor",
+    "craftable",
+    "glyph",
+    "item",
+    "minimap_pixel",
+    "name",
+    "position_2d",
+    "value",
+    "weight"
+  ],
+  "craftable": {
+    "magic_slots": 4,
+    "resource_types": [
+      {
+        "amount": 3,
+        "id": 10
+      },
+      {
+        "amount": 1,
+        "id": 5
+      }
+    ],
+    "resources": null,
+    "time": 200,
+    "tools": [
+      1
+    ]
+  },
+  "description": "Um capacete orgânico feito de partes de coisas mortas.",
+  "glyph": {
+    "frames": [
+      {
+        "color": [
+          255,
+          255,
+          255
+        ],
+        "delay": 0,
+        "index": 522
+      }
+    ],
+    "random_frame_start": false
+  },
+  "id": "2220",
+  "item": {
+    "image": 569,
+    "type": 1
+  },
+  "minimap_pixel": [
+    212,
+    200,
+    33
+  ],
+  "name": "Capacete de Escamas",
+  "value": 3200,
+  "weight": 2.5
+}

@@ -1,0 +1,270 @@
+{
+  "combat": {
+    "description": "A forma mais básica de combate em Soulash 2 é a luta corpo a corpo. Para atacar alguém em combate corpo a corpo, você pode [color=45,121,37,255]caminhar em direção ao seu alvo[/color] ou escolher uma [color=45,121,37,255]Ação de Ataque Corpo a Corpo[/color] e um único ataque será realizado, ou mais se você estiver empunhando mais armas.\n\nA primeira seleção em um ser irá destacá-lo como alvo, permitindo que você realize suas ações e habilidades de alvo único sem confirmação adicional.\n\n::ranged_attack\n\nAlém de ataques regulares, você pode usar habilidades especiais. Você pode adquirir novas habilidades melhorando suas habilidades. Confira a Tela de Habilidades ::enter_skills e atribua-as à sua barra de habilidades.",
+    "title": "Combate",
+    "keys_keyboard": [
+      {
+        "id": "::ranged_attack",
+        "text": "Se você tem uma arma à distância como um arco, uma besta ou uma arma de arremesso, você pode atacar inimigos à distância pressionando [color=45,121,37,255]t[/color] e selecionando seu alvo."
+      },
+      {
+        "id": "::enter_skills",
+        "text": "pressionando [color=45,121,37,255]v[/color]"
+      }
+    ],
+    "gamepad_keys": [
+      {
+        "id": "::ranged_attack",
+        "text": "Se você tem uma arma à distância como um arco, besta ou arma de arremesso, a opção de ataque padrão refletirá isso no alvo selecionado."
+      },
+      {
+        "id": "::enter_skills",
+        "text": "pressionando [color=45,121,37,255]Start[/color] no seu gamepad e navegando até a tela com [color=45,121,37,255]RB[/color]"
+      }
+    ]
+  },
+  "creating_items": {
+    "description": "Para acessar a lista de receitas disponíveis, você pode escolher o botão correspondente ::crafting_screen.\n\nQuando você passar o mouse sobre uma receita, verá sua descrição com os recursos e ferramentas necessários para criá-la. Uma vez selecionada a receita, ::select_resources recursos sob a coluna Recursos Disponíveis, ou compre-os se o assentamento em que você está os oferece.\n\nPara finalizar a fabricação de um item, você deve preencher todos os slots superiores para recursos básicos, os ingredientes mágicos são opcionais.\n\nSe você interromper o processo de criação do item, poderá retomá-lo mais tarde sem pagar o custo novamente, a menos que você cancele explicitamente o item.\n\nSe você ou o NPC artesão com quem está falando conhece a receita de um item que você possui, você também pode melhorá-lo substituindo qualquer um dos recursos nele.\n\nPara aprender novas receitas, avance em habilidades que as fornecem - veja a lista de marcos na aba de Habilidades.",
+    "title": "Artesanato",
+    "keys_keyboard": [
+      {
+        "id": "::crafting_screen",
+        "text": "barra de habilidades ou pressione a tecla [color=45,121,37,255]c[/color]"
+      },
+      {
+        "id": "::select_resources",
+        "text": "arrastar e soltar"
+      }
+    ],
+    "gamepad_keys": [
+      {
+        "id": "::crafting_screen",
+        "text": "acima da sua barra de habilidades ou com a tecla [color=45,121,37,255]Gamepad Start[/color] e navegando até lá com [color=45,121,37,255]RB[/color]"
+      },
+      {
+        "id": "::select_resources",
+        "text": "select"
+      }
+    ]
+  },
+  "fatigue": {
+    "description": "Depois de descansar, você pode ter notado que sua barra de fôlego ganhou um pouco de um [color=176,101,43,255]indicador laranja[/color] no final.\n\nEsta é a fadiga e você ganhará mais dela quando descansar. A fadiga reduz seu fôlego máximo pela sua quantidade, mas você pode se recuperar realizando ::sleep_action. Dormir pode ser perigoso se feito ao ar livre, onde um grupo inimigo pode tropeçar em você.",
+    "title": "Fadiga",
+    "keys_keyboard": [
+      {
+        "id": "::sleep_action",
+        "text": "[color=45,121,37,255]Ação de Dormir (Tecla R)[/color]"
+      }
+    ],
+    "gamepad_keys": [
+      {
+        "id": "::sleep_action",
+        "text": "[color=45,121,37,255]Ação de Dormir[/color] no menu contextual quando você se seleciona."
+      }
+    ]
+  },
+  "health": {
+    "description": "Você foi atingido!\n\nVocê deveria ver uma [color=184,35,35,255]barra vermelha indicando sua vida[/color] na seção superior esquerda da sua tela. Mantenha um olho nela, porque quando ela cair para 0 seu personagem morrerá!\n\nSua vida se regenerará lentamente ao longo do tempo, mas você pode acelerar isso com algumas habilidades ou itens como bandagens.",
+    "title": "Vida"
+  },
+  "hunger": {
+    "description": "Fome e Sede representam a necessidade de consumir comida e água, e você as verá como as barras verde e azul no canto superior esquerdo da sua tela. Quando [color=45,121,37,255]a fome ou a sede caírem abaixo de 0, elas voltam a 100 e você ganha uma marca de inanição ou desidratação[/color] abaixo da barra.\n\nCada marca de inanição e desidratação reduz todas as suas estatísticas base em 2.\n\nQuando as marcas de inanição ou desidratação encherem completamente a barra, seu personagem morrerá (exceto no modo Alta Fantasia, onde você sofrerá).\n\nUma vez que as barras caiam, você comerá e beberá automaticamente desde que tenha comida e água na sua mochila. A ordem da comida na sua mochila determina a prioridade de consumo, começando do canto superior esquerdo e buscando horizontalmente.\n\nVocê não pode viajar entre regiões se sua inanição ou desidratação atingirem o nível 4, então certifique-se de não ficar preso em uma região sem comida ou água.\n\nVocê pode saciar sua sede automaticamente [color=45,121,37,255]passando por um rio no mapa do mundo[/color], e a maioria dos [color=45,121,37,255]assentamentos terá uma fonte de água em sua área central[/color].",
+    "title": "Fome & Sede"
+  },
+  "inventory": {
+    "description": "Você pode acessar sua tela de inventário com ::inventory_screen. Esta tela é dividida em três partes.\n\n[color=45,121,37,255]A parte esquerda exibe as Estatísticas[/color] do seu personagem. Você pode ler a descrição delas ::passando o mouse. Essas estatísticas não podem ser reembolsadas, então escolha-as com cuidado. Abaixo, você pode encontrar o dano e a proteção do seu personagem, bem como a chance de acerto e de aparar. Esses valores serão explicados mais detalhadamente quando chegarmos à seção de combate.\n\n[color=45,121,37,255]A parte do meio exibe o Equipamento[/color], itens que seu personagem está usando atualmente. Roupas, armaduras, armas, escudos ou joias. Esses slots serão destacados quando você selecionar um item correspondente em sua mochila.\n\n[color=45,121,37,255]A Mochila é a última parte da tela[/color], onde você pode encontrar tudo o que está carregando. Ao selecionar um item, você verá uma lista de ações disponíveis na parte inferior com as teclas de atalho destacadas associadas a elas.",
+    "title": "Inventário",
+    "keys_keyboard": [
+      {
+        "id": "::inventory_screen",
+        "text": "tecla [color=45,121,37,255]i[/color] ou clicando em um ícone na sua barra de ações"
+      },
+      {
+        "id": "::hovering",
+        "text": "passando o mouse sobre os nomes deles. Se você adquirir novos pontos, verá os botões +/- e aceitar para distribuí-los"
+      }
+    ],
+    "gamepad_keys": [
+      {
+        "id": "::inventory_screen",
+        "text": "um botão acima da sua barra de habilidades ou com a tecla [color=45,121,37,255]Gamepad Start[/color] e navegando até lá com [color=45,121,37,255]RB[/color]"
+      },
+      {
+        "id": "::hovering",
+        "text": "navegando pelos botões +/- quando você tem novas estatísticas para redistribuir"
+      }
+    ]
+  },
+  "leveling_up": {
+    "description": "Em Soulash 2, você avança suas habilidades realizando várias tarefas.\n\nVocê pode verificar quais tarefas avançam em cada dica de habilidade, disponível no seu Livro de Habilidades.\n\n[color=72,125,143,255]A barra azul na parte inferior de cada habilidade[/color] indica quanto mais experiência você precisa antes de avançar.\n\nCom cada marco, você pode ganhar uma nova habilidade, um amplificador para melhorar suas habilidades, aprender uma nova receita de artesanato ou construção, desbloquear novas ações de interação com o mundo ou um bônus passivo.\n\nSuas habilidades têm um limite chamado Potencial. Seu personagem tem um nível máximo de potencial que você pode ver acima da lista de habilidades, que se aplica à soma de todos os níveis de habilidade, e cada habilidade pode ter um nível individual de potencial.\n\nVocê pode melhorar seu potencial de habilidade encontrando um NPC treinador e pagando ouro para que ele ensine coisas novas a você.",
+    "title": "Subindo de Nível"
+  },
+  "looking": {
+    "description": "Você pode ::passar o mouse.",
+    "title": "Olhando em Volta",
+    "keys_keyboard": [
+      {
+        "id": "::hover",
+        "text": "use o mouse para direcionar a uma célula no mapa e [color=45,121,37,255]segure o shift esquerdo[/color] para ver a descrição de tudo o que está lá.\n\nVocê também pode [color=45,121,37,255]segurar alt esquerdo + clique esquerdo[/color] em uma célula ou escolher a ação [color=45,121,37,255]Olhar Para[/color] da roda de ações"
+      }
+    ],
+    "gamepad_keys": [
+      {
+        "id": "::hover",
+        "text": "gire a direção do seu olhar com o [color=45,121,37,255]Analógico Direito[/color]. Quando você segurar [color=45,121,37,255]LT[/color], você navegará em vez disso pelas células próximas com o [color=45,121,37,255]Analógico Direito[/color]. Enquanto também segurar [color=45,121,37,255]RB[/color], você pode ver a descrição do que pode ser encontrado na célula"
+      }
+    ]
+  },
+  "movement": {
+    "description": "Quando você navega até uma célula, verá um ícone de ação padrão que pode ser realizado com um ::clique. No caso de qualquer NPC estar na célula, a ação padrão será selecioná-lo.\n\nGeralmente, a ação padrão será mover, mas em alguns casos, uma ação diferente pode ser mais apropriada.\n\nSe a ação padrão não for o que você deseja fazer, use o botão direito do mouse para alternar uma roda de ações e escolher entre todas as atividades disponíveis.",
+    "title": "Movimento",
+    "keys_keyboard": [
+      {
+        "id": "::click",
+        "text": "clicando no [color=45,121,37,255]Botão Esquerdo do Mouse[/color]"
+      }
+    ],
+    "gamepad_keys": [
+      {
+        "id": "::click",
+        "text": "pressionando o [color=45,121,37,255]Botão A do Controle[/color]"
+      }
+    ]
+  },
+  "sight": {
+    "description": "Você vê uma [color=45,121,37,255]seta azul[/color] perto da borda do retrato do seu personagem? Este é um indicador de direção do olhar, ele mostra para qual direção você está olhando.\n\nTodo ser com olhos no jogo terá tal indicador.\n[color=120,120,120,255]Indicador de cor cinza[/color] significa que esta criatura é neutra em relação a você.\n[color=178,58,51,255]Cor vermelha[/color] significa que o inimigo [color=178,58,51,255]está ciente[/color] da sua presença e atacará.\n\nVocê pode girar usando a Ação de Olhar ou ::girar.",
+    "title": "Visão",
+    "keys_keyboard": [
+      {
+        "id": "::rotate",
+        "text": "segurando [color=45,121,37,255]Alt Esquerdo[/color] e clicando em uma célula longe do seu personagem"
+      }
+    ],
+    "gamepad_keys": [
+      {
+        "id": "::rotate",
+        "text": "[color=45,121,37,255]Analógico Esquerdo[/color]"
+      }
+    ]
+  },
+  "nearby": {
+    "description": "Você viu aquela [color=178,58,51,255]marca de exclamação vermelha[/color] no escuro?\n\nIsso significa que seu personagem ouviu [color=178,58,51,255]algo suspeito[/color] lá.\n\nVocê pode detectar ameaças com mais frequência aumentando os atributos de Força de Vontade e Audição ou se mover mais silenciosamente aumentando Destreza e Furtividade.\n\nFurtividade não ajudará se você estiver na linha de visão do inimigo, então lembre-se de observar os marcadores de direção de visão saindo dos círculos.",
+    "title": "Alguém Próximo"
+  },
+  "pickup": {
+    "description": "Quando há itens no chão, você pode escolher a ação Pegar no menu de ações. Se houver mais de um item, uma janela aparecerá permitindo que você escolha os itens a pegar.\n\nAlguns itens podem estar muito pesados, nesse caso você será notificado no log de mensagens. Você pode ver seu peso atual carregado no fundo da sua mochila.\n\nVocê também pode [color=45,121,37,255]deixar itens[/color] para fazer espaço selecionando-os na tela de inventário e pressionando ::drop.\n\nPegar itens marcados como pertencentes a alguém no assentamento pode resultar em cometer um crime de roubo!",
+    "title": "Pegando Itens",
+    "keys_keyboard": [
+      {
+        "id": "::drop",
+        "text": "tecla [color=45,121,37,255]d[/color]"
+      }
+    ],
+    "gamepad_keys": [
+      {
+        "id": "::drop",
+        "text": "botão [color=45,121,37,255]Gamepad Y[/color]"
+      }
+    ]
+  },
+  "stamina": {
+    "description": "Você vê a barra amarela no topo esquerdo da sua tela? Essa é a sua barra de fôlego. Seu fôlego é consumido por suas ações como movimento, ataque ou artesanato. Você pode aumentar o atributo de [color=45,121,37,255]Resistência[/color] para reduzir a redução de fôlego.\n\nVocê pode recuperar seu fôlego ::descansando.",
+    "title": "Fôlego",
+    "keys_keyboard": [
+      {
+        "id": "::rest",
+        "text": "pressionando a tecla [color=45,121,37,255]r[/color] para descansar, ou clicando com o botão direito em você mesmo e escolhendo a [color=45,121,37,255]Ação de Descanso[/color]"
+      }
+    ],
+    "gamepad_keys": [
+      {
+        "id": "::rest",
+        "text": "escolhendo a [color=45,121,37,255]Ação de Descanso[/color] após se selecionar"
+      }
+    ]
+  },
+  "world_map": {
+    "description": "Selecione uma região para ver seu nome e recursos descobertos à esquerda, e para viajar até lá selecione o botão Mover para a Região. Uma vez lá, você pode entrar na região. Viajar consumirá comida e água, mas você beberá automaticamente se passar por um rio.\n\nVocê não poderá viajar quando atingir o 4º nível de inanição ou desidratação, então fique de olho nos seus suprimentos!\n\nVocê pode navegar pelo mapa com ::navigate. Você também pode dar zoom in ou out com ::zoom.",
+    "title": "Mapa do Mundo",
+    "keys_keyboard": [
+      {
+        "id": "::navigate",
+        "text": "teclas [color=45,121,37,255]WASD ou segurando o botão direito do mouse[/color]"
+      },
+      {
+        "id": "::zoom",
+        "text": "[color=45,121,37,255]roda do mouse ou teclas +/-[/color]"
+      }
+    ],
+    "gamepad_keys": [
+      {
+        "id": "::navigate",
+        "text": "[color=45,121,37,255]Direcional Direito[/color]"
+      },
+      {
+        "id": "::zoom",
+        "text": "botões [color=45,121,37,255]Gatilho Esquerdo e Direito[/color]"
+      }
+    ]
+  },
+  "building": {
+    "description": "Em Soulash 2 você pode construir suas próprias estruturas. Pressione ::building_key para acessar a lista de estruturas disponíveis ou selecione o ícone de ação de construção na barra de ações.\n\nQuando você escolher uma estrutura que deseja construir, verá os recursos necessários no fundo, às vezes poderá escolher recursos do tipo necessário.\n\nSe você interromper o processo de construção por qualquer motivo, poderá retomá-lo mais tarde sem pagar o custo novamente, a menos que cancele o item explicitamente.",
+    "title": "Construção",
+    "keys_keyboard": [
+      {
+        "id": "::building_key",
+        "text": "tecla [color=45,121,37,255]l[/color]"
+      }
+    ],
+    "gamepad_keys": [
+      {
+        "id": "::building_key",
+        "text": "botão [color=45,121,37,255]D-pad Esquerdo[/color]"
+      }
+    ]
+  },
+  "scoring": {
+    "description": "Após sua partida, seja ela bem-sucedida ou não, você verá a tela de resumo de suas conquistas com o valor da pontuação final. O valor da pontuação é calculado da seguinte forma:\n\n- Cada item artesanal, item melhorado, estrutura construída e criatura encontrada vale [color=45,121,37,255]1[/color] ponto.\n- Cada habilidade adquirida acima das suas habilidades iniciais vale [color=45,121,37,255]4[/color] pontos.\n- Cada ano passado equivale a [color=45,121,37,255]100[/color] pontos.\n- Cada região descoberta equivale a [color=45,121,37,255]1[/color] ponto e cada local especial saqueado vale [color=45,121,37,255]10[/color] pontos.\n- Cada 100 de ouro ganho com comércio vale [color=45,121,37,255]1[/color] ponto.\n- Cada ressurreição custa [color=45,121,37,255]-100[/color] pontos.",
+    "title": "Pontuação"
+  },
+  "welcome_demo": {
+    "description": "Bem-vindo à demonstração de Soulash 2!\n\nSoulash 2 é um RPG roguelike de mundo aberto sandbox sem restrições em seus objetivos e aspirações. Viaje, artesane, construa, lute e fique mais forte. Você pode comerciar com assentamentos existentes ou destruí-los como achar melhor.\n\n::interact\n\nEste jogo é melhor jogado sem muito auxílio, como nos bons e velhos tempos, exceto com dicas informativas. A melhor maneira de começar este jogo é viajando pelo mundo e visitando locais especiais que aparecem, enquanto descobre o desafio imediato da inanição e desidratação pelo caminho.\n\nA versão demo tem as seguintes limitações:\n- Habilidades limitadas ao nível 20 em vez de 50, com algumas indisponíveis.\n- Apenas 1 dos 4 níveis de dificuldade para locais especiais disponíveis.\n- Apenas mapas mundiais menores podem ser gerados.\n- Novo assentamento não pode ser estabelecido.\n- Guerras desativadas.\n- Bastião do Necrotirano desativado.\n- Modding e trapaças desativados.\n\nAproveite seu tempo explorando o mundo que você criou e adquira o jogo completo se quiser mais diversão!",
+    "title": "Bem-vindo",
+    "keys_keyboard": [
+      {
+        "id": "::interact",
+        "text": "Interaja com o mundo usando o mouse e [color=45,121,37,255]clique direito[/color] para ver ações alternativas."
+      }
+    ],
+    "gamepad_keys": [
+      {
+        "id": "::interact",
+        "text": "Interaja com o mundo segurando [color=45,121,37,255]LT[/color] enquanto navega com [color=45,121,37,255]Direcional Direito[/color] e pressione [color=45,121,37,255]Gamepad Y[/color] para ver ações alternativas."
+      }
+    ]
+  },
+  "welcome": {
+    "description": "Bem-vindo ao Soulash 2!\n\nSoulash 2 é um RPG roguelike de mundo aberto sandbox sem restrições em seus objetivos e aspirações. Viaje, artesane, construa, lute e fique mais forte. Você pode comerciar com assentamentos existentes ou destruí-los como achar melhor.\n\n::interact\n\nEste jogo é melhor jogado sem muito auxílio, como nos bons e velhos tempos, exceto com dicas informativas. A melhor maneira de começar este jogo é viajando pelo mundo e visitando locais especiais que aparecem, enquanto descobre o desafio imediato da inanição e desidratação pelo caminho.\n\nAproveite seu tempo explorando o mundo que você criou!",
+    "title": "Bem-vindo",
+    "keys_keyboard": [
+      {
+        "id": "::interact",
+        "text": "Interaja com o mundo usando o mouse e [color=45,121,37,255]clique direito[/color] para ver ações alternativas."
+      }
+    ],
+    "gamepad_keys": [
+      {
+        "id": "::interact",
+        "text": "Interaja com o mundo segurando [color=45,121,37,255]LT[/color] enquanto navega com [color=45,121,37,255]Direcional Direito[/color] e pressione [color=45,121,37,255]Gamepad Y[/color] para ver ações alternativas."
+      }
+    ]
+  },
+  "crime": {
+    "description": "Cometer um crime em qualquer assentamento pode ter consequências graves, pois qualquer crime que você cometer, seja roubo, vandalismo, agressão ou assassinato, resultará em uma recompensa pela sua cabeça.\n\nCom uma recompensa, unidades militares irão atacá-lo na vista no assentamento onde você cometeu um crime.\n\nVocê pode encontrar assentamentos onde cometeu crimes na Tela de Conhecimento - eles terão um ícone de cartaz de procurado perto de seus nomes na lista.\n\nNa mesma tela, você pode encontrar detalhes sobre seu cartaz de procurado e pagá-lo para anular seus crimes.\n\nCuidado, pois alguns crimes podem ser imperdoáveis em certas culturas, nesse caso sua morte ou autoexílio serão a única maneira de resolver a situação.",
+    "title": "Crime"
+  },
+  "aging": {
+    "description": "Seu personagem começa sua jornada como um jovem adulto, cheio de esperanças e sonhos de grandes aventuras.\n\nÀ medida que o tempo passa e você consegue sobreviver aos perigos do mundo, um dia pode atingir a idade avançada, onde começará a perder lentamente seus atributos físicos, mas ganhará atributos mentais e potencial máximo de habilidade adicional.\n\nQuando sua resistência cair para 1 como um personagem idoso, você terá uma chance de morrer de causas naturais a cada passo que der.",
+    "title": "Envelhecimento"
+  }
+}

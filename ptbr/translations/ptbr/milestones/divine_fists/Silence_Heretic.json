@@ -1,0 +1,16 @@
+{
+  "id": "core_2_silence_heretic",
+  "name": "Silêncio, Herege!",
+  "requirements": {
+    "milestones": [],
+    "skill": 21
+  },
+  "rewards": [
+    {
+      "ability": "core_2_Silence_Herectic"
+    }
+  ],
+  "skill_id": "core_2_divine_fists",
+  "steps": [],
+  "steps_type": 0
+}

@@ -1,0 +1,16 @@
+{
+  "id": "109",
+  "image": 101,
+  "max": 2,
+  "name": "Guardas da Unidade",
+  "occupation_image": 63,
+  "occupation": "2345",
+  "produces": [],
+  "race": "10",
+  "tier": 1,
+  "type": "military",
+  "workers": [
+    1,
+    8
+  ]
+}

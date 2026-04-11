@@ -1,0 +1,128 @@
+{
+  "artificial_intelligence": {
+    "allies": [],
+    "allow_production": [],
+    "behaviors": [],
+    "enemies": []
+  },
+  "components": [
+    "actor",
+    "artificial_intelligence",
+    "collidable",
+    "dialogues",
+    "equipment",
+    "experience_gainer",
+    "fighter",
+    "glyph",
+    "health",
+    "humanoid",
+    "minimap_pixel",
+    "moveable",
+    "name",
+    "persona",
+    "position_2d",
+    "sight",
+    "stamina",
+    "statistics",
+    "tags"
+  ],
+  "corpse": "559",
+  "description": "",
+  "dialogues": [
+    "378",
+    "379"
+  ],
+  "equipment": {
+    "right_hand": [
+      {
+        "chance": 1.0,
+        "id": "70",
+        "name": "Faca",
+        "stack": 1
+      }
+    ],
+    "torso_cloth": [
+      {
+        "chance": 1.0,
+        "id": "184",
+        "name": "Camisa",
+        "stack": 1
+      }
+    ]
+  },
+  "experience_gainer": {
+    "exp": 5,
+    "level": 1
+  },
+  "fighter": {
+    "attackNames": null
+  },
+  "glyph": {
+    "frames": [
+      {
+        "color": [
+          255,
+          255,
+          255
+        ],
+        "delay": 0,
+        "index": 452
+      }
+    ],
+    "random_frame_start": false
+  },
+  "health": 100,
+  "humanoid": {
+    "race": "1"
+  },
+  "id": "2267",
+  "minimap_pixel": [
+    171,
+    183,
+    183
+  ],
+  "moveable": {
+    "speed": 1.2000000476837158
+  },
+  "name": "Criador Anão",
+  "persona": {
+    "occupation": "Fazendeiro"
+  },
+  "sight": {
+    "ignore_infra_penalty": false,
+    "infravision": false,
+    "range": 8,
+    "threesixty": false
+  },
+  "stamina": {
+    "fatigue": 100,
+    "stamina": 100,
+    "stamina_regen": 0.0
+  },
+  "statistics": {
+    "dexterity": [
+      13,
+      17
+    ],
+    "endurance": [
+      14,
+      18
+    ],
+    "intelligence": [
+      13,
+      17
+    ],
+    "strength": [
+      14,
+      18
+    ],
+    "willpower": [
+      14,
+      18
+    ]
+  },
+  "tags": [
+    "6",
+    "9"
+  ]
+}

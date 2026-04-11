@@ -1,0 +1,27 @@
+{
+  "animation": "core_2_Pollen_Frenzy_Trigger",
+  "cast_time": 1.0,
+  "cooldown": 0.0,
+  "cost": {
+    "health": 0,
+    "stamina": 0
+  },
+  "description": "Você é cercado por uma nuvem de pólen que causa ::damage de dano ::damage_type a tudo em um alcance de ::aoe_range ao seu redor.",
+  "duration": 0.0,
+  "effects": {
+    "aoe_break": 2,
+    "aoe_range": 3,
+    "aoe_shape": 4,
+    "damage": [
+      10,
+      20
+    ],
+    "damage_type": "poison"
+  },
+  "id": "core_2_Pollen_Frenzy_Trigger",
+  "image": 796,
+  "name": "Disparo de Frenesi de Pólen",
+  "range": 0,
+  "skill": "",
+  "target": "aoe_self"
+}

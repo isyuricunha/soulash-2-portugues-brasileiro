@@ -1,0 +1,18 @@
+{
+  "enables": [
+    "core_2_carpentry"
+  ],
+  "id": "49",
+  "image": 183,
+  "max": 2,
+  "name": "Arqueiro",
+  "occupation_image": 9,
+  "occupation": "2272",
+  "produces": [],
+  "race": "2",
+  "tier": 1,
+  "workers": [
+    1,
+    2
+  ]
+}

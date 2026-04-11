@@ -1,0 +1,39 @@
+{
+  "camera_shake": {
+    "bounces": 2,
+    "duration": 0.20000000298023224,
+    "power": 5,
+    "type": 1
+  },
+  "chain_particles": false,
+  "id": "9",
+  "name": "Grito de Batalha",
+  "particles": [
+    {
+      "background": [
+        [
+          255,
+          255,
+          255,
+          10
+        ],
+        [
+          255,
+          255,
+          255,
+          55
+        ]
+      ],
+      "delay": 0.0,
+      "explosion_range": 6,
+      "flags": 2331,
+      "pulse_background": 300.0,
+      "tile_id": -1,
+      "velocity": 50.0
+    }
+  ],
+  "sound": {
+    "id": "19",
+    "volume": 100
+  }
+}

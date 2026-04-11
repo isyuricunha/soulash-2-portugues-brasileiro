@@ -1,0 +1,73 @@
+{
+  "components": [
+    "glyph",
+    "item",
+    "minimap_pixel",
+    "name",
+    "position_2d",
+    "producer",
+    "resource",
+    "stackable",
+    "value",
+    "weight"
+  ],
+  "description": "Uma tora é um tronco de árvore com galhos cortados. Pode ser útil para construir coisas. Você pode ser capaz de cortá-la ainda mais para fazer alguns pedaços de madeira.",
+  "glyph": {
+    "frames": [
+      {
+        "color": [
+          255,
+          255,
+          255
+        ],
+        "delay": 0,
+        "index": 2164
+      }
+    ],
+    "random_frame_start": false
+  },
+  "id": "core_2_Mush_Log",
+  "item": {
+    "image": 903,
+    "type": 16
+  },
+  "minimap_pixel": [
+    171,
+    102,
+    57
+  ],
+  "name": "Tora de Cogumelo",
+  "producer": {
+    "products": {
+      "1": [
+        {
+          "amount": [
+            3,
+            5
+          ],
+          "id": "core_2_Mush_Wood",
+          "percent_chance": 100
+        }
+      ],
+      "core_2_woodbend": [
+        {
+          "amount": [
+            3,
+            6
+          ],
+          "id": "core_2_Mush_Wood",
+          "percent_chance": 100
+        }
+      ]
+    },
+    "time": 30
+  },
+  "resource": {
+    "affix": "",
+    "magic_ingredient": 0,
+    "quality": 0,
+    "type": 11
+  },
+  "value": 700,
+  "weight": 72.0
+}

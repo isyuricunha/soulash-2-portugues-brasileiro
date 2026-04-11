@@ -1,0 +1,101 @@
+{
+  "armor": {
+    "acid": 0,
+    "death": 0,
+    "electricity": 0,
+    "fire": 0,
+    "frost": 0,
+    "holy": 2,
+    "parry": 0,
+    "physical": 0,
+    "poison": 0,
+    "thorns": 0
+  },
+  "components": [
+    "armor",
+    "craftable",
+    "glyph",
+    "item",
+    "minimap_pixel",
+    "name",
+    "position_2d",
+    "resource",
+    "stackable",
+    "statistics",
+    "value",
+    "weight"
+  ],
+  "craftable": {
+    "magic_slots": 0,
+    "resources": [
+      {
+        "amount": 1,
+        "id": "2156"
+      },
+      {
+        "amount": 1,
+        "id": "2121"
+      }
+    ],
+    "time": 10,
+    "tools": [
+      12
+    ]
+  },
+  "description": "Um pedaço de pano consagrado cheio de fé, mais do que um simples material.",
+  "glyph": {
+    "frames": [
+      {
+        "color": [
+          255,
+          255,
+          255
+        ],
+        "delay": 0,
+        "index": 1454
+      }
+    ],
+    "random_frame_start": false
+  },
+  "id": "2159",
+  "item": {
+    "image": 470,
+    "type": 16
+  },
+  "minimap_pixel": [
+    200,
+    200,
+    200
+  ],
+  "name": "Tecido Sagrado",
+  "resource": {
+    "affix": "Sacred",
+    "magic_ingredient": 0,
+    "quality": 3,
+    "type": 4
+  },
+  "statistics": {
+    "dexterity": [
+      0,
+      0
+    ],
+    "endurance": [
+      1,
+      1
+    ],
+    "intelligence": [
+      0,
+      0
+    ],
+    "strength": [
+      0,
+      0
+    ],
+    "willpower": [
+      0,
+      0
+    ]
+  },
+  "value": 2500,
+  "weight": 0.10000000149011612
+}

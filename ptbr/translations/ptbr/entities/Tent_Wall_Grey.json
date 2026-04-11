@@ -1,0 +1,91 @@
+{
+  "armor": {
+    "acid": 5,
+    "death": 0,
+    "electricity": 0,
+    "fire": 0,
+    "frost": 5,
+    "holy": 5,
+    "parry": 0,
+    "physical": 0,
+    "poison": 0,
+    "thorns": 0
+  },
+  "background": {
+    "color": [
+      34,
+      34,
+      35
+    ],
+    "noise": 0
+  },
+  "category_id": 2,
+  "components": [
+    "armor",
+    "background",
+    "block_light",
+    "collidable",
+    "craftable",
+    "glyph",
+    "health",
+    "height",
+    "minimap_pixel",
+    "name",
+    "position_2d",
+    "producer"
+  ],
+  "corpse": [],
+  "craftable": {
+    "backgrounds": [],
+    "biomes": [],
+    "magic_slots": 0,
+    "resource_types": [
+      {
+        "amount": 1,
+        "id": 4
+      }
+    ],
+    "resources": null,
+    "time": 2,
+    "tools": []
+  },
+  "description": "Parede de uma tenda feita de um material. Pode esconder bens de olhos curiosos e uma pessoa do sol escaldante.",
+  "glyph": {
+    "frames": [
+      {
+        "color": [
+          255,
+          255,
+          255
+        ],
+        "delay": 0,
+        "index": 2485
+      }
+    ],
+    "random_frame_start": true
+  },
+  "health": 50,
+  "height": 7,
+  "id": "core_2_Tent_Wall_Grey",
+  "minimap_pixel": [
+    120,
+    120,
+    120
+  ],
+  "name": "Parede de Tenda Cinza",
+  "producer": {
+    "products": {
+      "core_2_deconstruct": [
+        {
+          "amount": [
+            0,
+            0
+          ],
+          "id": "",
+          "percent_chance": 0
+        }
+      ]
+    },
+    "time": 20
+  }
+}

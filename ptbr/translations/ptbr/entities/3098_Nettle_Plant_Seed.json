@@ -1,0 +1,40 @@
+{
+  "components": [
+    "glyph",
+    "item",
+    "minimap_pixel",
+    "name",
+    "position_2d",
+    "stackable",
+    "value",
+    "weight"
+  ],
+  "description": "Com cuidado suficiente, esta semente crescerá em uma urtiga.",
+  "glyph": {
+    "frames": [
+      {
+        "color": [
+          255,
+          255,
+          255
+        ],
+        "delay": 0,
+        "index": 2067
+      }
+    ],
+    "random_frame_start": false
+  },
+  "id": "3098",
+  "item": {
+    "image": 849,
+    "type": 24
+  },
+  "minimap_pixel": [
+    156,
+    73,
+    73
+  ],
+  "name": "Semente de Urtiga",
+  "value": 400,
+  "weight": 0.10000000149011612
+}

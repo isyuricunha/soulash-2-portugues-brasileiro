@@ -1,0 +1,28 @@
+{
+  "animation": "core_2_Small_fire_explosion",
+  "cast_time": 0.5,
+  "cooldown": 5.0,
+  "cost": {
+    "health": 0,
+    "stamina": 4
+  },
+  "description": "Joga uma bomba explosiva em um local, causando ::damage ::damage_type de dano.",
+  "duration": 1.5,
+  "effects": {
+    "aoe_break": 1,
+    "aoe_range": 2,
+    "aoe_shape": 1,
+    "damage": [
+      8,
+      11
+    ],
+    "damage_type": "fire",
+    "damage_weapon": 0.25
+  },
+  "id": "core_2_Exploding_Bomb",
+  "image": 768,
+  "name": "Bomba Explosiva",
+  "range": 6,
+  "skill": "",
+  "target": "aoe_tile"
+}

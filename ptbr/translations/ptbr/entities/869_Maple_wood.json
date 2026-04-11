@@ -1,0 +1,71 @@
+{
+  "armor": {
+    "acid": 0,
+    "death": 0,
+    "electricity": 0,
+    "fire": 0,
+    "frost": 0,
+    "holy": 0,
+    "parry": 0,
+    "physical": 1,
+    "poison": 0,
+    "thorns": 0
+  },
+  "components": [
+    "armor",
+    "glyph",
+    "item",
+    "minimap_pixel",
+    "name",
+    "position_2d",
+    "resource",
+    "stackable",
+    "value",
+    "weapon",
+    "weight"
+  ],
+  "description": "Madeira muito durável, frequentemente usada na fabricação de móveis de alta qualidade ou escudos.",
+  "glyph": {
+    "frames": [
+      {
+        "color": [
+          255,
+          255,
+          255
+        ],
+        "delay": 0,
+        "index": 167
+      }
+    ],
+    "random_frame_start": false
+  },
+  "id": "869",
+  "item": {
+    "image": 398,
+    "type": 16
+  },
+  "minimap_pixel": [
+    117,
+    74,
+    81
+  ],
+  "name": "Madeira de Bordo",
+  "resource": {
+    "affix": "Maple",
+    "magic_ingredient": 0,
+    "quality": 1,
+    "type": 3
+  },
+  "value": 200,
+  "weapon": {
+    "attack_speed": 0.0,
+    "critical_hit": 0.0,
+    "damage": null,
+    "hands": 1,
+    "hit_bonus": 0,
+    "parry_bonus": 0,
+    "range": 1,
+    "type": 9
+  },
+  "weight": 0.10000000149011612
+}

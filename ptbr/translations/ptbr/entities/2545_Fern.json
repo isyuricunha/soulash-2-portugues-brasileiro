@@ -1,0 +1,72 @@
+{
+  "armor": {
+    "acid": 100,
+    "death": 0,
+    "electricity": 10,
+    "fire": -10,
+    "frost": 30,
+    "holy": 100,
+    "parry": 0,
+    "physical": 5,
+    "poison": 100,
+    "thorns": 0
+  },
+  "components": [
+    "armor",
+    "block_light",
+    "glyph",
+    "glyph_top",
+    "health",
+    "height",
+    "minimap_pixel",
+    "name",
+    "position_2d"
+  ],
+  "corpse": [],
+  "description": "Planta vascular caracterizada por suas frondes divididas e penugentas.",
+  "glyph": {
+    "frames": [
+      {
+        "color": [
+          120,
+          88,
+          66
+        ],
+        "delay": 0,
+        "index": 860
+      }
+    ],
+    "random_frame_start": false,
+    "random_top": {
+      "colors": [
+        [
+          99,
+          115,
+          72
+        ],
+        [
+          102,
+          120,
+          60
+        ]
+      ],
+      "count": 2,
+      "glyph_ids": [
+        1762,
+        1763
+      ],
+      "max_alpha": 200,
+      "max_range": 3,
+      "wind": true
+    }
+  },
+  "health": 50,
+  "height": 2,
+  "id": "2545",
+  "minimap_pixel": [
+    68,
+    89,
+    31
+  ],
+  "name": "Samambaia"
+}

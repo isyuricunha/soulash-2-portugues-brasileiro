@@ -1,0 +1,79 @@
+{
+  "armor": {
+    "acid": 13,
+    "death": 2,
+    "electricity": 20,
+    "fire": 18,
+    "frost": 12,
+    "holy": 2,
+    "parry": 0,
+    "physical": 13,
+    "poison": 16,
+    "thorns": 0
+  },
+  "category_id": 7,
+  "components": [
+    "armor",
+    "craftable",
+    "glyph",
+    "health",
+    "height",
+    "minimap_pixel",
+    "name",
+    "position_2d",
+    "producer",
+    "resting_place"
+  ],
+  "corpse": "2475",
+  "craftable": {
+    "magic_slots": 0,
+    "resources": [
+      {
+        "amount": 20,
+        "id": "2475"
+      }
+    ],
+    "time": 100,
+    "tools": []
+  },
+  "description": "Trono majestoso construído inteiramente de caveiras.",
+  "glyph": {
+    "frames": [
+      {
+        "color": [
+          255,
+          255,
+          255
+        ],
+        "delay": 0,
+        "index": 1969
+      }
+    ],
+    "random_frame_start": false
+  },
+  "health": 400,
+  "height": 0,
+  "id": "2973",
+  "minimap_pixel": [
+    102,
+    16,
+    11
+  ],
+  "name": "Trono de Caveiras",
+  "producer": {
+    "products": {
+      "core_2_deconstruct": [
+        {
+          "amount": [
+            0,
+            0
+          ],
+          "id": "-1",
+          "percent_chance": 0
+        }
+      ]
+    },
+    "time": 40
+  },
+  "resting_place": 200
+}

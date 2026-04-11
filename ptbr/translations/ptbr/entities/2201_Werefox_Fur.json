@@ -1,0 +1,84 @@
+{
+  "armor": {
+    "acid": 0,
+    "death": 0,
+    "electricity": 2,
+    "fire": 0,
+    "frost": 0,
+    "holy": 0,
+    "parry": 0,
+    "physical": 0,
+    "poison": 0,
+    "thorns": 0
+  },
+  "components": [
+    "armor",
+    "glyph",
+    "item",
+    "minimap_pixel",
+    "name",
+    "position_2d",
+    "resource",
+    "stackable",
+    "statistics",
+    "value",
+    "weight"
+  ],
+  "description": "Uma fusão encantadora de astúcia e graça, esta pelagem captura a essência de uma raposa metamorfoseada.",
+  "glyph": {
+    "frames": [
+      {
+        "color": [
+          255,
+          255,
+          255
+        ],
+        "delay": 0,
+        "index": 539
+      }
+    ],
+    "random_frame_start": false
+  },
+  "id": "2201",
+  "item": {
+    "image": 504,
+    "type": 16
+  },
+  "minimap_pixel": [
+    182,
+    175,
+    158
+  ],
+  "name": "Pele de Raposa Metamorfoseada",
+  "resource": {
+    "affix": "Cunning",
+    "magic_ingredient": 0,
+    "quality": 4,
+    "type": 9
+  },
+  "statistics": {
+    "dexterity": [
+      0,
+      0
+    ],
+    "endurance": [
+      0,
+      0
+    ],
+    "intelligence": [
+      2,
+      2
+    ],
+    "sneaking": 10,
+    "strength": [
+      0,
+      0
+    ],
+    "willpower": [
+      0,
+      0
+    ]
+  },
+  "value": 9000,
+  "weight": 0.10000000149011612
+}

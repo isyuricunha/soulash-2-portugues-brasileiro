@@ -1,0 +1,96 @@
+{
+  "animation_origin_self": false,
+  "camera_shake": {
+    "bounces": 0,
+    "duration": 0.0,
+    "power": 0.0,
+    "type": 1
+  },
+  "chain_particles": false,
+  "id": "core_2_Blizzard_single_fall",
+  "ignore_roof": false,
+  "name": "Queda de Nevasca",
+  "particles": [
+    {
+      "color": [
+        [
+          255,
+          255,
+          255,
+          255
+        ]
+      ],
+      "elevation": 500,
+      "flags": 32768,
+      "height": 4,
+      "life": 700.0,
+      "on_impact": "core_2_Blizzard_single_impact",
+      "tile_id": 637
+    },
+    {
+      "color": [
+        [
+          20,
+          20,
+          20,
+          250
+        ],
+        [
+          20,
+          20,
+          20,
+          250
+        ]
+      ],
+      "flags": 0,
+      "life": 200.0,
+      "tile_id": 639
+    },
+    {
+      "color": [
+        [
+          20,
+          20,
+          20,
+          250
+        ]
+      ],
+      "delay": 200.0,
+      "flags": 0,
+      "life": 200.0,
+      "tile_id": 639
+    },
+    {
+      "color": [
+        [
+          20,
+          20,
+          20,
+          250
+        ]
+      ],
+      "delay": 400.0,
+      "flags": 0,
+      "life": 150.0,
+      "tile_id": 655
+    },
+    {
+      "color": [
+        [
+          20,
+          20,
+          20,
+          250
+        ]
+      ],
+      "delay": 550.0,
+      "flags": 0,
+      "life": 200.0,
+      "tile_id": 368
+    }
+  ],
+  "sound": {
+    "id": "",
+    "volume": 100
+  }
+}

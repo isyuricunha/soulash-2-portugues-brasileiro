@@ -1,0 +1,54 @@
+{
+  "components": [
+    "glyph",
+    "item",
+    "light_source",
+    "minimap_pixel",
+    "name",
+    "position_2d",
+    "resource",
+    "stackable",
+    "value",
+    "weight"
+  ],
+  "description": "Um cristal luminoso emanando um brilho suave e etéreo.",
+  "glyph": {
+    "frames": [
+      {
+        "color": [
+          255,
+          255,
+          255
+        ],
+        "delay": 0,
+        "index": 1724
+      }
+    ],
+    "random_frame_start": false
+  },
+  "id": "2518",
+  "item": {
+    "image": 662,
+    "type": 16
+  },
+  "light_source": {
+    "finish": -1,
+    "fuel": [],
+    "lit_image": 662,
+    "range": 3
+  },
+  "minimap_pixel": [
+    100,
+    109,
+    155
+  ],
+  "name": "Pedra de Cristal Brilhante",
+  "resource": {
+    "affix": "Glowing",
+    "magic_ingredient": 0,
+    "quality": 1,
+    "type": 8
+  },
+  "value": 500,
+  "weight": 0.10000000149011612
+}

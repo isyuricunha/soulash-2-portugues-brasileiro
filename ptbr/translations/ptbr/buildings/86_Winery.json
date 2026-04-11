@@ -1,0 +1,83 @@
+{
+  "id": "86",
+  "image": 50,
+  "max": 2,
+  "name": "Vinícola",
+  "occupation_image": 31,
+  "occupation": "2297",
+  "occupation_per_race": {
+    "0": "core_2_Human_Winemaker",
+    "1": "core_2_Dwarf_Winemaker",
+    "2": "2297",
+    "4": "core_2_Goblin_Winemaker",
+    "6": "core_2_Vampire_Winemaker",
+    "7": "core_2_Troll_Winemaker",
+    "8": "core_2_Orc_Winemaker",
+    "10": "core_2_Rasimi_Winemaker",
+    "23": "core_2_Reptilion_Winemaker",
+    "26": "core_2_Bone_Wraith_Winemaker",
+    "31": "core_2_Gnoll_Winemaker",
+    "32": "core_2_Mushman_Winemaker",
+    "33": "core_2_Ursan_Winemaker"
+  },
+  "produces": [
+    {
+      "entities": [
+        {
+          "daily": 1,
+          "id": "2296"
+        }
+      ],
+      "takes": [
+        {
+          "amount": 2,
+          "id": "811"
+        },
+        {
+          "amount": 1,
+          "id": "832"
+        }
+      ]
+    },
+    {
+      "entities": [
+        {
+          "daily": 1,
+          "id": "2296"
+        }
+      ],
+      "takes": [
+        {
+          "amount": 6,
+          "id": "812"
+        },
+        {
+          "amount": 1,
+          "id": "832"
+        }
+      ]
+    }
+  ],
+  "race": "2",
+  "tier": 1,
+  "workers": [
+    1,
+    2
+  ],
+  "allow_player": true,
+  "required_entities": [
+    {
+      "entities": [
+        "928",
+        "2408"
+      ],
+      "count": 1
+    },
+    {
+      "component": "resting_place",
+      "count": 2
+    }
+  ],
+  "min_area": 20,
+  "group": "producers"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "core_2_elemental_core",
+  "name": "Núcleo Elemental",
+  "requirements": {
+    "milestones": [],
+    "skill": 40
+  },
+  "rewards": [
+    {
+      "recipe": "2547"
+    }
+  ],
+  "skill_id": "core_2_construction",
+  "steps": [],
+  "steps_type": 0
+}

@@ -1,0 +1,16 @@
+{
+  "id": "core_2_live_roof",
+  "name": "Teto Vivo",
+  "requirements": {
+    "milestones": [],
+    "skill": 26
+  },
+  "rewards": [
+    {
+      "recipe": "core_2_Live_Roof"
+    }
+  ],
+  "skill_id": "core_2_carpentry",
+  "steps": [],
+  "steps_type": 0
+}

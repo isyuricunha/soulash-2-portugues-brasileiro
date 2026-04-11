@@ -1,0 +1,44 @@
+{
+  "camera_shake": {
+    "bounces": 2,
+    "duration": 0.4000000059604645,
+    "power": 1,
+    "type": 1
+  },
+  "chain_particles": false,
+  "id": "36",
+  "ignore_roof": true,
+  "name": "Recuo",
+  "particles": [
+    {
+      "color": [
+        [
+          0,
+          0,
+          0,
+          65
+        ]
+      ],
+      "flags": 1064,
+      "tile_id": 333,
+      "velocity": 70.0
+    },
+    {
+      "color": [
+        [
+          0,
+          0,
+          0,
+          65
+        ]
+      ],
+      "flags": 1064,
+      "tile_id": 366,
+      "velocity": 70.0
+    }
+  ],
+  "sound": {
+    "id": "9",
+    "volume": 100
+  }
+}

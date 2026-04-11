@@ -1,0 +1,28 @@
+{
+  "animation": "core_2_Freezing_Bomb_Throw",
+  "cast_time": 0.5,
+  "cooldown": 10.0,
+  "cost": {
+    "health": 0,
+    "stamina": 8
+  },
+  "description": "Arremesse uma bomba em um local, causando ::damage de ::damage_type e congelamento.",
+  "duration": 1.5,
+  "effects": {
+    "aoe_break": 1,
+    "aoe_range": 2,
+    "aoe_shape": 1,
+    "damage": [
+      7,
+      10
+    ],
+    "damage_type": "frost",
+    "stacker": "124"
+  },
+  "id": "core_2_Freezing_Bomb",
+  "image": 771,
+  "name": "Bomba Congelante",
+  "range": 6,
+  "skill": "",
+  "target": "aoe_tile"
+}

@@ -1,0 +1,128 @@
+{
+  "ability_user": [
+    "core_2_Soul_Rend",
+    "104"
+  ],
+  "armor": {
+    "acid": 50,
+    "death": 9999,
+    "electricity": 50,
+    "fire": 50,
+    "frost": 50,
+    "holy": -5,
+    "parry": 0,
+    "physical": 30,
+    "poison": 50,
+    "thorns": 0
+  },
+  "artificial_intelligence": {
+    "allies": [],
+    "allow_production": [],
+    "behaviors": [],
+    "enemies": [
+      "5"
+    ]
+  },
+  "components": [
+    "ability_user",
+    "actor",
+    "armor",
+    "artificial_intelligence",
+    "collidable",
+    "experience_gainer",
+    "glyph",
+    "health",
+    "minimap_pixel",
+    "moveable",
+    "name",
+    "position_2d",
+    "sight",
+    "stamina",
+    "statistics",
+    "tags",
+    "weapon"
+  ],
+  "corpse": [],
+  "description": "Uma criatura drakonid enorme espalhando uma aura de destruição e decadência ao seu redor.",
+  "experience_gainer": {
+    "exp": 0,
+    "level": 50
+  },
+  "glyph": {
+    "frames": [
+      {
+        "color": [
+          255,
+          255,
+          255
+        ],
+        "delay": 0,
+        "index": 477
+      }
+    ],
+    "random_frame_start": false
+  },
+  "health": 3700,
+  "id": "core_2_Black_Dragon_Torso",
+  "minimap_pixel": [
+    149,
+    165,
+    101
+  ],
+  "moveable": {
+    "speed": 0.699999988079071
+  },
+  "name": "Dragão Negro",
+  "sight": {
+    "ignore_infra_penalty": true,
+    "infravision": true,
+    "range": 12,
+    "threesixty": true
+  },
+  "stamina": {
+    "fatigue": 100,
+    "stamina": 100,
+    "stamina_regen": 0.0
+  },
+  "statistics": {
+    "dexterity": [
+      90,
+      100
+    ],
+    "endurance": [
+      106,
+      108
+    ],
+    "intelligence": [
+      164,
+      170
+    ],
+    "strength": [
+      100,
+      110
+    ],
+    "willpower": [
+      96,
+      107
+    ]
+  },
+  "tags": [
+    "38"
+  ],
+  "weapon": {
+    "attack_speed": 1.0,
+    "critical_hit": 0.0,
+    "damage": [
+      {
+        "dmg_max": 40,
+        "dmg_min": 25,
+        "dmg_type": "death"
+      }
+    ],
+    "hands": 1,
+    "hit_bonus": 0,
+    "parry_bonus": 0,
+    "range": 1,
+    "type": 0
+  }
+}

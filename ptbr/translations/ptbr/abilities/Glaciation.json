@@ -1,0 +1,25 @@
+{
+  "animation": "core_2_Glaciation",
+  "cast_time": 1.0,
+  "cooldown": 8.0,
+  "cost": {
+    "health": 0,
+    "stamina": 5
+  },
+  "description": "Aplica Congelamento por 3 turnos e imobiliza o alvo por 1 turno.",
+  "duration": 1.0,
+  "effects": {
+    "frostbite": 3,
+    "immobilize": 1
+  },
+  "id": "core_2_Glaciation",
+  "image": 741,
+  "name": "Glaciação",
+  "range": 6,
+  "skill": "core_2_cryomancy",
+  "slots": {
+    "offensive": 2,
+    "utility": 1
+  },
+  "target": "health"
+}

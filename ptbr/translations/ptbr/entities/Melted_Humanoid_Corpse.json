@@ -1,0 +1,93 @@
+{
+  "components": [
+    "glyph",
+    "item",
+    "liquid_source",
+    "minimap_pixel",
+    "name",
+    "position_2d",
+    "producer",
+    "weight"
+  ],
+  "description": "Um cadáver humanoide coberto de ácido. Quase irreconhecível.",
+  "glyph": {
+    "frames": [
+      {
+        "color": [
+          255,
+          255,
+          255
+        ],
+        "delay": 0,
+        "index": 1085
+      },
+      {
+        "color": [
+          255,
+          255,
+          255
+        ],
+        "delay": 0,
+        "index": 2751
+      },
+      {
+        "color": [
+          255,
+          255,
+          255
+        ],
+        "delay": 0,
+        "index": 2750
+      },
+      {
+        "color": [
+          255,
+          255,
+          255
+        ],
+        "delay": 0,
+        "index": 2749
+      }
+    ],
+    "random_frame_start": true
+  },
+  "id": "core_2_Melted_Humanoid_Corpse",
+  "item": {
+    "image": 2,
+    "type": 18
+  },
+  "liquid_source": {
+    "limit": 60,
+    "type": 4
+  },
+  "minimap_pixel": [
+    147,
+    128,
+    104
+  ],
+  "name": "Cadáver Humanoide Derretido",
+  "producer": {
+    "products": {
+      "3": [
+        {
+          "amount": [
+            1,
+            1
+          ],
+          "id": "55",
+          "percent_chance": 100
+        },
+        {
+          "amount": [
+            1,
+            1
+          ],
+          "id": "318",
+          "percent_chance": 100
+        }
+      ]
+    },
+    "time": 20
+  },
+  "weight": 60.0
+}

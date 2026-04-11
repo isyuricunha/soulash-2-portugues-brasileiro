@@ -1,0 +1,47 @@
+{
+  "components": [
+    "glyph",
+    "minimap_pixel",
+    "name",
+    "position_2d",
+    "producer",
+    "stackable"
+  ],
+  "description": "Muitas rochas e pedras empilhadas umas sobre as outras. Pode bloquear seu caminho.",
+  "glyph": {
+    "frames": [
+      {
+        "color": [
+          255,
+          255,
+          255
+        ],
+        "delay": 0,
+        "index": 1864
+      }
+    ],
+    "random_frame_start": true
+  },
+  "id": "2830",
+  "minimap_pixel": [
+    114,
+    113,
+    115
+  ],
+  "name": "Pilha de Pedras",
+  "producer": {
+    "products": {
+      "10": [
+        {
+          "amount": [
+            2,
+            4
+          ],
+          "id": "35",
+          "percent_chance": 100
+        }
+      ]
+    },
+    "time": 0
+  }
+}

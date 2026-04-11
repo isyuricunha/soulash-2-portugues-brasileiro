@@ -1,0 +1,71 @@
+{
+  "armor": {
+    "acid": 0,
+    "death": 4,
+    "electricity": 0,
+    "fire": 2,
+    "frost": 0,
+    "holy": 0,
+    "parry": 0,
+    "physical": 2,
+    "poison": 4,
+    "thorns": 0
+  },
+  "components": [
+    "armor",
+    "craftable",
+    "glyph",
+    "item",
+    "minimap_pixel",
+    "name",
+    "position_2d",
+    "value",
+    "weight"
+  ],
+  "craftable": {
+    "magic_slots": 4,
+    "resource_types": [
+      {
+        "amount": 1,
+        "id": 2
+      },
+      {
+        "amount": 3,
+        "id": 10
+      }
+    ],
+    "resources": null,
+    "time": 60,
+    "tools": [
+      1
+    ]
+  },
+  "description": "Um pouco áspero e grosseiro, mas lhe dará alguma proteção.",
+  "glyph": {
+    "frames": [
+      {
+        "color": [
+          255,
+          255,
+          255
+        ],
+        "delay": 0,
+        "index": 553
+      }
+    ],
+    "random_frame_start": false
+  },
+  "id": "2221",
+  "item": {
+    "image": 570,
+    "type": 9
+  },
+  "minimap_pixel": [
+    212,
+    200,
+    33
+  ],
+  "name": "Botas de Escamas",
+  "value": 4500,
+  "weight": 2.5
+}

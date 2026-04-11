@@ -1,0 +1,71 @@
+{
+  "armor": {
+    "acid": 0,
+    "death": 6,
+    "electricity": 6,
+    "fire": 0,
+    "frost": 0,
+    "holy": 0,
+    "parry": 0,
+    "physical": 0,
+    "poison": 6,
+    "thorns": 0
+  },
+  "components": [
+    "armor",
+    "craftable",
+    "glyph",
+    "item",
+    "minimap_pixel",
+    "name",
+    "position_2d",
+    "value",
+    "weight"
+  ],
+  "craftable": {
+    "magic_slots": 5,
+    "resource_types": [
+      {
+        "amount": 1,
+        "id": 8
+      },
+      {
+        "amount": 4,
+        "id": 4
+      }
+    ],
+    "resources": null,
+    "time": 60,
+    "tools": [
+      12
+    ]
+  },
+  "description": "Uma túnica finamente elaborada adornada com bordados intricados e enfeites, exibindo o status e a riqueza do usuário.",
+  "glyph": {
+    "frames": [
+      {
+        "color": [
+          255,
+          255,
+          255
+        ],
+        "delay": 0,
+        "index": 519
+      }
+    ],
+    "random_frame_start": false
+  },
+  "id": "2217",
+  "item": {
+    "image": 566,
+    "type": 5
+  },
+  "minimap_pixel": [
+    212,
+    200,
+    33
+  ],
+  "name": "Túnica Decorada",
+  "value": 9000,
+  "weight": 1.0
+}

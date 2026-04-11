@@ -1,0 +1,144 @@
+{
+  "armor": {
+    "acid": 0,
+    "death": 0,
+    "electricity": 0,
+    "fire": 1,
+    "frost": 0,
+    "holy": 0,
+    "parry": 0,
+    "physical": 0,
+    "poison": 0,
+    "thorns": 0
+  },
+  "artificial_intelligence": {
+    "allies": [],
+    "allow_production": [],
+    "behaviors": [
+      0,
+      16
+    ],
+    "enemies": []
+  },
+  "components": [
+    "actor",
+    "armor",
+    "artificial_intelligence",
+    "collidable",
+    "dialogues",
+    "equipment",
+    "experience_gainer",
+    "fighter",
+    "glyph",
+    "health",
+    "minimap_pixel",
+    "moveable",
+    "name",
+    "position_2d",
+    "sight",
+    "stamina",
+    "statistics",
+    "tags"
+  ],
+  "corpse": "2191",
+  "description": "Uma criatura sorrateira e enganadora.",
+  "dialogues": [
+    "2",
+    "903"
+  ],
+  "equipment": {
+    "disabled_slots": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18
+    ]
+  },
+  "experience_gainer": {
+    "exp": 0,
+    "level": 10
+  },
+  "fighter": {
+    "attackNames": [
+      "Bite",
+      "Scratch"
+    ]
+  },
+  "glyph": {
+    "frames": [
+      {
+        "color": [
+          255,
+          255,
+          255
+        ],
+        "delay": 0,
+        "index": 120
+      }
+    ],
+    "random_frame_start": false
+  },
+  "health": 20,
+  "id": "64",
+  "minimap_pixel": [
+    188,
+    88,
+    0
+  ],
+  "moveable": {
+    "speed": 0.800000011920929
+  },
+  "name": "Raposa Vermelha",
+  "sight": {
+    "ignore_infra_penalty": false,
+    "infravision": true,
+    "range": 6,
+    "threesixty": false
+  },
+  "stamina": {
+    "fatigue": 100,
+    "stamina": 100,
+    "stamina_regen": 0.0
+  },
+  "statistics": {
+    "dexterity": [
+      10,
+      15
+    ],
+    "endurance": [
+      5,
+      8
+    ],
+    "intelligence": [
+      3,
+      8
+    ],
+    "strength": [
+      10,
+      15
+    ],
+    "willpower": [
+      3,
+      8
+    ]
+  },
+  "tags": [
+    "2",
+    "9"
+  ]
+}

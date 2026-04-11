@@ -1,0 +1,25 @@
+{
+  "animation": "core_2_Sweet_Voice",
+  "cast_time": 1.0,
+  "cooldown": 3.0,
+  "cost": {
+    "health": 0,
+    "stamina": 4
+  },
+  "description": "Basilisco está usando sua bela voz causando ::damage de dano ::damage_type",
+  "duration": 0.0,
+  "effects": {
+    "damage": [
+      20,
+      30
+    ],
+    "damage_type": "electricity",
+    "damage_weapon": 1.25
+  },
+  "id": "core_2_Sweet_Voice",
+  "image": 787,
+  "name": "Voz Doce",
+  "range": 10,
+  "skill": "",
+  "target": "cone"
+}

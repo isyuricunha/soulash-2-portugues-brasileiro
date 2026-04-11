@@ -1,0 +1,16 @@
+{
+  "id": "core_2_rainbow_bomb",
+  "name": "Bomba Arco-Íris",
+  "requirements": {
+    "milestones": [],
+    "skill": 43
+  },
+  "rewards": [
+    {
+      "recipe": "core_2_Rainbow_Bomb"
+    }
+  ],
+  "skill_id": "core_2_alchemy",
+  "steps": [],
+  "steps_type": 0
+}
