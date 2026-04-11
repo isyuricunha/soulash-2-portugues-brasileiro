@@ -24,9 +24,9 @@
       ],
       "id": "4",
       "suffixes": [
-        "Farm",
-        "Fields",
-        "Farmland"
+        "Fazenda",
+        "Campos",
+        "Terra Agrícola"
       ]
     },
     {
@@ -68,28 +68,28 @@
       ],
       "id": "11",
       "prefixes": [
-        "Vigilant",
-        "Dauntless",
-        "Impenetrable",
-        "Mighty",
-        "Towering",
-        "Sentry",
-        "Unyielding",
-        "Fortified",
-        "Watchful",
-        "Lofty"
+        "Vigilante",
+        "Intrépido",
+        "Impenetrável",
+        "Poderoso",
+        "Imponente",
+        "Sentinela",
+        "Inabalável",
+        "Fortificado",
+        "Atento",
+        "Elevado"
       ],
       "suffixes": [
-        "Eagle Eye",
-        "Storm Watcher",
-        "Bastion",
-        "Sentinel",
-        "Lookout",
-        "Garrison",
-        "Skyward Shield",
-        "Beacon",
-        "Defender",
-        "Overwatch"
+        "Olho de Águia",
+        "Vigia da Tempestade",
+        "Bastião",
+        "Sentinela",
+        "Vigia",
+        "Guarnição",
+        "Escudo Celestial",
+        "Farol",
+        "Defensor",
+        "Sobrevigilância"
       ]
     },
     {
@@ -125,41 +125,41 @@
       ],
       "id": "12",
       "prefixes": [
-        "Tipsy",
-        "Giggling",
-        "Rambunctious",
-        "Cozy",
-        "Quirky",
-        "Saucy",
-        "Wobbly",
-        "Drunken",
-        "Rowdy",
-        "Boisterous",
-        "Pouncing",
-        "Foolish",
-        "Married",
-        "Flying",
-        "Zealous",
-        "Twin",
-        "Fat",
-        "Glamorous",
-        "King's",
-        "Queen's",
-        "Last",
-        "Full",
-        "Roasted",
-        "Black",
-        "Busy"
+        "Alcoolizado",
+        "Risonho",
+        "Travesso",
+        "Aconchegante",
+        "Excêntrico",
+        "Atrevido",
+        "Tremido",
+        "Ébrio",
+        "Barulhento",
+        "Alegre",
+        "Saltitante",
+        "Tolo",
+        "Casado",
+        "Voador",
+        "Zeloso",
+        "Gêmeo",
+        "Gordo",
+        "Glamuroso",
+        "Do Rei",
+        "Da Rainha",
+        "Último",
+        "Cheio",
+        "Assado",
+        "Preto",
+        "Ocupado"
       ],
       "suffixes": [
-        "Alehouse",
-        "Tavern",
-        "Inn",
-        "Lodge",
-        "Roadhouse",
-        "Rest",
-        "Haven",
-        "Retreat"
+        "Casa de Cerveja",
+        "Taberna",
+        "Pousada",
+        "Alojamento",
+        "Estalagem",
+        "Descansar",
+        "Refúgio",
+        "Retiro"
       ]
     },
     {
@@ -186,28 +186,28 @@
       ],
       "id": "13",
       "prefixes": [
-        "Master",
-        "Relentless",
-        "Unbreakable",
-        "Tempered",
-        "Battle-worn",
-        "Mighty",
-        "Exalted",
-        "Sharp",
-        "Revered",
-        "Glorious",
-        "Tough",
-        "Potent",
-        "Sturdy",
-        "Deadly",
-        "Destructive",
-        "Lethal",
-        "Great"
+        "Mestre",
+        "Implacável",
+        "Inquebrável",
+        "Temperado",
+        "Gastos de Batalha",
+        "Poderoso",
+        "Exaltado",
+        "Afiado",
+        "Reverenciado",
+        "Glorioso",
+        "Resistente",
+        "Potente",
+        "Robusto",
+        "Mortal",
+        "Destrutivo",
+        "Letal",
+        "Grande"
       ],
       "suffixes": [
-        "Smithy",
-        "Workshop",
-        "Forge"
+        "Ferraria",
+        "Oficina",
+        "Forja"
       ]
     },
     {
@@ -229,28 +229,28 @@
       ],
       "id": "14",
       "prefixes": [
-        "Master",
-        "Relentless",
-        "Unbreakable",
-        "Tempered",
-        "Battle-worn",
-        "Mighty",
-        "Exalted",
-        "Sharp",
-        "Revered",
-        "Glorious",
-        "Tough",
-        "Potent",
-        "Sturdy",
-        "Deadly",
-        "Destructive",
-        "Lethal",
-        "Great"
+        "Mestre",
+        "Implacável",
+        "Inquebrável",
+        "Temperado",
+        "Gastos de Batalha",
+        "Poderoso",
+        "Exaltado",
+        "Afiado",
+        "Reverenciado",
+        "Glorioso",
+        "Resistente",
+        "Potente",
+        "Robusto",
+        "Mortal",
+        "Destrutivo",
+        "Letal",
+        "Ótimo"
       ],
       "suffixes": [
-        "Smithy",
-        "Workshop",
-        "Forge"
+        "Ferraria",
+        "Oficina",
+        "Forja"
       ]
     },
     {
@@ -270,23 +270,23 @@
       ],
       "id": "15",
       "prefixes": [
-        "Clever",
-        "Resourceful",
-        "Ingenious",
-        "Dexterous",
-        "Steady",
-        "Gifted",
-        "Deft",
-        "Astute",
-        "Versatile",
-        "Hot",
-        "Flimsy",
-        "Great",
-        "Fantastic"
+        "Esperto",
+        "Recursoso",
+        "Ingenioso",
+        "Destro",
+        "Firme",
+        "Talentoso",
+        "Hábil",
+        "Astuto",
+        "Versátil",
+        "Quente",
+        "Frágil",
+        "Ótimo",
+        "Fantástico"
       ],
       "suffixes": [
-        "Workshop",
-        "Workbench"
+        "Oficina",
+        "Banco de Trabalho"
       ]
     },
     {
@@ -305,22 +305,22 @@
       ],
       "id": "16",
       "prefixes": [
-        "Precise",
-        "String-tight",
-        "Silent",
-        "Graceful",
-        "Unerring",
-        "Swift",
-        "Dauntless",
-        "Eagle-eyed",
-        "Masterful",
-        "Swift",
-        "Quick"
+        "Preciso",
+        "Tenso",
+        "Silencioso",
+        "Gracioso",
+        "Infalível",
+        "Rápido",
+        "Intrépido",
+        "Olho de Águia",
+        "Mestre",
+        "Rápido",
+        "Rápido"
       ],
       "suffixes": [
-        "Shop",
-        "Bowyer",
-        "Fletcher"
+        "Loja",
+        "Arqueiro",
+        "Flecheiro"
       ]
     },
     {
@@ -353,28 +353,28 @@
       ],
       "id": "18",
       "prefixes": [
-        "Elegant",
-        "Snug",
-        "Patterned",
-        "Timeless",
-        "Dapper",
-        "Masterful",
-        "Luminous",
-        "Shiny",
-        "Soft",
-        "Mushy",
-        "Pale",
-        "Subtle",
-        "Silky",
-        "Stylish",
-        "Tasteful",
-        "Grand",
-        "Refined",
-        "Dignified"
+        "Elegante",
+        "Confortável",
+        "Padrão",
+        "Atemporal",
+        "Elegante",
+        "Mestre",
+        "Luminoso",
+        "Brilhante",
+        "Macio",
+        "Aveludado",
+        "Pálido",
+        "Sutil",
+        "Sedoso",
+        "Estiloso",
+        "Sofisticado",
+        "Grandioso",
+        "Refinado",
+        "Digno"
       ],
       "suffixes": [
-        "Shop",
-        "Tailor"
+        "Loja",
+        "Alfaiate"
       ]
     },
     {
@@ -396,24 +396,24 @@
       ],
       "id": "19",
       "prefixes": [
-        "Enchanted",
-        "Mystic",
-        "Spellbound",
-        "Fabled",
-        "Notable",
-        "Great",
-        "Prominent",
-        "Legendary",
-        "Fabulous",
-        "Magnificent",
-        "Good",
-        "Big",
-        "Comfy",
-        "Old"
+        "Encantado",
+        "Místico",
+        "Feiticeiro",
+        "Lendário",
+        "Notável",
+        "Grande",
+        "Proeminente",
+        "Lendário",
+        "Fabuloso",
+        "Magnífico",
+        "Bom",
+        "Grande",
+        "Confortável",
+        "Velho"
       ],
       "suffixes": [
-        "Shop",
-        "Shoemaker"
+        "Loja",
+        "Sapateiro"
       ]
     },
     {
@@ -439,23 +439,23 @@
       ],
       "id": "20",
       "prefixes": [
-        "Supple",
-        "Masterful",
-        "Durable",
-        "Refined",
-        "Intricate",
-        "Sturdy",
-        "Elegant",
-        "Crafty",
-        "Ornate",
-        "Reinforced",
-        "Runic",
-        "Simple"
+        "Flexível",
+        "Primoroso",
+        "Durável",
+        "Refinado",
+        "Intricado",
+        "Robusto",
+        "Elegante",
+        "Artesanal",
+        "Ornado",
+        "Reforçado",
+        "Rúnico",
+        "Simples"
       ],
       "suffixes": [
-        "Workshop",
-        "Leathersmith",
-        "Leatherworks"
+        "Oficina",
+        "Coureiro",
+        "Couraria"
       ]
     },
     {
@@ -482,9 +482,9 @@
       ],
       "id": "27",
       "suffixes": [
-        "Farm",
-        "Fields",
-        "Farmland"
+        "Fazenda",
+        "Campos",
+        "Terra Agrícola"
       ]
     },
     {
@@ -493,9 +493,9 @@
       ],
       "id": "28",
       "suffixes": [
-        "Farm",
-        "Fields",
-        "Farmland"
+        "Fazenda",
+        "Campos",
+        "Terra Agrícola"
       ]
     },
     {
@@ -504,7 +504,7 @@
       ],
       "id": "29",
       "suffixes": [
-        "Herbs"
+        "Ervas"
       ]
     },
     {
@@ -513,7 +513,7 @@
       ],
       "id": "30",
       "suffixes": [
-        "Claypit"
+        "Poço de Argila"
       ]
     },
     {
@@ -522,11 +522,11 @@
       ],
       "id": "31",
       "suffixes": [
-        "Ranch",
-        "Homestead",
-        "Estate",
-        "Land",
-        "Sheep Farm"
+        "Rancho",
+        "Propriedade Rural",
+        "Propriedade",
+        "Terra",
+        "Fazenda de Ovelhas"
       ]
     },
     {
@@ -535,8 +535,8 @@
       ],
       "id": "32",
       "suffixes": [
-        "Pottery",
-        "Ceramics"
+        "Cerâmica",
+        "Cerâmica"
       ]
     },
     {
@@ -545,7 +545,7 @@
       ],
       "id": "35",
       "suffixes": [
-        "Lutes"
+        "Alaudistas"
       ]
     },
     {
@@ -554,7 +554,7 @@
       ],
       "id": "36",
       "suffixes": [
-        "Infirmary"
+        "Enfermaria"
       ]
     },
     {
@@ -563,8 +563,8 @@
       ],
       "id": "37",
       "suffixes": [
-        "Paper",
-        "Papermill"
+        "Papel",
+        "Moinho de Papel"
       ]
     },
     {
@@ -573,9 +573,9 @@
       ],
       "id": "38",
       "suffixes": [
-        "Archers",
-        "Barracks",
-        "Sharpshooters"
+        "Arqueiros",
+        "Quartel",
+        "Atiradores de Elite"
       ]
     },
     {
@@ -584,7 +584,7 @@
       ],
       "id": "39",
       "suffixes": [
-        "Collegium Magicae"
+        "Colégio Magicae"
       ]
     },
     {
@@ -593,7 +593,7 @@
       ],
       "id": "55",
       "suffixes": [
-        "Druid Circle"
+        "Círculo Druida"
       ]
     },
     {
@@ -602,7 +602,7 @@
       ],
       "id": "67",
       "suffixes": [
-        "Barracks"
+        "Quartel"
       ]
     },
     {
@@ -611,7 +611,7 @@
       ],
       "id": "74",
       "suffixes": [
-        "Guardsmen"
+        "Guarda"
       ]
     },
     {
@@ -620,7 +620,7 @@
       ],
       "id": "75",
       "suffixes": [
-        "Dancers"
+        "Dançarinos"
       ]
     },
     {
@@ -629,9 +629,9 @@
       ],
       "id": "76",
       "suffixes": [
-        "Grey Watchers",
-        "Watchers",
-        "Scouts"
+        "Vigias Cinzentos",
+        "Vigias",
+        "Batedores"
       ]
     },
     {
@@ -640,7 +640,7 @@
       ],
       "id": "82",
       "suffixes": [
-        "Guardsmen"
+        "Guarda"
       ]
     },
     {
@@ -649,7 +649,7 @@
       ],
       "id": "83",
       "suffixes": [
-        "Crossbowmen"
+        "Besteiros"
       ]
     },
     {
@@ -658,7 +658,7 @@
       ],
       "id": "84",
       "suffixes": [
-        "Runebearers"
+        "Portadores de Runa"
       ]
     },
     {
@@ -667,7 +667,7 @@
       ],
       "id": "109",
       "suffixes": [
-        "Wardens"
+        "Guardiões"
       ]
     },
     {
@@ -676,7 +676,7 @@
       ],
       "id": "110",
       "suffixes": [
-        "Den"
+        "Toca"
       ]
     },
     {
@@ -685,7 +685,7 @@
       ],
       "id": "112",
       "suffixes": [
-        "Temple"
+        "Templo"
       ]
     },
     {
@@ -694,7 +694,7 @@
       ],
       "id": "130",
       "suffixes": [
-        "Guardsmen"
+        "Guarda"
       ]
     },
     {
@@ -703,7 +703,7 @@
       ],
       "id": "131",
       "suffixes": [
-        "Barracks"
+        "Quartel"
       ]
     },
     {
@@ -712,7 +712,7 @@
       ],
       "id": "132",
       "suffixes": [
-        "Throwers"
+        "Arremessadores"
       ]
     },
     {
@@ -721,7 +721,7 @@
       ],
       "id": "133",
       "suffixes": [
-        "Pyre"
+        "Pira"
       ]
     },
     {
@@ -730,7 +730,7 @@
       ],
       "id": "247",
       "suffixes": [
-        "Guardians"
+        "Guardas"
       ]
     },
     {
@@ -739,7 +739,7 @@
       ],
       "id": "248",
       "suffixes": [
-        "Knives"
+        "Facas"
       ]
     },
     {
@@ -748,7 +748,7 @@
       ],
       "id": "249",
       "suffixes": [
-        "Legion"
+        "Legião"
       ]
     },
     {
@@ -757,7 +757,7 @@
       ],
       "id": "257",
       "suffixes": [
-        "Mystics"
+        "Místicos"
       ]
     },
     {
@@ -766,7 +766,7 @@
       ],
       "id": "264",
       "suffixes": [
-        "Guardians"
+        "Guardas"
       ]
     },
     {
@@ -775,7 +775,7 @@
       ],
       "id": "265",
       "suffixes": [
-        "Wardens"
+        "Guardiões"
       ]
     },
     {
@@ -784,7 +784,7 @@
       ],
       "id": "269",
       "suffixes": [
-        "Warriors"
+        "Guerreiros"
       ]
     },
     {
@@ -793,7 +793,7 @@
       ],
       "id": "296",
       "suffixes": [
-        "Wildlings"
+        "Selvagens"
       ]
     },
     {
@@ -802,7 +802,7 @@
       ],
       "id": "297",
       "suffixes": [
-        "Totems"
+        "Totens"
       ]
     },
     {
@@ -820,7 +820,7 @@
       ],
       "id": "299",
       "suffixes": [
-        "Hailstorms"
+        "Granizo"
       ]
     },
     {
@@ -829,7 +829,7 @@
       ],
       "id": "322",
       "suffixes": [
-        "Teeth"
+        "Dentes"
       ]
     },
     {
@@ -838,7 +838,7 @@
       ],
       "id": "323",
       "suffixes": [
-        "Claws"
+        "Garras"
       ]
     },
     {
@@ -847,7 +847,7 @@
       ],
       "id": "324",
       "suffixes": [
-        "Tails"
+        "Caudas"
       ]
     },
     {
@@ -856,7 +856,7 @@
       ],
       "id": "325",
       "suffixes": [
-        "Fangs"
+        "Presas"
       ]
     },
     {
@@ -865,7 +865,7 @@
       ],
       "id": "368",
       "suffixes": [
-        "Ravagers"
+        "Devastadores"
       ]
     },
     {
@@ -874,7 +874,7 @@
       ],
       "id": "367",
       "suffixes": [
-        "Enforcers"
+        "Fiscais"
       ]
     },
     {
@@ -883,7 +883,7 @@
       ],
       "id": "366",
       "suffixes": [
-        "Defenders"
+        "Defensores"
       ]
     },
     {
@@ -892,7 +892,7 @@
       ],
       "id": "365",
       "suffixes": [
-        "Brutes"
+        "Brutos"
       ]
     },
     {
@@ -901,7 +901,7 @@
       ],
       "id": "345",
       "suffixes": [
-        "Meatshields"
+        "Escudos Vivos"
       ]
     },
     {
@@ -910,7 +910,7 @@
       ],
       "id": "346",
       "suffixes": [
-        "Launchers"
+        "Lançadores"
       ]
     },
     {
@@ -919,7 +919,7 @@
       ],
       "id": "347",
       "suffixes": [
-        "Meathooks"
+        "Ganchos de Carne"
       ]
     },
     {
@@ -928,7 +928,7 @@
       ],
       "id": "348",
       "suffixes": [
-        "Madmen"
+        "Loucos"
       ]
     },
     {
@@ -937,7 +937,7 @@
       ],
       "id": "384",
       "suffixes": [
-        "Guardsmen"
+        "Guarda"
       ]
     },
     {
@@ -946,7 +946,7 @@
       ],
       "id": "385",
       "suffixes": [
-        "Maulers"
+        "Esmagadores"
       ]
     },
     {
@@ -955,7 +955,7 @@
       ],
       "id": "386",
       "suffixes": [
-        "Archers"
+        "Arqueiros"
       ]
     },
     {
@@ -973,7 +973,7 @@
       ],
       "id": "388",
       "suffixes": [
-        "Thieves"
+        "Ladinos"
       ]
     },
     {
@@ -982,7 +982,7 @@
       ],
       "id": "389",
       "suffixes": [
-        "Collegium Magicae"
+        "Colégio Magicae"
       ]
     },
     {
@@ -991,7 +991,7 @@
       ],
       "id": "390",
       "suffixes": [
-        "Druid Circle"
+        "Círculo Druida"
       ]
     },
     {
@@ -1009,7 +1009,7 @@
       ],
       "id": "423",
       "suffixes": [
-        "Stonefists"
+        "Punhos de Pedra"
       ]
     },
     {
@@ -1018,7 +1018,7 @@
       ],
       "id": "424",
       "suffixes": [
-        "Bonecrushers"
+        "Trituradores de Osso"
       ]
     },
     {
@@ -1027,7 +1027,7 @@
       ],
       "id": "425",
       "suffixes": [
-        "Skullbashers"
+        "Esmagadores de Crânio"
       ]
     },
     {
@@ -1036,7 +1036,7 @@
       ],
       "id": "426",
       "suffixes": [
-        "Spiritcallers"
+        "Invocadores de Espíritos"
       ]
     },
     {
@@ -1045,7 +1045,7 @@
       ],
       "id": "469",
       "suffixes": [
-        "Soldiers"
+        "Soldados"
       ]
     },
     {
@@ -1054,7 +1054,7 @@
       ],
       "id": "470",
       "suffixes": [
-        "Archers"
+        "Arqueiros"
       ]
     },
     {
@@ -1063,7 +1063,7 @@
       ],
       "id": "471",
       "suffixes": [
-        "Mages"
+        "Magos"
       ]
     },
     {
@@ -1081,7 +1081,7 @@
       ],
       "id": "508",
       "suffixes": [
-        "Gravewalkers"
+        "Caminhantes do Túmulo"
       ]
     },
     {
@@ -1090,7 +1090,7 @@
       ],
       "id": "509",
       "suffixes": [
-        "Nightborns"
+        "Nascidos da Noite"
       ]
     },
     {
@@ -1099,7 +1099,7 @@
       ],
       "id": "510",
       "suffixes": [
-        "Bloodsworns"
+        "Juramentados de Sangue"
       ]
     },
     {
@@ -1108,7 +1108,7 @@
       ],
       "id": "511",
       "suffixes": [
-        "Bloodguard"
+        "Guarda de Sangue"
       ]
     }
   ]

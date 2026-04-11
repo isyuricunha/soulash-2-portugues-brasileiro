@@ -1,6 +1,6 @@
 {
   "prefixes": [
-    "Ban",
+    "Banir",
     "Bahl",
     "Bahr",
     "Bar",
@@ -45,7 +45,7 @@
     "Nugla",
     "Nul",
     "Nun",
-    "Rune",
+    "Runa",
     "Ural",
     "Uran",
     "Val",
@@ -89,14 +89,14 @@
     "thiad",
     "thiam",
     "zdar",
-    " Bur",
-    " Darul",
-    " Drak",
-    " Dur",
-    " Krak",
-    " Kadum",
-    " Lohr",
-    " Tarum",
-    " Tor"
+    "Bur",
+    "Darul",
+    "Drak",
+    "Dur",
+    "Krak",
+    "Kadum",
+    "Lohr",
+    "Tarum",
+    "Tor"
   ]
 }

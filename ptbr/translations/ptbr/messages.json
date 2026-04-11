@@ -11117,11 +11117,11 @@
     "Manhã",
     "Meio-Dia",
     "Tarde",
-    "Fim da Tarde",
+    "Fim de Tarde",
     "Noite",
-    "Noite Adentro",
-    "Noite",
-    "Noite Adentro"
+    "Noite Avançada",
+    "Madrugada",
+    "Madrugada Tardia"
   ],
   "item_type": [
     "Qualquer",
@@ -12326,8 +12326,8 @@
   "ai_behaviors": [
     "Covarde",
     "Covarde sem aliados",
-    "Guardar riqueza",
-    "Guardar líder",
+    "Guarda riqueza",
+    "Guarda líder",
     "Seguidor",
     "Patrulheiro",
     "Fazendeiro",
@@ -13624,8 +13624,8 @@
     "Frio",
     "Fresco",
     "Ameno",
+    "Morno",
     "Quente",
-    "Muito Quente",
     "Escaldante"
   ],
   "precipitations": [
@@ -13635,7 +13635,7 @@
     "Moderado",
     "Encharcado",
     "Chuvoso",
-    "Chuvoso"
+    "Enchente"
   ],
   "crimes": [
     "None",
@@ -13645,12 +13645,12 @@
     "Assalto",
     "Assassinato",
     "Ação Proibida",
-    "Furto",
+    "Roubo",
     "Consumir Almas"
   ],
   "skill_levels": [
     "Iniciante",
-    "Viajante",
+    "Aprendiz",
     "Especialista",
     "Mestre",
     "Grão-Mestre"
