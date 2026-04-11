@@ -1,0 +1,12 @@
+{
+	"author": "Yuri Cunha",
+	"description": "Português Brasileiro",
+	"game_required": "0.5.0",
+	"icon": "S.png",
+	"mods_required": [
+		"core_2"
+	],
+	"name": "Português Brasileiro",
+	"thumbnail": "soulash_ko.png",
+	"version": "1.1"
+}
