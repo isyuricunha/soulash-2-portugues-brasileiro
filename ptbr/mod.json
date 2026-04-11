@@ -1,12 +1,12 @@
 {
 	"author": "Yuri Cunha",
 	"description": "Português Brasileiro",
-	"game_required": "0.5.0",
-	"icon": "S.png",
-	"mods_required": [
-		"core_2"
-	],
-	"name": "Português Brasileiro",
+	"disable_transition_tiles": true,
+	"draw_all_glyphs": true,
+	"game_required": "0.5.4",
+	"icon": "s.png",
+	"mods_required": [],
+	"name": "Rus Translation by DD",
 	"thumbnail": "soulash_ko.png",
-	"version": "1.1"
+	"version": "0.1.0"
 }
