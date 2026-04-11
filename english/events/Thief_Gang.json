@@ -1,0 +1,116 @@
+{
+    "id": "core_2_thief_ring_operation",
+    "name": "Thief Ring Operation",
+    "category": "settlement",
+    "flavor": "Whispers spread of a cunning band of thieves preying on merchants and travelers. Caravans leave lighter, and purses vanish in the night.",
+    "icon": 4,
+    "small_icon": 4,
+    "rarity": "common",
+    "restrict_races": [
+        "0",
+        "4",
+        "8",
+        "10",
+        "31"
+    ],
+    "trigger": {
+        "base_probability": 0.005,
+        "conditions": [
+            {
+                "type": "settlement_population_min",
+                "value": 25
+            },
+            {
+                "type": "settlement_tier_min",
+                "value": 2
+            },
+            {
+                "type": "min_unemployed",
+                "value": 10
+            }
+        ]
+    },
+    "duration": {
+        "type": "temporary",
+        "days": [
+            90,
+            270
+        ]
+    },
+    "effects": [
+        {
+            "type": "caravan_loss",
+            "chance": 0.25,
+            "resource_loss": 0.3
+        },
+        {
+            "type": "gold_drain",
+            "rate_per_day": 0.01
+        },
+        {
+            "type": "spawn_group",
+            "amount": [
+                1,
+                4
+            ],
+            "group_type": "roaming",
+            "entity": "core_2_Thief_Bandit",
+            "stats": {
+                "stealth": 10,
+                "speed": -0.2,
+                "extra_weight": 20
+            },
+            "milestones": [
+                "core_2_pickpocket",
+                "core_2_quick_step"
+            ]
+        }
+    ],
+    "extra_dialogues": [
+        "core_2_thief_rumors",
+        "core_2_merchant_complaint"
+    ],
+    "interactions": [
+        {
+            "type": "conversation",
+            "id": "core_2_hunt_thieves",
+            "required_skill": "core_2_adventuring",
+            "required_level": 15,
+            "required_ingredients": [
+                {
+                    "id": "core_2_Thief_Leader_Head",
+                    "amount": 1
+                }
+            ],
+            "reward": {
+                "gold": 500,
+                "reputation": 12,
+                "remove_event": true
+            },
+            "entities": [],
+            "trigger_events": []
+        },
+        {
+            "type": "conversation",
+            "id": "core_2_join_thieves",
+            "required_skill": "core_2_thievery",
+            "required_level": 20,
+            "reward": {
+                "gold": 700,
+                "reputation": -10,
+                "remove_event": false,
+                "visible_locations": [
+                    "core_2_thief_hideout"
+                ]
+            },
+            "entities": [
+                "core_2_Thief_Leader"
+            ],
+            "trigger_events": []
+        }
+    ],
+    "history_events": {
+        "begin": "A new gang grows in infamy by terrorizing the population of this settlement!",
+        "end": "The infamous gang terrorizing this settlement influenced the ruling class to legalized their business."
+    }
+}

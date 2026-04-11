@@ -1,0 +1,24 @@
+{
+	"animation": "7",
+	"camera_shake": {
+		"bounces": 0,
+		"duration": 0.10000000149011612,
+		"power": 0,
+		"type": 1
+	},
+	"chain_particles": false,
+	"explosion_range": 5,
+	"id": "66",
+	"ignore_roof": false,
+	"name": "Storm",
+	"random_delay": [
+		0,
+		1000
+	],
+	"random_target": true,
+	"repeat": 40,
+	"sound": {
+		"id": "",
+		"volume": 100
+	}
+}

@@ -1,0 +1,30 @@
+{
+	"camera_shake": {
+		"duration": 0.0,
+		"power": 0.0
+	},
+	"chain_particles": false,
+	"id": "104",
+	"ignore_roof": true,
+	"name": "Knife throw",
+	"particles": [
+		{
+			"color": [
+				[
+					255,
+					255,
+					255,
+					255
+				]
+			],
+			"flags": 1152,
+			"spin": 100.0,
+			"tile_id": 605,
+			"velocity": 60.0
+		}
+	],
+	"sound": {
+		"id": "47",
+		"volume": 100
+	}
+}

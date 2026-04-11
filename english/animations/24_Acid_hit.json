@@ -1,0 +1,80 @@
+{
+	"camera_shake": {
+		"bounces": 2,
+		"duration": 0.10000000149011612,
+		"power": 6,
+		"type": 1
+	},
+	"chain_particles": false,
+	"id": "24",
+	"ignore_roof": true,
+	"name": "Acid Hit",
+	"particles": [
+		{
+			"color": [
+				[
+					90,
+					226,
+					76,
+					122
+				],
+				[
+					73,
+					226,
+					85,
+					175
+				]
+			],
+			"flags": 0,
+			"life": 100.0,
+			"pulse_background": 580.0,
+			"tile_id": 348
+		},
+		{
+			"color": [
+				[
+					90,
+					226,
+					76,
+					122
+				],
+				[
+					73,
+					226,
+					85,
+					175
+				]
+			],
+			"delay": 100.0,
+			"flags": 0,
+			"life": 100.0,
+			"pulse_background": 580.0,
+			"tile_id": 349
+		},
+		{
+			"color": [
+				[
+					90,
+					226,
+					76,
+					122
+				],
+				[
+					73,
+					226,
+					85,
+					175
+				]
+			],
+			"delay": 150.0,
+			"flags": 8,
+			"life": 150.0,
+			"pulse_background": 580.0,
+			"tile_id": 350
+		}
+	],
+	"sound": {
+		"id": "45",
+		"volume": 100
+	}
+}

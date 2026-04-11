@@ -1,0 +1,95 @@
+{
+	"camera_shake": {
+		"duration": 1.75,
+		"power": 3
+	},
+	"chain_particles": false,
+	"id": "123",
+	"ignore_roof": true,
+	"name": "Revenge",
+	"particles": [
+		{
+			"color": [
+				[
+					244,
+					220,
+					116,
+					255
+				]
+			],
+			"explosion_range": 2,
+			"flags": 8232,
+			"spin": 600.0,
+			"tile_id": 302,
+			"velocity": 30.0
+		},
+		{
+			"color": [
+				[
+					255,
+					185,
+					92,
+					255
+				]
+			],
+			"delay": 150.0,
+			"explosion_range": 3,
+			"flags": 8232,
+			"spin": 600.0,
+			"tile_id": 302,
+			"velocity": 30.0
+		},
+		{
+			"color": [
+				[
+					225,
+					125,
+					96,
+					255
+				]
+			],
+			"delay": 350.0,
+			"explosion_range": 4,
+			"flags": 8232,
+			"spin": 600.0,
+			"tile_id": 302,
+			"velocity": 30.0
+		},
+		{
+			"color": [
+				[
+					226,
+					77,
+					25,
+					255
+				]
+			],
+			"delay": 600.0,
+			"explosion_range": 5,
+			"flags": 8232,
+			"spin": 600.0,
+			"tile_id": 301,
+			"velocity": 30.0
+		},
+		{
+			"color": [
+				[
+					184,
+					32,
+					37,
+					255
+				]
+			],
+			"delay": 950.0,
+			"explosion_range": 6,
+			"flags": 8232,
+			"spin": 600.0,
+			"tile_id": 301,
+			"velocity": 30.0
+		}
+	],
+	"sound": {
+		"id": "77",
+		"volume": 100
+	}
+}

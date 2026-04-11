@@ -1,0 +1,130 @@
+{
+	"animation_origin_self": false,
+	"camera_shake": {
+		"bounces": 0,
+		"duration": 0.0,
+		"power": 0.0,
+		"type": 1
+	},
+	"chain_particles": true,
+	"id": "core_2_Woodcutting",
+	"ignore_roof": false,
+	"name": "Woodcutting",
+	"particles": [
+		{
+			"color": [
+				[
+					255,
+					255,
+					255,
+					255
+				]
+			],
+			"flags": 0,
+			"life": 50.0,
+			"tile_id": 192
+		},
+		{
+			"color": [
+				[
+					255,
+					255,
+					255,
+					255
+				]
+			],
+			"delay": 50.0,
+			"flags": 0,
+			"life": 50.0,
+			"tile_id": 193
+		},
+		{
+			"color": [
+				[
+					255,
+					255,
+					255,
+					255
+				]
+			],
+			"delay": 100.0,
+			"flags": 0,
+			"life": 50.0,
+			"tile_id": 194
+		},
+		{
+			"color": [
+				[
+					255,
+					255,
+					255,
+					255
+				]
+			],
+			"delay": 150.0,
+			"flags": 0,
+			"life": 50.0,
+			"tile_id": 195
+		},
+		{
+			"color": [
+				[
+					255,
+					255,
+					255,
+					255
+				]
+			],
+			"delay": 200.0,
+			"flags": 0,
+			"life": 50.0,
+			"tile_id": 117
+		},
+		{
+			"color": [
+				[
+					255,
+					255,
+					255,
+					255
+				]
+			],
+			"delay": 250.0,
+			"flags": 0,
+			"life": 50.0,
+			"tile_id": 118
+		},
+		{
+			"color": [
+				[
+					255,
+					255,
+					255,
+					255
+				]
+			],
+			"delay": 300.0,
+			"flags": 0,
+			"life": 50.0,
+			"tile_id": 119
+		},
+		{
+			"color": [
+				[
+					255,
+					255,
+					255,
+					255
+				]
+			],
+			"delay": 350.0,
+			"flags": 0,
+			"life": 50.0,
+			"tile_id": 119
+		}
+	],
+	"sound": {
+		"id": "1",
+		"volume": 100
+	}
+}

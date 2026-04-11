@@ -1,0 +1,37 @@
+{
+	"blocking": false,
+	"camera_shake": {
+		"bounces": 2,
+		"duration": 0.0,
+		"power": 0.0,
+		"type": 1
+	},
+	"chain_particles": false,
+	"id": "114",
+	"ignore_roof": false,
+	"name": "Rain drop fall",
+	"particles": [
+		{
+			"color": [
+				[
+					74,
+					172,
+					212,
+					250
+				]
+			],
+			"elevation": 500,
+			"elevation_drop": true,
+			"flags": 32768,
+			"height": 10,
+			"life": 500.0,
+			"on_impact": "115",
+			"pulse_background": 300.0,
+			"tile_id": 638
+		}
+	],
+	"sound": {
+		"id": "",
+		"volume": 100
+	}
+}

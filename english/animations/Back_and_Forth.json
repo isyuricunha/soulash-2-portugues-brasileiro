@@ -1,0 +1,75 @@
+{
+	"animation_origin_self": false,
+	"camera_shake": {
+		"bounces": 2,
+		"duration": 0.20000000298023224,
+		"power": 7,
+		"type": 1
+	},
+	"chain_particles": false,
+	"id": "core_2_Back_and_Forth",
+	"ignore_roof": false,
+	"name": "Back and Forth",
+	"particles": [
+		{
+			"color": [
+				[
+					255,
+					255,
+					255,
+					255
+				]
+			],
+			"delay": 50.0,
+			"flags": 129,
+			"life": 50.0,
+			"tile_id": 95
+		},
+		{
+			"color": [
+				[
+					255,
+					255,
+					255,
+					255
+				]
+			],
+			"delay": 100.0,
+			"flags": 129,
+			"life": 50.0,
+			"tile_id": 64
+		},
+		{
+			"color": [
+				[
+					255,
+					255,
+					255,
+					255
+				]
+			],
+			"delay": 150.0,
+			"flags": 129,
+			"life": 50.0,
+			"tile_id": 65
+		},
+		{
+			"color": [
+				[
+					255,
+					255,
+					255,
+					255
+				]
+			],
+			"delay": 200.0,
+			"flags": 129,
+			"life": 50.0,
+			"tile_id": 66
+		}
+	],
+	"sound": {
+		"id": "140",
+		"volume": 100
+	}
+}

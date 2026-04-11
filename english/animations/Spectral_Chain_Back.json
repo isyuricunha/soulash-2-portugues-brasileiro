@@ -1,0 +1,47 @@
+{
+	"animation_origin_self": false,
+	"camera_shake": {
+		"bounces": 0,
+		"duration": 0.0,
+		"power": 0.0,
+		"type": 1
+	},
+	"chain_particles": false,
+	"id": "core_2_Spectral_Chain_Back",
+	"ignore_roof": true,
+	"name": "Spectral Chain Back",
+	"particles": [
+		{
+			"color": [
+				[
+					114,
+					113,
+					115,
+					255
+				]
+			],
+			"delay": 200.0,
+			"flags": 34,
+			"tile_id": 1484,
+			"velocity": 30.0
+		},
+		{
+			"color": [
+				[
+					114,
+					113,
+					115,
+					255
+				]
+			],
+			"delay": 180.0,
+			"flags": 0,
+			"tile_id": 1484,
+			"velocity": 30.0
+		}
+	],
+	"sound": {
+		"id": "",
+		"volume": 100
+	}
+}

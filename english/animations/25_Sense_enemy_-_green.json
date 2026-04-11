@@ -1,0 +1,25 @@
+{
+	"id": "25",
+	"name": "Sense enemy - green",
+	"particles": [
+		{
+			"background": [
+				[
+					92,
+					194,
+					104,
+					15
+				]
+			],
+			"delay": 0.0,
+			"explosion_range": 20,
+			"flags": 0,
+			"tile_id": -1,
+			"velocity": 40.0
+		}
+	],
+	"sound": {
+		"id": "8",
+		"volume": 100
+	}
+}

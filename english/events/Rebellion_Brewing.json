@@ -1,0 +1,102 @@
+{
+    "id": "core_2_rebellion_brewing",
+    "name": "Rebellion Brewing",
+    "category": "settlement",
+    "flavor": "Whispers of resistance spread among the oppressed populace. They seek weapons to overthrow their occupiers.",
+    "icon": 1,
+    "small_icon": 1,
+    "rarity": "uncommon",
+    "restrict_races": [],
+    "trigger": {
+        "base_probability": 0.005,
+        "conditions": [
+            {
+                "type": "settlement_occupied"
+            },
+            {
+                "type": "settlement_population_min",
+                "value": 40
+            }
+        ]
+    },
+    "duration": {
+        "type": "temporary",
+        "days": [
+            60,
+            120
+        ]
+    },
+    "effects": [
+        {
+            "type": "production_multiplier",
+            "multiplier": 0.7
+        },
+        {
+            "type": "spawn_group",
+            "amount": [
+                1,
+                1
+            ],
+            "group_type": "settlement",
+            "entity": "core_2_Rebellion_Agitator",
+            "border_color": [
+                128,
+                0,
+                128
+            ]
+        },
+        {
+            "type": "supply_delivery",
+            "entity": "core_2_Rebellion_Smuggler",
+            "amount": [
+                2,
+                4
+            ],
+            "wealth_cost": 10000
+        }
+    ],
+    "expire_effects": [
+        {
+            "type": "execution",
+            "amount": [
+                2,
+                4
+            ],
+            "death_text": "Hanged for attempted rebellion"
+        }
+    ],
+    "extra_dialogues": [
+        "core_2_rebellion_whispers"
+    ],
+    "interactions": [
+        {
+            "type": "conversation",
+            "id": "core_2_deliver_weapons",
+            "entities": [
+                "core_2_Rebellion_Agitator"
+            ],
+            "required_ingredients": [
+                {
+                    "id": "core_2_Bastard_Sword",
+                    "amount": 10
+                }
+            ],
+            "reward": {
+                "gold": 5000,
+                "remove_event": true
+            },
+            "trigger_event": "core_2_rebellion",
+            "history_event": "::name delivered weapons to the resistance in ::settlement!",
+            "announcement": "You have armed the rebels of ::settlement!"
+        },
+        {
+            "type": "supply",
+            "trigger_event": "core_2_rebellion",
+            "history_event": "Weapons were smuggled into ::settlement by resistance sympathizers."
+        }
+    ],
+    "history_events": {
+        "begin": "Unrest grows in the occupied settlement. The people seek arms for rebellion.",
+        "end": "The rebellion has been crushed at its roots. Suspected conspirators have been hanged."
+    }
+}

@@ -1,0 +1,64 @@
+{
+	"animation_origin_self": false,
+	"camera_shake": {
+		"bounces": 2,
+		"duration": 0.20000000298023224,
+		"power": 2,
+		"type": 1
+	},
+	"chain_particles": false,
+	"id": "core_2_Vine_Lash_Impact",
+	"ignore_roof": true,
+	"name": "Vine Lash",
+	"particles": [
+		{
+			"color": [
+				[
+					56,
+					178,
+					218,
+					161
+				]
+			],
+			"elevation": 50,
+			"explosion_range": 8,
+			"flags": 32904,
+			"tile_id": 1457,
+			"velocity": 60.0
+		},
+		{
+			"color": [
+				[
+					56,
+					178,
+					218,
+					164
+				]
+			],
+			"elevation": 50,
+			"explosion_range": 8,
+			"flags": 32904,
+			"tile_id": 1458,
+			"velocity": 55.0
+		},
+		{
+			"color": [
+				[
+					56,
+					178,
+					218,
+					162
+				]
+			],
+			"elevation": 70,
+			"explosion_range": 8,
+			"flags": 32904,
+			"tile_id": 1459,
+			"velocity": 50.0
+		}
+	],
+	"sound": {
+		"id": "53",
+		"volume": 100
+	}
+}

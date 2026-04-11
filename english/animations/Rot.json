@@ -1,0 +1,85 @@
+{
+	"animation_origin_self": false,
+	"camera_shake": {
+		"bounces": 1,
+		"duration": 0.20000000298023224,
+		"power": 1,
+		"type": 1
+	},
+	"chain_particles": true,
+	"id": "core_2_Rot_impact",
+	"ignore_roof": false,
+	"name": "Rot",
+	"particles": [
+		{
+			"color": [
+				[
+					255,
+					255,
+					255,
+					255
+				]
+			],
+			"flags": 0,
+			"life": 30.0,
+			"tile_id": 1136
+		},
+		{
+			"color": [
+				[
+					255,
+					255,
+					255,
+					255
+				]
+			],
+			"flags": 0,
+			"life": 70.0,
+			"tile_id": 1137
+		},
+		{
+			"color": [
+				[
+					255,
+					255,
+					255,
+					255
+				]
+			],
+			"flags": 0,
+			"life": 80.0,
+			"tile_id": 1138
+		},
+		{
+			"color": [
+				[
+					255,
+					255,
+					255,
+					255
+				]
+			],
+			"flags": 0,
+			"life": 70.0,
+			"tile_id": 1139
+		},
+		{
+			"color": [
+				[
+					255,
+					255,
+					255,
+					255
+				]
+			],
+			"elevation": 3,
+			"flags": 8,
+			"life": 180.0,
+			"tile_id": 1140
+		}
+	],
+	"sound": {
+		"id": "146",
+		"volume": 100
+	}
+}

@@ -1,0 +1,98 @@
+{
+	"animation_origin_self": false,
+	"camera_shake": {
+		"bounces": 0,
+		"duration": 0.0,
+		"power": 0.0
+	},
+	"chain_particles": true,
+	"id": "core_2_Mighty_Throw",
+	"ignore_roof": false,
+	"name": "Mighty Throw",
+	"particles": [
+		{
+			"color": [
+				[
+					255,
+					255,
+					255,
+					255
+				]
+			],
+			"flags": 128,
+			"life": 20.0,
+			"tile_id": 1168
+		},
+		{
+			"color": [
+				[
+					255,
+					255,
+					255,
+					255
+				]
+			],
+			"flags": 128,
+			"life": 20.0,
+			"tile_id": 1169
+		},
+		{
+			"color": [
+				[
+					255,
+					255,
+					255,
+					255
+				]
+			],
+			"flags": 128,
+			"life": 20.0,
+			"tile_id": 1170
+		},
+		{
+			"color": [
+				[
+					255,
+					255,
+					255,
+					255
+				]
+			],
+			"flags": 128,
+			"life": 20.0,
+			"tile_id": 1171
+		},
+		{
+			"color": [
+				[
+					255,
+					255,
+					255,
+					255
+				]
+			],
+			"flags": 128,
+			"life": 20.0,
+			"tile_id": 1172
+		},
+		{
+			"color": [
+				[
+					255,
+					255,
+					255,
+					255
+				]
+			],
+			"flags": 128,
+			"life": 40.0,
+			"on_impact": "core_2_Mighty_Throw_impact",
+			"tile_id": 1173,
+			"velocity": 40.0
+		}
+	],
+	"sound": {
+		"id": "47",
+		"volume": 100
+	}
+}

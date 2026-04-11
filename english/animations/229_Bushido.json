@@ -1,0 +1,106 @@
+{
+	"camera_shake": {
+		"duration": 0.0,
+		"power": 0.0
+	},
+	"chain_particles": true,
+	"id": "229",
+	"name": "Bushido",
+	"particles": [
+		{
+			"color": [
+				[
+					49,
+					115,
+					226,
+					72
+				]
+			],
+			"flags": 0,
+			"life": 100.0,
+			"tile_id": 912
+		},
+		{
+			"color": [
+				[
+					34,
+					164,
+					229,
+					110
+				]
+			],
+			"flags": 0,
+			"life": 60.0,
+			"tile_id": 913
+		},
+		{
+			"color": [
+				[
+					34,
+					164,
+					229,
+					194
+				]
+			],
+			"flags": 0,
+			"life": 60.0,
+			"tile_id": 914
+		},
+		{
+			"color": [
+				[
+					34,
+					164,
+					229,
+					255
+				]
+			],
+			"flags": 0,
+			"life": 60.0,
+			"tile_id": 915
+		},
+		{
+			"color": [
+				[
+					60,
+					189,
+					238,
+					255
+				]
+			],
+			"flags": 0,
+			"life": 60.0,
+			"tile_id": 916
+		},
+		{
+			"color": [
+				[
+					86,
+					206,
+					241,
+					255
+				]
+			],
+			"flags": 0,
+			"life": 60.0,
+			"tile_id": 917
+		},
+		{
+			"color": [
+				[
+					100,
+					210,
+					255,
+					255
+				]
+			],
+			"flags": 8,
+			"life": 100.0,
+			"tile_id": 918
+		}
+	],
+	"sound": {
+		"id": "125",
+		"volume": 100
+	}
+}

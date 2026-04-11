@@ -1,0 +1,110 @@
+{
+	"animation_origin_self": false,
+	"camera_shake": {
+		"bounces": 0,
+		"duration": 0.0,
+		"power": 0.0,
+		"type": 1
+	},
+	"chain_particles": true,
+	"id": "core_2_Stone_Gaze",
+	"ignore_roof": false,
+	"name": "Stone Gaze",
+	"particles": [
+		{
+			"color": [
+				[
+					255,
+					255,
+					255,
+					255
+				]
+			],
+			"flags": 0,
+			"life": 60.0,
+			"tile_id": 1376
+		},
+		{
+			"color": [
+				[
+					255,
+					255,
+					255,
+					255
+				]
+			],
+			"flags": 0,
+			"life": 60.0,
+			"tile_id": 1377
+		},
+		{
+			"color": [
+				[
+					255,
+					255,
+					255,
+					255
+				]
+			],
+			"flags": 0,
+			"life": 60.0,
+			"tile_id": 1378
+		},
+		{
+			"color": [
+				[
+					255,
+					255,
+					255,
+					255
+				]
+			],
+			"flags": 0,
+			"life": 60.0,
+			"tile_id": 1379
+		},
+		{
+			"color": [
+				[
+					255,
+					255,
+					255,
+					255
+				]
+			],
+			"flags": 0,
+			"life": 60.0,
+			"tile_id": 1380
+		},
+		{
+			"color": [
+				[
+					255,
+					255,
+					255,
+					255
+				]
+			],
+			"flags": 0,
+			"life": 100.0,
+			"tile_id": 1381
+		},
+		{
+			"color": [
+				[
+					255,
+					255,
+					255,
+					255
+				]
+			],
+			"flags": 0,
+			"life": 60.0,
+			"tile_id": 1382
+		}
+	],
+	"sound": {
+		"id": "",
+		"volume": 100
+	}
+}

@@ -1,0 +1,135 @@
+{
+	"animation_origin_self": false,
+	"camera_shake": {
+		"bounces": 0,
+		"duration": 0.0,
+		"power": 0.0
+	},
+	"chain_particles": true,
+	"id": "core_2_Necrotic_Touch",
+	"ignore_roof": false,
+	"name": "Necrotic Touch",
+	"particles": [
+		{
+			"color": [
+				[
+					255,
+					255,
+					255,
+					255
+				]
+			],
+			"flags": 0,
+			"life": 60.0,
+			"tile_id": 1460
+		},
+		{
+			"color": [
+				[
+					255,
+					255,
+					255,
+					255
+				]
+			],
+			"flags": 0,
+			"life": 60.0,
+			"tile_id": 1461
+		},
+		{
+			"color": [
+				[
+					255,
+					255,
+					255,
+					255
+				]
+			],
+			"flags": 0,
+			"life": 60.0,
+			"tile_id": 1462
+		},
+		{
+			"color": [
+				[
+					255,
+					255,
+					255,
+					255
+				]
+			],
+			"flags": 0,
+			"life": 60.0,
+			"tile_id": 1463
+		},
+		{
+			"color": [
+				[
+					255,
+					255,
+					255,
+					255
+				]
+			],
+			"flags": 0,
+			"life": 60.0,
+			"tile_id": 1464
+		},
+		{
+			"color": [
+				[
+					255,
+					255,
+					255,
+					255
+				]
+			],
+			"flags": 0,
+			"life": 60.0,
+			"tile_id": 1465
+		},
+		{
+			"color": [
+				[
+					255,
+					255,
+					255,
+					255
+				]
+			],
+			"flags": 0,
+			"life": 60.0,
+			"tile_id": 1466
+		},
+		{
+			"color": [
+				[
+					255,
+					255,
+					255,
+					255
+				]
+			],
+			"flags": 0,
+			"life": 40.0,
+			"tile_id": 1465
+		},
+		{
+			"color": [
+				[
+					255,
+					255,
+					255,
+					255
+				]
+			],
+			"flags": 0,
+			"life": 40.0,
+			"tile_id": 1464
+		}
+	],
+	"sound": {
+		"id": "152",
+		"volume": 100
+	}
+}

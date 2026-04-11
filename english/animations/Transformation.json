@@ -1,0 +1,83 @@
+{
+	"animation_origin_self": false,
+	"camera_shake": {
+		"bounces": 0,
+		"duration": 0.0,
+		"power": 0.0
+	},
+	"chain_particles": true,
+	"id": "core_2_Transformation",
+	"ignore_roof": false,
+	"name": "Transformation",
+	"particles": [
+		{
+			"color": [
+				[
+					255,
+					255,
+					255,
+					255
+				]
+			],
+			"flags": 0,
+			"life": 100.0,
+			"tile_id": 1322
+		},
+		{
+			"color": [
+				[
+					255,
+					255,
+					255,
+					255
+				]
+			],
+			"flags": 0,
+			"life": 100.0,
+			"tile_id": 1323
+		},
+		{
+			"color": [
+				[
+					255,
+					255,
+					255,
+					255
+				]
+			],
+			"flags": 0,
+			"life": 120.0,
+			"tile_id": 1324
+		},
+		{
+			"color": [
+				[
+					255,
+					255,
+					255,
+					255
+				]
+			],
+			"flags": 0,
+			"life": 120.0,
+			"tile_id": 1325
+		},
+		{
+			"color": [
+				[
+					255,
+					255,
+					255,
+					255
+				]
+			],
+			"flags": 0,
+			"life": 120.0,
+			"tile_id": 1326
+		}
+	],
+	"sound": {
+		"id": "",
+		"volume": 100
+	}
+}

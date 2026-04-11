@@ -1,0 +1,110 @@
+{
+	"animation_origin_self": false,
+	"camera_shake": {
+		"bounces": 6,
+		"duration": 0.6000000238418579,
+		"power": 2,
+		"type": 1
+	},
+	"chain_particles": true,
+	"id": "core_2_Frost_armor",
+	"ignore_roof": false,
+	"name": "Frost armor",
+	"particles": [
+		{
+			"color": [
+				[
+					255,
+					255,
+					255,
+					255
+				]
+			],
+			"flags": 0,
+			"life": 100.0,
+			"tile_id": 928
+		},
+		{
+			"color": [
+				[
+					255,
+					255,
+					255,
+					255
+				]
+			],
+			"flags": 0,
+			"life": 50.0,
+			"tile_id": 929
+		},
+		{
+			"color": [
+				[
+					255,
+					255,
+					255,
+					255
+				]
+			],
+			"flags": 0,
+			"life": 50.0,
+			"tile_id": 930
+		},
+		{
+			"color": [
+				[
+					255,
+					255,
+					255,
+					255
+				]
+			],
+			"flags": 0,
+			"life": 100.0,
+			"tile_id": 931
+		},
+		{
+			"color": [
+				[
+					255,
+					255,
+					255,
+					255
+				]
+			],
+			"flags": 0,
+			"life": 150.0,
+			"tile_id": 932
+		},
+		{
+			"color": [
+				[
+					255,
+					255,
+					255,
+					255
+				]
+			],
+			"flags": 0,
+			"life": 150.0,
+			"tile_id": 933
+		},
+		{
+			"color": [
+				[
+					255,
+					255,
+					255,
+					255
+				]
+			],
+			"flags": 0,
+			"life": 300.0,
+			"tile_id": 934
+		}
+	],
+	"sound": {
+		"id": "35",
+		"volume": 100
+	}
+}

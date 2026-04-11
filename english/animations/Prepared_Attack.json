@@ -1,0 +1,136 @@
+{
+	"animation_origin_self": false,
+	"camera_shake": {
+		"bounces": 2,
+		"duration": 0.30000001192092896,
+		"power": 4,
+		"type": 0
+	},
+	"chain_particles": true,
+	"id": "core_2_Prepared_Attack",
+	"ignore_roof": false,
+	"name": "Prepared Attack",
+	"particles": [
+		{
+			"color": [
+				[
+					255,
+					255,
+					255,
+					201
+				]
+			],
+			"flags": 0,
+			"life": 50.0,
+			"tile_id": 48
+		},
+		{
+			"color": [
+				[
+					255,
+					255,
+					255,
+					206
+				]
+			],
+			"flags": 0,
+			"life": 50.0,
+			"tile_id": 49
+		},
+		{
+			"color": [
+				[
+					255,
+					255,
+					255,
+					201
+				]
+			],
+			"flags": 0,
+			"life": 50.0,
+			"tile_id": 50
+		},
+		{
+			"color": [
+				[
+					255,
+					255,
+					255,
+					201
+				]
+			],
+			"flags": 0,
+			"life": 50.0,
+			"tile_id": 51
+		},
+		{
+			"color": [
+				[
+					255,
+					255,
+					255,
+					201
+				]
+			],
+			"flags": 0,
+			"life": 50.0,
+			"tile_id": 52
+		},
+		{
+			"color": [
+				[
+					255,
+					255,
+					255,
+					201
+				]
+			],
+			"flags": 0,
+			"life": 50.0,
+			"tile_id": 53
+		},
+		{
+			"color": [
+				[
+					255,
+					255,
+					255,
+					201
+				]
+			],
+			"flags": 0,
+			"life": 50.0,
+			"tile_id": 54
+		},
+		{
+			"color": [
+				[
+					255,
+					255,
+					255,
+					255
+				]
+			],
+			"flags": 0,
+			"life": 50.0,
+			"tile_id": 55
+		},
+		{
+			"color": [
+				[
+					255,
+					255,
+					255,
+					255
+				]
+			],
+			"flags": 0,
+			"life": 50.0,
+			"tile_id": 56
+		}
+	],
+	"sound": {
+		"id": "142",
+		"volume": 100
+	}
+}

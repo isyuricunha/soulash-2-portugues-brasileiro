@@ -1,0 +1,58 @@
+{
+	"camera_shake": {
+		"duration": 0.0,
+		"power": 0.0
+	},
+	"chain_particles": true,
+	"id": "55",
+	"ignore_roof": true,
+	"name": "Soul Steal Impact",
+	"particles": [
+		{
+			"color": [
+				[
+					153,
+					212,
+					231,
+					200
+				]
+			],
+			"flags": 0,
+			"life": 50.0,
+			"pulse_background": 250.0,
+			"tile_id": 314
+		},
+		{
+			"color": [
+				[
+					153,
+					212,
+					231,
+					200
+				]
+			],
+			"flags": 0,
+			"life": 100.0,
+			"pulse_background": 250.0,
+			"tile_id": 315
+		},
+		{
+			"color": [
+				[
+					153,
+					212,
+					231,
+					200
+				]
+			],
+			"flags": 8,
+			"life": 150.0,
+			"pulse_background": 250.0,
+			"tile_id": 316
+		}
+	],
+	"sound": {
+		"id": "17",
+		"volume": 100
+	}
+}

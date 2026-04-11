@@ -1,0 +1,25 @@
+{
+	"animation": "core_2_Blizzard_single_fall",
+	"animation_origin_self": false,
+	"camera_shake": {
+		"bounces": 0,
+		"duration": 0.0,
+		"power": 0.0,
+		"type": 1
+	},
+	"chain_particles": false,
+	"explosion_range": 4,
+	"id": "core_2_Blizzard",
+	"ignore_roof": false,
+	"name": "Blizzard",
+	"random_delay": [
+		0,
+		1000
+	],
+	"random_target": true,
+	"repeat": 20,
+	"sound": {
+		"id": "",
+		"volume": 100
+	}
+}

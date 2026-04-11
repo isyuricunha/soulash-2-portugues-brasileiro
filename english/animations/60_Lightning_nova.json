@@ -1,0 +1,44 @@
+{
+	"camera_shake": {
+		"duration": 0.0,
+		"power": 0.0
+	},
+	"chain_particles": false,
+	"id": "60",
+	"ignore_roof": true,
+	"name": "Lightning nova",
+	"particles": [
+		{
+			"color": [
+				[
+					255,
+					255,
+					255,
+					255
+				]
+			],
+			"explosion_range": 4,
+			"flags": 137,
+			"tile_id": 345,
+			"velocity": 70.0
+		},
+		{
+			"color": [
+				[
+					255,
+					255,
+					255,
+					255
+				]
+			],
+			"explosion_range": 4,
+			"flags": 129,
+			"tile_id": 339,
+			"velocity": 70.0
+		}
+	],
+	"sound": {
+		"id": "15",
+		"volume": 100
+	}
+}

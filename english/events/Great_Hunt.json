@@ -1,0 +1,111 @@
+{
+	"id": "core_2_great_hunt",
+	"name": "The Great Hunt",
+	"category": "settlement",
+	"flavor": "The pack gathers for a grand hunt. Gnolls compete to bring the mightiest prey and earn the title of the greatest hunter.",
+	"icon": 5,
+	"small_icon": 5,
+	"rarity": "uncommon",
+	"restrict_races": [
+		"31"
+	],
+	"trigger": {
+		"base_probability": 0.01,
+		"conditions": [
+			{
+				"type": "settlement_population_min",
+				"value": 20
+			}
+		]
+	},
+	"duration": {
+		"type": "temporary",
+		"days": [
+			100,
+			100
+		]
+	},
+	"scoring": {
+		"score_items": [
+			{
+				"entity": "2082",
+				"points": 3
+			},
+			{
+				"entity": "2054",
+				"points": 4
+			},
+			{
+				"entity": "2765",
+				"points": 5
+			},
+			{
+				"entity": "core_2_Kangoroo_Corpse",
+				"points": 6
+			},
+			{
+				"entity": "594",
+				"points": 15
+			},
+			{
+				"entity": "2234",
+				"points": 30
+			}
+		],
+		"npc_score": {
+			"stat_bonus": "strength",
+			"roll_count": 1
+		},
+		"reward_claim_days": 30,
+		"winner_reward": {
+			"gold": 2000,
+			"reputation": 20,
+			"skill_id": "core_2_adventuring",
+			"exp": 200,
+			"announcement": "You have won The Great Hunt with a score of {}!"
+		},
+		"participation_reward": {
+			"gold": 200,
+			"reputation": 5,
+			"announcement": "You participated in The Great Hunt. Your score: {}."
+		}
+	},
+	"effects": [
+		{
+			"type": "spawn_group",
+			"amount": [
+				1,
+				1
+			],
+			"group_type": "settlement",
+			"entity": "core_2_Grand_Huntsman",
+			"preferred_buildings": [
+				"326"
+			],
+			"border_color": [
+				218,
+				165,
+				32
+			]
+		}
+	],
+	"interactions": [
+		{
+			"type": "score_submission",
+			"id": "core_2_submit_hunt_trophy"
+		},
+		{
+			"type": "view_scores",
+			"id": "core_2_view_hunt_scores"
+		},
+		{
+			"type": "claim_reward",
+			"id": "core_2_claim_hunt_reward"
+		}
+	],
+	"history_events": {
+		"begin": "The Great Hunt has begun! The best hunters compete for glory!",
+		"end": "The Great Hunt has concluded. ::total_score animals were hunted. ::winner_name claimed victory!",
+		"success": "The Great Hunt has concluded. ::winner_name is the greatest hunter with ::winner_score kills!"
+	}
+}

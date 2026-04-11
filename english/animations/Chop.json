@@ -1,0 +1,116 @@
+{
+	"animation_origin_self": false,
+	"camera_shake": {
+		"bounces": 5,
+		"duration": 0.05000000074505806,
+		"power": 1,
+		"type": 1
+	},
+	"chain_particles": true,
+	"id": "242",
+	"ignore_roof": false,
+	"name": "Chop",
+	"particles": [
+		{
+			"color": [
+				[
+					255,
+					255,
+					255,
+					255
+				]
+			],
+			"flags": 0,
+			"life": 50.0,
+			"tile_id": 192
+		},
+		{
+			"color": [
+				[
+					255,
+					255,
+					255,
+					255
+				]
+			],
+			"delay": 50.0,
+			"flags": 0,
+			"life": 50.0,
+			"tile_id": 193
+		},
+		{
+			"color": [
+				[
+					255,
+					255,
+					255,
+					255
+				]
+			],
+			"delay": 100.0,
+			"flags": 0,
+			"life": 50.0,
+			"tile_id": 194
+		},
+		{
+			"color": [
+				[
+					255,
+					255,
+					255,
+					255
+				]
+			],
+			"delay": 150.0,
+			"flags": 0,
+			"life": 50.0,
+			"tile_id": 195
+		},
+		{
+			"color": [
+				[
+					255,
+					255,
+					255,
+					255
+				]
+			],
+			"delay": 200.0,
+			"flags": 0,
+			"life": 50.0,
+			"tile_id": 196
+		},
+		{
+			"color": [
+				[
+					255,
+					255,
+					255,
+					255
+				]
+			],
+			"delay": 250.0,
+			"flags": 0,
+			"life": 50.0,
+			"tile_id": 197
+		},
+		{
+			"color": [
+				[
+					255,
+					255,
+					255,
+					255
+				]
+			],
+			"delay": 300.0,
+			"flags": 0,
+			"life": 50.0,
+			"tile_id": 198
+		}
+	],
+	"sound": {
+		"id": "1",
+		"volume": 100
+	}
+}

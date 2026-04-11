@@ -1,0 +1,135 @@
+{
+	"camera_shake": {
+		"duration": 0.10000000149011612,
+		"power": 4
+	},
+	"chain_particles": false,
+	"id": "70",
+	"ignore_roof": true,
+	"name": "Fire barrage hit",
+	"particles": [
+		{
+			"color": [
+				[
+					255,
+					255,
+					255,
+					255
+				]
+			],
+			"flags": 0,
+			"life": 50.0,
+			"pulse_background": 580.0,
+			"tile_id": 538
+		},
+		{
+			"color": [
+				[
+					255,
+					255,
+					255,
+					255
+				]
+			],
+			"delay": 50.0,
+			"flags": 0,
+			"life": 50.0,
+			"pulse_background": 580.0,
+			"tile_id": 539
+		},
+		{
+			"color": [
+				[
+					255,
+					255,
+					255,
+					255
+				]
+			],
+			"delay": 100.0,
+			"flags": 0,
+			"life": 50.0,
+			"pulse_background": 580.0,
+			"tile_id": 540
+		},
+		{
+			"color": [
+				[
+					255,
+					255,
+					255,
+					255
+				]
+			],
+			"delay": 150.0,
+			"flags": 0,
+			"life": 50.0,
+			"pulse_background": 580.0,
+			"tile_id": 541
+		},
+		{
+			"color": [
+				[
+					255,
+					255,
+					255,
+					255
+				]
+			],
+			"delay": 100.0,
+			"flags": 0,
+			"life": 50.0,
+			"pulse_background": 580.0,
+			"tile_id": 556
+		},
+		{
+			"color": [
+				[
+					255,
+					255,
+					255,
+					255
+				]
+			],
+			"delay": 150.0,
+			"flags": 0,
+			"life": 50.0,
+			"pulse_background": 580.0,
+			"tile_id": 557
+		},
+		{
+			"color": [
+				[
+					255,
+					255,
+					255,
+					255
+				]
+			],
+			"delay": 200.0,
+			"flags": 0,
+			"life": 50.0,
+			"pulse_background": 580.0,
+			"tile_id": 558
+		},
+		{
+			"color": [
+				[
+					255,
+					255,
+					255,
+					255
+				]
+			],
+			"delay": 250.0,
+			"flags": 0,
+			"life": 50.0,
+			"pulse_background": 580.0,
+			"tile_id": 559
+		}
+	],
+	"sound": {
+		"id": "60",
+		"volume": 100
+	}
+}

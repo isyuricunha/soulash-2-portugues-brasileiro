@@ -1,0 +1,58 @@
+{
+	"animation_origin_self": false,
+	"camera_shake": {
+		"bounces": 0,
+		"duration": 0.0,
+		"power": 0.0
+	},
+	"chain_particles": true,
+	"id": "core_2_frozen_blade",
+	"ignore_roof": true,
+	"name": "Frozen Blade",
+	"particles": [
+		{
+			"color": [
+				[
+					255,
+					255,
+					255,
+					255
+				]
+			],
+			"flags": 0,
+			"life": 100.0,
+			"pulse_background": 480.0,
+			"tile_id": 1202
+		},
+		{
+			"color": [
+				[
+					228,
+					255,
+					255,
+					255
+				]
+			],
+			"flags": 0,
+			"life": 100.0,
+			"tile_id": 1201
+		},
+		{
+			"color": [
+				[
+					215,
+					255,
+					255,
+					232
+				]
+			],
+			"flags": 0,
+			"life": 100.0,
+			"tile_id": 1200
+		}
+	],
+	"sound": {
+		"id": "102",
+		"volume": 100
+	}
+}

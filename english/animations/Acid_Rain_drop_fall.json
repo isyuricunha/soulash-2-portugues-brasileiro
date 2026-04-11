@@ -1,0 +1,37 @@
+{
+	"animation_origin_self": false,
+	"blocking": false,
+	"camera_shake": {
+		"bounces": 0,
+		"duration": 0.0,
+		"power": 0.0
+	},
+	"chain_particles": false,
+	"id": "core_2_Acid_rain_drop_fall",
+	"ignore_roof": false,
+	"name": "Acid Rain drop fall",
+	"particles": [
+		{
+			"color": [
+				[
+					140,
+					196,
+					1,
+					250
+				]
+			],
+			"elevation": 500,
+			"elevation_drop": true,
+			"flags": 32768,
+			"height": 10,
+			"life": 500.0,
+			"on_impact": "core_2_Acid_Rain_drop_impact",
+			"pulse_background": 300.0,
+			"tile_id": 638
+		}
+	],
+	"sound": {
+		"id": "",
+		"volume": 100
+	}
+}

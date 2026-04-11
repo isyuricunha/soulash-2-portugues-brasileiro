@@ -1,0 +1,85 @@
+{
+	"camera_shake": {
+		"bounces": 16,
+		"duration": 1.100000023841858,
+		"power": 3,
+		"type": 1
+	},
+	"chain_particles": false,
+	"id": "212",
+	"ignore_roof": true,
+	"name": "Burning sun",
+	"particles": [
+		{
+			"color": [
+				[
+					255,
+					255,
+					255,
+					255
+				]
+			],
+			"explosion_range": 1,
+			"flags": 18,
+			"life": 300.0,
+			"pulse_background": 2000.0,
+			"tile_id": 752
+		},
+		{
+			"color": [
+				[
+					255,
+					255,
+					255,
+					255
+				]
+			],
+			"delay": 300.0,
+			"explosion_range": 2,
+			"flags": 2066,
+			"life": 300.0,
+			"pulse_background": 2000.0,
+			"tile_id": 753
+		},
+		{
+			"color": [
+				[
+					255,
+					255,
+					255,
+					255
+				]
+			],
+			"delay": 600.0,
+			"explosion_range": 3,
+			"flags": 1050642,
+			"life": 950.0,
+			"pulse_background": 2000.0,
+			"spin": 1000.0,
+			"tile_id": 754
+		},
+		{
+			"color": [
+				[
+					255,
+					255,
+					255,
+					255
+				]
+			],
+			"delay": 900.0,
+			"explosion_range": 3,
+			"flags": 5244946,
+			"life": 400.0,
+			"on_impact": "213",
+			"pulse_background": 2000.0,
+			"spin": 1000.0,
+			"tile_id": 754,
+			"velocity": 100.0
+		}
+	],
+	"sound": {
+		"id": "118",
+		"volume": 100
+	}
+}

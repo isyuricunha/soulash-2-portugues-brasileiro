@@ -1,0 +1,84 @@
+{
+	"animation_origin_self": false,
+	"camera_shake": {
+		"bounces": 2,
+		"duration": 0.20000000298023224,
+		"power": 2,
+		"type": 1
+	},
+	"chain_particles": true,
+	"id": "core_2_Dodge_Thrust",
+	"ignore_roof": false,
+	"name": "Dodge Thrust",
+	"particles": [
+		{
+			"color": [
+				[
+					255,
+					255,
+					255,
+					255
+				]
+			],
+			"flags": 0,
+			"life": 50.0,
+			"tile_id": 32
+		},
+		{
+			"color": [
+				[
+					255,
+					255,
+					255,
+					255
+				]
+			],
+			"flags": 0,
+			"life": 50.0,
+			"tile_id": 33
+		},
+		{
+			"color": [
+				[
+					255,
+					255,
+					255,
+					255
+				]
+			],
+			"flags": 0,
+			"life": 50.0,
+			"tile_id": 34
+		},
+		{
+			"color": [
+				[
+					255,
+					255,
+					255,
+					255
+				]
+			],
+			"flags": 0,
+			"life": 50.0,
+			"tile_id": 35
+		},
+		{
+			"color": [
+				[
+					255,
+					255,
+					255,
+					255
+				]
+			],
+			"flags": 0,
+			"life": 100.0,
+			"tile_id": 36
+		}
+	],
+	"sound": {
+		"id": "139",
+		"volume": 100
+	}
+}

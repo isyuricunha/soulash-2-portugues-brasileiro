@@ -1,0 +1,45 @@
+{
+	"blocking": false,
+	"camera_shake": {
+		"bounces": 0,
+		"duration": 0.25,
+		"power": 5,
+		"type": 1
+	},
+	"chain_particles": true,
+	"id": "120",
+	"ignore_roof": true,
+	"name": "Bleed",
+	"particles": [
+		{
+			"color": [
+				[
+					150,
+					50,
+					40,
+					255
+				]
+			],
+			"flags": 16,
+			"life": 50.0,
+			"tile_id": 334
+		},
+		{
+			"color": [
+				[
+					150,
+					50,
+					40,
+					255
+				]
+			],
+			"flags": 24,
+			"life": 100.0,
+			"tile_id": 319
+		}
+	],
+	"sound": {
+		"id": "78",
+		"volume": 100
+	}
+}

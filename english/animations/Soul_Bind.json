@@ -1,0 +1,161 @@
+{
+	"animation_origin_self": false,
+	"camera_shake": {
+		"bounces": 0,
+		"duration": 0.0,
+		"power": 0.0
+	},
+	"chain_particles": true,
+	"id": "core_2_Soul_Bind",
+	"ignore_roof": false,
+	"name": "Soul Bind",
+	"particles": [
+		{
+			"color": [
+				[
+					255,
+					255,
+					255,
+					167
+				]
+			],
+			"flags": 0,
+			"life": 50.0,
+			"tile_id": 1473
+		},
+		{
+			"color": [
+				[
+					255,
+					255,
+					255,
+					165
+				]
+			],
+			"flags": 0,
+			"life": 50.0,
+			"tile_id": 1474
+		},
+		{
+			"color": [
+				[
+					255,
+					255,
+					255,
+					164
+				]
+			],
+			"flags": 0,
+			"life": 50.0,
+			"tile_id": 1475
+		},
+		{
+			"color": [
+				[
+					255,
+					255,
+					255,
+					165
+				]
+			],
+			"flags": 0,
+			"life": 70.0,
+			"tile_id": 1476
+		},
+		{
+			"color": [
+				[
+					255,
+					255,
+					255,
+					165
+				]
+			],
+			"flags": 0,
+			"life": 50.0,
+			"tile_id": 1477
+		},
+		{
+			"color": [
+				[
+					255,
+					255,
+					255,
+					165
+				]
+			],
+			"flags": 0,
+			"life": 50.0,
+			"tile_id": 1478
+		},
+		{
+			"color": [
+				[
+					255,
+					255,
+					255,
+					165
+				]
+			],
+			"flags": 0,
+			"life": 100.0,
+			"tile_id": 1479
+		},
+		{
+			"color": [
+				[
+					255,
+					255,
+					255,
+					162
+				]
+			],
+			"flags": 0,
+			"life": 90.0,
+			"tile_id": 1480
+		},
+		{
+			"color": [
+				[
+					255,
+					255,
+					255,
+					165
+				]
+			],
+			"flags": 0,
+			"life": 80.0,
+			"tile_id": 1481
+		},
+		{
+			"color": [
+				[
+					255,
+					255,
+					255,
+					164
+				]
+			],
+			"flags": 0,
+			"life": 80.0,
+			"tile_id": 1482
+		},
+		{
+			"color": [
+				[
+					255,
+					255,
+					255,
+					167
+				]
+			],
+			"flags": 0,
+			"life": 150.0,
+			"tile_id": 1483
+		}
+	],
+	"sound": {
+		"id": "149",
+		"volume": 100
+	}
+}

@@ -1,0 +1,55 @@
+{
+	"camera_shake": {
+		"bounces": 2,
+		"duration": 0.30000001192092896,
+		"power": 8,
+		"type": 1
+	},
+	"chain_particles": false,
+	"id": "72",
+	"ignore_roof": true,
+	"name": "Unleash power",
+	"particles": [
+		{
+			"explosion_range": 2,
+			"flags": 0,
+			"life": 330.0,
+			"tile_effect": {
+				"alpha": -5,
+				"height": 1,
+				"transition_time": 100
+			}
+		},
+		{
+			"color": [
+				[
+					255,
+					255,
+					255,
+					255
+				]
+			],
+			"flags": 8328,
+			"tile_id": 482,
+			"velocity": 30.0
+		},
+		{
+			"color": [
+				[
+					255,
+					255,
+					255,
+					255
+				]
+			],
+			"delay": 100.0,
+			"flags": 8328,
+			"tile_id": 481,
+			"velocity": 30.0
+		}
+	],
+	"sound": {
+		"id": "53",
+		"volume": 100
+	}
+}

@@ -1,0 +1,29 @@
+{
+	"camera_shake": {
+		"duration": 0.0,
+		"power": 0.0
+	},
+	"chain_particles": false,
+	"id": "156",
+	"ignore_roof": true,
+	"name": "Paralyzing Thorn",
+	"particles": [
+		{
+			"color": [
+				[
+					255,
+					255,
+					59,
+					255
+				]
+			],
+			"flags": 128,
+			"tile_id": 824,
+			"velocity": 30.0
+		}
+	],
+	"sound": {
+		"id": "47",
+		"volume": 100
+	}
+}

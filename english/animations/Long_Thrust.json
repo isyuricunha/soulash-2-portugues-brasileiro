@@ -1,0 +1,61 @@
+{
+	"animation_origin_self": false,
+	"camera_shake": {
+		"bounces": 2,
+		"duration": 0.10000000149011612,
+		"power": 4,
+		"type": 1
+	},
+	"chain_particles": true,
+	"id": "core_2_Long_Thrust",
+	"ignore_roof": false,
+	"name": "Long Thrust",
+	"particles": [
+		{
+			"color": [
+				[
+					255,
+					255,
+					255,
+					255
+				]
+			],
+			"delay": 50.0,
+			"flags": 128,
+			"life": 50.0,
+			"tile_id": 95
+		},
+		{
+			"color": [
+				[
+					255,
+					255,
+					255,
+					255
+				]
+			],
+			"delay": 50.0,
+			"flags": 128,
+			"life": 50.0,
+			"tile_id": 64
+		},
+		{
+			"color": [
+				[
+					255,
+					255,
+					255,
+					255
+				]
+			],
+			"delay": 50.0,
+			"flags": 129,
+			"life": 50.0,
+			"tile_id": 65
+		}
+	],
+	"sound": {
+		"id": "145",
+		"volume": 100
+	}
+}

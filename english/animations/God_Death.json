@@ -1,0 +1,30 @@
+{
+	"camera_shake": {
+		"bounces": 10,
+		"duration": 0.6000000238418579,
+		"power": 20,
+		"type": 1
+	},
+	"chain_particles": false,
+	"id": "core_2_god_death",
+	"name": "God Death",
+	"particles": [
+		{
+			"background": [
+				[
+					94,
+					220,
+					226,
+					20
+				]
+			],
+			"explosion_range": 30,
+			"flags": 16425,
+			"velocity": 30.0
+		}
+	],
+	"sound": {
+		"id": "8",
+		"volume": 100
+	}
+}

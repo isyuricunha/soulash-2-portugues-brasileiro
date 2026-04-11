@@ -1,0 +1,139 @@
+{
+	"animation_origin_self": false,
+	"camera_shake": {
+		"bounces": 2,
+		"duration": 0.30000001192092896,
+		"power": 2,
+		"type": 1
+	},
+	"chain_particles": true,
+	"id": "core_2_Sap_Eruption_Impact",
+	"ignore_roof": true,
+	"name": "Sap Eruption Impact",
+	"particles": [
+		{
+			"color": [
+				[
+					250,
+					255,
+					255,
+					255
+				]
+			],
+			"explosion_range": 1,
+			"flags": 2112,
+			"life": 40.0,
+			"pulse_background": 60.0,
+			"tile_id": 1440
+		},
+		{
+			"color": [
+				[
+					250,
+					255,
+					255,
+					255
+				]
+			],
+			"explosion_range": 1,
+			"flags": 2112,
+			"life": 40.0,
+			"pulse_background": 60.0,
+			"tile_id": 1441
+		},
+		{
+			"color": [
+				[
+					250,
+					255,
+					255,
+					255
+				]
+			],
+			"explosion_range": 1,
+			"flags": 2112,
+			"life": 80.0,
+			"pulse_background": 60.0,
+			"tile_id": 1442
+		},
+		{
+			"color": [
+				[
+					250,
+					255,
+					255,
+					255
+				]
+			],
+			"explosion_range": 1,
+			"flags": 2112,
+			"life": 80.0,
+			"pulse_background": 60.0,
+			"tile_id": 1443
+		},
+		{
+			"color": [
+				[
+					250,
+					255,
+					255,
+					255
+				]
+			],
+			"explosion_range": 1,
+			"flags": 2112,
+			"life": 80.0,
+			"pulse_background": 60.0,
+			"tile_id": 1444
+		},
+		{
+			"color": [
+				[
+					250,
+					255,
+					255,
+					255
+				]
+			],
+			"explosion_range": 1,
+			"flags": 2112,
+			"life": 40.0,
+			"pulse_background": 60.0,
+			"tile_id": 1445
+		},
+		{
+			"color": [
+				[
+					250,
+					255,
+					255,
+					255
+				]
+			],
+			"explosion_range": 1,
+			"flags": 2112,
+			"life": 120.0,
+			"pulse_background": 60.0,
+			"tile_id": 1446
+		},
+		{
+			"color": [
+				[
+					250,
+					255,
+					255,
+					172
+				]
+			],
+			"explosion_range": 1,
+			"flags": 2112,
+			"life": 150.0,
+			"pulse_background": 60.0,
+			"tile_id": 1447
+		}
+	],
+	"sound": {
+		"id": "111",
+		"volume": 100
+	}
+}

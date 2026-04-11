@@ -1,0 +1,98 @@
+{
+	"animation_origin_self": false,
+	"camera_shake": {
+		"bounces": 0,
+		"duration": 0.0,
+		"power": 0.0
+	},
+	"chain_particles": true,
+	"id": "core_2_Lightning_Bolt",
+	"ignore_roof": false,
+	"name": "Lightning Bolt",
+	"particles": [
+		{
+			"color": [
+				[
+					255,
+					255,
+					255,
+					255
+				]
+			],
+			"flags": 128,
+			"life": 20.0,
+			"tile_id": 1152
+		},
+		{
+			"color": [
+				[
+					255,
+					255,
+					255,
+					255
+				]
+			],
+			"flags": 128,
+			"life": 20.0,
+			"tile_id": 1153
+		},
+		{
+			"color": [
+				[
+					255,
+					255,
+					255,
+					255
+				]
+			],
+			"flags": 128,
+			"life": 20.0,
+			"tile_id": 1154
+		},
+		{
+			"color": [
+				[
+					255,
+					255,
+					255,
+					255
+				]
+			],
+			"flags": 128,
+			"life": 20.0,
+			"tile_id": 1155
+		},
+		{
+			"color": [
+				[
+					255,
+					255,
+					255,
+					255
+				]
+			],
+			"flags": 128,
+			"life": 20.0,
+			"tile_id": 1156
+		},
+		{
+			"color": [
+				[
+					255,
+					255,
+					255,
+					255
+				]
+			],
+			"flags": 128,
+			"life": 40.0,
+			"on_impact": "core_2_Lightning_bolt_impact",
+			"tile_id": 1157,
+			"velocity": 40.0
+		}
+	],
+	"sound": {
+		"id": "15",
+		"volume": 100
+	}
+}

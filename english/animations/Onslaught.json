@@ -1,0 +1,71 @@
+{
+	"animation_origin_self": false,
+	"camera_shake": {
+		"bounces": 2,
+		"duration": 0.15000000596046448,
+		"power": 3,
+		"type": 1
+	},
+	"chain_particles": true,
+	"id": "239",
+	"ignore_roof": false,
+	"name": "Onslaught",
+	"particles": [
+		{
+			"color": [
+				[
+					255,
+					255,
+					255,
+					255
+				]
+			],
+			"flags": 0,
+			"life": 60.0,
+			"tile_id": 208
+		},
+		{
+			"color": [
+				[
+					255,
+					255,
+					255,
+					255
+				]
+			],
+			"flags": 0,
+			"life": 60.0,
+			"tile_id": 209
+		},
+		{
+			"color": [
+				[
+					255,
+					255,
+					255,
+					255
+				]
+			],
+			"flags": 0,
+			"life": 75.0,
+			"tile_id": 210
+		},
+		{
+			"color": [
+				[
+					255,
+					255,
+					255,
+					255
+				]
+			],
+			"flags": 0,
+			"life": 75.0,
+			"tile_id": 211
+		}
+	],
+	"sound": {
+		"id": "136",
+		"volume": 100
+	}
+}

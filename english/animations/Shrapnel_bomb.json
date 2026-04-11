@@ -1,0 +1,118 @@
+{
+	"animation_origin_self": false,
+	"camera_shake": {
+		"bounces": 2,
+		"duration": 0.20000000298023224,
+		"power": 8,
+		"type": 1
+	},
+	"chain_particles": false,
+	"id": "core_2_Shrapnel_bomb",
+	"ignore_roof": true,
+	"name": "Shrapnel bomb",
+	"particles": [
+		{
+			"color": [
+				[
+					255,
+					255,
+					255,
+					255
+				]
+			],
+			"delay": 150.0,
+			"explosion_range": 1,
+			"flags": 140,
+			"life": 300.0,
+			"repeat": 2,
+			"tile_id": 1296,
+			"velocity": 200.0
+		},
+		{
+			"color": [
+				[
+					255,
+					255,
+					255,
+					255
+				]
+			],
+			"delay": 150.0,
+			"explosion_range": 1,
+			"flags": 140,
+			"life": 300.0,
+			"repeat": 1,
+			"tile_id": 1297,
+			"velocity": 200.0
+		},
+		{
+			"color": [
+				[
+					255,
+					255,
+					255,
+					255
+				]
+			],
+			"delay": 150.0,
+			"explosion_range": 1,
+			"flags": 140,
+			"life": 300.0,
+			"repeat": 1,
+			"tile_id": 1298,
+			"velocity": 200.0
+		},
+		{
+			"color": [
+				[
+					255,
+					255,
+					255,
+					255
+				]
+			],
+			"delay": 150.0,
+			"explosion_range": 1,
+			"flags": 140,
+			"life": 300.0,
+			"tile_id": 1299,
+			"velocity": 200.0
+		},
+		{
+			"color": [
+				[
+					255,
+					255,
+					255,
+					255
+				]
+			],
+			"delay": 150.0,
+			"explosion_range": 1,
+			"flags": 140,
+			"life": 300.0,
+			"tile_id": 1300,
+			"velocity": 200.0
+		},
+		{
+			"color": [
+				[
+					255,
+					255,
+					255,
+					255
+				]
+			],
+			"delay": 150.0,
+			"explosion_range": 1,
+			"flags": 140,
+			"life": 300.0,
+			"tile_id": 1301,
+			"velocity": 200.0
+		}
+	],
+	"sound": {
+		"id": "120",
+		"volume": 100
+	}
+}

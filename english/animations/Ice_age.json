@@ -1,0 +1,48 @@
+{
+	"animation_origin_self": false,
+	"camera_shake": {
+		"bounces": 10,
+		"duration": 2.200000047683716,
+		"power": 5,
+		"type": 1
+	},
+	"chain_particles": false,
+	"id": "core_2_Ice_age",
+	"ignore_roof": false,
+	"name": "Ice age",
+	"particles": [
+		{
+			"color": [
+				[
+					255,
+					255,
+					255,
+					255
+				]
+			],
+			"explosion_range": 6,
+			"flags": 2331,
+			"tile_id": 651,
+			"velocity": 200.0
+		},
+		{
+			"color": [
+				[
+					255,
+					255,
+					255,
+					255
+				]
+			],
+			"delay": 500.0,
+			"explosion_range": 6,
+			"flags": 2331,
+			"tile_id": 650,
+			"velocity": 200.0
+		}
+	],
+	"sound": {
+		"id": "107",
+		"volume": 100
+	}
+}
