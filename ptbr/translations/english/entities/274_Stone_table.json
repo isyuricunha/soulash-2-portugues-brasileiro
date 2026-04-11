@@ -1,0 +1,86 @@
+{
+  "armor": {
+    "acid": 3,
+    "death": 2,
+    "electricity": 10,
+    "fire": 8,
+    "frost": 2,
+    "holy": 2,
+    "parry": 0,
+    "physical": 8,
+    "poison": 6,
+    "thorns": 0
+  },
+  "category_id": 7,
+  "components": [
+    "armor",
+    "collidable",
+    "craftable",
+    "glyph",
+    "health",
+    "minimap_pixel",
+    "name",
+    "position_2d",
+    "producer"
+  ],
+  "corpse": "35",
+  "craftable": {
+    "magic_slots": 0,
+    "resource_types": [
+      {
+        "amount": 2,
+        "id": 6
+      }
+    ],
+    "resources": null,
+    "time": 20,
+    "tools": []
+  },
+  "description": "Uma mesa esculpida em um bloco de pedra.",
+  "glyph": {
+    "frames": [
+      {
+        "color": [
+          255,
+          255,
+          255
+        ],
+        "delay": 0,
+        "index": 874
+      },
+      {
+        "color": [
+          255,
+          255,
+          255
+        ],
+        "delay": 0,
+        "index": 1079
+      }
+    ],
+    "random_frame_start": true
+  },
+  "health": 100,
+  "id": "274",
+  "minimap_pixel": [
+    80,
+    90,
+    97
+  ],
+  "name": "Mesa de Pedra",
+  "producer": {
+    "products": {
+      "core_2_deconstruct": [
+        {
+          "amount": [
+            0,
+            0
+          ],
+          "id": "-1",
+          "percent_chance": 0
+        }
+      ]
+    },
+    "time": 20
+  }
+}

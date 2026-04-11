@@ -1,0 +1,19 @@
+{
+  "enables": [
+    "core_2_stormthrowing"
+  ],
+  "id": "112",
+  "image": 78,
+  "max": 1,
+  "name": "Templo da Lua",
+  "occupation_image": 66,
+  "occupation": "2348",
+  "produces": [],
+  "race": "10",
+  "tier": 3,
+  "type": "military",
+  "workers": [
+    1,
+    4
+  ]
+}

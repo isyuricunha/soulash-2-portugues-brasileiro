@@ -1,0 +1,35 @@
+{
+  "components": [
+    "block_light",
+    "collidable",
+    "glyph",
+    "health",
+    "minimap_pixel",
+    "name",
+    "position_2d"
+  ],
+  "corpse": "35",
+  "description": "Uma ponta de pedra negra saindo do chão, obstruindo sua visão.",
+  "glyph": {
+    "frames": [
+      {
+        "color": [
+          255,
+          255,
+          255
+        ],
+        "delay": 0,
+        "index": 1025
+      }
+    ],
+    "random_frame_start": false
+  },
+  "health": 60,
+  "id": "1032",
+  "minimap_pixel": [
+    70,
+    70,
+    68
+  ],
+  "name": "Espigão Negro"
+}

@@ -1,0 +1,20 @@
+{
+  "animation": "140",
+  "camera_shake": {
+    "duration": 0.0,
+    "power": 0
+  },
+  "explosion_range": 10,
+  "id": "139",
+  "name": "Fogos de artifício",
+  "random_delay": [
+    0,
+    5000
+  ],
+  "random_target": true,
+  "repeat": 40,
+  "sound": {
+    "id": "0",
+    "volume": 100
+  }
+}

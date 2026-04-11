@@ -1,0 +1,15 @@
+{
+  "id": "core_2_leather_cape",
+  "name": "Capa de Couro",
+  "requirements": {
+    "skill": 23
+  },
+  "rewards": [
+    {
+      "recipe": "768"
+    }
+  ],
+  "skill_id": "core_2_leatherworking",
+  "steps": [],
+  "steps_type": 0
+}

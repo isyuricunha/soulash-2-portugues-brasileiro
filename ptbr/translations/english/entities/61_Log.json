@@ -1,0 +1,76 @@
+{
+  "components": [
+    "glyph",
+    "health",
+    "item",
+    "minimap_pixel",
+    "name",
+    "position_2d",
+    "producer",
+    "resource",
+    "stackable",
+    "value",
+    "weight"
+  ],
+  "corpse": "62",
+  "description": "Tora é uma árvore com galhos cortados. Pode ser muito útil para construir coisas. Você pode ser capaz de produzir alguns pedaços de madeira a partir dela.",
+  "glyph": {
+    "frames": [
+      {
+        "color": [
+          255,
+          255,
+          255
+        ],
+        "delay": 0,
+        "index": 171
+      }
+    ],
+    "random_frame_start": false
+  },
+  "health": 100,
+  "id": "61",
+  "item": {
+    "image": 9,
+    "type": 16
+  },
+  "minimap_pixel": [
+    171,
+    102,
+    57
+  ],
+  "name": "Tora",
+  "producer": {
+    "products": {
+      "1": [
+        {
+          "amount": [
+            6,
+            10
+          ],
+          "id": "62",
+          "percent_chance": 100
+        }
+      ],
+      "core_2_woodbend": [
+        {
+          "amount": [
+            7,
+            10
+          ],
+          "id": "62",
+          "percent_chance": 100
+        }
+      ]
+    },
+    "time": 60
+  },
+  "resource": {
+    "affix": "",
+    "magic_ingredient": 0,
+    "quality": 0,
+    "type": 11
+  },
+  "value": 2000,
+  "weight": 72.0
+}

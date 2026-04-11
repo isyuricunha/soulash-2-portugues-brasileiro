@@ -1,0 +1,112 @@
+{
+  "armor": {
+    "acid": 5,
+    "death": 5,
+    "electricity": 10,
+    "fire": -5,
+    "frost": 10,
+    "holy": 5,
+    "parry": 0,
+    "physical": 5,
+    "poison": 20,
+    "thorns": 0
+  },
+  "category_id": 5,
+  "components": [
+    "armor",
+    "block_light",
+    "collidable",
+    "craftable",
+    "glyph",
+    "glyph_top",
+    "health",
+    "height",
+    "minimap_pixel",
+    "name",
+    "position_2d",
+    "random_resource"
+  ],
+  "corpse": [],
+  "craftable": {
+    "backgrounds": [
+      "3068"
+    ],
+    "biomes": [
+      6
+    ],
+    "magic_slots": 0,
+    "resources": [
+      {
+        "amount": 1,
+        "id": "core_2_Acacia_Tree_Seed"
+      }
+    ],
+    "time": 20,
+    "tools": []
+  },
+  "description": "Uma árvore de acácia muito jovem e pequena.",
+  "glyph": {
+    "frames": [
+      {
+        "color": [
+          109,
+          86,
+          66
+        ],
+        "delay": 0,
+        "index": 860
+      }
+    ],
+    "random_frame_start": true,
+    "random_top": {
+      "colors": [
+        [
+          255,
+          255,
+          255
+        ],
+        [
+          93,
+          129,
+          54
+        ]
+      ],
+      "count": 14,
+      "glyph_ids": [
+        2415,
+        2416,
+        2417
+      ],
+      "max_alpha": 200,
+      "max_range": 12,
+      "wind": true
+    }
+  },
+  "health": 300,
+  "height": 30,
+  "id": "core_2_Acacia_Tree_Sapling",
+  "minimap_pixel": [
+    235,
+    171,
+    128
+  ],
+  "name": "Muda de Acácia",
+  "random_resource": {
+    "delay_spawn": true,
+    "entity": [
+      "core_2_Acacia_Tree"
+    ],
+    "max_amount": 1,
+    "max_distance": 0,
+    "min_amount": 1,
+    "min_distance": 0,
+    "multiply_same": false,
+    "respawn_rate": 288000.0,
+    "spawn_at": [
+      "core_2_Acacia_Tree_Sapling"
+    ],
+    "spawn_chance": 100.0,
+    "spawn_multiply": 0.0,
+    "spawn_rolls": 1
+  }
+}

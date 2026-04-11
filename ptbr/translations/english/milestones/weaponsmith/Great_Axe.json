@@ -1,0 +1,16 @@
+{
+  "id": "core_2_great_axe",
+  "name": "Machado Grande",
+  "requirements": {
+    "milestones": [],
+    "skill": 38
+  },
+  "rewards": [
+    {
+      "recipe": "core_2_Great_Axe"
+    }
+  ],
+  "skill_id": "core_2_weaponsmith",
+  "steps": [],
+  "steps_type": 0
+}

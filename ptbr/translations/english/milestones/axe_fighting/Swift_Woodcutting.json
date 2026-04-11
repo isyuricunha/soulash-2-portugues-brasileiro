@@ -1,0 +1,15 @@
+{
+  "id": "core_2_swift_woodcutting",
+  "name": "Lenhador Rápido",
+  "requirements": {
+    "skill": 3
+  },
+  "rewards": [
+    {
+      "passive": "core_2_swift_woodcutting"
+    }
+  ],
+  "skill_id": "core_2_axe_fighting",
+  "steps": [],
+  "steps_type": 0
+}

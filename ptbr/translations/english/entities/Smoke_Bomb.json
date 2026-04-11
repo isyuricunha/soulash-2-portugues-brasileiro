@@ -1,0 +1,65 @@
+{
+  "components": [
+    "craftable",
+    "glyph",
+    "item",
+    "minimap_pixel",
+    "name",
+    "position_2d",
+    "stackable",
+    "usable",
+    "value",
+    "weight"
+  ],
+  "craftable": {
+    "backgrounds": [],
+    "biomes": [],
+    "magic_slots": 0,
+    "resource_types": [
+      {
+        "amount": 1,
+        "id": 3
+      }
+    ],
+    "resources": [
+      {
+        "amount": 1,
+        "id": "core_2_Poisonous_Parsley"
+      }
+    ],
+    "time": 20,
+    "tools": []
+  },
+  "description": "Jogar esta bomba criará uma parede de fumaça. Útil quando é hora de recuar.",
+  "glyph": {
+    "frames": [
+      {
+        "color": [
+          255,
+          255,
+          255
+        ],
+        "delay": 0,
+        "index": 2961
+      }
+    ],
+    "random_frame_start": false
+  },
+  "id": "core_2_Smoke_Bomb",
+  "item": {
+    "image": 1347,
+    "type": 17
+  },
+  "minimap_pixel": [
+    194,
+    133,
+    109
+  ],
+  "name": "Bomba de Fumaça",
+  "usable": {
+    "ability": "core_2_Smoke_Bomb",
+    "recipe": ""
+  },
+  "value": 600,
+  "weight": 0.20000000298023224
+}

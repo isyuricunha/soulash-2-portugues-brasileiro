@@ -1,0 +1,76 @@
+{
+  "components": [
+    "glyph",
+    "item",
+    "liquid_source",
+    "minimap_pixel",
+    "name",
+    "position_2d",
+    "producer",
+    "value",
+    "weight"
+  ],
+  "description": "Um corpo sem vida de um veado.",
+  "glyph": {
+    "frames": [
+      {
+        "color": [
+          255,
+          255,
+          255
+        ],
+        "delay": 0,
+        "index": 119
+      }
+    ],
+    "random_frame_start": false
+  },
+  "id": "2076",
+  "item": {
+    "image": 120,
+    "type": 18
+  },
+  "liquid_source": {
+    "limit": 120,
+    "type": 4
+  },
+  "minimap_pixel": [
+    171,
+    102,
+    57
+  ],
+  "name": "Cadáver de Veado",
+  "producer": {
+    "products": {
+      "3": [
+        {
+          "amount": [
+            1,
+            2
+          ],
+          "id": "318",
+          "percent_chance": 100
+        },
+        {
+          "amount": [
+            1,
+            1
+          ],
+          "id": "2140",
+          "percent_chance": 100
+        },
+        {
+          "amount": [
+            1,
+            1
+          ],
+          "id": "2162",
+          "percent_chance": 100
+        }
+      ]
+    },
+    "time": 10
+  },
+  "value": 0,
+  "weight": 80.0
+}

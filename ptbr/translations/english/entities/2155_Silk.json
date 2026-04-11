@@ -1,0 +1,76 @@
+{
+  "armor": {
+    "acid": 0,
+    "death": 0,
+    "electricity": 0,
+    "fire": 2,
+    "frost": 0,
+    "holy": 0,
+    "parry": 0,
+    "physical": 0,
+    "poison": 0,
+    "thorns": 0
+  },
+  "components": [
+    "armor",
+    "craftable",
+    "glyph",
+    "item",
+    "minimap_pixel",
+    "name",
+    "position_2d",
+    "resource",
+    "stackable",
+    "value",
+    "weight"
+  ],
+  "craftable": {
+    "backgrounds": [],
+    "biomes": [],
+    "magic_slots": 0,
+    "resources": [
+      {
+        "amount": 3,
+        "id": "core_2_Silk_Thread"
+      }
+    ],
+    "time": 30,
+    "tools": [
+      11
+    ]
+  },
+  "description": "A seda é uma fibra natural produzida por larvas de insetos para formar casulos.",
+  "glyph": {
+    "frames": [
+      {
+        "color": [
+          255,
+          255,
+          255
+        ],
+        "delay": 0,
+        "index": 472
+      }
+    ],
+    "random_frame_start": false
+  },
+  "id": "2155",
+  "item": {
+    "image": 455,
+    "type": 16
+  },
+  "minimap_pixel": [
+    200,
+    200,
+    200
+  ],
+  "name": "Seda",
+  "resource": {
+    "affix": "Silk",
+    "magic_ingredient": 0,
+    "quality": 2,
+    "type": 4
+  },
+  "value": 800,
+  "weight": 0.10000000149011612
+}

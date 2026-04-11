@@ -1,0 +1,72 @@
+{
+  "armor": {
+    "acid": 0,
+    "death": 0,
+    "electricity": 0,
+    "fire": 3,
+    "frost": 3,
+    "holy": -2,
+    "parry": 0,
+    "physical": 1,
+    "poison": 0,
+    "thorns": 0
+  },
+  "components": [
+    "armor",
+    "craftable",
+    "glyph",
+    "item",
+    "minimap_pixel",
+    "name",
+    "position_2d",
+    "value",
+    "weight"
+  ],
+  "craftable": {
+    "backgrounds": [],
+    "biomes": [],
+    "magic_slots": 3,
+    "resource_types": [
+      {
+        "amount": 2,
+        "id": 4
+      },
+      {
+        "amount": 1,
+        "id": 1
+      }
+    ],
+    "time": 40,
+    "tools": [
+      12
+    ]
+  },
+  "description": "Um vestido longo e justo com mangas que lembram asas de morcego.",
+  "glyph": {
+    "frames": [
+      {
+        "color": [
+          255,
+          255,
+          255
+        ],
+        "delay": 0,
+        "index": 3116
+      }
+    ],
+    "random_frame_start": false
+  },
+  "id": "core_2_Dark_Dress",
+  "item": {
+    "image": 1447,
+    "type": 5
+  },
+  "minimap_pixel": [
+    89,
+    154,
+    38
+  ],
+  "name": "Vestido Escuro",
+  "value": 1400,
+  "weight": 0.5
+}

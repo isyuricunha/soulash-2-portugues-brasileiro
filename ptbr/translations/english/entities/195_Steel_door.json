@@ -1,0 +1,95 @@
+{
+  "armor": {
+    "acid": 0,
+    "death": 40,
+    "electricity": 40,
+    "fire": 40,
+    "frost": 20,
+    "holy": 40,
+    "parry": 0,
+    "physical": 50,
+    "poison": 40,
+    "thorns": 0
+  },
+  "background": {
+    "color": [
+      44,
+      45,
+      41
+    ],
+    "noise": 2
+  },
+  "category_id": 3,
+  "components": [
+    "armor",
+    "background",
+    "block_light",
+    "collidable",
+    "craftable",
+    "glyph",
+    "health",
+    "height",
+    "minimap_pixel",
+    "name",
+    "openable",
+    "position_2d"
+  ],
+  "corpse": "149",
+  "craftable": {
+    "magic_slots": 0,
+    "resources": [
+      {
+        "amount": 3,
+        "id": "149"
+      }
+    ],
+    "time": 40,
+    "tools": [
+      6
+    ]
+  },
+  "description": "Uma porta de aço com design simples, mas muito resistente.",
+  "glyph": {
+    "frames": [
+      {
+        "color": [
+          255,
+          255,
+          255
+        ],
+        "delay": 0,
+        "index": 286
+      }
+    ],
+    "random_frame_start": false
+  },
+  "health": 200,
+  "height": 10,
+  "id": "195",
+  "minimap_pixel": [
+    126,
+    146,
+    172
+  ],
+  "name": "Porta de Aço",
+  "openable": {
+    "block_light": false,
+    "collidable": false,
+    "description": "Você vê diante de si portas de aço com design simplista, mas muito resistentes, atualmente abertas.",
+    "glyph": {
+      "frames": [
+        {
+          "color": [
+            255,
+            255,
+            255
+          ],
+          "delay": 0,
+          "index": 725
+        }
+      ],
+      "random_frame_start": false
+    },
+    "height": 0
+  }
+}

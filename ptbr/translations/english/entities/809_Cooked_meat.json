@@ -1,0 +1,46 @@
+{
+  "components": [
+    "food",
+    "glyph",
+    "item",
+    "minimap_pixel",
+    "name",
+    "position_2d",
+    "stackable",
+    "value",
+    "weight"
+  ],
+  "description": "Alguma carne cozida, boa fonte de nutrição.",
+  "food": {
+    "nutrition": 40,
+    "poisonous": 0,
+    "raw": false
+  },
+  "glyph": {
+    "frames": [
+      {
+        "color": [
+          255,
+          255,
+          255
+        ],
+        "delay": 0,
+        "index": 400
+      }
+    ],
+    "random_frame_start": false
+  },
+  "id": "809",
+  "item": {
+    "image": 50,
+    "type": 20
+  },
+  "minimap_pixel": [
+    157,
+    78,
+    54
+  ],
+  "name": "Carne Cozida",
+  "value": 300,
+  "weight": 0.10000000149011612
+}

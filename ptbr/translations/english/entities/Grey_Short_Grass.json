@@ -1,0 +1,111 @@
+{
+  "background": {
+    "color": [
+      34,
+      34,
+      35
+    ],
+    "noise": 1,
+    "noise_intensity": 2
+  },
+  "category_id": 1,
+  "components": [
+    "background",
+    "craftable",
+    "glyph",
+    "health",
+    "minimap_pixel",
+    "name",
+    "random_resource"
+  ],
+  "corpse": [
+    {
+      "damage_type": 0,
+      "id": "30"
+    },
+    {
+      "damage_type": 1,
+      "id": "598"
+    },
+    {
+      "damage_type": 2,
+      "id": "603"
+    },
+    {
+      "damage_type": 4,
+      "id": "613"
+    },
+    {
+      "damage_type": 5,
+      "id": "2"
+    }
+  ],
+  "craftable": {
+    "backgrounds": [],
+    "biomes": [],
+    "magic_slots": 0,
+    "resources": null,
+    "time": 5,
+    "tools": []
+  },
+  "description": "Cinza estranho, mas parece normal além disso.",
+  "glyph": {
+    "frames": [
+      {
+        "color": [
+          69,
+          74,
+          74
+        ],
+        "delay": 0,
+        "index": 2514
+      },
+      {
+        "color": [
+          69,
+          74,
+          74
+        ],
+        "delay": 0,
+        "index": 2513
+      },
+      {
+        "color": [
+          69,
+          74,
+          74
+        ],
+        "delay": 0,
+        "index": 2512
+      }
+    ],
+    "random_frame_start": true
+  },
+  "health": 1,
+  "id": "core_2_Grey_Short_Grass",
+  "minimap_pixel": [
+    73,
+    80,
+    74
+  ],
+  "name": "Grama Curta Cinza",
+  "random_resource": {
+    "delay_spawn": false,
+    "entity": [
+      "2",
+      "3"
+    ],
+    "max_amount": 0,
+    "max_distance": 0,
+    "min_amount": 0,
+    "min_distance": 0,
+    "multiply_same": true,
+    "respawn_rate": 0.0,
+    "spawn_at": [
+      "1"
+    ],
+    "spawn_chance": 2.0,
+    "spawn_multiply": 20.0,
+    "spawn_rolls": 1
+  }
+}

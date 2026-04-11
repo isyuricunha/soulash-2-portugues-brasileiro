@@ -1,0 +1,40 @@
+{
+  "components": [
+    "glyph",
+    "item",
+    "minimap_pixel",
+    "name",
+    "position_2d",
+    "stackable",
+    "value",
+    "weight"
+  ],
+  "description": "Folha longa e plana.",
+  "glyph": {
+    "frames": [
+      {
+        "color": [
+          255,
+          255,
+          255
+        ],
+        "delay": 0,
+        "index": 2918
+      }
+    ],
+    "random_frame_start": false
+  },
+  "id": "core_2_Ribwort",
+  "item": {
+    "image": 1320,
+    "type": 16
+  },
+  "minimap_pixel": [
+    73,
+    156,
+    73
+  ],
+  "name": "Plantago",
+  "value": 100,
+  "weight": 0.10000000149011612
+}

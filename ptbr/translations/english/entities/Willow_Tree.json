@@ -1,0 +1,137 @@
+{
+  "armor": {
+    "acid": 5,
+    "death": 5,
+    "electricity": 10,
+    "fire": -5,
+    "frost": 10,
+    "holy": 5,
+    "parry": 0,
+    "physical": 5,
+    "poison": 20,
+    "thorns": 0
+  },
+  "components": [
+    "armor",
+    "block_light",
+    "collidable",
+    "glyph",
+    "glyph_top",
+    "health",
+    "height",
+    "minimap_pixel",
+    "name",
+    "position_2d",
+    "producer"
+  ],
+  "corpse": [],
+  "description": "Um pequeno salgueiro com galhos quase tocando o chão.",
+  "glyph": {
+    "frames": [
+      {
+        "color": [
+          109,
+          86,
+          66
+        ],
+        "delay": 0,
+        "index": 217
+      },
+      {
+        "color": [
+          131,
+          86,
+          66
+        ],
+        "delay": 0,
+        "index": 217
+      },
+      {
+        "color": [
+          94,
+          54,
+          57
+        ],
+        "delay": 0,
+        "index": 217
+      },
+      {
+        "color": [
+          125,
+          60,
+          57
+        ],
+        "delay": 0,
+        "index": 217
+      }
+    ],
+    "random_frame_start": true,
+    "random_top": {
+      "colors": [
+        [
+          170,
+          148,
+          79
+        ],
+        [
+          124,
+          136,
+          70
+        ],
+        [
+          82,
+          93,
+          75
+        ],
+        [
+          53,
+          77,
+          68
+        ]
+      ],
+      "count": 60,
+      "glyph_ids": [
+        1528,
+        1558,
+        1559
+      ],
+      "max_alpha": 200,
+      "max_range": 25,
+      "wind": true
+    }
+  },
+  "health": 300,
+  "height": 30,
+  "id": "core_2_Willow_Tree",
+  "minimap_pixel": [
+    123,
+    93,
+    40
+  ],
+  "name": "Árvore de Salgueiro",
+  "producer": {
+    "products": {
+      "10": [
+        {
+          "amount": [
+            1,
+            1
+          ],
+          "id": "core_2_Wicker",
+          "percent_chance": 100
+        }
+      ],
+      "core_2_woodbend": [
+        {
+          "amount": [
+            1,
+            3
+          ],
+          "id": "core_2_Wicker",
+          "percent_chance": 100
+        }
+      ]
+    },
+    "time": 30
+  }
+}

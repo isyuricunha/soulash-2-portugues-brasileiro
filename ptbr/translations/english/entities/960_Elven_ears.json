@@ -1,0 +1,62 @@
+{
+  "components": [
+    "food",
+    "glyph",
+    "item",
+    "minimap_pixel",
+    "name",
+    "position_2d",
+    "producer",
+    "stackable",
+    "value",
+    "weight"
+  ],
+  "description": "Uma iguaria em certas partes do mundo.",
+  "food": {
+    "nutrition": 10,
+    "on_eat": "",
+    "raw": true
+  },
+  "glyph": {
+    "frames": [
+      {
+        "color": [
+          255,
+          255,
+          255
+        ],
+        "delay": 0,
+        "index": 170
+      }
+    ],
+    "random_frame_start": false
+  },
+  "id": "960",
+  "item": {
+    "image": 430,
+    "type": 20
+  },
+  "minimap_pixel": [
+    168,
+    104,
+    91
+  ],
+  "name": "Orelhas Élficas",
+  "producer": {
+    "products": {
+      "9": [
+        {
+          "amount": [
+            1,
+            1
+          ],
+          "id": "core_2_Baked_Elven_Ears",
+          "percent_chance": 100
+        }
+      ]
+    },
+    "time": 10
+  },
+  "value": 400,
+  "weight": 0.10000000149011612
+}

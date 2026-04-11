@@ -1,0 +1,60 @@
+{
+  "id": "94",
+  "image": 74,
+  "max": 1,
+  "name": "Moinho de Seda",
+  "occupation_image": 60,
+  "occupation": "2331",
+  "occupation_per_race": {
+    "0": "2260",
+    "1": "core_2_Dwarf_Miller",
+    "2": "core_2_Elf_Miller",
+    "4": "core_2_Goblin_Miller",
+    "6": "core_2_Vampire_Miller",
+    "7": "core_2_Troll_Miller",
+    "8": "core_2_Orc_Miller",
+    "10": "2331",
+    "23": "core_2_Reptilion_Miller",
+    "26": "core_2_Bone_Wraith_Miller",
+    "31": "core_2_Gnoll_Miller",
+    "32": "core_2_Mushman_Miller",
+    "33": "core_2_Ursan_Miller"
+  },
+  "produces": [
+    {
+      "entities": [
+        {
+          "daily": 1.0,
+          "id": "2155"
+        }
+      ],
+      "takes": [
+        {
+          "amount": 3,
+          "id": "core_2_Silk_Thread"
+        }
+      ]
+    }
+  ],
+  "race": "10",
+  "tier": 2,
+  "workers": [
+    1,
+    2
+  ],
+  "allow_player": true,
+  "required_entities": [
+    {
+      "entities": [
+        "799"
+      ],
+      "count": 1
+    },
+    {
+      "component": "resting_place",
+      "count": 2
+    }
+  ],
+  "min_area": 20,
+  "group": "resources"
+}

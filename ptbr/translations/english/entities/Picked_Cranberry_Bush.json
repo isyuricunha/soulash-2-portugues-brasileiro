@@ -1,0 +1,86 @@
+{
+  "armor": {
+    "acid": 100,
+    "death": 0,
+    "electricity": 10,
+    "fire": -10,
+    "frost": 30,
+    "holy": 100,
+    "parry": 0,
+    "physical": 5,
+    "poison": 100,
+    "thorns": 0
+  },
+  "components": [
+    "armor",
+    "block_light",
+    "glyph",
+    "glyph_top",
+    "health",
+    "height",
+    "minimap_pixel",
+    "name",
+    "position_2d",
+    "random_resource"
+  ],
+  "corpse": [],
+  "description": "Uma bagunça de ramos e folhas. Pode ter oxicocos em breve.",
+  "glyph": {
+    "frames": [
+      {
+        "color": [
+          120,
+          88,
+          66
+        ],
+        "delay": 0,
+        "index": 28
+      }
+    ],
+    "random_frame_start": false,
+    "random_top": {
+      "colors": [
+        [
+          255,
+          255,
+          255
+        ]
+      ],
+      "count": 12,
+      "glyph_ids": [
+        867,
+        868
+      ],
+      "max_alpha": 200,
+      "max_range": 20,
+      "wind": true
+    }
+  },
+  "health": 50,
+  "height": 12,
+  "id": "core_2_Picked_Cranberry_Bush",
+  "minimap_pixel": [
+    156,
+    73,
+    73
+  ],
+  "name": "Arbusto de Oxicoco Colhido",
+  "random_resource": {
+    "delay_spawn": true,
+    "entity": [
+      "core_2_Cranberry_Bush"
+    ],
+    "max_amount": 1,
+    "max_distance": 0,
+    "min_amount": 1,
+    "min_distance": 0,
+    "multiply_same": false,
+    "respawn_rate": 72000.0,
+    "spawn_at": [
+      "core_2_Picked_Cranberry_Bush"
+    ],
+    "spawn_chance": 100.0,
+    "spawn_multiply": 0.0,
+    "spawn_rolls": 1
+  }
+}

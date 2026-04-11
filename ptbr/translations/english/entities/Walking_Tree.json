@@ -1,0 +1,246 @@
+{
+  "ability_user": [
+    "core_2_Sap_Eruption",
+    "core_2_Vine_Lash",
+    "core_2_Pollen_Frenzy"
+  ],
+  "armor": {
+    "acid": 0,
+    "death": 0,
+    "electricity": 0,
+    "fire": -10,
+    "frost": -10,
+    "holy": 0,
+    "parry": 0,
+    "physical": 30,
+    "poison": 100,
+    "thorns": 30
+  },
+  "artificial_intelligence": {
+    "allies": [],
+    "allow_production": [],
+    "behaviors": [],
+    "enemies": [
+      "5"
+    ]
+  },
+  "chained": {
+    "map": [
+      [
+        "core_2_Walking_Tree_Branches",
+        "core_2_Walking_Tree_Branches",
+        "core_2_Walking_Tree_Branches",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "core_2_Walking_Tree_Branches",
+        "RESERVED_core_2_leader_tile",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "core_2_Walking_Tree_Branches",
+        "core_2_Walking_Tree_Branches",
+        "core_2_Walking_Tree_Branches",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ]
+    ],
+    "snake": false
+  },
+  "components": [
+    "ability_user",
+    "actor",
+    "armor",
+    "artificial_intelligence",
+    "chained",
+    "collidable",
+    "experience_gainer",
+    "fighter",
+    "glyph",
+    "health",
+    "minimap_pixel",
+    "moveable",
+    "name",
+    "position_2d",
+    "sight",
+    "stamina",
+    "statistics",
+    "tags"
+  ],
+  "corpse": [],
+  "description": "Uma árvore enorme que se move lentamente usando suas raízes.",
+  "experience_gainer": {
+    "exp": 0,
+    "level": 50
+  },
+  "fighter": {
+    "attackNames": [
+      "Branch"
+    ]
+  },
+  "glyph": {
+    "frames": [
+      {
+        "color": [
+          255,
+          255,
+          255
+        ],
+        "delay": 0,
+        "index": 567
+      }
+    ],
+    "random_frame_start": false
+  },
+  "health": 1500,
+  "id": "core_2_Walking_Tree",
+  "minimap_pixel": [
+    149,
+    165,
+    101
+  ],
+  "moveable": {
+    "speed": 1.5
+  },
+  "name": "Árvore Andante",
+  "sight": {
+    "ignore_infra_penalty": false,
+    "infravision": true,
+    "range": 12,
+    "threesixty": false
+  },
+  "stamina": {
+    "fatigue": 100,
+    "stamina": 100,
+    "stamina_regen": 0.0
+  },
+  "statistics": {
+    "dexterity": [
+      50,
+      70
+    ],
+    "endurance": [
+      150,
+      160
+    ],
+    "intelligence": [
+      8,
+      11
+    ],
+    "magic_power": 10,
+    "strength": [
+      110,
+      120
+    ],
+    "willpower": [
+      150,
+      160
+    ]
+  },
+  "tags": [
+    "9",
+    "3"
+  ]
+}

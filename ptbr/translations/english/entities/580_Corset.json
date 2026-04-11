@@ -1,0 +1,71 @@
+{
+  "armor": {
+    "acid": 1,
+    "death": 0,
+    "electricity": 0,
+    "fire": 0,
+    "frost": 0,
+    "holy": 4,
+    "parry": 0,
+    "physical": 1,
+    "poison": 2,
+    "thorns": 0
+  },
+  "components": [
+    "armor",
+    "craftable",
+    "glyph",
+    "item",
+    "minimap_pixel",
+    "name",
+    "position_2d",
+    "value",
+    "weight"
+  ],
+  "craftable": {
+    "magic_slots": 3,
+    "resource_types": [
+      {
+        "amount": 2,
+        "id": 2
+      },
+      {
+        "amount": 1,
+        "id": 4
+      }
+    ],
+    "resources": null,
+    "time": 75,
+    "tools": [
+      12
+    ]
+  },
+  "description": "Projetado para moldar seu torso.",
+  "glyph": {
+    "frames": [
+      {
+        "color": [
+          255,
+          255,
+          255
+        ],
+        "delay": 0,
+        "index": 650
+      }
+    ],
+    "random_frame_start": false
+  },
+  "id": "580",
+  "item": {
+    "image": 183,
+    "type": 5
+  },
+  "minimap_pixel": [
+    122,
+    93,
+    57
+  ],
+  "name": "Espartilho",
+  "value": 2400,
+  "weight": 1.0
+}

@@ -1,0 +1,68 @@
+{
+  "armor": {
+    "acid": 0,
+    "death": 0,
+    "electricity": 0,
+    "fire": 0,
+    "frost": 2,
+    "holy": 0,
+    "parry": 0,
+    "physical": 0,
+    "poison": 0,
+    "thorns": 0
+  },
+  "components": [
+    "armor",
+    "craftable",
+    "glyph",
+    "item",
+    "minimap_pixel",
+    "name",
+    "position_2d",
+    "value",
+    "weight"
+  ],
+  "craftable": {
+    "backgrounds": [],
+    "biomes": [],
+    "magic_slots": 1,
+    "resource_types": [
+      {
+        "amount": 1,
+        "id": 9
+      }
+    ],
+    "time": 30,
+    "tools": [
+      14
+    ]
+  },
+  "description": "Muito quente e mantém a neve longe do seu rosto.",
+  "glyph": {
+    "frames": [
+      {
+        "color": [
+          255,
+          255,
+          255
+        ],
+        "delay": 0,
+        "index": 2259
+      }
+    ],
+    "random_frame_start": false
+  },
+  "id": "core_2_Fur_Hood",
+  "item": {
+    "image": 951,
+    "type": 1
+  },
+  "minimap_pixel": [
+    122,
+    93,
+    57
+  ],
+  "name": "Capuz de Pele",
+  "value": 200,
+  "weight": 0.5
+}

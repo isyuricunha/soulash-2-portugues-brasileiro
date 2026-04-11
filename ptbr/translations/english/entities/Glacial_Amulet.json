@@ -1,0 +1,76 @@
+{
+  "armor": {
+    "acid": 0,
+    "death": 4,
+    "electricity": 0,
+    "fire": 0,
+    "frost": 4,
+    "holy": 0,
+    "parry": 0,
+    "physical": 4,
+    "poison": 0,
+    "thorns": 0
+  },
+  "components": [
+    "armor",
+    "craftable",
+    "glyph",
+    "item",
+    "minimap_pixel",
+    "name",
+    "position_2d",
+    "value",
+    "weight"
+  ],
+  "craftable": {
+    "backgrounds": [],
+    "biomes": [],
+    "magic_slots": 3,
+    "resources": [
+      {
+        "amount": 1,
+        "id": "2472"
+      },
+      {
+        "amount": 1,
+        "id": "848"
+      },
+      {
+        "amount": 1,
+        "id": "core_2_Chromium_Ingot"
+      }
+    ],
+    "time": 60,
+    "tools": [
+      14
+    ]
+  },
+  "description": "Um amuleto com um fragmento de gelo eterno.",
+  "glyph": {
+    "frames": [
+      {
+        "color": [
+          255,
+          255,
+          255
+        ],
+        "delay": 0,
+        "index": 2646
+      }
+    ],
+    "random_frame_start": false
+  },
+  "id": "core_2_Glacial_Amulet",
+  "item": {
+    "image": 1167,
+    "type": 3
+  },
+  "minimap_pixel": [
+    218,
+    165,
+    32
+  ],
+  "name": "Amuleto Glacial",
+  "value": 2400,
+  "weight": 0.10000000149011612
+}

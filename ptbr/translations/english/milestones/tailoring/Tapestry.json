@@ -1,0 +1,22 @@
+{
+  "id": "core_2_tapestry",
+  "name": "Tapeçaria",
+  "requirements": {
+    "milestones": [],
+    "skill": 21
+  },
+  "rewards": [
+    {
+      "recipe": "core_2_Sun_Tapestry"
+    },
+    {
+      "recipe": "core_2_Moon_Tapestry"
+    },
+    {
+      "recipe": "core_2_Sword_Tapestry"
+    }
+  ],
+  "skill_id": "core_2_tailoring",
+  "steps": [],
+  "steps_type": 0
+}

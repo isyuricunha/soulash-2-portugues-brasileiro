@@ -1,0 +1,16 @@
+{
+  "id": "core_2_cloth_boots",
+  "name": "Botas de Tecido",
+  "requirements": {
+    "milestones": [],
+    "skill": 26
+  },
+  "rewards": [
+    {
+      "recipe": "2215"
+    }
+  ],
+  "skill_id": "core_2_tailoring",
+  "steps": [],
+  "steps_type": 0
+}

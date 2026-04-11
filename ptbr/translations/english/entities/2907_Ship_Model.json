@@ -1,0 +1,42 @@
+{
+  "components": [
+    "glyph",
+    "health",
+    "minimap_pixel",
+    "name",
+    "position_2d"
+  ],
+  "corpse": "722",
+  "description": "Um pequeno modelo de um navio.",
+  "glyph": {
+    "frames": [
+      {
+        "color": [
+          255,
+          255,
+          255
+        ],
+        "delay": 0,
+        "index": 1934
+      },
+      {
+        "color": [
+          255,
+          255,
+          255
+        ],
+        "delay": 0,
+        "index": 1884
+      }
+    ],
+    "random_frame_start": true
+  },
+  "health": 40,
+  "id": "2907",
+  "minimap_pixel": [
+    150,
+    110,
+    42
+  ],
+  "name": "Modelo de Navio"
+}

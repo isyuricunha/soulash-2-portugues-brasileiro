@@ -1,0 +1,75 @@
+{
+  "components": [
+    "glyph",
+    "glyph_top",
+    "height",
+    "minimap_pixel",
+    "name",
+    "position_2d",
+    "producer"
+  ],
+  "description": "Uma planta com folhas semelhantes a samambaias e pequenas flores brancas.",
+  "glyph": {
+    "frames": [
+      {
+        "color": [
+          106,
+          106,
+          6
+        ],
+        "delay": 0,
+        "index": 1756
+      }
+    ],
+    "random_frame_start": false,
+    "random_top": {
+      "colors": [
+        [
+          255,
+          255,
+          255
+        ],
+        [
+          255,
+          255,
+          255
+        ],
+        [
+          255,
+          255,
+          255
+        ]
+      ],
+      "count": 1,
+      "glyph_ids": [
+        1757
+      ],
+      "max_alpha": 200,
+      "max_range": 3,
+      "wind": true
+    }
+  },
+  "height": 0,
+  "id": "2542",
+  "minimap_pixel": [
+    255,
+    255,
+    255
+  ],
+  "name": "Salsa Veneno",
+  "producer": {
+    "products": {
+      "6": [
+        {
+          "amount": [
+            1,
+            2
+          ],
+          "id": "core_2_Poisonous_Parsley",
+          "percent_chance": 100
+        }
+      ]
+    },
+    "time": 10
+  }
+}

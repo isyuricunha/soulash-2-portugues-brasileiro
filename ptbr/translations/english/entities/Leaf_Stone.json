@@ -1,0 +1,86 @@
+{
+  "armor": {
+    "acid": 0,
+    "death": 0,
+    "electricity": 0,
+    "fire": 0,
+    "frost": 0,
+    "holy": 0,
+    "parry": 0,
+    "physical": 1,
+    "poison": 2,
+    "thorns": 0
+  },
+  "components": [
+    "armor",
+    "craftable",
+    "glyph",
+    "item",
+    "minimap_pixel",
+    "name",
+    "position_2d",
+    "resource",
+    "stackable",
+    "value",
+    "weight"
+  ],
+  "craftable": {
+    "backgrounds": [],
+    "biomes": [],
+    "magic_slots": 0,
+    "resource_types": [
+      {
+        "amount": 1,
+        "id": 6
+      }
+    ],
+    "resources": [
+      {
+        "amount": 1,
+        "id": "325"
+      },
+      {
+        "amount": 1,
+        "id": "2003"
+      }
+    ],
+    "time": 50,
+    "tools": [
+      15
+    ]
+  },
+  "description": "Uma folha perfeita feita de pedra.",
+  "glyph": {
+    "frames": [
+      {
+        "color": [
+          255,
+          255,
+          255
+        ],
+        "delay": 0,
+        "index": 2358
+      }
+    ],
+    "random_frame_start": false
+  },
+  "id": "core_2_Leaf_Stone",
+  "item": {
+    "image": 1025,
+    "type": 16
+  },
+  "minimap_pixel": [
+    100,
+    109,
+    155
+  ],
+  "name": "Pedra de Folha",
+  "resource": {
+    "affix": "of the Leaf",
+    "magic_ingredient": 2,
+    "quality": 2,
+    "type": 7
+  },
+  "value": 900,
+  "weight": 0.10000000149011612
+}

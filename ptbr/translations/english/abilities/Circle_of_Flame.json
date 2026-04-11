@@ -1,0 +1,28 @@
+{
+  "animation": "core_2_circle_of_flame",
+  "cast_time": 1.0,
+  "cooldown": 10.0,
+  "cost": {
+    "health": 0,
+    "stamina": 5
+  },
+  "description": "Envolve a área próxima a você em chamas, causando ::damage de dano ::damage_type em ::aoe_range células ao seu redor.",
+  "duration": 0.0,
+  "effects": {
+    "aoe_break": 12,
+    "aoe_range": 12,
+    "aoe_shape": 1,
+    "damage": [
+      30,
+      40
+    ],
+    "damage_type": "fire",
+    "magic_power_damage": 1.0
+  },
+  "id": "core_2_Circle_of_Flame",
+  "image": 807,
+  "name": "Círculo de Chamas",
+  "range": 5,
+  "skill": "",
+  "target": "aoe_tile"
+}

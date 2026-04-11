@@ -1,0 +1,18 @@
+{
+  "enables": [
+    "core_2_tailoring"
+  ],
+  "id": "106",
+  "image": 80,
+  "max": 2,
+  "name": "Fiandeiros de Fibra",
+  "occupation_image": 10,
+  "occupation": "2343",
+  "produces": [],
+  "race": "10",
+  "tier": 1,
+  "workers": [
+    1,
+    3
+  ]
+}

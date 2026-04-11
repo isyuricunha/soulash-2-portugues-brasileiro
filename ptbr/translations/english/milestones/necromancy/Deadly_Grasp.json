@@ -1,0 +1,16 @@
+{
+  "id": "core_2_deadly_grasp",
+  "name": "Aperto Mortal",
+  "requirements": {
+    "milestones": [],
+    "skill": 34
+  },
+  "rewards": [
+    {
+      "ability": "102"
+    }
+  ],
+  "skill_id": "core_2_necromancy",
+  "steps": [],
+  "steps_type": 0
+}

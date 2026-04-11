@@ -1,0 +1,33 @@
+{
+  "animation_origin_self": false,
+  "camera_shake": {
+    "bounces": 2,
+    "duration": 0.20000000298023224,
+    "power": 3,
+    "type": 1
+  },
+  "chain_particles": false,
+  "id": "1",
+  "ignore_roof": false,
+  "name": "Arremesso de Rocha",
+  "particles": [
+    {
+      "color": [
+        [
+          114,
+          113,
+          115,
+          255
+        ]
+      ],
+      "flags": 1152,
+      "life": 25.0,
+      "tile_id": 313,
+      "velocity": 25.0
+    }
+  ],
+  "sound": {
+    "id": "47",
+    "volume": 100
+  }
+}

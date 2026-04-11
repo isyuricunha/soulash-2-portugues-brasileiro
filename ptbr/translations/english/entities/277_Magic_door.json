@@ -1,0 +1,109 @@
+{
+  "armor": {
+    "acid": 50,
+    "death": 50,
+    "electricity": 50,
+    "fire": 50,
+    "frost": 50,
+    "holy": 50,
+    "parry": 0,
+    "physical": 30,
+    "poison": 50,
+    "thorns": 0
+  },
+  "background": {
+    "color": [
+      44,
+      45,
+      41
+    ]
+  },
+  "category_id": 3,
+  "components": [
+    "armor",
+    "background",
+    "block_light",
+    "collidable",
+    "craftable",
+    "glyph",
+    "health",
+    "height",
+    "minimap_pixel",
+    "name",
+    "openable",
+    "position_2d"
+  ],
+  "corpse": "326",
+  "craftable": {
+    "backgrounds": [],
+    "biomes": [],
+    "magic_slots": 0,
+    "resource_types": [
+      {
+        "amount": 2,
+        "id": 6
+      },
+      {
+        "amount": 1,
+        "id": 8
+      }
+    ],
+    "time": 30,
+    "tools": [
+      14
+    ]
+  },
+  "description": "Porta fechada, cintilante!",
+  "glyph": {
+    "frames": [
+      {
+        "color": [
+          255,
+          255,
+          255
+        ],
+        "delay": 200,
+        "index": 723
+      },
+      {
+        "color": [
+          255,
+          255,
+          255
+        ],
+        "delay": 200,
+        "index": 933
+      }
+    ],
+    "random_frame_start": false
+  },
+  "health": 250,
+  "height": 10,
+  "id": "277",
+  "minimap_pixel": [
+    34,
+    29,
+    81
+  ],
+  "name": "Porta Mágica",
+  "openable": {
+    "block_light": false,
+    "collidable": false,
+    "description": "Porta aberta, ainda cintilante!",
+    "glyph": {
+      "frames": [
+        {
+          "color": [
+            255,
+            255,
+            255
+          ],
+          "delay": 0,
+          "index": 724
+        }
+      ],
+      "random_frame_start": false
+    },
+    "height": 0
+  }
+}

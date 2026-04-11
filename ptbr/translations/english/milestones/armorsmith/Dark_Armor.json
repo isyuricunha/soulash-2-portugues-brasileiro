@@ -1,0 +1,16 @@
+{
+  "id": "core_2_dark_armor",
+  "name": "Armadura Sombria",
+  "requirements": {
+    "milestones": [],
+    "skill": 24
+  },
+  "rewards": [
+    {
+      "recipe": "core_2_Dark_Armor"
+    }
+  ],
+  "skill_id": "core_2_armorsmith",
+  "steps": [],
+  "steps_type": 0
+}

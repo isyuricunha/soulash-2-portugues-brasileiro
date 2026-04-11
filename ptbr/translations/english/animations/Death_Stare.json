@@ -1,0 +1,109 @@
+{
+  "animation_origin_self": false,
+  "camera_shake": {
+    "bounces": 0,
+    "duration": 0.0,
+    "power": 0.0
+  },
+  "chain_particles": true,
+  "id": "core_2_Death_Stare",
+  "ignore_roof": false,
+  "name": "Olhar da Morte",
+  "particles": [
+    {
+      "color": [
+        [
+          255,
+          255,
+          255,
+          255
+        ]
+      ],
+      "flags": 0,
+      "life": 90.0,
+      "tile_id": 1467
+    },
+    {
+      "color": [
+        [
+          255,
+          255,
+          255,
+          255
+        ]
+      ],
+      "flags": 0,
+      "life": 90.0,
+      "tile_id": 1468
+    },
+    {
+      "color": [
+        [
+          255,
+          255,
+          255,
+          255
+        ]
+      ],
+      "flags": 0,
+      "life": 90.0,
+      "tile_id": 1469
+    },
+    {
+      "color": [
+        [
+          255,
+          255,
+          255,
+          255
+        ]
+      ],
+      "flags": 0,
+      "life": 90.0,
+      "tile_id": 1470
+    },
+    {
+      "color": [
+        [
+          255,
+          255,
+          255,
+          255
+        ]
+      ],
+      "flags": 0,
+      "life": 150.0,
+      "tile_id": 1471
+    },
+    {
+      "color": [
+        [
+          255,
+          255,
+          255,
+          255
+        ]
+      ],
+      "flags": 0,
+      "life": 80.0,
+      "tile_id": 1472
+    },
+    {
+      "color": [
+        [
+          255,
+          255,
+          255,
+          255
+        ]
+      ],
+      "flags": 0,
+      "life": 150.0,
+      "tile_id": 1472
+    }
+  ],
+  "sound": {
+    "id": "150",
+    "volume": 100
+  }
+}

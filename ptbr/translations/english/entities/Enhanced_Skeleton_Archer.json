@@ -1,0 +1,138 @@
+{
+  "armor": {
+    "acid": 0,
+    "death": 50,
+    "electricity": 0,
+    "fire": -5,
+    "frost": 0,
+    "holy": -20,
+    "parry": 0,
+    "physical": 1,
+    "poison": 5,
+    "thorns": 0
+  },
+  "artificial_intelligence": {
+    "allies": [
+      "4"
+    ],
+    "allow_production": [],
+    "behaviors": [],
+    "enemies": [
+      "5"
+    ]
+  },
+  "components": [
+    "actor",
+    "armor",
+    "artificial_intelligence",
+    "collidable",
+    "equipment",
+    "experience_gainer",
+    "fighter",
+    "glyph",
+    "health",
+    "humanoid",
+    "minimap_pixel",
+    "moveable",
+    "name",
+    "position_2d",
+    "sight",
+    "stamina",
+    "statistics",
+    "tags"
+  ],
+  "corpse": "55",
+  "description": "Este esqueleto empunha um arco armado que ele mira em você.",
+  "equipment": {
+    "ammo": [
+      {
+        "chance": 1.0,
+        "id": "194",
+        "name": "Flecha",
+        "stack": 15
+      }
+    ],
+    "right_hand": [
+      {
+        "chance": 1.0,
+        "id": "102",
+        "name": "Arco Curto",
+        "stack": 1
+      }
+    ]
+  },
+  "experience_gainer": {
+    "exp": 0,
+    "level": 10
+  },
+  "fighter": {
+    "attackNames": [
+      "Bone"
+    ]
+  },
+  "glyph": {
+    "frames": [
+      {
+        "color": [
+          208,
+          204,
+          187
+        ],
+        "delay": 0,
+        "index": 145
+      }
+    ],
+    "random_frame_start": false
+  },
+  "health": 100,
+  "humanoid": {
+    "race": "17"
+  },
+  "id": "core_2_Enhanced_Skeleton_Archer",
+  "minimap_pixel": [
+    208,
+    204,
+    187
+  ],
+  "moveable": {
+    "speed": 1.2999999523162842
+  },
+  "name": "Esqueleto Arqueiro Aprimorado",
+  "sight": {
+    "ignore_infra_penalty": false,
+    "infravision": true,
+    "range": 9,
+    "threesixty": false
+  },
+  "stamina": {
+    "fatigue": 100,
+    "stamina": 100,
+    "stamina_regen": 0.0
+  },
+  "statistics": {
+    "dexterity": [
+      43,
+      48
+    ],
+    "endurance": [
+      29,
+      34
+    ],
+    "intelligence": [
+      7,
+      10
+    ],
+    "strength": [
+      21,
+      24
+    ],
+    "willpower": [
+      26,
+      30
+    ]
+  },
+  "tags": [
+    "4",
+    "20"
+  ]
+}

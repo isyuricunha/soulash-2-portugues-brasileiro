@@ -1,0 +1,79 @@
+{
+  "components": [
+    "craftable",
+    "glyph",
+    "item",
+    "minimap_pixel",
+    "name",
+    "position_2d",
+    "tool",
+    "value",
+    "weapon",
+    "weight"
+  ],
+  "craftable": {
+    "backgrounds": [],
+    "biomes": [],
+    "magic_slots": 2,
+    "resource_types": [
+      {
+        "amount": 2,
+        "id": 1
+      }
+    ],
+    "time": 40,
+    "tools": [
+      1
+    ]
+  },
+  "description": "Nas mãos erradas, esta arma pode causar danos significativos a todos ao redor, incluindo o portador.",
+  "glyph": {
+    "frames": [
+      {
+        "color": [
+          255,
+          255,
+          255
+        ],
+        "delay": 0,
+        "index": 668
+      }
+    ],
+    "random_frame_start": false
+  },
+  "id": "701",
+  "item": {
+    "image": 302,
+    "type": 13
+  },
+  "minimap_pixel": [
+    112,
+    100,
+    97
+  ],
+  "name": "Mangual",
+  "tool": [
+    {
+      "id": 16,
+      "quality": 125
+    }
+  ],
+  "value": 500,
+  "weapon": {
+    "attack_speed": 1.0,
+    "critical_hit": 0.0,
+    "damage": [
+      {
+        "dmg_max": 6,
+        "dmg_min": 3,
+        "dmg_type": "physical"
+      }
+    ],
+    "hands": 1,
+    "hit_bonus": 3,
+    "parry_bonus": -1,
+    "range": 1,
+    "type": 2
+  },
+  "weight": 2.0
+}

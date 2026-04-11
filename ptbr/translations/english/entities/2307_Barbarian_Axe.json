@@ -1,0 +1,83 @@
+{
+  "components": [
+    "craftable",
+    "glyph",
+    "item",
+    "minimap_pixel",
+    "name",
+    "position_2d",
+    "tool",
+    "value",
+    "weapon",
+    "weight"
+  ],
+  "craftable": {
+    "backgrounds": [],
+    "biomes": [],
+    "magic_slots": 5,
+    "resource_types": [
+      {
+        "amount": 3,
+        "id": 1
+      },
+      {
+        "amount": 2,
+        "id": 5
+      }
+    ],
+    "time": 150,
+    "tools": [
+      1
+    ]
+  },
+  "description": "Este machado possui uma lâmina afiada e pesada com protuberâncias ósseas serrilhadas nas costas. O cabo é adornado com entalhes e ossos adicionais para uma pegada segura. É uma arma de combate altamente eficaz, capaz de cortar armaduras e ossos.",
+  "glyph": {
+    "frames": [
+      {
+        "color": [
+          255,
+          255,
+          255
+        ],
+        "delay": 0,
+        "index": 500
+      }
+    ],
+    "random_frame_start": false
+  },
+  "id": "2307",
+  "item": {
+    "image": 593,
+    "type": 13
+  },
+  "minimap_pixel": [
+    156,
+    160,
+    161
+  ],
+  "name": "Machado Bárbaro",
+  "tool": [
+    {
+      "id": 13,
+      "quality": 20
+    }
+  ],
+  "value": 8000,
+  "weapon": {
+    "attack_speed": 1.0,
+    "critical_hit": 0.0,
+    "damage": [
+      {
+        "dmg_max": 13,
+        "dmg_min": 9,
+        "dmg_type": "physical"
+      }
+    ],
+    "hands": 1,
+    "hit_bonus": 5,
+    "parry_bonus": 2,
+    "range": 1,
+    "type": 0
+  },
+  "weight": 3.0
+}

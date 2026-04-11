@@ -1,0 +1,16 @@
+{
+  "id": "core_2_bastard_sword",
+  "name": "Espada Bastarda",
+  "requirements": {
+    "milestones": [],
+    "skill": 14
+  },
+  "rewards": [
+    {
+      "recipe": "core_2_Bastard_Sword"
+    }
+  ],
+  "skill_id": "core_2_weaponsmith",
+  "steps": [],
+  "steps_type": 0
+}

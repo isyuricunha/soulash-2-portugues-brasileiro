@@ -1,0 +1,30 @@
+{
+  "animation": "core_2_Seven_deadly_Sins",
+  "cast_time": 1.0,
+  "cooldown": 20.0,
+  "cost": {
+    "health": 0,
+    "stamina": 10
+  },
+  "description": "Aplica veneno, sangramento, queimadura, medo, imobilização e atordoamento por ::duration turnos e empurra o inimigo alvo ::knockback células.",
+  "duration": 3.0,
+  "effects": {
+    "bleed": 3,
+    "burn": 3,
+    "fear": 3,
+    "immobilize": 3,
+    "knockback": 5,
+    "poison_effect": 3,
+    "stun": 3.0
+  },
+  "id": "core_2_Seven_Deadly_Sins",
+  "image": 565,
+  "name": "Sete Pecados Capitais",
+  "range": 8,
+  "skill": "core_2_divine_fists",
+  "slots": {
+    "offensive": 2,
+    "utility": 2
+  },
+  "target": "health"
+}

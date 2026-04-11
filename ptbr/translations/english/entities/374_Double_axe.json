@@ -1,0 +1,81 @@
+{
+  "components": [
+    "craftable",
+    "glyph",
+    "item",
+    "minimap_pixel",
+    "name",
+    "position_2d",
+    "tool",
+    "value",
+    "weapon",
+    "weight"
+  ],
+  "craftable": {
+    "magic_slots": 4,
+    "resource_types": [
+      {
+        "amount": 3,
+        "id": 1
+      },
+      {
+        "amount": 1,
+        "id": 3
+      }
+    ],
+    "resources": null,
+    "time": 100,
+    "tools": [
+      1
+    ]
+  },
+  "description": "Este machado é tanto massivo quanto pesado.",
+  "glyph": {
+    "frames": [
+      {
+        "color": [
+          255,
+          255,
+          255
+        ],
+        "delay": 0,
+        "index": 428
+      }
+    ],
+    "random_frame_start": false
+  },
+  "id": "374",
+  "item": {
+    "image": 35,
+    "type": 13
+  },
+  "minimap_pixel": [
+    156,
+    160,
+    161
+  ],
+  "name": "Machado Duplo",
+  "tool": [
+    {
+      "id": 13,
+      "quality": 50
+    }
+  ],
+  "value": 4000,
+  "weapon": {
+    "attack_speed": 1.2000000476837158,
+    "damage": [
+      {
+        "dmg_max": 20,
+        "dmg_min": 10,
+        "dmg_type": "physical"
+      }
+    ],
+    "hands": 2,
+    "hit_bonus": 4,
+    "parry_bonus": 0,
+    "range": 1,
+    "type": 0
+  },
+  "weight": 4.0
+}

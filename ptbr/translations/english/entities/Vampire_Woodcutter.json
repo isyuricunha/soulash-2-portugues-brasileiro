@@ -1,0 +1,142 @@
+{
+  "artificial_intelligence": {
+    "allies": [],
+    "allow_production": [
+      "1"
+    ],
+    "behaviors": [],
+    "enemies": []
+  },
+  "components": [
+    "actor",
+    "artificial_intelligence",
+    "collidable",
+    "consumer",
+    "dialogues",
+    "equipment",
+    "experience_gainer",
+    "fighter",
+    "glyph",
+    "health",
+    "humanoid",
+    "minimap_pixel",
+    "moveable",
+    "name",
+    "persona",
+    "position_2d",
+    "sight",
+    "skills",
+    "stamina",
+    "statistics",
+    "tags"
+  ],
+  "corpse": "1061",
+  "description": "",
+  "dialogues": [
+    "1006",
+    "1007",
+    "1021"
+  ],
+  "equipment": {
+    "right_hand": [
+      {
+        "chance": 1.0,
+        "id": "108",
+        "name": "Machadinha",
+        "stack": 1
+      }
+    ],
+    "torso_cloth": [
+      {
+        "chance": 1.0,
+        "id": "184",
+        "name": "Camisa",
+        "stack": 1
+      }
+    ]
+  },
+  "experience_gainer": {
+    "exp": 5,
+    "level": 1
+  },
+  "fighter": {
+    "attackNames": null
+  },
+  "glyph": {
+    "frames": [
+      {
+        "color": [
+          255,
+          255,
+          255
+        ],
+        "delay": 0,
+        "index": 135
+      }
+    ],
+    "random_frame_start": false
+  },
+  "health": 300,
+  "humanoid": {
+    "race": "6"
+  },
+  "id": "core_2_Vampire_Woodcutter",
+  "minimap_pixel": [
+    224,
+    172,
+    105
+  ],
+  "moveable": {
+    "speed": 1.100000023841858
+  },
+  "name": "Vampiro Lenhador",
+  "persona": {
+    "occupation": "Lanhador"
+  },
+  "sight": {
+    "ignore_infra_penalty": false,
+    "infravision": false,
+    "range": 10,
+    "threesixty": false
+  },
+  "skills": {
+    "milestones": [
+      "core_2_chopping"
+    ],
+    "skills": [
+      "core_2_axe_fighting"
+    ]
+  },
+  "stamina": {
+    "fatigue": 100,
+    "stamina": 100,
+    "stamina_regen": 0.0
+  },
+  "statistics": {
+    "dexterity": [
+      26,
+      29
+    ],
+    "endurance": [
+      38,
+      41
+    ],
+    "intelligence": [
+      27,
+      31
+    ],
+    "strength": [
+      32,
+      46
+    ],
+    "willpower": [
+      26,
+      30
+    ]
+  },
+  "tags": [
+    "23",
+    "4",
+    "38"
+  ]
+}

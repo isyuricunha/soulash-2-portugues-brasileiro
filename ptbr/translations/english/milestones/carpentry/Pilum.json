@@ -1,0 +1,16 @@
+{
+  "id": "core_2_pilum",
+  "name": "Pilum",
+  "requirements": {
+    "milestones": [],
+    "skill": 29
+  },
+  "rewards": [
+    {
+      "recipe": "core_2_Pilum"
+    }
+  ],
+  "skill_id": "core_2_carpentry",
+  "steps": [],
+  "steps_type": 0
+}

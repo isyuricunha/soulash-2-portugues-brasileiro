@@ -1,0 +1,64 @@
+{
+  "armor": {
+    "acid": 1000,
+    "death": 1000,
+    "electricity": 1000,
+    "fire": 0,
+    "frost": 1000,
+    "holy": 1000,
+    "parry": 0,
+    "physical": 0,
+    "poison": 1000
+  },
+  "background": {
+    "color": [
+      42,
+      122,
+      150
+    ],
+    "movement_penalty": 0.5,
+    "noise": 8,
+    "noise_intensity": 4
+  },
+  "components": [
+    "armor",
+    "background",
+    "glyph",
+    "health",
+    "minimap_pixel",
+    "name"
+  ],
+  "corpse": [
+    {
+      "damage_type": 0,
+      "id": "54"
+    },
+    {
+      "damage_type": 1,
+      "id": "54"
+    }
+  ],
+  "description": "Esta água está congelada.",
+  "glyph": {
+    "frames": [
+      {
+        "color": [
+          255,
+          255,
+          255
+        ],
+        "delay": 0,
+        "index": 29
+      }
+    ],
+    "random_frame_start": false
+  },
+  "health": 1,
+  "id": "607",
+  "minimap_pixel": [
+    42,
+    122,
+    150
+  ],
+  "name": "Lago Subterrâneo Congelado"
+}

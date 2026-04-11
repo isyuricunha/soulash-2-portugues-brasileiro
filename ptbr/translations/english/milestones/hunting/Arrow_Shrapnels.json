@@ -1,0 +1,15 @@
+{
+  "id": "core_2_arrow_shrapnels",
+  "name": "Estilhaços de Flecha",
+  "requirements": {
+    "skill": 46
+  },
+  "rewards": [
+    {
+      "ability": "core_2_Arrow_Shrapnel"
+    }
+  ],
+  "skill_id": "core_2_hunting",
+  "steps": [],
+  "steps_type": 0
+}

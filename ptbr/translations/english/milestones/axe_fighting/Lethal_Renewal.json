@@ -1,0 +1,15 @@
+{
+  "id": "core_2_lethal_renewal",
+  "name": "Renovação Letal",
+  "requirements": {
+    "skill": 42
+  },
+  "rewards": [
+    {
+      "passive": "core_2_heal_on_kill"
+    }
+  ],
+  "skill_id": "core_2_axe_fighting",
+  "steps": [],
+  "steps_type": 0
+}

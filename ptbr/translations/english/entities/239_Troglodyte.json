@@ -1,0 +1,136 @@
+{
+  "artificial_intelligence": {
+    "allies": [
+      "10",
+      "0"
+    ],
+    "allow_production": [],
+    "behaviors": [],
+    "enemies": [
+      "5"
+    ]
+  },
+  "components": [
+    "actor",
+    "artificial_intelligence",
+    "collidable",
+    "dialogues",
+    "equipment",
+    "experience_gainer",
+    "fighter",
+    "glyph",
+    "health",
+    "humanoid",
+    "minimap_pixel",
+    "moveable",
+    "name",
+    "position_2d",
+    "sight",
+    "stamina",
+    "statistics",
+    "tags"
+  ],
+  "corpse": "2164",
+  "description": "Um morador de caverna primitivo e viscoso. Ele tem um olfato aguçado e enxerga muito bem no escuro. Sua pele é verde suja.",
+  "dialogues": [
+    "44",
+    "45"
+  ],
+  "equipment": {
+    "left_hand": [
+      {
+        "chance": 0.30000001192092896,
+        "id": "168",
+        "name": "Escudo de Madeira",
+        "stack": 1
+      }
+    ],
+    "right_hand": [
+      {
+        "chance": 1.0,
+        "id": "96",
+        "name": "Lança",
+        "stack": 1
+      }
+    ],
+    "torso_cloth": [
+      {
+        "chance": 1.0,
+        "id": "23",
+        "name": "Farrapos",
+        "stack": 1
+      }
+    ]
+  },
+  "experience_gainer": {
+    "exp": 0,
+    "level": 10
+  },
+  "fighter": {
+    "attackNames": null
+  },
+  "glyph": {
+    "frames": [
+      {
+        "color": [
+          255,
+          255,
+          255
+        ],
+        "delay": 0,
+        "index": 562
+      }
+    ],
+    "random_frame_start": false
+  },
+  "health": 60,
+  "humanoid": {
+    "race": ""
+  },
+  "id": "239",
+  "minimap_pixel": [
+    27,
+    226,
+    21
+  ],
+  "moveable": {
+    "speed": 1.2000000476837158
+  },
+  "name": "Troglodita",
+  "sight": {
+    "ignore_infra_penalty": false,
+    "infravision": true,
+    "range": 6,
+    "threesixty": false
+  },
+  "stamina": {
+    "fatigue": 100,
+    "stamina": 100
+  },
+  "statistics": {
+    "dexterity": [
+      10,
+      14
+    ],
+    "endurance": [
+      13,
+      18
+    ],
+    "intelligence": [
+      7,
+      10
+    ],
+    "strength": [
+      8,
+      13
+    ],
+    "willpower": [
+      8,
+      11
+    ]
+  },
+  "tags": [
+    "9",
+    "10"
+  ]
+}

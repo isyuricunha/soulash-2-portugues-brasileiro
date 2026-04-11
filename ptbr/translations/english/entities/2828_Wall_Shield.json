@@ -1,0 +1,42 @@
+{
+  "components": [
+    "glyph",
+    "health",
+    "minimap_pixel",
+    "name",
+    "position_2d"
+  ],
+  "corpse": [],
+  "description": "Escudo pendurado na parede para decoração.",
+  "glyph": {
+    "frames": [
+      {
+        "color": [
+          255,
+          255,
+          255
+        ],
+        "delay": 0,
+        "index": 1869
+      },
+      {
+        "color": [
+          255,
+          255,
+          255
+        ],
+        "delay": 0,
+        "index": 1868
+      }
+    ],
+    "random_frame_start": true
+  },
+  "health": 40,
+  "id": "2828",
+  "minimap_pixel": [
+    150,
+    110,
+    42
+  ],
+  "name": "Escudo de Parede"
+}

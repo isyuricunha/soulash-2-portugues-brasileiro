@@ -1,0 +1,15 @@
+{
+  "id": "core_2_bleed_it_out",
+  "name": "Sangrar Até a Morte",
+  "requirements": {
+    "skill": 27
+  },
+  "rewards": [
+    {
+      "amplifier": "core_2_bleed_2"
+    }
+  ],
+  "skill_id": "core_2_sword_fighting",
+  "steps": [],
+  "steps_type": 0
+}

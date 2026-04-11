@@ -1,0 +1,170 @@
+{
+  "armor": {
+    "acid": 90,
+    "death": 90,
+    "electricity": 90,
+    "fire": 90,
+    "frost": 90,
+    "holy": 90,
+    "parry": 0,
+    "physical": 90,
+    "poison": 90,
+    "thorns": 0
+  },
+  "artificial_intelligence": {
+    "allies": [],
+    "allow_production": [],
+    "behaviors": [],
+    "enemies": [
+      "5"
+    ]
+  },
+  "chained": {
+    "map": [
+      [
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "",
+        "",
+        "RESERVED_core_2_leader_tile",
+        "",
+        ""
+      ],
+      [
+        "",
+        "",
+        "core_2_Defensive_Walls",
+        "",
+        ""
+      ],
+      [
+        "",
+        "",
+        "core_2_Defensive_Walls",
+        "",
+        ""
+      ],
+      [
+        "",
+        "",
+        "core_2_Defensive_Walls",
+        "",
+        ""
+      ]
+    ],
+    "snake": false
+  },
+  "components": [
+    "actor",
+    "armor",
+    "artificial_intelligence",
+    "chained",
+    "collidable",
+    "experience_gainer",
+    "fighter",
+    "glyph",
+    "health",
+    "minimap_pixel",
+    "moveable",
+    "name",
+    "position_2d",
+    "sight",
+    "stamina",
+    "statistics",
+    "tags",
+    "weapon"
+  ],
+  "corpse": "2025",
+  "description": "Parede móvel com defesas fortes.",
+  "experience_gainer": {
+    "exp": 0,
+    "level": 50
+  },
+  "fighter": {
+    "attackNames": [
+      "Slam"
+    ]
+  },
+  "glyph": {
+    "frames": [
+      {
+        "color": [
+          255,
+          255,
+          255
+        ],
+        "delay": 0,
+        "index": 567
+      }
+    ],
+    "random_frame_start": false
+  },
+  "health": 1500,
+  "id": "core_2_Defensive_Wall",
+  "minimap_pixel": [
+    149,
+    165,
+    101
+  ],
+  "moveable": {
+    "speed": 1.5
+  },
+  "name": "Parede Defensiva",
+  "sight": {
+    "ignore_infra_penalty": true,
+    "infravision": true,
+    "range": 12,
+    "threesixty": true
+  },
+  "stamina": {
+    "fatigue": 100,
+    "stamina": 100,
+    "stamina_regen": 0.0
+  },
+  "statistics": {
+    "dexterity": [
+      90,
+      100
+    ],
+    "endurance": [
+      136,
+      148
+    ],
+    "intelligence": [
+      64,
+      70
+    ],
+    "strength": [
+      110,
+      120
+    ],
+    "willpower": [
+      96,
+      107
+    ]
+  },
+  "tags": [
+    "38"
+  ],
+  "weapon": {
+    "attack_speed": 1.0,
+    "critical_hit": 0.0,
+    "damage": [
+      {
+        "dmg_max": 25,
+        "dmg_min": 15,
+        "dmg_type": "physical"
+      }
+    ],
+    "hands": 1,
+    "hit_bonus": 5,
+    "parry_bonus": 0,
+    "range": 1,
+    "type": 1
+  }
+}

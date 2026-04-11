@@ -1,0 +1,25 @@
+{
+  "animation": "core_2_Soul_Rend",
+  "cast_time": 1.0,
+  "cooldown": 10.0,
+  "cost": {
+    "health": 0,
+    "stamina": 3
+  },
+  "description": "Causa ::damage de dano ::damage_type a todos em linha e os priva de fôlego.",
+  "duration": 0.0,
+  "effects": {
+    "burn_stamina": 100,
+    "damage": [
+      10,
+      20
+    ],
+    "damage_type": "death"
+  },
+  "id": "core_2_Soul_Rend",
+  "image": 815,
+  "name": "Rasgo da Alma",
+  "range": 8,
+  "skill": "",
+  "target": "line"
+}

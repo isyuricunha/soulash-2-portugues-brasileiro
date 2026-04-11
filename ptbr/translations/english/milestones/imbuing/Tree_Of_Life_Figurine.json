@@ -1,0 +1,16 @@
+{
+  "id": "core_2_tree_of_life_figurine",
+  "name": "Figurino da Árvore da Vida",
+  "requirements": {
+    "milestones": [],
+    "skill": 41
+  },
+  "rewards": [
+    {
+      "recipe": "core_2_Tree_Of_Life_Figurine"
+    }
+  ],
+  "skill_id": "core_2_imbuing",
+  "steps": [],
+  "steps_type": 0
+}

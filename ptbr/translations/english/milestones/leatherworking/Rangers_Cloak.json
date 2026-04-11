@@ -1,0 +1,15 @@
+{
+  "id": "core_2_rangers_cloak",
+  "name": "Capa do Ranger",
+  "requirements": {
+    "skill": 31
+  },
+  "rewards": [
+    {
+      "recipe": "2310"
+    }
+  ],
+  "skill_id": "core_2_leatherworking",
+  "steps": [],
+  "steps_type": 0
+}

@@ -1,0 +1,30 @@
+{
+  "animation": "106",
+  "cast_time": 0.3,
+  "cooldown": 10.0,
+  "cost": {
+    "health": 0,
+    "stamina": 6
+  },
+  "description": "Arremessa um machado acorrentado em um alvo causando ::damage ::damage_type e puxando-o para mais perto de você.",
+  "duration": 0.0,
+  "effects": {
+    "damage": [
+      12,
+      18
+    ],
+    "damage_type": "physical",
+    "damage_weapon": 0.20000000298023224,
+    "pull_target": 1
+  },
+  "id": "186",
+  "image": 700,
+  "name": "Puxão com Gancho",
+  "range": 7,
+  "skill": "core_2_axe_fighting",
+  "slots": {
+    "offensive": 2,
+    "utility": 1
+  },
+  "target": "line_health"
+}

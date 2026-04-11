@@ -1,0 +1,25 @@
+{
+  "id": "core_2_glass",
+  "name": "Vidro",
+  "requirements": {
+    "milestones": [],
+    "skill": 9
+  },
+  "rewards": [
+    {
+      "recipe": "2090"
+    },
+    {
+      "recipe": "835"
+    },
+    {
+      "recipe": "250"
+    },
+    {
+      "recipe": "2424"
+    }
+  ],
+  "skill_id": "core_2_construction",
+  "steps": [],
+  "steps_type": 0
+}

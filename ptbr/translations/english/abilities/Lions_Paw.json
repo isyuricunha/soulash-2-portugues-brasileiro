@@ -1,0 +1,25 @@
+{
+  "animation": "core_2_Lions_Paw",
+  "cast_time": 1.0,
+  "cooldown": 5.0,
+  "cost": {
+    "health": 3,
+    "stamina": 1
+  },
+  "description": "Causa ::damage de dano ::damage_type a todos em um cone na frente do conjurador.",
+  "duration": 0.0,
+  "effects": {
+    "aoe_break": 4,
+    "damage": [
+      30,
+      40
+    ],
+    "damage_type": "electricity"
+  },
+  "id": "core_2_Lions_Paw",
+  "image": 816,
+  "name": "Pata de Leão",
+  "range": 10,
+  "skill": "",
+  "target": "cone"
+}

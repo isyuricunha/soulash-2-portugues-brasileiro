@@ -1,0 +1,67 @@
+{
+  "armor": {
+    "acid": 0,
+    "death": 0,
+    "electricity": 0,
+    "fire": 0,
+    "frost": 0,
+    "holy": 0,
+    "parry": 0,
+    "physical": 1,
+    "poison": 1,
+    "thorns": 0
+  },
+  "components": [
+    "armor",
+    "craftable",
+    "glyph",
+    "item",
+    "minimap_pixel",
+    "name",
+    "position_2d",
+    "value",
+    "weight"
+  ],
+  "craftable": {
+    "magic_slots": 1,
+    "resource_types": [
+      {
+        "amount": 1,
+        "id": 5
+      }
+    ],
+    "resources": null,
+    "time": 60,
+    "tools": [
+      14
+    ]
+  },
+  "description": "Mais comumente usado para proteger os pés dos agricultores.",
+  "glyph": {
+    "frames": [
+      {
+        "color": [
+          255,
+          255,
+          255
+        ],
+        "delay": 0,
+        "index": 2011
+      }
+    ],
+    "random_frame_start": false
+  },
+  "id": "3023",
+  "item": {
+    "image": 803,
+    "type": 9
+  },
+  "minimap_pixel": [
+    142,
+    113,
+    77
+  ],
+  "name": "Tamancos",
+  "value": 200,
+  "weight": 0.20000000298023224
+}

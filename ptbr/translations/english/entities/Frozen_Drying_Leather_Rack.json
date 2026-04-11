@@ -1,0 +1,66 @@
+{
+  "components": [
+    "craftable",
+    "glyph",
+    "health",
+    "minimap_pixel",
+    "name",
+    "position_2d",
+    "producer",
+    "stackable"
+  ],
+  "corpse": [],
+  "craftable": {
+    "backgrounds": [],
+    "biomes": [],
+    "magic_slots": 0,
+    "resource_types": [
+      {
+        "amount": 3,
+        "id": 3
+      }
+    ],
+    "time": 20,
+    "tools": [
+      13
+    ]
+  },
+  "description": "Couro em um rack de secagem coberto de neve.",
+  "glyph": {
+    "frames": [
+      {
+        "color": [
+          255,
+          255,
+          255
+        ],
+        "delay": 0,
+        "index": 2766
+      }
+    ],
+    "random_frame_start": false
+  },
+  "health": 30,
+  "id": "core_2_Frozen_Drying_Leather_Rack",
+  "minimap_pixel": [
+    160,
+    103,
+    22
+  ],
+  "name": "Rack de Secagem de Couro Congelado",
+  "producer": {
+    "products": {
+      "core_2_deconstruct": [
+        {
+          "amount": [
+            0,
+            0
+          ],
+          "id": "",
+          "percent_chance": 0
+        }
+      ]
+    },
+    "time": 20
+  }
+}

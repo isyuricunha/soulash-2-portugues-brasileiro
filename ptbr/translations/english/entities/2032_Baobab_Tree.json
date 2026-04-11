@@ -1,0 +1,111 @@
+{
+  "armor": {
+    "acid": 5,
+    "death": 5,
+    "electricity": 10,
+    "fire": 0,
+    "frost": 0,
+    "holy": 5,
+    "parry": 0,
+    "physical": 5,
+    "poison": 20,
+    "thorns": 0
+  },
+  "background": {
+    "color": [
+      65,
+      50,
+      42
+    ],
+    "noise": 1
+  },
+  "components": [
+    "armor",
+    "background",
+    "block_light",
+    "collidable",
+    "glyph",
+    "health",
+    "height",
+    "minimap_pixel",
+    "name",
+    "position_2d",
+    "producer",
+    "random_resource"
+  ],
+  "corpse": [],
+  "description": "Árvore massiva com um tronco grande que pode armazenar vastas quantidades de água.",
+  "glyph": {
+    "frames": [
+      {
+        "color": [
+          255,
+          255,
+          255
+        ],
+        "delay": 0,
+        "index": 1534
+      },
+      {
+        "color": [
+          255,
+          255,
+          255
+        ],
+        "delay": 0,
+        "index": 1535
+      }
+    ],
+    "random_frame_start": true
+  },
+  "health": 300,
+  "height": 30,
+  "id": "2032",
+  "minimap_pixel": [
+    115,
+    93,
+    191
+  ],
+  "name": "Árvore Baobá",
+  "producer": {
+    "products": {
+      "1": [
+        {
+          "amount": [
+            1,
+            1
+          ],
+          "id": "2479",
+          "percent_chance": 100
+        }
+      ],
+      "core_2_woodbend": [
+        {
+          "amount": [
+            2,
+            3
+          ],
+          "id": "2479",
+          "percent_chance": 100
+        }
+      ]
+    },
+    "time": 30
+  },
+  "random_resource": {
+    "delay_spawn": false,
+    "entity": [
+      "2032"
+    ],
+    "max_amount": 1,
+    "max_distance": 1,
+    "min_amount": 1,
+    "min_distance": 0,
+    "multiply_same": true,
+    "respawn_rate": 0.0,
+    "spawn_at": [],
+    "spawn_chance": 100.0,
+    "spawn_multiply": 20.0,
+    "spawn_rolls": 1
+  }
+}

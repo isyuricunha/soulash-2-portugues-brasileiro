@@ -1,0 +1,16 @@
+{
+  "id": "core_2_morning_star",
+  "name": "Estrela da Manhã",
+  "requirements": {
+    "milestones": [],
+    "skill": 27
+  },
+  "rewards": [
+    {
+      "recipe": "92"
+    }
+  ],
+  "skill_id": "core_2_weaponsmith",
+  "steps": [],
+  "steps_type": 0
+}

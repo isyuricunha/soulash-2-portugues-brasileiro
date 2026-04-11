@@ -1,0 +1,16 @@
+{
+  "id": "83",
+  "image": 63,
+  "max": 1,
+  "name": "Besteiros",
+  "occupation_image": 27,
+  "occupation": "2293",
+  "produces": [],
+  "race": "1",
+  "tier": 2,
+  "type": "military",
+  "workers": [
+    1,
+    8
+  ]
+}

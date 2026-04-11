@@ -1,0 +1,135 @@
+{
+  "armor": {
+    "acid": 5,
+    "death": 5,
+    "electricity": 10,
+    "fire": -5,
+    "frost": 10,
+    "holy": 5,
+    "parry": 0,
+    "physical": 5,
+    "poison": 20,
+    "thorns": 0
+  },
+  "category_id": 5,
+  "components": [
+    "armor",
+    "block_light",
+    "collidable",
+    "craftable",
+    "glyph",
+    "glyph_top",
+    "health",
+    "height",
+    "minimap_pixel",
+    "name",
+    "position_2d",
+    "random_resource"
+  ],
+  "corpse": "2095",
+  "craftable": {
+    "backgrounds": [
+      "3068"
+    ],
+    "biomes": [
+      7,
+      6,
+      8
+    ],
+    "magic_slots": 0,
+    "resources": [
+      {
+        "amount": 1,
+        "id": "3049"
+      }
+    ],
+    "time": 20,
+    "tools": []
+  },
+  "description": "Uma jovem e pequena palmeira de banana.",
+  "glyph": {
+    "frames": [
+      {
+        "color": [
+          109,
+          86,
+          66
+        ],
+        "delay": 0,
+        "index": 860
+      },
+      {
+        "color": [
+          131,
+          86,
+          66
+        ],
+        "delay": 0,
+        "index": 860
+      },
+      {
+        "color": [
+          94,
+          54,
+          57
+        ],
+        "delay": 0,
+        "index": 860
+      },
+      {
+        "color": [
+          125,
+          60,
+          57
+        ],
+        "delay": 0,
+        "index": 860
+      }
+    ],
+    "random_frame_start": true,
+    "random_top": {
+      "colors": [
+        [
+          255,
+          255,
+          255
+        ]
+      ],
+      "count": 7,
+      "glyph_ids": [
+        2078,
+        2079
+      ],
+      "max_alpha": 200,
+      "max_range": 15,
+      "wind": true
+    }
+  },
+  "health": 300,
+  "height": 30,
+  "id": "3076",
+  "minimap_pixel": [
+    123,
+    93,
+    40
+  ],
+  "name": "Muda de Bananeira",
+  "random_resource": {
+    "delay_spawn": true,
+    "entity": [
+      "2019"
+    ],
+    "max_amount": 1,
+    "max_distance": 0,
+    "min_amount": 1,
+    "min_distance": 0,
+    "multiply_same": false,
+    "respawn_rate": 108000.0,
+    "spawn_at": [
+      "3076"
+    ],
+    "spawn_chance": 100.0,
+    "spawn_multiply": 0.0,
+    "spawn_rolls": 1
+  }
+}

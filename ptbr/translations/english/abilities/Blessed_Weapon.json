@@ -1,0 +1,26 @@
+{
+  "animation": "core_2_Blessed_Weapon",
+  "cast_time": 1.0,
+  "cooldown": 30.0,
+  "cost": {
+    "health": 0,
+    "stamina": 2
+  },
+  "description": "Armas que você segura são encantadas com poder ::damage_type aumentando o dano em ::damage_bonus por ::duration turnos.",
+  "duration": 20.0,
+  "effects": {
+    "damage_bonus": 6,
+    "damage_type": "holy"
+  },
+  "id": "core_2_Blessed_Weapon",
+  "image": 120,
+  "name": "Arma Abençoada",
+  "range": 0,
+  "skill": "core_2_divine_fists",
+  "slots": {
+    "defensive": 2,
+    "offensive": 0,
+    "utility": 0
+  },
+  "target": "self"
+}

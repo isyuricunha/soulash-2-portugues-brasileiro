@@ -1,0 +1,77 @@
+{
+  "armor": {
+    "acid": 100,
+    "death": 0,
+    "electricity": 10,
+    "fire": -10,
+    "frost": 30,
+    "holy": 100,
+    "parry": 0,
+    "physical": 5,
+    "poison": 100
+  },
+  "components": [
+    "armor",
+    "block_light",
+    "glyph",
+    "glyph_top",
+    "health",
+    "height",
+    "minimap_pixel",
+    "name",
+    "position_2d"
+  ],
+  "corpse": [],
+  "description": "Uma planta tropical com grandes folhas em forma de leque.",
+  "glyph": {
+    "frames": [
+      {
+        "color": [
+          120,
+          88,
+          66
+        ],
+        "delay": 0,
+        "index": 860
+      }
+    ],
+    "random_frame_start": false,
+    "random_top": {
+      "colors": [
+        [
+          58,
+          115,
+          72
+        ],
+        [
+          72,
+          120,
+          60
+        ],
+        [
+          32,
+          90,
+          30
+        ]
+      ],
+      "count": 5,
+      "glyph_ids": [
+        1504,
+        1505,
+        1506
+      ],
+      "max_alpha": 200,
+      "max_range": 3,
+      "wind": true
+    }
+  },
+  "health": 50,
+  "height": 2,
+  "id": "2022",
+  "minimap_pixel": [
+    37,
+    89,
+    31
+  ],
+  "name": "Arbusto de Leque"
+}

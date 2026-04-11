@@ -1,0 +1,16 @@
+{
+  "id": "core_2_bed_flowers",
+  "name": "Leito de Flores",
+  "requirements": {
+    "milestones": [],
+    "skill": 21
+  },
+  "rewards": [
+    {
+      "recipe": "core_2_Bed_of_Flowers"
+    }
+  ],
+  "skill_id": "core_2_floromancy",
+  "steps": [],
+  "steps_type": 0
+}

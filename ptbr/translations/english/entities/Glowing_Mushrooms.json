@@ -1,0 +1,59 @@
+{
+  "components": [
+    "glyph",
+    "light_source",
+    "minimap_pixel",
+    "name",
+    "position_2d",
+    "producer"
+  ],
+  "description": "Cogumelos brilhantes selvagens.",
+  "glyph": {
+    "frames": [
+      {
+        "color": [
+          255,
+          255,
+          255
+        ],
+        "delay": 0,
+        "index": 2135
+      }
+    ],
+    "random_frame_start": false
+  },
+  "id": "core_2_Glowing_Mushrooms",
+  "light_source": {
+    "finish": -1,
+    "range": 3
+  },
+  "minimap_pixel": [
+    65,
+    90,
+    216
+  ],
+  "name": "Cogumelos Brilhantes",
+  "producer": {
+    "products": {
+      "10": [
+        {
+          "amount": [
+            1,
+            2
+          ],
+          "id": "core_2_Glowing_Mushroom",
+          "percent_chance": 100
+        },
+        {
+          "amount": [
+            2,
+            4
+          ],
+          "id": "core_2_Glowing_Mushroom_Spores",
+          "percent_chance": 10
+        }
+      ]
+    },
+    "time": 10
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "animation": "core_2_Blizzard",
+  "cast_time": 1.5,
+  "cooldown": 30.0,
+  "cost": {
+    "health": 0,
+    "stamina": 20
+  },
+  "description": "Invoca uma nevasca gelada causando ::damage de dano ::damage_type a todos na área selecionada.",
+  "duration": 0.0,
+  "effects": {
+    "aoe_range": 4,
+    "aoe_shape": 1,
+    "damage": [
+      15,
+      25
+    ],
+    "damage_type": "frost",
+    "magic_power_damage": 1.0
+  },
+  "id": "core_2_Blizzard",
+  "image": 161,
+  "name": "Nevasca",
+  "range": 7,
+  "skill": "core_2_cryomancy",
+  "slots": {
+    "offensive": 1,
+    "utility": 3
+  },
+  "target": "aoe_tile"
+}

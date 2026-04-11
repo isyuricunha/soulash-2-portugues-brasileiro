@@ -1,0 +1,60 @@
+{
+  "components": [
+    "craftable",
+    "food",
+    "glyph",
+    "item",
+    "minimap_pixel",
+    "name",
+    "position_2d",
+    "stackable",
+    "value",
+    "weight"
+  ],
+  "craftable": {
+    "backgrounds": [],
+    "biomes": [],
+    "magic_slots": 0,
+    "resources": [
+      {
+        "amount": 4,
+        "id": "3052"
+      }
+    ],
+    "time": 10,
+    "tools": []
+  },
+  "description": "Uma cenoura tão fresca que ainda está coberta de terra.",
+  "food": {
+    "nutrition": 15,
+    "on_eat": "",
+    "raw": true
+  },
+  "glyph": {
+    "frames": [
+      {
+        "color": [
+          255,
+          255,
+          255
+        ],
+        "delay": 0,
+        "index": 250
+      }
+    ],
+    "random_frame_start": false
+  },
+  "id": "793",
+  "item": {
+    "image": 195,
+    "type": 20
+  },
+  "minimap_pixel": [
+    237,
+    145,
+    33
+  ],
+  "name": "Cenoura",
+  "value": 100,
+  "weight": 0.10000000149011612
+}

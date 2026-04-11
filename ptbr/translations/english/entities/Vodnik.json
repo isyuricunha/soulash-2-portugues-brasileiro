@@ -1,0 +1,155 @@
+{
+  "ability_user": [
+    "core_2_Drown"
+  ],
+  "armor": {
+    "acid": 0,
+    "death": 30,
+    "electricity": 0,
+    "fire": 30,
+    "frost": 0,
+    "holy": -10,
+    "parry": 0,
+    "physical": 10,
+    "poison": 10,
+    "thorns": 0
+  },
+  "artificial_intelligence": {
+    "allies": [
+      "4"
+    ],
+    "allow_production": [],
+    "behaviors": [],
+    "enemies": [
+      "5"
+    ]
+  },
+  "components": [
+    "ability_user",
+    "actor",
+    "armor",
+    "artificial_intelligence",
+    "collidable",
+    "dialogues",
+    "equipment",
+    "experience_gainer",
+    "fighter",
+    "glyph",
+    "health",
+    "humanoid",
+    "minimap_pixel",
+    "moveable",
+    "name",
+    "position_2d",
+    "sight",
+    "stamina",
+    "statistics",
+    "tags",
+    "weapon"
+  ],
+  "corpse": "core_2_Vodnik_Corpse",
+  "description": "Um corpo afogado, apodrecido, buscando vingança contra os vivos.",
+  "dialogues": [
+    "922",
+    "923"
+  ],
+  "equipment": {
+    "torso_cloth": [
+      {
+        "chance": 1.0,
+        "id": "23",
+        "name": "Farrapos",
+        "stack": 1
+      }
+    ]
+  },
+  "experience_gainer": {
+    "exp": 0,
+    "level": 30
+  },
+  "fighter": {
+    "attackNames": [
+      "Scratch"
+    ]
+  },
+  "glyph": {
+    "frames": [
+      {
+        "color": [
+          255,
+          255,
+          255
+        ],
+        "delay": 0,
+        "index": 567
+      }
+    ],
+    "random_frame_start": false
+  },
+  "health": 400,
+  "humanoid": {
+    "race": ""
+  },
+  "id": "core_2_Vodnik",
+  "minimap_pixel": [
+    149,
+    165,
+    101
+  ],
+  "moveable": {
+    "speed": 1.0
+  },
+  "name": "Vodnik",
+  "sight": {
+    "ignore_infra_penalty": false,
+    "infravision": true,
+    "range": 10,
+    "threesixty": false
+  },
+  "stamina": {
+    "fatigue": 100,
+    "stamina": 100,
+    "stamina_regen": 0.0
+  },
+  "statistics": {
+    "dexterity": [
+      28,
+      36
+    ],
+    "endurance": [
+      40,
+      46
+    ],
+    "intelligence": [
+      30,
+      40
+    ],
+    "strength": [
+      27,
+      32
+    ],
+    "willpower": [
+      20,
+      25
+    ]
+  },
+  "tags": [
+    "4"
+  ],
+  "weapon": {
+    "attack_speed": 1.0,
+    "critical_hit": 0.0,
+    "damage": [
+      {
+        "dmg_max": 3,
+        "dmg_min": 1,
+        "dmg_type": "physical"
+      }
+    ],
+    "hands": 1,
+    "hit_bonus": 0,
+    "parry_bonus": 0,
+    "range": 1,
+    "type": 3
+  }
+}

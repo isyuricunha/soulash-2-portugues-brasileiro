@@ -1,0 +1,15 @@
+{
+  "id": "core_2_dueling_tactician",
+  "name": "Tático de Duelo",
+  "requirements": {
+    "skill": 32
+  },
+  "rewards": [
+    {
+      "passive": "core_2_dueling_tactician"
+    }
+  ],
+  "skill_id": "core_2_mace_fighting",
+  "steps": [],
+  "steps_type": 0
+}

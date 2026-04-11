@@ -1,0 +1,70 @@
+{
+  "armor": {
+    "acid": 4,
+    "death": 0,
+    "electricity": 2,
+    "fire": 0,
+    "frost": 4,
+    "holy": 0,
+    "parry": 0,
+    "physical": 5,
+    "poison": 2
+  },
+  "components": [
+    "armor",
+    "craftable",
+    "glyph",
+    "item",
+    "minimap_pixel",
+    "name",
+    "position_2d",
+    "value",
+    "weight"
+  ],
+  "craftable": {
+    "magic_slots": 4,
+    "resource_types": [
+      {
+        "amount": 3,
+        "id": 2
+      },
+      {
+        "amount": 1,
+        "id": 1
+      }
+    ],
+    "resources": null,
+    "time": 45,
+    "tools": [
+      14
+    ]
+  },
+  "description": "Armadura de couro com placas de ferro para proteção extra. Comum entre fora-da-lei.",
+  "glyph": {
+    "frames": [
+      {
+        "color": [
+          255,
+          255,
+          255
+        ],
+        "delay": 0,
+        "index": 646
+      }
+    ],
+    "random_frame_start": false
+  },
+  "id": "394",
+  "item": {
+    "image": 167,
+    "type": 4
+  },
+  "minimap_pixel": [
+    136,
+    140,
+    141
+  ],
+  "name": "Brigantina",
+  "value": 5000,
+  "weight": 3.5
+}

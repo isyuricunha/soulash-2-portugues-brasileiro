@@ -1,0 +1,60 @@
+{
+  "armor": {
+    "acid": 0,
+    "death": 2,
+    "electricity": 0,
+    "fire": 0,
+    "frost": -4,
+    "holy": 0,
+    "parry": 0,
+    "physical": 0,
+    "poison": 0,
+    "thorns": 0
+  },
+  "components": [
+    "armor",
+    "glyph",
+    "item",
+    "minimap_pixel",
+    "name",
+    "position_2d",
+    "resource",
+    "stackable",
+    "value",
+    "weight"
+  ],
+  "description": "Mais marrom do que verde, esta grama é ótima como material de construção.",
+  "glyph": {
+    "frames": [
+      {
+        "color": [
+          255,
+          255,
+          255
+        ],
+        "delay": 0,
+        "index": 2117
+      }
+    ],
+    "random_frame_start": false
+  },
+  "id": "core_2_Swamp_Grass",
+  "item": {
+    "image": 859,
+    "type": 16
+  },
+  "minimap_pixel": [
+    225,
+    182,
+    121
+  ],
+  "name": "Grama do Pântano",
+  "resource": {
+    "affix": "Moist",
+    "magic_ingredient": 0,
+    "quality": 0,
+    "type": 4
+  },
+  "value": 100,
+  "weight": 0.10000000149011612
+}

@@ -1,0 +1,44 @@
+{
+  "components": [
+    "glyph",
+    "item",
+    "minimap_pixel",
+    "name",
+    "position_2d",
+    "usable",
+    "value",
+    "weight"
+  ],
+  "description": "Uma cabeça de um espectro de osso. Pode ainda reter algumas memórias.",
+  "glyph": {
+    "frames": [
+      {
+        "color": [
+          255,
+          255,
+          255
+        ],
+        "delay": 0,
+        "index": 2828
+      }
+    ],
+    "random_frame_start": false
+  },
+  "id": "core_2_Bone_Wraith_Head",
+  "item": {
+    "image": 1267,
+    "type": 32
+  },
+  "minimap_pixel": [
+    156,
+    160,
+    161
+  ],
+  "name": "Cabeça de Espectro de Osso",
+  "usable": {
+    "ability": "42",
+    "recipe": ""
+  },
+  "value": 150,
+  "weight": 2.5
+}

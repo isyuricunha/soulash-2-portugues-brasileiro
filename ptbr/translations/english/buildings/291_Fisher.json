@@ -1,0 +1,24 @@
+{
+  "id": "291",
+  "image": 229,
+  "name": "Pescador",
+  "occupation_image": 2,
+  "occupation": "core_2_Ursan_Fisherman",
+  "produces": [
+    {
+      "entities": [
+        {
+          "daily": 2,
+          "id": "315"
+        }
+      ],
+      "takes": []
+    }
+  ],
+  "race": "33",
+  "tier": 1,
+  "workers": [
+    1,
+    2
+  ]
+}

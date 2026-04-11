@@ -1,0 +1,76 @@
+{
+  "components": [
+    "craftable",
+    "glyph",
+    "item",
+    "minimap_pixel",
+    "name",
+    "position_2d",
+    "usable",
+    "value",
+    "weight"
+  ],
+  "craftable": {
+    "magic_slots": 0,
+    "resource_types": [
+      {
+        "amount": 1,
+        "id": 4
+      }
+    ],
+    "resources": [
+      {
+        "amount": 1,
+        "id": "852"
+      },
+      {
+        "amount": 1,
+        "id": "2115"
+      },
+      {
+        "amount": 1,
+        "id": "149"
+      },
+      {
+        "amount": 1,
+        "id": "2101"
+      }
+    ],
+    "time": 80,
+    "tools": [
+      6
+    ]
+  },
+  "description": "Milagre da engenharia anã, uma caixa com um lançador de dardos dentro. Permite implantação rápida.",
+  "glyph": {
+    "frames": [
+      {
+        "color": [
+          255,
+          255,
+          255
+        ],
+        "delay": 0,
+        "index": 1968
+      }
+    ],
+    "random_frame_start": false
+  },
+  "id": "2960",
+  "item": {
+    "image": 768,
+    "type": 17
+  },
+  "minimap_pixel": [
+    125,
+    128,
+    128
+  ],
+  "name": "Caixa de Lançador de Dardos",
+  "usable": {
+    "ability": "core_2_Summon_Bolt_Thrower",
+    "recipe": ""
+  },
+  "value": 25000,
+  "weight": 3.0
+}

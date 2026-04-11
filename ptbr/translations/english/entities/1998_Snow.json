@@ -1,0 +1,56 @@
+{
+  "background": {
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "movement_penalty": 0.20000000298023224,
+    "noise": 9,
+    "noise_intensity": 5
+  },
+  "components": [
+    "background",
+    "glyph",
+    "health",
+    "minimap_pixel",
+    "name"
+  ],
+  "corpse": [
+    {
+      "damage_type": 0,
+      "id": "30"
+    },
+    {
+      "damage_type": 2,
+      "id": "602"
+    },
+    {
+      "damage_type": 5,
+      "id": "2"
+    }
+  ],
+  "description": "Pó branco crocante por toda parte.",
+  "glyph": {
+    "frames": [
+      {
+        "color": [
+          255,
+          255,
+          255
+        ],
+        "delay": 0,
+        "index": 820
+      }
+    ],
+    "random_frame_start": false
+  },
+  "health": 1,
+  "id": "1998",
+  "minimap_pixel": [
+    120,
+    120,
+    120
+  ],
+  "name": "Neve"
+}

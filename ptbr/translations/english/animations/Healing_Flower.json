@@ -1,0 +1,109 @@
+{
+  "animation_origin_self": false,
+  "camera_shake": {
+    "bounces": 0,
+    "duration": 0.0,
+    "power": 0.0
+  },
+  "chain_particles": true,
+  "id": "core_2_Healing_Flower",
+  "ignore_roof": false,
+  "name": "Flor de Cura",
+  "particles": [
+    {
+      "color": [
+        [
+          255,
+          255,
+          255,
+          255
+        ]
+      ],
+      "flags": 0,
+      "life": 50.0,
+      "tile_id": 1045
+    },
+    {
+      "color": [
+        [
+          255,
+          255,
+          255,
+          255
+        ]
+      ],
+      "flags": 0,
+      "life": 70.0,
+      "tile_id": 1046
+    },
+    {
+      "color": [
+        [
+          255,
+          255,
+          255,
+          255
+        ]
+      ],
+      "flags": 0,
+      "life": 70.0,
+      "tile_id": 1047
+    },
+    {
+      "color": [
+        [
+          255,
+          255,
+          255,
+          255
+        ]
+      ],
+      "flags": 0,
+      "life": 70.0,
+      "tile_id": 1048
+    },
+    {
+      "color": [
+        [
+          255,
+          255,
+          255,
+          255
+        ]
+      ],
+      "flags": 0,
+      "life": 70.0,
+      "tile_id": 1049
+    },
+    {
+      "color": [
+        [
+          255,
+          255,
+          255,
+          255
+        ]
+      ],
+      "flags": 0,
+      "life": 70.0,
+      "tile_id": 1050
+    },
+    {
+      "color": [
+        [
+          255,
+          255,
+          255,
+          255
+        ]
+      ],
+      "flags": 0,
+      "life": 50.0,
+      "tile_id": 1050
+    }
+  ],
+  "sound": {
+    "id": "",
+    "volume": 100
+  }
+}

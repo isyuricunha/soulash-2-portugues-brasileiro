@@ -1,0 +1,126 @@
+{
+  "ability_user": [
+    "core_2_Summon_Twigs",
+    "9",
+    "153",
+    "core_2_Animate_Trees"
+  ],
+  "armor": {
+    "acid": 10,
+    "death": 50,
+    "electricity": 0,
+    "fire": -20,
+    "frost": 20,
+    "holy": 0,
+    "parry": 0,
+    "physical": 0,
+    "poison": 100,
+    "thorns": 0
+  },
+  "artificial_intelligence": {
+    "allies": [
+      "3"
+    ],
+    "allow_production": [],
+    "behaviors": [],
+    "enemies": [
+      "5"
+    ]
+  },
+  "components": [
+    "ability_user",
+    "actor",
+    "armor",
+    "artificial_intelligence",
+    "collidable",
+    "dialogues",
+    "equipment",
+    "experience_gainer",
+    "fighter",
+    "glyph",
+    "health",
+    "minimap_pixel",
+    "moveable",
+    "name",
+    "position_2d",
+    "sight",
+    "stamina",
+    "statistics",
+    "tags"
+  ],
+  "corpse": "core_2_Leshy_Antlers",
+  "description": "Espírito florestal mítico protegendo a natureza selvagem.",
+  "dialogues": [
+    "863",
+    "864"
+  ],
+  "experience_gainer": {
+    "exp": 0,
+    "level": 40
+  },
+  "fighter": {
+    "attackNames": null
+  },
+  "glyph": {
+    "frames": [
+      {
+        "color": [
+          255,
+          255,
+          255
+        ],
+        "delay": 0,
+        "index": 567
+      }
+    ],
+    "random_frame_start": false
+  },
+  "health": 1300,
+  "id": "core_2_Leshy",
+  "minimap_pixel": [
+    149,
+    165,
+    101
+  ],
+  "moveable": {
+    "speed": 0.800000011920929
+  },
+  "name": "Leshy",
+  "sight": {
+    "ignore_infra_penalty": false,
+    "infravision": true,
+    "range": 12,
+    "threesixty": false
+  },
+  "stamina": {
+    "fatigue": 100,
+    "stamina": 100,
+    "stamina_regen": 0.0
+  },
+  "statistics": {
+    "dexterity": [
+      76,
+      86
+    ],
+    "endurance": [
+      98,
+      112
+    ],
+    "intelligence": [
+      34,
+      40
+    ],
+    "strength": [
+      98,
+      112
+    ],
+    "willpower": [
+      96,
+      107
+    ]
+  },
+  "tags": [
+    "3",
+    "38"
+  ]
+}

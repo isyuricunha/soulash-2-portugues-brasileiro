@@ -1,0 +1,66 @@
+{
+  "armor": {
+    "acid": 5,
+    "death": 0,
+    "electricity": 0,
+    "fire": 0,
+    "frost": 5,
+    "holy": 0,
+    "parry": 0,
+    "physical": 3,
+    "poison": 5
+  },
+  "components": [
+    "armor",
+    "craftable",
+    "glyph",
+    "item",
+    "minimap_pixel",
+    "name",
+    "position_2d",
+    "value",
+    "weight"
+  ],
+  "craftable": {
+    "magic_slots": 5,
+    "resource_types": [
+      {
+        "amount": 5,
+        "id": 9
+      }
+    ],
+    "resources": null,
+    "time": 180,
+    "tools": [
+      14
+    ]
+  },
+  "description": "Botas robustas e rústicas, mas confortáveis de usar. O forro de pele espesso mantém os pés aquecidos e protegidos dos elementos severos do inverno.",
+  "glyph": {
+    "frames": [
+      {
+        "color": [
+          255,
+          255,
+          255
+        ],
+        "delay": 0,
+        "index": 731
+      }
+    ],
+    "random_frame_start": false
+  },
+  "id": "2316",
+  "item": {
+    "image": 615,
+    "type": 9
+  },
+  "minimap_pixel": [
+    182,
+    175,
+    158
+  ],
+  "name": "Botas Bárbaras",
+  "value": 11000,
+  "weight": 3.0
+}

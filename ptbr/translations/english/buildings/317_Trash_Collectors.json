@@ -1,0 +1,33 @@
+{
+  "id": "317",
+  "image": 145,
+  "name": "Coleta de Lixo",
+  "occupation_image": 34,
+  "occupation": "core_2_Gnoll_Trash_Collector",
+  "produces": [
+    {
+      "entities": [
+        {
+          "daily": 2,
+          "id": "core_2_Speargrass_Root"
+        }
+      ],
+      "takes": []
+    },
+    {
+      "entities": [
+        {
+          "daily": 2,
+          "id": "core_2_Elephant_Grass"
+        }
+      ],
+      "takes": []
+    }
+  ],
+  "race": "31",
+  "tier": 1,
+  "workers": [
+    1,
+    3
+  ]
+}

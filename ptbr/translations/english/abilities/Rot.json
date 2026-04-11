@@ -1,0 +1,25 @@
+{
+  "animation": "core_2_Rot_impact",
+  "cast_time": 1.0,
+  "cooldown": 7.0,
+  "cost": {
+    "health": 0,
+    "stamina": 5
+  },
+  "description": "Causa ::damage de dano ::damage_type a todos em um cone na frente do conjurador.",
+  "duration": 0.0,
+  "effects": {
+    "damage": [
+      10,
+      15
+    ],
+    "damage_type": "death",
+    "damage_weapon": 1.5
+  },
+  "id": "core_2_Rot",
+  "image": 244,
+  "name": "Podridão",
+  "range": 10,
+  "skill": "core_2_necromancy",
+  "target": "cone"
+}

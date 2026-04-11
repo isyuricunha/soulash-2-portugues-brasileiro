@@ -1,0 +1,59 @@
+{
+  "category_id": 7,
+  "components": [
+    "collidable",
+    "craftable",
+    "glyph",
+    "health",
+    "minimap_pixel",
+    "name",
+    "position_2d"
+  ],
+  "corpse": [],
+  "craftable": {
+    "backgrounds": [],
+    "biomes": [],
+    "magic_slots": 0,
+    "resource_types": [
+      {
+        "amount": 2,
+        "id": 3
+      }
+    ],
+    "resources": null,
+    "time": 10,
+    "tools": []
+  },
+  "description": "Uma caixa agradável cheia de frutas deliciosas.",
+  "glyph": {
+    "frames": [
+      {
+        "color": [
+          255,
+          255,
+          255
+        ],
+        "delay": 0,
+        "index": 1901
+      },
+      {
+        "color": [
+          255,
+          255,
+          255
+        ],
+        "delay": 0,
+        "index": 1902
+      }
+    ],
+    "random_frame_start": true
+  },
+  "health": 50,
+  "id": "2860",
+  "minimap_pixel": [
+    71,
+    48,
+    17
+  ],
+  "name": "Caixa de Frutas"
+}

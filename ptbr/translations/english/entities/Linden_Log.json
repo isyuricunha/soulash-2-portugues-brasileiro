@@ -1,0 +1,99 @@
+{
+  "components": [
+    "craftable",
+    "glyph",
+    "item",
+    "minimap_pixel",
+    "name",
+    "position_2d",
+    "producer",
+    "resource",
+    "stackable",
+    "value",
+    "weight"
+  ],
+  "craftable": {
+    "backgrounds": [],
+    "biomes": [],
+    "magic_slots": 0,
+    "resource_types": [
+      {
+        "amount": 1,
+        "id": 11
+      }
+    ],
+    "resources": [
+      {
+        "amount": 1,
+        "id": "core_2_Transmutation_Oil"
+      },
+      {
+        "amount": 1,
+        "id": "core_2_Camomile_Flower"
+      }
+    ],
+    "time": 10,
+    "tools": [
+      15
+    ]
+  },
+  "description": "Tora de madeira clara de tilia.",
+  "glyph": {
+    "frames": [
+      {
+        "color": [
+          255,
+          255,
+          255
+        ],
+        "delay": 0,
+        "index": 2947
+      }
+    ],
+    "random_frame_start": false
+  },
+  "id": "core_2_Linden_Log",
+  "item": {
+    "image": 1333,
+    "type": 16
+  },
+  "minimap_pixel": [
+    171,
+    102,
+    57
+  ],
+  "name": "Tora de Tília",
+  "producer": {
+    "products": {
+      "1": [
+        {
+          "amount": [
+            3,
+            5
+          ],
+          "id": "core_2_Linden_Wood",
+          "percent_chance": 100
+        }
+      ],
+      "core_2_woodbend": [
+        {
+          "amount": [
+            4,
+            6
+          ],
+          "id": "core_2_Linden_Wood",
+          "percent_chance": 100
+        }
+      ]
+    },
+    "time": 60
+  },
+  "resource": {
+    "affix": "",
+    "magic_ingredient": 0,
+    "quality": 0,
+    "type": 11
+  },
+  "value": 1200,
+  "weight": 40.0
+}

@@ -1,0 +1,16 @@
+{
+  "id": "core_2_speedy_recovery",
+  "name": "Recuperação Rápida",
+  "requirements": {
+    "milestones": [],
+    "skill": 48
+  },
+  "rewards": [
+    {
+      "passive": "core_2_health_tick"
+    }
+  ],
+  "skill_id": "core_2_athletics",
+  "steps": [],
+  "steps_type": 0
+}

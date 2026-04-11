@@ -1,0 +1,21 @@
+{
+  "animation": "0",
+  "cast_time": 1.0,
+  "cooldown": 0.0,
+  "cost": {
+    "health": 0,
+    "stamina": 0
+  },
+  "description": "O personagem está encharcado, alterando a resistência ::damage_type por ::resistance.",
+  "duration": 50.0,
+  "effects": {
+    "damage_type": "fire",
+    "resistance": 3
+  },
+  "id": "89",
+  "image": 167,
+  "level": 0,
+  "name": "Encharcado",
+  "range": 0,
+  "target": "self"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "core_2_crown_armor",
+  "name": "Armadura de Coroa",
+  "requirements": {
+    "milestones": [],
+    "skill": 48
+  },
+  "rewards": [
+    {
+      "recipe": "399"
+    }
+  ],
+  "skill_id": "core_2_armorsmith",
+  "steps": [],
+  "steps_type": 0
+}

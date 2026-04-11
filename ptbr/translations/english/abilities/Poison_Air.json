@@ -1,0 +1,31 @@
+{
+  "animation": "",
+  "cast_time": 1.2000000476837158,
+  "cooldown": 12.0,
+  "cost": {
+    "health": 0,
+    "stamina": 10
+  },
+  "description": "Cria uma nuvem temporária na área selecionada causando ::damage de dano ::damage_type imediatamente e aplicando Veneno em todos por ::poison_effect turnos. As nuvens podem às vezes permanecer em células aleatórias por ::duration turnos.",
+  "duration": 5.0,
+  "effects": {
+    "aoe_range": 10,
+    "aoe_shape": 1,
+    "damage": [
+      30,
+      50
+    ],
+    "damage_type": "poison",
+    "poison_effect": 5,
+    "summon_count": 15
+  },
+  "effects_keys": {
+    "summon": "789"
+  },
+  "id": "core_2_Poison_Air",
+  "image": 599,
+  "name": "Ar Veneno",
+  "range": 8,
+  "skill": "",
+  "target": "aoe_tile"
+}

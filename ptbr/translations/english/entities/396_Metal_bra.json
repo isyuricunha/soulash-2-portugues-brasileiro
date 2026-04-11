@@ -1,0 +1,74 @@
+{
+  "armor": {
+    "acid": 0,
+    "death": 0,
+    "electricity": 3,
+    "fire": 0,
+    "frost": 0,
+    "holy": 0,
+    "parry": 0,
+    "physical": 2,
+    "poison": 0
+  },
+  "components": [
+    "armor",
+    "craftable",
+    "glyph",
+    "item",
+    "minimap_pixel",
+    "name",
+    "position_2d",
+    "value",
+    "weight"
+  ],
+  "craftable": {
+    "magic_slots": 2,
+    "resource_types": [
+      {
+        "amount": 1,
+        "id": 1
+      },
+      {
+        "amount": 1,
+        "id": 2
+      },
+      {
+        "amount": 1,
+        "id": 4
+      }
+    ],
+    "resources": null,
+    "time": 30,
+    "tools": [
+      1
+    ]
+  },
+  "description": "Item místico que cobre apenas os seios, mas protege todo o torso muito bem.",
+  "glyph": {
+    "frames": [
+      {
+        "color": [
+          255,
+          255,
+          255
+        ],
+        "delay": 0,
+        "index": 647
+      }
+    ],
+    "random_frame_start": false
+  },
+  "id": "396",
+  "item": {
+    "image": 127,
+    "type": 4
+  },
+  "minimap_pixel": [
+    43,
+    140,
+    183
+  ],
+  "name": "Sutiã de Metal",
+  "value": 1000,
+  "weight": 1.5
+}

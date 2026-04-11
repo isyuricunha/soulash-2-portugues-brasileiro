@@ -1,0 +1,15 @@
+{
+  "id": "core_2_sixth_sense",
+  "name": "Sexto Sentido",
+  "requirements": {
+    "skill": 46
+  },
+  "rewards": [
+    {
+      "passive": "core_2_sight_behind"
+    }
+  ],
+  "skill_id": "core_2_protection",
+  "steps": [],
+  "steps_type": 1
+}

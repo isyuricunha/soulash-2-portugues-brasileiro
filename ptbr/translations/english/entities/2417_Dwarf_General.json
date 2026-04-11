@@ -1,0 +1,165 @@
+{
+  "artificial_intelligence": {
+    "allies": [
+      "6"
+    ],
+    "allow_production": [],
+    "behaviors": [],
+    "enemies": [
+      "39"
+    ]
+  },
+  "components": [
+    "actor",
+    "artificial_intelligence",
+    "collidable",
+    "consumer",
+    "dialogues",
+    "equipment",
+    "experience_gainer",
+    "fighter",
+    "glyph",
+    "health",
+    "humanoid",
+    "minimap_pixel",
+    "moveable",
+    "name",
+    "persona",
+    "position_2d",
+    "sight",
+    "skills",
+    "stamina",
+    "statistics",
+    "tags"
+  ],
+  "corpse": "559",
+  "description": "",
+  "dialogues": [
+    "410",
+    "411"
+  ],
+  "equipment": {
+    "cape": [
+      {
+        "chance": 1.0,
+        "id": "186",
+        "name": "Capa",
+        "stack": 1
+      }
+    ],
+    "legs_armor": [
+      {
+        "chance": 1.0,
+        "id": "572",
+        "name": "Guarda-Pernas",
+        "stack": 1
+      }
+    ],
+    "right_hand": [
+      {
+        "chance": 1.0,
+        "id": "374",
+        "name": "Machado Duplo",
+        "stack": 1
+      }
+    ],
+    "torso_armor": [
+      {
+        "chance": 1.0,
+        "id": "398",
+        "name": "Armadura Nobre",
+        "stack": 1
+      }
+    ]
+  },
+  "experience_gainer": {
+    "exp": 0,
+    "level": 4
+  },
+  "fighter": {
+    "attackNames": null
+  },
+  "glyph": {
+    "frames": [
+      {
+        "color": [
+          255,
+          255,
+          255
+        ],
+        "delay": 0,
+        "index": 85
+      }
+    ],
+    "random_frame_start": false
+  },
+  "health": 800,
+  "humanoid": {
+    "race": "1"
+  },
+  "id": "2417",
+  "minimap_pixel": [
+    224,
+    172,
+    105
+  ],
+  "moveable": {
+    "speed": 1.0
+  },
+  "name": "General Anão",
+  "persona": {
+    "occupation": "General"
+  },
+  "sight": {
+    "ignore_infra_penalty": false,
+    "infravision": false,
+    "range": 10,
+    "threesixty": false
+  },
+  "skills": {
+    "milestones": [
+      "core_2_charge",
+      "core_2_fast",
+      "core_2_i_would_like_to_rage",
+      "core_2_it_will_be_back",
+      "core_2_mighty",
+      "core_2_ready_or_not"
+    ],
+    "skills": [
+      "core_2_axe_fighting",
+      "core_2_athletics",
+      "core_2_leadership"
+    ]
+  },
+  "stamina": {
+    "fatigue": 100,
+    "stamina": 100,
+    "stamina_regen": 0.0
+  },
+  "statistics": {
+    "dexterity": [
+      24,
+      27
+    ],
+    "endurance": [
+      65,
+      79
+    ],
+    "intelligence": [
+      15,
+      19
+    ],
+    "strength": [
+      68,
+      73
+    ],
+    "willpower": [
+      41,
+      55
+    ]
+  },
+  "tags": [
+    "9",
+    "6"
+  ]
+}

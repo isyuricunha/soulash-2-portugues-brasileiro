@@ -1,0 +1,48 @@
+{
+  "armor": {
+    "acid": 2,
+    "death": 2,
+    "electricity": 10,
+    "fire": -20,
+    "frost": 200,
+    "holy": 2,
+    "parry": 0,
+    "physical": -10,
+    "poison": 5,
+    "thorns": 0
+  },
+  "components": [
+    "armor",
+    "block_light",
+    "collidable",
+    "glyph",
+    "health",
+    "minimap_pixel",
+    "name",
+    "position_2d"
+  ],
+  "corpse": [],
+  "description": "Uma estátua de uma menina segurando sua boneca.",
+  "glyph": {
+    "frames": [
+      {
+        "color": [
+          255,
+          255,
+          255
+        ],
+        "delay": 0,
+        "index": 2880
+      }
+    ],
+    "random_frame_start": false
+  },
+  "health": 100,
+  "id": "core_2_Ice_Statue",
+  "minimap_pixel": [
+    113,
+    157,
+    188
+  ],
+  "name": "Estátua de Gelo"
+}

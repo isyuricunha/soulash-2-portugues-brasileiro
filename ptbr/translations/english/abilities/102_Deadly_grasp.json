@@ -1,0 +1,30 @@
+{
+  "animation": "130",
+  "cast_time": 1.0,
+  "cooldown": 8.0,
+  "cost": {
+    "health": 0,
+    "stamina": 8
+  },
+  "description": "Mãos espectrais de mortos-vivos surgem do chão ao redor do conjurador, causando ::damage de dano ::damage_type a todos na área de ::aoe_range ao redor do conjurador.",
+  "duration": 0.0,
+  "effects": {
+    "aoe_range": 5,
+    "aoe_shape": 1,
+    "damage": [
+      5,
+      10
+    ],
+    "damage_type": "death",
+    "magic_power_damage": 1.25
+  },
+  "id": "102",
+  "image": 111,
+  "name": "Aperto Mortal",
+  "range": 0,
+  "skill": "core_2_necromancy",
+  "slots": {
+    "offensive": 3
+  },
+  "target": "aoe_self"
+}

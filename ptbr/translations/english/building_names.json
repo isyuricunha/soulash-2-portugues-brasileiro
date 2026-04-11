@@ -1,0 +1,1115 @@
+{
+  "building_names": [
+    {
+      "formats": [
+        "::family's Hut"
+      ],
+      "id": "1"
+    },
+    {
+      "formats": [
+        "::family's Carpenter"
+      ],
+      "id": "2"
+    },
+    {
+      "formats": [
+        "::family's Hunters Lodge"
+      ],
+      "id": "3"
+    },
+    {
+      "formats": [
+        "::family's ::suffix"
+      ],
+      "id": "4",
+      "suffixes": [
+        "Farm",
+        "Fields",
+        "Farmland"
+      ]
+    },
+    {
+      "formats": [
+        "::family's Ranch"
+      ],
+      "id": "6"
+    },
+    {
+      "formats": [
+        "::family's Fishing Hut"
+      ],
+      "id": "7"
+    },
+    {
+      "formats": [
+        "::family's Mill"
+      ],
+      "id": "8"
+    },
+    {
+      "formats": [
+        "::family's Bakery"
+      ],
+      "id": "9"
+    },
+    {
+      "formats": [
+        "::family's Woodcutters"
+      ],
+      "id": "10"
+    },
+    {
+      "formats": [
+        "::prefix ::suffix Tower",
+        "::prefix ::suffix Outpost",
+        "The ::prefix ::suffix Spire",
+        "::company's Tower"
+      ],
+      "id": "11",
+      "prefixes": [
+        "Vigilant",
+        "Dauntless",
+        "Impenetrable",
+        "Mighty",
+        "Towering",
+        "Sentry",
+        "Unyielding",
+        "Fortified",
+        "Watchful",
+        "Lofty"
+      ],
+      "suffixes": [
+        "Eagle Eye",
+        "Storm Watcher",
+        "Bastion",
+        "Sentinel",
+        "Lookout",
+        "Garrison",
+        "Skyward Shield",
+        "Beacon",
+        "Defender",
+        "Overwatch"
+      ]
+    },
+    {
+      "core_names": [
+        "Goblin",
+        "Bard",
+        "Barrel",
+        "Knight",
+        "Mead",
+        "Stool",
+        "Keg",
+        "Wench",
+        "Rooster",
+        "Pint",
+        "Elf",
+        "Boar",
+        "Meat",
+        "Huntsman",
+        "Pony",
+        "Wheat",
+        "Nut",
+        "Bucket",
+        "Cup",
+        "Imp",
+        "Apple",
+        "Lamb"
+      ],
+      "formats": [
+        "::prefix ::core_name ::suffix",
+        "The ::prefix ::core_name ::suffix",
+        "::core_name and ::core_name2 ::suffix",
+        "::prefix ::core_name and ::core_name2 ::suffix"
+      ],
+      "id": "12",
+      "prefixes": [
+        "Tipsy",
+        "Giggling",
+        "Rambunctious",
+        "Cozy",
+        "Quirky",
+        "Saucy",
+        "Wobbly",
+        "Drunken",
+        "Rowdy",
+        "Boisterous",
+        "Pouncing",
+        "Foolish",
+        "Married",
+        "Flying",
+        "Zealous",
+        "Twin",
+        "Fat",
+        "Glamorous",
+        "King's",
+        "Queen's",
+        "Last",
+        "Full",
+        "Roasted",
+        "Black",
+        "Busy"
+      ],
+      "suffixes": [
+        "Alehouse",
+        "Tavern",
+        "Inn",
+        "Lodge",
+        "Roadhouse",
+        "Rest",
+        "Haven",
+        "Retreat"
+      ]
+    },
+    {
+      "core_names": [
+        "Anvil",
+        "Hammer",
+        "Blade",
+        "Forge",
+        "Sword",
+        "Axe",
+        "Mace",
+        "Dagger",
+        "Spear",
+        "Crossbow",
+        "Blacksmith",
+        "Weaponsmith"
+      ],
+      "formats": [
+        "::prefix ::core_name ::suffix",
+        "The ::prefix ::core_name ::suffix",
+        "::core_name and ::core_name2 ::suffix",
+        "::prefix ::core_name and ::core_name2 ::suffix",
+        "The ::family's ::suffix"
+      ],
+      "id": "13",
+      "prefixes": [
+        "Master",
+        "Relentless",
+        "Unbreakable",
+        "Tempered",
+        "Battle-worn",
+        "Mighty",
+        "Exalted",
+        "Sharp",
+        "Revered",
+        "Glorious",
+        "Tough",
+        "Potent",
+        "Sturdy",
+        "Deadly",
+        "Destructive",
+        "Lethal",
+        "Great"
+      ],
+      "suffixes": [
+        "Smithy",
+        "Workshop",
+        "Forge"
+      ]
+    },
+    {
+      "core_names": [
+        "Anvil",
+        "Helmet",
+        "Armor",
+        "Shield",
+        "Forge",
+        "Blacksmith",
+        "Armorsmith"
+      ],
+      "formats": [
+        "::prefix ::core_name ::suffix",
+        "The ::prefix ::core_name ::suffix",
+        "::core_name and ::core_name2 ::suffix",
+        "::prefix ::core_name and ::core_name2 ::suffix",
+        "The ::family's ::suffix"
+      ],
+      "id": "14",
+      "prefixes": [
+        "Master",
+        "Relentless",
+        "Unbreakable",
+        "Tempered",
+        "Battle-worn",
+        "Mighty",
+        "Exalted",
+        "Sharp",
+        "Revered",
+        "Glorious",
+        "Tough",
+        "Potent",
+        "Sturdy",
+        "Deadly",
+        "Destructive",
+        "Lethal",
+        "Great"
+      ],
+      "suffixes": [
+        "Smithy",
+        "Workshop",
+        "Forge"
+      ]
+    },
+    {
+      "core_names": [
+        "Saw",
+        "Chisel",
+        "Hammer",
+        "Tongs",
+        "Shovel",
+        "Rope",
+        "Tools"
+      ],
+      "formats": [
+        "::prefix ::core_name ::suffix",
+        "The ::prefix ::core_name ::suffix",
+        "::core_name and ::core_name2 ::suffix"
+      ],
+      "id": "15",
+      "prefixes": [
+        "Clever",
+        "Resourceful",
+        "Ingenious",
+        "Dexterous",
+        "Steady",
+        "Gifted",
+        "Deft",
+        "Astute",
+        "Versatile",
+        "Hot",
+        "Flimsy",
+        "Great",
+        "Fantastic"
+      ],
+      "suffixes": [
+        "Workshop",
+        "Workbench"
+      ]
+    },
+    {
+      "core_names": [
+        "Archery",
+        "Quiver",
+        "Bow",
+        "Arrow",
+        "Marksman",
+        "Feather"
+      ],
+      "formats": [
+        "::prefix ::core_name ::suffix",
+        "The ::prefix ::core_name ::suffix",
+        "::core_name and ::core_name2 ::suffix"
+      ],
+      "id": "16",
+      "prefixes": [
+        "Precise",
+        "String-tight",
+        "Silent",
+        "Graceful",
+        "Unerring",
+        "Swift",
+        "Dauntless",
+        "Eagle-eyed",
+        "Masterful",
+        "Swift",
+        "Quick"
+      ],
+      "suffixes": [
+        "Shop",
+        "Bowyer",
+        "Fletcher"
+      ]
+    },
+    {
+      "formats": [
+        "::family's Quarry"
+      ],
+      "id": "17"
+    },
+    {
+      "core_names": [
+        "Threads",
+        "Clothes",
+        "Cloth",
+        "Fabric",
+        "Material",
+        "Silk",
+        "Wardrobe",
+        "Luminary",
+        "Rags",
+        "Garments",
+        "Attire",
+        "Costume",
+        "Vestments",
+        "Shroud"
+      ],
+      "formats": [
+        "::prefix ::core_name ::suffix",
+        "The ::prefix ::core_name ::suffix",
+        "::core_name and ::core_name2 ::suffix"
+      ],
+      "id": "18",
+      "prefixes": [
+        "Elegant",
+        "Snug",
+        "Patterned",
+        "Timeless",
+        "Dapper",
+        "Masterful",
+        "Luminous",
+        "Shiny",
+        "Soft",
+        "Mushy",
+        "Pale",
+        "Subtle",
+        "Silky",
+        "Stylish",
+        "Tasteful",
+        "Grand",
+        "Refined",
+        "Dignified"
+      ],
+      "suffixes": [
+        "Shop",
+        "Tailor"
+      ]
+    },
+    {
+      "core_names": [
+        "Boots",
+        "Sandals",
+        "Slippers",
+        "Heel",
+        "Footwear",
+        "Shoe",
+        "Foot",
+        "Toe",
+        "Hoof"
+      ],
+      "formats": [
+        "::prefix ::core_name ::suffix",
+        "The ::prefix ::core_name ::suffix",
+        "::core_name and ::core_name2 ::suffix"
+      ],
+      "id": "19",
+      "prefixes": [
+        "Enchanted",
+        "Mystic",
+        "Spellbound",
+        "Fabled",
+        "Notable",
+        "Great",
+        "Prominent",
+        "Legendary",
+        "Fabulous",
+        "Magnificent",
+        "Good",
+        "Big",
+        "Comfy",
+        "Old"
+      ],
+      "suffixes": [
+        "Shop",
+        "Shoemaker"
+      ]
+    },
+    {
+      "core_names": [
+        "Hides",
+        "Leathers",
+        "Furs",
+        "Straps",
+        "Buckle",
+        "Saddle",
+        "Harness",
+        "Pouches",
+        "Sheath",
+        "Belts",
+        "Skin",
+        "Sash",
+        "Cape"
+      ],
+      "formats": [
+        "::prefix ::core_name ::suffix",
+        "The ::prefix ::core_name ::suffix",
+        "::core_name and ::core_name2 ::suffix"
+      ],
+      "id": "20",
+      "prefixes": [
+        "Supple",
+        "Masterful",
+        "Durable",
+        "Refined",
+        "Intricate",
+        "Sturdy",
+        "Elegant",
+        "Crafty",
+        "Ornate",
+        "Reinforced",
+        "Runic",
+        "Simple"
+      ],
+      "suffixes": [
+        "Workshop",
+        "Leathersmith",
+        "Leatherworks"
+      ]
+    },
+    {
+      "formats": [
+        "::company's Barracks"
+      ],
+      "id": "21"
+    },
+    {
+      "formats": [
+        "::family's Mine"
+      ],
+      "id": "22"
+    },
+    {
+      "formats": [
+        "::family's Smelter"
+      ],
+      "id": "26"
+    },
+    {
+      "formats": [
+        "::family's ::suffix"
+      ],
+      "id": "27",
+      "suffixes": [
+        "Farm",
+        "Fields",
+        "Farmland"
+      ]
+    },
+    {
+      "formats": [
+        "::family's ::suffix"
+      ],
+      "id": "28",
+      "suffixes": [
+        "Farm",
+        "Fields",
+        "Farmland"
+      ]
+    },
+    {
+      "formats": [
+        "::family's ::suffix"
+      ],
+      "id": "29",
+      "suffixes": [
+        "Herbs"
+      ]
+    },
+    {
+      "formats": [
+        "::suffix"
+      ],
+      "id": "30",
+      "suffixes": [
+        "Claypit"
+      ]
+    },
+    {
+      "formats": [
+        "::family's ::suffix"
+      ],
+      "id": "31",
+      "suffixes": [
+        "Ranch",
+        "Homestead",
+        "Estate",
+        "Land",
+        "Sheep Farm"
+      ]
+    },
+    {
+      "formats": [
+        "::family's ::suffix"
+      ],
+      "id": "32",
+      "suffixes": [
+        "Pottery",
+        "Ceramics"
+      ]
+    },
+    {
+      "formats": [
+        "::family's ::suffix"
+      ],
+      "id": "35",
+      "suffixes": [
+        "Lutes"
+      ]
+    },
+    {
+      "formats": [
+        "::suffix"
+      ],
+      "id": "36",
+      "suffixes": [
+        "Infirmary"
+      ]
+    },
+    {
+      "formats": [
+        "::family's ::suffix"
+      ],
+      "id": "37",
+      "suffixes": [
+        "Paper",
+        "Papermill"
+      ]
+    },
+    {
+      "formats": [
+        "::company's ::suffix"
+      ],
+      "id": "38",
+      "suffixes": [
+        "Archers",
+        "Barracks",
+        "Sharpshooters"
+      ]
+    },
+    {
+      "formats": [
+        "::company's ::suffix"
+      ],
+      "id": "39",
+      "suffixes": [
+        "Collegium Magicae"
+      ]
+    },
+    {
+      "formats": [
+        "::company's ::suffix"
+      ],
+      "id": "55",
+      "suffixes": [
+        "Druid Circle"
+      ]
+    },
+    {
+      "formats": [
+        "::company's ::suffix"
+      ],
+      "id": "67",
+      "suffixes": [
+        "Barracks"
+      ]
+    },
+    {
+      "formats": [
+        "::company's ::suffix"
+      ],
+      "id": "74",
+      "suffixes": [
+        "Guardsmen"
+      ]
+    },
+    {
+      "formats": [
+        "::company's ::suffix"
+      ],
+      "id": "75",
+      "suffixes": [
+        "Dancers"
+      ]
+    },
+    {
+      "formats": [
+        "::company's ::suffix"
+      ],
+      "id": "76",
+      "suffixes": [
+        "Grey Watchers",
+        "Watchers",
+        "Scouts"
+      ]
+    },
+    {
+      "formats": [
+        "::company's ::suffix"
+      ],
+      "id": "82",
+      "suffixes": [
+        "Guardsmen"
+      ]
+    },
+    {
+      "formats": [
+        "::company's ::suffix"
+      ],
+      "id": "83",
+      "suffixes": [
+        "Crossbowmen"
+      ]
+    },
+    {
+      "formats": [
+        "::company's ::suffix"
+      ],
+      "id": "84",
+      "suffixes": [
+        "Runebearers"
+      ]
+    },
+    {
+      "formats": [
+        "::company's ::suffix"
+      ],
+      "id": "109",
+      "suffixes": [
+        "Wardens"
+      ]
+    },
+    {
+      "formats": [
+        "::company's ::suffix"
+      ],
+      "id": "110",
+      "suffixes": [
+        "Den"
+      ]
+    },
+    {
+      "formats": [
+        "::company's ::suffix"
+      ],
+      "id": "112",
+      "suffixes": [
+        "Temple"
+      ]
+    },
+    {
+      "formats": [
+        "::company's ::suffix"
+      ],
+      "id": "130",
+      "suffixes": [
+        "Guardsmen"
+      ]
+    },
+    {
+      "formats": [
+        "::company's ::suffix"
+      ],
+      "id": "131",
+      "suffixes": [
+        "Barracks"
+      ]
+    },
+    {
+      "formats": [
+        "::company's ::suffix"
+      ],
+      "id": "132",
+      "suffixes": [
+        "Throwers"
+      ]
+    },
+    {
+      "formats": [
+        "::company's ::suffix"
+      ],
+      "id": "133",
+      "suffixes": [
+        "Pyre"
+      ]
+    },
+    {
+      "formats": [
+        "::company's ::suffix"
+      ],
+      "id": "247",
+      "suffixes": [
+        "Guardians"
+      ]
+    },
+    {
+      "formats": [
+        "::company's ::suffix"
+      ],
+      "id": "248",
+      "suffixes": [
+        "Knives"
+      ]
+    },
+    {
+      "formats": [
+        "::company's ::suffix"
+      ],
+      "id": "249",
+      "suffixes": [
+        "Legion"
+      ]
+    },
+    {
+      "formats": [
+        "::company ::suffix"
+      ],
+      "id": "257",
+      "suffixes": [
+        "Mystics"
+      ]
+    },
+    {
+      "formats": [
+        "::company ::suffix"
+      ],
+      "id": "264",
+      "suffixes": [
+        "Guardians"
+      ]
+    },
+    {
+      "formats": [
+        "::company ::suffix"
+      ],
+      "id": "265",
+      "suffixes": [
+        "Wardens"
+      ]
+    },
+    {
+      "formats": [
+        "::company ::suffix"
+      ],
+      "id": "269",
+      "suffixes": [
+        "Warriors"
+      ]
+    },
+    {
+      "formats": [
+        "::company ::suffix"
+      ],
+      "id": "296",
+      "suffixes": [
+        "Wildlings"
+      ]
+    },
+    {
+      "formats": [
+        "::company ::suffix"
+      ],
+      "id": "297",
+      "suffixes": [
+        "Totems"
+      ]
+    },
+    {
+      "formats": [
+        "::company ::suffix"
+      ],
+      "id": "298",
+      "suffixes": [
+        "Berserkers"
+      ]
+    },
+    {
+      "formats": [
+        "::company ::suffix"
+      ],
+      "id": "299",
+      "suffixes": [
+        "Hailstorms"
+      ]
+    },
+    {
+      "formats": [
+        "::company ::suffix"
+      ],
+      "id": "322",
+      "suffixes": [
+        "Teeth"
+      ]
+    },
+    {
+      "formats": [
+        "::company ::suffix"
+      ],
+      "id": "323",
+      "suffixes": [
+        "Claws"
+      ]
+    },
+    {
+      "formats": [
+        "::company ::suffix"
+      ],
+      "id": "324",
+      "suffixes": [
+        "Tails"
+      ]
+    },
+    {
+      "formats": [
+        "::company ::suffix"
+      ],
+      "id": "325",
+      "suffixes": [
+        "Fangs"
+      ]
+    },
+    {
+      "formats": [
+        "::company ::suffix"
+      ],
+      "id": "368",
+      "suffixes": [
+        "Ravagers"
+      ]
+    },
+    {
+      "formats": [
+        "::company ::suffix"
+      ],
+      "id": "367",
+      "suffixes": [
+        "Enforcers"
+      ]
+    },
+    {
+      "formats": [
+        "::company ::suffix"
+      ],
+      "id": "366",
+      "suffixes": [
+        "Defenders"
+      ]
+    },
+    {
+      "formats": [
+        "::company ::suffix"
+      ],
+      "id": "365",
+      "suffixes": [
+        "Brutes"
+      ]
+    },
+    {
+      "formats": [
+        "::company ::suffix"
+      ],
+      "id": "345",
+      "suffixes": [
+        "Meatshields"
+      ]
+    },
+    {
+      "formats": [
+        "::company ::suffix"
+      ],
+      "id": "346",
+      "suffixes": [
+        "Launchers"
+      ]
+    },
+    {
+      "formats": [
+        "::company ::suffix"
+      ],
+      "id": "347",
+      "suffixes": [
+        "Meathooks"
+      ]
+    },
+    {
+      "formats": [
+        "::company ::suffix"
+      ],
+      "id": "348",
+      "suffixes": [
+        "Madmen"
+      ]
+    },
+    {
+      "formats": [
+        "::company's ::suffix"
+      ],
+      "id": "384",
+      "suffixes": [
+        "Guardsmen"
+      ]
+    },
+    {
+      "formats": [
+        "::company's ::suffix"
+      ],
+      "id": "385",
+      "suffixes": [
+        "Maulers"
+      ]
+    },
+    {
+      "formats": [
+        "::company's ::suffix"
+      ],
+      "id": "386",
+      "suffixes": [
+        "Archers"
+      ]
+    },
+    {
+      "formats": [
+        "::company's ::suffix"
+      ],
+      "id": "387",
+      "suffixes": [
+        "Samurai"
+      ]
+    },
+    {
+      "formats": [
+        "::suffix of the ::company"
+      ],
+      "id": "388",
+      "suffixes": [
+        "Thieves"
+      ]
+    },
+    {
+      "formats": [
+        "::company's ::suffix"
+      ],
+      "id": "389",
+      "suffixes": [
+        "Collegium Magicae"
+      ]
+    },
+    {
+      "formats": [
+        "::company's ::suffix"
+      ],
+      "id": "390",
+      "suffixes": [
+        "Druid Circle"
+      ]
+    },
+    {
+      "formats": [
+        "::company's ::suffix"
+      ],
+      "id": "391",
+      "suffixes": [
+        "Berserkers"
+      ]
+    },
+    {
+      "formats": [
+        "::company's ::suffix"
+      ],
+      "id": "423",
+      "suffixes": [
+        "Stonefists"
+      ]
+    },
+    {
+      "formats": [
+        "::company's ::suffix"
+      ],
+      "id": "424",
+      "suffixes": [
+        "Bonecrushers"
+      ]
+    },
+    {
+      "formats": [
+        "::company's ::suffix"
+      ],
+      "id": "425",
+      "suffixes": [
+        "Skullbashers"
+      ]
+    },
+    {
+      "formats": [
+        "::company's ::suffix"
+      ],
+      "id": "426",
+      "suffixes": [
+        "Spiritcallers"
+      ]
+    },
+    {
+      "formats": [
+        "::company's ::suffix"
+      ],
+      "id": "469",
+      "suffixes": [
+        "Soldiers"
+      ]
+    },
+    {
+      "formats": [
+        "::company's ::suffix"
+      ],
+      "id": "470",
+      "suffixes": [
+        "Archers"
+      ]
+    },
+    {
+      "formats": [
+        "::company's ::suffix"
+      ],
+      "id": "471",
+      "suffixes": [
+        "Mages"
+      ]
+    },
+    {
+      "formats": [
+        "::company's ::suffix"
+      ],
+      "id": "472",
+      "suffixes": [
+        "Elite"
+      ]
+    },
+    {
+      "formats": [
+        "::company's ::suffix"
+      ],
+      "id": "508",
+      "suffixes": [
+        "Gravewalkers"
+      ]
+    },
+    {
+      "formats": [
+        "::company's ::suffix"
+      ],
+      "id": "509",
+      "suffixes": [
+        "Nightborns"
+      ]
+    },
+    {
+      "formats": [
+        "::company's ::suffix"
+      ],
+      "id": "510",
+      "suffixes": [
+        "Bloodsworns"
+      ]
+    },
+    {
+      "formats": [
+        "::company's ::suffix"
+      ],
+      "id": "511",
+      "suffixes": [
+        "Bloodguard"
+      ]
+    }
+  ]
+}

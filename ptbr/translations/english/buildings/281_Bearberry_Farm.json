@@ -1,0 +1,56 @@
+{
+  "id": "281",
+  "image": 128,
+  "name": "Fazenda de Uva-do-Mato",
+  "occupation_image": 85,
+  "occupation": "core_2_Ursan_Farmer",
+  "occupation_per_race": {
+    "0": "203",
+    "1": "2267",
+    "2": "2285",
+    "4": "core_2_Goblin_Farmer",
+    "6": "core_2_Vampire_Farmer",
+    "7": "core_2_Troll_Farmer",
+    "8": "core_2_Orc_Farmer",
+    "10": "2332",
+    "23": "core_2_Reptilion_Rancher",
+    "26": "2370",
+    "31": "core_2_Gnoll_Farmer",
+    "32": "core_2_Mushman_Farmer",
+    "33": "core_2_Ursan_Farmer"
+  },
+  "produces": [
+    {
+      "entities": [
+        {
+          "daily": 10,
+          "id": "core_2_Bearberry"
+        }
+      ],
+      "takes": []
+    }
+  ],
+  "race": "33",
+  "tier": 1,
+  "workers": [
+    1,
+    4
+  ],
+  "allow_player": true,
+  "required_entities": [
+    {
+      "entities": [
+        "core_2_Bearberry_Bush",
+        "core_2_Bearberry_Bush_Seedling",
+        "core_2_Picked_Bearberry_Bush"
+      ],
+      "count": 10
+    },
+    {
+      "component": "resting_place",
+      "count": 4
+    }
+  ],
+  "min_area": 40,
+  "group": "food"
+}

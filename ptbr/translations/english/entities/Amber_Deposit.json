@@ -1,0 +1,118 @@
+{
+  "armor": {
+    "acid": 50,
+    "death": 50,
+    "electricity": 50,
+    "fire": 100,
+    "frost": 30,
+    "holy": 50,
+    "parry": 0,
+    "physical": 100,
+    "poison": 100,
+    "thorns": 0
+  },
+  "background": {
+    "color": [
+      44,
+      45,
+      41
+    ],
+    "noise": 5
+  },
+  "components": [
+    "armor",
+    "background",
+    "block_light",
+    "collidable",
+    "glyph",
+    "health",
+    "minimap_pixel",
+    "name",
+    "position_2d",
+    "producer"
+  ],
+  "corpse": [],
+  "description": "Âmbares lindos esperando para serem minerados.",
+  "glyph": {
+    "frames": [
+      {
+        "color": [
+          255,
+          255,
+          255
+        ],
+        "delay": 0,
+        "index": 2134
+      },
+      {
+        "color": [
+          255,
+          255,
+          255
+        ],
+        "delay": 0,
+        "index": 2165
+      },
+      {
+        "color": [
+          255,
+          255,
+          255
+        ],
+        "delay": 0,
+        "index": 2166
+      },
+      {
+        "color": [
+          255,
+          255,
+          255
+        ],
+        "delay": 0,
+        "index": 2167
+      },
+      {
+        "color": [
+          255,
+          255,
+          255
+        ],
+        "delay": 0,
+        "index": 2168
+      },
+      {
+        "color": [
+          255,
+          255,
+          255
+        ],
+        "delay": 0,
+        "index": 2169
+      }
+    ],
+    "random_frame_start": false
+  },
+  "health": 200,
+  "id": "core_2_Amber_Deposit",
+  "minimap_pixel": [
+    140,
+    114,
+    98
+  ],
+  "name": "Depósito de Âmbar",
+  "producer": {
+    "products": {
+      "5": [
+        {
+          "amount": [
+            2,
+            4
+          ],
+          "id": "2117",
+          "percent_chance": 100
+        }
+      ]
+    },
+    "time": 30
+  }
+}

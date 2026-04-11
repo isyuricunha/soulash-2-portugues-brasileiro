@@ -1,0 +1,14 @@
+{
+  "id": "36",
+  "image": 32,
+  "max": 1,
+  "name": "Enfermaria",
+  "occupation": "2266",
+  "produces": [],
+  "race": "0",
+  "tier": 3,
+  "workers": [
+    1,
+    2
+  ]
+}

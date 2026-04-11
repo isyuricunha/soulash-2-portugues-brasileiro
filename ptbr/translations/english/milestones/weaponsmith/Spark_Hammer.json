@@ -1,0 +1,16 @@
+{
+  "id": "core_2_spark_hammer",
+  "name": "Martelo Faíscante",
+  "requirements": {
+    "milestones": [],
+    "skill": 43
+  },
+  "rewards": [
+    {
+      "recipe": "2089"
+    }
+  ],
+  "skill_id": "core_2_weaponsmith",
+  "steps": [],
+  "steps_type": 0
+}

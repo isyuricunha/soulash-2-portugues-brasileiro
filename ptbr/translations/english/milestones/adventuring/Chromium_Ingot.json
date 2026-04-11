@@ -1,0 +1,16 @@
+{
+  "id": "core_2_chromium_ingot",
+  "name": "Lingote de Cromo",
+  "requirements": {
+    "milestones": [],
+    "skill": 40
+  },
+  "rewards": [
+    {
+      "recipe": "core_2_Chromium_Ingot"
+    }
+  ],
+  "skill_id": "core_2_adventuring",
+  "steps": [],
+  "steps_type": 0
+}

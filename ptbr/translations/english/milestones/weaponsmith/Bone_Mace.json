@@ -1,0 +1,16 @@
+{
+  "id": "core_2_bone_mace",
+  "name": "Maça de Osso",
+  "requirements": {
+    "milestones": [],
+    "skill": 9
+  },
+  "rewards": [
+    {
+      "recipe": "core_2_Bone_Mace"
+    }
+  ],
+  "skill_id": "core_2_weaponsmith",
+  "steps": [],
+  "steps_type": 0
+}

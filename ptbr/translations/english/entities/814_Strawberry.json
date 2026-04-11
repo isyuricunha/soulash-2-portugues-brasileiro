@@ -1,0 +1,45 @@
+{
+  "components": [
+    "food",
+    "glyph",
+    "item",
+    "name",
+    "position_2d",
+    "stackable",
+    "value",
+    "weight",
+    "minimap_pixel"
+  ],
+  "description": "Um punhado de morangos para um lanche.",
+  "food": {
+    "nutrition": 8,
+    "poisonous": 0,
+    "raw": false
+  },
+  "glyph": {
+    "frames": [
+      {
+        "color": [
+          255,
+          255,
+          255
+        ],
+        "delay": 0,
+        "index": 395
+      }
+    ]
+  },
+  "id": "814",
+  "item": {
+    "image": 363,
+    "type": 20
+  },
+  "minimap_pixel": [
+    156,
+    73,
+    73
+  ],
+  "name": "Morango",
+  "value": 150,
+  "weight": 0.019999999552965164
+}

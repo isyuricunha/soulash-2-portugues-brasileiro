@@ -1,0 +1,65 @@
+{
+  "components": [
+    "craftable",
+    "glyph",
+    "item",
+    "minimap_pixel",
+    "name",
+    "position_2d",
+    "stackable",
+    "usable",
+    "value",
+    "weight"
+  ],
+  "craftable": {
+    "backgrounds": [],
+    "biomes": [],
+    "magic_slots": 0,
+    "resources": [
+      {
+        "amount": 1,
+        "id": "835"
+      },
+      {
+        "amount": 1,
+        "id": "2446"
+      }
+    ],
+    "time": 20,
+    "tools": [
+      15
+    ]
+  },
+  "description": "Um frasco de uma poção mágica que pode congelar qualquer um azarado o suficiente para entrar em contato com o líquido dentro.",
+  "glyph": {
+    "frames": [
+      {
+        "color": [
+          255,
+          255,
+          255
+        ],
+        "delay": 0,
+        "index": 660
+      }
+    ],
+    "random_frame_start": false
+  },
+  "id": "840",
+  "item": {
+    "image": 376,
+    "type": 17
+  },
+  "minimap_pixel": [
+    64,
+    178,
+    194
+  ],
+  "name": "Frasco Congelante",
+  "usable": {
+    "ability": "134",
+    "recipe": ""
+  },
+  "value": 2000,
+  "weight": 0.30000001192092896
+}

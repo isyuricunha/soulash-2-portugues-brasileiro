@@ -1,0 +1,16 @@
+{
+  "id": "core_2_needle",
+  "name": "Agulha",
+  "requirements": {
+    "milestones": [],
+    "skill": 1
+  },
+  "rewards": [
+    {
+      "ability": "44"
+    }
+  ],
+  "skill_id": "core_2_pole_fighting",
+  "steps": [],
+  "steps_type": 0
+}

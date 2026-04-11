@@ -1,0 +1,77 @@
+{
+  "components": [
+    "craftable",
+    "glyph",
+    "item",
+    "minimap_pixel",
+    "name",
+    "position_2d",
+    "tool",
+    "value",
+    "weapon",
+    "weight"
+  ],
+  "craftable": {
+    "magic_slots": 0,
+    "resource_types": [
+      {
+        "amount": 1,
+        "id": 1
+      }
+    ],
+    "resources": null,
+    "time": 45,
+    "tools": [
+      1
+    ]
+  },
+  "description": "Essa ferramenta é perfeita para cortar material, couro ou um dedo.",
+  "glyph": {
+    "frames": [
+      {
+        "color": [
+          255,
+          255,
+          255
+        ],
+        "delay": 0,
+        "index": 313
+      }
+    ],
+    "random_frame_start": false
+  },
+  "id": "164",
+  "item": {
+    "image": 66,
+    "type": 13
+  },
+  "minimap_pixel": [
+    218,
+    223,
+    225
+  ],
+  "name": "Tesoura",
+  "tool": [
+    {
+      "id": 11,
+      "quality": 100
+    }
+  ],
+  "value": 750,
+  "weapon": {
+    "attack_speed": 1.0,
+    "damage": [
+      {
+        "dmg_max": 2,
+        "dmg_min": 1,
+        "dmg_type": "physical"
+      }
+    ],
+    "hands": 1,
+    "hit_bonus": 0,
+    "parry_bonus": 0,
+    "range": 1,
+    "type": 8
+  },
+  "weight": 0.5
+}

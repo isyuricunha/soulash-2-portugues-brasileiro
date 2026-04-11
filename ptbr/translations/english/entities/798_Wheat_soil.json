@@ -1,0 +1,61 @@
+{
+  "background": {
+    "color": [
+      44,
+      45,
+      41
+    ],
+    "noise": 2,
+    "noise_intensity": 5
+  },
+  "components": [
+    "background",
+    "glyph",
+    "health",
+    "minimap_pixel",
+    "name",
+    "position_2d",
+    "random_resource"
+  ],
+  "corpse": [],
+  "description": "Solo bom para cultivar trigo.",
+  "glyph": {
+    "frames": [
+      {
+        "color": [
+          255,
+          255,
+          255
+        ],
+        "delay": 0,
+        "index": 251
+      }
+    ],
+    "random_frame_start": false
+  },
+  "health": 1,
+  "id": "798",
+  "minimap_pixel": [
+    65,
+    45,
+    12
+  ],
+  "name": "Solo de Trigo",
+  "random_resource": {
+    "entity": [
+      "797"
+    ],
+    "max_amount": 1,
+    "max_distance": 0,
+    "min_amount": 1,
+    "min_distance": 0,
+    "multiply_same": false,
+    "respawn_rate": 2880.0,
+    "spawn_at": [
+      "798"
+    ],
+    "spawn_chance": 100.0,
+    "spawn_multiply": 0.0,
+    "spawn_rolls": 1
+  }
+}

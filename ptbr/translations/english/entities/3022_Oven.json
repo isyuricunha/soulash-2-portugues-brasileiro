@@ -1,0 +1,86 @@
+{
+  "category_id": 6,
+  "components": [
+    "collidable",
+    "craftable",
+    "glyph",
+    "light_source",
+    "minimap_pixel",
+    "name",
+    "position_2d",
+    "producer",
+    "tool"
+  ],
+  "craftable": {
+    "magic_slots": 0,
+    "resource_types": [
+      {
+        "amount": 6,
+        "id": 6
+      }
+    ],
+    "resources": null,
+    "time": 60,
+    "tools": []
+  },
+  "description": "Ótimo para fazer todo tipo de produtos assados.",
+  "glyph": {
+    "frames": [
+      {
+        "color": [
+          255,
+          255,
+          255
+        ],
+        "delay": 200,
+        "index": 2018
+      },
+      {
+        "color": [
+          255,
+          255,
+          255
+        ],
+        "delay": 150,
+        "index": 2019
+      }
+    ],
+    "random_frame_start": true
+  },
+  "id": "3022",
+  "light_source": {
+    "finish": -1,
+    "fuel": [
+      62
+    ],
+    "lit_image": -1,
+    "range": 3
+  },
+  "minimap_pixel": [
+    74,
+    83,
+    92
+  ],
+  "name": "Forno",
+  "producer": {
+    "products": {
+      "core_2_deconstruct": [
+        {
+          "amount": [
+            0,
+            0
+          ],
+          "id": "-1",
+          "percent_chance": 0
+        }
+      ]
+    },
+    "time": 30
+  },
+  "tool": [
+    {
+      "id": 2,
+      "quality": 100
+    }
+  ]
+}

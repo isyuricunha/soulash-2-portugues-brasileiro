@@ -1,0 +1,57 @@
+{
+  "armor": {
+    "acid": -2,
+    "death": 0,
+    "electricity": 1,
+    "fire": -5,
+    "frost": 2,
+    "holy": 0,
+    "parry": 0,
+    "physical": 1,
+    "poison": 0
+  },
+  "components": [
+    "armor",
+    "block_light",
+    "collidable",
+    "glyph",
+    "health",
+    "height",
+    "minimap_pixel",
+    "name",
+    "position_2d"
+  ],
+  "corpse": [
+    {
+      "damage_type": 8,
+      "id": "62"
+    },
+    {
+      "damage_type": 1,
+      "id": "-1"
+    }
+  ],
+  "description": "Uma simples viga de madeira que pode sustentar um telhado.",
+  "glyph": {
+    "frames": [
+      {
+        "color": [
+          255,
+          255,
+          255
+        ],
+        "delay": 0,
+        "index": 191
+      }
+    ]
+  },
+  "health": 50,
+  "height": 0,
+  "id": "282",
+  "minimap_pixel": [
+    129,
+    78,
+    14
+  ],
+  "name": "Viga de Madeira"
+}

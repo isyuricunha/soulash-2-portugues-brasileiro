@@ -1,0 +1,124 @@
+{
+  "artificial_intelligence": {
+    "allies": [
+      "35"
+    ],
+    "allow_production": [],
+    "behaviors": [],
+    "enemies": []
+  },
+  "components": [
+    "actor",
+    "artificial_intelligence",
+    "collidable",
+    "consumer",
+    "dialogues",
+    "equipment",
+    "experience_gainer",
+    "fighter",
+    "glyph",
+    "health",
+    "humanoid",
+    "minimap_pixel",
+    "moveable",
+    "name",
+    "persona",
+    "position_2d",
+    "sight",
+    "stamina",
+    "statistics",
+    "tags"
+  ],
+  "corpse": "2368",
+  "description": "",
+  "dialogues": [
+    "524",
+    "525"
+  ],
+  "equipment": {
+    "right_hand": [
+      {
+        "chance": 1.0,
+        "id": "771",
+        "name": "Lança Larga",
+        "stack": 1
+      }
+    ]
+  },
+  "experience_gainer": {
+    "exp": 10,
+    "level": 2
+  },
+  "fighter": {
+    "attackNames": null
+  },
+  "glyph": {
+    "frames": [
+      {
+        "color": [
+          255,
+          255,
+          255
+        ],
+        "delay": 0,
+        "index": 84
+      }
+    ],
+    "random_frame_start": false
+  },
+  "health": 220,
+  "humanoid": {
+    "race": "26"
+  },
+  "id": "2387",
+  "minimap_pixel": [
+    211,
+    165,
+    136
+  ],
+  "moveable": {
+    "speed": 1.0
+  },
+  "name": "Espectro de Osso Guerreiro",
+  "persona": {
+    "occupation": "Guerreiro de Ossos"
+  },
+  "sight": {
+    "ignore_infra_penalty": false,
+    "infravision": false,
+    "range": 10,
+    "threesixty": false
+  },
+  "stamina": {
+    "fatigue": 100,
+    "stamina": 100,
+    "stamina_regen": 0.0
+  },
+  "statistics": {
+    "dexterity": [
+      38,
+      43
+    ],
+    "endurance": [
+      35,
+      39
+    ],
+    "intelligence": [
+      10,
+      14
+    ],
+    "strength": [
+      24,
+      27
+    ],
+    "willpower": [
+      26,
+      30
+    ]
+  },
+  "tags": [
+    "9",
+    "3",
+    "35"
+  ]
+}

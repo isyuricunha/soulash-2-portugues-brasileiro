@@ -1,0 +1,70 @@
+{
+  "components": [
+    "glyph",
+    "item",
+    "minimap_pixel",
+    "name",
+    "position_2d",
+    "resource",
+    "stackable",
+    "statistics",
+    "value",
+    "weight"
+  ],
+  "description": "Surpreendentemente fofa.",
+  "glyph": {
+    "frames": [
+      {
+        "color": [
+          255,
+          255,
+          255
+        ],
+        "delay": 0,
+        "index": 1923
+      }
+    ],
+    "random_frame_start": false
+  },
+  "id": "2919",
+  "item": {
+    "image": 749,
+    "type": 16
+  },
+  "minimap_pixel": [
+    195,
+    195,
+    195
+  ],
+  "name": "Pelagem de Rac'harr",
+  "resource": {
+    "affix": "Fluffy",
+    "magic_ingredient": 0,
+    "quality": 3,
+    "type": 9
+  },
+  "statistics": {
+    "dexterity": [
+      0,
+      0
+    ],
+    "endurance": [
+      2,
+      2
+    ],
+    "intelligence": [
+      0,
+      0
+    ],
+    "strength": [
+      0,
+      0
+    ],
+    "willpower": [
+      0,
+      0
+    ]
+  },
+  "value": 1500,
+  "weight": 0.10000000149011612
+}

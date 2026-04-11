@@ -1,0 +1,16 @@
+{
+  "id": "472",
+  "image": 359,
+  "max": 2,
+  "name": "Elite",
+  "occupation_image": 110,
+  "occupation": "core_2_Skeleton_Elite",
+  "produces": [],
+  "race": "17",
+  "tier": 3,
+  "type": "military",
+  "workers": [
+    1,
+    3
+  ]
+}

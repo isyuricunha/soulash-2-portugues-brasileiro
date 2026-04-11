@@ -1,0 +1,15 @@
+{
+  "id": "core_2_furious_attacks",
+  "name": "Ataques Furiosos",
+  "requirements": {
+    "skill": 38
+  },
+  "rewards": [
+    {
+      "amplifier": "core_2_repeat_ability"
+    }
+  ],
+  "skill_id": "core_2_axe_fighting",
+  "steps": [],
+  "steps_type": 0
+}

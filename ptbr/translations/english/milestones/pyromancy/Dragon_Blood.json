@@ -1,0 +1,16 @@
+{
+  "id": "core_2_dragon_blood",
+  "name": "Sangue de Dragão",
+  "requirements": {
+    "milestones": [],
+    "skill": 6
+  },
+  "rewards": [
+    {
+      "ability": "42"
+    }
+  ],
+  "skill_id": "core_2_pyromancy",
+  "steps": [],
+  "steps_type": 0
+}

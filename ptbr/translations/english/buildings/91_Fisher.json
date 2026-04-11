@@ -1,0 +1,24 @@
+{
+  "id": "91",
+  "image": 189,
+  "name": "Pescador",
+  "occupation_image": 2,
+  "occupation": "2328",
+  "produces": [
+    {
+      "entities": [
+        {
+          "daily": 3,
+          "id": "315"
+        }
+      ],
+      "takes": []
+    }
+  ],
+  "race": "10",
+  "tier": 2,
+  "workers": [
+    1,
+    2
+  ]
+}

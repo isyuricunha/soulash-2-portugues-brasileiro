@@ -1,0 +1,60 @@
+{
+  "armor": {
+    "acid": 0,
+    "death": 0,
+    "electricity": 0,
+    "fire": 0,
+    "frost": 0,
+    "holy": 0,
+    "parry": 0,
+    "physical": 0,
+    "poison": 1,
+    "thorns": 0
+  },
+  "components": [
+    "armor",
+    "glyph",
+    "item",
+    "minimap_pixel",
+    "name",
+    "position_2d",
+    "resource",
+    "stackable",
+    "value",
+    "weight"
+  ],
+  "description": "Pelos macios que já foram parte de um texugo.",
+  "glyph": {
+    "frames": [
+      {
+        "color": [
+          255,
+          255,
+          255
+        ],
+        "delay": 0,
+        "index": 2296
+      }
+    ],
+    "random_frame_start": false
+  },
+  "id": "core_2_Badger_Fur",
+  "item": {
+    "image": 973,
+    "type": 16
+  },
+  "minimap_pixel": [
+    182,
+    175,
+    158
+  ],
+  "name": "Pele de Texugo",
+  "resource": {
+    "affix": "Reckless",
+    "magic_ingredient": 0,
+    "quality": 1,
+    "type": 9
+  },
+  "value": 200,
+  "weight": 0.10000000149011612
+}

@@ -1,0 +1,84 @@
+{
+  "category_id": 7,
+  "components": [
+    "craftable",
+    "glyph",
+    "light_source",
+    "minimap_pixel",
+    "name",
+    "position_2d",
+    "producer"
+  ],
+  "craftable": {
+    "backgrounds": [],
+    "biomes": [],
+    "magic_slots": 0,
+    "resource_types": [
+      {
+        "amount": 2,
+        "id": 1
+      }
+    ],
+    "resources": [
+      {
+        "amount": 3,
+        "id": "core_2_Bee_Wax"
+      }
+    ],
+    "time": 30,
+    "tools": [
+      14
+    ]
+  },
+  "description": "Um suporte elegante e funcional para três velas, criando uma exibição cativante de luz ambiente.",
+  "glyph": {
+    "frames": [
+      {
+        "color": [
+          255,
+          255,
+          255
+        ],
+        "delay": 150,
+        "index": 1614
+      },
+      {
+        "color": [
+          255,
+          255,
+          255
+        ],
+        "delay": 100,
+        "index": 1615
+      }
+    ],
+    "random_frame_start": true
+  },
+  "id": "2463",
+  "light_source": {
+    "finish": -1,
+    "lit_image": 37,
+    "range": 4
+  },
+  "minimap_pixel": [
+    150,
+    150,
+    150
+  ],
+  "name": "Castiçal Triplo",
+  "producer": {
+    "products": {
+      "core_2_deconstruct": [
+        {
+          "amount": [
+            0,
+            0
+          ],
+          "id": "",
+          "percent_chance": 100
+        }
+      ]
+    },
+    "time": 5
+  }
+}

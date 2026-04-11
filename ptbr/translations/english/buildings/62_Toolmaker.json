@@ -1,0 +1,19 @@
+{
+  "enables": [
+    "core_2_weaponsmith",
+    "core_2_carpentry"
+  ],
+  "id": "62",
+  "image": 13,
+  "max": 1,
+  "name": "Ferreiro",
+  "occupation_image": 8,
+  "occupation": "2279",
+  "produces": [],
+  "race": "1",
+  "tier": 1,
+  "workers": [
+    1,
+    1
+  ]
+}

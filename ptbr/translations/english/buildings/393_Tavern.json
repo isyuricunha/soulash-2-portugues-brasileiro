@@ -1,0 +1,131 @@
+{
+  "id": "393",
+  "image": 10,
+  "max": 2,
+  "name": "Taberna",
+  "occupation_image": 5,
+  "occupation": "211",
+  "occupation_per_race": {
+    "0": "211",
+    "1": "core_2_Dwarf_Miller",
+    "2": "2271",
+    "4": "core_2_Goblin_Baker",
+    "7": "core_2_Troll_Baker",
+    "6": "core_2_Vampire_Baker",
+    "8": "core_2_Orc_Miller",
+    "10": "2331",
+    "23": "core_2_Reptilion_Baker",
+    "26": "core_2_Bone_Wraith_Miller",
+    "31": "core_2_Gnoll_Miller",
+    "32": "core_2_Mushman_Miller",
+    "33": "core_2_Ursan_Miller"
+  },
+  "produces": [
+    {
+      "entities": [
+        {
+          "daily": 1,
+          "id": "839"
+        }
+      ],
+      "takes": "craftable"
+    },
+    {
+      "entities": [
+        {
+          "daily": 4,
+          "id": "809"
+        }
+      ],
+      "takes": [
+        {
+          "amount": 4,
+          "id": "318"
+        }
+      ]
+    },
+    {
+      "entities": [
+        {
+          "daily": 4,
+          "id": "810"
+        }
+      ],
+      "takes": [
+        {
+          "amount": 4,
+          "id": "315"
+        }
+      ]
+    },
+    {
+      "entities": [
+        {
+          "daily": 1,
+          "id": "879"
+        }
+      ],
+      "takes": "craftable"
+    },
+    {
+      "entities": [
+        {
+          "daily": 1,
+          "id": "880"
+        }
+      ],
+      "takes": "craftable"
+    },
+    {
+      "entities": [
+        {
+          "daily": 1,
+          "id": "core_2_Dwarven_Beer"
+        }
+      ],
+      "takes": "craftable"
+    }
+  ],
+  "race": "-1",
+  "tier": 1,
+  "workers": [
+    1,
+    3
+  ],
+  "allow_player": true,
+  "required_entities": [
+    {
+      "entities": [
+        "3022"
+      ],
+      "count": 1
+    },
+    {
+      "entities": [
+        "16",
+        "274",
+        "2829",
+        "2402",
+        "2863",
+        "2923"
+      ],
+      "count": 3
+    },
+    {
+      "entities": [
+        "15",
+        "275",
+        "2404",
+        "2206",
+        "2924"
+      ],
+      "count": 6
+    },
+    {
+      "component": "resting_place",
+      "count": 3
+    }
+  ],
+  "min_area": 40,
+  "group": "producers"
+}

@@ -1,0 +1,38 @@
+{
+  "components": [
+    "glyph",
+    "item",
+    "minimap_pixel",
+    "name",
+    "position_2d",
+    "stackable",
+    "weight"
+  ],
+  "description": "Fácil de instalar em qualquer masmorra!",
+  "glyph": {
+    "frames": [
+      {
+        "color": [
+          255,
+          255,
+          255
+        ],
+        "delay": 0,
+        "index": 1556
+      }
+    ],
+    "random_frame_start": false
+  },
+  "id": "2949",
+  "item": {
+    "image": 385,
+    "type": 25
+  },
+  "minimap_pixel": [
+    179,
+    178,
+    176
+  ],
+  "name": "Dez Armadilhas Fáceis para Guardar Seu Covil",
+  "weight": 0.20000000298023224
+}

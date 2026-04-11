@@ -1,0 +1,49 @@
+{
+  "components": [
+    "container",
+    "glyph",
+    "item",
+    "liquid_source",
+    "minimap_pixel",
+    "name",
+    "position_2d",
+    "value",
+    "weight"
+  ],
+  "container": {
+    "capacity": 100,
+    "type": 1
+  },
+  "description": "Esta garrafa é feita de cabaça seca.",
+  "glyph": {
+    "frames": [
+      {
+        "color": [
+          255,
+          255,
+          255
+        ],
+        "delay": 0,
+        "index": 3233
+      }
+    ],
+    "random_frame_start": false
+  },
+  "id": "core_2_Calabash_Bottle",
+  "item": {
+    "image": 1492,
+    "type": 17
+  },
+  "liquid_source": {
+    "limit": 0,
+    "type": 1
+  },
+  "minimap_pixel": [
+    122,
+    93,
+    57
+  ],
+  "name": "Garrafa de Cabaça",
+  "value": 600,
+  "weight": 0.5
+}

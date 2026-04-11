@@ -1,0 +1,97 @@
+{
+  "background": {
+    "color": [
+      44,
+      45,
+      41
+    ],
+    "movement_penalty": 0.10000000149011612,
+    "noise": 1,
+    "noise_intensity": 3
+  },
+  "category_id": 1,
+  "components": [
+    "background",
+    "craftable",
+    "glyph",
+    "health",
+    "minimap_pixel",
+    "name"
+  ],
+  "corpse": [
+    {
+      "damage_type": 1,
+      "id": "599"
+    },
+    {
+      "damage_type": 2,
+      "id": "603"
+    },
+    {
+      "damage_type": 4,
+      "id": "613"
+    },
+    {
+      "damage_type": 5,
+      "id": "2"
+    }
+  ],
+  "craftable": {
+    "backgrounds": [],
+    "biomes": [],
+    "magic_slots": 0,
+    "resources": null,
+    "time": 5,
+    "tools": []
+  },
+  "description": "Eu gostaria de poder me deitar aqui por um momento.",
+  "glyph": {
+    "frames": [
+      {
+        "color": [
+          82,
+          110,
+          72
+        ],
+        "delay": 0,
+        "index": 871
+      },
+      {
+        "color": [
+          82,
+          110,
+          72
+        ],
+        "delay": 0,
+        "index": 1515
+      },
+      {
+        "color": [
+          82,
+          110,
+          72
+        ],
+        "delay": 0,
+        "index": 1516
+      },
+      {
+        "color": [
+          82,
+          110,
+          72
+        ],
+        "delay": 0,
+        "index": 1517
+      }
+    ],
+    "random_frame_start": true
+  },
+  "health": 1,
+  "id": "2",
+  "minimap_pixel": [
+    25,
+    39,
+    13
+  ],
+  "name": "Grama Média"
+}

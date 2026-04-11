@@ -1,0 +1,42 @@
+{
+  "components": [
+    "glyph",
+    "health",
+    "minimap_pixel",
+    "name",
+    "position_2d"
+  ],
+  "corpse": [],
+  "description": "Um pouco sujo e claramente amado.",
+  "glyph": {
+    "frames": [
+      {
+        "color": [
+          255,
+          255,
+          255
+        ],
+        "delay": 0,
+        "index": 1881
+      },
+      {
+        "color": [
+          255,
+          255,
+          255
+        ],
+        "delay": 0,
+        "index": 1882
+      }
+    ],
+    "random_frame_start": true
+  },
+  "health": 40,
+  "id": "2818",
+  "minimap_pixel": [
+    150,
+    110,
+    42
+  ],
+  "name": "Boneca de Pano"
+}

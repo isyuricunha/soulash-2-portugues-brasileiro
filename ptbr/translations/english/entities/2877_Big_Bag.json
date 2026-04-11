@@ -1,0 +1,60 @@
+{
+  "components": [
+    "container",
+    "craftable",
+    "glyph",
+    "item",
+    "minimap_pixel",
+    "name",
+    "position_2d",
+    "value",
+    "weight"
+  ],
+  "container": {
+    "capacity": 10,
+    "type": 2
+  },
+  "craftable": {
+    "magic_slots": 0,
+    "resource_types": [
+      {
+        "amount": 2,
+        "id": 4
+      }
+    ],
+    "resources": null,
+    "time": 30,
+    "tools": [
+      12
+    ]
+  },
+  "description": "Um grande recipiente flexível para segurar, armazenar ou carregar algo.",
+  "extra_weight": 20.0,
+  "glyph": {
+    "frames": [
+      {
+        "color": [
+          255,
+          255,
+          255
+        ],
+        "delay": 0,
+        "index": 1623
+      }
+    ],
+    "random_frame_start": true
+  },
+  "id": "2877",
+  "item": {
+    "image": 650,
+    "type": 22
+  },
+  "minimap_pixel": [
+    99,
+    68,
+    24
+  ],
+  "name": "Bolsa Grande",
+  "value": 2000,
+  "weight": 1.0
+}

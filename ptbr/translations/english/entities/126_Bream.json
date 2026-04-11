@@ -1,0 +1,56 @@
+{
+  "components": [
+    "glyph",
+    "item",
+    "minimap_pixel",
+    "name",
+    "position_2d",
+    "producer",
+    "stackable",
+    "value",
+    "weight"
+  ],
+  "description": "Peixe prateado com cabeça pequena.",
+  "glyph": {
+    "frames": [
+      {
+        "color": [
+          255,
+          255,
+          255
+        ],
+        "delay": 0,
+        "index": 268
+      }
+    ],
+    "random_frame_start": false
+  },
+  "id": "126",
+  "item": {
+    "image": 46,
+    "type": 19
+  },
+  "minimap_pixel": [
+    100,
+    74,
+    68
+  ],
+  "name": "Carpa",
+  "producer": {
+    "products": {
+      "3": [
+        {
+          "amount": [
+            3,
+            3
+          ],
+          "id": "315",
+          "percent_chance": 100
+        }
+      ]
+    },
+    "time": 10
+  },
+  "value": 300,
+  "weight": 1.0
+}

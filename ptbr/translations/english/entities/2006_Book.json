@@ -1,0 +1,62 @@
+{
+  "components": [
+    "craftable",
+    "glyph",
+    "item",
+    "minimap_pixel",
+    "name",
+    "position_2d",
+    "stackable",
+    "value",
+    "weight"
+  ],
+  "craftable": {
+    "backgrounds": [],
+    "biomes": [],
+    "magic_slots": 0,
+    "resource_types": [
+      {
+        "amount": 1,
+        "id": 2
+      }
+    ],
+    "resources": [
+      {
+        "amount": 1,
+        "id": "791"
+      }
+    ],
+    "time": 30,
+    "tools": [
+      14
+    ]
+  },
+  "description": "Livros podem conter conhecimento de gerações passadas. Você pode usá-lo para escrever conhecimentos que adquiriu.",
+  "glyph": {
+    "frames": [
+      {
+        "color": [
+          255,
+          255,
+          255
+        ],
+        "delay": 0,
+        "index": 1556
+      }
+    ],
+    "random_frame_start": false
+  },
+  "id": "2006",
+  "item": {
+    "image": 385,
+    "type": 17
+  },
+  "minimap_pixel": [
+    179,
+    178,
+    176
+  ],
+  "name": "Livro",
+  "value": 4000,
+  "weight": 0.20000000298023224
+}

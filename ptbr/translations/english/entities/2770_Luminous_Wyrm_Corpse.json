@@ -1,0 +1,76 @@
+{
+  "components": [
+    "glyph",
+    "item",
+    "liquid_source",
+    "minimap_pixel",
+    "name",
+    "position_2d",
+    "producer",
+    "weight"
+  ],
+  "description": "Um corpo sem vida de uma víbora luminosa.",
+  "glyph": {
+    "frames": [
+      {
+        "color": [
+          255,
+          255,
+          255
+        ],
+        "delay": 0,
+        "index": 1826
+      }
+    ],
+    "random_frame_start": false
+  },
+  "id": "2770",
+  "item": {
+    "image": 720,
+    "type": 18
+  },
+  "liquid_source": {
+    "limit": 70,
+    "type": 4
+  },
+  "minimap_pixel": [
+    187,
+    197,
+    94
+  ],
+  "name": "Cadáver de Víbora Luminosa",
+  "producer": {
+    "products": {
+      "3": [
+        {
+          "amount": [
+            2,
+            7
+          ],
+          "id": "318",
+          "percent_chance": 100
+        },
+        {
+          "amount": [
+            1,
+            1
+          ],
+          "id": "2917",
+          "percent_chance": 100
+        }
+      ],
+      "core_2_carve": [
+        {
+          "amount": [
+            1,
+            1
+          ],
+          "id": "core_2_Lumynous_Wyrm_Shine",
+          "percent_chance": 50
+        }
+      ]
+    },
+    "time": 20
+  },
+  "weight": 120.0
+}

@@ -1,0 +1,159 @@
+{
+  "artificial_intelligence": {
+    "allies": [],
+    "allow_production": [],
+    "behaviors": [
+      5
+    ],
+    "enemies": []
+  },
+  "components": [
+    "actor",
+    "artificial_intelligence",
+    "collidable",
+    "consumer",
+    "dialogues",
+    "equipment",
+    "experience_gainer",
+    "fighter",
+    "glyph",
+    "health",
+    "humanoid",
+    "minimap_pixel",
+    "moveable",
+    "name",
+    "persona",
+    "position_2d",
+    "sight",
+    "skills",
+    "stamina",
+    "statistics",
+    "tags"
+  ],
+  "corpse": "1061",
+  "description": "",
+  "dialogues": [
+    "1027",
+    "1006",
+    "1007"
+  ],
+  "equipment": {
+    "legs_cloth": [
+      {
+        "chance": 1.0,
+        "id": "298",
+        "name": "Calças",
+        "stack": 1
+      }
+    ],
+    "right_hand": [
+      {
+        "chance": 1.0,
+        "id": "core_2_Bastard_Sword",
+        "name": "Espada Bastarda",
+        "stack": 1
+      }
+    ],
+    "torso_armor": [
+      {
+        "chance": 1.0,
+        "id": "398",
+        "name": "Armadura Nobre",
+        "stack": 1
+      }
+    ]
+  },
+  "experience_gainer": {
+    "exp": 10,
+    "level": 2
+  },
+  "fighter": {
+    "attackNames": null
+  },
+  "glyph": {
+    "frames": [
+      {
+        "color": [
+          255,
+          255,
+          255
+        ],
+        "delay": 0,
+        "index": 208
+      }
+    ],
+    "random_frame_start": false
+  },
+  "health": 500,
+  "humanoid": {
+    "race": "6"
+  },
+  "id": "core_2_Vampire_Bloodguard",
+  "minimap_pixel": [
+    176,
+    196,
+    222
+  ],
+  "moveable": {
+    "speed": 1.0
+  },
+  "name": "Vampiro Guarda de Sangue",
+  "persona": {
+    "occupation": "Guarda de Sangue"
+  },
+  "sight": {
+    "ignore_infra_penalty": false,
+    "infravision": false,
+    "range": 10,
+    "threesixty": false
+  },
+  "skills": {
+    "milestones": [
+      "core_2_climbing",
+      "core_2_drag_drop",
+      "core_2_fast",
+      "core_2_i_can_do_this_all_day",
+      "core_2_bloodlust",
+      "core_2_bleed_it_out",
+      "core_2_blood_is_life",
+      "core_2_bleed_for_me",
+      "core_2_bathe_in_blood"
+    ],
+    "skills": [
+      "core_2_athletics",
+      "core_2_sword_fighting"
+    ]
+  },
+  "stamina": {
+    "fatigue": 100,
+    "stamina": 100,
+    "stamina_regen": 0.0
+  },
+  "statistics": {
+    "dexterity": [
+      60,
+      65
+    ],
+    "endurance": [
+      60,
+      65
+    ],
+    "intelligence": [
+      59,
+      62
+    ],
+    "strength": [
+      60,
+      65
+    ],
+    "willpower": [
+      40,
+      43
+    ]
+  },
+  "tags": [
+    "23",
+    "4",
+    "38"
+  ]
+}

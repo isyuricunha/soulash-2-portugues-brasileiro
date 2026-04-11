@@ -1,0 +1,128 @@
+{
+  "components": [
+    "craftable",
+    "glyph",
+    "item",
+    "light_source",
+    "minimap_pixel",
+    "name",
+    "position_2d",
+    "value",
+    "weapon",
+    "weight"
+  ],
+  "craftable": {
+    "magic_slots": 0,
+    "resources": [
+      {
+        "amount": 1,
+        "id": "2008"
+      }
+    ],
+    "time": 5,
+    "tools": []
+  },
+  "description": "Tocha em um bastão alto. Quando acesa, fornece alguma luz nas proximidades. Equipe-a para acendê-la.",
+  "glyph": {
+    "frames": [
+      {
+        "color": [
+          255,
+          255,
+          255
+        ],
+        "delay": 100,
+        "index": 1368
+      },
+      {
+        "color": [
+          255,
+          255,
+          255
+        ],
+        "delay": 100,
+        "index": 1369
+      },
+      {
+        "color": [
+          255,
+          255,
+          255
+        ],
+        "delay": 100,
+        "index": 1370
+      },
+      {
+        "color": [
+          255,
+          255,
+          255
+        ],
+        "delay": 100,
+        "index": 1371
+      },
+      {
+        "color": [
+          255,
+          255,
+          255
+        ],
+        "delay": 100,
+        "index": 1372
+      },
+      {
+        "color": [
+          255,
+          255,
+          255
+        ],
+        "delay": 100,
+        "index": 1373
+      },
+      {
+        "color": [
+          255,
+          255,
+          255
+        ],
+        "delay": 100,
+        "index": 1374
+      }
+    ],
+    "random_frame_start": true
+  },
+  "id": "56",
+  "item": {
+    "image": 6,
+    "type": 13
+  },
+  "light_source": {
+    "finish": -1,
+    "fuel": [],
+    "lit_image": 7,
+    "range": 6
+  },
+  "minimap_pixel": [
+    226,
+    120,
+    34
+  ],
+  "name": "Tocha",
+  "value": 150,
+  "weapon": {
+    "attack_speed": 0.800000011920929,
+    "damage": [
+      {
+        "dmg_max": 1,
+        "dmg_min": 0,
+        "dmg_type": "fire"
+      }
+    ],
+    "hands": 1,
+    "hit_bonus": 0,
+    "parry_bonus": 0,
+    "range": 1,
+    "type": 8
+  },
+  "weight": 0.5
+}

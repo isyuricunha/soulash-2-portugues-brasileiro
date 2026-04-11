@@ -1,0 +1,25 @@
+{
+  "animation": "171",
+  "cast_time": 0.5,
+  "cooldown": 10.0,
+  "cost": {
+    "health": 0,
+    "item_type": 0,
+    "stamina": 2
+  },
+  "description": "As armas que você segura são revestidas com veneno, aumentando o dano ::damage_type em ::damage_bonus por ::duration turnos.",
+  "duration": 10.0,
+  "effects": {
+    "damage_bonus": 5,
+    "damage_type": "poison"
+  },
+  "id": "132",
+  "image": 534,
+  "name": "Armas Envenenadas",
+  "range": 0,
+  "skill": "core_2_thievery",
+  "slots": {
+    "utility": 3
+  },
+  "target": "self"
+}

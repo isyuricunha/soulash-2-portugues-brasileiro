@@ -1,0 +1,17 @@
+{
+  "enables": [
+    "core_2_imbuing"
+  ],
+  "id": "412",
+  "image": 276,
+  "max": 2,
+  "name": "Xamã",
+  "occupation": "core_2_Troll_Shaman",
+  "produces": [],
+  "race": "7",
+  "tier": 3,
+  "workers": [
+    1,
+    2
+  ]
+}

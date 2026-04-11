@@ -1,0 +1,33 @@
+{
+  "components": [
+    "glyph",
+    "health",
+    "minimap_pixel",
+    "name",
+    "position_2d"
+  ],
+  "corpse": [],
+  "description": "Uma boneca com um sorriso de porcelana, vestida com um vestido de renda.",
+  "glyph": {
+    "frames": [
+      {
+        "color": [
+          255,
+          255,
+          255
+        ],
+        "delay": 0,
+        "index": 2865
+      }
+    ],
+    "random_frame_start": true
+  },
+  "health": 40,
+  "id": "core_2_Porcelain_Doll",
+  "minimap_pixel": [
+    150,
+    110,
+    42
+  ],
+  "name": "Boneca de Porcelana"
+}

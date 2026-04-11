@@ -1,0 +1,16 @@
+{
+  "id": "core_2_bone_chimes",
+  "name": "Chocalhos de Osso",
+  "requirements": {
+    "milestones": [],
+    "skill": 14
+  },
+  "rewards": [
+    {
+      "recipe": "core_2_Bone_Chimes"
+    }
+  ],
+  "skill_id": "core_2_imbuing",
+  "steps": [],
+  "steps_type": 0
+}

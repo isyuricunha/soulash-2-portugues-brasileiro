@@ -1,0 +1,16 @@
+{
+  "id": "core_2_jester_hat",
+  "name": "Chapéu de Bufão",
+  "requirements": {
+    "milestones": [],
+    "skill": 33
+  },
+  "rewards": [
+    {
+      "recipe": "179"
+    }
+  ],
+  "skill_id": "core_2_tailoring",
+  "steps": [],
+  "steps_type": 0
+}

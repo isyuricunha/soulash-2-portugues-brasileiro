@@ -1,0 +1,26 @@
+{
+  "animation": "170",
+  "cast_time": 0.6000000238418579,
+  "cooldown": 6.0,
+  "cost": {
+    "health": 0,
+    "item_type": 0,
+    "stamina": 3
+  },
+  "description": "Um ataque à distância que causa ::damage de dano ::damage_type ao alvo e o imobiliza por ::duration turnos. O efeito de imobilização tem sucesso na verificação de força de vontade do conjurador vs força do defensor.",
+  "duration": 4.0,
+  "effects": {
+    "damage": [
+      10,
+      15
+    ],
+    "damage_type": "physical",
+    "damage_weapon": 1.0,
+    "immobilize": 1
+  },
+  "id": "129",
+  "image": 93,
+  "name": "Arremesso de Rede",
+  "range": 6,
+  "target": "line"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "core_2_straw_hat",
+  "name": "Chapéu de Palha",
+  "requirements": {
+    "milestones": [],
+    "skill": 4
+  },
+  "rewards": [
+    {
+      "recipe": "804"
+    }
+  ],
+  "skill_id": "core_2_agriculture",
+  "steps": [],
+  "steps_type": 0
+}

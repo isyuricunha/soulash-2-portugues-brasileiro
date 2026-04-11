@@ -1,0 +1,149 @@
+{
+  "animation_origin_self": false,
+  "camera_shake": {
+    "bounces": 0,
+    "duration": 0.0,
+    "power": 0.0,
+    "type": 1
+  },
+  "chain_particles": true,
+  "id": "core_2_Dust_bomb",
+  "ignore_roof": false,
+  "name": "Bomba de Pó",
+  "particles": [
+    {
+      "color": [
+        [
+          255,
+          255,
+          255,
+          255
+        ]
+      ],
+      "flags": 2048,
+      "life": 100.0,
+      "tile_id": 1302
+    },
+    {
+      "color": [
+        [
+          255,
+          255,
+          255,
+          255
+        ]
+      ],
+      "flags": 0,
+      "life": 100.0,
+      "tile_id": 1303
+    },
+    {
+      "color": [
+        [
+          255,
+          255,
+          255,
+          255
+        ]
+      ],
+      "flags": 0,
+      "life": 100.0,
+      "tile_id": 1304
+    },
+    {
+      "color": [
+        [
+          255,
+          255,
+          255,
+          255
+        ]
+      ],
+      "flags": 0,
+      "life": 100.0,
+      "tile_id": 1305
+    },
+    {
+      "color": [
+        [
+          255,
+          255,
+          255,
+          255
+        ]
+      ],
+      "flags": 0,
+      "life": 100.0,
+      "tile_id": 1306
+    },
+    {
+      "color": [
+        [
+          255,
+          255,
+          255,
+          255
+        ]
+      ],
+      "flags": 0,
+      "life": 100.0,
+      "tile_id": 1307
+    },
+    {
+      "color": [
+        [
+          255,
+          255,
+          255,
+          255
+        ]
+      ],
+      "flags": 0,
+      "life": 100.0,
+      "tile_id": 1308
+    },
+    {
+      "color": [
+        [
+          255,
+          255,
+          255,
+          255
+        ]
+      ],
+      "flags": 0,
+      "life": 100.0,
+      "tile_id": 1309
+    },
+    {
+      "color": [
+        [
+          255,
+          255,
+          255,
+          255
+        ]
+      ],
+      "flags": 0,
+      "life": 100.0,
+      "tile_id": 1310
+    },
+    {
+      "color": [
+        [
+          255,
+          255,
+          255,
+          255
+        ]
+      ],
+      "flags": 8,
+      "life": 100.0,
+      "tile_id": 1311
+    }
+  ],
+  "sound": {
+    "id": "",
+    "volume": 100
+  }
+}

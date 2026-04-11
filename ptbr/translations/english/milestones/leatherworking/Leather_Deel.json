@@ -1,0 +1,15 @@
+{
+  "id": "core_2_leather_deel",
+  "name": "Deel de Couro",
+  "requirements": {
+    "skill": 26
+  },
+  "rewards": [
+    {
+      "recipe": "2313"
+    }
+  ],
+  "skill_id": "core_2_leatherworking",
+  "steps": [],
+  "steps_type": 0
+}

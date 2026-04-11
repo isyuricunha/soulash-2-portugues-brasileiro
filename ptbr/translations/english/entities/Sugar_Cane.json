@@ -1,0 +1,64 @@
+{
+  "components": [
+    "glyph",
+    "item",
+    "minimap_pixel",
+    "name",
+    "position_2d",
+    "producer",
+    "stackable",
+    "value",
+    "weight"
+  ],
+  "description": "Um talo de grama alta usado para produzir açúcar.",
+  "glyph": {
+    "frames": [
+      {
+        "color": [
+          168,
+          140,
+          116
+        ],
+        "delay": 0,
+        "index": 2577
+      }
+    ],
+    "random_frame_start": false
+  },
+  "id": "core_2_Sugar_Cane",
+  "item": {
+    "image": 1142,
+    "type": 17
+  },
+  "minimap_pixel": [
+    156,
+    73,
+    73
+  ],
+  "name": "Cana-de-Açúcar",
+  "producer": {
+    "products": {
+      "7": [
+        {
+          "amount": [
+            1,
+            2
+          ],
+          "id": "core_2_Sugar",
+          "percent_chance": 100
+        },
+        {
+          "amount": [
+            1,
+            2
+          ],
+          "id": "core_2_Bagasse",
+          "percent_chance": 100
+        }
+      ]
+    },
+    "time": 10
+  },
+  "value": 200,
+  "weight": 0.20000000298023224
+}

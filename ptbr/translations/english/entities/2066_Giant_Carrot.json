@@ -1,0 +1,54 @@
+{
+  "components": [
+    "glyph",
+    "minimap_pixel",
+    "name",
+    "position_2d",
+    "producer"
+  ],
+  "description": "Esta cenoura poderia provavelmente alimentar um exército de coelhos.",
+  "glyph": {
+    "frames": [
+      {
+        "color": [
+          255,
+          255,
+          255
+        ],
+        "delay": 0,
+        "index": 1497
+      }
+    ],
+    "random_frame_start": false
+  },
+  "id": "2066",
+  "minimap_pixel": [
+    237,
+    145,
+    33
+  ],
+  "name": "Cenoura Gigante",
+  "producer": {
+    "products": {
+      "6": [
+        {
+          "amount": [
+            3,
+            8
+          ],
+          "id": "793",
+          "percent_chance": 100
+        },
+        {
+          "amount": [
+            10,
+            20
+          ],
+          "id": "3052",
+          "percent_chance": 10
+        }
+      ]
+    },
+    "time": 30
+  }
+}

@@ -1,0 +1,194 @@
+{
+  "armor": {
+    "acid": 0,
+    "death": 0,
+    "electricity": 0,
+    "fire": 20,
+    "frost": -5,
+    "holy": 0,
+    "parry": 0,
+    "physical": 1,
+    "poison": 0,
+    "thorns": 0
+  },
+  "category_id": 6,
+  "components": [
+    "armor",
+    "craftable",
+    "glyph",
+    "health",
+    "height",
+    "light_source",
+    "minimap_pixel",
+    "name",
+    "position_2d",
+    "producer",
+    "tool"
+  ],
+  "corpse": [],
+  "craftable": {
+    "magic_slots": 0,
+    "resources": [
+      {
+        "amount": 4,
+        "id": "2008"
+      }
+    ],
+    "time": 3,
+    "tools": [
+      20
+    ]
+  },
+  "description": "Pilha de lenha preparada rapidamente, envolta em chamas, fornece uma fonte de luz em suas proximidades.",
+  "glyph": {
+    "frames": [
+      {
+        "color": [
+          255,
+          255,
+          255
+        ],
+        "delay": 100,
+        "index": 1260
+      },
+      {
+        "color": [
+          255,
+          255,
+          255
+        ],
+        "delay": 100,
+        "index": 1261
+      },
+      {
+        "color": [
+          255,
+          255,
+          255
+        ],
+        "delay": 100,
+        "index": 1262
+      },
+      {
+        "color": [
+          255,
+          255,
+          255
+        ],
+        "delay": 100,
+        "index": 1263
+      },
+      {
+        "color": [
+          255,
+          255,
+          255
+        ],
+        "delay": 100,
+        "index": 1264
+      },
+      {
+        "color": [
+          255,
+          255,
+          255
+        ],
+        "delay": 100,
+        "index": 1265
+      },
+      {
+        "color": [
+          255,
+          255,
+          255
+        ],
+        "delay": 100,
+        "index": 1266
+      },
+      {
+        "color": [
+          255,
+          255,
+          255
+        ],
+        "delay": 100,
+        "index": 1267
+      },
+      {
+        "color": [
+          255,
+          255,
+          255
+        ],
+        "delay": 100,
+        "index": 1268
+      },
+      {
+        "color": [
+          255,
+          255,
+          255
+        ],
+        "delay": 100,
+        "index": 1269
+      },
+      {
+        "color": [
+          255,
+          255,
+          255
+        ],
+        "delay": 100,
+        "index": 1270
+      },
+      {
+        "color": [
+          255,
+          255,
+          255
+        ],
+        "delay": 100,
+        "index": 1271
+      }
+    ],
+    "random_frame_start": true
+  },
+  "health": 30,
+  "height": 0,
+  "id": "424",
+  "light_source": {
+    "finish": -1,
+    "fuel": [
+      62
+    ],
+    "lit_image": -1,
+    "range": 4
+  },
+  "minimap_pixel": [
+    70,
+    43,
+    10
+  ],
+  "name": "Fogueira",
+  "producer": {
+    "products": {
+      "core_2_deconstruct": [
+        {
+          "amount": [
+            0,
+            0
+          ],
+          "id": "-1",
+          "percent_chance": 100
+        }
+      ]
+    },
+    "time": 10
+  },
+  "tool": [
+    {
+      "id": 2,
+      "quality": 75
+    }
+  ]
+}

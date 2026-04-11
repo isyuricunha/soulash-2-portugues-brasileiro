@@ -1,0 +1,146 @@
+{
+  "armor": {
+    "acid": 0,
+    "death": 50,
+    "electricity": 0,
+    "fire": -5,
+    "frost": 0,
+    "holy": -20,
+    "parry": 0,
+    "physical": 2,
+    "poison": 5,
+    "thorns": 0
+  },
+  "artificial_intelligence": {
+    "allies": [
+      "4"
+    ],
+    "allow_production": [],
+    "behaviors": [],
+    "enemies": [
+      "5"
+    ]
+  },
+  "components": [
+    "actor",
+    "armor",
+    "artificial_intelligence",
+    "collidable",
+    "equipment",
+    "experience_gainer",
+    "fighter",
+    "glyph",
+    "health",
+    "humanoid",
+    "minimap_pixel",
+    "moveable",
+    "name",
+    "position_2d",
+    "sight",
+    "stamina",
+    "statistics",
+    "tags"
+  ],
+  "corpse": "55",
+  "description": "Restos humanos reanimados devem ser de alguma forma infundidos com magia negra que permite que se movam.",
+  "equipment": {
+    "head_armor": [
+      {
+        "chance": 1.0,
+        "id": "328",
+        "name": "Capacete Enferrujado",
+        "stack": 1
+      }
+    ],
+    "left_hand": [
+      {
+        "chance": 0.75,
+        "id": "2182",
+        "name": "Broquel",
+        "stack": 1
+      }
+    ],
+    "right_hand": [
+      {
+        "chance": 1.0,
+        "id": "77",
+        "name": "Espada Curta",
+        "stack": 1
+      }
+    ]
+  },
+  "experience_gainer": {
+    "exp": 0,
+    "level": 10
+  },
+  "fighter": {
+    "attackNames": [
+      "Bone"
+    ]
+  },
+  "glyph": {
+    "frames": [
+      {
+        "color": [
+          208,
+          204,
+          187
+        ],
+        "delay": 0,
+        "index": 131
+      }
+    ],
+    "random_frame_start": false
+  },
+  "health": 70,
+  "humanoid": {
+    "race": ""
+  },
+  "id": "246",
+  "minimap_pixel": [
+    208,
+    204,
+    186
+  ],
+  "moveable": {
+    "speed": 1.2999999523162842
+  },
+  "name": "Esqueleto",
+  "sight": {
+    "ignore_infra_penalty": false,
+    "infravision": true,
+    "range": 8,
+    "threesixty": false
+  },
+  "stamina": {
+    "fatigue": 100,
+    "stamina": 100,
+    "stamina_regen": 0.0
+  },
+  "statistics": {
+    "dexterity": [
+      10,
+      13
+    ],
+    "endurance": [
+      10,
+      15
+    ],
+    "intelligence": [
+      7,
+      10
+    ],
+    "strength": [
+      13,
+      18
+    ],
+    "willpower": [
+      6,
+      10
+    ]
+  },
+  "tags": [
+    "4",
+    "20"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "id": "core_2_undeath",
+  "name": "Não-Morte",
+  "requirements": {
+    "milestones": [],
+    "skill": 46
+  },
+  "rewards": [
+    {
+      "amplifier": "core_2_undeath"
+    }
+  ],
+  "skill_id": "core_2_necromancy",
+  "steps": [],
+  "steps_type": 0
+}

@@ -1,0 +1,16 @@
+{
+  "id": "core_2_gooseberry_seedling",
+  "name": "Muda de Groselha",
+  "requirements": {
+    "milestones": [],
+    "skill": 5
+  },
+  "rewards": [
+    {
+      "recipe": "core_2_Gooseberry_Seedling"
+    }
+  ],
+  "skill_id": "core_2_agriculture",
+  "steps": [],
+  "steps_type": 0
+}

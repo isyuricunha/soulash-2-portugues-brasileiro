@@ -1,0 +1,63 @@
+{
+  "components": [
+    "glyph",
+    "item",
+    "name",
+    "position_2d",
+    "producer",
+    "stackable",
+    "value",
+    "weight",
+    "minimap_pixel"
+  ],
+  "description": "Uma grama comumente cultivada com sementes comestíveis e um ingrediente básico do pão.",
+  "glyph": {
+    "frames": [
+      {
+        "color": [
+          255,
+          255,
+          255
+        ],
+        "delay": 0,
+        "index": 104
+      }
+    ]
+  },
+  "id": "796",
+  "item": {
+    "image": 198,
+    "type": 20
+  },
+  "minimap_pixel": [
+    225,
+    182,
+    121
+  ],
+  "name": "Trigo",
+  "producer": {
+    "products": {
+      "7": [
+        {
+          "amount": [
+            1,
+            1
+          ],
+          "id": "802",
+          "percent_chance": 100
+        },
+        {
+          "amount": [
+            3,
+            8
+          ],
+          "id": "800",
+          "percent_chance": 100
+        }
+      ]
+    },
+    "time": 10
+  },
+  "value": 10,
+  "weight": 0.5
+}

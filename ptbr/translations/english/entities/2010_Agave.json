@@ -1,0 +1,46 @@
+{
+  "components": [
+    "food",
+    "glyph",
+    "item",
+    "minimap_pixel",
+    "name",
+    "position_2d",
+    "stackable",
+    "value",
+    "weight"
+  ],
+  "description": "Agave pode fornecer uma quantidade decente de nutrição no deserto.",
+  "food": {
+    "nutrition": 25,
+    "on_eat": "",
+    "raw": false
+  },
+  "glyph": {
+    "frames": [
+      {
+        "color": [
+          255,
+          255,
+          255
+        ],
+        "delay": 0,
+        "index": 1474
+      }
+    ],
+    "random_frame_start": false
+  },
+  "id": "2010",
+  "item": {
+    "image": 447,
+    "type": 20
+  },
+  "minimap_pixel": [
+    206,
+    130,
+    50
+  ],
+  "name": "Agave",
+  "value": 700,
+  "weight": 0.10000000149011612
+}

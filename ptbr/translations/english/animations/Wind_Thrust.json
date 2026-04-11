@@ -1,0 +1,86 @@
+{
+  "animation_origin_self": false,
+  "camera_shake": {
+    "bounces": 2,
+    "duration": 0.20000000298023224,
+    "power": 4,
+    "type": 0
+  },
+  "chain_particles": true,
+  "id": "core_2_Wind_Thrust",
+  "ignore_roof": false,
+  "name": "Empurrão de Vento",
+  "particles": [
+    {
+      "color": [
+        [
+          255,
+          255,
+          255,
+          255
+        ]
+      ],
+      "flags": 0,
+      "life": 50.0,
+      "tile_id": 67
+    },
+    {
+      "color": [
+        [
+          255,
+          255,
+          255,
+          255
+        ]
+      ],
+      "flags": 0,
+      "life": 50.0,
+      "tile_id": 68
+    },
+    {
+      "color": [
+        [
+          255,
+          255,
+          255,
+          255
+        ]
+      ],
+      "flags": 0,
+      "life": 50.0,
+      "tile_id": 69
+    },
+    {
+      "color": [
+        [
+          255,
+          255,
+          255,
+          255
+        ]
+      ],
+      "flags": 0,
+      "life": 50.0,
+      "tile_id": 70
+    },
+    {
+      "color": [
+        [
+          255,
+          255,
+          255,
+          255
+        ]
+      ],
+      "flags": 128,
+      "life": 50.0,
+      "on_impact": "core_2_Wind_Thrust_Impact",
+      "tile_id": 71,
+      "velocity": 40.0
+    }
+  ],
+  "sound": {
+    "id": "143",
+    "volume": 100
+  }
+}

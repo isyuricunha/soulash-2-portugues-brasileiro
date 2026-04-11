@@ -1,0 +1,47 @@
+{
+  "components": [
+    "glyph",
+    "item",
+    "minimap_pixel",
+    "name",
+    "position_2d",
+    "resource",
+    "stackable",
+    "value",
+    "weight"
+  ],
+  "description": "O filactério do liche, um vaso de feitiçaria sombria, abriga a essência de seu mestre imortal.",
+  "glyph": {
+    "frames": [
+      {
+        "color": [
+          255,
+          255,
+          255
+        ],
+        "delay": 0,
+        "index": 1727
+      }
+    ],
+    "random_frame_start": false
+  },
+  "id": "2514",
+  "item": {
+    "image": 665,
+    "type": 16
+  },
+  "minimap_pixel": [
+    100,
+    109,
+    155
+  ],
+  "name": "Filactério do Liche",
+  "resource": {
+    "affix": "of Dead Mage",
+    "magic_ingredient": 3,
+    "quality": 3,
+    "type": 7
+  },
+  "value": 5000,
+  "weight": 0.10000000149011612
+}

@@ -1,0 +1,132 @@
+{
+  "ability_user": [
+    "37"
+  ],
+  "artificial_intelligence": {
+    "allies": [],
+    "allow_production": [],
+    "behaviors": [],
+    "enemies": [
+      "5"
+    ]
+  },
+  "components": [
+    "ability_user",
+    "actor",
+    "artificial_intelligence",
+    "collidable",
+    "dialogues",
+    "equipment",
+    "experience_gainer",
+    "fighter",
+    "glyph",
+    "health",
+    "minimap_pixel",
+    "moveable",
+    "name",
+    "position_2d",
+    "sight",
+    "stamina",
+    "statistics",
+    "tags"
+  ],
+  "corpse": "636",
+  "description": "Sapo gigante e viscoso atinge 2 metros de altura.",
+  "dialogues": [
+    "200",
+    "201",
+    "901"
+  ],
+  "equipment": {
+    "disabled_slots": [
+      0,
+      2,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17
+    ]
+  },
+  "experience_gainer": {
+    "exp": 0,
+    "level": 10
+  },
+  "fighter": {
+    "attackNames": [
+      "Bite",
+      "Tongue whip"
+    ]
+  },
+  "glyph": {
+    "frames": [
+      {
+        "color": [
+          255,
+          255,
+          255
+        ],
+        "delay": 2000,
+        "index": 36
+      }
+    ],
+    "random_frame_start": true
+  },
+  "health": 80,
+  "id": "635",
+  "minimap_pixel": [
+    187,
+    197,
+    94
+  ],
+  "moveable": {
+    "speed": 0.8999999761581421
+  },
+  "name": "Sapo Gigante",
+  "sight": {
+    "ignore_infra_penalty": false,
+    "infravision": false,
+    "range": 7,
+    "threesixty": false
+  },
+  "stamina": {
+    "fatigue": 100,
+    "stamina": 100,
+    "stamina_regen": 0.0
+  },
+  "statistics": {
+    "dexterity": [
+      10,
+      14
+    ],
+    "endurance": [
+      10,
+      14
+    ],
+    "intelligence": [
+      8,
+      10
+    ],
+    "strength": [
+      16,
+      20
+    ],
+    "willpower": [
+      8,
+      10
+    ]
+  },
+  "tags": [
+    "2",
+    "9"
+  ]
+}

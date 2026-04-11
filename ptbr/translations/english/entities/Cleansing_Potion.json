@@ -1,0 +1,73 @@
+{
+  "components": [
+    "craftable",
+    "glyph",
+    "item",
+    "minimap_pixel",
+    "name",
+    "position_2d",
+    "stackable",
+    "usable",
+    "value",
+    "weight"
+  ],
+  "craftable": {
+    "backgrounds": [],
+    "biomes": [],
+    "magic_slots": 0,
+    "resources": [
+      {
+        "amount": 1,
+        "id": "core_2_Ribwort"
+      },
+      {
+        "amount": 1,
+        "id": "835"
+      },
+      {
+        "amount": 1,
+        "id": "core_2_Elephants_Spleen"
+      },
+      {
+        "amount": 1,
+        "id": "core_2_Wormwood_Leaves"
+      }
+    ],
+    "time": 20,
+    "tools": [
+      15
+    ]
+  },
+  "description": "Esta poção irá limpar seu corpo dos efeitos de sangramento, queimadura, silêncio, medo e congelamento.",
+  "glyph": {
+    "frames": [
+      {
+        "color": [
+          255,
+          255,
+          255
+        ],
+        "delay": 0,
+        "index": 2977
+      }
+    ],
+    "random_frame_start": false
+  },
+  "id": "core_2_Cleansing_Potion",
+  "item": {
+    "image": 1361,
+    "type": 17
+  },
+  "minimap_pixel": [
+    157,
+    78,
+    54
+  ],
+  "name": "Poção de Purificação",
+  "usable": {
+    "ability": "core_2_Cleansing_Potion",
+    "recipe": ""
+  },
+  "value": 3000,
+  "weight": 0.10000000149011612
+}

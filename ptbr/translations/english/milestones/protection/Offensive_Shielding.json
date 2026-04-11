@@ -1,0 +1,15 @@
+{
+  "id": "core_2_offensive_shielding",
+  "name": "Escudo Ofensivo",
+  "requirements": {
+    "skill": 3
+  },
+  "rewards": [
+    {
+      "ability": "36"
+    }
+  ],
+  "skill_id": "core_2_protection",
+  "steps": [],
+  "steps_type": 1
+}

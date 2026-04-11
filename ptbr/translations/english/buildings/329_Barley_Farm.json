@@ -1,0 +1,24 @@
+{
+  "id": "329",
+  "image": 146,
+  "name": "Fazenda de Cevada",
+  "occupation_image": 45,
+  "occupation": "core_2_Goblin_Farmer",
+  "produces": [
+    {
+      "entities": [
+        {
+          "daily": 8,
+          "id": "3093"
+        }
+      ],
+      "takes": []
+    }
+  ],
+  "race": "4",
+  "tier": 1,
+  "workers": [
+    1,
+    4
+  ]
+}

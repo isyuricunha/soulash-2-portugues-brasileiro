@@ -1,0 +1,109 @@
+{
+  "components": [
+    "collidable",
+    "glyph",
+    "minimap_pixel",
+    "name",
+    "position_2d",
+    "producer"
+  ],
+  "description": "Este baú do tesouro ornamentado, adornado com entalhes intricados e trabalho em metal reluzente, abriga um tesouro de segredos preciosos, aguardando a emoção da descoberta por aqueles ousados o suficiente para desvendar seus mistérios.",
+  "glyph": {
+    "frames": [
+      {
+        "color": [
+          255,
+          255,
+          255
+        ],
+        "delay": 150,
+        "index": 112
+      },
+      {
+        "color": [
+          255,
+          255,
+          255
+        ],
+        "delay": 150,
+        "index": 113
+      },
+      {
+        "color": [
+          255,
+          255,
+          255
+        ],
+        "delay": 150,
+        "index": 114
+      },
+      {
+        "color": [
+          255,
+          255,
+          255
+        ],
+        "delay": 150,
+        "index": 115
+      },
+      {
+        "color": [
+          255,
+          255,
+          255
+        ],
+        "delay": 150,
+        "index": 116
+      },
+      {
+        "color": [
+          255,
+          255,
+          255
+        ],
+        "delay": 150,
+        "index": 82
+      },
+      {
+        "color": [
+          255,
+          255,
+          255
+        ],
+        "delay": 150,
+        "index": 83
+      }
+    ],
+    "random_frame_start": true
+  },
+  "id": "core_2_Treasure_Chest_5",
+  "minimap_pixel": [
+    206,
+    157,
+    45
+  ],
+  "name": "Baú do Tesouro",
+  "producer": {
+    "products": {
+      "15": [
+        {
+          "amount": [
+            1,
+            1
+          ],
+          "id": "2422",
+          "percent_chance": 100
+        },
+        {
+          "amount": [
+            1,
+            1
+          ],
+          "id": "core_2_Mush_Dragon_Scale",
+          "percent_chance": 100
+        }
+      ]
+    },
+    "time": 1
+  }
+}

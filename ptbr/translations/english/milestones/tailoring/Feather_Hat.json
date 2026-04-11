@@ -1,0 +1,16 @@
+{
+  "id": "core_2_hat_with_feather",
+  "name": "Chapéu com Pena",
+  "requirements": {
+    "milestones": [],
+    "skill": 45
+  },
+  "rewards": [
+    {
+      "recipe": "2226"
+    }
+  ],
+  "skill_id": "core_2_tailoring",
+  "steps": [],
+  "steps_type": 0
+}

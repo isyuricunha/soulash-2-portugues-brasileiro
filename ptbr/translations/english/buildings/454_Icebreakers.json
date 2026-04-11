@@ -1,0 +1,33 @@
+{
+  "id": "454",
+  "image": 341,
+  "name": "Quebra-Gelos",
+  "occupation_image": 102,
+  "occupation": "core_2_Skeleton_Ice_Breaker",
+  "produces": [
+    {
+      "entities": [
+        {
+          "daily": 0.5,
+          "id": "2472"
+        }
+      ],
+      "takes": []
+    },
+    {
+      "entities": [
+        {
+          "daily": 0.5,
+          "id": "core_2_Black_Ice_Block"
+        }
+      ],
+      "takes": []
+    }
+  ],
+  "race": "17",
+  "tier": 1,
+  "workers": [
+    1,
+    3
+  ]
+}

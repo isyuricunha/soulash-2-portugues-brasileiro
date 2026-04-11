@@ -1,0 +1,16 @@
+{
+  "id": "core_2_litter_box",
+  "name": "Caixa de Areia",
+  "requirements": {
+    "milestones": [],
+    "skill": 8
+  },
+  "rewards": [
+    {
+      "recipe": "core_2_Litter_Box"
+    }
+  ],
+  "skill_id": "core_2_carpentry",
+  "steps": [],
+  "steps_type": 0
+}

@@ -1,0 +1,157 @@
+{
+  "armor": {
+    "acid": 0,
+    "death": 0,
+    "electricity": 0,
+    "fire": 2,
+    "frost": 0,
+    "holy": 0,
+    "parry": 0,
+    "physical": 0,
+    "poison": 0,
+    "thorns": 0
+  },
+  "components": [
+    "armor",
+    "craftable",
+    "glyph",
+    "item",
+    "minimap_pixel",
+    "name",
+    "position_2d",
+    "stackable",
+    "statistics",
+    "weight"
+  ],
+  "craftable": {
+    "backgrounds": [],
+    "biomes": [],
+    "magic_slots": 0,
+    "resources": [
+      {
+        "amount": 1,
+        "id": "core_2_Soul_Piece"
+      },
+      {
+        "amount": 1,
+        "id": "55"
+      }
+    ],
+    "time": 10,
+    "tools": [
+      19
+    ]
+  },
+  "description": "Uma brasa sombria e melancólica da alma, marcada com a cinza da ganância e atos amargos, seu brilho pulsando com rancor inquieto.",
+  "glyph": {
+    "frames": [
+      {
+        "color": [
+          255,
+          255,
+          255
+        ],
+        "delay": 200,
+        "index": 2812
+      },
+      {
+        "color": [
+          255,
+          255,
+          255
+        ],
+        "delay": 200,
+        "index": 2813
+      },
+      {
+        "color": [
+          255,
+          255,
+          255
+        ],
+        "delay": 200,
+        "index": 2814
+      },
+      {
+        "color": [
+          255,
+          255,
+          255
+        ],
+        "delay": 200,
+        "index": 2815
+      },
+      {
+        "color": [
+          255,
+          255,
+          255
+        ],
+        "delay": 200,
+        "index": 2816
+      },
+      {
+        "color": [
+          255,
+          255,
+          255
+        ],
+        "delay": 200,
+        "index": 2817
+      },
+      {
+        "color": [
+          255,
+          255,
+          255
+        ],
+        "delay": 200,
+        "index": 2818
+      },
+      {
+        "color": [
+          255,
+          255,
+          255
+        ],
+        "delay": 200,
+        "index": 2819
+      }
+    ],
+    "random_frame_start": false
+  },
+  "id": "core_2_Sullied_Ember",
+  "item": {
+    "image": 1263,
+    "type": 31
+  },
+  "minimap_pixel": [
+    69,
+    188,
+    213
+  ],
+  "name": "Brasa Maculada",
+  "statistics": {
+    "dexterity": [
+      1,
+      1
+    ],
+    "endurance": [
+      1,
+      1
+    ],
+    "intelligence": [
+      0,
+      0
+    ],
+    "strength": [
+      1,
+      1
+    ],
+    "willpower": [
+      0,
+      0
+    ]
+  },
+  "weight": 0.009999999776482582
+}

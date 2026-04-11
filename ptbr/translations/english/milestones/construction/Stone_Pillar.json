@@ -1,0 +1,19 @@
+{
+  "id": "core_2_stone_pillar",
+  "name": "Pilar de Pedra",
+  "requirements": {
+    "milestones": [],
+    "skill": 3
+  },
+  "rewards": [
+    {
+      "recipe": "220"
+    },
+    {
+      "recipe": "618"
+    }
+  ],
+  "skill_id": "core_2_construction",
+  "steps": [],
+  "steps_type": 0
+}

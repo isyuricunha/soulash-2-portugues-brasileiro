@@ -1,0 +1,65 @@
+{
+  "enables": [
+    "core_2_armorsmith",
+    "core_2_weaponsmith"
+  ],
+  "id": "46",
+  "image": 56,
+  "max": 2,
+  "name": "Dobrador de Metais",
+  "occupation_image": 39,
+  "occupation": "2270",
+  "produces": [
+    {
+      "entities": [
+        {
+          "daily": 1,
+          "id": "145"
+        }
+      ],
+      "takes": "craftable"
+    },
+    {
+      "entities": [
+        {
+          "daily": 1,
+          "id": "147"
+        }
+      ],
+      "takes": "craftable"
+    },
+    {
+      "entities": [
+        {
+          "daily": 1,
+          "id": "149"
+        }
+      ],
+      "takes": "craftable"
+    },
+    {
+      "entities": [
+        {
+          "daily": 1,
+          "id": "159"
+        }
+      ],
+      "takes": "craftable"
+    },
+    {
+      "entities": [
+        {
+          "daily": 1,
+          "id": "161"
+        }
+      ],
+      "takes": "craftable"
+    }
+  ],
+  "race": "2",
+  "tier": 2,
+  "workers": [
+    1,
+    2
+  ]
+}

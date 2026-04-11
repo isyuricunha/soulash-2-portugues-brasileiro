@@ -1,0 +1,28 @@
+{
+  "animation": "core_2_Necrotic_Touch",
+  "cast_time": 1.0,
+  "cooldown": 4.0,
+  "cost": {
+    "health": 1,
+    "stamina": 3
+  },
+  "description": "Toque um alvo próximo para causar ::damage de dano ::damage_type.",
+  "duration": 0.0,
+  "effects": {
+    "damage": [
+      3,
+      6
+    ],
+    "damage_type": "death",
+    "magic_power_damage": 1.0
+  },
+  "id": "core_2_Necrotic_Touch",
+  "image": 130,
+  "name": "Toque Necrótico",
+  "range": 1,
+  "skill": "core_2_necromancy",
+  "slots": {
+    "offensive": 1
+  },
+  "target": "health"
+}

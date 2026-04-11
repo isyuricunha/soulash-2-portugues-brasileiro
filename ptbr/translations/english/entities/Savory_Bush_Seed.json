@@ -1,0 +1,40 @@
+{
+  "components": [
+    "glyph",
+    "item",
+    "minimap_pixel",
+    "name",
+    "position_2d",
+    "stackable",
+    "value",
+    "weight"
+  ],
+  "description": "Crescerá em um arbusto saboroso um dia.",
+  "glyph": {
+    "frames": [
+      {
+        "color": [
+          255,
+          255,
+          255
+        ],
+        "delay": 0,
+        "index": 2481
+      }
+    ],
+    "random_frame_start": false
+  },
+  "id": "core_2_Savory_Bush_Seed",
+  "item": {
+    "image": 1096,
+    "type": 24
+  },
+  "minimap_pixel": [
+    156,
+    73,
+    73
+  ],
+  "name": "Semente de Arbusto Saboroso",
+  "value": 6000,
+  "weight": 0.019999999552965164
+}

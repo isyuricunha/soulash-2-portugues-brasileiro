@@ -1,0 +1,15 @@
+{
+  "id": "core_2_necrosis_shot",
+  "name": "Tiro Necrótico",
+  "requirements": {
+    "skill": 50
+  },
+  "rewards": [
+    {
+      "ability": "core_2_Necrosis_Shot"
+    }
+  ],
+  "skill_id": "core_2_hunting",
+  "steps": [],
+  "steps_type": 0
+}

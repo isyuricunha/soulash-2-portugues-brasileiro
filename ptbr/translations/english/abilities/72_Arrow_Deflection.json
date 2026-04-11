@@ -1,0 +1,24 @@
+{
+  "animation": "77",
+  "cast_time": 0.4,
+  "cooldown": 15.0,
+  "cost": {
+    "health": 0,
+    "stamina": 5
+  },
+  "description": "Você deflete ataques básicos à distância para o lado, com 33% de chance de jogá-lo de volta no atacante. Dura ::duration turnos.",
+  "duration": 5.0,
+  "effects": {
+    "deflection": 0.33
+  },
+  "id": "72",
+  "image": 10,
+  "name": "Deflexão de Flecha",
+  "range": 0,
+  "skill": "core_2_protection",
+  "slots": {
+    "defensive": 2,
+    "utility": 1
+  },
+  "target": "self"
+}

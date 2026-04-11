@@ -1,0 +1,16 @@
+{
+  "id": "core_2_nose_for_trouble",
+  "name": "Faro Para Problemas",
+  "requirements": {
+    "milestones": [],
+    "skill": 9
+  },
+  "rewards": [
+    {
+      "passive": "core_2_nose_for_trouble"
+    }
+  ],
+  "skill_id": "core_2_adventuring",
+  "steps": [],
+  "steps_type": 0
+}

@@ -1,0 +1,51 @@
+{
+  "components": [
+    "glyph",
+    "map_connector",
+    "minimap_pixel",
+    "name",
+    "position_2d",
+    "producer"
+  ],
+  "description": "Declive íngreme de terra levando morro abaixo.",
+  "glyph": {
+    "frames": [
+      {
+        "color": [
+          255,
+          255,
+          255
+        ],
+        "delay": 0,
+        "index": 1544
+      }
+    ],
+    "random_frame_start": false
+  },
+  "id": "2035",
+  "map_connector": {
+    "opposite_connector": "2034",
+    "z_level": -1
+  },
+  "minimap_pixel": [
+    61,
+    38,
+    7
+  ],
+  "name": "Declive de Terra Descendente",
+  "producer": {
+    "products": {
+      "core_2_deconstruct": [
+        {
+          "amount": [
+            0,
+            0
+          ],
+          "id": "-1",
+          "percent_chance": 100
+        }
+      ]
+    },
+    "time": 40
+  }
+}

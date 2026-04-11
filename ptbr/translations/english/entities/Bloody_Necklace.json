@@ -1,0 +1,72 @@
+{
+  "armor": {
+    "acid": 0,
+    "death": 3,
+    "electricity": 0,
+    "fire": 0,
+    "frost": 0,
+    "holy": 0,
+    "parry": 0,
+    "physical": 0,
+    "poison": 4,
+    "thorns": 0
+  },
+  "components": [
+    "armor",
+    "craftable",
+    "glyph",
+    "item",
+    "minimap_pixel",
+    "name",
+    "position_2d",
+    "value",
+    "weight"
+  ],
+  "craftable": {
+    "backgrounds": [],
+    "biomes": [],
+    "magic_slots": 2,
+    "resource_types": [
+      {
+        "amount": 1,
+        "id": 1
+      },
+      {
+        "amount": 1,
+        "id": 8
+      }
+    ],
+    "time": 60,
+    "tools": [
+      14
+    ]
+  },
+  "description": "Talvez devesse lhe dar alguns poderes sobrenaturais, mas é apenas muito bonito.",
+  "glyph": {
+    "frames": [
+      {
+        "color": [
+          255,
+          255,
+          255
+        ],
+        "delay": 0,
+        "index": 3097
+      }
+    ],
+    "random_frame_start": false
+  },
+  "id": "core_2_Bloody_Necklace",
+  "item": {
+    "image": 1429,
+    "type": 3
+  },
+  "minimap_pixel": [
+    218,
+    165,
+    32
+  ],
+  "name": "Colar Ensanguentado",
+  "value": 1600,
+  "weight": 0.10000000149011612
+}

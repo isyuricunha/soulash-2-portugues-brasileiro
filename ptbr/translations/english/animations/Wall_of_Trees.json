@@ -1,0 +1,116 @@
+{
+  "animation_origin_self": false,
+  "camera_shake": {
+    "bounces": 3,
+    "duration": 0.10000000149011612,
+    "power": 3,
+    "type": 1
+  },
+  "chain_particles": false,
+  "id": "core_2_Wall_of_Trees",
+  "ignore_roof": false,
+  "name": "Muralha de Árvores",
+  "particles": [
+    {
+      "color": [
+        [
+          255,
+          255,
+          255,
+          255
+        ]
+      ],
+      "flags": 1,
+      "life": 50.0,
+      "tile_id": 1024
+    },
+    {
+      "color": [
+        [
+          255,
+          255,
+          255,
+          255
+        ]
+      ],
+      "delay": 50.0,
+      "flags": 1,
+      "life": 50.0,
+      "tile_id": 1025
+    },
+    {
+      "color": [
+        [
+          255,
+          255,
+          255,
+          255
+        ]
+      ],
+      "delay": 100.0,
+      "flags": 1,
+      "life": 50.0,
+      "tile_id": 1026
+    },
+    {
+      "color": [
+        [
+          255,
+          255,
+          255,
+          255
+        ]
+      ],
+      "delay": 150.0,
+      "flags": 1,
+      "life": 50.0,
+      "tile_id": 1027
+    },
+    {
+      "color": [
+        [
+          255,
+          255,
+          255,
+          255
+        ]
+      ],
+      "delay": 200.0,
+      "flags": 1,
+      "life": 50.0,
+      "tile_id": 1028
+    },
+    {
+      "color": [
+        [
+          255,
+          255,
+          255,
+          255
+        ]
+      ],
+      "delay": 250.0,
+      "flags": 1,
+      "life": 50.0,
+      "tile_id": 1029
+    },
+    {
+      "color": [
+        [
+          255,
+          255,
+          255,
+          255
+        ]
+      ],
+      "delay": 300.0,
+      "flags": 1,
+      "life": 50.0,
+      "tile_id": 1030
+    }
+  ],
+  "sound": {
+    "id": "",
+    "volume": 100
+  }
+}

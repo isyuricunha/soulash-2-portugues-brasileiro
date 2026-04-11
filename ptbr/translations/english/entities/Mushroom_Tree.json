@@ -1,0 +1,111 @@
+{
+  "armor": {
+    "acid": 5,
+    "death": 5,
+    "electricity": 10,
+    "fire": 10,
+    "frost": 5,
+    "holy": 5,
+    "parry": 0,
+    "physical": 5,
+    "poison": 20,
+    "thorns": 0
+  },
+  "components": [
+    "armor",
+    "block_light",
+    "collidable",
+    "glyph",
+    "glyph_top",
+    "health",
+    "height",
+    "minimap_pixel",
+    "name",
+    "position_2d",
+    "producer"
+  ],
+  "corpse": [],
+  "description": "Um cogumelo gigante, tão alto quanto uma árvore. Seu caule se transformou em algo parecido com madeira.",
+  "glyph": {
+    "frames": [
+      {
+        "color": [
+          109,
+          86,
+          66
+        ],
+        "delay": 0,
+        "index": 2106
+      }
+    ],
+    "random_frame_start": true,
+    "random_top": {
+      "colors": [
+        [
+          255,
+          255,
+          255
+        ]
+      ],
+      "count": 1,
+      "glyph_ids": [
+        2173,
+        2174,
+        2175
+      ],
+      "max_alpha": 200,
+      "max_range": 25,
+      "wind": true
+    }
+  },
+  "health": 300,
+  "height": 30,
+  "id": "core_2_Mushroom_Tree",
+  "minimap_pixel": [
+    123,
+    93,
+    40
+  ],
+  "name": "Árvore de Cogumelos",
+  "producer": {
+    "products": {
+      "1": [
+        {
+          "amount": [
+            1,
+            1
+          ],
+          "id": "core_2_Mush_Log",
+          "percent_chance": 100
+        },
+        {
+          "amount": [
+            1,
+            2
+          ],
+          "id": "core_2_Mushroom_Tree_Seed",
+          "percent_chance": 10
+        }
+      ],
+      "core_2_woodbend": [
+        {
+          "amount": [
+            2,
+            3
+          ],
+          "id": "core_2_Mush_Wood",
+          "percent_chance": 100
+        },
+        {
+          "amount": [
+            2,
+            3
+          ],
+          "id": "core_2_Mushroom_Tree_Seed",
+          "percent_chance": 30
+        }
+      ]
+    },
+    "time": 30
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "id": "423",
+  "image": 272,
+  "max": 1,
+  "name": "Quartel dos Punhos de Pedra",
+  "occupation_image": 104,
+  "occupation": "core_2_Troll_Stonefist",
+  "produces": [],
+  "race": "7",
+  "tier": 1,
+  "type": "military",
+  "workers": [
+    1,
+    20
+  ]
+}

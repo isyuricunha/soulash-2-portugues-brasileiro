@@ -1,0 +1,16 @@
+{
+  "id": "core_2_dwarf_bread",
+  "name": "Pão Anão",
+  "requirements": {
+    "milestones": [],
+    "skill": 10
+  },
+  "rewards": [
+    {
+      "recipe": "core_2_Dwarf_Bread"
+    }
+  ],
+  "skill_id": "core_2_weaponsmith",
+  "steps": [],
+  "steps_type": 0
+}

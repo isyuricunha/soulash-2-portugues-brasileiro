@@ -1,0 +1,23 @@
+{
+  "animation": "core_2_Stone_Gaze",
+  "cast_time": 1.0,
+  "cooldown": 50.0,
+  "cost": {
+    "health": 0,
+    "stamina": 10
+  },
+  "description": "O olhar de um basilisco transforma você em pedra por uma duração de ::duration turnos.",
+  "duration": 10.0,
+  "effects": {
+    "immobilize": 10,
+    "sight": -50,
+    "silence": 10,
+    "stun": 10.0
+  },
+  "id": "core_2_Stone_Gaze",
+  "image": 786,
+  "name": "Olhar Petrificador",
+  "range": 10,
+  "skill": "",
+  "target": "actor"
+}

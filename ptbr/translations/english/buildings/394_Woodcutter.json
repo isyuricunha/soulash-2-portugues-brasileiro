@@ -1,0 +1,171 @@
+{
+  "id": "394",
+  "image": 8,
+  "name": "Lanhador",
+  "occupation_image": 40,
+  "occupation": "141",
+  "occupation_per_race": {
+    "0": "141",
+    "1": "2277",
+    "2": "core_2_Elf_Woodcutter",
+    "4": "core_2_Goblin_Woodcutter",
+    "6": "core_2_Vampire_Woodcutter",
+    "7": "core_2_Troll_Woodcutter",
+    "8": "core_2_Orc_Woodcutter",
+    "10": "2329",
+    "23": "core_2_Reptilion_Woodcutter",
+    "26": "core_2_Bone_Wraith_Woodcutter",
+    "31": "core_2_Gnoll_Woodcutter",
+    "32": "core_2_Mushman_Mushroom_Cutter",
+    "33": "core_2_Ursan_Woodcutter"
+  },
+  "produces": [
+    {
+      "entities": [
+        {
+          "daily": 1.0,
+          "id": "core_2_Acacia_Log"
+        }
+      ],
+      "takes": []
+    },
+    {
+      "entities": [
+        {
+          "daily": 1.0,
+          "id": "2092"
+        }
+      ],
+      "takes": []
+    },
+    {
+      "entities": [
+        {
+          "daily": 1.0,
+          "id": "870"
+        }
+      ],
+      "takes": []
+    },
+    {
+      "entities": [
+        {
+          "daily": 1.0,
+          "id": "2095"
+        }
+      ],
+      "takes": []
+    },
+    {
+      "entities": [
+        {
+          "daily": 1.0,
+          "id": "2096"
+        }
+      ],
+      "takes": []
+    },
+    {
+      "entities": [
+        {
+          "daily": 1.0,
+          "id": "2098"
+        }
+      ],
+      "takes": []
+    },
+    {
+      "entities": [
+        {
+          "daily": 1.0,
+          "id": "core_2_Candelabra_Log"
+        }
+      ],
+      "takes": []
+    },
+    {
+      "entities": [
+        {
+          "daily": 1.0,
+          "id": "873"
+        }
+      ],
+      "takes": []
+    },
+    {
+      "entities": [
+        {
+          "daily": 1.0,
+          "id": "866"
+        }
+      ],
+      "takes": []
+    },
+    {
+      "entities": [
+        {
+          "daily": 1.0,
+          "id": "2104"
+        }
+      ],
+      "takes": []
+    },
+    {
+      "entities": [
+        {
+          "daily": 1.0,
+          "id": "2106"
+        }
+      ],
+      "takes": []
+    },
+    {
+      "entities": [
+        {
+          "daily": 1.0,
+          "id": "core_2_Fir_Log"
+        }
+      ],
+      "takes": []
+    },
+    {
+      "entities": [
+        {
+          "daily": 1.0,
+          "id": "2109"
+        }
+      ],
+      "takes": []
+    },
+    {
+      "entities": [
+        {
+          "daily": 1.0,
+          "id": "core_2_Mush_Log"
+        }
+      ],
+      "takes": []
+    }
+  ],
+  "race": "-1",
+  "tier": 1,
+  "workers": [
+    1,
+    4
+  ],
+  "allow_player": true,
+  "required_entities": [
+    {
+      "entities": [
+        "2430"
+      ],
+      "count": 1
+    },
+    {
+      "component": "resting_place",
+      "count": 4
+    }
+  ],
+  "min_area": 20,
+  "group": "resources"
+}

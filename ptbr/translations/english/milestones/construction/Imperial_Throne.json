@@ -1,0 +1,19 @@
+{
+  "id": "core_2_imperial_throne",
+  "name": "Trono Imperial",
+  "requirements": {
+    "milestones": [],
+    "skill": 47
+  },
+  "rewards": [
+    {
+      "recipe": "540"
+    },
+    {
+      "recipe": "2973"
+    }
+  ],
+  "skill_id": "core_2_construction",
+  "steps": [],
+  "steps_type": 0
+}

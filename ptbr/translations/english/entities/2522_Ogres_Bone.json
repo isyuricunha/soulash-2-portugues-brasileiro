@@ -1,0 +1,70 @@
+{
+  "components": [
+    "glyph",
+    "item",
+    "minimap_pixel",
+    "name",
+    "position_2d",
+    "resource",
+    "stackable",
+    "statistics",
+    "value",
+    "weight"
+  ],
+  "description": "Este osso massivo, rugoso e formidável, já fez parte da imponente estrutura de um ogro.",
+  "glyph": {
+    "frames": [
+      {
+        "color": [
+          255,
+          255,
+          255
+        ],
+        "delay": 0,
+        "index": 1729
+      }
+    ],
+    "random_frame_start": false
+  },
+  "id": "2522",
+  "item": {
+    "image": 667,
+    "type": 16
+  },
+  "minimap_pixel": [
+    100,
+    109,
+    155
+  ],
+  "name": "Osso de Ogro",
+  "resource": {
+    "affix": "Brutal",
+    "magic_ingredient": 0,
+    "quality": 2,
+    "type": 5
+  },
+  "statistics": {
+    "dexterity": [
+      0,
+      0
+    ],
+    "endurance": [
+      2,
+      2
+    ],
+    "intelligence": [
+      0,
+      0
+    ],
+    "strength": [
+      0,
+      0
+    ],
+    "willpower": [
+      0,
+      0
+    ]
+  },
+  "value": 3100,
+  "weight": 0.10000000149011612
+}

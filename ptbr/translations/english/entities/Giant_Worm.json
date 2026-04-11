@@ -1,0 +1,193 @@
+{
+  "armor": {
+    "acid": 60,
+    "death": 10,
+    "electricity": 0,
+    "fire": 60,
+    "frost": -10,
+    "holy": 10,
+    "parry": 0,
+    "physical": 20,
+    "poison": 0,
+    "thorns": 0
+  },
+  "artificial_intelligence": {
+    "allies": [],
+    "allow_production": [],
+    "behaviors": [],
+    "enemies": [
+      "5"
+    ]
+  },
+  "chained": {
+    "map": [
+      [
+        "core_2_Giant_Worm_Body",
+        "core_2_Giant_Worm_Body",
+        "core_2_Giant_Worm_Body",
+        "",
+        ""
+      ],
+      [
+        "core_2_Giant_Worm_Body",
+        "",
+        "core_2_Giant_Worm_Body",
+        "",
+        ""
+      ],
+      [
+        "core_2_Giant_Worm_Body",
+        "",
+        "RESERVED_core_2_leader_tile",
+        "",
+        ""
+      ],
+      [
+        "core_2_Giant_Worm_Tail",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "",
+        "",
+        "",
+        "",
+        ""
+      ]
+    ],
+    "snake": true
+  },
+  "components": [
+    "actor",
+    "armor",
+    "artificial_intelligence",
+    "chained",
+    "collidable",
+    "dialogues",
+    "experience_gainer",
+    "fighter",
+    "glyph",
+    "health",
+    "minimap_pixel",
+    "moveable",
+    "name",
+    "position_2d",
+    "random_resource",
+    "sight",
+    "stamina",
+    "statistics",
+    "tags",
+    "weapon"
+  ],
+  "corpse": "core_2_Giant_Worm_Corpse",
+  "description": "Esta minhoca gigante se contorce pela areia como se fosse o rei do deserto.",
+  "dialogues": [
+    "1031"
+  ],
+  "experience_gainer": {
+    "exp": 0,
+    "level": 50
+  },
+  "fighter": {
+    "attackNames": [
+      "Bite"
+    ]
+  },
+  "glyph": {
+    "frames": [
+      {
+        "color": [
+          255,
+          255,
+          255
+        ],
+        "delay": 0,
+        "index": 567
+      }
+    ],
+    "random_frame_start": false
+  },
+  "health": 3000,
+  "id": "core_2_Giant_Worm",
+  "minimap_pixel": [
+    149,
+    165,
+    101
+  ],
+  "moveable": {
+    "speed": 0.800000011920929
+  },
+  "name": "Minhoca Gigante",
+  "random_resource": {
+    "delay_spawn": false,
+    "entity": [
+      "core_2_Worm_Egg"
+    ],
+    "max_amount": 1,
+    "max_distance": 5,
+    "min_amount": 1,
+    "min_distance": 3,
+    "multiply_same": false,
+    "respawn_rate": 10.0,
+    "spawn_at": [],
+    "spawn_chance": 100.0,
+    "spawn_multiply": 0.0,
+    "spawn_rolls": 1
+  },
+  "sight": {
+    "ignore_infra_penalty": true,
+    "infravision": true,
+    "range": 12,
+    "threesixty": true
+  },
+  "stamina": {
+    "fatigue": 100,
+    "stamina": 100,
+    "stamina_regen": 0.0
+  },
+  "statistics": {
+    "dexterity": [
+      120,
+      140
+    ],
+    "endurance": [
+      136,
+      148
+    ],
+    "intelligence": [
+      64,
+      70
+    ],
+    "strength": [
+      150,
+      180
+    ],
+    "willpower": [
+      96,
+      107
+    ]
+  },
+  "tags": [
+    "38",
+    "9",
+    "18"
+  ],
+  "weapon": {
+    "attack_speed": 1.0,
+    "critical_hit": 0.20000000298023224,
+    "damage": [
+      {
+        "dmg_max": 130,
+        "dmg_min": 70,
+        "dmg_type": "physical"
+      }
+    ],
+    "hands": 2,
+    "hit_bonus": 3,
+    "parry_bonus": 1,
+    "range": 1,
+    "type": 0
+  }
+}

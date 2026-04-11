@@ -1,0 +1,46 @@
+{
+  "components": [
+    "food",
+    "glyph",
+    "item",
+    "minimap_pixel",
+    "name",
+    "position_2d",
+    "stackable",
+    "value",
+    "weight"
+  ],
+  "description": "Um punhado de cranberries para um lanche.",
+  "food": {
+    "nutrition": 8,
+    "on_eat": "",
+    "raw": false
+  },
+  "glyph": {
+    "frames": [
+      {
+        "color": [
+          255,
+          255,
+          255
+        ],
+        "delay": 0,
+        "index": 2319
+      }
+    ],
+    "random_frame_start": false
+  },
+  "id": "core_2_Cranberry",
+  "item": {
+    "image": 996,
+    "type": 20
+  },
+  "minimap_pixel": [
+    156,
+    73,
+    73
+  ],
+  "name": "Oxicoco",
+  "value": 150,
+  "weight": 0.019999999552965164
+}

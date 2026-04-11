@@ -1,0 +1,16 @@
+{
+  "id": "core_2_FurnanceTorso",
+  "name": "Torso de Fornalha",
+  "requirements": {
+    "milestones": [],
+    "skill": 43
+  },
+  "rewards": [
+    {
+      "recipe": "core_2_FurnanceTorso"
+    }
+  ],
+  "skill_id": "core_2_construction",
+  "steps": [],
+  "steps_type": 0
+}

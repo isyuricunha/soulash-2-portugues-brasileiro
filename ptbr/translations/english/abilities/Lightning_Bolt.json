@@ -1,0 +1,32 @@
+{
+  "animation": "core_2_Lightning_Bolt",
+  "cast_time": 1.0,
+  "cooldown": 25.0,
+  "cost": {
+    "health": 0,
+    "stamina": 10
+  },
+  "description": "Joga um raio perfurando até ::range células e eletrocutando tudo com o que entrar em contato, causando ::damage ::damage_type de dano e atordoando por ::stun turnos.",
+  "duration": 0.0,
+  "effects": {
+    "damage": [
+      15,
+      20
+    ],
+    "damage_type": "electricity",
+    "magic_power_damage": 1.0,
+    "pierce": 1,
+    "stun": 1.0
+  },
+  "id": "core_2_Lightning_Bolt",
+  "image": 750,
+  "min_range": 2,
+  "name": "Relâmpago",
+  "range": 7,
+  "skill": "core_2_stormthrowing",
+  "slots": {
+    "offensive": 1,
+    "utility": 3
+  },
+  "target": "line"
+}

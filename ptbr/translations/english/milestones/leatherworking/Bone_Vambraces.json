@@ -1,0 +1,15 @@
+{
+  "id": "core_2_bone_vambraces",
+  "name": "Braçadeiras de Osso",
+  "requirements": {
+    "skill": 12
+  },
+  "rewards": [
+    {
+      "recipe": "core_2_Bone_Vambraces"
+    }
+  ],
+  "skill_id": "core_2_leatherworking",
+  "steps": [],
+  "steps_type": 0
+}

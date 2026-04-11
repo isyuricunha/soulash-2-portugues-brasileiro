@@ -1,0 +1,46 @@
+{
+  "enables": [
+    "core_2_tailoring"
+  ],
+  "id": "18",
+  "image": 16,
+  "max": 2,
+  "name": "Alfaiate",
+  "occupation_image": 10,
+  "occupation": "2196",
+  "produces": [
+    {
+      "entities": [
+        {
+          "daily": 1,
+          "id": "300"
+        }
+      ],
+      "takes": "craftable"
+    },
+    {
+      "entities": [
+        {
+          "daily": 1,
+          "id": "2259"
+        }
+      ],
+      "takes": "craftable"
+    },
+    {
+      "entities": [
+        {
+          "daily": 1,
+          "id": "2258"
+        }
+      ],
+      "takes": "craftable"
+    }
+  ],
+  "race": "0",
+  "tier": 1,
+  "workers": [
+    1,
+    4
+  ]
+}

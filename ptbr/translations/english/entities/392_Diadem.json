@@ -1,0 +1,70 @@
+{
+  "armor": {
+    "acid": 1,
+    "death": 0,
+    "electricity": 2,
+    "fire": 2,
+    "frost": 0,
+    "holy": 1,
+    "parry": 0,
+    "physical": 1,
+    "poison": 0
+  },
+  "components": [
+    "armor",
+    "craftable",
+    "glyph",
+    "item",
+    "minimap_pixel",
+    "name",
+    "position_2d",
+    "value",
+    "weight"
+  ],
+  "craftable": {
+    "magic_slots": 3,
+    "resource_types": [
+      {
+        "amount": 2,
+        "id": 1
+      },
+      {
+        "amount": 1,
+        "id": 8
+      }
+    ],
+    "resources": null,
+    "time": 75,
+    "tools": [
+      1
+    ]
+  },
+  "description": "Símbolo de riqueza e poder.",
+  "glyph": {
+    "frames": [
+      {
+        "color": [
+          255,
+          255,
+          255
+        ],
+        "delay": 0,
+        "index": 645
+      }
+    ],
+    "random_frame_start": false
+  },
+  "id": "392",
+  "item": {
+    "image": 226,
+    "type": 1
+  },
+  "minimap_pixel": [
+    190,
+    171,
+    163
+  ],
+  "name": "Diadema",
+  "value": 2500,
+  "weight": 1.0
+}

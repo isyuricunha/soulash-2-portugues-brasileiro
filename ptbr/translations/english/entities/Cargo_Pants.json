@@ -1,0 +1,77 @@
+{
+  "armor": {
+    "acid": 5,
+    "death": 0,
+    "electricity": 0,
+    "fire": 2,
+    "frost": 0,
+    "holy": 0,
+    "parry": 0,
+    "physical": 0,
+    "poison": 3,
+    "thorns": 0
+  },
+  "components": [
+    "armor",
+    "container",
+    "craftable",
+    "glyph",
+    "item",
+    "minimap_pixel",
+    "name",
+    "position_2d",
+    "value",
+    "weight"
+  ],
+  "container": {
+    "capacity": 5,
+    "type": 2
+  },
+  "craftable": {
+    "backgrounds": [],
+    "biomes": [],
+    "magic_slots": 4,
+    "resource_types": [
+      {
+        "amount": 3,
+        "id": 4
+      },
+      {
+        "amount": 1,
+        "id": 5
+      }
+    ],
+    "time": 60,
+    "tools": [
+      12
+    ]
+  },
+  "description": "Com bolsos. Muitos bolsos.",
+  "glyph": {
+    "frames": [
+      {
+        "color": [
+          255,
+          255,
+          255
+        ],
+        "delay": 0,
+        "index": 2427
+      }
+    ],
+    "random_frame_start": false
+  },
+  "id": "core_2_Cargo_Pants",
+  "item": {
+    "image": 1063,
+    "type": 8
+  },
+  "minimap_pixel": [
+    200,
+    200,
+    200
+  ],
+  "name": "Calça Cargo",
+  "value": 3700,
+  "weight": 0.5
+}

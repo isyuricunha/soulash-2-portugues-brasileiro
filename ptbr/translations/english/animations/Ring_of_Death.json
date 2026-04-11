@@ -1,0 +1,75 @@
+{
+  "animation_origin_self": false,
+  "camera_shake": {
+    "bounces": 0,
+    "duration": 0.0,
+    "power": 0.0
+  },
+  "chain_particles": false,
+  "id": "core_2_Ring_of_Death",
+  "ignore_roof": true,
+  "name": "Anel da Morte",
+  "particles": [
+    {
+      "color": [
+        [
+          255,
+          255,
+          255,
+          255
+        ]
+      ],
+      "flags": 8328,
+      "tile_id": 505,
+      "velocity": 30.0
+    },
+    {
+      "color": [
+        [
+          255,
+          255,
+          255,
+          255
+        ]
+      ],
+      "delay": 200.0,
+      "flags": 8328,
+      "tile_id": 505,
+      "velocity": 30.0
+    },
+    {
+      "color": [
+        [
+          255,
+          255,
+          255,
+          255
+        ]
+      ],
+      "delay": 100.0,
+      "flags": 532616,
+      "orbit_opposite": true,
+      "tile_id": 64,
+      "velocity": 30.0
+    },
+    {
+      "color": [
+        [
+          255,
+          255,
+          255,
+          255
+        ]
+      ],
+      "delay": 300.0,
+      "flags": 532616,
+      "orbit_opposite": true,
+      "tile_id": 64,
+      "velocity": 30.0
+    }
+  ],
+  "sound": {
+    "id": "144",
+    "volume": 100
+  }
+}

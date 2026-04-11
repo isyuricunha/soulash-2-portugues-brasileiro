@@ -1,0 +1,25 @@
+{
+  "animation": "core_2_Summon_Ifrid",
+  "cast_time": 1.0,
+  "cooldown": 10.0,
+  "cost": {
+    "health": 0,
+    "stamina": 5
+  },
+  "description": "Invoca um ifrid para te auxiliar em combate.",
+  "duration": 50.0,
+  "effects": {
+    "aoe_range": 20,
+    "aoe_shape": 1,
+    "summon_count": 5
+  },
+  "effects_keys": {
+    "summon": "core_2_Ifrid"
+  },
+  "id": "core_2_Summon_Ifrid",
+  "image": 808,
+  "name": "Invocar Ifrid",
+  "range": 20,
+  "skill": "",
+  "target": "tile"
+}

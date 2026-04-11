@@ -1,0 +1,46 @@
+{
+  "components": [
+    "food",
+    "glyph",
+    "item",
+    "minimap_pixel",
+    "name",
+    "position_2d",
+    "stackable",
+    "value",
+    "weight"
+  ],
+  "description": "Preto e branco. Lanche delicioso.",
+  "food": {
+    "nutrition": 5,
+    "on_eat": "",
+    "raw": true
+  },
+  "glyph": {
+    "frames": [
+      {
+        "color": [
+          255,
+          255,
+          255
+        ],
+        "delay": 0,
+        "index": 2531
+      }
+    ],
+    "random_frame_start": false
+  },
+  "id": "core_2_Sunflower_Seeds",
+  "item": {
+    "image": 1113,
+    "type": 24
+  },
+  "minimap_pixel": [
+    205,
+    168,
+    110
+  ],
+  "name": "Sementes de Girassol",
+  "value": 100,
+  "weight": 0.10000000149011612
+}

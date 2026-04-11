@@ -1,0 +1,55 @@
+{
+  "id": "120",
+  "image": 83,
+  "max": 2,
+  "name": "Sopradores de Vidro",
+  "occupation_image": 23,
+  "occupation": "2375",
+  "occupation_per_race": {
+    "0": "core_2_Human_Glassblower",
+    "1": "core_2_Dwarf_Glassblower",
+    "2": "core_2_Elf_Glassblower",
+    "4": "core_2_Goblin_Glassblower",
+    "6": "core_2_Vampire_Glassblower",
+    "7": "core_2_Troll_Glassblower",
+    "8": "core_2_Orc_Glassblower",
+    "10": "core_2_Rasimi_Glassblower",
+    "23": "core_2_Reptilion_Glassblower",
+    "26": "2375",
+    "31": "core_2_Gnoll_Glassblower",
+    "32": "core_2_Mushman_Glassblower",
+    "33": "core_2_Ursan_Glassblower"
+  },
+  "produces": [
+    {
+      "entities": [
+        {
+          "daily": 1,
+          "id": "2090"
+        }
+      ],
+      "takes": "craftable"
+    }
+  ],
+  "race": "26",
+  "tier": 2,
+  "workers": [
+    1,
+    2
+  ],
+  "allow_player": true,
+  "required_entities": [
+    {
+      "entities": [
+        "143"
+      ],
+      "count": 2
+    },
+    {
+      "component": "resting_place",
+      "count": 2
+    }
+  ],
+  "min_area": 20,
+  "group": "producers"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "core_2_taste_for_souls",
+  "name": "Gosto por Almas",
+  "requirements": {
+    "milestones": [],
+    "skill": 3
+  },
+  "rewards": [
+    {
+      "passive": "core_2_taste_for_souls"
+    }
+  ],
+  "skill_id": "core_2_necromancy",
+  "steps": [],
+  "steps_type": 0
+}

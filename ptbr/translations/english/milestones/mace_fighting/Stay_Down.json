@@ -1,0 +1,15 @@
+{
+  "id": "core_2_stay_down",
+  "name": "Ficar deitado",
+  "requirements": {
+    "skill": 42
+  },
+  "rewards": [
+    {
+      "amplifier": "core_2_double_stun"
+    }
+  ],
+  "skill_id": "core_2_mace_fighting",
+  "steps": [],
+  "steps_type": 0
+}

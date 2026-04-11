@@ -1,0 +1,152 @@
+{
+  "artificial_intelligence": {
+    "allies": [],
+    "allow_production": [],
+    "behaviors": [],
+    "enemies": []
+  },
+  "components": [
+    "actor",
+    "artificial_intelligence",
+    "collidable",
+    "consumer",
+    "dialogues",
+    "equipment",
+    "experience_gainer",
+    "fighter",
+    "glyph",
+    "health",
+    "humanoid",
+    "minimap_pixel",
+    "moveable",
+    "name",
+    "persona",
+    "position_2d",
+    "sight",
+    "skills",
+    "stamina",
+    "statistics",
+    "tags"
+  ],
+  "corpse": "1061",
+  "description": "",
+  "dialogues": [
+    "1010",
+    "1006",
+    "1007"
+  ],
+  "equipment": {
+    "cape": [
+      {
+        "chance": 1.0,
+        "id": "768",
+        "name": "Capa de Couro",
+        "stack": 1
+      }
+    ],
+    "right_hand": [
+      {
+        "chance": 0.5,
+        "id": "70",
+        "name": "Faca",
+        "stack": 1
+      },
+      {
+        "chance": 0.5,
+        "id": "71",
+        "name": "Adaga",
+        "stack": 1
+      }
+    ],
+    "torso_cloth": [
+      {
+        "chance": 0.800000011920929,
+        "id": "184",
+        "name": "Camisa",
+        "stack": 1
+      }
+    ]
+  },
+  "experience_gainer": {
+    "exp": 5,
+    "level": 1
+  },
+  "fighter": {
+    "attackNames": null
+  },
+  "glyph": {
+    "frames": [
+      {
+        "color": [
+          255,
+          255,
+          255
+        ],
+        "delay": 0,
+        "index": 176
+      }
+    ],
+    "random_frame_start": false
+  },
+  "health": 300,
+  "humanoid": {
+    "race": "6"
+  },
+  "id": "core_2_Vampire_Human_Farmer",
+  "minimap_pixel": [
+    255,
+    128,
+    128
+  ],
+  "moveable": {
+    "speed": 1.5
+  },
+  "name": "Vampiro Fazendeiro Humano",
+  "persona": {
+    "occupation": "Fazendeiro Humano"
+  },
+  "sight": {
+    "ignore_infra_penalty": false,
+    "infravision": false,
+    "range": 10,
+    "threesixty": false
+  },
+  "skills": {
+    "milestones": [],
+    "skills": [
+      "core_2_agriculture"
+    ]
+  },
+  "stamina": {
+    "fatigue": 100,
+    "stamina": 100,
+    "stamina_regen": 0.0
+  },
+  "statistics": {
+    "dexterity": [
+      28,
+      34
+    ],
+    "endurance": [
+      36,
+      40
+    ],
+    "intelligence": [
+      26,
+      29
+    ],
+    "strength": [
+      38,
+      41
+    ],
+    "willpower": [
+      27,
+      31
+    ]
+  },
+  "tags": [
+    "23",
+    "38",
+    "4"
+  ]
+}

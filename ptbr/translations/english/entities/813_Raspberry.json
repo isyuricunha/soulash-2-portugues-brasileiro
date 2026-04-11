@@ -1,0 +1,45 @@
+{
+  "components": [
+    "food",
+    "glyph",
+    "item",
+    "name",
+    "position_2d",
+    "stackable",
+    "value",
+    "weight",
+    "minimap_pixel"
+  ],
+  "description": "Um punhado de framboesas que são perfeitas para um lanche.",
+  "food": {
+    "nutrition": 6,
+    "poisonous": 0,
+    "raw": false
+  },
+  "glyph": {
+    "frames": [
+      {
+        "color": [
+          255,
+          255,
+          255
+        ],
+        "delay": 0,
+        "index": 393
+      }
+    ]
+  },
+  "id": "813",
+  "item": {
+    "image": 361,
+    "type": 20
+  },
+  "minimap_pixel": [
+    203,
+    105,
+    174
+  ],
+  "name": "Framboesa",
+  "value": 120,
+  "weight": 0.009999999776482582
+}

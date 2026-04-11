@@ -1,0 +1,42 @@
+{
+  "components": [
+    "glyph",
+    "item",
+    "liquid_source",
+    "minimap_pixel",
+    "name",
+    "position_2d",
+    "weight"
+  ],
+  "description": "Um corpo sem vida de um cuspidor.",
+  "glyph": {
+    "frames": [
+      {
+        "color": [
+          255,
+          255,
+          255
+        ],
+        "delay": 0,
+        "index": 1978
+      }
+    ],
+    "random_frame_start": false
+  },
+  "id": "2996",
+  "item": {
+    "image": 775,
+    "type": 18
+  },
+  "liquid_source": {
+    "limit": 140,
+    "type": 4
+  },
+  "minimap_pixel": [
+    150,
+    80,
+    15
+  ],
+  "name": "Cadáver de Cuspidor",
+  "weight": 30.0
+}

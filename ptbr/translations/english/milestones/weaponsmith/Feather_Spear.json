@@ -1,0 +1,16 @@
+{
+  "id": "core_2_feather_spear",
+  "name": "Lança de Pena",
+  "requirements": {
+    "milestones": [],
+    "skill": 50
+  },
+  "rewards": [
+    {
+      "recipe": "core_2_Feather_Spear"
+    }
+  ],
+  "skill_id": "core_2_weaponsmith",
+  "steps": [],
+  "steps_type": 0
+}

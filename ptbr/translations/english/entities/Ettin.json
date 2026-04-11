@@ -1,0 +1,257 @@
+{
+  "armor": {
+    "acid": 50,
+    "death": 50,
+    "electricity": 50,
+    "fire": 9999,
+    "frost": 9999,
+    "holy": 30,
+    "parry": 0,
+    "physical": 70,
+    "poison": 50,
+    "thorns": 0
+  },
+  "artificial_intelligence": {
+    "allies": [],
+    "allow_production": [],
+    "behaviors": [],
+    "enemies": [
+      "5"
+    ]
+  },
+  "chained": {
+    "map": [
+      [
+        "core_2_Ettin_Hand_Left",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "core_2_Ettin_Head_Left",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "RESERVED_core_2_leader_tile",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "core_2_Ettin_Head_Right",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "core_2_Ettin_Hand_Right",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ]
+    ],
+    "snake": false
+  },
+  "components": [
+    "actor",
+    "armor",
+    "artificial_intelligence",
+    "chained",
+    "collidable",
+    "experience_gainer",
+    "fighter",
+    "glyph",
+    "health",
+    "minimap_pixel",
+    "moveable",
+    "name",
+    "position_2d",
+    "sight",
+    "stamina",
+    "statistics",
+    "tags",
+    "weapon"
+  ],
+  "corpse": "core_2_Ettin_Corpse",
+  "description": "Um gigante robusto com duas cabeças. Parece estar em uma discussão perpétua consigo mesmo.",
+  "experience_gainer": {
+    "exp": 0,
+    "level": 50
+  },
+  "fighter": {
+    "attackNames": [
+      "Slam"
+    ]
+  },
+  "glyph": {
+    "frames": [
+      {
+        "color": [
+          255,
+          255,
+          255
+        ],
+        "delay": 0,
+        "index": 15
+      }
+    ],
+    "random_frame_start": false
+  },
+  "health": 4500,
+  "id": "core_2_Ettin",
+  "minimap_pixel": [
+    149,
+    165,
+    101
+  ],
+  "moveable": {
+    "speed": 0.800000011920929
+  },
+  "name": "Ettin",
+  "sight": {
+    "ignore_infra_penalty": true,
+    "infravision": true,
+    "range": 12,
+    "threesixty": true
+  },
+  "stamina": {
+    "fatigue": 100,
+    "stamina": 100,
+    "stamina_regen": 0.0
+  },
+  "statistics": {
+    "dexterity": [
+      96,
+      106
+    ],
+    "endurance": [
+      136,
+      148
+    ],
+    "intelligence": [
+      136,
+      148
+    ],
+    "magic_power": 2,
+    "strength": [
+      180,
+      200
+    ],
+    "willpower": [
+      96,
+      107
+    ]
+  },
+  "tags": [
+    "9",
+    "17"
+  ],
+  "weapon": {
+    "attack_speed": 1.0,
+    "critical_hit": 0.20000000298023224,
+    "damage": [
+      {
+        "dmg_max": 130,
+        "dmg_min": 90,
+        "dmg_type": "physical"
+      }
+    ],
+    "hands": 2,
+    "hit_bonus": 3,
+    "parry_bonus": 1,
+    "range": 1,
+    "type": 0
+  }
+}

@@ -1,0 +1,74 @@
+{
+  "armor": {
+    "acid": 0,
+    "death": 3,
+    "electricity": 0,
+    "fire": 0,
+    "frost": 1,
+    "holy": 0,
+    "parry": 0,
+    "physical": 1,
+    "poison": 0,
+    "thorns": 0
+  },
+  "components": [
+    "armor",
+    "craftable",
+    "glyph",
+    "item",
+    "minimap_pixel",
+    "name",
+    "position_2d",
+    "value",
+    "weight"
+  ],
+  "craftable": {
+    "backgrounds": [],
+    "biomes": [],
+    "magic_slots": 2,
+    "resource_types": [
+      {
+        "amount": 1,
+        "id": 2
+      }
+    ],
+    "resources": [
+      {
+        "amount": 1,
+        "id": "2127"
+      }
+    ],
+    "time": 60,
+    "tools": [
+      14
+    ]
+  },
+  "description": "Este cinto parece uma cobra enrolada em sua cintura.",
+  "glyph": {
+    "frames": [
+      {
+        "color": [
+          255,
+          255,
+          255
+        ],
+        "delay": 0,
+        "index": 3118
+      }
+    ],
+    "random_frame_start": false
+  },
+  "id": "core_2_Snake_Belt",
+  "item": {
+    "image": 1449,
+    "type": 6
+  },
+  "minimap_pixel": [
+    141,
+    46,
+    132
+  ],
+  "name": "Cinto de Cobra",
+  "value": 2100,
+  "weight": 1.0
+}

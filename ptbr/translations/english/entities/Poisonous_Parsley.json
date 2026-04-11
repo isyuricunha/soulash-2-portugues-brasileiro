@@ -1,0 +1,53 @@
+{
+  "components": [
+    "food",
+    "glyph",
+    "item",
+    "minimap_pixel",
+    "name",
+    "position_2d",
+    "resource",
+    "stackable",
+    "value",
+    "weight"
+  ],
+  "description": "Pode queimar você.",
+  "food": {
+    "nutrition": -1,
+    "on_eat": "",
+    "raw": true
+  },
+  "glyph": {
+    "frames": [
+      {
+        "color": [
+          255,
+          255,
+          255
+        ],
+        "delay": 0,
+        "index": 2545
+      }
+    ],
+    "random_frame_start": false
+  },
+  "id": "core_2_Poisonous_Parsley",
+  "item": {
+    "image": 1123,
+    "type": 20
+  },
+  "minimap_pixel": [
+    237,
+    145,
+    33
+  ],
+  "name": "Salsa Venenosa",
+  "resource": {
+    "affix": "",
+    "magic_ingredient": 0,
+    "quality": 1,
+    "type": 12
+  },
+  "value": 100,
+  "weight": 0.10000000149011612
+}
