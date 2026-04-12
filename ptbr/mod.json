@@ -1,12 +1,12 @@
 {
   "author": "Yuri Cunha",
-  "description": "Tradução para Português Brasileiro.",
+  "description": "Tradução completa do Soulash 2 para o Português Brasileiro, traduzido 100% e algumas reviões.\n\nApoie o projeto via PIX: pix@yuricunha.com\n\nComo ativar:\n1. Inscreva-se no mod pelo Workshop.\n2. Abra o jogo e vá em Mods.\n3. Ative 'Português Brasileiro'.\n4. Vá em Options e selecione Português Brasileiro como idioma.\n\nAtenção: o jogo gera nomes de itens e lugares ao criar o mundo. Se você começar em Inglês e mudar depois, alguns nomes já gerados podem continuar no idioma original. Recomenda-se criar um novo mundo com a tradução já ativa. Mas, caso não queira, não tem problemas, muitas coisas vão ficar em PTBR.",
   "disable_transition_tiles": true,
   "draw_all_glyphs": true,
   "game_required": "0.5.4",
   "icon": "S2.png",
   "mods_required": [],
-  "name": "Português Brasileiro",
+  "name": "Português Brasileiro - PTBR",
   "steam_publish_id": 3704275307,
   "thumbnail": "LogoMod.png",
   "version": "0.1.0"
