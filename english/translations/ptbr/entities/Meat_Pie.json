@@ -1,0 +1,46 @@
+{
+	"components": [
+		"food",
+		"glyph",
+		"item",
+		"minimap_pixel",
+		"name",
+		"position_2d",
+		"stackable",
+		"value",
+		"weight"
+	],
+	"description": "Tasty pastry made with meat. Don't ask what kind.",
+	"food": {
+		"nutrition": 20,
+		"on_eat": "",
+		"raw": false
+	},
+	"glyph": {
+		"frames": [
+			{
+				"color": [
+					255,
+					255,
+					255
+				],
+				"delay": 0,
+				"index": 3308
+			}
+		],
+		"random_frame_start": false
+	},
+	"id": "core_2_Meat_Pie",
+	"item": {
+		"image": 1507,
+		"type": 20
+	},
+	"minimap_pixel": [
+		206,
+		130,
+		50
+	],
+	"name": "Meat Pie",
+	"value": 200,
+	"weight": 0.20000000298023224
+}

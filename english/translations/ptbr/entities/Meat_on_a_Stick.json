@@ -1,0 +1,46 @@
+{
+	"components": [
+		"food",
+		"glyph",
+		"item",
+		"minimap_pixel",
+		"name",
+		"position_2d",
+		"stackable",
+		"value",
+		"weight"
+	],
+	"description": "Meat cubes on a stick, covered in sauce. What more can you want?",
+	"food": {
+		"nutrition": 50,
+		"on_eat": "",
+		"raw": false
+	},
+	"glyph": {
+		"frames": [
+			{
+				"color": [
+					255,
+					255,
+					255
+				],
+				"delay": 0,
+				"index": 3307
+			}
+		],
+		"random_frame_start": false
+	},
+	"id": "core_2_Meat_on_a_Stick",
+	"item": {
+		"image": 1506,
+		"type": 20
+	},
+	"minimap_pixel": [
+		157,
+		78,
+		54
+	],
+	"name": "Meat on a Stick",
+	"value": 300,
+	"weight": 0.10000000149011612
+}

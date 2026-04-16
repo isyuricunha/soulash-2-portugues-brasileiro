@@ -516,7 +516,8 @@
 				"willpower": 1
 			},
 			"tags": [
-				"1"
+				"1",
+				"9"
 			],
 			"trade_restrictions": [
 				"802"
@@ -606,7 +607,8 @@
 				"willpower": 2
 			},
 			"tags": [
-				"6"
+				"6",
+				"9"
 			],
 			"trade_restrictions": [
 				"2112",
@@ -684,7 +686,8 @@
 				"intelligence": 2
 			},
 			"tags": [
-				"7"
+				"7",
+				"9"
 			],
 			"trade_restrictions": [
 				"325"
@@ -768,6 +771,7 @@
 			},
 			"tags": [
 				"0",
+				"9",
 				"26"
 			],
 			"courting": {
@@ -966,6 +970,7 @@
 				"health_regen_tick": 8.0
 			},
 			"tags": [
+				"9",
 				"11",
 				"26"
 			],
@@ -1037,6 +1042,7 @@
 				"strength": 2
 			},
 			"tags": [
+				"9",
 				"12",
 				"26"
 			],
@@ -1148,7 +1154,7 @@
 				}
 			},
 			"tags": [
-				"2",
+				"9",
 				"28"
 			],
 			"courting": {
@@ -1178,6 +1184,7 @@
 			},
 			"playable": false,
 			"tags": [
+				"9",
 				"10"
 			]
 		},
@@ -1191,6 +1198,7 @@
 			},
 			"playable": false,
 			"tags": [
+				"9",
 				"13"
 			]
 		},
@@ -1224,6 +1232,7 @@
 			},
 			"playable": false,
 			"tags": [
+				"9",
 				"15"
 			]
 		},
@@ -1238,6 +1247,7 @@
 			},
 			"playable": false,
 			"tags": [
+				"9",
 				"16"
 			]
 		},
@@ -1331,6 +1341,7 @@
 			"name": "Dragon",
 			"playable": false,
 			"tags": [
+				"9",
 				"19"
 			]
 		},
@@ -1340,6 +1351,7 @@
 			"name": "Insectoid",
 			"playable": false,
 			"tags": [
+				"9",
 				"18"
 			]
 		},
@@ -1353,6 +1365,7 @@
 			},
 			"playable": false,
 			"tags": [
+				"9",
 				"17"
 			]
 		},
@@ -1442,6 +1455,7 @@
 				"dexterity": 2
 			},
 			"tags": [
+				"9",
 				"24"
 			],
 			"courting": {
@@ -1465,6 +1479,7 @@
 			},
 			"playable": false,
 			"tags": [
+				"9",
 				"29"
 			]
 		},
@@ -1474,6 +1489,7 @@
 			"name": "Kavian",
 			"playable": false,
 			"tags": [
+				"9",
 				"30"
 			]
 		},
@@ -1785,7 +1801,8 @@
 				"intelligence": 2
 			},
 			"tags": [
-				"9"
+				"9",
+				"40"
 			],
 			"courting": {
 				"female": [
@@ -2138,6 +2155,10 @@
 		{
 			"id": "39",
 			"name": "dark dwarf"
+		},
+		{
+			"id": "40",
+			"name": "fungus"
 		}
 	],
 	"custom_eq_slots": [

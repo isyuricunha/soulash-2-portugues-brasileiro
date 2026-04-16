@@ -1,0 +1,93 @@
+{
+    "id": "core_2_dwarf_festival",
+    "name": "Festival of the Mountain",
+    "category": "settlement",
+    "flavor": "The mountain is our home. It gives us shelter. It's time to honor it. A traveling fair sets up colorful stalls in the settlement square. Traders hawk rare goods while the celebration lasts.",
+    "icon": 1,
+    "small_icon": 1,
+    "rarity": "uncommon",
+    "restrict_races": ["1"],
+    "trigger": {
+        "base_probability": 0.005,
+        "conditions": [
+            {
+                "type": "settlement_population_min",
+                "value": 20
+            },
+            {
+                "type": "settlement_tier_min",
+                "value": 1
+            },
+            {
+                "type": "min_unemployed",
+                "value": 1
+            }
+        ]
+    },
+    "duration": {
+        "type": "temporary",
+        "days": [
+            30,
+            50
+        ]
+    },
+    "building": {
+        "building_id": "534"
+    },
+    "effects": [
+        {
+            "type": "spawn_group",
+            "amount": [
+                1,
+                2
+            ],
+            "group_type": "settlement",
+            "entity": "core_2_Dwarf_Festival_Vendor",
+            "trade_list": [
+                {
+                    "id": "318",
+                    "amount": 20
+                },
+                {
+                    "id": "809",
+                    "amount": 12
+                },
+                {
+                    "id": "core_2_Glass_Gem",
+                    "amount": 3
+                },
+                {
+                    "id": "1093",
+                    "amount": 1
+                },
+                {
+                    "id": "848",
+                    "amount": 3
+                },
+                {
+                    "id": "847",
+                    "amount": 5
+                },
+                {
+                    "id": "161",
+                    "amount": 3
+                },
+                {
+                    "id": "159",
+                    "amount": 2
+                }
+            ],
+            "border_color": [
+                128,
+                0,
+                128
+            ]
+        }
+    ],
+    "extra_dialogues": [],
+    "interactions": [],
+    "history_events": {
+        "begin": "A festival has begun in this settlement!",
+        "end": "The festival has ended and the stalls are packed away."
+    }
+}

@@ -1,0 +1,87 @@
+{
+	"components": [
+		"block_light",
+		"glyph",
+		"height",
+		"minimap_pixel",
+		"name",
+		"position_2d"
+	],
+	"description": "This spore cloud shimmers slightly.",
+	"glyph": {
+		"frames": [
+			{
+				"color": [
+					151,
+					150,
+					99
+				],
+				"delay": 50,
+				"index": 3292
+			},
+			{
+				"color": [
+					151,
+					150,
+					99
+				],
+				"delay": 100,
+				"index": 3293
+			},
+			{
+				"color": [
+					151,
+					150,
+					99
+				],
+				"delay": 100,
+				"index": 3294
+			},
+			{
+				"color": [
+					151,
+					150,
+					99
+				],
+				"delay": 100,
+				"index": 3295
+			},
+			{
+				"color": [
+					151,
+					150,
+					99
+				],
+				"delay": 100,
+				"index": 3296
+			},
+			{
+				"color": [
+					151,
+					150,
+					99
+				],
+				"delay": 100,
+				"index": 3297
+			},
+			{
+				"color": [
+					151,
+					150,
+					99
+				],
+				"delay": 200,
+				"index": 3298
+			}
+		],
+		"random_frame_start": true
+	},
+	"height": 0,
+	"id": "core_2_Spore_Cloud",
+	"minimap_pixel": [
+		16,
+		16,
+		14
+	],
+	"name": "Spore Cloud"
+}

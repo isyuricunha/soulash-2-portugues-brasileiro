@@ -1077,7 +1077,7 @@
                 "secondary_value": 10
             }
         ],
-        "description": "+1 Damage for every Undead entity in the range of 10 tiles."
+        "description": "+1 Magic Power for every Undead entity in the range of 10 tiles."
     },
     {
         "id": "core_2_lifesteal",

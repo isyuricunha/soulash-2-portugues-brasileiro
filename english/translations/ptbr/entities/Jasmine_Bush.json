@@ -1,0 +1,84 @@
+{
+	"armor": {
+		"acid": 100,
+		"death": 0,
+		"electricity": 10,
+		"fire": -10,
+		"frost": 30,
+		"holy": 100,
+		"parry": 0,
+		"physical": 5,
+		"poison": 100,
+		"thorns": 0
+	},
+	"components": [
+		"armor",
+		"block_light",
+		"collidable",
+		"glyph",
+		"glyph_top",
+		"health",
+		"height",
+		"minimap_pixel",
+		"name",
+		"position_2d",
+		"producer"
+	],
+	"corpse": [],
+	"description": "A tall bush full of beautifully fregrant white flowers.",
+	"glyph": {
+		"frames": [
+			{
+				"color": [
+					120,
+					88,
+					66
+				],
+				"delay": 0,
+				"index": 860
+			}
+		],
+		"random_frame_start": false,
+		"random_top": {
+			"colors": [
+				[
+					255,
+					255,
+					255
+				]
+			],
+			"count": 5,
+			"glyph_ids": [
+				3289,
+				3290
+			],
+			"max_alpha": 200,
+			"max_range": 3,
+			"wind": true
+		}
+	},
+	"health": 50,
+	"height": 2,
+	"id": "core_2_Jasmine_Bush",
+	"minimap_pixel": [
+		37,
+		89,
+		31
+	],
+	"name": "Jasmine Bush",
+	"producer": {
+		"products": {
+			"10": [
+				{
+					"amount": [
+						1,
+						3
+					],
+					"id": "core_2_Jasmine_Flower",
+					"percent_chance": 100
+				}
+			]
+		},
+		"time": 0
+	}
+}

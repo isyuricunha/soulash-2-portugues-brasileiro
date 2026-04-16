@@ -1,0 +1,40 @@
+{
+	"components": [
+		"glyph",
+		"health",
+		"height",
+		"liquid_source",
+		"minimap_pixel",
+		"name",
+		"position_2d"
+	],
+	"corpse": "25",
+	"description": "A tall pole wraped in flowers and ribbons.",
+	"glyph": {
+		"frames": [
+			{
+				"color": [
+					255,
+					255,
+					255
+				],
+				"delay": 0,
+				"index": 3274
+			}
+		],
+		"random_frame_start": false
+	},
+	"health": 50,
+	"height": 1,
+	"id": "core_2_Maypole",
+	"liquid_source": {
+		"limit": 100,
+		"type": 4
+	},
+	"minimap_pixel": [
+		147,
+		128,
+		104
+	],
+	"name": "Maypole"
+}

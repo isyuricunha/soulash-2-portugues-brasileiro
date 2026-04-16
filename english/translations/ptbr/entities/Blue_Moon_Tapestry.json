@@ -1,0 +1,34 @@
+{
+	"components": [
+		"collidable",
+		"glyph",
+		"health",
+		"minimap_pixel",
+		"name",
+		"position_2d"
+	],
+	"corpse": [],
+	"description": "A beautiful tapestry depicting a blue full moon.",
+	"glyph": {
+		"frames": [
+			{
+				"color": [
+					255,
+					255,
+					255
+				],
+				"delay": 0,
+				"index": 3258
+			}
+		],
+		"random_frame_start": true
+	},
+	"health": 50,
+	"id": "core_2_Blue_Moon_Tapestry",
+	"minimap_pixel": [
+		169,
+		108,
+		14
+	],
+	"name": "Blue Moon Tapestry"
+}

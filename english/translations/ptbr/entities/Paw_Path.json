@@ -1,0 +1,47 @@
+{
+	"background": {
+		"color": [
+			44,
+			45,
+			41
+		],
+		"noise": 2,
+		"noise_intensity": 5
+	},
+	"components": [
+		"background",
+		"glyph",
+		"health",
+		"minimap_pixel",
+		"name"
+	],
+	"corpse": [
+		{
+			"damage_type": 2,
+			"id": "602"
+		}
+	],
+	"description": "Someone made a path of paw tracks here.",
+	"glyph": {
+		"frames": [
+			{
+				"color": [
+					255,
+					255,
+					255
+				],
+				"delay": 0,
+				"index": 3286
+			}
+		],
+		"random_frame_start": false
+	},
+	"health": 1,
+	"id": "core_2_Paw_Path",
+	"minimap_pixel": [
+		65,
+		45,
+		12
+	],
+	"name": "Paw Path"
+}

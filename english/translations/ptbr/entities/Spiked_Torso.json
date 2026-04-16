@@ -9,7 +9,7 @@
 		"parry": 0,
 		"physical": 0,
 		"poison": 0,
-		"thorns": 5
+		"thorns": 6
 	},
 	"components": [
 		"armor",

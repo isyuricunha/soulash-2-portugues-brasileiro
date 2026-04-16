@@ -1,0 +1,89 @@
+{
+    "id": "core_2_human_festival",
+    "name": "Festival of Harvest",
+    "category": "settlement",
+    "flavor": "Harvest is over, so now it's time to celebrate! A traveling fair sets up colorful stalls in the settlement square. Traders hawk rare goods while the celebration lasts.",
+    "icon": 1,
+    "small_icon": 1,
+    "rarity": "uncommon",
+    "restrict_races": ["0"],
+    "trigger": {
+        "base_probability": 0.005,
+        "conditions": [
+            {
+                "type": "settlement_population_min",
+                "value": 20
+            },
+            {
+                "type": "settlement_tier_min",
+                "value": 1
+            },
+            {
+                "type": "min_unemployed",
+                "value": 1
+            }
+        ]
+    },
+    "duration": {
+        "type": "temporary",
+        "days": [
+            30,
+            50
+        ]
+    },
+    "building": {
+        "building_id": "533"
+    },
+    "effects": [
+        {
+            "type": "spawn_group",
+            "amount": [
+                1,
+                2
+            ],
+            "group_type": "settlement",
+            "entity": "core_2_Human_Festival_Vendor",
+            "trade_list": [
+                {
+                    "id": "318",
+                    "amount": 20
+                },
+                {
+                    "id": "809",
+                    "amount": 12
+                },
+                {
+                    "id": "core_2_Meat_on_a_Stick",
+                    "amount": 10
+                },
+                {
+                    "id": "core_2_Caught_Chick",
+                    "amount": 2
+                },
+                {
+                    "id": "core_2_Potato",
+                    "amount": 10
+                },
+                {
+                    "id": "core_2_Sausage",
+                    "amount": 5
+                },
+                {
+                    "id": "803",
+                    "amount": 4
+                }
+            ],
+            "border_color": [
+                128,
+                0,
+                128
+            ]
+        }
+    ],
+    "extra_dialogues": [],
+    "interactions": [],
+    "history_events": {
+        "begin": "A festival has begun in this settlement!",
+        "end": "The festival has ended and the stalls are packed away."
+    }
+}

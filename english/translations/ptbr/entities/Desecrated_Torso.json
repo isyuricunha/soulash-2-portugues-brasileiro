@@ -1,7 +1,7 @@
 {
 	"armor": {
 		"acid": 0,
-		"death": 0,
+		"death": 12,
 		"electricity": 0,
 		"fire": 0,
 		"frost": 0,
@@ -19,8 +19,8 @@
 		"minimap_pixel",
 		"name",
 		"position_2d",
+		"usable",
 		"value",
-		"weapon",
 		"weight"
 	],
 	"craftable": {
@@ -72,22 +72,10 @@
 		161
 	],
 	"name": "Desecrated Torso",
-	"value": 15000,
-	"weapon": {
-		"attack_speed": 1.0,
-		"critical_hit": 0.0,
-		"damage": [
-			{
-				"dmg_max": 10,
-				"dmg_min": 10,
-				"dmg_type": "death"
-			}
-		],
-		"hands": 1,
-		"hit_bonus": 0,
-		"parry_bonus": 0,
-		"range": 1,
-		"type": 9
+	"usable": {
+		"ability": "55",
+		"recipe": ""
 	},
+	"value": 15000,
 	"weight": 1.5
 }

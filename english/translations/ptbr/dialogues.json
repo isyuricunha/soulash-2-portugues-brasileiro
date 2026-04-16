@@ -17232,22 +17232,7 @@
 		],
 		"chance": 0.1,
 		"id": "core_2_rebellion_whispers",
-		"monologue": [
-			[
-				"The air smells wrong...",
-				"Like rot and sickness."
-			],
-			[
-				"A curse must have fallen upon our city.",
-				"I can feel it."
-			],
-			[
-				"[color=150,150,150,255]*caughs*[/color]"
-			],
-			[
-				"[color=150,150,150,255]*caughs profusely*[/color]"
-			]
-		],
+		"monologue": [],
 		"name": "Whispers of Rebellion",
 		"trigger": 1
 	}

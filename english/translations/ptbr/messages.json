@@ -10341,6 +10341,16 @@
             ],
             "format": "crime",
             "id": 1022
+        },
+        {
+            "color": [
+                200,
+                200,
+                200,
+                255
+            ],
+            "format": "Seaside",
+            "id": 1023
         }
     ],
     "statistics": [
@@ -10618,7 +10628,7 @@
             "id": 41,
             "effect": "Challenge",
             "success": "{} sounds the horn, taunting everyone nearby!",
-            "fail": "none"
+            "fail": "{} taunts {} to attack."
         },
         {
             "id": 42,
@@ -10689,14 +10699,14 @@
         {
             "id": 53,
             "effect": "Hit Chance",
-            "success": "{} concentrates on accurately hitting his opponents.",
-            "fail": "none"
+            "success": "{} concentrates on accurately hitting his opponents [+hit chance].",
+            "fail": "{} loses concentration during the fight [-hit chance]."
         },
         {
             "id": 54,
             "effect": "Parry Chance",
-            "success": "{} concentrates on parrying incoming hits.",
-            "fail": "none"
+            "success": "{} concentrates on parrying incoming hits [+parry].",
+            "fail": "{} loses concentration during the fight [-parry]."
         },
         {
             "id": 55,
@@ -12590,7 +12600,7 @@
         },
         {
             "id": 12,
-            "format": "::name joins ::company company."
+            "format": "::name joins ::company company as ::occupation."
         },
         {
             "id": 13,
@@ -12663,6 +12673,18 @@
         {
             "id": 32,
             "format": "::company arrived at ::settlement during their travels."
+        },
+        {
+            "id": 35,
+            "format": "::name becomes ::occupation during ::event_name in ::settlement."
+        },
+        {
+            "id": 36,
+            "format": "::name slayed ::related_entity, ::occupation of a ::company company during ::war."
+        },
+        {
+            "id": 37,
+            "format": "::name becomes ::skill_level in ::skill."
         }
     ],
     "genders": [

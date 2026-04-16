@@ -1,0 +1,34 @@
+{
+	"components": [
+		"block_light",
+		"collidable",
+		"glyph",
+		"height",
+		"minimap_pixel",
+		"name",
+		"position_2d"
+	],
+	"description": "A pile sparkling with gold and jewles. Made with rocks and some paint.",
+	"glyph": {
+		"frames": [
+			{
+				"color": [
+					255,
+					255,
+					255
+				],
+				"delay": 0,
+				"index": 3272
+			}
+		],
+		"random_frame_start": false
+	},
+	"height": 0,
+	"id": "core_2_Fake_Pile_of_Treasure",
+	"minimap_pixel": [
+		155,
+		124,
+		69
+	],
+	"name": "Fake Pile of Treasure"
+}

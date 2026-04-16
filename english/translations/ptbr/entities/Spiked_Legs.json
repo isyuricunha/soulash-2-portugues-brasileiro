@@ -9,7 +9,7 @@
 		"parry": 0,
 		"physical": 0,
 		"poison": 0,
-		"thorns": 0
+		"thorns": 6
 	},
 	"components": [
 		"armor",
@@ -20,7 +20,6 @@
 		"name",
 		"position_2d",
 		"value",
-		"weapon",
 		"weight"
 	],
 	"craftable": {
@@ -77,21 +76,5 @@
 	],
 	"name": "Spiked Legs",
 	"value": 15000,
-	"weapon": {
-		"attack_speed": 0.0,
-		"critical_hit": 0.0,
-		"damage": [
-			{
-				"dmg_max": 10,
-				"dmg_min": 10,
-				"dmg_type": "physical"
-			}
-		],
-		"hands": 1,
-		"hit_bonus": 0,
-		"parry_bonus": 0,
-		"range": 0,
-		"type": 9
-	},
 	"weight": 1.5
 }

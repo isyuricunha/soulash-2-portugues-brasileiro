@@ -1,0 +1,80 @@
+{
+	"armor": {
+		"acid": 3,
+		"death": 2,
+		"electricity": 10,
+		"fire": 18,
+		"frost": 2,
+		"holy": 2,
+		"parry": 0,
+		"physical": 3,
+		"poison": 16,
+		"thorns": 0
+	},
+	"components": [
+		"armor",
+		"collidable",
+		"glyph",
+		"health",
+		"light_source",
+		"minimap_pixel",
+		"name",
+		"position_2d"
+	],
+	"corpse": [],
+	"description": "A stone carved with special rune. It glows lightly in the dark.",
+	"glyph": {
+		"frames": [
+			{
+				"color": [
+					255,
+					255,
+					255
+				],
+				"delay": 300,
+				"index": 806
+			},
+			{
+				"color": [
+					255,
+					255,
+					255
+				],
+				"delay": 300,
+				"index": 807
+			},
+			{
+				"color": [
+					255,
+					255,
+					255
+				],
+				"delay": 300,
+				"index": 808
+			},
+			{
+				"color": [
+					255,
+					255,
+					255
+				],
+				"delay": 300,
+				"index": 809
+			}
+		],
+		"random_frame_start": true
+	},
+	"health": 100,
+	"id": "core_2_Glowing_Rune",
+	"light_source": {
+		"finish": -1,
+		"lit_image": -1,
+		"range": 5
+	},
+	"minimap_pixel": [
+		136,
+		120,
+		42
+	],
+	"name": "Glowing Rune"
+}

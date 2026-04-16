@@ -211,6 +211,7 @@
                 "core_2_marriage_options_1",
                 "core_2_marry_1",
                 "core_2_marry_2",
+                "core_2_sabotage_1",
                 "core_2_favorite_people_1",
                 "core_2_exit_1"
             ],
@@ -1284,6 +1285,7 @@
                 "core_2_marriage_options_1",
                 "core_2_marry_5",
                 "core_2_marry_6",
+                "core_2_sabotage_1",
                 "core_2_favorite_people_2",
                 "core_2_exit_1"
             ],
@@ -1796,6 +1798,7 @@
                 "core_2_marriage_options_1",
                 "core_2_marry_3",
                 "core_2_marry_4",
+                "core_2_sabotage_1",
                 "core_2_favorite_people_3",
                 "core_2_exit_1"
             ],
@@ -2651,6 +2654,7 @@
                 "core_2_directions_1",
                 "core_2_ask_trainer_1",
                 "core_2_train_1",
+                "core_2_sabotage_1",
                 "core_2_favorite_people_5",
                 "core_2_exit_1"
             ],
@@ -3564,6 +3568,7 @@
                 "core_2_marriage_options_1",
                 "core_2_marry_13",
                 "core_2_marry_14",
+                "core_2_sabotage_1",
                 "core_2_favorite_people_4",
                 "core_2_exit_1"
             ],
@@ -5362,6 +5367,7 @@
                 "core_2_marriage_options_1",
                 "core_2_marry_15",
                 "core_2_marry_16",
+                "core_2_sabotage_1",
                 "core_2_favorite_people_14",
                 "core_2_exit_1"
             ],
@@ -5479,6 +5485,7 @@
                 "core_2_marriage_options_1",
                 "core_2_marry_19",
                 "core_2_marry_20",
+                "core_2_sabotage_1",
                 "core_2_favorite_people_6",
                 "core_2_exit_1"
             ],
@@ -6543,7 +6550,6 @@
                 "core_2_marry_21",
                 "core_2_marry_22",
                 "core_2_favorite_people_7",
-                "core_2_favorite_people_8",
                 "core_2_exit_1"
             ],
             "player_race": [],
@@ -6580,7 +6586,6 @@
                 "core_2_marry_21",
                 "core_2_marry_22",
                 "core_2_favorite_people_7",
-                "core_2_favorite_people_8",
                 "core_2_exit_1"
             ],
             "player_race": [],
@@ -6626,7 +6631,6 @@
                 "core_2_marry_21",
                 "core_2_marry_22",
                 "core_2_favorite_people_7",
-                "core_2_favorite_people_8",
                 "core_2_exit_1"
             ],
             "player_race": [],
@@ -6673,7 +6677,6 @@
                 "core_2_marry_21",
                 "core_2_marry_22",
                 "core_2_favorite_people_7",
-                "core_2_favorite_people_8",
                 "core_2_exit_1"
             ],
             "player_race": [],
@@ -6718,7 +6721,6 @@
                 "core_2_marry_21",
                 "core_2_marry_22",
                 "core_2_favorite_people_7",
-                "core_2_favorite_people_8",
                 "core_2_exit_1"
             ],
             "player_race": [],
@@ -6763,7 +6765,6 @@
                 "core_2_marry_21",
                 "core_2_marry_22",
                 "core_2_favorite_people_7",
-                "core_2_favorite_people_8",
                 "core_2_exit_1"
             ],
             "player_race": [],
@@ -6809,7 +6810,6 @@
                 "core_2_marry_21",
                 "core_2_marry_22",
                 "core_2_favorite_people_7",
-                "core_2_favorite_people_8",
                 "core_2_exit_1"
             ],
             "player_race": [],
@@ -6855,7 +6855,6 @@
                 "core_2_marry_21",
                 "core_2_marry_22",
                 "core_2_favorite_people_7",
-                "core_2_favorite_people_8",
                 "core_2_exit_1"
             ],
             "player_race": [],
@@ -6900,7 +6899,6 @@
                 "core_2_marry_21",
                 "core_2_marry_22",
                 "core_2_favorite_people_7",
-                "core_2_favorite_people_8",
                 "core_2_exit_1"
             ],
             "player_race": [],
@@ -6946,7 +6944,6 @@
                 "core_2_marry_21",
                 "core_2_marry_22",
                 "core_2_favorite_people_7",
-                "core_2_favorite_people_8",
                 "core_2_exit_1"
             ],
             "player_race": [],
@@ -6992,7 +6989,6 @@
                 "core_2_marry_21",
                 "core_2_marry_22",
                 "core_2_favorite_people_7",
-                "core_2_favorite_people_8",
                 "core_2_exit_1"
             ],
             "player_race": [],
@@ -7037,7 +7033,6 @@
                 "core_2_marry_21",
                 "core_2_marry_22",
                 "core_2_favorite_people_7",
-                "core_2_favorite_people_8",
                 "core_2_exit_1"
             ],
             "player_race": [],
@@ -7083,7 +7078,6 @@
                 "core_2_marry_21",
                 "core_2_marry_22",
                 "core_2_favorite_people_7",
-                "core_2_favorite_people_8",
                 "core_2_exit_1"
             ],
             "player_race": [],
@@ -7129,7 +7123,6 @@
                 "core_2_marry_21",
                 "core_2_marry_22",
                 "core_2_favorite_people_7",
-                "core_2_favorite_people_8",
                 "core_2_exit_1"
             ],
             "player_race": [],
@@ -7174,7 +7167,6 @@
                 "core_2_marry_21",
                 "core_2_marry_22",
                 "core_2_favorite_people_7",
-                "core_2_favorite_people_8",
                 "core_2_exit_1"
             ],
             "player_race": [],
@@ -7218,7 +7210,6 @@
                 "core_2_marry_21",
                 "core_2_marry_22",
                 "core_2_favorite_people_7",
-                "core_2_favorite_people_8",
                 "core_2_exit_1"
             ],
             "player_race": [],
@@ -7253,7 +7244,6 @@
                 "core_2_marry_21",
                 "core_2_marry_22",
                 "core_2_favorite_people_7",
-                "core_2_favorite_people_8",
                 "core_2_exit_1"
             ],
             "player_race": [],
@@ -7291,7 +7281,6 @@
                 "core_2_marry_22",
                 "core_2_company_order_6",
                 "core_2_favorite_people_7",
-                "core_2_favorite_people_8",
                 "core_2_exit_1"
             ],
             "player_race": [],
@@ -7329,7 +7318,6 @@
                 "core_2_marry_22",
                 "core_2_company_order_6",
                 "core_2_favorite_people_7",
-                "core_2_favorite_people_8",
                 "core_2_exit_1"
             ],
             "player_race": [],
@@ -7366,7 +7354,6 @@
                 "core_2_marry_22",
                 "core_2_company_order_6",
                 "core_2_favorite_people_7",
-                "core_2_favorite_people_8",
                 "core_2_exit_1"
             ],
             "player_race": [],
@@ -7403,7 +7390,6 @@
                 "core_2_marry_22",
                 "core_2_company_order_6",
                 "core_2_favorite_people_7",
-                "core_2_favorite_people_8",
                 "core_2_exit_1"
             ],
             "player_race": [],
@@ -7595,8 +7581,8 @@
                 "core_2_marriage_options_1",
                 "core_2_marry_21",
                 "core_2_marry_22",
+                "core_2_sabotage_1",
                 "core_2_favorite_people_7",
-                "core_2_favorite_people_8",
                 "core_2_exit_1"
             ],
             "player_race": [],
@@ -9467,6 +9453,7 @@
                 "core_2_marriage_options_1",
                 "core_2_marry_7",
                 "core_2_marry_8",
+                "core_2_sabotage_1",
                 "core_2_favorite_people_10",
                 "core_2_exit_1"
             ],
@@ -10212,6 +10199,7 @@
                 "core_2_marriage_options_1",
                 "core_2_marry_11",
                 "core_2_marry_12",
+                "core_2_sabotage_1",
                 "core_2_favorite_people_9",
                 "core_2_exit_1"
             ],
@@ -10664,6 +10652,7 @@
                 "core_2_marriage_options_1",
                 "core_2_marry_9",
                 "core_2_marry_10",
+                "core_2_sabotage_1",
                 "core_2_favorite_people_8",
                 "core_2_exit_1"
             ],
@@ -11501,7 +11490,6 @@
                 "core_2_marry_22",
                 "core_2_company_order_6",
                 "core_2_favorite_people_7",
-                "core_2_favorite_people_8",
                 "core_2_exit_1"
             ],
             "player_race": [],
@@ -12093,7 +12081,6 @@
                 "core_2_marry_21",
                 "core_2_marry_22",
                 "core_2_favorite_people_7",
-                "core_2_favorite_people_8",
                 "core_2_exit_1"
             ],
             "player_race": [],
@@ -12240,7 +12227,6 @@
                 "core_2_marry_21",
                 "core_2_marry_22",
                 "core_2_favorite_people_7",
-                "core_2_favorite_people_8",
                 "core_2_exit_1"
             ],
             "player_race": [],
@@ -12718,7 +12704,6 @@
                 "core_2_marry_21",
                 "core_2_marry_22",
                 "core_2_favorite_people_7",
-                "core_2_favorite_people_8",
                 "core_2_exit_1"
             ],
             "player_race": [],
@@ -12926,7 +12911,6 @@
                 "core_2_marry_21",
                 "core_2_marry_22",
                 "core_2_favorite_people_7",
-                "core_2_favorite_people_8",
                 "core_2_exit_1"
             ],
             "player_race": [],
@@ -13408,7 +13392,6 @@
                 "core_2_marry_21",
                 "core_2_marry_22",
                 "core_2_favorite_people_7",
-                "core_2_favorite_people_8",
                 "core_2_exit_1"
             ],
             "player_race": [],
@@ -15867,7 +15850,6 @@
                 "core_2_marry_22",
                 "core_2_company_order_6",
                 "core_2_favorite_people_7",
-                "core_2_favorite_people_8",
                 "core_2_exit_1"
             ],
             "player_race": [],
@@ -15894,7 +15876,6 @@
                 "core_2_marry_22",
                 "core_2_company_order_6",
                 "core_2_favorite_people_7",
-                "core_2_favorite_people_8",
                 "core_2_exit_1"
             ],
             "player_race": [],
@@ -15920,7 +15901,6 @@
                 "core_2_marry_21",
                 "core_2_marry_22",
                 "core_2_favorite_people_7",
-                "core_2_favorite_people_8",
                 "core_2_exit_1"
             ],
             "player_race": [],
@@ -15947,7 +15927,6 @@
                 "core_2_marry_21",
                 "core_2_marry_22",
                 "core_2_favorite_people_7",
-                "core_2_favorite_people_8",
                 "core_2_exit_1"
             ],
             "player_race": [],
@@ -15974,7 +15953,6 @@
                 "core_2_marry_21",
                 "core_2_marry_22",
                 "core_2_favorite_people_7",
-                "core_2_favorite_people_8",
                 "core_2_exit_1"
             ],
             "player_race": [],
@@ -16001,7 +15979,6 @@
                 "core_2_marry_21",
                 "core_2_marry_22",
                 "core_2_favorite_people_7",
-                "core_2_favorite_people_8",
                 "core_2_exit_1"
             ],
             "player_race": [],
@@ -16028,7 +16005,6 @@
                 "core_2_marry_21",
                 "core_2_marry_22",
                 "core_2_favorite_people_7",
-                "core_2_favorite_people_8",
                 "core_2_exit_1"
             ],
             "player_race": [],
@@ -16055,7 +16031,6 @@
                 "core_2_marry_21",
                 "core_2_marry_22",
                 "core_2_favorite_people_7",
-                "core_2_favorite_people_8",
                 "core_2_exit_1"
             ],
             "player_race": [],
@@ -16082,7 +16057,6 @@
                 "core_2_marry_22",
                 "core_2_company_order_6",
                 "core_2_favorite_people_7",
-                "core_2_favorite_people_8",
                 "core_2_exit_1"
             ],
             "player_race": [],
@@ -16108,7 +16082,6 @@
                 "core_2_marry_21",
                 "core_2_marry_22",
                 "core_2_favorite_people_7",
-                "core_2_favorite_people_8",
                 "core_2_exit_1"
             ],
             "player_race": [],
@@ -16135,7 +16108,6 @@
                 "core_2_marry_21",
                 "core_2_marry_22",
                 "core_2_favorite_people_7",
-                "core_2_favorite_people_8",
                 "core_2_exit_1"
             ],
             "player_race": [],
@@ -16162,7 +16134,6 @@
                 "core_2_marry_21",
                 "core_2_marry_22",
                 "core_2_favorite_people_7",
-                "core_2_favorite_people_8",
                 "core_2_exit_1"
             ],
             "player_race": [],
@@ -16189,7 +16160,6 @@
                 "core_2_marry_22",
                 "core_2_company_order_6",
                 "core_2_favorite_people_7",
-                "core_2_favorite_people_8",
                 "core_2_exit_1"
             ],
             "player_race": [],
@@ -19115,90 +19085,186 @@
             "id": "core_2_back_rebellion_agitator",
             "text": "(back to main discussion)",
             "type": "back_to_main"
+        },
+        {
+            "answer_negative": "The festival is winding down - come back next time!",
+            "answer_positive": "Welcome! Fine festival goods, coming from faraway lands!",
+            "entities": [
+                "core_2_Ursan_Festival_Vendor",
+                "core_2_Elf_Festival_Vendor",
+                "core_2_Human_Festival_Vendor",
+                "core_2_Bone_Wraith_Festival_Vendor",
+                "core_2_Rasimi_Festival_Vendor",
+                "core_2_Dwarf_Festival_Vendor"
+            ],
+            "id": "core_2_begin_festival_1",
+            "options": [
+                "core_2_trade_11",
+                "core_2_directions_1",
+                "core_2_exit_1"
+            ],
+            "text": "",
+            "type": "begin_conversation"
+        },
+         {
+            "answer_negative": "The festival is winding down - come back next time!",
+            "answer_positive": "Welcome! Fine festival goods, everything legal!",
+            "entities": [
+                "core_2_Goblin_Festival_Vendor"
+            ],
+            "id": "core_2_begin_festival_2",
+            "options": [
+                "core_2_trade_11",
+                "core_2_directions_1",
+                "core_2_exit_1"
+            ],
+            "text": "",
+            "type": "begin_conversation"
+        },
+        {
+            "answer_negative": "The festival is winding down - come back next time!",
+            "answer_positive": "Hey there! It's better to buy something, than to get bruised.",
+            "entities": [
+                "core_2_Orc_Festival_Vendor",
+                "core_2_Troll_Festival_Vendor"
+            ],
+            "id": "core_2_begin_festival_3",
+            "options": [
+                "core_2_trade_11",
+                "core_2_directions_1",
+                "core_2_exit_1"
+            ],
+            "text": "",
+            "type": "begin_conversation"
+        },
+        {
+            "answer_negative": "The festival is winding down - come back next time!",
+            "answer_positive": "Welcome! We have only the finest festival goods.",
+            "entities": [
+                "core_2_Mushman_Festival_Vendor"
+            ],
+            "id": "core_2_begin_festival_4",
+            "options": [
+                "core_2_trade_11",
+                "core_2_directions_1",
+                "core_2_exit_1"
+            ],
+            "text": "",
+            "type": "begin_conversation"
+        },
+        {
+            "answer_negative": "The festival is winding down - come back next time!",
+            "answer_positive": "Hi! Want to buy something? Just don't ask where the meat comes from!",
+            "entities": [
+                "core_2_Gnoll_Festival_Vendor"
+            ],
+            "id": "core_2_begin_festival_5",
+            "options": [
+                "core_2_trade_11",
+                "core_2_directions_1",
+                "core_2_exit_1"
+            ],
+            "text": "",
+            "type": "begin_conversation"
+        },
+        {
+            "answer_negative": "The fessstival is winding down - come back next time!",
+            "answer_positive": "Welcome! Finessst fessstival goodsss, coming from faraway landsss!",
+            "entities": [
+                "core_2_Reptilion_Festival_Vendor"
+            ],
+            "id": "core_2_begin_festival_6",
+            "options": [
+                "core_2_trade_11",
+                "core_2_directions_1",
+                "core_2_exit_1"
+            ],
+            "text": "",
+            "type": "begin_conversation"
         }
     ],
     "family_conversations": [
         {
             "race": "0",
-            "comment" : "human",
+            "comment": "human",
             "answer_positive": "Do you need anything, ::relative?",
             "answer_negative": "You know I'm busy now, ::relative, come back later!"
         },
         {
             "race": "1",
-            "comment" : "dwarf",
+            "comment": "dwarf",
             "answer_positive": "::relative, I still have you in my book. What do you need now?",
             "answer_negative": "Not in the mood for chatting right now, ::relative."
         },
         {
             "race": "2",
-            "comment" : "elf",
+            "comment": "elf",
             "answer_positive": "Ah, good to see you again, ::relative.",
             "answer_negative": "Could we speak at a later time, ::relative?"
         },
         {
             "race": "4",
-            "comment" : "goblin",
+            "comment": "goblin",
             "answer_positive": "You know I would not steal from family! Right, ::relative?",
             "answer_negative": "I got no time for talkin', ::relative."
         },
         {
             "race": "6",
-            "comment" : "vampire",
+            "comment": "vampire",
             "answer_positive": "Ah, ::relative. Even after death, I can't avoid you.",
             "answer_negative": "I've spoken enough for one lifetime, ::relative."
         },
         {
             "race": "7",
-            "comment" : "troll",
+            "comment": "troll",
             "answer_positive": "You want somethin`, ::relative?",
             "answer_negative": "Scram, ::relative."
         },
         {
             "race": "8",
-            "comment" : "orc",
+            "comment": "orc",
             "answer_positive": "I ain't hurting my kin, ::relative.",
             "answer_negative": "I'm workin', not talkin', ::relative."
         },
         {
             "race": "10",
-            "comment" : "rasimi",
+            "comment": "rasimi",
             "answer_positive": "Have you seen your cousin lately, ::relative?",
             "answer_negative": "Quiet now, ::relative. I'm working on something important."
         },
         {
             "race": "17",
-            "comment" : "skeleton",
+            "comment": "skeleton",
             "answer_positive": "I will always recognize you, ::relative. Even when flesh melts away.",
             "answer_negative": "Not at this time, ::relative."
         },
         {
             "race": "23",
-            "comment" : "reptilion",
+            "comment": "reptilion",
             "answer_positive": "Ah, sssome people never change. You, ::relative, are one of them.",
             "answer_negative": "Can't you sssee I'm busssy, ::relative?"
         },
         {
             "race": "26",
-            "comment" : "bone wraith",
+            "comment": "bone wraith",
             "answer_positive": "Hello, ::relative. How are you today?",
             "answer_negative": "Not now, ::relative."
         },
         {
             "race": "31",
-            "comment" : "gnoll",
+            "comment": "gnoll",
             "answer_positive": "Need some advice, ::relative?",
             "answer_negative": "I've got better things to do than babysit you, ::relative."
         },
         {
             "race": "32",
-            "comment" : "mushman",
+            "comment": "mushman",
             "answer_positive": "::relative, do you need something?",
             "answer_negative": "We are busy, ::relative, go away."
         },
         {
             "race": "33",
-            "comment" : "ursan",
+            "comment": "ursan",
             "answer_positive": "::relative! I heard you are finally taking your training seriously.",
             "answer_negative": "Go away, ::relative."
         }

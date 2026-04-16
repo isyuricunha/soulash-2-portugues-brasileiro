@@ -23,6 +23,7 @@
 		"persona",
 		"position_2d",
 		"sight",
+		"skills",
 		"stamina",
 		"statistics",
 		"tags"
@@ -100,6 +101,16 @@
 		"infravision": false,
 		"range": 10,
 		"threesixty": false
+	},
+	"skills": {
+		"milestones": [
+			"core_2_expert_throw",
+			"core_2_mighty_throw",
+			"core_2_strong_throw"
+		],
+		"skills": [
+			"core_2_stormthrowing"
+		]
 	},
 	"stamina": {
 		"fatigue": 100,

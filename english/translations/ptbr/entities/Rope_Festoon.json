@@ -1,0 +1,58 @@
+{
+	"components": [
+		"glyph",
+		"health",
+		"minimap_pixel",
+		"name",
+		"position_2d",
+		"producer"
+	],
+	"corpse": [],
+	"description": "Garland made with heavy ropes braided together.",
+	"glyph": {
+		"frames": [
+			{
+				"color": [
+					255,
+					255,
+					255
+				],
+				"delay": 0,
+				"index": 3268
+			},
+			{
+				"color": [
+					255,
+					255,
+					255
+				],
+				"delay": 0,
+				"index": 3269
+			}
+		],
+		"random_frame_start": true
+	},
+	"health": 20,
+	"id": "core_2_Rope_Festoon",
+	"minimap_pixel": [
+		58,
+		39,
+		25
+	],
+	"name": "Rope Festoon",
+	"producer": {
+		"products": {
+			"core_2_deconstruct": [
+				{
+					"amount": [
+						0,
+						0
+					],
+					"id": "",
+					"percent_chance": 100
+				}
+			]
+		},
+		"time": 5
+	}
+}
