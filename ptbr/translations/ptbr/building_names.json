@@ -26,7 +26,7 @@
       "suffixes": [
         "Fazenda",
         "Campos",
-        "Terra Agrícola"
+        "Terra Agriculturável"
       ]
     },
     {
@@ -77,7 +77,7 @@
         "Inflexível",
         "Fortificado",
         "Observador",
-        "Elevado"
+        "Alto"
       ],
       "suffixes": [
         "Olho de Águia",
@@ -202,7 +202,7 @@
         "Mortal",
         "Destrutivo",
         "Letal",
-        "Grande"
+        "Ótimo"
       ],
       "suffixes": [
         "Ferraria",
@@ -310,11 +310,11 @@
         "Silencioso",
         "Gracioso",
         "Infalível",
-        "Rápido",
+        "Swift",
         "Intrépido",
         "Olho de Águia",
         "Primoroso",
-        "Rápido",
+        "Swift",
         "Rápido"
       ],
       "suffixes": [
@@ -368,7 +368,7 @@
         "Sedoso",
         "Estiloso",
         "Sofisticado",
-        "Grande",
+        "Grand",
         "Refinado",
         "Digno"
       ],
@@ -404,7 +404,7 @@
         "Ótimo",
         "Proeminente",
         "Lendário",
-        "Fabuloso",
+        "Fabulosos",
         "Magnífico",
         "Bom",
         "Grande",

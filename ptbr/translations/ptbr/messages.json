@@ -10341,6 +10341,16 @@
       ],
       "format": "crime",
       "id": 1022
+    },
+    {
+      "color": [
+        200,
+        200,
+        200,
+        255
+      ],
+      "format": "Beira-Mar",
+      "id": 1023
     }
   ],
   "statistics": [
@@ -10618,7 +10628,7 @@
       "id": 41,
       "effect": "Desafio",
       "success": "{} toca a corneta, provocando todos ao redor!",
-      "fail": "none"
+      "fail": "{} provoca {} para atacar."
     },
     {
       "id": 42,
@@ -10689,14 +10699,14 @@
     {
       "id": 53,
       "effect": "Chance de Acerto",
-      "success": "{} concentra-se em acertar seus oponentes com precisão.",
-      "fail": "none"
+      "success": "{} concentra-se em acertar seus oponentes com precisão [+chance de acerto].",
+      "fail": "{} perde a concentração durante a luta [-chance de acerto]."
     },
     {
       "id": 54,
       "effect": "Chance de Aparar",
-      "success": "{} concentra-se em aparar os golpes recebidos.",
-      "fail": "none"
+      "success": "{} concentra-se em aparar os golpes recebidos [+aparar].",
+      "fail": "{} perde a concentração durante a luta [-aparar]."
     },
     {
       "id": 55,
@@ -11088,7 +11098,7 @@
     "Adaga",
     "Arma de Haste",
     "Arma à Distância",
-    "Escudo",
+    "Shield",
     "Desarmado",
     "Improvisado",
     "Natural",
@@ -11110,7 +11120,7 @@
     "Inverno"
   ],
   "day_part": [
-    "Meia-Noite",
+    "Midnight",
     "Depois da Meia-Noite",
     "Horas Mortas",
     "Madrugada",
@@ -11138,7 +11148,7 @@
     "Luvas",
     "Anel",
     "Arma",
-    "Escudo",
+    "Shield",
     "Flecha",
     "Recurso",
     "Usável",
@@ -12590,7 +12600,7 @@
     },
     {
       "id": 12,
-      "format": "::name junta-se à companhia ::company."
+      "format": "::name junta-se à companhia ::company como ::occupation."
     },
     {
       "id": 13,
@@ -12663,6 +12673,18 @@
     {
       "id": 32,
       "format": "::company chegou a ::settlement durante suas viagens."
+    },
+    {
+      "id": 35,
+      "format": "::name torna-se ::occupation durante ::event_name em ::settlement."
+    },
+    {
+      "id": 36,
+      "format": "::name abateu ::related_entity, ::occupation de uma ::company companhia durante ::war."
+    },
+    {
+      "id": 37,
+      "format": "::name torna-se ::skill_level em ::skill."
     }
   ],
   "genders": [
@@ -12690,7 +12712,7 @@
     },
     {
       "id": 3,
-      "name": "Filhote"
+      "name": "Criança"
     },
     {
       "id": 4,
@@ -13493,7 +13515,7 @@
   "npc_ages": [
     {
       "id": 0,
-      "name": "Filhote"
+      "name": "Criança"
     },
     {
       "id": 1,
@@ -13623,10 +13645,10 @@
     "Frio",
     "Frio",
     "Ameno",
-    "Moderado",
+    "Suave",
     "Quente",
-    "Muito Quente",
-    "Escaldante"
+    "Quente",
+    "Chamuscante"
   ],
   "precipitations": [
     "Árido",

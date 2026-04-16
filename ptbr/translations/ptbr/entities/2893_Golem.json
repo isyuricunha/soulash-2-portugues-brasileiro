@@ -31,7 +31,8 @@
     "sight",
     "stamina",
     "statistics",
-    "tags"
+    "tags",
+    "weapon"
   ],
   "corpse": "2747",
   "craftable": {
@@ -133,7 +134,7 @@
   },
   "name": "Golem",
   "sight": {
-    "ignore_infra_penalty": false,
+    "ignore_infra_penalty": true,
     "infravision": true,
     "range": 8,
     "threesixty": false
@@ -161,12 +162,28 @@
       52
     ],
     "willpower": [
-      3,
-      6
+      26,
+      36
     ]
   },
   "tags": [
     "3",
     "32"
-  ]
+  ],
+  "weapon": {
+    "attack_speed": 1.0,
+    "critical_hit": 0.0,
+    "damage": [
+      {
+        "dmg_max": 18,
+        "dmg_min": 10,
+        "dmg_type": "physical"
+      }
+    ],
+    "hands": 1,
+    "hit_bonus": 0,
+    "parry_bonus": 0,
+    "range": 1,
+    "type": 2
+  }
 }

@@ -211,6 +211,7 @@
         "core_2_marriage_options_1",
         "core_2_marry_1",
         "core_2_marry_2",
+        "core_2_sabotage_1",
         "core_2_favorite_people_1",
         "core_2_exit_1"
       ],
@@ -1284,6 +1285,7 @@
         "core_2_marriage_options_1",
         "core_2_marry_5",
         "core_2_marry_6",
+        "core_2_sabotage_1",
         "core_2_favorite_people_2",
         "core_2_exit_1"
       ],
@@ -1796,6 +1798,7 @@
         "core_2_marriage_options_1",
         "core_2_marry_3",
         "core_2_marry_4",
+        "core_2_sabotage_1",
         "core_2_favorite_people_3",
         "core_2_exit_1"
       ],
@@ -2651,6 +2654,7 @@
         "core_2_directions_1",
         "core_2_ask_trainer_1",
         "core_2_train_1",
+        "core_2_sabotage_1",
         "core_2_favorite_people_5",
         "core_2_exit_1"
       ],
@@ -3564,6 +3568,7 @@
         "core_2_marriage_options_1",
         "core_2_marry_13",
         "core_2_marry_14",
+        "core_2_sabotage_1",
         "core_2_favorite_people_4",
         "core_2_exit_1"
       ],
@@ -5362,6 +5367,7 @@
         "core_2_marriage_options_1",
         "core_2_marry_15",
         "core_2_marry_16",
+        "core_2_sabotage_1",
         "core_2_favorite_people_14",
         "core_2_exit_1"
       ],
@@ -5479,6 +5485,7 @@
         "core_2_marriage_options_1",
         "core_2_marry_19",
         "core_2_marry_20",
+        "core_2_sabotage_1",
         "core_2_favorite_people_6",
         "core_2_exit_1"
       ],
@@ -6543,7 +6550,6 @@
         "core_2_marry_21",
         "core_2_marry_22",
         "core_2_favorite_people_7",
-        "core_2_favorite_people_8",
         "core_2_exit_1"
       ],
       "player_race": [],
@@ -6580,7 +6586,6 @@
         "core_2_marry_21",
         "core_2_marry_22",
         "core_2_favorite_people_7",
-        "core_2_favorite_people_8",
         "core_2_exit_1"
       ],
       "player_race": [],
@@ -6626,7 +6631,6 @@
         "core_2_marry_21",
         "core_2_marry_22",
         "core_2_favorite_people_7",
-        "core_2_favorite_people_8",
         "core_2_exit_1"
       ],
       "player_race": [],
@@ -6673,7 +6677,6 @@
         "core_2_marry_21",
         "core_2_marry_22",
         "core_2_favorite_people_7",
-        "core_2_favorite_people_8",
         "core_2_exit_1"
       ],
       "player_race": [],
@@ -6718,7 +6721,6 @@
         "core_2_marry_21",
         "core_2_marry_22",
         "core_2_favorite_people_7",
-        "core_2_favorite_people_8",
         "core_2_exit_1"
       ],
       "player_race": [],
@@ -6763,7 +6765,6 @@
         "core_2_marry_21",
         "core_2_marry_22",
         "core_2_favorite_people_7",
-        "core_2_favorite_people_8",
         "core_2_exit_1"
       ],
       "player_race": [],
@@ -6809,7 +6810,6 @@
         "core_2_marry_21",
         "core_2_marry_22",
         "core_2_favorite_people_7",
-        "core_2_favorite_people_8",
         "core_2_exit_1"
       ],
       "player_race": [],
@@ -6855,7 +6855,6 @@
         "core_2_marry_21",
         "core_2_marry_22",
         "core_2_favorite_people_7",
-        "core_2_favorite_people_8",
         "core_2_exit_1"
       ],
       "player_race": [],
@@ -6900,7 +6899,6 @@
         "core_2_marry_21",
         "core_2_marry_22",
         "core_2_favorite_people_7",
-        "core_2_favorite_people_8",
         "core_2_exit_1"
       ],
       "player_race": [],
@@ -6946,7 +6944,6 @@
         "core_2_marry_21",
         "core_2_marry_22",
         "core_2_favorite_people_7",
-        "core_2_favorite_people_8",
         "core_2_exit_1"
       ],
       "player_race": [],
@@ -6992,7 +6989,6 @@
         "core_2_marry_21",
         "core_2_marry_22",
         "core_2_favorite_people_7",
-        "core_2_favorite_people_8",
         "core_2_exit_1"
       ],
       "player_race": [],
@@ -7037,7 +7033,6 @@
         "core_2_marry_21",
         "core_2_marry_22",
         "core_2_favorite_people_7",
-        "core_2_favorite_people_8",
         "core_2_exit_1"
       ],
       "player_race": [],
@@ -7083,7 +7078,6 @@
         "core_2_marry_21",
         "core_2_marry_22",
         "core_2_favorite_people_7",
-        "core_2_favorite_people_8",
         "core_2_exit_1"
       ],
       "player_race": [],
@@ -7129,7 +7123,6 @@
         "core_2_marry_21",
         "core_2_marry_22",
         "core_2_favorite_people_7",
-        "core_2_favorite_people_8",
         "core_2_exit_1"
       ],
       "player_race": [],
@@ -7174,7 +7167,6 @@
         "core_2_marry_21",
         "core_2_marry_22",
         "core_2_favorite_people_7",
-        "core_2_favorite_people_8",
         "core_2_exit_1"
       ],
       "player_race": [],
@@ -7218,7 +7210,6 @@
         "core_2_marry_21",
         "core_2_marry_22",
         "core_2_favorite_people_7",
-        "core_2_favorite_people_8",
         "core_2_exit_1"
       ],
       "player_race": [],
@@ -7253,7 +7244,6 @@
         "core_2_marry_21",
         "core_2_marry_22",
         "core_2_favorite_people_7",
-        "core_2_favorite_people_8",
         "core_2_exit_1"
       ],
       "player_race": [],
@@ -7291,7 +7281,6 @@
         "core_2_marry_22",
         "core_2_company_order_6",
         "core_2_favorite_people_7",
-        "core_2_favorite_people_8",
         "core_2_exit_1"
       ],
       "player_race": [],
@@ -7329,7 +7318,6 @@
         "core_2_marry_22",
         "core_2_company_order_6",
         "core_2_favorite_people_7",
-        "core_2_favorite_people_8",
         "core_2_exit_1"
       ],
       "player_race": [],
@@ -7366,7 +7354,6 @@
         "core_2_marry_22",
         "core_2_company_order_6",
         "core_2_favorite_people_7",
-        "core_2_favorite_people_8",
         "core_2_exit_1"
       ],
       "player_race": [],
@@ -7403,7 +7390,6 @@
         "core_2_marry_22",
         "core_2_company_order_6",
         "core_2_favorite_people_7",
-        "core_2_favorite_people_8",
         "core_2_exit_1"
       ],
       "player_race": [],
@@ -7595,8 +7581,8 @@
         "core_2_marriage_options_1",
         "core_2_marry_21",
         "core_2_marry_22",
+        "core_2_sabotage_1",
         "core_2_favorite_people_7",
-        "core_2_favorite_people_8",
         "core_2_exit_1"
       ],
       "player_race": [],
@@ -9467,6 +9453,7 @@
         "core_2_marriage_options_1",
         "core_2_marry_7",
         "core_2_marry_8",
+        "core_2_sabotage_1",
         "core_2_favorite_people_10",
         "core_2_exit_1"
       ],
@@ -10212,6 +10199,7 @@
         "core_2_marriage_options_1",
         "core_2_marry_11",
         "core_2_marry_12",
+        "core_2_sabotage_1",
         "core_2_favorite_people_9",
         "core_2_exit_1"
       ],
@@ -10664,6 +10652,7 @@
         "core_2_marriage_options_1",
         "core_2_marry_9",
         "core_2_marry_10",
+        "core_2_sabotage_1",
         "core_2_favorite_people_8",
         "core_2_exit_1"
       ],
@@ -11501,7 +11490,6 @@
         "core_2_marry_22",
         "core_2_company_order_6",
         "core_2_favorite_people_7",
-        "core_2_favorite_people_8",
         "core_2_exit_1"
       ],
       "player_race": [],
@@ -12093,7 +12081,6 @@
         "core_2_marry_21",
         "core_2_marry_22",
         "core_2_favorite_people_7",
-        "core_2_favorite_people_8",
         "core_2_exit_1"
       ],
       "player_race": [],
@@ -12240,7 +12227,6 @@
         "core_2_marry_21",
         "core_2_marry_22",
         "core_2_favorite_people_7",
-        "core_2_favorite_people_8",
         "core_2_exit_1"
       ],
       "player_race": [],
@@ -12718,7 +12704,6 @@
         "core_2_marry_21",
         "core_2_marry_22",
         "core_2_favorite_people_7",
-        "core_2_favorite_people_8",
         "core_2_exit_1"
       ],
       "player_race": [],
@@ -12926,7 +12911,6 @@
         "core_2_marry_21",
         "core_2_marry_22",
         "core_2_favorite_people_7",
-        "core_2_favorite_people_8",
         "core_2_exit_1"
       ],
       "player_race": [],
@@ -13408,7 +13392,6 @@
         "core_2_marry_21",
         "core_2_marry_22",
         "core_2_favorite_people_7",
-        "core_2_favorite_people_8",
         "core_2_exit_1"
       ],
       "player_race": [],
@@ -15867,7 +15850,6 @@
         "core_2_marry_22",
         "core_2_company_order_6",
         "core_2_favorite_people_7",
-        "core_2_favorite_people_8",
         "core_2_exit_1"
       ],
       "player_race": [],
@@ -15894,7 +15876,6 @@
         "core_2_marry_22",
         "core_2_company_order_6",
         "core_2_favorite_people_7",
-        "core_2_favorite_people_8",
         "core_2_exit_1"
       ],
       "player_race": [],
@@ -15920,7 +15901,6 @@
         "core_2_marry_21",
         "core_2_marry_22",
         "core_2_favorite_people_7",
-        "core_2_favorite_people_8",
         "core_2_exit_1"
       ],
       "player_race": [],
@@ -15947,7 +15927,6 @@
         "core_2_marry_21",
         "core_2_marry_22",
         "core_2_favorite_people_7",
-        "core_2_favorite_people_8",
         "core_2_exit_1"
       ],
       "player_race": [],
@@ -15974,7 +15953,6 @@
         "core_2_marry_21",
         "core_2_marry_22",
         "core_2_favorite_people_7",
-        "core_2_favorite_people_8",
         "core_2_exit_1"
       ],
       "player_race": [],
@@ -16001,7 +15979,6 @@
         "core_2_marry_21",
         "core_2_marry_22",
         "core_2_favorite_people_7",
-        "core_2_favorite_people_8",
         "core_2_exit_1"
       ],
       "player_race": [],
@@ -16028,7 +16005,6 @@
         "core_2_marry_21",
         "core_2_marry_22",
         "core_2_favorite_people_7",
-        "core_2_favorite_people_8",
         "core_2_exit_1"
       ],
       "player_race": [],
@@ -16055,7 +16031,6 @@
         "core_2_marry_21",
         "core_2_marry_22",
         "core_2_favorite_people_7",
-        "core_2_favorite_people_8",
         "core_2_exit_1"
       ],
       "player_race": [],
@@ -16082,7 +16057,6 @@
         "core_2_marry_22",
         "core_2_company_order_6",
         "core_2_favorite_people_7",
-        "core_2_favorite_people_8",
         "core_2_exit_1"
       ],
       "player_race": [],
@@ -16108,7 +16082,6 @@
         "core_2_marry_21",
         "core_2_marry_22",
         "core_2_favorite_people_7",
-        "core_2_favorite_people_8",
         "core_2_exit_1"
       ],
       "player_race": [],
@@ -16135,7 +16108,6 @@
         "core_2_marry_21",
         "core_2_marry_22",
         "core_2_favorite_people_7",
-        "core_2_favorite_people_8",
         "core_2_exit_1"
       ],
       "player_race": [],
@@ -16162,7 +16134,6 @@
         "core_2_marry_21",
         "core_2_marry_22",
         "core_2_favorite_people_7",
-        "core_2_favorite_people_8",
         "core_2_exit_1"
       ],
       "player_race": [],
@@ -16189,7 +16160,6 @@
         "core_2_marry_22",
         "core_2_company_order_6",
         "core_2_favorite_people_7",
-        "core_2_favorite_people_8",
         "core_2_exit_1"
       ],
       "player_race": [],
@@ -19115,6 +19085,102 @@
       "id": "core_2_back_rebellion_agitator",
       "text": "(voltar à discussão principal)",
       "type": "back_to_main"
+    },
+    {
+      "answer_negative": "O festival está terminando - volte na próxima vez!",
+      "answer_positive": "Bem-vindo! Belas mercadorias do festival, vindas de terras distantes!",
+      "entities": [
+        "core_2_Ursan_Festival_Vendor",
+        "core_2_Elf_Festival_Vendor",
+        "core_2_Human_Festival_Vendor",
+        "core_2_Bone_Wraith_Festival_Vendor",
+        "core_2_Rasimi_Festival_Vendor",
+        "core_2_Dwarf_Festival_Vendor"
+      ],
+      "id": "core_2_begin_festival_1",
+      "options": [
+        "core_2_trade_11",
+        "core_2_directions_1",
+        "core_2_exit_1"
+      ],
+      "text": "",
+      "type": "begin_conversation"
+    },
+    {
+      "answer_negative": "O festival está terminando - volte na próxima vez!",
+      "answer_positive": "Bem-vindo! Belas mercadorias do festival, tudo legal!",
+      "entities": [
+        "core_2_Goblin_Festival_Vendor"
+      ],
+      "id": "core_2_begin_festival_2",
+      "options": [
+        "core_2_trade_11",
+        "core_2_directions_1",
+        "core_2_exit_1"
+      ],
+      "text": "",
+      "type": "begin_conversation"
+    },
+    {
+      "answer_negative": "O festival está terminando - volte na próxima vez!",
+      "answer_positive": "Ei aí! É melhor comprar algo do que levar umas machucadas.",
+      "entities": [
+        "core_2_Orc_Festival_Vendor",
+        "core_2_Troll_Festival_Vendor"
+      ],
+      "id": "core_2_begin_festival_3",
+      "options": [
+        "core_2_trade_11",
+        "core_2_directions_1",
+        "core_2_exit_1"
+      ],
+      "text": "",
+      "type": "begin_conversation"
+    },
+    {
+      "answer_negative": "O festival está terminando - volte na próxima vez!",
+      "answer_positive": "Bem-vindo! Temos apenas as melhores mercadorias do festival.",
+      "entities": [
+        "core_2_Mushman_Festival_Vendor"
+      ],
+      "id": "core_2_begin_festival_4",
+      "options": [
+        "core_2_trade_11",
+        "core_2_directions_1",
+        "core_2_exit_1"
+      ],
+      "text": "",
+      "type": "begin_conversation"
+    },
+    {
+      "answer_negative": "O festival está terminando - volte na próxima vez!",
+      "answer_positive": "Olá! Quer comprar algo? Só não pergunte de onde vem a carne!",
+      "entities": [
+        "core_2_Gnoll_Festival_Vendor"
+      ],
+      "id": "core_2_begin_festival_5",
+      "options": [
+        "core_2_trade_11",
+        "core_2_directions_1",
+        "core_2_exit_1"
+      ],
+      "text": "",
+      "type": "begin_conversation"
+    },
+    {
+      "answer_negative": "O fessstival está terminando - volte na próxima vez!",
+      "answer_positive": "Bem-vindo! Belasss mercadoriasss do fessstival, vindas de terras distantes!",
+      "entities": [
+        "core_2_Reptilion_Festival_Vendor"
+      ],
+      "id": "core_2_begin_festival_6",
+      "options": [
+        "core_2_trade_11",
+        "core_2_directions_1",
+        "core_2_exit_1"
+      ],
+      "text": "",
+      "type": "begin_conversation"
     }
   ],
   "family_conversations": [

@@ -1,0 +1,46 @@
+{
+  "components": [
+    "food",
+    "glyph",
+    "item",
+    "minimap_pixel",
+    "name",
+    "position_2d",
+    "stackable",
+    "value",
+    "weight"
+  ],
+  "description": "Biscoito doce e manteigoso em forma de lua.",
+  "food": {
+    "nutrition": 10,
+    "on_eat": "",
+    "raw": false
+  },
+  "glyph": {
+    "frames": [
+      {
+        "color": [
+          255,
+          255,
+          255
+        ],
+        "delay": 0,
+        "index": 3309
+      }
+    ],
+    "random_frame_start": false
+  },
+  "id": "core_2_Moon_Cookie",
+  "item": {
+    "image": 1508,
+    "type": 20
+  },
+  "minimap_pixel": [
+    157,
+    78,
+    54
+  ],
+  "name": "Biscoito de Lua",
+  "value": 200,
+  "weight": 0.10000000149011612
+}

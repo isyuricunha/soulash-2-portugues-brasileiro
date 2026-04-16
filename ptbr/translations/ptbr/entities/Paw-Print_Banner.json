@@ -1,0 +1,31 @@
+{
+  "components": [
+    "glyph",
+    "minimap_pixel",
+    "name",
+    "position_2d",
+    "stackable"
+  ],
+  "description": "Um estandarte com algumas pegadas. Talvez haja alguma mensagem escondida nele.",
+  "glyph": {
+    "frames": [
+      {
+        "color": [
+          255,
+          255,
+          255
+        ],
+        "delay": 0,
+        "index": 3287
+      }
+    ],
+    "random_frame_start": false
+  },
+  "id": "core_2_Paw-Print_Banner",
+  "minimap_pixel": [
+    177,
+    153,
+    137
+  ],
+  "name": "Estandarte de Pegadas"
+}

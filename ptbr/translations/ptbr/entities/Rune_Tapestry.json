@@ -1,0 +1,34 @@
+{
+  "components": [
+    "collidable",
+    "glyph",
+    "health",
+    "minimap_pixel",
+    "name",
+    "position_2d"
+  ],
+  "corpse": [],
+  "description": "Uma tapeçaria bonita com pequenas runas formando a forma de uma montanha.",
+  "glyph": {
+    "frames": [
+      {
+        "color": [
+          255,
+          255,
+          255
+        ],
+        "delay": 0,
+        "index": 3260
+      }
+    ],
+    "random_frame_start": true
+  },
+  "health": 50,
+  "id": "core_2_Rune_Tapestry",
+  "minimap_pixel": [
+    169,
+    108,
+    14
+  ],
+  "name": "Tapeçaria de Runas"
+}

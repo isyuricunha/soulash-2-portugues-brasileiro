@@ -13,7 +13,7 @@
       ],
       [
         "Que dia agradável.",
-        "[color=150,150,150,255]*enxuga o suor da testa*[/color]",
+        "[color=150,150,150,255]*limpa o suor da testa*[/color]",
         "Você parece cansado.",
         "Está um pouco quente demais para mim."
       ],
@@ -110,7 +110,7 @@
         "Eu vou te matar por isso!"
       ],
       [
-        "[color=150,150,150,255]*parece machucado*[/color]"
+        "[color=150,150,150,255]*parece ferido*[/color]"
       ],
       [
         "AAAAAARGH!"
@@ -163,7 +163,7 @@
         "Não chegue mais perto!"
       ],
       [
-        "Não quero morrer!"
+        "Eu não quero morrer!"
       ],
       [
         "Misericórdia!"
@@ -172,17 +172,17 @@
         "Tenha misericórdia!"
       ],
       [
-        "Me deixe ir!",
-        "Me deixe ir!"
+        "Me solte!",
+        "Me solte!"
       ],
       [
         "Por favor..."
       ],
       [
-        "Farei qualquer coisa, só não me mate!"
+        "Eu farei qualquer coisa, só não me mate!"
       ],
       [
-        "[color=150,150,150,255]*::his_her olhos se arregalam de medo*[/color]"
+        "[color=150,150,150,255]*::seus_olhos se arregalam de medo*[/color]"
       ]
     ],
     "name": "Humano general com medo",
@@ -222,10 +222,10 @@
     "id": "6",
     "monologue": [
       [
-        "Vou te esculachar para ver do que você é feito."
+        "Vou te esculpir e ver do que você é feito."
       ],
       [
-        "[color=150,150,150,255]*lambe o sangue de ::his_her lábios*[/color]"
+        "[color=150,150,150,255]*lambe sangue dos ::seus_lábios*[/color]"
       ],
       [
         "Ha, você sangra como um porco!"
@@ -234,7 +234,7 @@
         "Oooh, eu te peguei bem."
       ],
       [
-        "[color=150,150,150,255]*um sorriso cruel ilumina o rosto de ::his_her*[/color]"
+        "[color=150,150,150,255]*sorriso cruel ilumina o ::seu_rosto*[/color]"
       ],
       [
         "Sangue!",
@@ -262,13 +262,13 @@
     "id": "7",
     "monologue": [
       [
-        "Wrrrrr~~"
+        "Rrrrrr~~"
       ],
       [
         "AUUUUUUUU~~!"
       ],
       [
-        "Woof!"
+        "Au!"
       ],
       [
         "Ahuauauauuuu"
@@ -751,7 +751,7 @@
         "WAAAAAGH!"
       ],
       [
-        "Me cheirar comida!"
+        "Eu cheiro comida!"
       ],
       [
         "Me com fome!"
@@ -1415,7 +1415,7 @@
     "id": "68",
     "monologue": [
       [
-        "Todo anão sabe como lutar."
+        "Todo anão sabe lutar."
       ],
       [
         "Estou pronto para morrer pelo meu povo."
@@ -1856,7 +1856,7 @@
         "Pela honra!"
       ],
       [
-        "En garde!"
+        "Em guarda!"
       ]
     ],
     "name": "Capitão Henry em combate",
@@ -2301,7 +2301,7 @@
     "monologue": [
       [
         "Como você ainda consegue andar?",
-        "[color=150,150,150,255]*parece incerto*[/color]"
+        "[color=150,150,150,255]*olha incerto*[/color]"
       ],
       [
         "Eu vou te prender ao chão."
@@ -2558,7 +2558,7 @@
         "N-n-não me machuque."
       ],
       [
-        "Não quero morrer!"
+        "Eu não quero morrer!"
       ],
       [
         "Por que está fazendo isso?",
@@ -2606,7 +2606,7 @@
         "Todo anão sabe lutar."
       ],
       [
-        "Toma essa!"
+        "Tome isso!"
       ],
       [
         "Isso vai te ensinar."
@@ -2670,7 +2670,7 @@
       [
         "Tick",
         "Tack",
-        "Ataque do goblin!"
+        "Ataque goblin!"
       ],
       [
         "Você parece um sujeito duro."
@@ -3789,7 +3789,7 @@
         "Eu te desafio, ::player_name!"
       ],
       [
-        "Você está bem na hora de morrer."
+        "Você chegou bem na hora de morrer."
       ]
     ],
     "name": "Gladiador humano em alerta",
@@ -4436,8 +4436,8 @@
         "É você ou eu!"
       ],
       [
-        "Morra!",
-        "Morra!",
+        "Morre!",
+        "Morre!",
         "Morre!"
       ]
     ],
@@ -5681,7 +5681,7 @@
         "Meeeh"
       ],
       [
-        "Baaaa"
+        "Béééé"
       ],
       [
         "Mee-eeh"
@@ -6301,7 +6301,7 @@
     "id": "383",
     "monologue": [
       [
-        "Vamos trabalhar."
+        "Hora de trabalhar."
       ]
     ],
     "name": "Anão Lenhador em alerta",
@@ -7898,7 +7898,7 @@
         "Não quero lutar com você."
       ],
       [
-        "Pare com isso agora!"
+        "Pare com isso agora mesmo!"
       ]
     ],
     "name": "Espectro de Osso Herbalist em combate",
@@ -8511,7 +8511,7 @@
     "id": "542",
     "monologue": [
       [
-        "Não quero morrer!"
+        "Eu não quero morrer!"
       ],
       [
         "Chamarei os guardas para você!"
@@ -8626,7 +8626,7 @@
         "Ha! Meu primeiro desafio!"
       ],
       [
-        "Mostre-me o que você tem!"
+        "Mostre o que você tem!"
       ]
     ],
     "name": "Espectro de Osso Recruta em combate",
@@ -8679,7 +8679,7 @@
     "id": "554",
     "monologue": [
       [
-        "Você se arrependerá disso."
+        "Você vai se arrepender disso."
       ],
       [
         "Como ousa...?!"
@@ -10244,7 +10244,7 @@
         "Pare com isso!"
       ],
       [
-        "Me deixe ir!",
+        "Me solte!",
         "Me solte!"
       ],
       [
@@ -10269,7 +10269,7 @@
     "monologue": [
       [
         "Eu não estou com medo de você!",
-        "[color=150,150,150,255]*parece incerto*[/color]"
+        "[color=150,150,150,255]*olha incerto*[/color]"
       ],
       [
         "Quer mais um pouco?"
@@ -10697,7 +10697,7 @@
         "Por que você nos machuca?"
       ],
       [
-        "[color=150,150,150,255]*parece machucado*[/color]"
+        "[color=150,150,150,255]*parece ferido*[/color]"
       ],
       [
         "AAAAAARGH!"
@@ -11094,7 +11094,7 @@
     "id": "717",
     "monologue": [
       [
-        "Eu farei isso."
+        "Eu vou fazer isso."
       ],
       [
         "Estou nisso!"
@@ -11109,7 +11109,7 @@
         "Imediatamente."
       ],
       [
-        "Como ordena."
+        "Como ordenar."
       ],
       [
         "Cumprirei tua vontade."
@@ -11130,7 +11130,7 @@
         "Considere feito."
       ],
       [
-        "Tua palavra é meu comando."
+        "Sua palavra é meu comando."
       ]
     ],
     "name": "Guerreiro Humano ordenado",
@@ -11156,7 +11156,7 @@
         "Imediatamente."
       ],
       [
-        "Como ordena."
+        "Como ordenar."
       ],
       [
         "Nós cumpriremos seu desejo agora."
@@ -11244,7 +11244,7 @@
         "Entendido."
       ],
       [
-        "Eu farei isso acontecer."
+        "Eu farei acontecer."
       ],
       [
         "Irei executar a tarefa imediatamente."
@@ -11285,7 +11285,7 @@
         "Irei pular pelos obstáculos por você!"
       ],
       [
-        "Irei lidar com isso."
+        "Eu cuido disso."
       ],
       [
         "Posso resolver isso para você."
@@ -11575,7 +11575,7 @@
         "Preciso colocar novas armadilhas."
       ],
       [
-        "A caça nunca termina."
+        "A caçada nunca termina."
       ]
     ],
     "name": "Caçador Ursan em alerta",
@@ -11932,7 +11932,7 @@
         "Imediatamente."
       ],
       [
-        "Como você ordena."
+        "Como ordenar."
       ],
       [
         "Eu farei isso."
@@ -12238,7 +12238,7 @@
         "Sinta a mordida das minhas garras, fraco!"
       ],
       [
-        "Vou te rasgar membro por membro!"
+        "Eu vou te rasgar membro por membro!"
       ],
       [
         "Farei acontecer, líder!"
@@ -15098,13 +15098,13 @@
         "*estala*"
       ],
       [
-        "*chacoalha os ossos*"
+        "*chacoalha seus ossos*"
       ],
       [
         "*estala*"
       ],
       [
-        "*estala*"
+        "*estraleja*"
       ],
       [
         "*range*"
@@ -16785,22 +16785,7 @@
     ],
     "chance": 0.1,
     "id": "core_2_rebellion_whispers",
-    "monologue": [
-      [
-        "O ar cheira errado...",
-        "Como podridão e doença."
-      ],
-      [
-        "Uma maldição deve ter caído sobre nossa cidade.",
-        "Eu posso sentir."
-      ],
-      [
-        "[color=150,150,150,255]*caughs*[/color]"
-      ],
-      [
-        "[color=150,150,150,255]*tosse profusamente*[/color]"
-      ]
-    ],
+    "monologue": [],
     "name": "Sussurros da Rebelião",
     "trigger": 1
   }

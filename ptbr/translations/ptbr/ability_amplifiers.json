@@ -1077,7 +1077,7 @@
         "secondary_value": 10
       }
     ],
-    "description": "+1 de Dano para cada entidade Não-Morta no alcance de 10 células."
+    "description": "+1 de Poder Mágico para cada entidade Morta-Viva no alcance de 10 células."
   },
   {
     "id": "core_2_lifesteal",

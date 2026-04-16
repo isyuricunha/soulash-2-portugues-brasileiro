@@ -16,6 +16,10 @@
       {
         "type": "settlement_population_min",
         "value": 40
+      },
+      {
+        "type": "min_unemployed",
+        "value": 1
       }
     ]
   },

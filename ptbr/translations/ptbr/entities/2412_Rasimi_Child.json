@@ -59,9 +59,9 @@
   "moveable": {
     "speed": 1.2000000476837158
   },
-  "name": "Filhote Rasimi",
+  "name": "Criança Rasimi",
   "persona": {
-    "occupation": "Filhote"
+    "occupation": "Criança"
   },
   "sight": {
     "ignore_infra_penalty": false,

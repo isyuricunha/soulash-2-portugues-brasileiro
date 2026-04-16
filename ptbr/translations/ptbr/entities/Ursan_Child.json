@@ -57,9 +57,9 @@
   "moveable": {
     "speed": 2.0
   },
-  "name": "Filhote Ursan",
+  "name": "Criança Ursan",
   "persona": {
-    "occupation": "Filhote"
+    "occupation": "Criança"
   },
   "sight": {
     "ignore_infra_penalty": false,

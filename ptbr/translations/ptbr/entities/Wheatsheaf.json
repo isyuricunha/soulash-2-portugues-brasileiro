@@ -1,0 +1,55 @@
+{
+  "armor": {
+    "acid": -2,
+    "death": 0,
+    "electricity": 1,
+    "fire": -5,
+    "frost": 2,
+    "holy": 0,
+    "parry": 0,
+    "physical": 1,
+    "poison": 0,
+    "thorns": 0
+  },
+  "components": [
+    "armor",
+    "glyph",
+    "health",
+    "minimap_pixel",
+    "name",
+    "position_2d"
+  ],
+  "corpse": [],
+  "description": "Simples hastes de trigo amarradas juntas.",
+  "glyph": {
+    "frames": [
+      {
+        "color": [
+          255,
+          255,
+          255
+        ],
+        "delay": 0,
+        "index": 3270
+      },
+      {
+        "color": [
+          255,
+          255,
+          255
+        ],
+        "delay": 0,
+        "index": 3271
+      }
+    ],
+    "random_frame_start": true
+  },
+  "health": 20,
+  "id": "core_2_Wheatsheaf",
+  "minimap_pixel": [
+    139,
+    108,
+    64
+  ],
+  "name": "Gavela de Trigo"
+}

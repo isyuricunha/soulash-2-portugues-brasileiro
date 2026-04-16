@@ -1,0 +1,70 @@
+{
+  "components": [
+    "glyph",
+    "item",
+    "minimap_pixel",
+    "name",
+    "position_2d",
+    "resource",
+    "stackable",
+    "statistics",
+    "value",
+    "weight"
+  ],
+  "description": "Escama verde-oliva de uma poderosa constritora.",
+  "glyph": {
+    "frames": [
+      {
+        "color": [
+          255,
+          255,
+          255
+        ],
+        "delay": 0,
+        "index": 3302
+      }
+    ],
+    "random_frame_start": false
+  },
+  "id": "core_2_Green_Anaconda_Scale",
+  "item": {
+    "image": 1504,
+    "type": 16
+  },
+  "minimap_pixel": [
+    210,
+    227,
+    120
+  ],
+  "name": "Escama de Sucuri Verde",
+  "resource": {
+    "affix": "Suffocating",
+    "magic_ingredient": 0,
+    "quality": 3,
+    "type": 10
+  },
+  "statistics": {
+    "dexterity": [
+      0,
+      0
+    ],
+    "endurance": [
+      0,
+      0
+    ],
+    "intelligence": [
+      0,
+      0
+    ],
+    "strength": [
+      0,
+      0
+    ],
+    "willpower": [
+      3,
+      3
+    ]
+  },
+  "value": 300,
+  "weight": 0.10000000149011612
+}

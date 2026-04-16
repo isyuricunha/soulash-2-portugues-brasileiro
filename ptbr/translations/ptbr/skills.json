@@ -1418,6 +1418,10 @@
       {
         "id": "ability",
         "rate": 2
+      },
+      {
+        "id": "craft",
+        "rate": 1
       }
     ],
     "combat_skill": true,

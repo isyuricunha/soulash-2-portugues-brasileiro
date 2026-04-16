@@ -1,0 +1,58 @@
+{
+  "components": [
+    "glyph",
+    "health",
+    "minimap_pixel",
+    "name",
+    "position_2d",
+    "producer"
+  ],
+  "corpse": [],
+  "description": "Uma grinalda simples feita com cogumelos de diferentes tamanhos.",
+  "glyph": {
+    "frames": [
+      {
+        "color": [
+          255,
+          255,
+          255
+        ],
+        "delay": 0,
+        "index": 3281
+      },
+      {
+        "color": [
+          255,
+          255,
+          255
+        ],
+        "delay": 0,
+        "index": 3282
+      }
+    ],
+    "random_frame_start": true
+  },
+  "health": 20,
+  "id": "core_2_Mushroom_Garland",
+  "minimap_pixel": [
+    58,
+    39,
+    25
+  ],
+  "name": "Grinalda de Cogumelos",
+  "producer": {
+    "products": {
+      "core_2_deconstruct": [
+        {
+          "amount": [
+            0,
+            0
+          ],
+          "id": "",
+          "percent_chance": 100
+        }
+      ]
+    },
+    "time": 5
+  }
+}

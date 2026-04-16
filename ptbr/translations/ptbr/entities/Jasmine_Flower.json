@@ -1,0 +1,40 @@
+{
+  "components": [
+    "glyph",
+    "item",
+    "minimap_pixel",
+    "name",
+    "position_2d",
+    "stackable",
+    "value",
+    "weight"
+  ],
+  "description": "Flor de jasmim delicada e branca.",
+  "glyph": {
+    "frames": [
+      {
+        "color": [
+          255,
+          255,
+          255
+        ],
+        "delay": 0,
+        "index": 3280
+      }
+    ],
+    "random_frame_start": false
+  },
+  "id": "core_2_Jasmine_Flower",
+  "item": {
+    "image": 1501,
+    "type": 16
+  },
+  "minimap_pixel": [
+    153,
+    204,
+    255
+  ],
+  "name": "Flor de Jasmim",
+  "value": 100,
+  "weight": 0.10000000149011612
+}

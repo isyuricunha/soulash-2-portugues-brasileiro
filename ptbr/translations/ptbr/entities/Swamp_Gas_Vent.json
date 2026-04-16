@@ -1,0 +1,113 @@
+{
+  "components": [
+    "block_light",
+    "damage_applier",
+    "glyph",
+    "minimap_pixel",
+    "name",
+    "position_2d"
+  ],
+  "damage_applier": {
+    "break_on_entry": false,
+    "dmg_animation": "34",
+    "dmg_max": 45,
+    "dmg_min": 40,
+    "dmg_type": "poison",
+    "duration": 3.0,
+    "tick": 1.0
+  },
+  "description": "Uma coluna de gás tóxico sobe do chão envenenando todos nas proximidades.",
+  "glyph": {
+    "frames": [
+      {
+        "color": [
+          255,
+          255,
+          255
+        ],
+        "delay": 150,
+        "index": 3335
+      },
+      {
+        "color": [
+          255,
+          255,
+          255
+        ],
+        "delay": 130,
+        "index": 3336
+      },
+      {
+        "color": [
+          255,
+          255,
+          255
+        ],
+        "delay": 50,
+        "index": 3337
+      },
+      {
+        "color": [
+          255,
+          255,
+          255
+        ],
+        "delay": 100,
+        "index": 3338
+      },
+      {
+        "color": [
+          255,
+          255,
+          255
+        ],
+        "delay": 150,
+        "index": 3339
+      },
+      {
+        "color": [
+          255,
+          255,
+          255
+        ],
+        "delay": 100,
+        "index": 3340
+      },
+      {
+        "color": [
+          255,
+          255,
+          255
+        ],
+        "delay": 150,
+        "index": 3341
+      },
+      {
+        "color": [
+          255,
+          255,
+          255
+        ],
+        "delay": 100,
+        "index": 3342
+      },
+      {
+        "color": [
+          255,
+          255,
+          255
+        ],
+        "delay": 80,
+        "index": 3343
+      }
+    ],
+    "random_frame_start": true
+  },
+  "id": "core_2_Swamp_Gas_Vent",
+  "minimap_pixel": [
+    255,
+    255,
+    255
+  ],
+  "name": "Ventilação de Gás do Pântano"
+}

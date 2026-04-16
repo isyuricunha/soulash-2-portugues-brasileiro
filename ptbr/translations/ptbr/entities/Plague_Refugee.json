@@ -3,9 +3,7 @@
     "allies": [],
     "allow_production": [],
     "behaviors": [],
-    "enemies": [
-      "5"
-    ]
+    "enemies": []
   },
   "components": [
     "actor",

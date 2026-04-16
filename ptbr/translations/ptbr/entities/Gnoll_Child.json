@@ -59,7 +59,7 @@
   },
   "name": "Gnoll Criança",
   "persona": {
-    "occupation": "Filhote"
+    "occupation": "Criança"
   },
   "sight": {
     "ignore_infra_penalty": false,

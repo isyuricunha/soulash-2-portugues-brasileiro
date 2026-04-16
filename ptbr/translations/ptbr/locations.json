@@ -13491,12 +13491,13 @@
         "id": "settlement",
         "parameters": {
           "carvables": [
-            "1"
+            "11",
+            "242"
           ],
           "road_index": "-1",
           "size": 5,
           "starting_z_level": 0,
-          "z_levels": 4
+          "z_levels": 2
         }
       },
       "biomes": [
@@ -13528,15 +13529,15 @@
                 10
               ],
               "ids": [
-                "House_I",
-                "House_II",
+                "House_I_180",
+                "House_II_180",
                 "House_III",
                 "House_IV",
-                "House_IX",
                 "House_V",
                 "House_VI",
                 "House_VII",
                 "House_VIII",
+                "House_IX",
                 "House_X"
               ],
               "mode": "one_of",
@@ -27594,7 +27595,12 @@
               "chance": 0.33,
               "entity": "2421",
               "objective": true,
-              "value": 1000
+              "value": 1000,
+              "spawn_on": [
+                "50",
+                "280",
+                "core_2_Natural_Stone_Floor_2"
+              ]
             }
           ],
           "spawns": [
@@ -27644,13 +27650,23 @@
               "chance": 0.33,
               "entity": "2421",
               "objective": true,
-              "value": 1000
+              "value": 1000,
+              "spawn_on": [
+                "50",
+                "280",
+                "core_2_Natural_Stone_Floor_2"
+              ]
             },
             {
               "chance": 1.0,
               "entity": "2421",
               "objective": true,
-              "value": 5000
+              "value": 5000,
+              "spawn_on": [
+                "50",
+                "280",
+                "core_2_Natural_Stone_Floor_2"
+              ]
             }
           ],
           "spawns": [
@@ -27672,6 +27688,11 @@
               "chance": 1.0,
               "entities": [
                 "core_2_Friendly_Mage"
+              ],
+              "spawn_on": [
+                "50",
+                "280",
+                "core_2_Natural_Stone_Floor_2"
               ]
             }
           ],

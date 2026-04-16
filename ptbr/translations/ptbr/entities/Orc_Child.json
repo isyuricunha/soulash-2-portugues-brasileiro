@@ -63,7 +63,7 @@
   },
   "name": "Criança Orc",
   "persona": {
-    "occupation": "Filhote"
+    "occupation": "Criança"
   },
   "sight": {
     "ignore_infra_penalty": false,

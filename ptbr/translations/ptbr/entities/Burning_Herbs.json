@@ -1,0 +1,66 @@
+{
+  "components": [
+    "glyph",
+    "minimap_pixel",
+    "name",
+    "position_2d"
+  ],
+  "description": "Algumas ervas misteriosas queimando e purificando o ar ao redor.",
+  "glyph": {
+    "frames": [
+      {
+        "color": [
+          255,
+          255,
+          255
+        ],
+        "delay": 200,
+        "index": 3330
+      },
+      {
+        "color": [
+          255,
+          255,
+          255
+        ],
+        "delay": 200,
+        "index": 3331
+      },
+      {
+        "color": [
+          255,
+          255,
+          255
+        ],
+        "delay": 200,
+        "index": 3332
+      },
+      {
+        "color": [
+          255,
+          255,
+          255
+        ],
+        "delay": 200,
+        "index": 3333
+      },
+      {
+        "color": [
+          255,
+          255,
+          255
+        ],
+        "delay": 200,
+        "index": 3334
+      }
+    ],
+    "random_frame_start": true
+  },
+  "id": "core_2_Burning_Herbs",
+  "minimap_pixel": [
+    206,
+    157,
+    45
+  ],
+  "name": "Ervas Queimando"
+}

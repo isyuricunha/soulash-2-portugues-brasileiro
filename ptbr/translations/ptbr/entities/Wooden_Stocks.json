@@ -1,0 +1,52 @@
+{
+  "components": [
+    "block_light",
+    "glyph",
+    "health",
+    "height",
+    "minimap_pixel",
+    "name",
+    "position_2d",
+    "producer"
+  ],
+  "corpse": [],
+  "description": "Duas peças de madeira com buracos para as mãos e a cabeça de alguma alma pobre.",
+  "glyph": {
+    "frames": [
+      {
+        "color": [
+          255,
+          255,
+          255
+        ],
+        "delay": 0,
+        "index": 3320
+      }
+    ],
+    "random_frame_start": false
+  },
+  "health": 200,
+  "height": 0,
+  "id": "core_2_Wooden_Stocks",
+  "minimap_pixel": [
+    40,
+    40,
+    40
+  ],
+  "name": "Troncos de Madeira",
+  "producer": {
+    "products": {
+      "core_2_deconstruct": [
+        {
+          "amount": [
+            0,
+            0
+          ],
+          "id": "",
+          "percent_chance": 0
+        }
+      ]
+    },
+    "time": 30
+  }
+}

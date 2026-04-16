@@ -1,0 +1,60 @@
+{
+  "armor": {
+    "acid": 0,
+    "death": 0,
+    "electricity": 0,
+    "fire": 0,
+    "frost": 0,
+    "holy": 0,
+    "parry": 0,
+    "physical": 1,
+    "poison": 2,
+    "thorns": 0
+  },
+  "components": [
+    "armor",
+    "glyph",
+    "item",
+    "minimap_pixel",
+    "name",
+    "position_2d",
+    "resource",
+    "stackable",
+    "value",
+    "weight"
+  ],
+  "description": "Tecido extremamente delicado tecido de fios de micélio.",
+  "glyph": {
+    "frames": [
+      {
+        "color": [
+          255,
+          255,
+          255
+        ],
+        "delay": 0,
+        "index": 3311
+      }
+    ],
+    "random_frame_start": false
+  },
+  "id": "core_2_Mycelium_Cloth",
+  "item": {
+    "image": 1510,
+    "type": 16
+  },
+  "minimap_pixel": [
+    200,
+    200,
+    200
+  ],
+  "name": "Tecido de Micélio",
+  "resource": {
+    "affix": "Mycelium Cloth",
+    "magic_ingredient": 0,
+    "quality": 2,
+    "type": 4
+  },
+  "value": 2000,
+  "weight": 0.10000000149011612
+}

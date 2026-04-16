@@ -1,0 +1,34 @@
+{
+  "components": [
+    "block_light",
+    "collidable",
+    "glyph",
+    "height",
+    "minimap_pixel",
+    "name",
+    "position_2d"
+  ],
+  "description": "Uma pilha brilhando com ouro e joias. Feita com rochas e um pouco de tinta.",
+  "glyph": {
+    "frames": [
+      {
+        "color": [
+          255,
+          255,
+          255
+        ],
+        "delay": 0,
+        "index": 3272
+      }
+    ],
+    "random_frame_start": false
+  },
+  "height": 0,
+  "id": "core_2_Fake_Pile_of_Treasure",
+  "minimap_pixel": [
+    155,
+    124,
+    69
+  ],
+  "name": "Pilha Falsa de Tesouro"
+}
