@@ -2,19 +2,19 @@
   "building_names": [
     {
       "formats": [
-        "::family's Hut"
+        "::family's Cabana"
       ],
       "id": "1"
     },
     {
       "formats": [
-        "::family's Carpenter"
+        "::family's Carpinteiro"
       ],
       "id": "2"
     },
     {
       "formats": [
-        "::family's Hunters Lodge"
+        "::family's Cabana de Caçadores"
       ],
       "id": "3"
     },
@@ -31,40 +31,40 @@
     },
     {
       "formats": [
-        "::family's Ranch"
+        "::family's Rancho"
       ],
       "id": "6"
     },
     {
       "formats": [
-        "::family's Fishing Hut"
+        "::family's Cabana de Pesca"
       ],
       "id": "7"
     },
     {
       "formats": [
-        "::family's Mill"
+        "::family's Moinho"
       ],
       "id": "8"
     },
     {
       "formats": [
-        "::family's Bakery"
+        "::family's Padaria"
       ],
       "id": "9"
     },
     {
       "formats": [
-        "::family's Woodcutters"
+        "::family's Lenhadores"
       ],
       "id": "10"
     },
     {
       "formats": [
-        "::prefix ::suffix Tower",
-        "::prefix ::suffix Outpost",
-        "The ::prefix ::suffix Spire",
-        "::company's Tower"
+        "::prefix ::suffix Torre",
+        "::prefix ::suffix Posto Avançado",
+        "A ::prefix ::suffix Torre",
+        "::company's Torre"
       ],
       "id": "11",
       "prefixes": [
@@ -95,33 +95,33 @@
     {
       "core_names": [
         "Goblin",
-        "Bard",
-        "Barrel",
-        "Knight",
-        "Mead",
-        "Stool",
-        "Keg",
-        "Wench",
-        "Rooster",
-        "Pint",
-        "Elf",
-        "Boar",
-        "Meat",
-        "Huntsman",
-        "Pony",
-        "Wheat",
-        "Nut",
-        "Bucket",
-        "Cup",
-        "Imp",
-        "Apple",
-        "Lamb"
+        "Bardo",
+        "Barril",
+        "Cavaleiro",
+        "Hidromel",
+        "Banco",
+        "Barril",
+        "Serva",
+        "Galo",
+        "Caneca",
+        "Elfo",
+        "Javali",
+        "Carne",
+        "Caçador",
+        "Pônei",
+        "Trigo",
+        "Noz",
+        "Balde",
+        "Copo",
+        "Diabrete",
+        "Maçã",
+        "Cordeiro"
       ],
       "formats": [
         "::prefix ::core_name ::suffix",
-        "The ::prefix ::core_name ::suffix",
-        "::core_name and ::core_name2 ::suffix",
-        "::prefix ::core_name and ::core_name2 ::suffix"
+        "A ::prefix ::core_name ::suffix",
+        "::core_name e ::core_name2 ::suffix",
+        "::prefix ::core_name e ::core_name2 ::suffix"
       ],
       "id": "12",
       "prefixes": [
@@ -164,25 +164,25 @@
     },
     {
       "core_names": [
-        "Anvil",
-        "Hammer",
-        "Blade",
-        "Forge",
-        "Sword",
-        "Axe",
-        "Mace",
-        "Dagger",
-        "Spear",
-        "Crossbow",
-        "Blacksmith",
-        "Weaponsmith"
+        "Bigorna",
+        "Martelo",
+        "Lâmina",
+        "Forja",
+        "Espada",
+        "Machado",
+        "Maça",
+        "Adaga",
+        "Lança",
+        "Besta",
+        "Ferreiro",
+        "Armeiro"
       ],
       "formats": [
         "::prefix ::core_name ::suffix",
-        "The ::prefix ::core_name ::suffix",
-        "::core_name and ::core_name2 ::suffix",
-        "::prefix ::core_name and ::core_name2 ::suffix",
-        "The ::family's ::suffix"
+        "A ::prefix ::core_name ::suffix",
+        "::core_name e ::core_name2 ::suffix",
+        "::prefix ::core_name e ::core_name2 ::suffix",
+        "A ::family's ::suffix"
       ],
       "id": "13",
       "prefixes": [
@@ -212,20 +212,20 @@
     },
     {
       "core_names": [
-        "Anvil",
-        "Helmet",
-        "Armor",
+        "Bigorna",
+        "Capacete",
+        "Armadura",
         "Shield",
-        "Forge",
-        "Blacksmith",
-        "Armorsmith"
+        "Forja",
+        "Ferreiro",
+        "Armoreiro"
       ],
       "formats": [
         "::prefix ::core_name ::suffix",
-        "The ::prefix ::core_name ::suffix",
-        "::core_name and ::core_name2 ::suffix",
-        "::prefix ::core_name and ::core_name2 ::suffix",
-        "The ::family's ::suffix"
+        "A ::prefix ::core_name ::suffix",
+        "::core_name e ::core_name2 ::suffix",
+        "::prefix ::core_name e ::core_name2 ::suffix",
+        "O(a) ::family's ::suffix"
       ],
       "id": "14",
       "prefixes": [
@@ -255,18 +255,18 @@
     },
     {
       "core_names": [
-        "Saw",
-        "Chisel",
-        "Hammer",
-        "Tongs",
-        "Shovel",
-        "Rope",
-        "Tools"
+        "Serra",
+        "Cinzel",
+        "Martelo",
+        "Tenaz",
+        "Pá",
+        "Corda",
+        "Ferramentas"
       ],
       "formats": [
         "::prefix ::core_name ::suffix",
-        "The ::prefix ::core_name ::suffix",
-        "::core_name and ::core_name2 ::suffix"
+        "O(a) ::prefix ::core_name ::suffix",
+        "::core_name e ::core_name2 ::suffix"
       ],
       "id": "15",
       "prefixes": [
@@ -291,17 +291,17 @@
     },
     {
       "core_names": [
-        "Archery",
-        "Quiver",
-        "Bow",
-        "Arrow",
-        "Marksman",
-        "Feather"
+        "Arco e Flecha",
+        "Aljava",
+        "Arco",
+        "Flecha",
+        "Atirador",
+        "Pena"
       ],
       "formats": [
         "::prefix ::core_name ::suffix",
-        "The ::prefix ::core_name ::suffix",
-        "::core_name and ::core_name2 ::suffix"
+        "O(a) ::prefix ::core_name ::suffix",
+        "::core_name e ::core_name2 ::suffix"
       ],
       "id": "16",
       "prefixes": [
@@ -325,31 +325,31 @@
     },
     {
       "formats": [
-        "::family's Quarry"
+        "Pedreira da ::family"
       ],
       "id": "17"
     },
     {
       "core_names": [
-        "Threads",
-        "Clothes",
-        "Cloth",
-        "Fabric",
+        "Linhas",
+        "Roupas",
+        "Tecido",
+        "Pano",
         "Material",
-        "Silk",
-        "Wardrobe",
-        "Luminary",
-        "Rags",
-        "Garments",
-        "Attire",
-        "Costume",
-        "Vestments",
-        "Shroud"
+        "Seda",
+        "Guarda-Roupa",
+        "Luminária",
+        "Farrapos",
+        "Vestuário",
+        "Traje",
+        "Fantasia",
+        "Vestimentas",
+        "Mortalha"
       ],
       "formats": [
         "::prefix ::core_name ::suffix",
-        "The ::prefix ::core_name ::suffix",
-        "::core_name and ::core_name2 ::suffix"
+        "O(a) ::prefix ::core_name ::suffix",
+        "::core_name e ::core_name2 ::suffix"
       ],
       "id": "18",
       "prefixes": [
@@ -379,20 +379,20 @@
     },
     {
       "core_names": [
-        "Boots",
-        "Sandals",
-        "Slippers",
-        "Heel",
-        "Footwear",
-        "Shoe",
-        "Foot",
-        "Toe",
-        "Hoof"
+        "Botas",
+        "Sandálias",
+        "Chinelos",
+        "Salto",
+        "Calçado",
+        "Sapato",
+        "Pé",
+        "Dedo do Pé",
+        "Casco"
       ],
       "formats": [
         "::prefix ::core_name ::suffix",
-        "The ::prefix ::core_name ::suffix",
-        "::core_name and ::core_name2 ::suffix"
+        "O(a) ::prefix ::core_name ::suffix",
+        "::core_name e ::core_name2 ::suffix"
       ],
       "id": "19",
       "prefixes": [
@@ -418,24 +418,24 @@
     },
     {
       "core_names": [
-        "Hides",
-        "Leathers",
-        "Furs",
-        "Straps",
-        "Buckle",
-        "Saddle",
-        "Harness",
-        "Pouches",
-        "Sheath",
-        "Belts",
-        "Skin",
-        "Sash",
-        "Cape"
+        "Peles",
+        "Couraria",
+        "Pelagens",
+        "Tiras",
+        "Fivela",
+        "Sela",
+        "Arreio",
+        "Bolsas",
+        "Bainha",
+        "Cintos",
+        "Pele",
+        "Faixa",
+        "Capa"
       ],
       "formats": [
         "::prefix ::core_name ::suffix",
-        "The ::prefix ::core_name ::suffix",
-        "::core_name and ::core_name2 ::suffix"
+        "O ::prefix ::core_name ::suffix",
+        "::core_name e ::core_name2 ::suffix"
       ],
       "id": "20",
       "prefixes": [
@@ -460,19 +460,19 @@
     },
     {
       "formats": [
-        "::company's Barracks"
+        "Quartel de ::company"
       ],
       "id": "21"
     },
     {
       "formats": [
-        "::family's Mine"
+        "Mina da Família ::family"
       ],
       "id": "22"
     },
     {
       "formats": [
-        "::family's Smelter"
+        "Fundição da Família ::family"
       ],
       "id": "26"
     },
