@@ -46,6 +46,6 @@
   "history_events": {
     "begin": "O povo deste assentamento se levantou em rebelião contra seus ocupantes!",
     "success": "A rebelião foi um sucesso! O assentamento foi libertado da ocupação. ::deaths caíram na luta.",
-    "failure": "The rebellion has been crushed. The occupiers maintain control of the settlement. ::deaths fell in the fighting."
+    "failure": "A rebelião foi esmagada. Os ocupantes mantêm o controle do assentamento. ::deaths caíram no combate."
   }
 }
