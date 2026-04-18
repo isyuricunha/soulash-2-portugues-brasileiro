@@ -90,13 +90,13 @@
         "remove_event": true
       },
       "trigger_event": "core_2_rebellion",
-      "history_event": "::name delivered weapons to the resistance in ::settlement!",
+      "history_event": "::name entregou armas para a resistência em ::settlement!",
       "announcement": "You have armed the rebels of ::settlement!"
     },
     {
       "type": "supply",
       "trigger_event": "core_2_rebellion",
-      "history_event": "Weapons were smuggled into ::settlement by resistance sympathizers."
+      "history_event": "Armas foram contrabandeadas para ::settlement por simpatizantes da resistência."
     }
   ],
   "history_events": {
