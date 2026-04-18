@@ -91,7 +91,7 @@
       },
       "trigger_event": "core_2_rebellion",
       "history_event": "::name entregou armas para a resistência em ::settlement!",
-      "announcement": "You have armed the rebels of ::settlement!"
+      "announcement": "Você armou os rebeldes de ::settlement!"
     },
     {
       "type": "supply",

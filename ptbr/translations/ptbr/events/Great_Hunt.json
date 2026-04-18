@@ -62,12 +62,12 @@
       "reputation": 20,
       "skill_id": "core_2_adventuring",
       "exp": 200,
-      "announcement": "You have won The Great Hunt with a score of {}!"
+      "announcement": "Você venceu a Grande Caçada com uma pontuação de {}!"
     },
     "participation_reward": {
       "gold": 200,
       "reputation": 5,
-      "announcement": "You participated in The Great Hunt. Your score: {}."
+      "announcement": "Você participou da Grande Caçada. Sua pontuação: {}."
     }
   },
   "effects": [

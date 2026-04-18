@@ -97,7 +97,7 @@
       },
       "trigger_event": "core_2_Productivity_Boost",
       "history_event": "::name curou a praga e salvou este assentamento!",
-      "announcement": "You have cured ::settlement of plague!"
+      "announcement": "Você curou ::settlement da praga!"
     }
   ],
   "history_events": {
