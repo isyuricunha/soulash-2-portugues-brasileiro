@@ -27,7 +27,7 @@
     "tags"
   ],
   "corpse": "2327",
-  "description": "Um comerciante alegre vendendo mercadorias de festival.",
+  "description": "Um comerciante alegre vendendo mercadorias do Festival.",
   "dialogues": [],
   "equipment": {
     "head_cloth": [
@@ -91,9 +91,9 @@
   "moveable": {
     "speed": 1.0
   },
-  "name": "Vendedor de Festival Rasimi",
+  "name": "Vendedor do Festival Rasimi",
   "persona": {
-    "occupation": "Vendedor de Festival"
+    "occupation": "Vendedor do Festival"
   },
   "sight": {
     "ignore_infra_penalty": false,

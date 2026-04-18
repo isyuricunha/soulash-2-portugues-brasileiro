@@ -27,7 +27,7 @@
     "tags"
   ],
   "corpse": "core_2_Ursan_Corpse",
-  "description": "Um comerciante alegre vendendo mercadorias de festival.",
+  "description": "Um comerciante alegre vendendo mercadorias do Festival.",
   "dialogues": [],
   "equipment": {
     "head_cloth": [
@@ -93,7 +93,7 @@
   },
   "name": "Vendedor do Festival Ursan",
   "persona": {
-    "occupation": "Vendedor de Festival"
+    "occupation": "Vendedor do Festival"
   },
   "sight": {
     "ignore_infra_penalty": false,
