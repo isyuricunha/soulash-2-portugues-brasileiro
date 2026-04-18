@@ -104,8 +104,8 @@
     }
   ],
   "history_events": {
-    "begin": "The Great Hunt has begun! The best hunters compete for glory!",
-    "end": "The Great Hunt has concluded. ::total_score animals were hunted. ::winner_name claimed victory!",
+    "begin": "A Grande Caçada começou! Os melhores caçadores competem por glória!",
+    "end": "A Grande Caçada terminou. ::total_score animais foram caçados. ::winner_name reivindicou a vitória!",
     "success": "A Grande Caçada terminou. ::winner_name é o maior caçador com ::winner_score mortes!"
   }
 }

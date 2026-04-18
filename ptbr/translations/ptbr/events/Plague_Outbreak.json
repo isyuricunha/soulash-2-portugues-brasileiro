@@ -101,7 +101,7 @@
     }
   ],
   "history_events": {
-    "begin": "The plague outbrake has begun!",
-    "end": "The plague outbrake has passed, taking ::deaths souls from this settlements."
+    "begin": "Um surto de peste começou!",
+    "end": "O surto de peste passou, levando ::deaths almas deste assentamento."
   }
 }

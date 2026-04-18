@@ -89,7 +89,7 @@
   "extra_dialogues": [],
   "interactions": [],
   "history_events": {
-    "begin": "A festival has begun in this settlement!",
-    "end": "The festival has ended and the stalls are packed away."
+    "begin": "Um festival começou neste assentamento!",
+    "end": "O festival terminou e as barracas foram guardadas."
   }
 }
