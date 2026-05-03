@@ -1,0 +1,47 @@
+{
+	"components": [
+		"glyph",
+		"minimap_pixel",
+		"name",
+		"position_2d",
+		"producer",
+		"stackable"
+	],
+	"description": "This mushrooms looks like demonic fingers reaching to the sky.",
+	"glyph": {
+		"frames": [
+			{
+				"color": [
+					255,
+					255,
+					255
+				],
+				"delay": 0,
+				"index": 3355
+			}
+		],
+		"random_frame_start": true
+	},
+	"id": "core_2_Devils_Fingers_Mushrooms",
+	"minimap_pixel": [
+		241,
+		90,
+		34
+	],
+	"name": "Devils Fingers Mushrooms",
+	"producer": {
+		"products": {
+			"10": [
+				{
+					"amount": [
+						1,
+						1
+					],
+					"id": "core_2_Devils_Fingers_Mushroom",
+					"percent_chance": 100
+				}
+			]
+		},
+		"time": 10
+	}
+}

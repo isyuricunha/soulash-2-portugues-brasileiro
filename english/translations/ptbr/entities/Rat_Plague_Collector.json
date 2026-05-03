@@ -1,0 +1,124 @@
+{
+	"artificial_intelligence": {
+		"allies": [],
+		"allow_production": [],
+		"behaviors": [],
+		"enemies": []
+	},
+	"components": [
+		"actor",
+		"artificial_intelligence",
+		"collidable",
+		"dialogues",
+		"equipment",
+		"experience_gainer",
+		"fighter",
+		"glyph",
+		"health",
+		"humanoid",
+		"minimap_pixel",
+		"moveable",
+		"name",
+		"persona",
+		"position_2d",
+		"sight",
+		"stamina",
+		"statistics",
+		"tags"
+	],
+	"corpse": "25",
+	"description": "A wiry hunter posted at the edge of town to stem the rat tide. Offers gold for proof of the Rat Mother's death.",
+	"dialogues": [],
+	"equipment": {
+		"legs_cloth": [
+			{
+				"chance": 1.0,
+				"id": "298",
+				"name": "Pants",
+				"stack": 1
+			}
+		],
+		"torso_cloth": [
+			{
+				"chance": 1.0,
+				"id": "777",
+				"name": "Long Shirt",
+				"stack": 1
+			}
+		]
+	},
+	"experience_gainer": {
+		"exp": 0,
+		"level": 12
+	},
+	"fighter": {
+		"attackNames": [
+			"Punch"
+		]
+	},
+	"glyph": {
+		"frames": [
+			{
+				"color": [
+					200,
+					170,
+					90
+				],
+				"delay": 0,
+				"index": 567
+			}
+		],
+		"random_frame_start": false
+	},
+	"health": 90,
+	"humanoid": {
+		"race": "0"
+	},
+	"id": "core_2_Rat_Plague_Collector",
+	"minimap_pixel": [
+		200,
+		170,
+		90
+	],
+	"moveable": {
+		"speed": 1.0
+	},
+	"name": "Ratcatcher",
+	"persona": {
+		"occupation": "Ratcatcher"
+	},
+	"sight": {
+		"ignore_infra_penalty": false,
+		"infravision": false,
+		"range": 8,
+		"threesixty": false
+	},
+	"stamina": {
+		"fatigue": 100,
+		"stamina": 100,
+		"stamina_regen": 0.0
+	},
+	"statistics": {
+		"dexterity": [
+			12,
+			16
+		],
+		"endurance": [
+			12,
+			16
+		],
+		"intelligence": [
+			10,
+			14
+		],
+		"strength": [
+			12,
+			16
+		],
+		"willpower": [
+			10,
+			14
+		]
+	},
+	"tags": []
+}

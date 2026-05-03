@@ -104,7 +104,8 @@
 			"core_2_half_coin",
 			"core_2_spiked_chain",
 			"core_2_gemless_ring",
-			"core_2_orc_amulet"
+			"core_2_orc_amulet",
+			"core_2_bloody_chain"
 		],
 		"skills": [
 			"core_2_imbuing"

@@ -1,0 +1,51 @@
+{
+	"id": "core_2_herald_of_rot",
+	"name": "Herald of Rot",
+	"category": "settlement",
+	"flavor": "The ritual has called forth something ancient. A foul presence stirs in the wilds nearby, drawn by the druids chanting.",
+	"icon": 12,
+	"small_icon": 12,
+	"rarity": "uncommon",
+	"restrict_races": ["32"],
+	"trigger": {
+		"base_probability": 0.0,
+		"conditions": [
+            {
+                "type": "min_unemployed",
+                "value": 1
+            }
+        ]
+	},
+	"duration": {
+		"type": "temporary",
+		"days": [60, 90]
+	},
+	"poi": {
+		"location_id": "core_2_herald_of_rot",
+		"radius": 3,
+		"complete_event_on_cleared": true
+	},
+	"effects": [
+        {
+            "type": "spawn_group",
+            "amount": [
+                1,
+                1
+            ],
+            "group_type": "settlement",
+            "entity": "core_2_Mushman_Druid_Herald_Event",
+			"border_color": [
+                128,
+                0,
+                128
+            ]
+		}
+	],
+	"extra_dialogues": [],
+    "interactions": [],
+	"history_events": {
+		"begin": "A Herald of Rot has emerged near ::settlement, drawn by the Putrid Circle ritual.",
+		"end": "The Herald of Rot near ::settlement has faded, its presence dispersing into the rot.",
+		"success": "The Herald of Rot has been slain. The corruption near ::settlement is cleansed."
+	}
+}

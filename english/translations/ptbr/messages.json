@@ -10351,6 +10351,16 @@
             ],
             "format": "Seaside",
             "id": 1023
+        },
+        {
+            "color": [
+                200,
+                200,
+                200,
+                255
+            ],
+            "format": "Corrupted Save",
+            "id": 1024
         }
     ],
     "statistics": [

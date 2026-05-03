@@ -1,0 +1,137 @@
+{
+	"ability_user": [
+		"128",
+		"55"
+	],
+	"armor": {
+		"acid": 0,
+		"death": 50,
+		"electricity": 0,
+		"fire": 0,
+		"frost": 0,
+		"holy": 0,
+		"parry": 0,
+		"physical": 0,
+		"poison": 9999,
+		"thorns": 0
+	},
+	"artificial_intelligence": {
+		"allies": [],
+		"allow_production": [],
+		"behaviors": [],
+		"enemies": [
+			"5"
+		]
+	},
+	"components": [
+		"ability_user",
+		"actor",
+		"armor",
+		"artificial_intelligence",
+		"collidable",
+		"equipment",
+		"experience_gainer",
+		"fighter",
+		"glyph",
+		"health",
+		"minimap_pixel",
+		"moveable",
+		"name",
+		"position_2d",
+		"sight",
+		"stamina",
+		"statistics",
+		"tags"
+	],
+	"corpse": "core_2_Mushman_Corpse",
+	"description": "This mushman looks like it's in the process of decomposing.",
+	"equipment": {
+		"right_hand": [
+			{
+				"chance": 1.0,
+				"id": "384",
+				"name": "Druid Staff",
+				"stack": 1
+			}
+		],
+		"torso_cloth": [
+			{
+				"chance": 1.0,
+				"id": "core_2_Druidic_Robe",
+				"name": "Druidic Robe",
+				"stack": 1
+			}
+		]
+	},
+	"experience_gainer": {
+		"exp": 5,
+		"level": 1
+	},
+	"fighter": {
+		"attackNames": [
+			"Punch"
+		]
+	},
+	"glyph": {
+		"frames": [
+			{
+				"color": [
+					255,
+					255,
+					255
+				],
+				"delay": 0,
+				"index": 6462548
+			}
+		],
+		"random_frame_start": false
+	},
+	"health": 170,
+	"id": "core_2_Dark_Druid",
+	"minimap_pixel": [
+		113,
+		179,
+		34
+	],
+	"moveable": {
+		"speed": 1.0
+	},
+	"name": "Dark Druid",
+	"sight": {
+		"ignore_infra_penalty": false,
+		"infravision": true,
+		"range": 9,
+		"threesixty": false
+	},
+	"stamina": {
+		"fatigue": 100,
+		"stamina": 100,
+		"stamina_regen": 0.0
+	},
+	"statistics": {
+		"dexterity": [
+			6,
+			10
+		],
+		"endurance": [
+			20,
+			25
+		],
+		"intelligence": [
+			20,
+			25
+		],
+		"strength": [
+			10,
+			15
+		],
+		"willpower": [
+			15,
+			25
+		]
+	},
+	"tags": [
+		"9",
+		"3"
+	]
+}

@@ -1,0 +1,78 @@
+{
+	"armor": {
+		"acid": 0,
+		"death": 0,
+		"electricity": 3,
+		"fire": 0,
+		"frost": 0,
+		"holy": 3,
+		"parry": 0,
+		"physical": 0,
+		"poison": 3,
+		"thorns": 0
+	},
+	"components": [
+		"armor",
+		"craftable",
+		"glyph",
+		"item",
+		"minimap_pixel",
+		"name",
+		"position_2d",
+		"value",
+		"weight"
+	],
+	"craftable": {
+		"backgrounds": [],
+		"biomes": [],
+		"magic_slots": 3,
+		"resource_types": [
+			{
+				"amount": 1,
+				"id": 1
+			}
+		],
+		"resources": [
+			{
+				"amount": 1,
+				"id": "core_2_Blood_Vial"
+			},
+			{
+				"amount": 1,
+				"id": "core_2_Transmutation_Oil"
+			}
+		],
+		"time": 45,
+		"tools": [
+			14
+		]
+	},
+	"description": "This simple metal chains seems to have some stains of dried blood on it.",
+	"glyph": {
+		"frames": [
+			{
+				"color": [
+					255,
+					255,
+					255
+				],
+				"delay": 0,
+				"index": 3347
+			}
+		],
+		"random_frame_start": false
+	},
+	"id": "core_2_Bloody_Chain",
+	"item": {
+		"image": 1520,
+		"type": 3
+	},
+	"minimap_pixel": [
+		208,
+		204,
+		187
+	],
+	"name": "Bloody Chain",
+	"value": 1900,
+	"weight": 0.10000000149011612
+}

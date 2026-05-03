@@ -1,0 +1,118 @@
+{
+    "id": "core_2_rat_plague",
+    "name": "Rat Plague",
+    "category": "settlement",
+    "flavor": "The settlement's granaries have been overrun by an enormous nest of rats. They boil out of a foul warren on the outskirts, led by a monstrous Rat King, and will not stop until their master is sated.",
+    "icon": 0,
+    "small_icon": 0,
+    "rarity": "uncommon",
+    "restrict_races": [
+        "0"
+    ],
+    "trigger": {
+        "base_probability": 0.005,
+        "conditions": [
+            {
+                "type": "settlement_population_min",
+                "value": 20
+            },
+            {
+                "type": "settlement_tier_min",
+                "value": 1
+            },
+            {
+                "type": "race",
+                "values": [
+                    "0"
+                ]
+            },
+            {
+                "type": "min_unemployed",
+                "value": 1
+            }
+        ]
+    },
+    "duration": {
+        "type": "temporary",
+        "days": [
+            60,
+            120
+        ]
+    },
+    "building": {
+        "building_id": "544",
+        "placement": "map_edge",
+        "lair_only": true
+    },
+    "effects": [
+        {
+            "type": "spawn_group",
+            "amount": [
+                1,
+                1
+            ],
+            "group_type": "lair_group",
+            "entity": "core_2_Rat_Mother",
+            "border_color": [
+                160,
+                40,
+                40
+            ]
+        },
+        {
+            "type": "spawn_group",
+            "amount": [
+                8,
+                12
+            ],
+            "group_type": "hostile_group",
+            "entity": "core_2_Rat",
+            "border_color": [
+                130,
+                90,
+                60
+            ]
+        },
+        {
+            "type": "spawn_group",
+            "amount": [
+                1,
+                1
+            ],
+            "group_type": "settlement",
+            "entity": "core_2_Rat_Plague_Collector",
+            "border_color": [
+                200,
+                170,
+                90
+            ]
+        }
+    ],
+    "extra_dialogues": [],
+    "interactions": [
+        {
+            "type": "conversation",
+            "id": "core_2_slay_rat_king",
+            "entities": [
+                "core_2_Rat_Plague_Collector"
+            ],
+            "required_ingredients": [
+                {
+                    "id": "core_2_Rat_Mother_Tail",
+                    "amount": 1
+                }
+            ],
+            "reward": {
+                "gold": 1500,
+                "reputation": 20,
+                "remove_event": true
+            },
+            "history_event": "::name has slain the Rat Mother and broken the rat plague upon this settlement!",
+            "announcement": "You have ended the rat plague in ::settlement!"
+        }
+    ],
+    "history_events": {
+        "begin": "A rat plague overruns this settlement, led by a monstrous Rat Mother!",
+        "end": "The rats retreat back into the wilds and the settlement breathes easier."
+    }
+}

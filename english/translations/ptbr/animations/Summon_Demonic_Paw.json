@@ -1,0 +1,110 @@
+{
+	"animation_origin_self": false,
+	"camera_shake": {
+		"bounces": 0,
+		"duration": 0.0,
+		"power": 0.0,
+		"type": 1
+	},
+	"chain_particles": true,
+	"id": "core_2_Final_Grab",
+	"ignore_roof": false,
+	"name": "Summon Demonic Paw",
+	"particles": [
+		{
+			"color": [
+				[
+					255,
+					255,
+					255,
+					255
+				]
+			],
+			"flags": 0,
+			"life": 100.0,
+			"tile_id": 1572
+		},
+		{
+			"color": [
+				[
+					255,
+					255,
+					255,
+					255
+				]
+			],
+			"flags": 0,
+			"life": 100.0,
+			"tile_id": 1573
+		},
+		{
+			"color": [
+				[
+					255,
+					255,
+					255,
+					255
+				]
+			],
+			"flags": 0,
+			"life": 100.0,
+			"tile_id": 1574
+		},
+		{
+			"color": [
+				[
+					255,
+					255,
+					255,
+					255
+				]
+			],
+			"flags": 0,
+			"life": 100.0,
+			"tile_id": 1575
+		},
+		{
+			"color": [
+				[
+					255,
+					255,
+					255,
+					255
+				]
+			],
+			"flags": 0,
+			"life": 100.0,
+			"tile_id": 1576
+		},
+		{
+			"color": [
+				[
+					255,
+					255,
+					255,
+					255
+				]
+			],
+			"flags": 0,
+			"life": 100.0,
+			"tile_id": 1577
+		},
+		{
+			"color": [
+				[
+					255,
+					255,
+					255,
+					255
+				]
+			],
+			"flags": 0,
+			"life": 100.0,
+			"tile_id": 1578
+		}
+	],
+	"sound": {
+		"id": "",
+		"volume": 100
+	}
+}

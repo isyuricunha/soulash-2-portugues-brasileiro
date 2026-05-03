@@ -1,5 +1,18 @@
 {
+	"armor": {
+		"acid": 0,
+		"death": 0,
+		"electricity": 0,
+		"fire": 0,
+		"frost": 0,
+		"holy": 0,
+		"parry": 0,
+		"physical": 0,
+		"poison": 0,
+		"thorns": 0
+	},
 	"components": [
+		"armor",
 		"craftable",
 		"glyph",
 		"item",

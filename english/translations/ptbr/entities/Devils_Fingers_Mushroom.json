@@ -1,0 +1,46 @@
+{
+	"components": [
+		"food",
+		"glyph",
+		"item",
+		"minimap_pixel",
+		"name",
+		"position_2d",
+		"stackable",
+		"value",
+		"weight"
+	],
+	"description": "This mushroom looks like demonic fingers reaching to the sky.",
+	"food": {
+		"nutrition": 12,
+		"on_eat": "",
+		"raw": false
+	},
+	"glyph": {
+		"frames": [
+			{
+				"color": [
+					255,
+					255,
+					255
+				],
+				"delay": 0,
+				"index": 3346
+			}
+		],
+		"random_frame_start": true
+	},
+	"id": "core_2_Devils_Fingers_Mushroom",
+	"item": {
+		"image": 1519,
+		"type": 20
+	},
+	"minimap_pixel": [
+		241,
+		90,
+		34
+	],
+	"name": "Devils Fingers Mushroom",
+	"value": 100,
+	"weight": 0.10000000149011612
+}
