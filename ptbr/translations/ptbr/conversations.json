@@ -19181,6 +19181,44 @@
       ],
       "text": "",
       "type": "begin_conversation"
+    },
+    {
+      "answer_negative": "Você não tem os bens necessários?",
+      "answer_positive": "Você trouxe as ofertas para o ritual?",
+      "id": "core_2_deliver_druid_goods",
+      "options": [
+        "core_2_back_1"
+      ],
+      "text": "Entregue os bens druidas para o ritual.",
+      "type": "world_event"
+    },
+    {
+      "answer_negative": "A podridão se agita!",
+      "answer_positive": "O ritual atraiu uma presença sombria para as terras selvagens. Procure por ela.",
+      "entities": [
+        "core_2_Mushman_Druid_Herald_Event"
+      ],
+      "id": "core_2_mushman_druid_event_greet",
+      "options": [
+        "core_2_herald_of_rot_reveal",
+        "core_2_directions_1",
+        "core_2_exit_1"
+      ],
+      "text": "",
+      "type": "begin_conversation"
+    },
+    {
+      "answer_positive": "Marcamos o local corrompido no seu mapa.",
+      "answer_negative": "",
+      "entities": [
+        "core_2_Mushman_Druid_Herald_Event"
+      ],
+      "id": "core_2_herald_of_rot_reveal",
+      "options": [
+        "core_2_back_1"
+      ],
+      "text": "Onde essa corrupção se agita?",
+      "type": "reveal_event_poi"
     }
   ],
   "family_conversations": [

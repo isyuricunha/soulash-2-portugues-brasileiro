@@ -1843,6 +1843,13 @@
         ]
       }
     ],
+    "abyssal_imp": [
+      {
+        "entities": [
+          "core_2_Abyssal_Imp"
+        ]
+      }
+    ],
     "acidara_larva": [
       {
         "entities": [
@@ -6645,6 +6652,13 @@
         ]
       }
     ],
+    "cernunnos": [
+      {
+        "entities": [
+          "core_2_Cernunnos"
+        ]
+      }
+    ],
     "chainmail_coif_back": [],
     "chainmail_coif_dwarf_female": [
       {
@@ -8609,6 +8623,13 @@
         "sex": 1
       }
     ],
+    "dark_druid": [
+      {
+        "entities": [
+          "core_2_Dark_Druid"
+        ]
+      }
+    ],
     "dark_dwarf": [
       {
         "entities": [
@@ -9610,6 +9631,13 @@
       {
         "entities": [
           "core_2_Demon"
+        ]
+      }
+    ],
+    "demonic_paw": [
+      {
+        "entities": [
+          "core_2_Demonic_Paw"
         ]
       }
     ],
@@ -11781,8 +11809,8 @@
     "ettin_torso": [
       {
         "entities": [
-          "core_2_Ettin_Torso",
-          "core_2_Ettin"
+          "core_2_Ettin",
+          "core_2_Ettin_Torso"
         ]
       }
     ],
@@ -14826,8 +14854,8 @@
     "giant_lion_head": [
       {
         "entities": [
-          "core_2_Giant_Lion_Head",
-          "core_2_Giant_Lion"
+          "core_2_Giant_Lion",
+          "core_2_Giant_Lion_Head"
         ]
       }
     ],
@@ -28173,6 +28201,13 @@
         ]
       }
     ],
+    "rat_mother": [
+      {
+        "entities": [
+          "core_2_Rat_Mother"
+        ]
+      }
+    ],
     "raven": [
       {
         "entities": [
@@ -28964,6 +28999,13 @@
           "33"
         ],
         "sex": 1
+      }
+    ],
+    "rotting_dog": [
+      {
+        "entities": [
+          "core_2_Rotting_Dog"
+        ]
       }
     ],
     "rusty_helmet": [
@@ -32794,6 +32836,30 @@
       }
     ],
     "vampire_ear2": [
+      {
+        "races": [
+          "6"
+        ],
+        "sex": 0
+      }
+    ],
+    "vampire_eybg1": [
+      {
+        "races": [
+          "6"
+        ],
+        "sex": 0
+      }
+    ],
+    "vampire_eybg2": [
+      {
+        "races": [
+          "6"
+        ],
+        "sex": 0
+      }
+    ],
+    "vampire_eybg3": [
       {
         "races": [
           "6"

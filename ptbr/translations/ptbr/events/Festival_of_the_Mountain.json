@@ -1,0 +1,95 @@
+{
+  "id": "core_2_dwarf_festival",
+  "name": "Festival da Montanha",
+  "category": "settlement",
+  "flavor": "A montanha é nosso lar. Ela nos dá abrigo. É hora de honrá-la. Uma feira itinerante monta barracas coloridas na praça do assentamento. Comerciantes vendem bens raros enquanto a celebração dura.",
+  "icon": 1,
+  "small_icon": 1,
+  "rarity": "uncommon",
+  "restrict_races": [
+    "1"
+  ],
+  "trigger": {
+    "base_probability": 0.005,
+    "conditions": [
+      {
+        "type": "settlement_population_min",
+        "value": 20
+      },
+      {
+        "type": "settlement_tier_min",
+        "value": 1
+      },
+      {
+        "type": "min_unemployed",
+        "value": 1
+      }
+    ]
+  },
+  "duration": {
+    "type": "temporary",
+    "days": [
+      30,
+      50
+    ]
+  },
+  "building": {
+    "building_id": "534"
+  },
+  "effects": [
+    {
+      "type": "spawn_group",
+      "amount": [
+        1,
+        2
+      ],
+      "group_type": "settlement",
+      "entity": "core_2_Dwarf_Festival_Vendor",
+      "trade_list": [
+        {
+          "id": "318",
+          "amount": 20
+        },
+        {
+          "id": "809",
+          "amount": 12
+        },
+        {
+          "id": "core_2_Glass_Gem",
+          "amount": 3
+        },
+        {
+          "id": "1093",
+          "amount": 1
+        },
+        {
+          "id": "848",
+          "amount": 3
+        },
+        {
+          "id": "847",
+          "amount": 5
+        },
+        {
+          "id": "161",
+          "amount": 3
+        },
+        {
+          "id": "159",
+          "amount": 2
+        }
+      ],
+      "border_color": [
+        128,
+        0,
+        128
+      ]
+    }
+  ],
+  "extra_dialogues": [],
+  "interactions": [],
+  "history_events": {
+    "begin": "Um festival começou neste assentamento!",
+    "end": "O festival terminou e as barracas foram guardadas."
+  }
+}

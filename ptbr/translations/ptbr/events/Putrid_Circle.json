@@ -1,0 +1,68 @@
+{
+  "id": "core_2_mushman_putrid_circle",
+  "name": "O Círculo Pútido",
+  "category": "settlement",
+  "flavor": "Nas profundezas das terras selvagens, druidas do Povo-Cogumelo se reuniram para realizar o ritual ancestral, invocando a podridão que sustenta toda a vida.",
+  "icon": 11,
+  "small_icon": 11,
+  "rarity": "uncommon",
+  "restrict_races": [
+    "32"
+  ],
+  "trigger": {
+    "base_probability": 0.003,
+    "conditions": [
+      {
+        "type": "settlement_population_min",
+        "value": 60
+      },
+      {
+        "type": "settlement_tier_min",
+        "value": 2
+      }
+    ]
+  },
+  "duration": {
+    "type": "temporary",
+    "days": [
+      30,
+      60
+    ]
+  },
+  "extra_dialogues": [],
+  "interactions": [
+    {
+      "type": "conversation",
+      "id": "core_2_deliver_druid_goods",
+      "required_ingredients": [
+        {
+          "id": "384",
+          "amount": 2
+        },
+        {
+          "id": "core_2_Druidic_Robe",
+          "amount": 5
+        }
+      ],
+      "reward": {
+        "gold": 1000,
+        "reputation": 15,
+        "remove_event": true,
+        "skill_id": "core_2_floromancy",
+        "exp": 100
+      },
+      "history_event": "::name entregou os bens necessários aos druidas do Povo-Cogumelo!",
+      "announcement": "Você entregou os bens necessários aos druidas do Povo-Cogumelo de ::settlement!"
+    },
+    {
+      "type": "expiration",
+      "trigger_event": "core_2_herald_of_rot",
+      "history_event": "O ritual do Círculo Pútido falhou e a podridão escapou de seus limites!"
+    }
+  ],
+  "history_events": {
+    "begin": "Aspirantes a druidas do Povo-Cogumelo formaram um Círculo Pútido perto de ::settlement, começando seu ritual ancestral.",
+    "end": "O ritual do Círculo Pútido perto de ::settlement foi concluído, os druidas se dispersando de volta para as terras selvagens fúngicas.",
+    "success": "O ritual do Círculo Pútido foi concluído com sucesso. A podridão floresce e o Povo-Cogumelo se alegra."
+  }
+}

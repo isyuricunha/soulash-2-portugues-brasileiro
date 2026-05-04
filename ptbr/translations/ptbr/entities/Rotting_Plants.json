@@ -1,0 +1,69 @@
+{
+  "components": [
+    "glyph",
+    "glyph_top",
+    "health",
+    "height",
+    "minimap_pixel",
+    "name",
+    "position_2d",
+    "producer"
+  ],
+  "corpse": [],
+  "description": "Isso costumava ser algum arbusto, mas parece estar apodrecendo.",
+  "glyph": {
+    "frames": [
+      {
+        "color": [
+          106,
+          106,
+          6
+        ],
+        "delay": 0,
+        "index": 860
+      }
+    ],
+    "random_frame_start": false,
+    "random_top": {
+      "colors": [
+        [
+          106,
+          106,
+          6
+        ]
+      ],
+      "count": 1,
+      "glyph_ids": [
+        3327,
+        3328
+      ],
+      "max_alpha": 200,
+      "max_range": 3,
+      "wind": true
+    }
+  },
+  "health": 10,
+  "height": 0,
+  "id": "core_2_Rotting_Plants",
+  "minimap_pixel": [
+    106,
+    106,
+    6
+  ],
+  "name": "Plantas Apodrecidas",
+  "producer": {
+    "products": {
+      "core_2_deconstruct": [
+        {
+          "amount": [
+            0,
+            0
+          ],
+          "id": "",
+          "percent_chance": 100
+        }
+      ]
+    },
+    "time": 5
+  }
+}

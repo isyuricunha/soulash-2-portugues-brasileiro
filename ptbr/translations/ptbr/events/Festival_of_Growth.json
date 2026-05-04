@@ -1,0 +1,91 @@
+{
+  "id": "core_2_mushman_festival",
+  "name": "Festival do Crescimento",
+  "category": "settlement",
+  "flavor": "O micélio está sempre crescendo e devemos mostrar nossa gratidão. Uma feira itinerante monta barracas coloridas na praça do assentamento. Comerciantes vendem bens raros enquanto a celebração dura.",
+  "icon": 1,
+  "small_icon": 1,
+  "rarity": "uncommon",
+  "restrict_races": [
+    "32"
+  ],
+  "trigger": {
+    "base_probability": 0.005,
+    "conditions": [
+      {
+        "type": "settlement_population_min",
+        "value": 20
+      },
+      {
+        "type": "settlement_tier_min",
+        "value": 1
+      },
+      {
+        "type": "min_unemployed",
+        "value": 1
+      }
+    ]
+  },
+  "duration": {
+    "type": "temporary",
+    "days": [
+      30,
+      50
+    ]
+  },
+  "building": {
+    "building_id": "536"
+  },
+  "effects": [
+    {
+      "type": "spawn_group",
+      "amount": [
+        1,
+        2
+      ],
+      "group_type": "settlement",
+      "entity": "core_2_Mushman_Festival_Vendor",
+      "trade_list": [
+        {
+          "id": "core_2_Mycelium_Cloth",
+          "amount": 2
+        },
+        {
+          "id": "core_2_Puffball_Mushroom",
+          "amount": 10
+        },
+        {
+          "id": "core_2_Book_of_Agriculture",
+          "amount": 1
+        },
+        {
+          "id": "3047",
+          "amount": 10
+        },
+        {
+          "id": "3048",
+          "amount": 10
+        },
+        {
+          "id": "core_2_Cauliflower_Mushroom",
+          "amount": 10
+        },
+        {
+          "id": "core_2_Puffball_Mushroom",
+          "amount": 10
+        }
+      ],
+      "border_color": [
+        128,
+        0,
+        128
+      ]
+    }
+  ],
+  "extra_dialogues": [],
+  "interactions": [],
+  "history_events": {
+    "begin": "Um festival começou neste assentamento!",
+    "end": "O festival terminou e as barracas foram guardadas."
+  }
+}

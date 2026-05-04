@@ -1,0 +1,91 @@
+{
+  "id": "core_2_human_festival",
+  "name": "Festival da Colheita",
+  "category": "settlement",
+  "flavor": "A colheita acabou, então agora é hora de celebrar! Uma feira itinerante monta barracas coloridas na praça do assentamento. Comerciantes vendem bens raros enquanto a celebração dura.",
+  "icon": 1,
+  "small_icon": 1,
+  "rarity": "uncommon",
+  "restrict_races": [
+    "0"
+  ],
+  "trigger": {
+    "base_probability": 0.005,
+    "conditions": [
+      {
+        "type": "settlement_population_min",
+        "value": 20
+      },
+      {
+        "type": "settlement_tier_min",
+        "value": 1
+      },
+      {
+        "type": "min_unemployed",
+        "value": 1
+      }
+    ]
+  },
+  "duration": {
+    "type": "temporary",
+    "days": [
+      10,
+      20
+    ]
+  },
+  "building": {
+    "building_id": "533"
+  },
+  "effects": [
+    {
+      "type": "spawn_group",
+      "amount": [
+        1,
+        2
+      ],
+      "group_type": "settlement",
+      "entity": "core_2_Human_Festival_Vendor",
+      "trade_list": [
+        {
+          "id": "318",
+          "amount": 20
+        },
+        {
+          "id": "809",
+          "amount": 12
+        },
+        {
+          "id": "core_2_Meat_on_a_Stick",
+          "amount": 10
+        },
+        {
+          "id": "core_2_Caught_Chick",
+          "amount": 2
+        },
+        {
+          "id": "core_2_Potato",
+          "amount": 10
+        },
+        {
+          "id": "core_2_Sausage",
+          "amount": 5
+        },
+        {
+          "id": "803",
+          "amount": 4
+        }
+      ],
+      "border_color": [
+        128,
+        0,
+        128
+      ]
+    }
+  ],
+  "extra_dialogues": [],
+  "interactions": [],
+  "history_events": {
+    "begin": "Um festival começou neste assentamento!",
+    "end": "O festival terminou e as barracas foram guardadas."
+  }
+}

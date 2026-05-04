@@ -1,0 +1,46 @@
+{
+  "components": [
+    "food",
+    "glyph",
+    "item",
+    "minimap_pixel",
+    "name",
+    "position_2d",
+    "stackable",
+    "value",
+    "weight"
+  ],
+  "description": "Este cogumelo parece estar exsudando gotas de sangue.",
+  "food": {
+    "nutrition": 12,
+    "on_eat": "",
+    "raw": false
+  },
+  "glyph": {
+    "frames": [
+      {
+        "color": [
+          255,
+          255,
+          255
+        ],
+        "delay": 0,
+        "index": 3345
+      }
+    ],
+    "random_frame_start": true
+  },
+  "id": "core_2_Bleeding_Tooth_Mushroom",
+  "item": {
+    "image": 1518,
+    "type": 20
+  },
+  "minimap_pixel": [
+    241,
+    90,
+    34
+  ],
+  "name": "Cogumelo Dente Sangrento",
+  "value": 1000,
+  "weight": 0.10000000149011612
+}

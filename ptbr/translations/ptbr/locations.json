@@ -1207,6 +1207,132 @@
       "algorithm": {
         "id": "simple_spawn",
         "parameters": {
+          "size": 4,
+          "starting_z_level": 0
+        }
+      },
+      "biomes": [
+        "boreal_forest"
+      ],
+      "difficulty": 1,
+      "id": "core_2_herald_of_rot",
+      "image": 185,
+      "name": "Arauto da Podridão",
+      "event_only": true,
+      "scenarios": [
+        {
+          "building_maps": [],
+          "internal_name": "Herald of Rot",
+          "rewards": [
+            {
+              "chance": 1.0,
+              "entity": "core_2_herald_of_rot",
+              "objective": true,
+              "value": 500
+            }
+          ],
+          "spawns": [
+            {
+              "amount": [
+                6,
+                10
+              ],
+              "chance": 1.0,
+              "entities": [
+                "1067"
+              ]
+            },
+            {
+              "amount": [
+                25,
+                40
+              ],
+              "chance": 1.0,
+              "entities": [
+                "1066"
+              ]
+            },
+            {
+              "amount": [
+                4,
+                8
+              ],
+              "chance": 0.88,
+              "entities": [
+                "2069"
+              ]
+            },
+            {
+              "amount": [
+                7,
+                12
+              ],
+              "chance": 1.0,
+              "entities": [
+                "1066"
+              ],
+              "placement": "random_spread"
+            },
+            {
+              "amount": [
+                7,
+                12
+              ],
+              "chance": 0.8,
+              "entities": [
+                "1066"
+              ],
+              "placement": "random_spread"
+            },
+            {
+              "amount": [
+                7,
+                12
+              ],
+              "chance": 0.33,
+              "entities": [
+                "1066"
+              ],
+              "placement": "random_spread"
+            },
+            {
+              "amount": [
+                1,
+                1
+              ],
+              "chance": 0.01,
+              "entities": [
+                "317"
+              ]
+            },
+            {
+              "amount": [
+                1,
+                1
+              ],
+              "chance": 0.01,
+              "entities": [
+                "342"
+              ]
+            },
+            {
+              "amount": [
+                1,
+                1
+              ],
+              "chance": 0.01,
+              "entities": [
+                "335"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "algorithm": {
+        "id": "simple_spawn",
+        "parameters": {
           "size": 2,
           "starting_z_level": 0
         }
@@ -26469,7 +26595,7 @@
       "difficulty": 0,
       "id": "core_2_arctic_flower_1",
       "image": -1,
-      "matches_resource": "core_2_arctic_flower",
+      "matches_resource": "core_2_Arctic_Flower",
       "name": "Flor Ártica",
       "scenarios": [
         {
@@ -42751,6 +42877,17 @@
               ],
               "mode": "one_of",
               "placement": "carve"
+            },
+            {
+              "count": [
+                1,
+                1
+              ],
+              "ids": [
+                "Black_Dragon_Up"
+              ],
+              "mode": "one_of",
+              "placement": "carve"
             }
           ],
           "center_map": [],
@@ -42944,7 +43081,7 @@
       ],
       "difficulty": 5,
       "id": "core_2_ettin_cave",
-      "image": 325,
+      "image": 111,
       "name": "Cavernas do Ettin",
       "scenarios": [
         {
@@ -43095,6 +43232,111 @@
             }
           ],
           "z_level": -2
+        }
+      ]
+    },
+    {
+      "algorithm": {
+        "id": "simple_spawn",
+        "parameters": {
+          "carvables": [
+            "2018",
+            "242",
+            "8"
+          ],
+          "clear_threshold": 11,
+          "pre_fill_percent": 0.53,
+          "size": 4,
+          "smooth_iterations": 3,
+          "stairs_down": "2043",
+          "stairs_up": "2042",
+          "starting_z_level": 0,
+          "z_levels": 1
+        }
+      },
+      "biomes": [
+        "boreal_forest"
+      ],
+      "difficulty": 4,
+      "id": "core_2_herald_of_rot",
+      "image": 112,
+      "event_only": true,
+      "name": "Arauto da Podridão",
+      "scenarios": [
+        {
+          "building_maps": [
+            {
+              "count": [
+                1,
+                1
+              ],
+              "ids": [
+                "Herald_of_Rot_2",
+                "Herald_of_Rot_1"
+              ],
+              "mode": "one_of",
+              "placement": "carve"
+            },
+            {
+              "count": [
+                6,
+                11
+              ],
+              "ids": [
+                "Herald_of_Rot_3",
+                "Herald_of_Rot_4",
+                "Herald_of_Rot_5",
+                "Herald_of_Rot_7",
+                "Herald_of_Rot_6",
+                "Herald_of_Rot_8",
+                "Herald_of_Roy_9",
+                "Herald_of_Rot_10",
+                "Herald_of_Rot_11",
+                "Herald_of_Rot_12",
+                "Herald_of_Rot_13"
+              ],
+              "mode": "one_of",
+              "placement": "carve"
+            }
+          ],
+          "center_map": [],
+          "internal_name": "Herald of Rot 0",
+          "spawns": [
+            {
+              "amount": [
+                1,
+                1
+              ],
+              "chance": 1.0,
+              "entities": [
+                "core_2_Cernunnos"
+              ],
+              "spawn_on": []
+            },
+            {
+              "amount": [
+                8,
+                12
+              ],
+              "chance": 1.0,
+              "entities": [
+                "core_2_Dark_Druid"
+              ],
+              "spawn_on": []
+            },
+            {
+              "amount": [
+                8,
+                12
+              ],
+              "chance": 1.0,
+              "entities": [
+                "core_2_Rotting_Dog"
+              ],
+              "spawn_on": []
+            }
+          ],
+          "z_level": 0
         }
       ]
     }

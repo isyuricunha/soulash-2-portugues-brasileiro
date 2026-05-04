@@ -1,0 +1,48 @@
+{
+  "components": [
+    "collidable",
+    "glyph",
+    "minimap_pixel",
+    "name",
+    "position_2d",
+    "random_resource"
+  ],
+  "description": "Um monumento imponente coberto de runas. Apenas olhar para ele lhe dá uma dor de cabeça.",
+  "glyph": {
+    "frames": [
+      {
+        "color": [
+          255,
+          255,
+          255
+        ],
+        "delay": 0,
+        "index": 3353
+      }
+    ],
+    "random_frame_start": true
+  },
+  "id": "core_2_Infernal_Monument",
+  "minimap_pixel": [
+    99,
+    174,
+    208
+  ],
+  "name": "Monumento Infernal",
+  "random_resource": {
+    "delay_spawn": false,
+    "entity": [
+      "core_2_Abyssal_Imp"
+    ],
+    "max_amount": 5,
+    "max_distance": 3,
+    "min_amount": 3,
+    "min_distance": 1,
+    "multiply_same": false,
+    "respawn_rate": 1440.0,
+    "spawn_at": [],
+    "spawn_chance": 100.0,
+    "spawn_multiply": 0.0,
+    "spawn_rolls": 1
+  }
+}

@@ -1,0 +1,124 @@
+{
+  "artificial_intelligence": {
+    "allies": [],
+    "allow_production": [],
+    "behaviors": [],
+    "enemies": []
+  },
+  "components": [
+    "actor",
+    "artificial_intelligence",
+    "collidable",
+    "dialogues",
+    "equipment",
+    "experience_gainer",
+    "fighter",
+    "glyph",
+    "health",
+    "humanoid",
+    "minimap_pixel",
+    "moveable",
+    "name",
+    "persona",
+    "position_2d",
+    "sight",
+    "stamina",
+    "statistics",
+    "tags"
+  ],
+  "corpse": "25",
+  "description": "Um caçador magro posto na borda da cidade para conter a maré de ratos. Oferece ouro por prova da morte da Ratazana.",
+  "dialogues": [],
+  "equipment": {
+    "legs_cloth": [
+      {
+        "chance": 1.0,
+        "id": "298",
+        "name": "Calças",
+        "stack": 1
+      }
+    ],
+    "torso_cloth": [
+      {
+        "chance": 1.0,
+        "id": "777",
+        "name": "Camisa Longa",
+        "stack": 1
+      }
+    ]
+  },
+  "experience_gainer": {
+    "exp": 0,
+    "level": 12
+  },
+  "fighter": {
+    "attackNames": [
+      "Punch"
+    ]
+  },
+  "glyph": {
+    "frames": [
+      {
+        "color": [
+          200,
+          170,
+          90
+        ],
+        "delay": 0,
+        "index": 567
+      }
+    ],
+    "random_frame_start": false
+  },
+  "health": 90,
+  "humanoid": {
+    "race": "0"
+  },
+  "id": "core_2_Rat_Plague_Collector",
+  "minimap_pixel": [
+    200,
+    170,
+    90
+  ],
+  "moveable": {
+    "speed": 1.0
+  },
+  "name": "Caçador de Ratos",
+  "persona": {
+    "occupation": "Caçador de Ratos"
+  },
+  "sight": {
+    "ignore_infra_penalty": false,
+    "infravision": false,
+    "range": 8,
+    "threesixty": false
+  },
+  "stamina": {
+    "fatigue": 100,
+    "stamina": 100,
+    "stamina_regen": 0.0
+  },
+  "statistics": {
+    "dexterity": [
+      12,
+      16
+    ],
+    "endurance": [
+      12,
+      16
+    ],
+    "intelligence": [
+      10,
+      14
+    ],
+    "strength": [
+      12,
+      16
+    ],
+    "willpower": [
+      10,
+      14
+    ]
+  },
+  "tags": []
+}

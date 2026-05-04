@@ -1,0 +1,56 @@
+{
+  "id": "core_2_herald_of_rot",
+  "name": "Arauto da Podridão",
+  "category": "settlement",
+  "flavor": "O ritual invocou algo ancestral. Uma presença fétida se agita nas terras selvagens próximas, atraída pelos cânticos dos druidas.",
+  "icon": 12,
+  "small_icon": 12,
+  "rarity": "uncommon",
+  "restrict_races": [
+    "32"
+  ],
+  "trigger": {
+    "base_probability": 0.0,
+    "conditions": [
+      {
+        "type": "min_unemployed",
+        "value": 1
+      }
+    ]
+  },
+  "duration": {
+    "type": "temporary",
+    "days": [
+      60,
+      90
+    ]
+  },
+  "poi": {
+    "location_id": "core_2_herald_of_rot",
+    "radius": 3,
+    "complete_event_on_cleared": true
+  },
+  "effects": [
+    {
+      "type": "spawn_group",
+      "amount": [
+        1,
+        1
+      ],
+      "group_type": "settlement",
+      "entity": "core_2_Mushman_Druid_Herald_Event",
+      "border_color": [
+        128,
+        0,
+        128
+      ]
+    }
+  ],
+  "extra_dialogues": [],
+  "interactions": [],
+  "history_events": {
+    "begin": "Um Arauto da Podridão emergiu perto de ::settlement, atraído pelo ritual do Círculo Pútido.",
+    "end": "O Arauto da Podridão perto de ::settlement desapareceu, sua presença se dissipando na podridão.",
+    "success": "O Arauto da Podridão foi morto. A corrupção perto de ::settlement foi purificada."
+  }
+}

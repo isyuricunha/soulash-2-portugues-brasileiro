@@ -1,0 +1,91 @@
+{
+  "id": "core_2_elf_festival",
+  "name": "Festival da Primavera",
+  "category": "settlement",
+  "flavor": "A primavera chegou! Outra ótima desculpa para festas. Uma feira itinerante monta barracas coloridas na praça do assentamento. Comerciantes vendem bens raros enquanto a celebração dura.",
+  "icon": 1,
+  "small_icon": 1,
+  "rarity": "uncommon",
+  "restrict_races": [
+    "2"
+  ],
+  "trigger": {
+    "base_probability": 0.005,
+    "conditions": [
+      {
+        "type": "settlement_population_min",
+        "value": 20
+      },
+      {
+        "type": "settlement_tier_min",
+        "value": 1
+      },
+      {
+        "type": "min_unemployed",
+        "value": 1
+      }
+    ]
+  },
+  "duration": {
+    "type": "temporary",
+    "days": [
+      30,
+      50
+    ]
+  },
+  "building": {
+    "building_id": "535"
+  },
+  "effects": [
+    {
+      "type": "spawn_group",
+      "amount": [
+        1,
+        2
+      ],
+      "group_type": "settlement",
+      "entity": "core_2_Elf_Festival_Vendor",
+      "trade_list": [
+        {
+          "id": "core_2_Edible_Flowers",
+          "amount": 20
+        },
+        {
+          "id": "core_2_Hickory_Wood",
+          "amount": 3
+        },
+        {
+          "id": "core_2_Cought_Baby_Rabbit",
+          "amount": 1
+        },
+        {
+          "id": "3031",
+          "amount": 4
+        },
+        {
+          "id": "3033",
+          "amount": 5
+        },
+        {
+          "id": "2006",
+          "amount": 4
+        },
+        {
+          "id": "core_2_Book_of_Floromancy",
+          "amount": 1
+        }
+      ],
+      "border_color": [
+        128,
+        0,
+        128
+      ]
+    }
+  ],
+  "extra_dialogues": [],
+  "interactions": [],
+  "history_events": {
+    "begin": "Um festival começou neste assentamento!",
+    "end": "O festival terminou e as barracas foram guardadas."
+  }
+}

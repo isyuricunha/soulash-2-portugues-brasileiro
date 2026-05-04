@@ -1,0 +1,95 @@
+{
+  "id": "core_2_rasimi_festival",
+  "name": "Festival da Lua Azul",
+  "category": "settlement",
+  "flavor": "De vez em quando a Lua realmente fica azul. É hora de celebrar! Uma feira itinerante monta barracas coloridas na praça do assentamento. Comerciantes vendem bens raros enquanto a celebração dura.",
+  "icon": 1,
+  "small_icon": 1,
+  "rarity": "uncommon",
+  "restrict_races": [
+    "10"
+  ],
+  "trigger": {
+    "base_probability": 0.005,
+    "conditions": [
+      {
+        "type": "settlement_population_min",
+        "value": 20
+      },
+      {
+        "type": "settlement_tier_min",
+        "value": 1
+      },
+      {
+        "type": "min_unemployed",
+        "value": 1
+      }
+    ]
+  },
+  "duration": {
+    "type": "temporary",
+    "days": [
+      30,
+      50
+    ]
+  },
+  "building": {
+    "building_id": "537"
+  },
+  "effects": [
+    {
+      "type": "spawn_group",
+      "amount": [
+        1,
+        2
+      ],
+      "group_type": "settlement",
+      "entity": "core_2_Rasimi_Festival_Vendor",
+      "trade_list": [
+        {
+          "id": "318",
+          "amount": 20
+        },
+        {
+          "id": "809",
+          "amount": 12
+        },
+        {
+          "id": "core_2_Moon_Cookie",
+          "amount": 3
+        },
+        {
+          "id": "core_2_Lotus_Silk",
+          "amount": 1
+        },
+        {
+          "id": "2516",
+          "amount": 1
+        },
+        {
+          "id": "2919",
+          "amount": 2
+        },
+        {
+          "id": "2436",
+          "amount": 2
+        },
+        {
+          "id": "core_2_Book_of_Hunting",
+          "amount": 1
+        }
+      ],
+      "border_color": [
+        128,
+        0,
+        128
+      ]
+    }
+  ],
+  "extra_dialogues": [],
+  "interactions": [],
+  "history_events": {
+    "begin": "Um festival começou neste assentamento!",
+    "end": "O festival terminou e as barracas foram guardadas."
+  }
+}

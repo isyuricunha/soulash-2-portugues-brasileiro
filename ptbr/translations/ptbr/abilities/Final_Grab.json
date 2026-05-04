@@ -1,0 +1,25 @@
+{
+  "animation": "core_2_Final_Grasp",
+  "cast_time": 1.0,
+  "cooldown": 10.0,
+  "cost": {
+    "health": 0,
+    "stamina": 8
+  },
+  "description": "Mãos espectrais saíram do chão causando ::damage de dano ::damage_type ao alvo e puxando-o mais perto do conjurador.",
+  "duration": 0.0,
+  "effects": {
+    "damage": [
+      25,
+      30
+    ],
+    "damage_type": "death",
+    "pull_target": 10
+  },
+  "id": "core_2_Final_Grab",
+  "image": 820,
+  "name": "Agarre Final",
+  "range": 10,
+  "skill": "",
+  "target": "health"
+}
