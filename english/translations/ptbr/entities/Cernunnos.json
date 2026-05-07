@@ -47,7 +47,7 @@
 		"tags",
 		"weapon"
 	],
-	"corpse": [],
+	"corpse": "core_2_Cernunnos_Corpse",
 	"description": "A leafy, antlered embodiment of the wild woods.",
 	"dialogues": [],
 	"experience_gainer": {

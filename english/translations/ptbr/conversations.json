@@ -19008,6 +19008,30 @@
             "type": "world_event"
         },
         {
+            "answer_positive": "Welcome",
+            "answer_negative": "I don't trust your kind.",
+            "entities": [
+                "core_2_Rat_Plague_Collector"
+            ],
+            "id": "core_2_begin_rat_plague_collector",
+            "options": [
+                "core_2_slay_rat_queen",
+                "core_2_exit_1"
+            ],
+            "text": "",
+            "type": "begin_conversation"
+        },
+        {
+            "answer_negative": "I don't believe you can help.",
+            "answer_positive": "You think you got what it takes?",
+            "id": "core_2_slay_rat_queen",
+            "options": [
+                "core_2_back_1"
+            ],
+            "text": "Ask about solving the rat problem.",
+            "type": "world_event"
+        },
+        {
             "answer_positive": "Welcome, hunter! The Great Hunt is on. Bring me the bodies of beasts and I will tally your score. May the strongest prevail!",
             "answer_negative": "The hunt is not for the faint of heart. Move along.",
             "entities": [
@@ -19201,7 +19225,6 @@
             "id": "core_2_mushman_druid_event_greet",
             "options": [
                 "core_2_herald_of_rot_reveal",
-                "core_2_directions_1",
                 "core_2_exit_1"
             ],
             "text": "",
@@ -19210,15 +19233,22 @@
         {
             "answer_positive": "We have marked the corrupted place on your map.",
             "answer_negative": "",
-            "entities": [
-                "core_2_Mushman_Druid_Herald_Event"
-            ],
             "id": "core_2_herald_of_rot_reveal",
             "options": [
                 "core_2_back_1"
             ],
             "text": "Where does this corruption stir?",
-            "type": "reveal_event_poi"
+            "type": "world_event_interaction"
+        },
+        {
+            "answer_negative": "The rot still festers and lurks.",
+            "answer_positive": "Have you destroyed the source of unholy rot?",
+            "id": "core_2_mushman_druid_herald_event_reward",
+            "options": [
+                "core_2_back_1"
+            ],
+            "text": "The Herald is dead. I claim the reward.",
+            "type": "world_event_interaction"
         }
     ],
     "family_conversations": [

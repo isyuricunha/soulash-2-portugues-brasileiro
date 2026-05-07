@@ -13,6 +13,7 @@
 	},
 	"components": [
 		"armor",
+		"craftable",
 		"glyph",
 		"item",
 		"minimap_pixel",
@@ -21,6 +22,27 @@
 		"value",
 		"weight"
 	],
+	"craftable": {
+		"backgrounds": [],
+		"biomes": [],
+		"magic_slots": 5,
+		"resource_types": [
+			{
+				"amount": 3,
+				"id": 1
+			}
+		],
+		"resources": [
+			{
+				"amount": 2,
+				"id": "core_2_Blood_Vial"
+			}
+		],
+		"time": 30,
+		"tools": [
+			14
+		]
+	},
 	"description": "Maybe it should give you some unnatural powers, but it's just really pretty.",
 	"glyph": {
 		"frames": [

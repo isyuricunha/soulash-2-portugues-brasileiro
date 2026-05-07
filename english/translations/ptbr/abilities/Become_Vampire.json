@@ -6,7 +6,7 @@
 		"health": 0,
 		"stamina": 10
 	},
-	"description": "Calls upon your inner wolf to imbue you with its power. You gain statistics as well as bonus to attack speed and movement speed for a duration of ::duration turns.",
+	"description": "You forever reject mortality to become a creature of the night.",
 	"duration": 25.0,
 	"effects": null,
 	"id": "core_2_Become_Vampire",
