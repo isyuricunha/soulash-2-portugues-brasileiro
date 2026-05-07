@@ -10,7 +10,7 @@
     "32"
   ],
   "trigger": {
-    "base_probability": 0.0,
+    "base_probability": 0,
     "conditions": [
       {
         "type": "min_unemployed",
@@ -25,10 +25,9 @@
       90
     ]
   },
-  "poi": {
-    "location_id": "core_2_herald_of_rot",
-    "radius": 3,
-    "complete_event_on_cleared": true
+  "location": {
+    "id": "core_2_herald_of_rot",
+    "radius": 3
   },
   "effects": [
     {
@@ -47,7 +46,30 @@
     }
   ],
   "extra_dialogues": [],
-  "interactions": [],
+  "interactions": [
+    {
+      "type": "reveal_event_location",
+      "id": "core_2_herald_of_rot_reveal",
+      "entities": [
+        "core_2_Mushman_Druid_Herald_Event"
+      ]
+    },
+    {
+      "type": "conversation",
+      "id": "core_2_mushman_druid_herald_event_reward",
+      "require_location_cleared": true,
+      "entities": [
+        "core_2_Mushman_Druid_Herald_Event"
+      ],
+      "reward": {
+        "gold": 1500,
+        "reputation": 15,
+        "remove_event": true,
+        "announcement": "O Arauto da Podridão foi morto. A corrupção perto de ::settlement foi purificada."
+      },
+      "history_event": "::name matou o Arauto da Podridão e purificou a corrupção!"
+    }
+  ],
   "history_events": {
     "begin": "Um Arauto da Podridão emergiu perto de ::settlement, atraído pelo ritual do Círculo Pútido.",
     "end": "O Arauto da Podridão perto de ::settlement desapareceu, sua presença se dissipando na podridão.",

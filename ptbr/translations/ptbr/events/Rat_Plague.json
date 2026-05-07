@@ -10,7 +10,7 @@
     "0"
   ],
   "trigger": {
-    "base_probability": 0.005,
+    "base_probability": 0.5,
     "conditions": [
       {
         "type": "settlement_population_min",
@@ -92,10 +92,7 @@
   "interactions": [
     {
       "type": "conversation",
-      "id": "core_2_slay_rat_king",
-      "entities": [
-        "core_2_Rat_Plague_Collector"
-      ],
+      "id": "core_2_slay_rat_queen",
       "required_ingredients": [
         {
           "id": "core_2_Rat_Mother_Tail",
@@ -107,7 +104,7 @@
         "reputation": 20,
         "remove_event": true
       },
-      "history_event": "::name matou a Mãe dos Ratos e acabou com a praga de ratos neste assentamento!",
+      "history_event": "::name matou a Mãe dos Ratos e purificou este assentamento da praga de ratos!",
       "announcement": "Você acabou com a praga de ratos em ::settlement!"
     }
   ],

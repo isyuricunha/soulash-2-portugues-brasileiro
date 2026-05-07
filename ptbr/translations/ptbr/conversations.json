@@ -19008,6 +19008,30 @@
       "type": "world_event"
     },
     {
+      "answer_positive": "Bem-vindo",
+      "answer_negative": "Não confio na sua espécie.",
+      "entities": [
+        "core_2_Rat_Plague_Collector"
+      ],
+      "id": "core_2_begin_rat_plague_collector",
+      "options": [
+        "core_2_slay_rat_queen",
+        "core_2_exit_1"
+      ],
+      "text": "",
+      "type": "begin_conversation"
+    },
+    {
+      "answer_negative": "Eu não acredito que você possa ajudar.",
+      "answer_positive": "Você acha que tem o que é preciso?",
+      "id": "core_2_slay_rat_queen",
+      "options": [
+        "core_2_back_1"
+      ],
+      "text": "Pergunte sobre resolver o problema dos ratos.",
+      "type": "world_event"
+    },
+    {
       "answer_positive": "Bem-vindo, caçador! A Grande Caçada está em andamento. Traga-me os corpos das bestas e eu contarei sua pontuação. Que os mais fortes prevaleçam!",
       "answer_negative": "A caçada não é para os fracos de coração. Continue andando.",
       "entities": [
@@ -19201,7 +19225,6 @@
       "id": "core_2_mushman_druid_event_greet",
       "options": [
         "core_2_herald_of_rot_reveal",
-        "core_2_directions_1",
         "core_2_exit_1"
       ],
       "text": "",
@@ -19210,15 +19233,22 @@
     {
       "answer_positive": "Marcamos o local corrompido no seu mapa.",
       "answer_negative": "",
-      "entities": [
-        "core_2_Mushman_Druid_Herald_Event"
-      ],
       "id": "core_2_herald_of_rot_reveal",
       "options": [
         "core_2_back_1"
       ],
       "text": "Onde essa corrupção se agita?",
-      "type": "reveal_event_poi"
+      "type": "world_event_interaction"
+    },
+    {
+      "answer_negative": "A podridão ainda supura e espreita.",
+      "answer_positive": "Você destruiu a fonte da podridão profana?",
+      "id": "core_2_mushman_druid_herald_event_reward",
+      "options": [
+        "core_2_back_1"
+      ],
+      "text": "O Arauto está morto. Reivindico a recompensa.",
+      "type": "world_event_interaction"
     }
   ],
   "family_conversations": [

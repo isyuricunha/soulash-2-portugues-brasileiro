@@ -10361,6 +10361,16 @@
       ],
       "format": "Salvamento Corrompido",
       "id": 1024
+    },
+    {
+      "color": [
+        200,
+        200,
+        200,
+        255
+      ],
+      "format": "Esta pessoa faz parte do evento de saída.",
+      "id": 1025
     }
   ],
   "statistics": [

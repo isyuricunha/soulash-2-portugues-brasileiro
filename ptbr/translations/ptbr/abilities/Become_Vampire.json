@@ -6,7 +6,7 @@
     "health": 0,
     "stamina": 10
   },
-  "description": "Invoca seu lobo interior para imbuí-lo com seu poder. Você ganha estatísticas, bem como bônus na velocidade de ataque e velocidade de movimento por uma duração de ::duration turnos.",
+  "description": "Você rejeita a mortalidade para sempre para se tornar uma criatura da noite.",
   "duration": 25.0,
   "effects": null,
   "id": "core_2_Become_Vampire",

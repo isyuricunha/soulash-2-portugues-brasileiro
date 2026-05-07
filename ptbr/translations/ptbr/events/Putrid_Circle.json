@@ -10,7 +10,7 @@
     "32"
   ],
   "trigger": {
-    "base_probability": 0.003,
+    "base_probability": 0.004,
     "conditions": [
       {
         "type": "settlement_population_min",
@@ -62,7 +62,7 @@
   ],
   "history_events": {
     "begin": "Aspirantes a druidas do Povo-Cogumelo formaram um Círculo Pútido perto de ::settlement, começando seu ritual ancestral.",
-    "end": "O ritual do Círculo Pútido perto de ::settlement foi concluído, os druidas se dispersando de volta para as terras selvagens fúngicas.",
-    "success": "O ritual do Círculo Pútido foi concluído com sucesso. A podridão floresce e o Povo-Cogumelo se alegra."
+    "success": "O ritual do Círculo Pútido foi concluído com sucesso. A podridão floresce e o Povo-Cogumelo se alegra.",
+    "failure": "O ritual invocou algo ancestral. Uma presença fétida se agita nas terras selvagens próximas, atraída pelos cânticos dos druidas."
   }
 }

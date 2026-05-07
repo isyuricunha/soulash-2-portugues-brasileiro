@@ -1207,132 +1207,6 @@
       "algorithm": {
         "id": "simple_spawn",
         "parameters": {
-          "size": 4,
-          "starting_z_level": 0
-        }
-      },
-      "biomes": [
-        "boreal_forest"
-      ],
-      "difficulty": 1,
-      "id": "core_2_herald_of_rot",
-      "image": 185,
-      "name": "Arauto da Podridão",
-      "event_only": true,
-      "scenarios": [
-        {
-          "building_maps": [],
-          "internal_name": "Herald of Rot",
-          "rewards": [
-            {
-              "chance": 1.0,
-              "entity": "core_2_herald_of_rot",
-              "objective": true,
-              "value": 500
-            }
-          ],
-          "spawns": [
-            {
-              "amount": [
-                6,
-                10
-              ],
-              "chance": 1.0,
-              "entities": [
-                "1067"
-              ]
-            },
-            {
-              "amount": [
-                25,
-                40
-              ],
-              "chance": 1.0,
-              "entities": [
-                "1066"
-              ]
-            },
-            {
-              "amount": [
-                4,
-                8
-              ],
-              "chance": 0.88,
-              "entities": [
-                "2069"
-              ]
-            },
-            {
-              "amount": [
-                7,
-                12
-              ],
-              "chance": 1.0,
-              "entities": [
-                "1066"
-              ],
-              "placement": "random_spread"
-            },
-            {
-              "amount": [
-                7,
-                12
-              ],
-              "chance": 0.8,
-              "entities": [
-                "1066"
-              ],
-              "placement": "random_spread"
-            },
-            {
-              "amount": [
-                7,
-                12
-              ],
-              "chance": 0.33,
-              "entities": [
-                "1066"
-              ],
-              "placement": "random_spread"
-            },
-            {
-              "amount": [
-                1,
-                1
-              ],
-              "chance": 0.01,
-              "entities": [
-                "317"
-              ]
-            },
-            {
-              "amount": [
-                1,
-                1
-              ],
-              "chance": 0.01,
-              "entities": [
-                "342"
-              ]
-            },
-            {
-              "amount": [
-                1,
-                1
-              ],
-              "chance": 0.01,
-              "entities": [
-                "335"
-              ]
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "algorithm": {
-        "id": "simple_spawn",
-        "parameters": {
           "size": 2,
           "starting_z_level": 0
         }
@@ -43301,18 +43175,15 @@
           ],
           "center_map": [],
           "internal_name": "Herald of Rot 0",
-          "spawns": [
+          "rewards": [
             {
-              "amount": [
-                1,
-                1
-              ],
               "chance": 1.0,
-              "entities": [
-                "core_2_Cernunnos"
-              ],
-              "spawn_on": []
-            },
+              "entity": "core_2_Cernunnos",
+              "objective": true,
+              "value": 2500
+            }
+          ],
+          "spawns": [
             {
               "amount": [
                 8,

@@ -47,7 +47,7 @@
     "tags",
     "weapon"
   ],
-  "corpse": [],
+  "corpse": "core_2_Cernunnos_Corpse",
   "description": "Uma encarnação folhuda e com galhadas das florestas selvagens.",
   "dialogues": [],
   "experience_gainer": {
