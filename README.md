@@ -2,7 +2,7 @@
 
 Tradução completa do **Soulash 2** para o Português Brasileiro, cobrindo todos os textos de interface, itens, habilidades, histórias e diálogos do jogo.
 
-> Participe da comunidade no Discord: [discord.com/invite/aYbWBr4](https://discord.com/invite/aYbWBr4)
+> **Participe da comunidade no Discord:** <https://discord.gg/uFEwSMwUYb>
 
 ---
 
