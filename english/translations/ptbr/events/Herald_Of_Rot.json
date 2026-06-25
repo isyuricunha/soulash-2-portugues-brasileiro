@@ -25,10 +25,12 @@
             90
         ]
     },
-    "location": {
-        "id": "core_2_herald_of_rot",
-        "radius": 3
-    },
+    "locations": [
+        {
+            "id": "core_2_herald_of_rot",
+            "radius": 3
+        }
+    ],
     "effects": [
         {
             "type": "spawn_group",

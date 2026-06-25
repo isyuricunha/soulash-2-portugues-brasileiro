@@ -1,13 +1,13 @@
 {
-	"id": "core_2_long_shirt",
-	"name": "Long Shirt",
+	"id": "core_2_druidic_robe",
+	"name": "Druidic Robe",
 	"requirements": {
 		"milestones": [],
-		"skill": 18
+		"skill": 22
 	},
 	"rewards": [
 		{
-			"recipe": "777"
+			"recipe": "core_2_Druidic_Robe"
 		}
 	],
 	"skill_id": "core_2_tailoring",
