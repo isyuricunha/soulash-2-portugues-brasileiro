@@ -19008,7 +19008,7 @@
             "type": "world_event"
         },
         {
-            "answer_positive": "Welcome",
+            "answer_positive": "Welcome, you came at a bad time. We have a bit of a rat problem...",
             "answer_negative": "I don't trust your kind.",
             "entities": [
                 "core_2_Rat_Plague_Collector"
@@ -19023,7 +19023,7 @@
         },
         {
             "answer_negative": "I don't believe you can help.",
-            "answer_positive": "You think you got what it takes?",
+            "answer_positive": "Slay the Rat Mother hidden on the outskirts of our town and bring me her tail. But I warn you, it's no easy task. You think you got what it takes?",
             "id": "core_2_slay_rat_queen",
             "options": [
                 "core_2_back_1"
@@ -19249,6 +19249,27 @@
             ],
             "text": "The Herald is dead. I claim the reward.",
             "type": "world_event_interaction"
+        },
+        {
+            "answer_negative": "",
+            "answer_positive": "Those damn thieves... They steal everything that isn't nailed down! I don't know what to do anymore.",
+            "id": "core_2_merchant_complaint",
+            "options": [
+                "core_2_hunt_thieves",
+                "core_2_back_1"
+            ],
+            "text": "Ask about any troubles.",
+            "type": "world_event"
+        },
+        {
+            "answer_negative": "I don't think you'll do any good.",
+            "answer_positive": "Really? Find Thief Leader and bring me their head! That will send a message.",
+            "id": "core_2_hunt_thieves",
+            "options": [
+                "core_2_back_1"
+            ],
+            "text": "I can help you with that.",
+            "type": "world_event"
         }
     ],
     "family_conversations": [

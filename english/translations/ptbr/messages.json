@@ -10371,6 +10371,16 @@
             ],
             "format": "This person is part of outgoing event.",
             "id": 1025
+        },
+        {
+            "color": [
+                200,
+                200,
+                200,
+                255
+            ],
+            "format": "Adventuring Party",
+            "id": 1026
         }
     ],
     "statistics": [
