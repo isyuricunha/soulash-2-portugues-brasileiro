@@ -19008,7 +19008,7 @@
       "type": "world_event"
     },
     {
-      "answer_positive": "Bem-vindo",
+      "answer_positive": "Bem-vindo, você chegou em uma hora ruim. Temos um probleminha com ratos...",
       "answer_negative": "Não confio na sua espécie.",
       "entities": [
         "core_2_Rat_Plague_Collector"
@@ -19023,7 +19023,7 @@
     },
     {
       "answer_negative": "Eu não acredito que você possa ajudar.",
-      "answer_positive": "Você acha que tem o que é preciso?",
+      "answer_positive": "Mate a MÃE DOS RATOS escondida nos arredores da nossa cidade e me traga o rabo dela. Mas eu aviso: não será fácil. Acha que tem o que é preciso?",
       "id": "core_2_slay_rat_queen",
       "options": [
         "core_2_back_1"
@@ -19249,6 +19249,27 @@
       ],
       "text": "O Arauto está morto. Reivindico a recompensa.",
       "type": "world_event_interaction"
+    },
+    {
+      "answer_negative": "",
+      "answer_positive": "Esses malditos ladrões... Roubam tudo o que não está pregado! Não sei mais o que fazer.",
+      "id": "core_2_merchant_complaint",
+      "options": [
+        "core_2_hunt_thieves",
+        "core_2_back_1"
+      ],
+      "text": "Perguntar sobre problemas.",
+      "type": "world_event"
+    },
+    {
+      "answer_negative": "Acho que você não vai adiantar nada.",
+      "answer_positive": "Sério? Encontre o LÍDER DOS LADRÕES e me traga a cabeça dele! Isso vai mandar uma mensagem.",
+      "id": "core_2_hunt_thieves",
+      "options": [
+        "core_2_back_1"
+      ],
+      "text": "Posso te ajudar com isso.",
+      "type": "world_event"
     }
   ],
   "family_conversations": [

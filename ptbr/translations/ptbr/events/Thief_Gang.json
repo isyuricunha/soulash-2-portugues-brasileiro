@@ -37,6 +37,13 @@
       270
     ]
   },
+  "locations": [
+    {
+      "id": "core_2_herald_of_rot",
+      "radius": 3,
+      "restrict_race": "0"
+    }
+  ],
   "effects": [
     {
       "type": "caravan_loss",
@@ -55,6 +62,7 @@
       ],
       "group_type": "roaming",
       "entity": "core_2_Thief_Bandit",
+      "restrict_race": "0",
       "stats": {
         "stealth": 10,
         "speed": -0.2,
@@ -87,7 +95,9 @@
         "reputation": 12,
         "remove_event": true
       },
-      "entities": [],
+      "entities": [
+        "2203"
+      ],
       "trigger_events": []
     },
     {

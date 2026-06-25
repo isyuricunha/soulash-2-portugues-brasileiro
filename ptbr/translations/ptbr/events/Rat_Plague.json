@@ -10,7 +10,7 @@
     "0"
   ],
   "trigger": {
-    "base_probability": 0.5,
+    "base_probability": 0.005,
     "conditions": [
       {
         "type": "settlement_population_min",
@@ -39,11 +39,13 @@
       120
     ]
   },
-  "building": {
-    "building_id": "544",
-    "placement": "map_edge",
-    "lair_only": true
-  },
+  "buildings": [
+    {
+      "building_id": "544",
+      "placement": "map_edge",
+      "lair_only": true
+    }
+  ],
   "effects": [
     {
       "type": "spawn_group",
@@ -53,6 +55,7 @@
       ],
       "group_type": "lair_group",
       "entity": "core_2_Rat_Mother",
+      "z_level": -1,
       "border_color": [
         160,
         40,

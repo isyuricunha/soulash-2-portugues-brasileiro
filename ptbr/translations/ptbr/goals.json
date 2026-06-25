@@ -1,0 +1,81 @@
+{
+  "paths": [
+    {
+      "id": "core_2_adventurer",
+      "name": "Aventureiro",
+      "objective": "Want to learn the basics of adventuring?",
+      "goals": [
+        {
+          "short": "Search the Wild",
+          "long": "Leave your current region to travel the world and explore nearby areas. You're looking for something of interest to pop up.",
+          "objective": {
+            "special_location_tier": 1
+          }
+        },
+        {
+          "short": "Loot the Chest",
+          "long": "All special locations can be plundered, usually by taking the contents of available treasure chest. Follow the market on the minimap and find a chest.",
+          "objective": {
+            "loot": 1
+          }
+        },
+        {
+          "short": "Acquire More Food",
+          "long": "Without food and water, your adventures will meet a quick end. You may try to stock up on food in the settlements, or find some in the wild.",
+          "objective": {
+            "eat": 100
+          }
+        },
+        {
+          "short": "Drink Water",
+          "long": "There are a number of ways to acquire water, the simplest one is to find a well or a pond in the center of every settlement. While traveling, you may automatically refill just by passing a river.",
+          "objective": {
+            "drink": 100
+          }
+        },
+        {
+          "short": "Profit From Trading",
+          "long": "Now that we found some loot, let's go back to town and trade it for something useful.",
+          "objective": {
+            "sell": 1
+          }
+        },
+        {
+          "short": "Acquire a Tool",
+          "long": "There are many useful tools you could carry on your travels - knives to scavenge corpses, pickaxes to mine ores and gems, woodcutters to gather rare wood, harvesters to acquire wheat and herbs. Find a Toolmaker in Human, Dwarf or Bone Wraith settlement and order one. Plunder more chests along the way if you lack funds.",
+          "objective": {
+            "tool": 1
+          }
+        },
+        {
+          "short": "Limited Potential",
+          "long": "Until we learn from experienced characters, our potential to master a skill is limited. Let's try to find a trainer and pay them to teach us some new theories about our chosen skill.",
+          "objective": {
+            "train": 1
+          }
+        },
+        {
+          "short": "Toughen Up",
+          "long": "As you explore the world, you might have noticed only easy locations pop up during your travels. To have an easier time finding more challenging areas, you'll need to train one of the combat skills, like Sword, Mace, or Axe Fighting, Pyromancy, or Thievery. Train one of those and acquire more equipment to prepare.",
+          "objective": {
+            "combat_skill": 20
+          }
+        },
+        {
+          "short": "Troublesome",
+          "long": "It's time to pick up a new challenge, let's try finding a Troublesome special location, and loot it of all it's treasures. Make sure to have at least a knife with you, you don't want to waste precious resources from rare beasts, do you?",
+          "objective": {
+            "loot": 2
+          }
+        },
+        {
+          "short": "Upgrade",
+          "long": "As you loot chests, explore the world, and scavenge beasts and monsters, surely you've come across magical ingredients? It's time to put them to good use, let's find a weaponsmith, tailor, leatherworker or armorsmith who knows how to craft one of our items and order an upgrade.",
+          "objective": {
+            "upgrade": 1
+          }
+        }
+      ]
+    }
+  ]
+}

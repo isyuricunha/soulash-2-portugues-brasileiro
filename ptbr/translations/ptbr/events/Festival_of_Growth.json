@@ -33,9 +33,11 @@
       50
     ]
   },
-  "building": {
-    "building_id": "536"
-  },
+  "buildings": [
+    {
+      "building_id": "536"
+    }
+  ],
   "effects": [
     {
       "type": "spawn_group",
