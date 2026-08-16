@@ -1,0 +1,40 @@
+{
+	"components": [
+		"glyph",
+		"item",
+		"minimap_pixel",
+		"name",
+		"position_2d",
+		"stackable",
+		"value",
+		"weight"
+	],
+	"description": "A tooth of a dead mad lion. Extraordinary trophy for the Great Hunt.",
+	"glyph": {
+		"frames": [
+			{
+				"color": [
+					255,
+					255,
+					255
+				],
+				"delay": 0,
+				"index": 3393
+			}
+		],
+		"random_frame_start": false
+	},
+	"id": "core_2_Lions_Tooth",
+	"item": {
+		"image": 1539,
+		"type": 16
+	},
+	"minimap_pixel": [
+		182,
+		175,
+		158
+	],
+	"name": "Lion's Tooth",
+	"value": 500,
+	"weight": 0.1
+}

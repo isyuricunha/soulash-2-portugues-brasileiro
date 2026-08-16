@@ -1,0 +1,46 @@
+{
+	"components": [
+		"food",
+		"glyph",
+		"item",
+		"minimap_pixel",
+		"name",
+		"position_2d",
+		"stackable",
+		"value",
+		"weight"
+	],
+	"description": "Just a piece of someone's birthday cake. Yum!",
+	"food": {
+		"nutrition": 80,
+		"on_eat": "",
+		"raw": false
+	},
+	"glyph": {
+		"frames": [
+			{
+				"color": [
+					255,
+					255,
+					255
+				],
+				"delay": 0,
+				"index": 3362
+			}
+		],
+		"random_frame_start": false
+	},
+	"id": "core_2_Birthday_Cake",
+	"item": {
+		"image": 1530,
+		"type": 20
+	},
+	"minimap_pixel": [
+		157,
+		78,
+		54
+	],
+	"name": "Birthday Cake",
+	"value": 500,
+	"weight": 0.10000000149011612
+}

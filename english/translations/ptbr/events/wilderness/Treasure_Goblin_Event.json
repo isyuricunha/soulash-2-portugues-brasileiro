@@ -1,0 +1,35 @@
+{
+    "id": "core_2_treasure_goblin",
+    "name": "Elusive Treasure Goblin",
+    "category": "wilderness",
+    "flavor": "A cackling goblin clutching a sack stuffed with unimaginable riches has been spotted in the area. It is terrifyingly fast and wants nothing to do with anyone — but killing it would be very profitable.",
+    "icon": 0,
+    "small_icon": 0,
+    "rarity": "rare",
+    "trigger": {
+        "base_probability": 0.05
+    },
+    "duration": {
+        "type": "temporary",
+        "days": [
+            1,
+            3
+        ]
+    },
+    "max_per_region": 1,
+    "effects": [
+        {
+            "type": "roaming_spawn",
+            "entity": "core_2_Treasure_Goblin",
+            "amount": [
+                1,
+                1
+            ],
+            "spawn_behaviors": [0, 18, 23]
+        }
+    ],
+    "history_events": {
+        "begin": "A treasure goblin has been spotted in the area, fleeing with a sack full of riches.",
+        "end": "The treasure goblin has escaped — or been slain — and its hoard is gone."
+    }
+}

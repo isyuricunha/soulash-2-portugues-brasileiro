@@ -8133,7 +8133,7 @@
 		"id": "513",
 		"monologue": [
 			[
-				"With a weapon and a shield everybody can feel strong."
+				"With a weapon and a shield everyone can feel strong."
 			],
 			[
 				"Practice makes perfect."
@@ -11954,7 +11954,7 @@
 				"You will regret this."
 			],
 			[
-				"I hope you are good ath fighting!"
+				"I hope you are good at fighting!"
 			],
 			[
 				"I will end you!"
@@ -17234,6 +17234,771 @@
 		"id": "core_2_rebellion_whispers",
 		"monologue": [],
 		"name": "Whispers of Rebellion",
+		"trigger": 1
+	},
+	{
+		"ally_dialogue": [
+			[
+				"I'm so scared...",
+				"Me too.",
+				"I saw my neighbor got hit by lighting!",
+				"Try to stay covered and pray it won't last.",
+				"I don't think gods are listening."
+			],
+			[
+				"This storm can't last forever.",
+				"We will be doomed if it last few more days!",
+				"I know, we need some magic or something."
+			]
+		],
+		"chance": 0.1,
+		"id": "core_2_storm_brewing",
+		"monologue": [],
+		"name": "Storm is Brewing",
+		"trigger": 1
+	},
+	{
+		"chance": 0.2,
+		"id": "1042",
+		"monologue": [
+			
+			[
+				"Totems will save us!"
+			],
+			[
+				"If only we had our ancestors knowlage..."
+			]
+
+			],
+		"name": "Storm Whisperer awere",
+		"trigger": 1
+	},
+	{
+		"chance": 0.2,
+		"id": "1043",
+		"monologue": [
+			
+			[
+				"Safe travels."
+			],
+			[
+				"Good luck out there."
+			],
+			[
+				"Keep moving, friend."
+			],
+			[
+				"Stay sharp."
+			],
+			[
+				"Travel well."
+			],
+			[
+				"Don't stray from the path."
+			],
+			[
+				"Adventure awaits."
+			],
+			[
+				"Watch the horizon."
+			],
+			[
+				"Try not to get eaten."
+			],
+			[
+				"Stay out of trouble. Or don't. Makes for better stories."
+			],
+			[
+				"May your map be right."
+			]
+
+			],
+		"name": "Adventurer awere",
+		"trigger": 1
+	},
+	{
+		"chance": 0.2,
+		"id": "1044",
+		"monologue": [
+			
+			[
+				"Sssafe travelsss."
+			],
+			[
+				"Ssstay sssharp."
+			],
+			[
+				"Don't ssstray from the path."
+			],
+			[
+				"Adventure awaitsss."
+			],
+			[
+				"May your map be right."
+			]
+
+			],
+		"name": "Adventurer Reptilion awere",
+		"trigger": 1
+	},
+	{
+		"chance": 0.2,
+		"id": "1045",
+		"monologue": [
+			
+			[
+				"Would someone help me?"
+			],
+			[
+				"I don't think I can do it myself."
+			]
+
+			],
+		"name": "Scribe awere",
+		"trigger": 1
+	},
+	{
+		"chance": 0.2,
+		"id": "1046",
+		"monologue": [
+			
+			[
+				"Would sssomeone help me?"
+			],
+			[
+				"I don't think I can do it myself."
+			]
+
+			],
+		"name": "Scribe Reptilion awere",
+		"trigger": 1
+	},
+	{
+		"ally_dialogue": [
+			[
+				"[color=170,128,192,255]Did you hear the party last night?[/color]",
+				"[color=170,128,192,255]I wish I could be there, it sounded fun![/color]"
+			],
+			[
+				"[color=170,128,192,255]They say the next year fesivities will be even greater![/color]",
+				"[color=170,128,192,255]I don't know if they'll manage to top that.[/color]"
+			]
+		],
+		"chance": 0.1,
+		"id": "core_2_birthday_party",
+		"monologue": [
+			[
+				"[color=170,128,192,255]What a party it was![/color]"
+			],
+			[
+				"[color=170,128,192,255]I just love any reason to party.[/color]"
+			],
+			[
+				"[color=170,128,192,255]*laughs*[/color]"
+			],
+			[
+				"[color=170,128,192,255]*sings loudly*[/color]"
+			]
+		],
+		"name": "Birthday Party Event",
+		"trigger": 1
+	},
+	{
+		"ally_dialogue": [
+			[
+				"[color=170,128,192,255]I heard one of ours can't smash...[/color]",
+				"[color=170,128,192,255]They won't make it long here.[/color]"
+			],
+			[
+				"[color=170,128,192,255]It might be necessary to drive them out...[/color]",
+				"[color=170,128,192,255]Shh, maybe they'll find a way.[/color]"
+			]
+		],
+		"chance": 0.1,
+		"id": "core_2_biding_fist",
+		"monologue": [
+			[
+				"[color=170,128,192,255]You're not a true orc if you can't smash![/color]"
+			],
+			[
+				"[color=170,128,192,255]Some orcs are just so weak...[/color]"
+			],
+			[
+				"[color=170,128,192,255]Not everyone deserves their place here.[/color]"
+			]
+		],
+		"name": "Binding Fists Event",
+		"trigger": 1
+	},
+	{
+		"ally_dialogue": [
+			[
+				"[color=170,128,192,255]I hope we won't freeze this winter...[/color]",
+				"[color=170,128,192,255]Things don't look so good.[/color]"
+			],
+			[
+				"[color=170,128,192,255]Maybe this winter won't be so bad.[/color]",
+				"[color=170,128,192,255]I wouldn't count on it.[/color]"
+			]
+		],
+		"chance": 0.1,
+		"id": "core_2_cold_winter",
+		"monologue": [
+			[
+				"[color=170,128,192,255]I don't know what we'll do if we run out of wood.[/color]"
+			],
+			[
+				"[color=170,128,192,255]My uncle froze to death last year.[/color]"
+			],
+			[
+				"[color=170,128,192,255]We need to just somehow survive the frost.[/color]"
+			]
+		],
+		"name": "Cold Winter Event",
+		"trigger": 1
+	},
+	{
+		"ally_dialogue": [
+			[
+				"[color=170,128,192,255]Have you seen our scribe?[/color]",
+				"[color=170,128,192,255]They ran off screaming as sooon as they see me![/color]"
+			],
+			[
+				"[color=170,128,192,255]I wish our scribe wasn't so shy....[/color]",
+				"[color=170,128,192,255]Yeah, last time, they got behind a tree to avoid me![/color]"
+			]
+		],
+		"chance": 0.1,
+		"id": "core_2_escape_route",
+		"monologue": [
+			[
+				"[color=170,128,192,255]Has anybody seen the scribe?[/color]"
+			],
+			[
+				"[color=170,128,192,255]Scribe! Don't run away again![/color]"
+			],
+			[
+				"[color=170,128,192,255]Someone should do something about our scribe.[/color]"
+			]
+		],
+		"name": "Escape Route Event",
+		"trigger": 1
+	},
+	{
+		"ally_dialogue": [
+			[
+				"[color=170,128,192,255]Watch out for them, they're suspicious.[/color]",
+				"[color=170,128,192,255]Who? Where?[/color]"
+			]
+		],
+		"chance": 0.1,
+		"id": "core_2_gamble",
+		"monologue": [
+			[
+				"[color=170,128,192,255]Watch out for shady characters.[/color]"
+			],
+			[
+				"[color=170,128,192,255]Not everyone is worthy of trust.[/color]"
+			],
+			[
+				"[color=170,128,192,255]Sometimes business deals aren't worth it.[/color]"
+			]
+		],
+		"name": "Gamble Event",
+		"trigger": 1
+	},
+	{
+		"ally_dialogue": [
+			[
+				"[color=218,165,32,255]Are you taking part in the Great Hunt?[/color]",
+				"[color=218,165,32,255]Not this time. My knee is bothering me.[/color]"
+			],
+			[
+				"[color=218,165,32,255]Who do you think is going to win?[/color]",
+				"[color=218,165,32,255]Last year's champion is looking good.[/color]"
+			]
+		],
+		"chance": 0.1,
+		"id": "core_2_great_hunt",
+		"monologue": [
+			[
+				"[color=218,165,32,255]Great Hunt! Great Hunt![/color]"
+			],
+			[
+				"[color=218,165,32,255]I love the excitement of checking the score of the Great Hunt.[/color]"
+			],
+			[
+				"[color=218,165,32,255]I wonder if they'll finally bring an unicorn this year![/color]"
+			]
+		],
+		"name": "Great Hunt Event",
+		"trigger": 1
+	},
+	{
+		"ally_dialogue": [
+			[
+				"[color=170,128,192,255]Have you heard about this creazy dwarf?[/color]",
+				"[color=170,128,192,255]The one who wants to plant flowers? That's nuts![/color]"
+			],
+			[
+				"[color=170,128,192,255]Who would want flowers here?[/color]",
+				"[color=170,128,192,255]Right? The stone looks just fine![/color]"
+			]
+		],
+		"chance": 0.1,
+		"id": "core_2_green_fingers",
+		"monologue": [
+			[
+				"[color=170,128,192,255]A dwarf planting flowers? Scandalous![/color]"
+			],
+			[
+				"[color=170,128,192,255]Who needs more color here?[/color]"
+			],
+			[
+				"[color=170,128,192,255]Why try something new instead of doing what our ancestors did?[/color]"
+			]
+		],
+		"name": "Green Fingers Event",
+		"trigger": 1
+	},
+	{
+		"ally_dialogue": [
+			[
+				"[color=170,128,192,255]Did you hear about a failed ritual?[/color]",
+				"[color=170,128,192,255]Shh! Don't talk about it and maybe it will go away.[/color]"
+			],
+			[
+				"[color=170,128,192,255]Who will save us?[/color]",
+				"[color=170,128,192,255]We think druids don't deserve saving after what they've done...[/color]"
+			]
+		],
+		"chance": 0.1,
+		"id": "core_2_heralds_of_rot",
+		"monologue": [
+			[
+				"[color=170,128,192,255]The druids summoned something unsettling...[/color]"
+			],
+			[
+				"[color=170,128,192,255]Don't go into the forest.[/color]"
+			],
+			[
+				"[color=170,128,192,255]The ritual failed...[/color]"
+			]
+		],
+		"name": "Heralds of Rot Event",
+		"trigger": 1
+	},
+	{
+		"ally_dialogue": [
+			[
+				"[color=180,40,40,255]I'm worried about this...[/color]",
+				"[color=180,40,40,255]Yeah, monuments ssshouldn't sssuddenly pop out in the middle of the night.[/color]"
+			],
+			[
+				"[color=180,40,40,255]Do you think thisss monument will bring troublesss?[/color]",
+				"[color=180,40,40,255]We'll sssee.[/color]"
+			]
+		],
+		"chance": 0.1,
+		"id": "core_2_infernal_monument",
+		"monologue": [
+			[
+				"[color=180,40,40,255]I have a bad feeling about that monument.[/color]"
+			],
+			[
+				"[color=180,40,40,255]We have to wait and sssee. Sssome monumentsss mean good luck, right?[/color]"
+			],
+			[
+				"[color=180,40,40,255]Thisss monument givesss me chillssse.[/color]"
+			]
+		],
+		"name": "Infernal Monument Event",
+		"trigger": 1
+	},
+	{
+		"ally_dialogue": [
+			[
+				"[color=170,128,192,255]Who ever heard about water turning to stone?[/color]",
+				"[color=170,128,192,255]Right?! The things they come up with...[/color]"
+			],
+			[
+				"[color=170,128,192,255]I don't think you can miss something you've never known.[/color]",
+				"[color=170,128,192,255]That's why we shouldn't miss cold.[/color]"
+			]
+		],
+		"chance": 0.1,
+		"id": "core_2_let_it_snow",
+		"monologue": [
+			[
+				"[color=170,128,192,255]I never heard about ice before.[/color]"
+			],
+			[
+				"[color=170,128,192,255]Water turning to stone is ridiculous![/color]"
+			],
+			[
+				"[color=170,128,192,255]Cold can't be good for your health.[/color]"
+			]
+		],
+		"name": "Let it Snow Event",
+		"trigger": 1
+	},
+	{
+		"chance": 0.1,
+		"id": "core_2_raid_easy",
+		"monologue": [
+			[
+				"[color=180,80,80,255]Ugh, something crawled from the wilderness again.[/color]"
+			],
+			[
+				"[color=180,80,80,255]I hope guards will do something about this infestation soon.[/color]"
+			],
+			[
+				"[color=180,80,80,255]I've had enough of this harassment![/color]"
+			]
+		],
+		"name": "Raid Easy Event",
+		"trigger": 1
+	},
+	{
+		"chance": 0.1,
+		"id": "core_2_raid_hard",
+		"monologue": [
+			[
+				"[color=220,40,40,255]Help! Someone help us![/color]"
+			],
+			[
+				"[color=220,40,40,255]We will die if nobody stops it![/color]"
+			],
+			[
+				"[color=220,40,40,255]The end is here! Invaders are here![/color]"
+			]
+		],
+		"name": "Raid Hard Event",
+		"trigger": 1
+	},
+	{
+		"chance": 0.1,
+		"id": "core_2_raid_medium",
+		"monologue": [
+			[
+				"[color=200,60,60,255]Someone should do something about this infestation before it gets out of hand.[/color]"
+			],
+			[
+				"[color=200,60,60,255]Will anybody help us?[/color]"
+			],
+			[
+				"[color=200,60,60,255]We need reinforcements.[/color]"
+			]
+		],
+		"name": "Raid Medium Event",
+		"trigger": 1
+	},
+	{
+		"ally_dialogue": [
+			[
+				"[color=170,128,192,255]I heard that our scribe is setting out on a long journey.[/color]",
+				"[color=170,128,192,255]I hope they arrive without any problems.[/color]"
+			],
+			[
+				"[color=170,128,192,255]I don't think I would ever have set out on such a long journey as a scribe.[/color]",
+				"[color=170,128,192,255]Yes, your're afraid of your own shadow![/color]"
+			]
+		],
+		"chance": 0.1,
+		"id": "core_2_long_journey",
+		"monologue": [
+			[
+				"[color=170,128,192,255]I hope the scribe's journey is successful.[/color]"
+			],
+			[
+				"[color=170,128,192,255]Such a long journey requires preparation.[/color]"
+			],
+			[
+				"[color=170,128,192,255]I'm keeping my fingers crossed for our scribe.[/color]"
+			]
+		],
+		"name": "Long Journey Event",
+		"trigger": 1
+	},
+	{
+		"ally_dialogue": [
+			[
+				"[color=170,128,192,255]Have you heard about that poor guy?[/color]",
+				"[color=170,128,192,255]Yeah, I don't know where they're going to sleep tonight.[/color]"
+			],
+			[
+				"[color=170,128,192,255]Who loses a key to their own coffin?[/color]",
+				"[color=170,128,192,255]Stop, it can happen to anybody.[/color]"
+			]
+		],
+		"chance": 0.1,
+		"id": "core_2_lost_key",
+		"monologue": [
+			[
+				"[color=170,128,192,255]Everyone should keep a better eye on their belongings.[/color]"
+			],
+			[
+				"[color=170,128,192,255]I don't know what I would do if I lost my key.[/color]"
+			],
+			[
+				"[color=170,128,192,255]How is it possible not to be able to get into one's own coffin?[/color]"
+			]
+		],
+		"name": "Lost Key Event",
+		"trigger": 1
+	},
+	{
+		"ally_dialogue": [
+			[
+				"[color=170,128,192,255]Did they found it?[/color]",
+				"[color=170,128,192,255]Not yet.[/color]"
+			],
+			[
+				"[color=170,128,192,255]We hope they will find it soon.[/color]",
+				"[color=170,128,192,255]Yes, we need our rituals.[/color]"
+			]
+		],
+		"chance": 0.1,
+		"id": "core_2_lost_rod",
+		"monologue": [
+			[
+				"[color=170,128,192,255]What will we do without our rituals?[/color]"
+			],
+			[
+				"[color=170,128,192,255]We hope the rod will be found soon.[/color]"
+			],
+			[
+				"[color=170,128,192,255]The rituals must be resumed as soon as possible.[/color]"
+			]
+		],
+		"name": "Lost Rod Event",
+		"trigger": 1
+	},
+	{
+		"ally_dialogue": [
+			[
+				"[color=170,128,192,255]Have you heard about the artissst'sss new idea?[/color]",
+				"[color=170,128,192,255]Yess, it'sss crazy![/color]"
+			],
+			[
+				"[color=170,128,192,255]And where exactly are they sssupposssed to find a ssstone?[/color]",
+				"[color=170,128,192,255]Definitely not in the area.[/color]"
+			]
+		],
+		"chance": 0.1,
+		"id": "core_2_new_art",
+		"monologue": [
+			[
+				"[color=170,128,192,255]Who ussses ssstone around here?[/color]"
+			],
+			[
+				"[color=170,128,192,255]Thisss artissst and their ideasss...[/color]"
+			],
+			[
+				"[color=170,128,192,255]I don't think art in ssstone will look better.[/color]"
+			]
+		],
+		"name": "New Art Event",
+		"trigger": 1
+	},
+	{
+		"ally_dialogue": [
+			[
+				"[color=170,128,192,255]Our archer is getting pretty good.[/color]",
+				"[color=170,128,192,255]Their progress has stalled recently.[/color]"
+			],
+			[
+				"[color=170,128,192,255]They say practice makes perfect.[/color]",
+				"[color=170,128,192,255]If you have anything to practice with.[/color]"
+			]
+		],
+		"chance": 0.1,
+		"id": "core_2_practice_round",
+		"monologue": [
+			[
+				"[color=170,128,192,255]Our archer ist getting restless.[/color]"
+			],
+			[
+				"[color=170,128,192,255]Watch out for flying arrows![/color]"
+			],
+			[
+				"[color=170,128,192,255]If nothing changes, they'll accidentally shot us all up.[/color]"
+			]
+		],
+		"name": "Practice Round Event",
+		"trigger": 1
+	},
+	{
+		"ally_dialogue": [
+			[
+				"[color=170,128,192,255]We heard that druids are prepering a new ritual.[/color]",
+				"[color=170,128,192,255]We hope it goes well.[/color]"
+			],
+			[
+				"[color=170,128,192,255]We like that our druids always have fresh ideas.[/color]",
+				"[color=170,128,192,255]Yes, our colony is lucky.[/color]"
+			]
+		],
+		"chance": 0.1,
+		"id": "core_2_putrid_circle",
+		"monologue": [
+			[
+				"[color=170,128,192,255]This ritual is going to be splendid![/color]"
+			],
+			[
+				"[color=170,128,192,255]We can't wait for a new ritual.[/color]"
+			],
+			[
+				"[color=170,128,192,255]What does this ritual actually do?[/color]"
+			]
+		],
+		"name": "Putrid Circle Event",
+		"trigger": 1
+	},
+	{
+		"ally_dialogue": [
+			[
+				"[color=160,40,40,255]This storm will destroy our city![/color]",
+				"[color=160,40,40,255]Quick, we need to hide.[/color]"
+			],
+			[
+				"[color=160,40,40,255]What did we did to deserve this?[/color]",
+				"[color=160,40,40,255]I guess we're just unlucky. Run![/color]"
+			]
+		],
+		"chance": 0.1,
+		"id": "core_2_raging_storm",
+		"monologue": [
+			[
+				"[color=160,40,40,255]Hide![/color]"
+			],
+			[
+				"[color=160,40,40,255]The storm is here![/color]"
+			],
+			[
+				"[color=160,40,40,255]Run for your life![/color]"
+			]
+		],
+		"name": "Raging Storm Event",
+		"trigger": 1
+	},
+	{
+		"ally_dialogue": [
+			[
+				"[color=200,170,90,255]Did you see how many rats we have here lately?[/color]",
+				"[color=200,170,90,255]Yes, it's disgusting![/color]"
+			],
+			[
+				"[color=200,170,90,255]I hate this rats.[/color]",
+				"[color=200,170,90,255]Yes, they will eat all our crops.[/color]"
+			]
+		],
+		"chance": 0.1,
+		"id": "core_2_rat_plague",
+		"monologue": [
+			[
+				"[color=200,170,90,255]I hate rats.[/color]"
+			],
+			[
+				"[color=200,170,90,255]If I never see another rat for the rest of my life, it'll still be too soon.[/color]"
+			],
+			[
+				"[color=200,170,90,255]I hope this infestation will end soon.[/color]"
+			]
+		],
+		"name": "Rat Plague Event",
+		"trigger": 1
+	},
+    {
+		"ally_dialogue": [
+			[
+				"[color=170,128,192,2555]Did you hear about...?[/color]",
+				"[color=170,128,192,255]Shh, not here![/color]"
+			],
+			[
+				"[color=170,128,192,255]I hope this rebellion ends soon...[/color]",
+				"[color=170,128,192,255]It's dengerous to say that out loud.[/color]"
+			]
+		],
+		"chance": 0.1,
+		"id": "core_2_rebellion",
+		"monologue": [
+			[
+				"[color=170,128,192,255]Long live the rebellion![/color]"
+			],
+			[
+				"[color=170,128,192,255]Lately, it's scary to leave the house.[/color]"
+			],
+			[
+				"[color=170,128,192,255]I am absolutely fed up with this unrest.[/color]"
+			]
+		],
+		"name": "Rebellion Event",
+		"trigger": 1
+	},
+	{
+		"ally_dialogue": [
+			[
+				"[color=170,128,192,255]Our resident fashionista hasn't been showing off lately.[/color]",
+				"[color=170,128,192,255]I guess they're out of ideas.[/color]"
+			],
+			[
+				"[color=170,128,192,255]The fashion here is so boring lately.[/color]",
+				"[color=170,128,192,255]Yes, we haven't seen anything new for a long time.[/color]"
+			]
+		],
+		"chance": 0.1,
+		"id": "core_2_something_special",
+		"monologue": [
+			[
+				"[color=170,128,192,255]When is the next fashion show?[/color]"
+			],
+			[
+				"[color=170,128,192,255]Who would want to wear anything but silk?[/color]"
+			],
+			[
+				"[color=170,128,192,255]Our fashionista has lost their mind.[/color]"
+			]
+		],
+		"name": "Something Special Event",
+		"trigger": 1
+	},
+	{
+		"ally_dialogue": [
+			[
+				"[color=170,128,192,255]Our children dumb lately.[/color]",
+				"[color=170,128,192,255]You're dumb![/color]"
+			],
+			[
+				"[color=170,128,192,255]I was hit in the head as a kid and I'm fine.[/color]",
+				"[color=170,128,192,255]Are you really?[/color]"
+			]
+		],
+		"chance": 0.1,
+		"id": "core_2_about_children",
+		"monologue": [
+			[
+				"[color=170,128,192,255]Kids ain't alright.[/color]"
+			],
+			[
+				"[color=170,128,192,255]I think dumb troll is a good troll.[/color]"
+			]
+		],
+		"name": "Think About Children Event",
+		"trigger": 1
+	},
+	{
+		"chance": 0.1,
+		"id": "core_2_crazy_mage",
+		"monologue": [
+			[
+				"I don't like strangers in my house."
+			],
+			[
+				"Take my advice - get out of here."
+			]
+		],
+		"name": "Rigar the Wizard",
 		"trigger": 1
 	}
 ]

@@ -1,0 +1,92 @@
+{
+    "id": "core_2_sgreen_fingers",
+    "name": "Green Fingers",
+    "category": "settlement",
+    "flavor": "A Dwarf wants to try new, unusual hobby and looks for a few tools.",
+    "icon": 23,
+    "small_icon": 23,
+    "rarity": "uncommon",
+    "restrict_races": [
+        "1"
+    ],
+    "trigger": {
+        "base_probability": 0.004,
+        "conditions": [
+            {
+                "type": "settlement_population_min",
+                "value": 30
+            },
+            {
+                "type": "settlement_tier_min",
+                "value": 1
+            },
+            {
+                "type": "min_unemployed",
+                "value": 1
+            }
+        ]
+    },
+    "duration": {
+        "type": "temporary",
+        "days": [
+            30,
+            45
+        ]
+    },
+    "effects": [
+        {
+            "type": "spawn_group",
+            "amount": [
+                1,
+                1
+            ],
+            "group_type": "settlement",
+            "entity": "core_2_Dwarf_Gardener",
+            "border_color": [
+                 170,
+                128,
+                192
+            ]
+        }
+    ],
+    "extra_dialogues": [],
+    "interactions": [
+        {
+            "type": "conversation",
+            "id": "core_2_deliver_hoe",
+            "translation_id": 0,
+            "required_ingredients": [
+                {
+                    "id": "3066",
+                    "amount": 1
+                }
+            ],
+            "entities": [
+                "core_2_Dwarf_Gardener"
+            ],
+            "label": "Deliver requested item.",
+            "reward": {
+                "gold": 50,
+                "reputation": 15,
+                "skill_id": "core_2_agriculture",
+                "exp": 20,
+                "remove_event": true,
+                "spawn_entities": [
+                    {
+                        "id": "core_2_Purple_Flowerbed",
+                        "count": 4,
+                        "radius": 10
+                    }
+                ]
+            },
+            
+            "history_event": "::name has delivered required goods to a Dwarf gardener!",
+            "announcement": "You have delivered required goods to the a Dwarf gardener of ::settlement!"
+        }
+    ],
+    "history_events": {
+        "begin": "A Dwarf gardener can now try something new in ::settlement.",
+        "success": "A Dwarf gardener can now explore their new passion.",
+        "failure": "A Dwarf gardener has to find another way to fulfill their hobbies."
+    }
+}

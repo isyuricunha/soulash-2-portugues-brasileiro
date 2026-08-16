@@ -1,0 +1,68 @@
+{
+    "id": "core_2_location_raid_medium",
+    "name": "Raiding Party Approaches",
+    "category": "settlement",
+    "flavor": "A hardened war-party has spilled out of a nearby lair, drawn by the scent of wealth and blood. These raiders fight with brutality and unstoppable fury until the settlement's spirit is broken.",
+    "icon": 21,
+    "small_icon": 21,
+    "rarity": "uncommon",
+    "trigger": {
+        "base_probability": 0.01,
+        "conditions": [
+            {
+                "type": "settlement_tier_min",
+                "value": 2
+            },
+            {
+                "type": "settlement_tier_max",
+                "value": 2
+            },
+            {
+                "type": "nearby_location_difficulty",
+                "value": 2
+            }
+        ]
+    },
+    "duration": {
+        "type": "temporary",
+        "days": [
+            30,
+            60
+        ]
+    },
+    "effects": [
+        {
+            "type": "spawn_group",
+            "amount": [
+                5,
+                10
+            ],
+            "group_type": "hostile_group",
+            "entity_from_location": true,
+            "exclude": [],
+            "spawn_behaviors": [21],
+            "border_color": [
+                200,
+                60,
+                60
+            ]
+        }
+    ],
+    "interactions": [
+        {
+            "type": "hostiles_cleared",
+            "translation_id": 0,
+            "history_event": "::name has crushed the raiding party assaulting ::settlement!",
+            "announcement": "The raiding party attacking ::settlement has been defeated!",
+            "reward": {
+                "gold": 500,
+                "remove_event": true
+            }
+        }
+    ],
+    "extra_dialogues": ["core_2_raid_hard"],
+    "history_events": {
+        "begin": "A war-party from a nearby dungeon has launched a brutal raid on ::settlement.",
+        "end": "The war-party assaulting ::settlement has been repelled."
+    }
+}

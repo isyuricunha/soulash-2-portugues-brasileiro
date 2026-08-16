@@ -1,0 +1,45 @@
+{
+    "id": "core_2_undead_migration",
+    "name": "Undead Migration",
+    "category": "wilderness",
+    "flavor": "A horde of undead is on the march through the slow.",
+    "icon": 0,
+    "small_icon": 0,
+    "rarity": "common",
+    "restrict_biomes": ["snow"],
+    "trigger": {
+        "base_probability": 0.2
+    },
+    "duration": {
+        "type": "temporary",
+        "days": [
+            3,
+            8
+        ]
+    },
+    "max_per_region": 1,
+    "effects": [
+        {
+            "type": "migrate_group",
+            "entity": "246",
+            "amount": [
+                20,
+                30
+            ],
+            "spawn_behaviors": [23]
+        },
+        {
+            "type": "migrate_group",
+            "entity": "245",
+            "amount": [
+                50,
+                60
+            ],
+            "spawn_behaviors": [23]
+        }
+    ],
+    "history_events": {
+        "begin": "The horde of undead is on the march.",
+        "end": "The horde of undead has passed this region."
+    }
+}

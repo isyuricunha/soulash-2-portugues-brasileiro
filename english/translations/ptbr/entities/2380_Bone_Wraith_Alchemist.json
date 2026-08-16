@@ -91,7 +91,19 @@
 		"threesixty": false
 	},
 	"skills": {
-		"milestones": [],
+		"max_skill": 0,
+		"milestones": [
+			"core_2_alchemic_fire",
+			"core_2_alexandrite",
+			"core_2_bloodstone",
+			"core_2_chrome_dragon_scale",
+			"core_2_coral",
+			"core_2_lead_Ingot",
+			"core_2_red_diamond",
+			"core_2_platinum_Ingot",
+			"core_2_transmutation_oil",
+			"core_2_emty_vial"
+		],
 		"skills": [
 			"core_2_alchemy"
 		]

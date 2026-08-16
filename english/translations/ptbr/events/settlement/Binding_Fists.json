@@ -1,0 +1,84 @@
+{
+    "id": "core_2_binding_fists",
+    "name": "Binding Fists",
+    "category": "settlement",
+    "flavor": "Orcs like to smash things. But some of them are more delicate than others and needs additional protection.",
+    "icon": 23,
+    "small_icon": 23,
+    "rarity": "uncommon",
+    "restrict_races": [
+        "8"
+    ],
+    "trigger": {
+        "base_probability": 0.004,
+        "conditions": [
+            {
+                "type": "settlement_population_min",
+                "value": 30
+            },
+            {
+                "type": "settlement_tier_min",
+                "value": 1
+            },
+            {
+                "type": "min_unemployed",
+                "value": 1
+            }
+        ]
+    },
+    "duration": {
+        "type": "temporary",
+        "days": [
+            30,
+            45
+        ]
+    },
+    "effects": [
+        {
+            "type": "spawn_group",
+            "amount": [
+                1,
+                1
+            ],
+            "group_type": "settlement",
+            "entity": "core_2_Orc_Fighter",
+            "border_color": [
+                170,
+                128,
+                192
+            ]
+        }
+    ],
+    "extra_dialogues": ["core_2_biding_fist"],
+    "interactions": [
+        {
+            "type": "conversation",
+            "id": "core_2_deliver_wraps",
+            "translation_id": 0,
+            "required_ingredients": [
+                {
+                    "id": "core_2_Knuckle_Wrap",
+                    "amount": 5
+                }
+            ],
+            "entities": [
+                "core_2_Orc_Fighter"
+            ],
+            "label": "Deliver requested item.",
+            "reward": {
+                "gold": 50,
+                "reputation": 15,
+                "remove_event": true,
+                "skill_id": "core_2_divine_fists",
+                "exp": 20
+            },
+            "history_event": "::name has delivered required goods to the Orc fighter!",
+            "announcement": "You have delivered required goods to the the Orc fighter of ::settlement!"
+        }
+    ],
+    "history_events": {
+        "begin": "A fighter is looking for some protection in ::settlement.",
+        "success": "An Orc fighter can now smash away.",
+        "failure": "An Orc fighter has to tough it out."
+    }
+}

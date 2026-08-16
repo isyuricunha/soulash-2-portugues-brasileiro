@@ -1,0 +1,49 @@
+{
+	"armor": {
+		"acid": 5,
+		"death": 0,
+		"electricity": 0,
+		"fire": 0,
+		"frost": 5,
+		"holy": 5,
+		"parry": 0,
+		"physical": 0,
+		"poison": 0,
+		"thorns": 0
+	},
+	"components": [
+		"armor",
+		"block_light",
+		"glyph",
+		"health",
+		"minimap_pixel",
+		"name",
+		"position_2d",
+		"resting_place"
+	],
+	"corpse": [],
+	"description": "A very large, clearly used dog bed. It needs cleaning.",
+	"glyph": {
+		"frames": [
+			{
+				"color": [
+					255,
+					255,
+					255
+				],
+				"delay": 0,
+				"index": 3379
+			}
+		],
+		"random_frame_start": false
+	},
+	"health": 50,
+	"id": "core_2_Dog_Bed",
+	"minimap_pixel": [
+		145,
+		105,
+		50
+	],
+	"name": "Dog Bed",
+	"resting_place": 130
+}

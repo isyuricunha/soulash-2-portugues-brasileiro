@@ -1,0 +1,45 @@
+{
+	"components": [
+		"glyph",
+		"item",
+		"liquid_source",
+		"minimap_pixel",
+		"name",
+		"position_2d",
+		"stackable",
+		"value",
+		"weight"
+	],
+	"description": "This wine looks like it's very old. The bottle is covered in dust.",
+	"glyph": {
+		"frames": [
+			{
+				"color": [
+					255,
+					255,
+					255
+				],
+				"delay": 0,
+				"index": 3444
+			}
+		],
+		"random_frame_start": false
+	},
+	"id": "core_2_Ancient_Wine",
+	"item": {
+		"image": 1548,
+		"type": 16
+	},
+	"liquid_source": {
+		"limit": 75,
+		"type": 2
+	},
+	"minimap_pixel": [
+		190,
+		186,
+		83
+	],
+	"name": "Ancient Wine",
+	"value": 3500,
+	"weight": 0.20000000298023224
+}

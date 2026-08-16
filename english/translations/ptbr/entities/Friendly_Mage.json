@@ -5,9 +5,7 @@
 		"66"
 	],
 	"artificial_intelligence": {
-		"allies": [
-			"5"
-		],
+		"allies": [],
 		"allow_production": [],
 		"behaviors": [],
 		"enemies": []

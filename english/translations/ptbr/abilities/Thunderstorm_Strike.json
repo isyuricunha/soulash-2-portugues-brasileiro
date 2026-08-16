@@ -1,0 +1,22 @@
+{
+	"animation": "core_2_Heavy_Rain",
+	"cast_time": 0.0,
+	"cost": {
+		"health": 0,
+		"stamina": 0
+	},
+	"description": "Lightning bolts strike random positions in the area.",
+	"duration": 0.0,
+	"effects": {
+		"summon_count": 100
+	},
+	"effects_keys": {
+		"summon": "core_2_Lightning_Strike"
+	},
+	"id": "core_2_Thunderstorm_Strike",
+	"image": 0,
+	"name": "Thunderstorm Strike",
+	"range": 0,
+	"skill": "",
+	"target": "tile"
+}

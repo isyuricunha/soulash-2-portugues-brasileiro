@@ -1,0 +1,64 @@
+{
+	"armor": {
+		"acid": 0,
+		"death": 0,
+		"electricity": 0,
+		"fire": -20,
+		"frost": 0,
+		"holy": 0,
+		"parry": 0,
+		"physical": 2,
+		"poison": 20,
+		"thorns": 0
+	},
+	"components": [
+		"armor",
+		"collidable",
+		"glyph",
+		"health",
+		"minimap_pixel",
+		"name",
+		"position_2d",
+		"producer"
+	],
+	"corpse": [],
+	"description": "Important keepsakes are stored in this chest, which is decorated with a floral motif.",
+	"glyph": {
+		"frames": [
+			{
+				"color": [
+					255,
+					255,
+					255
+				],
+				"delay": 0,
+				"index": 3447
+			}
+		],
+		"random_frame_start": true
+	},
+	"health": 50,
+	"id": "core_2_Decorated_Wooden_Chest",
+	"minimap_pixel": [
+		71,
+		48,
+		17
+	],
+	"name": "Decorated Wooden Chest",
+	"producer": {
+		"delay_on_use": 2280,
+		"products": {
+			"core_2_rummage": [
+				{
+					"amount": [
+						1,
+						1
+					],
+					"id": "core_2_Giant_Ruby",
+					"percent_chance": 100
+				}
+			]
+		},
+		"time": 0
+	}
+}

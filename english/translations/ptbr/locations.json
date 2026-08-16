@@ -11332,7 +11332,8 @@
 				"parameters": {
 					"road_index": "-1",
 					"size": 2,
-					"starting_z_level": 0
+					"starting_z_level": 0,
+					"z_levels": 0
 				}
 			},
 			"biomes": [
@@ -35319,7 +35320,7 @@
             "difficulty": -1,
             "id": "core_2_thunder_tample_1",
             "image": -1,
-            "name": "Thunder Tample",
+            "name": "Thunder Temple",
             "scenarios": [
                 {
 					"building_maps": [
@@ -35373,7 +35374,7 @@
 			"id": "core_2_puinguin_2",
 			"image": -1,
 			"matches_resource": "core_2_Puinguin_Leather",
-			"name": "Puinguins",
+			"name": "Penguins",
 			"scenarios": [
 				{
 					"internal_name": "Puinguins 2",
@@ -43334,7 +43335,7 @@
 			"id": "core_2_herald_of_rot",
 			"image": 112,
 			"event_only": true,
-			"name": "Herald of Rot",
+			"name": "Rotting Circle",
 			"scenarios": [
 				{
 					"building_maps": [
@@ -43434,77 +43435,82 @@
 				}
 			},
 			"biomes": [
-				"grasslands"
+				"savanna"
 			],
-			"difficulty": 0,
-			"id": "core_2_thief_hideout",
-			"image": 114,
-            "event_only": true,
-			"name": "Thieves Hideout",
-			"scenarios": [	
+			"difficulty": 1,
+			"id": "core_2_great_hunt_area",
+			"image": 173,
+			"event_only": true,
+			"name": "Great Hunt Area",
+			"scenarios": [
 				{
-					
-					"building_maps": [
-						{
-							"count": [
-								1,
-								1
-							],
-							"ids": [
-								"Thieves_Hideout_Entrence"
-					
-							],
-							"mode": "one_of",
-							"placement": "carve"
-						}
-					],
-					"center_map": [],
-					"internal_name": "Thieves Hideout 0",
-					"spawns": [
-					],
-					"z_level": 0
-				},
-				{
-					
-					"building_maps": [
-						{
-							"count": [
-								4,
-								5
-							],
-							"ids": [
-								"Thieves_Hideout_1",
-								"Thieves_Hideout_2",
-								"Thieves_Hideout_4",
-								"Thieves_Hideout_5",
-								"Thieves_Hideout_6",
-								"Thieves_Hideout_7",
-								"Thievs_Hideout_3"
-					
-							],
-							"mode": "one_of",
-							"placement": "carve"
-						}
-					],
-					"center_map": [],
-					"internal_name": "Thieves Hideout 1",
+					"building_maps": [],
+					"internal_name": "Baboons",
+					"rewards": [],
 					"spawns": [
 						{
 							"amount": [
-								3,
-								5
+								2,
+								4
 							],
 							"chance": 1.0,
 							"entities": [
-								"core_2_Thief_Bandit"
-							],
-							"spawn_on": [
+								"core_2_Mad_Baboon"
 							]
 						}
-					],
-					"z_level": -1
+					]
+				},
+				{
+				    "building_maps": [],
+					"internal_name": "Vultures",
+					"rewards": [],
+				    "spawns": [
+						{
+							"amount": [
+								2,
+								3
+							],
+							"chance": 1.0,
+							"entities": [
+								"core_2_Mad_Vulture"
+							]
+						}
+					]
+				},
+				{
+				    "building_maps": [],
+					"internal_name": "Hyenas",
+					"rewards": [],
+				    "spawns": [
+						{
+							"amount": [
+								3,
+								4
+							],
+							"chance": 1.0,
+							"entities": [
+								"core_2_Mad_Hyena"
+							]
+						}
+					]
+				},
+				{
+				    "building_maps": [],
+					"internal_name": "Lions",
+					"rewards": [],
+				    "spawns": [
+						{
+							"amount": [
+								3,
+								4
+							],
+							"chance": 1.0,
+							"entities": [
+								"core_2_Mad_Lion"
+							]
+						}
+					]
 				}
-				
 			]
 		},
 		{
@@ -43530,14 +43536,477 @@
 				"savanna"
 			],
 			"difficulty": 0,
-			"id": "core_2_great_hunt_area",
-			"image": 173,
-			"event_only": true,
-			"name": "Great Hunt Area",
+			"id": "core_2_thief_hideout_2",
+			"image": 114,
+            "event_only": true,
+			"name": "Thieves Hideout",
+			"scenarios": [	
+				{
+					
+					"building_maps": [
+						{
+							"count": [
+								4,
+								5
+							],
+							"ids": [
+								"Gnoll_Hideout_1",
+								"Gnoll_Hideout_2",
+								"Gnoll_Hideout_3",
+								"Gnoll_Hideout_4",
+								"Gnoll_Hideout_5",
+								"Gnoll_Hideout_6",
+								"Gnoll_Hideout_7"
+							],
+							"mode": "one_of",
+							"placement": "carve"
+						}
+					],
+					"center_map": [],
+					"internal_name": "Thieves Hideout 0",
+					"spawns": [
+					],
+					"z_level": 0
+				}
+				
+			]
+		},
+		{
+			"algorithm": {
+				"id": "simple_spawn",
+				"parameters": {
+					"carvables": [
+						"2018",
+						"242",
+						"8"
+					],
+				"clear_threshold": 11,
+					"pre_fill_percent": 0.53,
+					"size": 4,
+					"smooth_iterations": 3,
+					"stairs_down": "2043",
+					"stairs_up": "2042",
+					"starting_z_level": 0,
+					"z_levels": 1
+				}
+			},
+			"biomes": [
+				"low_mountain"
+			],
+			"difficulty": 0,
+			"id": "core_2_thief_hideout_3",
+			"image": 114,
+            "event_only": true,
+			"name": "Thieves Hideout",
+			"scenarios": [	
+				{
+					
+					"building_maps": [
+						{
+							"count": [
+								4,
+								5
+							],
+							"ids": [
+								"Hideout_5",
+								"Hideout_Orc_1",
+								"Hideout_Orc_3",
+								"Hideout_Orc_4",
+								"Hideout_Orc_6",
+								"Hideout_Orc_7",
+								"Hiedout_Orc_2"
+							],
+							"mode": "one_of",
+							"placement": "carve"
+						}
+					],
+					"center_map": [],
+					"internal_name": "Thieves Hideout 0",
+					"spawns": [
+					],
+					"z_level": 0
+				}
+				
+			]
+		},
+		{
+			"algorithm": {
+				"id": "simple_spawn",
+				"parameters": {
+					"carvables": [
+						"2018",
+						"242",
+						"8"
+					],
+				"clear_threshold": 11,
+					"pre_fill_percent": 0.53,
+					"size": 4,
+					"smooth_iterations": 3,
+					"stairs_down": "2043",
+					"stairs_up": "2042",
+					"starting_z_level": 0,
+					"z_levels": 1
+				}
+			},
+			"biomes": [
+				"low_mountain"
+			],
+			"difficulty": 0,
+			"id": "core_2_thief_hideout_4",
+			"image": 114,
+            "event_only": true,
+			"name": "Thieves Hideout",
+			"scenarios": [	
+				{
+					
+					"building_maps": [
+						{
+							"count": [
+								4,
+								5
+							],
+							"ids": [
+								"Goblin_Hideout_1",
+								"Goblin_Hideout_2",
+								"Goblin_Hideout_3",
+								"Goblin_Hideout_4",
+								"Goblin_Hideout_5",
+								"Goblin_Hideout_6",
+								"Goblin_Hideout_7"
+							],
+							"mode": "one_of",
+							"placement": "carve"
+						}
+					],
+					"center_map": [],
+					"internal_name": "Thieves Hideout 0",
+					"spawns": [
+					],
+					"z_level": 0
+				}
+				
+			]
+		},
+		{
+			"algorithm": {
+				"id": "simple_spawn",
+				"parameters": {
+					"carvables": [
+						"2018",
+						"242",
+						"8"
+					],
+				"clear_threshold": 11,
+					"pre_fill_percent": 0.53,
+					"size": 4,
+					"smooth_iterations": 3,
+					"stairs_down": "2043",
+					"stairs_up": "2042",
+					"starting_z_level": 0,
+					"z_levels": 1
+				}
+			},
+			"biomes": [
+				"tropical_rainforest"
+			],
+			"difficulty": 0,
+			"id": "core_2_thief_hideout_5",
+			"image": 114,
+            "event_only": true,
+			"name": "Thieves Hideout",
+			"scenarios": [	
+				{
+					
+					"building_maps": [
+						{
+							"count": [
+								1,
+								1
+							],
+							"ids": [
+								"Hideout_Rasimi_1",
+								"Hideout_Rasimi_2",
+								"Hideout_Rasimi_3"
+							],
+							"mode": "one_of",
+							"placement": "carve"
+						}
+					],
+					"center_map": [],
+					"internal_name": "Thieves Hideout 0",
+					"spawns": [
+					],
+					"z_level": 0
+				}
+				
+			]
+		},
+		{
+			"algorithm": {
+				"id": "settlement",
+				"parameters": {
+					"carvables": [
+						"242",
+						"2018",
+						"621"
+					],
+					"clear_threshold": 11,
+					"pre_fill_percent": 0.53,
+					"size": 7,
+					"smooth_iterations": 3,
+					"stairs_down": "2035",
+					"stairs_up": "2034",
+					"starting_z_level": 0,
+					"z_levels": -3
+				}
+			},
+			"biomes": [
+				"savanna"
+			],
+			"difficulty": 5,
+			"id": "core_2_cerberus_lair_1",
+			"image": 115,
+			"name": "Cerberus Lair",
 			"scenarios": [
 				{
-					"building_maps": [],
-					"internal_name": "Baboons",
+					"building_maps": [
+						{
+							"count": [
+								1,
+								1
+							],
+							"ids": [
+								"Cerb_Entrance"
+							],
+							"mode": "one_of",
+							"placement": "on_background"
+						}
+					],
+					"internal_name": "Cerberus 0",
+					"spawns": [
+						{
+							"amount": [
+								3,
+								5
+							],
+							"chance": 1.0,
+							"entities": [
+								"2053"
+							],
+							"spawn_on": []
+						}
+					],
+					"z_level": 0
+				},
+				{
+					"building_maps": [
+						{
+							"count": [
+								17,
+								23
+							],
+							"ids": [
+								"Cerb_1",
+								"Cerb_2",
+								"Cerb_3",
+								"Cerb_4",
+								"Cerb_5",
+								"Cerb_6",
+								"Cerb_7",
+								"Cerb_8",
+								"Cerb_9",
+								"Cerb_10",
+								"Cerb_11",
+								"Cerb_12",
+								"Cerb_13",
+								"Cerb_14",
+								"Cerb_15",
+								"Cerb_16"
+							],
+							"mode": "one_of",
+							"placement": "carve"
+						}
+					],
+					"internal_name": "Cerberus -1",
+					"rewards": [
+						{
+							"chance": 0.33,
+							"entity": "2421",
+							"objective": true,
+							"value": 10000
+						}
+					],
+					"spawns": [
+						{
+							"amount": [
+								3,
+								6
+							],
+							"chance": 1.0,
+							"entities": [
+								"2053"
+							]
+						},
+						{
+							"amount": [
+								6,
+								9
+							],
+							"chance": 1.0,
+							"entities": [
+								"2634"
+							]
+						},
+						{
+							"amount": [
+								1,
+								2
+							],
+							"chance": 1.0,
+							"entities": [
+								"2900"
+							]
+						}
+					],
+					"z_level": -1
+				},
+				{
+					"building_maps": [
+						{
+							"count": [
+								17,
+								23
+							],
+							"ids": [
+								"Cerb_1",
+								"Cerb_2",
+								"Cerb_3",
+								"Cerb_4",
+								"Cerb_5",
+								"Cerb_6",
+								"Cerb_7",
+								"Cerb_8",
+								"Cerb_9",
+								"Cerb_10",
+								"Cerb_11",
+								"Cerb_12",
+								"Cerb_13",
+								"Cerb_14",
+								"Cerb_15",
+								"Cerb_16"
+							],
+							"mode": "one_of",
+							"placement": "carve"
+						}
+					],
+					"internal_name": "Cerberus -2",
+					"rewards": [
+						{
+							"chance": 0.33,
+							"entity": "2421",
+							"objective": true,
+							"value": 10000
+						},
+						{
+							"chance": 1.00,
+							"entity": "2421",
+							"objective": true,
+							"value": 40000
+						}
+					],
+					"spawns": [
+						{
+							"amount": [
+								3,
+								6
+							],
+							"chance": 1.0,
+							"entities": [
+								"2053"
+							]
+						},
+						{
+							"amount": [
+								6,
+								9
+							],
+							"chance": 1.0,
+							"entities": [
+								"2634"
+							]
+						},
+						{
+							"amount": [
+								1,
+								2
+							],
+							"chance": 1.0,
+							"entities": [
+								"2900"
+							]
+						},
+						{
+							"amount": [
+								1,
+								1
+							],
+							"chance": 1.0,
+							"entities": [
+								"core_2_Cerberus"
+							]
+						}
+					],
+					"z_level": -2
+				}
+			]
+		},
+		{
+			"algorithm": {
+				"id": "simple_spawn",
+				"parameters": {
+					"carvables": [
+						"2018",
+						"242",
+						"8"
+					],
+				"clear_threshold": 11,
+					"pre_fill_percent": 0.53,
+					"size": 4,
+					"smooth_iterations": 3,
+					"starting_z_level": 0,
+					"z_levels": 1
+				}
+			},
+			"biomes": [
+				"savanna",
+				"tropical_rainforest",
+				"low_mountain",
+				"mountain",
+				"grasslands",
+				"forest"
+			],
+			"difficulty": 2,
+			"id": "core_2_fancy_villa_event",
+			"image": 119,
+			"event_only": true,
+			"name": "Fancy Villa",
+			"scenarios": [
+				{
+					"building_maps": [
+						{
+							"count": [
+								1,
+								1
+							],
+							"ids": [
+								"Fancy_Villa_1",
+								"Fancy_Villa_2"
+							],
+							"mode": "one_of",
+							"placement": "on_background"
+						}
+					],
+					"internal_name": "Fancy Villa",
 					"rewards": [],
 					"spawns": [
 						{
@@ -43547,64 +44016,160 @@
 							],
 							"chance": 1.0,
 							"entities": [
-								"2081"
+								"core_2_Villa_Resident"
 							]
-						}
-					]
-				},
-				{
-				    "building_maps": [],
-					"internal_name": "Vultures",
-					"rewards": [],
-				    "spawns": [
+						},
 						{
 							"amount": [
 								2,
+								4
+							],
+							"chance": 1.0,
+							"entities": [
+								"core_2_Villa_Guard"
+							]
+						}
+					],
+					"z_level": 0
+				},
+				{
+					"building_maps": [],
+					"internal_name": "Fancy Villa 2",
+					"rewards": [],
+					"spawns": [
+						{
+							"amount": [
+								2,
+								4
+							],
+							"chance": 1.0,
+							"entities": [
+								"core_2_Villa_Resident"
+							]
+						}
+					],
+					"z_level": 1
+				}
+			]
+		},
+		{
+			"algorithm": {
+				"id": "simple_spawn",
+				"parameters": {
+					"carvables": [
+						"2018",
+						"242",
+						"8"
+					],
+				"clear_threshold": 11,
+					"pre_fill_percent": 0.53,
+					"size": 4,
+					"smooth_iterations": 3,
+					"starting_z_level": 0,
+					"z_levels": 3
+				}
+			},
+			"biomes": [
+				"savanna",
+				"tropical_rainforest",
+				"low_mountain",
+				"mountain",
+				"grasslands",
+				"forest"
+			],
+			"difficulty": 2,
+			"id": "core_2_wizard_tower_event",
+			"image": 100,
+			"event_only": true,
+			"name": "Wizard's Tower",
+			"scenarios": [
+				{
+					"building_maps": [
+						{
+							"count": [
+								1,
+								1
+							],
+							"ids": [
+								"Wizard_Tower_2",
+								"Wizard_Tower_I"
+							],
+							"mode": "one_of",
+							"placement": "on_background"
+						}
+					],
+					"internal_name": "Wizard's Tower 0",
+					"rewards": [],
+					"spawns": [],
+					"z_level": 0
+				},
+				{
+					"building_maps": [],
+					"internal_name": "Wizard's Tower 1",
+					"rewards": [],
+					"spawns": [
+						{
+							"amount": [
+								5,
+								7
+							],
+							"chance": 1.0,
+							"entities": [
+								"core_2_Tiny_Dragon"
+							]
+						}
+					],
+					"z_level": 1
+				},
+				{
+					"building_maps": [],
+					"internal_name": "Wizard's Tower 1",
+					"rewards": [],
+					"spawns": [
+						{
+							"amount": [
+								5,
+								7
+							],
+							"chance": 1.0,
+							"entities": [
+								"core_2_Tiny_Dragon"
+							]
+						}
+					],
+					"z_level": 2
+				},
+				{
+					"building_maps": [],
+					"internal_name": "Wizard's Tower 1",
+					"rewards": [],
+					"spawns": [
+						{
+							"amount": [
+								1,
 								3
 							],
 							"chance": 1.0,
 							"entities": [
-								"2056"
+								"core_2_Tiny_Dragon"
 							]
-						}
-					]
-				},
-				{
-				    "building_maps": [],
-					"internal_name": "Hyenas",
-					"rewards": [],
-				    "spawns": [
+						},
 						{
 							"amount": [
-								3,
-								4
+								1,
+								1
 							],
 							"chance": 1.0,
 							"entities": [
-								"2053"
+								"core_2_Rigar_the_Wizard"
 							]
 						}
-					]
-				},
-				{
-				    "building_maps": [],
-					"internal_name": "Lions",
-					"rewards": [],
-				    "spawns": [
-						{
-							"amount": [
-								3,
-								4
-							],
-							"chance": 1.0,
-							"entities": [
-								"467"
-							]
-						}
-					]
+					],
+					"z_level": 3
 				}
 			]
 		}
+		
 	],
 	"unknown_special_images": [
 		212,

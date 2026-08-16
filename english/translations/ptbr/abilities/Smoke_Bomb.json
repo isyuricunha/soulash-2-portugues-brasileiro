@@ -6,7 +6,7 @@
 		"health": 0,
 		"stamina": 4
 	},
-	"description": "Summons clouds of smoke temporary bloking vision.",
+	"description": "Summons clouds of smoke temporarily bloking vision.",
 	"duration": 10.0,
 	"effects": {
 		"aoe_break": 3,

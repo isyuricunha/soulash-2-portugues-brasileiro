@@ -339,7 +339,7 @@
                 "value": 0.2
             }
         ],
-        "description": "Applies Bleed effect equal to 20% of the damage done by the ability."
+        "description": "Applies Bleed effect equal to 20% of the physical or true damage done by the ability."
     },
     {
         "id": "core_2_increase_bleed",

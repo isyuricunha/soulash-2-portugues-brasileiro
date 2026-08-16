@@ -1,0 +1,82 @@
+{
+	"components": [
+		"glyph",
+		"item",
+		"liquid_source",
+		"minimap_pixel",
+		"name",
+		"position_2d",
+		"producer",
+		"weight"
+	],
+	"description": "A lifeless body of a mighty tytan king.",
+	"glyph": {
+		"frames": [
+			{
+				"color": [
+					255,
+					255,
+					255
+				],
+				"delay": 0,
+				"index": 3396
+			}
+		],
+		"random_frame_start": false
+	},
+	"id": "core_2_Tytan_King_Corpse",
+	"item": {
+		"image": 1557,
+		"type": 18
+	},
+	"liquid_source": {
+		"limit": 140,
+		"type": 4
+	},
+	"minimap_pixel": [
+		150,
+		80,
+		15
+	],
+	"name": "Tytan King Corpse",
+	"producer": {
+		"products": {
+			"3": [
+				{
+					"amount": [
+						1,
+						1
+					],
+					"id": "174",
+					"percent_chance": 25
+				},
+				{
+					"amount": [
+						1,
+						1
+					],
+					"id": "2222",
+					"percent_chance": 25
+				},
+				{
+					"amount": [
+						1,
+						1
+					],
+					"id": "172",
+					"percent_chance": 25
+				},
+				{
+					"amount": [
+						1,
+						1
+					],
+					"id": "core_2_Cuisse_Armor",
+					"percent_chance": 25
+				}
+			]
+		},
+		"time": 10
+	},
+	"weight": 30.0
+}

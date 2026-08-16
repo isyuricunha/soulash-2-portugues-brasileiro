@@ -93,12 +93,14 @@
 		"threesixty": false
 	},
 	"skills": {
+		"max_skill": 40,
 		"milestones": [
 			"core_2_backstab",
 			"core_2_blind",
 			"core_2_vanish",
 			"core_2_quick_thrust"
 		],
+		"min_skill": 40,
 		"skills": [
 			"core_2_thievery"
 		]

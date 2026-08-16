@@ -57,7 +57,7 @@
 		"random_frame_start": true
 	},
 	"health": 50,
-	"height": 5,
+	"height": 0,
 	"id": "core_2_Rope_Fence",
 	"minimap_pixel": [
 		61,

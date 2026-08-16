@@ -1,0 +1,88 @@
+{
+    "id": "core_2_infernal_gateway",
+    "name": "Infernal Gateway",
+    "category": "settlement",
+    "flavor": "A gateway to the infernal realm opened near this settlement.",
+    "icon": 9,
+    "small_icon": 9,
+    "rarity": "rare",
+    "restrict_races": [
+        "23"
+    ],
+    "trigger": {
+        "base_probability": 0.0,
+        "conditions": []
+    },
+    "duration": {
+        "type": "temporary",
+        "days": [
+            20,
+            20
+        ]
+    },
+    "effects": [
+        {
+            "type": "death_rate",
+            "rate_per_day": 0.05
+        },
+        {
+            "type": "spawn_group",
+            "amount": [
+                1,
+                1
+            ],
+            "group_type": "settlement",
+            "entity": "core_2_Reptilion_Grand_Seer",
+            "border_color": [
+                180,
+                40,
+                40
+            ]
+        }
+    ],
+    "extra_dialogues": [],
+    "interactions": [
+        {
+            "type": "locate_entity",
+            "id": "core_2_infernal_monument_locate",
+            "translation_id": 0,
+            "label": "Where is the Infernal Monument?",
+            "entities": [
+                "core_2_Reptilion_Grand_Seer"
+            ],
+            "locate_entities": [
+                "core_2_Infernal_Monument"
+            ]
+        },
+        {
+            "type": "conversation",
+            "id": "core_2_infernal_gateway_closed",
+            "translation_id": 1,
+            "label": "Deliver demonic ichors.",
+            "entities": [
+                "core_2_Reptilion_Grand_Seer"
+            ],
+            "required_ingredients": [
+                {
+                    "id": "core_2_Demons_Ichor",
+                    "amount": 5
+                }
+            ],
+            "reward": {
+                "gold": 1000,
+                "exp": 200,
+                "skill_id": "core_2_alchemy",
+                "remove_event": true
+            },
+            "history_event": "::name has closed the Infernal Gateway, defending ::settlement from demonic invasion.",
+            "announcement": "You held back the demonic invasion in ::settlement!"
+        }
+    ],
+    "entity_swaps_on_start": [
+        { "from": "core_2_Flaming_Skulls", "to": "core_2_Demonic_Portal" }
+    ],
+    "history_events": {
+        "begin": "An Infernal Gateway has opened near ::settlement!",
+        "end": "The Infernal Gateway has collapsed, ending the demonic invasion."
+    }
+}

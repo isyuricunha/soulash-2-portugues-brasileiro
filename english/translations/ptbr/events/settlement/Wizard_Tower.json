@@ -1,0 +1,177 @@
+{
+    "id": "core_2_wizard_tower",
+    "name": "Wizard Tower Heist",
+    "category": "settlement",
+    "flavor": "The Thief Leader has a has a special request regarding a Wizard's Tower nearby.",
+    "icon": 27,
+    "small_icon": 27,
+    "rarity": "uncommon",
+    "restrict_races": [
+        "0",
+        "4",
+        "8",
+        "10",
+        "31"
+    ],
+    "trigger": {
+        "base_probability": 0.0,
+        "conditions": [
+            {
+                "type": "min_unemployed",
+                "value": 1
+            }
+        ]
+    },
+    "duration": {
+        "type": "temporary",
+        "days": [
+            60,
+            90
+        ]
+    },
+    "locations": [
+        {
+            "id": "core_2_wizard_tower_event",
+            "radius": 10
+        }
+    ],
+    "effects": [
+        {
+            "type": "spawn_group",
+            "amount": [
+                1,
+                1
+            ],
+            "group_type": "settlement",
+            "entity": "core_2_Thief_Leader",
+            "restrict_race": "0",
+            "preferred_buildings": [
+                "548"
+            ],
+           
+            "border_color": [
+                160,
+                40,
+                40
+            ]
+        },
+        {
+            "type": "spawn_group",
+            "amount": [
+                1,
+                1
+            ],
+            "group_type": "settlement",
+            "entity": "core_2_Goblin_Thief_Leader",
+            "restrict_race": "4",
+            "preferred_buildings": [
+                "548"
+            ],
+           
+            "border_color": [
+                160,
+                40,
+                40
+            ]
+        },
+        {
+            "type": "spawn_group",
+            "amount": [
+                1,
+                1
+            ],
+            "group_type": "settlement",
+            "entity": "core_2_Orc_Thief_Leader",
+            "restrict_race": "8",
+            "preferred_buildings": [
+                "548"
+            ],
+           
+            "border_color": [
+                160,
+                40,
+                40
+            ]
+        },
+        {
+            "type": "spawn_group",
+            "amount": [
+                1,
+                1
+            ],
+            "group_type": "settlement",
+            "entity": "core_2_Rasimi_Thief_Leader",
+            "restrict_race": "10",
+            "preferred_buildings": [
+                "548"
+            ]
+        },
+         {
+            "type": "spawn_group",
+            "amount": [
+                1,
+                1
+            ],
+            "group_type": "settlement",
+            "entity": "core_2_Gnoll_Thief_Leader",
+            "restrict_race": "31",
+            "preferred_buildings": [
+                "548"
+            ],
+            "border_color": [
+                160,
+                40,
+                40
+            ]
+        }
+    ],
+    "extra_dialogues": [],
+    "interactions": [
+        {
+            "type": "reveal_event_location",
+            "id": "core_2_wizard_tower_reveal",
+            "translation_id": 0,
+            "required_skill": "core_2_thievery",
+            "required_level": 15,
+            "entities": [
+                "core_2_Thief_Leader",
+                "core_2_Goblin_Thief_Leader",
+                "core_2_Orc_Thief_Leader",
+                "core_2_Rasimi_Thief_Leader",
+                "core_2_Gnoll_Thief_Leader"
+            ]
+        },
+        {
+            "type": "conversation",
+            "id": "core_2_wizard_tower_event_reward",
+            "translation_id": 1,
+            "required_ingredients": [
+                {
+                    "id": "core_2_Magical_Amulet",
+                    "amount": 1
+                }
+            ],
+            "require_location_cleared": false,
+            "entities": [
+                "core_2_Thief_Leader",
+                "core_2_Goblin_Thief_Leader",
+                "core_2_Orc_Thief_Leader",
+                "core_2_Rasimi_Thief_Leader",
+                "core_2_Gnoll_Thief_Leader"
+            ],
+            "reward": {
+                "gold": 500,
+                "remove_event": true,
+                "skill_id": "core_2_thievery",
+                "exp": 250,
+                "announcement": "You've robbed the Wizard's Tower."
+            },
+            "history_event": "::name has completed a heist on Wizard's Tower!"
+        }
+    ],
+    "history_events": {
+        "begin": "The Thief Leader in ::settlement has a favor to ask.",
+        "end": "The Thief Leader in ::settlement found someone who fulfilled his request.",
+        "success": "You have completed a heist on Wizard's Tower near ::settlement."
+    }
+}

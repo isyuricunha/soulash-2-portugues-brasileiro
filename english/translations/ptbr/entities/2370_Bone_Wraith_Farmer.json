@@ -3,10 +3,31 @@
 		"allies": [
 			"35"
 		],
-		"allow_production": [],
-		"behaviors": [
-			6
+		"allow_production": [
+			"6",
+			"7",
+			"10"
 		],
+		"allow_producer_entities": [
+			"797",
+			"2014",
+			"2539",
+			"2298", "core_2_Herbs_Bush",
+			"816",
+			"core_2_Ground_Jellies",
+			"core_2_Poppies",
+			"core_2_Bearberry_Bush",
+			"core_2_Sugar_Cane",
+			"core_2_Watermelon_Patch",
+			"changeme_template_Purple_Mushrooms", "changeme_template_Orange_Mushrooms",
+			"core_2_Mullberry_Tree",
+			"core_2_Gooseberry_Bush",
+			"3094",
+			"core_2_Cranberry_Bush",
+			"core_2_Potato_Plant",
+			"core_2_Agave_Plant"
+		],
+		"behaviors": [6, 20],
 		"enemies": []
 	},
 	"components": [

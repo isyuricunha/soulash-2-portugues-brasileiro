@@ -2,13 +2,13 @@
 	"components": [
 		"glyph",
 		"item",
+		"minimap_pixel",
 		"name",
 		"position_2d",
 		"producer",
 		"stackable",
 		"value",
-		"weight",
-		"minimap_pixel"
+		"weight"
 	],
 	"description": "A commonly grown grass with edible seeds and a staple ingredient of bread.",
 	"glyph": {
@@ -22,7 +22,8 @@
 				"delay": 0,
 				"index": 104
 			}
-		]
+		],
+		"random_frame_start": false
 	},
 	"id": "796",
 	"item": {
@@ -59,5 +60,5 @@
 		"time": 10
 	},
 	"value": 10,
-	"weight": 0.5
+	"weight": 0.20000000298023224
 }

@@ -13,7 +13,7 @@
 	"description": "Great for bread, soup, or, more importantly - beer.",
 	"food": {
 		"nutrition": 5,
-		"poisonous": 0,
+		"on_eat": "",
 		"raw": true
 	},
 	"glyph": {
@@ -41,6 +41,6 @@
 		110
 	],
 	"name": "Barley Grain",
-	"value": 100,
-	"weight": 0.1
+	"value": 50,
+	"weight": 0.20000000298023224
 }

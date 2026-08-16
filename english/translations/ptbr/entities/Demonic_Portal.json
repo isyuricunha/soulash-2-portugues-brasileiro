@@ -1,15 +1,15 @@
 {
 	"armor": {
-		"acid": 0,
+		"acid": 5,
 		"death": 9999,
-		"electricity": 0,
+		"electricity": 20,
 		"fire": 50,
-		"frost": 0,
-		"holy": 0,
+		"frost": 10,
+		"holy": -10,
 		"parry": 0,
 		"physical": 20,
-		"poison": 0,
-		"thorns": 0
+		"poison": 10,
+		"thorns": 10
 	},
 	"components": [
 		"armor",
@@ -23,13 +23,8 @@
 		"position_2d",
 		"random_resource"
 	],
-	"corpse": [
-		{
-			"damage_type": 1,
-			"id": "547"
-		}
-	],
-	"description": "This portal looks like it leads straight to abyss.",
+	"corpse": "core_2_Demons_Ichor",
+	"description": "This portal looks like a one way road straight from abyss.",
 	"glyph": {
 		"frames": [
 			{
@@ -53,7 +48,7 @@
 		],
 		"random_frame_start": false
 	},
-	"health": 100,
+	"health": 200,
 	"height": 0,
 	"id": "core_2_Demonic_Portal",
 	"minimap_pixel": [
@@ -68,11 +63,11 @@
 			"core_2_Demonic_Paw"
 		],
 		"max_amount": 1,
-		"max_distance": 3,
+		"max_distance": 5,
 		"min_amount": 1,
 		"min_distance": 1,
 		"multiply_same": false,
-		"respawn_rate": 30.0,
+		"respawn_rate": 50.0,
 		"spawn_at": [],
 		"spawn_chance": 100.0,
 		"spawn_multiply": 0.0,

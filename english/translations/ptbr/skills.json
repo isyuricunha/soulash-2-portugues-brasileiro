@@ -639,6 +639,11 @@
                 "rate": 5
             },
             {
+                "id": "production",
+                "rate": 7,
+                "production_action": "core_2_rummage"
+            },
+            {
                 "id": "rob",
                 "rate": 10
             },

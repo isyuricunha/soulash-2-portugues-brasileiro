@@ -10269,7 +10269,7 @@
                 200,
                 255
             ],
-            "format": "{} (WINNER! Score: {} - Reward: {} gold)",
+            "format": "{} (You won with score {}! Reward: {} gold)",
             "id": 1015
         },
         {
@@ -10279,7 +10279,7 @@
                 200,
                 255
             ],
-            "format": "{} (Score: {} - Winner: {} with {} - Reward: {} gold)",
+            "format": "{} (Your score: {}, Winner: {} with {})",
             "id": 1016
         },
         {
@@ -10381,6 +10381,186 @@
             ],
             "format": "Adventuring Party",
             "id": 1026
+        },
+        {
+            "color": [
+                200,
+                200,
+                200,
+                255
+            ],
+            "format": "Items crafted by you sell for more than items found during adventures.",
+            "id": 1027
+        },
+        {
+            "color": [
+                200,
+                200,
+                200,
+                255
+            ],
+            "format": "The battle commenced by company {} at {} ended in success.",
+            "id": 1028
+        },
+        {
+            "color": [
+                200,
+                200,
+                200,
+                255
+            ],
+            "format": "The battle commenced by company {} at {} ended in failure. Beaten and tired, the company retreats with their wounded.",
+            "id": 1029
+        },
+        {
+            "color": [
+                200,
+                200,
+                200,
+                255
+            ],
+            "format": "The company looted: {}",
+            "id": 1030
+        },
+        {
+            "color": [
+                200,
+                200,
+                200,
+                255
+            ],
+            "format": "Disbanded",
+            "id": 1031
+        },
+        {
+            "color": [
+                200,
+                200,
+                200,
+                255
+            ],
+            "format": "its last member perished",
+            "id": 1032
+        },
+        {
+            "color": [
+                200,
+                200,
+                200,
+                255
+            ],
+            "format": "its last soldier fell and the settlement was liberated",
+            "id": 1033
+        },
+        {
+            "color": [
+                200,
+                200,
+                200,
+                255
+            ],
+            "format": "it was completely defeated on a dispatched campaign far from home",
+            "id": 1034
+        },
+        {
+            "color": [
+                200,
+                200,
+                200,
+                255
+            ],
+            "format": "it dwindled to too few members to continue operating",
+            "id": 1035
+        },
+        {
+            "color": [
+                200,
+                200,
+                200,
+                255
+            ],
+            "format": "its settlement was abandoned",
+            "id": 1036
+        },
+        {
+            "color": [
+                200,
+                200,
+                200,
+                255
+            ],
+            "format": "its settlement was captured without resistance",
+            "id": 1037
+        },
+        {
+            "color": [
+                200,
+                200,
+                200,
+                255
+            ],
+            "format": "its home settlement fell into ruin",
+            "id": 1038
+        },
+        {
+            "color": [
+                25,
+                211,
+                25,
+                255
+            ],
+            "format": "Hide disbanded companies",
+            "id": 1039
+        },
+        {
+            "color": [
+                200,
+                200,
+                200,
+                255
+            ],
+            "format": "The company {} disbanded in Year {}, Day {} - {}.",
+            "id": 1040
+        },
+        {
+            "color": [
+                200,
+                200,
+                200,
+                255
+            ],
+            "format": "the reason for its disbandment remains unknown",
+            "id": 1041
+        },
+        {
+            "color": [
+                200,
+                200,
+                200,
+                255
+            ],
+            "format": "{} took over {} under its state control.",
+            "id": 1042
+        },
+        {
+            "color": [
+                200,
+                200,
+                200,
+                255
+            ],
+            "format": "The necromancer harvests {} souls from the settlement.",
+            "id": 1043
+        },
+        {
+            "color": [
+                200,
+                200,
+                200,
+                255
+            ],
+            "format": "the world event that formed it came to an end",
+            "id": 1044
         }
     ],
     "statistics": [
@@ -10397,7 +10577,7 @@
             "name": "Endurance"
         },
         {
-            "description": "[color=98,116,133,255]Intelligence[/color]\n\n- Increases Magic Power by 1 for every 2 points.\n- Increases Sight range by 1 for every 10 points.\n- Reduces the purchase prices by 0.5% for every point (max 50%).\n- Increases the chance to recover resources from salvaged items by 0.2% per point for each used resource.\n- Reduces crafting time by about 1% per point depending on tool quality.",
+            "description": "[color=98,116,133,255]Intelligence[/color]\n\n- Increases Magic Power by 1 for every 2 points.\n- Increases Sight range by 1 for every 10 points.\n- Increases the chance to recover resources from salvaged items by 0.2% per point for each used resource.\n- Reduces crafting time by about 1% per point depending on tool quality.",
             "name": "Intelligence"
         },
         {
@@ -10441,7 +10621,7 @@
         {
             "id": 4,
             "effect": "Healing",
-            "success": "{} regains {} health.",
+            "success": "{} regains {:.0f} health.",
             "fail": "Chosen target has full health."
         },
         {
@@ -11097,6 +11277,12 @@
             "effect": "Bloodlust From Damage",
             "success": "{} regains {:.0f} bloodlust!",
             "fail": "none"
+        },
+        {
+            "id": 115,
+            "effect": "Exposed",
+            "success": "{} is exposed to attacks under the blood moon!",
+            "fail": "{} is already exposed."
         }
     ],
     "ability_target": [
@@ -11700,6 +11886,7 @@
         "GroupMove": "Marching with group",
         "Idle": "Waiting",
         "JumpDown": "Jumping",
+        "LeaveRaidRegion": "Retreating from the location",
         "Light": "Lighting ::target",
         "Melee": "Attacking ::target",
         "Mining": "Mining",
@@ -11711,6 +11898,7 @@
         "PickUp": "Picking up ::target",
         "Pickpocket": "Pickpocketing",
         "Producing": "::action ::target",
+        "RaidPartyObjective": "Going for objective",
         "Ranged": "Shooting ::target",
         "Rest": "Resting",
         "RestUntilHealed": "Resting",
@@ -11724,6 +11912,7 @@
         "SleepUntilDusk": "Sleeping",
         "SleepInWorkplace": "Sleeping",
         "Stash": "Stashing ::target",
+        "StayWithGroup": "Regrouping with the party",
         "StopDragging": "Stops dragging item",
         "Taming": "Taming ::target",
         "TeleportingAway": "Teleporting",
@@ -12010,6 +12199,10 @@
         {
             "name": "Location objective",
             "description": "Internal in-game component."
+        },
+        {
+            "name": "Lure",
+            "description": "Entities in range matching the [color=192,176,27,255]attract tag[/color] will be drawn toward this entity. [color=192,176,27,255]Radius[/color] is the tile distance within which they are affected. [color=192,176,27,255]Approach distance[/color] is how close they will try to get.\n\nRequired components: Position2D, Name."
         },
         {
             "name": "Map connector",
@@ -12714,7 +12907,19 @@
         },
         {
             "id": 37,
-            "format": "::name becomes ::skill_level in ::skill."
+            "format": "::name becomes [color=45,121,37,255]::skill_level in ::skill[/color]."
+        },
+        {
+            "id": 38,
+            "format": "::company completed a raid on [color=45,121,37,255]::location[/color], returning with loot and stories of their bravery."
+        },
+        {
+            "id": 39,
+            "format": "::company was driven back from [color=45,121,37,255]::location[/color], returning battered and empty-handed."
+        },
+        {
+            "id": 40,
+            "format": "::company has been disbanded - ::reason."
         }
     ],
     "genders": [
@@ -13302,7 +13507,7 @@
         {
             "id": 97,
             "name": "On Max Stacks",
-            "description": "When stacks of ::value reach max count, a special ability effect is triggered consuming all stacks."
+            "description": "When stacks of ::value reach max count, a electric explosion is triggered consuming all stacks, dealing damage and stunning enemies."
         },
         {
             "id": 98,
@@ -13428,6 +13633,16 @@
             "id": 122,
             "name": "Aura Extra AoE Range",
             "description": "When casting [color=226,190,38,255]::value[/color] the aura range is increased by [color=226,190,38,255]+::secondary_value[/color]\n[color=110,110,110,255](This passive effect does not stack with others of the same type)[/color]"
+        },
+        {
+            "id": 123,
+            "name": "Knockback Damage",
+            "description": "On knockback, add [color=226,190,38,255]::value%[/color] additional damage on collision."
+        },
+        {
+            "id": 124,
+            "name": "Heal on Damage",
+            "description": "When dealt damage of type [color=226,190,38,255]::value[/color], heal for [color=226,190,38,255]::secondary_value%[/color] of it instead."
         }
     ],
     "resource_types": [

@@ -1,0 +1,49 @@
+{
+	"components": [
+		"glyph",
+		"health",
+		"minimap_pixel",
+		"name",
+		"position_2d",
+		"producer"
+	],
+	"corpse": [],
+	"description": "A string of thin rat tails.",
+	"glyph": {
+		"frames": [
+			{
+				"color": [
+					255,
+					255,
+					255
+				],
+				"delay": 0,
+				"index": 3389
+			}
+		],
+		"random_frame_start": true
+	},
+	"health": 20,
+	"id": "core_2_String_of_Rat_Tails",
+	"minimap_pixel": [
+		58,
+		39,
+		25
+	],
+	"name": "String of Rat Tails",
+	"producer": {
+		"products": {
+			"core_2_deconstruct": [
+				{
+					"amount": [
+						0,
+						0
+					],
+					"id": "",
+					"percent_chance": 100
+				}
+			]
+		},
+		"time": 5
+	}
+}

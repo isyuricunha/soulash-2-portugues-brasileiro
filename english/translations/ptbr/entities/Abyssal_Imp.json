@@ -41,7 +41,8 @@
 		"sight",
 		"stamina",
 		"statistics",
-		"tags"
+		"tags",
+		"weapon"
 	],
 	"corpse": "core_2_Abyssal_Crystal",
 	"description": "A tiny demonic being cackles maniacally, looking at you.",
@@ -57,7 +58,7 @@
 		"attackNames": [
 			"Horn",
 			"Kick",
-			"Punch",
+			"Scratch",
 			"Bite"
 		]
 	},
@@ -77,7 +78,7 @@
 	},
 	"health": 100,
 	"humanoid": {
-		"race": ""
+		"race": "14"
 	},
 	"id": "core_2_Abyssal_Imp",
 	"minimap_pixel": [
@@ -125,5 +126,21 @@
 	"tags": [
 		"9",
 		"14"
-	]
+	],
+	"weapon": {
+		"attack_speed": 1.0,
+		"critical_hit": 0.0,
+		"damage": [
+			{
+				"dmg_max": 10,
+				"dmg_min": 5,
+				"dmg_type": "fire"
+			}
+		],
+		"hands": 1,
+		"hit_bonus": 1,
+		"parry_bonus": 1,
+		"range": 1,
+		"type": 1
+	}
 }

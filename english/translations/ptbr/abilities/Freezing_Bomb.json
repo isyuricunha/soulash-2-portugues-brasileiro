@@ -6,7 +6,7 @@
 		"health": 0,
 		"stamina": 8
 	},
-	"description": "Throw a bomb at a location, dealing ::damage ::damage_type damage and freeze stack.",
+	"description": "Throw a bomb at a location, dealing ::damage ::damage_type damage and applies ::stacker_count Freeze stacks.",
 	"duration": 1.5,
 	"effects": {
 		"aoe_break": 1,
@@ -17,12 +17,15 @@
 			10
 		],
 		"damage_type": "frost",
-		"stacker": "124"
+		"stacker_count": 2
+	},
+	"effect_keys": {
+		"stacker": "core_2_freeze"
 	},
 	"id": "core_2_Freezing_Bomb",
 	"image": 771,
 	"name": "Freezing Bomb",
 	"range": 6,
 	"skill": "",
-	"target": "aoe_tile"
+	"target": "aoe_target"
 }

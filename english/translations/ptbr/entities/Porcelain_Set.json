@@ -1,0 +1,46 @@
+{
+	"components": [
+		"glyph",
+		"item",
+		"minimap_pixel",
+		"name",
+		"position_2d",
+		"tool",
+		"value",
+		"weight"
+	],
+	"description": "This set of delicate cups and saucers looks as if it might fall apart just from being looked at.",
+	"glyph": {
+		"frames": [
+			{
+				"color": [
+					255,
+					255,
+					255
+				],
+				"delay": 0,
+				"index": 3459
+			}
+		],
+		"random_frame_start": false
+	},
+	"id": "core_2_Porcelain_Set",
+	"item": {
+		"image": 1540,
+		"type": 13
+	},
+	"minimap_pixel": [
+		156,
+		160,
+		161
+	],
+	"name": "Porcelain Set",
+	"tool": [
+		{
+			"id": 3,
+			"quality": 10
+		}
+	],
+	"value": 2000,
+	"weight": 2.0
+}

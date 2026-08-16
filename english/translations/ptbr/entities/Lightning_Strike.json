@@ -1,0 +1,78 @@
+{
+	"components": [
+		"damage_applier",
+		"glyph",
+		"minimap_pixel",
+		"name",
+		"position_2d",
+		"temporary"
+	],
+	"damage_applier": {
+		"break_on_entry": false,
+		"dmg_animation": "63",
+		"dmg_max": 50,
+		"dmg_min": 40,
+		"dmg_type": "electricity",
+		"duration": 0.0,
+		"tick": 0.0
+	},
+	"description": "A lightning bolt has struck here, crackling with electricity.",
+	"glyph": {
+		"frames": [
+			{
+				"color": [
+					220,
+					230,
+					255
+				],
+				"delay": 100,
+				"index": 3450
+			},
+			{
+				"color": [
+					220,
+					230,
+					255
+				],
+				"delay": 100,
+				"index": 3451
+			},
+			{
+				"color": [
+					220,
+					230,
+					255
+				],
+				"delay": 100,
+				"index": 3452
+			},
+			{
+				"color": [
+					220,
+					230,
+					255
+				],
+				"delay": 100,
+				"index": 3453
+			},
+			{
+				"color": [
+					220,
+					230,
+					255
+				],
+				"delay": 100,
+				"index": 3454
+			}
+		],
+		"random_frame_start": false
+	},
+	"id": "core_2_Lightning_Strike",
+	"minimap_pixel": [
+		180,
+		200,
+		255
+	],
+	"name": "Lightning Strike",
+	"temporary": 1.0
+}

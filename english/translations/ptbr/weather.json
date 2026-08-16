@@ -20,12 +20,18 @@
             "high_mountain",
             "peak"
         ],
-        "trigger_message": "It's starting to rain!"
+        "trigger_message": "It's starting to rain!",
+        "change_entities_on_start": [
+            { "from": "core_2_Dried_Mud", "to": ["974"] },
+            { "from": "core_2_Dried_Short_Grass", "to": ["1"] },
+            { "from": "core_2_Dried_Flower", "to": ["222"] },
+            { "from": "42", "to": ["11"] }
+        ]
     },
     {
         "id": "2",
         "name": "Acid Rain",
-        "animation": "132",
+        "animation": "core_2_Acid_Rain",
         "animation_tick": 2000.0,
         "ability": [],
         "ability_trigger_time": 1.0,
@@ -36,7 +42,19 @@
         "biomes": [
             "swamps"
         ],
-        "trigger_message": "It's starting to rain!"
+        "trigger_message": "It's starting to rain!",
+        "change_entities_on_start": [
+            { "from": "410", "to": "677" },
+            { "from": "609", "to": "677" },
+            { "from": "11", "to": ["core_2_Burned_Tree"] },
+            { "from": "2544", "to": ["core_2_Burnde_Bush"] },
+            { "from": "816", "to": ["core_2_Burnde_Bush"] },
+            { "from": "228", "to": ["core_2_Dried_Mud"] },
+            { "from": "2505", "to": ["core_2_Burned_Flower"] },
+            { "from": "41", "to": ["core_2_Burned_Tree"] },
+            { "from": "868", "to": "918" },
+            { "from": "core_2_Cranberry_Bush", "to": ["core_2_Burnde_Bush"] }
+        ]
     },
     {
         "id": "3",
@@ -99,6 +117,178 @@
         "biomes": [
             "tropical_rainforest"
         ],
-        "trigger_message": "It's a cloudburst!"
+        "trigger_message": "It's a cloudburst!",
+        "change_entities_on_start": [
+            { "from": "core_2_Dried_Mud", "to": ["974"] },
+            { "from": "core_2_Dried_Short_Grass", "to": ["1"] },
+            { "from": "core_2_Dried_Flower", "to": ["222"] },
+            { "from": "42", "to": ["11"] }
+        ]
+    },
+    {
+        "id": "8",
+        "name": "Raging Storm",
+        "animation": "core_2_Storm_Weather",
+        "animation_tick": 2000.0,
+        "ability": [],
+        "ability_trigger_time": 1.0,
+        "disabled_under_roof": true,
+        "duration": 500.0,
+        "trigger_every": 500.0,
+        "trigger_chance": 0.0,
+        "biomes": [],
+        "trigger_message": "Lightnings strike, the storm is here!"
+    },
+    {
+        "id": "9",
+        "name": "Blood Moon",
+        "animation": "core_2_Blood_Moon",
+        "animation_tick": 2000.0,
+        "ability": ["core_2_Blood_Moon_Curse"],
+        "ability_trigger_time": 6.0,
+        "disabled_under_roof": false,
+        "duration": 300.0,
+        "trigger_every": 200.0,
+        "trigger_chance": 0.03,
+        "biomes": [],
+        "trigger_message": "[color=178,37,37,255]A blood moon rises! The undead grow stronger in its crimson light![/color]",
+        "force_night": true
+    },
+    {
+        "id": "10",
+        "name": "Blue Moon",
+        "animation": "core_2_Blue_Moon",
+        "animation_tick": 2000.0,
+        "ability": ["core_2_Blue_Moon_Charge"],
+        "ability_trigger_time": 6.0,
+        "disabled_under_roof": false,
+        "duration": 300.0,
+        "trigger_every": 200.0,
+        "trigger_chance": 0.03,
+        "biomes": [],
+        "trigger_message": "[color=74,172,212,255]A blue moon rises! Its electric energy empowers all combatants![/color]"
+    },
+    {
+        "id": "11",
+        "name": "Heatwave",
+        "animation": "core_2_Heatwave",
+        "animation_tick": 2000.0,
+        "ability": [],
+        "ability_trigger_time": 0.0,
+        "disabled_under_roof": false,
+        "duration": 300.0,
+        "trigger_every": 200.0,
+        "trigger_chance": 0.03,
+        "biomes": [
+            "savanna"
+        ],
+        "trigger_message": "[color=235,137,33,255]A scorching heatwave rolls in. Stay hydrated![/color]",
+        "thirst_multiplier": 4.0
+    },
+    {
+        "id": "12",
+        "name": "Drought",
+        "animation": "core_2_Drought",
+        "animation_tick": 2000.0,
+        "ability": [],
+        "ability_trigger_time": 0.0,
+        "disabled_under_roof": false,
+        "duration": 300.0,
+        "trigger_every": 200.0,
+        "trigger_chance": 0.03,
+        "biomes": [
+            "savanna"
+        ],
+        "trigger_message": "[color=210,153,60,255]A devastating drought grips the land. Rivers run dry![/color]",
+        "change_entities_on_start": [
+            { "from": "974", "to": ["core_2_Dried_Mud"] },
+            { "from": "2033", "to": ["core_2_Dried_Mud"] },
+            { "from": "411", "to": ["core_2_Dried_Mud"] },
+            { "from": "1", "to": ["core_2_Dried_Short_Grass"] },
+            { "from": "222", "to": ["core_2_Dried_Flower"] },
+            { "from": "270", "to": ["core_2_Dried_Flower"] },
+            { "from": "core_2_Acacia_Tree", "to": ["42"] },
+            { "from": "core_2_Candelabra_Tree", "to": ["42"] }
+        ]
+    },
+    {
+        "id": "13",
+        "name": "Duststorm",
+        "animation": "core_2_Dust_Storm_weather",
+        "animation_tick": 2000.0,
+        "ability": ["core_2_Duststorm_Blindness"],
+        "ability_trigger_time": 10.0,
+        "disabled_under_roof": true,
+        "duration": 300.0,
+        "trigger_every": 200.0,
+        "trigger_chance": 0.03,
+        "biomes": [
+            "savanna"
+        ],
+        "trigger_message": "[color=194,152,80,255]A blinding duststorm rolls in! Visibility is severely reduced![/color]"
+    },
+    {
+        "id": "14",
+        "name": "Fog",
+        "animation": "core_2_Fog_weather",
+        "animation_tick": 2000.0,
+        "ability": ["core_2_Fog_Haze"],
+        "ability_trigger_time": 10.0,
+        "disabled_under_roof": true,
+        "duration": 300.0,
+        "trigger_every": 200.0,
+        "trigger_chance": 0.03,
+        "biomes": [
+            "forest",
+            "boreal_forest",
+            "swamps"
+        ],
+        "trigger_message": "[color=180,190,200,255]A thick fog descends on the land. Visibility is reduced![/color]"
+    },
+    {
+        "id": "15",
+        "name": "Thunderstorm",
+        "animation": "core_2_Thunderstorm",
+        "animation_tick": 2000.0,
+        "ability": ["core_2_Thunderstorm_Strike"],
+        "ability_trigger_time": 3.0,
+        "disabled_under_roof": true,
+        "duration": 300.0,
+        "trigger_every": 100.0,
+        "trigger_chance": 0.03,
+        "biomes": [
+            "mountain",
+            "high_mountain",
+            "peak"
+        ],
+        "trigger_message": "[color=220,230,255,255]A thunderstorm rolls in! Lightning crackles across the sky![/color]"
+    },
+    {
+        "id": "16",
+        "name": "Flooding",
+        "animation": "core_2_Flooding",
+        "animation_tick": 2000.0,
+        "ability": [],
+        "ability_trigger_time": 1.0,
+        "disabled_under_roof": true,
+        "duration": 500.0,
+        "trigger_every": 500.0,
+        "trigger_chance": 0.25,
+        "biomes": [],
+        "trigger_message": "This region has been hit by flooding."
+    },
+    {
+        "id": "17",
+        "name": "Approaching Storm",
+        "animation": "core_2_Approaching_storm_2",
+        "animation_tick": 2000.0,
+        "ability": [],
+        "ability_trigger_time": 1.0,
+        "disabled_under_roof": true,
+        "duration": 500.0,
+        "trigger_every": 500.0,
+        "trigger_chance": 0.0,
+        "biomes": [],
+        "trigger_message": "The storm in coming!"
     }
 ]

@@ -46,7 +46,8 @@
 		"sight",
 		"stamina",
 		"statistics",
-		"tags"
+		"tags",
+		"weapon"
 	],
 	"corpse": "core_2_Leshy_Antlers",
 	"description": "Mythical forest spirit protecting the wild.",
@@ -122,5 +123,21 @@
 	"tags": [
 		"3",
 		"38"
-	]
+	],
+	"weapon": {
+		"attack_speed": 0.0,
+		"critical_hit": 1.0,
+		"damage": [
+			{
+				"dmg_max": 30,
+				"dmg_min": 20,
+				"dmg_type": "poison"
+			}
+		],
+		"hands": 1,
+		"hit_bonus": 2,
+		"parry_bonus": 1,
+		"range": 1,
+		"type": 1
+	}
 }

@@ -1,0 +1,82 @@
+{
+    "id": "core_2_gamble",
+    "name": "The Gamble",
+    "category": "settlement",
+    "flavor": "Goblin gambler is looking for a way to make quick money and is willing to share if you can help.",
+    "icon": 23,
+    "small_icon": 23,
+    "rarity": "uncommon",
+    "restrict_races": [
+        "4"
+    ],
+    "trigger": {
+        "base_probability": 0.004,
+        "conditions": [
+            {
+                "type": "settlement_population_min",
+                "value": 30
+            },
+            {
+                "type": "settlement_tier_min",
+                "value": 1
+            },
+            {
+                "type": "min_unemployed",
+                "value": 1
+            }
+        ]
+    },
+    "duration": {
+        "type": "temporary",
+        "days": [
+            30,
+            45
+        ]
+    },
+    "effects": [
+        {
+            "type": "spawn_group",
+            "amount": [
+                1,
+                1
+            ],
+            "group_type": "settlement",
+            "entity": "core_2_Goblin_Gambler",
+            "border_color": [
+                 170,
+                128,
+                192
+            ]
+        }
+    ],
+    "extra_dialogues": ["core_2_gamble"],
+    "interactions": [
+        {
+            "type": "conversation",
+            "id": "core_2_deliver_dice",
+            "translation_id": 0,
+            "required_ingredients": [
+                {
+                    "id": "core_2_Bone_Dice",
+                    "amount": 1
+                }
+            ],
+            "entities": [
+                "core_2_Goblin_Gambler"
+            ],
+            "label": "Deliver requested item.",
+            "reward": {
+                "gold": 100,
+                "reputation": 15,
+                "remove_event": true
+            },
+            "history_event": "::name has delivered required goods to the Goblin gambler!",
+            "announcement": "You have delivered required goods to the the Goblin gambler of ::settlement!"
+        }
+    ],
+    "history_events": {
+        "begin": "A goblin is looking for a way to make a quick buck in ::settlement.",
+        "success": "Goblin gambler can now scam freely.",
+        "failure": "Goblin gambler have to find another way of making money."
+    }
+}

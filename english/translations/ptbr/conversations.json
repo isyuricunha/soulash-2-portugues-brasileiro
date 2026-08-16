@@ -462,7 +462,6 @@
                 "core_2_marry_1",
                 "core_2_marry_2",
                 "core_2_company_order_1",
-                "core_2_company_order_1",
                 "core_2_favorite_people_1",
                 "core_2_exit_1"
             ],
@@ -18998,6 +18997,40 @@
             "type": "ask_favorite_people"
         },
         {
+            "answer_positive": "More people are dying everyday. This plague will kill our city.",
+            "answer_negative": "I don't trust your kind.",
+            "entities": [
+                "core_2_Goblin_Scholar",
+                "core_2_Human_Scholar",
+                "core_2_Troll_Scholar",
+                "core_2_Orc_Scholar",
+                "core_2_Rasimi_Scholar",
+                "core_2_Gnoll_Scholar"
+            ],
+            "id": "core_2_begin_plague_outbreak",
+            "options": [
+                "core_2_cure_plague",
+                "core_2_directions_1",
+                "core_2_exit_1"
+            ],
+            "text": "",
+            "type": "begin_conversation"
+        },
+        {
+            "answer_positive": "I don't really like people... Can I do something for you, so you will go?",
+            "answer_negative": "I don't trust your kind.",
+            "entities": [
+                "core_2_Hermit"
+            ],
+            "id": "core_2_begin_hermit_camp",
+            "options": [
+                "core_2_trade_11",
+                "core_2_exit_1"
+            ],
+            "text": "",
+            "type": "begin_conversation"
+        },
+        {
             "answer_negative": "I don't believe you can help.",
             "answer_positive": "Can you cure our people?",
             "id": "core_2_cure_plague",
@@ -19016,6 +19049,7 @@
             "id": "core_2_begin_rat_plague_collector",
             "options": [
                 "core_2_slay_rat_queen",
+                "core_2_directions_1",
                 "core_2_exit_1"
             ],
             "text": "",
@@ -19217,6 +19251,20 @@
             "type": "world_event"
         },
         {
+            "answer_negative": "I don't like you.",
+            "answer_positive": "We are preparing for an important ritual, and we're looking for a tailor and carpenter who could deliver us some items.",
+            "entities": [
+                "core_2_Mushman_Circle_Druid"
+            ],
+            "id": "core_2_mushman_circle_druid_event_greet",
+            "options": [
+                "core_2_deliver_druid_goods",
+                "core_2_exit_1"
+            ],
+            "text": "",
+            "type": "begin_conversation"
+        },
+        {
             "answer_negative": "The rot stirs!",
             "answer_positive": "The ritual has drawn a dark presence to the wilds. Seek it out.",
             "entities": [
@@ -19235,7 +19283,7 @@
             "answer_negative": "",
             "id": "core_2_herald_of_rot_reveal",
             "options": [
-                "core_2_back_1"
+                "core_2_exit_1"
             ],
             "text": "Where does this corruption stir?",
             "type": "world_event_interaction"
@@ -19245,31 +19293,1108 @@
             "answer_positive": "Have you destroyed the source of unholy rot?",
             "id": "core_2_mushman_druid_herald_event_reward",
             "options": [
-                "core_2_back_1"
+                "core_2_exit_1"
             ],
-            "text": "The Herald is dead. I claim the reward.",
+            "text": "The Herald is dead. I came for the reward.",
             "type": "world_event_interaction"
         },
         {
             "answer_negative": "",
             "answer_positive": "Those damn thieves... They steal everything that isn't nailed down! I don't know what to do anymore.",
             "id": "core_2_merchant_complaint",
+            "entities": [
+                "core_2_Human_Merchant"
+            ],
             "options": [
                 "core_2_hunt_thieves",
-                "core_2_back_1"
+                "core_2_directions_1",
+                "core_2_exit_1"
             ],
             "text": "Ask about any troubles.",
-            "type": "world_event"
+            "type": "begin_conversation"
         },
         {
             "answer_negative": "I don't think you'll do any good.",
-            "answer_positive": "Really? Find Thief Leader and bring me their head! That will send a message.",
+            "answer_positive": "Really? Find this Thief Leader and bring me his head! That will send a message.",
             "id": "core_2_hunt_thieves",
+            "options": [
+                "core_2_exit_1"
+            ],
+            "text": "I can help you with that thief problem.",
+            "type": "world_event"
+        },
+        {
+            "answer_negative": "",
+            "answer_positive": "Those damn thieves... They steal everything that isn't nailed down! I don't know what to do anymore.",
+            "id": "core_2_merchant_complaint_2",
+            "entities": [
+                "core_2_Goblin_Merchant"
+            ],
+            "options": [
+                "core_2_hunt_thieves_2",
+                "core_2_directions_1",
+                "core_2_exit_1"
+            ],
+            "text": "Ask about any troubles.",
+            "type": "begin_conversation"
+        },
+        {
+            "answer_negative": "",
+            "answer_positive": "See, we can fight now and I will kill you... Or we can do some good business together. What do you think?",
+            "id": "core_2_join_thieves_2",
+            "event": "core_2_thief_ring_operation",
+            "entities": [
+                "core_2_Thief_Leader",
+                "core_2_Goblin_Thief_Leader",
+                "core_2_Orc_Thief_Leader",
+                "core_2_Rasimi_Thief_Leader",
+                "core_2_Gnoll_Thief_Leader"
+            ],
+            "options": [
+                "core_2_join_thieves_1",
+                "core_2_trade_1",
+                "core_2_train_1",
+                "core_2_exit_1"
+            ],
+            "text": "",
+            "type": "begin_conversation"
+        },
+        {
+            "answer_negative": "",
+            "answer_positive": "Welcome then!",
+            "id": "core_2_join_thieves_1",
+            "options": [
+                "core_2_exit_1"
+            ],
+            "text": "That sounds like a good option for me.",
+            "type": "world_event"
+        },
+         {
+            "answer_negative": "I'm busy now!",
+            "answer_positive": "You see, there are wealthy people who don't want to share their wealth. That's not right. Could you help them be more generous? I'm talking about a specific villa.",
+            "entities": [
+                "core_2_Thief_Leader",
+                "core_2_Goblin_Thief_Leader",
+                "core_2_Orc_Thief_Leader",
+                "core_2_Rasimi_Thief_Leader",
+                "core_2_Gnoll_Thief_Leader"
+            ],
+            "id": "core_2_fancy_villa_event_greet",
+            "options": [
+                "core_2_fancy_villa_reveal",
+                "core_2_exit_1"
+            ],
+            "text": "",
+            "type": "begin_conversation"
+        },
+        {
+            "answer_negative": "You're no good thief hunter. Scrap.",
+            "answer_positive": "Ya think you can help? Eh, sure, you can try.",
+            "id": "core_2_hunt_thieves_2",
+            "options": [
+                "core_2_exit_1"
+            ],
+            "text": "I can help you with that thief problem.",
+            "type": "world_event"
+        },
+        {
+            "answer_negative": "",
+            "answer_positive": "Those damn thieves... They steal everything that isn't nailed down! I don't know what to do anymore.",
+            "id": "core_2_merchant_complaint_3",
+            "entities": [
+                "core_2_Rasimi_Merchant"
+            ],
+            "options": [
+                "core_2_hunt_thieves_3",
+                "core_2_directions_1",
+                "core_2_exit_1"
+            ],
+            "text": "Ask about any troubles.",
+            "type": "begin_conversation"
+        },
+        {
+            "answer_negative": "I'll find someone who knows what to do. And it's not you.",
+            "answer_positive": "Ha! You can certainly try. Their head on a stick will sure look good.",
+            "id": "core_2_hunt_thieves_3",
+            "options": [
+                "core_2_exit_1"
+            ],
+            "text": "I can help you with that thief problem.",
+            "type": "world_event"
+        },
+        {
+            "answer_negative": "",
+            "answer_positive": "Those damn thieves... They steal everything that isn't nailed down! I don't know what to do anymore.",
+            "id": "core_2_merchant_complaint_4",
+            "entities": [
+                "core_2_Gnoll_Merchant"
+            ],
+            "options": [
+                "core_2_hunt_thieves_4",
+                "core_2_directions_1",
+                "core_2_exit_1"
+            ],
+            "text": "Ask about any troubles.",
+            "type": "begin_conversation"
+        },
+        {
+            "answer_negative": "I don't think you're as good as you think you are.",
+            "answer_positive": "Wonderful! Act quickly and quietly. Bring me their head.",
+            "id": "core_2_hunt_thieves_4",
+            "options": [
+                "core_2_exit_1"
+            ],
+            "text": "I can help you with that thief problem.",
+            "type": "world_event"
+        },
+        {
+            "answer_negative": "",
+            "answer_positive": "Those damn thieves... They steal everything that isn't nailed down! I don't know what to do anymore.",
+            "id": "core_2_merchant_complaint_5",
+            "entities": [
+                "core_2_Orc_Merchant"
+            ],
+            "options": [
+                "core_2_hunt_thieves_5",
+                "core_2_directions_1",
+                "core_2_exit_1"
+            ],
+            "text": "Ask about any troubles.",
+            "type": "begin_conversation"
+        },
+        {
+            "answer_negative": "No. You no good. You die there.",
+            "answer_positive": "You do that. I will do da reward.",
+            "id": "core_2_hunt_thieves_5",
+            "options": [
+                "core_2_exit_1"
+            ],
+            "text": "I can help you with that thief problem.",
+            "type": "world_event"
+        },
+        {
+            "answer_positive": "Yesss. The monument pulsssesss with infernal energy. We mussst ssseal it before the rite reachesss completion.",
+            "answer_negative": "I do not ssspeak with those who cannot feel the infernal pull.",
+            "entities": [
+                "core_2_Reptilion_Grand_Seer"
+            ],
+            "id": "core_2_begin_reptilion_grand_seer",
+            "options": [
+                "core_2_infernal_monument_locate",
+                "core_2_infernal_monument_ritual",
+                "core_2_infernal_gateway_closed",
+                "core_2_exit_1"
+            ],
+            "text": "",
+            "type": "begin_conversation"
+        },
+        {
+            "answer_positive": "The monument sssstandsss at the edge of town. I have marked it for you.",
+            "answer_negative": "The monument isss gone... or not yet raisssed.",
+            "id": "core_2_infernal_monument_locate",
             "options": [
                 "core_2_back_1"
             ],
-            "text": "I can help you with that.",
+            "text": "Where is the Infernal Monument?",
             "type": "world_event"
+        },
+        {
+            "answer_positive": "Yesss, thessse componentsss will sssuffice. Brew the sssolution and I'll pour it on the monument'sss bassse. The infernal ssstone will crumble.",
+            "answer_negative": "You lack the componentsss. Bring a Sssmall Cauldron, Frog Toxin, and Honey.",
+            "id": "core_2_infernal_monument_ritual",
+            "options": [
+                "core_2_exit_1"
+            ],
+            "text": "Ask about sealing the monument.",
+            "type": "world_event"
+        },
+        {
+            "answer_positive": "Thingsss went from bad to worssse. Pleassse, sssave usss and dessstroy the gatewaysss.",
+            "answer_negative": "I need the demonic ichorsss left by the gatewaysss.",
+            "id": "core_2_infernal_gateway_closed",
+            "options": [
+                "core_2_exit_1"
+            ],
+            "text": "Ask about closing the gateways.",
+            "type": "world_event"
+        },
+        {
+            "answer_positive": "This storm is not natural. We must stop it before it destroys our city. We need protective totems made with runes.",
+            "answer_negative": "I have to think, don't disturb me!",
+            "entities": [
+                "core_2_Ursan_Storm_Whisperer"
+            ],
+            "id": "core_2_begin_ursan_storm",
+            "options": [
+                "core_2_totem_delivery",
+                "core_2_exit_1"
+            ],
+            "text": "",
+            "type": "begin_conversation"
+        },
+        {
+            "answer_positive": "This many should suffice. We shall put the totems around the city to protect it from the elements.",
+            "answer_negative": "You cannot help unless we have storm totems!",
+            "id": "core_2_totem_delivery",
+            "options": [
+                "core_2_back_1"
+            ],
+            "text": "Ask about stoping the storm.",
+            "type": "world_event"
+        },
+        {
+            "answer_positive": "Hello, my friend. You look like a seasoned adventurer. Any helpful tips?",
+            "answer_negative": "I have to think, don't disturb me.",
+            "entities": [
+                "core_2_Bone_Wraith_Adventurer"
+            ],
+            "id": "core_2_begin_adventurer_1",
+            "options": [
+                "core_2_ask_adventures_1",
+                "core_2_hire_1",
+                "core_2_exit_1"
+            ],
+            "text": "",
+            "type": "begin_conversation"
+        },
+        {
+            "answer_negative": "Not much to say yet.",
+            "answer_positive": "Oh, I fought terrible beasts and gain a lot of treasure! I got a belt, and some rags, and a log and...",
+            "id": "core_2_ask_adventures_1",
+            "options": [
+                "core_2_exit_1"
+            ],
+            "text": "Ask about adventures.",
+            "type": "list_battles"
+        },
+        {
+            "answer_positive": "Hey there, you look like a mighty adventurer!",
+            "answer_negative": "Don't bother me!",
+            "entities": [
+                "core_2_Dwarf_Adventurer"
+            ],
+            "id": "core_2_begin_adventurer_2",
+            "options": [
+                "core_2_ask_adventures_2",
+                "core_2_hire_1",
+                "core_2_exit_1"
+            ],
+            "text": "",
+            "type": "begin_conversation"
+        },
+        {
+            "answer_negative": "Not much to say yet.",
+            "answer_positive": "I'm just starting my journey, but you will hear about me for sure!",
+            "id": "core_2_ask_adventures_2",
+            "options": [
+                "core_2_exit_1"
+            ],
+            "text": "Ask about adventures.",
+            "type": "list_battles"
+        },
+        {
+            "answer_positive": "Well met, traveler. The road has been kind to you, I hope.",
+            "answer_negative": "Not now, my friend.",
+            "entities": [
+                "core_2_Elf_Adventurer"
+            ],
+            "id": "core_2_begin_adventurer_3",
+            "options": [
+                "core_2_ask_adventures_3",
+                "core_2_hire_1",
+                "core_2_exit_1"
+            ],
+            "text": "",
+            "type": "begin_conversation"
+        },
+        {
+            "answer_negative": "Not much to say yet.",
+            "answer_positive": "I've seen kingdoms rise and fall. Most of them weren't on any map.",
+            "id": "core_2_ask_adventures_3",
+            "options": [
+                "core_2_exit_1"
+            ],
+            "text": "Ask about adventures.",
+            "type": "list_battles"
+        },
+        {
+            "answer_positive": "The wilds are restless today.",
+            "answer_negative": "Not now, my friend.",
+            "entities": [
+                "core_2_Gnoll_Adventurer"
+            ],
+            "id": "core_2_begin_adventurer_4",
+            "options": [
+                "core_2_ask_adventures_4",
+                "core_2_hire_1",
+                "core_2_exit_1"
+            ],
+            "text": "",
+            "type": "begin_conversation"
+        },
+        {
+            "answer_negative": "Not much to say yet.",
+            "answer_positive": "I've hunted beasts larger than houses. They weren't fond of visitors.",
+            "id": "core_2_ask_adventures_4",
+            "options": [
+                "core_2_exit_1"
+            ],
+            "text": "Ask about adventures.",
+            "type": "list_battles"
+        },
+        {
+            "answer_positive": "Safe travels, friend. Though around here, nothing stays safe for long.",
+            "answer_negative": "Not now, my friend.",
+            "entities": [
+                "core_2_Goblin_Adventurer"
+            ],
+            "id": "core_2_begin_adventurer_5",
+            "options": [
+                "core_2_ask_adventures_5",
+                "core_2_train_136",
+                "core_2_hire_1",
+                "core_2_exit_1"
+            ],
+            "text": "",
+            "type": "begin_conversation"
+        },
+        {
+            "answer_negative": "Not much to say yet.",
+            "answer_positive": "I've been chased by monsters. Sometimes I even deserved it.",
+            "id": "core_2_ask_adventures_5",
+            "options": [
+                "core_2_exit_1"
+            ],
+            "text": "Ask about adventures.",
+            "type": "list_battles"
+        },
+        {
+            "answer_positive": "Welcome, traveler. May your map be accurate and your luck even better.",
+            "answer_negative": "Not now, my friend.",
+            "entities": [
+                "core_2_Human_Adventurer"
+            ],
+            "id": "core_2_begin_adventurer_6",
+            "options": [
+                "core_2_ask_adventures_6",
+                "core_2_train_1",
+                "core_2_hire_1",
+                "core_2_exit_1"
+            ],
+            "text": "",
+            "type": "begin_conversation"
+        },
+        {
+            "answer_negative": "Not much to say yet.",
+            "answer_positive": "The road has taken me to strange places. Some I'd gladly visit again.",
+            "id": "core_2_ask_adventures_6",
+            "options": [
+                "core_2_exit_1"
+            ],
+            "text": "Ask about adventures.",
+            "type": "list_battles"
+        },
+        {
+            "answer_positive": "You look capable. Adventure brought you here too?",
+            "answer_negative": "Not now, my friend.",
+            "entities": [
+                "core_2_Mushman_Adventurer"
+            ],
+            "id": "core_2_begin_adventurer_7",
+            "options": [
+                "core_2_ask_adventures_7",
+                "core_2_hire_1",
+                "core_2_train_69",
+                "core_2_exit_1"
+            ],
+            "text": "",
+            "type": "begin_conversation"
+        },
+        {
+            "answer_negative": "Not much to say yet.",
+            "answer_positive": "The world is bigger than most people think. We've only seen a fraction of it.",
+            "id": "core_2_ask_adventures_7",
+            "options": [
+                "core_2_exit_1"
+            ],
+            "text": "Ask about adventures.",
+            "type": "list_battles"
+        },
+        {
+            "answer_positive": "Looking for treasure or trouble?",
+            "answer_negative": "Not now, my friend.",
+            "entities": [
+                "core_2_Orc_Adventurer"
+            ],
+            "id": "core_2_begin_adventurer_8",
+            "options": [
+                "core_2_ask_adventures_8",
+                "core_2_hire_1",
+                "core_2_train_154",
+                "core_2_exit_1"
+            ],
+            "text": "",
+            "type": "begin_conversation"
+        },
+        {
+            "answer_negative": "Not much to say yet.",
+            "answer_positive": "Ya learn a lot out there. Usually right before something bad happens.",
+            "id": "core_2_ask_adventures_8",
+            "options": [
+                "core_2_exit_1"
+            ],
+            "text": "Ask about adventures.",
+            "type": "list_battles"
+        },
+        {
+            "answer_positive": "Another soul chasing horizons. I can respect that.",
+            "answer_negative": "Not now, my friend.",
+            "entities": [
+                "core_2_Rasimi_Adventurer"
+            ],
+            "id": "core_2_begin_adventurer_9",
+            "options": [
+                "core_2_ask_adventures_9",
+                "core_2_hire_1",
+                "core_2_train_34",
+                "core_2_exit_1"
+            ],
+            "text": "",
+            "type": "begin_conversation"
+        },
+        {
+            "answer_negative": "Not much to say yet.",
+            "answer_positive": "I've found some ancient secrets. Let me tell you - they were ancient for good reasons.",
+            "id": "core_2_ask_adventures_9",
+            "options": [
+                "core_2_exit_1"
+            ],
+            "text": "Ask about adventures.",
+            "type": "list_battles"
+        },
+        {
+            "answer_positive": "I've crosssed mountainsss to get here. What'sss your ssstory?",
+            "answer_negative": "Not now, my friend.",
+            "entities": [
+                "core_2_Reptilion_Adventurer"
+            ],
+            "id": "core_2_begin_adventurer_10",
+            "options": [
+                "core_2_ask_adventures_10",
+                "core_2_hire_1",
+                "core_2_train_40",
+                "core_2_exit_1"
+            ],
+            "text": "",
+            "type": "begin_conversation"
+        },
+        {
+            "answer_negative": "Not much to sssay yet.",
+            "answer_positive": "I've ssseen wondersss beyond imagining. I've alssso ssslept in a lot of ditchesss.",
+            "id": "core_2_ask_adventures_10",
+            "options": [
+                "core_2_exit_1"
+            ],
+            "text": "Ask about adventures.",
+            "type": "list_battles"
+        },
+        {
+            "answer_positive": "Ugh, traveler. I travel too. I kill things.",
+            "answer_negative": "*grumbles*",
+            "entities": [
+                "core_2_Troll_Adventurer"
+            ],
+            "id": "core_2_begin_adventurer_11",
+            "options": [
+                "core_2_ask_adventures_11",
+                "core_2_hire_1",
+                "core_2_train_180",
+                "core_2_exit_1"
+            ],
+            "text": "",
+            "type": "begin_conversation"
+        },
+        {
+            "answer_negative": "*grumbles*",
+            "answer_positive": "*thinks for a moment* I kill things. I kill them good!",
+            "id": "core_2_ask_adventures_11",
+            "options": [
+                "core_2_back_1"
+            ],
+            "text": "Ask about adventures.",
+            "type": "list_battles"
+        },
+        {
+            "answer_positive": "Fortune guide your steps. Where are you headed?",
+            "answer_negative": "Not now, friend.",
+            "entities": [
+                "core_2_Ursan_Adventurer"
+            ],
+            "id": "core_2_begin_adventurer_12",
+            "options": [
+                "core_2_ask_adventures_12",
+                "core_2_hire_1",
+                "core_2_train_87",
+                "core_2_exit_1"
+            ],
+            "text": "",
+            "type": "begin_conversation"
+        },
+        {
+            "answer_negative": "Not much to say yet.",
+            "answer_positive": "Adventure is mostly walking. The exciting parts try to kill you.",
+            "id": "core_2_ask_adventures_12",
+            "options": [
+                "core_2_back_1"
+            ],
+            "text": "Ask about adventures.",
+            "type": "list_battles"
+        },
+        {
+            "answer_positive": "The road never ends, does it?",
+            "answer_negative": "Not now, friend.",
+            "entities": [
+                "core_2_Vampire_Adventurer"
+            ],
+            "id": "core_2_begin_adventurer_13",
+            "options": [
+                "core_2_ask_adventures_13",
+                "core_2_train_234",
+                "core_2_hire_1",
+                "core_2_exit_1"
+            ],
+            "text": "",
+            "type": "begin_conversation"
+        },
+        {
+            "answer_negative": "Not much to say yet.",
+            "answer_positive": "Most adventures start with curiosity. The rest is bad decision-making.",
+            "id": "core_2_ask_adventures_13",
+            "options": [
+                "core_2_back_1"
+            ],
+            "text": "Ask about adventures.",
+            "type": "list_battles"
+        },
+        {
+            "answer_positive": "Our dear leader is having a birthday! You can join the celebration, if you bring your own booze.",
+            "answer_negative": "Shhh! My head hurts.",
+            "entities": [ 
+                "core_2_Human_Merrymaker"
+            ],
+            "id": "core_2_surprise_party_event",
+            "options": [
+                "core_2_deliver_gift",
+                "core_2_exit_1"
+            ],
+            "text": "",
+            "type": "begin_conversation"
+        },
+        {
+            "answer_positive": "That should do it!",
+            "answer_negative": "Not everybody wants to celebrate, I see.",
+            "id": "core_2_deliver_gift",
+            "options": [
+                "core_2_back_gift",
+                "core_2_back_1"
+            ],
+            "text": "I have the booze.",
+            "type": "world_event_interaction"
+        },
+        {
+            "id": "core_2_back_gift",
+            "text": "(back to main discussion)",
+            "type": "back_to_main"
+        },
+         {
+            "answer_negative": "You don't have my key?",
+            "answer_positive": "Did you find my key?",
+            "id": "core_2_deliver_lost_key",
+            "options": [
+                "core_2_back_1"
+            ],
+            "text": "Deliver lost key.",
+            "type": "world_event"
+        },
+        {
+            "answer_negative": "Don't waste my time.",
+            "answer_positive": "Oh, I've run into a big problem. I've locked myself out of my coffin and can't find the key! Will you help me?",
+            "entities": [
+                "core_2_Vampire_Scribe"
+            ],
+            "id": "core_2_lost_key_event",
+            "options": [
+                "core_2_deliver_lost_key",
+                "core_2_exit_1"
+            ],
+            "text": "",
+            "type": "begin_conversation"
+        },
+        {
+            "answer_negative": "We need more wood.",
+            "answer_positive": "Did you find enough wood?",
+            "id": "core_2_deliver_firewood",
+            "options": [
+                "core_2_back_1"
+            ],
+            "text": "Deliver firewood.",
+            "type": "world_event"
+        },
+        {
+            "answer_negative": "Don't waste my time.",
+            "answer_positive": "Winter nights are freezing. Will you help us gather enough wood to heat our homes?",
+            "entities": [
+                "core_2_Ursan_Scribe"
+            ],
+            "id": "core_2_cold_winter_event",
+            "options": [
+                "core_2_deliver_firewood",
+                "core_2_exit_1"
+            ],
+            "text": "",
+            "type": "begin_conversation"
+        },
+        {
+            "answer_negative": "We need to protect little heads.",
+            "answer_positive": "Do ya have the thing?",
+            "id": "core_2_deliver_helmet",
+            "options": [
+                "core_2_back_1"
+            ],
+            "text": "Deliver helmets.",
+            "type": "world_event"
+        },
+        {
+            "answer_negative": "Don't waste my time.",
+            "answer_positive": "Troll kids dumb, coz' troll kids bang their head all the time. If they had helmets, future trolls smart.",
+            "entities": [
+                "core_2_Troll_Scribe"
+            ],
+            "id": "core_2_about_children_event",
+            "options": [
+                "core_2_deliver_helmet",
+                "core_2_exit_1"
+            ],
+            "text": "",
+            "type": "begin_conversation"
+        },
+        {
+            "answer_negative": "I feel my inssspiration ssslipping away without materialsss.",
+            "answer_positive": "Do you have sssome ssstone?",
+            "id": "core_2_deliver_stone",
+            "options": [
+                "core_2_back_1"
+            ],
+            "text": "Deliver stone.",
+            "type": "world_event"
+        },
+        {
+            "answer_negative": "Don't wassste my time.",
+            "answer_positive": "I feel inssspired to create sssomething completely new, but I lack the right material in thisss area. Could you sssupply me with sssome ssstone?",
+            "entities": [
+                "core_2_Reptilion_Artist"
+            ],
+            "id": "core_2_new_art_event",
+            "options": [
+                "core_2_deliver_stone",
+                "core_2_exit_1"
+            ],
+            "text": "",
+            "type": "begin_conversation"
+        },
+        {
+            "answer_negative": "I can't make any more progress without new arrows.",
+            "answer_positive": "Do you have any bone arrows?",
+            "id": "core_2_deliver_arrows",
+            "options": [
+                "core_2_back_1"
+            ],
+            "text": "Deliver arrows.",
+            "type": "world_event"
+        },
+        {
+            "answer_negative": "Don't waste my time.",
+            "answer_positive": "I want to be the best archer that ever lived. But I need to practice with something new. Can you help me get some bone arrows?",
+            "entities": [
+                "core_2_Rasimi_Archer"
+            ],
+            "id": "core_2_practice_round_event",
+            "options": [
+                "core_2_deliver_arrows",
+                "core_2_exit_1"
+            ],
+            "text": "",
+            "type": "begin_conversation"
+        },
+        {
+            "answer_negative": "We don't know how long our community can last without our rituals.",
+            "answer_positive": "Do you have a druid rod?",
+            "id": "core_2_deliver_rod",
+            "options": [
+                "core_2_back_1"
+            ],
+            "text": "Deliver lost rod.",
+            "type": "world_event"
+        },
+        {
+            "answer_negative": "Don't waste our time.",
+            "answer_positive": "Our druid lost their rod and can't perform rituals. Can you help us replace it?",
+            "entities": [
+                "core_2_Mushman_Scribe"
+            ],
+            "id": "core_2_lost_rod_event",
+            "options": [
+                "core_2_deliver_rod",
+                "core_2_exit_1"
+            ],
+            "text": "",
+            "type": "begin_conversation"
+        },
+        {
+            "answer_negative": "The longer we wait, the more money we lose.",
+            "answer_positive": "Do you have the goods?",
+            "id": "core_2_deliver_dice",
+            "options": [
+                "core_2_back_1"
+            ],
+            "text": "Deliver dice.",
+            "type": "world_event"
+        },
+        {
+            "answer_negative": "Don't waste my time.",
+            "answer_positive": "Listen here, it's rather easy. I know I can make a lot of gold if I can put my hands on some dice. I'll hook you up with a cut if you help me out.",
+            "entities": [
+                "core_2_Goblin_Gambler"
+            ],
+            "id": "core_2_gamble_event",
+            "options": [
+                "core_2_deliver_dice",
+                "core_2_exit_1"
+            ],
+            "text": "",
+            "type": "begin_conversation"
+        },
+        {
+            "answer_negative": "Oh, I can't wait to feel the cold.",
+            "answer_positive": "Do you have that extraordinary ice?",
+            "id": "core_2_deliver_ice",
+            "options": [
+                "core_2_back_1"
+            ],
+            "text": "Deliver ice.",
+            "type": "world_event"
+        },
+        {
+            "answer_negative": "Don't waste my time.",
+            "answer_positive": "I want to experience something exotic! I've heard there's a place where water turns into sand. I want to try that.",
+            "entities": [
+                "core_2_Gnoll_Scribe"
+            ],
+            "id": "core_2_snow_event",
+            "options": [
+                "core_2_deliver_ice",
+                "core_2_exit_1"
+            ],
+            "text": "",
+            "type": "begin_conversation"
+        },
+        {
+            "answer_negative": "My hands hurts.",
+            "answer_positive": "Do you have anything for me?",
+            "id": "core_2_deliver_wraps",
+            "options": [
+                "core_2_back_1"
+            ],
+            "text": "Deliver knuckle wraps.",
+            "type": "world_event"
+        },
+        {
+            "answer_negative": "Don't waste my time.",
+            "answer_positive": "I want to smash like an orc! But my hands hurt so much... Can you help me with that?",
+            "entities": [
+                "core_2_Orc_Fighter"
+            ],
+            "id": "core_2_binding_fists_event",
+            "options": [
+                "core_2_deliver_wraps",
+                "core_2_exit_1"
+            ],
+            "text": "",
+            "type": "begin_conversation"
+        },
+        {
+            "answer_negative": "I just NEED something new to wear.",
+            "answer_positive": "Did you find it? Show me, show me!",
+            "id": "core_2_deliver_linen",
+            "options": [
+                "core_2_back_1"
+            ],
+            "text": "Deliver linen.",
+            "type": "world_event"
+        },
+        {
+            "answer_negative": "Don't waste my time.",
+            "answer_positive": "Silks and velvets are sooo last year. I have to wear something new. Something more exotic. Have you heard about linen?",
+            "entities": [
+                "core_2_Elf_Fashionista"
+            ],
+            "id": "core_2_something_new_event",
+            "options": [
+                "core_2_deliver_linen",
+                "core_2_exit_1"
+            ],
+            "text": "",
+            "type": "begin_conversation"
+        },
+         {
+            "answer_negative": "Weather is shifting.",
+            "answer_positive": "I can't wait to see flowers blooming.",
+            "id": "core_2_deliver_hoe",
+            "options": [
+                "core_2_back_1"
+            ],
+            "text": "Deliver wooden hoe.",
+            "type": "world_event"
+        },
+        {
+            "answer_negative": "Don't waste my time.",
+            "answer_positive": "I was thinking... Maybe humans are not that stupid? Maybe a few plants can make it look nicer in here?",
+            "entities": [
+                "core_2_Dwarf_Gardener"
+            ],
+            "id": "core_2_green_fingers_event",
+            "options": [
+                "core_2_deliver_hoe",
+                "core_2_exit_1"
+            ],
+            "text": "",
+            "type": "begin_conversation"
+        },
+        {
+            "answer_negative": "I'm going to freeze there...",
+            "answer_positive": "I need some warm clothing.",
+            "id": "core_2_deliver_mittens",
+            "options": [
+                "core_2_back_1"
+            ],
+            "text": "Deliver fur mittens.",
+            "type": "world_event"
+        },
+        {
+            "answer_negative": "Don't waste my time.",
+            "answer_positive": "I have a long journey to make. I'm going to tundra and I heard that it can be freezing cold there. I need some help to survive such a climate.",
+            "entities": [
+                "core_2_Bone_Wraith_Scribe"
+            ],
+            "id": "core_2_long_journey_event",
+            "options": [
+                "core_2_deliver_mittens",
+                "core_2_exit_1"
+            ],
+            "text": "",
+            "type": "begin_conversation"
+        },
+        {
+            "answer_negative": "I just don't want to talk to anybody. Is that to much to ask?",
+            "answer_positive": "Did you find a way?",
+            "id": "core_2_deliver_bombs",
+            "options": [
+                "core_2_back_1"
+            ],
+            "text": "Deliver smoke bombs.",
+            "type": "world_event"
+        },
+        {
+            "answer_negative": "Don't waste my time.",
+            "answer_positive": "I'm shy. I just don't like to talk to people. I need a way to disappear when someone approaches me.",
+            "entities": [
+                "core_2_Human_Scribe"
+            ],
+            "id": "core_2_escape_route_event",
+            "options": [
+                "core_2_deliver_bombs",
+                "core_2_exit_1"
+            ],
+            "text": "",
+            "type": "begin_conversation"
+        },
+        {
+            "answer_negative": "Not now, we're looking for a wooly rabbit!",
+            "answer_positive": "Oh, we don't meet many strangers in these parts. Can we halp you with something?",
+            "entities": [
+                "core_2_Wandering_Druid"
+            ],
+            "id": "core_2_begin_wandering_druid",
+            "options": [
+                "core_2_trade_11",
+                "core_2_exit_1"
+            ],
+            "text": "",
+            "type": "begin_conversation"
+        },
+        {
+            "answer_negative": "We have work to do.",
+            "answer_positive": "There is something magical in cutting down a large mushroom tree.",
+            "entities": [
+                "core_2_Mushman_Forester"
+            ],
+            "id": "core_2_begin_mush_bloom",
+            "options": [
+                "core_2_train_67",
+                "core_2_exit_1"
+            ],
+            "text": "",
+            "type": "begin_conversation"
+        },
+        {
+            "answer_negative": "Scrap.",
+            "answer_positive": "Better keep your yapper shut.",
+            "entities": [
+                "core_2_Goblin_Thief_Bandit"
+            ],
+            "id": "core_2_thief_op_event_1",
+            "options": [
+                "core_2_exit_1"
+            ],
+            "text": "",
+            "type": "begin_conversation"
+        },
+        {
+            "answer_negative": "Get lost.",
+            "answer_positive": "Better keep your yapper shut.",
+            "entities": [
+                "core_2_Gnoll_Thief_Bandit"
+            ],
+            "id": "core_2_thief_op_event_2",
+            "options": [
+                "core_2_exit_1"
+            ],
+            "text": "",
+            "type": "begin_conversation"
+        },
+        {
+            "answer_negative": "I better not see you snooping.",
+            "answer_positive": "Snitches get smacked.",
+            "entities": [
+                "core_2_Orc_Thief_Bandit"
+            ],
+            "id": "core_2_thief_op_event_3",
+            "options": [
+                "core_2_exit_1"
+            ],
+            "text": "",
+            "type": "begin_conversation"
+        },
+         {
+            "answer_negative": "Get lost.",
+            "answer_positive": "I didn't see you, you didn't see me.",
+            "entities": [
+                "core_2_Rasimi_Thief_Bandit"
+            ],
+            "id": "core_2_thief_op_event_4",
+            "options": [
+                "core_2_exit_1"
+            ],
+            "text": "",
+            "type": "begin_conversation"
+        },
+        {
+            "answer_negative": "I'm busy now!",
+            "answer_positive": "You see, there are wealthy people who don't want to share their wealth. That's not right. Could you help them be more generous? I'm talking about a specific villa.",
+            "entities": [
+                "core_2_Thief_Leader",
+                "core_2_Goblin_Thief_Leader",
+                "core_2_Orc_Thief_Leader",
+                "core_2_Rasimi_Thief_Leader",
+                "core_2_Gnoll_Thief_Leader"
+            ],
+            "id": "core_2_fancy_villa_event_greet",
+            "event": "core_2_fancy_villa",
+            "options": [
+                "core_2_fancy_villa_reveal",
+                "core_2_fancy_villa_event_reward",
+                "core_2_exit_1"
+            ],
+            "text": "",
+            "type": "begin_conversation"
+        },
+        {
+            "answer_positive": "I have marked the villa on your map.",
+            "answer_negative": "",
+            "id": "core_2_fancy_villa_reveal",
+            "options": [
+                "core_2_exit_1"
+            ],
+            "text": "Where can I find this house?",
+            "type": "world_event_interaction"
+        },
+        {
+            "answer_negative": "I see you need more time.",
+            "answer_positive": "Do you have it? Show it to me!",
+            "id": "core_2_fancy_villa_event_reward",
+            "options": [
+                "core_2_exit_1"
+            ],
+            "text": "I've got your stuff and a few other interesting finds.",
+            "type": "world_event_interaction"
+        },
+        {
+            "answer_negative": "I'm busy now!",
+            "answer_positive": "I lost an amulet that was an important keepsake from my dear friend. A mage in a certain tower has it now. Will you help me get it back?",
+            "entities": [
+                "core_2_Thief_Leader",
+                "core_2_Goblin_Thief_Leader",
+                "core_2_Orc_Thief_Leader",
+                "core_2_Rasimi_Thief_Leader",
+                "core_2_Gnoll_Thief_Leader"
+            ],
+            "id": "core_2_wizard_tower_event_greet",
+            "event": "core_2_wizard_tower",
+            "options": [
+                "core_2_wizard_tower_reveal",
+                "core_2_wizard_tower_event_reward",
+                "core_2_exit_1"
+            ],
+            "text": "",
+            "type": "begin_conversation"
+        },
+        {
+            "answer_positive": "I have marked the Wizard's Tower on your map.",
+            "answer_negative": "",
+            "id": "core_2_wizard_tower_reveal",
+            "options": [
+                "core_2_exit_1"
+            ],
+            "text": "Where can I find this tower?",
+            "type": "world_event_interaction"
+        },
+        {
+            "answer_negative": "I see you need more time.",
+            "answer_positive": "Do you have my stuff?",
+            "id": "core_2_wizard_tower_event_reward",
+            "options": [
+                "core_2_exit_1"
+            ],
+            "text": "I've got your bling.",
+            "type": "world_event_interaction"
+        },
+        {
+            "answer_negative": "Get out of my house!",
+            "answer_positive": "Don't touch my staff and we're good.",
+            "entities": [
+                "core_2_Rigar_the_Wizard"
+            ],
+            "id": "core_2_begin_564",
+            "npc_sex": 0,
+            "options": [
+                "core_2_train_177",
+                "core_2_exit_1"
+            ],
+            "player_race": [],
+            "player_sex": 0,
+            "text": "",
+            "time": [],
+            "type": "begin_conversation"
         }
     ],
     "family_conversations": [

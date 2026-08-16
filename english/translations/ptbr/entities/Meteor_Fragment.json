@@ -1,0 +1,103 @@
+{
+	"armor": {
+		"acid": 50,
+		"death": 50,
+		"electricity": 50,
+		"fire": 100,
+		"frost": 30,
+		"holy": 50,
+		"parry": 0,
+		"physical": 100,
+		"poison": 100,
+		"thorns": 0
+	},
+	"components": [
+		"armor",
+		"block_light",
+		"collidable",
+		"glyph",
+		"health",
+		"height",
+		"item",
+		"minimap_pixel",
+		"name",
+		"position_2d",
+		"producer"
+	],
+	"corpse": [],
+	"description": "A piece of stone fallen from the sky.",
+	"glyph": {
+		"frames": [
+			{
+				"color": [
+					255,
+					255,
+					255
+				],
+				"delay": 0,
+				"index": 3419
+			}
+		],
+		"random_frame_start": false
+	},
+	"health": 200,
+	"height": 15,
+	"id": "core_2_Meteor_Fragment",
+	"item": {
+		"image": 1551,
+		"type": 16
+	},
+	"minimap_pixel": [
+		140,
+		114,
+		98
+	],
+	"name": "Meteor Fragment",
+	"producer": {
+		"products": {
+			"5": [
+				{
+					"amount": [
+						2,
+						4
+					],
+					"id": "1093",
+					"percent_chance": 10
+				},
+				{
+					"amount": [
+						2,
+						4
+					],
+					"id": "160",
+					"percent_chance": 20
+				},
+				{
+					"amount": [
+						2,
+						4
+					],
+					"id": "2112",
+					"percent_chance": 20
+				},
+				{
+					"amount": [
+						2,
+						4
+					],
+					"id": "2111",
+					"percent_chance": 20
+				},
+				{
+					"amount": [
+						2,
+						4
+					],
+					"id": "148",
+					"percent_chance": 30
+				}
+			]
+		},
+		"time": 30
+	}
+}

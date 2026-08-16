@@ -29,6 +29,20 @@
 				}
 			],
 			"takes": "craftable"
+		},
+		{
+			"entities": [
+				{
+					"daily": 1,
+					"id": "2090"
+				}
+			],
+			"takes": [
+				{
+					"amount": 4,
+					"id": "833"
+				}
+			]
 		}
 	],
 	"race": "26",

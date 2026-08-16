@@ -73,6 +73,9 @@
 				}
 			]
 		},
+		"follow_up": {
+			"10": "core_2_Cotton_Soil"
+		},
 		"time": 60
 	}
 }

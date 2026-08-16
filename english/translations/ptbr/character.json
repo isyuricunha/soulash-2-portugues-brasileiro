@@ -434,6 +434,22 @@
 			"time_statistic_multiplier": 0.1,
 			"time_statistic_scale": 2,
 			"time_weight_scale": 1
+		},
+		{
+			"animation": "",
+			"askey": -1,
+			"description": "Look around in the container to find something interesting.",
+			"force_single_item": false,
+			"id": "core_2_rummage",
+			"image": 99,
+			"name": "Rummage",
+			"required_tool": -1,
+			"require_unlock": true,
+			"restrict_default": true,
+			"sound": "data/mods/core_2/assets/sfx/loot_chest.ogg",
+			"time_statistic_multiplier": 0.1,
+			"time_statistic_scale": 2,
+			"time_weight_scale": 1
 		}
 	],
 	"control_actions": [
@@ -472,7 +488,8 @@
 				"child": "2000",
 				"leader": "2203",
 				"recruit": "691",
-				"rebel": "core_2_Human_Rebel"
+				"rebel": "core_2_Human_Rebel",
+				"adventurer": "core_2_Human_Adventurer"
 			},
 			"description": "Versatile and adaptable creatures with a wide range of abilities and skills. Humans are short-lived compared to other races, which fuels their drive for progress and achievement. They are known for their ingenuity, ambition, and resilience and are often skilled in various professions and trades.\n\nThe fear of death and the desire to leave a lasting legacy drives many humans to achieve greatness but can also lead to recklessness and greed.\n\nHumans live around [color=244,247,118,255]::elder_age[/color] years.\n[color=244,247,118,255]All Statistics +1[/color]",
 			"forbidden_actions": [
@@ -544,7 +561,8 @@
 				"child": "2244",
 				"leader": "2417",
 				"recruit": "2294",
-				"rebel": "core_2_Dwarf_Rebel"
+				"rebel": "core_2_Dwarf_Rebel",
+				"adventurer": "core_2_Dwarf_Adventurer"
 			},
 			"crimes": {
 				"forbidden": 50,
@@ -636,7 +654,8 @@
 				"child": "2243",
 				"leader": "2418",
 				"recruit": "2295",
-				"rebel": "core_2_Elf_Rebel"
+				"rebel": "core_2_Elf_Rebel",
+				"adventurer": "core_2_Elf_Adventurer"
 			},
 			"crimes": {
 				"forbidden": -1
@@ -727,7 +746,8 @@
 				"child": "core_2_Goblin_Child",
 				"leader": "core_2_Goblin_Boss",
 				"recruit": "core_2_Goblin_Recruit",
-				"rebel": "core_2_Goblin_Rebel"
+				"rebel": "core_2_Goblin_Rebel",
+				"adventurer": "core_2_Goblin_Adventurer"
 			},
 			"crimes": {
 				"assault": 5,
@@ -816,7 +836,8 @@
 				"adult": "core_2_Vampire_Adult",
 				"child": "core_2_Vampire_Adult",
 				"leader": "core_2_Vampire_Lord",
-				"recruit": "core_2_Vampire_Recruit"
+				"recruit": "core_2_Vampire_Recruit",
+				"adventurer": "core_2_Vampire_Adventurer"
 			},
 			"crimes": {
 				"assault": 100,
@@ -900,7 +921,8 @@
 				"child": "core_2_Troll_Child",
 				"leader": "core_2_Troll_Warbringer",
 				"recruit": "core_2_Troll_Recruit",
-				"rebel": "core_2_Troll_Rebel"
+				"rebel": "core_2_Troll_Rebel",
+				"adventurer": "core_2_Troll_Adventurer"
 			},
 			"crimes": {
 				"assault": 500,
@@ -996,7 +1018,8 @@
 				"child": "core_2_Orc_Child",
 				"leader": "core_2_Orc_Warchief",
 				"recruit": "core_2_Orc_Recruit",
-				"rebel": "core_2_Orc_Rebel"
+				"rebel": "core_2_Orc_Rebel",
+				"adventurer": "core_2_Orc_Adventurer"
 			},
 			"crimes": {
 				"assault": 5,
@@ -1089,7 +1112,8 @@
 				"child": "2412",
 				"leader": "2420",
 				"recruit": "2414",
-				"rebel": "core_2_Rasimi_Rebel"
+				"rebel": "core_2_Rasimi_Rebel",
+				"adventurer": "core_2_Rasimi_Adventurer"
 			},
 			"forbidden_actions": [
 				"core_2_woodbend"
@@ -1405,7 +1429,8 @@
 				"child": "core_2_Reptilion_Child",
 				"leader": "core_2_Reptilion_Leader",
 				"recruit": "core_2_Reptilion_Recruit",
-				"rebel": "core_2_Reptilion_Rebel"
+				"rebel": "core_2_Reptilion_Rebel",
+				"adventurer": "core_2_Reptilion_Adventurer"
 			},
 			"crimes": {
 				"assault": 100,
@@ -1504,7 +1529,8 @@
 				"child": "2413",
 				"leader": "2419",
 				"recruit": "2416",
-				"rebel": "core_2_Bone_Wraith_Rebel"
+				"rebel": "core_2_Bone_Wraith_Rebel",
+				"adventurer": "core_2_Bone_Wraith_Adventurer"
 			},
 			"description": "A mysterious and enigmatic race that lives in the harsh desert. They are known for their bonecraft, a unique form of construction that involves using bones to create structures and enhance their bodies.\n\nThe Bone Wraiths are nomadic, constantly searching for new bones of powerful beings to add to their collection. They are skilled hunters and trackers, able to navigate the desert easily.\n\nTheir society is structured around power, with the most potent and capable members being the most influential. They are known for being ruthless and cunning and are often feared by other beings.\n\nThe Bone Wraiths keep to themselves and reveal little about their culture or beliefs to outsiders.\n\nBone Wraiths live around [color=244,247,118,255]::elder_age[/color] years.\n[color=244,247,118,255]Strength +2, Intelligence +2[/color]",
 			"id": "26",
@@ -1670,7 +1696,8 @@
 				"child": "core_2_Gnoll_Child",
 				"leader": "core_2_Gnoll_Pack_Leader",
 				"recruit": "core_2_Gnoll_Recruit",
-				"rebel": "core_2_Gnoll_Rebel"
+				"rebel": "core_2_Gnoll_Rebel",
+				"adventurer": "core_2_Gnoll_Adventurer"
 			},
 			"crimes": {
 				"assault": 5,
@@ -1745,7 +1772,8 @@
 				"child": "core_2_Mushman_Child",
 				"leader": "core_2_Mushman_Circle_King",
 				"recruit": "core_2_Mushman_Recruit",
-				"rebel": "core_2_Mushman_Rebel"
+				"rebel": "core_2_Mushman_Rebel",
+				"adventurer": "core_2_Mushman_Adventurer"
 			},
 			"orphan_surname": "Sporeling",
 			"description": "Mushmen keep order in the forest. They spread spores and create mushrooms everywhere. They are a rare race that lives underground, away from the sun. Large mycelium networks allow them to stay in touch with colonies in different forests.\n\nMushmen live around [color=244,247,118,255]::elder_age[/color] years.\n[color=244,247,118,255]Strength +2, Intelligence +2[/color]\n[color=244,247,118,255]Infravision[/color] - full sight range in darkness, half in daylight.",
@@ -1826,9 +1854,10 @@
 				"child": "core_2_Ursan_Child",
 				"leader": "core_2_Ursan_Warchief",
 				"recruit": "core_2_Ursan_Recruit",
-				"rebel": "core_2_Ursan_Rebel"
+				"rebel": "core_2_Ursan_Rebel",
+				"adventurer": "core_2_Ursan_Adventurer"
 			},
-			"orphan_surname": "Of Chasm",
+			"orphan_surname": "of Chasm",
 			"description": "Ursans are an ancient race. They value physical strength and loyalty above all. They take great pride in being able to endure anything that a harsh envioroment can throw at them. Living in desolate tundras forced them to be resourceful.\n\nUrsans live around [color=244,247,118,255]::elder_age[/color] years.\n[color=244,247,118,255]Strength +1, Endurance +1, Willpower +2[/color]",
 			"forbidden_actions": [
 				"6",
@@ -2159,6 +2188,13 @@
 		{
 			"id": "40",
 			"name": "fungus"
+		},
+		{
+			"id": "41",
+			"name": "outlaw",
+			"options": [
+				"crime_exempt"
+			]
 		}
 	],
 	"custom_eq_slots": [

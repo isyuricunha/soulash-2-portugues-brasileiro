@@ -1085,6 +1085,7 @@
     {
         "id": "core_2_electric_speed",
         "name": "Electric Speed",
+        "description": "Each stack gives you bonus -0.05 attack speed. Max 10 stacks.",
         "image": 90,
         "effects": [
             {
@@ -1119,6 +1120,7 @@
     {
         "id": "core_2_charged_precision",
         "name": "Charged Precision",
+        "description": "Each stack gives you 1% chance for critical hit.",
         "image": 99,
         "effects": [
             {
@@ -1535,6 +1537,29 @@
                 "effect": "ability_extend_duration",
                 "value": "core_2_Aura_Of_Petals",
                 "secondary_value": 0.5
+            }
+        ]
+    },
+    {
+        "id": "core_2_knock_it_down",
+        "name": "Knock It Down",
+        "image": 162,
+        "effects": [
+            {
+                "effect": "bonus_knockback_damage_percent",
+                "value": 0.2
+            }
+        ]
+    },
+    {
+        "id": "core_2_feed_on_electricity",
+        "name": "Feed On Electricity",
+        "image": 163,
+        "effects": [
+            {
+                "effect": "heal_on_damage_type",
+                "value": "electricity",
+                "secondary_value": 0.2
             }
         ]
     }

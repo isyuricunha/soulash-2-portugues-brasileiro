@@ -71,7 +71,7 @@
 		],
 		"random_frame_start": false
 	},
-	"health": 90,
+	"health": 410,
 	"id": "2634",
 	"minimap_pixel": [
 		203,
@@ -99,16 +99,16 @@
 			33
 		],
 		"endurance": [
-			13,
-			16
+			23,
+			26
 		],
 		"intelligence": [
-			20,
-			24
+			30,
+			44
 		],
 		"strength": [
-			12,
-			15
+			22,
+			35
 		],
 		"willpower": [
 			17,

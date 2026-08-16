@@ -1,0 +1,105 @@
+{
+	"artificial_intelligence": {
+		"allies": [],
+		"allow_production": [],
+		"behaviors": [
+			0,
+			24
+		],
+		"enemies": [
+			"5"
+		]
+	},
+	"components": [
+		"actor",
+		"artificial_intelligence",
+		"collidable",
+		"equipment",
+		"fighter",
+		"glyph",
+		"health",
+		"minimap_pixel",
+		"moveable",
+		"name",
+		"position_2d",
+		"sight",
+		"stamina",
+		"statistics",
+		"tags"
+	],
+	"corpse": "core_2_Treasure_Goblin_Corpse",
+	"description": "A cackling goblin clutching an impossibly large sack of treasure. It looks terrified and very, very fast.",
+	"equipment": {
+		"disabled_slots": [
+			0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18
+		]
+	},
+	"experience_gainer": {
+		"exp": 50,
+		"level": 1
+	},
+	"fighter": {
+		"attackNames": null
+	},
+	"glyph": {
+		"frames": [
+			{
+				"color": [
+					100,
+					220,
+					80
+				],
+				"delay": 0,
+				"index": 128
+			}
+		],
+		"random_frame_start": false
+	},
+	"health": 200,
+	"id": "core_2_Treasure_Goblin",
+	"minimap_pixel": [
+		100,
+		220,
+		80
+	],
+	"moveable": {
+		"speed": 0.2
+	},
+	"name": "Treasure Goblin",
+	"sight": {
+		"ignore_infra_penalty": false,
+		"infravision": false,
+		"range": 6,
+		"threesixty": false
+	},
+	"stamina": {
+		"fatigue": 100,
+		"stamina": 100,
+		"stamina_regen": 0.0
+	},
+	"statistics": {
+		"dexterity": [
+			28,
+			35
+		],
+		"endurance": [
+			10,
+			14
+		],
+		"intelligence": [
+			5,
+			8
+		],
+		"strength": [
+			6,
+			9
+		],
+		"willpower": [
+			10,
+			14
+		]
+	},
+	"tags": [
+		"9"
+	]
+}

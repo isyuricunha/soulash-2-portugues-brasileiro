@@ -1,0 +1,20 @@
+{
+	"animation": "",
+	"cast_time": 0.0,
+	"cooldown": 0.0,
+	"cost": {
+		"health": 0,
+		"stamina": 0
+	},
+	"description": "The crimson light of the blood moon empowers the undead, granting them ::damage_bonus_percent% bonus damage to all attacks.",
+	"duration": 10.0,
+	"effects": {
+		"damage_bonus_percent": 0.5
+	},
+	"id": "core_2_Blood_Moon_Curse",
+	"image": 830,
+	"name": "Blood Moon Curse",
+	"range": 0,
+	"skill": "",
+	"target": "health"
+}

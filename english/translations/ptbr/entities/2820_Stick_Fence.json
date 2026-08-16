@@ -35,6 +35,8 @@
 	],
 	"corpse": "62",
 	"craftable": {
+		"backgrounds": [],
+		"biomes": [],
 		"magic_slots": 0,
 		"resource_types": [
 			{
@@ -42,7 +44,6 @@
 				"id": 3
 			}
 		],
-		"resources": null,
 		"time": 5,
 		"tools": []
 	},
@@ -62,7 +63,7 @@
 		"random_frame_start": true
 	},
 	"health": 50,
-	"height": 5,
+	"height": 0,
 	"id": "2820",
 	"minimap_pixel": [
 		61,
@@ -78,7 +79,7 @@
 						0,
 						0
 					],
-					"id": "-1",
+					"id": "",
 					"percent_chance": 0
 				}
 			]
