@@ -1,1 +1,6 @@
 *.py
+.env
+.env.example
+amostra_5k_linhas.txt
+glossario_mistral.md
+translation_cache.json
