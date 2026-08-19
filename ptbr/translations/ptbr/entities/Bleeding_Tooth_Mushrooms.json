@@ -7,7 +7,7 @@
     "producer",
     "stackable"
   ],
-  "description": "Este cogumelo parece estar exsudando gotas de sangue.",
+  "description": "Este cogumelo parece estar gotejando gotas de sangue.",
   "glyph": {
     "frames": [
       {
@@ -28,7 +28,7 @@
     90,
     34
   ],
-  "name": "Cogumelos Dente Sangrento",
+  "name": "Cogumelos Dente Sangrante",
   "producer": {
     "products": {
       "10": [

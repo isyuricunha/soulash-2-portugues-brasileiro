@@ -33,7 +33,7 @@
       15
     ]
   },
-  "description": "Parece muito com a vida.",
+  "description": "Parece muito realista.",
   "glyph": {
     "frames": [
       {
@@ -58,12 +58,13 @@
     109,
     155
   ],
-  "name": "Figurino de Língua de Ghoul",
+  "name": "Estatueta de Língua de Carniçal",
   "resource": {
-    "affix": "of the Undead",
+    "affix": "dos Mortos-Vivos",
     "magic_ingredient": 2,
     "quality": 2,
-    "type": 7
+    "type": 7,
+    "feminine_affix": "morto-viva"
   },
   "value": 1800,
   "weapon": {
@@ -82,5 +83,6 @@
     "range": 0,
     "type": 9
   },
-  "weight": 0.10000000149011612
+  "weight": 0.10000000149011612,
+  "feminine_form": true
 }

@@ -103,7 +103,7 @@
   },
   "name": "Engenheiro Gnoll",
   "persona": {
-    "occupation": "Engenheiro"
+    "occupation": "Engineer"
   },
   "sight": {
     "ignore_infra_penalty": false,

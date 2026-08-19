@@ -51,7 +51,7 @@
     105,
     174
   ],
-  "name": "Muda de Amora",
+  "name": "Muda de Arbusto de Framboesa",
   "random_resource": {
     "delay_spawn": true,
     "entity": [
@@ -69,5 +69,6 @@
     "spawn_chance": 100.0,
     "spawn_multiply": 0.0,
     "spawn_rolls": 1
-  }
+  },
+  "feminine_form": true
 }

@@ -48,7 +48,7 @@
       6
     ]
   },
-  "description": "Uma porta de aço com design simples, mas muito resistente.",
+  "description": "Uma porta de aço de design simples, mas muito resistente.",
   "glyph": {
     "frames": [
       {
@@ -75,7 +75,7 @@
   "openable": {
     "block_light": false,
     "collidable": false,
-    "description": "Você vê diante de si portas de aço com design simplista, mas muito resistentes, atualmente abertas.",
+    "description": "Você vê à sua frente portas de aço de design simples, mas muito resistentes, atualmente abertas.",
     "glyph": {
       "frames": [
         {
@@ -91,5 +91,6 @@
       "random_frame_start": false
     },
     "height": 0
-  }
+  },
+  "feminine_form": true
 }

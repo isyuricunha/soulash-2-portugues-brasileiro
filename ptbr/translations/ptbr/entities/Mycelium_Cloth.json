@@ -23,7 +23,7 @@
     "value",
     "weight"
   ],
-  "description": "Tecido extremamente delicado tecido de fios de micélio.",
+  "description": "Tecido extremamente delicado tramado com fios de micélio.",
   "glyph": {
     "frames": [
       {
@@ -50,10 +50,11 @@
   ],
   "name": "Tecido de Micélio",
   "resource": {
-    "affix": "Mycelium Cloth",
+    "affix": "Tecido de Micélio",
     "magic_ingredient": 0,
     "quality": 2,
-    "type": 4
+    "type": 4,
+    "feminine_affix": "Micelial"
   },
   "value": 2000,
   "weight": 0.10000000149011612

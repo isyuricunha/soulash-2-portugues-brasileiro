@@ -44,7 +44,7 @@
       {
         "chance": 1.0,
         "id": "2178",
-        "name": "Espaldeira de Pele",
+        "name": "Ombreira de Pele",
         "stack": 1
       }
     ],
@@ -60,7 +60,7 @@
       {
         "chance": 1.0,
         "id": "2309",
-        "name": "Caneleiras de Couro",
+        "name": "Grevas de Couro",
         "stack": 1
       }
     ],
@@ -111,9 +111,9 @@
   "moveable": {
     "speed": 0.6000000238418579
   },
-  "name": "Ursan Chefe de Guerra",
+  "name": "Chefe de Guerra Ursan",
   "persona": {
-    "occupation": "Chefe de Guerra"
+    "occupation": "Warchief"
   },
   "sight": {
     "ignore_infra_penalty": false,

@@ -42,7 +42,7 @@
     "weapon"
   ],
   "corpse": "core_2_Ectoplasm",
-  "description": "Um espírito muito zangado.",
+  "description": "Um espírito muito furioso.",
   "dialogues": [],
   "experience_gainer": {
     "exp": 0,
@@ -50,9 +50,9 @@
   },
   "fighter": {
     "attackNames": [
-      "Spectral Claw",
-      "Death Chill",
-      "Tomb Grip"
+      "Garra Espectral",
+      "Frio da Morte",
+      "Aperto do Túmulo"
     ]
   },
   "glyph": {
@@ -79,7 +79,7 @@
   "moveable": {
     "speed": 0.8999999761581421
   },
-  "name": "Espectro",
+  "name": "Ghast",
   "sight": {
     "ignore_infra_penalty": true,
     "infravision": true,

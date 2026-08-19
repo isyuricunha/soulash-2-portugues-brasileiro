@@ -30,7 +30,7 @@
     "time": 20,
     "tools": []
   },
-  "description": "Explodindo no impacto, prejudicando todos por perto. Luzes bonitas, no entanto.",
+  "description": "Explode no impacto, ferindo todos ao redor. Luzes bonitas, porém.",
   "glyph": {
     "frames": [
       {
@@ -61,5 +61,6 @@
     "recipe": ""
   },
   "value": 500,
-  "weight": 0.20000000298023224
+  "weight": 0.20000000298023224,
+  "feminine_form": true
 }

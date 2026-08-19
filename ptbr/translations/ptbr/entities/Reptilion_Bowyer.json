@@ -37,7 +37,7 @@
       {
         "chance": 1.0,
         "id": "234",
-        "name": "Dardo",
+        "name": "Virote",
         "stack": 5
       }
     ],
@@ -53,7 +53,7 @@
       {
         "chance": 1.0,
         "id": "23",
-        "name": "Farrapos",
+        "name": "Farrap",
         "stack": 1
       }
     ]
@@ -94,7 +94,7 @@
   },
   "name": "Arqueiro Reptilion",
   "persona": {
-    "occupation": "Arqueiro"
+    "occupation": "Bowyer"
   },
   "sight": {
     "ignore_infra_penalty": false,

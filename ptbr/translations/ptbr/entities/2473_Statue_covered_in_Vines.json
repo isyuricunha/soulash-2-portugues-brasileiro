@@ -38,7 +38,7 @@
     "time": 120,
     "tools": []
   },
-  "description": "Estátua feita de pedra preservando a imagem de uma pessoa há muito desaparecida.",
+  "description": "Estátua de pedra preservando a imagem de alguém que se foi há muito tempo.",
   "glyph": {
     "frames": [
       {
@@ -79,7 +79,7 @@
     80,
     80
   ],
-  "name": "Estátua coberta por Trepadeiras",
+  "name": "Estátua Coberta de Vinhas",
   "producer": {
     "products": {
       "core_2_deconstruct": [
@@ -94,5 +94,6 @@
       ]
     },
     "time": 30
-  }
+  },
+  "feminine_form": true
 }

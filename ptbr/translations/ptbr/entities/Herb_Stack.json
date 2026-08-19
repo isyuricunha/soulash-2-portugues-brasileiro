@@ -8,7 +8,7 @@
     "position_2d"
   ],
   "corpse": "62",
-  "description": "Um grande monte de ervas fragrantes feito para matar o cheiro onipresente do pântano.",
+  "description": "Uma grande pilha de ervas fragrantes feita para matar o cheiro onipresente do pântano.",
   "glyph": {
     "frames": [
       {
@@ -40,5 +40,6 @@
     68,
     24
   ],
-  "name": "Pilha de Ervas"
+  "name": "Pilha de Ervas",
+  "feminine_form": true
 }

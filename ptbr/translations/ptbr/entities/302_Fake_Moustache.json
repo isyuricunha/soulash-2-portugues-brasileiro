@@ -33,7 +33,7 @@
     "time": 10,
     "tools": []
   },
-  "description": "Um disfarce fantástico! Você só precisa colocar este pelo de cavalo acima dos lábios e ninguém vai te reconhecer.",
+  "description": "Um disfarce fantástico! Basta colar estes pelos de cavalo acima dos lábios e ninguém vai te reconhecer.",
   "glyph": {
     "frames": [
       {
@@ -58,7 +58,7 @@
     100,
     100
   ],
-  "name": "Bigode Falso",
+  "name": "Bigode Postiço",
   "value": 400,
   "weight": 0.10000000149011612
 }

@@ -48,7 +48,7 @@
     "time": 5,
     "tools": []
   },
-  "description": "Não deseja poder simplesmente deitar aqui por um tempo?",
+  "description": "Não gostaria de poder ficar aqui deitado por um tempinho?",
   "glyph": {
     "frames": [
       {
@@ -107,5 +107,6 @@
     "spawn_chance": 2.0,
     "spawn_multiply": 20.0,
     "spawn_rolls": 1
-  }
+  },
+  "feminine_form": true
 }

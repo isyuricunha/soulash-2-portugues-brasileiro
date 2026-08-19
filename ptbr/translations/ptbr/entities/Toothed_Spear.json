@@ -29,7 +29,7 @@
       14
     ]
   },
-  "description": "Uma lança com dentes de metal afiados em sua lâmina.",
+  "description": "Uma lança com dentes metálicos afiados em sua lâmina.",
   "glyph": {
     "frames": [
       {
@@ -72,5 +72,6 @@
     "range": 1,
     "type": 4
   },
-  "weight": 2.5
+  "weight": 2.5,
+  "feminine_form": true
 }

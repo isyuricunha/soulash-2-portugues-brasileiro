@@ -37,7 +37,7 @@
       12
     ]
   },
-  "description": "Tecido leve, macio e durável tecido a partir de algodão.",
+  "description": "Tecido leve, macio e durável, feito de algodão.",
   "glyph": {
     "frames": [
       {
@@ -64,10 +64,11 @@
   ],
   "name": "Tecido de Algodão",
   "resource": {
-    "affix": "Cotton",
+    "affix": "Algodão",
     "magic_ingredient": 0,
     "quality": 0,
-    "type": 4
+    "type": 4,
+    "feminine_affix": "algodonada"
   },
   "value": 1000,
   "weight": 0.10000000149011612

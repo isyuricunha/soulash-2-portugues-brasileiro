@@ -7,7 +7,7 @@
     "position_2d"
   ],
   "corpse": [],
-  "description": "Uma vassoura caprichosa paira sem esforço acima do chão, guiada por energias místicas.",
+  "description": "Uma vassoura caprichosa flutua sem esforço acima do solo, guiada por energias místicas.",
   "glyph": {
     "frames": [
       {
@@ -92,5 +92,6 @@
     108,
     64
   ],
-  "name": "Vassoura Mágica"
+  "name": "Vassoura Mágica",
+  "feminine_form": true
 }

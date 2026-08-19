@@ -6,7 +6,7 @@
     "health": 0,
     "stamina": 5
   },
-  "description": "Balance sua arma causando ::damage ::damage_type de dano a todos ao seu redor com uma força capaz de empurrá-los 1 célula para trás.",
+  "description": "Balanca sua arma causando ::damage de dano ::damage_type a todos ao seu redor com força suficiente para empurrá-los para trás 1 tile.",
   "duration": 0.0,
   "effects": {
     "aoe_range": 2,

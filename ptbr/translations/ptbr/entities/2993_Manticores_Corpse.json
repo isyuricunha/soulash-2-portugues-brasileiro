@@ -9,7 +9,7 @@
     "producer",
     "weight"
   ],
-  "description": "Um corpo sem vida de um mantícora.",
+  "description": "Um corpo sem vida de uma manticora.",
   "glyph": {
     "frames": [
       {
@@ -64,5 +64,6 @@
     },
     "time": 10
   },
-  "weight": 280.0
+  "weight": 280.0,
+  "feminine_form": true
 }

@@ -33,7 +33,7 @@
       15
     ]
   },
-  "description": "Runa Anã criada para imbuir seu usuário com força.",
+  "description": "Runa anã criada para dotar seu usuário de força.",
   "glyph": {
     "frames": [
       {
@@ -60,10 +60,11 @@
   ],
   "name": "Runa de Força",
   "resource": {
-    "affix": "of the Force",
+    "affix": "da Força",
     "magic_ingredient": 3,
     "quality": 3,
-    "type": 7
+    "type": 7,
+    "feminine_affix": "forte"
   },
   "statistics": {
     "dexterity": [
@@ -88,5 +89,6 @@
     ]
   },
   "value": 3500,
-  "weight": 0.10000000149011612
+  "weight": 0.10000000149011612,
+  "feminine_form": true
 }

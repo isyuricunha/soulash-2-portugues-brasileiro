@@ -43,7 +43,7 @@
       1
     ]
   },
-  "description": "Runa Anã criada para imbuir seu usuário com robustez.",
+  "description": "Runa anã forjada para imbuir seu usuário com resistência.",
   "glyph": {
     "frames": [
       {
@@ -68,13 +68,15 @@
     109,
     155
   ],
-  "name": "Runa de Robustez",
+  "name": "Runa de Resistência",
   "resource": {
-    "affix": "of the Toughness",
+    "affix": "da Resistência",
     "magic_ingredient": 2,
     "quality": 2,
-    "type": 7
+    "type": 7,
+    "feminine_affix": "resistente"
   },
   "value": 1200,
-  "weight": 0.10000000149011612
+  "weight": 0.10000000149011612,
+  "feminine_form": true
 }

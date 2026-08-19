@@ -37,7 +37,7 @@
       1
     ]
   },
-  "description": "Um capacete com proteção especial para seu rosto adorável.",
+  "description": "Um elmo com proteção especial para o seu lindo rosto.",
   "glyph": {
     "frames": [
       {
@@ -62,7 +62,7 @@
     160,
     161
   ],
-  "name": "Capacete Bassinet",
+  "name": "Elmo Bassinet",
   "value": 900,
   "weight": 2.0
 }

@@ -25,7 +25,7 @@
     "time": 60,
     "tools": []
   },
-  "description": "Alguns dos segredos mais seguros de proteção estão escondidos nessas páginas.",
+  "description": "Alguns dos segredos mais seguros da proteção estão escondidos nestas páginas.",
   "glyph": {
     "frames": [
       {
@@ -50,7 +50,7 @@
     178,
     176
   ],
-  "name": "Livro de Proteção",
+  "name": "Livro da Proteção",
   "usable": {
     "ability": "",
     "recipe": "",

@@ -6,7 +6,7 @@
     "health": 0,
     "stamina": 7
   },
-  "description": "Lança um machado em um alvo especificado causando ::damage ::damage_type de dano, então o invoca de volta.",
+  "description": "Arremessa um machado no alvo especificado causando ::damage de dano ::damage_type, então o invoca de volta.",
   "duration": 0.0,
   "effects": {
     "damage": [

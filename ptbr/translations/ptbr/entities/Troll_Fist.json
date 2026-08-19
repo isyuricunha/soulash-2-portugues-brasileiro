@@ -93,9 +93,9 @@
   "moveable": {
     "speed": 1.100000023841858
   },
-  "name": "Troll Punho",
+  "name": "Punho Troll",
   "persona": {
-    "occupation": "Punho"
+    "occupation": "Fist"
   },
   "sight": {
     "ignore_infra_penalty": false,

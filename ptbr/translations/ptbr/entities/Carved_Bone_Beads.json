@@ -64,13 +64,15 @@
     109,
     155
   ],
-  "name": "Contas de Osso Entalhado",
+  "name": "Contas de Osso Entalhadas",
   "resource": {
-    "affix": "of the Bead",
+    "affix": "da Conta",
     "magic_ingredient": 1,
     "quality": 1,
-    "type": 7
+    "type": 7,
+    "feminine_affix": "contada"
   },
   "value": 200,
-  "weight": 0.10000000149011612
+  "weight": 0.10000000149011612,
+  "feminine_form": true
 }

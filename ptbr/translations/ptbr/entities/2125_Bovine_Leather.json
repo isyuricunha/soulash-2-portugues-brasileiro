@@ -23,7 +23,7 @@
     "value",
     "weight"
   ],
-  "description": "Couro feito de pele de vaca.",
+  "description": "Couro feito de pele de boi.",
   "extra_weight": 0.20000000298023224,
   "glyph": {
     "frames": [
@@ -51,10 +51,11 @@
   ],
   "name": "Couro Bovino",
   "resource": {
-    "affix": "Sluggish",
+    "affix": "Lento",
     "magic_ingredient": 0,
     "quality": 1,
-    "type": 2
+    "type": 2,
+    "feminine_affix": "Lenta"
   },
   "value": 350,
   "weight": 0.10000000149011612

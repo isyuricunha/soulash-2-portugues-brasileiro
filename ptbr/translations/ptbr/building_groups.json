@@ -13,7 +13,7 @@
   },
   {
     "id": "food",
-    "name": "Comida",
+    "name": "Alimentos",
     "priority": 2,
     "icon": 1,
     "color": [
@@ -61,7 +61,7 @@
   },
   {
     "id": "military",
-    "name": "Militar",
+    "name": "Militares",
     "priority": 6,
     "icon": 5,
     "color": [

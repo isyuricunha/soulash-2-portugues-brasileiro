@@ -24,7 +24,7 @@
       6
     ]
   },
-  "description": "Uma escadaria descendente esculpida em blocos de calcário.",
+  "description": "Uma escada descendente esculpida em blocos de calcário.",
   "glyph": {
     "frames": [
       {
@@ -49,7 +49,7 @@
     124,
     137
   ],
-  "name": "Escadaria de Calcário Descendente",
+  "name": "Escadas Descendentes de Calcário",
   "producer": {
     "products": {
       "core_2_deconstruct": [
@@ -64,5 +64,6 @@
       ]
     },
     "time": 20
-  }
+  },
+  "feminine_form": true
 }

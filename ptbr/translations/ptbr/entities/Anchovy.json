@@ -10,7 +10,7 @@
     "value",
     "weight"
   ],
-  "description": "Um pequeno peixe oceânico. Você precisa de mais de um para comer até se fartar.",
+  "description": "Um pequeno peixe oceânico. Você precisa de mais de um para se fartar.",
   "glyph": {
     "frames": [
       {
@@ -52,5 +52,6 @@
     "time": 0
   },
   "value": 200,
-  "weight": 3.0
+  "weight": 3.0,
+  "feminine_form": true
 }

@@ -6,7 +6,7 @@
     "health": 0,
     "stamina": 5
   },
-  "description": "Causa ::damage de ::damage_type de dano ao alvo e a todos adjacentes ao alvo.",
+  "description": "Causa ::damage de dano ::damage_type ao alvo e a todos adjacentes a ele.",
   "duration": 0.0,
   "effects": {
     "aoe_range": 2,

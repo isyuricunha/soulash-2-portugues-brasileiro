@@ -28,7 +28,7 @@
       12
     ]
   },
-  "description": "Uma cama portátil usada por viajantes. Não oferece muito conforto, mas é melhor que deitar em uma pedra nua. É usada sem a necessidade de colocá-la no chão.",
+  "description": "Uma cama portátil usada por viajantes. Não oferece muito conforto, mas é melhor do que deitar na pedra nua. É usada sem precisar colocá-la no chão.",
   "glyph": {
     "frames": [
       {
@@ -53,7 +53,7 @@
     67,
     28
   ],
-  "name": "Rolo de Dormir",
+  "name": "Saco de Dormir",
   "resting_place": 135,
   "value": 1000,
   "weight": 3.0

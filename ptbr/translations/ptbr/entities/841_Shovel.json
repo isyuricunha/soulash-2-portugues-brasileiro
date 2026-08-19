@@ -29,7 +29,7 @@
       1
     ]
   },
-  "description": "Uma ferramenta usada para cavar terra, areia e muitas outras superfícies. Também pode ser usada para enfiar algo na garganta de alguém.",
+  "description": "Uma ferramenta usada para cavar terra, areia e muitas outras superfícies. Também pode ser usada para enfiar algo goela abaixo de alguém.",
   "glyph": {
     "frames": [
       {
@@ -77,5 +77,6 @@
     "range": 1,
     "type": 2
   },
-  "weight": 2.0
+  "weight": 2.0,
+  "feminine_form": true
 }

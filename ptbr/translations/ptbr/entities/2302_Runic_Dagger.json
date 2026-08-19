@@ -32,7 +32,7 @@
       1
     ]
   },
-  "description": "Esta lâmina foi feita a partir dos ossos de bestas poderosas, habilmente trabalhada e afiada até a borda de uma navalha. O cabo da adaga é adornado com runas e símbolos intricados, que se diz conceder ao portador habilidades sobrenaturais e proteção.",
+  "description": "Esta lâmina foi feita dos ossos de bestas poderosas, trabalhada com maestria e afiada até o fio de uma navalha. O cabo da adaga é adornado com runas e símbolos intrincados, que dizem conceder ao portador habilidades sobrenaturais e proteção.",
   "glyph": {
     "frames": [
       {
@@ -79,5 +79,6 @@
     "range": 1,
     "type": 3
   },
-  "weight": 0.699999988079071
+  "weight": 0.699999988079071,
+  "feminine_form": true
 }

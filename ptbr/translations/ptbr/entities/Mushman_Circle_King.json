@@ -102,9 +102,9 @@
   "moveable": {
     "speed": 1.0
   },
-  "name": "Rei do Círculo Mushman",
+  "name": "Rei do Círculo dos Homens-Cogumelo",
   "persona": {
-    "occupation": "Rei do Círculo"
+    "occupation": "Circle King"
   },
   "sight": {
     "ignore_infra_penalty": false,

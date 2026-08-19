@@ -35,7 +35,7 @@
       1
     ]
   },
-  "description": "Um escudo de metal em forma de triângulo, tradicionalmente usado pela cavalaria imperial.",
+  "description": "Um escudo de metal em forma de triângulo, tradicionalmente usado por cavaleiros imperiais.",
   "glyph": {
     "frames": [
       {
@@ -60,7 +60,7 @@
     160,
     161
   ],
-  "name": "Escudo de Adarga",
+  "name": "Escudo Pipa",
   "value": 2000,
   "weight": 2.5
 }

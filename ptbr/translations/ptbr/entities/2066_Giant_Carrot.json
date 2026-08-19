@@ -6,7 +6,7 @@
     "position_2d",
     "producer"
   ],
-  "description": "Esta cenoura poderia provavelmente alimentar um exército de coelhos.",
+  "description": "Esta cenoura provavelmente poderia alimentar um exército de coelhos.",
   "glyph": {
     "frames": [
       {
@@ -50,5 +50,6 @@
       ]
     },
     "time": 30
-  }
+  },
+  "feminine_form": true
 }

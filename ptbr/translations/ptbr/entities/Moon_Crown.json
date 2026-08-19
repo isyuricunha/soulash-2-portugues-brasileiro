@@ -51,7 +51,7 @@
       14
     ]
   },
-  "description": "Uma coroa linda com um símbolo de uma lua.",
+  "description": "Uma bela coroa com um símbolo de lua.",
   "glyph": {
     "frames": [
       {
@@ -78,5 +78,6 @@
   ],
   "name": "Coroa da Lua",
   "value": 4000,
-  "weight": 3.0
+  "weight": 3.0,
+  "feminine_form": true
 }

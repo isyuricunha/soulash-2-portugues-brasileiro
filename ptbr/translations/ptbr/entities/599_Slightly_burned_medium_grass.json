@@ -33,7 +33,7 @@
       "id": "2"
     }
   ],
-  "description": "O trecho de grama aqui foi recentemente queimado com fogo.",
+  "description": "O tufo de grama aqui foi recentemente queimado pelo fogo.",
   "glyph": {
     "frames": [
       {
@@ -55,5 +55,6 @@
     39,
     13
   ],
-  "name": "Grama Média Levemente Queimada"
+  "name": "Grama Média Levemente Queimada",
+  "feminine_form": true
 }

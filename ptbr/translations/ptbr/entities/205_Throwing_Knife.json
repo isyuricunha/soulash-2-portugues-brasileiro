@@ -72,5 +72,6 @@
     "range": 6,
     "type": 11
   },
-  "weight": 0.4000000059604645
+  "weight": 0.4000000059604645,
+  "feminine_form": true
 }

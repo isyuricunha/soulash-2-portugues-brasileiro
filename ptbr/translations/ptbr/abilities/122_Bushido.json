@@ -6,7 +6,7 @@
     "health": 0,
     "stamina": 2
   },
-  "description": "Concentre-se na luta, aumentando o bônus de acerto em ::hit_chance% e o bônus de aparar em ::parry_chance%.",
+  "description": "Concentre-se na luta, aumentando o bônus de acerto em ::hit_chance% e o bônus de parada em ::parry_chance%.",
   "duration": 6.0,
   "effects": {
     "hit_chance": 2,

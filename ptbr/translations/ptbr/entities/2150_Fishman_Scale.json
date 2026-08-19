@@ -51,10 +51,11 @@
   ],
   "name": "Escama de Peixe-Homem",
   "resource": {
-    "affix": "Fishy",
+    "affix": "Peixesco",
     "magic_ingredient": 0,
     "quality": 1,
-    "type": 10
+    "type": 10,
+    "feminine_affix": "Peixesca"
   },
   "value": 300,
   "weapon": {

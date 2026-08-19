@@ -57,9 +57,9 @@
   "moveable": {
     "speed": 2.0
   },
-  "name": "Criança Mushman",
+  "name": "Criança Homem-Cogumelo",
   "persona": {
-    "occupation": "Criança"
+    "occupation": "Child"
   },
   "sight": {
     "ignore_infra_penalty": false,
@@ -96,5 +96,6 @@
   },
   "tags": [
     "9"
-  ]
+  ],
+  "feminine_form": true
 }

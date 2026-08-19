@@ -9,7 +9,7 @@
     "producer",
     "weight"
   ],
-  "description": "Um cadáver sem vida de uma raposa.",
+  "description": "Um cadáver inerte de uma raposa.",
   "glyph": {
     "frames": [
       {
@@ -44,8 +44,8 @@
       "3": [
         {
           "amount": [
-            1,
-            2
+            2,
+            3
           ],
           "id": "318",
           "percent_chance": 100
@@ -60,7 +60,7 @@
         }
       ]
     },
-    "time": 20
+    "time": 15
   },
   "weight": 40.0
 }

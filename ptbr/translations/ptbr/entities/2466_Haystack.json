@@ -22,7 +22,7 @@
     "time": 60,
     "tools": []
   },
-  "description": "Uma pilha rústica de feno seco, reunido e empilhado para criar um abrigo acolhedor e prático ou área de assentos em ambientes agrícolas.",
+  "description": "Uma pilha rústica de feno seco, reunida e empilhada para criar um abrigo ou área de assento aconchegante e prático em ambientes agrícolas.",
   "glyph": {
     "frames": [
       {
@@ -54,5 +54,5 @@
     68,
     24
   ],
-  "name": "Palha"
+  "name": "Palheiro"
 }

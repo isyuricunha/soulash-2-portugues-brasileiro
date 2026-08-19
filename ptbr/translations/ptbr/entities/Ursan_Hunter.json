@@ -99,7 +99,7 @@
   },
   "name": "Caçador Ursan",
   "persona": {
-    "occupation": "Caçador"
+    "occupation": "Hunter"
   },
   "sight": {
     "ignore_infra_penalty": false,

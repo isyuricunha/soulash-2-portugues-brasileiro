@@ -6,7 +6,7 @@
     "health": 0,
     "stamina": 6
   },
-  "description": "Dispara um raio de veneno do seu dedo em linha reta, acertando a primeira coisa com a qual entrar em contato, causando ::damage de dano ::damage_type e aplicando o efeito de veneno.",
+  "description": "Dispara um raio de veneno do seu dedo em linha reta, atingindo a primeira coisa com a qual entra em contato, causando ::damage de dano ::damage_type e aplicando efeito de veneno.",
   "duration": 0.0,
   "effects": {
     "damage": [
@@ -19,7 +19,7 @@
   },
   "id": "core_2_Poison_Ray",
   "image": 597,
-  "name": "Raio de Veneno",
+  "name": "Raio Venenoso",
   "range": 7,
   "skill": "core_2_floromancy",
   "slots": {

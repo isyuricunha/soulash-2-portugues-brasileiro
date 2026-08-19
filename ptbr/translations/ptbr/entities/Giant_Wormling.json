@@ -43,15 +43,15 @@
     "weapon"
   ],
   "corpse": "core_2_Giant_Wormling_Corpse",
-  "description": "Ainda quente, minhoca bebê gigante recém-eclodida.",
+  "description": "Ainda quente, filhote de verme gigante recém-nascido.",
   "experience_gainer": {
     "exp": 0,
     "level": 30
   },
   "fighter": {
     "attackNames": [
-      "Bite",
-      "Sting"
+      "Mordida",
+      "Ferroada"
     ]
   },
   "glyph": {
@@ -78,7 +78,7 @@
   "moveable": {
     "speed": 0.699999988079071
   },
-  "name": "Minhoca Gigante Bebê",
+  "name": "Filhote de Verme Gigante",
   "sight": {
     "ignore_infra_penalty": false,
     "infravision": true,

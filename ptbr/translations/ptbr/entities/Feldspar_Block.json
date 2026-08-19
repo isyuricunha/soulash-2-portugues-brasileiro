@@ -24,7 +24,7 @@
     "weapon",
     "weight"
   ],
-  "description": "Rochas mais comuns do planeta.",
+  "description": "A pedra mais comum do planeta.",
   "glyph": {
     "frames": [
       {
@@ -51,10 +51,11 @@
   ],
   "name": "Bloco de Feldspato",
   "resource": {
-    "affix": "Feldspar",
+    "affix": "Feldspato",
     "magic_ingredient": 0,
     "quality": 1,
-    "type": 6
+    "type": 6,
+    "feminine_affix": "feldspática"
   },
   "value": 150,
   "weapon": {

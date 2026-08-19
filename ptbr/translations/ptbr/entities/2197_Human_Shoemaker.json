@@ -82,7 +82,7 @@
   },
   "name": "Sapateiro Humano",
   "persona": {
-    "occupation": "Sapateiro"
+    "occupation": "Shoemaker"
   },
   "sight": {
     "ignore_infra_penalty": false,

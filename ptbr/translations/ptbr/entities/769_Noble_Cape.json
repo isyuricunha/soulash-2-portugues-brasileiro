@@ -40,7 +40,7 @@
       12
     ]
   },
-  "description": "Uma capa simples e branca presa com um broche de metal.",
+  "description": "Uma capa simples, branca, presa com um broche de metal.",
   "glyph": {
     "frames": [
       {
@@ -67,5 +67,6 @@
   ],
   "name": "Capa Nobre",
   "value": 3500,
-  "weight": 1.0
+  "weight": 1.0,
+  "feminine_form": true
 }

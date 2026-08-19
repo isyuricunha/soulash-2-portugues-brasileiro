@@ -30,7 +30,7 @@
       1
     ]
   },
-  "description": "Uma lâmina longa e curva presa a um longo poste, reforçada com placas de metal adicionais.",
+  "description": "Uma lâmina longa e curva presa a um poste longo, reforçada com placas de metal adicionais.",
   "glyph": {
     "frames": [
       {
@@ -79,5 +79,6 @@
     "range": 1,
     "type": 4
   },
-  "weight": 3.0
+  "weight": 3.0,
+  "feminine_form": true
 }

@@ -78,9 +78,9 @@
   "moveable": {
     "speed": 1.2000000476837158
   },
-  "name": "Vampiro Feiticeiro",
+  "name": "Vampiro Bruxo",
   "persona": {
-    "occupation": "Feiticeiro"
+    "occupation": "Hexer"
   },
   "sight": {
     "ignore_infra_penalty": false,

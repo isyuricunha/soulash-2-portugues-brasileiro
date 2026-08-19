@@ -16,7 +16,7 @@
     "name",
     "random_resource"
   ],
-  "description": "Esta areia tem uma propriedade mística de se espalhar por todos os lugares onde você não quer que ela vá.",
+  "description": "Esta areia tem a propriedade mística de ir parar em todo lugar onde você não a quer.",
   "glyph": {
     "frames": [
       {
@@ -78,5 +78,6 @@
     "spawn_chance": 2.0,
     "spawn_multiply": 20.0,
     "spawn_rolls": 1
-  }
+  },
+  "feminine_form": true
 }

@@ -5,7 +5,7 @@
     "name",
     "position_2d"
   ],
-  "description": "Este tapete está gasto pelo tempo e uso frequente.",
+  "description": "Este tapete está gasto pelo tempo e pelo uso frequente.",
   "glyph": {
     "frames": [
       {
@@ -26,5 +26,5 @@
     25,
     22
   ],
-  "name": "Tapete Antigo"
+  "name": "Tapete Velho"
 }

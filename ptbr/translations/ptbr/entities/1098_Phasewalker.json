@@ -50,7 +50,7 @@
       12
     ]
   },
-  "description": "Esta capa dobra o espaço e o tempo para movê-lo rapidamente para um local próximo.",
+  "description": "Esta capa dobra o espaço e o tempo para te mover rapidamente para um local próximo.",
   "glyph": {
     "frames": [
       {
@@ -75,7 +75,7 @@
     46,
     17
   ],
-  "name": "Caminhante das Fases",
+  "name": "Caminhante da Fase",
   "usable": {
     "ability": "65",
     "recipe": ""

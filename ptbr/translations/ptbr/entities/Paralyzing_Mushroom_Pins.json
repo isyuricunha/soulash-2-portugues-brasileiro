@@ -30,7 +30,7 @@
     "time": 20,
     "tools": []
   },
-  "description": "Cogumelos paralizantes minúsculos. Ainda crescendo para seu tamanho total.",
+  "description": "Minúsculos cogumelos paralisantes. Ainda crescendo até seu tamanho completo.",
   "glyph": {
     "frames": [
       {
@@ -61,7 +61,7 @@
     90,
     253
   ],
-  "name": "Pinos de Cogumelo Paralizante",
+  "name": "Primórdios de Cogumelo Paralisante",
   "random_resource": {
     "delay_spawn": true,
     "entity": [

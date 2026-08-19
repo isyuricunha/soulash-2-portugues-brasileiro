@@ -60,7 +60,8 @@
     166,
     66
   ],
-  "name": "Caneleiras",
+  "name": "Grevas",
   "value": 400,
-  "weight": 1.0
+  "weight": 1.0,
+  "feminine_form": true
 }

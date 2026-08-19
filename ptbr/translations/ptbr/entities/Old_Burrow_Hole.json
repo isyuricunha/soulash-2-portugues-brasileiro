@@ -6,7 +6,7 @@
     "name",
     "position_2d"
   ],
-  "description": "Algo grande cavou através da areia aqui.",
+  "description": "Algo grande escavou pela areia aqui.",
   "glyph": {
     "frames": [
       {
@@ -31,5 +31,5 @@
     179,
     43
   ],
-  "name": "Buraco de Toca Antigo"
+  "name": "Antigo Buraco de Toca"
 }

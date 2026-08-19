@@ -52,10 +52,11 @@
   ],
   "name": "Madeira de Olmo",
   "resource": {
-    "affix": "Elm",
+    "affix": "de Olmo",
     "magic_ingredient": 0,
     "quality": 4,
-    "type": 3
+    "type": 3,
+    "feminine_affix": "Olmeira"
   },
   "statistics": {
     "dexterity": [
@@ -96,5 +97,6 @@
     "range": 0,
     "type": 9
   },
-  "weight": 0.10000000149011612
+  "weight": 0.10000000149011612,
+  "feminine_form": true
 }

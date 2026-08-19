@@ -82,7 +82,7 @@
   },
   "name": "Esqueleto Envenenador",
   "persona": {
-    "occupation": "Envenenador"
+    "occupation": "Poisoner"
   },
   "sight": {
     "ignore_infra_penalty": false,

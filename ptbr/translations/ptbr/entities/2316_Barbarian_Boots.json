@@ -35,7 +35,7 @@
       14
     ]
   },
-  "description": "Botas robustas e rústicas, mas confortáveis de usar. O forro de pele espesso mantém os pés aquecidos e protegidos dos elementos severos do inverno.",
+  "description": "Botas robustas e rústicas, mas confortáveis de usar. O forro de pele grosso mantém os pés quentes e protegidos dos rigores do inverno.",
   "glyph": {
     "frames": [
       {
@@ -60,7 +60,8 @@
     175,
     158
   ],
-  "name": "Botas Bárbaras",
+  "name": "Botas de Bárbaro",
   "value": 11000,
-  "weight": 3.0
+  "weight": 3.0,
+  "feminine_form": true
 }

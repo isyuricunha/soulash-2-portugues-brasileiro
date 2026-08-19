@@ -29,7 +29,7 @@
     "tags"
   ],
   "corpse": "core_2_Gnoll_Corpse",
-  "description": "Um poderoso gnoll escolhido para supervisionar a Grande Caçada. Caçadores trazem seus troféus para este para julgamento.",
+  "description": "Um gnoll poderoso escolhido para supervisionar A Grande Caçada. Caçadores trazem seus troféus a este para julgamento.",
   "dialogues": [
     "771"
   ],
@@ -87,7 +87,7 @@
   },
   "name": "Grande Caçador",
   "persona": {
-    "occupation": "Grande Caçador"
+    "occupation": "Grand Huntsman"
   },
   "sight": {
     "ignore_infra_penalty": false,

@@ -41,7 +41,7 @@
       14
     ]
   },
-  "description": "Brincos com delicados flocos de neve.",
+  "description": "Brincos com flocos de neve delicados.",
   "glyph": {
     "frames": [
       {
@@ -66,7 +66,7 @@
     209,
     208
   ],
-  "name": "Brinco de Floco de Neve",
+  "name": "Brincos de Floco de Neve",
   "value": 2000,
   "weight": 0.10000000149011612
 }

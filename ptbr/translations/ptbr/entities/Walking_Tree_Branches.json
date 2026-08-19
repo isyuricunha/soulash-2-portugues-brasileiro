@@ -42,14 +42,14 @@
     "tags"
   ],
   "corpse": [],
-  "description": "Ramos de uma árvore enorme que se move lentamente usando suas raízes.",
+  "description": "Galhos de uma árvore enorme que se move lentamente usando suas raízes.",
   "experience_gainer": {
     "exp": 0,
     "level": 50
   },
   "fighter": {
     "attackNames": [
-      "Branch"
+      "Galho"
     ]
   },
   "glyph": {
@@ -76,7 +76,7 @@
   "moveable": {
     "speed": 1.5
   },
-  "name": "Ramos de Árvore Andante",
+  "name": "Galhos de Árvore Andante",
   "sight": {
     "ignore_infra_penalty": false,
     "infravision": true,

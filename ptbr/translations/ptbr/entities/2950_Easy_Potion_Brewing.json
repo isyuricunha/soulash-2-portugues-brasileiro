@@ -8,7 +8,7 @@
     "stackable",
     "weight"
   ],
-  "description": "Mágico e outros.",
+  "description": "Mágicas e outras.",
   "glyph": {
     "frames": [
       {
@@ -33,6 +33,7 @@
     178,
     176
   ],
-  "name": "Poções Fáceis de Preparar",
-  "weight": 0.20000000298023224
+  "name": "Preparação Fácil de Poções",
+  "weight": 0.20000000298023224,
+  "feminine_form": true
 }

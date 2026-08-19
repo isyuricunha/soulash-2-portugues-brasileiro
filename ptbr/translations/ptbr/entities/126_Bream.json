@@ -10,7 +10,7 @@
     "value",
     "weight"
   ],
-  "description": "Peixe prateado com cabeça pequena.",
+  "description": "Peixe prateado com cabeça pequena",
   "glyph": {
     "frames": [
       {
@@ -35,7 +35,7 @@
     74,
     68
   ],
-  "name": "Carpa",
+  "name": "Breme",
   "producer": {
     "products": {
       "3": [
@@ -52,5 +52,6 @@
     "time": 10
   },
   "value": 300,
-  "weight": 1.0
+  "weight": 1.0,
+  "feminine_form": true
 }

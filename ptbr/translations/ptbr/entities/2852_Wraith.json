@@ -48,7 +48,7 @@
     "weapon"
   ],
   "corpse": "2515",
-  "description": "Restos de uma alma manchada com escuridão.",
+  "description": "Restos de uma alma contaminada pela escuridão.",
   "dialogues": [
     "80",
     "81"
@@ -59,7 +59,7 @@
   },
   "fighter": {
     "attackNames": [
-      "Ghastly Touch"
+      "Toque Espectral"
     ]
   },
   "glyph": {

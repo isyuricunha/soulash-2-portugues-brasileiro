@@ -1,0 +1,40 @@
+{
+  "id": "core_2_kangaroo_migration",
+  "name": "Migração de Cangurus",
+  "category": "wilderness",
+  "flavor": "Um bando de cangurus está cruzando a savana em sua migração sazonal, saltando de uma extremidade da terra à outra em busca de pastagens frescas. São pacíficos por natureza, mas viajam como um grupo unido — perturbe um e todo o bando se volta contra você.",
+  "icon": 0,
+  "small_icon": 0,
+  "rarity": "common",
+  "restrict_biomes": [
+    "savanna"
+  ],
+  "trigger": {
+    "base_probability": 0.3
+  },
+  "duration": {
+    "type": "temporary",
+    "days": [
+      3,
+      8
+    ]
+  },
+  "max_per_region": 1,
+  "effects": [
+    {
+      "type": "migrate_group",
+      "entity": "core_2_Kangoroo",
+      "amount": [
+        30,
+        40
+      ],
+      "spawn_behaviors": [
+        23
+      ]
+    }
+  ],
+  "history_events": {
+    "begin": "Um bando de cangurus foi avistado movendo-se pela savana em sua migração sazonal.",
+    "end": "O bando de cangurus atravessou a região e desapareceu no horizonte."
+  }
+}

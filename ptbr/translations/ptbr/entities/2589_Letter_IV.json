@@ -8,7 +8,7 @@
     "stackable",
     "weight"
   ],
-  "description": "Uma carta que diz:\n\"Parece que os animais estão ficando inquietos novamente. O lobo mordeu a mão do seu tratador ontem à noite! Eu não sei o que deu neles, realmente...\"",
+  "description": "Uma carta que diz:\n",
   "glyph": {
     "frames": [
       {
@@ -34,5 +34,6 @@
     137
   ],
   "name": "Carta IV",
-  "weight": 0.10000000149011612
+  "weight": 0.10000000149011612,
+  "feminine_form": true
 }

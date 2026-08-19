@@ -9,7 +9,7 @@
     "value",
     "weight"
   ],
-  "description": "Um pó perfumado produzido por plantas. As abelhas adoram.",
+  "description": "Um pó fragrante produzido por plantas. Abelhas adoram.",
   "glyph": {
     "frames": [
       {
@@ -34,7 +34,7 @@
     156,
     73
   ],
-  "name": "Pólen de Flor",
+  "name": "Pólen de Flores",
   "value": 300,
   "weight": 0.10000000149011612
 }

@@ -31,7 +31,7 @@
     "tags"
   ],
   "corpse": "636",
-  "description": "Sapo gigante e viscoso atinge 2 metros de altura.",
+  "description": "Um sapo gigante e viscoso alcança 2 metros de altura.",
   "dialogues": [
     "200",
     "201",
@@ -63,8 +63,8 @@
   },
   "fighter": {
     "attackNames": [
-      "Bite",
-      "Tongue whip"
+      "Mordida",
+      "Chicote de língua"
     ]
   },
   "glyph": {

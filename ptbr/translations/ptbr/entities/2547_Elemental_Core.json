@@ -37,7 +37,7 @@
       15
     ]
   },
-  "description": "Mistura instável de quatro elementos - fogo, ar, terra e água. Contém um poder tremendo.",
+  "description": "Mistura instável de quatro elementos — fogo, ar, terra e água. Contém um poder tremendo.",
   "extra_weight": 5.0,
   "glyph": {
     "frames": [
@@ -65,10 +65,11 @@
   ],
   "name": "Núcleo Elemental",
   "resource": {
-    "affix": "of the Elements",
+    "affix": "dos Elementos",
     "magic_ingredient": 4,
     "quality": 4,
-    "type": 7
+    "type": 7,
+    "feminine_affix": "das Elementos"
   },
   "value": 50000,
   "weapon": {

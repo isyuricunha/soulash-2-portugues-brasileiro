@@ -10,7 +10,7 @@
     "value",
     "weight"
   ],
-  "description": "Alguma carne cozida, boa fonte de nutrição.",
+  "description": "Um pouco de carne cozida, boa fonte de nutrição.",
   "food": {
     "nutrition": 40,
     "poisonous": 0,
@@ -42,5 +42,6 @@
   ],
   "name": "Carne Cozida",
   "value": 300,
-  "weight": 0.10000000149011612
+  "weight": 0.10000000149011612,
+  "feminine_form": true
 }

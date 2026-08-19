@@ -82,9 +82,9 @@
   "moveable": {
     "speed": 1.5
   },
-  "name": "Goblin Fazendeiro",
+  "name": "Goblin Criador",
   "persona": {
-    "occupation": "Fazendeiro"
+    "occupation": "Rancher"
   },
   "sight": {
     "ignore_infra_penalty": false,

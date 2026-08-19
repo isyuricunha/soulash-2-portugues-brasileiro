@@ -21,7 +21,7 @@
     "time": 10,
     "tools": []
   },
-  "description": "Não há nome ou data neste túmulo, mas julgando pelo tamanho, uma criança foi enterrada aqui.",
+  "description": "Não há nome nem data nesta sepultura, mas, pelo tamanho, uma criança foi enterrada aqui.",
   "glyph": {
     "frames": [
       {
@@ -43,5 +43,6 @@
     120,
     120
   ],
-  "name": "Lápide Pequena"
+  "name": "Lápide Pequena",
+  "feminine_form": true
 }

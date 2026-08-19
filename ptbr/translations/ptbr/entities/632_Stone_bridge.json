@@ -30,7 +30,7 @@
     "time": 25,
     "tools": []
   },
-  "description": "A ponte de pedra parece feita por mãos anãs.",
+  "description": "Ponte de pedra parece feita por mãos anãs.",
   "glyph": {
     "frames": [
       {
@@ -66,5 +66,6 @@
       ]
     },
     "time": 30
-  }
+  },
+  "feminine_form": true
 }

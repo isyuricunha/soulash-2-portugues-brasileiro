@@ -80,9 +80,9 @@
   "moveable": {
     "speed": 1.0
   },
-  "name": "Rasimi Escultor de Conchas",
+  "name": "Escultor de Conchas Rasimi",
   "persona": {
-    "occupation": "Escultor de Conchas"
+    "occupation": "Shell Sculptor"
   },
   "sight": {
     "ignore_infra_penalty": false,

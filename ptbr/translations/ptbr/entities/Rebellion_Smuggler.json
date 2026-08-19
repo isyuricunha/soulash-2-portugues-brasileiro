@@ -27,7 +27,7 @@
     "tags"
   ],
   "corpse": "25",
-  "description": "Um contrabandista ousado que arrisca a vida para entregar armas à resistência.",
+  "description": "Um contrabandista audaz arriscando a vida para entregar armas à resistência.",
   "dialogues": [
     "20",
     "21",
@@ -60,7 +60,7 @@
       {
         "chance": 0.5,
         "id": "77",
-        "name": "Espada Curta",
+        "name": "espada curta",
         "stack": 1
       }
     ],
@@ -109,7 +109,7 @@
   },
   "name": "Contrabandista da Rebelião",
   "persona": {
-    "occupation": "Contrabandista"
+    "occupation": "Smuggler"
   },
   "sight": {
     "ignore_infra_penalty": false,

@@ -82,7 +82,7 @@
   },
   "name": "Alquimista Rasimi",
   "persona": {
-    "occupation": "Alquimista"
+    "occupation": "Alchemist"
   },
   "sight": {
     "ignore_infra_penalty": false,
@@ -91,7 +91,19 @@
     "threesixty": false
   },
   "skills": {
-    "milestones": [],
+    "max_skill": 0,
+    "milestones": [
+      "core_2_exploding_bomb",
+      "core_2_emty_vial",
+      "core_2_smoke_bomb",
+      "core_2_dust_bomb",
+      "core_2_flash_bomb",
+      "core_2_freezing_bomb",
+      "core_2_improved_exploding_bomb",
+      "core_2_rainbow_bomb",
+      "core_2_shock_bomb",
+      "core_2_shrapnel_bomb"
+    ],
     "skills": [
       "core_2_alchemy"
     ]

@@ -7,7 +7,7 @@
     "producer",
     "stackable"
   ],
-  "description": "Um pequeno pedaço de cogumelo morel negro. Pode ser comestível.",
+  "description": "Um pequeno grupo de morchela negra. Pode ser comestível.",
   "glyph": {
     "frames": [
       {
@@ -28,7 +28,7 @@
     90,
     34
   ],
-  "name": "Cogumelos Morel Negro",
+  "name": "Morchelas Negras",
   "producer": {
     "products": {
       "10": [
@@ -43,5 +43,6 @@
       ]
     },
     "time": 10
-  }
+  },
+  "feminine_form": true
 }

@@ -22,7 +22,7 @@
     "time": 60,
     "tools": []
   },
-  "description": "Dispositivo usado para fiar linha ou fio feito de cascas e escamas interconectadas. Usado para criar material de tecido.",
+  "description": "Dispositivo usado para fiar fios ou lãs feitos de conchas e escamas interconectadas. Usado para criar tecidos.",
   "glyph": {
     "frames": [
       {
@@ -43,7 +43,7 @@
     38,
     1
   ],
-  "name": "Roda de Fiação de Conchas",
+  "name": "Roda de Fiar Conchas",
   "producer": {
     "products": {
       "core_2_deconstruct": [
@@ -64,5 +64,6 @@
       "id": 12,
       "quality": 110
     }
-  ]
+  ],
+  "feminine_form": true
 }

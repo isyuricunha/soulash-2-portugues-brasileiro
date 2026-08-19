@@ -25,7 +25,7 @@
     "producer"
   ],
   "corpse": "61",
-  "description": "Uma árvore que cresce amoras, frequentemente encontrada nas montanhas.",
+  "description": "Uma árvore que produz amoras, frequentemente encontrada nas montanhas.",
   "glyph": {
     "frames": [
       {
@@ -65,7 +65,7 @@
     93,
     55
   ],
-  "name": "Amoreira",
+  "name": "Amora",
   "producer": {
     "delay_on_use": 1440,
     "products": {
@@ -107,5 +107,6 @@
       ]
     },
     "time": 20
-  }
+  },
+  "feminine_form": true
 }

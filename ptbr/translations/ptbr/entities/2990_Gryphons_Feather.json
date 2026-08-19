@@ -41,11 +41,13 @@
   },
   "name": "Pena de Grifo",
   "resource": {
-    "affix": "of the Rush",
+    "affix": "do Ímpeto",
     "magic_ingredient": 4,
     "quality": 4,
-    "type": 7
+    "type": 7,
+    "feminine_affix": "impetuosa"
   },
   "value": 10000,
-  "weight": 0.10000000149011612
+  "weight": 0.10000000149011612,
+  "feminine_form": true
 }

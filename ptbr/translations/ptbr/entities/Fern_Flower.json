@@ -1,0 +1,41 @@
+{
+  "components": [
+    "glyph",
+    "item",
+    "minimap_pixel",
+    "name",
+    "position_2d",
+    "stackable",
+    "value",
+    "weight"
+  ],
+  "description": "Flor de samambaia delicada e extremamente rara.",
+  "glyph": {
+    "frames": [
+      {
+        "color": [
+          255,
+          255,
+          255
+        ],
+        "delay": 0,
+        "index": 3408
+      }
+    ],
+    "random_frame_start": false
+  },
+  "id": "core_2_Fern_Flower",
+  "item": {
+    "image": 1553,
+    "type": 16
+  },
+  "minimap_pixel": [
+    73,
+    156,
+    73
+  ],
+  "name": "Flor de Samambaia",
+  "value": 4000,
+  "weight": 0.10000000149011612,
+  "feminine_form": true
+}

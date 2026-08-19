@@ -32,7 +32,7 @@
     "tags"
   ],
   "corpse": "342",
-  "description": "Esta pessoa parece que passou por um inferno de noite na floresta.",
+  "description": "Esta pessoa parece ter passado uma noite infernal na floresta.",
   "dialogues": [
     "344",
     "345"
@@ -42,7 +42,7 @@
       {
         "chance": 1.0,
         "id": "23",
-        "name": "Farrapos",
+        "name": "Trapos",
         "stack": 1
       }
     ]
@@ -53,7 +53,7 @@
   },
   "fighter": {
     "attackNames": [
-      "Claws"
+      "Garras"
     ]
   },
   "glyph": {

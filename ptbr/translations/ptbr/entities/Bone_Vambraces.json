@@ -41,7 +41,7 @@
       14
     ]
   },
-  "description": "Parece alguns ossos amarrados juntos com tiras de couro.",
+  "description": "Parece alguns ossos amarrados com tiras de couro.",
   "glyph": {
     "frames": [
       {
@@ -68,5 +68,6 @@
   ],
   "name": "Braçadeiras de Osso",
   "value": 1000,
-  "weight": 1.0
+  "weight": 1.0,
+  "feminine_form": true
 }

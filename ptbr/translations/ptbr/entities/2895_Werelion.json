@@ -45,7 +45,7 @@
     "weapon"
   ],
   "corpse": "2758",
-  "description": "Um metamorfo natural.",
+  "description": "Um metamorfoseador natural.",
   "dialogues": [
     "630",
     "631",
@@ -71,8 +71,8 @@
   },
   "fighter": {
     "attackNames": [
-      "Bite",
-      "Scratch"
+      "Mordida",
+      "Arranhão"
     ]
   },
   "glyph": {
@@ -99,7 +99,7 @@
   "moveable": {
     "speed": 0.8999999761581421
   },
-  "name": "Leão Metamorfo",
+  "name": "Leão-homem",
   "sight": {
     "ignore_infra_penalty": false,
     "infravision": true,

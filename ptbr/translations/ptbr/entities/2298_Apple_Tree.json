@@ -25,7 +25,7 @@
     "producer"
   ],
   "corpse": "61",
-  "description": "Uma árvore que cresce maçãs, frequentemente vista em jardins élficos.",
+  "description": "Uma árvore que produz maçãs, frequentemente vista em jardins élficos.",
   "glyph": {
     "frames": [
       {
@@ -108,5 +108,6 @@
       ]
     },
     "time": 30
-  }
+  },
+  "feminine_form": true
 }

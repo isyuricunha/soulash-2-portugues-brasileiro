@@ -34,7 +34,7 @@
     "weapon"
   ],
   "corpse": "25",
-  "description": "O líder claro de um bando de maníacos.",
+  "description": "O líder evidente de uma matilha de maníacos.",
   "dialogues": [
     "50",
     "51"
@@ -87,7 +87,7 @@
   },
   "fighter": {
     "attackNames": [
-      "Corroding Touch"
+      "Toque Corrosivo"
     ]
   },
   "glyph": {

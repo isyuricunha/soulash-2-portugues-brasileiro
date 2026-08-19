@@ -69,9 +69,9 @@
   "moveable": {
     "speed": 1.0
   },
-  "name": "Rasimi Buscador de Especiarias",
+  "name": "Buscador de Especiarias Rasimi",
   "persona": {
-    "occupation": "Buscador de Especiarias"
+    "occupation": "Spice Seaker"
   },
   "sight": {
     "ignore_infra_penalty": false,

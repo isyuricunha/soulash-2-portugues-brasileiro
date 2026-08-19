@@ -78,9 +78,9 @@
   "moveable": {
     "speed": 1.2000000476837158
   },
-  "name": "Carpinteiro Mushman",
+  "name": "Homem-Cogumelo Carpinteiro",
   "persona": {
-    "occupation": "Carpinteiro"
+    "occupation": "Carpenter"
   },
   "sight": {
     "ignore_infra_penalty": false,

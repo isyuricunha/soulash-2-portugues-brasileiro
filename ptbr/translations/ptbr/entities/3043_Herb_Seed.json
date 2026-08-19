@@ -9,7 +9,7 @@
     "value",
     "weight"
   ],
-  "description": "Um dia se tornará grandes ervas.",
+  "description": "Crescerá e se tornará grandes ervas um dia.",
   "glyph": {
     "frames": [
       {
@@ -36,5 +36,6 @@
   ],
   "name": "Semente de Erva",
   "value": 400,
-  "weight": 0.019999999552965164
+  "weight": 0.019999999552965164,
+  "feminine_form": true
 }

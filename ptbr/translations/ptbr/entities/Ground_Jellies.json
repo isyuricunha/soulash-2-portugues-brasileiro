@@ -30,7 +30,7 @@
     145,
     33
   ],
-  "name": "Geléias Terrestres",
+  "name": "Geleias de Chão",
   "producer": {
     "products": {
       "10": [
@@ -55,5 +55,6 @@
     "time": 10
   },
   "value": 200,
-  "weight": 0.10000000149011612
+  "weight": 0.10000000149011612,
+  "feminine_form": true
 }

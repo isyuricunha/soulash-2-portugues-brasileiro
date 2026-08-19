@@ -23,7 +23,7 @@
     "time": 30,
     "tools": []
   },
-  "description": "Água jogada no ar através de pressão em tubos. Você pode sentir uma brisa leve quando se aproxima.",
+  "description": "Água lançada ao ar pela pressão nos canos. Sente-se uma brisa leve ao se aproximar.",
   "glyph": {
     "frames": [
       {
@@ -90,5 +90,6 @@
       ]
     },
     "time": 20
-  }
+  },
+  "feminine_form": true
 }

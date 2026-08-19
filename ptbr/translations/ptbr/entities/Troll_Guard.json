@@ -108,9 +108,9 @@
   "moveable": {
     "speed": 1.100000023841858
   },
-  "name": "Troll Guarda",
+  "name": "Guarda Troll",
   "persona": {
-    "occupation": "Guarda"
+    "occupation": "Guard"
   },
   "sight": {
     "ignore_infra_penalty": false,

@@ -9,7 +9,7 @@
     "producer",
     "weight"
   ],
-  "description": "Veio de esmeralda animado, mas desta vez está morto.",
+  "description": "Veia de esmeralda animada, mas desta vez está morta.",
   "glyph": {
     "frames": [
       {
@@ -38,7 +38,7 @@
     128,
     104
   ],
-  "name": "Cadáver de Veio de Esmeralda Animado",
+  "name": "Cadáver de Veia de Esmeralda Animada",
   "producer": {
     "products": {
       "3": [

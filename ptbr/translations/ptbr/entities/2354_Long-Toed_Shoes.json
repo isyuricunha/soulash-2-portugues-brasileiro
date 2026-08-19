@@ -39,7 +39,7 @@
       12
     ]
   },
-  "description": "Sapatos únicos com uma ponta alongada para movimento preciso, frequentemente usados por acrobatas.",
+  "description": "Sapatos únicos com bico alongado para movimento preciso, frequentemente usados por acrobatas.",
   "glyph": {
     "frames": [
       {
@@ -64,7 +64,7 @@
     200,
     200
   ],
-  "name": "Sapatos de Dedo Longo",
+  "name": "Sapatos de Bico Longo",
   "value": 16000,
   "weight": 0.699999988079071
 }

@@ -24,7 +24,7 @@
     "producer"
   ],
   "corpse": [],
-  "description": "Um tufo denso de folhas longas de capim elefante.",
+  "description": "Touceira densa de folhas longas de capim-elefante.",
   "glyph": {
     "frames": [
       {
@@ -73,7 +73,7 @@
     73,
     73
   ],
-  "name": "Tufo de Capim Elefante",
+  "name": "Touceira de Capim-elefante",
   "producer": {
     "products": {
       "10": [
@@ -88,5 +88,6 @@
       ]
     },
     "time": 15
-  }
+  },
+  "feminine_form": true
 }

@@ -37,7 +37,7 @@
       12
     ]
   },
-  "description": "O fio de urtiga é produzido a partir da urtiga e é usado na fabricação de várias roupas.",
+  "description": "O fio de urtiga é produzido a partir de urtiga e usado na confecção de diversas vestimentas.",
   "glyph": {
     "frames": [
       {
@@ -64,10 +64,11 @@
   ],
   "name": "Fio de Urtiga",
   "resource": {
-    "affix": "Nettle",
+    "affix": "Urtiga",
     "magic_ingredient": 0,
     "quality": 1,
-    "type": 4
+    "type": 4,
+    "feminine_affix": "urtigueira"
   },
   "value": 900,
   "weight": 0.10000000149011612

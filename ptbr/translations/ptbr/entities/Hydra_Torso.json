@@ -49,7 +49,7 @@
   },
   "fighter": {
     "attackNames": [
-      "Slam"
+      "Impacto"
     ]
   },
   "glyph": {
@@ -128,5 +128,6 @@
     "parry_bonus": 0,
     "range": 1,
     "type": 0
-  }
+  },
+  "feminine_form": true
 }

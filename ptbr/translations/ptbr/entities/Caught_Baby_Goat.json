@@ -10,7 +10,7 @@
     "value",
     "weight"
   ],
-  "description": "Cabritinho assustado. Se você soltá-lo, ele tentará escapar.",
+  "description": "Pequeno cabrito assustado. Se você soltá-lo, tentará fugir.",
   "glyph": {
     "frames": [
       {
@@ -35,7 +35,7 @@
     199,
     185
   ],
-  "name": "Cabritinho Capturado",
+  "name": "Cabrito Capturado",
   "random_resource": {
     "delay_spawn": true,
     "entity": [

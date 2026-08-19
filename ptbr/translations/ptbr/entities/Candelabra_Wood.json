@@ -49,12 +49,13 @@
     74,
     81
   ],
-  "name": "Madeira de Candelabro",
+  "name": "Madeira de Candelária",
   "resource": {
-    "affix": "Candelabra",
+    "affix": "Candelária",
     "magic_ingredient": 0,
     "quality": 3,
-    "type": 3
+    "type": 3,
+    "feminine_affix": "Candelária"
   },
   "statistics": {
     "dexterity": [
@@ -79,5 +80,6 @@
     ]
   },
   "value": 800,
-  "weight": 0.10000000149011612
+  "weight": 0.10000000149011612,
+  "feminine_form": true
 }

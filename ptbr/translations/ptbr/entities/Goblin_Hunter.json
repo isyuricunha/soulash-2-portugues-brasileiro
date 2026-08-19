@@ -100,9 +100,9 @@
   "moveable": {
     "speed": 1.0
   },
-  "name": "Goblin Caçador",
+  "name": "Caçador Goblin",
   "persona": {
-    "occupation": "Caçador"
+    "occupation": "Hunter"
   },
   "sight": {
     "ignore_infra_penalty": false,

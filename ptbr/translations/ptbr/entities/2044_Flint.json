@@ -10,7 +10,7 @@
     "value",
     "weight"
   ],
-  "description": "Um dos melhores amigos de todo aventureiro, ferramenta muito útil para iniciar uma fogueira.",
+  "description": "Um dos melhores amigos de todo aventureiro, ferramenta muito útil para acender fogo.",
   "glyph": {
     "frames": [
       {
@@ -43,5 +43,6 @@
     }
   ],
   "value": 100,
-  "weight": 0.5
+  "weight": 0.5,
+  "feminine_form": true
 }

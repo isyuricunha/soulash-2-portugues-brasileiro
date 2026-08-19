@@ -25,7 +25,7 @@
     "time": 60,
     "tools": []
   },
-  "description": "Todos os segredos floridos da floromancia estão escondidos dentro daquelas páginas.",
+  "description": "Todos os segredos florescentes da floromancia estão escondidos naquelas páginas.",
   "glyph": {
     "frames": [
       {
@@ -57,5 +57,6 @@
     "skill_p": "core_2_floromancy"
   },
   "value": 5000,
-  "weight": 0.20000000298023224
+  "weight": 0.20000000298023224,
+  "feminine_form": true
 }

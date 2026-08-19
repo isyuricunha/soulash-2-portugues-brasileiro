@@ -10,7 +10,7 @@
     "value",
     "weight"
   ],
-  "description": "Tem um gosto doce.",
+  "description": "Tem gosto doce.",
   "food": {
     "nutrition": 5,
     "on_eat": "",

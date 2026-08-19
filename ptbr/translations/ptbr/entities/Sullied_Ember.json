@@ -42,7 +42,7 @@
       19
     ]
   },
-  "description": "Uma brasa sombria e melancólica da alma, marcada com a cinza da ganância e atos amargos, seu brilho pulsando com rancor inquieto.",
+  "description": "Uma brasa sombria e fumegante de uma alma, riscada pela cinza da ganância e de atos amargos, seu brilho pulsando com rancor inquieto.",
   "glyph": {
     "frames": [
       {
@@ -153,5 +153,6 @@
       0
     ]
   },
-  "weight": 0.009999999776482582
+  "weight": 0.009999999776482582,
+  "feminine_form": true
 }

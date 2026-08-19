@@ -6,7 +6,7 @@
     "health": 0,
     "stamina": 12
   },
-  "description": "Acerte todos no alcance de ::aoe_range células causando ::damage de dano ::damage_type.",
+  "description": "Acerta todos no alcance de ::aoe_range tiles por ::damage ::damage_type de dano.",
   "duration": 0.0,
   "effects": {
     "aoe_range": 2,

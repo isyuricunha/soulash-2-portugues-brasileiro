@@ -51,7 +51,7 @@
     "time": 60,
     "tools": []
   },
-  "description": "Um expositor projetado para segurar e exibir armas, como espadas, machados, lanças ou outros itens similares.",
+  "description": "Um suporte de exibição projetado para guardar e exibir armas, como espadas, machados, lanças ou outros itens semelhantes.",
   "glyph": {
     "frames": [
       {

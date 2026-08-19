@@ -97,7 +97,7 @@
     90,
     128
   ],
-  "name": "Linha da Costa Superior",
+  "name": "Linha da Costa para Cima",
   "on_enter": {
     "ability": [
       "88",
@@ -133,5 +133,6 @@
   },
   "water": {
     "swimming": true
-  }
+  },
+  "feminine_form": true
 }

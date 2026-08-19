@@ -43,7 +43,7 @@
     "time": 10,
     "tools": []
   },
-  "description": "Um belo armário de exibição de madeira.",
+  "description": "Um bonito armário de exposição de madeira.",
   "glyph": {
     "frames": [
       {
@@ -65,7 +65,7 @@
     48,
     17
   ],
-  "name": "Armário",
+  "name": "Armário de Exposição",
   "producer": {
     "products": {
       "core_2_deconstruct": [

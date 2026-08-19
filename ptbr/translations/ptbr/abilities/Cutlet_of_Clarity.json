@@ -6,7 +6,7 @@
     "health": 0,
     "stamina": 0
   },
-  "description": "Você entrou no estado de clareza graças a um delicioso Filé, dando a você bônus de ::intelligence Inteligência e ::willpower Força de Vontade por ::duration turnos.",
+  "description": "Você entrou em estado de clareza graças a um suculento Bife, concedendo bônus de ::intelligence Inteligência e ::willpower Vontade por ::duration turnos.",
   "duration": 600.0,
   "effects": {
     "intelligence": 3,
@@ -14,7 +14,7 @@
   },
   "id": "core_2_Cutlet_of_Clarity",
   "image": 472,
-  "name": "Cotoleta da Clareza",
+  "name": "Bife da Clareza",
   "range": 0,
   "skill": "",
   "target": "self"

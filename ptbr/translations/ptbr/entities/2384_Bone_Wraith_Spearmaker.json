@@ -80,9 +80,9 @@
   "moveable": {
     "speed": 1.0
   },
-  "name": "Espectro de Osso Fabricante de Lanças",
+  "name": "Espectro Ósseo Fabricante de Lanças",
   "persona": {
-    "occupation": "Fabricante de Lanças"
+    "occupation": "Spearmaker"
   },
   "sight": {
     "ignore_infra_penalty": false,

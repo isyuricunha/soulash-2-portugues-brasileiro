@@ -37,7 +37,7 @@
     "tags"
   ],
   "corpse": "core_2_Death_Knight_Corpse",
-  "description": "Mesmo a maior armadura não pode cobrir o fedor da morte que cerca esta criatura.",
+  "description": "Nem a maior armadura consegue encobrir o cheiro de morte que cerca esta criatura.",
   "dialogues": [
     "274",
     "275"
@@ -47,7 +47,7 @@
       {
         "chance": 0.25,
         "id": "2317",
-        "name": "Máscara de Terror",
+        "name": "Máscara Funesta",
         "stack": 1
       }
     ],
@@ -55,7 +55,7 @@
       {
         "chance": 1.0,
         "id": "2362",
-        "name": "Caneleiras de Osso",
+        "name": "Grebas de Osso",
         "stack": 1
       }
     ],

@@ -38,7 +38,7 @@
       {
         "chance": 1.0,
         "id": "94",
-        "name": "Bastão",
+        "name": "Bordão",
         "stack": 1
       }
     ]
@@ -77,9 +77,9 @@
   "moveable": {
     "speed": 1.100000023841858
   },
-  "name": "Humano Druida",
+  "name": "Druida Humano",
   "persona": {
-    "occupation": "Druida"
+    "occupation": "Druid"
   },
   "sight": {
     "ignore_infra_penalty": false,

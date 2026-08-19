@@ -40,7 +40,7 @@
       {
         "chance": 1.0,
         "id": "234",
-        "name": "Dardo",
+        "name": "Virote",
         "stack": 12
       }
     ],
@@ -89,7 +89,7 @@
   },
   "name": "Anão Caçador",
   "persona": {
-    "occupation": "Caçador"
+    "occupation": "Hunter"
   },
   "sight": {
     "ignore_infra_penalty": false,

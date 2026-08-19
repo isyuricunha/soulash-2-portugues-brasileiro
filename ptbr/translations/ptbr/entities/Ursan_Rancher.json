@@ -78,9 +78,9 @@
   "moveable": {
     "speed": 1.5
   },
-  "name": "Pecuarista Ursan",
+  "name": "Ursan Fazendeiro",
   "persona": {
-    "occupation": "Fazendeiro"
+    "occupation": "Rancher"
   },
   "sight": {
     "ignore_infra_penalty": false,

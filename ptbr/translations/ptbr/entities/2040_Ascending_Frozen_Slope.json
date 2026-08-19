@@ -8,7 +8,7 @@
     "position_2d",
     "producer"
   ],
-  "description": "Declive íngreme de terra coberto de geada levando morro acima.",
+  "description": "Encosta íngreme de terra coberta de geada subindo a colina.",
   "glyph": {
     "frames": [
       {
@@ -34,7 +34,7 @@
     38,
     7
   ],
-  "name": "Declive Congelado Ascendente",
+  "name": "Encosta Congelada Ascendente",
   "producer": {
     "products": {
       "core_2_deconstruct": [

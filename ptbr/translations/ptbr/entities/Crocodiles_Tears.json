@@ -10,7 +10,7 @@
     "value",
     "weight"
   ],
-  "description": "A pior coisa será viver com o conhecimento de que, para obtê-las, você teve que deixar um crocodilo muito triste.",
+  "description": "O pior será viver com o conhecimento de que, para obtê-los, você teve que deixar um crocodilo muito triste.",
   "glyph": {
     "frames": [
       {
@@ -43,5 +43,6 @@
     "type": 12
   },
   "value": 300,
-  "weight": 0.10000000149011612
+  "weight": 0.10000000149011612,
+  "feminine_form": true
 }

@@ -25,7 +25,7 @@
     "time": 60,
     "tools": []
   },
-  "description": "Alguns segredos sagrados dos punhos divinos estão escondidos dentro destas páginas.",
+  "description": "Alguns segredos sagrados dos punhos divinos estão escondidos nestas páginas.",
   "glyph": {
     "frames": [
       {
@@ -57,5 +57,6 @@
     "skill_p": "core_2_divine_fists"
   },
   "value": 5000,
-  "weight": 0.20000000298023224
+  "weight": 0.20000000298023224,
+  "feminine_form": true
 }

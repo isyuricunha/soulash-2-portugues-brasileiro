@@ -6,7 +6,7 @@
     "health": 0,
     "stamina": 5
   },
-  "description": "Arremessa um projétil de energia mágica bruta em um único alvo que causa ::damage de ::damage_type.",
+  "description": "Lança um projétil de energia mágica bruta em um único alvo que causa ::damage de dano ::damage_type.",
   "duration": 0.0,
   "effects": {
     "damage": [

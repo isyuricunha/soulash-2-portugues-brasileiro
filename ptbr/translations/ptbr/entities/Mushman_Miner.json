@@ -78,9 +78,9 @@
   "moveable": {
     "speed": 1.2999999523162842
   },
-  "name": "Minerador Mushman",
+  "name": "Homem-Cogumelo Minerador",
   "persona": {
-    "occupation": "Mineiro"
+    "occupation": "Miner"
   },
   "sight": {
     "ignore_infra_penalty": false,

@@ -45,7 +45,7 @@
       {
         "chance": 1.0,
         "id": "core_2_Mush_Bow",
-        "name": "Arco Cogumelo",
+        "name": "Arco de Cogumelo",
         "stack": 1
       }
     ]
@@ -84,9 +84,9 @@
   "moveable": {
     "speed": 1.0
   },
-  "name": "Recruta Mushman",
+  "name": "Homem-Cogumelo Recruta",
   "persona": {
-    "occupation": "Recruta"
+    "occupation": "Recruit"
   },
   "sight": {
     "ignore_infra_penalty": false,

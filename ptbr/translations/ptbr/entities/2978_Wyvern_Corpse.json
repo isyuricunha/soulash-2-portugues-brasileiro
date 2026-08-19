@@ -9,7 +9,7 @@
     "producer",
     "weight"
   ],
-  "description": "Um corpo sem vida de um vívere.",
+  "description": "Um corpo sem vida de uma vívera.",
   "glyph": {
     "frames": [
       {
@@ -38,7 +38,7 @@
     80,
     15
   ],
-  "name": "Cadáver de Vívere",
+  "name": "Cadáver de Vívera",
   "producer": {
     "products": {
       "3": [
@@ -54,5 +54,6 @@
     },
     "time": 10
   },
-  "weight": 200.0
+  "weight": 200.0,
+  "feminine_form": true
 }

@@ -33,7 +33,7 @@
     "producer"
   ],
   "corpse": [],
-  "description": "Um veio de gema de esmeralda na parede de pedra.",
+  "description": "Uma veia de gema de esmeralda em parede de pedra.",
   "glyph": {
     "frames": [
       {
@@ -56,7 +56,7 @@
     125,
     67
   ],
-  "name": "Veio de Esmeralda em Pedra",
+  "name": "Pedra de Veia de Esmeralda",
   "producer": {
     "products": {
       "5": [
@@ -71,5 +71,6 @@
       ]
     },
     "time": 30
-  }
+  },
+  "feminine_form": true
 }

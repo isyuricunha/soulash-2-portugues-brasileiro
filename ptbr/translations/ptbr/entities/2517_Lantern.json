@@ -9,7 +9,7 @@
     "position_2d"
   ],
   "corpse": [],
-  "description": "A lanterna emite um brilho quente e tremeluzente, lançando uma luz suave na área circundante.",
+  "description": "A lanterna emite um brilho quente e tremeluzente, projetando uma luz suave na área ao redor.",
   "glyph": {
     "frames": [
       {
@@ -48,5 +48,6 @@
     120,
     42
   ],
-  "name": "Lanterna"
+  "name": "Lanterna",
+  "feminine_form": true
 }

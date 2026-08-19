@@ -9,7 +9,7 @@
     "weapon",
     "weight"
   ],
-  "description": "Uma mão sem vida de um troll morto.",
+  "description": "Uma mão inerte de um troll morto.",
   "glyph": {
     "frames": [
       {
@@ -74,5 +74,6 @@
     "range": 1,
     "type": 9
   },
-  "weight": 1.5
+  "weight": 1.5,
+  "feminine_form": true
 }

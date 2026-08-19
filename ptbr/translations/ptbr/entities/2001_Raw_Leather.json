@@ -37,10 +37,11 @@
   ],
   "name": "Couro Cru",
   "resource": {
-    "affix": "Plain",
+    "affix": "Comum",
     "magic_ingredient": 0,
     "quality": 0,
-    "type": 2
+    "type": 2,
+    "feminine_affix": "Comum"
   },
   "value": 0,
   "weight": 0.20000000298023224

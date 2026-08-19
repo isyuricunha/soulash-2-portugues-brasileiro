@@ -9,7 +9,7 @@
     "producer"
   ],
   "corpse": [],
-  "description": "As pernas poderiam ter feito porretes decentes o suficiente, pelo menos antes de serem reduzidas a cinzas.",
+  "description": "Os pés poderiam ter feito clavas decentes, pelo menos antes de virarem cinza.",
   "glyph": {
     "frames": [
       {
@@ -46,5 +46,6 @@
       ]
     },
     "time": 10
-  }
+  },
+  "feminine_form": true
 }

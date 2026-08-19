@@ -25,7 +25,7 @@
       13
     ]
   },
-  "description": "Couro em um rack de secagem coberto de neve.",
+  "description": "Couro em um varal de secagem coberto de neve.",
   "glyph": {
     "frames": [
       {
@@ -47,7 +47,7 @@
     103,
     22
   ],
-  "name": "Rack de Secagem de Couro Congelado",
+  "name": "Varal de Secagem de Couro Congelado",
   "producer": {
     "products": {
       "core_2_deconstruct": [

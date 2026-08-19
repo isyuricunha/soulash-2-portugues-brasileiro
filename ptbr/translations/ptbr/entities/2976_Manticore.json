@@ -45,8 +45,8 @@
   },
   "fighter": {
     "attackNames": [
-      "Acidic Bite",
-      "Stingy Tail"
+      "Mordida Ácida",
+      "Cauda Ferroada"
     ]
   },
   "glyph": {
@@ -73,7 +73,7 @@
   "moveable": {
     "speed": 0.5
   },
-  "name": "Mantícora",
+  "name": "Manticora",
   "sight": {
     "ignore_infra_penalty": false,
     "infravision": false,
@@ -128,5 +128,6 @@
     "parry_bonus": 0,
     "range": 1,
     "type": 3
-  }
+  },
+  "feminine_form": true
 }

@@ -48,7 +48,7 @@
     "weapon"
   ],
   "corpse": "2525",
-  "description": "Um espectro melancólico que já foi de uma beleza incrível, agora retorcido e movido pela escuridão.",
+  "description": "Um espectro lamentoso, outrora de beleza incrível, agora torcido e movido pela escuridão.",
   "dialogues": [
     "202",
     "203"
@@ -58,7 +58,7 @@
       {
         "chance": 0.5,
         "id": "862",
-        "name": "Brinco",
+        "name": "Brincos",
         "stack": 1
       }
     ],
@@ -85,8 +85,8 @@
   },
   "fighter": {
     "attackNames": [
-      "Claws",
-      "Scratch"
+      "Garras",
+      "Arranhão"
     ]
   },
   "gender": "female",
@@ -169,5 +169,6 @@
     "parry_bonus": 0,
     "range": 1,
     "type": 3
-  }
+  },
+  "feminine_form": true
 }

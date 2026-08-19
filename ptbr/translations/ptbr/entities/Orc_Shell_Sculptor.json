@@ -78,9 +78,9 @@
   "moveable": {
     "speed": 1.0
   },
-  "name": "Orc Escultor de Conchas",
+  "name": "Escultor de Conchas Orc",
   "persona": {
-    "occupation": "Escultor de Conchas"
+    "occupation": "Shell Sculptor"
   },
   "sight": {
     "ignore_infra_penalty": false,

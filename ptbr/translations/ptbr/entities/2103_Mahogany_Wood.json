@@ -24,7 +24,7 @@
     "weapon",
     "weight"
   ],
-  "description": "Uma madeira bonita e durável que envelhece como um vinho fino.",
+  "description": "Uma madeira bela e durável que envelhece como um bom vinho.",
   "glyph": {
     "frames": [
       {
@@ -51,10 +51,11 @@
   ],
   "name": "Madeira de Mogno",
   "resource": {
-    "affix": "Mahogany",
+    "affix": "Mogno",
     "magic_ingredient": 0,
     "quality": 3,
-    "type": 3
+    "type": 3,
+    "feminine_affix": "Mogno"
   },
   "value": 1600,
   "weapon": {
@@ -73,5 +74,6 @@
     "range": 0,
     "type": 9
   },
-  "weight": 0.10000000149011612
+  "weight": 0.10000000149011612,
+  "feminine_form": true
 }

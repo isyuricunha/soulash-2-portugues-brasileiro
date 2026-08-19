@@ -40,7 +40,8 @@
     109,
     155
   ],
-  "name": "Amora-de-urso",
+  "name": "Uva-ursina",
   "value": 100,
-  "weight": 0.009999999776482582
+  "weight": 0.009999999776482582,
+  "feminine_form": true
 }

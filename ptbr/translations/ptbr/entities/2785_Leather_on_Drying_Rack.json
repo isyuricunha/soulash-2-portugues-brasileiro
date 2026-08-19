@@ -29,7 +29,7 @@
       13
     ]
   },
-  "description": "Um pedaço de couro recém-esfolado secando aqui antes de ser processado.",
+  "description": "Um pedaço de couro recém-esfolado secando aqui antes de poder ser processado mais adiante.",
   "glyph": {
     "frames": [
       {
@@ -50,7 +50,7 @@
     200,
     200
   ],
-  "name": "Couro no Esticador de Secagem",
+  "name": "Couro no Varal de Secagem",
   "producer": {
     "products": {
       "core_2_deconstruct": [

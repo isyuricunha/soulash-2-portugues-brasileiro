@@ -21,7 +21,7 @@
     "position_2d"
   ],
   "corpse": "core_2_Metal_Scraps",
-  "description": "Em outros tempos, poderia ter sido uma armadura bonita, mas alguém a deixou aqui para apodrecer e se decompor.",
+  "description": "Há tempos, deve ter sido uma bela armadura, mas alguém a deixou aqui para apodrecer e se decompor.",
   "glyph": {
     "frames": [
       {
@@ -43,5 +43,6 @@
     48,
     17
   ],
-  "name": "Armadura Enferrujada"
+  "name": "Armadura Enferrujada",
+  "feminine_form": true
 }

@@ -6,7 +6,7 @@
     "health": 0,
     "stamina": 0
   },
-  "description": "Invoca uma chuva de ácido causando ::damage de ::damage_type de dano.",
+  "description": "Invoca uma chuva ácida causando ::damage de dano ::damage_type.",
   "duration": 0.0,
   "effects": {
     "aoe_range": 15,

@@ -1,0 +1,72 @@
+{
+  "id": "core_2_location_raid_medium",
+  "name": "Bando de Invasores se Aproxima",
+  "category": "settlement",
+  "flavor": "Um bando de guerra endurecido emergiu de um covil próximo, atraído pelo cheiro de riqueza e sangue. Estes saqueadores lutam com brutalidade e fúria imparável até que o espírito do assentamento seja quebrado.",
+  "icon": 21,
+  "small_icon": 21,
+  "rarity": "uncommon",
+  "trigger": {
+    "base_probability": 0.01,
+    "conditions": [
+      {
+        "type": "settlement_tier_min",
+        "value": 2
+      },
+      {
+        "type": "settlement_tier_max",
+        "value": 2
+      },
+      {
+        "type": "nearby_location_difficulty",
+        "value": 2
+      }
+    ]
+  },
+  "duration": {
+    "type": "temporary",
+    "days": [
+      30,
+      60
+    ]
+  },
+  "effects": [
+    {
+      "type": "spawn_group",
+      "amount": [
+        5,
+        10
+      ],
+      "group_type": "hostile_group",
+      "entity_from_location": true,
+      "exclude": [],
+      "spawn_behaviors": [
+        21
+      ],
+      "border_color": [
+        200,
+        60,
+        60
+      ]
+    }
+  ],
+  "interactions": [
+    {
+      "type": "hostiles_cleared",
+      "translation_id": 0,
+      "history_event": "::name esmagou o bando de invasores que atacava ::settlement!",
+      "announcement": "O bando de invasores que atacava ::settlement foi derrotado!",
+      "reward": {
+        "gold": 500,
+        "remove_event": true
+      }
+    }
+  ],
+  "extra_dialogues": [
+    "core_2_raid_hard"
+  ],
+  "history_events": {
+    "begin": "Um bando de guerra de uma masmorra próxima lançou uma incursão brutal em ::settlement.",
+    "end": "O bando de guerra que atacava ::settlement foi repelido."
+  }
+}

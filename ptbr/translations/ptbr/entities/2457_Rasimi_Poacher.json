@@ -104,7 +104,7 @@
   "moveable": {
     "speed": 0.8999999761581421
   },
-  "name": "Caçador Rasimi",
+  "name": "Caçador Furtivo Rasimi",
   "sight": {
     "ignore_infra_penalty": false,
     "infravision": true,

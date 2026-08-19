@@ -22,7 +22,7 @@
     "time": 60,
     "tools": []
   },
-  "description": "Bom lugar para trabalhar.",
+  "description": "Bom lugar para consertar.",
   "glyph": {
     "frames": [
       {
@@ -64,5 +64,6 @@
       "id": 14,
       "quality": 100
     }
-  ]
+  ],
+  "feminine_form": true
 }

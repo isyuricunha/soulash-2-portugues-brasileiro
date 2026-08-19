@@ -23,13 +23,13 @@
     "producer"
   ],
   "corpse": [],
-  "description": "Um pequeno trecho de grama do pântano. Fácil de puxar do chão com as mãos nuas.",
+  "description": "Um pequeno tapete de grama de pântano. Fácil de arrancar do solo com as mãos nuas.",
   "glyph": {
     "frames": [
       {
         "color": [
           103,
-          75,
+          100,
           60
         ],
         "delay": 0,
@@ -41,7 +41,7 @@
       "colors": [
         [
           141,
-          103,
+          120,
           77
         ],
         [
@@ -50,22 +50,17 @@
           25
         ],
         [
-          110,
-          75,
-          60
-        ],
-        [
           82,
-          60,
-          56
+          80,
+          32
         ]
       ],
-      "count": 5,
+      "count": 8,
       "glyph_ids": [
         2111
       ],
       "max_alpha": 200,
-      "max_range": 6,
+      "max_range": 8,
       "wind": true
     }
   },
@@ -76,7 +71,7 @@
     89,
     31
   ],
-  "name": "Grama do Pântano",
+  "name": "Tapete de Grama de Pântano",
   "producer": {
     "products": {
       "10": [

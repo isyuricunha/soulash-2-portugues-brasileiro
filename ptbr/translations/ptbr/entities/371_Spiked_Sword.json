@@ -24,7 +24,7 @@
       1
     ]
   },
-  "description": "Lâmina longa de duas mãos coberta inteiramente com espinhos. Muito mortal.",
+  "description": "Longa lâmina de duas mãos coberta inteiramente por espinhos. Muito mortal.",
   "glyph": {
     "frames": [
       {
@@ -66,5 +66,6 @@
     "range": 1,
     "type": 1
   },
-  "weight": 3.5
+  "weight": 3.5,
+  "feminine_form": true
 }

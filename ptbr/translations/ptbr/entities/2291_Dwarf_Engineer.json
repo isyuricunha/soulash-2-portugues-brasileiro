@@ -81,7 +81,7 @@
   },
   "name": "Anão Engenheiro",
   "persona": {
-    "occupation": "Engenheiro"
+    "occupation": "Engineer"
   },
   "sight": {
     "ignore_infra_penalty": false,

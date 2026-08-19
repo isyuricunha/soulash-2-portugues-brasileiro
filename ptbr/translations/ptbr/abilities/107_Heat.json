@@ -6,7 +6,7 @@
     "health": 2,
     "stamina": 8
   },
-  "description": "Aumenta o calor corporal a graus muito altos, causando ::damage de dano ::damage_type a todos no alcance de ::aoe_range células ao redor do conjurador.",
+  "description": "Aumente o calor corporal a graus muito altos causando ::damage ::damage_type a todos no alcance de ::aoe_range ladrilhos ao redor do conjurador.",
   "duration": 0.0,
   "effects": {
     "aoe_range": 3,

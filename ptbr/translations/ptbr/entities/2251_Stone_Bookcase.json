@@ -37,7 +37,7 @@
     "time": 0,
     "tools": []
   },
-  "description": "Prateleiras de pedra fria para seus livros.",
+  "description": "Prateleiras de pedra frias para seus livros.",
   "glyph": {
     "frames": [
       {
@@ -77,7 +77,7 @@
     131,
     77
   ],
-  "name": "Estante de Livros de Pedra",
+  "name": "Estante de Pedra",
   "producer": {
     "products": {
       "core_2_deconstruct": [
@@ -92,5 +92,6 @@
       ]
     },
     "time": 40
-  }
+  },
+  "feminine_form": true
 }

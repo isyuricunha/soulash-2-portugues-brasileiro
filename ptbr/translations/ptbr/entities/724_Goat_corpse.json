@@ -9,7 +9,7 @@
     "producer",
     "weight"
   ],
-  "description": "Um corpo sem vida de uma cabra.",
+  "description": "Um corpo sem vida de um bode.",
   "glyph": {
     "frames": [
       {
@@ -38,7 +38,7 @@
     197,
     194
   ],
-  "name": "Cadáver de Cabra",
+  "name": "Cadáver de Bode",
   "producer": {
     "products": {
       "3": [

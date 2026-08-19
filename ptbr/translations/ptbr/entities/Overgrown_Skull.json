@@ -7,7 +7,7 @@
     "producer",
     "stackable"
   ],
-  "description": "Um crânio humanoide coberto por musgo e cogumelos.",
+  "description": "Um crânio humanoide coberto de musgo e cogumelos.",
   "glyph": {
     "frames": [
       {
@@ -28,7 +28,7 @@
     102,
     57
   ],
-  "name": "Crânio Coberto por Musgo",
+  "name": "Crânio Coberto de Musgo",
   "producer": {
     "products": {
       "10": [

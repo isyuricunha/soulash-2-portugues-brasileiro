@@ -10,7 +10,7 @@
     "value",
     "weight"
   ],
-  "description": "Esta fruta doce e mastigável é o lanche perfeito para um viajante em movimento.",
+  "description": "Esta fruta doce e mastigável é o lanche perfeito para um viajante apressado.",
   "food": {
     "nutrition": 15,
     "poisonous": 0,
@@ -42,5 +42,6 @@
   ],
   "name": "Tâmara",
   "value": 200,
-  "weight": 0.10000000149011612
+  "weight": 0.10000000149011612,
+  "feminine_form": true
 }

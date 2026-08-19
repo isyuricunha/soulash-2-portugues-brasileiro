@@ -22,7 +22,7 @@
     "time": 10,
     "tools": []
   },
-  "description": "Isso provavelmente quebrará no momento em que você esmagá-lo contra a cabeça de alguém.",
+  "description": "Provavelmente vai quebrar no momento em que você bater na cabeça de alguém com isto.",
   "glyph": {
     "frames": [
       {
@@ -87,5 +87,6 @@
       ]
     },
     "time": 20
-  }
+  },
+  "feminine_form": true
 }

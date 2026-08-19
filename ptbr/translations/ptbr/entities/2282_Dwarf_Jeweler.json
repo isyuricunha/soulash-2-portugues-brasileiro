@@ -79,9 +79,9 @@
   "moveable": {
     "speed": 1.5
   },
-  "name": "Anão Joalheiro",
+  "name": "Joalheiro Anão",
   "persona": {
-    "occupation": "Joalheiro"
+    "occupation": "Jeweler"
   },
   "sight": {
     "ignore_infra_penalty": false,

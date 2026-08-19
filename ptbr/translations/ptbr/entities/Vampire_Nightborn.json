@@ -50,7 +50,7 @@
       {
         "chance": 1.0,
         "id": "323",
-        "name": "Collant",
+        "name": "Meia-calça",
         "stack": 1
       }
     ],
@@ -99,7 +99,7 @@
   },
   "name": "Vampiro Nascido da Noite",
   "persona": {
-    "occupation": "Nascido da Noite"
+    "occupation": "Nightborn"
   },
   "sight": {
     "ignore_infra_penalty": false,

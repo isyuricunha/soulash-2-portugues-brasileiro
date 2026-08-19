@@ -9,7 +9,7 @@
     "weapon",
     "weight"
   ],
-  "description": "Sua lâmina tem o formato de uma chama e brilha com calor vermelho.",
+  "description": "Sua lâmina tem formato de chama e brilha com calor vermelho.",
   "glyph": {
     "frames": [
       {
@@ -53,5 +53,6 @@
     "range": 2,
     "type": 4
   },
-  "weight": 2.5
+  "weight": 2.5,
+  "feminine_form": true
 }

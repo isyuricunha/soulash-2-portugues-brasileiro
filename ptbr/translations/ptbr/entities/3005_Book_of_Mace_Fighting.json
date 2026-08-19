@@ -25,7 +25,7 @@
     "time": 60,
     "tools": []
   },
-  "description": "Alguns segredos contundentes de combate com maça estão escondidos nessas páginas.",
+  "description": "Alguns segredos contundentes do combate com maça estão escondidos nestas páginas.",
   "glyph": {
     "frames": [
       {
@@ -50,7 +50,7 @@
     178,
     176
   ],
-  "name": "Livro de Combate com Maça",
+  "name": "Livro do Combate com Maça",
   "usable": {
     "ability": "",
     "recipe": "",

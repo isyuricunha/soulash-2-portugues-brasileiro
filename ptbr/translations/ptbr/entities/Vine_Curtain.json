@@ -8,7 +8,7 @@
     "position_2d"
   ],
   "corpse": [],
-  "description": "Uma cortina verde feita de plantas emaranhadas.",
+  "description": "Uma cortina verde feita de plantas entrelaçadas.",
   "glyph": {
     "frames": [
       {
@@ -30,5 +30,6 @@
     108,
     14
   ],
-  "name": "Cortina de Trepadeiras"
+  "name": "Cortina de Vinha",
+  "feminine_form": true
 }

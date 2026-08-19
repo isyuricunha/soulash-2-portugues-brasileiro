@@ -6,7 +6,7 @@
     "health": 0,
     "stamina": 5
   },
-  "description": "Faça múltiplos ataques furiosos em um alvo causando ::damage ::damage_type de dano.",
+  "description": "Realiza vários ataques furiosos em um alvo causando ::damage de dano ::damage_type.",
   "duration": 0.0,
   "effects": {
     "damage": [

@@ -31,7 +31,7 @@
     "weapon"
   ],
   "corpse": "3019",
-  "description": "Um lindo verme aparentemente feito de substância pérola.",
+  "description": "Um belo vorme aparentemente feito de substância perolada.",
   "dialogues": [],
   "experience_gainer": {
     "exp": 0,
@@ -39,7 +39,7 @@
   },
   "fighter": {
     "attackNames": [
-      "Bite"
+      "Mordida"
     ]
   },
   "glyph": {
@@ -66,7 +66,7 @@
   "moveable": {
     "speed": 1.100000023841858
   },
-  "name": "Verme de Pérola",
+  "name": "Vorme de Pérola",
   "sight": {
     "ignore_infra_penalty": false,
     "infravision": true,

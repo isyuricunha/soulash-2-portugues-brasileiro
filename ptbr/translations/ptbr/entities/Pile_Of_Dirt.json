@@ -6,7 +6,7 @@
     "position_2d",
     "stackable"
   ],
-  "description": "Apenas uma pilha de terra recém-escavada.",
+  "description": "Apenas um monte de terra recém-revolvida.",
   "glyph": {
     "frames": [
       {
@@ -27,5 +27,5 @@
     113,
     115
   ],
-  "name": "Pilha de Terra"
+  "name": "Monte de Terra"
 }

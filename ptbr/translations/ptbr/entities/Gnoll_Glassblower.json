@@ -79,9 +79,9 @@
   "moveable": {
     "speed": 1.2999999523162842
   },
-  "name": "Soprador de Vidro Gnoll",
+  "name": "Vidor Gnoll",
   "persona": {
-    "occupation": "Soprador de Vidro"
+    "occupation": "Glassblower"
   },
   "sight": {
     "ignore_infra_penalty": false,

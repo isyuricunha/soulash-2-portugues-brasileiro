@@ -10,7 +10,7 @@
     "value",
     "weight"
   ],
-  "description": "Os restos sem vida de um guerreiro reptiliano temível, agora um testemunho de sua morte.",
+  "description": "Os restos inanimados de um temível guerreiro réptil, agora um testamento de sua morte.",
   "glyph": {
     "frames": [
       {
@@ -39,7 +39,7 @@
     124,
     162
   ],
-  "name": "Cadáver de Homem-Lagarto",
+  "name": "Cadáver de Lagarto-homem",
   "producer": {
     "products": {
       "3": [

@@ -37,7 +37,7 @@
       14
     ]
   },
-  "description": "Armadura feita com fragmentos de ossos para proteger seu torso.",
+  "description": "Armadura feita com estilhaços de ossos para proteger seu torso.",
   "glyph": {
     "frames": [
       {
@@ -64,5 +64,6 @@
   ],
   "name": "Armadura de Estilhaços de Osso",
   "value": 1500,
-  "weight": 2.0
+  "weight": 2.0,
+  "feminine_form": true
 }

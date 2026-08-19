@@ -1,9 +1,9 @@
 [
   {
     "id": "core_2_adventuring",
-    "name": "Aventura",
+    "name": "Aventureirismo",
     "image": 0,
-    "description": "Aventura é sobre explorar o mundo, descobrir lugares há muito esquecidos e desvendar artefatos de civilizações passadas. É um caminho para exploradores destemidos que empreendem viagens ousadas para o desconhecido.\n\nVocê pode treinar esta habilidade fabricando, descobrindo pontos de interesse ou recursos.",
+    "description": "Aventureirismo é sobre explorar o mundo, descobrir lugares há muito abandonados e encontrar artefatos de civilizações passadas. É um caminho para exploradores destemidos que empreendem viagens ousadas ao desconhecido.\n\nVocê pode treinar esta habilidade fabricando, descobrindo pontos de interesse ou recursos.",
     "exp_sources": [
       {
         "id": "craft",
@@ -62,7 +62,7 @@
     "id": "core_2_agriculture",
     "name": "Agricultura",
     "image": 20,
-    "description": "A agricultura é a arte de cultivar plantas, criar gado e usar esses recursos para fazer comida saborosa, às vezes com qualidades surpreendentes. É a maneira mais fácil de garantir que você sempre estará satisfeito.\n\nVocê pode treinar esta habilidade plantando culturas, criando pratos saborosos, colhendo, debulhando, ordenhando vacas ou cabras e tosquiando ovelhas.",
+    "description": "Agricultura é a arte de cultivar lavouras, criar gado e usar esses recursos para fazer comidas saborosas, às vezes com qualidades surpreendentes. É a maneira mais fácil de garantir que você sempre estará saciado.\n\nVocê pode treinar esta habilidade plantando lavouras, preparando pratos saborosos, colhendo, debulhando, ordenhando vacas ou cabras e tosquiando ovelhas.",
     "exp_sources": [
       {
         "id": "craft",
@@ -147,7 +147,7 @@
     "id": "core_2_alchemy",
     "name": "Alquimia",
     "image": 25,
-    "description": "Alquimistas são pessoas que misturam ingredientes aparentemente aleatórios e obtêm resultados surpreendentes. Combinando medições precisas de componentes naturais com processos arcanos, o alquimista pode transmutar matérias-primas em substâncias com propriedades únicas. Muitas vezes explosivas.\n\nVocê pode treinar esta habilidade esculpindo recursos de cadáveres ou fabricando e desmontando produtos de Alquimia.",
+    "description": "Alquimistas são pessoas que misturam ingredientes aparentemente aleatórios e obtêm resultados surpreendentes. Combinando medidas precisas de componentes naturais com processos arcanos, o alquimista pode transmutar matérias-primas em substâncias com propriedades únicas. Frequentemente explosivas.\n\nVocê pode treinar esta habilidade extraindo recursos de cadáveres, ou fabricando e recuperando produtos de Alquimia.",
     "exp_sources": [
       {
         "id": "craft",
@@ -220,9 +220,9 @@
   },
   {
     "id": "core_2_armorsmith",
-    "name": "Armoreiro",
+    "name": "Armorearia",
     "image": 11,
-    "description": "Armoreiro é a habilidade de moldar metal em peças de proteção invulneráveis e impressionantes. Enquanto está perto de uma forja extremamente quente, você fará peças de armadura e escudos como o mundo nunca viu antes. Uma mão principal mais forte vem como um bônus considerável.\n\nVocê pode treinar esta habilidade fabricando, melhorando ou desmontando peças de armadura.",
+    "description": "A Armorearia é a capacidade de dobrar metal em peças de proteção invulneráveis e deslumbrantes. Enquanto estiver perto de uma forja abrasadora, você fará peças de armadura e escudos como o mundo nunca viu antes. Uma mão principal mais forte vem como um bônus generoso.\n\nVocê pode treinar esta habilidade fabricando, aprimorando ou recuperando peças de armadura.",
     "exp_sources": [
       {
         "id": "craft",
@@ -286,7 +286,7 @@
     "id": "core_2_athletics",
     "name": "Atletismo",
     "image": 7,
-    "description": "Atletismo é um caminho para uma destreza física que quebra limites. Requer disciplina tremenda e um desejo ardente de ser melhor que todos os outros. Especialistas no campo correm mais rápido, saltam mais alto, arremessam mais longe e suportam mais dor.\n\nVocê pode treinar esta habilidade usando habilidades, arrastando (pelo menos objetos de peso 40, até o nível 5), arremessando, escalando, saltando de alturas e caminhando.",
+    "description": "O Atletismo é um caminho para proeza física que quebra limites. Exige tremenda disciplina e um desejo ardente de ser melhor que todos os outros. Especialistas na área correm mais rápido, pulam mais alto, arremessam mais longe e suportam mais dor.\n\nVocê pode treinar esta habilidade usando habilidades, arrastando (objetos com peso mínimo de 40, até o nível 5), arremessando, escalando, saltando de alturas e caminhando.",
     "exp_sources": [
       {
         "id": "ability",
@@ -352,7 +352,7 @@
     "id": "core_2_axe_fighting",
     "name": "Combate com Machado",
     "image": 5,
-    "description": "O domínio do machado é para os guerreiros mais brutais, pois o manuseio adequado requer uma força extraordinária. Nas mãos certas, essas armas podem causar o dano mais devastador de todos os tipos de armas corpo a corpo.\n\nVocê pode treinar esta habilidade usando habilidades e atacando com machados.",
+    "description": "A maestria do machado é para os mais resistentes e brutais guerreiros, pois o manejo adequado exige uma força extraordinária. Nas mãos certas, essas armas podem causar o dano mais devastador de todos os tipos de armas corpo a corpo.\n\nVocê pode treinar esta habilidade usando habilidades e atacando com machados.",
     "combat_skill": true,
     "exp_sources": [
       {
@@ -415,7 +415,7 @@
     "id": "core_2_divine_fists",
     "name": "Punhos Divinos",
     "image": 26,
-    "description": "Seus punhos se tornam um farol de poder celestial, esmagando inimigos com uma força santificada crescente que brilha mais quanto mais você luta. Desencadeie um torrente de fúria divina com luvas ou armas de socos, infundindo cada golpe com dano sagrado radiante.\n\nVocê pode treinar esta habilidade usando habilidades e atacando desarmado.",
+    "description": "Seus punhos tornam-se um farol de poder celestial, esmagando inimigos com uma força santificada e crescente que brilha mais intensamente quanto mais tempo você luta. Liberte um torrão de ira divina com armas de luva ou manopla, infundindo cada golpe com dano sagrado radiante.\n\nVocê pode treinar esta habilidade usando habilidades e atacando desarmado.",
     "combat_skill": true,
     "exp_sources": [
       {
@@ -474,7 +474,7 @@
     "id": "core_2_carpentry",
     "name": "Carpintaria",
     "image": 12,
-    "description": "Carpintaria é a arte de transformar grandes peças de madeira em peças menores e pregá-las juntas para criar um valor duradouro na forma de móveis, arcos, escudos ou construções de madeira.\n\nVocê pode treinar esta habilidade fabricando, melhorando ou desmontando equipamentos de madeira e construindo estruturas de madeira.",
+    "description": "A carpintaria é o ofício de transformar grandes pedaços de madeira em menores e pregá-los juntos para criar valor duradouro na forma de móveis, arcos, escudos ou construções de madeira.\n\nVocê pode treinar esta habilidade criando, aprimorando ou recuperando equipamentos de madeira e construindo estruturas de madeira.",
     "exp_sources": [
       {
         "id": "craft",
@@ -538,7 +538,7 @@
     "id": "core_2_construction",
     "name": "Construção",
     "image": 15,
-    "description": "Construção permite a criação de estruturas de pedra e metal no mundo. É um caminho para aqueles que desejam deixar um legado que permanecerá por muitas gerações.\n\nVocê pode treinar esta habilidade reivindicando uma região e construindo estruturas.",
+    "description": "A construção permite a criação de estruturas de pedra e metal no mundo. É um caminho para aqueles que desejam deixar um legado que permanecerá por muitas gerações.\n\nVocê pode treinar esta habilidade reivindicando uma região e construindo estruturas.",
     "exp_sources": [
       {
         "id": "craft",
@@ -594,7 +594,7 @@
     "id": "core_2_cryomancy",
     "name": "Criomancia",
     "image": 17,
-    "description": "Criomancia é um poder mágico que manipula a água e sua temperatura. Enquanto adeptos desta magia são conhecidos por envolver seus oponentes em túmulos congelados, muitos a usam para controlar o fluxo de água ou até mesmo causar chuva.\n\nVocê pode treinar esta habilidade usando habilidades.",
+    "description": "A criomancia é um poder mágico que manipula a água e sua temperatura. Embora os adeptos desta magia sejam conhecidos por envolver seus oponentes em tumbas congeladas, muitos a usam para controlar o fluxo de água ou até mesmo causar chuva.\n\nVocê pode treinar esta habilidade usando habilidades.",
     "combat_skill": true,
     "exp_sources": [
       {
@@ -639,7 +639,7 @@
     "id": "core_2_floromancy",
     "name": "Floromancia",
     "image": 23,
-    "description": "Floromancia é uma prática mística profundamente enraizada na essência da natureza. Praticantes da floromancia, conhecidos como floromantes, utilizam o poder inerente das plantas e da vegetação para exercer magia que é tanto bela quanto mortal.\n\nVocê pode treinar esta habilidade usando habilidades.",
+    "description": "A Floromancia é uma prática mística profundamente enraizada na essência da natureza. Os praticantes de floromancia, conhecidos como floromantes, aproveitam o poder inerente das plantas e da vegetação para manejar uma magia que é bela e mortal ao mesmo tempo.\n\nVocê pode treinar esta habilidade usando habilidades.",
     "combat_skill": true,
     "exp_sources": [
       {
@@ -688,7 +688,7 @@
     "id": "core_2_hunting",
     "name": "Caça",
     "image": 16,
-    "description": "Caça permite que você rastreie sua presa com precisão, libere descargas mortais com arco ou bestas e forme laços com companheiros animais.\n\nVocê pode treinar esta habilidade usando habilidades e atacando com arcos e bestas.",
+    "description": "A Caça permite que você rastreie sua presa com precisão, dispare rajadas mortais com arco ou besta, e crie laços com companheiros animais.\n\nVocê pode treinar esta habilidade usando habilidades e atacando com arcos e bestas.",
     "weapon_type": 5,
     "exp_sources": [
       {
@@ -771,7 +771,7 @@
     "id": "core_2_imbuing",
     "name": "Imbuição",
     "image": 22,
-    "description": "Esta habilidade mística entrelaça a arte da joalheria com o ofício arcano de preparar ingredientes mágicos. Mestres desta habilidade possuem um profundo entendimento tanto das propriedades físicas quanto metafísicas dos materiais, permitindo-lhes infundir suas criações com encantamentos que variam de aprimorar a beleza a conceder amuletos protetores.\n\nVocê pode treinar esta habilidade fabricando, melhorando ou desmontando algumas joias e ingredientes mágicos.",
+    "description": "Esta habilidade mística entrelaça a arte da joalheria com o ofício arcano de preparar ingredientes mágicos. Mestres desta habilidade possuem um profundo entendimento tanto das propriedades físicas quanto metafísicas dos materiais, permitindo-lhes infundir suas criações com encantamentos que variam de realçar a beleza a conceder amuletos protetores.\n\nVocê pode treinar esta habilidade fabricando, aprimorando ou recuperando algumas joias e ingredientes mágicos.",
     "exp_sources": [
       {
         "id": "craft",
@@ -823,7 +823,7 @@
     "id": "core_2_leadership",
     "name": "Liderança",
     "image": 21,
-    "description": "Liderança é sua arma, capacitando aqueles ao seu redor. Sua orientação estratégica desbloqueia o potencial deles, e juntos vocês forjam uma força formidável capaz de superar qualquer perigo.\n\nVocê pode treinar esta habilidade dando ordens aos seus companheiros, quando seus companheiros derrotam inimigos ou quando terminam de construir estruturas.",
+    "description": "A Liderança é sua arma, fortalecendo aqueles ao seu redor. Sua orientação estratégica libera o potencial deles, e juntos vocês forjam uma força formidável capaz de superar qualquer perigo.\n\nVocê pode treinar esta habilidade dando ordens aos seus companheiros, quando seus companheiros derrotam inimigos, ou quando eles terminam de construir estruturas.",
     "exp_sources": [
       {
         "id": "order",
@@ -863,9 +863,9 @@
   },
   {
     "id": "core_2_leatherworking",
-    "name": "Couraria",
+    "name": "Curtume",
     "image": 9,
-    "description": "A Couraria utiliza peles e couros de criaturas mortas para criar camadas extras de proteção contra condições climáticas ou danos físicos, como roupas ou armaduras. Embora o metal ofereça melhor defesa, o couro é mais barato e não reduz os reflexos, tornando-o ideal para personagens ágeis.\n\nVocê pode treinar esta habilidade craftando, melhorando ou desmanchando peças de armadura.",
+    "description": "O Curtume utiliza peles e couros de criaturas mortas para criar camadas extras de proteção contra condições climáticas ou danos físicos, como roupas ou armaduras. Embora o metal ofereça melhor defesa, o couro é mais barato e não reduz os reflexos, tornando-o ideal para personagens ágeis.\n\nVocê pode treinar esta habilidade criando, melhorando ou recuperando peças de armadura.",
     "exp_sources": [
       {
         "id": "craft",
@@ -929,7 +929,7 @@
     "id": "core_2_mace_fighting",
     "name": "Combate com Maça",
     "image": 6,
-    "description": "Pode não ser possível decapitar um oponente com uma maça ou um martelo, mas esmagar a cabeça de alguém como uma melancia é provavelmente a próxima melhor coisa. A especialidade do combate com maça é o controle do campo de batalha, pois os usuários focam em perturbar as ações do inimigo.\n\nVocê pode treinar esta habilidade usando habilidades e atacando com maças.",
+    "description": "Pode não ser possível decapitar um oponente com uma maça ou um martelo, mas estourar a cabeça de alguém como uma melancia é provavelmente a próxima melhor coisa. A especialidade do combate com maça é o controle do campo de batalha, pois os usuários focam em interromper as ações do inimigo.\n\nVocê pode treinar esta habilidade usando habilidades e atacando com maças.",
     "combat_skill": true,
     "exp_sources": [
       {
@@ -992,7 +992,7 @@
     "id": "core_2_necromancy",
     "name": "Necromancia",
     "image": 1,
-    "description": "A Necromancia é a arte mágica de se comunicar com os mortos. É perigosa e corrompe a mente e a alma de seus praticantes. A maioria dos mortais teme a morte, mas não tanto quanto temem os seres dispostos a qualquer coisa para desafiá-la. Este caminho não é frequentemente escolhido por aqueles que buscam poderes destrutivos devastadores, pois a maioria dos indivíduos não deseja causar dano aos outros, mas prolongar sua vida ou recuperar um ente querido perdido. Isso até que sua dor e sede por conhecimento os consumam completamente.\n\nVocê pode treinar esta habilidade usando habilidades, corrompendo almas e tomando controle de criaturas mortas-vivas.",
+    "description": "A Necromancia é a arte mágica de comungar com os mortos. É perigosa e corrompe a mente e a alma de seus praticantes. A maioria dos mortais teme a morte, mas não tanto quanto teme os seres dispostos a ir a qualquer extensão para desafiá-la. Este caminho não é frequentemente escolhido por aqueles que buscam poderes destrutivos devastadores, pois a maioria dos indivíduos o deseja não para causar dano a outros, mas para prolongar sua vida ou recuperar um ente querido perdido. Isso até que sua dor e sede de conhecimento os consumam por completo.\n\nVocê pode treinar esta habilidade usando habilidades, corrompendo almas e assumindo o controle de criaturas mortas-vivas.",
     "combat_skill": true,
     "exp_sources": [
       {
@@ -1044,9 +1044,9 @@
   },
   {
     "id": "core_2_pole_fighting",
-    "name": "Combate com Armas de Haste",
+    "name": "Luta com Postes",
     "image": 13,
-    "description": "Cavaleiros não são um problema se carregarem diretamente em uma piqua preparada. Seus oponentes não podem fazer um ataque de corte com espada contra você se você os mantiver na ponta de sua longa lança. Armas de haste podem ser uma grande adição ao arsenal de qualquer guerreiro, pois focam nos benefícios de alcance e posicionamento.\n\nVocê pode treinar esta habilidade usando habilidades e atacando com armas de haste.",
+    "description": "Cavaleiros não são um problema se investirem diretamente contra uma pique preparada. Seus oponentes não podem fazer um ataque de corte com espada contra você se você os mantiver na ponta de sua longa lança. Armas de haste podem ser uma ótima adição ao arsenal de qualquer guerreiro, pois focam nos benefícios de alcance e posicionamento.\n\nVocê pode treinar esta perícia usando habilidades e atacando com armas de haste.",
     "weapon_type": 4,
     "exp_sources": [
       {
@@ -1108,7 +1108,7 @@
     "id": "core_2_protection",
     "name": "Proteção",
     "image": 3,
-    "description": "Proteção é uma habilidade focada inteiramente em um único objetivo - não morrer. Seja você quer esquivar ágilmente de ataques ou usar um escudo robusto para se cobrir, este é o caminho para se tornar um veterano um dia.\n\nVocê pode treinar esta habilidade usando habilidades e aparando com um escudo equipado.",
+    "description": "Proteção é uma perícia focada inteiramente em um único objetivo - não morrer. Seja para desviar nimbamente de ataques ou usar um escudo volumoso para se proteger, este é o caminho para se tornar um veterano experiente um dia.\n\nVocê pode treinar esta perícia usando habilidades e aparando com um escudo equipado.",
     "combat_skill": true,
     "exp_sources": [
       {
@@ -1169,7 +1169,7 @@
     "id": "core_2_pyromancy",
     "name": "Piromancia",
     "image": 2,
-    "description": "A Piromancia é uma das escolas de magia que se concentra no poder devastador do fogo e em temperaturas extremamente altas. É um caminho para pessoas que querem ver o mundo queimar e seus inimigos se transformarem em cinzas.\n\nVocê pode treinar esta habilidade usando habilidades.",
+    "description": "A Piromancia é uma das escolas de magia que foca no poder devastador do fogo e de temperaturas extremamente altas. É um caminho para aqueles que querem ver o mundo queimar e seus inimigos virarem cinzas.\n\nVocê pode treinar esta perícia usando habilidades.",
     "combat_skill": true,
     "exp_sources": [
       {
@@ -1212,9 +1212,9 @@
   },
   {
     "id": "core_2_stormthrowing",
-    "name": "Arremesso de Tempestades",
+    "name": "Arremesso de Tempestade",
     "image": 24,
-    "description": "O Arremesso de Tempestades funde o arremesso especializado de armas com magia eletrizante. Perfeito para combatentes que buscam uma mistura de ataques físicos à distância e magia elemental. Esta combinação mortal os torna formidáveis oponentes no campo de batalha.\n\nVocê pode treinar esta habilidade atacando com armas de arremesso e usando habilidades.",
+    "description": "O Arremesso de Tempestade funde o arremesso especializado de armas com magia eletrizante. Perfeito para combatentes que buscam uma mistura de ataques físicos à distância e magia elemental. Essa combinação letal os torna inimigos formidáveis no campo de batalha.\n\nVocê pode treinar esta perícia atacando com armas de arremesso e usando habilidades.",
     "combat_skill": true,
     "exp_sources": [
       {
@@ -1276,7 +1276,7 @@
     "id": "core_2_sword_fighting",
     "name": "Combate com Espada",
     "image": 4,
-    "description": "Espadas são as armas mais comuns e versáteis. São leves, rápidas e bem equilibradas. O domínio da lâmina vem com vantagens na chance de acerto, contra-ataques e causar ataques devastadores de sangramento.\n\nVocê pode treinar esta habilidade usando habilidades e atacando com espadas.",
+    "description": "Espadas são as armas mais comuns e versáteis. Elas são leves, rápidas e bem equilibradas. A Maestria da lâmina traz vantagens em chance de acerto, contra-ataques e causar ataques devastadores de sangramento.\n\nVocê pode treinar esta perícia usando habilidades e atacando com espadas.",
     "weapon_type": 1,
     "exp_sources": [
       {
@@ -1335,7 +1335,7 @@
     "id": "core_2_tailoring",
     "name": "Alfaiataria",
     "image": 8,
-    "description": "Alfaiataria é a arte de fazer roupas a partir de fibras naturais. Seja estilosa, assustadora ou engraçada, você também pode se tornar um adorno para um novo chapéu. A maioria das roupas oferece pouca ou nenhuma proteção física, mas são leves e não restringem o movimento.\n\nVocê pode treinar esta habilidade criando, melhorando ou desmanchando roupas.",
+    "description": "A alfaiataria é o ofício de fazer roupas a partir de fibras naturais. Sejam elegantes, assustadoras ou engraçadas, você também pode virar enfeite para um novo chapéu. A maioria das roupas oferece proteção física limitada ou nenhuma, mas são leves e não restringem o movimento.\n\nVocê pode treinar esta habilidade criando, melhorando ou recuperando roupas.",
     "exp_sources": [
       {
         "id": "craft",
@@ -1397,9 +1397,9 @@
   },
   {
     "id": "core_2_thievery",
-    "name": "Ladinagem",
+    "name": "Furto",
     "image": 14,
-    "description": "Ladinagem é a arte de tomar o que ainda não pertence a você. Dependendo da astúcia do praticante, pode ser um caminho para riqueza incrível ou uma corda ao redor do pescoço. Esta habilidade também está associada ao domínio de adagas.\n\nVocê pode treinar esta habilidade usando habilidades e atacando com adagas, bem como furtando pessoas ou roubando famílias.",
+    "description": "O furto é a arte de tomar o que ainda não lhe pertence. Dependendo da astúcia do praticante, pode ser um caminho para uma riqueza incrível ou uma forca no pescoço. Esta habilidade também está associada à maestria das adagas.\n\nVocê pode treinar esta habilidade usando habilidades e atacando com adagas, bem como furtando bolsos de pessoas ou roubando famílias.",
     "weapon_type": 3,
     "exp_sources": [
       {
@@ -1410,6 +1410,11 @@
       {
         "id": "pickpocket",
         "rate": 5
+      },
+      {
+        "id": "production",
+        "rate": 7,
+        "production_action": "core_2_rummage"
       },
       {
         "id": "rob",
@@ -1471,9 +1476,9 @@
   },
   {
     "id": "core_2_weaponsmith",
-    "name": "Armeiro",
+    "name": "Armearia",
     "image": 10,
-    "description": "A única coisa melhor do que ficar o dia todo perto de uma forja escaldante montando armaduras é ficar no mesmo lugar fabricando armas. Seja você precise de uma espada afiada, uma adaga pontuda, um machado poderoso ou um martelo massivo para compensar algo, um armeiro irá te fornecer o que há de melhor.\n\nVocê pode treinar esta habilidade fabricando, melhorando ou desmanchando armas.",
+    "description": "A única coisa melhor do que passar o dia inteiro perto de uma forja escaldante montando armaduras é ficar no mesmo lugar forjando armas. Seja uma espada afiada, uma adaga pontiaguda, um machado poderoso ou um martelo enorme para compensar algo, um armeiro lhe conseguirá o melhor material.\n\nVocê pode treinar esta habilidade criando, melhorando ou recuperando armas.",
     "exp_sources": [
       {
         "id": "craft",

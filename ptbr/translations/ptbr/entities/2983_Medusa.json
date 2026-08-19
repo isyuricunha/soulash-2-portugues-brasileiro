@@ -34,7 +34,7 @@
     "tags"
   ],
   "corpse": "2980",
-  "description": "Uma bela dama com cobras mortais no lugar de cabelos.",
+  "description": "Uma bela dama com cobras mortais no lugar dos cabelos.",
   "dialogues": [
     "645",
     "646"
@@ -105,5 +105,6 @@
     "9",
     "17",
     "38"
-  ]
+  ],
+  "feminine_form": true
 }

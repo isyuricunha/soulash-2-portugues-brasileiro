@@ -11,7 +11,7 @@
     "stackable"
   ],
   "corpse": [],
-  "description": "Essas plantas cultivam algodão, que pode ser usado na produção de tecido.",
+  "description": "Estas plantas produzem algodão, que pode ser usado na produção de tecido.",
   "glyph": {
     "frames": [
       {
@@ -73,6 +73,10 @@
         }
       ]
     },
+    "follow_up": {
+      "10": "core_2_Cotton_Soil"
+    },
     "time": 60
-  }
+  },
+  "feminine_form": true
 }

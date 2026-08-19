@@ -6,7 +6,7 @@
     "health": 0,
     "stamina": 7
   },
-  "description": "Arremessa escudo em um alvo causando ::damage ::damage_type de dano e atordoando-o por ::stun turnos.",
+  "description": "Arremesse o escudo em um alvo causando ::damage de dano ::damage_type e atordoando-o por ::stun turnos.",
   "duration": 0.0,
   "effects": {
     "damage": [

@@ -47,7 +47,7 @@
     "weapon"
   ],
   "corpse": "2749",
-  "description": "É semelhante em tamanho a um cavalo comum, mas seu corpo é tão quente que pode iniciar um incêndio.",
+  "description": "Tem tamanho semelhante ao de um cavalo comum, mas seu corpo é tão quente que pode iniciar um incêndio.",
   "dialogues": [
     "111",
     "110",
@@ -81,8 +81,8 @@
   },
   "fighter": {
     "attackNames": [
-      "Bite",
-      "Horns"
+      "Mordida",
+      "Chifres"
     ]
   },
   "glyph": {

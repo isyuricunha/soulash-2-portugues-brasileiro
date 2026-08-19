@@ -76,9 +76,9 @@
   "moveable": {
     "speed": 1.100000023841858
   },
-  "name": "Elfo Portador de Luz",
+  "name": "Elfo Portador da Luz",
   "persona": {
-    "occupation": "Portador de Luz"
+    "occupation": "Light Bringer"
   },
   "sight": {
     "ignore_infra_penalty": false,

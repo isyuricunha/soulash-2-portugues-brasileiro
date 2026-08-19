@@ -45,7 +45,7 @@
       14
     ]
   },
-  "description": "Botas altas e escuras com um leve salto. Muito chiques.",
+  "description": "Botas altas e escuras com um leve salto. Muito chique.",
   "glyph": {
     "frames": [
       {
@@ -70,7 +70,8 @@
     200,
     33
   ],
-  "name": "Botas Escuras",
+  "name": "Botas Sombrias",
   "value": 4500,
-  "weight": 2.5
+  "weight": 2.5,
+  "feminine_form": true
 }

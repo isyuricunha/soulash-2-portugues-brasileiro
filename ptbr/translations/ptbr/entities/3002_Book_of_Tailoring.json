@@ -25,7 +25,7 @@
     "time": 60,
     "tools": []
   },
-  "description": "Alguns segredos elegantes de alfaiataria estão escondidos nessas páginas.",
+  "description": "Alguns segredos elegantes da alfaiataria estão escondidos nestas páginas.",
   "glyph": {
     "frames": [
       {
@@ -50,7 +50,7 @@
     178,
     176
   ],
-  "name": "Livro de Alfaiataria",
+  "name": "Livro da Alfaiataria",
   "usable": {
     "ability": "",
     "recipe": "",

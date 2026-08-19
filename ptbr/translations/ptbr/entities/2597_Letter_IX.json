@@ -8,7 +8,7 @@
     "stackable",
     "weight"
   ],
-  "description": "Uma carta que diz: \n\"Eu só espero que não levemos a diversão longe demais desta vez. Sangue para os deuses do sangue!\"",
+  "description": "Uma carta que diz: \n''Só espero que a gente não leve a diversão longe demais desta vez. Sangue para os deuses do sangue!''",
   "glyph": {
     "frames": [
       {
@@ -34,5 +34,6 @@
     137
   ],
   "name": "Carta IX",
-  "weight": 0.10000000149011612
+  "weight": 0.10000000149011612,
+  "feminine_form": true
 }

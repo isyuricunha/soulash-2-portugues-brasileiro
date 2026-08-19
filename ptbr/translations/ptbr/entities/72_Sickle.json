@@ -30,7 +30,7 @@
       1
     ]
   },
-  "description": "Útil para coletar ervas",
+  "description": "Útil para colher ervas.",
   "glyph": {
     "frames": [
       {
@@ -79,5 +79,6 @@
     "range": 1,
     "type": 3
   },
-  "weight": 1.0
+  "weight": 1.0,
+  "feminine_form": true
 }

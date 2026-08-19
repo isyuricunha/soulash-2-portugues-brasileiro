@@ -70,5 +70,6 @@
     "spawn_chance": 2.0,
     "spawn_multiply": 20.0,
     "spawn_rolls": 1
-  }
+  },
+  "feminine_form": true
 }

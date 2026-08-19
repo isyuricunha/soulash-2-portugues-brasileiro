@@ -9,7 +9,7 @@
     "value",
     "weight"
   ],
-  "description": "Uma cabeça de medusa, ainda viva. Quando espremida corretamente, ela expele um enxame de gafanhotos.",
+  "description": "Uma cabeça de medusa, ainda viva. Quando apertada corretamente, cospe um enxame de gafanhotos.",
   "glyph": {
     "frames": [
       {
@@ -40,5 +40,6 @@
     "recipe": ""
   },
   "value": 22000,
-  "weight": 1.0
+  "weight": 1.0,
+  "feminine_form": true
 }

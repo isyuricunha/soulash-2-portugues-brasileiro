@@ -23,7 +23,7 @@
     "time": 30,
     "tools": []
   },
-  "description": "Um simples poste de madeira com uma linha presa a ele e um pequeno gancho de metal na ponta.",
+  "description": "Peixe verde com listras verticais escuras. É comumente encontrado durante a primavera em rios e lagos",
   "glyph": {
     "frames": [
       {
@@ -48,7 +48,7 @@
     78,
     34
   ],
-  "name": "Vara de Pescar",
+  "name": "Vara de Pesca",
   "tool": [
     {
       "id": 5,
@@ -72,5 +72,6 @@
     "range": 5,
     "type": 8
   },
-  "weight": 1.5
+  "weight": 1.5,
+  "feminine_form": true
 }

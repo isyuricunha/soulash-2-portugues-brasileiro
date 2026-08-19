@@ -24,7 +24,7 @@
     "weapon",
     "weight"
   ],
-  "description": "Este couro rústico e resistente apresenta um padrão de grãos único.",
+  "description": "Este couro robusto e resistente exibe um padrão de grão único.",
   "glyph": {
     "frames": [
       {
@@ -49,12 +49,13 @@
     93,
     57
   ],
-  "name": "Couro de Bisonte",
+  "name": "Couro de Bisão",
   "resource": {
-    "affix": "Resilient",
+    "affix": "Resiliente",
     "magic_ingredient": 0,
     "quality": 2,
-    "type": 2
+    "type": 2,
+    "feminine_affix": "Resiliente"
   },
   "value": 900,
   "weapon": {

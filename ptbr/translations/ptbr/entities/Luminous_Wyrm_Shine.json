@@ -10,7 +10,7 @@
     "value",
     "weight"
   ],
-  "description": "Como alguém conseguiu colocá-lo na garrafa?",
+  "description": "Como alguém conseguiu colocar isso dentro da garrafa?",
   "glyph": {
     "frames": [
       {
@@ -35,7 +35,7 @@
     144,
     88
   ],
-  "name": "Brilho Luminoso de Vermes",
+  "name": "Brilho de Serpe Luminosa",
   "resource": {
     "affix": "",
     "magic_ingredient": 0,

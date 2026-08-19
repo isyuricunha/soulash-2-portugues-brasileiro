@@ -85,9 +85,9 @@
   "moveable": {
     "speed": 1.2000000476837158
   },
-  "name": "Anão Caçador de Abelhas",
+  "name": "Buscador de Abelhas Anão",
   "persona": {
-    "occupation": "Caçador de Abelhas"
+    "occupation": "Bee Seeker"
   },
   "sight": {
     "ignore_infra_penalty": false,

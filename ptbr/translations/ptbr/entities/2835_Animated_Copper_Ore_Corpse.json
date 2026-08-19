@@ -8,7 +8,7 @@
     "producer",
     "weight"
   ],
-  "description": "Veios de cobre animados, mas desta vez está morto.",
+  "description": "Minério de cobre animado, mas desta vez está morto.",
   "glyph": {
     "frames": [
       {
@@ -33,7 +33,7 @@
     128,
     104
   ],
-  "name": "Cadáver de Veio de Cobre Animado",
+  "name": "Cadáver de Minério de Cobre Animado",
   "producer": {
     "products": {
       "3": [

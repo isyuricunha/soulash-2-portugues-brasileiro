@@ -9,7 +9,7 @@
     "producer",
     "weight"
   ],
-  "description": "Corpo morto de um arranca-carvalho.",
+  "description": "Corpo morto de um rasgador de carvalho.",
   "glyph": {
     "frames": [
       {
@@ -38,7 +38,7 @@
     154,
     20
   ],
-  "name": "Cadáver de Arranca-Carvalho",
+  "name": "Cadáver de Estripador de Carvalho",
   "producer": {
     "products": {
       "3": [

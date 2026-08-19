@@ -34,7 +34,7 @@
     "tags"
   ],
   "corpse": "2994",
-  "description": "Já foi um magnífico dragão, agora ossos e pedaços de pele mantidos juntos com magia sinistra.",
+  "description": "Outrora um magnífico dragão, agora ossos e retalhos de pele unidos por magia sinístra.",
   "dialogues": [
     "637",
     "638"
@@ -67,7 +67,7 @@
   "moveable": {
     "speed": 0.8999999761581421
   },
-  "name": "Cypress O Trovão Negro",
+  "name": "Cipreste, o Trovão Negro",
   "sight": {
     "ignore_infra_penalty": false,
     "infravision": true,

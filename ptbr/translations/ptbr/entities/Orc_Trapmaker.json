@@ -90,9 +90,9 @@
   "moveable": {
     "speed": 1.100000023841858
   },
-  "name": "Orc Armadilheiro",
+  "name": "Armadilheiro Orc",
   "persona": {
-    "occupation": "Armadilheiro"
+    "occupation": "Trapmaker"
   },
   "sight": {
     "ignore_infra_penalty": false,

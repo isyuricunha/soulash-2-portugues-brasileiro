@@ -78,9 +78,9 @@
   "moveable": {
     "speed": 1.2000000476837158
   },
-  "name": "Humano Vinicultor",
+  "name": "Vinicultor Humano",
   "persona": {
-    "occupation": "Vinicultor"
+    "occupation": "Winemaker"
   },
   "sight": {
     "ignore_infra_penalty": false,

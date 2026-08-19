@@ -33,7 +33,7 @@
     "time": 5,
     "tools": []
   },
-  "description": "Teto feito de folhas de samambaia.",
+  "description": "Telha feita de folhas de samambaia.",
   "glyph": {
     "frames": [
       {
@@ -55,7 +55,7 @@
     122,
     63
   ],
-  "name": "Teto de Samambaia",
+  "name": "Telha de Samambaia",
   "producer": {
     "products": {
       "core_2_deconstruct": [
@@ -70,5 +70,6 @@
       ]
     },
     "time": 10
-  }
+  },
+  "feminine_form": true
 }

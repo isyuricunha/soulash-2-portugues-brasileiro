@@ -35,7 +35,7 @@
       14
     ]
   },
-  "description": "Esta peça de armadura feita de pele de animal protege o torso do frio.",
+  "description": "Esta peça de armadura feita de pele animal protege o torso do frio.",
   "glyph": {
     "frames": [
       {
@@ -62,5 +62,6 @@
   ],
   "name": "Armadura de Pele",
   "value": 1700,
-  "weight": 3.0
+  "weight": 3.0,
+  "feminine_form": true
 }

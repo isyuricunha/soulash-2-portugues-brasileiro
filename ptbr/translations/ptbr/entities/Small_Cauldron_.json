@@ -41,7 +41,7 @@
       15
     ]
   },
-  "description": "Você mal consegue colocar algo aí.",
+  "description": "Mal cabe nada aí.",
   "glyph": {
     "frames": [
       {
@@ -68,10 +68,11 @@
   ],
   "name": "Caldeirão Pequeno",
   "resource": {
-    "affix": "of the Witch",
+    "affix": "da Bruxa",
     "magic_ingredient": 3,
     "quality": 3,
-    "type": 7
+    "type": 7,
+    "feminine_affix": "bruxa"
   },
   "statistics": {
     "dexterity": [

@@ -9,7 +9,7 @@
     "producer",
     "weight"
   ],
-  "description": "Corpo de yeti morto.",
+  "description": "Corpo morto do Yeti.",
   "glyph": {
     "frames": [
       {
@@ -38,7 +38,7 @@
     154,
     20
   ],
-  "name": "Cadáver de Yeti",
+  "name": "Cadáver do Yeti",
   "producer": {
     "products": {
       "3": [

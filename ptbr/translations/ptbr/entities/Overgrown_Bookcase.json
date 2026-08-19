@@ -23,7 +23,7 @@
     "producer"
   ],
   "corpse": "791",
-  "description": "Uma grande estante de livros cheia de vários livros, pergaminhos e escrituras, coberta por musgo.",
+  "description": "Uma grande estante cheia de vários livros, pergaminhos e escrituras, coberta de musgo.",
   "glyph": {
     "frames": [
       {
@@ -45,7 +45,7 @@
     131,
     77
   ],
-  "name": "Estante de Livros Coberta por Musgo",
+  "name": "Estante Coberta de Musgo",
   "producer": {
     "products": {
       "core_2_deconstruct": [
@@ -60,5 +60,6 @@
       ]
     },
     "time": 20
-  }
+  },
+  "feminine_form": true
 }

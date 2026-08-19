@@ -8,7 +8,7 @@
     "position_2d"
   ],
   "corpse": [],
-  "description": "Cascas brancas e macias de um ovo de tartaruga.",
+  "description": "Cascas macias e brancas de ovo de tartaruga.",
   "glyph": {
     "frames": [
       {
@@ -31,5 +31,6 @@
     68,
     0
   ],
-  "name": "Cascas de Ovos Macias"
+  "name": "Cascas Macias de Ovo",
+  "feminine_form": true
 }

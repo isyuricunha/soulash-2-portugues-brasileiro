@@ -16,7 +16,7 @@
     "name"
   ],
   "corpse": [],
-  "description": "Chão feito de grama amarela.",
+  "description": "Piso feito de grama amarela.",
   "glyph": {
     "frames": [
       {
@@ -38,5 +38,5 @@
     38,
     7
   ],
-  "name": "Chão de Grama"
+  "name": "Piso de Grama"
 }

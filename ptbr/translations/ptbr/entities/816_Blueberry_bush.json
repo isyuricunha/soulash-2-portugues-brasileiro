@@ -24,7 +24,7 @@
     "producer"
   ],
   "corpse": [],
-  "description": "Esta planta consiste em múltiplos ramos finos cobertos com folhas e mirtilos comestíveis.",
+  "description": "Esta planta consiste em vários galhos finos cobertos com folhas e mirtilos comestíveis.",
   "glyph": {
     "frames": [
       {
@@ -94,6 +94,6 @@
         }
       ]
     },
-    "time": 10
+    "time": 5
   }
 }

@@ -9,7 +9,7 @@
     "value",
     "weight"
   ],
-  "description": "Com cuidado suficiente, esses esporos crescerão em cogumelos paralizantes um dia.",
+  "description": "Com cuidado suficiente, estes esporos crescerão e se tornarão belos cogumelos paralisantes um dia.",
   "glyph": {
     "frames": [
       {
@@ -43,7 +43,7 @@
     90,
     34
   ],
-  "name": "Esporos de Cogumelo Paralizante",
+  "name": "Sporos de Cogumelo Paralisante",
   "value": 100,
   "weight": 0.10000000149011612
 }

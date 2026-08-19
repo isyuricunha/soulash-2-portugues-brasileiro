@@ -47,7 +47,7 @@
       {
         "chance": 0.30000001192092896,
         "id": "100",
-        "name": "Dardo",
+        "name": "Azagaia",
         "stack": 3
       }
     ],
@@ -55,7 +55,7 @@
       {
         "chance": 0.30000001192092896,
         "id": "169",
-        "name": "Capacete",
+        "name": "Elmo",
         "stack": 1
       }
     ],
@@ -63,7 +63,7 @@
       {
         "chance": 1.0,
         "id": "core_2_Awl_Pike",
-        "name": "Pique de Agulha",
+        "name": "Pique Agulha",
         "stack": 1
       }
     ],
@@ -110,9 +110,9 @@
   "moveable": {
     "speed": 0.8999999761581421
   },
-  "name": "Orc Devastador",
+  "name": "Devastador Orc",
   "persona": {
-    "occupation": "Devastador"
+    "occupation": "Ravager"
   },
   "sight": {
     "ignore_infra_penalty": false,

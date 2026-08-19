@@ -40,7 +40,7 @@
       1
     ]
   },
-  "description": "Um pouco áspero e grosseiro, mas lhe dará alguma proteção.",
+  "description": "Um pouco rústico e grosso, mas oferece alguma proteção.",
   "glyph": {
     "frames": [
       {
@@ -67,5 +67,6 @@
   ],
   "name": "Botas de Escamas",
   "value": 4500,
-  "weight": 2.5
+  "weight": 2.5,
+  "feminine_form": true
 }

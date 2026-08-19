@@ -41,7 +41,7 @@
       {
         "chance": 1.0,
         "id": "core_2_Bone_Warpick",
-        "name": "Picareta de Guerra de Osso",
+        "name": "Pico de Guerra de Osso",
         "stack": 1
       }
     ]
@@ -80,9 +80,9 @@
   "moveable": {
     "speed": 1.100000023841858
   },
-  "name": "Esqueleto Lenhador",
+  "name": "Esqueleto Minerador de Madeira",
   "persona": {
-    "occupation": "Lenhador"
+    "occupation": "Woodminer"
   },
   "sight": {
     "ignore_infra_penalty": false,

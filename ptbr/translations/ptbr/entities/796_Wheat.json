@@ -2,15 +2,15 @@
   "components": [
     "glyph",
     "item",
+    "minimap_pixel",
     "name",
     "position_2d",
     "producer",
     "stackable",
     "value",
-    "weight",
-    "minimap_pixel"
+    "weight"
   ],
-  "description": "Uma grama comumente cultivada com sementes comestíveis e um ingrediente básico do pão.",
+  "description": "Uma grama comumente cultivada com sementes comestíveis e ingrediente essencial do pão.",
   "glyph": {
     "frames": [
       {
@@ -22,7 +22,8 @@
         "delay": 0,
         "index": 104
       }
-    ]
+    ],
+    "random_frame_start": false
   },
   "id": "796",
   "item": {
@@ -59,5 +60,5 @@
     "time": 10
   },
   "value": 10,
-  "weight": 0.5
+  "weight": 0.20000000298023224
 }

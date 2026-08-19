@@ -18,7 +18,7 @@
     "random_resource"
   ],
   "corpse": [],
-  "description": "Solo bom para cultivar trigo.",
+  "description": "Boa terra para cultivar trigo.",
   "glyph": {
     "frames": [
       {
@@ -40,7 +40,7 @@
     45,
     12
   ],
-  "name": "Solo de Trigo",
+  "name": "Terra de Trigo",
   "random_resource": {
     "entity": [
       "797"
@@ -57,5 +57,6 @@
     "spawn_chance": 100.0,
     "spawn_multiply": 0.0,
     "spawn_rolls": 1
-  }
+  },
+  "feminine_form": true
 }

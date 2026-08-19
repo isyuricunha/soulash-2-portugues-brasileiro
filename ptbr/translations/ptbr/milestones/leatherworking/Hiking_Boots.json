@@ -1,6 +1,6 @@
 {
   "id": "core_2_hiking_boots",
-  "name": "Botas de Caminhada",
+  "name": "Botas de Trilha",
   "requirements": {
     "skill": 25
   },

@@ -49,7 +49,7 @@
       6
     ]
   },
-  "description": "Aninhada em uma parede de arenito resistente, esta janela aberta oferece um vislumbre do deserto sem limites, convidando o calor do sol e o suave sussurro do vento através das areias.",
+  "description": "Aninhada em uma resistente parede de arenito, esta janela aberta oferece um vislumbre do deserto sem limites, convidando o calor do sol e o suave sussurro do vento através das areias.",
   "glyph": {
     "frames": [
       {
@@ -87,5 +87,6 @@
       ]
     },
     "time": 20
-  }
+  },
+  "feminine_form": true
 }

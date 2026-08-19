@@ -1,6 +1,6 @@
 {
   "id": "core_2_overhead",
-  "name": "Golpe por Cima",
+  "name": "Golpe Acima",
   "requirements": {
     "skill": 38
   },

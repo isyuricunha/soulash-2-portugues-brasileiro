@@ -21,7 +21,7 @@
       "id": "2030"
     }
   ],
-  "description": "Terreno seco e sólido.",
+  "description": "Solo seco e sólido.",
   "glyph": {
     "frames": [
       {
@@ -43,5 +43,5 @@
     45,
     12
   ],
-  "name": "Terreno Árido"
+  "name": "Solo Nu"
 }

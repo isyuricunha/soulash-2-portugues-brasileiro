@@ -78,9 +78,9 @@
   "moveable": {
     "speed": 1.100000023841858
   },
-  "name": "Gnoll Couraria",
+  "name": "Gnoll Curtidor",
   "persona": {
-    "occupation": "Courador"
+    "occupation": "Leatherworker"
   },
   "sight": {
     "ignore_infra_penalty": false,

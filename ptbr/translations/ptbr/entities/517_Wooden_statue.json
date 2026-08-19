@@ -23,7 +23,7 @@
     "producer"
   ],
   "corpse": "62",
-  "description": "Estátua feita de madeira preservando a imagem de uma pessoa há muito desaparecida.",
+  "description": "Estátua feita de madeira preservando a imagem de alguém há muito perdido.",
   "glyph": {
     "frames": [
       {
@@ -87,5 +87,6 @@
       ]
     },
     "time": 20
-  }
+  },
+  "feminine_form": true
 }

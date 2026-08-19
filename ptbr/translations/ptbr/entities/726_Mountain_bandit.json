@@ -32,7 +32,7 @@
     "tags"
   ],
   "corpse": "25",
-  "description": "Esta pessoa claramente vive cometendo crimes.",
+  "description": "Esta pessoa claramente ganha a vida cometendo crimes.",
   "dialogues": [
     "64",
     "65"
@@ -42,7 +42,7 @@
       {
         "chance": 1.0,
         "id": "680",
-        "name": "Machado de Osso",
+        "name": "machado de osso",
         "stack": 1
       }
     ],
@@ -50,7 +50,7 @@
       {
         "chance": 1.0,
         "id": "23",
-        "name": "Farrapos",
+        "name": "Farrapas",
         "stack": 1
       }
     ]
@@ -61,8 +61,8 @@
   },
   "fighter": {
     "attackNames": [
-      "Punch",
-      "Kick"
+      "Soco",
+      "Chute"
     ]
   },
   "glyph": {

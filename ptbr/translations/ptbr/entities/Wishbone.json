@@ -71,10 +71,11 @@
   ],
   "name": "Osso do Desejo",
   "resource": {
-    "affix": "of the Wish",
+    "affix": "do Desejo",
     "magic_ingredient": 3,
     "quality": 3,
-    "type": 7
+    "type": 7,
+    "feminine_affix": "desejada"
   },
   "value": 1800,
   "weapon": {

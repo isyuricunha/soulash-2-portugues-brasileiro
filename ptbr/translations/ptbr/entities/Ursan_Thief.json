@@ -41,7 +41,7 @@
       {
         "chance": 1.0,
         "id": "2175",
-        "name": "Tanga de Pele",
+        "name": "Tapa-sexo de Pele",
         "stack": 1
       }
     ],
@@ -96,9 +96,9 @@
   "moveable": {
     "speed": 1.0
   },
-  "name": "Ursan Ladino",
+  "name": "Ladrão Ursano",
   "persona": {
-    "occupation": "Ladino"
+    "occupation": "Thief"
   },
   "sight": {
     "ignore_infra_penalty": false,

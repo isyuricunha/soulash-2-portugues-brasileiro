@@ -46,7 +46,7 @@
     "weapon"
   ],
   "corpse": "2533",
-  "description": "Humanoide em forma de massa de ventos giratórios.",
+  "description": "Massa com forma humanoide de ventos rodopiantes.",
   "dialogues": [
     "634"
   ],
@@ -56,7 +56,7 @@
   },
   "fighter": {
     "attackNames": [
-      "Air Swipe"
+      "Golpe de Ar"
     ]
   },
   "glyph": {
@@ -86,7 +86,7 @@
   "moveable": {
     "speed": 0.6000000238418579
   },
-  "name": "Elemental de Ar",
+  "name": "Elemental de Fogo",
   "sight": {
     "ignore_infra_penalty": false,
     "infravision": true,

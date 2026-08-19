@@ -70,9 +70,9 @@
   "moveable": {
     "speed": 1.0
   },
-  "name": "Rasimi Fabricante de Vinho",
+  "name": "Vinicultor Rasimi",
   "persona": {
-    "occupation": "Vinicultor"
+    "occupation": "Winemaker"
   },
   "sight": {
     "ignore_infra_penalty": false,

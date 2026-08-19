@@ -43,14 +43,14 @@
     "weapon"
   ],
   "corpse": "2445",
-  "description": "Vinhas grossas se contorcem, lançando espinhos em seres vivos próximos.",
+  "description": "Vinhas grossas se contorcem, arremessando espinhos em seres vivos próximos.",
   "experience_gainer": {
     "exp": 0,
     "level": 20
   },
   "fighter": {
     "attackNames": [
-      "Thorn"
+      "Espinho"
     ]
   },
   "glyph": {

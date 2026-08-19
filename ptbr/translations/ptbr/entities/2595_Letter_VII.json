@@ -8,7 +8,7 @@
     "stackable",
     "weight"
   ],
-  "description": "Uma carta antiga que diz:\n\"Meu bom senhor, não confio nos empreiteiros que você contratou para construir seu novo palácio. Eles tinham um olhar estranho nos olhos. Se você permitir, eu mesmo verificarei o novo edifício, para garantir que seja seguro.\"",
+  "description": "Uma carta velha que diz:\n«Meu bom senhor, não confio nos empreiteiros que Vossa Senhoria contratou para construir o novo palácio. Eles tinham um olhar estranho. Se me permitis, eu mesmo inspecionarei o novo edifício, para garantir que é seguro.»",
   "glyph": {
     "frames": [
       {
@@ -34,5 +34,6 @@
     137
   ],
   "name": "Carta VII",
-  "weight": 0.10000000149011612
+  "weight": 0.10000000149011612,
+  "feminine_form": true
 }

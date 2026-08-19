@@ -32,7 +32,7 @@
     "position_2d"
   ],
   "corpse": [],
-  "description": "Uma porta de pedra fechada com entalhes intricados.",
+  "description": "Uma porta de pedra fechada com entalhes intrincados.",
   "glyph": {
     "frames": [
       {
@@ -59,7 +59,7 @@
   "openable": {
     "block_light": false,
     "collidable": false,
-    "description": "Porta de pedra com entalhes intricados, atualmente aberta.",
+    "description": "Porta de pedra com entalhes intrincados, atualmente aberta.",
     "glyph": {
       "frames": [
         {
@@ -75,5 +75,6 @@
       "random_frame_start": false
     },
     "height": 0
-  }
+  },
+  "feminine_form": true
 }

@@ -23,7 +23,7 @@
     "time": 10,
     "tools": []
   },
-  "description": "Aqui jaz Saushifraas. Ele é o motivo pelo qual não podemos mais ter festas de dança.",
+  "description": "Aqui jaz Saushifraas. Ele é a razão pela qual não podemos mais ter festas de dança.",
   "glyph": {
     "frames": [
       {
@@ -92,5 +92,6 @@
       ]
     },
     "time": 10
-  }
+  },
+  "feminine_form": true
 }

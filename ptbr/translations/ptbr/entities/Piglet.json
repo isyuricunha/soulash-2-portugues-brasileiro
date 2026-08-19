@@ -30,7 +30,7 @@
     "tags"
   ],
   "corpse": "589",
-  "description": "Um filhote de porco fofo.",
+  "description": "Um leitão fofo.",
   "dialogues": [],
   "equipment": {
     "disabled_slots": [
@@ -61,7 +61,7 @@
   },
   "fighter": {
     "attackNames": [
-      "Bite"
+      "Mordida"
     ]
   },
   "glyph": {

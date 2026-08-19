@@ -9,7 +9,7 @@
     "value",
     "weight"
   ],
-  "description": "Crescerá em um arbusto de groselha um dia.",
+  "description": "Um dia crescerá e se tornará um arbusto de groselha.",
   "glyph": {
     "frames": [
       {
@@ -36,5 +36,6 @@
   ],
   "name": "Semente de Groselha",
   "value": 150,
-  "weight": 0.019999999552965164
+  "weight": 0.019999999552965164,
+  "feminine_form": true
 }

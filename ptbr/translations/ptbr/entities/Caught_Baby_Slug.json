@@ -10,7 +10,7 @@
     "value",
     "weight"
   ],
-  "description": "Lesminha assustada. Se você soltá-la, ela tentará escapar.",
+  "description": "Pequena lesma bebê assustada. Se você soltá-la, ela tentará fugir.",
   "glyph": {
     "frames": [
       {
@@ -35,7 +35,7 @@
     199,
     185
   ],
-  "name": "Lesminha Capturada",
+  "name": "Lesma Bebê Capturada",
   "random_resource": {
     "delay_spawn": true,
     "entity": [
@@ -55,5 +55,6 @@
     "spawn_rolls": 1
   },
   "value": 1000,
-  "weight": 0.5
+  "weight": 0.5,
+  "feminine_form": true
 }

@@ -88,9 +88,9 @@
   "moveable": {
     "speed": 1.2999999523162842
   },
-  "name": "Gnoll Flecheiro",
+  "name": "Gnoll Arqueiro",
   "persona": {
-    "occupation": "Arqueiro"
+    "occupation": "Bowyer"
   },
   "sight": {
     "ignore_infra_penalty": false,

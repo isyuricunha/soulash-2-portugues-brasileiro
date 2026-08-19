@@ -34,7 +34,7 @@
       1
     ]
   },
-  "description": "Uma mão de um golem equipada com um grande machado.",
+  "description": "Uma mão de golem equipada com um grande machado.",
   "glyph": {
     "frames": [
       {
@@ -81,5 +81,6 @@
     "range": 1,
     "type": 0
   },
-  "weight": 2.5
+  "weight": 2.5,
+  "feminine_form": true
 }

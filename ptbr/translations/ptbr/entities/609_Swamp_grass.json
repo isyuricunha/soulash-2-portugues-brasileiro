@@ -44,7 +44,7 @@
     "time": 5,
     "tools": []
   },
-  "description": "Grama curta encontrada em pântanos.",
+  "description": "Grama baixa encontrada em pântanos.",
   "glyph": {
     "frames": [
       {
@@ -66,5 +66,6 @@
     58,
     37
   ],
-  "name": "Grama do Pântano"
+  "name": "Grama de Pântano",
+  "feminine_form": true
 }

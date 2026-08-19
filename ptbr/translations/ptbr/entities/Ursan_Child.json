@@ -57,9 +57,9 @@
   "moveable": {
     "speed": 2.0
   },
-  "name": "Criança Ursan",
+  "name": "Criança Ursana",
   "persona": {
-    "occupation": "Criança"
+    "occupation": "Child"
   },
   "sight": {
     "ignore_infra_penalty": false,
@@ -97,5 +97,6 @@
   "tags": [
     "9",
     "36"
-  ]
+  ],
+  "feminine_form": true
 }

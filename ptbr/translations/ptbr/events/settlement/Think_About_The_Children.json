@@ -1,0 +1,85 @@
+{
+  "id": "core_2_about_children",
+  "name": "Pense nas Crianças",
+  "category": "settlement",
+  "flavor": "Crianças troll são propensas a acidentes, pois seu passatempo favorito é 'eu bato forte em você, você bate mais forte'. Alguém precisa ajudá-las.",
+  "icon": 23,
+  "small_icon": 23,
+  "rarity": "uncommon",
+  "restrict_races": [
+    "7"
+  ],
+  "trigger": {
+    "base_probability": 0.004,
+    "conditions": [
+      {
+        "type": "settlement_population_min",
+        "value": 30
+      },
+      {
+        "type": "settlement_tier_min",
+        "value": 1
+      },
+      {
+        "type": "min_unemployed",
+        "value": 1
+      }
+    ]
+  },
+  "duration": {
+    "type": "temporary",
+    "days": [
+      30,
+      45
+    ]
+  },
+  "effects": [
+    {
+      "type": "spawn_group",
+      "amount": [
+        1,
+        1
+      ],
+      "group_type": "settlement",
+      "entity": "core_2_Troll_Scribe",
+      "border_color": [
+        170,
+        128,
+        192
+      ]
+    }
+  ],
+  "extra_dialogues": [
+    "core_2_about_children"
+  ],
+  "interactions": [
+    {
+      "type": "conversation",
+      "id": "core_2_deliver_helmet",
+      "translation_id": 0,
+      "required_ingredients": [
+        {
+          "id": "169",
+          "amount": 3
+        }
+      ],
+      "entities": [
+        "core_2_Troll_Scribe"
+      ],
+      "label": "Entregar item solicitado.",
+      "reward": {
+        "gold": 50,
+        "skill_id": "core_2_protection",
+        "exp": 20,
+        "remove_event": true
+      },
+      "history_event": "::name entregou os bens necessários ao Troll preocupado!",
+      "announcement": "Você entregou os bens necessários ao Troll preocupado de ::settlement!"
+    }
+  ],
+  "history_events": {
+    "begin": "Um Troll está preocupado com o futuro em ::settlement.",
+    "success": "Um Troll preocupado agora pode olhar para o futuro com otimismo.",
+    "failure": "Um Troll preocupado não terá nova esperança para o futuro de sua espécie."
+  }
+}

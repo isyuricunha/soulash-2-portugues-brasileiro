@@ -170,7 +170,7 @@
     "weapon"
   ],
   "corpse": "core_2_Giant_Lion_Corpse",
-  "description": "Um leão enorme e orgulhoso. Sua pelagem está cheia de cicatrizes.",
+  "description": "Um leão enorme e orgulhoso. Sua pelagem está coberta de cicatrizes.",
   "dialogues": [
     "214",
     "215"
@@ -181,7 +181,7 @@
   },
   "fighter": {
     "attackNames": [
-      "Bite"
+      "Mordida"
     ]
   },
   "glyph": {

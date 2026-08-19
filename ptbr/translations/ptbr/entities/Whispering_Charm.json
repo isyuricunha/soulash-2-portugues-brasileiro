@@ -31,7 +31,7 @@
       15
     ]
   },
-  "description": "Este amuleto está constantemente sussurrando algo em um idioma que você não conhece.",
+  "description": "Este amuleto fica sussurrando algo em uma língua que você não conhece.",
   "glyph": {
     "frames": [
       {
@@ -58,10 +58,11 @@
   ],
   "name": "Amuleto Sussurrante",
   "resource": {
-    "affix": "of the Whispers",
+    "affix": "dos Sussurros",
     "magic_ingredient": 2,
     "quality": 2,
-    "type": 7
+    "type": 7,
+    "feminine_affix": "sussurrante"
   },
   "value": 2000,
   "weapon": {

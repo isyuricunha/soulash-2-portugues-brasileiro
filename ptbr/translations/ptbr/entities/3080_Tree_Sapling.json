@@ -52,7 +52,7 @@
     "time": 20,
     "tools": []
   },
-  "description": "Uma muda de uma árvore regular e velha.",
+  "description": "Muda de uma árvore comum e velha.",
   "glyph": {
     "frames": [
       {
@@ -152,5 +152,6 @@
     "spawn_chance": 100.0,
     "spawn_multiply": 0.0,
     "spawn_rolls": 1
-  }
+  },
+  "feminine_form": true
 }

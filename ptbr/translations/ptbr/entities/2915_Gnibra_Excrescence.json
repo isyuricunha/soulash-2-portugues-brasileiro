@@ -9,7 +9,7 @@
     "value",
     "weight"
   ],
-  "description": "Uma parte de um gnibra morto.",
+  "description": "Uma parte de uma gnibra morta.",
   "glyph": {
     "frames": [
       {
@@ -34,7 +34,7 @@
     195,
     195
   ],
-  "name": "Excrecência de Gnibra",
+  "name": "Uma parte de uma gnibra morta.",
   "value": 1500,
   "weight": 0.10000000149011612
 }

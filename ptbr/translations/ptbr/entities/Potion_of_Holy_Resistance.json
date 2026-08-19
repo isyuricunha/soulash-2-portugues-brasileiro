@@ -34,7 +34,7 @@
       15
     ]
   },
-  "description": "O líquido neste frasco parece ser feito de luz solar.",
+  "description": "O líquido neste frasco parece ser feito de luz do sol.",
   "glyph": {
     "frames": [
       {
@@ -59,11 +59,12 @@
     78,
     54
   ],
-  "name": "Poção da Resistência Sagrada",
+  "name": "Poção de Resistência ao Sagrado",
   "usable": {
     "ability": "core_2_Potion_of_Holy_Resist",
     "recipe": ""
   },
   "value": 900,
-  "weight": 0.10000000149011612
+  "weight": 0.10000000149011612,
+  "feminine_form": true
 }

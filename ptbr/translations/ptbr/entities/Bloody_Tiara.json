@@ -70,7 +70,8 @@
     144,
     88
   ],
-  "name": "Tiara Ensanguentada",
+  "name": "Tiara Sangrenta",
   "value": 6000,
-  "weight": 3.0
+  "weight": 3.0,
+  "feminine_form": true
 }

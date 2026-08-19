@@ -48,7 +48,7 @@
     "time": 20,
     "tools": []
   },
-  "description": "Um portão feito de troncos grossos de madeira está atualmente fechado.",
+  "description": "Um portão feito de grossos troncos de madeira está atualmente fechado.",
   "glyph": {
     "frames": [
       {
@@ -75,7 +75,7 @@
   "openable": {
     "block_light": false,
     "collidable": false,
-    "description": "Um portão feito de troncos grossos de madeira está atualmente aberto.",
+    "description": "Um portão feito de grossos troncos de madeira está atualmente aberto.",
     "glyph": {
       "frames": [
         {

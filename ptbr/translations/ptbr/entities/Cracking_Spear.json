@@ -33,7 +33,7 @@
       14
     ]
   },
-  "description": "Lança de madeira com tiras de couro no topo. Cada tira termina com uma pequena pedra. Se você girá-la rápido o suficiente, fará um som de estalo.",
+  "description": "Lança de madeira com tiras de couro no topo. Cada tira termina com uma pequena pedra. Se você girá-la rápido o suficiente, ela fará um som de estalo.",
   "glyph": {
     "frames": [
       {
@@ -58,7 +58,7 @@
     152,
     132
   ],
-  "name": "Lança Rachadora",
+  "name": "Lança Estalante",
   "value": 4000,
   "weapon": {
     "attack_speed": 1.0,
@@ -76,5 +76,6 @@
     "range": 1,
     "type": 4
   },
-  "weight": 2.0
+  "weight": 2.0,
+  "feminine_form": true
 }

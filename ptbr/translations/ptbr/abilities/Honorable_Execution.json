@@ -6,7 +6,7 @@
     "health": 0,
     "stamina": 10
   },
-  "description": "Execute o inimigo causando ::damage ::damage_type de dano. Se o alvo morrer, o tempo de recarga é resetado.",
+  "description": "Execute o inimigo causando ::damage de dano ::damage_type. Se o alvo morrer, o tempo de recarga é reiniciado.",
   "duration": 0.0,
   "effects": {
     "damage": [
@@ -19,7 +19,7 @@
   },
   "id": "178",
   "image": 360,
-  "name": "Execução Honorável",
+  "name": "Execução Honrosa",
   "range": 1,
   "requirements": {
     "one_of": [

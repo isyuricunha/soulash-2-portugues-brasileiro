@@ -24,7 +24,7 @@
     "weapon",
     "weight"
   ],
-  "description": "Sempre vai onde não deveria.",
+  "description": "Sempre vai parar onde nÃ£o deve.",
   "glyph": {
     "frames": [
       {
@@ -51,10 +51,11 @@
   ],
   "name": "Areia",
   "resource": {
-    "affix": "Sand",
+    "affix": "Areia",
     "magic_ingredient": 0,
     "quality": 1,
-    "type": 6
+    "type": 6,
+    "feminine_affix": "Arenosa"
   },
   "value": 50,
   "weapon": {
@@ -73,5 +74,6 @@
     "range": 0,
     "type": 9
   },
-  "weight": 0.25
+  "weight": 0.25,
+  "feminine_form": true
 }

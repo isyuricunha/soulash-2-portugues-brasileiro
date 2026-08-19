@@ -24,7 +24,7 @@
     "producer"
   ],
   "corpse": [],
-  "description": "Arbusto cheio de lâminas de grama fina.",
+  "description": "Arbusto cheio de finas lâminas de grama.",
   "glyph": {
     "frames": [
       {
@@ -69,7 +69,7 @@
     73,
     73
   ],
-  "name": "Grama-de-Lança",
+  "name": "Capim-lança",
   "producer": {
     "products": {
       "10": [

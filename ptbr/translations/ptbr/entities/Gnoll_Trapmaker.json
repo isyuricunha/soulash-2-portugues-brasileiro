@@ -86,9 +86,9 @@
   "moveable": {
     "speed": 1.100000023841858
   },
-  "name": "Gnoll Armadilheiro",
+  "name": "Fabricante de Armadilhas Gnoll",
   "persona": {
-    "occupation": "Armadilheiro"
+    "occupation": "Trapmaker"
   },
   "sight": {
     "ignore_infra_penalty": false,

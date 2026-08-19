@@ -28,7 +28,7 @@
       1
     ]
   },
-  "description": "Uma favorita entre os guardas humanos e desprezada por cavaleiros em todos os lugares.",
+  "description": "Uma favorita entre as guardas humanas e desprezada por cavaleiros em todo lugar.",
   "glyph": {
     "frames": [
       {
@@ -53,7 +53,7 @@
     210,
     238
   ],
-  "name": "Alabarda",
+  "name": "Halabarda",
   "value": 20000,
   "weapon": {
     "attack_speed": 1.5,
@@ -71,5 +71,6 @@
     "range": 1,
     "type": 4
   },
-  "weight": 4.0
+  "weight": 4.0,
+  "feminine_form": true
 }

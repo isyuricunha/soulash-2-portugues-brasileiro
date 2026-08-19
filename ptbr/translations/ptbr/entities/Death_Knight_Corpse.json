@@ -9,7 +9,7 @@
     "producer",
     "weight"
   ],
-  "description": "Um cadáver de cavaleiro da morte, completamente sem vida.",
+  "description": "Um cadáver de cavaleiro da morte, completamente desprovido de vida.",
   "glyph": {
     "frames": [
       {
@@ -101,7 +101,7 @@
     128,
     104
   ],
-  "name": "Cadáver do Cavaleiro da Morte",
+  "name": "Cadáver de Cavaleiro da Morte",
   "producer": {
     "products": {
       "3": [

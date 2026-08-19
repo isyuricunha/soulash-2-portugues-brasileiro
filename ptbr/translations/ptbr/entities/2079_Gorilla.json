@@ -41,7 +41,7 @@
     "tags"
   ],
   "corpse": "2080",
-  "description": "Grande macaco se movendo sobre quatro membros. Muito perigoso quando se sente ameaçado.",
+  "description": "Um grande macaco que se move sobre quatro patas. Muito perigoso quando se sente ameaçado.",
   "dialogues": [
     "2",
     "889"
@@ -73,8 +73,8 @@
   },
   "fighter": {
     "attackNames": [
-      "Punch",
-      "Bite"
+      "Soco",
+      "Mordida"
     ]
   },
   "glyph": {

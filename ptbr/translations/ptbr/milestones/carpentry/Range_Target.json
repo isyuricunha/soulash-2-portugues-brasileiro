@@ -1,6 +1,6 @@
 {
   "id": "core_2_range_target",
-  "name": "Range_Target",
+  "name": "Alvo de Tiro",
   "requirements": {
     "milestones": [],
     "skill": 14

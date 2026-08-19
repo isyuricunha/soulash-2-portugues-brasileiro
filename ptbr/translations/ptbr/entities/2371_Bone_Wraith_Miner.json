@@ -79,9 +79,9 @@
   "moveable": {
     "speed": 1.0
   },
-  "name": "Espectro de Osso Mineiro",
+  "name": "Espectro Ósseo Mineiro",
   "persona": {
-    "occupation": "Mineiro"
+    "occupation": "Miner"
   },
   "sight": {
     "ignore_infra_penalty": false,

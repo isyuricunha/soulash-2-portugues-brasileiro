@@ -36,7 +36,7 @@
     "time": 100,
     "tools": []
   },
-  "description": "Trono majestoso construído inteiramente de caveiras.",
+  "description": "Trono majestoso construído inteiramente de crânios.",
   "glyph": {
     "frames": [
       {
@@ -59,7 +59,7 @@
     16,
     11
   ],
-  "name": "Trono de Caveiras",
+  "name": "Trono de Crânios",
   "producer": {
     "products": {
       "core_2_deconstruct": [

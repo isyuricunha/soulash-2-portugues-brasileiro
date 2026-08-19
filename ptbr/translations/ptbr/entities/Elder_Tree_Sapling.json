@@ -88,7 +88,7 @@
     93,
     40
   ],
-  "name": "Muda de Árvore Ancestral",
+  "name": "Muda de Sabugueiro",
   "random_resource": {
     "delay_spawn": true,
     "entity": [
@@ -106,5 +106,6 @@
     "spawn_chance": 100.0,
     "spawn_multiply": 0.0,
     "spawn_rolls": 1
-  }
+  },
+  "feminine_form": true
 }

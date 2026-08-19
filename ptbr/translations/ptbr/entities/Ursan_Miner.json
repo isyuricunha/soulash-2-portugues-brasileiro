@@ -88,9 +88,9 @@
   "moveable": {
     "speed": 1.2000000476837158
   },
-  "name": "Minerador Ursan",
+  "name": "Ursan Minerador",
   "persona": {
-    "occupation": "Mineiro"
+    "occupation": "Miner"
   },
   "sight": {
     "ignore_infra_penalty": false,

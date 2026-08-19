@@ -23,7 +23,7 @@
     "time": 10,
     "tools": []
   },
-  "description": "Aqui jaz Vaella. Ela cutucou um urso. Que isso seja uma lição para todos nós.",
+  "description": "Aqui jaz Vaella. Ela cutucou um urso. Que isso sirva de lição para todos nós.",
   "glyph": {
     "frames": [
       {
@@ -84,5 +84,6 @@
       ]
     },
     "time": 10
-  }
+  },
+  "feminine_form": true
 }

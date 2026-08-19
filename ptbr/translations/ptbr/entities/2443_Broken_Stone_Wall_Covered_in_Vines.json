@@ -64,7 +64,7 @@
     83,
     92
   ],
-  "name": "Parede de Pedra Quebrada Coberta por Trepadeiras",
+  "name": "Parede de Pedra Quebrada Coberta de Vinhas",
   "producer": {
     "products": {
       "core_2_deconstruct": [
@@ -79,5 +79,6 @@
       ]
     },
     "time": 20
-  }
+  },
+  "feminine_form": true
 }

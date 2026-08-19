@@ -8,7 +8,7 @@
     "producer"
   ],
   "corpse": [],
-  "description": "Flor delicada de pântano conhecida por suas cores vibrantes.",
+  "description": "Flor delicada de zona úmida, conhecida por suas cores vibrantes.",
   "glyph": {
     "frames": [
       {
@@ -48,7 +48,7 @@
     206,
     157
   ],
-  "name": "Erva dos Pântanos Ondulados",
+  "name": "Marrato Ondulado",
   "producer": {
     "products": {
       "10": [

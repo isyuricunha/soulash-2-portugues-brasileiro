@@ -7,7 +7,7 @@
     "position_2d"
   ],
   "corpse": [],
-  "description": "Flores brancas bonitas.",
+  "description": "Belas flores brancas.",
   "glyph": {
     "frames": [
       {
@@ -29,5 +29,6 @@
     204,
     201
   ],
-  "name": "Flor Branca"
+  "name": "Flor Branca",
+  "feminine_form": true
 }

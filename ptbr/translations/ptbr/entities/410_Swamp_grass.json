@@ -45,7 +45,7 @@
     "time": 5,
     "tools": []
   },
-  "description": "Gramínea longa encontrada em pântanos.",
+  "description": "Grama longa encontrada em pântanos.",
   "glyph": {
     "frames": [
       {
@@ -67,7 +67,7 @@
     58,
     37
   ],
-  "name": "Grama do Pântano",
+  "name": "Grama de Pântano",
   "random_resource": {
     "delay_spawn": false,
     "entity": [
@@ -85,5 +85,6 @@
     "spawn_chance": 5.0,
     "spawn_multiply": 30.0,
     "spawn_rolls": 1
-  }
+  },
+  "feminine_form": true
 }

@@ -26,7 +26,7 @@
       "id": "30"
     }
   ],
-  "description": "Chão congelado, frio e muito difícil de cavar.",
+  "description": "Solo congelado, frio e muito difícil de cavar.",
   "glyph": {
     "frames": [
       {
@@ -48,5 +48,6 @@
     88,
     113
   ],
-  "name": "Terra Congelada"
+  "name": "Terra Congelada",
+  "feminine_form": true
 }

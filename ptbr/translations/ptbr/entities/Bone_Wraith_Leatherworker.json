@@ -79,9 +79,9 @@
   "moveable": {
     "speed": 1.0
   },
-  "name": "Espectro de Osso Courador",
+  "name": "Espectro de Osso Curtidor",
   "persona": {
-    "occupation": "Courador"
+    "occupation": "Leatherworker"
   },
   "sight": {
     "ignore_infra_penalty": false,

@@ -43,7 +43,7 @@
       {
         "chance": 1.0,
         "id": "2225",
-        "name": "Faixa de Cabeça",
+        "name": "Tiara",
         "stack": 1
       }
     ],
@@ -51,7 +51,7 @@
       {
         "chance": 1.0,
         "id": "323",
-        "name": "Collant",
+        "name": "Meia-calça",
         "stack": 1
       }
     ],
@@ -59,7 +59,7 @@
       {
         "chance": 1.0,
         "id": "core_2_Fire_Rod",
-        "name": "Bastão de Fogo",
+        "name": "Vara de Fogo",
         "stack": 1
       }
     ]
@@ -98,7 +98,7 @@
   "moveable": {
     "speed": 0.8999999761581421
   },
-  "name": "Cuspidor de Fogo",
+  "name": "Cospe-fogo",
   "sight": {
     "ignore_infra_penalty": false,
     "infravision": false,

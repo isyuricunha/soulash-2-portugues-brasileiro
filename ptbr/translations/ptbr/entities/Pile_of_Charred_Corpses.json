@@ -6,7 +6,7 @@
     "position_2d",
     "stackable"
   ],
-  "description": "Uma grande pilha de cadáveres carbonizados. Você não consegue dizer se são humanos ou monstruosos.",
+  "description": "Um grande monte de cadáveres carbonizados. Não se sabe se são humanos ou monstruosos.",
   "glyph": {
     "frames": [
       {
@@ -27,5 +27,5 @@
     102,
     57
   ],
-  "name": "Pilha de Cadáveres Carbonizados"
+  "name": "Monte de Cadáveres Carbonizados"
 }

@@ -40,7 +40,7 @@
       {
         "chance": 1.0,
         "id": "2188",
-        "name": "Cortador",
+        "name": "Cutelo",
         "stack": 1
       }
     ]
@@ -79,9 +79,9 @@
   "moveable": {
     "speed": 1.100000023841858
   },
-  "name": "Esqueleto Tecelão de Carne",
+  "name": "Esqueleto Tece-carne",
   "persona": {
-    "occupation": "Tecelão de Carne"
+    "occupation": "Fleshweaver"
   },
   "sight": {
     "ignore_infra_penalty": false,

@@ -2,69 +2,69 @@
   "building_names": [
     {
       "formats": [
-        "::family's Cabana"
+        "Cabana dos ::family"
       ],
       "id": "1"
     },
     {
       "formats": [
-        "::family's Carpinteiro"
+        "Carpinteiro dos ::family"
       ],
       "id": "2"
     },
     {
       "formats": [
-        "::family's Cabana de Caçadores"
+        "Cabana de Caça dos ::family"
       ],
       "id": "3"
     },
     {
       "formats": [
-        "::family's ::suffix"
+        "::suffix dos ::family"
       ],
       "id": "4",
       "suffixes": [
         "Fazenda",
         "Campos",
-        "Terra Agriculturável"
+        "Terras de Cultivo"
       ]
     },
     {
       "formats": [
-        "::family's Rancho"
+        "Rancho dos ::family"
       ],
       "id": "6"
     },
     {
       "formats": [
-        "::family's Cabana de Pesca"
+        "Cabana de Pesca dos ::family"
       ],
       "id": "7"
     },
     {
       "formats": [
-        "::family's Moinho"
+        "Moinho dos ::family"
       ],
       "id": "8"
     },
     {
       "formats": [
-        "::family's Padaria"
+        "Padaria dos ::family"
       ],
       "id": "9"
     },
     {
       "formats": [
-        "::family's Lenhadores"
+        "Lenhadores dos ::family"
       ],
       "id": "10"
     },
     {
       "formats": [
-        "::prefix ::suffix Torre",
-        "::prefix ::suffix Posto Avançado",
-        "A ::prefix ::suffix Torre",
-        "::company's Torre"
+        "Torre ::prefix ::suffix",
+        "Posto Avançado ::prefix ::suffix",
+        "A Agulha ::prefix ::suffix",
+        "Torre da ::company"
       ],
       "id": "11",
       "prefixes": [
@@ -72,24 +72,24 @@
         "Intrépido",
         "Impenetrável",
         "Poderoso",
-        "Imponente",
+        "Altaneiro",
         "Sentinela",
-        "Inflexível",
+        "Inabalável",
         "Fortificado",
-        "Observador",
-        "Alto"
+        "Vigilante",
+        "Altivo"
       ],
       "suffixes": [
         "Olho de Águia",
         "Vigia da Tempestade",
         "Bastião",
         "Sentinela",
-        "Vigia",
+        "Atalaia",
         "Guarnição",
         "Escudo Celestial",
         "Farol",
         "Defensor",
-        "Sobrevigilância"
+        "Sobrevigia"
       ]
     },
     {
@@ -99,11 +99,11 @@
         "Barril",
         "Cavaleiro",
         "Hidromel",
-        "Banco",
-        "Barril",
-        "Serva",
+        "Banqueta",
+        "Tonel",
+        "Camareira",
         "Galo",
-        "Caneca",
+        "Pinta",
         "Elfo",
         "Javali",
         "Carne",
@@ -112,7 +112,7 @@
         "Trigo",
         "Noz",
         "Balde",
-        "Copo",
+        "Xícara",
         "Diabrete",
         "Maçã",
         "Cordeiro"
@@ -125,16 +125,16 @@
       ],
       "id": "12",
       "prefixes": [
-        "Alcoolizado",
-        "Risadinhas",
-        "Travesso",
+        "Bêbado",
+        "Gargalhante",
+        "Bagunceiro",
         "Aconchegante",
         "Excêntrico",
         "Atrevido",
-        "Tremulo",
-        "Ébrio",
+        "Bambê",
+        "Bêbado",
         "Barulhento",
-        "Alegre",
+        "Ruidoso",
         "Saltitante",
         "Tolo",
         "Casado",
@@ -142,24 +142,24 @@
         "Zeloso",
         "Gêmeo",
         "Gordo",
-        "Glamuroso",
+        "Glamouroso",
         "Do Rei",
         "Da Rainha",
         "Último",
         "Cheio",
         "Assado",
         "Preto",
-        "Ocupado"
+        "Movimentado"
       ],
       "suffixes": [
-        "Casa de Cerveja",
         "Taberna",
-        "Pousada",
-        "Alojamento",
+        "Taverna",
         "Estalagem",
-        "Descansar",
+        "Hospedaria",
+        "Estalagem de Estrada",
+        "Pouso",
         "Refúgio",
-        "Retirada"
+        "Retiro"
       ]
     },
     {
@@ -182,7 +182,7 @@
         "O ::prefix ::core_name ::suffix",
         "::core_name e ::core_name2 ::suffix",
         "::prefix ::core_name e ::core_name2 ::suffix",
-        "O(a) ::family's ::suffix"
+        "O ::family ::suffix"
       ],
       "id": "13",
       "prefixes": [
@@ -190,10 +190,10 @@
         "Implacável",
         "Inquebrável",
         "Temperado",
-        "Gastos de Batalha",
+        "Marcado pela Batalha",
         "Poderoso",
         "Exaltado",
-        "Afiado",
+        "Agudo",
         "Reverenciado",
         "Glorioso",
         "Resistente",
@@ -202,7 +202,7 @@
         "Mortal",
         "Destrutivo",
         "Letal",
-        "Ótimo"
+        "Grande"
       ],
       "suffixes": [
         "Ferraria",
@@ -213,9 +213,9 @@
     {
       "core_names": [
         "Bigorna",
-        "Capacete",
+        "Elmo",
         "Armadura",
-        "Shield",
+        "Escudo",
         "Forja",
         "Ferreiro",
         "Armoreiro"
@@ -225,7 +225,7 @@
         "O ::prefix ::core_name ::suffix",
         "::core_name e ::core_name2 ::suffix",
         "::prefix ::core_name e ::core_name2 ::suffix",
-        "O(a) ::family's ::suffix"
+        "O ::suffix do ::family"
       ],
       "id": "14",
       "prefixes": [
@@ -233,10 +233,10 @@
         "Implacável",
         "Inquebrável",
         "Temperado",
-        "Gastos de Batalha",
+        "Marcado pela Batalha",
         "Poderoso",
         "Exaltado",
-        "Afiado",
+        "Afirado",
         "Reverenciado",
         "Glorioso",
         "Resistente",
@@ -245,7 +245,7 @@
         "Mortal",
         "Destrutivo",
         "Letal",
-        "Ótimo"
+        "Grande"
       ],
       "suffixes": [
         "Ferraria",
@@ -258,7 +258,7 @@
         "Serra",
         "Cinzel",
         "Martelo",
-        "Tenaz",
+        "Alicate",
         "Pá",
         "Corda",
         "Ferramentas"
@@ -270,32 +270,32 @@
       ],
       "id": "15",
       "prefixes": [
-        "Esperto",
+        "Astuto",
         "Recursoso",
-        "Ingenioso",
-        "Destro",
+        "Engenhoso",
+        "Ágil",
         "Firme",
         "Talentoso",
-        "Hábil",
+        "Destro",
         "Astuto",
         "Versátil",
         "Quente",
         "Frágil",
-        "Ótimo",
+        "Grande",
         "Fantástico"
       ],
       "suffixes": [
         "Oficina",
-        "Banco de Trabalho"
+        "Bancada"
       ]
     },
     {
       "core_names": [
-        "Arco e Flecha",
+        "Arcaria",
         "Aljava",
         "Arco",
         "Flecha",
-        "Atirador",
+        "Arqueiro",
         "Pena"
       ],
       "formats": [
@@ -306,15 +306,15 @@
       "id": "16",
       "prefixes": [
         "Preciso",
-        "Tenso",
+        "Esticado",
         "Silencioso",
         "Gracioso",
         "Infalível",
-        "Swift",
-        "Intrépido",
-        "Olho de Águia",
-        "Primoroso",
-        "Swift",
+        "Ágil",
+        "Destemido",
+        "Olho-de-águia",
+        "Magistral",
+        "Veloz",
         "Rápido"
       ],
       "suffixes": [
@@ -325,26 +325,26 @@
     },
     {
       "formats": [
-        "Pedreira da ::family"
+        "Pedreira de ::family"
       ],
       "id": "17"
     },
     {
       "core_names": [
-        "Linhas",
+        "Fios",
         "Roupas",
-        "Tecido",
         "Pano",
+        "Tecido",
         "Material",
         "Seda",
-        "Guarda-Roupa",
-        "Luminária",
-        "Farrapos",
+        "Guarda-roupa",
+        "Luminar",
+        "Trapos",
         "Vestuário",
         "Traje",
         "Fantasia",
-        "Vestimentas",
-        "Mortalha"
+        "Vestes",
+        "Sudário"
       ],
       "formats": [
         "::prefix ::core_name ::suffix",
@@ -354,27 +354,27 @@
       "id": "18",
       "prefixes": [
         "Elegante",
-        "Confortável",
-        "Padrão",
+        "Aconchegante",
+        "Padronizado",
         "Atemporal",
-        "Elegante",
-        "Primoroso",
+        "Impecável",
+        "Magistral",
         "Luminoso",
         "Brilhante",
         "Macio",
-        "Mole",
+        "Pastoso",
         "Pálido",
         "Sutil",
         "Sedoso",
         "Estiloso",
-        "Sofisticado",
-        "Grand",
+        "Requintado",
+        "Grandioso",
         "Refinado",
-        "Digno"
+        "Distinto"
       ],
       "suffixes": [
         "Loja",
-        "Alfaiate"
+        "Alfaiataria"
       ]
     },
     {
@@ -383,10 +383,10 @@
         "Sandálias",
         "Chinelos",
         "Salto",
-        "Calçado",
+        "Calçados",
         "Sapato",
         "Pé",
-        "Dedo do Pé",
+        "Dedo",
         "Casco"
       ],
       "formats": [
@@ -398,30 +398,30 @@
       "prefixes": [
         "Encantado",
         "Místico",
-        "Feiticeiro",
-        "Fabuloso",
+        "Enfeitiçado",
+        "Lendário",
         "Notável",
-        "Ótimo",
+        "Grande",
         "Proeminente",
         "Lendário",
-        "Fabulosos",
+        "Fabuloso",
         "Magnífico",
         "Bom",
         "Grande",
-        "Confortável",
-        "Velho"
+        "Aconchegante",
+        "Antigo"
       ],
       "suffixes": [
         "Loja",
-        "Sapateiro"
+        "Sapataria"
       ]
     },
     {
       "core_names": [
+        "Couros",
+        "Courarias",
         "Peles",
-        "Couraria",
-        "Pelagens",
-        "Tiras",
+        "Correias",
         "Fivela",
         "Sela",
         "Arreio",
@@ -439,23 +439,23 @@
       ],
       "id": "20",
       "prefixes": [
-        "Flexível",
-        "Primoroso",
+        "Maleável",
+        "Magistral",
         "Durável",
         "Refinado",
-        "Intricado",
+        "Intrincado",
         "Robusto",
         "Elegante",
         "Artesanal",
-        "Ornado",
+        "Ornamentado",
         "Reforçado",
         "Rúnico",
         "Simples"
       ],
       "suffixes": [
         "Oficina",
-        "Couraria",
-        "Trabalhos em Couro"
+        "Curtidor",
+        "Curtume"
       ]
     },
     {
@@ -466,41 +466,41 @@
     },
     {
       "formats": [
-        "Mina da Família ::family"
+        "Mina de ::family"
       ],
       "id": "22"
     },
     {
       "formats": [
-        "Fundição da Família ::family"
+        "Fundição de ::family"
       ],
       "id": "26"
     },
     {
       "formats": [
-        "::family's ::suffix"
+        "::suffix de ::family"
       ],
       "id": "27",
       "suffixes": [
         "Fazenda",
         "Campos",
-        "Terra Agriculturável"
+        "Terras de Cultivo"
       ]
     },
     {
       "formats": [
-        "::family's ::suffix"
+        "::suffix de ::family"
       ],
       "id": "28",
       "suffixes": [
         "Fazenda",
         "Campos",
-        "Terra Agriculturável"
+        "Terras de Cultivo"
       ]
     },
     {
       "formats": [
-        "::family's ::suffix"
+        "::suffix de ::family"
       ],
       "id": "29",
       "suffixes": [
@@ -513,39 +513,39 @@
       ],
       "id": "30",
       "suffixes": [
-        "Poço de Argila"
+        "Argileira"
       ]
     },
     {
       "formats": [
-        "::family's ::suffix"
+        "::suffix de ::family"
       ],
       "id": "31",
       "suffixes": [
         "Rancho",
-        "Lar",
+        "Sítio",
         "Propriedade",
-        "Terra",
+        "Terreno",
         "Fazenda de Ovelhas"
       ]
     },
     {
       "formats": [
-        "::family's ::suffix"
+        "::suffix de ::family"
       ],
       "id": "32",
       "suffixes": [
-        "Cerâmica",
-        "Cerâmicas"
+        "Olaria",
+        "Cerâmica"
       ]
     },
     {
       "formats": [
-        "::family's ::suffix"
+        "::suffix de ::family"
       ],
       "id": "35",
       "suffixes": [
-        "Alaudistas"
+        "Alaúdes"
       ]
     },
     {
@@ -559,17 +559,17 @@
     },
     {
       "formats": [
-        "::family's ::suffix"
+        "::suffix de ::family"
       ],
       "id": "37",
       "suffixes": [
         "Papel",
-        "Moinho de Papel"
+        "Fábrica de Papel"
       ]
     },
     {
       "formats": [
-        "::company's ::suffix"
+        "::suffix de ::company"
       ],
       "id": "38",
       "suffixes": [
@@ -580,16 +580,16 @@
     },
     {
       "formats": [
-        "::company's ::suffix"
+        "::suffix de ::company"
       ],
       "id": "39",
       "suffixes": [
-        "Colégio Magicae"
+        "Colégio Mágico"
       ]
     },
     {
       "formats": [
-        "::company's ::suffix"
+        "::suffix de ::company"
       ],
       "id": "55",
       "suffixes": [
@@ -598,7 +598,7 @@
     },
     {
       "formats": [
-        "::company's ::suffix"
+        "::suffix de ::company"
       ],
       "id": "67",
       "suffixes": [
@@ -607,16 +607,16 @@
     },
     {
       "formats": [
-        "::company's ::suffix"
+        "::suffix de ::company"
       ],
       "id": "74",
       "suffixes": [
-        "Guarda"
+        "Guardas"
       ]
     },
     {
       "formats": [
-        "::company's ::suffix"
+        "::suffix de ::company"
       ],
       "id": "75",
       "suffixes": [
@@ -625,7 +625,7 @@
     },
     {
       "formats": [
-        "::company's ::suffix"
+        "::suffix de ::company"
       ],
       "id": "76",
       "suffixes": [
@@ -636,16 +636,16 @@
     },
     {
       "formats": [
-        "::company's ::suffix"
+        "::suffix de ::company"
       ],
       "id": "82",
       "suffixes": [
-        "Guarda"
+        "Guardas"
       ]
     },
     {
       "formats": [
-        "::company's ::suffix"
+        "::suffix de ::company"
       ],
       "id": "83",
       "suffixes": [
@@ -654,16 +654,16 @@
     },
     {
       "formats": [
-        "::company's ::suffix"
+        "::suffix de ::company"
       ],
       "id": "84",
       "suffixes": [
-        "Portadores de Runa"
+        "Portadores de Runas"
       ]
     },
     {
       "formats": [
-        "::company's ::suffix"
+        "::suffix de ::company"
       ],
       "id": "109",
       "suffixes": [
@@ -672,16 +672,16 @@
     },
     {
       "formats": [
-        "::company's ::suffix"
+        "::suffix de ::company"
       ],
       "id": "110",
       "suffixes": [
-        "Toca"
+        "Covil"
       ]
     },
     {
       "formats": [
-        "::company's ::suffix"
+        "::suffix de ::company"
       ],
       "id": "112",
       "suffixes": [
@@ -690,16 +690,16 @@
     },
     {
       "formats": [
-        "::company's ::suffix"
+        "::suffix de ::company"
       ],
       "id": "130",
       "suffixes": [
-        "Guarda"
+        "Guardas"
       ]
     },
     {
       "formats": [
-        "::company's ::suffix"
+        "::suffix de ::company"
       ],
       "id": "131",
       "suffixes": [
@@ -708,7 +708,7 @@
     },
     {
       "formats": [
-        "::company's ::suffix"
+        "::suffix de ::company"
       ],
       "id": "132",
       "suffixes": [
@@ -717,7 +717,7 @@
     },
     {
       "formats": [
-        "::company's ::suffix"
+        "::suffix de ::company"
       ],
       "id": "133",
       "suffixes": [
@@ -726,16 +726,16 @@
     },
     {
       "formats": [
-        "::company's ::suffix"
+        "::suffix de ::company"
       ],
       "id": "247",
       "suffixes": [
-        "Guardas"
+        "Guardiões"
       ]
     },
     {
       "formats": [
-        "::company's ::suffix"
+        "::suffix de ::company"
       ],
       "id": "248",
       "suffixes": [
@@ -744,7 +744,7 @@
     },
     {
       "formats": [
-        "::company's ::suffix"
+        "::suffix de ::company"
       ],
       "id": "249",
       "suffixes": [
@@ -753,7 +753,7 @@
     },
     {
       "formats": [
-        "::company ::suffix"
+        "::suffix de ::company"
       ],
       "id": "257",
       "suffixes": [
@@ -762,11 +762,11 @@
     },
     {
       "formats": [
-        "::company ::suffix"
+        "::suffix de ::company"
       ],
       "id": "264",
       "suffixes": [
-        "Guardas"
+        "Guardioes"
       ]
     },
     {
@@ -775,7 +775,7 @@
       ],
       "id": "265",
       "suffixes": [
-        "Guardiões"
+        "Guardas"
       ]
     },
     {
@@ -874,7 +874,7 @@
       ],
       "id": "367",
       "suffixes": [
-        "Fiscais"
+        "Executores"
       ]
     },
     {
@@ -937,7 +937,7 @@
       ],
       "id": "384",
       "suffixes": [
-        "Guarda"
+        "Guardas"
       ]
     },
     {
@@ -951,7 +951,7 @@
     },
     {
       "formats": [
-        "::company's ::suffix"
+        "::company de ::suffix"
       ],
       "id": "386",
       "suffixes": [
@@ -960,34 +960,34 @@
     },
     {
       "formats": [
-        "::company's ::suffix"
+        "::company de ::suffix"
       ],
       "id": "387",
       "suffixes": [
-        "Samurai"
+        "Samurais"
       ]
     },
     {
       "formats": [
-        "::suffix of the ::company"
+        "::suffix do ::company"
       ],
       "id": "388",
       "suffixes": [
-        "Ladinos"
+        "Ladrões"
       ]
     },
     {
       "formats": [
-        "::company's ::suffix"
+        "::company de ::suffix"
       ],
       "id": "389",
       "suffixes": [
-        "Colégio Magicae"
+        "Collegium Magicae"
       ]
     },
     {
       "formats": [
-        "::company's ::suffix"
+        "::company de ::suffix"
       ],
       "id": "390",
       "suffixes": [
@@ -996,7 +996,7 @@
     },
     {
       "formats": [
-        "::company's ::suffix"
+        "::suffix de ::company"
       ],
       "id": "391",
       "suffixes": [
@@ -1005,7 +1005,7 @@
     },
     {
       "formats": [
-        "::company's ::suffix"
+        "::suffix de ::company"
       ],
       "id": "423",
       "suffixes": [
@@ -1014,34 +1014,34 @@
     },
     {
       "formats": [
-        "::company's ::suffix"
+        "::suffix de ::company"
       ],
       "id": "424",
       "suffixes": [
-        "Trituradores de Osso"
+        "Esmaga-ossos"
       ]
     },
     {
       "formats": [
-        "::company's ::suffix"
+        "::suffix de ::company"
       ],
       "id": "425",
       "suffixes": [
-        "Esmagadores de Crânio"
+        "Esmaga-crânios"
       ]
     },
     {
       "formats": [
-        "::company's ::suffix"
+        "::suffix de ::company"
       ],
       "id": "426",
       "suffixes": [
-        "Invocadores de Espírito"
+        "Evocadores de Espíritos"
       ]
     },
     {
       "formats": [
-        "::company's ::suffix"
+        "::suffix de ::company"
       ],
       "id": "469",
       "suffixes": [
@@ -1050,7 +1050,7 @@
     },
     {
       "formats": [
-        "::company's ::suffix"
+        "::suffix de ::company"
       ],
       "id": "470",
       "suffixes": [
@@ -1059,7 +1059,7 @@
     },
     {
       "formats": [
-        "::company's ::suffix"
+        "::suffix de ::company"
       ],
       "id": "471",
       "suffixes": [
@@ -1068,7 +1068,7 @@
     },
     {
       "formats": [
-        "::company's ::suffix"
+        "::suffix de ::company"
       ],
       "id": "472",
       "suffixes": [
@@ -1077,16 +1077,16 @@
     },
     {
       "formats": [
-        "::company's ::suffix"
+        "::suffix de ::company"
       ],
       "id": "508",
       "suffixes": [
-        "Caminhantes do Túmulo"
+        "Caminhantes da Sepultura"
       ]
     },
     {
       "formats": [
-        "::company's ::suffix"
+        "::suffix de ::company"
       ],
       "id": "509",
       "suffixes": [
@@ -1095,16 +1095,16 @@
     },
     {
       "formats": [
-        "::company's ::suffix"
+        "::suffix de ::company"
       ],
       "id": "510",
       "suffixes": [
-        "Juramentados de Sangue"
+        "Jurados de Sangue"
       ]
     },
     {
       "formats": [
-        "::company's ::suffix"
+        "::suffix de ::company"
       ],
       "id": "511",
       "suffixes": [

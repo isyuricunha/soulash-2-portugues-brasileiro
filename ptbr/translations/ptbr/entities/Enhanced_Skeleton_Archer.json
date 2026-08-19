@@ -42,7 +42,7 @@
     "tags"
   ],
   "corpse": "55",
-  "description": "Este esqueleto empunha um arco armado que ele mira em você.",
+  "description": "Este esqueleto empunha um arco armado que ele aponta para você.",
   "equipment": {
     "ammo": [
       {
@@ -67,7 +67,7 @@
   },
   "fighter": {
     "attackNames": [
-      "Bone"
+      "Osso"
     ]
   },
   "glyph": {

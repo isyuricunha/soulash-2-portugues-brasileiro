@@ -13,7 +13,7 @@
     "minimap_pixel",
     "name"
   ],
-  "description": "Um chão feito de substância semelhante a papel.",
+  "description": "Um piso feito de substância semelhante a papel.",
   "glyph": {
     "frames": [
       {
@@ -34,5 +34,5 @@
     96,
     109
   ],
-  "name": "Chão de Ninho de Vespa"
+  "name": "Piso de Ninho de Vespa"
 }

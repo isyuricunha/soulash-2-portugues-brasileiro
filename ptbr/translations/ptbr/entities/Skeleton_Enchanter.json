@@ -39,7 +39,7 @@
       {
         "chance": 1.0,
         "id": "94",
-        "name": "Bastão",
+        "name": "Bordão",
         "stack": 1
       }
     ]
@@ -80,7 +80,7 @@
   },
   "name": "Esqueleto Encantador",
   "persona": {
-    "occupation": "Encantador"
+    "occupation": "Enchanter"
   },
   "sight": {
     "ignore_infra_penalty": false,

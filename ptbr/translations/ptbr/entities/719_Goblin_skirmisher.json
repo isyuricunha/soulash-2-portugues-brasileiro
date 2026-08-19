@@ -29,7 +29,7 @@
     "tags"
   ],
   "corpse": "560",
-  "description": "Este goblin parece estar irritado por algum motivo.",
+  "description": "Este goblin parece puto por algum motivo.",
   "dialogues": [
     "162",
     "163"
@@ -55,7 +55,7 @@
       {
         "chance": 1.0,
         "id": "100",
-        "name": "Dardo",
+        "name": "Azagaia",
         "stack": 1
       }
     ],
@@ -63,15 +63,15 @@
       {
         "chance": 1.0,
         "id": "23",
-        "name": "Farrapos",
+        "name": "Farrapas",
         "stack": 1
       }
     ]
   },
   "fighter": {
     "attackNames": [
-      "Punch",
-      "Bite"
+      "Soco",
+      "Mordida"
     ]
   },
   "glyph": {

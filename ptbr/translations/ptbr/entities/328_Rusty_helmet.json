@@ -20,7 +20,7 @@
     "value",
     "weight"
   ],
-  "description": "Capacete antigo, enferrujado e mal conservado.",
+  "description": "Elmo antigo, enferrujado e mal viável.",
   "glyph": {
     "frames": [
       {
@@ -45,7 +45,7 @@
     128,
     136
   ],
-  "name": "Capacete Enferrujado",
+  "name": "Elmo Enferrujado",
   "value": 100,
   "weight": 1.5
 }

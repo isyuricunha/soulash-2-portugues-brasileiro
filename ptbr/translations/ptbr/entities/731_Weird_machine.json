@@ -45,7 +45,7 @@
     "time": 60,
     "tools": []
   },
-  "description": "Uma máquina estranha inventada por engenheiros anões. Você não tem ideia do que ela faz, mas parece emocionante.",
+  "description": "Uma máquina estranha inventada por engenheiros anões. Você não faz ideia do que ela faz, mas parece emocionante.",
   "glyph": {
     "frames": [
       {
@@ -316,5 +316,6 @@
       ]
     },
     "time": 400
-  }
+  },
+  "feminine_form": true
 }

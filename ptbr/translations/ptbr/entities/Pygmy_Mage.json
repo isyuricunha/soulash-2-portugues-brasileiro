@@ -34,7 +34,7 @@
     "tags"
   ],
   "corpse": "core_2_Pygmy_Corpse",
-  "description": "Este homem pode ser pequeno, mas parece muito irritado.",
+  "description": "Este homem pode ser pequeno, mas parece furioso.",
   "dialogues": [],
   "equipment": {
     "backpack": [
@@ -65,7 +65,7 @@
       {
         "chance": 1.0,
         "id": "2176",
-        "name": "Tanga",
+        "name": "tapa-sexo",
         "stack": 1
       }
     ]

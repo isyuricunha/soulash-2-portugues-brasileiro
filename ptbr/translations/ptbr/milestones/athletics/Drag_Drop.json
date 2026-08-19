@@ -1,6 +1,6 @@
 {
   "id": "core_2_drag_drop",
-  "name": "Arraste e Solte",
+  "name": "Arrastar e Soltar",
   "requirements": {
     "skill": 1
   },

@@ -79,9 +79,9 @@
   "moveable": {
     "speed": 1.0
   },
-  "name": "Espectro de Osso Soprador de Vidro",
+  "name": "Espectro Ósseo Vidreiro",
   "persona": {
-    "occupation": "Soprador de Vidro"
+    "occupation": "Glassblower"
   },
   "sight": {
     "ignore_infra_penalty": false,

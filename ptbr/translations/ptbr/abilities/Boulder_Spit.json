@@ -6,7 +6,7 @@
     "health": 1,
     "stamina": 4
   },
-  "description": "Arremessa uma pedra massiva de sua goela em um único alvo que causa ::damage de dano ::damage_type.",
+  "description": "Arremessa uma rocha enorme de sua goela contra um único alvo, causando ::damage de dano ::damage_type.",
   "duration": 0.0,
   "effects": {
     "damage": [
@@ -18,7 +18,7 @@
   },
   "id": "core_2_Boulder_Spit",
   "image": 791,
-  "name": "Cuspe Pedregulho",
+  "name": "Cuspe de Pedra",
   "range": 10,
   "skill": "",
   "target": "line"

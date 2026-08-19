@@ -78,9 +78,9 @@
   "moveable": {
     "speed": 1.0
   },
-  "name": "Espectro de Osso Punho",
+  "name": "Punho de Espectro Ósseo",
   "persona": {
-    "occupation": "Punho"
+    "occupation": "Fist"
   },
   "sight": {
     "ignore_infra_penalty": false,

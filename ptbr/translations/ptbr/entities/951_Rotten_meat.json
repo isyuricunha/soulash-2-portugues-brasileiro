@@ -9,7 +9,7 @@
     "weight",
     "value"
   ],
-  "description": "Que nojo! Está fedendo.",
+  "description": "Eca! Cheira mal.",
   "glyph": {
     "frames": [
       {
@@ -36,5 +36,6 @@
   ],
   "name": "Carne Podre",
   "weight": 0.30000001192092896,
-  "value": 10
+  "value": 10,
+  "feminine_form": true
 }

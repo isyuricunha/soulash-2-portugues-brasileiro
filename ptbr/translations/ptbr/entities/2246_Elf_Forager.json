@@ -61,7 +61,7 @@
       {
         "chance": 0.699999988079071,
         "id": "183",
-        "name": "Túnica",
+        "name": "Veste",
         "stack": 1
       }
     ]
@@ -100,9 +100,9 @@
   "moveable": {
     "speed": 1.100000023841858
   },
-  "name": "Elfo Forrageiro",
+  "name": "Elfo Coletor",
   "persona": {
-    "occupation": "Forrageador"
+    "occupation": "Forager"
   },
   "sight": {
     "ignore_infra_penalty": false,

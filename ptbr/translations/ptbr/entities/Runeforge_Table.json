@@ -52,7 +52,7 @@
     150,
     221
   ],
-  "name": "Mesa de Forja de Runas",
+  "name": "Mesa Runeforge",
   "producer": {
     "products": {
       "core_2_deconstruct": [
@@ -73,5 +73,6 @@
       "id": 15,
       "quality": 100
     }
-  ]
+  ],
+  "feminine_form": true
 }

@@ -24,7 +24,7 @@
     "value",
     "weight"
   ],
-  "description": "Couro durável, útil para fabricação de armaduras.",
+  "description": "Couro durável, útil para criar armaduras.",
   "glyph": {
     "frames": [
       {
@@ -51,10 +51,11 @@
   ],
   "name": "Couro de Porco",
   "resource": {
-    "affix": "Gluttonous",
+    "affix": "Guloso",
     "magic_ingredient": 0,
     "quality": 1,
-    "type": 2
+    "type": 2,
+    "feminine_affix": "Gulosa"
   },
   "statistics": {
     "dexterity": [

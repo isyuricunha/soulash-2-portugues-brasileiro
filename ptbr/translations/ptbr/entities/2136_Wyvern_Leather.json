@@ -25,7 +25,7 @@
     "weapon",
     "weight"
   ],
-  "description": "Um material raro e cobiçado, ecoa a força e a majestade de uma criatura mítica.",
+  "description": "Um material raro e cobiçado, que ecoa a força e a majestade de uma criatura mítica.",
   "glyph": {
     "frames": [
       {
@@ -50,12 +50,13 @@
     235,
     217
   ],
-  "name": "Couro de Wiverno",
+  "name": "Couro de Víbora",
   "resource": {
-    "affix": "Venomous",
+    "affix": "Venenoso",
     "magic_ingredient": 0,
     "quality": 4,
-    "type": 2
+    "type": 2,
+    "feminine_affix": "Venenosa"
   },
   "statistics": {
     "dexterity": [

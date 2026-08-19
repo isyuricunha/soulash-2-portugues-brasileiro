@@ -50,7 +50,7 @@
     160,
     161
   ],
-  "name": "Faixa de Punho",
+  "name": "Faixa de Nudilhos",
   "value": 400,
   "weapon": {
     "attack_speed": 0.800000011920929,
@@ -68,5 +68,6 @@
     "range": 1,
     "type": 6
   },
-  "weight": 0.5
+  "weight": 0.5,
+  "feminine_form": true
 }

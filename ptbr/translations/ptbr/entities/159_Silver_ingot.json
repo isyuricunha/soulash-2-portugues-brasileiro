@@ -40,7 +40,7 @@
       10
     ]
   },
-  "description": "Um lingote cintilante de prata pura - geralmente menos valorizado por sua resistência material e mais por suas propriedades místicas e comerciais.",
+  "description": "Um lingote brilhante de prata pura — geralmente menos valorizado por sua resistência material e mais por suas propriedades místicas e comerciais.",
   "extra_weight": 0.30000001192092896,
   "glyph": {
     "frames": [
@@ -68,10 +68,11 @@
   ],
   "name": "Lingote de Prata",
   "resource": {
-    "affix": "Silver",
+    "affix": "Prata",
     "magic_ingredient": 0,
     "quality": 2,
-    "type": 1
+    "type": 1,
+    "feminine_affix": "Prateada"
   },
   "value": 8000,
   "weapon": {

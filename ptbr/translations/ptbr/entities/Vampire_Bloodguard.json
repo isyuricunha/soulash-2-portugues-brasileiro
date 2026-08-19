@@ -97,9 +97,9 @@
   "moveable": {
     "speed": 1.0
   },
-  "name": "Vampiro Guarda de Sangue",
+  "name": "Guarda de Sangue Vampiro",
   "persona": {
-    "occupation": "Guarda de Sangue"
+    "occupation": "Bloodguard"
   },
   "sight": {
     "ignore_infra_penalty": false,

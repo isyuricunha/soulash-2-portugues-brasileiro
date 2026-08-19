@@ -23,7 +23,7 @@
     "value",
     "weight"
   ],
-  "description": "Couro grosso com algumas pequenas penas.",
+  "description": "Couro grosso com algumas penas pequenas.",
   "extra_weight": -0.3,
   "glyph": {
     "frames": [
@@ -51,10 +51,11 @@
   ],
   "name": "Couro de Pinguim",
   "resource": {
-    "affix": "Arctic",
+    "affix": "Ártico",
     "magic_ingredient": 0,
     "quality": 2,
-    "type": 2
+    "type": 2,
+    "feminine_affix": "Ártica"
   },
   "value": 1000,
   "weight": 0.20000000298023224

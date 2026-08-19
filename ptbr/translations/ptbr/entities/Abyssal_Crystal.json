@@ -24,7 +24,7 @@
     "weapon",
     "weight"
   ],
-  "description": "Uma joia preta brilhante que parece se inflamar por dentro.",
+  "description": "Uma joia negra brilhante que parece incendiar-se por dentro.",
   "glyph": {
     "frames": [
       {
@@ -51,10 +51,11 @@
   ],
   "name": "Cristal Abissal",
   "resource": {
-    "affix": "of the Inferno",
+    "affix": "do Inferno",
     "magic_ingredient": 2,
     "quality": 2,
-    "type": 7
+    "type": 7,
+    "feminine_affix": "infernal"
   },
   "value": 1200,
   "weapon": {

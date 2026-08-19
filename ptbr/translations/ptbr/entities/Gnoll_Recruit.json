@@ -87,9 +87,9 @@
   "moveable": {
     "speed": 1.100000023841858
   },
-  "name": "Gnoll Recruta",
+  "name": "Recruta Gnoll",
   "persona": {
-    "occupation": "Recruta"
+    "occupation": "Recruit"
   },
   "sight": {
     "ignore_infra_penalty": false,

@@ -48,7 +48,7 @@
     "time": 20,
     "tools": []
   },
-  "description": "Uma árvore de cedro jovem e pequena.",
+  "description": "Um cedro pequeno e jovem.",
   "glyph": {
     "frames": [
       {
@@ -139,5 +139,6 @@
     "spawn_chance": 100.0,
     "spawn_multiply": 0.0,
     "spawn_rolls": 1
-  }
+  },
+  "feminine_form": true
 }

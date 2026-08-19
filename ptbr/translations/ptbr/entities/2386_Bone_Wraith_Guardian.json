@@ -41,7 +41,7 @@
       {
         "chance": 1.0,
         "id": "311",
-        "name": "Lança de Osso",
+        "name": "Lança Óssea",
         "stack": 1
       }
     ]
@@ -80,9 +80,9 @@
   "moveable": {
     "speed": 1.0
   },
-  "name": "Espectro de Osso Guardião",
+  "name": "Guardião de Espectro Ósseo",
   "persona": {
-    "occupation": "Guardião de Ossos"
+    "occupation": "Bone Guardian"
   },
   "sight": {
     "ignore_infra_penalty": false,

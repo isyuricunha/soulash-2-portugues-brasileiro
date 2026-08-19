@@ -6,7 +6,7 @@
     "health": 0,
     "stamina": 0
   },
-  "description": "Invoca um gole poderoso que te apoiará em combate.",
+  "description": "Evoca um golem poderoso que o apoiará em combate.",
   "duration": 40.0,
   "effects": {
     "summon_count": 1
@@ -16,7 +16,7 @@
   },
   "id": "core_2_Summon_Golem",
   "image": 707,
-  "name": "Invocar Golem",
+  "name": "Evocar Golem",
   "range": 4,
   "skill": "",
   "target": "tile"

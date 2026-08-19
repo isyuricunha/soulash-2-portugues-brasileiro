@@ -24,7 +24,7 @@
     "random_resource"
   ],
   "corpse": [],
-  "description": "Arbusto perene. Pode ter bagas de zimbros em breve.",
+  "description": "Arbusto perene. Pode ter bagas de junípero em breve.",
   "glyph": {
     "frames": [
       {
@@ -64,7 +64,7 @@
     109,
     155
   ],
-  "name": "Arbusto de Zimbro Colhido",
+  "name": "Arbusto de Junípero Colhido",
   "random_resource": {
     "delay_spawn": true,
     "entity": [

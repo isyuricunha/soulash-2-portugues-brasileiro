@@ -97,9 +97,9 @@
   "moveable": {
     "speed": 1.0
   },
-  "name": "Vampiro Caminhante Tumular",
+  "name": "Vampiro Andarilho da Sepultura",
   "persona": {
-    "occupation": "Caminhante Tumular"
+    "occupation": "Gravewalker"
   },
   "sight": {
     "ignore_infra_penalty": false,

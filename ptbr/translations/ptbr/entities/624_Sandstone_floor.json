@@ -26,7 +26,7 @@
     "time": 0,
     "tools": []
   },
-  "description": "Chão feito de blocos de arenito.",
+  "description": "Piso feito de blocos de arenito.",
   "glyph": {
     "frames": [
       {
@@ -47,5 +47,5 @@
     108,
     58
   ],
-  "name": "Chão de Arenito"
+  "name": "Piso de Arenito"
 }

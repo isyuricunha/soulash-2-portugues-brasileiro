@@ -39,14 +39,14 @@
     "weapon"
   ],
   "corpse": "2025",
-  "description": "Parede móvel com janelas para arqueiros.",
+  "description": "Parede móvel com janelas de arquearia.",
   "experience_gainer": {
     "exp": 0,
     "level": 50
   },
   "fighter": {
     "attackNames": [
-      "Arrow"
+      "Flecha"
     ]
   },
   "glyph": {
@@ -73,7 +73,7 @@
   "moveable": {
     "speed": 1.2000000476837158
   },
-  "name": "Paredes de Arqueiros",
+  "name": "Muros de Arquearia",
   "sight": {
     "ignore_infra_penalty": true,
     "infravision": true,

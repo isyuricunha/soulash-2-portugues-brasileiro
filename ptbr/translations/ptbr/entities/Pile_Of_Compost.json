@@ -7,7 +7,7 @@
     "producer",
     "stackable"
   ],
-  "description": "Pilha perfumada de composto fresco.",
+  "description": "Um monte perfumado de composto fresco.",
   "glyph": {
     "frames": [
       {
@@ -28,7 +28,7 @@
     113,
     115
   ],
-  "name": "Pilha de Composto",
+  "name": "Monte de Composto",
   "producer": {
     "products": {
       "5": [

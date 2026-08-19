@@ -28,7 +28,7 @@
     "tags"
   ],
   "corpse": "2729",
-  "description": "Metade homem, metade cavalo. Metade furioso, metade louco.",
+  "description": "Meio homem, meio cavalo. Meio bravo, meio louco.",
   "dialogues": [
     "150",
     "151"
@@ -38,7 +38,7 @@
       {
         "chance": 1.0,
         "id": "2351",
-        "name": "Cinto",
+        "name": "Cinta",
         "stack": 1
       }
     ],
@@ -46,7 +46,7 @@
       {
         "chance": 1.0,
         "id": "21",
-        "name": "Capacete Nasal",
+        "name": "Elmo Nasal",
         "stack": 1
       }
     ],

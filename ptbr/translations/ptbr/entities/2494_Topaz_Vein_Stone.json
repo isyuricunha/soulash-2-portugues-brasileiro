@@ -33,7 +33,7 @@
     "producer"
   ],
   "corpse": [],
-  "description": "Um veio de gema de topázio na parede de pedra.",
+  "description": "Um veio de gema de topázio em parede de pedra.",
   "glyph": {
     "frames": [
       {
@@ -56,7 +56,7 @@
     187,
     27
   ],
-  "name": "Veio de Topázio em Pedra",
+  "name": "Pedra de Veio de Topázio",
   "producer": {
     "products": {
       "5": [
@@ -71,5 +71,6 @@
       ]
     },
     "time": 50
-  }
+  },
+  "feminine_form": true
 }

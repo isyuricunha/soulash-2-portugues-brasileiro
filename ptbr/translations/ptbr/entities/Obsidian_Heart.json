@@ -10,7 +10,7 @@
     "value",
     "weight"
   ],
-  "description": "Coração preto feito de pedra fria.",
+  "description": "Coração negro feito de pedra fria.",
   "glyph": {
     "frames": [
       {
@@ -37,11 +37,12 @@
   ],
   "name": "Coração de Obsidiana",
   "resource": {
-    "affix": "of the Volcano",
+    "affix": "do Vulcão",
     "granted_passive": "core_2_born_killer",
     "magic_ingredient": 5,
     "quality": 5,
-    "type": 7
+    "type": 7,
+    "feminine_affix": "vulcânica"
   },
   "value": 20000,
   "weight": 0.10000000149011612

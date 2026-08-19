@@ -6,7 +6,7 @@
     "health": 0,
     "stamina": 4
   },
-  "description": "Um ataque que causa ::damage de dano ::damage_type e aplica o efeito Vulnerável ao inimigo por ::vulnerable turnos.\n\nVulnerável - não pode aparar ou esquivar.",
+  "description": "Um ataque que causa ::damage de dano ::damage_type e aplica o efeito Vulnerável ao inimigo por ::vulnerable turnos.\n\nVulnerável - não pode aparar nem esquivar.",
   "duration": 0.0,
   "effects": {
     "damage": [

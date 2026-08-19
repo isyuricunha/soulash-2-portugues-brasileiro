@@ -47,7 +47,7 @@
       1
     ]
   },
-  "description": "Runa Anã criada para imbuir seu usuário com um meio de proteção.",
+  "description": "Runa anã forjada para fornecer ao seu usuário um meio de proteção.",
   "glyph": {
     "frames": [
       {
@@ -74,11 +74,13 @@
   ],
   "name": "Runa de Proteção",
   "resource": {
-    "affix": "of the Protection",
+    "affix": "da Proteção",
     "magic_ingredient": 3,
     "quality": 3,
-    "type": 7
+    "type": 7,
+    "feminine_affix": "protetora"
   },
   "value": 2000,
-  "weight": 0.10000000149011612
+  "weight": 0.10000000149011612,
+  "feminine_form": true
 }

@@ -1,0 +1,20 @@
+{
+  "animation": "core_2_Heavy_Rain",
+  "cast_time": 0.0,
+  "cooldown": 0.0,
+  "cost": {
+    "health": 0,
+    "stamina": 0
+  },
+  "description": "A tempestade de areia furiosa reduz a visão em ::sight ladrilhos.",
+  "duration": 15.0,
+  "effects": {
+    "sight": -8
+  },
+  "id": "core_2_Duststorm_Blindness",
+  "image": 831,
+  "name": "Cegueira da Tempestade de Areia",
+  "range": 0,
+  "skill": "",
+  "target": "actor"
+}

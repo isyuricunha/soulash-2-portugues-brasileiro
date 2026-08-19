@@ -6,7 +6,7 @@
     "health": 0,
     "stamina": 0
   },
-  "description": "Esta poção lhe dá imunidade a dano de fogo por ::duration turnos.",
+  "description": "Esta poção concede imunidade a dano de fogo por ::duration turnos.",
   "duration": 20.0,
   "effects": {
     "damage_type": "fire",
@@ -14,7 +14,7 @@
   },
   "id": "core_2_Potion_of_Fire_Immunity",
   "image": 761,
-  "name": "Poção da Imunidade ao Fogo",
+  "name": "Poção de Imunidade ao Fogo",
   "range": 0,
   "skill": "",
   "target": "self"

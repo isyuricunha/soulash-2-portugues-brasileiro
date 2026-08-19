@@ -10,7 +10,7 @@
     "value",
     "weight"
   ],
-  "description": "Gatinho assustado. Se você soltá-lo, ele tentará escapar.",
+  "description": "Pequeno gatinho assustado. Se você soltá-lo, ele tentará fugir.",
   "glyph": {
     "frames": [
       {

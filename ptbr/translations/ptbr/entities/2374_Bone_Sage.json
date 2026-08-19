@@ -77,9 +77,9 @@
   "moveable": {
     "speed": 1.0
   },
-  "name": "Sábio de Osso",
+  "name": "Sábio Ósseo",
   "persona": {
-    "occupation": "Sábio de Osso"
+    "occupation": "Bone Sage"
   },
   "sight": {
     "ignore_infra_penalty": false,

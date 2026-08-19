@@ -27,7 +27,7 @@
       12
     ]
   },
-  "description": "Uma tapeçaria linda retratando uma lua.",
+  "description": "Uma bela tapeçaria retratando uma lua.",
   "glyph": {
     "frames": [
       {
@@ -64,5 +64,6 @@
       ]
     },
     "time": 20
-  }
+  },
+  "feminine_form": true
 }

@@ -80,9 +80,9 @@
   "moveable": {
     "speed": 1.0
   },
-  "name": "Espectro de Osso Ferreiro",
+  "name": "Espectro Ósseo Ferreiro",
   "persona": {
-    "occupation": "Forjador de Ossos"
+    "occupation": "Bone Smith"
   },
   "sight": {
     "ignore_infra_penalty": false,

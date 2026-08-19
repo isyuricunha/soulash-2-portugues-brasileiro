@@ -92,9 +92,9 @@
   "moveable": {
     "speed": 1.100000023841858
   },
-  "name": "Engenheiro Mushman",
+  "name": "Engenheiro Homem-Cogumelo",
   "persona": {
-    "occupation": "Engenheiro"
+    "occupation": "Engineer"
   },
   "sight": {
     "ignore_infra_penalty": false,

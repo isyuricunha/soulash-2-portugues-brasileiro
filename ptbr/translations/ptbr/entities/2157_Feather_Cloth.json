@@ -65,12 +65,13 @@
     200,
     200
   ],
-  "name": "Tecido de Penas",
+  "name": "Tecido de Pena",
   "resource": {
-    "affix": "Feathered",
+    "affix": "Emplumado",
     "magic_ingredient": 0,
     "quality": 2,
-    "type": 4
+    "type": 4,
+    "feminine_affix": "Emplumada"
   },
   "statistics": {
     "dexterity": [

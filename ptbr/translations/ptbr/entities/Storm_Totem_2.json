@@ -1,0 +1,56 @@
+{
+  "components": [
+    "craftable",
+    "glyph",
+    "item",
+    "minimap_pixel",
+    "name",
+    "position_2d",
+    "stackable",
+    "value",
+    "weight"
+  ],
+  "craftable": {
+    "backgrounds": [],
+    "biomes": [],
+    "magic_slots": 0,
+    "resource_types": [
+      {
+        "amount": 3,
+        "id": 3
+      }
+    ],
+    "time": 30,
+    "tools": [
+      14
+    ]
+  },
+  "description": "Um totem de madeira esculpido com símbolos de tempestade e runas misteriosas.",
+  "glyph": {
+    "frames": [
+      {
+        "color": [
+          255,
+          255,
+          255
+        ],
+        "delay": 0,
+        "index": 2371
+      }
+    ],
+    "random_frame_start": false
+  },
+  "id": "core_2_Storm_Totem_2",
+  "item": {
+    "image": 1038,
+    "type": 16
+  },
+  "minimap_pixel": [
+    100,
+    109,
+    155
+  ],
+  "name": "Totem da Tempestade 2",
+  "value": 2000,
+  "weight": 0.10000000149011612
+}

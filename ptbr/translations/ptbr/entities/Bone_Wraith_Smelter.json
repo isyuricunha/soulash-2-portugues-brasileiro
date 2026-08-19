@@ -77,9 +77,9 @@
   "moveable": {
     "speed": 1.0
   },
-  "name": "Espectro de Osso Fundidor",
+  "name": "Fundidor Espectro de Osso",
   "persona": {
-    "occupation": "Fundidor"
+    "occupation": "Smelter"
   },
   "sight": {
     "ignore_infra_penalty": false,

@@ -51,10 +51,11 @@
   ],
   "name": "Cauda de Tartaruga",
   "resource": {
-    "affix": "of Hatching",
+    "affix": "da Eclosão",
     "magic_ingredient": 3,
     "quality": 3,
-    "type": 7
+    "type": 7,
+    "feminine_affix": "eclodida"
   },
   "value": 3000,
   "weapon": {
@@ -73,5 +74,6 @@
     "range": 0,
     "type": 9
   },
-  "weight": 0.10000000149011612
+  "weight": 0.10000000149011612,
+  "feminine_form": true
 }

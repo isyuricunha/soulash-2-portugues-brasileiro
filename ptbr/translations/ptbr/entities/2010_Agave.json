@@ -10,7 +10,7 @@
     "value",
     "weight"
   ],
-  "description": "Agave pode fornecer uma quantidade decente de nutrição no deserto.",
+  "description": "O agave pode fornecer uma quantidade decente de nutrição no deserto.",
   "food": {
     "nutrition": 25,
     "on_eat": "",

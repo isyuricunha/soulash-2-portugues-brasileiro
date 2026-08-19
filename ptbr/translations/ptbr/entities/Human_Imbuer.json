@@ -79,9 +79,9 @@
   "moveable": {
     "speed": 1.2000000476837158
   },
-  "name": "Humano Imbuidor",
+  "name": "Imbuidor Humano",
   "persona": {
-    "occupation": "Imbuidor"
+    "occupation": "Imbuer"
   },
   "sight": {
     "ignore_infra_penalty": false,

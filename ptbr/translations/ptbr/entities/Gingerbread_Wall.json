@@ -65,7 +65,7 @@
     104,
     144
   ],
-  "name": "Parede de Gengibre",
+  "name": "Parede de Pão de Mel",
   "producer": {
     "products": {
       "core_2_deconstruct": [
@@ -80,5 +80,6 @@
       ]
     },
     "time": 30
-  }
+  },
+  "feminine_form": true
 }

@@ -28,7 +28,7 @@
     "time": 15,
     "tools": []
   },
-  "description": "Bolsa de couro. Está vazando, então não pode segurar muita água.",
+  "description": "Bolsa de couro. Está vazando, então não comporta muita água.",
   "glyph": {
     "frames": [
       {
@@ -57,7 +57,7 @@
     93,
     57
   ],
-  "name": "Odre Furado",
+  "name": "Cantil Vazado",
   "value": 100,
   "weight": 0.5
 }

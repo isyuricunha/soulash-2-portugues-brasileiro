@@ -31,7 +31,7 @@
       14
     ]
   },
-  "description": "A lâmina de metal parece exatamente como uma folha. Muito élfico.",
+  "description": "A lâmina de metal parece exatamente uma folha. Muito élfica.",
   "glyph": {
     "frames": [
       {
@@ -74,5 +74,6 @@
     "range": 1,
     "type": 4
   },
-  "weight": 2.0
+  "weight": 2.0,
+  "feminine_form": true
 }

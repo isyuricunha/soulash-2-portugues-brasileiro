@@ -108,9 +108,9 @@
   "moveable": {
     "speed": 1.100000023841858
   },
-  "name": "Troll Esmaga-Ossos",
+  "name": "Troll Quebra-Ossos",
   "persona": {
-    "occupation": "Esmaga-Ossos"
+    "occupation": "Bonecrusher"
   },
   "sight": {
     "ignore_infra_penalty": false,

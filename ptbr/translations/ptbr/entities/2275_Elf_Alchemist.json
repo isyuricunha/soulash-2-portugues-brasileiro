@@ -80,9 +80,9 @@
   "moveable": {
     "speed": 1.2000000476837158
   },
-  "name": "Alquimista Elfo",
+  "name": "Alquimista Élfico",
   "persona": {
-    "occupation": "Alquimista"
+    "occupation": "Alchemist"
   },
   "sight": {
     "ignore_infra_penalty": false,
@@ -91,7 +91,29 @@
     "threesixty": false
   },
   "skills": {
-    "milestones": [],
+    "max_skill": 0,
+    "milestones": [
+      "core_2_alchemic_fire",
+      "core_2_all_seeing",
+      "core_2_better_sight",
+      "core_2_cleansing_potion",
+      "core_2_death_immunity",
+      "core_2_electric_resist",
+      "core_2_emty_vial",
+      "core_2_fertility_potion",
+      "core_2_fire_immunity",
+      "core_2_frost_resist",
+      "core_2_haste_potion",
+      "core_2_holy_res",
+      "core_2_improved_haste",
+      "core_2_nature_resist",
+      "core_2_physical_resist",
+      "core_2_little_alchemist",
+      "core_2_power_elixir",
+      "core_2_strong_drink",
+      "core_2_thorns_tonic",
+      "core_2_transmutation_oil"
+    ],
     "skills": [
       "core_2_alchemy"
     ]

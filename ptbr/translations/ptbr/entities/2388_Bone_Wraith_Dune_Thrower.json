@@ -39,13 +39,13 @@
       {
         "chance": 1.0,
         "id": "100",
-        "name": "Dardo",
+        "name": "Azagaia",
         "stack": 3
       },
       {
         "chance": 1.0,
         "id": "312",
-        "name": "Espada de Osso",
+        "name": "Espada Óssea",
         "stack": 1
       }
     ],
@@ -53,7 +53,7 @@
       {
         "chance": 1.0,
         "id": "100",
-        "name": "Dardo",
+        "name": "Azagaia",
         "stack": 1
       }
     ]
@@ -92,9 +92,9 @@
   "moveable": {
     "speed": 1.0
   },
-  "name": "Espectro de Osso Arremessador das Dunas",
+  "name": "Arremessador de Dunas de Espectro Ósseo",
   "persona": {
-    "occupation": "Arremessador das Dunas"
+    "occupation": "Dune Thrower"
   },
   "sight": {
     "ignore_infra_penalty": false,

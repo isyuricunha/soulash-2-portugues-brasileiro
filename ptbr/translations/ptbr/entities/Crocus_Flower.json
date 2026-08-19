@@ -50,11 +50,13 @@
   ],
   "name": "Flor de Crocus",
   "resource": {
-    "affix": "of Glory",
+    "affix": "da Glória",
     "magic_ingredient": 2,
     "quality": 2,
-    "type": 7
+    "type": 7,
+    "feminine_affix": "gloriosa"
   },
   "value": 300,
-  "weight": 0.10000000149011612
+  "weight": 0.10000000149011612,
+  "feminine_form": true
 }

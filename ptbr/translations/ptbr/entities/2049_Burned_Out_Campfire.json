@@ -7,7 +7,7 @@
     "position_2d",
     "producer"
   ],
-  "description": "Pedacços de madeira queimada e cinzas. Alguém acendeu uma fogueira aqui não muito tempo atrás.",
+  "description": "Pedaços de madeira queimada e cinzas. Alguém fez uma fogueira aqui não faz muito tempo.",
   "glyph": {
     "frames": [
       {
@@ -107,5 +107,6 @@
       ]
     },
     "time": 10
-  }
+  },
+  "feminine_form": true
 }

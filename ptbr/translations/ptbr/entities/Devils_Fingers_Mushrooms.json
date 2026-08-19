@@ -7,7 +7,7 @@
     "producer",
     "stackable"
   ],
-  "description": "Estes cogumelos parecem dedos demoníacos alcançando o céu.",
+  "description": "Este cogumelo parece dedos demoníacos alcançando o céu.",
   "glyph": {
     "frames": [
       {
@@ -28,7 +28,7 @@
     90,
     34
   ],
-  "name": "Cogumelos Dedos do Diabo",
+  "name": "Cogumelos Dedos-do-Diabo",
   "producer": {
     "products": {
       "10": [

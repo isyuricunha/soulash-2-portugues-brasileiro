@@ -41,7 +41,7 @@
       {
         "chance": 1.0,
         "id": "87",
-        "name": "Maça",
+        "name": "MaÃ§a",
         "stack": 1
       }
     ]
@@ -80,9 +80,9 @@
   "moveable": {
     "speed": 1.0
   },
-  "name": "Espectro de Osso Hospedeiro",
+  "name": "Hospedeiro de Espectro Ã“sseo",
   "persona": {
-    "occupation": "Hospedeiro"
+    "occupation": "Host"
   },
   "sight": {
     "ignore_infra_penalty": false,

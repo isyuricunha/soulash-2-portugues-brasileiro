@@ -41,7 +41,7 @@
       12
     ]
   },
-  "description": "Um xale mágico adornado com gemas brilhantes.",
+  "description": "Uma faixa mágica adornada com gemas brilhantes.",
   "glyph": {
     "frames": [
       {
@@ -68,5 +68,6 @@
   ],
   "name": "Faixa Encantada",
   "value": 7500,
-  "weight": 0.5
+  "weight": 0.5,
+  "feminine_form": true
 }

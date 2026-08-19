@@ -40,7 +40,7 @@
       {
         "chance": 1.0,
         "id": "23",
-        "name": "Farrapos",
+        "name": "Farrap",
         "stack": 1
       }
     ]
@@ -79,9 +79,9 @@
   "moveable": {
     "speed": 1.2999999523162842
   },
-  "name": "Moinheiro Ursan",
+  "name": "Ursan Moleiro",
   "persona": {
-    "occupation": "Moleiro"
+    "occupation": "Miller"
   },
   "sight": {
     "ignore_infra_penalty": false,

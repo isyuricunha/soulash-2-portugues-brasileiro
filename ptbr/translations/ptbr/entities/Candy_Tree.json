@@ -25,7 +25,7 @@
     "producer"
   ],
   "corpse": "61",
-  "description": "Uma árvore que cresce doces gostosos.",
+  "description": "Uma árvore que produz doces deliciosos.",
   "glyph": {
     "frames": [
       {
@@ -65,7 +65,7 @@
     93,
     65
   ],
-  "name": "Árvore de Doce",
+  "name": "Árvore de Doces",
   "producer": {
     "delay_on_use": 1440,
     "products": {
@@ -91,5 +91,6 @@
       ]
     },
     "time": 10
-  }
+  },
+  "feminine_form": true
 }

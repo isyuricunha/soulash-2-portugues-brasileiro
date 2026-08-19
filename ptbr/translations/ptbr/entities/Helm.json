@@ -8,7 +8,7 @@
     "producer"
   ],
   "corpse": "62",
-  "description": "Volante do navio.",
+  "description": "Leme do navio.",
   "glyph": {
     "frames": [
       {
@@ -30,7 +30,7 @@
     78,
     34
   ],
-  "name": "Elmo",
+  "name": "Leme",
   "producer": {
     "products": {
       "core_2_deconstruct": [

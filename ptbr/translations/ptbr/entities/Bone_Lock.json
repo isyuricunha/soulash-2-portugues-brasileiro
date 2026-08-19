@@ -33,7 +33,7 @@
       15
     ]
   },
-  "description": "Uma fechadura simples que poderia ser aberta com a chave certa.",
+  "description": "Uma fechadura simples que pode ser aberta com a chave certa.",
   "glyph": {
     "frames": [
       {
@@ -58,12 +58,13 @@
     109,
     155
   ],
-  "name": "Tranca de Osso",
+  "name": "Fechadura de Osso",
   "resource": {
-    "affix": "of the Lock",
+    "affix": "da Fechadura",
     "magic_ingredient": 3,
     "quality": 3,
-    "type": 7
+    "type": 7,
+    "feminine_affix": "fechadura"
   },
   "value": 2800,
   "weapon": {
@@ -82,5 +83,6 @@
     "range": 0,
     "type": 9
   },
-  "weight": 0.10000000149011612
+  "weight": 0.10000000149011612,
+  "feminine_form": true
 }

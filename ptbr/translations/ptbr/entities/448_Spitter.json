@@ -35,7 +35,7 @@
     "weapon"
   ],
   "corpse": "2996",
-  "description": "Criatura pútrida com boca dentada. Está coberta por escamas duras, caminha sobre duas pernas e tem uma cauda de tamanho médio. Ácido pinga de sua língua oscilante.",
+  "description": "Criatura putrefata com boca dentada. É coberta por escamas duras, anda sobre duas pernas e tem uma cauda de tamanho médio. Ácido escorre de sua língua batendo.",
   "dialogues": [
     "182",
     "183",
@@ -68,7 +68,7 @@
   },
   "fighter": {
     "attackNames": [
-      "Acid Bite"
+      "Mordida Ácida"
     ]
   },
   "glyph": {

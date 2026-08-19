@@ -11,7 +11,7 @@
     "value",
     "weight"
   ],
-  "description": "Caule sinuoso com um olho no topo.",
+  "description": "Haste tortuosa com um olho no topo.",
   "glyph": {
     "frames": [
       {
@@ -47,10 +47,11 @@
   ],
   "name": "Olho do Observador",
   "resource": {
-    "affix": "of Clarity",
+    "affix": "da Clareza",
     "magic_ingredient": 4,
     "quality": 4,
-    "type": 7
+    "type": 7,
+    "feminine_affix": "clara"
   },
   "statistics": {
     "dexterity": [

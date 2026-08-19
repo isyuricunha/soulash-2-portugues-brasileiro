@@ -10,7 +10,7 @@
     "value",
     "weight"
   ],
-  "description": "Alguma carne fresca e viscosa. Leve e boa para viajar.",
+  "description": "Uma carne fresca e gosmenta. Leve e boa para viagens.",
   "food": {
     "nutrition": 25,
     "on_eat": "",
@@ -42,5 +42,6 @@
   ],
   "name": "Carne de Lesma",
   "value": 150,
-  "weight": 0.20000000298023224
+  "weight": 0.20000000298023224,
+  "feminine_form": true
 }

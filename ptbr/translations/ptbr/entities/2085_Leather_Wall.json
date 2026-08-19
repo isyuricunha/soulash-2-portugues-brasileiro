@@ -47,7 +47,7 @@
     "time": 5,
     "tools": []
   },
-  "description": "Parede feita de couro de animal esticado.",
+  "description": "Parede feita de couro animal esticado.",
   "glyph": {
     "frames": [
       {
@@ -85,5 +85,6 @@
       ]
     },
     "time": 20
-  }
+  },
+  "feminine_form": true
 }

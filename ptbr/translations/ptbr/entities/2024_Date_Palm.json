@@ -25,7 +25,7 @@
     "producer"
   ],
   "corpse": "2095",
-  "description": "Árvore de palmeira perene alta com um tronco esguio e uma coroa de folhas em forma de pena. Você pode ver algumas frutas penduradas entre as folhas.",
+  "description": "Tamareira alta e perene com tronco esbelto e uma coroa de folhas penugentas. Você pode ver alguns frutos pendurados entre as folhas.",
   "glyph": {
     "frames": [
       {
@@ -92,7 +92,7 @@
     93,
     40
   ],
-  "name": "Palmeira de Tâmara",
+  "name": "Tamareira",
   "producer": {
     "delay_on_use": 1440,
     "products": {
@@ -134,5 +134,6 @@
       ]
     },
     "time": 30
-  }
+  },
+  "feminine_form": true
 }

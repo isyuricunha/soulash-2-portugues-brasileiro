@@ -32,7 +32,7 @@
       1
     ]
   },
-  "description": "Uma lâmina curta e ornamentada com gravações intricadas de símbolos de poder. Possui um cabo de osso incrustado com pedras preciosas e uma lâmina mortal ideal para combate corpo a corpo.",
+  "description": "Uma lâmina curta e ornamentada com gravuras intrincadas de símbolos de poder. Possui um cabo de osso incrustado com pedras preciosas e uma lâmina mortal ideal para combate próximo.",
   "glyph": {
     "frames": [
       {
@@ -74,5 +74,6 @@
     "range": 1,
     "type": 3
   },
-  "weight": 1.0
+  "weight": 1.0,
+  "feminine_form": true
 }

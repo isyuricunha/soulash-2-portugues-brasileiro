@@ -28,7 +28,7 @@
     "weapon"
   ],
   "corpse": "core_2_Leopard_Corpse",
-  "description": "Um grande gato com pelagem escura e manchada.",
+  "description": "Um grande gato com pelagem escura manchada.",
   "dialogues": [
     "765",
     "766",
@@ -63,8 +63,8 @@
   },
   "fighter": {
     "attackNames": [
-      "Scratch",
-      "Bite"
+      "Arranhão",
+      "Mordida"
     ]
   },
   "glyph": {

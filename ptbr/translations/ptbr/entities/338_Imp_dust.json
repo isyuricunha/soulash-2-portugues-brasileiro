@@ -23,7 +23,7 @@
     "value",
     "weight"
   ],
-  "description": "Um pó preto com propriedades mágicas. Pode ser usado em artesanato.",
+  "description": "Uma poeira negra com propriedades mágicas. Pode ser usada na criação.",
   "glyph": {
     "frames": [
       {
@@ -48,13 +48,15 @@
     40,
     20
   ],
-  "name": "Pó de Diabrete",
+  "name": "Poeira de Diabrete",
   "resource": {
-    "affix": "of the Imp",
+    "affix": "do Diabrete",
     "magic_ingredient": 1,
     "quality": 1,
-    "type": 7
+    "type": 7,
+    "feminine_affix": "diabretina"
   },
   "value": 700,
-  "weight": 0.10000000149011612
+  "weight": 0.10000000149011612,
+  "feminine_form": true
 }

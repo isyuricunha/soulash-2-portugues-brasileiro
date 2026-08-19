@@ -78,9 +78,9 @@
   "moveable": {
     "speed": 1.2000000476837158
   },
-  "name": "Portador de Luz Mushman",
+  "name": "Portador da Luz de Cogumelo",
   "persona": {
-    "occupation": "Portador de Luz"
+    "occupation": "Light Bringer"
   },
   "sight": {
     "ignore_infra_penalty": false,

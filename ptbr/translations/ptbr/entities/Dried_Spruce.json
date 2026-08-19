@@ -1,0 +1,103 @@
+{
+  "armor": {
+    "acid": 5,
+    "death": 5,
+    "electricity": 10,
+    "fire": -20,
+    "frost": 10,
+    "holy": 5,
+    "parry": 0,
+    "physical": 5,
+    "poison": 20,
+    "thorns": 0
+  },
+  "components": [
+    "armor",
+    "block_light",
+    "collidable",
+    "glyph",
+    "glyph_top",
+    "health",
+    "height",
+    "minimap_pixel",
+    "name",
+    "position_2d",
+    "producer"
+  ],
+  "corpse": [],
+  "description": "Uma árvore com folhas em forma de agulha, amareladas e secas.",
+  "glyph": {
+    "frames": [
+      {
+        "color": [
+          77,
+          50,
+          44
+        ],
+        "delay": 0,
+        "index": 217
+      }
+    ],
+    "random_frame_start": false,
+    "random_top": {
+      "colors": [
+        [
+          195,
+          164,
+          134
+        ],
+        [
+          174,
+          162,
+          150
+        ],
+        [
+          208,
+          179,
+          157
+        ]
+      ],
+      "count": 25,
+      "glyph_ids": [
+        247
+      ],
+      "max_alpha": 200,
+      "max_range": 15,
+      "wind": true
+    }
+  },
+  "health": 300,
+  "height": 15,
+  "id": "core_2_Dried_Spruce",
+  "minimap_pixel": [
+    73,
+    43,
+    4
+  ],
+  "name": "Abeto Seco",
+  "producer": {
+    "products": {
+      "1": [
+        {
+          "amount": [
+            1,
+            3
+          ],
+          "id": "2008",
+          "percent_chance": 100
+        }
+      ],
+      "core_2_woodbend": [
+        {
+          "amount": [
+            4,
+            7
+          ],
+          "id": "2008",
+          "percent_chance": 100
+        }
+      ]
+    },
+    "time": 30
+  }
+}

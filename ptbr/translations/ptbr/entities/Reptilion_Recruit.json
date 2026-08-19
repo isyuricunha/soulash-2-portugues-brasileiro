@@ -39,7 +39,7 @@
       {
         "chance": 1.0,
         "id": "100",
-        "name": "Dardo",
+        "name": "Azagaia",
         "stack": 3
       }
     ],
@@ -47,7 +47,7 @@
       {
         "chance": 1.0,
         "id": "100",
-        "name": "Dardo",
+        "name": "Azagaia",
         "stack": 1
       }
     ],
@@ -94,9 +94,9 @@
   "moveable": {
     "speed": 1.100000023841858
   },
-  "name": "Recruta Reptilion",
+  "name": "Reptilion Recruta",
   "persona": {
-    "occupation": "Recruta"
+    "occupation": "Recruit"
   },
   "sight": {
     "ignore_infra_penalty": false,

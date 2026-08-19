@@ -46,7 +46,7 @@
     "weapon"
   ],
   "corpse": "2534",
-  "description": "Colina andante feita de pedra irregular.",
+  "description": "Colina caminhante feita de pedra irregular.",
   "dialogues": [
     "633"
   ],
@@ -56,7 +56,7 @@
   },
   "fighter": {
     "attackNames": [
-      "Rocky Fist"
+      "Punho Rochoso"
     ]
   },
   "glyph": {
@@ -86,7 +86,7 @@
   "moveable": {
     "speed": 1.100000023841858
   },
-  "name": "Elemental de Terra",
+  "name": "Elemental da Terra",
   "sight": {
     "ignore_infra_penalty": false,
     "infravision": true,

@@ -1,0 +1,115 @@
+{
+  "id": "core_2_great_hunt",
+  "name": "A Grande Caçada",
+  "category": "settlement",
+  "flavor": "A matilha se reúne para uma grande caçada. Gnolls competem para trazer a presa mais poderosa e ganhar o título de maior caçador.",
+  "icon": 5,
+  "small_icon": 5,
+  "rarity": "uncommon",
+  "restrict_races": [
+    "31"
+  ],
+  "trigger": {
+    "base_probability": 0.01,
+    "conditions": [
+      {
+        "type": "settlement_population_min",
+        "value": 20
+      }
+    ]
+  },
+  "duration": {
+    "type": "temporary",
+    "days": [
+      100,
+      100
+    ]
+  },
+  "location": {
+    "id": "core_2_great_hunt_area",
+    "radius": 10,
+    "count": [
+      4,
+      8
+    ]
+  },
+  "scoring": {
+    "score_items": [
+      {
+        "entity": "core_2_Baboon_Eye",
+        "points": 3
+      },
+      {
+        "entity": "core_2_Vulture_Claw",
+        "points": 5
+      },
+      {
+        "entity": "core_2_Hyena_Paw",
+        "points": 8
+      },
+      {
+        "entity": "core_2_Lions_Tooth",
+        "points": 15
+      }
+    ],
+    "reward_claim_days": 30,
+    "winner_reward": {
+      "gold": 2000,
+      "skill_id": "core_2_hunting",
+      "exp": 200,
+      "announcement": "Você venceu A Grande Caçada com uma pontuação de {}!"
+    },
+    "participation_reward": {
+      "gold": 200,
+      "skill_id": "core_2_hunting",
+      "exp": 50,
+      "announcement": "Você participou da Grande Caçada. Sua pontuação: {}."
+    }
+  },
+  "effects": [
+    {
+      "type": "spawn_group",
+      "amount": [
+        1,
+        1
+      ],
+      "group_type": "settlement",
+      "entity": "core_2_Grand_Huntsman",
+      "preferred_buildings": [
+        "326"
+      ],
+      "border_color": [
+        218,
+        165,
+        32
+      ]
+    }
+  ],
+  "extra_dialogues": [
+    "core_2_great_hunt"
+  ],
+  "interactions": [
+    {
+      "type": "score_submission",
+      "id": "core_2_submit_hunt_trophy",
+      "translation_id": 0,
+      "label": "Entregue seus troféus."
+    },
+    {
+      "type": "view_scores",
+      "id": "core_2_view_hunt_scores",
+      "translation_id": 1
+    },
+    {
+      "type": "claim_reward",
+      "id": "core_2_claim_hunt_reward",
+      "translation_id": 2
+    }
+  ],
+  "history_events": {
+    "begin": "A Grande Caçada começou! Os melhores caçadores competem pela glória!",
+    "end": "A Grande Caçada terminou. ::total_score animais foram caçados. ::winner_name reivindicou a vitória!",
+    "success": "A Grande Caçada terminou. ::winner_name é o maior caçador com ::winner_score abates!",
+    "failure": "A Grande Caçada terminou. Não houve participantes neste evento"
+  }
+}

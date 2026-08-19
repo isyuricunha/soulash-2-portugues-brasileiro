@@ -105,9 +105,9 @@
   "moveable": {
     "speed": 1.100000023841858
   },
-  "name": "Troll Engenheiro",
+  "name": "Engenheiro Troll",
   "persona": {
-    "occupation": "Engenheiro"
+    "occupation": "Engineer"
   },
   "sight": {
     "ignore_infra_penalty": false,

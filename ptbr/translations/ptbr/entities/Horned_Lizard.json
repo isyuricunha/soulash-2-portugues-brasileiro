@@ -27,7 +27,7 @@
     "tags"
   ],
   "corpse": "core_2_Horned_Lizard_Corpse",
-  "description": "Um pequeno lagarto com o corpo coberto de pequenos espinhos.",
+  "description": "Um pequeno lagarto com o corpo coberto de pequenos piques.",
   "dialogues": [
     "874",
     "875",
@@ -61,7 +61,7 @@
   },
   "fighter": {
     "attackNames": [
-      "Bite"
+      "Mordida"
     ]
   },
   "glyph": {

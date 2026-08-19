@@ -92,9 +92,9 @@
   "moveable": {
     "speed": 1.2000000476837158
   },
-  "name": "Humano Estalajadeiro",
+  "name": "Estalajadeiro Humano",
   "persona": {
-    "occupation": "Estalajadeiro"
+    "occupation": "Innkeeper"
   },
   "sight": {
     "ignore_infra_penalty": false,

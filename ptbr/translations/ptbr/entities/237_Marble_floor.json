@@ -28,7 +28,7 @@
       6
     ]
   },
-  "description": "Chão feito de placas de mármore.",
+  "description": "Piso feito de placas de mÃ¡rmore.",
   "glyph": {
     "frames": [
       {
@@ -49,5 +49,5 @@
     104,
     117
   ],
-  "name": "Chão de Mármore"
+  "name": "Piso de MÃ¡rmore"
 }

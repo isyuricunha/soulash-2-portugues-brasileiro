@@ -86,9 +86,9 @@
   "moveable": {
     "speed": 1.0
   },
-  "name": "Guarda de Micélio Mushman",
+  "name": "Guardião de Micélio Homem-Cogumelo",
   "persona": {
-    "occupation": "Guarda de Micélio"
+    "occupation": "Mycelium Warden"
   },
   "sight": {
     "ignore_infra_penalty": false,

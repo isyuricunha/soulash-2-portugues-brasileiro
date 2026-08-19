@@ -35,7 +35,7 @@
       14
     ]
   },
-  "description": "Um casaco comprido com capuz feito de pele animal. É projetado para fornecer calor e proteção contra os elementos.",
+  "description": "Um casaco longo com capuz feito de pele de animal. Projetado para fornecer calor e proteção contra as intempéries.",
   "glyph": {
     "frames": [
       {
@@ -62,5 +62,6 @@
   ],
   "name": "Parka de Pele",
   "value": 9000,
-  "weight": 5.0
+  "weight": 5.0,
+  "feminine_form": true
 }

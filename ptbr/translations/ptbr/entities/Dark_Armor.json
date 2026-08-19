@@ -37,7 +37,7 @@
       1
     ]
   },
-  "description": "Esta armadura parece ter sido intencionalmente enegrecida e traz o símbolo de um morcego.",
+  "description": "Esta armadura parece ter sido intencionalmente enegrecida e traz o símbolo do morcego nela.",
   "glyph": {
     "frames": [
       {
@@ -64,5 +64,6 @@
   ],
   "name": "Armadura Sombria",
   "value": 2500,
-  "weight": 5.0
+  "weight": 5.0,
+  "feminine_form": true
 }

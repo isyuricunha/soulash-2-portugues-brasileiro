@@ -44,7 +44,7 @@
       {
         "chance": 1.0,
         "id": "2175",
-        "name": "Tanga de Pele",
+        "name": "Tapa-sexo de Pele",
         "stack": 1
       }
     ],
@@ -52,7 +52,7 @@
       {
         "chance": 1.0,
         "id": "774",
-        "name": "Clava Espinhosa",
+        "name": "Clava com Espinhos",
         "stack": 1
       }
     ]
@@ -63,7 +63,7 @@
   },
   "fighter": {
     "attackNames": [
-      "Bite"
+      "Mordida"
     ]
   },
   "glyph": {
@@ -93,7 +93,7 @@
   "moveable": {
     "speed": 0.8999999761581421
   },
-  "name": "Troll do Gelo",
+  "name": "Troll da Geada",
   "sight": {
     "ignore_infra_penalty": false,
     "infravision": true,

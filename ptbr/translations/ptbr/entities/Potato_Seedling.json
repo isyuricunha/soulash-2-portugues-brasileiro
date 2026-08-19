@@ -27,7 +27,7 @@
     "time": 20,
     "tools": []
   },
-  "description": "Uma planta de batata muito jovem.",
+  "description": "Uma muda de batata bem jovem.",
   "glyph": {
     "frames": [
       {
@@ -66,5 +66,6 @@
     "spawn_chance": 100.0,
     "spawn_multiply": 0.0,
     "spawn_rolls": 1
-  }
+  },
+  "feminine_form": true
 }

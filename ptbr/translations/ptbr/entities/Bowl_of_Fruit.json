@@ -9,7 +9,7 @@
     "producer"
   ],
   "corpse": [],
-  "description": "Tigela grande com algumas frutas.",
+  "description": "Uma tigela grande com algumas frutas.",
   "glyph": {
     "frames": [
       {
@@ -58,5 +58,6 @@
       ]
     },
     "time": 0
-  }
+  },
+  "feminine_form": true
 }

@@ -78,9 +78,9 @@
   "moveable": {
     "speed": 1.0
   },
-  "name": "Místico Mushman",
+  "name": "Místico Homem-Cogumelo",
   "persona": {
-    "occupation": "Místico"
+    "occupation": "Mystic"
   },
   "sight": {
     "ignore_infra_penalty": false,

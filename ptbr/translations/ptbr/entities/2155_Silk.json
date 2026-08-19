@@ -66,11 +66,13 @@
   ],
   "name": "Seda",
   "resource": {
-    "affix": "Silk",
+    "affix": "Seda",
     "magic_ingredient": 0,
     "quality": 2,
-    "type": 4
+    "type": 4,
+    "feminine_affix": "sedosa"
   },
   "value": 800,
-  "weight": 0.10000000149011612
+  "weight": 0.10000000149011612,
+  "feminine_form": true
 }

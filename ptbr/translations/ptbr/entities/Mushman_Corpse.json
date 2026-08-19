@@ -9,7 +9,7 @@
     "producer",
     "weight"
   ],
-  "description": "Um cadáver de Mushman, completamente sem vida.",
+  "description": "Um cadáver de homem-cogumelo, completamente desprovido de vida.",
   "glyph": {
     "frames": [
       {
@@ -38,7 +38,7 @@
     128,
     104
   ],
-  "name": "Cadáver Mushman",
+  "name": "Cadáver de Homem-Cogumelo",
   "producer": {
     "products": {
       "3": [

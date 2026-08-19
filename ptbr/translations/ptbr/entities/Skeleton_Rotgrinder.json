@@ -70,9 +70,9 @@
   "moveable": {
     "speed": 1.25
   },
-  "name": "Esqueleto Moedor de Podridão",
+  "name": "Esqueleto Triturador-de-Podridão",
   "persona": {
-    "occupation": "Moedor de Podridão"
+    "occupation": "Rotgrinder"
   },
   "sight": {
     "ignore_infra_penalty": false,

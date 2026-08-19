@@ -8,7 +8,7 @@
     "position_2d"
   ],
   "corpse": [],
-  "description": "Família de Roemdorn. Não os deixe sair!",
+  "description": "Família Roemdorn. Não os deixem sair!",
   "glyph": {
     "frames": [
       {
@@ -75,5 +75,6 @@
     108,
     14
   ],
-  "name": "Placa da Necrópole"
+  "name": "Placa de Necropoly",
+  "feminine_form": true
 }

@@ -25,7 +25,7 @@
       12
     ]
   },
-  "description": "A fibra pegajosa é feita de milhares de fios menores. É muito resistente, e algumas raças humanoides são conhecidas por usá-la para suas roupas ou até mesmo armaduras leves.",
+  "description": "A fibra aderente é feita de milhares de fios menores. É muito resistente, e sabe-se que algumas raças humanóides a usam em suas roupas ou até mesmo em armaduras leves.",
   "glyph": {
     "frames": [
       {
@@ -52,10 +52,11 @@
   ],
   "name": "Seda de Aranha",
   "resource": {
-    "affix": "Agile",
+    "affix": "Ágil",
     "magic_ingredient": 0,
     "quality": 2,
-    "type": 4
+    "type": 4,
+    "feminine_affix": "Ágil"
   },
   "statistics": {
     "dexterity": [
@@ -80,5 +81,6 @@
     ]
   },
   "value": 1000,
-  "weight": 0.10000000149011612
+  "weight": 0.10000000149011612,
+  "feminine_form": true
 }

@@ -46,10 +46,11 @@
     "sight",
     "stamina",
     "statistics",
-    "tags"
+    "tags",
+    "weapon"
   ],
   "corpse": "core_2_Leshy_Antlers",
-  "description": "Espírito florestal mítico protegendo a natureza selvagem.",
+  "description": "Espírito mítico da floresta protegendo a natureza selvagem.",
   "dialogues": [
     "863",
     "864"
@@ -122,5 +123,21 @@
   "tags": [
     "3",
     "38"
-  ]
+  ],
+  "weapon": {
+    "attack_speed": 0.0,
+    "critical_hit": 1.0,
+    "damage": [
+      {
+        "dmg_max": 30,
+        "dmg_min": 20,
+        "dmg_type": "poison"
+      }
+    ],
+    "hands": 1,
+    "hit_bonus": 2,
+    "parry_bonus": 1,
+    "range": 1,
+    "type": 1
+  }
 }

@@ -35,7 +35,7 @@
       14
     ]
   },
-  "description": "Capacete feito de couro endurecido.",
+  "description": "Elmo feito de couro endurecido.",
   "glyph": {
     "frames": [
       {
@@ -60,7 +60,7 @@
     93,
     57
   ],
-  "name": "Capacete de Couro",
+  "name": "Elmo de Couro",
   "value": 1000,
   "weight": 1.5
 }

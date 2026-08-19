@@ -80,9 +80,9 @@
   "moveable": {
     "speed": 1.2999999523162842
   },
-  "name": "Druida Ursan",
+  "name": "Druida Ursano",
   "persona": {
-    "occupation": "Druida"
+    "occupation": "Druid"
   },
   "sight": {
     "ignore_infra_penalty": false,

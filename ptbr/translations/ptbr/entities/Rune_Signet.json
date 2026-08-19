@@ -45,7 +45,7 @@
       1
     ]
   },
-  "description": "Um sinete com uma runa esculpida nele.",
+  "description": "Um sinete com uma runa gravada nele.",
   "glyph": {
     "frames": [
       {
@@ -70,7 +70,7 @@
     102,
     57
   ],
-  "name": "Sinete de Runa",
+  "name": "Sinete Rúnico",
   "value": 3500,
   "weight": 0.10000000149011612
 }

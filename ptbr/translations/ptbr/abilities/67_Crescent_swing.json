@@ -6,7 +6,7 @@
     "health": 0,
     "stamina": 8
   },
-  "description": "Balance sua arma e envie uma onda de choque causando ::damage ::damage_type de dano a todos em um cone.",
+  "description": "Balanca sua arma e envia uma onda de choque causando ::damage de dano ::damage_type a todos em um cone.",
   "duration": 0.0,
   "effects": {
     "aoe_break": 2,

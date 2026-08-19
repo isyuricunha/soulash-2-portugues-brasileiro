@@ -24,7 +24,7 @@
     "weapon",
     "weight"
   ],
-  "description": "Pedra amarelo-marrom, semelhante ao calcário.",
+  "description": "Pedra amarelo-marrom, semelhante a calcário.",
   "glyph": {
     "frames": [
       {
@@ -51,10 +51,11 @@
   ],
   "name": "Bloco de Dolomita",
   "resource": {
-    "affix": "Dolomite",
+    "affix": "Dolomita",
     "magic_ingredient": 0,
     "quality": 2,
-    "type": 6
+    "type": 6,
+    "feminine_affix": "Dolomítica"
   },
   "value": 700,
   "weapon": {

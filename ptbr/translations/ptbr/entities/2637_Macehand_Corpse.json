@@ -9,7 +9,7 @@
     "producer",
     "weight"
   ],
-  "description": "Um cadáver sem vida de um macehand.",
+  "description": "Um cadáver inanimado de Mão-de-Maça.",
   "glyph": {
     "frames": [
       {
@@ -38,7 +38,7 @@
     128,
     104
   ],
-  "name": "Cadáver de Macehand",
+  "name": "Cadáver de Mão-de-Maça",
   "producer": {
     "products": {
       "3": [
@@ -62,5 +62,6 @@
     },
     "time": 10
   },
-  "weight": 120.0
+  "weight": 120.0,
+  "feminine_form": true
 }

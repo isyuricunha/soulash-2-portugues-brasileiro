@@ -51,10 +51,11 @@
   ],
   "name": "Chifre de Cavalo de Fogo",
   "resource": {
-    "affix": "Flaring",
+    "affix": "Flamejante",
     "magic_ingredient": 0,
     "quality": 2,
-    "type": 5
+    "type": 5,
+    "feminine_affix": "Flamejante"
   },
   "value": 1300,
   "weapon": {

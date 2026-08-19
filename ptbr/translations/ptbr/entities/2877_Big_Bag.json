@@ -28,7 +28,7 @@
       12
     ]
   },
-  "description": "Um grande recipiente flexível para segurar, armazenar ou carregar algo.",
+  "description": "Um recipiente grande e flexível para guardar, armazenar ou transportar algo.",
   "extra_weight": 20.0,
   "glyph": {
     "frames": [
@@ -56,5 +56,6 @@
   ],
   "name": "Bolsa Grande",
   "value": 2000,
-  "weight": 1.0
+  "weight": 1.0,
+  "feminine_form": true
 }

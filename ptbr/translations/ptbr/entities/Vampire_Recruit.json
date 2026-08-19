@@ -40,7 +40,7 @@
       {
         "chance": 1.0,
         "id": "2176",
-        "name": "Tanga",
+        "name": "tapa-sexo",
         "stack": 1
       }
     ],
@@ -89,7 +89,7 @@
   },
   "name": "Vampiro Recruta",
   "persona": {
-    "occupation": "Recruta"
+    "occupation": "Recruit"
   },
   "sight": {
     "ignore_infra_penalty": false,

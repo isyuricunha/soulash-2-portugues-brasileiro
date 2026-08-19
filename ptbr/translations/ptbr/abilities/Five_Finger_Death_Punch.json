@@ -6,7 +6,7 @@
     "health": 0,
     "stamina": 10
   },
-  "description": "Reforçado pelo poder de sua fé e anos de treinamento, você desferir um único soco que cria uma onda de choque à sua frente, causando ::damage de ::damage_type a todos em seu caminho.",
+  "description": "Impulsionado pelo poder de sua fé e anos de treinamento, você desfere um único soco que cria uma onda de choque à sua frente causando ::damage ::damage_type a todos em seu caminho.",
   "duration": 0.0,
   "effects": {
     "aoe_break": 1,
@@ -20,7 +20,7 @@
   },
   "id": "core_2_Five_Finger_Death_Punch",
   "image": 223,
-  "name": "Soco dos Cinco Dedos da Morte",
+  "name": "Soco da Morte de Cinco Dedos",
   "range": 5,
   "skill": "core_2_divine_fists",
   "slots": {

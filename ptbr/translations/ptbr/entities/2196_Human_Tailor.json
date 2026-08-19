@@ -74,7 +74,7 @@
   },
   "name": "Alfaiate Humano",
   "persona": {
-    "occupation": "Alfaiate"
+    "occupation": "Tailor"
   },
   "sight": {
     "ignore_infra_penalty": false,

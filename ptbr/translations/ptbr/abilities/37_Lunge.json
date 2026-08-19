@@ -6,7 +6,7 @@
     "health": 0,
     "stamina": 8
   },
-  "description": "Pule para um local visível e desocupado, evitando qualquer colisão e causando ::damage de dano ::damage_type em 1 célula ao redor do local de pouso. Distância mínima de 3.",
+  "description": "Salte para um local visível e desocupado evitando qualquer colisão e causando ::damage ::damage_type de dano a 1 tile ao redor do local de aterrissagem. Distância mínima 3.",
   "duration": 0.0,
   "effects": {
     "aoe_range": 2,
@@ -22,7 +22,7 @@
   "id": "37",
   "image": 4,
   "min_range": 3,
-  "name": "Investida",
+  "name": "Estocada",
   "range": 5,
   "skill": "core_2_athletics",
   "slots": {

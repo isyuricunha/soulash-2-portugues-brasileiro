@@ -35,7 +35,7 @@
       1
     ]
   },
-  "description": "Múltiplos anéis de ferro ligados juntos para formar essa armadura. É pesada, mas oferece boa proteção.",
+  "description": "Vários anéis de ferro entrelaçados para formar esta armadura. É pesada, mas oferece boa proteção.",
   "glyph": {
     "frames": [
       {
@@ -62,5 +62,6 @@
   ],
   "name": "Cota de Malha",
   "value": 2000,
-  "weight": 4.0
+  "weight": 4.0,
+  "feminine_form": true
 }

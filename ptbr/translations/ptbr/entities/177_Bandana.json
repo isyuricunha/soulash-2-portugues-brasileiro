@@ -35,7 +35,7 @@
       12
     ]
   },
-  "description": "Usado por bandidos e velhas.",
+  "description": "Usada por bandidos e velhas.",
   "glyph": {
     "frames": [
       {
@@ -62,5 +62,6 @@
   ],
   "name": "Bandana",
   "value": 100,
-  "weight": 0.25
+  "weight": 0.25,
+  "feminine_form": true
 }

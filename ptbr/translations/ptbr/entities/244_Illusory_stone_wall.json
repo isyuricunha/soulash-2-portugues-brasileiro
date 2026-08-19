@@ -32,7 +32,7 @@
     "time": 10,
     "tools": []
   },
-  "description": "Esta parede de pedra é uma ilusão! Você pode ser capaz de passar através dela, mas é impossível saber que perigos estão por trás.",
+  "description": "Esta parede de pedra é uma ilusão! Você pode ser capaz de passar por ela, mas é impossível saber quais perigos se escondem atrás dela.",
   "glyph": {
     "frames": [
       {
@@ -97,5 +97,6 @@
       ]
     },
     "time": 30
-  }
+  },
+  "feminine_form": true
 }

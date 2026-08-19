@@ -39,7 +39,7 @@
       14
     ]
   },
-  "description": "Esta armadura é feita camada por camada e costurando pedaços de pele ou couro. É reforçada com placas de metal para aumentar sua durabilidade e capacidades protetivas.",
+  "description": "Esta armadura é feita sobrepondo e costurando peças de pele ou couro. É reforçada com placas de metal para aumentar sua durabilidade e capacidade de proteção.",
   "glyph": {
     "frames": [
       {
@@ -66,5 +66,6 @@
   ],
   "name": "Armadura de Pele Reforçada",
   "value": 12000,
-  "weight": 5.0
+  "weight": 5.0,
+  "feminine_form": true
 }

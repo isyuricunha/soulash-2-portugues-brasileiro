@@ -10,7 +10,7 @@
     "value",
     "weight"
   ],
-  "description": "Este cadáver grotesco exala um odor avassalador de decadência, e sua carne está salpicada de podridão e decomposição.",
+  "description": "Este cadáver grotesco exala um cheiro avassalador de decomposição, e sua carne é manchada por podridão e decomposição.",
   "glyph": {
     "frames": [
       {
@@ -39,7 +39,7 @@
     124,
     162
   ],
-  "name": "Cadáver de Ghoul",
+  "name": "Cadáver de Carniçal",
   "producer": {
     "products": {
       "3": [

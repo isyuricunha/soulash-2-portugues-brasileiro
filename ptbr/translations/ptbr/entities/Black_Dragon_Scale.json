@@ -10,7 +10,7 @@
     "value",
     "weight"
   ],
-  "description": "Um fragmento de escama negra, brilhando com um brilho interno doentio.",
+  "description": "Um fragmento de escama negra, brilhando com um brilho interno e doentio.",
   "glyph": {
     "frames": [
       {
@@ -37,12 +37,14 @@
   ],
   "name": "Escama de Dragão Negro",
   "resource": {
-    "affix": "of the Black Death",
+    "affix": "da Morte Negra",
     "granted_passive": "core_2_poison_transfer_on_kill",
     "magic_ingredient": 5,
     "quality": 5,
-    "type": 7
+    "type": 7,
+    "feminine_affix": "da Morte Negra"
   },
   "value": 20000,
-  "weight": 0.10000000149011612
+  "weight": 0.10000000149011612,
+  "feminine_form": true
 }

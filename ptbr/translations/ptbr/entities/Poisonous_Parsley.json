@@ -11,7 +11,7 @@
     "value",
     "weight"
   ],
-  "description": "Pode queimar você.",
+  "description": "Pode te queimar.",
   "food": {
     "nutrition": -1,
     "on_eat": "",
@@ -49,5 +49,6 @@
     "type": 12
   },
   "value": 100,
-  "weight": 0.10000000149011612
+  "weight": 0.10000000149011612,
+  "feminine_form": true
 }

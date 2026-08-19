@@ -73,7 +73,7 @@
   "moveable": {
     "speed": 1.0
   },
-  "name": "Templário em Chamas",
+  "name": "Templário Ardente",
   "sight": {
     "ignore_infra_penalty": false,
     "infravision": true,

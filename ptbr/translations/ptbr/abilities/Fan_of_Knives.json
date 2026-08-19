@@ -6,7 +6,7 @@
     "health": 0,
     "stamina": 10
   },
-  "description": "Borra poeira na área próxima a você com facas, causando ::damage de ::damage_type em ::aoe_range células ao seu redor.",
+  "description": "Espalha facas na área ao seu redor, causando ::damage de dano ::damage_type em ::aoe_range ladrilhos ao seu redor.",
   "duration": 0.0,
   "effects": {
     "aoe_range": 5,

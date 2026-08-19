@@ -39,7 +39,7 @@
       14
     ]
   },
-  "description": "Armadura de couro com placas de ferro para proteção extra. Comum entre fora-da-lei.",
+  "description": "Armadura de couro com placas de ferro para proteção extra. Comum entre foras-da-lei.",
   "glyph": {
     "frames": [
       {
@@ -66,5 +66,6 @@
   ],
   "name": "Brigantina",
   "value": 5000,
-  "weight": 3.5
+  "weight": 3.5,
+  "feminine_form": true
 }

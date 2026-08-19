@@ -32,7 +32,7 @@
     "weapon"
   ],
   "corpse": "2777",
-  "description": "Poderia ser valioso se não estivesse tentando te matar.",
+  "description": "Poderia ser valioso se não estivesse tentando te matar. ",
   "dialogues": [
     "596",
     "597"
@@ -43,7 +43,7 @@
   },
   "fighter": {
     "attackNames": [
-      "Frost Shards"
+      "Estilhaços de Geada"
     ]
   },
   "glyph": {

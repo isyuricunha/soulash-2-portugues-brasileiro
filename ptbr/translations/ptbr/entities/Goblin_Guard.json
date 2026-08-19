@@ -61,7 +61,7 @@
       {
         "chance": 0.25,
         "id": "77",
-        "name": "Espada Curta",
+        "name": "espada curta",
         "stack": 1
       }
     ],
@@ -69,7 +69,7 @@
       {
         "chance": 1.0,
         "id": "23",
-        "name": "Farrapos",
+        "name": "Farrap",
         "stack": 1
       }
     ]
@@ -80,8 +80,8 @@
   },
   "fighter": {
     "attackNames": [
-      "Punch",
-      "Bite"
+      "Soco",
+      "Mordida"
     ]
   },
   "glyph": {
@@ -111,9 +111,9 @@
   "moveable": {
     "speed": 1.0
   },
-  "name": "Goblin Guarda",
+  "name": "Guarda Goblin",
   "persona": {
-    "occupation": "Guarda"
+    "occupation": "Guard"
   },
   "sight": {
     "ignore_infra_penalty": false,

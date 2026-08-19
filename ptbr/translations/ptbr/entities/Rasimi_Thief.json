@@ -79,9 +79,9 @@
   "moveable": {
     "speed": 0.8999999761581421
   },
-  "name": "Rasimi Ladrão",
+  "name": "Ladrão Rasimi",
   "persona": {
-    "occupation": "Ladino"
+    "occupation": "Thief"
   },
   "sight": {
     "ignore_infra_penalty": false,

@@ -25,7 +25,7 @@
     "producer"
   ],
   "corpse": "2095",
-  "description": "Uma palmeira com grandes folhas verdes presas ao tronco por curtos caules. Pode ter alguns frutos comestíveis.",
+  "description": "Uma palmeira com grandes folhas verdes presas ao tronco por caules curtos. Pode ter alguns frutos comestíveis.",
   "glyph": {
     "frames": [
       {
@@ -134,5 +134,6 @@
       ]
     },
     "time": 30
-  }
+  },
+  "feminine_form": true
 }

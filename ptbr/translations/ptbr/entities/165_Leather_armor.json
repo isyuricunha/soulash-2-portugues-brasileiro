@@ -35,7 +35,7 @@
       14
     ]
   },
-  "description": "Armadura feita de couro endurecido oferece proteção sólida ao torso.",
+  "description": "Armadura feita de couro endurecido oferece sólida proteção ao torso.",
   "glyph": {
     "frames": [
       {
@@ -62,5 +62,6 @@
   ],
   "name": "Armadura de Couro",
   "value": 1000,
-  "weight": 2.0
+  "weight": 2.0,
+  "feminine_form": true
 }

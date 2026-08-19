@@ -24,7 +24,7 @@
     "weapon",
     "weight"
   ],
-  "description": "Casca preta de um escorpião morto.",
+  "description": "Carapaça negra de um escorpião morto.",
   "glyph": {
     "frames": [
       {
@@ -49,12 +49,13 @@
     227,
     120
   ],
-  "name": "Casca de Escorpião",
+  "name": "Carapaça de Escorpião",
   "resource": {
-    "affix": "Poisonous",
+    "affix": "Venenoso",
     "magic_ingredient": 0,
     "quality": 1,
-    "type": 10
+    "type": 10,
+    "feminine_affix": "Venenosa"
   },
   "value": 250,
   "weapon": {
@@ -73,5 +74,6 @@
     "range": 0,
     "type": 9
   },
-  "weight": 0.10000000149011612
+  "weight": 0.10000000149011612,
+  "feminine_form": true
 }

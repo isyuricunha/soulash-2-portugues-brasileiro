@@ -26,7 +26,7 @@
     "tags"
   ],
   "corpse": "590",
-  "description": "Um coelho bebê fofinho e peludo.",
+  "description": "Um coelhinho fofo e peludo.",
   "dialogues": [
     "896"
   ],
@@ -81,7 +81,7 @@
     199,
     185
   ],
-  "name": "Coelho Bebê",
+  "name": "Coelhinho",
   "producer": {
     "products": {
       "core_2_catch_animal": [

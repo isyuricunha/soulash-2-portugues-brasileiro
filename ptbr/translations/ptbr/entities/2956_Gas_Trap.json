@@ -35,7 +35,7 @@
     "duration": 0.0,
     "tick": 0.0
   },
-  "description": "Mecanismo de ferro que libera um gás mortal uma vez acionado.",
+  "description": "Mecanismo de ferro que libera um gás mortal quando acionado.",
   "glyph": {
     "frames": [
       {
@@ -64,5 +64,6 @@
     "only_player_triggers": false,
     "teleport": null,
     "trigger_chance": 1.0
-  }
+  },
+  "feminine_form": true
 }

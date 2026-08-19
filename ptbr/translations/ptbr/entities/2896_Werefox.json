@@ -46,7 +46,7 @@
     "weapon"
   ],
   "corpse": "2754",
-  "description": "Um metamorfo natural.",
+  "description": "Um metamorfoseador natural.",
   "dialogues": [
     "630",
     "631",
@@ -69,8 +69,8 @@
   },
   "fighter": {
     "attackNames": [
-      "Bite",
-      "Scratch"
+      "Mordida",
+      "Arranhão"
     ]
   },
   "glyph": {
@@ -97,7 +97,7 @@
   "moveable": {
     "speed": 1.0
   },
-  "name": "Raposa Metamorfa",
+  "name": "Homem-raposa",
   "sight": {
     "ignore_infra_penalty": false,
     "infravision": true,

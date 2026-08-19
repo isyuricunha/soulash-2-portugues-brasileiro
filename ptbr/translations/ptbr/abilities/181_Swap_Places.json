@@ -6,7 +6,7 @@
     "health": 0,
     "stamina": 5
   },
-  "description": "Troca de lugar com um ser de mesmo tamanho em um alcance de ::range células.",
+  "description": "Troque de lugar com um ser do mesmo tamanho no alcance de ::range casas.",
   "duration": 0.0,
   "effects": {
     "trade_places": 1

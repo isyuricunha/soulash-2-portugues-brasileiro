@@ -35,7 +35,7 @@
       1
     ]
   },
-  "description": "Armadura de pernas robusta e ornamentada usada por reis e imperadores.",
+  "description": "Armadura de perna robusta e ornamentada, usada por reis e imperadores.",
   "glyph": {
     "frames": [
       {
@@ -60,7 +60,8 @@
     144,
     88
   ],
-  "name": "Pernas de Coroa",
+  "name": "Perneiras da Coroa",
   "value": 20000,
-  "weight": 5.0
+  "weight": 5.0,
+  "feminine_form": true
 }

@@ -47,7 +47,7 @@
     "weapon"
   ],
   "corpse": "556",
-  "description": "Grande verme esperando para deixar sua marca no mundo.",
+  "description": "Grande serpe aguardando para deixar sua marca no mundo.",
   "dialogues": [
     "178",
     "179"
@@ -58,7 +58,7 @@
   },
   "fighter": {
     "attackNames": [
-      "Blazing Bite"
+      "Mordida Flamejante"
     ]
   },
   "glyph": {
@@ -85,7 +85,7 @@
   "moveable": {
     "speed": 0.8999999761581421
   },
-  "name": "Abzudar O Sábio",
+  "name": "Abzudar, o Conhecedor",
   "sight": {
     "ignore_infra_penalty": false,
     "infravision": false,

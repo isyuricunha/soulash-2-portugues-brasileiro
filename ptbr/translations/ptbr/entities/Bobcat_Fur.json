@@ -11,7 +11,7 @@
     "value",
     "weight"
   ],
-  "description": "Pele macia que já pertenceu a um lince.",
+  "description": "Pele macia que pertenceu a um lince-vermelho.",
   "glyph": {
     "frames": [
       {
@@ -36,12 +36,13 @@
     175,
     158
   ],
-  "name": "Pele de Lince",
+  "name": "Pele de Lince-vermelho",
   "resource": {
-    "affix": "Quiet",
+    "affix": "Silencioso",
     "magic_ingredient": 0,
     "quality": 1,
-    "type": 9
+    "type": 9,
+    "feminine_affix": "Silenciosa"
   },
   "statistics": {
     "dexterity": [
@@ -66,5 +67,6 @@
     ]
   },
   "value": 400,
-  "weight": 0.10000000149011612
+  "weight": 0.10000000149011612,
+  "feminine_form": true
 }

@@ -27,7 +27,7 @@
     "tags"
   ],
   "corpse": "core_2_Bobcat_Corpse",
-  "description": "Duas vezes maior que gatos domésticos, os lince caçam em silêncio.",
+  "description": "Duas vezes maiores que gatos domésticos, linces caçam em silêncio.",
   "dialogues": [
     "759",
     "760"
@@ -60,8 +60,8 @@
   },
   "fighter": {
     "attackNames": [
-      "Bite",
-      "Scratch"
+      "Mordida",
+      "Arranhão"
     ]
   },
   "glyph": {
@@ -88,7 +88,7 @@
   "moveable": {
     "speed": 0.8999999761581421
   },
-  "name": "Lince",
+  "name": "Lince-vermelho",
   "sight": {
     "ignore_infra_penalty": false,
     "infravision": true,

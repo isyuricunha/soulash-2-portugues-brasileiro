@@ -33,7 +33,7 @@
     "tags"
   ],
   "corpse": "25",
-  "description": "Um artista habilidoso jogando coisas aleatórias no ar.",
+  "description": "Um animador habilidoso jogando coisas aleatórias ao ar.",
   "dialogues": [
     "989"
   ],
@@ -42,7 +42,7 @@
       {
         "chance": 1.0,
         "id": "core_2_Juggling_Club",
-        "name": "Clube de Malabarismo",
+        "name": "Clava de Malabarismo",
         "stack": 10
       }
     ],
@@ -50,7 +50,7 @@
       {
         "chance": 1.0,
         "id": "2225",
-        "name": "Faixa de Cabeça",
+        "name": "Tiara",
         "stack": 1
       }
     ],
@@ -58,7 +58,7 @@
       {
         "chance": 1.0,
         "id": "core_2_Juggling_Club",
-        "name": "Clube de Malabarismo",
+        "name": "Clava de Malabarismo",
         "stack": 1
       }
     ],
@@ -66,7 +66,7 @@
       {
         "chance": 1.0,
         "id": "323",
-        "name": "Collant",
+        "name": "Meia-calça",
         "stack": 1
       }
     ],
@@ -74,7 +74,7 @@
       {
         "chance": 1.0,
         "id": "core_2_Juggling_Club",
-        "name": "Clube de Malabarismo",
+        "name": "Clava de Malabarismo",
         "stack": 1
       }
     ]

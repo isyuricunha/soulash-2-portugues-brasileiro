@@ -11,7 +11,7 @@
     "value",
     "weight"
   ],
-  "description": "Escama verde-oliva de uma poderosa constritora.",
+  "description": "Escama verde-oliva de poderosa constritora.",
   "glyph": {
     "frames": [
       {
@@ -36,12 +36,13 @@
     227,
     120
   ],
-  "name": "Escama de Sucuri Verde",
+  "name": "Escama de Anaconda Verde",
   "resource": {
-    "affix": "Suffocating",
+    "affix": "Sufocante",
     "magic_ingredient": 0,
     "quality": 3,
-    "type": 10
+    "type": 10,
+    "feminine_affix": "Sufocante"
   },
   "statistics": {
     "dexterity": [
@@ -66,5 +67,6 @@
     ]
   },
   "value": 300,
-  "weight": 0.10000000149011612
+  "weight": 0.10000000149011612,
+  "feminine_form": true
 }

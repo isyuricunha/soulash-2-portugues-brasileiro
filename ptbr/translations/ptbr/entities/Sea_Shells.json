@@ -8,7 +8,7 @@
     "position_2d"
   ],
   "corpse": [],
-  "description": "Conchas bonitas lavadas pelo mar.",
+  "description": "Belas conchas trazidas pelo mar.",
   "glyph": {
     "frames": [
       {
@@ -48,5 +48,6 @@
     48,
     17
   ],
-  "name": "Conchas do Mar"
+  "name": "Conchas Marinhas",
+  "feminine_form": true
 }

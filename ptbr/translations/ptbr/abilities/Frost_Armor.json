@@ -6,7 +6,7 @@
     "health": 0,
     "stamina": 5
   },
-  "description": "Cubra seu corpo com uma armadura de gelo que o protege de danos e neutraliza o efeito ativo de Queimadura. Reduz o dano sofrido em ::damage_reduce.",
+  "description": "Cubra seu corpo com uma armadura de gelo que o protege de danos e neutraliza o efeito de Queimadura ativo. Reduz o dano recebido em ::damage_reduce.",
   "duration": 10.0,
   "effects": {
     "damage_reduce": 5,

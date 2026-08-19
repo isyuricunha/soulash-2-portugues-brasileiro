@@ -36,7 +36,7 @@
       {
         "chance": 1.0,
         "id": "23",
-        "name": "Farrapos",
+        "name": "Farrap",
         "stack": 1
       }
     ]
@@ -75,9 +75,9 @@
   "moveable": {
     "speed": 1.100000023841858
   },
-  "name": "Reptilion Padeiro",
+  "name": "Padeiro Reptilion",
   "persona": {
-    "occupation": "Padeiro"
+    "occupation": "Baker"
   },
   "sight": {
     "ignore_infra_penalty": false,

@@ -92,7 +92,7 @@
   },
   "name": "Goblin Arqueiro",
   "persona": {
-    "occupation": "Arqueiro"
+    "occupation": "Bowyer"
   },
   "sight": {
     "ignore_infra_penalty": false,

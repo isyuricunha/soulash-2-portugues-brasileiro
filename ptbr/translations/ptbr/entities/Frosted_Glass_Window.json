@@ -31,7 +31,7 @@
     "position_2d"
   ],
   "corpse": [],
-  "description": "Janela feita de vidro gravado com delicados padrões de geada.",
+  "description": "Janela feita com vidro gravado com delicados padrões de geada.",
   "glyph": {
     "frames": [
       {
@@ -54,5 +54,6 @@
     43,
     10
   ],
-  "name": "Janela de Vidro Geado"
+  "name": "Janela de Vidro Geado",
+  "feminine_form": true
 }

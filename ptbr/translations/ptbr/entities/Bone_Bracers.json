@@ -64,5 +64,6 @@
   ],
   "name": "Braçadeiras de Osso",
   "value": 400,
-  "weight": 1.0
+  "weight": 1.0,
+  "feminine_form": true
 }

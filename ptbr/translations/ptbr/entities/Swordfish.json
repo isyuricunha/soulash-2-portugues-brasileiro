@@ -10,7 +10,7 @@
     "value",
     "weight"
   ],
-  "description": "Peixe oceânico, grande. Não pode ser usado como uma espada de verdade.",
+  "description": "Peixe oceânico de grande porte. Não serve como uma espada de verdade.",
   "glyph": {
     "frames": [
       {
@@ -35,7 +35,7 @@
     64,
     104
   ],
-  "name": "Peixe-Espada",
+  "name": "Peixe-espada",
   "producer": {
     "products": {
       "3": [

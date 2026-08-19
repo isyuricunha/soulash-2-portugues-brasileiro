@@ -50,7 +50,7 @@
       15
     ]
   },
-  "description": "Parece uma aranha real moldada em âmbar.",
+  "description": "Parece uma aranha de verdade preservada em âmbar.",
   "glyph": {
     "frames": [
       {
@@ -77,10 +77,11 @@
   ],
   "name": "Aranha de Âmbar",
   "resource": {
-    "affix": "of the Fossil",
+    "affix": "do Fóssil",
     "magic_ingredient": 4,
     "quality": 4,
-    "type": 7
+    "type": 7,
+    "feminine_affix": "fóssil"
   },
   "statistics": {
     "dexterity": [
@@ -105,5 +106,6 @@
     ]
   },
   "value": 4500,
-  "weight": 0.10000000149011612
+  "weight": 0.10000000149011612,
+  "feminine_form": true
 }

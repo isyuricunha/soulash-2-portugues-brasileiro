@@ -7,7 +7,7 @@
     "health": 0,
     "stamina": 5
   },
-  "description": "Dispara um projétil mágico que causa ::damage de dano ::damage_type e aplica o efeito ::bleed de sangramento. Pode deixar a munição após o disparo.",
+  "description": "Dispara um projétil mágico que causa ::damage de dano ::damage_type e aplica efeito de sangramento ::bleed. Pode deixar a munição após o disparo.",
   "duration": 0.0,
   "effects": {
     "bleed": 3,
@@ -21,7 +21,7 @@
   },
   "id": "core_2_Bleeding_Shot",
   "image": 723,
-  "name": "Tiro Sangrante",
+  "name": "Tiro Sangrento",
   "range": 7,
   "requirements": {
     "one_of": [

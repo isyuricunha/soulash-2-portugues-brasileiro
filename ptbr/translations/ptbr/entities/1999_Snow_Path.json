@@ -30,7 +30,7 @@
       "id": "2"
     }
   ],
-  "description": "Caminho na neve formado por inúmeros seres que o atravessam.",
+  "description": "Trilha na neve formada por inúmeros seres a atravessá-la.",
   "glyph": {
     "frames": [
       {
@@ -52,5 +52,6 @@
     60,
     60
   ],
-  "name": "Caminho de Neve"
+  "name": "Trilha na Neve",
+  "feminine_form": true
 }

@@ -25,7 +25,7 @@
     "time": 60,
     "tools": []
   },
-  "description": "Todos os segredos mortais da necromancia estão escondidos nestas páginas.",
+  "description": "Todos os segredos mortais da necromancia estão ocultos nestas páginas.",
   "glyph": {
     "frames": [
       {
@@ -50,7 +50,7 @@
     178,
     176
   ],
-  "name": "Livro de Necromancia",
+  "name": "Livro da Necromancia",
   "usable": {
     "ability": "",
     "recipe": "",

@@ -9,7 +9,7 @@
     "weapon",
     "weight"
   ],
-  "description": "Ramo simples sem folhas.",
+  "description": "Galho simples sem folhas.",
   "glyph": {
     "frames": [
       {
@@ -34,7 +34,7 @@
     102,
     57
   ],
-  "name": "Cajado",
+  "name": "Pau",
   "value": 100,
   "weapon": {
     "attack_speed": 1.0,

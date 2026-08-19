@@ -39,7 +39,7 @@
       {
         "chance": 0.699999988079071,
         "id": "183",
-        "name": "Túnica",
+        "name": "Veste",
         "stack": 1
       }
     ]
@@ -80,7 +80,7 @@
   },
   "name": "Oleiro Elfo",
   "persona": {
-    "occupation": "Oleiro"
+    "occupation": "Potter"
   },
   "sight": {
     "ignore_infra_penalty": false,

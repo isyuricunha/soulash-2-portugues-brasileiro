@@ -24,7 +24,7 @@
     "producer"
   ],
   "corpse": "48",
-  "description": "Uma árvore murcha e morta, embora ainda possa fornecer alguma madeira.",
+  "description": "Uma árvore seca e morta, embora ainda possa render um pouco de madeira.",
   "glyph": {
     "frames": [
       {
@@ -99,5 +99,6 @@
       ]
     },
     "time": 10
-  }
+  },
+  "feminine_form": true
 }

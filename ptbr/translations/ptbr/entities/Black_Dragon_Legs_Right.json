@@ -43,14 +43,14 @@
     "weapon"
   ],
   "corpse": [],
-  "description": "Uma criatura drakonid enorme espalhando uma aura de destruição e decadência ao seu redor.",
+  "description": "Uma enorme criatura dracônida que espalha uma aura de destruição e decomposição ao seu redor.",
   "experience_gainer": {
     "exp": 0,
     "level": 50
   },
   "fighter": {
     "attackNames": [
-      "Kick"
+      "Chute"
     ]
   },
   "glyph": {

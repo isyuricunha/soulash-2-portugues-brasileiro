@@ -43,7 +43,7 @@
     "time": 30,
     "tools": []
   },
-  "description": "Um lugar onde as abelhas se reúnem para criar mel.",
+  "description": "Um local onde abelhas se reúnem para produzir mel.",
   "glyph": {
     "frames": [
       {
@@ -99,5 +99,6 @@
       ]
     },
     "time": 20
-  }
+  },
+  "feminine_form": true
 }

@@ -24,7 +24,7 @@
       14
     ]
   },
-  "description": "Removedor de dentes orc.",
+  "description": "Removedor de dentes orquianos.",
   "glyph": {
     "frames": [
       {
@@ -66,5 +66,6 @@
     "range": 1,
     "type": 2
   },
-  "weight": 1.0
+  "weight": 1.0,
+  "feminine_form": true
 }

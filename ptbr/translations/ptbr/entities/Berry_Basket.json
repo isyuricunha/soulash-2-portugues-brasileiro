@@ -8,7 +8,7 @@
     "producer"
   ],
   "corpse": [],
-  "description": "Cesta com algumas frutas silvestres dentro.",
+  "description": "Cesta com algumas bagas.",
   "glyph": {
     "frames": [
       {
@@ -30,7 +30,7 @@
     48,
     17
   ],
-  "name": "Cesta de Frutas Silvestres",
+  "name": "Cesta de Bagas",
   "producer": {
     "products": {
       "10": [
@@ -45,5 +45,6 @@
       ]
     },
     "time": 0
-  }
+  },
+  "feminine_form": true
 }

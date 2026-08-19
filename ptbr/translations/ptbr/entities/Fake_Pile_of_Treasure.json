@@ -8,7 +8,7 @@
     "name",
     "position_2d"
   ],
-  "description": "Uma pilha brilhando com ouro e joias. Feita com rochas e um pouco de tinta.",
+  "description": "Uma pilha brilhando com ouro e joias. Feita com pedras e um pouco de tinta.",
   "glyph": {
     "frames": [
       {
@@ -30,5 +30,6 @@
     124,
     69
   ],
-  "name": "Pilha Falsa de Tesouro"
+  "name": "Falsa Pilha de Tesouro",
+  "feminine_form": true
 }

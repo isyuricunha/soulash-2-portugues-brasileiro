@@ -1,6 +1,6 @@
 {
   "id": "core_2_control_undead",
-  "name": "Controlar Morto-Vivo",
+  "name": "Controlar Mortos-Vivos",
   "requirements": {
     "skill": 38
   },

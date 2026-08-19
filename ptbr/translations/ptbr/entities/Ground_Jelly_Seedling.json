@@ -36,7 +36,7 @@
     "time": 20,
     "tools": []
   },
-  "description": "Pequeno e magro.",
+  "description": "Pequeno e fino.",
   "glyph": {
     "frames": [
       {
@@ -57,7 +57,7 @@
     145,
     33
   ],
-  "name": "Muda de Geléia Terrestre",
+  "name": "Muda de Geléia de Chão",
   "random_resource": {
     "delay_spawn": true,
     "entity": [
@@ -75,5 +75,6 @@
     "spawn_chance": 100.0,
     "spawn_multiply": 0.0,
     "spawn_rolls": 1
-  }
+  },
+  "feminine_form": true
 }

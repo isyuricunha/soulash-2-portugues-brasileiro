@@ -22,7 +22,7 @@
     "position_2d"
   ],
   "corpse": [],
-  "description": "Uma estátua de uma menina segurando sua boneca.",
+  "description": "Uma estátua de uma menininha segurando sua boneca.",
   "glyph": {
     "frames": [
       {
@@ -44,5 +44,6 @@
     157,
     188
   ],
-  "name": "Estátua de Gelo"
+  "name": "Estátua de Gelo",
+  "feminine_form": true
 }

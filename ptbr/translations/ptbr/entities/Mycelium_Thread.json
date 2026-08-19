@@ -39,7 +39,7 @@
       12
     ]
   },
-  "description": "O fio de micélio é usado na fabricação de várias roupas.",
+  "description": "Fio de micélio é usado na confecção de várias roupas.",
   "glyph": {
     "frames": [
       {
@@ -66,10 +66,11 @@
   ],
   "name": "Fio de Micélio",
   "resource": {
-    "affix": "Mycelium",
+    "affix": "Micélio",
     "magic_ingredient": 0,
     "quality": 1,
-    "type": 4
+    "type": 4,
+    "feminine_affix": "miceliana"
   },
   "value": 900,
   "weight": 0.10000000149011612

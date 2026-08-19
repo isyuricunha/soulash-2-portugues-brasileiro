@@ -1,0 +1,122 @@
+{
+  "artificial_intelligence": {
+    "allies": [],
+    "allow_production": [],
+    "behaviors": [],
+    "enemies": []
+  },
+  "components": [
+    "actor",
+    "artificial_intelligence",
+    "collidable",
+    "consumer",
+    "dialogues",
+    "equipment",
+    "experience_gainer",
+    "fighter",
+    "glyph",
+    "health",
+    "humanoid",
+    "minimap_pixel",
+    "moveable",
+    "name",
+    "persona",
+    "position_2d",
+    "sight",
+    "skills",
+    "stamina",
+    "statistics",
+    "tags"
+  ],
+  "corpse": "core_2_Mushman_Corpse",
+  "description": "",
+  "dialogues": [
+    "712",
+    "689",
+    "690"
+  ],
+  "experience_gainer": {
+    "exp": 10,
+    "level": 2
+  },
+  "fighter": {
+    "attackNames": null
+  },
+  "glyph": {
+    "frames": [
+      {
+        "color": [
+          255,
+          255,
+          255
+        ],
+        "delay": 0,
+        "index": 476
+      }
+    ],
+    "random_frame_start": false
+  },
+  "health": 200,
+  "humanoid": {
+    "race": "32"
+  },
+  "id": "core_2_Mushman_Circle_Druid",
+  "minimap_pixel": [
+    224,
+    172,
+    105
+  ],
+  "moveable": {
+    "speed": 1.2000000476837158
+  },
+  "name": "Druida do Círculo Homem-Cogumelo",
+  "persona": {
+    "occupation": "Circle Druid"
+  },
+  "sight": {
+    "ignore_infra_penalty": false,
+    "infravision": true,
+    "range": 10,
+    "threesixty": false
+  },
+  "skills": {
+    "milestones": [
+      "core_2_poison_cloud",
+      "core_2_poison_immunity",
+      "core_2_poison_ray"
+    ],
+    "skills": [
+      "core_2_floromancy"
+    ]
+  },
+  "stamina": {
+    "fatigue": 100,
+    "stamina": 100,
+    "stamina_regen": 0.0
+  },
+  "statistics": {
+    "dexterity": [
+      20,
+      25
+    ],
+    "endurance": [
+      21,
+      27
+    ],
+    "intelligence": [
+      22,
+      28
+    ],
+    "strength": [
+      27,
+      30
+    ],
+    "willpower": [
+      20,
+      23
+    ]
+  },
+  "tags": [
+    "9"
+  ]
+}

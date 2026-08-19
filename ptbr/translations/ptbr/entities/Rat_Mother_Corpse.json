@@ -9,7 +9,7 @@
     "producer",
     "weight"
   ],
-  "description": "Um corpo sem vida de uma ratazana.",
+  "description": "Um corpo sem vida de uma mãe rato.",
   "glyph": {
     "frames": [
       {
@@ -38,7 +38,7 @@
     80,
     15
   ],
-  "name": "Cadáver de Ratazana",
+  "name": "Cadáver de Mãe Rato",
   "producer": {
     "products": {
       "3": [

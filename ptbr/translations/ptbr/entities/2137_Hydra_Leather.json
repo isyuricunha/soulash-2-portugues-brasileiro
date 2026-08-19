@@ -24,7 +24,7 @@
     "value",
     "weight"
   ],
-  "description": "Um material mítico e atraente, que ecoa uma essência enigmática da lendária hidra.",
+  "description": "Um material mítico e sedutor, que ecoa uma essência enigmática da lendária hidra.",
   "extra_weight": 2.0,
   "glyph": {
     "frames": [
@@ -52,10 +52,11 @@
   ],
   "name": "Couro de Hidra",
   "resource": {
-    "affix": "Regenerative",
+    "affix": "Regenerativo",
     "magic_ingredient": 0,
     "quality": 4,
-    "type": 2
+    "type": 2,
+    "feminine_affix": "Regenerativa"
   },
   "statistics": {
     "dexterity": [

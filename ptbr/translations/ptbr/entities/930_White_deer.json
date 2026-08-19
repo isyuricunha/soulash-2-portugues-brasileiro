@@ -31,7 +31,7 @@
     "tags"
   ],
   "corpse": "931",
-  "description": "Um veado enorme com presas de marfim maciças. Você tem a sensação de que esta besta mítica vem diretamente da lenda.",
+  "description": "Um cervo enorme com galhadas maciças de marfim. Você tem a sensação de que esta fera mítica vem direto da lenda.",
   "dialogues": [
     "346",
     "347",
@@ -63,7 +63,7 @@
   },
   "fighter": {
     "attackNames": [
-      "Antlers"
+      "Galhada"
     ]
   },
   "glyph": {
@@ -90,7 +90,7 @@
   "moveable": {
     "speed": 0.800000011920929
   },
-  "name": "Veado Branco",
+  "name": "Cervo Branco",
   "sight": {
     "ignore_infra_penalty": false,
     "infravision": true,

@@ -23,7 +23,7 @@
     "time": 10,
     "tools": []
   },
-  "description": "Aqui jaz Takara. Ela simplesmente pegou fogo um dia sem motivo algum.",
+  "description": "Aqui jaz Takara. Um dia ela simplesmente subiu em chamas, sem motivo algum.",
   "glyph": {
     "frames": [
       {
@@ -92,5 +92,6 @@
       ]
     },
     "time": 10
-  }
+  },
+  "feminine_form": true
 }

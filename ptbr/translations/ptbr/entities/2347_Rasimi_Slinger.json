@@ -87,9 +87,9 @@
   "moveable": {
     "speed": 1.0
   },
-  "name": "Rasimi Fundeiro",
+  "name": "Fundeiro Rasimi",
   "persona": {
-    "occupation": "Fundeiro"
+    "occupation": "Slinger"
   },
   "sight": {
     "ignore_infra_penalty": false,

@@ -9,7 +9,7 @@
     "producer",
     "weight"
   ],
-  "description": "Cadáver de um lobão.",
+  "description": "Cadáver de um grande lobo mau.",
   "glyph": {
     "frames": [
       {
@@ -38,7 +38,7 @@
     128,
     104
   ],
-  "name": "Cadáver de Lobão",
+  "name": "Cadáver de Grande Lobo Mau",
   "producer": {
     "products": {
       "3": [

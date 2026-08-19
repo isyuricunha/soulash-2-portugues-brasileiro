@@ -82,9 +82,9 @@
   "moveable": {
     "speed": 1.5
   },
-  "name": "Orc Fundidor",
+  "name": "Fundidor Orc",
   "persona": {
-    "occupation": "Fundidor"
+    "occupation": "Smelter"
   },
   "sight": {
     "ignore_infra_penalty": false,

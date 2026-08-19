@@ -38,10 +38,11 @@
   ],
   "name": "Marfim",
   "resource": {
-    "affix": "Ivory",
+    "affix": "Marfim",
     "magic_ingredient": 0,
     "quality": 2,
-    "type": 5
+    "type": 5,
+    "feminine_affix": "Marfim"
   },
   "statistics": {
     "dexterity": [

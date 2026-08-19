@@ -44,7 +44,7 @@
     "time": 5,
     "tools": []
   },
-  "description": "Mancha de grama amarela comprida.",
+  "description": "Mancha de grama amarela longa.",
   "glyph": {
     "frames": [
       {
@@ -111,5 +111,6 @@
     "spawn_chance": 3.0,
     "spawn_multiply": 20.0,
     "spawn_rolls": 1
-  }
+  },
+  "feminine_form": true
 }

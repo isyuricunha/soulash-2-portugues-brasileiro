@@ -121,7 +121,7 @@
   "moveable": {
     "speed": 1.0
   },
-  "name": "Humano Nômade",
+  "name": "Nômade Humano",
   "sight": {
     "ignore_infra_penalty": false,
     "infravision": false,

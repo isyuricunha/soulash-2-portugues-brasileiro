@@ -11,7 +11,7 @@
     "value",
     "weight"
   ],
-  "description": "Aqueles que possuem uma orelha de bruxa dizem ganhar insights sobre conhecimentos proibidos.",
+  "description": "Diz-se que aqueles que possuem uma orelha de bruxa ganham insights sobre conhecimentos proibidos.",
   "glyph": {
     "frames": [
       {
@@ -36,12 +36,13 @@
     109,
     155
   ],
-  "name": "Orelha de Bruxa",
+  "name": "Orelha da Bruxa",
   "resource": {
-    "affix": "of Insight",
+    "affix": "de Perspicácia",
     "magic_ingredient": 3,
     "quality": 3,
-    "type": 7
+    "type": 7,
+    "feminine_affix": "Intuitiva"
   },
   "statistics": {
     "dexterity": [
@@ -66,5 +67,6 @@
     ]
   },
   "value": 4200,
-  "weight": 0.10000000149011612
+  "weight": 0.10000000149011612,
+  "feminine_form": true
 }

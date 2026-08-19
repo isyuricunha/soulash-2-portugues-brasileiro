@@ -6,7 +6,7 @@
     "health": 0,
     "stamina": 8
   },
-  "description": "Envie um enxame de gafanhotos à sua frente para causar dano a todos por ::damage de dano ::damage_type.",
+  "description": "Envie um enxame de gafanhotos à sua frente para causar ::damage de dano ::damage_type a todos.",
   "duration": 0.0,
   "effects": {
     "damage": [

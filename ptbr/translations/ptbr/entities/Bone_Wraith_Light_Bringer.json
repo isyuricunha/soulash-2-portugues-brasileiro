@@ -77,9 +77,9 @@
   "moveable": {
     "speed": 1.0
   },
-  "name": "Espectro de Osso Portador de Luz",
+  "name": "Espectro de Osso Portador da Luz",
   "persona": {
-    "occupation": "Portador de Luz"
+    "occupation": "Light Bringer"
   },
   "sight": {
     "ignore_infra_penalty": false,

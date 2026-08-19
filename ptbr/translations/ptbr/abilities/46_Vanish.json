@@ -6,14 +6,14 @@
     "health": 0,
     "stamina": 8
   },
-  "description": "Esconde-se da vista, tornando-se invisível por ::duration turnos. Atacar alguém ou usar uma habilidade agressiva irá revelá-lo.",
+  "description": "Esconda-se da vista tornando-se invisível por ::duration turnos. Atacar alguém ou usar habilidade agressiva irá revelá-lo.",
   "duration": 3.0,
   "effects": {
     "hide": 1
   },
   "id": "46",
   "image": 84,
-  "name": "Desaparecer",
+  "name": "Desvanecer",
   "range": 0,
   "skill": "core_2_thievery",
   "slots": {

@@ -78,9 +78,9 @@
   "moveable": {
     "speed": 1.5
   },
-  "name": "Vampiro Vinicultor",
+  "name": "Vinicultor Vampiro",
   "persona": {
-    "occupation": "Vinicultor"
+    "occupation": "Winemaker"
   },
   "sight": {
     "ignore_infra_penalty": false,

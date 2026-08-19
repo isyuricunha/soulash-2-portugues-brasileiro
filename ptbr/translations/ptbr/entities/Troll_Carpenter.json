@@ -90,9 +90,9 @@
   "moveable": {
     "speed": 1.25
   },
-  "name": "Troll Carpinteiro",
+  "name": "Carpinteiro Troll",
   "persona": {
-    "occupation": "Carpinteiro"
+    "occupation": "Carpenter"
   },
   "sight": {
     "ignore_infra_penalty": false,

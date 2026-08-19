@@ -7,7 +7,7 @@
     "position_2d"
   ],
   "corpse": [],
-  "description": "Planta cinzenta e retorcida que cresce em solo corrompido.",
+  "description": "Planta retorcida e acinzentada que cresce no solo contaminado.",
   "glyph": {
     "frames": [
       {
@@ -38,5 +38,6 @@
     108,
     64
   ],
-  "name": "Planta Corrompida"
+  "name": "Planta Corrompida",
+  "feminine_form": true
 }

@@ -106,9 +106,9 @@
   "moveable": {
     "speed": 1.100000023841858
   },
-  "name": "Troll Armeiro",
+  "name": "Armeiro Troll",
   "persona": {
-    "occupation": "Armeiro"
+    "occupation": "Weaponsmith"
   },
   "sight": {
     "ignore_infra_penalty": false,

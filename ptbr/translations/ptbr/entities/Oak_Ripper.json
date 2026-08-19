@@ -40,7 +40,7 @@
     "tags"
   ],
   "corpse": "core_2_Oak_Ripper_Corpse",
-  "description": "Grande e burrada criatura humanoide. Forte o suficiente para arrancar uma árvore do chão.",
+  "description": "Criatura humanoide grande e burra. Forte o bastante para arrancar uma árvore do chão.",
   "dialogues": [
     "1002",
     "1003"
@@ -50,7 +50,7 @@
       {
         "chance": 1.0,
         "id": "323",
-        "name": "Collant",
+        "name": "Meia-calça",
         "stack": 1
       }
     ],
@@ -58,7 +58,7 @@
       {
         "chance": 1.0,
         "id": "85",
-        "name": "Clava",
+        "name": "clava",
         "stack": 1
       }
     ],
@@ -102,7 +102,7 @@
   "moveable": {
     "speed": 1.2000000476837158
   },
-  "name": "Arranca-Carvalho",
+  "name": "Rasgador de Carvalho",
   "sight": {
     "ignore_infra_penalty": false,
     "infravision": true,

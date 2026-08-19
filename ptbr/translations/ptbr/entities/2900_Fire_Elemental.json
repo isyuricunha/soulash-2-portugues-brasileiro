@@ -47,7 +47,7 @@
     "weapon"
   ],
   "corpse": "2531",
-  "description": "Humanoide em forma de massa de fogo.",
+  "description": "Uma massa de fogo com forma humanoide.",
   "dialogues": [
     "354"
   ],
@@ -57,7 +57,7 @@
   },
   "fighter": {
     "attackNames": [
-      "Flame Slap"
+      "Tapa Flamejante"
     ]
   },
   "glyph": {
@@ -92,7 +92,7 @@
   "moveable": {
     "speed": 0.800000011920929
   },
-  "name": "Elemental de Fogo",
+  "name": "Elemental do Ar",
   "sight": {
     "ignore_infra_penalty": false,
     "infravision": false,

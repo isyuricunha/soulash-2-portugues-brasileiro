@@ -28,7 +28,7 @@
     "tags"
   ],
   "corpse": "25",
-  "description": "Uma figura carismática que reúne os oprimidos para se levantarem contra seus ocupantes. Procure esta pessoa se desejar ajudar a resistência.",
+  "description": "Uma figura carismática reunindo os oprimidos para se erguer contra seus ocupantes. Procure este indivíduo se desejar ajudar a resistência.",
   "dialogues": [],
   "equipment": {
     "right_hand": [
@@ -84,7 +84,7 @@
   },
   "name": "Agitador da Rebelião",
   "persona": {
-    "occupation": "Agitador"
+    "occupation": "Agitator"
   },
   "sight": {
     "ignore_infra_penalty": false,

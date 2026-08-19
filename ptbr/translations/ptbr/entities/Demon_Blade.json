@@ -10,7 +10,7 @@
     "weapon",
     "weight"
   ],
-  "description": "Esta lâmina é mais escura que a noite e levemente quente ao toque. Você se sente maculado apenas olhando para ela.",
+  "description": "Esta lâmina é mais escura que a noite e levemente quente ao toque. Você se sente profanado só de olhá-la.",
   "glyph": {
     "frames": [
       {
@@ -58,5 +58,6 @@
     "range": 1,
     "type": 1
   },
-  "weight": 2.0
+  "weight": 2.0,
+  "feminine_form": true
 }

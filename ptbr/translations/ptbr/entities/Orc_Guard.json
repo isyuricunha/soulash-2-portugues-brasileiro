@@ -62,7 +62,7 @@
       {
         "chance": 1.0,
         "id": "312",
-        "name": "Espada de Osso",
+        "name": "espada de osso",
         "stack": 1
       }
     ],
@@ -109,9 +109,9 @@
   "moveable": {
     "speed": 1.100000023841858
   },
-  "name": "Guarda Orc",
+  "name": "Orc Guarda",
   "persona": {
-    "occupation": "Guarda"
+    "occupation": "Guard"
   },
   "sight": {
     "ignore_infra_penalty": false,

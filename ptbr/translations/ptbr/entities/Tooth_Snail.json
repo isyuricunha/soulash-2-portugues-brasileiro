@@ -27,7 +27,7 @@
     "weapon"
   ],
   "corpse": "core_2_Tooth_Snail_Corpse",
-  "description": "Um caracol viscoso com um dente afiado. Pode picar você.",
+  "description": "Um caracol viscoso com um dente afiado. Pode te picar.",
   "dialogues": [],
   "experience_gainer": {
     "exp": 0,
@@ -35,8 +35,8 @@
   },
   "fighter": {
     "attackNames": [
-      "Tooth",
-      "Shell"
+      "Dente",
+      "Concha"
     ]
   },
   "glyph": {

@@ -49,7 +49,7 @@
       1
     ]
   },
-  "description": "Um conjunto de pernas de golem equipadas com alguns espinhos desagradáveis.",
+  "description": "Um conjunto de pernas de golem equipado com piques perigosos.",
   "glyph": {
     "frames": [
       {
@@ -74,7 +74,8 @@
     160,
     161
   ],
-  "name": "Pernas com Espinhos",
+  "name": "Pernas com Piques",
   "value": 15000,
-  "weight": 1.5
+  "weight": 1.5,
+  "feminine_form": true
 }

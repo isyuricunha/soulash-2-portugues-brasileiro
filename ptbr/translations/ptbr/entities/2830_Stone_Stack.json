@@ -7,7 +7,7 @@
     "producer",
     "stackable"
   ],
-  "description": "Muitas rochas e pedras empilhadas umas sobre as outras. Pode bloquear seu caminho.",
+  "description": "Muitas rochas e pedras se empilham umas sobre as outras. Podem bloquear seu caminho.",
   "glyph": {
     "frames": [
       {
@@ -43,5 +43,6 @@
       ]
     },
     "time": 0
-  }
+  },
+  "feminine_form": true
 }

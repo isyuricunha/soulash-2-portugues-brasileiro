@@ -46,7 +46,7 @@
     "duration": 0.0,
     "tick": 0.0
   },
-  "description": "Você pisa nisso, você queima.",
+  "description": "Você pisa nele, você queima.",
   "glyph": {
     "frames": [
       {
@@ -95,5 +95,6 @@
     36,
     51
   ],
-  "name": "Lava"
+  "name": "Lava",
+  "feminine_form": true
 }

@@ -23,7 +23,7 @@
     "time": 10,
     "tools": []
   },
-  "description": "Aqui jaz Kiliana. Ela não era ninguém especial e ninguém gostava dela.",
+  "description": "Não pergunte.",
   "glyph": {
     "frames": [
       {
@@ -100,5 +100,6 @@
       ]
     },
     "time": 10
-  }
+  },
+  "feminine_form": true
 }

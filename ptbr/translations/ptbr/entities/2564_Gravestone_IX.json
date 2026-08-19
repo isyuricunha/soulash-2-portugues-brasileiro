@@ -23,7 +23,7 @@
     "time": 10,
     "tools": []
   },
-  "description": "Em memória carinhosa de Elyssa. Ela não está morta ainda, só queremos estar preparados.",
+  "description": "Em memória de Elyssa. Ela ainda não está morta, só queremos estar preparados. ",
   "glyph": {
     "frames": [
       {
@@ -76,5 +76,6 @@
       ]
     },
     "time": 10
-  }
+  },
+  "feminine_form": true
 }

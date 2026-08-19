@@ -47,7 +47,7 @@
     "time": 10,
     "tools": []
   },
-  "description": "Uma parede fria construída de blocos de pedra. É bastante durável.",
+  "description": "Uma parede fria construída com blocos de pedra. É bastante durável.",
   "glyph": {
     "frames": [
       {
@@ -103,5 +103,6 @@
       ]
     },
     "time": 80
-  }
+  },
+  "feminine_form": true
 }

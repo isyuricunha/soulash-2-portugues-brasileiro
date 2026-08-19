@@ -23,7 +23,7 @@
     "value",
     "weight"
   ],
-  "description": "Esta pele densa e forte reflete a força do gorila.",
+  "description": "Esta pele densa e forte espelha a força do gorila.",
   "glyph": {
     "frames": [
       {
@@ -50,11 +50,13 @@
   ],
   "name": "Pele de Gorila",
   "resource": {
-    "affix": "Silverback",
+    "affix": "Costas-prateadas",
     "magic_ingredient": 0,
     "quality": 1,
-    "type": 9
+    "type": 9,
+    "feminine_affix": "Costas-prateadas"
   },
   "value": 300,
-  "weight": 0.10000000149011612
+  "weight": 0.10000000149011612,
+  "feminine_form": true
 }

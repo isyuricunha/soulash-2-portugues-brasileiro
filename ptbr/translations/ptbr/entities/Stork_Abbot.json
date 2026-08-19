@@ -53,7 +53,7 @@
       {
         "chance": 1.0,
         "id": "2089",
-        "name": "Martelo Faíscante",
+        "name": "Martelo de Faísca",
         "stack": 1
       }
     ],
@@ -61,7 +61,7 @@
       {
         "chance": 1.0,
         "id": "2314",
-        "name": "Vestimenta de Xamã",
+        "name": "Veste de Xamã",
         "stack": 1
       }
     ]
@@ -101,7 +101,7 @@
   "moveable": {
     "speed": 0.800000011920929
   },
-  "name": "Abade Cegonha",
+  "name": "Abade da Cegonha",
   "sight": {
     "ignore_infra_penalty": false,
     "infravision": false,

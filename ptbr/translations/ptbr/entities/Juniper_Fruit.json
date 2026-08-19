@@ -10,7 +10,7 @@
     "value",
     "weight"
   ],
-  "description": "Uma pequena fruta azul. Muito aromática.",
+  "description": "Um pequeno fruto azul. Muito aromático.",
   "food": {
     "nutrition": 3,
     "on_eat": "",
@@ -40,7 +40,7 @@
     73,
     73
   ],
-  "name": "Fruta de Zimbro",
+  "name": "Fruto de Junípero",
   "value": 150,
   "weight": 0.019999999552965164
 }

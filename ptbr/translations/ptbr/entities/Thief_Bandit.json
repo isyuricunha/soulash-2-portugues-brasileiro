@@ -85,7 +85,7 @@
   "moveable": {
     "speed": 0.8999999761581421
   },
-  "name": "Ladrão Bandido",
+  "name": "Bandido Ladrão",
   "sight": {
     "ignore_infra_penalty": false,
     "infravision": false,
@@ -93,12 +93,14 @@
     "threesixty": false
   },
   "skills": {
+    "max_skill": 40,
     "milestones": [
       "core_2_backstab",
       "core_2_blind",
       "core_2_vanish",
       "core_2_quick_thrust"
     ],
+    "min_skill": 40,
     "skills": [
       "core_2_thievery"
     ]

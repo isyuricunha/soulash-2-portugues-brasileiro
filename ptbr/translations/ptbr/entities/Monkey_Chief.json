@@ -48,7 +48,7 @@
     "tags"
   ],
   "corpse": "core_2_Monkey_Chief_Corpse",
-  "description": "Um grande líder de todos os macacos vivendo por perto. Parece mais inteligente que os outros.",
+  "description": "Um grande líder de todos os macacos que vivem nas proximidades. Parece mais inteligente que os outros.",
   "dialogues": [
     "2",
     "911"
@@ -74,7 +74,7 @@
       {
         "chance": 1.0,
         "id": "2175",
-        "name": "Tanga de Pele",
+        "name": "Tapa-sexo de Pele",
         "stack": 1
       }
     ],
@@ -82,7 +82,7 @@
       {
         "chance": 1.0,
         "id": "core_2_Banana_Stick",
-        "name": "Cajado de Banana",
+        "name": "Bastão de Banana",
         "stack": 1
       }
     ],
@@ -90,7 +90,7 @@
       {
         "chance": 0.10000000149011612,
         "id": "2314",
-        "name": "Vestimenta de Xamã",
+        "name": "Veste de Xamã",
         "stack": 1
       }
     ]
@@ -101,7 +101,7 @@
   },
   "fighter": {
     "attackNames": [
-      "Bite"
+      "Mordida"
     ]
   },
   "glyph": {
@@ -131,7 +131,7 @@
   "moveable": {
     "speed": 1.0
   },
-  "name": "Chefe Macaco",
+  "name": "Chefe dos Macacos",
   "sight": {
     "ignore_infra_penalty": false,
     "infravision": false,

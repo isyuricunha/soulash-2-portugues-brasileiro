@@ -25,7 +25,7 @@
     "producer"
   ],
   "corpse": [],
-  "description": "Uma palmeira com grandes folhas verdes presas ao tronco por curtos caules.",
+  "description": "Uma palmeira com grandes folhas verdes presas ao tronco por caules curtos.",
   "glyph": {
     "frames": [
       {
@@ -176,5 +176,6 @@
       ]
     },
     "time": 60
-  }
+  },
+  "feminine_form": true
 }

@@ -33,7 +33,7 @@
     "weapon"
   ],
   "corpse": "2753",
-  "description": "Criatura bela, mas mortal.",
+  "description": "Bonita, mas mortal.",
   "dialogues": [
     "7",
     "878"
@@ -67,8 +67,8 @@
   },
   "fighter": {
     "attackNames": [
-      "Bite",
-      "Claws"
+      "Mordida",
+      "Garras"
     ]
   },
   "glyph": {

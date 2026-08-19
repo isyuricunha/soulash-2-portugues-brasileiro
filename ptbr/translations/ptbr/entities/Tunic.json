@@ -37,7 +37,7 @@
       12
     ]
   },
-  "description": "Vestimenta muito simples, mas elegante.",
+  "description": "Veste muito simples, mas elegante.",
   "glyph": {
     "frames": [
       {
@@ -64,5 +64,6 @@
   ],
   "name": "Túnica",
   "value": 150,
-  "weight": 0.5
+  "weight": 0.5,
+  "feminine_form": true
 }

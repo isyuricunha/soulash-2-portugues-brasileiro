@@ -6,14 +6,14 @@
     "health": 0,
     "stamina": 0
   },
-  "description": "O prato saboroso concede a você um bônus de ::damage_bonus de dano.",
+  "description": "Prato saboroso concede bônus de ::damage_bonus de dano.",
   "duration": 600.0,
   "effects": {
     "damage_bonus": 2
   },
   "id": "core_2_Shephards_Pie",
   "image": 520,
-  "name": "Torta do Pastor",
+  "name": "Torta de Pastor",
   "range": 0,
   "skill": "",
   "target": "self"

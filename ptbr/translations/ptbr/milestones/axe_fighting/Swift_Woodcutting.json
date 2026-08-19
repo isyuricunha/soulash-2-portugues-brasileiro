@@ -1,6 +1,6 @@
 {
   "id": "core_2_swift_woodcutting",
-  "name": "Lenhador Rápido",
+  "name": "Corte de Madeira Rápido",
   "requirements": {
     "skill": 3
   },

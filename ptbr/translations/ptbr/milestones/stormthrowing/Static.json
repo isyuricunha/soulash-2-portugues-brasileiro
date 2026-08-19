@@ -1,6 +1,6 @@
 {
   "id": "core_2_static",
-  "name": "Estático",
+  "name": "Choque Estático",
   "requirements": {
     "milestones": [],
     "skill": 9
@@ -8,6 +8,9 @@
   "rewards": [
     {
       "passive": "core_2_static"
+    },
+    {
+      "passive": "core_2_feed_on_electricity"
     }
   ],
   "skill_id": "core_2_stormthrowing",

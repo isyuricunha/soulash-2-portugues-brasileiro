@@ -1,0 +1,46 @@
+{
+  "components": [
+    "food",
+    "glyph",
+    "item",
+    "minimap_pixel",
+    "name",
+    "position_2d",
+    "stackable",
+    "value",
+    "weight"
+  ],
+  "description": "Só um pedaço do bolo de aniversário de alguém. Nhac!",
+  "food": {
+    "nutrition": 80,
+    "on_eat": "",
+    "raw": false
+  },
+  "glyph": {
+    "frames": [
+      {
+        "color": [
+          255,
+          255,
+          255
+        ],
+        "delay": 0,
+        "index": 3362
+      }
+    ],
+    "random_frame_start": false
+  },
+  "id": "core_2_Birthday_Cake",
+  "item": {
+    "image": 1530,
+    "type": 20
+  },
+  "minimap_pixel": [
+    157,
+    78,
+    54
+  ],
+  "name": "Bolo de Aniversário",
+  "value": 500,
+  "weight": 0.10000000149011612
+}

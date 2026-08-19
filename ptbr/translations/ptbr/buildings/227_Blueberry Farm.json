@@ -1,7 +1,7 @@
 {
   "id": "227",
   "image": 102,
-  "name": "Fazenda de Mirtilo",
+  "name": "Fazenda de Mirtilos",
   "occupation_image": 17,
   "occupation": "core_2_Reptilion_Farmer",
   "occupation_per_race": {
@@ -13,7 +13,7 @@
     "7": "core_2_Troll_Farmer",
     "8": "core_2_Orc_Farmer",
     "10": "2332",
-    "23": "core_2_Reptilion_Rancher",
+    "23": "core_2_Reptilion_Farmer",
     "26": "2370",
     "31": "core_2_Gnoll_Farmer",
     "32": "core_2_Mushman_Farmer",

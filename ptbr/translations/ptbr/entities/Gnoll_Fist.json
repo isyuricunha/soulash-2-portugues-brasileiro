@@ -86,9 +86,9 @@
   "moveable": {
     "speed": 1.100000023841858
   },
-  "name": "Punho Gnoll",
+  "name": "Punho de Gnoll",
   "persona": {
-    "occupation": "Punho"
+    "occupation": "Fist"
   },
   "sight": {
     "ignore_infra_penalty": false,

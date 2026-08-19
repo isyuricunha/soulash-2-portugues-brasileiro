@@ -81,9 +81,9 @@
   "moveable": {
     "speed": 1.5
   },
-  "name": "Orc Criador",
+  "name": "Criador Orc",
   "persona": {
-    "occupation": "Fazendeiro"
+    "occupation": "Rancher"
   },
   "sight": {
     "ignore_infra_penalty": false,

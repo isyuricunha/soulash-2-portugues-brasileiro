@@ -36,7 +36,7 @@
       14
     ]
   },
-  "description": "Cada passo termina com um som esganiçado de couro, mas você ainda acredita que ninguém vai ouvir você se aproximando furtivamente.",
+  "description": "Cada passo termina com um rangido de couro, mas você ainda acredita que ninguém vai ouvir você se aproximar sorrateiramente.",
   "glyph": {
     "frames": [
       {
@@ -63,5 +63,6 @@
   ],
   "name": "Botas de Couro",
   "value": 500,
-  "weight": 1.0
+  "weight": 1.0,
+  "feminine_form": true
 }

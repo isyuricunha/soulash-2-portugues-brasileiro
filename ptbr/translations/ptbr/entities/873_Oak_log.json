@@ -11,7 +11,7 @@
     "value",
     "weight"
   ],
-  "description": "Uma tora é uma árvore com galhos cortados. Pode ser muito útil para construir coisas. Você pode ser capaz de produzir alguns pedaços de madeira de carvalho a partir dela.",
+  "description": "O tronco é uma árvore com galhos cortados. Pode ser muito útil para construir coisas. Você pode conseguir produzir alguns pedaços de madeira de carvalho a partir dele.",
   "glyph": {
     "frames": [
       {
@@ -36,7 +36,7 @@
     115,
     68
   ],
-  "name": "Tora de Carvalho",
+  "name": "Tronco de Carvalho",
   "producer": {
     "products": {
       "1": [

@@ -10,7 +10,7 @@
     "value",
     "weight"
   ],
-  "description": "Um corpo sem vida de um veado.",
+  "description": "Um corpo sem vida de um wapiti.",
   "glyph": {
     "frames": [
       {
@@ -39,7 +39,7 @@
     102,
     57
   ],
-  "name": "Cadáver de Veado",
+  "name": "Cadáver de Wapiti",
   "producer": {
     "products": {
       "3": [

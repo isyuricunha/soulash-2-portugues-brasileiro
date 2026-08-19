@@ -6,7 +6,7 @@
     "health": 0,
     "stamina": 0
   },
-  "description": "Encontre nova força para persistir durante uma batalha difícil. Recupere imediatamente ::stamina de Fôlego e ::heal de Vida.",
+  "description": "Encontre novas forças para persistir durante uma batalha difícil. Recupere imediatamente ::stamina de Vigor e ::heal de vida.",
   "duration": 0.0,
   "effects": {
     "heal": [

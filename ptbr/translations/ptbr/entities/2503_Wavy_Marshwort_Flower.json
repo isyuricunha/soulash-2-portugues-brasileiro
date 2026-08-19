@@ -23,7 +23,7 @@
     "value",
     "weight"
   ],
-  "description": "Flor delicada de pântano conhecida por suas cores vibrantes.",
+  "description": "Flor delicada de zonas úmidas, conhecida por suas cores vibrantes.",
   "glyph": {
     "frames": [
       {
@@ -48,13 +48,15 @@
     156,
     73
   ],
-  "name": "Flor Ondulada de Pântano",
+  "name": "Flor Ondulada de Erva-dos-Pântanos",
   "resource": {
-    "affix": "of Marshwort",
+    "affix": "de Erva-dos-Pântanos",
     "magic_ingredient": 2,
     "quality": 2,
-    "type": 7
+    "type": 7,
+    "feminine_affix": "da Erva-dos-Pântanos"
   },
   "value": 400,
-  "weight": 0.10000000149011612
+  "weight": 0.10000000149011612,
+  "feminine_form": true
 }

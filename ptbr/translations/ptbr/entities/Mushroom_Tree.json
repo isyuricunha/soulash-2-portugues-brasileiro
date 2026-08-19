@@ -25,7 +25,7 @@
     "producer"
   ],
   "corpse": [],
-  "description": "Um cogumelo gigante, tão alto quanto uma árvore. Seu caule se transformou em algo parecido com madeira.",
+  "description": "Um cogumelo gigante, tão alto quanto uma árvore. Seu caule transformou-se em algo que se assemelha a madeira.",
   "glyph": {
     "frames": [
       {
@@ -66,7 +66,7 @@
     93,
     40
   ],
-  "name": "Árvore de Cogumelos",
+  "name": "Árvore de Cogumelo",
   "producer": {
     "products": {
       "1": [
@@ -107,5 +107,6 @@
       ]
     },
     "time": 30
-  }
+  },
+  "feminine_form": true
 }

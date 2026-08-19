@@ -73,9 +73,9 @@
   "moveable": {
     "speed": 1.100000023841858
   },
-  "name": "Gnoll Alfaiate",
+  "name": "Alfaiate Gnoll",
   "persona": {
-    "occupation": "Alfaiate"
+    "occupation": "Tailor"
   },
   "sight": {
     "ignore_infra_penalty": false,

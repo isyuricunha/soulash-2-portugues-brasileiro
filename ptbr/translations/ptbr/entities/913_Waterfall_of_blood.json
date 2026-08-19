@@ -18,7 +18,7 @@
     "on_enter",
     "position_2d"
   ],
-  "description": "Sangue desce de cima.",
+  "description": "Sangue cai em cascata do alto.",
   "glyph": {
     "frames": [
       {
@@ -195,5 +195,6 @@
       "89"
     ],
     "teleport": null
-  }
+  },
+  "feminine_form": true
 }

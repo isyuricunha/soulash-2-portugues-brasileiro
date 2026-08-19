@@ -30,7 +30,7 @@
     "time": 20,
     "tools": []
   },
-  "description": "Arbusto muito pequeno sem mirtilos.",
+  "description": "Arbusto muito pequeno sem nenhum mirtilo.",
   "glyph": {
     "frames": [
       {
@@ -52,7 +52,7 @@
     109,
     155
   ],
-  "name": "Muda de Mirtileiro",
+  "name": "Muda de Arbusto de Mirtilo",
   "random_resource": {
     "delay_spawn": true,
     "entity": [
@@ -70,5 +70,6 @@
     "spawn_chance": 100.0,
     "spawn_multiply": 0.0,
     "spawn_rolls": 1
-  }
+  },
+  "feminine_form": true
 }

@@ -24,7 +24,7 @@
     "producer"
   ],
   "corpse": [],
-  "description": "Um emaranhado de galhos e folhas pontilhados com cranberries comestíveis.",
+  "description": "Uma bagunça de galhos e folhas salpicados de oxicocos comestíveis.",
   "glyph": {
     "frames": [
       {
@@ -64,7 +64,7 @@
     73,
     73
   ],
-  "name": "Arbusto de Cranberry",
+  "name": "Arbusto de Oxicoco",
   "producer": {
     "products": {
       "10": [

@@ -62,5 +62,6 @@
   ],
   "name": "Saia",
   "value": 700,
-  "weight": 0.5
+  "weight": 0.5,
+  "feminine_form": true
 }

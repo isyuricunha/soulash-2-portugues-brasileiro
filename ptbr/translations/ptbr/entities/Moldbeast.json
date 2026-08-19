@@ -31,7 +31,7 @@
     "tags"
   ],
   "corpse": "core_2_Moldbeast_Corpse",
-  "description": "Uma criatura enorme e viscoso pingando muco preto.",
+  "description": "Uma criatura enorme e viscosa gotejando muco negro.",
   "dialogues": [
     "1029"
   ],
@@ -66,7 +66,7 @@
   "moveable": {
     "speed": 1.0
   },
-  "name": "Besta de Mofo",
+  "name": "Besta do Mofo",
   "sight": {
     "ignore_infra_penalty": false,
     "infravision": true,
@@ -103,5 +103,6 @@
   "tags": [
     "3",
     "9"
-  ]
+  ],
+  "feminine_form": true
 }

@@ -6,7 +6,7 @@
     "health": 0,
     "stamina": 5
   },
-  "description": "Solte um uivo terrível, causando ::damage de ::damage_type a todos em um cone.",
+  "description": "Solte um uivo terrível, causando ::damage de dano ::damage_type a todos em um cone.",
   "duration": 0.0,
   "effects": {
     "aoe_break": 2,

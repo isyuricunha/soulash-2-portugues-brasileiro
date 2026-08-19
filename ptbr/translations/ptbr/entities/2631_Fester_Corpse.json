@@ -9,7 +9,7 @@
     "producer",
     "weight"
   ],
-  "description": "Um cadáver de fester, completamente sem vida.",
+  "description": "Um cadáver Fester, completamente desprovido de vida.",
   "glyph": {
     "frames": [
       {
@@ -38,7 +38,7 @@
     128,
     104
   ],
-  "name": "Cadáver de Fester",
+  "name": "Cadáver Fester",
   "producer": {
     "products": {
       "3": [

@@ -9,7 +9,7 @@
     "producer",
     "weight"
   ],
-  "description": "Os restos de um lince.",
+  "description": "Os restos de um lince-vermelho.",
   "glyph": {
     "frames": [
       {
@@ -38,7 +38,7 @@
     102,
     57
   ],
-  "name": "Cadáver de Lince",
+  "name": "Cadáver de Lince-vermelho",
   "producer": {
     "products": {
       "3": [

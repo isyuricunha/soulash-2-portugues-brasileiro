@@ -40,7 +40,7 @@
       {
         "chance": 1.0,
         "id": "100",
-        "name": "Dardo",
+        "name": "Azagaia",
         "stack": 10
       }
     ],
@@ -48,7 +48,7 @@
       {
         "chance": 1.0,
         "id": "100",
-        "name": "Dardo",
+        "name": "Azagaia",
         "stack": 1
       }
     ]
@@ -87,9 +87,9 @@
   "moveable": {
     "speed": 1.0
   },
-  "name": "Espectro de Osso Arremessador de Tempestades",
+  "name": "Lançador de Tempestades Espectro de Osso",
   "persona": {
-    "occupation": "Arremessador de Tempestades"
+    "occupation": "Stormthrower"
   },
   "sight": {
     "ignore_infra_penalty": false,

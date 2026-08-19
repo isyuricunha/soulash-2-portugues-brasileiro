@@ -44,7 +44,7 @@
   },
   "fighter": {
     "attackNames": [
-      "Electrical Touch"
+      "Toque Elétrico"
     ]
   },
   "glyph": {
@@ -74,7 +74,7 @@
   "moveable": {
     "speed": 0.699999988079071
   },
-  "name": "Elemental de Tempestade",
+  "name": "Elemental da Tempestade",
   "sight": {
     "ignore_infra_penalty": false,
     "infravision": true,

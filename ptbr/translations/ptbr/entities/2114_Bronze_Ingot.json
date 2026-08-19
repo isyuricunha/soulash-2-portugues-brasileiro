@@ -44,7 +44,7 @@
       10
     ]
   },
-  "description": "O bronze é uma liga criada a partir de uma mistura de minérios de cobre e estanho, e é bastante resistente.",
+  "description": "O bronze é uma liga criada a partir de uma mistura de minérios de cobre e estanho, e é bem resistente.",
   "extra_weight": -0.20000000298023224,
   "glyph": {
     "frames": [
@@ -75,7 +75,8 @@
     "affix": "Bronze",
     "magic_ingredient": 0,
     "quality": 2,
-    "type": 1
+    "type": 1,
+    "feminine_affix": "Bronze"
   },
   "value": 6000,
   "weapon": {

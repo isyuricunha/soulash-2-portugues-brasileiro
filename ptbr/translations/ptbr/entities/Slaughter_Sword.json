@@ -29,7 +29,7 @@
       1
     ]
   },
-  "description": "Lâmina brutal e pesada forjada para puro poder destrutivo.",
+  "description": "Lâmina brutal e pesada, forjada para puro poder destrutivo.",
   "glyph": {
     "frames": [
       {
@@ -54,7 +54,7 @@
     160,
     161
   ],
-  "name": "Espada de Abate",
+  "name": "Espada da Carnificina",
   "value": 2000,
   "weapon": {
     "attack_speed": 1.0,
@@ -72,5 +72,6 @@
     "range": 1,
     "type": 1
   },
-  "weight": 3.5
+  "weight": 3.5,
+  "feminine_form": true
 }

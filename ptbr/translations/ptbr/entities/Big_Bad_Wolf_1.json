@@ -181,7 +181,7 @@
   },
   "fighter": {
     "attackNames": [
-      "Bite"
+      "Mordida"
     ]
   },
   "glyph": {
@@ -208,7 +208,7 @@
   "moveable": {
     "speed": 0.699999988079071
   },
-  "name": "Lobo Mau Grande",
+  "name": "Grande Lobo Mau",
   "sight": {
     "ignore_infra_penalty": true,
     "infravision": true,

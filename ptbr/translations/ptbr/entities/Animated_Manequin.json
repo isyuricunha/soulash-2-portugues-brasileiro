@@ -35,7 +35,7 @@
     "weapon"
   ],
   "corpse": "2008",
-  "description": "Este manequim de uma garotinha veste um vestido rosa e uma peruca loira. Está coberto de poeira e teias de aranha.",
+  "description": "Este manequim de uma menina usa um vestido rosa e uma peruca loira. Está coberto de poeira e teias de aranha.",
   "dialogues": [],
   "equipment": {
     "backpack": [
@@ -53,8 +53,8 @@
   },
   "fighter": {
     "attackNames": [
-      "Slam",
-      "Slap"
+      "Impacto",
+      "Tapa"
     ]
   },
   "glyph": {

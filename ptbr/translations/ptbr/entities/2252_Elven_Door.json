@@ -46,7 +46,7 @@
     "time": 30,
     "tools": []
   },
-  "description": "Uma porta élfica fechada, belamente ornamentada.",
+  "description": "Uma porta élfica fechada, lindamente ornamentada.",
   "glyph": {
     "frames": [
       {
@@ -73,7 +73,7 @@
   "openable": {
     "block_light": false,
     "collidable": false,
-    "description": "Uma porta élfica aberta, belamente ornamentada.",
+    "description": "Uma porta élfica aberta, lindamente ornamentada.",
     "glyph": {
       "frames": [
         {
@@ -89,5 +89,6 @@
       "random_frame_start": false
     },
     "height": 0
-  }
+  },
+  "feminine_form": true
 }

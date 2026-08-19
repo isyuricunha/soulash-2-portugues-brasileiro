@@ -6,7 +6,7 @@
     "health": 20,
     "stamina": 0
   },
-  "description": "Invoca um djinni que lutará ao seu lado.",
+  "description": "Evoca um djinni que lutará ao seu lado.",
   "duration": 30.0,
   "effects": {
     "summon_count": 1
@@ -16,7 +16,7 @@
   },
   "id": "172",
   "image": 132,
-  "name": "Invocar Djinni",
+  "name": "Evocar Djinni",
   "range": 3,
   "target": "tile"
 }

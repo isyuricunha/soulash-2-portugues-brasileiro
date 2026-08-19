@@ -15,7 +15,7 @@
     "minimap_pixel",
     "name"
   ],
-  "description": "Esta areia tem uma propriedade mística de se espalhar por todos os lugares onde você não quer que ela vá.",
+  "description": "Esta areia tem a propriedade mística de ir parar em todo lugar onde você não a quer.",
   "glyph": {
     "frames": [
       {
@@ -36,5 +36,6 @@
     113,
     63
   ],
-  "name": "Areia"
+  "name": "Areia",
+  "feminine_form": true
 }

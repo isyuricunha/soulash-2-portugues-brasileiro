@@ -50,7 +50,7 @@
       {
         "chance": 1.0,
         "id": "core_2_Hobnailed_Boots",
-        "name": "Botinas com Tachas",
+        "name": "Botas Pregueadas",
         "stack": 1
       }
     ],
@@ -58,7 +58,7 @@
       {
         "chance": 1.0,
         "id": "391",
-        "name": "Capacete de Couro",
+        "name": "Elmo de Couro",
         "stack": 1
       }
     ],
@@ -74,7 +74,7 @@
       {
         "chance": 1.0,
         "id": "2089",
-        "name": "Martelo Faíscante",
+        "name": "Martelo de Faísca",
         "stack": 1
       }
     ],
@@ -117,9 +117,9 @@
   "moveable": {
     "speed": 0.699999988079071
   },
-  "name": "Troll Arauto de Guerra",
+  "name": "Troll Arauto da Guerra",
   "persona": {
-    "occupation": "Arauto de Guerra"
+    "occupation": "Warbringer"
   },
   "sight": {
     "ignore_infra_penalty": false,

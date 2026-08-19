@@ -41,7 +41,7 @@
     "tags"
   ],
   "corpse": "core_2_Dire_Sheep_Corpse",
-  "description": "Esta ovelha parece irritada.",
+  "description": "Esta ovelha parece furiosa.",
   "dialogues": [
     "342",
     "906"
@@ -75,7 +75,7 @@
   },
   "fighter": {
     "attackNames": [
-      "Bite"
+      "Mordida"
     ]
   },
   "glyph": {
@@ -102,7 +102,7 @@
   "moveable": {
     "speed": 1.100000023841858
   },
-  "name": "Ovelha Feroz",
+  "name": "Ovelha Terrível",
   "producer": {
     "delay_on_use": 4320,
     "products": {
@@ -155,5 +155,6 @@
   "tags": [
     "2",
     "9"
-  ]
+  ],
+  "feminine_form": true
 }

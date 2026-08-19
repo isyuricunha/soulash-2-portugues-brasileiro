@@ -6,14 +6,14 @@
     "health": 0,
     "stamina": 5
   },
-  "description": "Você deflete ataques básicos à distância para o lado, com 33% de chance de jogá-lo de volta no atacante. Dura ::duration turnos.",
+  "description": "Você desvia ataques básicos à distância para o lado, com 33% de chance de arremessá-los de volta ao atacante. Dura ::duration turnos.",
   "duration": 5.0,
   "effects": {
     "deflection": 0.33
   },
   "id": "72",
   "image": 10,
-  "name": "Deflexão de Flecha",
+  "name": "Desvio de Flechas",
   "range": 0,
   "skill": "core_2_protection",
   "slots": {

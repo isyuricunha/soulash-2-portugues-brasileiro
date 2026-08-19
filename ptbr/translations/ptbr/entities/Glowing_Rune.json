@@ -22,7 +22,7 @@
     "position_2d"
   ],
   "corpse": [],
-  "description": "Uma pedra esculpida com uma runa especial. Brilha levemente no escuro.",
+  "description": "Uma pedra entalhada com uma runa especial. Brilha levemente no escuro.",
   "glyph": {
     "frames": [
       {
@@ -76,5 +76,6 @@
     120,
     42
   ],
-  "name": "Runa Brilhante"
+  "name": "Runa Brilhante",
+  "feminine_form": true
 }

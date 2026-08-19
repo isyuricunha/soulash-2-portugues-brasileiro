@@ -9,7 +9,7 @@
     "producer",
     "weight"
   ],
-  "description": "Um cadáver sem vida de um darrmon.",
+  "description": "Um cadáver inanimado de um darrmon.",
   "glyph": {
     "frames": [
       {
@@ -62,5 +62,6 @@
     },
     "time": 10
   },
-  "weight": 30.0
+  "weight": 30.0,
+  "feminine_form": true
 }

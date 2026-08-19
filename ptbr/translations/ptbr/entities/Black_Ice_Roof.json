@@ -32,7 +32,7 @@
     "time": 5,
     "tools": []
   },
-  "description": "Teto feito de finas folhas de gelo negro.",
+  "description": "Telhado feito de finas lâminas de gelo negro.",
   "glyph": {
     "frames": [
       {
@@ -63,7 +63,7 @@
     38,
     80
   ],
-  "name": "Teto de Gelo Negro",
+  "name": "Telhado de Gelo Negro",
   "producer": {
     "products": {
       "core_2_deconstruct": [

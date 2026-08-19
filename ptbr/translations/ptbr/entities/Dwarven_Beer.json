@@ -26,7 +26,7 @@
       15
     ]
   },
-  "description": "Forte e nutritivo. Faz crescer pelos no peito, independentemente do seu gênero.",
+  "description": "Forte e nutritiva, faz cabelo crescer no peito, independentemente do seu gênero.",
   "glyph": {
     "frames": [
       {
@@ -57,5 +57,6 @@
   ],
   "name": "Cerveja Anã",
   "value": 1200,
-  "weight": 0.30000001192092896
+  "weight": 0.30000001192092896,
+  "feminine_form": true
 }

@@ -40,7 +40,7 @@
       {
         "chance": 1.0,
         "id": "23",
-        "name": "Farrapos",
+        "name": "Farrap",
         "stack": 1
       }
     ]
@@ -79,7 +79,7 @@
   "moveable": {
     "speed": 1.2999999523162842
   },
-  "name": "Ursan Adulto",
+  "name": "Ursano Adulto",
   "persona": {
     "occupation": "None"
   },

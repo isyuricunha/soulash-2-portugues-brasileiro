@@ -51,7 +51,7 @@
       {
         "chance": 1.0,
         "id": "120",
-        "name": "Vara de Pescar",
+        "name": "Vara de Pesca",
         "stack": 1
       }
     ]
@@ -90,9 +90,9 @@
   "moveable": {
     "speed": 1.100000023841858
   },
-  "name": "Humano Pescador",
+  "name": "Pescador Humano",
   "persona": {
-    "occupation": "Pescador"
+    "occupation": "Fisher"
   },
   "sight": {
     "ignore_infra_penalty": false,

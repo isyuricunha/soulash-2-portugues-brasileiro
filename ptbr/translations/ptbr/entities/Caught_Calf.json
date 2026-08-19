@@ -10,7 +10,7 @@
     "value",
     "weight"
   ],
-  "description": "Bezerro assustado. Se você soltá-lo, ele tentará escapar.",
+  "description": "Pequeno bezerro assustado. Se você soltá-lo, ele tentará fugir.",
   "glyph": {
     "frames": [
       {

@@ -1,0 +1,110 @@
+{
+  "id": "core_2_mushman_putrid_circle",
+  "name": "O Círculo Putrefato",
+  "category": "settlement",
+  "flavor": "Nas profundezas da natureza selvagem, druidas homens-cogumelo se reuniram para realizar o antigo ritual, invocando a podridão que sustenta toda a vida.",
+  "icon": 11,
+  "small_icon": 11,
+  "rarity": "uncommon",
+  "restrict_races": [
+    "32"
+  ],
+  "trigger": {
+    "base_probability": 0.004,
+    "conditions": [
+      {
+        "type": "settlement_population_min",
+        "value": 60
+      },
+      {
+        "type": "settlement_tier_min",
+        "value": 2
+      }
+    ]
+  },
+  "duration": {
+    "type": "temporary",
+    "days": [
+      60,
+      90
+    ]
+  },
+  "effects": [
+    {
+      "type": "spawn_group",
+      "amount": [
+        1,
+        1
+      ],
+      "group_type": "settlement",
+      "entity": "core_2_Mushman_Circle_Druid",
+      "border_color": [
+        170,
+        128,
+        192
+      ]
+    }
+  ],
+  "extra_dialogues": [
+    "core_2_putrid_circle"
+  ],
+  "interactions": [
+    {
+      "type": "conversation",
+      "id": "core_2_deliver_druid_goods",
+      "translation_id": 0,
+      "required_ingredients": [
+        {
+          "id": "384",
+          "amount": 2
+        },
+        {
+          "id": "core_2_Druidic_Robe",
+          "amount": 5
+        }
+      ],
+      "entities": [
+        "core_2_Mushman_Circle_Druid"
+      ],
+      "trigger_event": "core_2_herald_of_rot",
+      "label": "Entregar itens solicitados.",
+      "reward": {
+        "gold": 1000,
+        "remove_event": true,
+        "skill_id": "core_2_floromancy",
+        "exp": 120,
+        "items": [
+          {
+            "id": "core_2_Book_of_Floromancy",
+            "amount": 1
+          },
+          {
+            "id": "core_2_Mycelium_Spores",
+            "amount": 4
+          }
+        ]
+      },
+      "history_event": "::name entregou os bens necessários aos druidas homens-cogumelo!",
+      "announcement": "Você entregou os bens necessários aos druidas homens-cogumelo de ::settlement!"
+    },
+    {
+      "type": "expiration",
+      "translation_id": 1,
+      "chance": 10,
+      "trigger_event": "core_2_herald_of_rot",
+      "history_event": "O ritual do Círculo Putrefato falhou e a podridão escapou de seus limites!"
+    },
+    {
+      "type": "expiration",
+      "translation_id": 2,
+      "chance": 20,
+      "trigger_event": "core_2_plague_outbreak",
+      "history_event": "O ritual fracassado do Círculo Putrefato deixou para trás uma podridão purulenta que agora se espalha como praga!"
+    }
+  ],
+  "history_events": {
+    "begin": "Aspirantes a druidas de cogumelo formaram um Círculo Putrefato perto de ::settlement, iniciando seu ritual antigo.",
+    "success": "O ritual do Círculo Putrefato foi concluído com sucesso. A podridão floresce e os homens-cogumelo se alegram.",
+    "failure": "O ritual invocou algo antigo. Uma presença nefasta agita-se nas terras selvagens próximas, atraída pelos cânticos dos druidas."
+  }
+}

@@ -44,7 +44,7 @@
     "tags"
   ],
   "corpse": "core_2_Mushman_Corpse",
-  "description": "Este Mushman parece estar em processo de decomposição.",
+  "description": "Este homem-cogumelo parece estar em processo de decomposição.",
   "equipment": {
     "right_hand": [
       {
@@ -58,7 +58,7 @@
       {
         "chance": 1.0,
         "id": "core_2_Druidic_Robe",
-        "name": "Veste Druídica",
+        "name": "Túnica Druídica",
         "stack": 1
       }
     ]
@@ -69,7 +69,7 @@
   },
   "fighter": {
     "attackNames": [
-      "Punch"
+      "Soco"
     ]
   },
   "glyph": {

@@ -87,9 +87,9 @@
   "moveable": {
     "speed": 1.0
   },
-  "name": "Anão Escudado",
+  "name": "Anão Juramentado do Escudo",
   "persona": {
-    "occupation": "Escudado"
+    "occupation": "Shieldsworn"
   },
   "sight": {
     "ignore_infra_penalty": false,

@@ -35,7 +35,7 @@
       1
     ]
   },
-  "description": "Capuz de malha cobrindo garganta, pescoço e ombros. Oferece boa proteção.",
+  "description": "Capuz de malha que cobre a garganta, o pescoço e os ombros. Oferece boa proteção.",
   "glyph": {
     "frames": [
       {
@@ -60,7 +60,8 @@
     160,
     161
   ],
-  "name": "Capuz de Cota de Malha",
+  "name": "Coifa de Malha",
   "value": 1500,
-  "weight": 2.0
+  "weight": 2.0,
+  "feminine_form": true
 }

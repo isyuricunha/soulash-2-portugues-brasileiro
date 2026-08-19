@@ -7,7 +7,7 @@
     "item_type": 0,
     "stamina": 2
   },
-  "description": "As armas que você segura são revestidas com veneno, aumentando o dano ::damage_type em ::damage_bonus por ::duration turnos.",
+  "description": "As armas que você empunha são revestidas com veneno, aumentando o dano de ::damage_type em ::damage_bonus por ::duration turnos.",
   "duration": 10.0,
   "effects": {
     "damage_bonus": 5,
@@ -15,7 +15,7 @@
   },
   "id": "132",
   "image": 534,
-  "name": "Armas Envenenadas",
+  "name": "Envenenar Armas",
   "range": 0,
   "skill": "core_2_thievery",
   "slots": {

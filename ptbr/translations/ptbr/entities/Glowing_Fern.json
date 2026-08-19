@@ -1,0 +1,93 @@
+{
+  "components": [
+    "glyph",
+    "health",
+    "minimap_pixel",
+    "name",
+    "on_enter",
+    "position_2d",
+    "producer"
+  ],
+  "corpse": [],
+  "description": "Um pequeno arbusto de folhas de samambaia felpudas. Este parece brilhar por dentro.",
+  "glyph": {
+    "frames": [
+      {
+        "color": [
+          255,
+          255,
+          255
+        ],
+        "delay": 150,
+        "index": 3415
+      },
+      {
+        "color": [
+          255,
+          255,
+          255
+        ],
+        "delay": 200,
+        "index": 3416
+      },
+      {
+        "color": [
+          255,
+          255,
+          255
+        ],
+        "delay": 200,
+        "index": 3417
+      },
+      {
+        "color": [
+          255,
+          255,
+          255
+        ],
+        "delay": 150,
+        "index": 3416
+      },
+      {
+        "color": [
+          255,
+          255,
+          255
+        ],
+        "delay": 150,
+        "index": 3415
+      }
+    ],
+    "random_frame_start": false
+  },
+  "health": 10,
+  "id": "core_2_Glowing_Fern",
+  "minimap_pixel": [
+    79,
+    94,
+    73
+  ],
+  "name": "Samambaia Luminosa",
+  "on_enter": {
+    "ability": [],
+    "only_player_triggers": false,
+    "teleport": null,
+    "trigger_chance": 1.0
+  },
+  "producer": {
+    "products": {
+      "10": [
+        {
+          "amount": [
+            1,
+            3
+          ],
+          "id": "core_2_Fern_Flower",
+          "percent_chance": 100
+        }
+      ]
+    },
+    "time": 10
+  },
+  "feminine_form": true
+}

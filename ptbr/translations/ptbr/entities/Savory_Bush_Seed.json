@@ -9,7 +9,7 @@
     "value",
     "weight"
   ],
-  "description": "Crescerá em um arbusto saboroso um dia.",
+  "description": "Crescerá e se tornará um arbusto de segurelha um dia.",
   "glyph": {
     "frames": [
       {
@@ -36,5 +36,6 @@
   ],
   "name": "Semente de Arbusto Saboroso",
   "value": 6000,
-  "weight": 0.019999999552965164
+  "weight": 0.019999999552965164,
+  "feminine_form": true
 }

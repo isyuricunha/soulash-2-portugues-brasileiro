@@ -6,7 +6,7 @@
     "health": 0,
     "stamina": 25
   },
-  "description": "Você entra em um estado de excitação selvagem e incontrolável, aumentando sua velocidade de ataque em ::attack_speed e chance de acerto em ::hit_chance%. Enquanto a frenesi durar, você não verá sua Vida atual.",
+  "description": "Você entra em um estado de excitação selvagem e descontrolada, aumentando sua velocidade de ataque em ::attack_speed e a chance de acerto em ::hit_chance%. Enquanto o frenesi durar, você não verá sua vida atual.",
   "duration": 6.0,
   "effects": {
     "attack_speed": -0.20000000298023224,

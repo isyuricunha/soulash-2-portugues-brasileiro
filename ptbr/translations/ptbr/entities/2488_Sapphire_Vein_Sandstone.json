@@ -33,7 +33,7 @@
     "producer"
   ],
   "corpse": [],
-  "description": "Um veio de gema de safira na parede de arenito.",
+  "description": "Uma veia de gema de safira em parede de arenito.",
   "glyph": {
     "frames": [
       {
@@ -56,7 +56,7 @@
     63,
     131
   ],
-  "name": "Veio de Safira em Arenito",
+  "name": "Arenito com Veio de Safira",
   "producer": {
     "products": {
       "5": [

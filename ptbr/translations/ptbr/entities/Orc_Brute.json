@@ -96,9 +96,9 @@
   "moveable": {
     "speed": 1.0
   },
-  "name": "Orc Brutamontes",
+  "name": "Orc Bruto",
   "persona": {
-    "occupation": "Brutamontes"
+    "occupation": "Brute"
   },
   "sight": {
     "ignore_infra_penalty": false,

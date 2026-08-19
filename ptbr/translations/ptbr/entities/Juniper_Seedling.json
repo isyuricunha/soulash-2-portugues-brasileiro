@@ -27,7 +27,7 @@
     "time": 20,
     "tools": []
   },
-  "description": "Um arbusto de zimbro muito pequeno.",
+  "description": "Um arbusto de junípero muito pequeno.",
   "glyph": {
     "frames": [
       {
@@ -67,5 +67,6 @@
     "spawn_chance": 100.0,
     "spawn_multiply": 0.0,
     "spawn_rolls": 1
-  }
+  },
+  "feminine_form": true
 }

@@ -31,7 +31,7 @@
     "time": 5,
     "tools": []
   },
-  "description": "Este teto feito de espinhos e folhagem densa forma uma cobertura natural.",
+  "description": "Este telhado feito de espinhos e folhagem densa forma uma cobertura natural.",
   "glyph": {
     "frames": [
       {
@@ -53,7 +53,7 @@
     122,
     63
   ],
-  "name": "Teto de Espinhos",
+  "name": "Telhado de Espinhos",
   "producer": {
     "products": {
       "core_2_deconstruct": [

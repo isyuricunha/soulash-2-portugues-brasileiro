@@ -83,9 +83,9 @@
   "moveable": {
     "speed": 1.2999999523162842
   },
-  "name": "Troll Criomante",
+  "name": "Criomante Troll",
   "persona": {
-    "occupation": "Criomante"
+    "occupation": "Cryomancer"
   },
   "sight": {
     "ignore_infra_penalty": false,

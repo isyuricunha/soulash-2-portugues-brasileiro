@@ -53,10 +53,11 @@
   ],
   "name": "Madeira de Ébano",
   "resource": {
-    "affix": "Ebony",
+    "affix": "de Ébano",
     "magic_ingredient": 0,
     "quality": 4,
-    "type": 3
+    "type": 3,
+    "feminine_affix": "ébano"
   },
   "statistics": {
     "dexterity": [
@@ -97,5 +98,6 @@
     "range": 0,
     "type": 9
   },
-  "weight": 0.10000000149011612
+  "weight": 0.10000000149011612,
+  "feminine_form": true
 }

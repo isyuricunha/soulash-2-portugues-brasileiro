@@ -43,7 +43,7 @@
     "time": 50,
     "tools": []
   },
-  "description": "Esta cadeira é feita inteiramente de metal. Também tem espinhos de metal em todas as superfícies e tiras de couro, para que você possa se sentir realmente aconchegado sentado nela. Um clássico dispositivo de tortura.",
+  "description": "Esta cadeira é feita inteiramente de metal. Também tem piques metálicos em toda superfície e tiras de couro, para você se sentir bem aconchegante ao sentar nela. Um clássico dispositivo de tortura.",
   "glyph": {
     "frames": [
       {
@@ -81,5 +81,6 @@
       ]
     },
     "time": 40
-  }
+  },
+  "feminine_form": true
 }

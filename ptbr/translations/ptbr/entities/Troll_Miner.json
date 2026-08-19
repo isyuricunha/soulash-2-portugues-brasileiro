@@ -44,7 +44,7 @@
       {
         "chance": 1.0,
         "id": "2175",
-        "name": "Tanga de Pele",
+        "name": "Tapa-sexo de Pele",
         "stack": 1
       }
     ],
@@ -93,7 +93,7 @@
   },
   "name": "Troll Mineiro",
   "persona": {
-    "occupation": "Mineiro"
+    "occupation": "Miner"
   },
   "sight": {
     "ignore_infra_penalty": false,

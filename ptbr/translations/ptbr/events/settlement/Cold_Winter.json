@@ -1,0 +1,86 @@
+{
+  "id": "core_2_cold_winter",
+  "name": "Inverno Frio",
+  "category": "settlement",
+  "flavor": "As noites de inverno na tundra podem ser rigorosamente frias, e lenha é escassa.",
+  "icon": 23,
+  "small_icon": 23,
+  "rarity": "uncommon",
+  "restrict_races": [
+    "33"
+  ],
+  "trigger": {
+    "base_probability": 0.004,
+    "conditions": [
+      {
+        "type": "settlement_population_min",
+        "value": 30
+      },
+      {
+        "type": "settlement_tier_min",
+        "value": 1
+      },
+      {
+        "type": "min_unemployed",
+        "value": 1
+      }
+    ]
+  },
+  "duration": {
+    "type": "temporary",
+    "days": [
+      30,
+      45
+    ]
+  },
+  "effects": [
+    {
+      "type": "spawn_group",
+      "amount": [
+        1,
+        1
+      ],
+      "group_type": "settlement",
+      "entity": "core_2_Ursan_Scribe",
+      "border_color": [
+        170,
+        128,
+        192
+      ]
+    }
+  ],
+  "extra_dialogues": [
+    "core_2_cold_winter"
+  ],
+  "interactions": [
+    {
+      "type": "conversation",
+      "id": "core_2_deliver_firewood",
+      "translation_id": 0,
+      "required_ingredients": [
+        {
+          "id": "2008",
+          "amount": 20
+        }
+      ],
+      "entities": [
+        "core_2_Ursan_Scribe"
+      ],
+      "label": "Entregar item solicitado.",
+      "reward": {
+        "gold": 50,
+        "reputation": 15,
+        "remove_event": true,
+        "skill_id": "core_2_carpentry",
+        "exp": 10
+      },
+      "history_event": "::name entregou lenha aos Ursanos!",
+      "announcement": "Você entregou lenha aos Ursanos de ::settlement!"
+    }
+  ],
+  "history_events": {
+    "begin": "A escassez de madeira prenuncia um inverno frio em ::settlement.",
+    "success": "Os Ursanos poderão aquecer suas casas neste inverno.",
+    "failure": "Alguns Ursanos vão congelar neste inverno."
+  }
+}

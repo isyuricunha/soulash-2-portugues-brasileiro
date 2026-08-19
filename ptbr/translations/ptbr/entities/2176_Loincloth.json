@@ -35,7 +35,7 @@
       12
     ]
   },
-  "description": "Duas peças de material seguradas pelo cinto cobrem sua frente e costas.",
+  "description": "Duas peças de material presas pelo cinto cobrem sua frente e suas costas.",
   "glyph": {
     "frames": [
       {
@@ -60,7 +60,7 @@
     200,
     200
   ],
-  "name": "Tanga",
+  "name": "Tapa-sexo",
   "value": 100,
   "weight": 0.30000001192092896
 }

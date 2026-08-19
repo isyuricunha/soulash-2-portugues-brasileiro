@@ -6,7 +6,7 @@
     "health": 0,
     "stamina": 3
   },
-  "description": "Você faz seu alvo rir incontrolavelmente, tornando-o incapaz de se mover por ::duration turnos.",
+  "description": "Você faz o alvo rir incontrolavelmente, deixando-o impossibilitado de se mover por ::duration turnos.",
   "duration": 5.0,
   "effects": {
     "immobilize": 0,

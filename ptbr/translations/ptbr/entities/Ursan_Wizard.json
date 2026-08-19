@@ -80,9 +80,9 @@
   "moveable": {
     "speed": 1.2999999523162842
   },
-  "name": "Ursan Mago",
+  "name": "Ursano Mago",
   "persona": {
-    "occupation": "Mago"
+    "occupation": "Wizard"
   },
   "sight": {
     "ignore_infra_penalty": false,

@@ -6,14 +6,14 @@
     "health": 0,
     "stamina": 0
   },
-  "description": "Aquele pão de mel deve ter sido especial porque machuca aqueles que te machucam. Espinhos +::thorns por ::duration turnos.",
+  "description": "Aquele biscoito de gengibre devia ser especial, pois fere quem o fere. Espinhos +::thorns por ::duration turnos.",
   "duration": 600.0,
   "effects": {
     "thorns": 2
   },
   "id": "core_2_Gingerbread",
   "image": 516,
-  "name": "Pão de Gengibre",
+  "name": "Biscoito de Gengibre",
   "range": 0,
   "skill": "",
   "target": "self"

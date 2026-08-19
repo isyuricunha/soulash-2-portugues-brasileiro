@@ -39,7 +39,7 @@
       10
     ]
   },
-  "description": "A barra de ouro vale muito.",
+  "description": "Uma barra de ouro vale muito.",
   "extra_weight": 0.5,
   "glyph": {
     "frames": [
@@ -65,13 +65,15 @@
     144,
     88
   ],
-  "name": "Lingote de Ouro",
+  "name": "Linga de Ouro",
   "resource": {
-    "affix": "Gold",
+    "affix": "Ouro",
     "magic_ingredient": 0,
     "quality": 3,
-    "type": 1
+    "type": 1,
+    "feminine_affix": "Dourada"
   },
   "value": 10000,
-  "weight": 0.10000000149011612
+  "weight": 0.10000000149011612,
+  "feminine_form": true
 }

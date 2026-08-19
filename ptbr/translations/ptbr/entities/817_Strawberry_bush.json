@@ -24,7 +24,7 @@
     "producer"
   ],
   "corpse": [],
-  "description": "Uma bagunça de ramos e folhas pontilhados com morangos comestíveis.",
+  "description": "Uma confusão de galhos e folhas salpicados de morangos comestíveis.",
   "glyph": {
     "frames": [
       {
@@ -94,6 +94,6 @@
         }
       ]
     },
-    "time": 10
+    "time": 5
   }
 }

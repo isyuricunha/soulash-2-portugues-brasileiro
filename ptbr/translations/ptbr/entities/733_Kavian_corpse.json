@@ -9,7 +9,7 @@
     "producer",
     "weight"
   ],
-  "description": "Um corpo sem vida de um humanoide parecido com um pássaro.",
+  "description": "Um corpo sem vida de um humanoide semelhante a um pássaro.",
   "glyph": {
     "frames": [
       {
@@ -38,7 +38,7 @@
     96,
     248
   ],
-  "name": "Cadáver Kavian",
+  "name": "Cadáver de Kavian",
   "producer": {
     "products": {
       "3": [

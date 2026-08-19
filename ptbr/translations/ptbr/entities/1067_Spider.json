@@ -41,7 +41,7 @@
     "tags"
   ],
   "corpse": "2084",
-  "description": "Uma aranha grande que alcança seus joelhos. Seus olhos parecem estranhos, tem pernas peludas e se move rápido. Yuk!",
+  "description": "Uma aranha grande que chega aos seus joelhos. Seus olhos parecem estranhos, tem pernas peludas e se move rápido. Eca!",
   "dialogues": [
     "881",
     "882"
@@ -75,7 +75,7 @@
   },
   "fighter": {
     "attackNames": [
-      "Bite"
+      "Mordida"
     ]
   },
   "glyph": {
@@ -143,5 +143,6 @@
     "9",
     "18",
     "2"
-  ]
+  ],
+  "feminine_form": true
 }

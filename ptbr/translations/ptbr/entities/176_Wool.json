@@ -23,7 +23,7 @@
     "value",
     "weight"
   ],
-  "description": "Isso pode ser usado para fazer algumas roupas quentes.",
+  "description": "Isto pode ser usado para fazer roupas quentes.",
   "glyph": {
     "frames": [
       {
@@ -50,11 +50,13 @@
   ],
   "name": "Lã",
   "resource": {
-    "affix": "Woolly",
+    "affix": "Lanoso",
     "magic_ingredient": 0,
     "quality": 1,
-    "type": 4
+    "type": 4,
+    "feminine_affix": "Lanosa"
   },
   "value": 500,
-  "weight": 0.10000000149011612
+  "weight": 0.10000000149011612,
+  "feminine_form": true
 }

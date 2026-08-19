@@ -31,7 +31,7 @@
     "tags"
   ],
   "corpse": "core_2_Live_Stone",
-  "description": "Parece uma estátua. Até que se move.",
+  "description": "Parece uma estátua. Até se mover.",
   "dialogues": [],
   "experience_gainer": {
     "exp": 0,
@@ -100,5 +100,6 @@
   },
   "tags": [
     "32"
-  ]
+  ],
+  "feminine_form": true
 }

@@ -40,7 +40,7 @@
     "tags"
   ],
   "corpse": "2165",
-  "description": "Predador de tamanho médio, com oito pernas, um ferrão venenoso e pinças perigosas.",
+  "description": "Predador de tamanho médio, de oito pernas, com um ferrão venenoso e pinças perigosas.",
   "dialogues": [
     "366",
     "367",
@@ -74,8 +74,8 @@
   },
   "fighter": {
     "attackNames": [
-      "Sting",
-      "Pincer"
+      "Ferrão",
+      "Pinça"
     ]
   },
   "glyph": {

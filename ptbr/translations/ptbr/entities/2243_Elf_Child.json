@@ -57,9 +57,9 @@
   "moveable": {
     "speed": 2.0
   },
-  "name": "Criança Elfo",
+  "name": "Criança Élfica",
   "persona": {
-    "occupation": "Criança"
+    "occupation": "Child"
   },
   "sight": {
     "ignore_infra_penalty": false,
@@ -96,5 +96,6 @@
   "tags": [
     "9",
     "7"
-  ]
+  ],
+  "feminine_form": true
 }

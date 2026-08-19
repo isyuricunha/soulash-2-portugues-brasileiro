@@ -43,7 +43,7 @@
     "tags"
   ],
   "corpse": [],
-  "description": "Vestido de preto, com asas semelhantes a morcego, este guerreiro parece ter visto e causado muitas mortes.",
+  "description": "Vestido de preto, com asas de morcego, este guerreiro parece ter visto e causado muitas mortes.",
   "experience_gainer": {
     "exp": 0,
     "level": 50
@@ -113,5 +113,6 @@
   "tags": [
     "38",
     "4"
-  ]
+  ],
+  "feminine_form": true
 }

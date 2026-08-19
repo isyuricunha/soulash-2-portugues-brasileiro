@@ -29,7 +29,7 @@
       14
     ]
   },
-  "description": "Um aljava simples onde você pode colocar algumas coisas. Funciona apenas para armas de arremesso.",
+  "description": "Uma aljava simples onde você pode colocar algumas coisas. Funciona apenas para armas de arremesso.",
   "glyph": {
     "frames": [
       {
@@ -56,5 +56,6 @@
   ],
   "name": "Aljava Primitiva",
   "value": 500,
-  "weight": 0.5
+  "weight": 0.5,
+  "feminine_form": true
 }

@@ -49,12 +49,13 @@
     158,
     158
   ],
-  "name": "Dedo de Vodnik",
+  "name": "Dedo do Vodnik",
   "resource": {
-    "affix": "of Drowning",
+    "affix": "do Afogamento",
     "magic_ingredient": 3,
     "quality": 3,
-    "type": 7
+    "type": 7,
+    "feminine_affix": "afogada"
   },
   "statistics": {
     "dexterity": [

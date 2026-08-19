@@ -24,7 +24,7 @@
     "producer"
   ],
   "corpse": "783",
-  "description": "Estátua de pedra coberta por vinhas que tomam a forma de escritura: \"Não há deuses além das Damas dos Bosques.\"",
+  "description": "Estátua de pedra coberta por trepadeiras que formam a escrita: «Não há deuses senão as Damas da Floresta.»",
   "glyph": {
     "frames": [
       {
@@ -65,7 +65,7 @@
     80,
     80
   ],
-  "name": "Estátua Coberta por Vinhas em Forma de Letras",
+  "name": "Estátua Coberta por Videiras-Letra",
   "producer": {
     "products": {
       "core_2_deconstruct": [
@@ -80,5 +80,6 @@
       ]
     },
     "time": 40
-  }
+  },
+  "feminine_form": true
 }

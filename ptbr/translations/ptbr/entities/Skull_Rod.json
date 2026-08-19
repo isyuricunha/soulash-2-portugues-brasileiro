@@ -31,7 +31,7 @@
       15
     ]
   },
-  "description": "Uma haste curta com uma caveira no topo.",
+  "description": "Uma vara curta com uma caveira no topo.",
   "glyph": {
     "frames": [
       {
@@ -56,7 +56,7 @@
     102,
     57
   ],
-  "name": "Bastão de Crânio",
+  "name": "Vara de Caveira",
   "value": 5500,
   "weapon": {
     "attack_speed": 1.0,
@@ -74,5 +74,6 @@
     "range": 1,
     "type": 4
   },
-  "weight": 1.0
+  "weight": 1.0,
+  "feminine_form": true
 }

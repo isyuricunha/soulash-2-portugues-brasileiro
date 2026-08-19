@@ -1,0 +1,68 @@
+{
+  "id": "core_2_hermit_camp",
+  "name": "Acampamento de Eremitas",
+  "category": "wilderness",
+  "flavor": "Um pequeno acampamento foi erguido nos ermos por um grupo de exilados errantes. Eles vivem reclusos, cuidando de sua fogueira e de seus parcos pertences, raramente se afastando muito de seu abrigo.",
+  "icon": 0,
+  "small_icon": 0,
+  "rarity": "uncommon",
+  "trigger": {
+    "base_probability": 0.15
+  },
+  "duration": {
+    "type": "temporary",
+    "days": [
+      15,
+      45
+    ]
+  },
+  "buildings": [
+    {
+      "building_id": "556",
+      "placement": "map_edge",
+      "lair_only": true
+    }
+  ],
+  "max_per_region": 1,
+  "effects": [
+    {
+      "type": "roaming_spawn",
+      "entity": "core_2_Hermit",
+      "amount": [
+        2,
+        4
+      ],
+      "spawn_behaviors": [],
+      "trade_list": [
+        {
+          "id": "core_2_Mint_Leaves",
+          "amount": 3
+        },
+        {
+          "id": "core_2_Camomile_Flower",
+          "amount": 3
+        },
+        {
+          "id": "core_2_Datura_Flower",
+          "amount": 5
+        },
+        {
+          "id": "core_2_Buutercap_Flower",
+          "amount": 4
+        },
+        {
+          "id": "core_2_Lovage_Leaves",
+          "amount": 3
+        },
+        {
+          "id": "core_2_Poppy_Seed",
+          "amount": 2
+        }
+      ]
+    }
+  ],
+  "history_events": {
+    "begin": "Um pequeno acampamento de eremitas apareceu nesta região.",
+    "end": "Os eremitas desmontam o acampamento e desaparecem nos ermos."
+  }
+}

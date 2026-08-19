@@ -1,0 +1,85 @@
+{
+  "id": "core_2_herald_of_rot",
+  "name": "Arauto da Podridão",
+  "category": "settlement",
+  "flavor": "O ritual invocou algo antigo. Uma presença nefasta agita-se nos ermos próximos, atraída pelo cântico dos druidas.",
+  "icon": 12,
+  "small_icon": 12,
+  "rarity": "uncommon",
+  "restrict_races": [
+    "32"
+  ],
+  "trigger": {
+    "base_probability": 0,
+    "conditions": [
+      {
+        "type": "min_unemployed",
+        "value": 1
+      }
+    ]
+  },
+  "duration": {
+    "type": "temporary",
+    "days": [
+      60,
+      90
+    ]
+  },
+  "locations": [
+    {
+      "id": "core_2_herald_of_rot",
+      "radius": 10
+    }
+  ],
+  "effects": [
+    {
+      "type": "spawn_group",
+      "amount": [
+        1,
+        1
+      ],
+      "group_type": "settlement",
+      "entity": "core_2_Mushman_Druid_Herald_Event",
+      "border_color": [
+        170,
+        128,
+        192
+      ]
+    }
+  ],
+  "extra_dialogues": [
+    "core_2_heralds_of_rot"
+  ],
+  "interactions": [
+    {
+      "type": "reveal_event_location",
+      "id": "core_2_herald_of_rot_reveal",
+      "translation_id": 0,
+      "entities": [
+        "core_2_Mushman_Druid_Herald_Event"
+      ]
+    },
+    {
+      "type": "conversation",
+      "id": "core_2_mushman_druid_herald_event_reward",
+      "translation_id": 1,
+      "require_location_cleared": true,
+      "entities": [
+        "core_2_Mushman_Druid_Herald_Event"
+      ],
+      "reward": {
+        "gold": 2000,
+        "remove_event": true,
+        "skill_id": "core_2_necromancy",
+        "exp": 250,
+        "announcement": "A corrupção perto de ::settlement foi purificada."
+      },
+      "history_event": "::name matou o Arauto da Podridão e purificou a corrupção!"
+    }
+  ],
+  "history_events": {
+    "begin": "Um Arauto da Podridão emergiu perto de ::settlement, atraído pelo ritual do Círculo Putrefato.",
+    "end": "O Arauto da Podridão perto de ::settlement desvaneceu-se, sua presença dispersando-se na podridão.",
+    "success": "O Arauto da Podridão foi morto. A corrupção perto de ::settlement foi purificada."
+  }
+}

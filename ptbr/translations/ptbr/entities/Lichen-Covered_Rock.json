@@ -11,7 +11,7 @@
     "weapon",
     "weight"
   ],
-  "description": "Uma pedra bonita coberta por líquen crocante.",
+  "description": "Uma bela pedra coberta de liquen crostoso.",
   "glyph": {
     "frames": [
       {
@@ -54,7 +54,7 @@
     113,
     115
   ],
-  "name": "Pedra Coberta de Líquen",
+  "name": "Pedra Coberta de Liquen",
   "producer": {
     "products": {
       "10": [
@@ -97,5 +97,6 @@
     "range": 5,
     "type": 11
   },
-  "weight": 50.0
+  "weight": 50.0,
+  "feminine_form": true
 }

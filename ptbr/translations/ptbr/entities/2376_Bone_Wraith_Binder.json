@@ -40,7 +40,7 @@
       {
         "chance": 1.0,
         "id": "311",
-        "name": "Lança de Osso",
+        "name": "Lança Óssea",
         "stack": 1
       }
     ]
@@ -79,9 +79,9 @@
   "moveable": {
     "speed": 1.0
   },
-  "name": "Espectro de Osso Vinculador",
+  "name": "Vinculador de Espectro Ã“sseo",
   "persona": {
-    "occupation": "Espectro Vinculador"
+    "occupation": "Wraith Binder"
   },
   "sight": {
     "ignore_infra_penalty": false,

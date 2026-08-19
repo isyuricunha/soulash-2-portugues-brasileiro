@@ -29,7 +29,7 @@
     "tags"
   ],
   "corpse": "587",
-  "description": "Tão fofa, olhe esses pequenos chifres!",
+  "description": "Que fofo, olhe esses chifrezinhos!",
   "dialogues": [],
   "equipment": {
     "disabled_slots": [
@@ -85,7 +85,7 @@
   "moveable": {
     "speed": 0.699999988079071
   },
-  "name": "Cabrito Bebê",
+  "name": "Cabrito",
   "producer": {
     "products": {
       "core_2_catch_animal": [

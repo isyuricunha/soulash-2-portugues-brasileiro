@@ -24,7 +24,7 @@
     "weapon",
     "weight"
   ],
-  "description": "Resfriado e sólido, o bloco de gelo pode ser usado como material de construção em climas mais frios.",
+  "description": "Gelado e sólido, o bloco de gelo pode ser usado como material de construção em climas mais frios.",
   "glyph": {
     "frames": [
       {
@@ -51,10 +51,11 @@
   ],
   "name": "Bloco de Gelo",
   "resource": {
-    "affix": "Ice",
+    "affix": "Gelo",
     "magic_ingredient": 0,
     "quality": 2,
-    "type": 6
+    "type": 6,
+    "feminine_affix": "Gelada"
   },
   "value": 200,
   "weapon": {

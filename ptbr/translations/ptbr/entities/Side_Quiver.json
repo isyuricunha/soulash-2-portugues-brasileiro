@@ -29,7 +29,7 @@
       14
     ]
   },
-  "description": "Um coldre fixado ao seu lado, dando alguma proteção. Funciona apenas para armas de arremesso.",
+  "description": "Um aljave fixado ao seu lado, oferecendo alguma proteção. Funciona apenas para armas de arremesso.",
   "extra_weight": 5.0,
   "glyph": {
     "frames": [
@@ -55,7 +55,8 @@
     68,
     24
   ],
-  "name": "Coldre Lateral",
+  "name": "Aljava Lateral",
   "value": 1500,
-  "weight": 0.5
+  "weight": 0.5,
+  "feminine_form": true
 }

@@ -36,7 +36,7 @@
       1
     ]
   },
-  "description": "Uma mão de golema equipada com uma tocha ardente.",
+  "description": "Uma mão de golem equipada com uma tocha ardente.",
   "glyph": {
     "frames": [
       {
@@ -66,7 +66,7 @@
     120,
     34
   ],
-  "name": "Tocha de Mão",
+  "name": "Mão de Tocha",
   "value": 15000,
   "weapon": {
     "attack_speed": 1.0,
@@ -84,5 +84,6 @@
     "range": 1,
     "type": 8
   },
-  "weight": 0.5
+  "weight": 0.5,
+  "feminine_form": true
 }

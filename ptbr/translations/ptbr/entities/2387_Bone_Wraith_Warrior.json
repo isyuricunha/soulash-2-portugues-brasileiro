@@ -79,9 +79,9 @@
   "moveable": {
     "speed": 1.0
   },
-  "name": "Espectro de Osso Guerreiro",
+  "name": "Guerreiro de Espectro Ósseo",
   "persona": {
-    "occupation": "Guerreiro de Ossos"
+    "occupation": "Bone Warrior"
   },
   "sight": {
     "ignore_infra_penalty": false,

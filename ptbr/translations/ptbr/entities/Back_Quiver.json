@@ -29,7 +29,7 @@
       14
     ]
   },
-  "description": "Um coldre de tamanho considerável que você pode montar nas costas. Funciona apenas para armas de arremesso.",
+  "description": "Uma aljava grande que você pode prender nas costas. Funciona apenas para armas de arremesso.",
   "extra_weight": 10.0,
   "glyph": {
     "frames": [
@@ -55,7 +55,8 @@
     68,
     24
   ],
-  "name": "Aljava nas Costas",
+  "name": "Aljava de Costas",
   "value": 2000,
-  "weight": 0.5
+  "weight": 0.5,
+  "feminine_form": true
 }

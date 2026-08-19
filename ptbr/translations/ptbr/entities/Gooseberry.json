@@ -10,7 +10,7 @@
     "value",
     "weight"
   ],
-  "description": "Verde e coberta com pequenos pelos. Perfeito para um lanche!",
+  "description": "Verde e coberta por pequenos pelos. Perfeita para um lanche!",
   "food": {
     "nutrition": 8,
     "on_eat": "",
@@ -42,5 +42,6 @@
   ],
   "name": "Groselha",
   "value": 150,
-  "weight": 0.019999999552965164
+  "weight": 0.019999999552965164,
+  "feminine_form": true
 }

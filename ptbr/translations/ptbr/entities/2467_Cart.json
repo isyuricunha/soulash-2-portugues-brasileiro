@@ -35,7 +35,7 @@
     "time": 60,
     "tools": []
   },
-  "description": "Um veículo confiável para transportar bens e pessoas.",
+  "description": "Um veículo confiável para transportar mercadorias e pessoas.",
   "glyph": {
     "frames": [
       {
@@ -66,5 +66,6 @@
     48,
     17
   ],
-  "name": "Carroça"
+  "name": "Carroça",
+  "feminine_form": true
 }

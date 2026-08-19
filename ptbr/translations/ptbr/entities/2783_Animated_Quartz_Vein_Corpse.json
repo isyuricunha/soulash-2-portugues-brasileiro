@@ -9,7 +9,7 @@
     "producer",
     "weight"
   ],
-  "description": "Veio de quartzo animado, mas desta vez está morto.",
+  "description": "Veia de quartzo animada, mas desta vez está morta.",
   "glyph": {
     "frames": [
       {
@@ -38,7 +38,7 @@
     128,
     104
   ],
-  "name": "Cadáver de Veio de Quartzo Animado",
+  "name": "Cadáver de Veia de Quartzo Animada",
   "producer": {
     "products": {
       "3": [

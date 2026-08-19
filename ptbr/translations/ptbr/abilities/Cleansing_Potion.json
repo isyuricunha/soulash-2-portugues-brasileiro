@@ -6,7 +6,7 @@
     "health": 0,
     "stamina": 10
   },
-  "description": "Esta poção limpa seu corpo dos efeitos de medo, queimadura, silêncio e congelamento.",
+  "description": "Esta poção purifica seu corpo de efeitos de medo, queimadura, silêncio e congelamento.",
   "duration": 0.0,
   "effects": {
     "neutralize": [
@@ -17,7 +17,7 @@
   },
   "id": "core_2_Cleansing_Potion",
   "image": 756,
-  "name": "Poção de Purificação",
+  "name": "Poção Purificadora",
   "range": 0,
   "skill": "",
   "target": "self"

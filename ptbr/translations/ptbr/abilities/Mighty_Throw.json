@@ -6,7 +6,7 @@
     "health": 0,
     "stamina": 10
   },
-  "description": "Acerte tudo em linha com ::damage de dano ::damage_type em um alcance ::range, perfurando tudo em seu caminho.",
+  "description": "Atinga tudo em linha causando ::damage de dano ::damage_type em alcance ::range, perfurando tudo no caminho.",
   "duration": 0.0,
   "effects": {
     "damage": [

@@ -177,7 +177,7 @@
   },
   "fighter": {
     "attackNames": [
-      "Branch"
+      "Ramo"
     ]
   },
   "glyph": {
@@ -242,5 +242,6 @@
   "tags": [
     "9",
     "3"
-  ]
+  ],
+  "feminine_form": true
 }

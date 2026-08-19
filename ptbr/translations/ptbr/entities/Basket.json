@@ -56,5 +56,6 @@
   ],
   "name": "Cesta",
   "value": 1100,
-  "weight": 1.0
+  "weight": 1.0,
+  "feminine_form": true
 }

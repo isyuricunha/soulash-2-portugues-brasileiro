@@ -6,7 +6,7 @@
     "health": 0,
     "stamina": 20
   },
-  "description": "Transforme-se em um raio avançando ::range células acertando todos em seu caminho, causando ::damage ::damage_type de dano.",
+  "description": "Transforma você em um raio que avança ::range ladrilhos atingindo todos em seu caminho, causando ::damage de dano ::damage_type.",
   "duration": 0.0,
   "effects": {
     "charge": 1,
@@ -21,7 +21,7 @@
   "id": "core_2_Ligthning_Bolt",
   "image": 742,
   "min_range": 2,
-  "name": "Raio Relâmpago",
+  "name": "Raio",
   "range": 7,
   "skill": "",
   "slots": {

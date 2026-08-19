@@ -23,7 +23,7 @@
     "producer"
   ],
   "corpse": [],
-  "description": "Ainda coberto de penas.",
+  "description": "Ainda coberta de penas.",
   "glyph": {
     "frames": [
       {
@@ -69,5 +69,6 @@
       ]
     },
     "time": 10
-  }
+  },
+  "feminine_form": true
 }

@@ -43,8 +43,8 @@
   },
   "fighter": {
     "attackNames": [
-      "Slam",
-      "Tendril"
+      "Impacto",
+      "Tentáculo"
     ]
   },
   "glyph": {
@@ -71,7 +71,7 @@
   "moveable": {
     "speed": 1.0
   },
-  "name": "Minério de Adamantio Animado",
+  "name": "Minério de Adamantina Animado",
   "sight": {
     "ignore_infra_penalty": false,
     "infravision": true,

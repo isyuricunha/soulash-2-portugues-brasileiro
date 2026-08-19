@@ -44,7 +44,7 @@
       {
         "chance": 1.0,
         "id": "core_2_Bone_Javelin",
-        "name": "Dardo de Osso",
+        "name": "Azagaia de Osso",
         "stack": 10
       }
     ],
@@ -52,7 +52,7 @@
       {
         "chance": 1.0,
         "id": "core_2_Bone_Javelin",
-        "name": "Dardo de Osso",
+        "name": "Azagaia de Osso",
         "stack": 1
       }
     ]
@@ -91,9 +91,9 @@
   "moveable": {
     "speed": 1.0
   },
-  "name": "Goblin Ladino",
+  "name": "Ladrão Goblin",
   "persona": {
-    "occupation": "Ladino"
+    "occupation": "Thief"
   },
   "sight": {
     "ignore_infra_penalty": false,

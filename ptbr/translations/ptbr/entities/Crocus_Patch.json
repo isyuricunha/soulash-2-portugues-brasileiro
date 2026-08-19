@@ -39,7 +39,7 @@
     60,
     87
   ],
-  "name": "Trecho de Crocus",
+  "name": "Mancha de Crocus",
   "producer": {
     "products": {
       "10": [
@@ -54,5 +54,6 @@
       ]
     },
     "time": 10
-  }
+  },
+  "feminine_form": true
 }

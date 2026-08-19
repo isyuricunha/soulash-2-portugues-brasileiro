@@ -6,7 +6,7 @@
     "health": 0,
     "stamina": 5
   },
-  "description": "Causa ::damage de dano ::damage_type a todos em um cone na frente do conjurador.",
+  "description": "Causa ::damage ::damage_type de dano a todos em um cone à frente do conjurador.",
   "duration": 0.0,
   "effects": {
     "damage": [

@@ -24,7 +24,7 @@
     "value",
     "weight"
   ],
-  "description": "Uma escama resistente e rústica descartada pelos guerreiros reptilianos das terras pantanosas. Essas escamas possuem uma qualidade natural semelhante à armadura, forjada através de gerações de adaptação.",
+  "description": "Uma escama rugosa e resistente, perdida pelos guerreiros reptilianos das terras pantanosas. Essas escamas ostentam uma qualidade natural de armadura, forjada através de gerações de adaptação.",
   "glyph": {
     "frames": [
       {
@@ -51,10 +51,11 @@
   ],
   "name": "Escama de Homem-Lagarto",
   "resource": {
-    "affix": "Adaptable",
+    "affix": "Adaptável",
     "magic_ingredient": 0,
     "quality": 2,
-    "type": 10
+    "type": 10,
+    "feminine_affix": "Adaptável"
   },
   "statistics": {
     "dexterity": [
@@ -80,5 +81,6 @@
     ]
   },
   "value": 600,
-  "weight": 0.10000000149011612
+  "weight": 0.10000000149011612,
+  "feminine_form": true
 }

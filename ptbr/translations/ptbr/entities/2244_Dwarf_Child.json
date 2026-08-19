@@ -61,7 +61,7 @@
   },
   "name": "Criança Anã",
   "persona": {
-    "occupation": "Criança"
+    "occupation": "Child"
   },
   "sight": {
     "ignore_infra_penalty": false,
@@ -98,5 +98,6 @@
   "tags": [
     "9",
     "6"
-  ]
+  ],
+  "feminine_form": true
 }

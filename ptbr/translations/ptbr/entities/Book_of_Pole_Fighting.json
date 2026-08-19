@@ -25,7 +25,7 @@
     "time": 60,
     "tools": []
   },
-  "description": "Todos os segredos rápidos do combate com armas de haste estão escondidos dentro daquelas páginas.",
+  "description": "Todos os segredos ágeis do combate com vara estão ocultos nestas páginas.",
   "glyph": {
     "frames": [
       {
@@ -50,7 +50,7 @@
     178,
     176
   ],
-  "name": "Livro de Combate com Armas de Haste",
+  "name": "Livro de Combate com Vara",
   "usable": {
     "ability": "",
     "recipe": "",

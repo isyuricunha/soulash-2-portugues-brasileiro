@@ -84,9 +84,9 @@
   "moveable": {
     "speed": 1.0
   },
-  "name": "Espectro de Osso Queimador Solar",
+  "name": "Espectro Ósseo Queimador Solar",
   "persona": {
-    "occupation": "Queimador Solar"
+    "occupation": "Sun Scorcher"
   },
   "sight": {
     "ignore_infra_penalty": false,

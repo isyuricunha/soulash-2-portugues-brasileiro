@@ -83,9 +83,9 @@
   "moveable": {
     "speed": 1.2999999523162842
   },
-  "name": "Moleiro Goblin",
+  "name": "Goblin Moleiro",
   "persona": {
-    "occupation": "Moleiro"
+    "occupation": "Miller"
   },
   "sight": {
     "ignore_infra_penalty": false,

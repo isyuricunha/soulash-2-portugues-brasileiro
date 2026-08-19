@@ -49,7 +49,7 @@
       {
         "chance": 0.25,
         "id": "310",
-        "name": "Faca de Osso",
+        "name": "faca de osso",
         "stack": 1
       }
     ],
@@ -96,9 +96,9 @@
   "moveable": {
     "speed": 1.0
   },
-  "name": "Esqueleto Caçador",
+  "name": "Caçador Esqueleto",
   "persona": {
-    "occupation": "Caçador"
+    "occupation": "Hunter"
   },
   "sight": {
     "ignore_infra_penalty": false,

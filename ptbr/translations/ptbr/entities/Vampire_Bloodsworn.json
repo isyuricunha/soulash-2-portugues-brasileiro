@@ -48,7 +48,7 @@
       {
         "chance": 1.0,
         "id": "323",
-        "name": "Collant",
+        "name": "Meia-calça",
         "stack": 1
       }
     ],
@@ -105,7 +105,7 @@
   },
   "name": "Vampiro Juramentado de Sangue",
   "persona": {
-    "occupation": "Juramentado de Sangue"
+    "occupation": "Bloodsworn"
   },
   "sight": {
     "ignore_infra_penalty": false,

@@ -10,7 +10,7 @@
     "value",
     "weight"
   ],
-  "description": "Com cuidado suficiente, esta semente crescerá em uma flor de papoula um dia.",
+  "description": "Com cuidado suficiente, esta semente crescerá e se tornará uma flor de papoula um dia.",
   "food": {
     "nutrition": 4,
     "on_eat": "",
@@ -42,5 +42,6 @@
   ],
   "name": "Semente de Papoula",
   "value": 200,
-  "weight": 0.10000000149011612
+  "weight": 0.10000000149011612,
+  "feminine_form": true
 }

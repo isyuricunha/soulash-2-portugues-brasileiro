@@ -87,9 +87,9 @@
   "moveable": {
     "speed": 1.100000023841858
   },
-  "name": "Vampiro Courador",
+  "name": "Vampiro Curtidor",
   "persona": {
-    "occupation": "Courador"
+    "occupation": "Leatherworker"
   },
   "sight": {
     "ignore_infra_penalty": false,

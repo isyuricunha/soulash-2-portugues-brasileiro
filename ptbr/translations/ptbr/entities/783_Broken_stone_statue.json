@@ -24,7 +24,7 @@
     "producer"
   ],
   "corpse": "35",
-  "description": "Estátua feita de pedra, quebrada por algum tipo de impacto forte. Parece antiga.",
+  "description": "Estátua de pedra, quebrada por algum tipo de forte impacto. Parece antiga.",
   "glyph": {
     "frames": [
       {
@@ -71,5 +71,6 @@
       ]
     },
     "time": 10
-  }
+  },
+  "feminine_form": true
 }

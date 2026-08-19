@@ -48,7 +48,7 @@
     "time": 15,
     "tools": []
   },
-  "description": "Parede fria feita de blocos de pedra. É bastante durável. Há uma tocha queimando presa a ela.",
+  "description": "Parede fria feita de blocos de pedra. É bastante durável. Há uma tocha ardente presa a ela.",
   "glyph": {
     "frames": [
       {
@@ -127,5 +127,6 @@
       ]
     },
     "time": 120
-  }
+  },
+  "feminine_form": true
 }

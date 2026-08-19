@@ -24,7 +24,7 @@
     "random_resource"
   ],
   "corpse": [],
-  "description": "Uma bagunça de ramos e folhas. Pode ter oxicocos em breve.",
+  "description": "Um emaranhado de galhos e folhas. Pode ter cranberries em breve.",
   "glyph": {
     "frames": [
       {
@@ -64,7 +64,7 @@
     73,
     73
   ],
-  "name": "Arbusto de Oxicoco Colhido",
+  "name": "Arbusto de Cranberry Colhido",
   "random_resource": {
     "delay_spawn": true,
     "entity": [

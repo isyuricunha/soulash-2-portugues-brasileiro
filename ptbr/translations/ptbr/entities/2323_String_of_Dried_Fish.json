@@ -37,7 +37,7 @@
     "time": 10,
     "tools": []
   },
-  "description": "Um cordão de peixes secos fedidos está pendurado em dois paus.",
+  "description": "Uma fileira de peixes secos fedidos está pendurada em dois paus.",
   "glyph": {
     "frames": [
       {
@@ -77,7 +77,7 @@
     39,
     25
   ],
-  "name": "Cordão de Peixes Secos",
+  "name": "Fileira de Peixes Secos",
   "producer": {
     "products": {
       "core_2_deconstruct": [
@@ -92,5 +92,6 @@
       ]
     },
     "time": 5
-  }
+  },
+  "feminine_form": true
 }

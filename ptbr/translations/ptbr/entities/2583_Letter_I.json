@@ -8,7 +8,7 @@
     "stackable",
     "weight"
   ],
-  "description": "Uma carta antiga que diz:\n\"Aqueles profetas malucos voltaram. Desta vez, dissemos a eles para se perderem. Se querem rezar para algum deus imaginário, podem fazer isso em outro lugar.\"",
+  "description": "Uma carta antiga que diz:\n",
   "glyph": {
     "frames": [
       {
@@ -34,5 +34,6 @@
     137
   ],
   "name": "Carta I",
-  "weight": 0.10000000149011612
+  "weight": 0.10000000149011612,
+  "feminine_form": true
 }

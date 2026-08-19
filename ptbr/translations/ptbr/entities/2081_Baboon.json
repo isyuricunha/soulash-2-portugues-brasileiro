@@ -28,7 +28,7 @@
     "tags"
   ],
   "corpse": "2082",
-  "description": "Bastante robusto para um macaco, lembra você de alguns humanos imaturos.",
+  "description": "Bem pesado para um macaco, lembra alguns humanos imaturos.",
   "dialogues": [
     "890"
   ],
@@ -61,8 +61,8 @@
   },
   "fighter": {
     "attackNames": [
-      "Punch",
-      "Bite"
+      "Soco",
+      "Mordida"
     ]
   },
   "glyph": {

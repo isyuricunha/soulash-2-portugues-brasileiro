@@ -9,7 +9,7 @@
     "producer",
     "weight"
   ],
-  "description": "Um corpo morto de um espinhocorcunda.",
+  "description": "Um corpo morto de um corcunda-espinhoso",
   "glyph": {
     "frames": [
       {
@@ -38,7 +38,7 @@
     128,
     104
   ],
-  "name": "Cadáver de Espinho-Corpo",
+  "name": "Cadáver de Corcunda-Espinhoso",
   "producer": {
     "products": {
       "3": [

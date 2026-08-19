@@ -86,9 +86,9 @@
   "moveable": {
     "speed": 1.2000000476837158
   },
-  "name": "Alfaiate Povo-Cogumelo",
+  "name": "Homem-Cogumelo Alfaiate",
   "persona": {
-    "occupation": "Alfaiate"
+    "occupation": "Tailor"
   },
   "sight": {
     "ignore_infra_penalty": false,

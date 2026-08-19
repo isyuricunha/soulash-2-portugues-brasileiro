@@ -6,7 +6,7 @@
     "health": 0,
     "stamina": 4
   },
-  "description": "Corte profundo na carne do seu inimigo causando ::damage ::damage_type de dano e aplica ::bleed de dano de sangramento ao longo do tempo.",
+  "description": "Corta profundamente a carne do inimigo causando ::damage de dano ::damage_type e aplica ::bleed de dano por sangramento ao longo do tempo.",
   "duration": 0.0,
   "effects": {
     "bleed": 20,

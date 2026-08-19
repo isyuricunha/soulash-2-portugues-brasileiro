@@ -54,7 +54,7 @@
     204,
     187
   ],
-  "name": "Foice de Podar",
+  "name": "Foice de Guerra",
   "value": 2700,
   "weapon": {
     "attack_speed": 1.0,
@@ -72,5 +72,6 @@
     "range": 1,
     "type": 4
   },
-  "weight": 2.5
+  "weight": 2.5,
+  "feminine_form": true
 }

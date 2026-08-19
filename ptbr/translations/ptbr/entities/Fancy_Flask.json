@@ -30,7 +30,7 @@
       14
     ]
   },
-  "description": "Um frasco de vidro para líquidos. Parece élfico.",
+  "description": "Um frasco de vidro para líquido. Parece élfico.",
   "glyph": {
     "frames": [
       {
@@ -59,7 +59,7 @@
     93,
     116
   ],
-  "name": "Frasco Ornado",
+  "name": "Frasco Elegante",
   "value": 2000,
   "weight": 3.0
 }

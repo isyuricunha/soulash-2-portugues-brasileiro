@@ -172,7 +172,7 @@
     "weapon"
   ],
   "corpse": "core_2_Black_Dragon_Corpse",
-  "description": "Uma criatura drakonid enorme espalhando uma aura de destruição e decadência ao seu redor.",
+  "description": "Uma enorme criatura dracônida exalando uma aura de destruição e decomposição ao seu redor.",
   "dialogues": [
     "1040"
   ],
@@ -182,7 +182,7 @@
   },
   "fighter": {
     "attackNames": [
-      "Bite"
+      "Mordida"
     ]
   },
   "glyph": {

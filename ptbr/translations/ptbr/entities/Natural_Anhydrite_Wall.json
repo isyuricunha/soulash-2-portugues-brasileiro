@@ -56,7 +56,7 @@
     235,
     255
   ],
-  "name": "Parede de Anidrita Natural",
+  "name": "Parede Natural de Anidrita",
   "producer": {
     "products": {
       "5": [
@@ -71,5 +71,6 @@
       ]
     },
     "time": 120
-  }
+  },
+  "feminine_form": true
 }

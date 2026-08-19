@@ -23,7 +23,7 @@
     "time": 10,
     "tools": []
   },
-  "description": "Em memória de Rainardrun. Ele era muito rico, mas deixou tudo para seu gato. Então seja gentil com o Sr. Fofinho!",
+  "description": "Em memória de Rainardrun. Ele era muito rico, mas deixou tudo para o seu gato. Então seja gentil com o Sr. Fofinho!",
   "glyph": {
     "frames": [
       {
@@ -84,5 +84,6 @@
       ]
     },
     "time": 10
-  }
+  },
+  "feminine_form": true
 }

@@ -10,7 +10,7 @@
     "value",
     "weight"
   ],
-  "description": "Um punhado de flores comestíveis secas para um lanche.",
+  "description": "Punhado de flores comestíveis secas para um lanche.",
   "food": {
     "nutrition": 5,
     "on_eat": "",
@@ -42,5 +42,6 @@
   ],
   "name": "Flores Comestíveis",
   "value": 100,
-  "weight": 0.009999999776482582
+  "weight": 0.009999999776482582,
+  "feminine_form": true
 }

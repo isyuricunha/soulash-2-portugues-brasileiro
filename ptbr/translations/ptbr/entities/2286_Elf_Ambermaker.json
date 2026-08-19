@@ -68,9 +68,9 @@
   "moveable": {
     "speed": 1.100000023841858
   },
-  "name": "Elfo Âmbar",
+  "name": "Elfo Fabricante de Âmbar",
   "persona": {
-    "occupation": "Âmbar"
+    "occupation": "Ambermaker"
   },
   "sight": {
     "ignore_infra_penalty": false,

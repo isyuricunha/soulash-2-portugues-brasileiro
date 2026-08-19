@@ -37,12 +37,14 @@
   ],
   "name": "Madeira Andante",
   "resource": {
-    "affix": "of Walking",
+    "affix": "da Andante",
     "granted_passive": "core_2_ironblood",
     "magic_ingredient": 5,
     "quality": 5,
-    "type": 7
+    "type": 7,
+    "feminine_affix": "andante"
   },
   "value": 200000,
-  "weight": 0.10000000149011612
+  "weight": 0.10000000149011612,
+  "feminine_form": true
 }

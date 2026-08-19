@@ -44,7 +44,7 @@
       {
         "chance": 1.0,
         "id": "23",
-        "name": "Farrapos",
+        "name": "Trapos",
         "stack": 1
       }
     ]
@@ -83,9 +83,9 @@
   "moveable": {
     "speed": 1.2999999523162842
   },
-  "name": "Goblin Vinicultor",
+  "name": "Vinicultor Goblin",
   "persona": {
-    "occupation": "Vinicultor"
+    "occupation": "Winemaker"
   },
   "sight": {
     "ignore_infra_penalty": false,

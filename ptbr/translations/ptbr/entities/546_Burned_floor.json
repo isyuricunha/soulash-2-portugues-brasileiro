@@ -16,7 +16,7 @@
     "name"
   ],
   "corpse": "30",
-  "description": "Chão de madeira carbonizado",
+  "description": "Piso de madeira carbonizado",
   "glyph": {
     "frames": [
       {
@@ -38,5 +38,5 @@
     6,
     8
   ],
-  "name": "Chão Queimado"
+  "name": "Piso Queimado"
 }

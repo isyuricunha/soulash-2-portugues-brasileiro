@@ -11,7 +11,7 @@
     "weapon",
     "weight"
   ],
-  "description": "Esta pedra grande seria muito pesada para uma pessoa comum carregar.",
+  "description": "Esta pedra grande seria pesada demais para uma pessoa comum carregar.",
   "glyph": {
     "frames": [
       {
@@ -54,7 +54,7 @@
     118,
     68
   ],
-  "name": "Rochas de Arenito",
+  "name": "Pedra de Arenito",
   "producer": {
     "products": {
       "5": [
@@ -87,5 +87,6 @@
     "range": 5,
     "type": 11
   },
-  "weight": 50.0
+  "weight": 50.0,
+  "feminine_form": true
 }

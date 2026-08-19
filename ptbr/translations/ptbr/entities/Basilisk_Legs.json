@@ -33,8 +33,8 @@
   },
   "fighter": {
     "attackNames": [
-      "Kick",
-      "Scratch"
+      "Chute",
+      "Arranhão"
     ]
   },
   "glyph": {
@@ -113,5 +113,6 @@
     "parry_bonus": 0,
     "range": 1,
     "type": 0
-  }
+  },
+  "feminine_form": true
 }

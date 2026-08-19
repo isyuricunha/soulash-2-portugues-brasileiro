@@ -24,7 +24,7 @@
     "weapon",
     "weight"
   ],
-  "description": "Gema azul cristalina, pulsando com uma luz fria e assustadora. Envolvida em uma geada eterna que nunca derrete, ela irradia uma aura gelada, sugando o calor do ar ao seu redor.",
+  "description": "Gema azul cristalina, pulsando com uma luz fria e estranha. Envolvida em uma geada eterna que nunca derrete, irradia uma aura gelada, sugando o calor do ar ao redor.",
   "glyph": {
     "frames": [
       {
@@ -49,12 +49,13 @@
     109,
     155
   ],
-  "name": "Jóia de Gelo",
+  "name": "Joia Gelada",
   "resource": {
-    "affix": "of the Ice Calm",
+    "affix": "da Calma Gelada",
     "magic_ingredient": 4,
     "quality": 4,
-    "type": 7
+    "type": 7,
+    "feminine_affix": "gelada"
   },
   "value": 25000,
   "weapon": {
@@ -73,5 +74,6 @@
     "range": 0,
     "type": 9
   },
-  "weight": 0.10000000149011612
+  "weight": 0.10000000149011612,
+  "feminine_form": true
 }

@@ -66,5 +66,6 @@
   ],
   "name": "Calças Reforçadas",
   "value": 7000,
-  "weight": 2.0
+  "weight": 2.0,
+  "feminine_form": true
 }

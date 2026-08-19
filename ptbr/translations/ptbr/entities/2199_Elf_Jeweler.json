@@ -80,9 +80,9 @@
   "moveable": {
     "speed": 1.100000023841858
   },
-  "name": "Joaileiro Elfo",
+  "name": "Joalheiro Elfo",
   "persona": {
-    "occupation": "Joalheiro"
+    "occupation": "Jeweler"
   },
   "sight": {
     "ignore_infra_penalty": false,

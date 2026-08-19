@@ -30,7 +30,7 @@
     "time": 30,
     "tools": []
   },
-  "description": "Água desce para o lago a partir do teto da caverna rochosa.",
+  "description": "A água despenca até o lago vinda do teto rochoso da caverna.",
   "glyph": {
     "frames": [
       {
@@ -208,5 +208,6 @@
     "only_player_triggers": false,
     "teleport": null,
     "trigger_chance": 1.0
-  }
+  },
+  "feminine_form": true
 }

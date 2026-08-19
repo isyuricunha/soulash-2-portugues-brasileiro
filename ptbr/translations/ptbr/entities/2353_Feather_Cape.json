@@ -70,5 +70,6 @@
   ],
   "name": "Capa de Penas",
   "value": 12000,
-  "weight": 0.5
+  "weight": 0.5,
+  "feminine_form": true
 }

@@ -6,7 +6,7 @@
     "health": 0,
     "stamina": 8
   },
-  "description": "Ataca em forma de T causando ::damage de dano ::damage_type em até 3 alvos.",
+  "description": "Ataque em formato de T causando ::damage ::damage_type de dano a no máximo 3 alvos.",
   "duration": 0.0,
   "effects": {
     "aoe_range": 1,
@@ -21,7 +21,7 @@
   "id": "26",
   "image": 62,
   "level": 3,
-  "name": "Clivar",
+  "name": "Talho",
   "profession": 3,
   "range": 1,
   "requirements": {

@@ -9,7 +9,7 @@
     "value",
     "weight"
   ],
-  "description": "Com cuidado suficiente, esses esporos crescerão em cogumelos brilhantes um dia.",
+  "description": "Com cuidado suficiente, estes esporos crescerão e se tornarão belos cogumelos brilhantes um dia.",
   "glyph": {
     "frames": [
       {
@@ -34,7 +34,7 @@
     90,
     34
   ],
-  "name": "Esporos de Cogumelos Brilhantes",
+  "name": "Esporos de Cogumelo Brilhante",
   "value": 20,
   "weight": 0.10000000149011612
 }

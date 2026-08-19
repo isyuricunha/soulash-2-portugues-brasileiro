@@ -13,7 +13,7 @@
     "weight"
   ],
   "corpse": "865",
-  "description": "Uma tora é uma árvore com galhos cortados. Pode ser muito útil para construir coisas. Você pode ser capaz de produzir alguns pedaços de madeira de álamo a partir dela.",
+  "description": "Um tronco é uma árvore com galhos cortados. Pode ser muito útil para construir coisas. Você pode conseguir produzir alguns pedaços de madeira de choupo a partir dele.",
   "glyph": {
     "frames": [
       {
@@ -39,7 +39,7 @@
     197,
     194
   ],
-  "name": "Tora de Álamo",
+  "name": "Tronco de Choupo",
   "producer": {
     "products": {
       "1": [

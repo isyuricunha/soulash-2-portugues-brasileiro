@@ -24,7 +24,7 @@
       1
     ]
   },
-  "description": "Espada simples, é afiada e bem balanceada.",
+  "description": "Espada simples, é afiada e bem equilibrada.",
   "glyph": {
     "frames": [
       {
@@ -66,5 +66,6 @@
     "range": 1,
     "type": 1
   },
-  "weight": 2.0
+  "weight": 2.0,
+  "feminine_form": true
 }

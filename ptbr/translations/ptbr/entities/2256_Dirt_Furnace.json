@@ -21,7 +21,7 @@
     "time": 300,
     "tools": []
   },
-  "description": "Útil apenas para cozinhar, não pode atingir temperatura alta o suficiente para fundir qualquer coisa dentro.",
+  "description": "Útil apenas para cozinhar, não atinge temperatura alta o suficiente para fundir nada lá dentro.",
   "glyph": {
     "frames": [
       {
@@ -57,7 +57,7 @@
     83,
     92
   ],
-  "name": "Forno de Terra",
+  "name": "Fornalha de Terra",
   "producer": {
     "products": {
       "core_2_deconstruct": [
@@ -82,5 +82,6 @@
       "id": 10,
       "quality": 10
     }
-  ]
+  ],
+  "feminine_form": true
 }

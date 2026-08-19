@@ -56,7 +56,7 @@
     48,
     66
   ],
-  "name": "Parede de Granito Natural",
+  "name": "Parede Natural de Granito",
   "producer": {
     "products": {
       "5": [
@@ -71,5 +71,6 @@
       ]
     },
     "time": 120
-  }
+  },
+  "feminine_form": true
 }

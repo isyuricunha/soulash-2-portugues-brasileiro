@@ -10,7 +10,7 @@
     "value",
     "weight"
   ],
-  "description": "Corpo de mutante morto.",
+  "description": "Corpo morto de um mutante.",
   "glyph": {
     "frames": [
       {
@@ -39,7 +39,7 @@
     154,
     20
   ],
-  "name": "Cadáver de Mutante",
+  "name": "Cadáver Mutante",
   "producer": {
     "products": {
       "3": [

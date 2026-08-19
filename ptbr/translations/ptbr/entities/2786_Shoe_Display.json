@@ -36,7 +36,7 @@
     "time": 30,
     "tools": []
   },
-  "description": "Uma exibição de sapatos bonitos e confortáveis.",
+  "description": "Uma vitrine de sapatos bonitos e confortáveis.",
   "glyph": {
     "frames": [
       {
@@ -68,5 +68,6 @@
     48,
     17
   ],
-  "name": "Exibição de Sapatos"
+  "name": "Vitrine de Sapatos",
+  "feminine_form": true
 }

@@ -9,7 +9,7 @@
     "value",
     "weight"
   ],
-  "description": "Crescerá em grandes ervas medicinais um dia.",
+  "description": "Crescerá e se tornará grandes ervas curativas um dia.",
   "glyph": {
     "frames": [
       {
@@ -34,7 +34,8 @@
     73,
     73
   ],
-  "name": "Semente de Erva Medicinal",
+  "name": "Semente de Erva Curativa",
   "value": 6000,
-  "weight": 0.019999999552965164
+  "weight": 0.019999999552965164,
+  "feminine_form": true
 }

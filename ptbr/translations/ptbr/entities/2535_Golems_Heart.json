@@ -11,7 +11,7 @@
     "value",
     "weight"
   ],
-  "description": "Criado por artesãos habilidosos e infundido com energia arcana, o coração de golem é o núcleo que dá ao golem sua consciência e força.",
+  "description": "Forjado por artífices habilidosos e infundido com energia arcana, o coração do golem é o núcleo que concede ao golem sua senciência e força.",
   "glyph": {
     "frames": [
       {
@@ -36,12 +36,13 @@
     109,
     155
   ],
-  "name": "Coração de Golem",
+  "name": "Coração do Golem",
   "resource": {
-    "affix": "of the Servant",
+    "affix": "do Servo",
     "magic_ingredient": 3,
     "quality": 3,
-    "type": 7
+    "type": 7,
+    "feminine_affix": "da Serva"
   },
   "statistics": {
     "dexterity": [

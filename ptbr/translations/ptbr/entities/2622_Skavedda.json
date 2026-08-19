@@ -28,7 +28,7 @@
     "tags"
   ],
   "corpse": "2639",
-  "description": "Skavedda tem pele verde como um orc, mas é alto e magro. Os machos têm chifres enormes em suas cabeças, que são seu orgulho.",
+  "description": "O Skavedda tem a pele verde como a de um orc, mas é alto e esguio. Os machos têm chifres enormes na cabeça, que são seu orgulho.",
   "dialogues": [],
   "equipment": {
     "left_hand": [
@@ -51,7 +51,7 @@
       {
         "chance": 1.0,
         "id": "77",
-        "name": "Espada Curta",
+        "name": "espada curta",
         "stack": 1
       }
     ],

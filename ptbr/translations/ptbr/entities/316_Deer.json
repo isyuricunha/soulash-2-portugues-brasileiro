@@ -42,7 +42,7 @@
     "tags"
   ],
   "corpse": "317",
-  "description": "Um veado marrom com uma cauda branca. Os chifres saindo de sua cabeça indicam que é um macho.",
+  "description": "Um cervo marrom com cauda branca. A galhada saindo de sua cabeça indica que é um macho.",
   "dialogues": [
     "2",
     "346",
@@ -99,7 +99,7 @@
   "moveable": {
     "speed": 0.8999999761581421
   },
-  "name": "Veado",
+  "name": "Cervo",
   "sight": {
     "ignore_infra_penalty": false,
     "infravision": false,

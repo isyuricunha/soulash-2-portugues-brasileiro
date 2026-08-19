@@ -23,7 +23,7 @@
     "position_2d"
   ],
   "corpse": [],
-  "description": "Esta escultura tem tantos detalhes que parece quase uma fênix real congelada viva.",
+  "description": "Esta escultura possui tantos detalhes que parece quase uma fênix verdadeira congelada viva.",
   "glyph": {
     "frames": [
       {
@@ -46,5 +46,6 @@
     80,
     80
   ],
-  "name": "Fênix de Gelo"
+  "name": "Fênix de Gelo",
+  "feminine_form": true
 }

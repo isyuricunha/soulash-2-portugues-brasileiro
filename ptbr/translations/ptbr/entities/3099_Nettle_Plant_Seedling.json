@@ -52,7 +52,7 @@
     204,
     255
   ],
-  "name": "Muda de Urtiga",
+  "name": "Muda de Planta de Urtiga",
   "random_resource": {
     "delay_spawn": true,
     "entity": [
@@ -70,5 +70,6 @@
     "spawn_chance": 100.0,
     "spawn_multiply": 0.0,
     "spawn_rolls": 1
-  }
+  },
+  "feminine_form": true
 }

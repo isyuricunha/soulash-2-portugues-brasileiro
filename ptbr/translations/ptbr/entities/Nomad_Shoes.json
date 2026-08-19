@@ -22,7 +22,7 @@
     "value",
     "weight"
   ],
-  "description": "Botas fortes e leves usadas por nômades do deserto.",
+  "description": "Botas resistentes, porém leves, usadas por nômades do deserto.",
   "glyph": {
     "frames": [
       {
@@ -50,7 +50,7 @@
   "moveable": {
     "speed": -0.10000000149011612
   },
-  "name": "Sapatos Nômades",
+  "name": "Sapatos de Nômade",
   "value": 16000,
   "weight": 0.10000000149011612
 }

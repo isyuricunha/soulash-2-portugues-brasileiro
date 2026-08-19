@@ -19,7 +19,7 @@
     "name",
     "position_2d"
   ],
-  "description": "Restos de metal retorcidos e afiados, quase inutilizáveis.",
+  "description": "Retalhos de metal torcidos e afiados, quase inutilizáveis.",
   "glyph": {
     "frames": [
       {
@@ -40,5 +40,5 @@
     48,
     17
   ],
-  "name": "Sucata de Metal"
+  "name": "Retalhos de Metal"
 }

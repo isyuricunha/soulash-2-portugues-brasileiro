@@ -36,12 +36,13 @@
     175,
     158
   ],
-  "name": "Dentes de Tatu",
+  "name": "Dentes de Tuco-tuco",
   "resource": {
-    "affix": "Wild",
+    "affix": "Selvagem",
     "magic_ingredient": 0,
     "quality": 1,
-    "type": 5
+    "type": 5,
+    "feminine_affix": "Selvagem"
   },
   "value": 200,
   "weapon": {

@@ -49,7 +49,7 @@
       {
         "chance": 1.0,
         "id": "183",
-        "name": "Túnica",
+        "name": "Veste",
         "stack": 1
       }
     ]
@@ -90,7 +90,7 @@
   },
   "name": "Carpinteiro Humano",
   "persona": {
-    "occupation": "Carpinteiro"
+    "occupation": "Carpenter"
   },
   "sight": {
     "ignore_infra_penalty": false,

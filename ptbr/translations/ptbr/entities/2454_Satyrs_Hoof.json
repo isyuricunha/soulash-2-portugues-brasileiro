@@ -24,7 +24,7 @@
     "weapon",
     "weight"
   ],
-  "description": "Um casco retorcido e robusto, reminiscente da natureza selvagem e travessa dos sátiros. Este casco exibe uma textura rústica, com tons de marrom escuro e terrosos.",
+  "description": "Um casco torcido e robusto, que remete à natureza selvagem e travessa dos sátiros. Este casco exibe uma textura rústica, com tons de marrom escuro e terrosos.",
   "glyph": {
     "frames": [
       {
@@ -51,10 +51,11 @@
   ],
   "name": "Casco de Sátiro",
   "resource": {
-    "affix": "Feral",
+    "affix": "Selvagem",
     "magic_ingredient": 0,
     "quality": 3,
-    "type": 5
+    "type": 5,
+    "feminine_affix": "Selvagem"
   },
   "value": 1800,
   "weapon": {

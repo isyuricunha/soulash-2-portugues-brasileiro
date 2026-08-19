@@ -84,9 +84,9 @@
   "moveable": {
     "speed": 1.100000023841858
   },
-  "name": "Silvicultor Reptilion",
+  "name": "Florestal Reptilion",
   "persona": {
-    "occupation": "Guarda Florestal"
+    "occupation": "Forester"
   },
   "sight": {
     "ignore_infra_penalty": false,

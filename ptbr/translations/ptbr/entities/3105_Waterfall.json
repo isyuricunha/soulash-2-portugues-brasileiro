@@ -30,7 +30,7 @@
     "time": 30,
     "tools": []
   },
-  "description": "A água desce para o lago de um penhasco rochoso.",
+  "description": "A água despenca até o lago a partir de uma borda rochosa.",
   "glyph": {
     "frames": [
       {
@@ -208,5 +208,6 @@
     "only_player_triggers": false,
     "teleport": null,
     "trigger_chance": 1.0
-  }
+  },
+  "feminine_form": true
 }

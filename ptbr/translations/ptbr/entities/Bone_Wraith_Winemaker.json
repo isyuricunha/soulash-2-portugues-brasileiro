@@ -78,9 +78,9 @@
   "moveable": {
     "speed": 1.0
   },
-  "name": "Espectro de Osso Vinicultor",
+  "name": "Vinicultor Espectro de Osso",
   "persona": {
-    "occupation": "Vinicultor"
+    "occupation": "Winemaker"
   },
   "sight": {
     "ignore_infra_penalty": false,

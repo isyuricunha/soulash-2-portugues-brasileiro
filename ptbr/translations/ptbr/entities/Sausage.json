@@ -10,7 +10,7 @@
     "value",
     "weight"
   ],
-  "description": "Linguiça deliciosa assada sobre o fogo. Não pergunte que tipo de carne tem dentro.",
+  "description": "Linguiça deliciosa assada na fogueira. Não pergunte que tipo de carne tem dentro.",
   "food": {
     "nutrition": 20,
     "on_eat": "",
@@ -42,5 +42,6 @@
   ],
   "name": "Linguiça",
   "value": 200,
-  "weight": 0.20000000298023224
+  "weight": 0.20000000298023224,
+  "feminine_form": true
 }

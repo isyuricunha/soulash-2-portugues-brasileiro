@@ -11,7 +11,7 @@
     "weapon",
     "weight"
   ],
-  "description": "Uma gema cintilante nascida de reinos frígidos, cristalizando a essência do gelo e do frio. Este cristal requintado irradia um brilho azul gelado, contendo dentro de si o poder bruto da geada.",
+  "description": "Uma gema cintilante nascida de reinos gelados, cristalizando a essência do gelo e do frio. Este cristal exala um brilho azul gelado, contendo em seu interior o poder bruto da geada.",
   "glyph": {
     "frames": [
       {
@@ -36,12 +36,13 @@
     109,
     155
   ],
-  "name": "Cristal de Troll de Gelo",
+  "name": "Cristal de Troll da Geada",
   "resource": {
-    "affix": "of the Frozen Waste",
+    "affix": "do Ermo Congelado",
     "magic_ingredient": 2,
     "quality": 2,
-    "type": 7
+    "type": 7,
+    "feminine_affix": "da Terra Gelada"
   },
   "value": 0,
   "weapon": {

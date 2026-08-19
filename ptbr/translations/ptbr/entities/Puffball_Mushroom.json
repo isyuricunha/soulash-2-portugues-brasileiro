@@ -10,7 +10,7 @@
     "value",
     "weight"
   ],
-  "description": "Um cogumelo selvagem branco.",
+  "description": "Um cogumelo branco selvagem.",
   "food": {
     "nutrition": 25,
     "on_eat": "",

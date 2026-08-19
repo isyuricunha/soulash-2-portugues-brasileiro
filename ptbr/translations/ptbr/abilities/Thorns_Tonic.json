@@ -6,7 +6,7 @@
     "health": 0,
     "stamina": 0
   },
-  "description": "Esta poção te dá ::thorns espinhos por ::duration turnos.",
+  "description": "Esta poção concede ::thorns espinhos por ::duration turnos.",
   "duration": 50.0,
   "effects": {
     "thorns": 12

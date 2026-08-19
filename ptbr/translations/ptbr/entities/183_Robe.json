@@ -35,7 +35,7 @@
       12
     ]
   },
-  "description": "Veste ricamente decorada feita para algum mago.",
+  "description": "Manto ricamente decorado feito para algum mago.",
   "glyph": {
     "frames": [
       {
@@ -60,7 +60,7 @@
     207,
     224
   ],
-  "name": "Túnica",
+  "name": "Manto",
   "value": 2000,
   "weight": 0.699999988079071
 }

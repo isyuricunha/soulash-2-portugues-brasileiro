@@ -31,7 +31,7 @@
       6
     ]
   },
-  "description": "Chão feito de placas de calcário.",
+  "description": "Piso feito de placas de calcário.",
   "glyph": {
     "frames": [
       {
@@ -52,5 +52,5 @@
     114,
     127
   ],
-  "name": "Chão de Calcário"
+  "name": "Piso de Calcário"
 }

@@ -48,7 +48,7 @@
       {
         "chance": 1.0,
         "id": "23",
-        "name": "Farrapos",
+        "name": "Farrap",
         "stack": 1
       }
     ]
@@ -87,9 +87,9 @@
   "moveable": {
     "speed": 1.2999999523162842
   },
-  "name": "Sapateiro Povo-Cogumelo",
+  "name": "Homem-Cogumelo Sapateiro",
   "persona": {
-    "occupation": "Sapateiro"
+    "occupation": "Shoemaker"
   },
   "sight": {
     "ignore_infra_penalty": false,

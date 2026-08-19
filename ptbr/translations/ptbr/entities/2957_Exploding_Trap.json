@@ -35,7 +35,7 @@
     "duration": 0.0,
     "tick": 0.0
   },
-  "description": "Mecanismo intrincado que explode uma vez acionado.",
+  "description": "Mecanismo intrincado que explode quando acionado.",
   "glyph": {
     "frames": [
       {
@@ -64,5 +64,6 @@
     "only_player_triggers": false,
     "teleport": null,
     "trigger_chance": 1.0
-  }
+  },
+  "feminine_form": true
 }

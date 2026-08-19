@@ -34,7 +34,7 @@
       15
     ]
   },
-  "description": "Esta bandagem é útil para acelerar a regeneração de vida e é ligeiramente melhor que uma comum.",
+  "description": "Esta bandagem é útil para acelerar a regeneração de vida e ligeiramente melhor que uma comum.",
   "glyph": {
     "frames": [
       {
@@ -59,11 +59,12 @@
     128,
     128
   ],
-  "name": "Bandagem Melhorada",
+  "name": "Bandagem Melhor",
   "usable": {
     "ability": "core_2_Better_Bandage",
     "recipe": ""
   },
   "value": 700,
-  "weight": 0.10000000149011612
+  "weight": 0.10000000149011612,
+  "feminine_form": true
 }

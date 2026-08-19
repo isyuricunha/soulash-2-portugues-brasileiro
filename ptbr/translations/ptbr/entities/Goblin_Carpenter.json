@@ -92,7 +92,7 @@
   },
   "name": "Goblin Carpinteiro",
   "persona": {
-    "occupation": "Carpinteiro"
+    "occupation": "Carpenter"
   },
   "sight": {
     "ignore_infra_penalty": false,

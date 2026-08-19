@@ -40,13 +40,13 @@
     "weapon"
   ],
   "corpse": [],
-  "description": "Um gigante robusto com duas cabeças. Parece estar em uma discussão perpétua consigo mesmo.",
+  "description": "Um gigante descomunal com duas cabeças. Parece estar em uma discussão perpétua consigo mesmo.",
   "equipment": {
     "left_hand": [
       {
         "chance": 1.0,
         "id": "2089",
-        "name": "Martelo Faíscante",
+        "name": "Martelo de Faísca",
         "stack": 1
       }
     ]
@@ -57,7 +57,7 @@
   },
   "fighter": {
     "attackNames": [
-      "Slam"
+      "Impacto"
     ]
   },
   "glyph": {

@@ -9,7 +9,7 @@
     "value",
     "weight"
   ],
-  "description": "Crescerá em uma melancia um dia.",
+  "description": "Um dia crescerá e se tornará uma melancia.",
   "glyph": {
     "frames": [
       {
@@ -36,5 +36,6 @@
   ],
   "name": "Semente de Melancia",
   "value": 150,
-  "weight": 0.019999999552965164
+  "weight": 0.019999999552965164,
+  "feminine_form": true
 }

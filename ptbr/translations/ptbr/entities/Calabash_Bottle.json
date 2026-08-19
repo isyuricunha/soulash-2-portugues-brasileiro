@@ -45,5 +45,6 @@
   ],
   "name": "Garrafa de Cabaça",
   "value": 600,
-  "weight": 0.5
+  "weight": 0.5,
+  "feminine_form": true
 }

@@ -24,7 +24,7 @@
     "weapon",
     "weight"
   ],
-  "description": "Marcado com sua textura manchada distintiva, este couro oferece tanto durabilidade quanto um toque de exotismo, tornando-o um material de escolha para criações chamativas.",
+  "description": "Marcado por sua textura manchada única, este couro oferece durabilidade e um toque exótico, tornando-o um material ideal para criações chamativas.",
   "glyph": {
     "frames": [
       {
@@ -51,10 +51,11 @@
   ],
   "name": "Couro de Hiena",
   "resource": {
-    "affix": "Quick",
+    "affix": "Rápido",
     "magic_ingredient": 0,
     "quality": 2,
-    "type": 2
+    "type": 2,
+    "feminine_affix": "Rápida"
   },
   "value": 1100,
   "weapon": {

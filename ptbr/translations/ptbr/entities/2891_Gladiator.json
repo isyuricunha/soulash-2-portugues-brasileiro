@@ -33,7 +33,7 @@
     "tags"
   ],
   "corpse": "25",
-  "description": "Grande guerreiro vivendo por um espetáculo.",
+  "description": "Grande guerreiro que vive para o espetáculo.",
   "dialogues": [
     "208",
     "209"
@@ -43,7 +43,7 @@
       {
         "chance": 0.33000001311302185,
         "id": "169",
-        "name": "Capacete",
+        "name": "Elmo",
         "stack": 1
       }
     ],
@@ -59,7 +59,7 @@
       {
         "chance": 0.0,
         "id": "2176",
-        "name": "Tanga",
+        "name": "Tapa-sexo",
         "stack": 1
       }
     ],

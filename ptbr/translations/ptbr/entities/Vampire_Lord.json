@@ -107,9 +107,9 @@
   "moveable": {
     "speed": 0.300000011920929
   },
-  "name": "Vampiro Lorde",
+  "name": "Lorde Vampiro",
   "persona": {
-    "occupation": "Lorde"
+    "occupation": "Lord"
   },
   "sight": {
     "ignore_infra_penalty": true,

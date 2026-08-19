@@ -24,7 +24,7 @@
     "random_resource"
   ],
   "corpse": [],
-  "description": "Um pequeno arbusto com folhas grossas. Pode ter amoras em breve.",
+  "description": "Um pequeno arbusto com folhas grossas. Pode ter uvas-ursinas em breve.",
   "glyph": {
     "frames": [
       {
@@ -64,7 +64,7 @@
     109,
     155
   ],
-  "name": "Arbusto de Amora Colhido",
+  "name": "Arbusto de Uva-ursina Colhido",
   "random_resource": {
     "delay_spawn": true,
     "entity": [

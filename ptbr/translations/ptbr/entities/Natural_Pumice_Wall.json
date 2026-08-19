@@ -33,7 +33,7 @@
     "producer"
   ],
   "corpse": "2025",
-  "description": "Pedra-pomes natural, pronta para mineração.",
+  "description": "Pomice natural, pronta para mineração.",
   "glyph": {
     "frames": [
       {
@@ -56,7 +56,7 @@
     48,
     66
   ],
-  "name": "Parede de Pedra-Pomes Natural",
+  "name": "Parede de Pomice Natural",
   "producer": {
     "products": {
       "5": [
@@ -71,5 +71,6 @@
       ]
     },
     "time": 120
-  }
+  },
+  "feminine_form": true
 }

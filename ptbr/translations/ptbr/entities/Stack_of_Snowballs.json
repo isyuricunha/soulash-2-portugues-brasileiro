@@ -21,7 +21,7 @@
     "position_2d"
   ],
   "corpse": [],
-  "description": "Uma pilha arrumada de bolas de neve redondas.",
+  "description": "Uma pilha organizada de bolas de neve redondas.",
   "glyph": {
     "frames": [
       {
@@ -43,5 +43,6 @@
     48,
     17
   ],
-  "name": "Pilha de Bolas de Neve"
+  "name": "Pilha de Bolas de Neve",
+  "feminine_form": true
 }

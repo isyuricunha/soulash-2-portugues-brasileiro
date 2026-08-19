@@ -1,0 +1,59 @@
+{
+  "components": [
+    "collidable",
+    "glyph",
+    "health",
+    "height",
+    "minimap_pixel",
+    "name",
+    "position_2d",
+    "producer",
+    "tool"
+  ],
+  "corpse": "704",
+  "description": "Um altar feito para sacrifícios, com antigas manchas de sangue ainda nele.",
+  "glyph": {
+    "frames": [
+      {
+        "color": [
+          255,
+          255,
+          255
+        ],
+        "delay": 0,
+        "index": 3381
+      }
+    ],
+    "random_frame_start": false
+  },
+  "health": 150,
+  "height": 0,
+  "id": "core_2_Sacrifitial_Altar",
+  "minimap_pixel": [
+    220,
+    220,
+    220
+  ],
+  "name": "Altar Sacrificial",
+  "producer": {
+    "products": {
+      "core_2_deconstruct": [
+        {
+          "amount": [
+            0,
+            0
+          ],
+          "id": "",
+          "percent_chance": 0
+        }
+      ]
+    },
+    "time": 30
+  },
+  "tool": [
+    {
+      "id": 1,
+      "quality": 10
+    }
+  ]
+}

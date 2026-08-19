@@ -41,7 +41,7 @@
       14
     ]
   },
-  "description": "Botas robustas com fragmentos de osso em suas solas para aderência extra.",
+  "description": "Botas resistentes com fragmentos de osso nas solas para aderência extra.",
   "glyph": {
     "frames": [
       {
@@ -66,7 +66,8 @@
     93,
     57
   ],
-  "name": "Botinas com Tachas",
+  "name": "Botas Pregadas",
   "value": 5000,
-  "weight": 2.5
+  "weight": 2.5,
+  "feminine_form": true
 }

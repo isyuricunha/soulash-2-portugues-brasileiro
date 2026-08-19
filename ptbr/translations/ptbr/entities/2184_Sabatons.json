@@ -60,7 +60,8 @@
     74,
     68
   ],
-  "name": "Sapatões",
+  "name": "Sabatonas",
   "value": 800,
-  "weight": 2.0
+  "weight": 2.0,
+  "feminine_form": true
 }

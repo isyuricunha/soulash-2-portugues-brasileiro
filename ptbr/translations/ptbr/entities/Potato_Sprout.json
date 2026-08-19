@@ -9,7 +9,7 @@
     "value",
     "weight"
   ],
-  "description": "Com cuidado suficiente, este broto crescerá em batatas deliciosas um dia.",
+  "description": "Com bastante cuidado, esta muda crescerá e se tornará batatas deliciosas um dia.",
   "glyph": {
     "frames": [
       {
@@ -34,7 +34,8 @@
     145,
     33
   ],
-  "name": "Brotos de Batata",
+  "name": "Muda de Batata",
   "value": 100,
-  "weight": 0.10000000149011612
+  "weight": 0.10000000149011612,
+  "feminine_form": true
 }

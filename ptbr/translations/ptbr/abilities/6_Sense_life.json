@@ -6,7 +6,7 @@
     "health": 0,
     "stamina": 1
   },
-  "description": "Veja a presença de todos os seres vivos em um raio de ::range células ao seu redor.",
+  "description": "Vê a presença de todos os seres vivos em um raio de ::range tiles ao seu redor.",
   "duration": 0.0,
   "effects_keys": {
     "sense": "9"

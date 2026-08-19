@@ -6,14 +6,14 @@
     "health": 0,
     "stamina": 10
   },
-  "description": "Você deflete habilidades à distância de volta ao atacante. Dura ::duration turnos.",
+  "description": "Você desvia habilidades à distância de volta ao atacante. Dura ::duration turnos.",
   "duration": 2.0,
   "effects": {
     "magic_deflection": 1
   },
   "id": "182",
   "image": 13,
-  "name": "Deflexão Mágica",
+  "name": "Desvio Mágico",
   "range": 0,
   "skill": "core_2_protection",
   "slots": {

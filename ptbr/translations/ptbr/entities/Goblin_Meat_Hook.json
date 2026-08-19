@@ -46,7 +46,7 @@
       {
         "chance": 1.0,
         "id": "core_2_Billhook",
-        "name": "Foice de Podar",
+        "name": "Foice de Guerra",
         "stack": 1
       }
     ],
@@ -93,9 +93,9 @@
   "moveable": {
     "speed": 0.8999999761581421
   },
-  "name": "Gancho de Carne Goblin",
+  "name": "Goblin Gancho de Carne",
   "persona": {
-    "occupation": "Gancho de Carne"
+    "occupation": "Meat Hook"
   },
   "sight": {
     "ignore_infra_penalty": false,

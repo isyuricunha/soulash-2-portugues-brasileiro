@@ -26,7 +26,7 @@
       8
     ]
   },
-  "description": "Grão de cevada moído é um ingrediente importante para assar.",
+  "description": "O grão de cevada moído é um ingrediente importante para panificação.",
   "food": {
     "nutrition": 1,
     "on_eat": "",
@@ -58,5 +58,6 @@
   ],
   "name": "Farinha de Cevada",
   "value": 200,
-  "weight": 0.009999999776482582
+  "weight": 0.009999999776482582,
+  "feminine_form": true
 }

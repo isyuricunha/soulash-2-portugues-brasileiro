@@ -43,8 +43,8 @@
   },
   "fighter": {
     "attackNames": [
-      "Bite",
-      "Scrach"
+      "Mordida",
+      "Arranhão"
     ]
   },
   "glyph": {
@@ -71,7 +71,7 @@
   "moveable": {
     "speed": 0.8999999761581421
   },
-  "name": "Vívere",
+  "name": "Vívera",
   "sight": {
     "ignore_infra_penalty": false,
     "infravision": true,
@@ -104,5 +104,6 @@
     "3",
     "17",
     "38"
-  ]
+  ],
+  "feminine_form": true
 }

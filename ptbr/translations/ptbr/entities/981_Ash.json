@@ -14,7 +14,7 @@
     "minimap_pixel",
     "name"
   ],
-  "description": "Tudo o que já esteve aqui agora está queimado até virar nada.",
+  "description": "Tudo o que um dia esteve aqui agora jaz queimado até o nada.",
   "glyph": {
     "frames": [
       {
@@ -44,5 +44,6 @@
     70,
     70
   ],
-  "name": "Cinzas"
+  "name": "Cinza",
+  "feminine_form": true
 }

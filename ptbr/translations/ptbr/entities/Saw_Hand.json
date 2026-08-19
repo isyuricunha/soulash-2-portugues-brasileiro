@@ -30,7 +30,7 @@
       1
     ]
   },
-  "description": "Mão de um golem equipada com uma serra grande.",
+  "description": "Uma mão de golem equipada com uma serra grande.",
   "glyph": {
     "frames": [
       {
@@ -55,7 +55,7 @@
     160,
     161
   ],
-  "name": "Mão Serra",
+  "name": "Mão de Serra",
   "tool": [
     {
       "id": 13,
@@ -79,5 +79,6 @@
     "range": 1,
     "type": 0
   },
-  "weight": 2.5
+  "weight": 2.5,
+  "feminine_form": true
 }

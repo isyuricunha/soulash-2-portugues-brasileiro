@@ -68,5 +68,6 @@
   ],
   "name": "Coroa de Pedra",
   "value": 500,
-  "weight": 3.0
+  "weight": 3.0,
+  "feminine_form": true
 }

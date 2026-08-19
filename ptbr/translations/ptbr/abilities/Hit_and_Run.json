@@ -6,7 +6,7 @@
     "health": 0,
     "stamina": 4
   },
-  "description": "Execute um ataque de estocada em um oponente próximo que causa ::damage ::damage_type de dano e move você um passo para trás.",
+  "description": "Realize um ataque de estocada em oponente pr�ximo que causa ::damage ::damage_type de dano, e o move um passo para tr�s.",
   "duration": 0.0,
   "effects": {
     "damage": [
@@ -19,7 +19,7 @@
   },
   "id": "177",
   "image": 711,
-  "name": "Bater e Correr",
+  "name": "Ataque e Fuga",
   "range": 1,
   "requirements": {
     "one_of": [

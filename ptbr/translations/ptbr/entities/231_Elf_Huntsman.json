@@ -40,7 +40,7 @@
       {
         "chance": 1.0,
         "id": "194",
-        "name": "Flecha",
+        "name": "Tesoura",
         "stack": 15
       }
     ],
@@ -95,7 +95,7 @@
   },
   "name": "Elfo Caçador",
   "persona": {
-    "occupation": "Caçador"
+    "occupation": "Huntsman"
   },
   "sight": {
     "ignore_infra_penalty": false,

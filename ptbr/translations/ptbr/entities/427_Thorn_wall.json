@@ -52,7 +52,7 @@
     "time": 40,
     "tools": []
   },
-  "description": "Parede espessa feita de espinhos entrelaçados.",
+  "description": "Parede grossa feita de espinhos entrelaçados.",
   "glyph": {
     "frames": [
       {
@@ -90,5 +90,6 @@
       ]
     },
     "time": 30
-  }
+  },
+  "feminine_form": true
 }

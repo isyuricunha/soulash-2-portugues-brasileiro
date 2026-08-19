@@ -10,7 +10,7 @@
     "value",
     "weight"
   ],
-  "description": "Pequena e delicada flor de algodão.",
+  "description": "Flor de algodão pequena e delicada.",
   "glyph": {
     "frames": [
       {
@@ -43,5 +43,6 @@
     "type": 12
   },
   "value": 200,
-  "weight": 0.10000000149011612
+  "weight": 0.10000000149011612,
+  "feminine_form": true
 }

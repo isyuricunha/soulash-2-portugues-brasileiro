@@ -58,7 +58,7 @@
       {
         "chance": 1.0,
         "id": "339",
-        "name": "Cajado da Bruxa",
+        "name": "Cajado de Bruxa",
         "stack": 1
       }
     ],
@@ -144,5 +144,6 @@
   "tags": [
     "1",
     "9"
-  ]
+  ],
+  "feminine_form": true
 }

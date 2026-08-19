@@ -9,7 +9,7 @@
     "value",
     "weight"
   ],
-  "description": "Com cuidado suficiente, esta semente crescerá em uma forte árvore candelabro.",
+  "description": "Com cuidado suficiente, esta semente crescerá e se tornará uma candelária forte.",
   "glyph": {
     "frames": [
       {
@@ -34,7 +34,8 @@
     145,
     33
   ],
-  "name": "Semente de Árvore Candelabro",
+  "name": "Semente de Candelária",
   "value": 100,
-  "weight": 0.10000000149011612
+  "weight": 0.10000000149011612,
+  "feminine_form": true
 }

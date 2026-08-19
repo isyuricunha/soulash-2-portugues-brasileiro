@@ -31,7 +31,7 @@
       "id": "-1"
     }
   ],
-  "description": "Uma simples viga de madeira que pode sustentar um telhado.",
+  "description": "Uma viga de madeira simples que pode sustentar um telhado.",
   "glyph": {
     "frames": [
       {
@@ -53,5 +53,6 @@
     78,
     14
   ],
-  "name": "Viga de Madeira"
+  "name": "Viga de Madeira",
+  "feminine_form": true
 }

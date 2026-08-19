@@ -37,7 +37,7 @@
       12
     ]
   },
-  "description": "Calças soltas de material, muito confortáveis.",
+  "description": "Calças de tecido solto, muito confortáveis.",
   "glyph": {
     "frames": [
       {
@@ -64,5 +64,6 @@
   ],
   "name": "Calças",
   "value": 1500,
-  "weight": 0.5
+  "weight": 0.5,
+  "feminine_form": true
 }

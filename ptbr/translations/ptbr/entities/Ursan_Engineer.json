@@ -39,7 +39,7 @@
       {
         "chance": 1.0,
         "id": "193",
-        "name": "Luvas de Couro",
+        "name": "Avental de Couro",
         "stack": 1
       }
     ],
@@ -102,9 +102,9 @@
   "moveable": {
     "speed": 1.100000023841858
   },
-  "name": "Engenheiro Ursan",
+  "name": "Engenheiro Ursano",
   "persona": {
-    "occupation": "Engenheiro"
+    "occupation": "Engineer"
   },
   "sight": {
     "ignore_infra_penalty": false,

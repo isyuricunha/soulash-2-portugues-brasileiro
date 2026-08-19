@@ -78,9 +78,9 @@
   "moveable": {
     "speed": 1.2000000476837158
   },
-  "name": "Fazendeiro de Micélio Mushman",
+  "name": "Agricultor de Micélio Homem-Cogumelo",
   "persona": {
-    "occupation": "Fazendeiro de Micélio"
+    "occupation": "Mycelium Farmer"
   },
   "sight": {
     "ignore_infra_penalty": false,

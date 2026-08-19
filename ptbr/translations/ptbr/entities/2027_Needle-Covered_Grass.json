@@ -34,7 +34,7 @@
       "id": "613"
     }
   ],
-  "description": "Mancha de grama coberta com agulhas de árvore.",
+  "description": "Trecho de grama coberto com agulhas de árvore.",
   "glyph": {
     "frames": [
       {
@@ -100,5 +100,6 @@
     "spawn_chance": 2.0,
     "spawn_multiply": 20.0,
     "spawn_rolls": 1
-  }
+  },
+  "feminine_form": true
 }

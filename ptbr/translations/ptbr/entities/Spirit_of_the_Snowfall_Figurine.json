@@ -31,7 +31,7 @@
       15
     ]
   },
-  "description": "Uma figurinha delicada dançando na nevasca.",
+  "description": "Uma figurina delicada dançando na nevasca.",
   "glyph": {
     "frames": [
       {
@@ -56,12 +56,13 @@
     109,
     155
   ],
-  "name": "Espírito da Figurinha da Nevasca",
+  "name": "Estatueta do Espírito da Nevasca",
   "resource": {
-    "affix": "of the Snowfall",
+    "affix": "da Nevasca",
     "magic_ingredient": 4,
     "quality": 4,
-    "type": 7
+    "type": 7,
+    "feminine_affix": "nevada"
   },
   "value": 10000,
   "weapon": {
@@ -80,5 +81,6 @@
     "range": 0,
     "type": 9
   },
-  "weight": 0.10000000149011612
+  "weight": 0.10000000149011612,
+  "feminine_form": true
 }

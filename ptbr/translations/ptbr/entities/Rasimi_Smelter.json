@@ -71,9 +71,9 @@
   "moveable": {
     "speed": 1.0
   },
-  "name": "Rasimi Fundidor",
+  "name": "Fundidor Rasimi",
   "persona": {
-    "occupation": "Fundidor"
+    "occupation": "Smelter"
   },
   "sight": {
     "ignore_infra_penalty": false,

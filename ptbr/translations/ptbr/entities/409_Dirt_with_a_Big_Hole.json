@@ -26,7 +26,7 @@
       "id": "1"
     }
   ],
-  "description": "Terra simples, com um buraco de um metro de profundidade. Parece que algo poderoso acertou aqui.",
+  "description": "Terra simples, com um buraco de um metro de profundidade. Parece que algo poderoso atingiu aqui.",
   "glyph": {
     "frames": [
       {
@@ -48,5 +48,6 @@
     25,
     4
   ],
-  "name": "Terra com um Buraco Grande"
+  "name": "Terra com um Grande Buraco",
+  "feminine_form": true
 }

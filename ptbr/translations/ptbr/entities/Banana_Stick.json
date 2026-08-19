@@ -10,7 +10,7 @@
     "weapon",
     "weight"
   ],
-  "description": "Um bastão com uma banana. Muito poderoso em circunstâncias extremamente específicas.",
+  "description": "Um graveto com uma banana nele. Muito poderoso em circunstâncias extremamente específicas.",
   "glyph": {
     "frames": [
       {
@@ -35,7 +35,7 @@
     102,
     57
   ],
-  "name": "Cajado de Banana",
+  "name": "Graveto de Banana",
   "statistics": {
     "dexterity": [
       0,

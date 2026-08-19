@@ -37,7 +37,7 @@
       1
     ]
   },
-  "description": "Um escudo de pedra com entalhes bonitos.",
+  "description": "Um escudo de pedra com belas gravuras.",
   "glyph": {
     "frames": [
       {
@@ -62,7 +62,7 @@
     160,
     161
   ],
-  "name": "Escudo de Pedra Esculpida",
+  "name": "Escudo de Pedra Esculpido",
   "value": 2000,
   "weight": 4.5
 }

@@ -24,7 +24,7 @@
     "weapon",
     "weight"
   ],
-  "description": "Pedra cinza com textura áspera.",
+  "description": "Pedra cinzenta com textura áspera.",
   "glyph": {
     "frames": [
       {
@@ -49,12 +49,13 @@
     113,
     115
   ],
-  "name": "Bloco de Pedra-Pomes",
+  "name": "Bloco de Pedra-pomes",
   "resource": {
-    "affix": "Pumice",
+    "affix": "Pomes",
     "magic_ingredient": 0,
     "quality": 3,
-    "type": 6
+    "type": 6,
+    "feminine_affix": "pômica"
   },
   "value": 1000,
   "weapon": {

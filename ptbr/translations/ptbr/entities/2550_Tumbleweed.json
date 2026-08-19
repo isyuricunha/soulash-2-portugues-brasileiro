@@ -22,7 +22,7 @@
     "tags"
   ],
   "corpse": [],
-  "description": "Uma planta que se espalha.",
+  "description": "Uma planta rolante.",
   "glyph": {
     "frames": [
       {
@@ -74,7 +74,7 @@
   "moveable": {
     "speed": 1.100000023841858
   },
-  "name": "Erva-rolante",
+  "name": "Cardo-viajante",
   "sight": {
     "ignore_infra_penalty": false,
     "infravision": false,

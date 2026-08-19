@@ -96,9 +96,9 @@
   "moveable": {
     "speed": 1.0
   },
-  "name": "Guerreiro Cogumelo Mushman",
+  "name": "Homem-Cogumelo Guerreiro de Cogumelo",
   "persona": {
-    "occupation": "Guerreiro Cogumelo"
+    "occupation": "Mush Warrior"
   },
   "sight": {
     "ignore_infra_penalty": false,

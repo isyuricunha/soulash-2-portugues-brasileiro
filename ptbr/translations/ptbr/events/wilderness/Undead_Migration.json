@@ -1,0 +1,51 @@
+{
+  "id": "core_2_undead_migration",
+  "name": "Migração dos Mortos-Vivos",
+  "category": "wilderness",
+  "flavor": "Uma horda de mortos-vivos está marchando através do lento.",
+  "icon": 0,
+  "small_icon": 0,
+  "rarity": "common",
+  "restrict_biomes": [
+    "snow"
+  ],
+  "trigger": {
+    "base_probability": 0.2
+  },
+  "duration": {
+    "type": "temporary",
+    "days": [
+      3,
+      8
+    ]
+  },
+  "max_per_region": 1,
+  "effects": [
+    {
+      "type": "migrate_group",
+      "entity": "246",
+      "amount": [
+        20,
+        30
+      ],
+      "spawn_behaviors": [
+        23
+      ]
+    },
+    {
+      "type": "migrate_group",
+      "entity": "245",
+      "amount": [
+        50,
+        60
+      ],
+      "spawn_behaviors": [
+        23
+      ]
+    }
+  ],
+  "history_events": {
+    "begin": "A horda de mortos-vivos está em marcha.",
+    "end": "A horda de mortos-vivos passou por esta região."
+  }
+}

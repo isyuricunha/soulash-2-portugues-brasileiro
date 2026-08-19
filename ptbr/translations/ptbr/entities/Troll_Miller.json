@@ -41,7 +41,7 @@
       {
         "chance": 1.0,
         "id": "2176",
-        "name": "Tanga",
+        "name": "tapa-sexo",
         "stack": 1
       }
     ]
@@ -82,7 +82,7 @@
   },
   "name": "Troll Moleiro",
   "persona": {
-    "occupation": "Moleiro"
+    "occupation": "Miller"
   },
   "sight": {
     "ignore_infra_penalty": false,

@@ -64,5 +64,6 @@
   ],
   "name": "Máscara de Pedra",
   "value": 3200,
-  "weight": 3.5
+  "weight": 3.5,
+  "feminine_form": true
 }

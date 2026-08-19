@@ -47,7 +47,7 @@
       14
     ]
   },
-  "description": "Um sinete com um símbolo de folha nele.",
+  "description": "Um sinete com um símbolo de folha.",
   "glyph": {
     "frames": [
       {
@@ -72,7 +72,7 @@
     102,
     57
   ],
-  "name": "Selo de Folha",
+  "name": "Sinete de Folha",
   "value": 15000,
   "weight": 0.10000000149011612
 }

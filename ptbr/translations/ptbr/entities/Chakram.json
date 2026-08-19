@@ -25,7 +25,7 @@
       14
     ]
   },
-  "description": "Um aro de metal que você pode arremessar em seus inimigos.",
+  "description": "Um aro de metal que você pode arremessar contra seus inimigos.",
   "glyph": {
     "frames": [
       {
@@ -50,7 +50,7 @@
     153,
     97
   ],
-  "name": "Chacra",
+  "name": "Chakram",
   "value": 2700,
   "weapon": {
     "attack_animation": "core_2_Chakram",

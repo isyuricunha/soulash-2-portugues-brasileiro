@@ -24,7 +24,7 @@
     "producer"
   ],
   "corpse": [],
-  "description": "Um pequeno arbusto com folhas grossas e cachos de amoras-de-urso vermelhas.",
+  "description": "Um pequeno arbusto com folhas grossas e cachos de uva-ursina vermelhas.",
   "glyph": {
     "frames": [
       {
@@ -64,7 +64,7 @@
     109,
     155
   ],
-  "name": "Arbusto de Amora-de-urso",
+  "name": "Arbusto de Uva-ursina",
   "producer": {
     "products": {
       "10": [

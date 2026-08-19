@@ -27,7 +27,7 @@
     "time": 5,
     "tools": []
   },
-  "description": "Caixote de madeira pesado que pode ser arremessado em alguém.",
+  "description": "Caixa de madeira pesada que pode ser arremessada em alguém.",
   "glyph": {
     "frames": [
       {
@@ -58,7 +58,7 @@
     78,
     34
   ],
-  "name": "Caixote de Madeira",
+  "name": "Caixa de Madeira",
   "producer": {
     "products": {
       "core_2_deconstruct": [
@@ -73,5 +73,6 @@
       ]
     },
     "time": 10
-  }
+  },
+  "feminine_form": true
 }

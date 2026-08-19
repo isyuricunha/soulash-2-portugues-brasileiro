@@ -23,7 +23,7 @@
     "position_2d"
   ],
   "corpse": [],
-  "description": "Uma estátua de pedra de um gárgula que parece estar te seguindo com seus olhos.",
+  "description": "Uma estátua de pedra de uma gárgula que parece estar te seguindo com os olhos.",
   "glyph": {
     "frames": [
       {
@@ -46,5 +46,6 @@
     80,
     80
   ],
-  "name": "Gárgula de Pedra"
+  "name": "Gárgula de Pedra",
+  "feminine_form": true
 }

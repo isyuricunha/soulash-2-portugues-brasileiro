@@ -1,6 +1,6 @@
 {
   "id": "core_2_bleeding_shot",
-  "name": "Tiro Sangrante",
+  "name": "Tiro de Sangramento",
   "requirements": {
     "skill": 36
   },

@@ -37,7 +37,7 @@
       14
     ]
   },
-  "description": "Ótimo em um dia frio.",
+  "description": "Ótimo para um dia frio.",
   "glyph": {
     "frames": [
       {
@@ -62,7 +62,7 @@
     93,
     57
   ],
-  "name": "Protetores de Ouvido",
+  "name": "Protetores de Orelha",
   "value": 200,
   "weight": 0.5
 }

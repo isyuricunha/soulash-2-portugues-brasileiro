@@ -77,9 +77,9 @@
   "moveable": {
     "speed": 1.2000000476837158
   },
-  "name": "Mago Povo-Cogumelo",
+  "name": "Mago Cogumelano",
   "persona": {
-    "occupation": "Mago"
+    "occupation": "Wizard"
   },
   "sight": {
     "ignore_infra_penalty": false,

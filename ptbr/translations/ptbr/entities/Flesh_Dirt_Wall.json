@@ -48,7 +48,7 @@
     35,
     10
   ],
-  "name": "Parede de Terra Carnal",
+  "name": "Parede de Terra de Carne",
   "producer": {
     "products": {
       "12": [
@@ -63,5 +63,6 @@
       ]
     },
     "time": 40
-  }
+  },
+  "feminine_form": true
 }

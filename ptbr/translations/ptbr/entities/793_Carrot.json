@@ -56,5 +56,6 @@
   ],
   "name": "Cenoura",
   "value": 100,
-  "weight": 0.10000000149011612
+  "weight": 0.10000000149011612,
+  "feminine_form": true
 }

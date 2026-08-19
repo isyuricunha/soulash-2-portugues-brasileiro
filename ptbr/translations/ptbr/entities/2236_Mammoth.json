@@ -44,7 +44,7 @@
     "tags"
   ],
   "corpse": "2235",
-  "description": "Grande animal com uma longa tromba, pelagem longa e grandes presas.",
+  "description": "Animal grande com tromba longa, pelo longo e presas grandes.",
   "dialogues": [
     "240",
     "241",
@@ -78,8 +78,8 @@
   },
   "fighter": {
     "attackNames": [
-      "Stomp",
-      "Trunk"
+      "Pisoteio",
+      "Tromba"
     ]
   },
   "glyph": {

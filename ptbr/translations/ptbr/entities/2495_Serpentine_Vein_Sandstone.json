@@ -33,7 +33,7 @@
     "producer"
   ],
   "corpse": [],
-  "description": "Um veio de gema de serpentina na parede de arenito.",
+  "description": "Um veio de gema de serpentina em parede de arenito.",
   "glyph": {
     "frames": [
       {
@@ -56,7 +56,7 @@
     146,
     67
   ],
-  "name": "Veio de Serpentina em Arenito",
+  "name": "Arenito de Veio de Serpentina",
   "producer": {
     "products": {
       "5": [

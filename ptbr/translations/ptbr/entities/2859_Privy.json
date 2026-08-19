@@ -21,7 +21,7 @@
     "position_2d"
   ],
   "corpse": [],
-  "description": "Todos precisam ir a algum lugar, e nem sempre há um arbusto por perto.",
+  "description": "Todo mundo tem que ir a algum lugar, e nem sempre tem um arbusto decente por perto.",
   "glyph": {
     "frames": [
       {
@@ -43,5 +43,6 @@
     48,
     17
   ],
-  "name": "Privada"
+  "name": "Latrina",
+  "feminine_form": true
 }

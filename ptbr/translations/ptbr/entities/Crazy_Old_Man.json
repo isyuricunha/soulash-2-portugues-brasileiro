@@ -27,7 +27,7 @@
     "tags"
   ],
   "corpse": "25",
-  "description": "Parece desalinhado e definitivamente insano.",
+  "description": "Parece desleixado e definitivamente insano.",
   "dialogues": [
     "993"
   ],
@@ -36,7 +36,7 @@
       {
         "chance": 1.0,
         "id": "94",
-        "name": "Bastão",
+        "name": "Cajado",
         "stack": 1
       }
     ],
@@ -44,7 +44,7 @@
       {
         "chance": 1.0,
         "id": "23",
-        "name": "Farrapos",
+        "name": "Farrapas",
         "stack": 1
       }
     ]

@@ -28,7 +28,7 @@
       1
     ]
   },
-  "description": "Espadas longas são armas de cavaleiros, custam muito para serem usadas por outros habitantes do Império.",
+  "description": "Espadas longas são armas de cavaleiros, custam caro demais para serem usadas por outros habitantes do Império.",
   "glyph": {
     "frames": [
       {
@@ -53,7 +53,7 @@
     160,
     161
   ],
-  "name": "Espada Longa",
+  "name": "Espada longa",
   "value": 2500,
   "weapon": {
     "attack_speed": 1.0,
@@ -70,5 +70,6 @@
     "range": 1,
     "type": 1
   },
-  "weight": 2.5
+  "weight": 2.5,
+  "feminine_form": true
 }

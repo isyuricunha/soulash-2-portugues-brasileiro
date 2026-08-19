@@ -9,7 +9,7 @@
     "producer",
     "weight"
   ],
-  "description": "Um corpo sem vida de uma besta de mofo.",
+  "description": "Um corpo sem vida de uma besta do mofo.",
   "glyph": {
     "frames": [
       {
@@ -38,7 +38,7 @@
     80,
     15
   ],
-  "name": "Cadáver de Besta de Mofo",
+  "name": "Cadáver de Besta do Mofo",
   "producer": {
     "products": {
       "3": [

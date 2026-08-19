@@ -37,12 +37,14 @@
   ],
   "name": "Areia Abençoada",
   "resource": {
-    "affix": "of Blessed Sand",
+    "affix": "da Areia Abençoada",
     "granted_passive": "core_2_repeated_offender",
     "magic_ingredient": 5,
     "quality": 5,
-    "type": 7
+    "type": 7,
+    "feminine_affix": "abençoada"
   },
   "value": 100000,
-  "weight": 0.10000000149011612
+  "weight": 0.10000000149011612,
+  "feminine_form": true
 }

@@ -28,7 +28,7 @@
       12
     ]
   },
-  "description": "Uma bolsa grande usada para carregar coisas nas costas.",
+  "description": "Uma mochila grande usada para carregar coisas nas costas.",
   "extra_weight": 20.0,
   "glyph": {
     "frames": [
@@ -56,5 +56,6 @@
   ],
   "name": "Mochila",
   "value": 4400,
-  "weight": 2.0
+  "weight": 2.0,
+  "feminine_form": true
 }

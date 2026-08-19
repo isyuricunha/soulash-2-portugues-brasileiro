@@ -24,7 +24,7 @@
     "producer"
   ],
   "corpse": [],
-  "description": "Este é um martelo artesanalmente elaborado colocado aqui para que todos possam admirar sua beleza.",
+  "description": "Este é um martelo magistralmente forjado colocado aqui para que todos possam admirar sua beleza.",
   "glyph": {
     "frames": [
       {
@@ -47,7 +47,7 @@
     80,
     136
   ],
-  "name": "Martelo em um Pedestal",
+  "name": "Martelo sobre um Pedestal",
   "producer": {
     "products": {
       "core_2_deconstruct": [

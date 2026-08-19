@@ -21,7 +21,7 @@
     "time": 60,
     "tools": []
   },
-  "description": "Um ferreiro experiente pode fazer algumas armas e armaduras de qualidade com uma bigorna.",
+  "description": "Um ferreiro experiente pode fazer armas e armaduras de qualidade com uma bigorna.",
   "glyph": {
     "frames": [
       {
@@ -63,5 +63,6 @@
       "id": 1,
       "quality": 100
     }
-  ]
+  ],
+  "feminine_form": true
 }

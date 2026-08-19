@@ -52,7 +52,7 @@
       {
         "chance": 0.33000001311302185,
         "id": "2225",
-        "name": "Faixa de Cabeça",
+        "name": "Tiara",
         "stack": 1
       }
     ],
@@ -74,7 +74,7 @@
       {
         "chance": 0.800000011920929,
         "id": "23",
-        "name": "Farrapos",
+        "name": "Farrapas",
         "stack": 1
       }
     ]
@@ -113,7 +113,7 @@
   "moveable": {
     "speed": 1.5
   },
-  "name": "Fazendeiro Lúgubre",
+  "name": "Fazendeiro Sombrio",
   "sight": {
     "ignore_infra_penalty": false,
     "infravision": false,

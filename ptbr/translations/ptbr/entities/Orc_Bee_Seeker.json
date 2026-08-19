@@ -44,7 +44,7 @@
       {
         "chance": 1.0,
         "id": "23",
-        "name": "Farrapos",
+        "name": "Farrap",
         "stack": 1
       }
     ]
@@ -83,9 +83,9 @@
   "moveable": {
     "speed": 1.2999999523162842
   },
-  "name": "Orc Caçador de Abelhas",
+  "name": "Orc Buscador de Abelhas",
   "persona": {
-    "occupation": "Caçador de Abelhas"
+    "occupation": "Bee Seeker"
   },
   "sight": {
     "ignore_infra_penalty": false,

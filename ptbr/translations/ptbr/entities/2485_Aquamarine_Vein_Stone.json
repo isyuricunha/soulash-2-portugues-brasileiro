@@ -33,7 +33,7 @@
     "producer"
   ],
   "corpse": [],
-  "description": "Um veio de gema de água-marinha na parede de pedra.",
+  "description": "Uma veia de gema de água-marinha em parede de pedra.",
   "glyph": {
     "frames": [
       {
@@ -56,7 +56,7 @@
     161,
     191
   ],
-  "name": "Veio de Água-Marinha em Pedra",
+  "name": "Pedra de Veia de Água-marinha",
   "producer": {
     "products": {
       "5": [
@@ -71,5 +71,6 @@
       ]
     },
     "time": 30
-  }
+  },
+  "feminine_form": true
 }

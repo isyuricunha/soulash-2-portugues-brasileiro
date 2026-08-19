@@ -1,0 +1,83 @@
+{
+  "id": "core_2_escape_route",
+  "name": "Rota de Fuga",
+  "category": "settlement",
+  "flavor": "Algumas pessoas podem ser muito tímidas e precisam de um jeito de evitar situações sociais constrangedoras.",
+  "icon": 23,
+  "small_icon": 23,
+  "rarity": "uncommon",
+  "restrict_races": [
+    "0"
+  ],
+  "trigger": {
+    "base_probability": 0.004,
+    "conditions": [
+      {
+        "type": "settlement_population_min",
+        "value": 30
+      },
+      {
+        "type": "settlement_tier_min",
+        "value": 1
+      },
+      {
+        "type": "min_unemployed",
+        "value": 1
+      }
+    ]
+  },
+  "duration": {
+    "type": "temporary",
+    "days": [
+      30,
+      45
+    ]
+  },
+  "effects": [
+    {
+      "type": "spawn_group",
+      "amount": [
+        1,
+        1
+      ],
+      "group_type": "settlement",
+      "entity": "core_2_Human_Scribe",
+      "border_color": [
+        170,
+        128,
+        192
+      ]
+    }
+  ],
+  "extra_dialogues": [
+    "core_2_escape_route"
+  ],
+  "interactions": [
+    {
+      "type": "conversation",
+      "id": "core_2_deliver_bombs",
+      "translation_id": 0,
+      "required_ingredients": [
+        {
+          "id": "core_2_Smoke_Bomb",
+          "amount": 5
+        }
+      ],
+      "entities": [
+        "core_2_Human_Scribe"
+      ],
+      "label": "Entregar item solicitado.",
+      "reward": {
+        "gold": 1000,
+        "remove_event": true
+      },
+      "history_event": "::name entregou os bens necessários a um escriba local.",
+      "announcement": "Você entregou os bens necessários a um escriba em ::settlement!"
+    }
+  ],
+  "history_events": {
+    "begin": "Um escriba está procurando um jeito de evitar pessoas em ::settlement.",
+    "success": "Um escriba agora pode ser deixado em paz.",
+    "failure": "Um escriba tem de encarar conversar com pessoas."
+  }
+}

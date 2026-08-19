@@ -97,9 +97,9 @@
   "moveable": {
     "speed": 1.2999999523162842
   },
-  "name": "Reptilion Caçador de Abelhas",
+  "name": "Buscador de Abelhas Reptilion",
   "persona": {
-    "occupation": "Caçador de Abelhas"
+    "occupation": "Bee Seeker"
   },
   "sight": {
     "ignore_infra_penalty": false,

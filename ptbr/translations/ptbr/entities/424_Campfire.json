@@ -39,7 +39,7 @@
       20
     ]
   },
-  "description": "Pilha de lenha preparada rapidamente, envolta em chamas, fornece uma fonte de luz em suas proximidades.",
+  "description": "Pilha de lenha preparada às pressas, envolta em chamas, fornece luz nas redondezas.",
   "glyph": {
     "frames": [
       {
@@ -190,5 +190,6 @@
       "id": 2,
       "quality": 75
     }
-  ]
+  ],
+  "feminine_form": true
 }

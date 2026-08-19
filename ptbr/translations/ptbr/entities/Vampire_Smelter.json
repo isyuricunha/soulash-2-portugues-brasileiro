@@ -87,9 +87,9 @@
   "moveable": {
     "speed": 1.5
   },
-  "name": "Vampiro Fundidor",
+  "name": "Fundidor Vampiro",
   "persona": {
-    "occupation": "Fundidor"
+    "occupation": "Smelter"
   },
   "sight": {
     "ignore_infra_penalty": false,

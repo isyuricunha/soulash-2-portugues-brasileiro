@@ -34,7 +34,7 @@
       "id": "613"
     }
   ],
-  "description": "Mancha de grama coberta com cones e agulhas.",
+  "description": "Mancha de grama coberta de pinhas e agulhas.",
   "glyph": {
     "frames": [
       {
@@ -74,5 +74,6 @@
     39,
     13
   ],
-  "name": "Grama Coberta de Cones"
+  "name": "Grama Coberta de Pinhas",
+  "feminine_form": true
 }

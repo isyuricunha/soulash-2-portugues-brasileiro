@@ -9,7 +9,7 @@
     "producer",
     "weight"
   ],
-  "description": "Um corpo sem vida de uma minhoca gigante.",
+  "description": "Um corpo sem vida de um verme gigante.",
   "glyph": {
     "frames": [
       {
@@ -38,7 +38,7 @@
     80,
     15
   ],
-  "name": "Cadáver de Minhoca Gigante",
+  "name": "Cadáver de Verme Gigante",
   "producer": {
     "products": {
       "3": [

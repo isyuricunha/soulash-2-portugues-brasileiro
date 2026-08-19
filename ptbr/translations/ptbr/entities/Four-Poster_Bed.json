@@ -30,6 +30,7 @@
     39,
     25
   ],
-  "name": "Cama de Dossel",
-  "resting_place": 150
+  "name": "Cama de Dosel",
+  "resting_place": 150,
+  "feminine_form": true
 }

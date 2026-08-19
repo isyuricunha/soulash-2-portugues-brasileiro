@@ -79,9 +79,9 @@
   "moveable": {
     "speed": 1.5
   },
-  "name": "Vampiro Arqueiro",
+  "name": "Vampiro Fabricante de Arcos",
   "persona": {
-    "occupation": "Arqueiro"
+    "occupation": "Bowyer"
   },
   "sight": {
     "ignore_infra_penalty": false,

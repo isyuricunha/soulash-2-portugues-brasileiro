@@ -13,7 +13,7 @@
     "minimap_pixel",
     "name"
   ],
-  "description": "Um chão feito de doces. Faz um som de estalo quando você caminha.",
+  "description": "Um piso feito de doces. Faz um som de estalo ao caminhar.",
   "glyph": {
     "frames": [
       {
@@ -34,5 +34,5 @@
     96,
     109
   ],
-  "name": "Chão de Doce"
+  "name": "Piso de Doces"
 }

@@ -47,7 +47,7 @@
     "weapon"
   ],
   "corpse": "core_2_Acidara_Corpse",
-  "description": "Uma criatura verde, quitinosa com um corpo inchaçadamente grande e mandíbulas laranjas pingando ácido.",
+  "description": "Uma criatura verde e quitinosa com corpo anormalmente inchado e mandíbulas laranja gotejando ácido.",
   "dialogues": [],
   "experience_gainer": {
     "exp": 0,
@@ -55,8 +55,8 @@
   },
   "fighter": {
     "attackNames": [
-      "Claws",
-      "Scratch"
+      "Garras",
+      "Arranhão"
     ]
   },
   "glyph": {
@@ -137,5 +137,6 @@
     "parry_bonus": 0,
     "range": 1,
     "type": 3
-  }
+  },
+  "feminine_form": true
 }

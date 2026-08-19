@@ -28,7 +28,7 @@
     "weapon"
   ],
   "corpse": "594",
-  "description": "Um grande gato com uma coleira de pelos longos ao redor do pescoço.",
+  "description": "Um grande gato com colar de pelos longos ao redor do pescoço.",
   "dialogues": [
     "214",
     "215",
@@ -63,8 +63,8 @@
   },
   "fighter": {
     "attackNames": [
-      "Scratch",
-      "Bite"
+      "Arranhão",
+      "Mordida"
     ]
   },
   "glyph": {

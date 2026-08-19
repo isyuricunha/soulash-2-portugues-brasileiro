@@ -37,7 +37,7 @@
       1
     ]
   },
-  "description": "Um capacete sólido que protege todo o rosto.",
+  "description": "Um elmo sólido que protege o rosto inteiro.",
   "glyph": {
     "frames": [
       {
@@ -62,7 +62,7 @@
     160,
     161
   ],
-  "name": "Capacete Armet",
+  "name": "Elmo Armet",
   "value": 1100,
   "weight": 2.0
 }

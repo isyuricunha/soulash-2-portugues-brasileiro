@@ -6,7 +6,7 @@
     "health": 0,
     "stamina": 0
   },
-  "description": "Esta poção lhe dá ::resistance de resistência ::damage_type por ::duration turnos.",
+  "description": "Esta poção concede ::resistance de resistência a ::damage_type por ::duration turnos.",
   "duration": 50.0,
   "effects": {
     "damage_type": "physical",
@@ -14,7 +14,7 @@
   },
   "id": "core_2_Potion_of_Physical_Resistance",
   "image": 765,
-  "name": "Poção da Resistência Física",
+  "name": "Poção de Resistência Física",
   "range": 0,
   "skill": "",
   "target": "self"

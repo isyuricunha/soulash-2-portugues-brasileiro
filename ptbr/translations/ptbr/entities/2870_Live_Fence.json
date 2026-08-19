@@ -31,7 +31,7 @@
     "position_2d"
   ],
   "corpse": [],
-  "description": "Uma cerca baixa que impede o movimento, embora ainda seja baixa o suficiente para não bloquear sua visão.",
+  "description": "Uma cerca baixa que impede a movimentação, mas ainda é baixa o suficiente para não bloquear sua visão.",
   "glyph": {
     "frames": [
       {
@@ -47,12 +47,13 @@
     "random_frame_start": true
   },
   "health": 50,
-  "height": 5,
+  "height": 0,
   "id": "2870",
   "minimap_pixel": [
     61,
     38,
     7
   ],
-  "name": "Nearca Viva"
+  "name": "Cerca Viva",
+  "feminine_form": true
 }

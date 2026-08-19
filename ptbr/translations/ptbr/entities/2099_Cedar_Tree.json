@@ -25,7 +25,7 @@
     "producer"
   ],
   "corpse": [],
-  "description": "Uma grande árvore perene com ramos largos cobertos por agulhas finas e cones.",
+  "description": "Uma grande árvore perene com galhos largos cobertos por agulhas finas e cones.",
   "glyph": {
     "frames": [
       {
@@ -108,7 +108,7 @@
     147,
     114
   ],
-  "name": "Árvore de Cedro",
+  "name": "Cedro",
   "producer": {
     "products": {
       "1": [

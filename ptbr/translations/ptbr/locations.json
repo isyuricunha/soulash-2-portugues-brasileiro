@@ -2,19 +2,19 @@
   "cultures": [
     {
       "id": "0",
-      "name": "human"
+      "name": "humano"
     },
     {
       "id": "1",
-      "name": "dwarven"
+      "name": "anão"
     },
     {
       "id": "2",
-      "name": "elven"
+      "name": "elfo"
     },
     {
       "id": "6",
-      "name": "vampire"
+      "name": "vampiro"
     },
     {
       "id": "7",
@@ -30,31 +30,31 @@
     },
     {
       "id": "17",
-      "name": "undead"
+      "name": "morto-vivo"
     },
     {
       "id": "23",
-      "name": "reptilian"
+      "name": "Réptilianos"
     },
     {
       "id": "26",
-      "name": "Espectro de Osso"
+      "name": "Espectros de Osso"
     },
     {
       "id": "31",
-      "name": "gnoll"
+      "name": "Gnolls"
     },
     {
       "id": "32",
-      "name": "mushmen"
+      "name": "Homens-Cogumelo"
     },
     {
       "id": "33",
-      "name": "ursan"
+      "name": "Ursanos"
     },
     {
       "id": "4",
-      "name": "goblin"
+      "name": "Goblins"
     }
   ],
   "settlements": [
@@ -82,7 +82,7 @@
       "buildings": [],
       "cost": 10000,
       "culture": "player",
-      "full_name": "Aldeia {}",
+      "full_name": "{} Aldeia",
       "image": 306,
       "level": 2,
       "min_population": 0,
@@ -92,21 +92,21 @@
       "buildings": [],
       "cost": 100000,
       "culture": "player",
-      "full_name": "{} Cidade",
+      "full_name": "{} Vila",
       "image": 307,
       "level": 3,
       "min_population": 100,
-      "name": "Cidade"
+      "name": "Vila"
     },
     {
       "buildings": [],
       "cost": 1000000,
       "culture": "player",
-      "full_name": "Metrópole {}",
+      "full_name": "{} Cidade",
       "image": 310,
       "level": 4,
       "min_population": 200,
-      "name": "Metrópole"
+      "name": "Cidade"
     },
     {
       "buildings": [],
@@ -125,7 +125,7 @@
       "buildings": [],
       "cost": 10000,
       "culture": "0",
-      "full_name": "Aldeia {}",
+      "full_name": "{} Aldeia",
       "image": 140,
       "level": 1,
       "min_population": 0,
@@ -135,27 +135,27 @@
       "buildings": [],
       "cost": 100000,
       "culture": "0",
-      "full_name": "{} Cidade",
+      "full_name": "{} Vila",
       "image": 141,
       "level": 2,
       "min_population": 100,
-      "name": "Cidade"
+      "name": "Vila"
     },
     {
       "buildings": [],
       "cost": 1000000,
       "culture": "0",
-      "full_name": "Metrópole {}",
+      "full_name": "{} Cidade",
       "image": 142,
       "level": 3,
       "min_population": 200,
-      "name": "Metrópole"
+      "name": "Cidade"
     },
     {
       "buildings": [],
       "cost": 0,
       "culture": "2",
-      "full_name": "{} Árvore Queimada",
+      "full_name": "Árvore {} Queimada",
       "image": 152,
       "level": 0,
       "min_population": 0,
@@ -168,7 +168,7 @@
       "buildings": [],
       "cost": 10000,
       "culture": "2",
-      "full_name": "Raízes da {} Árvore",
+      "full_name": "Raízes da Árvore {}",
       "image": 149,
       "level": 1,
       "min_population": 0,
@@ -184,7 +184,7 @@
       "buildings": [],
       "cost": 75000,
       "culture": "2",
-      "full_name": "Muda da {} Árvore",
+      "full_name": "Muda da Árvore {}",
       "image": 150,
       "level": 2,
       "min_population": 50,
@@ -240,17 +240,17 @@
       "buildings": [],
       "cost": 100000,
       "culture": "1",
-      "full_name": "{} Forte",
+      "full_name": "{} Fortaleza",
       "image": 181,
       "level": 2,
       "min_population": 50,
-      "name": "Forte Anão"
+      "name": "Fortaleza Anã"
     },
     {
       "buildings": [],
       "cost": 1000000,
       "culture": "1",
-      "full_name": "Cidadela {}",
+      "full_name": "{} Cidadela",
       "image": 182,
       "level": 3,
       "min_population": 150,
@@ -264,7 +264,7 @@
       "image": 293,
       "level": 0,
       "min_population": 0,
-      "name": "Ruínas Troll"
+      "name": "Ruínas de Troll"
     },
     {
       "biomes": [
@@ -274,31 +274,31 @@
       "buildings": [],
       "cost": 10000,
       "culture": "7",
-      "full_name": "Toca de {}",
+      "full_name": "Covil de {}",
       "image": 290,
       "level": 1,
       "min_population": 0,
-      "name": "Toca Troll"
+      "name": "Covil de Troll"
     },
     {
       "buildings": [],
       "cost": 100000,
       "culture": "7",
-      "full_name": "{} Acampamento",
+      "full_name": "Acampamento de {}",
       "image": 291,
       "level": 2,
       "min_population": 50,
-      "name": "Acampamento Troll"
+      "name": "Acampamento de Troll"
     },
     {
       "buildings": [],
       "cost": 1000000,
       "culture": "7",
-      "full_name": "Bastião {}",
+      "full_name": "Bastião de {}",
       "image": 292,
       "level": 3,
       "min_population": 150,
-      "name": "Bastião Troll"
+      "name": "Bastião de Troll"
     },
     {
       "buildings": [],
@@ -308,7 +308,7 @@
       "image": 194,
       "level": 0,
       "min_population": 0,
-      "name": "Ruínas Rasimi"
+      "name": "Ruínas de Rasimi"
     },
     {
       "biomes": [
@@ -317,17 +317,17 @@
       "buildings": [],
       "cost": 10000,
       "culture": "10",
-      "full_name": "Aldeia {}",
+      "full_name": "Vila {}",
       "image": 187,
       "level": 1,
       "min_population": 0,
-      "name": "Aldeia Rasimi"
+      "name": "Vila Rasimi"
     },
     {
       "buildings": [],
       "cost": 100000,
       "culture": "10",
-      "full_name": "{} Cidade",
+      "full_name": "Cidade {}",
       "image": 188,
       "level": 2,
       "min_population": 50,
@@ -337,11 +337,11 @@
       "buildings": [],
       "cost": 1000000,
       "culture": "10",
-      "full_name": "Metrópole {}",
+      "full_name": "Grande Cidade {}",
       "image": 189,
       "level": 3,
       "min_population": 150,
-      "name": "Metrópole Rasimi"
+      "name": "Grande Cidade Rasimi"
     },
     {
       "buildings": [],
@@ -351,7 +351,7 @@
       "image": 333,
       "level": 0,
       "min_population": 0,
-      "name": "Ruínas dos Mortos-Vivos"
+      "name": "Ruínas Mortas-Vivas"
     },
     {
       "biomes": [
@@ -386,7 +386,7 @@
       "buildings": [],
       "cost": 100000,
       "culture": "17",
-      "full_name": "Necrópole {}",
+      "full_name": "{} Necrópole",
       "image": 331,
       "level": 2,
       "min_population": 75,
@@ -396,7 +396,7 @@
       "buildings": [],
       "cost": 200000,
       "culture": "17",
-      "full_name": "Cidadela {}",
+      "full_name": "{} Cidadela",
       "image": 332,
       "level": 3,
       "min_population": 200,
@@ -446,7 +446,7 @@
       "buildings": [],
       "cost": 1000000,
       "culture": "23",
-      "full_name": "{} Forte",
+      "full_name": "Fortaleza {}",
       "image": 259,
       "level": 3,
       "min_population": 150,
@@ -482,7 +482,7 @@
       ],
       "cost": 10000,
       "culture": "26",
-      "full_name": "{} Acampamento",
+      "full_name": "Acampamento {}",
       "image": 190,
       "level": 1,
       "min_population": 0,
@@ -498,7 +498,7 @@
       "buildings": [],
       "cost": 100000,
       "culture": "26",
-      "full_name": "{} Cidade",
+      "full_name": "Cidade {}",
       "image": 191,
       "level": 2,
       "min_population": 50,
@@ -514,7 +514,7 @@
       "buildings": [],
       "cost": 1000000,
       "culture": "26",
-      "full_name": "{} Forte",
+      "full_name": "Fortaleza {}",
       "image": 192,
       "level": 3,
       "min_population": 100,
@@ -528,7 +528,7 @@
       "image": 264,
       "level": 0,
       "min_population": 0,
-      "name": "Ruínas Mushmen",
+      "name": "Ruínas dos Homens-Cogumelo",
       "natural_resources": []
     },
     {
@@ -538,11 +538,11 @@
       "buildings": [],
       "cost": 10000,
       "culture": "32",
-      "full_name": "{} Caverna",
+      "full_name": "Caverna de {}",
       "image": 261,
       "level": 1,
       "min_population": 0,
-      "name": "Caverna Mushmen",
+      "name": "Caverna dos Homens-Cogumelo",
       "natural_resources": [
         {
           "chance": 1.0,
@@ -558,33 +558,33 @@
       "buildings": [],
       "cost": 100000,
       "culture": "32",
-      "full_name": "{} Agrupamento",
+      "full_name": "Aglomerado de {}",
       "image": 262,
       "level": 2,
       "min_population": 50,
-      "name": "Agrupamento Mushmen",
+      "name": "Aglomerado dos Homens-Cogumelo",
       "natural_resources": []
     },
     {
       "buildings": [],
       "cost": 1000000,
       "culture": "32",
-      "full_name": "{} Colônia",
+      "full_name": "Colônia de {}",
       "image": 263,
       "level": 3,
       "min_population": 100,
-      "name": "Colônia Mushmen",
+      "name": "Colônia dos Homens-Cogumelo",
       "natural_resources": []
     },
     {
       "buildings": [],
       "cost": 0,
       "culture": "33",
-      "full_name": "{} Ruínas",
+      "full_name": "Ruínas de {}",
       "image": 279,
       "level": 0,
       "min_population": 0,
-      "name": "Ruínas Ursan",
+      "name": "Ruínas Ursanas",
       "natural_resources": []
     },
     {
@@ -598,7 +598,7 @@
       "image": 276,
       "level": 1,
       "min_population": 0,
-      "name": "Acampamento Ursan",
+      "name": "Acampamento Ursano",
       "natural_resources": [
         {
           "chance": 1.0,
@@ -614,22 +614,22 @@
       "buildings": [],
       "cost": 100000,
       "culture": "33",
-      "full_name": "{} Cidade",
+      "full_name": "{} Vila",
       "image": 277,
       "level": 2,
       "min_population": 50,
-      "name": "Cidade Ursan",
+      "name": "Vila Ursana",
       "natural_resources": []
     },
     {
       "buildings": [],
       "cost": 1000000,
       "culture": "33",
-      "full_name": "{} Forte",
+      "full_name": "{} Fortaleza",
       "image": 278,
       "level": 3,
       "min_population": 100,
-      "name": "Forte Ursan",
+      "name": "Fortaleza Ursana",
       "natural_resources": []
     },
     {
@@ -670,7 +670,7 @@
       "buildings": [],
       "cost": 100000,
       "culture": "31",
-      "full_name": "{} Abrigo",
+      "full_name": "Abrigo {}",
       "image": 286,
       "level": 2,
       "min_population": 50,
@@ -690,11 +690,11 @@
       "buildings": [],
       "cost": 1000000,
       "culture": "31",
-      "full_name": "{} Santuário",
+      "full_name": "Refúgio {}",
       "image": 287,
       "level": 3,
       "min_population": 100,
-      "name": "Santuário Gnoll",
+      "name": "Refúgio Gnoll",
       "natural_resources": [
         {
           "chance": 1.0,
@@ -714,7 +714,7 @@
       "image": 134,
       "level": 0,
       "min_population": 0,
-      "name": "Ruínas Vampiro",
+      "name": "Ruínas Vampíricas",
       "natural_resources": [
         {
           "chance": 1.0,
@@ -729,11 +729,11 @@
       "buildings": [],
       "cost": 10000,
       "culture": "6",
-      "full_name": "{} Torre",
+      "full_name": "Torre {}",
       "image": 131,
       "level": 1,
       "min_population": 0,
-      "name": "Torre Vampiro",
+      "name": "Torre Vampírica",
       "natural_resources": [
         {
           "chance": 1.0,
@@ -745,11 +745,11 @@
       "buildings": [],
       "cost": 100000,
       "culture": "6",
-      "full_name": "{} Fortaleza",
+      "full_name": "Fortaleza {}",
       "image": 132,
       "level": 2,
       "min_population": 50,
-      "name": "Fortaleza Vampiro",
+      "name": "Fortaleza Vampírica",
       "natural_resources": [
         {
           "chance": 1.0,
@@ -765,7 +765,7 @@
       "image": 133,
       "level": 3,
       "min_population": 150,
-      "name": "Castelo Vampiro",
+      "name": "Castelo de Vampiro",
       "natural_resources": [
         {
           "chance": 1.0,
@@ -860,11 +860,11 @@
       "buildings": [],
       "cost": 1000000,
       "culture": "4",
-      "full_name": "{} Bairro",
+      "full_name": "{} Burgo",
       "image": 297,
       "level": 3,
       "min_population": 100,
-      "name": "Bairro Goblin",
+      "name": "Burgo Goblin",
       "natural_resources": []
     }
   ],
@@ -888,7 +888,7 @@
       "difficulty": 1,
       "id": "core_2_forest_cave_0",
       "image": 154,
-      "name": "Cavernas da Floresta",
+      "name": "Caverna da Floresta",
       "scenarios": [
         {
           "building_maps": [],
@@ -1092,7 +1092,7 @@
       "difficulty": 1,
       "id": "core_2_forest_webbed_0",
       "image": 185,
-      "name": "Floresta Enredada",
+      "name": "Floresta Teiada",
       "scenarios": [
         {
           "building_maps": [],
@@ -1217,7 +1217,7 @@
       "difficulty": 0,
       "id": "core_2_forest_hunting_0",
       "image": 173,
-      "name": "Terreno de Caça",
+      "name": "Terrenos de Caça",
       "scenarios": [
         {
           "building_maps": [],
@@ -1783,7 +1783,7 @@
       "difficulty": 1,
       "id": "core_2_snow_tomb_0",
       "image": 169,
-      "name": "Túmulo",
+      "name": "Tumba",
       "scenarios": [
         {
           "building_maps": [],
@@ -1929,7 +1929,7 @@
       "difficulty": 2,
       "id": "core_2_forgotten_cave_1",
       "image": 169,
-      "name": "Cavernas Esquecidas",
+      "name": "Caverna Esquecida",
       "scenarios": [
         {
           "building_maps": [],
@@ -2033,7 +2033,7 @@
       "difficulty": 2,
       "id": "core_2_snow_hunting_0",
       "image": 173,
-      "name": "Terreno de Caça",
+      "name": "Terrenos de Caça",
       "scenarios": [
         {
           "building_maps": [],
@@ -2080,7 +2080,7 @@
       "difficulty": 1,
       "id": "core_2_jungle_cave_0",
       "image": 155,
-      "name": "Cavernas da Selva",
+      "name": "Caverna da Selva",
       "scenarios": [
         {
           "building_maps": [],
@@ -2309,7 +2309,7 @@
       "difficulty": 1,
       "id": "core_2_jungle_cave_1",
       "image": 171,
-      "name": "Cova de Cobras",
+      "name": "Poço de Cobras",
       "scenarios": [
         {
           "building_maps": [],
@@ -2524,7 +2524,7 @@
       "difficulty": 1,
       "id": "core_2_tropical_rainforest_1",
       "image": 173,
-      "name": "Terreno de Caça",
+      "name": "Terras de Caça",
       "scenarios": [
         {
           "building_maps": [],
@@ -2626,7 +2626,7 @@
       "difficulty": 2,
       "id": "core_2_jungle_hunting_1",
       "image": 173,
-      "name": "Terreno de Caça",
+      "name": "Terras de Caça",
       "scenarios": [
         {
           "building_maps": [],
@@ -2971,7 +2971,7 @@
       "difficulty": 2,
       "id": "core_2_goblins_mountain_1",
       "image": 156,
-      "name": "Cavernas dos Goblins",
+      "name": "Caverna do Goblin",
       "scenarios": [
         {
           "building_maps": [
@@ -3098,7 +3098,7 @@
       "difficulty": 2,
       "id": "core_2_dwarven_mountain_1",
       "image": 156,
-      "name": "Cavernas Anãs",
+      "name": "Caverna Anã",
       "scenarios": [
         {
           "building_maps": [
@@ -3179,7 +3179,7 @@
       "difficulty": 0,
       "id": "core_2_mountain_hunting_1",
       "image": 173,
-      "name": "Terreno de Caça",
+      "name": "Terras de Caça",
       "scenarios": [
         {
           "building_maps": [],
@@ -3217,7 +3217,7 @@
       "difficulty": 1,
       "id": "core_2_kavian_1",
       "image": 178,
-      "name": "Vila Kaviana",
+      "name": "Vila Kavian",
       "scenarios": [
         {
           "building_maps": [
@@ -3295,7 +3295,7 @@
       "difficulty": 1,
       "id": "core_2_small_cave_savanna_0",
       "image": 154,
-      "name": "Pequena Caverna",
+      "name": "Caverna Pequena",
       "scenarios": [
         {
           "building_maps": [],
@@ -3447,7 +3447,7 @@
       "difficulty": 2,
       "id": "core_2_den_savanna_1",
       "image": 154,
-      "name": "Toca do Leão",
+      "name": "Covil do Leão",
       "scenarios": [
         {
           "building_maps": [],
@@ -3512,7 +3512,7 @@
       "difficulty": 2,
       "id": "core_2_watering_hole",
       "image": 173,
-      "name": "Poço de Água",
+      "name": "Bebedouro",
       "scenarios": [
         {
           "building_maps": [],
@@ -3695,7 +3695,7 @@
       "difficulty": 1,
       "id": "core_2_swamp_cave_0",
       "image": 153,
-      "name": "Cavernas do Pântano",
+      "name": "Caverna do Pântano",
       "scenarios": [
         {
           "building_maps": [],
@@ -3781,7 +3781,7 @@
       "difficulty": 1,
       "id": "core_2_swamp_hunting_0",
       "image": 173,
-      "name": "Terreno de Caça",
+      "name": "Terras de Caça",
       "scenarios": [
         {
           "building_maps": [],
@@ -4210,7 +4210,7 @@
       "difficulty": 0,
       "id": "core_2_boreal_hunting_0",
       "image": 173,
-      "name": "Terreno de Caça",
+      "name": "Terras de Caça",
       "scenarios": [
         {
           "building_maps": [],
@@ -4792,7 +4792,7 @@
       "difficulty": 1,
       "id": "core_2_grasslands_cave_1",
       "image": 170,
-      "name": "Toca de Coelho",
+      "name": "Toca do Coelho",
       "scenarios": [
         {
           "building_maps": [],
@@ -4940,7 +4940,7 @@
       "difficulty": 1,
       "id": "core_2_owlfolk_1",
       "image": 177,
-      "name": "Vila dos Corujantes",
+      "name": "Vila dos Corujanos",
       "scenarios": [
         {
           "building_maps": [
@@ -5012,7 +5012,7 @@
       "difficulty": 1,
       "id": "core_2_savanna_hunting_1",
       "image": 173,
-      "name": "Terreno de Caça",
+      "name": "Terras de Caça",
       "scenarios": [
         {
           "building_maps": [],
@@ -5331,7 +5331,7 @@
       "difficulty": 1,
       "id": "core_2_desert_hole_0",
       "image": 172,
-      "name": "Buraco do Deserto",
+      "name": "Buraco no Deserto",
       "scenarios": [
         {
           "building_maps": [],
@@ -5403,7 +5403,7 @@
       "difficulty": 2,
       "id": "core_2_desert_pit_1",
       "image": 172,
-      "name": "Poço do Deserto",
+      "name": "Poço no Deserto",
       "scenarios": [
         {
           "building_maps": [
@@ -5578,7 +5578,7 @@
       "difficulty": 2,
       "id": "core_2_barrow_1",
       "image": 164,
-      "name": "Túmulo Antigo",
+      "name": "Antigo Tumulo",
       "scenarios": [
         {
           "building_maps": [
@@ -5785,7 +5785,7 @@
       "difficulty": 2,
       "id": "core_2_orc_camp_1",
       "image": 148,
-      "name": "Acampamento Orc",
+      "name": "Acampamento de Orcs",
       "scenarios": [
         {
           "area_background": {
@@ -6082,7 +6082,7 @@
       "id": "core_2_vultures_bones",
       "image": -1,
       "matches_resource": "55",
-      "name": "Abutres & Ossos",
+      "name": "Urubus e Ossos",
       "scenarios": [
         {
           "building_maps": [],
@@ -6134,7 +6134,7 @@
       "id": "core_2_scorpion_pit_0",
       "image": -1,
       "matches_resource": "2153",
-      "name": "Buraco do Deserto",
+      "name": "Buraco no Deserto",
       "scenarios": [
         {
           "building_maps": [],
@@ -6175,7 +6175,7 @@
       "id": "core_2_sandworm_pit_0",
       "image": -1,
       "matches_resource": "2152",
-      "name": "Buraco do Deserto",
+      "name": "Buraco no Deserto",
       "scenarios": [
         {
           "building_maps": [],
@@ -6216,7 +6216,7 @@
       "id": "core_2_desert_rubies",
       "image": -1,
       "matches_resource": "845",
-      "name": "Buraco do Deserto",
+      "name": "Buraco no Deserto",
       "scenarios": [
         {
           "building_maps": [],
@@ -6259,7 +6259,7 @@
       "id": "core_2_desert_serpentines",
       "image": -1,
       "matches_resource": "2120",
-      "name": "Buraco do Deserto",
+      "name": "Buraco no Deserto",
       "scenarios": [
         {
           "building_maps": [],
@@ -6302,7 +6302,7 @@
       "id": "core_2_desert_quartz",
       "image": -1,
       "matches_resource": "2121",
-      "name": "Buraco do Deserto",
+      "name": "Buraco no Deserto",
       "scenarios": [
         {
           "building_maps": [],
@@ -6475,7 +6475,7 @@
       "id": "core_2_strawberries",
       "image": -1,
       "matches_resource": "814",
-      "name": "Morango",
+      "name": "Morangos",
       "scenarios": [
         {
           "building_maps": [],
@@ -6967,7 +6967,7 @@
       "id": "core_2_grasslands_tin",
       "image": -1,
       "matches_resource": "2111",
-      "name": "Buraco das Terras Gramadas",
+      "name": "Buraco dos Campos",
       "scenarios": [
         {
           "building_maps": [],
@@ -7011,7 +7011,7 @@
       "id": "core_2_grasslands_silver",
       "image": -1,
       "matches_resource": "158",
-      "name": "Buraco das Terras Gramadas",
+      "name": "Buraco dos Campos",
       "scenarios": [
         {
           "building_maps": [],
@@ -7056,7 +7056,7 @@
       "id": "core_2_grasslands_copper",
       "image": -1,
       "matches_resource": "144",
-      "name": "Buraco das Terras Gramadas",
+      "name": "Buraco dos Campos",
       "scenarios": [
         {
           "building_maps": [],
@@ -7163,7 +7163,7 @@
       "id": "core_2_aspen_grove",
       "image": -1,
       "matches_resource": "866",
-      "name": "Bosque de Álamo",
+      "name": "Bosque de Choupo",
       "scenarios": [
         {
           "building_maps": [],
@@ -7358,7 +7358,7 @@
       "id": "core_2_apple_grove",
       "image": -1,
       "matches_resource": "811",
-      "name": "Bosque de Maçã",
+      "name": "Bosque de Macieiras",
       "scenarios": [
         {
           "building_maps": [],
@@ -7399,7 +7399,7 @@
       "id": "core_2_forest_oak",
       "image": -1,
       "matches_resource": "873",
-      "name": "Bosque de Carvalho",
+      "name": "Bosque de Carvalhos",
       "scenarios": [
         {
           "building_maps": [],
@@ -7455,7 +7455,7 @@
       "id": "core_2_forest_mahogany",
       "image": -1,
       "matches_resource": "2104",
-      "name": "Bosque de Mogno",
+      "name": "Bosque de Mognos",
       "scenarios": [
         {
           "building_maps": [],
@@ -7511,7 +7511,7 @@
       "id": "core_2_forest_yew",
       "image": -1,
       "matches_resource": "2109",
-      "name": "Bosque de Teixo",
+      "name": "Bosque de Teixos",
       "scenarios": [
         {
           "building_maps": [],
@@ -7567,7 +7567,7 @@
       "id": "core_2_forest_wolves",
       "image": -1,
       "matches_resource": "2139",
-      "name": "Alcateias de Lobos",
+      "name": "Matilhas de Lobos",
       "scenarios": [
         {
           "building_maps": [],
@@ -7864,7 +7864,7 @@
       "id": "core_2_swamp_crocodiles",
       "image": -1,
       "matches_resource": "2134",
-      "name": "Terreno de Caça",
+      "name": "Terras de Caça",
       "scenarios": [
         {
           "building_maps": [],
@@ -7975,7 +7975,7 @@
       "id": "core_2_swamp_crabs",
       "image": -1,
       "matches_resource": "2151",
-      "name": "Terreno de Caça",
+      "name": "Terras de Caça",
       "scenarios": [
         {
           "building_maps": [],
@@ -8082,7 +8082,7 @@
       "id": "core_2_cedar_grove",
       "image": -1,
       "matches_resource": "2098",
-      "name": "Bosque de Cedro",
+      "name": "Bosque de Cedros",
       "scenarios": [
         {
           "building_maps": [],
@@ -9280,7 +9280,7 @@
       "id": "core_2_mountain_sulfur",
       "image": -1,
       "matches_resource": "838",
-      "name": "Cavernas Subterrâneas",
+      "name": "Caverna Subterrânea",
       "scenarios": [
         {
           "building_maps": [],
@@ -9548,7 +9548,7 @@
       "id": "core_2_mountain_onyx",
       "image": -1,
       "matches_resource": "2118",
-      "name": "Buraco da Montanha",
+      "name": "Buraco na Montanha",
       "scenarios": [
         {
           "building_maps": [],
@@ -9638,7 +9638,7 @@
       "id": "core_2_mountain_topaz",
       "image": -1,
       "matches_resource": "849",
-      "name": "Buraco da Montanha",
+      "name": "Buraco na Montanha",
       "scenarios": [
         {
           "building_maps": [],
@@ -9730,7 +9730,7 @@
       "id": "core_2_mountain_sapphire",
       "image": -1,
       "matches_resource": "848",
-      "name": "Buraco da Montanha",
+      "name": "Buraco na Montanha",
       "scenarios": [
         {
           "building_maps": [],
@@ -10135,7 +10135,7 @@
       "id": "core_2_forest_bison",
       "image": -1,
       "matches_resource": "2130",
-      "name": "Bisons",
+      "name": "Bisontes",
       "scenarios": [
         {
           "building_maps": [],
@@ -10201,7 +10201,7 @@
       "id": "core_2_forest_elk",
       "image": -1,
       "matches_resource": "2140",
-      "name": "Alces",
+      "name": "Wapitis",
       "scenarios": [
         {
           "building_maps": [],
@@ -10544,7 +10544,7 @@
       "id": "core_2_coconut",
       "image": -1,
       "matches_resource": "2365",
-      "name": "Coqueiros",
+      "name": "Palmeiras de Coco",
       "scenarios": [
         {
           "building_maps": [],
@@ -10873,7 +10873,7 @@
       "id": "core_2_jungle_iron",
       "image": -1,
       "matches_resource": "146",
-      "name": "Buraco das Terras Gramadas",
+      "name": "Buraco das Planícies",
       "scenarios": [
         {
           "building_maps": [],
@@ -11324,7 +11324,8 @@
         "parameters": {
           "road_index": "-1",
           "size": 2,
-          "starting_z_level": 0
+          "starting_z_level": 0,
+          "z_levels": 0
         }
       },
       "biomes": [
@@ -11333,7 +11334,7 @@
       "difficulty": 2,
       "id": "core_2_temple_one_2",
       "image": 160,
-      "name": "Templo Antigo do Um",
+      "name": "Antigo Templo do Um",
       "scenarios": [
         {
           "building_maps": [
@@ -11390,7 +11391,7 @@
       "difficulty": 1,
       "id": "core_2_plagued_farm_1",
       "image": 196,
-      "name": "Fazenda Praguejada",
+      "name": "Fazenda Pragada",
       "scenarios": [
         {
           "building_maps": [
@@ -12679,7 +12680,7 @@
       "difficulty": 3,
       "id": "core_2_vampire_lair_1",
       "image": 231,
-      "name": "Covil do Vampiro",
+      "name": "Covíl do Vampiro",
       "scenarios": [
         {
           "building_maps": [
@@ -13003,7 +13004,7 @@
       "difficulty": 3,
       "id": "core_2_harpy_2",
       "image": 225,
-      "name": "Covil da Harpia",
+      "name": "Covíl da Harpia",
       "scenarios": [
         {
           "building_maps": [
@@ -13095,7 +13096,7 @@
       "difficulty": 3,
       "id": "core_2_mutant_1",
       "image": 228,
-      "name": "Covil do Mutante",
+      "name": "Covíl do Mutante",
       "scenarios": [
         {
           "building_maps": [
@@ -13296,7 +13297,7 @@
       "difficulty": 2,
       "id": "core_2_liz_village_1",
       "image": 202,
-      "name": "Aldeia dos Homens-Lagarto",
+      "name": "Vila dos Homens-Lagarto",
       "scenarios": [
         {
           "building_maps": [
@@ -13506,7 +13507,7 @@
       "difficulty": 3,
       "id": "core_2_vamp_castle_1",
       "image": 227,
-      "name": "Aldeia Sombria",
+      "name": "Vila Sombria",
       "scenarios": [
         {
           "building_maps": [
@@ -13897,7 +13898,7 @@
       "difficulty": 3,
       "id": "core_2_snow_troll_1",
       "image": 169,
-      "name": "Caverna do Troll do Gelo",
+      "name": "Caverna do Troll de Geada",
       "scenarios": [
         {
           "area_background": {
@@ -15668,7 +15669,7 @@
       "difficulty": 3,
       "id": "core_2_abandoned_barrow_1",
       "image": 164,
-      "name": "Túmulo Abandonado",
+      "name": "Tumba Abandonada",
       "scenarios": [
         {
           "building_maps": [
@@ -15886,7 +15887,7 @@
       "difficulty": 3,
       "id": "core_2_big_game_camp_1",
       "image": 192,
-      "name": "Acampamento de Caça de Grande Porte",
+      "name": "Acampamento de Caçadores de Grande Caça",
       "scenarios": [
         {
           "building_maps": [
@@ -16010,7 +16011,7 @@
       "difficulty": 3,
       "id": "core_2_ice_witch_hut_1",
       "image": 203,
-      "name": "Cabana da Bruxa de Gelo",
+      "name": "Cabana da Bruxa do Gelo",
       "scenarios": [
         {
           "building_maps": [
@@ -16349,7 +16350,7 @@
       "difficulty": 3,
       "id": "core_2_bog_fiend_1",
       "image": 250,
-      "name": "Covil da Aberração do Pântano",
+      "name": "Covil do Demônio do Pântano",
       "scenarios": [
         {
           "building_maps": [
@@ -16616,7 +16617,7 @@
       "difficulty": 3,
       "id": "core_2_cult_hideout_1",
       "image": 231,
-      "name": "Esconderijo do Culto",
+      "name": "Esconderijo da Seita",
       "scenarios": [
         {
           "building_maps": [
@@ -17485,7 +17486,7 @@
       "difficulty": 3,
       "id": "core_2_werebeast_lair_1",
       "image": 234,
-      "name": "Covil da Fera",
+      "name": "Covil do Homem-Fera",
       "scenarios": [
         {
           "building_maps": [
@@ -18757,7 +18758,7 @@
           "pre_fill_percent": 0.53,
           "road_index": "-1",
           "rumors": [
-            "This dragon... I heard it died a long time ago and it still harasses everyone!"
+            "Este dragão... Dizem que morreu há muito tempo e ainda incomoda a todos!"
           ],
           "size": 7,
           "smooth_iterations": 3,
@@ -18773,7 +18774,7 @@
       "difficulty": 4,
       "id": "core_2_undead_dragon_1",
       "image": 242,
-      "name": "Cypress O Trovão Negro",
+      "name": "Cipreste, o Trovão Negro",
       "scenarios": [
         {
           "building_maps": [
@@ -19515,7 +19516,7 @@
       "difficulty": 4,
       "id": "core_2_giga_spider_1",
       "image": 184,
-      "name": "Caverna do Goblin Perdido",
+      "name": "Caverna Perdida dos Goblins",
       "scenarios": [
         {
           "building_maps": [
@@ -20132,7 +20133,7 @@
       "difficulty": 4,
       "id": "core_2_warlock_1",
       "image": 244,
-      "name": "Laboratório Obscuro",
+      "name": "Laboratório Sombrio",
       "scenarios": [
         {
           "building_maps": [
@@ -22132,7 +22133,7 @@
       "difficulty": 4,
       "id": "core_2_wyvern_1",
       "image": 249,
-      "name": "Covil da Wiverno",
+      "name": "Covil da Vívera",
       "scenarios": [
         {
           "building_maps": [
@@ -22821,7 +22822,7 @@
       "difficulty": 4,
       "id": "core_2_gryphon_1",
       "image": 248,
-      "name": "Ninho de Grifo",
+      "name": "Ninho do Grifo",
       "scenarios": [
         {
           "building_maps": [
@@ -23335,7 +23336,7 @@
       "difficulty": 2,
       "id": "core_2_skavadda_1",
       "image": 202,
-      "name": "Vila Skavadda",
+      "name": "Vila de Skavadda",
       "scenarios": [
         {
           "building_maps": [
@@ -23832,7 +23833,7 @@
       "id": "core_2_bog_iron_0",
       "image": -1,
       "matches_resource": "146",
-      "name": "Ferro do Pântano",
+      "name": "Ferro de Pântano",
       "scenarios": [
         {
           "building_maps": [],
@@ -23904,7 +23905,7 @@
       "id": "core_2_swamp_grass_0",
       "image": -1,
       "matches_resource": "core_2_Swamp_Grass",
-      "name": "Grama do Pântano",
+      "name": "Grama de Pântano",
       "scenarios": [
         {
           "building_maps": [],
@@ -24012,7 +24013,7 @@
       "id": "core_2_swamp_guardians_1",
       "image": -1,
       "matches_resource": "2922",
-      "name": "Guardas do Pântano",
+      "name": "Guardiões do Pântano",
       "scenarios": [
         {
           "building_maps": [],
@@ -24192,7 +24193,7 @@
       "id": "core_2_swamp_honey_1",
       "image": -1,
       "matches_resource": "820",
-      "name": "Mel do Pântano",
+      "name": "Mel de Pântano",
       "scenarios": [
         {
           "building_maps": [],
@@ -24228,7 +24229,7 @@
       "id": "core_2_healing_herbs_1",
       "image": -1,
       "matches_resource": "core_2_Healing_Herbs",
-      "name": "Ervas Medicinais",
+      "name": "Ervas Curativas",
       "scenarios": [
         {
           "building_maps": [],
@@ -24264,7 +24265,7 @@
       "id": "core_2_mossman_1",
       "image": -1,
       "matches_resource": "core_2_Live_Moss",
-      "name": "Homem de Musgo",
+      "name": "Homem-Musgo",
       "scenarios": [
         {
           "building_maps": [],
@@ -24300,7 +24301,7 @@
       "id": "core_2_amber_deposit_1",
       "image": -1,
       "matches_resource": "2117",
-      "name": "Depósito de Âmbar",
+      "name": "Jazida de Âmbar",
       "scenarios": [
         {
           "building_maps": [],
@@ -24336,7 +24337,7 @@
       "id": "core_2_spikehump_1",
       "image": -1,
       "matches_resource": "2911",
-      "name": "Espinho-Corcunda",
+      "name": "Gibapique",
       "scenarios": [
         {
           "building_maps": [],
@@ -24408,7 +24409,7 @@
       "id": "core_2_mush_wood_1",
       "image": -1,
       "matches_resource": "core_2_Mush_Log",
-      "name": "Árvore de Cogumelos",
+      "name": "Árvore de Cogumelo",
       "scenarios": [
         {
           "building_maps": [],
@@ -24444,7 +24445,7 @@
       "id": "core_2_paralyzing_mushroom_1",
       "image": -1,
       "matches_resource": "core_2_Paralyzing_Mushroom",
-      "name": "Cogumelo Paralisante",
+      "name": "Cogumelo Paralisantе",
       "scenarios": [
         {
           "building_maps": [],
@@ -24516,7 +24517,7 @@
       "id": "core_2_ground_jelly_1",
       "image": -1,
       "matches_resource": "core_2_Ground_Jelly",
-      "name": "Geléia Terrestre",
+      "name": "Geleia de Chão",
       "scenarios": [
         {
           "building_maps": [],
@@ -24672,7 +24673,7 @@
       "id": "core_2_marshwort_1",
       "image": -1,
       "matches_resource": "2503",
-      "name": "Erva do Pântano 1",
+      "name": "Marrato 1",
       "scenarios": [
         {
           "building_maps": [
@@ -24752,7 +24753,7 @@
       "difficulty": 0,
       "id": "core_2_pirate_bay_1",
       "image": 265,
-      "name": "Baía do Pirata",
+      "name": "Baía dos Piratas",
       "scenarios": [
         {
           "building_maps": [
@@ -24799,7 +24800,7 @@
       "difficulty": 0,
       "id": "core_2_pirate_bay_2",
       "image": 265,
-      "name": "Baía do Pirata",
+      "name": "Baía dos Piratas",
       "scenarios": [
         {
           "building_maps": [
@@ -24847,7 +24848,7 @@
       "difficulty": 0,
       "id": "core_2_pirate_bay_3",
       "image": 265,
-      "name": "Baía do Pirata",
+      "name": "Baía dos Piratas",
       "scenarios": [
         {
           "building_maps": [
@@ -24895,7 +24896,7 @@
       "difficulty": 0,
       "id": "core_2_pirate_bay_4",
       "image": 265,
-      "name": "Baía do Pirata",
+      "name": "Baía dos Piratas",
       "scenarios": [
         {
           "building_maps": [
@@ -24943,7 +24944,7 @@
       "difficulty": 0,
       "id": "core_2_pirate_bay_5",
       "image": 265,
-      "name": "Baía do Pirata",
+      "name": "Baía dos Piratas",
       "scenarios": [
         {
           "building_maps": [
@@ -24991,7 +24992,7 @@
       "difficulty": 0,
       "id": "core_2_pirate_bay_6",
       "image": 265,
-      "name": "Baía do Pirata",
+      "name": "Baía dos Piratas",
       "scenarios": [
         {
           "building_maps": [
@@ -25039,7 +25040,7 @@
       "difficulty": 0,
       "id": "core_2_pirate_bay_7",
       "image": 265,
-      "name": "Baía do Pirata",
+      "name": "Baía dos Piratas",
       "scenarios": [
         {
           "building_maps": [
@@ -25087,7 +25088,7 @@
       "difficulty": 0,
       "id": "core_2_pirate_bay_8",
       "image": 265,
-      "name": "Baía do Pirata",
+      "name": "Baía dos Piratas",
       "scenarios": [
         {
           "building_maps": [
@@ -25135,7 +25136,7 @@
       "difficulty": 0,
       "id": "core_2_pirate_bay_9",
       "image": 265,
-      "name": "Baía do Pirata",
+      "name": "Baía dos Piratas",
       "scenarios": [
         {
           "building_maps": [
@@ -25225,7 +25226,7 @@
       "id": "core_2_bearberry_1",
       "image": -1,
       "matches_resource": "core_2_Bearberry",
-      "name": "Amora-de-urso",
+      "name": "Uva-ursina",
       "scenarios": [
         {
           "building_maps": [],
@@ -25264,7 +25265,7 @@
       "id": "core_2_juniper_1",
       "image": -1,
       "matches_resource": "core_2_Juniper_Fruit",
-      "name": "Zimbro",
+      "name": "Junípero",
       "scenarios": [
         {
           "building_maps": [],
@@ -25382,7 +25383,7 @@
       "id": "core_2_gopher_1",
       "image": -1,
       "matches_resource": "core_2_Gopher_Teeth",
-      "name": "Gopher",
+      "name": "Tuco-tuco",
       "scenarios": [
         {
           "building_maps": [],
@@ -25496,7 +25497,7 @@
       "difficulty": 1,
       "id": "core_2_stone_circle_1",
       "image": 280,
-      "name": "Círculo de Pedras",
+      "name": "Círculo de Pedra",
       "scenarios": [
         {
           "area_background": {},
@@ -25645,7 +25646,7 @@
       "difficulty": 1,
       "id": "core_2_overgrown_hut_2",
       "image": 282,
-      "name": "Cabana Coberta de Vegetação",
+      "name": "Cabana Coberta de Mato",
       "scenarios": [
         {
           "building_maps": [
@@ -25846,7 +25847,7 @@
       "id": "core_2_speargress_1",
       "image": -1,
       "matches_resource": "core_2_Speargrass_Root",
-      "name": "Grama-de-Lança",
+      "name": "Capim-lança",
       "scenarios": [
         {
           "internal_name": "Speargrass 1",
@@ -25884,7 +25885,7 @@
       "id": "core_2_coyote_1",
       "image": -1,
       "matches_resource": "core_2_Coyote_Fur",
-      "name": "Coióte",
+      "name": "Coiote",
       "scenarios": [
         {
           "internal_name": "Coyote 1",
@@ -25980,7 +25981,7 @@
       "id": "core_2_lemming_1",
       "image": -1,
       "matches_resource": "core_2_Lemming_Teeth",
-      "name": "Lemingue",
+      "name": "Lemmingue",
       "scenarios": [
         {
           "internal_name": "Lemming 1",
@@ -26094,7 +26095,7 @@
       "id": "core_2_bobcat_1",
       "image": -1,
       "matches_resource": "core_2_Bobcat_Fur",
-      "name": "Lince",
+      "name": "Lince-vermelho",
       "scenarios": [
         {
           "internal_name": "Bobcat 1",
@@ -26132,7 +26133,7 @@
       "id": "core_2_milkweed_1",
       "image": -1,
       "matches_resource": "core_2_Milkweed_Flower",
-      "name": "Asclépia",
+      "name": "Algodão",
       "scenarios": [
         {
           "internal_name": "Milkweed 1",
@@ -26360,7 +26361,7 @@
       "id": "core_2_fennec_1",
       "image": -1,
       "matches_resource": "core_2_Fennec_Fur",
-      "name": "Raposa-Feneco",
+      "name": "Raposa-fennec",
       "scenarios": [
         {
           "internal_name": "Fennec Fox 1",
@@ -27105,7 +27106,7 @@
       "id": "core_2_cancdelabra_1",
       "image": -1,
       "matches_resource": "core_2_Candelabra_Log",
-      "name": "Castiçal",
+      "name": "Candelabro",
       "scenarios": [
         {
           "internal_name": "Candelabra 1",
@@ -27257,7 +27258,7 @@
       "id": "core_2_elephant_grass_1",
       "image": -1,
       "matches_resource": "core_2_Elephant_Grass",
-      "name": "Capim Elefante",
+      "name": "Capim-elefante",
       "scenarios": [
         {
           "internal_name": "Elephant Grass 1",
@@ -27453,7 +27454,7 @@
       "id": "core_2_wolverine",
       "image": -1,
       "matches_resource": "core_2_Wolverine_Claw",
-      "name": "Carívoro",
+      "name": "Glutão",
       "scenarios": [
         {
           "internal_name": "Wolverine 1",
@@ -27718,7 +27719,7 @@
       "id": "core_2_savory",
       "image": -1,
       "matches_resource": "core_2_Savory_Branch",
-      "name": "Segurel",
+      "name": "Segurelha",
       "scenarios": [
         {
           "internal_name": "Savory 1",
@@ -28746,7 +28747,7 @@
       "id": "core_2_silkworm",
       "image": -1,
       "matches_resource": "core_2_Silk_Thread",
-      "name": "Bicho-da-Seda",
+      "name": "Bicho-da-seda",
       "scenarios": [
         {
           "internal_name": "Silkworm 1",
@@ -28980,7 +28981,7 @@
       "difficulty": -1,
       "id": "core_2_tumbleweed",
       "image": -1,
-      "name": "Erva-rolante",
+      "name": "Cardo-viajante",
       "scenarios": [
         {
           "internal_name": "Tumbleweed 1",
@@ -29058,7 +29059,7 @@
       "difficulty": -1,
       "id": "core_2_bluebell",
       "image": -1,
-      "name": "Campânula",
+      "name": "Campainha",
       "scenarios": [
         {
           "internal_name": "Bluebell 1",
@@ -29103,7 +29104,7 @@
       "difficulty": -1,
       "id": "core_2_boulder_1",
       "image": -1,
-      "name": "Pedregulho 1",
+      "name": "Pedra 1",
       "scenarios": [
         {
           "internal_name": "Boulder 1",
@@ -29140,7 +29141,7 @@
       "difficulty": -1,
       "id": "core_2_boulder_2",
       "image": -1,
-      "name": "Pedregulho 2",
+      "name": "Pedra 2",
       "scenarios": [
         {
           "internal_name": "Boulder 2",
@@ -29216,7 +29217,7 @@
       "difficulty": -1,
       "id": "core_2_poison_parsley",
       "image": -1,
-      "name": "Salsa Veneno",
+      "name": "Salsa Venenosa",
       "scenarios": [
         {
           "internal_name": "Poison Parsley",
@@ -29255,7 +29256,7 @@
       "difficulty": -1,
       "id": "core_2_spurge",
       "image": -1,
-      "name": "Euphorbia",
+      "name": "Tiririca",
       "scenarios": [
         {
           "internal_name": "Spurge",
@@ -29295,7 +29296,7 @@
       "difficulty": -1,
       "id": "core_2_buttercap",
       "image": -1,
-      "name": "Chapelinho",
+      "name": "Chapéu-de-manteiga",
       "scenarios": [
         {
           "internal_name": "Buttercap",
@@ -29330,7 +29331,7 @@
       "difficulty": -1,
       "id": "core_2_bear_trap",
       "image": -1,
-      "name": "Armadilha de Urso",
+      "name": "Armadilha-de-urso",
       "scenarios": [
         {
           "internal_name": "Beartrap",
@@ -29369,7 +29370,7 @@
       "difficulty": -1,
       "id": "core_2_chopping",
       "image": -1,
-      "name": "Toco de Corte",
+      "name": "Bloco de Corte",
       "scenarios": [
         {
           "internal_name": "Chopping Block",
@@ -29603,7 +29604,7 @@
       "difficulty": -1,
       "id": "core_2_fresh_grave1",
       "image": -1,
-      "name": "Túmulo Fresco",
+      "name": "Cova Fresca",
       "scenarios": [
         {
           "internal_name": "Fresh Grave",
@@ -29657,7 +29658,7 @@
       "difficulty": -1,
       "id": "core_2_fresh_grave2",
       "image": -1,
-      "name": "Túmulo Fresco",
+      "name": "Cova Fresca",
       "scenarios": [
         {
           "internal_name": "Fresh Grave",
@@ -29699,7 +29700,7 @@
       "difficulty": -1,
       "id": "core_2_dog",
       "image": -1,
-      "name": "Cachorro",
+      "name": "Cão",
       "scenarios": [
         {
           "internal_name": "Dog",
@@ -29782,7 +29783,7 @@
       "difficulty": -1,
       "id": "core_2_waterskin",
       "image": -1,
-      "name": "Odre",
+      "name": "Cantil",
       "scenarios": [
         {
           "internal_name": "Waterskin",
@@ -29907,7 +29908,7 @@
       "id": "core_2_mulberry",
       "image": -1,
       "matches_resource": "core_2_Mulberry",
-      "name": "Amora",
+      "name": "Amoreira",
       "scenarios": [
         {
           "internal_name": "Mulberry",
@@ -30050,7 +30051,7 @@
       "difficulty": 3,
       "id": "core_2_acorn_town_1",
       "image": 315,
-      "name": "Cidade Bolota",
+      "name": "Vila da Bolota",
       "scenarios": [
         {
           "building_maps": [
@@ -30337,7 +30338,7 @@
       "difficulty": -1,
       "id": "core_2_vine_statue",
       "image": -1,
-      "name": "Estátua de Trepadeira",
+      "name": "Estátua de Cipó",
       "scenarios": [
         {
           "internal_name": "Vine Statue",
@@ -30435,7 +30436,7 @@
       "difficulty": 4,
       "id": "core_2_stork_temple_1",
       "image": 318,
-      "name": "O Grande Templo da Cegonha",
+      "name": "O Templo da Grande Cegonha",
       "scenarios": [
         {
           "building_maps": [
@@ -31095,7 +31096,7 @@
       "difficulty": 2,
       "id": "core_2_hounding_grounds",
       "image": 319,
-      "name": "Terras de Caça",
+      "name": "Terrenos de Caçada",
       "scenarios": [
         {
           "building_maps": [
@@ -31290,7 +31291,7 @@
       "difficulty": 1,
       "id": "core_2_hermit_hut",
       "image": 323,
-      "name": "Cabana do Ermitão",
+      "name": "Cabana do Eremita",
       "scenarios": [
         {
           "building_maps": [
@@ -31380,7 +31381,7 @@
       "difficulty": 1,
       "id": "core_2_training_camp_1",
       "image": 326,
-      "name": "Campo de Treinamento",
+      "name": "Acampamento de Treino",
       "scenarios": [
         {
           "building_maps": [
@@ -31686,7 +31687,7 @@
       "id": "core_2_snow_herbs",
       "image": -1,
       "matches_resource": "core_2_Frozen_Herbs",
-      "name": "Ervas da Neve",
+      "name": "Ervas-da-neve",
       "scenarios": [
         {
           "building_maps": [],
@@ -31727,7 +31728,7 @@
       "id": "core_2_fossil_wood",
       "image": -1,
       "matches_resource": "core_2_Fossil_Wood",
-      "name": "Madeira Fóssil",
+      "name": "Covil da Acidara",
       "scenarios": [
         {
           "building_maps": [],
@@ -31770,7 +31771,7 @@
       "difficulty": 4,
       "id": "core_2_acidara_lair_1",
       "image": 327,
-      "name": "Covil de Acidara",
+      "name": "Madeira Fóssil",
       "scenarios": [
         {
           "building_maps": [
@@ -32007,7 +32008,7 @@
       "difficulty": -1,
       "id": "core_2_frog",
       "image": -1,
-      "name": "Sapo",
+      "name": "Rã",
       "scenarios": [
         {
           "internal_name": "Frog 1",
@@ -32109,7 +32110,7 @@
       "difficulty": -1,
       "id": "core_2_sloth",
       "image": -1,
-      "name": "Preguiça",
+      "name": "Bicho-preguiça",
       "scenarios": [
         {
           "internal_name": "Sloth 1",
@@ -32211,7 +32212,7 @@
       "difficulty": -1,
       "id": "core_2_woodpecker",
       "image": -1,
-      "name": "Pica-Pau",
+      "name": "Pica-pau",
       "scenarios": [
         {
           "internal_name": "Woodpecker 1",
@@ -32349,7 +32350,7 @@
       "difficulty": -1,
       "id": "core_2_pika",
       "image": -1,
-      "name": "Pika",
+      "name": "Pica",
       "scenarios": [
         {
           "internal_name": "Pika",
@@ -32453,7 +32454,7 @@
       "difficulty": 4,
       "id": "core_2_frost_spire_1",
       "image": 340,
-      "name": "Espira de Gelo",
+      "name": "Torre da Geada",
       "scenarios": [
         {
           "area_background": {
@@ -33283,7 +33284,7 @@
       "difficulty": 3,
       "id": "core_2_creepy_carnival_1",
       "image": 343,
-      "name": "Carnaval Macabro",
+      "name": "Carnaval Sinistro",
       "scenarios": [
         {
           "building_maps": [
@@ -33519,7 +33520,7 @@
       "difficulty": -1,
       "id": "core_2_shrine",
       "image": -1,
-      "name": "Santuario",
+      "name": "Santuário",
       "scenarios": [
         {
           "internal_name": "Shrine",
@@ -33561,7 +33562,7 @@
       "difficulty": -1,
       "id": "core_2_pray",
       "image": -1,
-      "name": "Rezar",
+      "name": "Oração",
       "scenarios": [
         {
           "internal_name": "Pray",
@@ -33747,7 +33748,7 @@
       "id": "core_2_puffball1",
       "image": -1,
       "matches_resource": "core_2_Puffball_Mushroom",
-      "name": "Bola-de-Fumo",
+      "name": "Bovista",
       "scenarios": [
         {
           "building_maps": [],
@@ -33819,7 +33820,7 @@
       "id": "core_2_ribwort_1",
       "image": -1,
       "matches_resource": "core_2_Ribwort",
-      "name": "Plantago",
+      "name": "Erva-de-sete-nervos",
       "scenarios": [
         {
           "building_maps": [],
@@ -33891,7 +33892,7 @@
       "id": "core_2_elderberry_1",
       "image": -1,
       "matches_resource": "core_2_Elderberry",
-      "name": "Sabugueiro",
+      "name": "Sabugo",
       "scenarios": [
         {
           "building_maps": [],
@@ -33963,7 +33964,7 @@
       "id": "core_2_misfortune_2",
       "image": -1,
       "matches_resource": "core_2_Misfortune_Leaves",
-      "name": "Azar",
+      "name": "Infortúnio",
       "scenarios": [
         {
           "building_maps": [],
@@ -34143,7 +34144,7 @@
       "id": "core_2_bluegrass_1",
       "image": -1,
       "matches_resource": "core_2_Bluegrass",
-      "name": "Grama Azul",
+      "name": "Grama-azul",
       "scenarios": [
         {
           "building_maps": [],
@@ -34178,7 +34179,7 @@
       "difficulty": -1,
       "id": "core_2_cauli_shroom2",
       "image": -1,
-      "name": "Cogumelo Couve-Flor",
+      "name": "Cogumelo-couve-flor",
       "scenarios": [
         {
           "building_maps": [],
@@ -34252,7 +34253,7 @@
       "difficulty": -1,
       "id": "core_2_sunshade2",
       "image": -1,
-      "name": "Sombrinha",
+      "name": "Sol-sombra",
       "scenarios": [
         {
           "building_maps": [],
@@ -34288,7 +34289,7 @@
       "difficulty": -1,
       "id": "core_2_puffball2",
       "image": -1,
-      "name": "Bola-de-Fumo",
+      "name": "Bovista",
       "scenarios": [
         {
           "building_maps": [],
@@ -34358,7 +34359,7 @@
       "difficulty": -1,
       "id": "core_2_ribwort_3",
       "image": -1,
-      "name": "Plantago",
+      "name": "Erva-de-ribeiro",
       "scenarios": [
         {
           "building_maps": [],
@@ -34428,7 +34429,7 @@
       "difficulty": -1,
       "id": "core_2_elderberry_3",
       "image": -1,
-      "name": "Sabugueiro",
+      "name": "Sabugo",
       "scenarios": [
         {
           "building_maps": [],
@@ -34463,7 +34464,7 @@
       "difficulty": -1,
       "id": "core_2_datura_1",
       "image": -1,
-      "name": "Datura",
+      "name": "Estramônio",
       "scenarios": [
         {
           "building_maps": [],
@@ -34502,7 +34503,7 @@
       "difficulty": -1,
       "id": "core_2_misfortune_1",
       "image": -1,
-      "name": "Azar",
+      "name": "Infortúnio",
       "scenarios": [
         {
           "building_maps": [],
@@ -34677,7 +34678,7 @@
       "difficulty": -1,
       "id": "core_2_bluegrass_3",
       "image": -1,
-      "name": "Grama Azul",
+      "name": "Capim-azul",
       "scenarios": [
         {
           "building_maps": [],
@@ -35087,7 +35088,7 @@
       "difficulty": -1,
       "id": "core_2_burning_tample_1",
       "image": -1,
-      "name": "Templo em Chamas",
+      "name": "Templo Ardente",
       "scenarios": [
         {
           "building_maps": [
@@ -35195,7 +35196,7 @@
       "difficulty": -1,
       "id": "core_2_nature_circle_1",
       "image": -1,
-      "name": "Círculo da Natureza",
+      "name": "Círculo Natural",
       "scenarios": [
         {
           "building_maps": [
@@ -35424,7 +35425,7 @@
       "difficulty": -1,
       "id": "core_2_pond_1",
       "image": -1,
-      "name": "Lagoa",
+      "name": "Poça",
       "scenarios": [
         {
           "internal_name": "Pond 1",
@@ -35464,7 +35465,7 @@
       "difficulty": -1,
       "id": "core_2_spruce_2",
       "image": -1,
-      "name": "Picea",
+      "name": "Abeto",
       "scenarios": [
         {
           "internal_name": "Spruce 1",
@@ -35504,7 +35505,7 @@
       "difficulty": -1,
       "id": "core_2_mushwood_2",
       "image": -1,
-      "name": "Madeira de Cogumelo",
+      "name": "Bosque de Cogumelo",
       "scenarios": [
         {
           "internal_name": "Mushwood 1",
@@ -35549,7 +35550,7 @@
       "difficulty": -1,
       "id": "core_2_waterskin_2",
       "image": -1,
-      "name": "Odre",
+      "name": "Cantil",
       "scenarios": [
         {
           "internal_name": "Waterskin 2",
@@ -35598,7 +35599,7 @@
       "difficulty": -1,
       "id": "core_2_fennec_2",
       "image": -1,
-      "name": "Raposa-Feneco",
+      "name": "Raposa-fennec",
       "scenarios": [
         {
           "internal_name": "Fennec Fox 2",
@@ -35725,7 +35726,7 @@
       "difficulty": -1,
       "id": "core_2_forest_berries_1",
       "image": -1,
-      "name": "Frutas da Floresta",
+      "name": "Bagas da Floresta",
       "scenarios": [
         {
           "internal_name": "Forest Berries 1",
@@ -35794,7 +35795,7 @@
       "difficulty": -1,
       "id": "core_2_bobcat_2",
       "image": -1,
-      "name": "Lince",
+      "name": "Lince-vermelho",
       "scenarios": [
         {
           "internal_name": "Bobcat 2",
@@ -35853,7 +35854,7 @@
       "difficulty": -1,
       "id": "core_2_forest_wolves_2",
       "image": -1,
-      "name": "Lince",
+      "name": "Lince-vermelho",
       "scenarios": [
         {
           "internal_name": "Wolves 2",
@@ -36069,7 +36070,7 @@
       "difficulty": -1,
       "id": "core_2_mossman_2",
       "image": -1,
-      "name": "Homem de Musgo",
+      "name": "Mossman",
       "scenarios": [
         {
           "internal_name": "Mossman 2",
@@ -36483,7 +36484,7 @@
       "difficulty": -1,
       "id": "core_2_mulberry_2",
       "image": -1,
-      "name": "Amora",
+      "name": "Amoreira",
       "scenarios": [
         {
           "internal_name": "Mulberry 2",
@@ -36623,7 +36624,7 @@
       "difficulty": -1,
       "id": "core_2_boulder_3",
       "image": -1,
-      "name": "Pedregulho 3",
+      "name": "Pedra 3",
       "scenarios": [
         {
           "internal_name": "Boulder 3",
@@ -36850,7 +36851,7 @@
       "difficulty": -1,
       "id": "core_2_wolverine_2",
       "image": -1,
-      "name": "Carívoro",
+      "name": "Glutão",
       "scenarios": [
         {
           "internal_name": "Wolverine 2",
@@ -36909,7 +36910,7 @@
       "difficulty": -1,
       "id": "core_2_elderberry_2",
       "image": -1,
-      "name": "Sabugueiro",
+      "name": "Sabugo",
       "scenarios": [
         {
           "internal_name": "Elderberry 2",
@@ -37518,7 +37519,7 @@
       "difficulty": -1,
       "id": "core_2_speargreass_2",
       "image": -1,
-      "name": "Grama-de-Lança",
+      "name": "Capim-lança",
       "scenarios": [
         {
           "internal_name": "Speargrass 2",
@@ -37685,7 +37686,7 @@
       "difficulty": -1,
       "id": "core_2_acacia_2",
       "image": -1,
-      "name": "Acácia",
+      "name": "acácia",
       "scenarios": [
         {
           "internal_name": "Acacia 2",
@@ -37734,7 +37735,7 @@
       "difficulty": -1,
       "id": "core_2_candelabra_2",
       "image": -1,
-      "name": "Castiçal",
+      "name": "Candelabro",
       "scenarios": [
         {
           "internal_name": "Candelabra 2",
@@ -37793,7 +37794,7 @@
       "difficulty": -1,
       "id": "core_2_candelabra_3",
       "image": -1,
-      "name": "Castiçal",
+      "name": "Candelabro",
       "scenarios": [
         {
           "internal_name": "Candelabra 2",
@@ -37956,7 +37957,7 @@
       "difficulty": -1,
       "id": "core_2_maple_2",
       "image": -1,
-      "name": "Bordo",
+      "name": "bordo",
       "scenarios": [
         {
           "internal_name": "Maple 2",
@@ -38005,7 +38006,7 @@
       "difficulty": -1,
       "id": "core_2_aspen_2",
       "image": -1,
-      "name": "Álamo",
+      "name": "Choupo",
       "scenarios": [
         {
           "internal_name": "Aspen 2",
@@ -38310,7 +38311,7 @@
       "difficulty": -1,
       "id": "core_2_silkworm_2",
       "image": -1,
-      "name": "Bicho-da-Seda",
+      "name": "Bicho-da-seda",
       "scenarios": [
         {
           "internal_name": "Silkworm 2",
@@ -38369,7 +38370,7 @@
       "difficulty": -1,
       "id": "core_2_savory_2",
       "image": -1,
-      "name": "Segurel",
+      "name": "Segurelha",
       "scenarios": [
         {
           "internal_name": "Savory 2",
@@ -38487,7 +38488,7 @@
       "difficulty": -1,
       "id": "core_2_coconut_2",
       "image": -1,
-      "name": "Coqueiros",
+      "name": "Palmeiras de Coco",
       "scenarios": [
         {
           "internal_name": "Coconut 2",
@@ -38723,7 +38724,7 @@
       "difficulty": -1,
       "id": "core_2_milkweed_2",
       "image": -1,
-      "name": "Asclépia",
+      "name": "Algodão-de-seda",
       "scenarios": [
         {
           "internal_name": "Milkweed 2",
@@ -38782,7 +38783,7 @@
       "difficulty": -1,
       "id": "core_2_milkweed_3",
       "image": -1,
-      "name": "Asclépia",
+      "name": "Algodão",
       "scenarios": [
         {
           "internal_name": "Milkweed 2",
@@ -38890,7 +38891,7 @@
       "difficulty": -1,
       "id": "core_2_bearberry_2",
       "image": -1,
-      "name": "Amora-de-urso",
+      "name": "Uva-ursina",
       "scenarios": [
         {
           "internal_name": "Bearberry 2",
@@ -38939,7 +38940,7 @@
       "difficulty": -1,
       "id": "core_2_juniper_2",
       "image": -1,
-      "name": "Zimbro",
+      "name": "Junípero",
       "scenarios": [
         {
           "internal_name": "Juniper 2",
@@ -39037,7 +39038,7 @@
       "difficulty": -1,
       "id": "core_2_gopher_2",
       "image": -1,
-      "name": "Gopher",
+      "name": "Tuco-tuco",
       "scenarios": [
         {
           "internal_name": "Gopher 2",
@@ -39155,7 +39156,7 @@
       "difficulty": -1,
       "id": "core_2_lemming_2",
       "image": -1,
-      "name": "Lemingue",
+      "name": "Lemming",
       "scenarios": [
         {
           "internal_name": "Lemming 2",
@@ -39391,7 +39392,7 @@
       "difficulty": -1,
       "id": "core_2_bluegrass_2",
       "image": -1,
-      "name": "Grama Azul",
+      "name": "Campo Azul",
       "scenarios": [
         {
           "internal_name": "Bluegrass 2",
@@ -39494,7 +39495,7 @@
       "id": "core_2_travertine_stone",
       "image": -1,
       "matches_resource": "core_2_Travertine_Block",
-      "name": "Pedra Travertino",
+      "name": "Pedra de Travertino",
       "scenarios": [
         {
           "building_maps": [],
@@ -39705,7 +39706,7 @@
       "difficulty": 2,
       "id": "core_2_toad_village",
       "image": 329,
-      "name": "Aldeia dos Sapos",
+      "name": "Vila do Sapo",
       "scenarios": [
         {
           "building_maps": [
@@ -39797,7 +39798,7 @@
       "difficulty": 2,
       "id": "core_2_araxden_nest",
       "image": 348,
-      "name": "Ninho de Araxden",
+      "name": "Ninho do Araxden",
       "scenarios": [
         {
           "building_maps": [
@@ -40013,7 +40014,7 @@
       "difficulty": 1,
       "id": "core_2_oak_forest",
       "image": 349,
-      "name": "Floresta de Carvalhos",
+      "name": "Floresta de Carvalho",
       "scenarios": [
         {
           "building_maps": [
@@ -40174,7 +40175,7 @@
       "difficulty": -1,
       "id": "core_2_berry_basket",
       "image": -1,
-      "name": "Cesta de Frutas Silvestres",
+      "name": "Cesto de Bagas",
       "scenarios": [
         {
           "building_maps": [],
@@ -40393,7 +40394,7 @@
       "difficulty": -1,
       "id": "core_2_face_totem",
       "image": -1,
-      "name": "Totem de Rosto",
+      "name": "Totem Facial",
       "scenarios": [
         {
           "building_maps": [],
@@ -40481,7 +40482,7 @@
       "difficulty": 2,
       "id": "core_2_dire_pasture",
       "image": 138,
-      "name": "Pastagem Lúgubre",
+      "name": "Pastagem Sinistra",
       "scenarios": [
         {
           "building_maps": [
@@ -40962,7 +40963,7 @@
       "difficulty": 5,
       "id": "core_2_desert_worm",
       "image": 139,
-      "name": "Vermes do Deserto",
+      "name": "Verme do Deserto",
       "scenarios": [
         {
           "building_maps": [
@@ -41466,7 +41467,7 @@
       "difficulty": 5,
       "id": "core_2_hatching_place",
       "image": 124,
-      "name": "Local de Chocagem",
+      "name": "Local de Eclosão",
       "scenarios": [
         {
           "building_maps": [
@@ -41769,7 +41770,7 @@
       "difficulty": 5,
       "id": "core_2_mushdragon",
       "image": 126,
-      "name": "Dragão-Cogumelo",
+      "name": "Dragão de Cogumelo",
       "scenarios": [
         {
           "building_maps": [
@@ -42000,7 +42001,7 @@
       "difficulty": 5,
       "id": "core_2_dooming_mountain",
       "image": 217,
-      "name": "Montanha Condenada",
+      "name": "Montanha da Perdição",
       "scenarios": [
         {
           "building_maps": [
@@ -42956,7 +42957,7 @@
       "difficulty": 5,
       "id": "core_2_ettin_cave",
       "image": 111,
-      "name": "Cavernas do Ettin",
+      "name": "Caverna do Ettin",
       "scenarios": [
         {
           "building_maps": [
@@ -43135,7 +43136,7 @@
       "id": "core_2_herald_of_rot",
       "image": 112,
       "event_only": true,
-      "name": "Arauto da Podridão",
+      "name": "Círculo Apodrecido",
       "scenarios": [
         {
           "building_maps": [
@@ -43231,69 +43232,81 @@
         }
       },
       "biomes": [
-        "grasslands"
+        "savanna"
       ],
-      "difficulty": 0,
-      "id": "core_2_thief_hideout",
-      "image": 114,
+      "difficulty": 1,
+      "id": "core_2_great_hunt_area",
+      "image": 173,
       "event_only": true,
-      "name": "Esconderijo dos Ladrões",
+      "name": "Área da Grande Caçada",
       "scenarios": [
         {
-          "building_maps": [
+          "building_maps": [],
+          "internal_name": "Baboons",
+          "rewards": [],
+          "spawns": [
             {
-              "count": [
-                1,
-                1
+              "amount": [
+                2,
+                4
               ],
-              "ids": [
-                "Thieves_Hideout_Entrence"
-              ],
-              "mode": "one_of",
-              "placement": "carve"
+              "chance": 1.0,
+              "entities": [
+                "core_2_Mad_Baboon"
+              ]
             }
-          ],
-          "center_map": [],
-          "internal_name": "Thieves Hideout 0",
-          "spawns": [],
-          "z_level": 0
+          ]
         },
         {
-          "building_maps": [
+          "building_maps": [],
+          "internal_name": "Vultures",
+          "rewards": [],
+          "spawns": [
             {
-              "count": [
-                4,
-                5
+              "amount": [
+                2,
+                3
               ],
-              "ids": [
-                "Thieves_Hideout_1",
-                "Thieves_Hideout_2",
-                "Thieves_Hideout_4",
-                "Thieves_Hideout_5",
-                "Thieves_Hideout_6",
-                "Thieves_Hideout_7",
-                "Thievs_Hideout_3"
-              ],
-              "mode": "one_of",
-              "placement": "carve"
+              "chance": 1.0,
+              "entities": [
+                "core_2_Mad_Vulture"
+              ]
             }
-          ],
-          "center_map": [],
-          "internal_name": "Thieves Hideout 1",
+          ]
+        },
+        {
+          "building_maps": [],
+          "internal_name": "Hyenas",
+          "rewards": [],
           "spawns": [
             {
               "amount": [
                 3,
-                5
+                4
               ],
               "chance": 1.0,
               "entities": [
-                "core_2_Thief_Bandit"
-              ],
-              "spawn_on": []
+                "core_2_Mad_Hyena"
+              ]
             }
-          ],
-          "z_level": -1
+          ]
+        },
+        {
+          "building_maps": [],
+          "internal_name": "Lions",
+          "rewards": [],
+          "spawns": [
+            {
+              "amount": [
+                3,
+                4
+              ],
+              "chance": 1.0,
+              "entities": [
+                "core_2_Mad_Lion"
+              ]
+            }
+          ]
         }
       ]
     },
@@ -43320,78 +43333,624 @@
         "savanna"
       ],
       "difficulty": 0,
-      "id": "core_2_great_hunt_area",
-      "image": 173,
+      "id": "core_2_thief_hideout_2",
+      "image": 114,
       "event_only": true,
-      "name": "Área da Grande Caçada",
+      "name": "Esconderijo de Ladrões",
       "scenarios": [
         {
-          "building_maps": [],
-          "internal_name": "Baboons",
-          "rewards": [],
-          "spawns": [
+          "building_maps": [
             {
-              "amount": [
-                2,
-                4
+              "count": [
+                4,
+                5
               ],
-              "chance": 1.0,
-              "entities": [
-                "2081"
-              ]
+              "ids": [
+                "Gnoll_Hideout_1",
+                "Gnoll_Hideout_2",
+                "Gnoll_Hideout_3",
+                "Gnoll_Hideout_4",
+                "Gnoll_Hideout_5",
+                "Gnoll_Hideout_6",
+                "Gnoll_Hideout_7"
+              ],
+              "mode": "one_of",
+              "placement": "carve"
             }
-          ]
-        },
+          ],
+          "center_map": [],
+          "internal_name": "Thieves Hideout 0",
+          "spawns": [],
+          "z_level": 0
+        }
+      ]
+    },
+    {
+      "algorithm": {
+        "id": "simple_spawn",
+        "parameters": {
+          "carvables": [
+            "2018",
+            "242",
+            "8"
+          ],
+          "clear_threshold": 11,
+          "pre_fill_percent": 0.53,
+          "size": 4,
+          "smooth_iterations": 3,
+          "stairs_down": "2043",
+          "stairs_up": "2042",
+          "starting_z_level": 0,
+          "z_levels": 1
+        }
+      },
+      "biomes": [
+        "low_mountain"
+      ],
+      "difficulty": 0,
+      "id": "core_2_thief_hideout_3",
+      "image": 114,
+      "event_only": true,
+      "name": "Esconderijo de Ladrões",
+      "scenarios": [
         {
-          "building_maps": [],
-          "internal_name": "Vultures",
-          "rewards": [],
-          "spawns": [
+          "building_maps": [
             {
-              "amount": [
-                2,
-                3
+              "count": [
+                4,
+                5
               ],
-              "chance": 1.0,
-              "entities": [
-                "2056"
-              ]
+              "ids": [
+                "Hideout_5",
+                "Hideout_Orc_1",
+                "Hideout_Orc_3",
+                "Hideout_Orc_4",
+                "Hideout_Orc_6",
+                "Hideout_Orc_7",
+                "Hiedout_Orc_2"
+              ],
+              "mode": "one_of",
+              "placement": "carve"
             }
-          ]
-        },
+          ],
+          "center_map": [],
+          "internal_name": "Thieves Hideout 0",
+          "spawns": [],
+          "z_level": 0
+        }
+      ]
+    },
+    {
+      "algorithm": {
+        "id": "simple_spawn",
+        "parameters": {
+          "carvables": [
+            "2018",
+            "242",
+            "8"
+          ],
+          "clear_threshold": 11,
+          "pre_fill_percent": 0.53,
+          "size": 4,
+          "smooth_iterations": 3,
+          "stairs_down": "2043",
+          "stairs_up": "2042",
+          "starting_z_level": 0,
+          "z_levels": 1
+        }
+      },
+      "biomes": [
+        "low_mountain"
+      ],
+      "difficulty": 0,
+      "id": "core_2_thief_hideout_4",
+      "image": 114,
+      "event_only": true,
+      "name": "Esconderijo de Ladrões",
+      "scenarios": [
         {
-          "building_maps": [],
-          "internal_name": "Hyenas",
-          "rewards": [],
+          "building_maps": [
+            {
+              "count": [
+                4,
+                5
+              ],
+              "ids": [
+                "Goblin_Hideout_1",
+                "Goblin_Hideout_2",
+                "Goblin_Hideout_3",
+                "Goblin_Hideout_4",
+                "Goblin_Hideout_5",
+                "Goblin_Hideout_6",
+                "Goblin_Hideout_7"
+              ],
+              "mode": "one_of",
+              "placement": "carve"
+            }
+          ],
+          "center_map": [],
+          "internal_name": "Thieves Hideout 0",
+          "spawns": [],
+          "z_level": 0
+        }
+      ]
+    },
+    {
+      "algorithm": {
+        "id": "simple_spawn",
+        "parameters": {
+          "carvables": [
+            "2018",
+            "242",
+            "8"
+          ],
+          "clear_threshold": 11,
+          "pre_fill_percent": 0.53,
+          "size": 4,
+          "smooth_iterations": 3,
+          "stairs_down": "2043",
+          "stairs_up": "2042",
+          "starting_z_level": 0,
+          "z_levels": 1
+        }
+      },
+      "biomes": [
+        "tropical_rainforest"
+      ],
+      "difficulty": 0,
+      "id": "core_2_thief_hideout_5",
+      "image": 114,
+      "event_only": true,
+      "name": "Esconderijo de Ladrões",
+      "scenarios": [
+        {
+          "building_maps": [
+            {
+              "count": [
+                1,
+                1
+              ],
+              "ids": [
+                "Hideout_Rasimi_1",
+                "Hideout_Rasimi_2",
+                "Hideout_Rasimi_3"
+              ],
+              "mode": "one_of",
+              "placement": "carve"
+            }
+          ],
+          "center_map": [],
+          "internal_name": "Thieves Hideout 0",
+          "spawns": [],
+          "z_level": 0
+        }
+      ]
+    },
+    {
+      "algorithm": {
+        "id": "settlement",
+        "parameters": {
+          "carvables": [
+            "242",
+            "2018",
+            "621"
+          ],
+          "clear_threshold": 11,
+          "pre_fill_percent": 0.53,
+          "size": 7,
+          "smooth_iterations": 3,
+          "stairs_down": "2035",
+          "stairs_up": "2034",
+          "starting_z_level": 0,
+          "z_levels": -3
+        }
+      },
+      "biomes": [
+        "savanna"
+      ],
+      "difficulty": 5,
+      "id": "core_2_cerberus_lair_1",
+      "image": 115,
+      "name": "Covil do Cerberus",
+      "scenarios": [
+        {
+          "building_maps": [
+            {
+              "count": [
+                1,
+                1
+              ],
+              "ids": [
+                "Cerb_Entrance"
+              ],
+              "mode": "one_of",
+              "placement": "on_background"
+            }
+          ],
+          "internal_name": "Cerberus 0",
           "spawns": [
             {
               "amount": [
                 3,
-                4
+                5
+              ],
+              "chance": 1.0,
+              "entities": [
+                "2053"
+              ],
+              "spawn_on": []
+            }
+          ],
+          "z_level": 0
+        },
+        {
+          "building_maps": [
+            {
+              "count": [
+                17,
+                23
+              ],
+              "ids": [
+                "Cerb_1",
+                "Cerb_2",
+                "Cerb_3",
+                "Cerb_4",
+                "Cerb_5",
+                "Cerb_6",
+                "Cerb_7",
+                "Cerb_8",
+                "Cerb_9",
+                "Cerb_10",
+                "Cerb_11",
+                "Cerb_12",
+                "Cerb_13",
+                "Cerb_14",
+                "Cerb_15",
+                "Cerb_16"
+              ],
+              "mode": "one_of",
+              "placement": "carve"
+            }
+          ],
+          "internal_name": "Cerberus -1",
+          "rewards": [
+            {
+              "chance": 0.33,
+              "entity": "2421",
+              "objective": true,
+              "value": 10000
+            }
+          ],
+          "spawns": [
+            {
+              "amount": [
+                3,
+                6
               ],
               "chance": 1.0,
               "entities": [
                 "2053"
               ]
+            },
+            {
+              "amount": [
+                6,
+                9
+              ],
+              "chance": 1.0,
+              "entities": [
+                "2634"
+              ]
+            },
+            {
+              "amount": [
+                1,
+                2
+              ],
+              "chance": 1.0,
+              "entities": [
+                "2900"
+              ]
             }
-          ]
+          ],
+          "z_level": -1
         },
         {
-          "building_maps": [],
-          "internal_name": "Lions",
-          "rewards": [],
+          "building_maps": [
+            {
+              "count": [
+                17,
+                23
+              ],
+              "ids": [
+                "Cerb_1",
+                "Cerb_2",
+                "Cerb_3",
+                "Cerb_4",
+                "Cerb_5",
+                "Cerb_6",
+                "Cerb_7",
+                "Cerb_8",
+                "Cerb_9",
+                "Cerb_10",
+                "Cerb_11",
+                "Cerb_12",
+                "Cerb_13",
+                "Cerb_14",
+                "Cerb_15",
+                "Cerb_16"
+              ],
+              "mode": "one_of",
+              "placement": "carve"
+            }
+          ],
+          "internal_name": "Cerberus -2",
+          "rewards": [
+            {
+              "chance": 0.33,
+              "entity": "2421",
+              "objective": true,
+              "value": 10000
+            },
+            {
+              "chance": 1.0,
+              "entity": "2421",
+              "objective": true,
+              "value": 40000
+            }
+          ],
           "spawns": [
             {
               "amount": [
                 3,
+                6
+              ],
+              "chance": 1.0,
+              "entities": [
+                "2053"
+              ]
+            },
+            {
+              "amount": [
+                6,
+                9
+              ],
+              "chance": 1.0,
+              "entities": [
+                "2634"
+              ]
+            },
+            {
+              "amount": [
+                1,
+                2
+              ],
+              "chance": 1.0,
+              "entities": [
+                "2900"
+              ]
+            },
+            {
+              "amount": [
+                1,
+                1
+              ],
+              "chance": 1.0,
+              "entities": [
+                "core_2_Cerberus"
+              ]
+            }
+          ],
+          "z_level": -2
+        }
+      ]
+    },
+    {
+      "algorithm": {
+        "id": "simple_spawn",
+        "parameters": {
+          "carvables": [
+            "2018",
+            "242",
+            "8"
+          ],
+          "clear_threshold": 11,
+          "pre_fill_percent": 0.53,
+          "size": 4,
+          "smooth_iterations": 3,
+          "starting_z_level": 0,
+          "z_levels": 1
+        }
+      },
+      "biomes": [
+        "savanna",
+        "tropical_rainforest",
+        "low_mountain",
+        "mountain",
+        "grasslands",
+        "forest"
+      ],
+      "difficulty": 2,
+      "id": "core_2_fancy_villa_event",
+      "image": 119,
+      "event_only": true,
+      "name": "Mansão Luxuosa",
+      "scenarios": [
+        {
+          "building_maps": [
+            {
+              "count": [
+                1,
+                1
+              ],
+              "ids": [
+                "Fancy_Villa_1",
+                "Fancy_Villa_2"
+              ],
+              "mode": "one_of",
+              "placement": "on_background"
+            }
+          ],
+          "internal_name": "Fancy Villa",
+          "rewards": [],
+          "spawns": [
+            {
+              "amount": [
+                2,
                 4
               ],
               "chance": 1.0,
               "entities": [
-                "467"
+                "core_2_Villa_Resident"
+              ]
+            },
+            {
+              "amount": [
+                2,
+                4
+              ],
+              "chance": 1.0,
+              "entities": [
+                "core_2_Villa_Guard"
               ]
             }
-          ]
+          ],
+          "z_level": 0
+        },
+        {
+          "building_maps": [],
+          "internal_name": "Fancy Villa 2",
+          "rewards": [],
+          "spawns": [
+            {
+              "amount": [
+                2,
+                4
+              ],
+              "chance": 1.0,
+              "entities": [
+                "core_2_Villa_Resident"
+              ]
+            }
+          ],
+          "z_level": 1
+        }
+      ]
+    },
+    {
+      "algorithm": {
+        "id": "simple_spawn",
+        "parameters": {
+          "carvables": [
+            "2018",
+            "242",
+            "8"
+          ],
+          "clear_threshold": 11,
+          "pre_fill_percent": 0.53,
+          "size": 4,
+          "smooth_iterations": 3,
+          "starting_z_level": 0,
+          "z_levels": 3
+        }
+      },
+      "biomes": [
+        "savanna",
+        "tropical_rainforest",
+        "low_mountain",
+        "mountain",
+        "grasslands",
+        "forest"
+      ],
+      "difficulty": 2,
+      "id": "core_2_wizard_tower_event",
+      "image": 100,
+      "event_only": true,
+      "name": "Torre do Mago",
+      "scenarios": [
+        {
+          "building_maps": [
+            {
+              "count": [
+                1,
+                1
+              ],
+              "ids": [
+                "Wizard_Tower_2",
+                "Wizard_Tower_I"
+              ],
+              "mode": "one_of",
+              "placement": "on_background"
+            }
+          ],
+          "internal_name": "Wizard's Tower 0",
+          "rewards": [],
+          "spawns": [],
+          "z_level": 0
+        },
+        {
+          "building_maps": [],
+          "internal_name": "Wizard's Tower 1",
+          "rewards": [],
+          "spawns": [
+            {
+              "amount": [
+                5,
+                7
+              ],
+              "chance": 1.0,
+              "entities": [
+                "core_2_Tiny_Dragon"
+              ]
+            }
+          ],
+          "z_level": 1
+        },
+        {
+          "building_maps": [],
+          "internal_name": "Wizard's Tower 1",
+          "rewards": [],
+          "spawns": [
+            {
+              "amount": [
+                5,
+                7
+              ],
+              "chance": 1.0,
+              "entities": [
+                "core_2_Tiny_Dragon"
+              ]
+            }
+          ],
+          "z_level": 2
+        },
+        {
+          "building_maps": [],
+          "internal_name": "Wizard's Tower 1",
+          "rewards": [],
+          "spawns": [
+            {
+              "amount": [
+                1,
+                3
+              ],
+              "chance": 1.0,
+              "entities": [
+                "core_2_Tiny_Dragon"
+              ]
+            },
+            {
+              "amount": [
+                1,
+                1
+              ],
+              "chance": 1.0,
+              "entities": [
+                "core_2_Rigar_the_Wizard"
+              ]
+            }
+          ],
+          "z_level": 3
         }
       ]
     }

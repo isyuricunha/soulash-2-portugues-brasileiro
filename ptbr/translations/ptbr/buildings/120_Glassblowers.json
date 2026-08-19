@@ -2,7 +2,7 @@
   "id": "120",
   "image": 83,
   "max": 2,
-  "name": "Sopradores de Vidro",
+  "name": "Vidreiros",
   "occupation_image": 23,
   "occupation": "2375",
   "occupation_per_race": {
@@ -29,6 +29,20 @@
         }
       ],
       "takes": "craftable"
+    },
+    {
+      "entities": [
+        {
+          "daily": 1,
+          "id": "2090"
+        }
+      ],
+      "takes": [
+        {
+          "amount": 4,
+          "id": "833"
+        }
+      ]
     }
   ],
   "race": "26",

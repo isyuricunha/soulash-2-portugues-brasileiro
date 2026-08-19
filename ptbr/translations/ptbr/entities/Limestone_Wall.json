@@ -50,7 +50,7 @@
       6
     ]
   },
-  "description": "Uma parede feita de calcário.",
+  "description": "Parede feita de calcário.",
   "glyph": {
     "frames": [
       {
@@ -88,5 +88,6 @@
       ]
     },
     "time": 120
-  }
+  },
+  "feminine_form": true
 }

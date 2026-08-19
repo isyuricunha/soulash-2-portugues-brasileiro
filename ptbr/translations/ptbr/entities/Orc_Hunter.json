@@ -100,9 +100,9 @@
   "moveable": {
     "speed": 1.0
   },
-  "name": "Orc Caçador",
+  "name": "Caçador Orc",
   "persona": {
-    "occupation": "Caçador"
+    "occupation": "Hunter"
   },
   "sight": {
     "ignore_infra_penalty": false,

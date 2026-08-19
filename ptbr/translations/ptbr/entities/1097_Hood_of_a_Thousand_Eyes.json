@@ -37,7 +37,7 @@
       12
     ]
   },
-  "description": "Um capuz feito de uma miríade de olhos de todos os tipos de formas e tamanhos, entrelaçados por seus nervos ópticos. Piscando, olhando ao redor, eles parecem muito vivos.",
+  "description": "Um capuz composto por uma miríade de olhos de todas as formas e tamanhos, entrelaçados por seus nervos ópticos. Piscando, olhando ao redor, parecem muito vivos.",
   "glyph": {
     "frames": [
       {
@@ -62,7 +62,7 @@
     175,
     175
   ],
-  "name": "Capuz dos Mil Olhos",
+  "name": "Capuz de Mil Olhos",
   "sight": {
     "ignore_infra_penalty": false,
     "infravision": false,

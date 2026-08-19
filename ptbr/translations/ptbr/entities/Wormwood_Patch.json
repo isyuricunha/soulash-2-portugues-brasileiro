@@ -8,7 +8,7 @@
     "producer"
   ],
   "corpse": [],
-  "description": "Um pequeno conjunto de folhas amargas.",
+  "description": "Um pequeno canteiro de folhas amargas.",
   "glyph": {
     "frames": [
       {
@@ -30,7 +30,7 @@
     89,
     87
   ],
-  "name": "Conjunto de Folhas de Losna",
+  "name": "Canteiro de Losna",
   "producer": {
     "products": {
       "10": [

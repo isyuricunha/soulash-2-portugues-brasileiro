@@ -30,7 +30,7 @@
     "time": 20,
     "tools": []
   },
-  "description": "Esta bomba pisca no impacto e paralisa todos nas proximidades.",
+  "description": "Esta bomba emite um clarão no impacto e paralisa todos nas proximidades.",
   "glyph": {
     "frames": [
       {
@@ -61,5 +61,6 @@
     "recipe": ""
   },
   "value": 1500,
-  "weight": 0.20000000298023224
+  "weight": 0.20000000298023224,
+  "feminine_form": true
 }

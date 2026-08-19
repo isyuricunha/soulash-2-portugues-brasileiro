@@ -37,7 +37,7 @@
       14
     ]
   },
-  "description": "Uma camisa feita da pele de um animal oferece boa proteção contra o frio.",
+  "description": "Uma camisa feita de pele de animal oferece boa proteção contra o frio.",
   "glyph": {
     "frames": [
       {
@@ -64,5 +64,6 @@
   ],
   "name": "Camisa de Pele",
   "value": 700,
-  "weight": 0.5
+  "weight": 0.5,
+  "feminine_form": true
 }

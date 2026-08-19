@@ -35,7 +35,7 @@
       14
     ]
   },
-  "description": "Este gorro protege os ouvidos do frio cortante.",
+  "description": "Este gorro protege as orelhas do frio cortante.",
   "glyph": {
     "frames": [
       {
@@ -60,7 +60,7 @@
     93,
     57
   ],
-  "name": "Capuz de Pele",
+  "name": "Gorro de Pele",
   "value": 600,
   "weight": 0.5
 }

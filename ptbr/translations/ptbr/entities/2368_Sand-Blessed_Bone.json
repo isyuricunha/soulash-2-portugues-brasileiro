@@ -71,10 +71,11 @@
   ],
   "name": "Osso Abençoado pela Areia",
   "resource": {
-    "affix": "Sand-Blessed",
+    "affix": "Abençoado pela Areia",
     "magic_ingredient": 0,
     "quality": 2,
-    "type": 5
+    "type": 5,
+    "feminine_affix": "Abençoada pela Areia"
   },
   "value": 1000,
   "weapon": {

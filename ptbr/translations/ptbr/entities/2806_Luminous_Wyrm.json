@@ -32,7 +32,7 @@
     "weapon"
   ],
   "corpse": "2770",
-  "description": "Este verme está iluminado por dentro com uma luz fraca.",
+  "description": "Este wyrm é iluminado por dentro por uma luz tênue.",
   "dialogues": [],
   "equipment": {
     "disabled_slots": [
@@ -60,7 +60,7 @@
   },
   "fighter": {
     "attackNames": [
-      "Bite"
+      "Mordida"
     ]
   },
   "glyph": {
@@ -87,7 +87,7 @@
   "moveable": {
     "speed": 1.100000023841858
   },
-  "name": "Vermeluminoso",
+  "name": "Wyrm Luminoso",
   "sight": {
     "ignore_infra_penalty": false,
     "infravision": true,

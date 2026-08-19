@@ -67,5 +67,6 @@
   ],
   "name": "Bolsa de Pele",
   "value": 500,
-  "weight": 0.5
+  "weight": 0.5,
+  "feminine_form": true
 }

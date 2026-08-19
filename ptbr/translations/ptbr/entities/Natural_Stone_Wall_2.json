@@ -33,7 +33,7 @@
     "producer"
   ],
   "corpse": "35",
-  "description": "Parede de pedra natural com superfície áspera mostra sinais de erosão.",
+  "description": "Parede de pedra natural com superfície rugosa mostra sinais de erosão.",
   "glyph": {
     "frames": [
       {
@@ -98,5 +98,6 @@
       ]
     },
     "time": 30
-  }
+  },
+  "feminine_form": true
 }

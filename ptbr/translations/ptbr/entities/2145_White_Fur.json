@@ -50,11 +50,13 @@
   ],
   "name": "Pele Branca",
   "resource": {
-    "affix": "Blessed",
+    "affix": "Abençoado",
     "magic_ingredient": 0,
     "quality": 2,
-    "type": 9
+    "type": 9,
+    "feminine_affix": "Abençoada"
   },
   "value": 700,
-  "weight": 0.10000000149011612
+  "weight": 0.10000000149011612,
+  "feminine_form": true
 }

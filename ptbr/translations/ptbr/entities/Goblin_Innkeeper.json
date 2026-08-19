@@ -44,7 +44,7 @@
       {
         "chance": 0.0,
         "id": "153",
-        "name": "Vaso de Metal",
+        "name": "Pote de Metal",
         "stack": 0
       }
     ],
@@ -91,9 +91,9 @@
   "moveable": {
     "speed": 1.2999999523162842
   },
-  "name": "Goblin Estalajadeiro",
+  "name": "Estalajadeiro Goblin",
   "persona": {
-    "occupation": "Estalajadeiro"
+    "occupation": "Innkeeper"
   },
   "sight": {
     "ignore_infra_penalty": false,

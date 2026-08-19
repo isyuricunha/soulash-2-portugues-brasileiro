@@ -11,7 +11,7 @@
     "value",
     "weight"
   ],
-  "description": "Uma pedra preciosa de cor violeta.",
+  "description": "Uma gema de cor violeta.",
   "glyph": {
     "frames": [
       {
@@ -38,10 +38,11 @@
   ],
   "name": "Ametista",
   "resource": {
-    "affix": "Amethyst",
+    "affix": "ametista",
     "magic_ingredient": 0,
     "quality": 2,
-    "type": 8
+    "type": 8,
+    "feminine_affix": "ametista"
   },
   "statistics": {
     "dexterity": [
@@ -66,5 +67,6 @@
     ]
   },
   "value": 2200,
-  "weight": 0.10000000149011612
+  "weight": 0.10000000149011612,
+  "feminine_form": true
 }

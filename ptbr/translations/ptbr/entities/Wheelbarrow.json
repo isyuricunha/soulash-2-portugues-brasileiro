@@ -24,7 +24,7 @@
     "time": 60,
     "tools": []
   },
-  "description": "Uma simples carroça de madeira.",
+  "description": "Um carrinho de mão simples de madeira.",
   "glyph": {
     "frames": [
       {
@@ -47,5 +47,5 @@
     68,
     0
   ],
-  "name": "Carriola"
+  "name": "Carrinho de Mão"
 }

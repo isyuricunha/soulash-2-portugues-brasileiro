@@ -50,7 +50,7 @@
     "time": 60,
     "tools": []
   },
-  "description": "Uma porta fechada feita de troncos de madeira.",
+  "description": "Uma porta fechada feita de toras de madeira.",
   "glyph": {
     "frames": [
       {
@@ -73,7 +73,7 @@
     43,
     10
   ],
-  "name": "Porta de Troncos",
+  "name": "Porta de Toras",
   "openable": {
     "block_light": false,
     "collidable": false,
@@ -108,5 +108,6 @@
       ]
     },
     "time": 10
-  }
+  },
+  "feminine_form": true
 }

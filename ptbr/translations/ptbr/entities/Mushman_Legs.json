@@ -20,7 +20,7 @@
     "position_2d",
     "weight"
   ],
-  "description": "Um conjunto de pernas de cogumelo de um mushman morto.",
+  "description": "Um conjunto de pernas pastosas de um homem-cogumelo morto.",
   "glyph": {
     "frames": [
       {
@@ -45,6 +45,7 @@
     160,
     161
   ],
-  "name": "Pernas de Mushman",
-  "weight": 1.5
+  "name": "Pernas de Cogumelo",
+  "weight": 1.5,
+  "feminine_form": true
 }

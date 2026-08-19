@@ -165,14 +165,14 @@
     "weapon"
   ],
   "corpse": "core_2_Ettin_Corpse",
-  "description": "Um gigante robusto com duas cabeças. Parece estar em uma discussão perpétua consigo mesmo.",
+  "description": "Um gigante descomunal com duas cabeças. Parece estar em uma discussão perpétua consigo mesmo.",
   "experience_gainer": {
     "exp": 0,
     "level": 50
   },
   "fighter": {
     "attackNames": [
-      "Slam"
+      "Impacto"
     ]
   },
   "glyph": {

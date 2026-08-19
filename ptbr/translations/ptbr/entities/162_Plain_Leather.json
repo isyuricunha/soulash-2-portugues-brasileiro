@@ -10,7 +10,7 @@
     "value",
     "weight"
   ],
-  "description": "Material útil para artesanato de armaduras de couro.",
+  "description": "Material útil para criar armaduras de couro.",
   "glyph": {
     "frames": [
       {
@@ -35,12 +35,13 @@
     93,
     57
   ],
-  "name": "Couro Comum",
+  "name": "Couro Simples",
   "resource": {
-    "affix": "Plain",
+    "affix": "Simples",
     "magic_ingredient": 0,
     "quality": 0,
-    "type": 2
+    "type": 2,
+    "feminine_affix": "Simples"
   },
   "value": 300,
   "weight": 0.20000000298023224

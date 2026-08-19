@@ -5,7 +5,7 @@
     "name",
     "position_2d"
   ],
-  "description": "Decoração deliciosa feita de glacê.",
+  "description": "Decoração deliciosa feita de cobertura.",
   "glyph": {
     "frames": [
       {
@@ -35,5 +35,6 @@
     39,
     25
   ],
-  "name": "Glacê"
+  "name": "Cobertura",
+  "feminine_form": true
 }

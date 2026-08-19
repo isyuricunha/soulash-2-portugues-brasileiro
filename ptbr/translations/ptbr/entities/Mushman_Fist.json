@@ -78,9 +78,9 @@
   "moveable": {
     "speed": 1.0
   },
-  "name": "Punho Mushman",
+  "name": "Punho do Homem-Cogumelo",
   "persona": {
-    "occupation": "Punho"
+    "occupation": "Fist"
   },
   "sight": {
     "ignore_infra_penalty": false,

@@ -6,7 +6,7 @@
     "health": 0,
     "stamina": 5
   },
-  "description": "Invoca elfos para te auxiliar em combate.",
+  "description": "Evoca elfos para auxiliá-lo em combate.",
   "duration": 100.0,
   "effects": {
     "aoe_range": 10,
@@ -18,7 +18,7 @@
   },
   "id": "core_2_Summon_Elfs",
   "image": 790,
-  "name": "Invocar Elfos",
+  "name": "Evocar Elfos",
   "range": 8,
   "skill": "",
   "target": "random"

@@ -33,7 +33,7 @@
     "producer"
   ],
   "corpse": [],
-  "description": "Uma árvore massiva que deve estar aqui há muito tempo.",
+  "description": "Uma árvore maciça que deve estar aqui há muito tempo.",
   "glyph": {
     "frames": [
       {
@@ -88,5 +88,6 @@
       ]
     },
     "time": 0
-  }
+  },
+  "feminine_form": true
 }

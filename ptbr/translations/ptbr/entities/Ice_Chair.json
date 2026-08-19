@@ -23,7 +23,7 @@
     "time": 10,
     "tools": []
   },
-  "description": "Pode ser confortável?",
+  "description": "Será que pode ser confortável?",
   "glyph": {
     "frames": [
       {
@@ -64,7 +64,7 @@
     68,
     24
   ],
-  "name": "Cadeira de Gelo",
+  "name": "Cadeira Gelada",
   "producer": {
     "products": {
       "core_2_deconstruct": [
@@ -79,5 +79,6 @@
       ]
     },
     "time": 20
-  }
+  },
+  "feminine_form": true
 }

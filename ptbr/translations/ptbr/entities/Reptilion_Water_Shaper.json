@@ -53,7 +53,7 @@
       {
         "chance": 1.0,
         "id": "core_2_Storm_Rod",
-        "name": "Bastão da Tempestade",
+        "name": "Vara da Tempestade",
         "stack": 1
       }
     ],
@@ -100,9 +100,9 @@
   "moveable": {
     "speed": 1.100000023841858
   },
-  "name": "Molde de Água Reptilion",
+  "name": "Reptilion Moldador de Água",
   "persona": {
-    "occupation": "Modelador de Água"
+    "occupation": "Water Shaper"
   },
   "sight": {
     "ignore_infra_penalty": false,

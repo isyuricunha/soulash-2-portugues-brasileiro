@@ -10,7 +10,7 @@
     "value",
     "weight"
   ],
-  "description": "Grande presas amarelas de um leão gigante.",
+  "description": "Grande presa amarela de um leão gigante.",
   "glyph": {
     "frames": [
       {
@@ -37,11 +37,12 @@
   ],
   "name": "Dente de Leão Gigante",
   "resource": {
-    "affix": "of the Bravery",
+    "affix": "da Bravura",
     "granted_passive": "core_2_unique_companion",
     "magic_ingredient": 5,
     "quality": 5,
-    "type": 7
+    "type": 7,
+    "feminine_affix": "bravia"
   },
   "value": 20000,
   "weight": 0.10000000149011612

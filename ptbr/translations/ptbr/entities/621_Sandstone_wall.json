@@ -33,7 +33,7 @@
     "producer"
   ],
   "corpse": "620",
-  "description": "Parede áspera de arenito.",
+  "description": "Parede de arenito áspera.",
   "glyph": {
     "frames": [
       {
@@ -81,5 +81,6 @@
       ]
     },
     "time": 20
-  }
+  },
+  "feminine_form": true
 }

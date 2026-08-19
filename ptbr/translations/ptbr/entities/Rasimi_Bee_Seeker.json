@@ -71,9 +71,9 @@
   "moveable": {
     "speed": 1.0
   },
-  "name": "Rasimi Caçador de Abelhas",
+  "name": "Buscador de Abelhas Rasimi",
   "persona": {
-    "occupation": "Caçador de Abelhas"
+    "occupation": "Bee Seeker"
   },
   "sight": {
     "ignore_infra_penalty": false,

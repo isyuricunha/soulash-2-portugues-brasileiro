@@ -107,9 +107,9 @@
   "moveable": {
     "speed": 1.100000023841858
   },
-  "name": "Troll Ladino",
+  "name": "Ladrão Troll",
   "persona": {
-    "occupation": "Ladino"
+    "occupation": "Thief"
   },
   "sight": {
     "ignore_infra_penalty": false,

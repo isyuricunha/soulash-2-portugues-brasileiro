@@ -85,9 +85,9 @@
   "moveable": {
     "speed": 1.2000000476837158
   },
-  "name": "Anão Alfaiate",
+  "name": "Alfaiate Anão",
   "persona": {
-    "occupation": "Alfaiate"
+    "occupation": "Tailor"
   },
   "sight": {
     "ignore_infra_penalty": false,

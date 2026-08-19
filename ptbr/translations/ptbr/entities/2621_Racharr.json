@@ -47,7 +47,7 @@
     "weapon"
   ],
   "corpse": "2640",
-  "description": "Uma criatura parecida com um urso com chifres na cabeça. Muito mais forte e perigosa que um urso.",
+  "description": "Uma criatura parecida com um urso, com chifres na cabeça. Muito mais forte e perigosa que um urso.",
   "dialogues": [
     "891"
   ],
@@ -77,8 +77,8 @@
   },
   "fighter": {
     "attackNames": [
-      "Bite",
-      "Paw"
+      "Mordida",
+      "Pata"
     ]
   },
   "glyph": {

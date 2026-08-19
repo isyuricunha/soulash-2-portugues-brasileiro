@@ -34,7 +34,7 @@
       15
     ]
   },
-  "description": "Esta poção adicionará energia aos seus passos. Tem que ir rápido!",
+  "description": "Esta poção adicionará energia aos seus passos. Preciso ir rápido!",
   "glyph": {
     "frames": [
       {
@@ -59,11 +59,12 @@
     78,
     54
   ],
-  "name": "Poção de Pressa Melhorada",
+  "name": "Poção de Pressa Aprimorada",
   "usable": {
     "ability": "core_2_Improved_Haste_Potion",
     "recipe": ""
   },
   "value": 3000,
-  "weight": 0.10000000149011612
+  "weight": 0.10000000149011612,
+  "feminine_form": true
 }

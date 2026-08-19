@@ -6,7 +6,7 @@
     "health": 0,
     "stamina": 4
   },
-  "description": "Basilisco está usando sua bela voz causando ::damage de dano ::damage_type",
+  "description": "O basilisco usa sua bela voz causando ::damage de dano ::damage_type",
   "duration": 0.0,
   "effects": {
     "damage": [

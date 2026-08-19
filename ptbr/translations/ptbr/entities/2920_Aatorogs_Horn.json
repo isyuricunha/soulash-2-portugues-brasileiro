@@ -24,7 +24,7 @@
     "weapon",
     "weight"
   ],
-  "description": "Uma parte pontiaguda de um aatorog morto.",
+  "description": "Uma parte pontiaguda de um Aatorog morto.",
   "glyph": {
     "frames": [
       {
@@ -51,10 +51,11 @@
   ],
   "name": "Chifre de Aatorog",
   "resource": {
-    "affix": "Sour",
+    "affix": "Azedo",
     "magic_ingredient": 0,
     "quality": 1,
-    "type": 5
+    "type": 5,
+    "feminine_affix": "Azeda"
   },
   "value": 600,
   "weapon": {

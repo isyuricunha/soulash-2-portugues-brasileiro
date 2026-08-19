@@ -12,7 +12,7 @@
     "weapon",
     "weight"
   ],
-  "description": "Apenas uma abóbora com algumas esculturas. Parece assustador.",
+  "description": "Apenas uma abóbora com alguns entalhes. Parece assustadora.",
   "glyph": {
     "frames": [
       {
@@ -42,7 +42,7 @@
     120,
     42
   ],
-  "name": "Jack-o'-lantern",
+  "name": "Abóbora de Halloween",
   "value": 1000,
   "weapon": {
     "attack_speed": 1.0,
@@ -60,5 +60,6 @@
     "range": 1,
     "type": 8
   },
-  "weight": 0.5
+  "weight": 0.5,
+  "feminine_form": true
 }

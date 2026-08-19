@@ -28,7 +28,7 @@
     "time": 2,
     "tools": []
   },
-  "description": "O teto de uma tenda feita do material.",
+  "description": "Telhado de tenda feito do material.",
   "glyph": {
     "frames": [
       {
@@ -49,7 +49,7 @@
     120,
     120
   ],
-  "name": "Teto de Tenda Marrom",
+  "name": "Telhado de Tenda Marrom",
   "producer": {
     "products": {
       "core_2_deconstruct": [

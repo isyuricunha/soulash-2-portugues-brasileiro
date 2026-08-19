@@ -36,7 +36,7 @@
     "tags"
   ],
   "corpse": "25",
-  "description": "Um poderoso conjurador que jurou lealdade a um ser ancestral.",
+  "description": "Um poderoso conjurador que jurou lealdade a um ser antigo.",
   "dialogues": [
     "641",
     "642"
@@ -62,7 +62,7 @@
       {
         "chance": 1.0,
         "id": "370",
-        "name": "Lâmina Negra",
+        "name": "Lâmina Sombria",
         "stack": 1
       }
     ],

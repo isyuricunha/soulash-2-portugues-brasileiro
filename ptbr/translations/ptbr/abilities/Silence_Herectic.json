@@ -6,7 +6,7 @@
     "health": 0,
     "stamina": 3
   },
-  "description": "Você pronuncia palavras sagradas para seu inimigo, impedindo-o de usar habilidades por ::duration turnos e empurrando-o ::knockback células.",
+  "description": "Você profere palavras sagradas contra seu inimigo, impedindo-o de usar habilidades por ::duration turnos e arremessando-o para trás ::knockback quadrados.",
   "duration": 2.0,
   "effects": {
     "knockback": 5,

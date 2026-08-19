@@ -28,7 +28,7 @@
       1
     ]
   },
-  "description": "Apenas os mestres ferreiros mais avançados podem montar esta lâmina pesada de design impressionante.",
+  "description": "Apenas os mestres ferreiros mais avançados conseguem montar esta lâmina pesada, de design impressionante.",
   "glyph": {
     "frames": [
       {
@@ -70,5 +70,6 @@
     "range": 1,
     "type": 1
   },
-  "weight": 3.0
+  "weight": 3.0,
+  "feminine_form": true
 }

@@ -11,7 +11,7 @@
     "weapon",
     "weight"
   ],
-  "description": "Chifres retorcidos e podres de um monstro da natureza.",
+  "description": "Galhada torcida e podre de um monstro da natureza.",
   "glyph": {
     "frames": [
       {
@@ -36,12 +36,13 @@
     109,
     155
   ],
-  "name": "Chifres de Cernunnos",
+  "name": "Galhada de Cernunnos",
   "resource": {
-    "affix": "of Decay",
+    "affix": "da Decomposição",
     "magic_ingredient": 4,
     "quality": 4,
-    "type": 7
+    "type": 7,
+    "feminine_affix": "putrefata"
   },
   "value": 10000,
   "weapon": {
@@ -60,5 +61,6 @@
     "range": 0,
     "type": 9
   },
-  "weight": 0.10000000149011612
+  "weight": 0.10000000149011612,
+  "feminine_form": true
 }

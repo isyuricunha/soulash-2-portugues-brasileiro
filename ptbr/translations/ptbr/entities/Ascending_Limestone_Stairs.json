@@ -33,7 +33,7 @@
       6
     ]
   },
-  "description": "Uma escada que leva para cima esculpida em blocos de calcário.",
+  "description": "Uma escada subindo esculpida em blocos de calcário.",
   "glyph": {
     "frames": [
       {
@@ -73,5 +73,6 @@
       ]
     },
     "time": 20
-  }
+  },
+  "feminine_form": true
 }

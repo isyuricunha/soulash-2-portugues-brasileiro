@@ -82,7 +82,7 @@
   "moveable": {
     "speed": 1.5
   },
-  "name": "Pica-Pau",
+  "name": "Pica-pau",
   "sight": {
     "ignore_infra_penalty": false,
     "infravision": false,

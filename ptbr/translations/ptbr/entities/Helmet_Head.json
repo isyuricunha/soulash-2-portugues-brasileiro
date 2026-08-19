@@ -45,7 +45,7 @@
       1
     ]
   },
-  "description": "Uma cabeça de golem com um elmo robusto.",
+  "description": "A cabeça de um golem com um elmo resistente sobre ela.",
   "glyph": {
     "frames": [
       {
@@ -70,7 +70,8 @@
     160,
     161
   ],
-  "name": "Cabeça de Capacete",
+  "name": "Cabeça de Elmo",
   "value": 15000,
-  "weight": 2.5
+  "weight": 2.5,
+  "feminine_form": true
 }

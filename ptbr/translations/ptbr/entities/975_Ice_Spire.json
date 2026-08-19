@@ -32,7 +32,7 @@
     "producer"
   ],
   "corpse": [],
-  "description": "Uma torre alta feita de gelo.",
+  "description": "Uma alta agulha feita de gelo.",
   "glyph": {
     "frames": [
       {
@@ -54,7 +54,7 @@
     157,
     188
   ],
-  "name": "Torre de Gelo",
+  "name": "Agulha de Gelo",
   "producer": {
     "products": {
       "5": [
@@ -69,5 +69,6 @@
       ]
     },
     "time": 10
-  }
+  },
+  "feminine_form": true
 }

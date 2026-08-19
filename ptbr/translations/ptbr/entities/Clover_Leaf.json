@@ -9,7 +9,7 @@
     "value",
     "weight"
   ],
-  "description": "Um trevo simples, de quatro folhas.",
+  "description": "Um trevo simples de quatro folhas.",
   "glyph": {
     "frames": [
       {
@@ -36,5 +36,6 @@
   ],
   "name": "Folha de Trevo",
   "value": 100,
-  "weight": 0.10000000149011612
+  "weight": 0.10000000149011612,
+  "feminine_form": true
 }

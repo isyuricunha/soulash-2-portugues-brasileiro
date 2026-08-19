@@ -41,7 +41,7 @@
       {
         "chance": 1.0,
         "id": "311",
-        "name": "Lança de Osso",
+        "name": "lança de osso",
         "stack": 1
       }
     ]
@@ -82,7 +82,7 @@
   },
   "name": "Esqueleto Recruta",
   "persona": {
-    "occupation": "Recruta"
+    "occupation": "Recruit"
   },
   "sight": {
     "ignore_infra_penalty": false,

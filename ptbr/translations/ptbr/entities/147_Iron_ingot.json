@@ -66,12 +66,13 @@
     74,
     68
   ],
-  "name": "Lingote de Ferro",
+  "name": "Linga de Ferro",
   "resource": {
-    "affix": "Iron",
+    "affix": "Ferro",
     "magic_ingredient": 0,
     "quality": 2,
-    "type": 1
+    "type": 1,
+    "feminine_affix": "Ferro"
   },
   "value": 7000,
   "weapon": {
@@ -90,5 +91,6 @@
     "range": 0,
     "type": 9
   },
-  "weight": 0.10000000149011612
+  "weight": 0.10000000149011612,
+  "feminine_form": true
 }

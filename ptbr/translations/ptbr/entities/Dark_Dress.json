@@ -41,7 +41,7 @@
       12
     ]
   },
-  "description": "Um vestido longo e justo com mangas que lembram asas de morcego.",
+  "description": "Um vestido longo e justo com mangas que lembram asa de morcego.",
   "glyph": {
     "frames": [
       {
@@ -66,7 +66,7 @@
     154,
     38
   ],
-  "name": "Vestido Escuro",
+  "name": "Vestido Sombrio",
   "value": 1400,
   "weight": 0.5
 }

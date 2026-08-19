@@ -80,9 +80,9 @@
   "moveable": {
     "speed": 1.100000023841858
   },
-  "name": "Cortador de Grama Reptilion",
+  "name": "Reptilion Cortador de Grama",
   "persona": {
-    "occupation": "Cortador de Grama"
+    "occupation": "Grass Cutter"
   },
   "sight": {
     "ignore_infra_penalty": false,

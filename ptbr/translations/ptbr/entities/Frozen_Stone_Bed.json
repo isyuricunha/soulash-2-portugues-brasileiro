@@ -82,5 +82,6 @@
     },
     "time": 10
   },
-  "resting_place": 40
+  "resting_place": 40,
+  "feminine_form": true
 }

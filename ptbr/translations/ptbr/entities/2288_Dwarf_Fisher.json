@@ -38,7 +38,7 @@
       {
         "chance": 1.0,
         "id": "120",
-        "name": "Vara de Pescar",
+        "name": "Vara de Pesca",
         "stack": 1
       }
     ]
@@ -79,7 +79,7 @@
   },
   "name": "Anão Pescador",
   "persona": {
-    "occupation": "Pescador"
+    "occupation": "Fisher"
   },
   "sight": {
     "ignore_infra_penalty": false,

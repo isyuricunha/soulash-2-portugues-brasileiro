@@ -92,9 +92,9 @@
   "moveable": {
     "speed": 1.0
   },
-  "name": "Vampiro Ladino",
+  "name": "Vampiro Ladrão",
   "persona": {
-    "occupation": "Ladino"
+    "occupation": "Thief"
   },
   "sight": {
     "ignore_infra_penalty": false,

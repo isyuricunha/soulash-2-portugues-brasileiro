@@ -40,7 +40,7 @@
       12
     ]
   },
-  "description": "Uma faixa de cabeça simples, mas robusta, frequentemente usada por aventureiros para manter cabelo e suor fora dos olhos durante batalhas.",
+  "description": "Uma faixa de material simples, mas resistente, frequentemente usada por aventureiros para manter cabelo e suor fora dos olhos durante batalhas.",
   "glyph": {
     "frames": [
       {
@@ -65,7 +65,8 @@
     200,
     33
   ],
-  "name": "Faixa de Cabeça",
+  "name": "Bandana",
   "value": 4000,
-  "weight": 1.0
+  "weight": 1.0,
+  "feminine_form": true
 }

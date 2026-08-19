@@ -49,7 +49,7 @@
       6
     ]
   },
-  "description": "Uma parede fria construída de blocos de pedra. É bastante durável.",
+  "description": "Uma parede fria construída com blocos de pedra. É bastante durável.",
   "glyph": {
     "frames": [
       {
@@ -90,7 +90,7 @@
     83,
     92
   ],
-  "name": "Parede de Pedra Coberta por Trepadeiras",
+  "name": "Parede de Pedra Coberta de Vinhas",
   "producer": {
     "products": {
       "core_2_deconstruct": [
@@ -105,5 +105,6 @@
       ]
     },
     "time": 40
-  }
+  },
+  "feminine_form": true
 }

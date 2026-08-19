@@ -64,9 +64,9 @@
   "moveable": {
     "speed": 1.2000000476837158
   },
-  "name": "Espectro de Osso Moleiro",
+  "name": "Aparição Óssea Moleira",
   "persona": {
-    "occupation": "Moleiro"
+    "occupation": "Miller"
   },
   "sight": {
     "ignore_infra_penalty": false,
@@ -105,5 +105,6 @@
     "9",
     "35",
     "3"
-  ]
+  ],
+  "feminine_form": true
 }

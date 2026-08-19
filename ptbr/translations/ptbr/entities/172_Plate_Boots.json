@@ -35,7 +35,7 @@
       1
     ]
   },
-  "description": "Produzido para os elite Cavaleiros do Valor.",
+  "description": "Produzido para a elite dos Cavaleiros do Valor.",
   "glyph": {
     "frames": [
       {
@@ -62,5 +62,6 @@
   ],
   "name": "Botas de Placas",
   "value": 10000,
-  "weight": 3.0
+  "weight": 3.0,
+  "feminine_form": true
 }

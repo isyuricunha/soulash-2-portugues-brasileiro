@@ -6,7 +6,7 @@
     "health": 0,
     "stamina": 4
   },
-  "description": "Causa ::damage de dano ::damage_type ao inimigo e faz uma checagem de destreza oposta para forçá-lo a desequipar um item em uma de suas mãos. O efeito persistirá por ::duration turnos e impedirá de equipar itens nesta mão.",
+  "description": "Causa ::damage de dano ::damage_type ao inimigo e faz um teste de destreza oposto para forçá-lo a desequipar um item em uma de suas mãos. O efeito persiste por ::duration turnos e impede equipar itens nesta mão.",
   "duration": 5.0,
   "effects": {
     "damage": [

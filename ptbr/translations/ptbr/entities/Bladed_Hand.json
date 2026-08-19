@@ -34,7 +34,7 @@
       1
     ]
   },
-  "description": "Uma mão de gole equipada com uma lâmina perigosa.",
+  "description": "Uma mão de golem equipada com uma lâmina cruel.",
   "glyph": {
     "frames": [
       {
@@ -59,7 +59,7 @@
     160,
     161
   ],
-  "name": "Mão com Lâminas",
+  "name": "Mão Lamínea",
   "usable": {
     "ability": "67",
     "recipe": ""
@@ -81,5 +81,6 @@
     "range": 1,
     "type": 1
   },
-  "weight": 2.5
+  "weight": 2.5,
+  "feminine_form": true
 }

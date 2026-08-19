@@ -40,7 +40,7 @@
       1
     ]
   },
-  "description": "Um capacete orgânico feito de partes de coisas mortas.",
+  "description": "Um capacete orgânico feito de partes de coisas mortas",
   "glyph": {
     "frames": [
       {
@@ -65,7 +65,7 @@
     200,
     33
   ],
-  "name": "Capacete de Escamas",
+  "name": "Elmo de Escamas",
   "value": 3200,
   "weight": 2.5
 }

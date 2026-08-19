@@ -6,7 +6,7 @@
     "health": 0,
     "stamina": 20.0
   },
-  "description": "Esta habilidade cura ::regeneration de vida extra periodicamente por ::duration turnos.",
+  "description": "Esta habilidade cura ::regeneration de vida extra periodicamente por ::duration turnos",
   "duration": 100,
   "effects": {
     "regeneration": 4

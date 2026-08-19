@@ -41,7 +41,7 @@
       {
         "chance": 1.0,
         "id": "2176",
-        "name": "Tanga",
+        "name": "Tapasexo",
         "stack": 1
       }
     ]
@@ -80,9 +80,9 @@
   "moveable": {
     "speed": 1.2999999523162842
   },
-  "name": "Gnoll Caçador de Abelhas",
+  "name": "Buscador de Abelhas Gnoll",
   "persona": {
-    "occupation": "Caçador de Abelhas"
+    "occupation": "Bee Seeker"
   },
   "sight": {
     "ignore_infra_penalty": false,

@@ -6,7 +6,7 @@
     "health": 0,
     "stamina": 4
   },
-  "description": "Invoca nuvens de fumaça bloqueando temporariamente a visão.",
+  "description": "Evoca nuvens de fumaça que bloqueiam temporariamente a visão.",
   "duration": 10.0,
   "effects": {
     "aoe_break": 3,

@@ -8,7 +8,7 @@
     "position_2d"
   ],
   "corpse": [],
-  "description": "Uma tapeçaria bonita retratando uma montanha imponente.",
+  "description": "Uma bela tapeçaria representando uma montanha imponente.",
   "glyph": {
     "frames": [
       {
@@ -30,5 +30,6 @@
     108,
     14
   ],
-  "name": "Tapeçaria de Montanha"
+  "name": "Tapeçaria da Montanha",
+  "feminine_form": true
 }

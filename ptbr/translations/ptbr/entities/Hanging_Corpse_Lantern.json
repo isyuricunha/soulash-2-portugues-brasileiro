@@ -22,7 +22,7 @@
     "position_2d"
   ],
   "corpse": [],
-  "description": "Uma lanterna mórbida feita de um cadáver humanoide.",
+  "description": "Uma lanterna mórbida feita de cadáver humanoide.",
   "glyph": {
     "frames": [
       {
@@ -58,5 +58,6 @@
     120,
     42
   ],
-  "name": "Lanterna de Cadáver Pendurado"
+  "name": "Lanterna de Cadáver Pendurado",
+  "feminine_form": true
 }

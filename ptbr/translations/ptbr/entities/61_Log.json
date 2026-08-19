@@ -13,7 +13,7 @@
     "weight"
   ],
   "corpse": "62",
-  "description": "Tora é uma árvore com galhos cortados. Pode ser muito útil para construir coisas. Você pode ser capaz de produzir alguns pedaços de madeira a partir dela.",
+  "description": "Tronco é uma árvore com os galhos cortados. Pode ser muito útil para construir coisas. Você pode conseguir produzir alguns pedaços de madeira a partir dele.",
   "glyph": {
     "frames": [
       {
@@ -39,7 +39,7 @@
     102,
     57
   ],
-  "name": "Tora",
+  "name": "Tronco",
   "producer": {
     "products": {
       "1": [

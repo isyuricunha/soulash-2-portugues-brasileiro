@@ -9,7 +9,7 @@
     "value",
     "weight"
   ],
-  "description": "Uma lâmpada lendária que dizem invocar um djinn quando esfregada da maneira correta.",
+  "description": "Uma lâmpada lendária que se diz invocar um djinn quando esfregada da maneira correta.",
   "glyph": {
     "frames": [
       {
@@ -40,5 +40,6 @@
     "recipe": ""
   },
   "value": 50000,
-  "weight": 0.10000000149011612
+  "weight": 0.10000000149011612,
+  "feminine_form": true
 }

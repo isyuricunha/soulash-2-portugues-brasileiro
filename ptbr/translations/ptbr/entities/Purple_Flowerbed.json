@@ -24,7 +24,7 @@
     "time": 50,
     "tools": []
   },
-  "description": "Um conjunto de flores bonitas.",
+  "description": "Um canteiro de belas flores.",
   "glyph": {
     "frames": [
       {
@@ -46,7 +46,7 @@
     39,
     13
   ],
-  "name": "Canteiro de Flores Roxas",
+  "name": "Canteiro Roxo",
   "producer": {
     "products": {
       "core_2_deconstruct": [

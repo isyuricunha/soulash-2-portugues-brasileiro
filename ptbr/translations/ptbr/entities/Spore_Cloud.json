@@ -7,7 +7,7 @@
     "name",
     "position_2d"
   ],
-  "description": "Esta nuvem de esporos brilha levemente.",
+  "description": "Esta nuvem de esporos cintila levemente.",
   "glyph": {
     "frames": [
       {
@@ -83,5 +83,6 @@
     16,
     14
   ],
-  "name": "Nuvem de Esporos"
+  "name": "Nuvem de Esporos",
+  "feminine_form": true
 }

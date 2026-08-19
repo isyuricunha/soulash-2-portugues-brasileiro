@@ -54,5 +54,6 @@
     "ability": "",
     "recipe": ""
   },
-  "weight": 0.20000000298023224
+  "weight": 0.20000000298023224,
+  "feminine_form": true
 }

@@ -24,7 +24,7 @@
     "value",
     "weight"
   ],
-  "description": "Uma madeira de cor clara, frequentemente usada na criação de caixas e papel.",
+  "description": "Uma madeira de cor clara frequentemente usada na criação de caixas e papel.",
   "glyph": {
     "frames": [
       {
@@ -49,12 +49,13 @@
     85,
     54
   ],
-  "name": "Madeira de Álamo",
+  "name": "Madeira de Choupo",
   "resource": {
-    "affix": "Aspen",
+    "affix": "Choupo",
     "magic_ingredient": 0,
     "quality": 2,
-    "type": 3
+    "type": 3,
+    "feminine_affix": "de Choupo"
   },
   "statistics": {
     "dexterity": [
@@ -79,5 +80,6 @@
     ]
   },
   "value": 1000,
-  "weight": 0.10000000149011612
+  "weight": 0.10000000149011612,
+  "feminine_form": true
 }

@@ -85,9 +85,9 @@
   "moveable": {
     "speed": 1.2000000476837158
   },
-  "name": "Anão Alquimista",
+  "name": "Alquimista Anão",
   "persona": {
-    "occupation": "Alquimista"
+    "occupation": "Alchemist"
   },
   "sight": {
     "ignore_infra_penalty": false,

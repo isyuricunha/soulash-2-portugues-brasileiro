@@ -6,7 +6,7 @@
     "health": 0,
     "stamina": 1
   },
-  "description": "Provocar um alvo, forçando-o a atacá-lo pelos próximos ::duration turnos e reduzindo sua chance de acerto em ::hit_chance%.",
+  "description": "Provoca um alvo forçando-o a atacá-lo pelos próximos ::duration turnos e reduz sua chance de acerto em ::hit_chance%.",
   "duration": 3.0,
   "effects": {
     "challenge": 1,

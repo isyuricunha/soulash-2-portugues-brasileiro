@@ -7,14 +7,14 @@
     "item_type": 18,
     "stamina": 0
   },
-  "description": "Ergue cadáver como um ghoul que luta ao seu lado. O número de ghouls controlados é ilimitado.",
+  "description": "Reanima um cadáver como um carniçal que luta ao seu lado. O número de carniçais controlados é ilimitado.",
   "duration": 0.0,
   "effects": {
     "summon": 413
   },
   "id": "57",
   "image": 100,
-  "name": "Erguer Ghoul",
+  "name": "Reanimar Carniçal",
   "range": 5,
   "target": "corpse"
 }

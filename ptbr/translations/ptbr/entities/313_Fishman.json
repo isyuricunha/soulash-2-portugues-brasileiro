@@ -40,19 +40,19 @@
       {
         "chance": 0.33000001311302185,
         "id": "310",
-        "name": "Faca de Osso",
+        "name": "faca de osso",
         "stack": 1
       },
       {
         "chance": 0.33000001311302185,
         "id": "311",
-        "name": "Lança de Osso",
+        "name": "lança de osso",
         "stack": 1
       },
       {
         "chance": 0.3400000035762787,
         "id": "312",
-        "name": "Espada de Osso",
+        "name": "espada de osso",
         "stack": 1
       }
     ],
@@ -60,7 +60,7 @@
       {
         "chance": 1.0,
         "id": "23",
-        "name": "Farrapos",
+        "name": "Farrapudos",
         "stack": 1
       }
     ]
@@ -71,10 +71,10 @@
   },
   "fighter": {
     "attackNames": [
-      "Fist",
-      "Kick",
-      "Fin",
-      "Bite"
+      "Punho",
+      "Chute",
+      "Barbatana",
+      "Mordida"
     ]
   },
   "glyph": {
@@ -104,7 +104,7 @@
   "moveable": {
     "speed": 1.2000000476837158
   },
-  "name": "Homem-Peixe",
+  "name": "Peixe-Homem",
   "sight": {
     "ignore_infra_penalty": false,
     "infravision": false,

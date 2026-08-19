@@ -72,5 +72,6 @@
   ],
   "name": "Coroa da Noite",
   "value": 6000,
-  "weight": 3.0
+  "weight": 3.0,
+  "feminine_form": true
 }

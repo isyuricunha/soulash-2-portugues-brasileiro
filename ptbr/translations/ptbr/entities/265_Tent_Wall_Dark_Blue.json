@@ -47,7 +47,7 @@
     "time": 2,
     "tools": []
   },
-  "description": "Material leve formando uma parede para uma tenda enorme.",
+  "description": "Material leve que forma uma parede para uma enorme tenda.",
   "glyph": {
     "frames": [
       {
@@ -70,7 +70,7 @@
     120,
     120
   ],
-  "name": "Parede de Tenda Azul Escuro",
+  "name": "Parede de Tenda Azul Escura",
   "producer": {
     "products": {
       "core_2_deconstruct": [
@@ -85,5 +85,6 @@
       ]
     },
     "time": 20
-  }
+  },
+  "feminine_form": true
 }

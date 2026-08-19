@@ -87,9 +87,9 @@
   "moveable": {
     "speed": 1.0
   },
-  "name": "Dançarino de Guerra Elfo",
+  "name": "Dançarino da Guerra Élfico",
   "persona": {
-    "occupation": "Dançarino de Guerra"
+    "occupation": "War Dancer"
   },
   "sight": {
     "ignore_infra_penalty": false,

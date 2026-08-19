@@ -77,9 +77,9 @@
   "moveable": {
     "speed": 1.5
   },
-  "name": "Gnoll Pecuarista",
+  "name": "Criador Gnoll",
   "persona": {
-    "occupation": "Fazendeiro"
+    "occupation": "Rancher"
   },
   "sight": {
     "ignore_infra_penalty": false,

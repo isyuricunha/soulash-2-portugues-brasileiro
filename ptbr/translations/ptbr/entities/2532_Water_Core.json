@@ -35,7 +35,7 @@
       15
     ]
   },
-  "description": "O núcleo de água é uma gema cintilante de pureza líquida, irradiando uma aura de tranquilidade e energia fluida.",
+  "description": "O n�cleo de �gua � uma joia cintilante de pureza l�quida, irradiando uma aura de tranquilidade e energia fluida.",
   "glyph": {
     "frames": [
       {
@@ -60,12 +60,13 @@
     109,
     155
   ],
-  "name": "Núcleo de Água",
+  "name": "N�cleo de �gua",
   "resource": {
-    "affix": "of Tsunami",
+    "affix": "do Tsunami",
     "magic_ingredient": 3,
     "quality": 3,
-    "type": 7
+    "type": 7,
+    "feminine_affix": "da Tsunami"
   },
   "value": 10000,
   "weapon": {

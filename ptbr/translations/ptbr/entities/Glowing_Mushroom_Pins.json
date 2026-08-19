@@ -30,7 +30,7 @@
     "time": 20,
     "tools": []
   },
-  "description": "Cogumelos brilhantes minúsculos. Ainda crescendo até seu tamanho total.",
+  "description": "Minúsculos cogumelos luminosos. Ainda crescendo para seu tamanho total.",
   "glyph": {
     "frames": [
       {
@@ -61,7 +61,7 @@
     90,
     34
   ],
-  "name": "Pinos de Cogumelo Brilhante",
+  "name": "Pequenos Cogumelos Luminosos",
   "random_resource": {
     "delay_spawn": true,
     "entity": [

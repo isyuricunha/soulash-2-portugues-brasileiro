@@ -59,7 +59,7 @@
       {
         "chance": 1.0,
         "id": "696",
-        "name": "Espada",
+        "name": "Florete",
         "stack": 1
       }
     ],
@@ -106,7 +106,7 @@
   "moveable": {
     "speed": 1.100000023841858
   },
-  "name": "Gnoll Pirata",
+  "name": "Pirata Gnoll",
   "sight": {
     "ignore_infra_penalty": false,
     "infravision": false,

@@ -38,7 +38,7 @@
     102,
     57
   ],
-  "name": "Cadáver de Hiena",
+  "name": "Carcaça de Hiena",
   "producer": {
     "products": {
       "3": [
@@ -62,5 +62,6 @@
     },
     "time": 20
   },
-  "weight": 25.0
+  "weight": 25.0,
+  "feminine_form": true
 }

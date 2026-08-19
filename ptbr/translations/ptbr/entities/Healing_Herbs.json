@@ -35,11 +35,12 @@
     128,
     128
   ],
-  "name": "Ervas Medicinais",
+  "name": "Ervas Curativas",
   "usable": {
     "ability": "core_2_Healing_Herbs",
     "recipe": ""
   },
   "value": 300,
-  "weight": 0.10000000149011612
+  "weight": 0.10000000149011612,
+  "feminine_form": true
 }

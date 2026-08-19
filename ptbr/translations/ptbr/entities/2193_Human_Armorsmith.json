@@ -85,7 +85,7 @@
   },
   "name": "Armoreiro Humano",
   "persona": {
-    "occupation": "Armoreiro"
+    "occupation": "Armorsmith"
   },
   "sight": {
     "ignore_infra_penalty": false,

@@ -6,7 +6,7 @@
     "position_2d",
     "stackable"
   ],
-  "description": "Um estandarte com algumas pegadas. Talvez haja alguma mensagem escondida nele.",
+  "description": "Uma bandeira com uma pegada. Talvez haja alguma mensagem escondida nela.",
   "glyph": {
     "frames": [
       {
@@ -27,5 +27,6 @@
     153,
     137
   ],
-  "name": "Estandarte de Pegadas"
+  "name": "Bandeira de Pegada",
+  "feminine_form": true
 }

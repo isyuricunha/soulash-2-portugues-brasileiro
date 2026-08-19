@@ -44,7 +44,7 @@
     "weapon"
   ],
   "corpse": "core_2_Pool_of_Acid",
-  "description": "Uma criatura alta e verde com um corpo segmentado coberto por uma armadura quitinosa grossa.",
+  "description": "Uma criatura verde alta com corpo segmentado coberto por uma espessa armadura quitinosa.",
   "dialogues": [],
   "experience_gainer": {
     "exp": 0,
@@ -52,8 +52,8 @@
   },
   "fighter": {
     "attackNames": [
-      "Claws",
-      "Scratch"
+      "Garras",
+      "Arranhão"
     ]
   },
   "glyph": {

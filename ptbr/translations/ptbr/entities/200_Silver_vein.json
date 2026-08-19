@@ -33,7 +33,7 @@
     "producer"
   ],
   "corpse": [],
-  "description": "Um veio de minério de prata.",
+  "description": "Uma veia de minério de prata.",
   "glyph": {
     "frames": [
       {
@@ -56,7 +56,7 @@
     171,
     163
   ],
-  "name": "Veio de Prata",
+  "name": "Veia de Prata",
   "producer": {
     "products": {
       "5": [
@@ -71,5 +71,6 @@
       ]
     },
     "time": 30
-  }
+  },
+  "feminine_form": true
 }

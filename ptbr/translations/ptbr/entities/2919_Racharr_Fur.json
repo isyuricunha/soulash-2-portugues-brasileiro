@@ -11,7 +11,7 @@
     "value",
     "weight"
   ],
-  "description": "Surpreendentemente fofa.",
+  "description": "Surpreendentemente fofo.",
   "glyph": {
     "frames": [
       {
@@ -36,12 +36,13 @@
     195,
     195
   ],
-  "name": "Pelagem de Rac'harr",
+  "name": "Pele de Rac'harr",
   "resource": {
-    "affix": "Fluffy",
+    "affix": "Fofo",
     "magic_ingredient": 0,
     "quality": 3,
-    "type": 9
+    "type": 9,
+    "feminine_affix": "Fofa"
   },
   "statistics": {
     "dexterity": [

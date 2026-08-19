@@ -6,7 +6,7 @@
     "health": 0,
     "stamina": 2
   },
-  "description": "Enfraquece a mente do oponente, reduzindo a inteligência em ::intelligence e a força de vontade em ::willpower.",
+  "description": "Enfraqueça a mente do oponente reduzindo inteligência em ::intelligence e vontade em ::willpower.",
   "duration": 10.0,
   "effects": {
     "intelligence": -7,
@@ -14,7 +14,7 @@
   },
   "id": "125",
   "image": 659,
-  "name": "Quebrar Mente",
+  "name": "Quebrar a Mente",
   "range": 5,
   "target": "actor"
 }

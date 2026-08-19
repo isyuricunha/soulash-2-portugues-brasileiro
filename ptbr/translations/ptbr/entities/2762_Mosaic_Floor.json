@@ -30,7 +30,7 @@
       6
     ]
   },
-  "description": "Um chão coberto por padrões estranhos.",
+  "description": "Um piso coberto por padrões estranhos.",
   "glyph": {
     "frames": [
       {
@@ -51,5 +51,5 @@
     63,
     72
   ],
-  "name": "Chão de Mosaico"
+  "name": "Piso de Mosaico"
 }

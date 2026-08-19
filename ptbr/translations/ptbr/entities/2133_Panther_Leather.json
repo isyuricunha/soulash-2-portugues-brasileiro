@@ -11,7 +11,7 @@
     "value",
     "weight"
   ],
-  "description": "Este couro liso e flexível captura a essência de um predador elusivo.",
+  "description": "Este couro elegante e flexível captura a essência de um predador esquivo",
   "glyph": {
     "frames": [
       {
@@ -38,10 +38,11 @@
   ],
   "name": "Couro de Pantera",
   "resource": {
-    "affix": "Sneaky",
+    "affix": "Furtivo",
     "magic_ingredient": 0,
     "quality": 3,
-    "type": 2
+    "type": 2,
+    "feminine_affix": "Furtiva"
   },
   "statistics": {
     "dexterity": [

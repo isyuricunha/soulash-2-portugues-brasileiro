@@ -30,7 +30,7 @@
     "time": 20,
     "tools": []
   },
-  "description": "Blocos de pedra construídos para formar uma escada que leva para baixo.",
+  "description": "Blocos de pedra construídos para formar uma escada descendente.",
   "glyph": {
     "frames": [
       {
@@ -55,7 +55,7 @@
     83,
     92
   ],
-  "name": "Escada de Pedra Descendente",
+  "name": "Escadas de Pedra Descendentes",
   "producer": {
     "products": {
       "core_2_deconstruct": [
@@ -70,5 +70,6 @@
       ]
     },
     "time": 40
-  }
+  },
+  "feminine_form": true
 }

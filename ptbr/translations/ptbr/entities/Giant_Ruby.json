@@ -1,0 +1,78 @@
+{
+  "armor": {
+    "acid": 0,
+    "death": 0,
+    "electricity": 0,
+    "fire": 5,
+    "frost": 0,
+    "holy": 0,
+    "parry": 0,
+    "physical": 1,
+    "poison": 0,
+    "thorns": 0
+  },
+  "components": [
+    "armor",
+    "glyph",
+    "item",
+    "minimap_pixel",
+    "name",
+    "position_2d",
+    "resource",
+    "stackable",
+    "value",
+    "weapon",
+    "weight"
+  ],
+  "description": "Uma gema de cor vermelho-sangue. Este exemplar é anormalmente grande.",
+  "glyph": {
+    "frames": [
+      {
+        "color": [
+          255,
+          255,
+          255
+        ],
+        "delay": 0,
+        "index": 3455
+      }
+    ],
+    "random_frame_start": false
+  },
+  "id": "core_2_Giant_Ruby",
+  "item": {
+    "image": 1544,
+    "type": 16
+  },
+  "minimap_pixel": [
+    212,
+    46,
+    33
+  ],
+  "name": "Rubi Gigante",
+  "resource": {
+    "affix": "do Rubi Gigante",
+    "magic_ingredient": 0,
+    "quality": 4,
+    "type": 8,
+    "feminine_affix": "Rubi-gigante"
+  },
+  "value": 10000,
+  "weapon": {
+    "attack_speed": 0.0,
+    "critical_hit": 0.0,
+    "damage": [
+      {
+        "dmg_max": 4,
+        "dmg_min": 2,
+        "dmg_type": "fire"
+      }
+    ],
+    "hands": 1,
+    "hit_bonus": 0,
+    "parry_bonus": 0,
+    "range": 0,
+    "type": 9
+  },
+  "weight": 0.20000000298023224
+}

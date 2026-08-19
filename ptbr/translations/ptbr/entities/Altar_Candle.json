@@ -46,12 +46,14 @@
   ],
   "name": "Vela de Altar",
   "resource": {
-    "affix": "of the Candle",
+    "affix": "da Vela",
     "granted_passive": "core_2_critical_burn",
     "magic_ingredient": 5,
     "quality": 5,
-    "type": 7
+    "type": 7,
+    "feminine_affix": "da Vela"
   },
   "value": 200000,
-  "weight": 0.10000000149011612
+  "weight": 0.10000000149011612,
+  "feminine_form": true
 }

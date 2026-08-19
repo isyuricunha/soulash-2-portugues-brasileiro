@@ -23,7 +23,7 @@
     "time": 10,
     "tools": []
   },
-  "description": "Em memória de Edmundor. Nós avisamos para não cavar lá.",
+  "description": "Em memória de Edmundor. Dissemos para não cavar lá.",
   "glyph": {
     "frames": [
       {
@@ -92,5 +92,6 @@
       ]
     },
     "time": 10
-  }
+  },
+  "feminine_form": true
 }

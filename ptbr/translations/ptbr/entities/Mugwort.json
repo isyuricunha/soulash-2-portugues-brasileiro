@@ -9,7 +9,7 @@
     "value",
     "weight"
   ],
-  "description": "Um monte de folhas aromáticas.",
+  "description": "Um maço de folhas aromáticas.",
   "glyph": {
     "frames": [
       {
@@ -36,5 +36,6 @@
   ],
   "name": "Artemísia",
   "value": 100,
-  "weight": 0.10000000149011612
+  "weight": 0.10000000149011612,
+  "feminine_form": true
 }

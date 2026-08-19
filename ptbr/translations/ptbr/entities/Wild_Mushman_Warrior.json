@@ -46,7 +46,7 @@
     "tags"
   ],
   "corpse": "core_2_Mushman_Corpse",
-  "description": "Este Mushman parece mais desalinhado e sujo do que os que você conhece de suas cidades.",
+  "description": "Este homem-cogumelo parece mais desgrenhado e sujo do que aqueles que você conhece de suas cidades.",
   "dialogues": [
     "1039"
   ],
@@ -102,7 +102,7 @@
   "moveable": {
     "speed": 1.0
   },
-  "name": "Guerreiro Mushman Selvagem",
+  "name": "Guerreiro Homem-Cogumelo Selvagem",
   "sight": {
     "ignore_infra_penalty": false,
     "infravision": true,

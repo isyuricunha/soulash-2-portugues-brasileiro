@@ -29,14 +29,14 @@
     "tags"
   ],
   "corpse": "2638",
-  "description": "Darrmon são pequenas criaturas humanoides muito corajosas. Eles têm algo como uma cauda de escorpião em suas cabeças, que pode causar dano venenoso.",
+  "description": "Os Darrmon são criaturas humanoides pequenas e muito bravas. Eles têm algo como a cauda de um escorpião na cabeça, que pode causar dano venenoso.",
   "experience_gainer": {
     "exp": 20,
     "level": 5
   },
   "fighter": {
     "attackNames": [
-      "Sting"
+      "Ferroada"
     ]
   },
   "glyph": {

@@ -48,7 +48,7 @@
       {
         "chance": 1.0,
         "id": "core_2_Jaw_Axe",
-        "name": "Machado de Mandíbula",
+        "name": "Machado de Queixada",
         "stack": 1
       }
     ],
@@ -95,9 +95,9 @@
   "moveable": {
     "speed": 1.0
   },
-  "name": "Orc Ladino",
+  "name": "Ladrão Orc",
   "persona": {
-    "occupation": "Ladino"
+    "occupation": "Thief"
   },
   "sight": {
     "ignore_infra_penalty": false,

@@ -43,15 +43,15 @@
     "weapon"
   ],
   "corpse": "core_2_Turtle_Hatchling_Corpse",
-  "description": "Uma pequena versão recém-eclodida de uma tartaruga gigante.",
+  "description": "Uma versão pequena, recém-eclodida, de uma tartaruga gigante.",
   "experience_gainer": {
     "exp": 0,
     "level": 30
   },
   "fighter": {
     "attackNames": [
-      "Bite",
-      "Flipper"
+      "Mordida",
+      "Barbatana"
     ]
   },
   "glyph": {

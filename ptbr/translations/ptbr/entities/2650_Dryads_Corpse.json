@@ -10,7 +10,7 @@
     "value",
     "weight"
   ],
-  "description": "Cadáver de dryad.",
+  "description": "Cadáver de dríade.",
   "glyph": {
     "frames": [
       {
@@ -39,7 +39,7 @@
     154,
     20
   ],
-  "name": "Cadáver de Dryad",
+  "name": "Cadáver de Dríade",
   "producer": {
     "products": {
       "3": [

@@ -23,7 +23,7 @@
     "value",
     "weight"
   ],
-  "description": "Pelos macios que já foram parte de um texugo.",
+  "description": "Pelo macio que já fez parte de um texugo.",
   "glyph": {
     "frames": [
       {
@@ -50,11 +50,13 @@
   ],
   "name": "Pele de Texugo",
   "resource": {
-    "affix": "Reckless",
+    "affix": "Imprudente",
     "magic_ingredient": 0,
     "quality": 1,
-    "type": 9
+    "type": 9,
+    "feminine_affix": "Imprudente"
   },
   "value": 200,
-  "weight": 0.10000000149011612
+  "weight": 0.10000000149011612,
+  "feminine_form": true
 }

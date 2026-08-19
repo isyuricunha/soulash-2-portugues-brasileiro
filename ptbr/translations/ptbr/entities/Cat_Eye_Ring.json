@@ -42,7 +42,7 @@
       14
     ]
   },
-  "description": "Um anel com um símbolo de olho de gato.",
+  "description": "Um anel com símbolo de olho de gato.",
   "glyph": {
     "frames": [
       {
@@ -67,7 +67,7 @@
     102,
     57
   ],
-  "name": "Anel Olho de Gato",
+  "name": "Anel de Olho de Gato",
   "sight": {
     "ignore_infra_penalty": false,
     "infravision": false,

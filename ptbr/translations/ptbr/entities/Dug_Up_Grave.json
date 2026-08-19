@@ -46,7 +46,7 @@
       "id": "25"
     }
   ],
-  "description": "Alguém desenterrou esta cova recentemente. Estavam procurando tesouro ou tentando sair?",
+  "description": "Alguém revitou esta cova recentemente. Estavam procurando tesouro ou tentando sair?",
   "glyph": {
     "frames": [
       {
@@ -69,7 +69,7 @@
     45,
     12
   ],
-  "name": "Cova Desenterrada",
+  "name": "Cova Revirada",
   "producer": {
     "products": {
       "12": [
@@ -116,5 +116,6 @@
       ]
     },
     "time": 10
-  }
+  },
+  "feminine_form": true
 }

@@ -51,7 +51,7 @@
   },
   "fighter": {
     "attackNames": [
-      "Slam"
+      "Impacto"
     ]
   },
   "glyph": {
@@ -78,7 +78,7 @@
   "moveable": {
     "speed": 0.699999988079071
   },
-  "name": "Cauda de Hidra",
+  "name": "Cauda da Hidra",
   "sight": {
     "ignore_infra_penalty": true,
     "infravision": true,
@@ -130,5 +130,6 @@
     "parry_bonus": 0,
     "range": 1,
     "type": 0
-  }
+  },
+  "feminine_form": true
 }

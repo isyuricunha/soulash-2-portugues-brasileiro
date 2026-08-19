@@ -63,5 +63,6 @@
   ],
   "name": "Capa de Pele",
   "value": 10000,
-  "weight": 4.0
+  "weight": 4.0,
+  "feminine_form": true
 }

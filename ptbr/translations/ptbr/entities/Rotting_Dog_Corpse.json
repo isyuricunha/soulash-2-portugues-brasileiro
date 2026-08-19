@@ -9,7 +9,7 @@
     "producer",
     "weight"
   ],
-  "description": "Corpo morto do cachorro apodrecido.",
+  "description": "Corpo morto do cão apodrecido.",
   "glyph": {
     "frames": [
       {
@@ -38,7 +38,7 @@
     128,
     104
   ],
-  "name": "Cadáver de Cachorro Apodrecido",
+  "name": "Cadáver de Cão Apodrecido",
   "producer": {
     "products": {
       "3": [

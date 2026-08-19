@@ -24,7 +24,7 @@
     "weapon",
     "weight"
   ],
-  "description": "A lenda diz que uma escama de dragão suporta até mesmo o calor de um lago de lava.",
+  "description": "A lenda diz que a escama de um dragão suporta até o calor de uma piscina de lava.",
   "glyph": {
     "frames": [
       {
@@ -51,10 +51,11 @@
   ],
   "name": "Escama de Dragão",
   "resource": {
-    "affix": "Dragon",
+    "affix": "Dragão",
     "magic_ingredient": 0,
     "quality": 4,
-    "type": 10
+    "type": 10,
+    "feminine_affix": "dracônica"
   },
   "value": 20000,
   "weapon": {
@@ -73,5 +74,6 @@
     "range": 0,
     "type": 9
   },
-  "weight": 0.10000000149011612
+  "weight": 0.10000000149011612,
+  "feminine_form": true
 }

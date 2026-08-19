@@ -24,7 +24,7 @@
     "producer"
   ],
   "corpse": [],
-  "description": "Esta estátua caiu e agora está começando a ser coberta pela vegetação.",
+  "description": "Esta estátua caiu e agora está começando a ficar coberta de vegetação.",
   "glyph": {
     "frames": [
       {
@@ -62,5 +62,6 @@
       ]
     },
     "time": 30
-  }
+  },
+  "feminine_form": true
 }

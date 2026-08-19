@@ -35,7 +35,7 @@
     "tags"
   ],
   "corpse": "25",
-  "description": "O melhor e mais bravo de todos os gladiadores. Você SERÁ entretido.",
+  "description": "O melhor e mais corajoso de todos os gladiadores. Você SERÁ entretido.",
   "dialogues": [
     "649",
     "650"
@@ -45,7 +45,7 @@
       {
         "chance": 1.0,
         "id": "167",
-        "name": "Escudo de Adarga",
+        "name": "Escudo de Pipa",
         "stack": 1
       }
     ],
@@ -53,7 +53,7 @@
       {
         "chance": 1.0,
         "id": "581",
-        "name": "Saia Escocesa",
+        "name": "Kilt",
         "stack": 1
       }
     ],

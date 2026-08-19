@@ -96,10 +96,11 @@
   ],
   "name": "Alexandrita",
   "resource": {
-    "affix": "Alexandrite",
+    "affix": "Alexandrita",
     "magic_ingredient": 0,
     "quality": 4,
-    "type": 8
+    "type": 8,
+    "feminine_affix": "da Alexandrita"
   },
   "statistics": {
     "dexterity": [
@@ -140,5 +141,6 @@
     "range": 0,
     "type": 9
   },
-  "weight": 0.10000000149011612
+  "weight": 0.10000000149011612,
+  "feminine_form": true
 }

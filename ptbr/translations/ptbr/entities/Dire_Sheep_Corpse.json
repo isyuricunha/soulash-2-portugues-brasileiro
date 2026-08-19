@@ -9,7 +9,7 @@
     "producer",
     "weight"
   ],
-  "description": "Os restos de uma ovelha feroz.",
+  "description": "Os restos de uma ovelha terrível.",
   "glyph": {
     "frames": [
       {
@@ -38,7 +38,7 @@
     102,
     57
   ],
-  "name": "Cadáver de Ovelha Feroz",
+  "name": "Cadáver de Ovelha Terrível",
   "producer": {
     "products": {
       "3": [

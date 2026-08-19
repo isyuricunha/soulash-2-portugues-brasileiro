@@ -1,6 +1,6 @@
 {
   "id": "core_2_stay_down",
-  "name": "Ficar deitado",
+  "name": "Fique no Chão",
   "requirements": {
     "skill": 42
   },

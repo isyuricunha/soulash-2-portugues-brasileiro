@@ -48,7 +48,7 @@
     "time": 30,
     "tools": []
   },
-  "description": "Um poço criado há muito tempo e coberto de musgo, mas ainda deve fornecer alguma água. Pelo menos fazia quando Sangre vivia, agora contém apenas sangue.",
+  "description": "Um poço criado há muito tempo e coberto de musgo, mas que ainda deveria fornecer água. Pelo menos fornecia quando Sangre vivia, agora contém apenas sangue.",
   "glyph": {
     "frames": [
       {
@@ -74,7 +74,7 @@
     56,
     61
   ],
-  "name": "Velho Poço de Sangue",
+  "name": "Antigo Poço de Sangue",
   "producer": {
     "products": {
       "core_2_deconstruct": [

@@ -40,7 +40,7 @@
       {
         "chance": 1.0,
         "id": "234",
-        "name": "Dardo",
+        "name": "Virote",
         "stack": 20
       }
     ],
@@ -87,9 +87,9 @@
   "moveable": {
     "speed": 1.2000000476837158
   },
-  "name": "Ladino Anão",
+  "name": "Anão Ladrão",
   "persona": {
-    "occupation": "Ladino"
+    "occupation": "Thief"
   },
   "sight": {
     "ignore_infra_penalty": false,

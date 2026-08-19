@@ -43,7 +43,7 @@
     "time": 20,
     "tools": []
   },
-  "description": "Lareira dentro de uma casa para cozinhar e aquecer.",
+  "description": "Lareira dentro de casa para cozinhar e aquecer.",
   "glyph": {
     "frames": [
       {
@@ -190,5 +190,6 @@
       "id": 2,
       "quality": 75
     }
-  ]
+  ],
+  "feminine_form": true
 }

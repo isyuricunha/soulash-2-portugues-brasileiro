@@ -10,7 +10,7 @@
     "weapon",
     "weight"
   ],
-  "description": "Uma pedra perfeitamente ajustada, garantindo arremessos precisos e precisos.",
+  "description": "Uma pedra de encaixe perfeito, garantindo arremessos precisos e exatos.",
   "glyph": {
     "frames": [
       {
@@ -71,5 +71,6 @@
     "range": 6,
     "type": 11
   },
-  "weight": 0.10000000149011612
+  "weight": 0.10000000149011612,
+  "feminine_form": true
 }

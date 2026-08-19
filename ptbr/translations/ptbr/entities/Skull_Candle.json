@@ -10,7 +10,7 @@
     "value",
     "weight"
   ],
-  "description": "Uma vela simples com um suporte de caveira. Este item pode fornecer uma pequena fonte de luz por um longo período de tempo.",
+  "description": "Uma vela simples com castiçal de crânio. Este item pode fornecer uma pequena fonte de luz por um longo período de tempo.",
   "glyph": {
     "frames": [
       {
@@ -51,5 +51,6 @@
   ],
   "name": "Vela de Caveira",
   "value": 200,
-  "weight": 0.10000000149011612
+  "weight": 0.10000000149011612,
+  "feminine_form": true
 }

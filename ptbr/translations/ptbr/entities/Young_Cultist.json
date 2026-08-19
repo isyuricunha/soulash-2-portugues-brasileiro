@@ -32,7 +32,7 @@
     "tags"
   ],
   "corpse": "592",
-  "description": "Jovem devoto do Grande Cegonha.",
+  "description": "Jovem devoto da Grande Cegonha.",
   "dialogues": [
     "926"
   ],
@@ -49,7 +49,7 @@
       {
         "chance": 1.0,
         "id": "23",
-        "name": "Farrapos",
+        "name": "Farrap",
         "stack": 1
       }
     ]
@@ -60,7 +60,7 @@
   },
   "fighter": {
     "attackNames": [
-      "Punch"
+      "Soco"
     ]
   },
   "glyph": {

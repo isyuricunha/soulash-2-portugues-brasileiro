@@ -77,9 +77,9 @@
   "moveable": {
     "speed": 1.0
   },
-  "name": "Espectro de Osso Ferreiro",
+  "name": "Espectro Ósseo Ferramenteiro",
   "persona": {
-    "occupation": "Ferreiro"
+    "occupation": "Toolmaker"
   },
   "sight": {
     "ignore_infra_penalty": false,

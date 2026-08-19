@@ -37,7 +37,7 @@
       14
     ]
   },
-  "description": "São apenas algumas peças de cordas emaranhadas juntas no formato de um anel.",
+  "description": "São apenas alguns pedaços de corda emaranhados na forma de um anel.",
   "glyph": {
     "frames": [
       {
@@ -62,7 +62,7 @@
     171,
     163
   ],
-  "name": "Anel de Cordão",
+  "name": "Anel de Corda",
   "value": 300,
   "weight": 0.10000000149011612
 }

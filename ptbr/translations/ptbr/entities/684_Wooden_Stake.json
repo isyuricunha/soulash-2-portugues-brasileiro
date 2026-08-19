@@ -24,7 +24,7 @@
       14
     ]
   },
-  "description": "A ruína dos vampiros.",
+  "description": "O flagelo dos vampiros.",
   "glyph": {
     "frames": [
       {
@@ -66,5 +66,6 @@
     "range": 1,
     "type": 3
   },
-  "weight": 0.20000000298023224
+  "weight": 0.20000000298023224,
+  "feminine_form": true
 }

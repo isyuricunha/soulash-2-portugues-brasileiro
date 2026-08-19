@@ -80,9 +80,9 @@
   "moveable": {
     "speed": 0.8999999761581421
   },
-  "name": "Rasimi Guerreiro",
+  "name": "Guerreiro Rasimi",
   "persona": {
-    "occupation": "Guerreiro"
+    "occupation": "Warrior"
   },
   "sight": {
     "ignore_infra_penalty": false,

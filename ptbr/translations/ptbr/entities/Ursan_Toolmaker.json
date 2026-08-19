@@ -87,9 +87,9 @@
   "moveable": {
     "speed": 1.100000023841858
   },
-  "name": "Ursan Ferreiro",
+  "name": "Ferramenteiro Ursano",
   "persona": {
-    "occupation": "Ferreiro"
+    "occupation": "Toolmaker"
   },
   "sight": {
     "ignore_infra_penalty": false,

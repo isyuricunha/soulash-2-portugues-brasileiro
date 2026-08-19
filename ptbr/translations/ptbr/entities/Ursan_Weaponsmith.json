@@ -103,9 +103,9 @@
   "moveable": {
     "speed": 1.100000023841858
   },
-  "name": "Ursan Armeiro",
+  "name": "Ursano Armeiro",
   "persona": {
-    "occupation": "Armeiro"
+    "occupation": "Weaponsmith"
   },
   "sight": {
     "ignore_infra_penalty": false,

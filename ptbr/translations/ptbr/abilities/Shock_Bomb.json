@@ -6,7 +6,7 @@
     "health": 0,
     "stamina": 6
   },
-  "description": "Arremesse uma bomba em um local, causando ::damage de dano ::damage_type.",
+  "description": "Arremessa uma bomba em um local, causando ::damage de dano ::damage_type.",
   "duration": 1.5,
   "effects": {
     "aoe_break": 1,

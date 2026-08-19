@@ -10,7 +10,7 @@
     "value",
     "weight"
   ],
-  "description": "Uma rocha muito grande bloqueando seu caminho.",
+  "description": "Uma pedra muito grande bloqueando seu caminho.",
   "glyph": {
     "frames": [
       {
@@ -53,7 +53,7 @@
     113,
     115
   ],
-  "name": "Pedregulho",
+  "name": "Rocha",
   "producer": {
     "products": {
       "5": [
@@ -70,5 +70,6 @@
     "time": 10
   },
   "value": 4000,
-  "weight": 100.0
+  "weight": 100.0,
+  "feminine_form": true
 }

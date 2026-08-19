@@ -8,7 +8,7 @@
     "producer"
   ],
   "corpse": [],
-  "description": "Uma grinalda simples feita com cogumelos de diferentes tamanhos.",
+  "description": "Uma guirlanda simples feita com cogumelos de diferentes tamanhos.",
   "glyph": {
     "frames": [
       {
@@ -39,7 +39,7 @@
     39,
     25
   ],
-  "name": "Grinalda de Cogumelos",
+  "name": "Guirlanda de Cogumelos",
   "producer": {
     "products": {
       "core_2_deconstruct": [
@@ -54,5 +54,6 @@
       ]
     },
     "time": 5
-  }
+  },
+  "feminine_form": true
 }

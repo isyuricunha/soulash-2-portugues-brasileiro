@@ -25,7 +25,7 @@
     "time": 60,
     "tools": []
   },
-  "description": "Alguns segredos técnicos de couraria estão escondidos nessas páginas.",
+  "description": "Alguns segredos técnicos do curtume estão escondidos nestas páginas.",
   "glyph": {
     "frames": [
       {
@@ -50,7 +50,7 @@
     178,
     176
   ],
-  "name": "Livro de Couraria",
+  "name": "Livro do Curtume",
   "usable": {
     "ability": "",
     "recipe": "",

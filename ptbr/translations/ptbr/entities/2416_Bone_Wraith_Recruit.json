@@ -39,7 +39,7 @@
       {
         "chance": 1.0,
         "id": "312",
-        "name": "Espada de Osso",
+        "name": "Espada Óssea",
         "stack": 1
       }
     ]
@@ -78,9 +78,9 @@
   "moveable": {
     "speed": 1.0
   },
-  "name": "Recruta Espectro de Osso",
+  "name": "Recruta Espectro Ósseo",
   "persona": {
-    "occupation": "Recruta"
+    "occupation": "Recruit"
   },
   "sight": {
     "ignore_infra_penalty": false,

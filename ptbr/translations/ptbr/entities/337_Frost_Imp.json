@@ -44,7 +44,7 @@
     "tags"
   ],
   "corpse": "2446",
-  "description": "Um pequeno ser demoníaco ri maniacamente, olhando para você.",
+  "description": "Um pequeno ser demoníaco gargalha maniacamente, olhando para você.",
   "dialogues": [
     "52",
     "53"
@@ -55,10 +55,10 @@
   },
   "fighter": {
     "attackNames": [
-      "Horn",
-      "Kick",
-      "Punch",
-      "Bite"
+      "Chifre",
+      "Chute",
+      "Soco",
+      "Mordida"
     ]
   },
   "glyph": {
@@ -88,7 +88,7 @@
   "moveable": {
     "speed": 1.0
   },
-  "name": "Diabrete de Gelo",
+  "name": "Demônio da Geada",
   "sight": {
     "ignore_infra_penalty": false,
     "infravision": true,

@@ -42,7 +42,7 @@
       12
     ]
   },
-  "description": "Um pedaço de pano consagrado cheio de fé, mais do que um simples material.",
+  "description": "Um pedaço de tecido consagrado, preenchido com a fé de que é mais do que um simples material.",
   "glyph": {
     "frames": [
       {
@@ -69,10 +69,11 @@
   ],
   "name": "Tecido Sagrado",
   "resource": {
-    "affix": "Sacred",
+    "affix": "Sagrado",
     "magic_ingredient": 0,
     "quality": 3,
-    "type": 4
+    "type": 4,
+    "feminine_affix": "Sagrada"
   },
   "statistics": {
     "dexterity": [

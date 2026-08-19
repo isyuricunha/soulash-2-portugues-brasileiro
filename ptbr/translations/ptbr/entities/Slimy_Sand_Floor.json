@@ -13,7 +13,7 @@
     "minimap_pixel",
     "name"
   ],
-  "description": "Chão feito de areia coberta por alguma substância viscosa.",
+  "description": "Piso feito de areia coberta por algum tipo de substância viscosa.",
   "glyph": {
     "frames": [
       {
@@ -34,5 +34,5 @@
     108,
     58
   ],
-  "name": "Chão de Areia Viscosa"
+  "name": "Piso de Areia Gosmenta"
 }

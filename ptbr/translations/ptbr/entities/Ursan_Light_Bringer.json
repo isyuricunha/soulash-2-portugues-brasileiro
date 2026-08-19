@@ -49,7 +49,7 @@
       {
         "chance": 1.0,
         "id": "23",
-        "name": "Farrapos",
+        "name": "Farrap",
         "stack": 1
       }
     ]
@@ -88,9 +88,9 @@
   "moveable": {
     "speed": 1.2999999523162842
   },
-  "name": "Ursan Portador de Luz",
+  "name": "Ursan Portador da Luz",
   "persona": {
-    "occupation": "Portador de Luz"
+    "occupation": "Light Bringer"
   },
   "sight": {
     "ignore_infra_penalty": false,

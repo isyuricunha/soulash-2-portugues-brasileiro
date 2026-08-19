@@ -23,7 +23,7 @@
     "time": 25,
     "tools": []
   },
-  "description": "Uma bela e perfumada cama feita de flores.",
+  "description": "Uma bela cama perfumada feita de flores.",
   "glyph": {
     "frames": [
       {
@@ -46,5 +46,6 @@
     25
   ],
   "name": "Cama de Flores",
-  "resting_place": 200
+  "resting_place": 200,
+  "feminine_form": true
 }

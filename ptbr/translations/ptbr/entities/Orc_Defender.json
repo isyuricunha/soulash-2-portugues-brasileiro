@@ -111,7 +111,7 @@
   },
   "name": "Orc Defensor",
   "persona": {
-    "occupation": "Defensor"
+    "occupation": "Defender"
   },
   "sight": {
     "ignore_infra_penalty": false,

@@ -9,7 +9,7 @@
     "value",
     "weight"
   ],
-  "description": "Corpo sem vida de um Espectro de Osso.",
+  "description": "Corpo sem vida de um Espectro Ósseo.",
   "glyph": {
     "frames": [
       {
@@ -38,7 +38,7 @@
     183,
     183
   ],
-  "name": "Cadáver de Espectro de Osso",
+  "name": "Cadáver de Espectro Ósseo",
   "value": 0,
   "weight": 60.0
 }

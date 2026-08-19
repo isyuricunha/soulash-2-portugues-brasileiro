@@ -8,7 +8,7 @@
     "position_2d"
   ],
   "corpse": [],
-  "description": "Uma cortina tecida de fios delicados de micélio.",
+  "description": "Uma cortina tecida com fios delicados de micélio.",
   "glyph": {
     "frames": [
       {
@@ -30,5 +30,6 @@
     108,
     14
   ],
-  "name": "Cortinas de Micélio"
+  "name": "Cortinas de Micélio",
+  "feminine_form": true
 }

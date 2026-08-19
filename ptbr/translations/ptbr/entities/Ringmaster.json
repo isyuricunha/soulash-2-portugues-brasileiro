@@ -49,7 +49,7 @@
     "tags"
   ],
   "corpse": "25",
-  "description": "Uma figura sinistra e carismática que governa um circo sombrio e retorcido.",
+  "description": "Uma figura sinistra e carismática que governa um circo sombrio e perverso.",
   "dialogues": [
     "873",
     "963"
@@ -67,7 +67,7 @@
       {
         "chance": 1.0,
         "id": "323",
-        "name": "Collant",
+        "name": "Meia-calça",
         "stack": 1
       }
     ],
@@ -75,7 +75,7 @@
       {
         "chance": 1.0,
         "id": "2187",
-        "name": "Adaga Joalheira",
+        "name": "Adaga Joalhada",
         "stack": 1
       }
     ],

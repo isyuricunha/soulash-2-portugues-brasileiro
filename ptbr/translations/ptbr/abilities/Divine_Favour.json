@@ -6,7 +6,7 @@
     "health": 0,
     "stamina": 10
   },
-  "description": "Esta habilidade cura ::heal de Vida de um único ser vivo.",
+  "description": "Esta habilidade cura ::heal de vida a um único ser vivo.",
   "duration": 0.0,
   "effects": {
     "heal": [
@@ -15,7 +15,7 @@
     ]
   },
   "id": "core_2_Divine_Favour",
-  "name": "Favor Divino",
+  "name": "Graça Divina",
   "image": 618,
   "range": 5,
   "skill": "core_2_divine_fists",

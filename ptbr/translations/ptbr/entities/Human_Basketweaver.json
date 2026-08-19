@@ -43,7 +43,7 @@
       {
         "chance": 1.0,
         "id": "23",
-        "name": "Farrapos",
+        "name": "Farrapas",
         "stack": 1
       }
     ]
@@ -82,9 +82,9 @@
   "moveable": {
     "speed": 1.2999999523162842
   },
-  "name": "Humano Cesteiro",
+  "name": "Cesteiro Humano",
   "persona": {
-    "occupation": "Cesteiro"
+    "occupation": "Basketweaver"
   },
   "sight": {
     "ignore_infra_penalty": false,

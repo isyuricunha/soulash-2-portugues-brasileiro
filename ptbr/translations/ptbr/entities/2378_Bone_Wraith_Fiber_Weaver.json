@@ -80,9 +80,9 @@
   "moveable": {
     "speed": 1.0
   },
-  "name": "Espectro de Osso Tecelão de Fibras",
+  "name": "TecelÃ£o de Fibras de Espectro Ã“sseo",
   "persona": {
-    "occupation": "Tecelão de Fibras"
+    "occupation": "Fiber Weaver"
   },
   "sight": {
     "ignore_infra_penalty": false,

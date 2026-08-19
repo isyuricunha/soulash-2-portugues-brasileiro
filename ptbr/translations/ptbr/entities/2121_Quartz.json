@@ -24,7 +24,7 @@
     "weapon",
     "weight"
   ],
-  "description": "Uma pedra preciosa de cor branca leitosa.",
+  "description": "Uma gema de cor branca leitosa.",
   "glyph": {
     "frames": [
       {
@@ -51,10 +51,11 @@
   ],
   "name": "Quartzo",
   "resource": {
-    "affix": "Quartz",
+    "affix": "Quartzo",
     "magic_ingredient": 0,
     "quality": 3,
-    "type": 8
+    "type": 8,
+    "feminine_affix": "Quartzosa"
   },
   "value": 3200,
   "weapon": {

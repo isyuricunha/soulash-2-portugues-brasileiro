@@ -41,7 +41,7 @@
       1
     ]
   },
-  "description": "Ótima invenção da engenharia anã, uma vela presa a um anel de metal que você pode usar na cabeça. Libera as mãos para cometer crimes.",
+  "description": "Grande invenção da engenharia anã, uma vela presa a um anel de metal que você pode usar na cabeça. Libera as mãos para cometer crimes.",
   "glyph": {
     "frames": [
       {
@@ -83,5 +83,6 @@
   ],
   "name": "Vela de Cabeça",
   "value": 2700,
-  "weight": 2.0
+  "weight": 2.0,
+  "feminine_form": true
 }

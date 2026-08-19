@@ -22,7 +22,7 @@
     "time": 20,
     "tools": []
   },
-  "description": "Muitas vezes usado por magos e viajantes.",
+  "description": "Freqüentemente usado por magos e viajantes.",
   "glyph": {
     "frames": [
       {
@@ -47,7 +47,7 @@
     102,
     57
   ],
-  "name": "Bastão",
+  "name": "Cajado",
   "value": 100,
   "weapon": {
     "attack_speed": 1.5,

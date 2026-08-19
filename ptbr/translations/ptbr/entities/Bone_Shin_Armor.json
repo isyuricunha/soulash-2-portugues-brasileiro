@@ -64,5 +64,6 @@
   ],
   "name": "Armadura de Canela de Osso",
   "value": 1100,
-  "weight": 0.6000000238418579
+  "weight": 0.6000000238418579,
+  "feminine_form": true
 }

@@ -23,7 +23,7 @@
     "value",
     "weight"
   ],
-  "description": "Um crânio nu de algum pobre coitado.",
+  "description": "Um crânio nu de algum pobre infeliz.",
   "glyph": {
     "frames": [
       {
@@ -50,10 +50,11 @@
   ],
   "name": "Crânio",
   "resource": {
-    "affix": "of Skull",
+    "affix": "de Crânio",
     "magic_ingredient": 1,
     "quality": 1,
-    "type": 7
+    "type": 7,
+    "feminine_affix": "craniana"
   },
   "value": 200,
   "weight": 0.10000000149011612

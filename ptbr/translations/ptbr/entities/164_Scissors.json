@@ -25,7 +25,7 @@
       1
     ]
   },
-  "description": "Essa ferramenta é perfeita para cortar material, couro ou um dedo.",
+  "description": "Esta ferramenta é perfeita para cortar material, couro ou um dedo.",
   "glyph": {
     "frames": [
       {
@@ -73,5 +73,6 @@
     "range": 1,
     "type": 8
   },
-  "weight": 0.5
+  "weight": 0.5,
+  "feminine_form": true
 }

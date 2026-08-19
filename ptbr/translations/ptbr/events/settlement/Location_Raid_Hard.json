@@ -1,0 +1,68 @@
+{
+  "id": "core_2_location_raid_hard",
+  "name": "Um Ataque Selvagem",
+  "category": "settlement",
+  "flavor": "Seres perigosos saíram de um esconderijo próximo. Não são invasores oportunistas, são veteranos de inúmeras batalhas, e vieram esmagar este assentamento com força avassaladora.",
+  "icon": 22,
+  "small_icon": 22,
+  "rarity": "rare",
+  "trigger": {
+    "base_probability": 0.005,
+    "conditions": [
+      {
+        "type": "settlement_tier_min",
+        "value": 3
+      },
+      {
+        "type": "nearby_location_difficulty",
+        "value": 3
+      }
+    ]
+  },
+  "duration": {
+    "type": "temporary",
+    "days": [
+      45,
+      90
+    ]
+  },
+  "effects": [
+    {
+      "type": "spawn_group",
+      "amount": [
+        7,
+        14
+      ],
+      "group_type": "hostile_group",
+      "entity_from_location": true,
+      "exclude": [],
+      "spawn_behaviors": [
+        21
+      ],
+      "border_color": [
+        220,
+        40,
+        40
+      ]
+    }
+  ],
+  "interactions": [
+    {
+      "type": "hostiles_cleared",
+      "translation_id": 0,
+      "history_event": "::name esmagou o ataque contra ::settlement e fez os atacantes recuarem!",
+      "announcement": "O ataque contra ::settlement foi contido!",
+      "reward": {
+        "gold": 1000,
+        "remove_event": true
+      }
+    }
+  ],
+  "extra_dialogues": [
+    "core_2_raid_medium"
+  ],
+  "history_events": {
+    "begin": "Seres perigosos de um esconderijo próximo desencadearam um ataque devastador contra ::settlement.",
+    "end": "O ataque contra ::settlement foi contido. Os atacantes foram forçados a recuar para seu esconderijo."
+  }
+}

@@ -51,7 +51,7 @@
       {
         "chance": 1.0,
         "id": "2314",
-        "name": "Vestimenta de Xamã",
+        "name": "Vestes do Xamã",
         "stack": 1
       }
     ]
@@ -90,9 +90,9 @@
   "moveable": {
     "speed": 1.0
   },
-  "name": "Troll Xamã",
+  "name": "Xamã Troll",
   "persona": {
-    "occupation": "Xamã"
+    "occupation": "Shaman"
   },
   "sight": {
     "ignore_infra_penalty": false,

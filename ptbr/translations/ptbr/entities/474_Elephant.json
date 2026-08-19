@@ -29,7 +29,7 @@
     "tags"
   ],
   "corpse": "595",
-  "description": "Grande animal com uma longa tromba, orelhas planas e ossos muito valiosos.",
+  "description": "Animal grande com uma tromba longa, orelhas achatadas e ossos muito valiosos.",
   "dialogues": [
     "240",
     "241",
@@ -63,8 +63,8 @@
   },
   "fighter": {
     "attackNames": [
-      "Stomp",
-      "Trunk"
+      "Pisoteio",
+      "Tromba"
     ]
   },
   "glyph": {

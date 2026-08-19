@@ -87,7 +87,7 @@
   },
   "fighter": {
     "attackNames": [
-      "Slam"
+      "Impacto"
     ]
   },
   "glyph": {
@@ -114,7 +114,7 @@
   "moveable": {
     "speed": 1.2999999523162842
   },
-  "name": "Parede de Ataque",
+  "name": "Parede Atacante",
   "sight": {
     "ignore_infra_penalty": true,
     "infravision": true,
@@ -166,5 +166,6 @@
     "parry_bonus": 0,
     "range": 1,
     "type": 1
-  }
+  },
+  "feminine_form": true
 }

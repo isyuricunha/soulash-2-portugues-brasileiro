@@ -12,7 +12,7 @@
     "weapon",
     "weight"
   ],
-  "description": "Bico vermelho longo de uma cegonha.",
+  "description": "Bico longo e vermelho de uma cegonha.",
   "glyph": {
     "frames": [
       {
@@ -39,10 +39,11 @@
   ],
   "name": "Bico de Cegonha",
   "resource": {
-    "affix": "of the Beak",
+    "affix": "do Bico",
     "magic_ingredient": 4,
     "quality": 4,
-    "type": 7
+    "type": 7,
+    "feminine_affix": "bicuda"
   },
   "statistics": {
     "dexterity": [

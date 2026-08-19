@@ -23,7 +23,7 @@
     "value",
     "weight"
   ],
-  "description": "Não tão macia quanto o tipo normal, mas muito mais quente.",
+  "description": "Não tão macio quanto o tipo normal, mas muito mais quente.",
   "glyph": {
     "frames": [
       {
@@ -48,13 +48,15 @@
     158,
     158
   ],
-  "name": "Lã Feroz",
+  "name": "Lã Terrível",
   "resource": {
-    "affix": "Dire",
+    "affix": "Terrível",
     "magic_ingredient": 0,
     "quality": 2,
-    "type": 4
+    "type": 4,
+    "feminine_affix": "Terrível"
   },
   "value": 800,
-  "weight": 0.10000000149011612
+  "weight": 0.10000000149011612,
+  "feminine_form": true
 }

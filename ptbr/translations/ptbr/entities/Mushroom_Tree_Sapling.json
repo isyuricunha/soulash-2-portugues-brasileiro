@@ -42,7 +42,7 @@
     "time": 20,
     "tools": []
   },
-  "description": "Uma árvore de cogumelos muito jovem e pequena.",
+  "description": "Uma árvore de cogumelo muito jovem e pequena.",
   "glyph": {
     "frames": [
       {
@@ -93,7 +93,7 @@
     99,
     99
   ],
-  "name": "Muda de Árvore de Cogumelos",
+  "name": "Muda de Árvore de Cogumelo",
   "random_resource": {
     "delay_spawn": true,
     "entity": [
@@ -111,5 +111,6 @@
     "spawn_chance": 100.0,
     "spawn_multiply": 0.0,
     "spawn_rolls": 1
-  }
+  },
+  "feminine_form": true
 }

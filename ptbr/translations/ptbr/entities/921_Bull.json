@@ -44,7 +44,7 @@
     "tags"
   ],
   "corpse": "2549",
-  "description": "Um touro macho com chifres. Ele gosta da cor vermelha e de perseguir humanos.",
+  "description": "Um touro com chifres. Gosta da cor vermelha e de perseguir humanos.",
   "dialogues": [
     "343",
     "904"
@@ -75,7 +75,7 @@
   },
   "fighter": {
     "attackNames": [
-      "Headbutt"
+      "Cabeçada"
     ]
   },
   "glyph": {

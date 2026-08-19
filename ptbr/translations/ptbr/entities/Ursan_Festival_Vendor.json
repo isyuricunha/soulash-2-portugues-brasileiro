@@ -27,7 +27,7 @@
     "tags"
   ],
   "corpse": "core_2_Ursan_Corpse",
-  "description": "Um comerciante alegre vendendo mercadorias do Festival.",
+  "description": "Um comerciante alegre vendendo artigos de festival.",
   "dialogues": [],
   "equipment": {
     "head_cloth": [
@@ -61,7 +61,7 @@
   },
   "fighter": {
     "attackNames": [
-      "Punch"
+      "Soco"
     ]
   },
   "glyph": {
@@ -93,7 +93,7 @@
   },
   "name": "Vendedor do Festival Ursan",
   "persona": {
-    "occupation": "Vendedor do Festival"
+    "occupation": "Festival Vendor"
   },
   "sight": {
     "ignore_infra_penalty": false,

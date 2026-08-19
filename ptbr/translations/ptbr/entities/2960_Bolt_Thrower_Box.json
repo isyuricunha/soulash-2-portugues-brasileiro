@@ -41,7 +41,7 @@
       6
     ]
   },
-  "description": "Milagre da engenharia anã, uma caixa com um lançador de dardos dentro. Permite implantação rápida.",
+  "description": "Maravilha da engenharia anã, uma caixa com um lançador de virotes dentro. Permite implantação rápida.",
   "glyph": {
     "frames": [
       {
@@ -66,11 +66,12 @@
     128,
     128
   ],
-  "name": "Caixa de Lançador de Dardos",
+  "name": "Caixa de Lançador de Virotes",
   "usable": {
     "ability": "core_2_Summon_Bolt_Thrower",
     "recipe": ""
   },
   "value": 25000,
-  "weight": 3.0
+  "weight": 3.0,
+  "feminine_form": true
 }

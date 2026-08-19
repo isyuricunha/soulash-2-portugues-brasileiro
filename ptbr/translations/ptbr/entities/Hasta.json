@@ -31,7 +31,7 @@
       14
     ]
   },
-  "description": "Arma muito versátil com uma pequena extremidade de metal que pode ser usada como uma lâmina reserva.",
+  "description": "Arma muito versátil com uma pequena ponta metálica que pode ser usada como lâmina reserva.",
   "glyph": {
     "frames": [
       {
@@ -56,7 +56,7 @@
     204,
     104
   ],
-  "name": "Haste",
+  "name": "Hasta",
   "value": 6000,
   "weapon": {
     "attack_speed": 1.0,
@@ -74,5 +74,6 @@
     "range": 1,
     "type": 4
   },
-  "weight": 2.0
+  "weight": 2.0,
+  "feminine_form": true
 }

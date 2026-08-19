@@ -23,7 +23,7 @@
     "time": 10,
     "tools": []
   },
-  "description": "Aqui jaz Sebille. Você será sentida.",
+  "description": "Aqui jaz Sebille. Fará falta.",
   "glyph": {
     "frames": [
       {
@@ -92,5 +92,6 @@
       ]
     },
     "time": 10
-  }
+  },
+  "feminine_form": true
 }

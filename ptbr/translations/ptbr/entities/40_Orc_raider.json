@@ -74,7 +74,7 @@
       {
         "chance": 0.5,
         "id": "312",
-        "name": "Espada de Osso",
+        "name": "espada de osso",
         "stack": 1
       }
     ],
@@ -121,7 +121,7 @@
   "moveable": {
     "speed": 1.0
   },
-  "name": "Orc Saqueador",
+  "name": "Saqueador Orc",
   "sight": {
     "ignore_infra_penalty": false,
     "infravision": true,

@@ -55,7 +55,7 @@
     83,
     92
   ],
-  "name": "Escada de Pedra Ascendente",
+  "name": "Escadas de Pedra Ascendentes",
   "producer": {
     "products": {
       "core_2_deconstruct": [
@@ -70,5 +70,6 @@
       ]
     },
     "time": 40
-  }
+  },
+  "feminine_form": true
 }

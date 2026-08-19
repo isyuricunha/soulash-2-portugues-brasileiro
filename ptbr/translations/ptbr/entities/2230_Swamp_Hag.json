@@ -32,7 +32,7 @@
     "tags"
   ],
   "corpse": "25",
-  "description": "É uma velha bruxa feia que vive nos pântanos. Você ouviu rumores de que ela come crianças.",
+  "description": "É uma bruxa velha e feia que vive nos pântanos. Você ouviu rumores de que ela come crianças.",
   "dialogues": [
     "370",
     "371"
@@ -58,7 +58,7 @@
       {
         "chance": 1.0,
         "id": "339",
-        "name": "Cajado da Bruxa",
+        "name": "Cajado de Bruxa",
         "stack": 1
       }
     ],
@@ -143,5 +143,6 @@
   "tags": [
     "1",
     "9"
-  ]
+  ],
+  "feminine_form": true
 }

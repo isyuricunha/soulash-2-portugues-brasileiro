@@ -7,7 +7,7 @@
     "item": "11",
     "stamina": 0
   },
-  "description": "Transforma uma árvore em uma árvore viva que irá apoiá-lo em batalha por ::duration turnos.",
+  "description": "Transforma uma árvore em uma árvore viva que o apoiará em batalha por ::duration turnos.",
   "duration": 20.0,
   "effects": {
     "summon_count": 1

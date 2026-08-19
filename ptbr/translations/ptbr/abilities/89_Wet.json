@@ -6,7 +6,7 @@
     "health": 0,
     "stamina": 0
   },
-  "description": "O personagem está encharcado, alterando a resistência ::damage_type por ::resistance.",
+  "description": "O personagem está encharcado, alterando a resistência a ::damage_type em ::resistance.",
   "duration": 50.0,
   "effects": {
     "damage_type": "fire",

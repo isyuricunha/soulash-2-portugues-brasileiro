@@ -1,0 +1,126 @@
+{
+  "id": "core_2_rat_plague",
+  "name": "Praga dos Ratos",
+  "category": "settlement",
+  "flavor": "Os celeiros do assentamento foram invadidos por um enorme ninho de ratos. Eles fervilham para fora de uma toca imunda nos arredores, liderados por um monstro Rei dos Ratos, e não pararão até que seu mestre esteja saciado.",
+  "icon": 8,
+  "small_icon": 8,
+  "rarity": "uncommon",
+  "restrict_races": [
+    "0"
+  ],
+  "trigger": {
+    "base_probability": 0.005,
+    "conditions": [
+      {
+        "type": "settlement_population_min",
+        "value": 20
+      },
+      {
+        "type": "settlement_tier_min",
+        "value": 1
+      },
+      {
+        "type": "race",
+        "values": [
+          "0"
+        ]
+      },
+      {
+        "type": "min_unemployed",
+        "value": 1
+      }
+    ]
+  },
+  "duration": {
+    "type": "temporary",
+    "days": [
+      60,
+      120
+    ]
+  },
+  "buildings": [
+    {
+      "building_id": "544",
+      "placement": "map_edge",
+      "lair_only": true
+    }
+  ],
+  "effects": [
+    {
+      "type": "spawn_group",
+      "amount": [
+        1,
+        1
+      ],
+      "group_type": "lair_group",
+      "entity": "core_2_Rat_Mother",
+      "z_level": -1,
+      "border_color": [
+        160,
+        40,
+        40
+      ]
+    },
+    {
+      "type": "spawn_group",
+      "amount": [
+        8,
+        12
+      ],
+      "group_type": "hostile_group",
+      "entity": "core_2_Rat",
+      "border_color": [
+        130,
+        90,
+        60
+      ]
+    },
+    {
+      "type": "spawn_group",
+      "amount": [
+        1,
+        1
+      ],
+      "group_type": "settlement",
+      "entity": "core_2_Rat_Plague_Collector",
+      "border_color": [
+        200,
+        170,
+        90
+      ]
+    }
+  ],
+  "extra_dialogues": [
+    "core_2_rat_plague"
+  ],
+  "interactions": [
+    {
+      "type": "conversation",
+      "id": "core_2_slay_rat_queen",
+      "translation_id": 0,
+      "label": "Entregar item necessário.",
+      "entities": [
+        "core_2_Rat_Plague_Collector"
+      ],
+      "required_ingredients": [
+        {
+          "id": "core_2_Rat_Mother_Tail",
+          "amount": 1
+        }
+      ],
+      "reward": {
+        "gold": 1500,
+        "skill_id": "core_2_hunting",
+        "exp": 100,
+        "remove_event": true
+      },
+      "history_event": "::name matou a Mãe Rato e purificou este assentamento da praga de ratos!",
+      "announcement": "Você acabou com a praga de ratos em ::settlement!"
+    }
+  ],
+  "history_events": {
+    "begin": "Uma praga de ratos invade este assentamento, liderada por uma monstro Mãe Rato!",
+    "end": "Os ratos recuam de volta para o mato e o assentamento respira aliviado."
+  }
+}

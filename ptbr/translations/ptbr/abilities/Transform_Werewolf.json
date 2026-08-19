@@ -6,7 +6,7 @@
     "health": 0,
     "stamina": 10
   },
-  "description": "Invoca seu lobo interior para imbuí-lo com seu poder. Você ganha estatísticas, bem como bônus na velocidade de ataque e velocidade de movimento por uma duração de ::duration turnos.",
+  "description": "Invoca seu lobo interior para imbuí-lo com seu poder. Você ganha atributos, bem como bônus de velocidade de ataque e velocidade de movimento por uma duração de ::duration turnos.",
   "duration": 25.0,
   "effects": {
     "attack_speed": -0.20000000298023224,

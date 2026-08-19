@@ -22,7 +22,7 @@
       6
     ]
   },
-  "description": "Uma escadaria descendente esculpida em belos blocos de mármore.",
+  "description": "Uma escada que desce, esculpida em belos blocos de mármore.",
   "glyph": {
     "frames": [
       {
@@ -47,7 +47,7 @@
     124,
     137
   ],
-  "name": "Escadaria de Mármore Descendente",
+  "name": "Escadas de Mármore Descendentes",
   "producer": {
     "products": {
       "core_2_deconstruct": [
@@ -62,5 +62,6 @@
       ]
     },
     "time": 20
-  }
+  },
+  "feminine_form": true
 }

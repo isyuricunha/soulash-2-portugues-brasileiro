@@ -54,7 +54,7 @@
       15
     ]
   },
-  "description": "O chumbo é muito macio e resistente à corrosão. É muito pesado.",
+  "description": "Chumbo é muito macio e resistente à corrosão. É muito pesado.",
   "extra_weight": 2.5,
   "glyph": {
     "frames": [
@@ -82,10 +82,11 @@
   ],
   "name": "Lingote de Chumbo",
   "resource": {
-    "affix": "Lead",
+    "affix": "Chumbo",
     "magic_ingredient": 0,
     "quality": 3,
-    "type": 1
+    "type": 1,
+    "feminine_affix": "chumbosa"
   },
   "value": 10000,
   "weapon": {

@@ -6,7 +6,7 @@
     "health": 0,
     "stamina": 8
   },
-  "description": "Golpeie sua arma causando ::damage de dano ::damage_type em todos em um formato de T à sua frente com uma força capaz de empurrá-los 2 células para trás.",
+  "description": "Desfere um golpe com sua arma causando ::damage ::damage_type a todos em formato de T à sua frente, com força para arremessá-los para trás 2 casas.",
   "duration": 0.0,
   "effects": {
     "aoe_range": 1,
@@ -21,7 +21,7 @@
   },
   "id": "core_2_Swipe",
   "image": 715,
-  "name": "Golpe",
+  "name": "Varredura",
   "range": 1,
   "requirements": {
     "one_of": [

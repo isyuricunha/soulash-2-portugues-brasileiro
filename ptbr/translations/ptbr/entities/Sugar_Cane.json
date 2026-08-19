@@ -10,7 +10,7 @@
     "value",
     "weight"
   ],
-  "description": "Um talo de grama alta usado para produzir açúcar.",
+  "description": "Um caule de capim alto usado para produzir açúcar.",
   "glyph": {
     "frames": [
       {
@@ -35,7 +35,7 @@
     73,
     73
   ],
-  "name": "Cana-de-Açúcar",
+  "name": "Cana-de-açúcar",
   "producer": {
     "products": {
       "7": [
@@ -60,5 +60,6 @@
     "time": 10
   },
   "value": 200,
-  "weight": 0.20000000298023224
+  "weight": 0.20000000298023224,
+  "feminine_form": true
 }

@@ -6,7 +6,7 @@
     "health": 0,
     "stamina": 0
   },
-  "description": "Envie seiva ácida causando ::damage de dano ::damage_type a todos em um cone e grude o inimigo no chão.",
+  "description": "Lança seiva ácida causando ::damage ::damage_type de dano a todos em um cone e prende o inimigo ao chão.",
   "duration": 0.0,
   "effects": {
     "aoe_break": 6,

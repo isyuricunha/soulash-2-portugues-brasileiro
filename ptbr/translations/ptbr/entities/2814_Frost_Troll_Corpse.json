@@ -10,7 +10,7 @@
     "value",
     "weight"
   ],
-  "description": "Um corpo sem vida de um troll do gelo.",
+  "description": "Um corpo sem vida de um troll da geada.",
   "glyph": {
     "frames": [
       {
@@ -39,7 +39,7 @@
     124,
     162
   ],
-  "name": "Cadáver de Troll do Gelo",
+  "name": "Cadáver de Troll da Geada",
   "producer": {
     "products": {
       "3": [

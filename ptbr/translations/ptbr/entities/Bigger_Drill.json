@@ -38,7 +38,7 @@
       1
     ]
   },
-  "description": "Uma mão de um golem equipada com uma broca ainda maior.",
+  "description": "Uma mão de golem equipada com uma broca ainda maior.",
   "glyph": {
     "frames": [
       {
@@ -63,7 +63,7 @@
     160,
     161
   ],
-  "name": "Furadeira Maior",
+  "name": "Broca Maior",
   "tool": [
     {
       "id": 9,
@@ -87,5 +87,6 @@
     "range": 1,
     "type": 3
   },
-  "weight": 2.5
+  "weight": 2.5,
+  "feminine_form": true
 }

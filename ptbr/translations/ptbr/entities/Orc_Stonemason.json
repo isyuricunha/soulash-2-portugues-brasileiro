@@ -80,9 +80,9 @@
   "moveable": {
     "speed": 1.5
   },
-  "name": "Pedreiro Orc",
+  "name": "Orc Pedreiro",
   "persona": {
-    "occupation": "Pedreiro"
+    "occupation": "Stonemason"
   },
   "sight": {
     "ignore_infra_penalty": false,

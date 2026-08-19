@@ -95,9 +95,9 @@
   "moveable": {
     "speed": 1.100000023841858
   },
-  "name": "Vampiro Ferreiro",
+  "name": "Vampiro Ferramenteiro",
   "persona": {
-    "occupation": "Ferreiro"
+    "occupation": "Toolmaker"
   },
   "sight": {
     "ignore_infra_penalty": false,

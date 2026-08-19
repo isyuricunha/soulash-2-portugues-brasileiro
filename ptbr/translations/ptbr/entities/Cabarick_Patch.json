@@ -8,7 +8,7 @@
     "producer"
   ],
   "corpse": [],
-  "description": "Um pequeno grupo de folhas verde-escuros.",
+  "description": "Uma pequena moita de folhas verde-escuras.",
   "glyph": {
     "frames": [
       {
@@ -30,7 +30,7 @@
     103,
     87
   ],
-  "name": "Grupo de Cabarick",
+  "name": "Moita de Cabarick",
   "producer": {
     "products": {
       "10": [
@@ -45,5 +45,6 @@
       ]
     },
     "time": 10
-  }
+  },
+  "feminine_form": true
 }

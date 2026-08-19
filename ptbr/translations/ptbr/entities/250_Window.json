@@ -55,7 +55,7 @@
       6
     ]
   },
-  "description": "Janela em uma parede de madeira, permitindo que alguma luz entre no edifício.",
+  "description": "Janela em uma parede de madeira, permitindo a entrada de luz no edifício.",
   "glyph": {
     "frames": [
       {
@@ -93,5 +93,6 @@
       ]
     },
     "time": 20
-  }
+  },
+  "feminine_form": true
 }

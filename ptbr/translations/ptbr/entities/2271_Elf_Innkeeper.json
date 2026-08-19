@@ -87,9 +87,9 @@
   "moveable": {
     "speed": 1.100000023841858
   },
-  "name": "Estalajadeiro Elfo",
+  "name": "Elfo Estalajadeiro",
   "persona": {
-    "occupation": "Estalajadeiro"
+    "occupation": "Innkeeper"
   },
   "sight": {
     "ignore_infra_penalty": false,

@@ -6,7 +6,7 @@
     "health": 0,
     "stamina": 6
   },
-  "description": "Invoca uma onda de água fria atingindo todos os oponentes em linha reta por ::damage de dano ::damage_type. A onda é perfurante e empurra todos ::knockback células.",
+  "description": "Invoca uma onda de água fria atingindo todos os oponentes em linha reta causando ::damage de dano ::damage_type. A onda é perfurante e empurra todos ::knockback tiles.",
   "duration": 0.0,
   "effects": {
     "damage": [

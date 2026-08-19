@@ -11,7 +11,7 @@
     "value",
     "weight"
   ],
-  "description": "Uma pedra preciosa de cor azul claro.",
+  "description": "Uma gema de cor azul claro.",
   "glyph": {
     "frames": [
       {
@@ -36,12 +36,13 @@
     188,
     213
   ],
-  "name": "Água-Marinha",
+  "name": "Água-marinha",
   "resource": {
-    "affix": "Aquamarine",
+    "affix": "água-marinha",
     "magic_ingredient": 0,
     "quality": 2,
-    "type": 8
+    "type": 8,
+    "feminine_affix": "água-marinha"
   },
   "statistics": {
     "dexterity": [
@@ -66,5 +67,6 @@
     ]
   },
   "value": 4700,
-  "weight": 0.10000000149011612
+  "weight": 0.10000000149011612,
+  "feminine_form": true
 }

@@ -6,7 +6,7 @@
     "health": 0,
     "stamina": 4
   },
-  "description": "Limpa o corpo, removendo veneno, sangramento, queimadura, imobilização e efeitos de medo do alvo tocado.",
+  "description": "Purifica o corpo, removendo efeitos de veneno, sangramento, queimadura, imobilização e medo do alvo tocado.",
   "duration": 4.0,
   "effects": {
     "neutralize": [
@@ -19,7 +19,7 @@
   },
   "id": "163",
   "image": 228,
-  "name": "Purificação",
+  "name": "Purificar",
   "range": 1,
   "skill": "core_2_protection",
   "slots": {

@@ -9,7 +9,7 @@
     "position_2d",
     "producer"
   ],
-  "description": "Uma pilha de areia grande o suficiente para enterrar um mortal e macia o suficiente para uma pá cavar.",
+  "description": "Uma pilha de areia grande o suficiente para enterrar um mortal e macia o bastante para uma pá cavar.",
   "glyph": {
     "frames": [
       {
@@ -46,5 +46,6 @@
       ]
     },
     "time": 10
-  }
+  },
+  "feminine_form": true
 }

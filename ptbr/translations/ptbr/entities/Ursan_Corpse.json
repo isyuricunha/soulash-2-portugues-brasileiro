@@ -9,7 +9,7 @@
     "producer",
     "weight"
   ],
-  "description": "Um cadáver ursan, completamente sem vida.",
+  "description": "Um cadáver ursano, completamente sem vida.",
   "glyph": {
     "frames": [
       {
@@ -38,7 +38,7 @@
     128,
     104
   ],
-  "name": "Cadáver Ursan",
+  "name": "Cadáver Ursano",
   "producer": {
     "products": {
       "3": [

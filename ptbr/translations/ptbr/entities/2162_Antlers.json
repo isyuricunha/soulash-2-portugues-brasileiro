@@ -11,7 +11,7 @@
     "value",
     "weight"
   ],
-  "description": "Os belos chifres de um animal macho serviam como objeto de atração.",
+  "description": "Os belos chifres de um animal macho serviram como objeto de atração.",
   "glyph": {
     "frames": [
       {
@@ -36,12 +36,13 @@
     154,
     107
   ],
-  "name": "Galhadas",
+  "name": "Galhada",
   "resource": {
-    "affix": "Solemn",
+    "affix": "Solene",
     "magic_ingredient": 0,
     "quality": 1,
-    "type": 5
+    "type": 5,
+    "feminine_affix": "Solene"
   },
   "statistics": {
     "dexterity": [
@@ -66,5 +67,6 @@
     ]
   },
   "value": 300,
-  "weight": 0.10000000149011612
+  "weight": 0.10000000149011612,
+  "feminine_form": true
 }

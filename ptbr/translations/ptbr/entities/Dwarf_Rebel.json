@@ -38,7 +38,7 @@
       {
         "chance": 1.0,
         "id": "234",
-        "name": "Dardo",
+        "name": "Virote",
         "stack": 20
       }
     ],
@@ -87,7 +87,7 @@
   },
   "name": "Anão Rebelde",
   "persona": {
-    "occupation": "Rebelde"
+    "occupation": "Rebel"
   },
   "sight": {
     "ignore_infra_penalty": false,

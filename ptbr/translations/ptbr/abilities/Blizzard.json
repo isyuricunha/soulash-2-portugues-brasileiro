@@ -6,7 +6,7 @@
     "health": 0,
     "stamina": 20
   },
-  "description": "Invoca uma nevasca gelada causando ::damage de dano ::damage_type a todos na área selecionada.",
+  "description": "Evoca uma nevasca gelada que causa ::damage de dano ::damage_type a todos na área selecionada.",
   "duration": 0.0,
   "effects": {
     "aoe_range": 4,

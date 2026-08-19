@@ -9,7 +9,7 @@
     "value",
     "weight"
   ],
-  "description": "Com cuidado suficiente, esta semente crescerá em um coqueiro.",
+  "description": "Com cuidado suficiente, esta semente crescerá e se tornará uma palmeira de coco.",
   "glyph": {
     "frames": [
       {
@@ -34,7 +34,8 @@
     177,
     66
   ],
-  "name": "Semente de Coqueiro",
+  "name": "Semente de Palmeira de Coco",
   "value": 200,
-  "weight": 0.10000000149011612
+  "weight": 0.10000000149011612,
+  "feminine_form": true
 }

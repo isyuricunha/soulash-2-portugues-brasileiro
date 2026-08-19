@@ -15,7 +15,7 @@
     "name",
     "position_2d"
   ],
-  "description": "O chão entra em uma subida íngreme aqui, proporcionando passagem para uma elevação mais alta.",
+  "description": "O terreno sobe íngreme aqui, proporcionando passagem para a elevação superior.",
   "glyph": {
     "frames": [
       {
@@ -40,5 +40,6 @@
     78,
     77
   ],
-  "name": "Subida da Caverna"
+  "name": "Subida da Caverna",
+  "feminine_form": true
 }

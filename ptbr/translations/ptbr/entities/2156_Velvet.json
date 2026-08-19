@@ -25,7 +25,7 @@
       12
     ]
   },
-  "description": "Provavelmente o material mais suave produzido por mãos mortais.",
+  "description": "Provavelmente o material mais liso produzido por mãos mortais.",
   "glyph": {
     "frames": [
       {
@@ -52,10 +52,11 @@
   ],
   "name": "Veludo",
   "resource": {
-    "affix": "Velvet",
+    "affix": "Veludo",
     "magic_ingredient": 0,
     "quality": 2,
-    "type": 4
+    "type": 4,
+    "feminine_affix": "Aveludada"
   },
   "statistics": {
     "dexterity": [

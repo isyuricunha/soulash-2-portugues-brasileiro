@@ -25,7 +25,7 @@
       1
     ]
   },
-  "description": "Ferramenta usada para cozinhar, construída para suportar altas temperaturas.",
+  "description": "Ferramenta de cozinha, feita para suportar altas temperaturas.",
   "glyph": {
     "frames": [
       {
@@ -50,7 +50,7 @@
     160,
     161
   ],
-  "name": "Vaso de Metal",
+  "name": "Panela de Metal",
   "tool": [
     {
       "id": 3,

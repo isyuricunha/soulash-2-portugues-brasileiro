@@ -12,7 +12,7 @@
     "value",
     "weight"
   ],
-  "description": "É tão fofinho!",
+  "description": "É tão fofa!",
   "glyph": {
     "frames": [
       {
@@ -42,10 +42,11 @@
   },
   "name": "Pena de Avestruz",
   "resource": {
-    "affix": "of the Ostrich",
+    "affix": "do Avestruz",
     "magic_ingredient": 2,
     "quality": 2,
-    "type": 7
+    "type": 7,
+    "feminine_affix": "da Avestruz"
   },
   "statistics": {
     "dexterity": [
@@ -70,5 +71,6 @@
     ]
   },
   "value": 3000,
-  "weight": 0.10000000149011612
+  "weight": 0.10000000149011612,
+  "feminine_form": true
 }

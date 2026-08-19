@@ -37,7 +37,7 @@
       12
     ]
   },
-  "description": "A camisa branca mais simples e entediante que existe.",
+  "description": "A camisa branca mais simples e sem graça que existe.",
   "glyph": {
     "frames": [
       {
@@ -64,5 +64,6 @@
   ],
   "name": "Camisa Longa",
   "value": 900,
-  "weight": 0.5
+  "weight": 0.5,
+  "feminine_form": true
 }

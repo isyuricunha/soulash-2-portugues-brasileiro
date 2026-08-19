@@ -80,8 +80,8 @@
   },
   "fighter": {
     "attackNames": [
-      "Bite",
-      "Tongue whip"
+      "Mordida",
+      "Chicote de língua"
     ]
   },
   "glyph": {
@@ -108,7 +108,7 @@
   "moveable": {
     "speed": 0.8999999761581421
   },
-  "name": "Teste de Cadeia",
+  "name": "Cadeia de Teste",
   "sight": {
     "ignore_infra_penalty": false,
     "infravision": false,
@@ -262,5 +262,6 @@
   },
   "tags": [
     "9"
-  ]
+  ],
+  "feminine_form": true
 }

@@ -10,7 +10,7 @@
     "value",
     "weight"
   ],
-  "description": "Um corpo sem vida de um carívoro.",
+  "description": "Um corpo sem vida de um glutão.",
   "glyph": {
     "frames": [
       {
@@ -39,7 +39,7 @@
     140,
     143
   ],
-  "name": "Cadáver de Carívoro",
+  "name": "Cadáver de Glutão",
   "producer": {
     "products": {
       "3": [

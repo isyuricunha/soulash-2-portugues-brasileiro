@@ -6,7 +6,7 @@
     "position_2d",
     "stackable"
   ],
-  "description": "Uma placa informando sobre o festival em andamento.",
+  "description": "Uma bandeira informando sobre o festival em andamento.",
   "glyph": {
     "frames": [
       {
@@ -27,5 +27,6 @@
     153,
     137
   ],
-  "name": "Placa Colorida"
+  "name": "Bandeira Colorida",
+  "feminine_form": true
 }

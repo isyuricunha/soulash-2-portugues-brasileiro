@@ -6,7 +6,7 @@
     "position_2d",
     "stackable"
   ],
-  "description": "Costelas que pertenciam a algum animal realmente grande.",
+  "description": "Costelas que pertenciam a um animal realmente enorme.",
   "glyph": {
     "frames": [
       {
@@ -36,5 +36,6 @@
     102,
     57
   ],
-  "name": "Gaiola de Costelas Gigante"
+  "name": "Caixa Torácica Gigante",
+  "feminine_form": true
 }

@@ -9,7 +9,7 @@
     "value",
     "weight"
   ],
-  "description": "Crescerá em um arbusto de zimbro um dia.",
+  "description": "Crescerá e se tornará um arbusto de junípero um dia.",
   "glyph": {
     "frames": [
       {
@@ -34,7 +34,8 @@
     73,
     73
   ],
-  "name": "Semente de Zimbro",
+  "name": "Semente de Junípero",
   "value": 150,
-  "weight": 0.019999999552965164
+  "weight": 0.019999999552965164,
+  "feminine_form": true
 }

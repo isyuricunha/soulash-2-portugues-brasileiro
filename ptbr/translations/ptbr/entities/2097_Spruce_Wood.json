@@ -24,7 +24,7 @@
     "weapon",
     "weight"
   ],
-  "description": "Uma madeira muito macia e leve, ótima para fabricação de arcos.",
+  "description": "Madeira muito macia e leve, ótima para fazer arcos.",
   "extra_weight": -0.30000001192092896,
   "glyph": {
     "frames": [
@@ -52,10 +52,11 @@
   ],
   "name": "Madeira de Abeto",
   "resource": {
-    "affix": "Accurate",
+    "affix": "Preciso",
     "magic_ingredient": 0,
     "quality": 2,
-    "type": 3
+    "type": 3,
+    "feminine_affix": "Precisa"
   },
   "value": 320,
   "weapon": {

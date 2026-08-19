@@ -10,7 +10,7 @@
     "value",
     "weight"
   ],
-  "description": "Pedacço de madeira de baixa qualidade, útil para construção e não muito mais.",
+  "description": "Pedaço de madeira de baixa qualidade, útil para construção e não muito mais.",
   "glyph": {
     "frames": [
       {
@@ -37,11 +37,13 @@
   ],
   "name": "Madeira",
   "resource": {
-    "affix": "Crude",
+    "affix": "Bruto",
     "magic_ingredient": 0,
     "quality": 0,
-    "type": 3
+    "type": 3,
+    "feminine_affix": "Bruta"
   },
   "value": 50,
-  "weight": 0.10000000149011612
+  "weight": 0.10000000149011612,
+  "feminine_form": true
 }

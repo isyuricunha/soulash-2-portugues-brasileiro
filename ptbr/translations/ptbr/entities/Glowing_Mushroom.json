@@ -11,7 +11,7 @@
     "value",
     "weight"
   ],
-  "description": "Um cogumelo brilhante selvagem. Pode ser comestível.",
+  "description": "Um cogumelo luminoso selvagem. Pode ser comestível.",
   "food": {
     "nutrition": 10,
     "on_eat": "",
@@ -45,7 +45,7 @@
     90,
     34
   ],
-  "name": "Cogumelo Brilhante",
+  "name": "Cogumelo Luminoso",
   "value": 200,
   "weight": 0.10000000149011612
 }

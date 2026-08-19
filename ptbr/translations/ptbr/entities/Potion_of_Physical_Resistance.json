@@ -40,7 +40,7 @@
       15
     ]
   },
-  "description": "Esta poção fortifica o corpo, reduzindo o impacto dos ataques.",
+  "description": "Esta poção fortalece o corpo, reduzindo o impacto dos ataques.",
   "glyph": {
     "frames": [
       {
@@ -65,11 +65,12 @@
     78,
     54
   ],
-  "name": "Poção da Resistência Física",
+  "name": "Poção de Resistência Física",
   "usable": {
     "ability": "core_2_Potion_of_Physical_Resistance",
     "recipe": ""
   },
   "value": 2000,
-  "weight": 0.10000000149011612
+  "weight": 0.10000000149011612,
+  "feminine_form": true
 }

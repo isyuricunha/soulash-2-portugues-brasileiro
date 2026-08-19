@@ -23,7 +23,7 @@
     "time": 10,
     "tools": []
   },
-  "description": "Em memória de Ricker. Viver até os 106 anos foi um pouco exagerado.",
+  "description": "Em memória de Ricker. Viver até os 106 anos foi um pouco demais.",
   "glyph": {
     "frames": [
       {
@@ -84,5 +84,6 @@
       ]
     },
     "time": 10
-  }
+  },
+  "feminine_form": true
 }

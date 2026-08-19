@@ -38,7 +38,7 @@
       6
     ]
   },
-  "description": "Barras de aço bloqueiam este caminho. Você se pergunta se elas estão aqui para manter algo dentro ou para impedir que alguém chegue de fora.",
+  "description": "Barras de aço bloqueiam este caminho. Você se pergunta se estão aqui para manter algo lá dentro ou impedir que alguém chegue lá de fora.",
   "glyph": {
     "frames": [
       {
@@ -76,5 +76,6 @@
       ]
     },
     "time": 60
-  }
+  },
+  "feminine_form": true
 }

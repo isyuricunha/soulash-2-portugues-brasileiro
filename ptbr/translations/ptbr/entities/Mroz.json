@@ -50,7 +50,7 @@
     "weapon"
   ],
   "corpse": "core_2_Ice_Jewel",
-  "description": "Sua barba está coberta de geada. Seus olhos azuis como gelo observam você com curiosidade e fúria.",
+  "description": "Sua barba está coberta de geada. Seus olhos azul-gelo o observam com curiosidade e ira.",
   "dialogues": [
     "980",
     "981"
@@ -60,7 +60,7 @@
       {
         "chance": 1.0,
         "id": "312",
-        "name": "Espada de Osso",
+        "name": "espada de osso",
         "stack": 1
       }
     ],

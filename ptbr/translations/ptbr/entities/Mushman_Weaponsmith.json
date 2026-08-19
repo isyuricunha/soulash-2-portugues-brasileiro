@@ -92,9 +92,9 @@
   "moveable": {
     "speed": 1.100000023841858
   },
-  "name": "Armeiro Povo-Cogumelo",
+  "name": "Homem-Cogumelo Armeiro",
   "persona": {
-    "occupation": "Armeiro"
+    "occupation": "Weaponsmith"
   },
   "sight": {
     "ignore_infra_penalty": false,

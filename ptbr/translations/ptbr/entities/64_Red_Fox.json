@@ -75,8 +75,8 @@
   },
   "fighter": {
     "attackNames": [
-      "Bite",
-      "Scratch"
+      "Mordida",
+      "Arranhão"
     ]
   },
   "glyph": {
@@ -140,5 +140,6 @@
   "tags": [
     "2",
     "9"
-  ]
+  ],
+  "feminine_form": true
 }

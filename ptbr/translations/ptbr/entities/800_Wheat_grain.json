@@ -10,7 +10,7 @@
     "value",
     "weight"
   ],
-  "description": "Alimento básico usado entre sociedades humanas. Pode ser moído em farinha.",
+  "description": "Alimento básico usado entre sociedades humanas. Pode ser moído para virar farinha.",
   "food": {
     "nutrition": 5,
     "on_eat": "",

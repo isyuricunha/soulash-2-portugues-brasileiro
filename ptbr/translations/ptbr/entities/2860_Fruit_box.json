@@ -24,7 +24,7 @@
     "time": 10,
     "tools": []
   },
-  "description": "Uma caixa agradável cheia de frutas deliciosas.",
+  "description": "Uma caixa bonita cheia de frutas deliciosas.",
   "glyph": {
     "frames": [
       {
@@ -55,5 +55,6 @@
     48,
     17
   ],
-  "name": "Caixa de Frutas"
+  "name": "Caixa de frutas",
+  "feminine_form": true
 }

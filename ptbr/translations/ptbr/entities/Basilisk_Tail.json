@@ -38,7 +38,7 @@
   },
   "fighter": {
     "attackNames": [
-      "Tail Bash"
+      "Golpe de Cauda"
     ]
   },
   "glyph": {
@@ -117,5 +117,6 @@
     "parry_bonus": 3,
     "range": 1,
     "type": 2
-  }
+  },
+  "feminine_form": true
 }

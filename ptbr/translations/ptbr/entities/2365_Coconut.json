@@ -10,7 +10,7 @@
     "value",
     "weight"
   ],
-  "description": "Um fruto tropical duro e marrom, com uma camada externa fibrosa e um interior branco e comestível.",
+  "description": "Uma fruta tropical dura, marrom, com uma camada externa fibrosa e um interior branco e comestível.",
   "food": {
     "nutrition": 30,
     "poisonous": 0,

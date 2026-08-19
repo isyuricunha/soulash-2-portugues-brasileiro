@@ -24,7 +24,7 @@
     "weapon",
     "weight"
   ],
-  "description": "Uma pedra preciosa de cor amarela.",
+  "description": "Uma gema de cor amarela.",
   "glyph": {
     "frames": [
       {
@@ -51,10 +51,11 @@
   ],
   "name": "Serpentina",
   "resource": {
-    "affix": "Serpentine",
+    "affix": "Serpentino",
     "magic_ingredient": 0,
     "quality": 3,
-    "type": 8
+    "type": 8,
+    "feminine_affix": "Serpentina"
   },
   "value": 4200,
   "weapon": {
@@ -72,5 +73,6 @@
     "range": 0,
     "type": 9
   },
-  "weight": 0.10000000149011612
+  "weight": 0.10000000149011612,
+  "feminine_form": true
 }

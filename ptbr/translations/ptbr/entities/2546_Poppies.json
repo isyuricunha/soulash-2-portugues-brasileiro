@@ -8,7 +8,7 @@
     "position_2d",
     "producer"
   ],
-  "description": "Flores bonitas, vermelhas como sangue",
+  "description": "Flores belas, vermelhas como sangue",
   "glyph": {
     "frames": [
       {
@@ -61,5 +61,6 @@
       ]
     },
     "time": 10
-  }
+  },
+  "feminine_form": true
 }

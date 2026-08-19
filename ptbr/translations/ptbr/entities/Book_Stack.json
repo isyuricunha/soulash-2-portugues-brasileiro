@@ -43,5 +43,6 @@
     48,
     59
   ],
-  "name": "Pilha de Livros"
+  "name": "Pilha de Livros",
+  "feminine_form": true
 }

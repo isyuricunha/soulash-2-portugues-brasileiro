@@ -34,7 +34,7 @@
       15
     ]
   },
-  "description": "Esta garrafa parece conter relâmpagos líquidos.",
+  "description": "Este frasco parece conter raio líquido.",
   "glyph": {
     "frames": [
       {
@@ -59,11 +59,12 @@
     78,
     54
   ],
-  "name": "Poção da Resistência Elétrica",
+  "name": "Poção de Resistência Elétrica",
   "usable": {
     "ability": "core_2_Potion_of_Electrical_Resist",
     "recipe": ""
   },
   "value": 1500,
-  "weight": 0.10000000149011612
+  "weight": 0.10000000149011612,
+  "feminine_form": true
 }

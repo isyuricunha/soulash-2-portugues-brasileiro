@@ -25,7 +25,7 @@
       1
     ]
   },
-  "description": "Soqueira de latão com rebites para adicionar dano.",
+  "description": "Soco inglês com tachas para causar mais dano.",
   "glyph": {
     "frames": [
       {
@@ -50,7 +50,7 @@
     160,
     161
   ],
-  "name": "Soqueira Tachada",
+  "name": "Soco Inglês Tachado",
   "value": 2000,
   "weapon": {
     "attack_speed": 0.800000011920929,

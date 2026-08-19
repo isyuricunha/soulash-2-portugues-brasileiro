@@ -33,7 +33,7 @@
     "producer"
   ],
   "corpse": [],
-  "description": "Uma parede feita de areia coberta por algum tipo de lodo.",
+  "description": "Uma parede feita de areia coberta por algum tipo de gosma.",
   "glyph": {
     "frames": [
       {
@@ -56,7 +56,7 @@
     188,
     109
   ],
-  "name": "Parede de Areia Viscosa",
+  "name": "Parede de Areia Gosmenta",
   "producer": {
     "products": {
       "12": [
@@ -71,5 +71,6 @@
       ]
     },
     "time": 30
-  }
+  },
+  "feminine_form": true
 }

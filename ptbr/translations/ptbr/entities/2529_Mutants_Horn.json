@@ -24,7 +24,7 @@
     "weapon",
     "weight"
   ],
-  "description": "Um apêndice retorcido e assustador que incorpora a natureza estranha e imprevisível de criaturas mutantes.",
+  "description": "Um apêndice retorcido e sinistro que incorpora a natureza estranha e imprevisível de criaturas mutadas.",
   "glyph": {
     "frames": [
       {
@@ -51,10 +51,11 @@
   ],
   "name": "Chifre de Mutante",
   "resource": {
-    "affix": "Horny",
+    "affix": "Cornudo",
     "magic_ingredient": 0,
     "quality": 3,
-    "type": 5
+    "type": 5,
+    "feminine_affix": "Cornuda"
   },
   "value": 1800,
   "weapon": {

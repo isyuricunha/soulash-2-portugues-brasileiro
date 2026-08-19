@@ -43,7 +43,7 @@
       {
         "chance": 1.0,
         "id": "21",
-        "name": "Capacete Nasal",
+        "name": "Elmo Nasal",
         "stack": 1
       }
     ],
@@ -106,7 +106,7 @@
   "moveable": {
     "speed": 1.0
   },
-  "name": "Anão Negro",
+  "name": "Anão Sombrio",
   "sight": {
     "ignore_infra_penalty": false,
     "infravision": true,

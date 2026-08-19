@@ -6,7 +6,7 @@
     "health": 0,
     "stamina": 3
   },
-  "description": "Você lança um golpe rápido na garganta do inimigo, impedindo-o de usar quaisquer habilidades por ::duration turnos.",
+  "description": "Você desfere um golpe rápido na garganta do inimigo, impedindo-o de usar quaisquer habilidades por ::duration turnos.",
   "duration": 5.0,
   "effects": {
     "silence": 1

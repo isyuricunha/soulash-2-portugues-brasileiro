@@ -83,9 +83,9 @@
   "moveable": {
     "speed": 1.2999999523162842
   },
-  "name": "Goblin Mago",
+  "name": "Mago Goblin",
   "persona": {
-    "occupation": "Mago"
+    "occupation": "Wizard"
   },
   "sight": {
     "ignore_infra_penalty": false,

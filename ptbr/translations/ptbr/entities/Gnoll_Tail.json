@@ -96,7 +96,7 @@
   },
   "name": "Cauda de Gnoll",
   "persona": {
-    "occupation": "Cauda"
+    "occupation": "Tail"
   },
   "sight": {
     "ignore_infra_penalty": false,
@@ -144,5 +144,6 @@
   },
   "tags": [
     "9"
-  ]
+  ],
+  "feminine_form": true
 }

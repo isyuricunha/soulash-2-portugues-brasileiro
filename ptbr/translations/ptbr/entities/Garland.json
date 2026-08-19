@@ -8,7 +8,7 @@
     "producer"
   ],
   "corpse": [],
-  "description": "Uma simples grinalda feita com flores e folhas frescas.",
+  "description": "Uma guirlanda simples feita com flores e folhas frescas. ",
   "glyph": {
     "frames": [
       {
@@ -57,7 +57,7 @@
     39,
     25
   ],
-  "name": "Grinalda",
+  "name": "Guirlanda",
   "producer": {
     "products": {
       "core_2_deconstruct": [
@@ -72,5 +72,6 @@
       ]
     },
     "time": 5
-  }
+  },
+  "feminine_form": true
 }

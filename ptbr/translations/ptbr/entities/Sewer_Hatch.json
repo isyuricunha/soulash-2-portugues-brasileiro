@@ -32,7 +32,7 @@
     83,
     92
   ],
-  "name": "Escotilha do Esgoto",
+  "name": "Escotilha de Esgoto",
   "producer": {
     "products": {
       "core_2_deconstruct": [
@@ -47,5 +47,6 @@
       ]
     },
     "time": 40
-  }
+  },
+  "feminine_form": true
 }

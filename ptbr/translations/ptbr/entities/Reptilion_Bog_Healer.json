@@ -47,7 +47,7 @@
       {
         "chance": 0.5,
         "id": "core_2_Healing_Herbs",
-        "name": "Ervas Medicinais",
+        "name": "Ervas Curativas",
         "stack": 2
       }
     ],
@@ -94,9 +94,9 @@
   "moveable": {
     "speed": 1.0
   },
-  "name": "Reptilion Xamã do Pântano",
+  "name": "Curandeiro do Pântano Reptilion",
   "persona": {
-    "occupation": "Xamã"
+    "occupation": "Shaman"
   },
   "sight": {
     "ignore_infra_penalty": false,

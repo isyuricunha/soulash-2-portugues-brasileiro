@@ -8,7 +8,7 @@
     "position_2d",
     "producer"
   ],
-  "description": "Um declive de gelo escorregadio pode ser desafiador de escalar.",
+  "description": "Uma encosta de gelo escorregadia pode ser difícil de escalar.",
   "glyph": {
     "frames": [
       {
@@ -34,7 +34,7 @@
     38,
     7
   ],
-  "name": "Declive de Gelo Ascendente",
+  "name": "Encosta de Gelo Ascendente",
   "producer": {
     "products": {
       "core_2_deconstruct": [

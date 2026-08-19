@@ -8,7 +8,7 @@
     "position_2d",
     "producer"
   ],
-  "description": "Declive coberto de grama e plantas que você pode escalar.",
+  "description": "Encosta coberta de grama e plantas que pode ser escalada.",
   "glyph": {
     "frames": [
       {
@@ -34,7 +34,7 @@
     38,
     7
   ],
-  "name": "Declive de Grama Ascendente",
+  "name": "Encosta Ascendente de Grama",
   "producer": {
     "products": {
       "core_2_deconstruct": [
@@ -49,5 +49,6 @@
       ]
     },
     "time": 40
-  }
+  },
+  "feminine_form": true
 }

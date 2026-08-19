@@ -40,7 +40,7 @@
       14
     ]
   },
-  "description": "Armadura projetada para ser leve e confortável de usar, permitindo que o usuário se mova livremente e facilmente em batalha. É decorada com designs intricados e fluidos que refletem a graça e elegância dos elfos.",
+  "description": "Armadura projetada para ser leve e confortável de usar, permitindo que o usuário se mova livre e facilmente em batalha. É decorada com desenhos intrincados e fluidos que refletem a graça e a elegância dos elfos.",
   "glyph": {
     "frames": [
       {
@@ -67,5 +67,6 @@
   ],
   "name": "Armadura Élfica",
   "value": 20000,
-  "weight": 2.0
+  "weight": 2.0,
+  "feminine_form": true
 }

@@ -7,7 +7,7 @@
     "name",
     "position_2d"
   ],
-  "description": "Uma espessa nuvem de areia cobre a área, obscurecendo a visão.",
+  "description": "Uma densa nuvem de areia cobre a área, obscurecendo a visão.",
   "glyph": {
     "frames": [
       {
@@ -83,5 +83,6 @@
     16,
     14
   ],
-  "name": "Tempestade de Areia"
+  "name": "Tempestade de Areia",
+  "feminine_form": true
 }

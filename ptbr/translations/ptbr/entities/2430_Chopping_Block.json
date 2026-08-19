@@ -39,7 +39,7 @@
     "time": 5,
     "tools": []
   },
-  "description": "Este bloco de corte desgastado já viu inúmeras toras clivadas por mãos habilidosas de lenhadores, transformando madeira bruta em combustível para as necessidades da vida.",
+  "description": "Este bloco de corte bem gasto já viu incontáveis toras fendidas pelas mãos habilidosas de lenhadores, transformando madeira bruta em combustível para as necessidades da vida.",
   "glyph": {
     "frames": [
       {
@@ -61,7 +61,7 @@
     150,
     150
   ],
-  "name": "Toco de Corte",
+  "name": "Bloco de Corte",
   "producer": {
     "products": {
       "core_2_deconstruct": [

@@ -11,7 +11,7 @@
     "value",
     "weight"
   ],
-  "description": "Armadura da natureza, rústica e resiliente.",
+  "description": "Armadura da natureza, rústica e resistente.",
   "glyph": {
     "frames": [
       {
@@ -36,12 +36,13 @@
     227,
     120
   ],
-  "name": "Casca de Caranguejo",
+  "name": "Carapaça de Caranguejo",
   "resource": {
     "affix": "Natural",
     "magic_ingredient": 0,
     "quality": 1,
-    "type": 10
+    "type": 10,
+    "feminine_affix": "Natural"
   },
   "statistics": {
     "dexterity": [
@@ -66,5 +67,6 @@
     ]
   },
   "value": 200,
-  "weight": 0.10000000149011612
+  "weight": 0.10000000149011612,
+  "feminine_form": true
 }

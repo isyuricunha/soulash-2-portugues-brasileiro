@@ -27,7 +27,7 @@
     "tags"
   ],
   "corpse": "25",
-  "description": "Um caçador magro posto na borda da cidade para conter a maré de ratos. Oferece ouro por prova da morte da Ratazana.",
+  "description": "Um caçador magro posto na fronteira da cidade para conter a maré de ratos. Oferece ouro pela prova da morte da Mãe Rata.",
   "dialogues": [],
   "equipment": {
     "legs_cloth": [
@@ -53,7 +53,7 @@
   },
   "fighter": {
     "attackNames": [
-      "Punch"
+      "Soco"
     ]
   },
   "glyph": {
@@ -83,9 +83,9 @@
   "moveable": {
     "speed": 1.0
   },
-  "name": "Caçador de Ratos",
+  "name": "Pega-ratos",
   "persona": {
-    "occupation": "Caçador de Ratos"
+    "occupation": "Ratcatcher"
   },
   "sight": {
     "ignore_infra_penalty": false,

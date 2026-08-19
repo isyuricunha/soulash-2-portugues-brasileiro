@@ -25,7 +25,7 @@
     "producer"
   ],
   "corpse": [],
-  "description": "Uma árvore com folhas estranhamente escuras. Com um machado adequado, alguém poderia derrubá-la.",
+  "description": "Uma árvore com folhas estranhamente escuras. Com um machado adequado, talvez seja possível derrubá-la.",
   "glyph": {
     "frames": [
       {
@@ -107,7 +107,7 @@
     93,
     40
   ],
-  "name": "Árvore Escura",
+  "name": "Árvore Sombria",
   "producer": {
     "products": {
       "1": [
@@ -148,5 +148,6 @@
       ]
     },
     "time": 30
-  }
+  },
+  "feminine_form": true
 }

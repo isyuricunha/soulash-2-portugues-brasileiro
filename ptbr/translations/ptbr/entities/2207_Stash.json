@@ -27,7 +27,7 @@
     "time": 5,
     "tools": []
   },
-  "description": "Este recipiente ajuda a armazenar e compartilhar recursos entre os membros da facção. Reivindique a região no mapa do mundo para criar um novo assentamento e criar um esconderijo para acessar seu armazenamento.",
+  "description": "Este recipiente ajuda a armazenar e compartilhar recursos entre membros da facção. Reivindique a região no mapa-múndi para criar um novo assentamento e crie um depósito para acessar seu armazenamento.",
   "glyph": {
     "frames": [
       {
@@ -48,7 +48,7 @@
     48,
     17
   ],
-  "name": "Armazém",
+  "name": "Esconderijo",
   "producer": {
     "products": {
       "core_2_deconstruct": [

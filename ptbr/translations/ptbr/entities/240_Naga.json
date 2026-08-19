@@ -35,7 +35,7 @@
     "tags"
   ],
   "corpse": "2452",
-  "description": "Você vê uma serpente gigante com torso e cabeça de mulher. De vez em quando, ela sibilia para você, mostrando sua língua bifurcada. O cabelo que cai sobre seus ombros lembra algas marinhas.",
+  "description": "Você vê uma cobra gigante com torso e cabeça de mulher. De vez em quando, ela sibila para você, mostrando sua língua bifurcada. O cabelo que cai sobre seus ombros lembra algas marinhas.",
   "dialogues": [
     "78",
     "79"
@@ -72,8 +72,8 @@
   },
   "fighter": {
     "attackNames": [
-      "Fist",
-      "Tail"
+      "Punho",
+      "Cauda"
     ]
   },
   "glyph": {
@@ -139,5 +139,6 @@
   },
   "tags": [
     "9"
-  ]
+  ],
+  "feminine_form": true
 }

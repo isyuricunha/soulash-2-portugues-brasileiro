@@ -6,7 +6,7 @@
     "health": 1,
     "stamina": 4
   },
-  "description": "Espalha esporos em um cone que causam ::damage de dano ::damage_type a todos em seu caminho.",
+  "description": "Espalha esporos em um cone que causa ::damage de dano ::damage_type a todos em seu caminho.",
   "duration": 0.0,
   "effects": {
     "aoe_break": 3,

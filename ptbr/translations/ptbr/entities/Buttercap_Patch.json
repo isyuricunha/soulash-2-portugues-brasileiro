@@ -8,7 +8,7 @@
     "producer"
   ],
   "corpse": [],
-  "description": "Um pequeno trecho de flores amarelas.",
+  "description": "Um pequeno canteiro de flores amarelas.",
   "glyph": {
     "frames": [
       {
@@ -39,7 +39,7 @@
     89,
     87
   ],
-  "name": "Grupo de Chapéu-de-Manteiga",
+  "name": "Canteiro de Buttercap",
   "producer": {
     "products": {
       "10": [

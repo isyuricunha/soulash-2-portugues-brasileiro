@@ -85,9 +85,9 @@
   "moveable": {
     "speed": 1.2000000476837158
   },
-  "name": "Anão Cesteiro",
+  "name": "Cesteiro Anão",
   "persona": {
-    "occupation": "Cesteiro"
+    "occupation": "Basketweaver"
   },
   "sight": {
     "ignore_infra_penalty": false,

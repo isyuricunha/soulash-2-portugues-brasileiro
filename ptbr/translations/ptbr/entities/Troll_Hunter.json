@@ -100,9 +100,9 @@
   "moveable": {
     "speed": 1.0
   },
-  "name": "Caçador Troll",
+  "name": "Caçador de Trolls",
   "persona": {
-    "occupation": "Caçador"
+    "occupation": "Hunter"
   },
   "sight": {
     "ignore_infra_penalty": false,

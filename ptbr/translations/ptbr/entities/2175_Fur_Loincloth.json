@@ -35,7 +35,7 @@
       14
     ]
   },
-  "description": "Duas peças de pele seguradas pelo cinto cobrem sua frente e costas.",
+  "description": "Duas peças de pele presas pelo cinto cobrem sua frente e suas costas.",
   "glyph": {
     "frames": [
       {
@@ -60,7 +60,7 @@
     200,
     200
   ],
-  "name": "Tanga de Pele",
+  "name": "Tapa-sexo de Pele",
   "value": 1300,
   "weight": 1.5
 }

@@ -36,7 +36,7 @@
     "tags"
   ],
   "corpse": "core_2_Stork_Corpse",
-  "description": "A grande cegonha, trazadora de crianças.",
+  "description": "A grande cegonha, trazedora de crianças.",
   "dialogues": [],
   "experience_gainer": {
     "exp": 28,
@@ -44,7 +44,7 @@
   },
   "fighter": {
     "attackNames": [
-      "Peck"
+      "Bicada"
     ]
   },
   "glyph": {
@@ -113,5 +113,6 @@
     "3",
     "17",
     "38"
-  ]
+  ],
+  "feminine_form": true
 }

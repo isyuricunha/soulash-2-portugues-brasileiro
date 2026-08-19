@@ -48,7 +48,7 @@
     "time": 20,
     "tools": []
   },
-  "description": "Uma amoreira muito jovem.",
+  "description": "Uma amora muito jovem.",
   "glyph": {
     "frames": [
       {
@@ -88,7 +88,7 @@
     93,
     40
   ],
-  "name": "Muda de Amoreira",
+  "name": "Muda de Amora",
   "random_resource": {
     "delay_spawn": true,
     "entity": [
@@ -106,5 +106,6 @@
     "spawn_chance": 100.0,
     "spawn_multiply": 0.0,
     "spawn_rolls": 1
-  }
+  },
+  "feminine_form": true
 }

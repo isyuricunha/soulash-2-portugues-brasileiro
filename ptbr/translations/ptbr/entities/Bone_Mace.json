@@ -25,7 +25,7 @@
       1
     ]
   },
-  "description": "Maça feita inteiramente com osso e galhadas.",
+  "description": "Maça feita inteiramente de osso e galhada.",
   "glyph": {
     "frames": [
       {
@@ -68,5 +68,6 @@
     "range": 1,
     "type": 2
   },
-  "weight": 2.0
+  "weight": 2.0,
+  "feminine_form": true
 }

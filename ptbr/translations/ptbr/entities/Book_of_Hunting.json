@@ -25,7 +25,7 @@
     "time": 60,
     "tools": []
   },
-  "description": "Tutorial passo a passo sobre como esfolar todo animal no mundo.",
+  "description": "Tutorial passo a passo sobre como eviscerar todo animal do mundo.",
   "glyph": {
     "frames": [
       {
@@ -57,5 +57,6 @@
     "skill_p": "core_2_hunting"
   },
   "value": 5000,
-  "weight": 0.20000000298023224
+  "weight": 0.20000000298023224,
+  "feminine_form": true
 }

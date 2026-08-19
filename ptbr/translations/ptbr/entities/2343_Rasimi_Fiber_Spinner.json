@@ -80,9 +80,9 @@
   "moveable": {
     "speed": 1.0
   },
-  "name": "Rasimi Fiandeiro de Fibras",
+  "name": "Fiandeiro de Fibras Rasimi",
   "persona": {
-    "occupation": "Fiandeiro de Fibras"
+    "occupation": "Fiber Spinner"
   },
   "sight": {
     "ignore_infra_penalty": false,

@@ -42,13 +42,13 @@
     "tags"
   ],
   "corpse": "55",
-  "description": "Restos humanos reanimados devem ser de alguma forma infundidos com magia negra que permite que se movam.",
+  "description": "Restos humanos reanimados devem ser de alguma forma infundidos com magia negra que lhes permite mover-se.",
   "equipment": {
     "head_armor": [
       {
         "chance": 1.0,
         "id": "21",
-        "name": "Capacete Nasal",
+        "name": "Elmo Nasal",
         "stack": 1
       }
     ],
@@ -64,7 +64,7 @@
       {
         "chance": 1.0,
         "id": "77",
-        "name": "Espada Curta",
+        "name": "espada curta",
         "stack": 1
       }
     ],
@@ -83,7 +83,7 @@
   },
   "fighter": {
     "attackNames": [
-      "Bone"
+      "Osso"
     ]
   },
   "glyph": {

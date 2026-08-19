@@ -1,13 +1,29 @@
 {
+  "armor": {
+    "acid": 200,
+    "death": 200,
+    "electricity": 200,
+    "fire": 1000,
+    "frost": 50,
+    "holy": 0,
+    "parry": 0,
+    "physical": 500,
+    "poison": 200,
+    "thorns": 50
+  },
+  "can_regenerate_health": false,
   "components": [
+    "armor",
     "collidable",
     "glyph",
+    "health",
     "minimap_pixel",
     "name",
     "position_2d",
     "random_resource"
   ],
-  "description": "Um monumento imponente coberto de runas. Apenas olhar para ele lhe dá uma dor de cabeça.",
+  "corpse": "core_2_Demon",
+  "description": "Um monumento imponente coberto de runas. Apenas olhá-lo dá dor de cabeça.",
   "glyph": {
     "frames": [
       {
@@ -22,6 +38,7 @@
     ],
     "random_frame_start": true
   },
+  "health": 1000,
   "id": "core_2_Infernal_Monument",
   "minimap_pixel": [
     99,

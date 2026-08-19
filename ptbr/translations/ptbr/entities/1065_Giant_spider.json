@@ -32,7 +32,7 @@
     "tags"
   ],
   "corpse": "2992",
-  "description": "Uma aranha gigante que alcança sua cabeça, com oito pernas e quatro olhos cristalinos. É um pouco peluda e se move muito rápido.",
+  "description": "Um aracnídeo gigante que chega à altura da sua cabeça, com oito pernas e quatro olhos cristalinos. É um pouco peludo e se move muito rápido.",
   "dialogues": [
     "881"
   ],
@@ -42,8 +42,8 @@
   },
   "fighter": {
     "attackNames": [
-      "Bite",
-      "Jump"
+      "Mordida",
+      "Pulo"
     ]
   },
   "glyph": {
@@ -111,5 +111,6 @@
     "9",
     "18",
     "38"
-  ]
+  ],
+  "feminine_form": true
 }

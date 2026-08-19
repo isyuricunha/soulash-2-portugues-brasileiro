@@ -28,7 +28,7 @@
     "tags"
   ],
   "corpse": "589",
-  "description": "Um filhote de cordeiro fofinho.",
+  "description": "Um cordeirinho fofo.",
   "equipment": {
     "disabled_slots": [
       0,
@@ -58,7 +58,7 @@
   },
   "fighter": {
     "attackNames": [
-      "Bite"
+      "Mordida"
     ]
   },
   "glyph": {

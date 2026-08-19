@@ -8,7 +8,7 @@
     "producer",
     "weight"
   ],
-  "description": "Cadáver sem vida de uma rainha acidara.",
+  "description": "Cadáver inerte de uma rainha acidara.",
   "glyph": {
     "frames": [
       {
@@ -33,7 +33,7 @@
     160,
     5
   ],
-  "name": "Cadáver da Rainha Acidara",
+  "name": "Cadáver de Rainha Acidara",
   "producer": {
     "products": {
       "3": [

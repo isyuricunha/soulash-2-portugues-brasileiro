@@ -38,10 +38,11 @@
   ],
   "name": "Concha de Mexilhão",
   "resource": {
-    "affix": "Pearly",
+    "affix": "Perolado",
     "magic_ingredient": 0,
     "quality": 1,
-    "type": 10
+    "type": 10,
+    "feminine_affix": "Perolada"
   },
   "value": 200,
   "weapon": {
@@ -60,5 +61,6 @@
     "range": 0,
     "type": 9
   },
-  "weight": 0.10000000149011612
+  "weight": 0.10000000149011612,
+  "feminine_form": true
 }

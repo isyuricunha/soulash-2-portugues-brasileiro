@@ -83,9 +83,9 @@
   "moveable": {
     "speed": 1.2999999523162842
   },
-  "name": "Troll Druida",
+  "name": "Druida Troll",
   "persona": {
-    "occupation": "Druida"
+    "occupation": "Druid"
   },
   "sight": {
     "ignore_infra_penalty": false,

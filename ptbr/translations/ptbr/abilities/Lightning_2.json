@@ -1,0 +1,30 @@
+{
+  "animation": "core_2_Lightning_2",
+  "cast_time": 0.0,
+  "cooldown": 25.0,
+  "cost": {
+    "health": 0,
+    "stamina": 0
+  },
+  "description": "Um relâmpago cai, causando ::damage de dano ::damage_type e atordoando por ::stun turnos.",
+  "duration": 0.0,
+  "effects": {
+    "damage": [
+      7,
+      12
+    ],
+    "damage_type": "electricity",
+    "pierce": 1,
+    "stun": 2.0
+  },
+  "id": "core_2_Lightning_2",
+  "image": 750,
+  "name": "Relâmpago",
+  "range": 0,
+  "skill": "",
+  "slots": {
+    "offensive": 1,
+    "utility": 3
+  },
+  "target": "tile"
+}

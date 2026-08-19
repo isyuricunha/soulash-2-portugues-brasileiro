@@ -54,7 +54,7 @@
       {
         "chance": 1.0,
         "id": "100",
-        "name": "Dardo",
+        "name": "Azagaia",
         "stack": 1
       }
     ]
@@ -93,9 +93,9 @@
   "moveable": {
     "speed": 0.8999999761581421
   },
-  "name": "Escudo de Carne Goblin",
+  "name": "Goblin Escudo de Carne",
   "persona": {
-    "occupation": "Escudo de Carne"
+    "occupation": "Meat Shield"
   },
   "sight": {
     "ignore_infra_penalty": false,

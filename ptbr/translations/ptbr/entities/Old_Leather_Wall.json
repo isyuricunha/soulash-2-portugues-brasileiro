@@ -49,7 +49,7 @@
     "time": 5,
     "tools": []
   },
-  "description": "Parede feita de couro de animal esticado. Parece velha e esfarrapada.",
+  "description": "Parede feita de couro animal esticado. Parece velha e esfarrapada.",
   "glyph": {
     "frames": [
       {
@@ -72,7 +72,7 @@
     128,
     88
   ],
-  "name": "Parede de Couro Antiga",
+  "name": "Parede de Couro Velha",
   "producer": {
     "products": {
       "core_2_deconstruct": [
@@ -87,5 +87,6 @@
       ]
     },
     "time": 20
-  }
+  },
+  "feminine_form": true
 }

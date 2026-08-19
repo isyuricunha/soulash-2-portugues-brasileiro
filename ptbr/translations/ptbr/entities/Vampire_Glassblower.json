@@ -78,9 +78,9 @@
   "moveable": {
     "speed": 1.5
   },
-  "name": "Vampiro Soprador de Vidro",
+  "name": "Vampiro Vidreiro",
   "persona": {
-    "occupation": "Soprador de Vidro"
+    "occupation": "Glassblower"
   },
   "sight": {
     "ignore_infra_penalty": false,

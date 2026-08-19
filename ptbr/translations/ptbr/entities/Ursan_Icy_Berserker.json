@@ -49,7 +49,7 @@
       {
         "chance": 1.0,
         "id": "2170",
-        "name": "Capuz de Pele",
+        "name": "Touca de Pele",
         "stack": 1
       }
     ],
@@ -57,7 +57,7 @@
       {
         "chance": 1.0,
         "id": "2175",
-        "name": "Tanga de Pele",
+        "name": "Tapa-sexo de Pele",
         "stack": 1
       }
     ],
@@ -104,9 +104,9 @@
   "moveable": {
     "speed": 0.800000011920929
   },
-  "name": "Berserker Gélido Ursan",
+  "name": "Ursan Berserker Gélido",
   "persona": {
-    "occupation": "Berserker Gélido"
+    "occupation": "Icy Berserker"
   },
   "sight": {
     "ignore_infra_penalty": false,

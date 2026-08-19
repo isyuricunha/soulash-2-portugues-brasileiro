@@ -11,7 +11,7 @@
     "value",
     "weight"
   ],
-  "description": "Restos de um espírito. Suas propriedades mágicas o tornam útil para artesanato.",
+  "description": "Restos de um vago. Suas propriedades mágicas o tornam útil para artesanato.",
   "glyph": {
     "frames": [
       {
@@ -36,12 +36,13 @@
     109,
     155
   ],
-  "name": "Pó de Espírito",
+  "name": "Pó de Vago",
   "resource": {
-    "affix": "of the Wisp",
+    "affix": "do Vago",
     "magic_ingredient": 1,
     "quality": 1,
-    "type": 7
+    "type": 7,
+    "feminine_affix": "vaga"
   },
   "statistics": {
     "dexterity": [

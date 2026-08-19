@@ -48,7 +48,7 @@
       {
         "chance": 1.0,
         "id": "186",
-        "name": "Capa",
+        "name": "Manto",
         "stack": 1
       }
     ],
@@ -103,9 +103,9 @@
   "moveable": {
     "speed": 1.2000000476837158
   },
-  "name": "Humano Punho",
+  "name": "Punho Humano",
   "persona": {
-    "occupation": "Punho"
+    "occupation": "Fist"
   },
   "sight": {
     "ignore_infra_penalty": false,

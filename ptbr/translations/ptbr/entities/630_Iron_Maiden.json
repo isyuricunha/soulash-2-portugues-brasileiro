@@ -37,7 +37,7 @@
     "time": 50,
     "tools": []
   },
-  "description": "Este recipiente está deitado no chão. O interior é preenchido com espinhos projetados para drenar muito sangue enquanto mantém o ser desafortunado vivo.",
+  "description": "Este recipiente jaz no chão. Seu interior é cheio de espinhos feitos para drenar muito sangue enquanto mantêm o infeliz vivo.",
   "glyph": {
     "frames": [
       {
@@ -75,5 +75,6 @@
       ]
     },
     "time": 40
-  }
+  },
+  "feminine_form": true
 }

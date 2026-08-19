@@ -10,7 +10,7 @@
     "value",
     "weight"
   ],
-  "description": "Este cogumelo parece estar exsudando gotas de sangue.",
+  "description": "Este cogumelo parece estar gotejando gotas de sangue.",
   "food": {
     "nutrition": 12,
     "on_eat": "",
@@ -40,7 +40,7 @@
     90,
     34
   ],
-  "name": "Cogumelo Dente Sangrento",
+  "name": "Cogumelo Dente Sangrante",
   "value": 1000,
   "weight": 0.10000000149011612
 }

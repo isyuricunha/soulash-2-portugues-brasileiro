@@ -46,7 +46,7 @@
       12
     ]
   },
-  "description": "Um pedaço de pano mais antigo que o mundo.",
+  "description": "Um pedaço de tecido mais antigo que o mundo.",
   "glyph": {
     "frames": [
       {
@@ -73,10 +73,11 @@
   ],
   "name": "Tecido Antigo",
   "resource": {
-    "affix": "Ancient",
+    "affix": "Antigo",
     "magic_ingredient": 0,
     "quality": 4,
-    "type": 4
+    "type": 4,
+    "feminine_affix": "Antiga"
   },
   "statistics": {
     "dexterity": [

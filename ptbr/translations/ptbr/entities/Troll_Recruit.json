@@ -52,7 +52,7 @@
       {
         "chance": 1.0,
         "id": "2175",
-        "name": "Tanga de Pele",
+        "name": "Tapa-sexo de Pele",
         "stack": 1
       }
     ],
@@ -60,7 +60,7 @@
       {
         "chance": 1.0,
         "id": "312",
-        "name": "Espada de Osso",
+        "name": "espada de osso",
         "stack": 1
       }
     ]
@@ -101,7 +101,7 @@
   },
   "name": "Recruta Troll",
   "persona": {
-    "occupation": "Recruta"
+    "occupation": "Recruit"
   },
   "sight": {
     "ignore_infra_penalty": false,

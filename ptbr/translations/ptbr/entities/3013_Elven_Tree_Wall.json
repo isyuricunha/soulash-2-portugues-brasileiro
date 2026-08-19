@@ -33,7 +33,7 @@
     "producer"
   ],
   "corpse": [],
-  "description": "Esta é parte da árvore élfica mágica dentro da fortaleza élfica de Anheluna.",
+  "description": "Isto é parte do sabugueiro mágico dentro da fortaleza élfica de Anheluna.",
   "glyph": {
     "frames": [
       {
@@ -99,5 +99,6 @@
       ]
     },
     "time": 100
-  }
+  },
+  "feminine_form": true
 }

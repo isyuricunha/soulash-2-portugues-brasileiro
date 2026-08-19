@@ -38,10 +38,11 @@
   ],
   "name": "Dentes de Lemming",
   "resource": {
-    "affix": "Hidden",
+    "affix": "Oculto",
     "magic_ingredient": 0,
     "quality": 1,
-    "type": 5
+    "type": 5,
+    "feminine_affix": "Oculta"
   },
   "statistics": {
     "dexterity": [

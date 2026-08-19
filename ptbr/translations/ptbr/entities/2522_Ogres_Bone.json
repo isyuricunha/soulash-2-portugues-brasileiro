@@ -11,7 +11,7 @@
     "value",
     "weight"
   ],
-  "description": "Este osso massivo, rugoso e formidável, já fez parte da imponente estrutura de um ogro.",
+  "description": "Este osso massivo, rústico e formidável, já fez parte da estrutura imponente de um ogro.",
   "glyph": {
     "frames": [
       {
@@ -41,7 +41,8 @@
     "affix": "Brutal",
     "magic_ingredient": 0,
     "quality": 2,
-    "type": 5
+    "type": 5,
+    "feminine_affix": "Brutal"
   },
   "statistics": {
     "dexterity": [

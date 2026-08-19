@@ -48,7 +48,7 @@
     "time": 10,
     "tools": []
   },
-  "description": "Parede muito elegante mostrando um mosaico de peças irregulares de pedras coloridas.",
+  "description": "Parede muito elegante exibindo um mosaico de peças irregulares de pedras coloridas.",
   "glyph": {
     "frames": [
       {
@@ -86,5 +86,6 @@
       ]
     },
     "time": 40
-  }
+  },
+  "feminine_form": true
 }

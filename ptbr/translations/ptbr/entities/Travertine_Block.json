@@ -24,7 +24,7 @@
     "weapon",
     "weight"
   ],
-  "description": "Pedra de cor quente valorizada por sua resistência.",
+  "description": "Pedra de tons quentes, valorizada pela resistência.",
   "glyph": {
     "frames": [
       {
@@ -51,10 +51,11 @@
   ],
   "name": "Bloco de Travertino",
   "resource": {
-    "affix": "Travertine",
+    "affix": "Travertino",
     "magic_ingredient": 0,
     "quality": 2,
-    "type": 6
+    "type": 6,
+    "feminine_affix": "Travertina"
   },
   "value": 600,
   "weapon": {

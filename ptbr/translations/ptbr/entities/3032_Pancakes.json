@@ -30,7 +30,7 @@
       2
     ]
   },
-  "description": "Plano como um... bem, um panqueca.",
+  "description": "Achatado como um... bem, uma panqueca.",
   "food": {
     "nutrition": 90,
     "poisonous": 0,
@@ -62,5 +62,6 @@
   ],
   "name": "Panquecas",
   "value": 1000,
-  "weight": 0.10000000149011612
+  "weight": 0.10000000149011612,
+  "feminine_form": true
 }

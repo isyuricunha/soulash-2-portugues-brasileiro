@@ -35,7 +35,7 @@
     144,
     88
   ],
-  "name": "Unhas de Medusa",
+  "name": "Unha da Medusa",
   "resource": {
     "affix": "",
     "magic_ingredient": 0,
@@ -43,5 +43,6 @@
     "type": 12
   },
   "value": 1200,
-  "weight": 0.10000000149011612
+  "weight": 0.10000000149011612,
+  "feminine_form": true
 }

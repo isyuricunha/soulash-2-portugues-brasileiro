@@ -34,7 +34,7 @@
     "tags"
   ],
   "corpse": "25",
-  "description": "Esta pessoa parece meio louca, murmurando constantemente para si mesma sobre algum deus esquecido.",
+  "description": "Esta pessoa parece meio louca, murmurando constantemente para si mesma sobre algum deus esquecido,",
   "dialogues": [
     "50",
     "51"
@@ -52,7 +52,7 @@
       {
         "chance": 1.0,
         "id": "186",
-        "name": "Capa",
+        "name": "Manto",
         "stack": 1
       }
     ],
@@ -76,7 +76,7 @@
       {
         "chance": 1.0,
         "id": "23",
-        "name": "Farrapos",
+        "name": "Trapos",
         "stack": 1
       }
     ]
@@ -115,7 +115,7 @@
   "moveable": {
     "speed": 1.2000000476837158
   },
-  "name": "Cultista do Único",
+  "name": "Cultista do Uno",
   "sight": {
     "ignore_infra_penalty": false,
     "infravision": false,

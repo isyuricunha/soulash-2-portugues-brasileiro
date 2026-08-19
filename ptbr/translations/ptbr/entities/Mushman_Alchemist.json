@@ -80,9 +80,9 @@
   "moveable": {
     "speed": 1.2000000476837158
   },
-  "name": "Mushman Alquimista",
+  "name": "Homem-cogumelo Alquimista",
   "persona": {
-    "occupation": "Alquimista"
+    "occupation": "Alchemist"
   },
   "sight": {
     "ignore_infra_penalty": false,
@@ -91,7 +91,14 @@
     "threesixty": false
   },
   "skills": {
-    "milestones": [],
+    "max_skill": 0,
+    "milestones": [
+      "core_2_ebony_log",
+      "core_2_elm_log",
+      "core_2_linden_log",
+      "core_2_cashmere",
+      "core_2_freezing_vial"
+    ],
     "skills": [
       "core_2_alchemy"
     ]

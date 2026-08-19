@@ -39,7 +39,7 @@
       12
     ]
   },
-  "description": "Capa leve oferecendo excelente proteção contra a natureza.",
+  "description": "Manto leve que oferece excelente proteção contra a natureza.",
   "glyph": {
     "frames": [
       {
@@ -64,7 +64,7 @@
     93,
     57
   ],
-  "name": "Capa Élfica",
+  "name": "Manto Élfico",
   "value": 15000,
   "weight": 1.5
 }

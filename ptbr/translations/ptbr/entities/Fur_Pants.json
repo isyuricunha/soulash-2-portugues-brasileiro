@@ -64,5 +64,6 @@
   ],
   "name": "Calças de Pele",
   "value": 800,
-  "weight": 1.0
+  "weight": 1.0,
+  "feminine_form": true
 }

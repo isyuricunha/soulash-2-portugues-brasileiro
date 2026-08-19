@@ -1,0 +1,61 @@
+{
+  "background": {
+    "color": [
+      50,
+      46,
+      38
+    ],
+    "noise": 2,
+    "noise_intensity": 5
+  },
+  "components": [
+    "background",
+    "glyph",
+    "health",
+    "minimap_pixel",
+    "name",
+    "position_2d",
+    "random_resource"
+  ],
+  "corpse": [],
+  "description": "Solo solto, arado, adequado para cultivar algodão.",
+  "glyph": {
+    "frames": [
+      {
+        "color": [
+          200,
+          185,
+          155
+        ],
+        "delay": 0,
+        "index": 251
+      }
+    ],
+    "random_frame_start": false
+  },
+  "health": 1,
+  "id": "core_2_Cotton_Soil",
+  "minimap_pixel": [
+    80,
+    65,
+    40
+  ],
+  "name": "Solo de Algodão",
+  "random_resource": {
+    "entity": [
+      "3097"
+    ],
+    "max_amount": 1,
+    "max_distance": 0,
+    "min_amount": 1,
+    "min_distance": 0,
+    "multiply_same": false,
+    "respawn_rate": 1440.0,
+    "spawn_at": [
+      "core_2_Cotton_Soil"
+    ],
+    "spawn_chance": 100.0,
+    "spawn_multiply": 0.0,
+    "spawn_rolls": 1
+  }
+}

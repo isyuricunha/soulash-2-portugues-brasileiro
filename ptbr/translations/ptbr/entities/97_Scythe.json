@@ -29,7 +29,7 @@
       1
     ]
   },
-  "description": "Uma lâmina longa e curva presa a um longo poste, usada para cortar colheitas.",
+  "description": "Uma lâmina longa e curva presa a um cabo longo, usada para ceifar colheitas.",
   "glyph": {
     "frames": [
       {
@@ -77,5 +77,6 @@
     "range": 1,
     "type": 4
   },
-  "weight": 2.5
+  "weight": 2.5,
+  "feminine_form": true
 }

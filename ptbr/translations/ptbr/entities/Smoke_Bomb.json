@@ -30,7 +30,7 @@
     "time": 20,
     "tools": []
   },
-  "description": "Jogar esta bomba criará uma parede de fumaça. Útil quando é hora de recuar.",
+  "description": "Arremessar esta bomba cria uma parede de fumaça. Útil na hora de recuar.",
   "glyph": {
     "frames": [
       {
@@ -61,5 +61,6 @@
     "recipe": ""
   },
   "value": 600,
-  "weight": 0.20000000298023224
+  "weight": 0.20000000298023224,
+  "feminine_form": true
 }

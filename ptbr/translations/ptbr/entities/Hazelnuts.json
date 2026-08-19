@@ -10,7 +10,7 @@
     "value",
     "weight"
   ],
-  "description": "Um punhado de avelãs frescas, perfeitas para um lanche.",
+  "description": "Um punhado de avelãs frescas, perfeito para um lanche.",
   "food": {
     "nutrition": 10,
     "on_eat": "",
@@ -42,5 +42,6 @@
   ],
   "name": "Avelãs",
   "value": 100,
-  "weight": 0.10000000149011612
+  "weight": 0.10000000149011612,
+  "feminine_form": true
 }

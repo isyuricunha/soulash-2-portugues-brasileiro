@@ -11,7 +11,7 @@
     "weapon",
     "weight"
   ],
-  "description": "Um chapéu vermelho e pontudo com pele.",
+  "description": "Um chapéu vermelho, pontudo, com pelúcia.",
   "glyph": {
     "frames": [
       {
@@ -36,12 +36,13 @@
     109,
     155
   ],
-  "name": "Chapéu do Santa",
+  "name": "Chapéu do Papai Noel",
   "resource": {
-    "affix": "of the Reindeer",
+    "affix": "da Rena",
     "magic_ingredient": 3,
     "quality": 3,
-    "type": 7
+    "type": 7,
+    "feminine_affix": "rena"
   },
   "value": 1800,
   "weapon": {

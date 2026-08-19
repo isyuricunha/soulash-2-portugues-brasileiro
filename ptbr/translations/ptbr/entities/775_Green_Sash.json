@@ -35,7 +35,7 @@
       12
     ]
   },
-  "description": "Quando não pode pagar por couro, basta enrolar sua cintura com um pano velho.",
+  "description": "Quando você não pode comprar couro, basta envolver a cintura com um pano velho.",
   "glyph": {
     "frames": [
       {
@@ -62,5 +62,6 @@
   ],
   "name": "Faixa Verde",
   "value": 500,
-  "weight": 0.20000000298023224
+  "weight": 0.20000000298023224,
+  "feminine_form": true
 }

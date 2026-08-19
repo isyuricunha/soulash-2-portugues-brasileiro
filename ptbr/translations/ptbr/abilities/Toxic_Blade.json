@@ -6,7 +6,7 @@
     "health": 0,
     "stamina": 0
   },
-  "description": "Armas que você segura são encantadas com poder ::damage_type aumentando o dano em ::damage_bonus por ::duration turnos.",
+  "description": "As armas que você empunha são encantadas com poder ::damage_type aumentando o dano em ::damage_bonus por ::duration turnos.",
   "duration": 60.0,
   "effects": {
     "damage_bonus": 8,

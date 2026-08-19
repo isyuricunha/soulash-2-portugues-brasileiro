@@ -23,7 +23,7 @@
     "tags"
   ],
   "corpse": "core_2_Wolverine_Corpse",
-  "description": "Parece quase um pequeno urso.",
+  "description": "Parece quase um urso pequeno.",
   "dialogues": [
     "2",
     "891"
@@ -79,7 +79,7 @@
   "moveable": {
     "speed": 0.8999999761581421
   },
-  "name": "Carívoro",
+  "name": "Glutão",
   "sight": {
     "ignore_infra_penalty": false,
     "infravision": false,

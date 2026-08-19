@@ -44,7 +44,7 @@
     "weapon"
   ],
   "corpse": "2765",
-  "description": "Espinhos em suas costas têm restos de carne podre empalada.",
+  "description": "Os piques em suas costas têm restos de carne empalada e podre.",
   "dialogues": [
     "600",
     "601"
@@ -55,8 +55,8 @@
   },
   "fighter": {
     "attackNames": [
-      "Bite",
-      "Scratch"
+      "Mordida",
+      "Arranhão"
     ]
   },
   "glyph": {
@@ -83,7 +83,7 @@
   "moveable": {
     "speed": 0.699999988079071
   },
-  "name": "Espinho-Corcunda",
+  "name": "Corcova-de-Pique",
   "sight": {
     "ignore_infra_penalty": false,
     "infravision": true,
@@ -137,5 +137,6 @@
     "parry_bonus": 0,
     "range": 1,
     "type": 3
-  }
+  },
+  "feminine_form": true
 }

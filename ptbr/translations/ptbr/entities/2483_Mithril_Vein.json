@@ -33,7 +33,7 @@
     "producer"
   ],
   "corpse": [],
-  "description": "Um veio de minério de mithril.",
+  "description": "Uma veia de minério de Mithril.",
   "glyph": {
     "frames": [
       {
@@ -56,7 +56,7 @@
     116,
     148
   ],
-  "name": "Veio de Mithril",
+  "name": "Veia de Mithril",
   "producer": {
     "products": {
       "5": [
@@ -71,5 +71,6 @@
       ]
     },
     "time": 60
-  }
+  },
+  "feminine_form": true
 }

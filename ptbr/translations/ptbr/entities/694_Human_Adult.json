@@ -42,7 +42,7 @@
       {
         "chance": 1.0,
         "id": "23",
-        "name": "Farrapos",
+        "name": "Farrapões",
         "stack": 1
       }
     ]
@@ -81,7 +81,7 @@
   "moveable": {
     "speed": 1.2999999523162842
   },
-  "name": "Humano Adulto",
+  "name": "Adulto Humano",
   "persona": {
     "occupation": "None"
   },

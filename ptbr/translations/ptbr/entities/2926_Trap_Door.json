@@ -47,7 +47,7 @@
     "time": 15,
     "tools": []
   },
-  "description": "Fácil de ignorar.",
+  "description": "Fácil de passar despercebido.",
   "glyph": {
     "frames": [
       {
@@ -79,7 +79,7 @@
     43,
     10
   ],
-  "name": "Porta Armadilha",
+  "name": "Alçapão",
   "openable": {
     "block_light": false,
     "collidable": false,

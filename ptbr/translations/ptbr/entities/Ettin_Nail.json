@@ -37,12 +37,14 @@
   ],
   "name": "Unha de Ettin",
   "resource": {
-    "affix": "of the Quarrel",
+    "affix": "da Briga",
     "granted_passive": "core_2_blooming_aura",
     "magic_ingredient": 5,
     "quality": 5,
-    "type": 7
+    "type": 7,
+    "feminine_affix": "briguenta"
   },
   "value": 20000,
-  "weight": 0.10000000149011612
+  "weight": 0.10000000149011612,
+  "feminine_form": true
 }

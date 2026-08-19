@@ -29,7 +29,7 @@
       14
     ]
   },
-  "description": "Uma adaga com uma lâmina de osso.",
+  "description": "Uma adaga com lâmina de osso.",
   "glyph": {
     "frames": [
       {
@@ -72,5 +72,6 @@
     "range": 1,
     "type": 3
   },
-  "weight": 0.699999988079071
+  "weight": 0.699999988079071,
+  "feminine_form": true
 }

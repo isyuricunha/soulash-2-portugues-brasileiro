@@ -19,7 +19,7 @@
     "duration": 3.0,
     "tick": 1.0
   },
-  "description": "Uma lasca de gelo com bordas afiadas como navalhas.",
+  "description": "Um estilhaço de gelo com bordas afiadas como navalha.",
   "glyph": {
     "frames": [
       {
@@ -53,5 +53,6 @@
       "id": 2,
       "quality": 80
     }
-  ]
+  ],
+  "feminine_form": true
 }

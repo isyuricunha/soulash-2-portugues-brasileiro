@@ -11,7 +11,7 @@
     "value",
     "weight"
   ],
-  "description": "Pelos macios que já fizeram parte de um coelho.",
+  "description": "Pelo macio que já fez parte de um coelho.",
   "glyph": {
     "frames": [
       {
@@ -38,10 +38,11 @@
   ],
   "name": "Pele de Coelho",
   "resource": {
-    "affix": "Lucky",
+    "affix": "Sortudo",
     "magic_ingredient": 0,
     "quality": 1,
-    "type": 9
+    "type": 9,
+    "feminine_affix": "Sortuda"
   },
   "statistics": {
     "dexterity": [
@@ -66,5 +67,6 @@
     ]
   },
   "value": 200,
-  "weight": 0.10000000149011612
+  "weight": 0.10000000149011612,
+  "feminine_form": true
 }

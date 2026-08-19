@@ -6,7 +6,7 @@
     "name",
     "position_2d"
   ],
-  "description": "Há um caminho descendente entre o arenito.",
+  "description": "Há um caminho para baixo entre o arenito.",
   "glyph": {
     "frames": [
       {
@@ -31,5 +31,6 @@
     209,
     148
   ],
-  "name": "Descida de Arenito"
+  "name": "Descida de Arenito",
+  "feminine_form": true
 }

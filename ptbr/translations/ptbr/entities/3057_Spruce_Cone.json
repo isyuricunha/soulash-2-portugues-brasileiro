@@ -9,7 +9,7 @@
     "value",
     "weight"
   ],
-  "description": "Com cuidado suficiente, este cone se tornará um abeto forte.",
+  "description": "Com cuidado suficiente, esta pinha crescerá e se tornará um pinheiro forte.",
   "glyph": {
     "frames": [
       {
@@ -34,7 +34,8 @@
     145,
     33
   ],
-  "name": "Cone de Abeto",
+  "name": "Pinha de Pinheiro",
   "value": 100,
-  "weight": 0.10000000149011612
+  "weight": 0.10000000149011612,
+  "feminine_form": true
 }

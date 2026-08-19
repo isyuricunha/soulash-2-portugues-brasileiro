@@ -91,9 +91,9 @@
   "moveable": {
     "speed": 1.100000023841858
   },
-  "name": "Humano Caçador",
+  "name": "Caçador Humano",
   "persona": {
-    "occupation": "Caçador"
+    "occupation": "Hunter"
   },
   "sight": {
     "ignore_infra_penalty": false,

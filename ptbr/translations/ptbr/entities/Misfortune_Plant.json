@@ -8,7 +8,7 @@
     "producer"
   ],
   "corpse": [],
-  "description": "Um pequeno arbusto com cheiro de algo que morreu dentro.",
+  "description": "Um pequeno arbusto com cheiro de algo que morreu ali dentro.",
   "glyph": {
     "frames": [
       {
@@ -30,7 +30,7 @@
     94,
     73
   ],
-  "name": "Planta Azarento",
+  "name": "Arbusto do Infortúnio",
   "producer": {
     "products": {
       "10": [

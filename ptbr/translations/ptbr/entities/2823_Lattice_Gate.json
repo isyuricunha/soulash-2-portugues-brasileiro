@@ -46,7 +46,7 @@
     "time": 40,
     "tools": []
   },
-  "description": "Um portão de treliça com design simples, mas muito resistente.",
+  "description": "Um portão gradeado de design simples, mas muito resistente.",
   "glyph": {
     "frames": [
       {
@@ -69,11 +69,11 @@
     146,
     172
   ],
-  "name": "Portão de Treliça",
+  "name": "Portão Gradeado",
   "openable": {
     "block_light": false,
     "collidable": false,
-    "description": "Você vê diante de si um portão de treliça simplista em design, mas muito resistente, atualmente aberto.",
+    "description": "Você vê diante de si um portão gradeado de design simplista, mas muito resistente, atualmente aberto.",
     "glyph": {
       "frames": [
         {

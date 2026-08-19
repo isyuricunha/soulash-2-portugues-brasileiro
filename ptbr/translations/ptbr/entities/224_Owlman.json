@@ -30,7 +30,7 @@
     "tags"
   ],
   "corpse": "20",
-  "description": "Um humanoide com cabeça de coruja, coberto de penas. Ele ataca com garras afiadas como navalhas e um bico duro.",
+  "description": "Um humanoide com cabeça de coruja, coberto de penas. Ele ataca com garras afiadas como navalha e bico duro.",
   "dialogues": [
     "15"
   ],
@@ -53,7 +53,7 @@
       {
         "chance": 1.0,
         "id": "23",
-        "name": "Farrapos",
+        "name": "Farrapes",
         "stack": 1
       }
     ]
@@ -64,8 +64,8 @@
   },
   "fighter": {
     "attackNames": [
-      "Beak",
-      "Talons"
+      "Bico",
+      "Garras"
     ]
   },
   "glyph": {

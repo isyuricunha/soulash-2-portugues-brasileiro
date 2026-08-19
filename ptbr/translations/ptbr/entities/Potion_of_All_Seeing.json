@@ -38,7 +38,7 @@
       15
     ]
   },
-  "description": "Esta poção lhe dará alcance total de visão.",
+  "description": "Esta poção concederá alcance de visão total.",
   "glyph": {
     "frames": [
       {
@@ -63,11 +63,12 @@
     78,
     54
   ],
-  "name": "Poção da Onisciência",
+  "name": "Poção de Visão Total",
   "usable": {
     "ability": "core_2_All_Seeing",
     "recipe": ""
   },
   "value": 5000,
-  "weight": 0.10000000149011612
+  "weight": 0.10000000149011612,
+  "feminine_form": true
 }

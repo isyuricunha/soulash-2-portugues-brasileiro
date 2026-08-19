@@ -104,7 +104,7 @@
   },
   "name": "Arqueiro Humano",
   "persona": {
-    "occupation": "Arqueiro"
+    "occupation": "Archer"
   },
   "sight": {
     "ignore_infra_penalty": false,

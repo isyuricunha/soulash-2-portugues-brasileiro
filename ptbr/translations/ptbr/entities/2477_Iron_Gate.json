@@ -49,7 +49,7 @@
       6
     ]
   },
-  "description": "Um portão de ferro imponente, alto e robusto, guardando a entrada.",
+  "description": "Um imponente portão de ferro ergue-se alto e robusto, guardando a entrada.",
   "glyph": {
     "frames": [
       {
@@ -76,7 +76,7 @@
   "openable": {
     "block_light": false,
     "collidable": false,
-    "description": "Portão pesado aberto, não muito convidativo.",
+    "description": "Portão pesado aberto, nada convidativo.",
     "glyph": {
       "frames": [
         {

@@ -1,6 +1,6 @@
 {
   "id": "core_2_party_buff",
-  "name": "Bônus de Grupo",
+  "name": "Buff do Grupo",
   "requirements": {
     "skill": 6
   },

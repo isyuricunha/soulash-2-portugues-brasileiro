@@ -33,7 +33,7 @@
     "producer"
   ],
   "corpse": "148",
-  "description": "Um veio de carvão preto.",
+  "description": "Uma veia de carvão preto.",
   "glyph": {
     "frames": [
       {
@@ -56,7 +56,7 @@
     31,
     38
   ],
-  "name": "Veio de Carvão",
+  "name": "Veia de Carvão",
   "producer": {
     "products": {
       "5": [
@@ -71,5 +71,6 @@
       ]
     },
     "time": 20
-  }
+  },
+  "feminine_form": true
 }

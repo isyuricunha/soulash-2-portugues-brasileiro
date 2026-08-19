@@ -39,7 +39,7 @@
       1
     ]
   },
-  "description": "Braçadeiras elaboradas adornadas com motivos élficos intricados, craftadas com grande cuidado e atenção aos detalhes.",
+  "description": "Braçadeiras elaboradas adornadas com motivos élficos intrincados, confeccionadas com grande cuidado e atenção aos detalhes.",
   "glyph": {
     "frames": [
       {
@@ -66,5 +66,6 @@
   ],
   "name": "Braçadeiras Decoradas",
   "value": 2200,
-  "weight": 2.0
+  "weight": 2.0,
+  "feminine_form": true
 }

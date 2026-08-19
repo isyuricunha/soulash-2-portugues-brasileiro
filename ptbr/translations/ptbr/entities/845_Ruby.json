@@ -24,7 +24,7 @@
     "weapon",
     "weight"
   ],
-  "description": "Uma pedra preciosa de cor vermelha-sangue.",
+  "description": "Uma gema de cor vermelho-sangue.",
   "glyph": {
     "frames": [
       {
@@ -51,10 +51,11 @@
   ],
   "name": "Rubi",
   "resource": {
-    "affix": "Ruby",
+    "affix": "Rubi",
     "magic_ingredient": 0,
     "quality": 3,
-    "type": 8
+    "type": 8,
+    "feminine_affix": "rubi"
   },
   "value": 5000,
   "weapon": {

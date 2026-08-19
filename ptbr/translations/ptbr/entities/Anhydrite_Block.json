@@ -24,7 +24,7 @@
     "weapon",
     "weight"
   ],
-  "description": "Pedra pálida e translúcida na cor azul.",
+  "description": "Pedra pálida, translúcida, de cor azul.",
   "glyph": {
     "frames": [
       {
@@ -51,10 +51,11 @@
   ],
   "name": "Bloco de Anidrita",
   "resource": {
-    "affix": "Anhydrite",
+    "affix": "Anidrita",
     "magic_ingredient": 0,
     "quality": 3,
-    "type": 6
+    "type": 6,
+    "feminine_affix": "Anidrítica"
   },
   "value": 1000,
   "weapon": {

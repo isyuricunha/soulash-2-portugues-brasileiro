@@ -30,7 +30,7 @@
     "time": 0,
     "tools": []
   },
-  "description": "Chão de pedra fria.",
+  "description": "Piso de pedra frio.",
   "glyph": {
     "frames": [
       {
@@ -52,5 +52,5 @@
     73,
     82
   ],
-  "name": "Chão de Pedra Escura"
+  "name": "Piso de Pedra Escuro"
 }

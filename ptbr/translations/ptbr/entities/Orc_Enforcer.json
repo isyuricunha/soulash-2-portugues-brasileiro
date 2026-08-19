@@ -101,9 +101,9 @@
   "moveable": {
     "speed": 1.100000023841858
   },
-  "name": "Orc Executor",
+  "name": "Orc Impositor",
   "persona": {
-    "occupation": "Executor"
+    "occupation": "Enforcer"
   },
   "sight": {
     "ignore_infra_penalty": false,

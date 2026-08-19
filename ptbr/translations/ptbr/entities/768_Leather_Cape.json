@@ -36,7 +36,7 @@
       14
     ]
   },
-  "description": "Frequentemente usado por nobres e entertenedores.",
+  "description": "Frequentemente usada por nobres e artistas.",
   "glyph": {
     "frames": [
       {
@@ -63,5 +63,6 @@
   ],
   "name": "Capa de Couro",
   "value": 2400,
-  "weight": 1.2000000476837158
+  "weight": 1.2000000476837158,
+  "feminine_form": true
 }

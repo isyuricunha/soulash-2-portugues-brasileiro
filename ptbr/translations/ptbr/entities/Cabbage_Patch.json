@@ -8,7 +8,7 @@
     "producer",
     "weight"
   ],
-  "description": "Um pequeno grupo de repolhos gostosos.",
+  "description": "Um pequeno canteiro de repolho saboroso.",
   "glyph": {
     "frames": [
       {
@@ -46,7 +46,7 @@
     145,
     33
   ],
-  "name": "Grupo de Repolho",
+  "name": "Canteiro de Repolho",
   "producer": {
     "products": {
       "10": [

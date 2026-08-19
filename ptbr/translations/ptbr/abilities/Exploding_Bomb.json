@@ -6,7 +6,7 @@
     "health": 0,
     "stamina": 4
   },
-  "description": "Joga uma bomba explosiva em um local, causando ::damage ::damage_type de dano.",
+  "description": "Arremessa uma bomba explosiva em um local, causando ::damage de dano ::damage_type.",
   "duration": 1.5,
   "effects": {
     "aoe_break": 1,

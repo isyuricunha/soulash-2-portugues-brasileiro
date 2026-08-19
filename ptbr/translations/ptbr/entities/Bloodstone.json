@@ -54,7 +54,7 @@
       15
     ]
   },
-  "description": "Gema carmesim profunda, dita ser formada do sangue petrificado de deuses antigos.",
+  "description": "Gema carmesim profunda, diz-se formada a partir do sangue petrificado de deuses antigos.",
   "glyph": {
     "frames": [
       {
@@ -81,10 +81,11 @@
   ],
   "name": "Pedra de Sangue",
   "resource": {
-    "affix": "Bloodstone",
+    "affix": "Sanguíneo",
     "magic_ingredient": 0,
     "quality": 3,
-    "type": 8
+    "type": 8,
+    "feminine_affix": "Sanguínea"
   },
   "value": 5000,
   "weapon": {
@@ -103,5 +104,6 @@
     "range": 0,
     "type": 9
   },
-  "weight": 0.10000000149011612
+  "weight": 0.10000000149011612,
+  "feminine_form": true
 }

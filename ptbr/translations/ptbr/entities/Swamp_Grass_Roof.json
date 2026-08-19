@@ -33,7 +33,7 @@
     "time": 5,
     "tools": []
   },
-  "description": "Teto feito de grama do pântano.",
+  "description": "Telhado feito de grama de pântano.",
   "glyph": {
     "frames": [
       {
@@ -55,7 +55,7 @@
     122,
     63
   ],
-  "name": "Teto de Grama do Pântano",
+  "name": "Telhado de Grama de Pântano",
   "producer": {
     "products": {
       "core_2_deconstruct": [

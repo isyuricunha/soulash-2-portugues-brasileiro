@@ -25,7 +25,7 @@
     "weapon",
     "weight"
   ],
-  "description": "Um osso de um dragão outrora poderoso.",
+  "description": "Um osso de dragão outrora poderoso.",
   "glyph": {
     "frames": [
       {
@@ -52,10 +52,11 @@
   ],
   "name": "Osso de Dragão",
   "resource": {
-    "affix": "Dragon",
+    "affix": "Draconiano",
     "magic_ingredient": 0,
     "quality": 4,
-    "type": 5
+    "type": 5,
+    "feminine_affix": "Draconiana"
   },
   "statistics": {
     "dexterity": [

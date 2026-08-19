@@ -6,7 +6,7 @@
     "health": 0,
     "stamina": 10
   },
-  "description": "Dispara um raio da morte do seu dedo em linha reta, acertando a primeira coisa com que entrar em contato, causando ::damage de ::damage_type de dano.",
+  "description": "Dispara um raio da morte do seu dedo em linha reta atingindo a primeira coisa com que entra em contato causando ::damage de dano ::damage_type.",
   "duration": 0.0,
   "effects": {
     "damage": [

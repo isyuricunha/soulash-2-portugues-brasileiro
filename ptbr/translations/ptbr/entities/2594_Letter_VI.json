@@ -8,7 +8,7 @@
     "stackable",
     "weight"
   ],
-  "description": "Uma carta antiga que diz:\n\"Meu bom senhor, como eu temia, a construção do palácio é instável. Você deve abandoná-lo imediatamente antes que tudo afunde no chão.\"",
+  "description": "Uma carta velha que diz:\n«Meu bom senhor, como eu temia, a construção do palácio é instável. Vossa Senhoria deve abandoná-lo imediatamente antes que tudo afunde no solo.»",
   "glyph": {
     "frames": [
       {
@@ -34,5 +34,6 @@
     137
   ],
   "name": "Carta VI",
-  "weight": 0.10000000149011612
+  "weight": 0.10000000149011612,
+  "feminine_form": true
 }

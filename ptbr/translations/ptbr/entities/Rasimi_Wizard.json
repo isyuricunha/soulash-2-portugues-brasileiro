@@ -69,9 +69,9 @@
   "moveable": {
     "speed": 1.0
   },
-  "name": "Rasimi Mago",
+  "name": "Mago Rasimi",
   "persona": {
-    "occupation": "Mago"
+    "occupation": "Wizard"
   },
   "sight": {
     "ignore_infra_penalty": false,

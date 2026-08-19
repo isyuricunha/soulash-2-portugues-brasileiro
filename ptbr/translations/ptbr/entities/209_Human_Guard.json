@@ -98,7 +98,7 @@
   },
   "name": "Guarda Humano",
   "persona": {
-    "occupation": "Guarda"
+    "occupation": "Guard"
   },
   "sight": {
     "ignore_infra_penalty": false,

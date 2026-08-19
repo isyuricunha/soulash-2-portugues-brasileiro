@@ -6,7 +6,7 @@
     "health": 0,
     "stamina": 20
   },
-  "description": "Congela a área ao seu redor causando ::damage ::damage_type a todos e adicionando 5 camadas de congelamento àqueles afetados.",
+  "description": "Congela a área ao seu redor causando ::damage de dano ::damage_type a todos e adicionando 5 pilhas de congelamento aos afetados.",
   "duration": 0.0,
   "effects": {
     "aoe_range": 6,

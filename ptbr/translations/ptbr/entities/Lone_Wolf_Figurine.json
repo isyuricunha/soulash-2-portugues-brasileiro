@@ -10,7 +10,7 @@
     "value",
     "weight"
   ],
-  "description": "Uma estatueta de um lobo cinza capturado em plena corrida.",
+  "description": "Uma estatueta de um lobo cinzento capturado em plena corrida.",
   "glyph": {
     "frames": [
       {
@@ -37,11 +37,12 @@
   ],
   "name": "Estatueta de Lobo Solitário",
   "resource": {
-    "affix": "of the Loneliness",
+    "affix": "da Solidão",
     "granted_passive": "core_2_sprint_boost_solo",
     "magic_ingredient": 5,
     "quality": 5,
-    "type": 7
+    "type": 7,
+    "feminine_affix": "solitária"
   },
   "value": 20000,
   "weight": 0.10000000149011612

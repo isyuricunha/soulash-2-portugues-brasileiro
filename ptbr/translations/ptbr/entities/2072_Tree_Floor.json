@@ -16,7 +16,7 @@
     "name"
   ],
   "corpse": [],
-  "description": "Chão esculpido dentro de uma árvore parece antinatural, talvez feito com magia.",
+  "description": "O piso esculpido dentro de uma árvore parece antinatural, talvez feito com magia.",
   "glyph": {
     "frames": [
       {
@@ -38,5 +38,5 @@
     38,
     7
   ],
-  "name": "Chão de Árvore"
+  "name": "Piso de Árvore"
 }

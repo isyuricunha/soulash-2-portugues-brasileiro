@@ -86,9 +86,9 @@
   "moveable": {
     "speed": 1.100000023841858
   },
-  "name": "Elfo Soprador de Vidro",
+  "name": "Vidreiro Élfico",
   "persona": {
-    "occupation": "Soprador de Vidro"
+    "occupation": "Glassblower"
   },
   "sight": {
     "ignore_infra_penalty": false,

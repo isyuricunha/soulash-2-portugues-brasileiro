@@ -48,7 +48,7 @@
     "time": 10,
     "tools": []
   },
-  "description": "Parede feita de blocos de arenito polidos e cortados.",
+  "description": "Parede feita de blocos de arenito polido e cortado.",
   "glyph": {
     "frames": [
       {
@@ -86,5 +86,6 @@
       ]
     },
     "time": 60
-  }
+  },
+  "feminine_form": true
 }

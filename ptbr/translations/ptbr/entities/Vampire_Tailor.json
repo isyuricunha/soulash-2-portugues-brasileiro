@@ -84,7 +84,7 @@
   },
   "name": "Vampiro Alfaiate",
   "persona": {
-    "occupation": "Alfaiate"
+    "occupation": "Tailor"
   },
   "sight": {
     "ignore_infra_penalty": false,

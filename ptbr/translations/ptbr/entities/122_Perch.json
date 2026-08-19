@@ -10,7 +10,7 @@
     "value",
     "weight"
   ],
-  "description": "Peixe verde com listras verticais escuras. É comumente encontrado durante a primavera em rios e lagos.",
+  "description": "Um simples poste de madeira com linha presa a ele e um pequeno gancho de metal na ponta",
   "glyph": {
     "frames": [
       {
@@ -52,5 +52,6 @@
     "time": 0
   },
   "value": 400,
-  "weight": 0.6000000238418579
+  "weight": 0.6000000238418579,
+  "feminine_form": true
 }

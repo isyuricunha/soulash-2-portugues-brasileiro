@@ -23,7 +23,7 @@
     "time": 0,
     "tools": []
   },
-  "description": "Uma cama de corda relaxante e suspensa, perfeita para momentos de lazer e descanso pacífico.",
+  "description": "Uma cama de corda relaxante e suspensa, perfeita para momentos de lazer e descanso tranquilo.",
   "glyph": {
     "frames": [
       {
@@ -44,7 +44,7 @@
     161,
     63
   ],
-  "name": "Rede de Cordas",
+  "name": "Rede de Corda",
   "producer": {
     "products": {
       "core_2_deconstruct": [
@@ -60,5 +60,6 @@
     },
     "time": 20
   },
-  "resting_place": 110
+  "resting_place": 110,
+  "feminine_form": true
 }

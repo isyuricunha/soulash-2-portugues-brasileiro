@@ -38,7 +38,7 @@
       15
     ]
   },
-  "description": "Esta poção lhe dará um alcance de visão melhor.",
+  "description": "Esta poção concederá alcance de visão aprimorado.",
   "glyph": {
     "frames": [
       {
@@ -63,11 +63,12 @@
     78,
     54
   ],
-  "name": "Poção da Visão Aprimorada",
+  "name": "Poção de Visão Aprimorada",
   "usable": {
     "ability": "core_2_Potion_of_Better_Sight",
     "recipe": ""
   },
   "value": 3000,
-  "weight": 0.10000000149011612
+  "weight": 0.10000000149011612,
+  "feminine_form": true
 }

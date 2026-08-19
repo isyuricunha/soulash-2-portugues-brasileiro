@@ -49,12 +49,13 @@
     93,
     57
   ],
-  "name": "Couro de Leopardo das Neves",
+  "name": "Couro de Leopardo-das-neves",
   "resource": {
-    "affix": "Snow Leopard",
+    "affix": "do Leopardo-das-neves",
     "magic_ingredient": 0,
     "quality": 3,
-    "type": 2
+    "type": 2,
+    "feminine_affix": "leoparda-da-neve"
   },
   "statistics": {
     "dexterity": [

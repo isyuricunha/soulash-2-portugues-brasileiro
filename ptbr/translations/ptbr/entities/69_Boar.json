@@ -40,7 +40,7 @@
     "tags"
   ],
   "corpse": "335",
-  "description": "Um javali selvagem com presas que dizem comer qualquer coisa.",
+  "description": "Um porco selvagem com presas que se diz comer de tudo.",
   "dialogues": [
     "2",
     "902"
@@ -70,7 +70,7 @@
   },
   "fighter": {
     "attackNames": [
-      "Tusks"
+      "Presas"
     ]
   },
   "glyph": {

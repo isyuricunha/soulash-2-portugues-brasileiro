@@ -9,7 +9,7 @@
     "value",
     "weight"
   ],
-  "description": "Com cuidado suficiente, esta semente se tornará um arbusto de framboesa um dia.",
+  "description": "Com cuidado suficiente, esta semente crescerá e se tornará um arbusto de framboesa um dia.",
   "glyph": {
     "frames": [
       {
@@ -36,5 +36,6 @@
   ],
   "name": "Semente de Framboesa",
   "value": 120,
-  "weight": 0.009999999776482582
+  "weight": 0.009999999776482582,
+  "feminine_form": true
 }

@@ -7,7 +7,7 @@
     "position_2d",
     "weight"
   ],
-  "description": "Cabeça ensanguentada de um líder de ladrões.",
+  "description": "Cabeça sangrenta de um líder ladrão.",
   "glyph": {
     "frames": [
       {
@@ -32,6 +32,7 @@
     160,
     161
   ],
-  "name": "Cabeça do Líder dos Ladrões",
-  "weight": 1.5
+  "name": "Cabeça de Líder Ladrão",
+  "weight": 1.5,
+  "feminine_form": true
 }

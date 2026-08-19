@@ -11,7 +11,7 @@
     "value",
     "weight"
   ],
-  "description": "Osso longo e antigo com entalhes misteriosos.",
+  "description": "Osso longo, de aparência antiga, com entalhes misteriosos.",
   "glyph": {
     "frames": [
       {
@@ -36,12 +36,13 @@
     204,
     187
   ],
-  "name": "Osso de Colecionador",
+  "name": "Osso do Colecionador",
   "resource": {
-    "affix": "Gathered",
+    "affix": "Coletado",
     "magic_ingredient": 0,
     "quality": 3,
-    "type": 5
+    "type": 5,
+    "feminine_affix": "Coletada"
   },
   "statistics": {
     "dexterity": [

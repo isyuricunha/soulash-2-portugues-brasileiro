@@ -79,9 +79,9 @@
   "moveable": {
     "speed": 1.5
   },
-  "name": "Vampiro Cesteiro",
+  "name": "Vampiro Baskerweaver",
   "persona": {
-    "occupation": "Cesteiro"
+    "occupation": "Basketweaver"
   },
   "sight": {
     "ignore_infra_penalty": false,

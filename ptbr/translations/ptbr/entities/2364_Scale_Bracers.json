@@ -39,7 +39,7 @@
       1
     ]
   },
-  "description": "Braçadeiras resistentes feitas de escamas entrelaçadas, projetadas para proteger os antebraços e pulsos do usuário.",
+  "description": "Braçadeiras robustas feitas de escamas entrelaçadas, projetadas para proteger os antebraços e pulsos do usuário.",
   "glyph": {
     "frames": [
       {
@@ -66,5 +66,6 @@
   ],
   "name": "Braçadeiras de Escamas",
   "value": 5500,
-  "weight": 3.0
+  "weight": 3.0,
+  "feminine_form": true
 }

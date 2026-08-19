@@ -27,7 +27,7 @@
       "id": "552"
     }
   ],
-  "description": "Uma mesa de forma estranha feita de costelas e ossos.",
+  "description": "Uma mesa de formato estranho feita de costelas e ossos.",
   "glyph": {
     "frames": [
       {
@@ -64,5 +64,6 @@
       ]
     },
     "time": 10
-  }
+  },
+  "feminine_form": true
 }

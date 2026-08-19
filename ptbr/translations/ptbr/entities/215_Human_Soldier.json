@@ -50,7 +50,7 @@
       {
         "chance": 1.0,
         "id": "2176",
-        "name": "Tanga",
+        "name": "Tapa-sexo",
         "stack": 1
       }
     ],
@@ -58,7 +58,7 @@
       {
         "chance": 1.0,
         "id": "77",
-        "name": "Espada Curta",
+        "name": "espada curta",
         "stack": 1
       }
     ]
@@ -99,7 +99,7 @@
   },
   "name": "Soldado Humano",
   "persona": {
-    "occupation": "Soldado"
+    "occupation": "Soldier"
   },
   "sight": {
     "ignore_infra_penalty": false,

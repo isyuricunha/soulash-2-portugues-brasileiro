@@ -6,7 +6,7 @@
     "health": 0,
     "stamina": 4
   },
-  "description": "Joga uma bola de magma quente em um único alvo que causa ::damage ::damage_type de dano.",
+  "description": "Arroja uma bola de magma ardente em um único alvo que causa ::damage de dano ::damage_type.",
   "duration": 0.0,
   "effects": {
     "damage": [

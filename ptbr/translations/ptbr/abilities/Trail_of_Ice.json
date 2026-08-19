@@ -6,7 +6,7 @@
     "health": 0,
     "stamina": 8
   },
-  "description": "Enquanto caminha durante os próximos ::duration turnos, deixe um ::summon para trás.",
+  "description": "Ao caminhar durante os próximos ::duration turnos, deixe um ::summon para trás.",
   "duration": 6.0,
   "effects": null,
   "effects_keys": {

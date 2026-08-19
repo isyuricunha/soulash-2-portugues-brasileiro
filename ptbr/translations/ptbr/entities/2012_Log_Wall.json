@@ -79,7 +79,7 @@
     43,
     35
   ],
-  "name": "Parede de Tora",
+  "name": "Parede de Troncos",
   "producer": {
     "products": {
       "core_2_deconstruct": [
@@ -94,5 +94,6 @@
       ]
     },
     "time": 30
-  }
+  },
+  "feminine_form": true
 }

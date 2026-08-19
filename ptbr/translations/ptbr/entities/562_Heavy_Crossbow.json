@@ -29,7 +29,7 @@
       14
     ]
   },
-  "description": "Besta pesada pode perfurar até as armaduras mais pesadas, mas precisa de muito tempo para recarregar.",
+  "description": "Bestas pesadas podem perfurar as mais pesadas das armaduras, mas precisam de muito tempo para recarregar.",
   "glyph": {
     "frames": [
       {
@@ -73,5 +73,6 @@
     "range": 12,
     "type": 7
   },
-  "weight": 5.0
+  "weight": 5.0,
+  "feminine_form": true
 }

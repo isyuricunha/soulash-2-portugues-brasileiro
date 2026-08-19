@@ -29,7 +29,7 @@
       14
     ]
   },
-  "description": "Arma poderosa à distância conhecida por seu design simples.",
+  "description": "Arma de longo alcance poderosa, conhecida por seu design simples.",
   "glyph": {
     "frames": [
       {
@@ -73,5 +73,6 @@
     "range": 10,
     "type": 7
   },
-  "weight": 4.0
+  "weight": 4.0,
+  "feminine_form": true
 }

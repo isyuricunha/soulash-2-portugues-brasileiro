@@ -36,7 +36,7 @@
     "time": 20,
     "tools": []
   },
-  "description": "Uma mesa esculpida em um bloco de pedra.",
+  "description": "Uma mesa esculpida a partir de um bloco de pedra.",
   "glyph": {
     "frames": [
       {
@@ -82,5 +82,6 @@
       ]
     },
     "time": 20
-  }
+  },
+  "feminine_form": true
 }

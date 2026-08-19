@@ -9,7 +9,7 @@
     "position_2d"
   ],
   "corpse": "25",
-  "description": "Este cadáver parece que algo ou alguém deu algumas boas mordidas nele.",
+  "description": "Este cadáver parece ter levado umas boas mordidas de algo ou alguém.",
   "glyph": {
     "frames": [
       {
@@ -36,5 +36,5 @@
     128,
     104
   ],
-  "name": "Cadáver Meio Comido"
+  "name": "Cadáver Meio Devorado"
 }

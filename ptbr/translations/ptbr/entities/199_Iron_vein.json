@@ -33,7 +33,7 @@
     "producer"
   ],
   "corpse": [],
-  "description": "Um veio de minério de ferro.",
+  "description": "Uma veia de minério de ferro.",
   "glyph": {
     "frames": [
       {
@@ -56,7 +56,7 @@
     114,
     98
   ],
-  "name": "Veio de Ferro",
+  "name": "Veia de Ferro",
   "producer": {
     "products": {
       "5": [
@@ -71,5 +71,6 @@
       ]
     },
     "time": 30
-  }
+  },
+  "feminine_form": true
 }

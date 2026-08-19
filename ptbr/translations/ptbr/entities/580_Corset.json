@@ -40,7 +40,7 @@
       12
     ]
   },
-  "description": "Projetado para moldar seu torso.",
+  "description": "Projetado para modelar seu torso.",
   "glyph": {
     "frames": [
       {
@@ -65,7 +65,7 @@
     93,
     57
   ],
-  "name": "Espartilho",
+  "name": "Corselete",
   "value": 2400,
   "weight": 1.0
 }

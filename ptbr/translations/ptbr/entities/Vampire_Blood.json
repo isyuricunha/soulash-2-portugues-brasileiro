@@ -10,7 +10,7 @@
     "value",
     "weight"
   ],
-  "description": "O sangue nesta garrafa é espesso e quase preto, como se tivesse sido preservado por séculos.",
+  "description": "O sangue neste frasco é espesso e quase preto, como se tivesse sido preservado por séculos.",
   "glyph": {
     "frames": [
       {
@@ -37,10 +37,11 @@
   ],
   "name": "Sangue de Vampiro",
   "resource": {
-    "affix": "of Vampirism",
+    "affix": "do Vampirismo",
     "magic_ingredient": 4,
     "quality": 4,
-    "type": 7
+    "type": 7,
+    "feminine_affix": "vampírica"
   },
   "value": 50000,
   "weight": 0.10000000149011612

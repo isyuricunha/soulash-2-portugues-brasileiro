@@ -24,7 +24,7 @@
     "value",
     "weight"
   ],
-  "description": "Fibras duráveis e resistentes colhidas de cactos, usadas para criar peças robustas de roupa.",
+  "description": "Fibras resistentes e duráveis colhidas de cactos, usadas para confeccionar peças de roupa robustas.",
   "glyph": {
     "frames": [
       {
@@ -51,10 +51,11 @@
   ],
   "name": "Fibras de Cacto",
   "resource": {
-    "affix": "Stinging",
+    "affix": "Urticante",
     "magic_ingredient": 0,
     "quality": 1,
-    "type": 4
+    "type": 4,
+    "feminine_affix": "Urticante"
   },
   "statistics": {
     "dexterity": [
@@ -79,5 +80,6 @@
     ]
   },
   "value": 1000,
-  "weight": 0.10000000149011612
+  "weight": 0.10000000149011612,
+  "feminine_form": true
 }

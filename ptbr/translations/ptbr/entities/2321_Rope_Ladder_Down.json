@@ -30,7 +30,7 @@
     "time": 40,
     "tools": []
   },
-  "description": "O único caminho mais rápido para baixo é caindo.",
+  "description": "A única maneira mais rápida de descer é caindo.",
   "glyph": {
     "frames": [
       {
@@ -56,5 +56,6 @@
     38,
     7
   ],
-  "name": "Escada de Corda para Baixo"
+  "name": "Escada de Corda para Baixo",
+  "feminine_form": true
 }

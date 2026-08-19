@@ -79,9 +79,9 @@
   "moveable": {
     "speed": 1.0
   },
-  "name": "Espectro de Osso Cesteiro",
+  "name": "Espectro Ósseo Cesteiro",
   "persona": {
-    "occupation": "Cesteiro"
+    "occupation": "Basketweaver"
   },
   "sight": {
     "ignore_infra_penalty": false,

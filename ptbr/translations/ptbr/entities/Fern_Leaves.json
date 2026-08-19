@@ -23,7 +23,7 @@
     "value",
     "weight"
   ],
-  "description": "Folhas verdes de uma planta de samambaia.",
+  "description": "Folhas verdes de uma samambaia.",
   "glyph": {
     "frames": [
       {
@@ -50,11 +50,13 @@
   ],
   "name": "Folhas de Samambaia",
   "resource": {
-    "affix": "Fern",
+    "affix": "Samambaia",
     "magic_ingredient": 0,
     "quality": 0,
-    "type": 4
+    "type": 4,
+    "feminine_affix": "samambaia"
   },
   "value": 100,
-  "weight": 0.10000000149011612
+  "weight": 0.10000000149011612,
+  "feminine_form": true
 }

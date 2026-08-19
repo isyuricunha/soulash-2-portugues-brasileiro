@@ -60,7 +60,7 @@
       {
         "chance": 1.0,
         "id": "23",
-        "name": "Farrapos",
+        "name": "Farrap",
         "stack": 1
       }
     ]
@@ -99,9 +99,9 @@
   "moveable": {
     "speed": 1.2999999523162842
   },
-  "name": "Orc Arqueiro",
+  "name": "Orc Arcoeiro",
   "persona": {
-    "occupation": "Arqueiro"
+    "occupation": "Bowyer"
   },
   "sight": {
     "ignore_infra_penalty": false,

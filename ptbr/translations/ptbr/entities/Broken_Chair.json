@@ -8,7 +8,7 @@
     "position_2d"
   ],
   "corpse": "2008",
-  "description": "Parece que alguém a quebrou em um acesso de raiva e simplesmente a deixou aqui.",
+  "description": "Parece que alguém o quebrou num acesso de raiva e o deixou aqui.",
   "glyph": {
     "frames": [
       {
@@ -31,5 +31,6 @@
     68,
     24
   ],
-  "name": "Cadeira Quebrada"
+  "name": "Cadeira Quebrada",
+  "feminine_form": true
 }

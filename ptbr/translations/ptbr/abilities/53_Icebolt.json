@@ -6,7 +6,7 @@
     "health": 0,
     "stamina": 4
   },
-  "description": "Lança um icicle em um único alvo que causa ::damage de dano ::damage_type.",
+  "description": "Arremessa um estilhaço de gelo em um único alvo que causa ::damage de dano ::damage_type.",
   "duration": 0.0,
   "effects": {
     "damage": [
@@ -19,7 +19,7 @@
   "id": "53",
   "image": 161,
   "level": 2,
-  "name": "Lança-Gelo",
+  "name": "Estilhaço de Gelo",
   "range": 8,
   "target": "line"
 }

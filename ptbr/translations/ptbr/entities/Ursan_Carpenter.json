@@ -87,9 +87,9 @@
   "moveable": {
     "speed": 1.0
   },
-  "name": "Carpinteiro Ursan",
+  "name": "Ursano Carpinteiro",
   "persona": {
-    "occupation": "Carpinteiro"
+    "occupation": "Carpenter"
   },
   "sight": {
     "ignore_infra_penalty": false,

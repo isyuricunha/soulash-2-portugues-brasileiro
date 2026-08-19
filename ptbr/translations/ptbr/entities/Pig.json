@@ -37,7 +37,7 @@
     "tags"
   ],
   "corpse": "core_2_Pig_Corpse",
-  "description": "Este porquinho está procurando comida.",
+  "description": "Este leitão está procurando comida.",
   "dialogues": [
     "653",
     "902"

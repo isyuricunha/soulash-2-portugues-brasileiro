@@ -77,9 +77,9 @@
   "moveable": {
     "speed": 1.100000023841858
   },
-  "name": "Anão Armeiro",
+  "name": "Armeiro Anão",
   "persona": {
-    "occupation": "Armeiro"
+    "occupation": "Weaponsmith"
   },
   "sight": {
     "ignore_infra_penalty": false,

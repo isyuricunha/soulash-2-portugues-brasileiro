@@ -79,9 +79,9 @@
   "moveable": {
     "speed": 1.100000023841858
   },
-  "name": "Alfaiate Elfo",
+  "name": "Elfo Alfaiate",
   "persona": {
-    "occupation": "Alfaiate"
+    "occupation": "Tailor"
   },
   "sight": {
     "ignore_infra_penalty": false,

@@ -44,7 +44,7 @@
       14
     ]
   },
-  "description": "Máscara antiga usada no ritual de enterramento de faraós do deserto.",
+  "description": "Máscara antiga usada no ritual de sepultamento de faraós do deserto.",
   "glyph": {
     "frames": [
       {
@@ -69,7 +69,8 @@
     90,
     90
   ],
-  "name": "Máscara da Morte",
+  "name": "Máscara Mortuária",
   "value": 10000,
-  "weight": 2.0
+  "weight": 2.0,
+  "feminine_form": true
 }

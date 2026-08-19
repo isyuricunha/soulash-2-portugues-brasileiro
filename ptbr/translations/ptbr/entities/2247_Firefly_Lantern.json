@@ -39,7 +39,7 @@
     "time": 30,
     "tools": []
   },
-  "description": "Uma lanterna élfica alimentada por vagalumes.",
+  "description": "Uma lanterna élfica alimentada por vaga-lumes.",
   "glyph": {
     "frames": [
       {
@@ -96,5 +96,6 @@
     120,
     42
   ],
-  "name": "Lanterna de Vagalume"
+  "name": "Lanterna de Vaga-lume",
+  "feminine_form": true
 }

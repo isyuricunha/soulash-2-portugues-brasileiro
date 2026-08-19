@@ -40,7 +40,7 @@
       {
         "chance": 1.0,
         "id": "23",
-        "name": "Farrapos",
+        "name": "Farrap",
         "stack": 1
       }
     ]
@@ -81,7 +81,7 @@
   },
   "name": "Mushman Cesteiro",
   "persona": {
-    "occupation": "Cesteiro"
+    "occupation": "Basketweaver"
   },
   "sight": {
     "ignore_infra_penalty": false,

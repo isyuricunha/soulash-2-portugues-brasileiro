@@ -43,7 +43,7 @@
       {
         "chance": 0.20000000298023224,
         "id": "862",
-        "name": "Brinco",
+        "name": "Brincos",
         "stack": 1
       }
     ],
@@ -62,7 +62,7 @@
   },
   "fighter": {
     "attackNames": [
-      "Electrified Talon"
+      "Garra Eletrificada"
     ]
   },
   "gender": "female",
@@ -146,5 +146,6 @@
     "parry_bonus": 0,
     "range": 1,
     "type": 3
-  }
+  },
+  "feminine_form": true
 }

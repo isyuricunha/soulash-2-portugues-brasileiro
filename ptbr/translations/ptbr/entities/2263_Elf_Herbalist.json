@@ -86,9 +86,9 @@
   "moveable": {
     "speed": 1.100000023841858
   },
-  "name": "Herbalista Elfo",
+  "name": "Elfo Herborista",
   "persona": {
-    "occupation": "Herbalista"
+    "occupation": "Herbalist"
   },
   "sight": {
     "ignore_infra_penalty": false,

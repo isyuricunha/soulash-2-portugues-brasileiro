@@ -77,9 +77,9 @@
   "moveable": {
     "speed": 0.8999999761581421
   },
-  "name": "Vampiro Esmagador",
+  "name": "Vampiro Maulador",
   "persona": {
-    "occupation": "Esmagador"
+    "occupation": "Mauler"
   },
   "sight": {
     "ignore_infra_penalty": false,

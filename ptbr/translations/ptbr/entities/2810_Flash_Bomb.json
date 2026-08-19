@@ -32,7 +32,7 @@
       15
     ]
   },
-  "description": "Emite uma luz brilhante no impacto, atordoando o alvo. Deve ser magia negra!",
+  "description": "Emite uma luz intensa no impacto, atordoando o alvo. Deve ser magia negra!",
   "glyph": {
     "frames": [
       {
@@ -57,11 +57,12 @@
     133,
     109
   ],
-  "name": "Bomba de Flash",
+  "name": "Bomba Cegante",
   "usable": {
     "ability": "113",
     "recipe": ""
   },
   "value": 500,
-  "weight": 0.20000000298023224
+  "weight": 0.20000000298023224,
+  "feminine_form": true
 }

@@ -6,7 +6,7 @@
     "health": 0,
     "stamina": 8
   },
-  "description": "Esmague o chão à sua frente criando espinhos em linha reta que causam ::damage ::damage_type de dano a cada alvo. Os espinhos são colidíveis e permanecem no mapa até serem destruídos.",
+  "description": "Esmague o chão à sua frente criando espinhos em linha reta que causam ::damage de dano ::damage_type a todos os alvos. Os espinhos são colidíveis e permanecem no mapa até serem destruídos.",
   "duration": 10.0,
   "effects": {
     "damage": [
@@ -23,7 +23,7 @@
   },
   "id": "92",
   "image": 68,
-  "name": "Quebra-Terra",
+  "name": "Quebra-chão",
   "range": 4,
   "skill": "core_2_mace_fighting",
   "slots": {

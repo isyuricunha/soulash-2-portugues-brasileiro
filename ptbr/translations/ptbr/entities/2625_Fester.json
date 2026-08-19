@@ -30,14 +30,14 @@
     "weapon"
   ],
   "corpse": "2631",
-  "description": "Ele está coberto de feridas supurantes. Tenha cuidado, pois você pode se infectar.",
+  "description": "Ele está coberto de feridas purulentas. Cuidado, pois você pode ser infectado.",
   "dialogues": [],
   "equipment": {
     "torso_cloth": [
       {
         "chance": 1.0,
         "id": "23",
-        "name": "Farrapos",
+        "name": "Trapos",
         "stack": 1
       }
     ]
@@ -48,8 +48,8 @@
   },
   "fighter": {
     "attackNames": [
-      "Bite",
-      "Scratch"
+      "Mordida",
+      "Arranhão"
     ]
   },
   "glyph": {
@@ -76,7 +76,7 @@
   "moveable": {
     "speed": 1.100000023841858
   },
-  "name": "Supurar",
+  "name": "Fester",
   "sight": {
     "ignore_infra_penalty": false,
     "infravision": true,

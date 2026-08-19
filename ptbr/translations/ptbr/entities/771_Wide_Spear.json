@@ -33,7 +33,7 @@
       1
     ]
   },
-  "description": "Ponta de espiga larga em um bastão de madeira.",
+  "description": "Ponta larga em um bastão de madeira.",
   "glyph": {
     "frames": [
       {
@@ -76,5 +76,6 @@
     "range": 1,
     "type": 4
   },
-  "weight": 2.0
+  "weight": 2.0,
+  "feminine_form": true
 }

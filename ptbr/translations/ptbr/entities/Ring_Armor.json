@@ -41,7 +41,7 @@
       1
     ]
   },
-  "description": "Malha de anéis de metal costurados em couro.",
+  "description": "Malha de anéis de metal costurada ao couro.",
   "glyph": {
     "frames": [
       {
@@ -68,5 +68,6 @@
   ],
   "name": "Armadura de Anéis",
   "value": 900,
-  "weight": 1.5
+  "weight": 1.5,
+  "feminine_form": true
 }

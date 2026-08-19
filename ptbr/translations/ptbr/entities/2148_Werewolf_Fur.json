@@ -24,7 +24,7 @@
     "value",
     "weight"
   ],
-  "description": "Parece pele de lobo, mas na verdade veio do cabelo de um homem, cortado ao longo de sua cabeça, durante uma lua cheia.",
+  "description": "Parece pele de lobo, mas na verdade veio do cabelo de um homem, cortado junto com a cabeça, durante a lua cheia.",
   "glyph": {
     "frames": [
       {
@@ -51,10 +51,11 @@
   ],
   "name": "Pele de Lobisomem",
   "resource": {
-    "affix": "Rabid",
+    "affix": "Raivoso",
     "magic_ingredient": 0,
     "quality": 4,
-    "type": 9
+    "type": 9,
+    "feminine_affix": "Raivosa"
   },
   "statistics": {
     "dexterity": [
@@ -79,5 +80,6 @@
     ]
   },
   "value": 10000,
-  "weight": 0.10000000149011612
+  "weight": 0.10000000149011612,
+  "feminine_form": true
 }

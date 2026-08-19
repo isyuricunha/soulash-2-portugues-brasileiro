@@ -23,7 +23,7 @@
     "time": 10,
     "tools": []
   },
-  "description": "Aqui jaz Misty. Tivemos que matá-la duas vezes.",
+  "description": "Aqui jaz Misty. Tivemos que matá-la duas vezes. ",
   "glyph": {
     "frames": [
       {
@@ -84,5 +84,6 @@
       ]
     },
     "time": 10
-  }
+  },
+  "feminine_form": true
 }

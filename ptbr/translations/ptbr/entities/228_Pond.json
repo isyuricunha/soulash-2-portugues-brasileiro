@@ -130,5 +130,6 @@
   },
   "water": {
     "swimming": true
-  }
+  },
+  "feminine_form": true
 }

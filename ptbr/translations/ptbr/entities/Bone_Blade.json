@@ -25,7 +25,7 @@
       14
     ]
   },
-  "description": "Um pedaço afiado de osso.",
+  "description": "Um pedaço de osso afiado.",
   "glyph": {
     "frames": [
       {
@@ -68,5 +68,6 @@
     "range": 1,
     "type": 3
   },
-  "weight": 0.699999988079071
+  "weight": 0.699999988079071,
+  "feminine_form": true
 }

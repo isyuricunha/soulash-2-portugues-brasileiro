@@ -22,7 +22,7 @@
     "position_2d"
   ],
   "corpse": "791",
-  "description": "Uma grande estante de livros feita de gelo, cheia de vários livros, pergaminhos e escrituras. Parece que a história do mundo foi cronificada aqui.",
+  "description": "Uma grande estante feita de gelo, cheia de vários livros, pergaminhos e escrituras. Parece que a história do mundo foi registrada aqui.",
   "glyph": {
     "frames": [
       {
@@ -44,5 +44,6 @@
     131,
     77
   ],
-  "name": "Estante de Livros de Gelo"
+  "name": "Estante Gelada",
+  "feminine_form": true
 }

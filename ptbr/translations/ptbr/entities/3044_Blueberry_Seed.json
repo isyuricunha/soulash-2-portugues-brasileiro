@@ -9,7 +9,7 @@
     "value",
     "weight"
   ],
-  "description": "Um dia se tornará um arbusto de mirtilo.",
+  "description": "Crescerá e se tornará um arbusto de mirtilo um dia.",
   "glyph": {
     "frames": [
       {
@@ -36,5 +36,6 @@
   ],
   "name": "Semente de Mirtilo",
   "value": 100,
-  "weight": 0.009999999776482582
+  "weight": 0.009999999776482582,
+  "feminine_form": true
 }

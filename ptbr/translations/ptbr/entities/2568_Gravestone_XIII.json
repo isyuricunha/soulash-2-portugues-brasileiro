@@ -23,7 +23,7 @@
     "time": 10,
     "tools": []
   },
-  "description": "Em memória de Hideki. Gatos não sempre caem em pé, como se descobriu.",
+  "description": "Em memória de Hideki. Gatos nem sempre caem em pé, como se vê.",
   "glyph": {
     "frames": [
       {
@@ -84,5 +84,6 @@
       ]
     },
     "time": 10
-  }
+  },
+  "feminine_form": true
 }

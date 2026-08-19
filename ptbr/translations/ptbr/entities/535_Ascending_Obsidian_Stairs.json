@@ -16,7 +16,7 @@
     "position_2d",
     "producer"
   ],
-  "description": "Blocos de obsidiana esculpidos em uma escadaria que leva para cima.",
+  "description": "Blocos de obsidiana talhados em uma escada que leva para cima.",
   "glyph": {
     "frames": [
       {
@@ -41,7 +41,7 @@
     41,
     58
   ],
-  "name": "Escadas de Obsidiana Ascendentes",
+  "name": "Escada de Obsidiana Ascendente",
   "producer": {
     "products": {
       "core_2_deconstruct": [
@@ -56,5 +56,6 @@
       ]
     },
     "time": 60
-  }
+  },
+  "feminine_form": true
 }

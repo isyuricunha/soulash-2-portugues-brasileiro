@@ -24,7 +24,7 @@
     "weapon",
     "weight"
   ],
-  "description": "Substância viscosada deixada por um fantasma.",
+  "description": "Substância gosmenta deixada por um fantasma.",
   "glyph": {
     "frames": [
       {
@@ -51,10 +51,11 @@
   ],
   "name": "Ectoplasma",
   "resource": {
-    "affix": "of Spirits",
+    "affix": "dos Espíritos",
     "magic_ingredient": 3,
     "quality": 3,
-    "type": 7
+    "type": 7,
+    "feminine_affix": "espiritual"
   },
   "value": 3000,
   "weapon": {

@@ -6,14 +6,14 @@
     "health": 0,
     "stamina": 8
   },
-  "description": "Enquanto caminha durante os próximos ::duration turnos, deixe um ::summon para trás.",
+  "description": "Ao caminhar durante os próximos ::duration turnos, deixe um ::summon para trás.",
   "duration": 6.0,
   "effects_keys": {
     "summon_on_move": "561"
   },
   "id": "191",
   "image": 56,
-  "name": "Trilha de Chamas",
+  "name": "Rastro de Chamas",
   "range": 0,
   "skill": "core_2_pyromancy",
   "slots": {

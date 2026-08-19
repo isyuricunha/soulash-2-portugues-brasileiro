@@ -59,7 +59,7 @@
       6
     ]
   },
-  "description": "Gradeada e suja, emite muito pouca luz.",
+  "description": "Gradeada e suja, deixa passar muito pouca luz.",
   "glyph": {
     "frames": [
       {
@@ -82,7 +82,7 @@
     43,
     10
   ],
-  "name": "Janela Suja com Grades",
+  "name": "Janela Gradeada Suja",
   "producer": {
     "products": {
       "core_2_deconstruct": [
@@ -97,5 +97,6 @@
       ]
     },
     "time": 20
-  }
+  },
+  "feminine_form": true
 }

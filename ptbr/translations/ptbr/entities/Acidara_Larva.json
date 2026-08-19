@@ -23,7 +23,7 @@
     "tags"
   ],
   "corpse": "core_2_Pool_of_Acid",
-  "description": "Larva de acidara. Parece uma grande lagarta verde com protuberâncias vermelhas crescendo em suas costas.",
+  "description": "Filhote de acidara. Parece uma grande lagarta verde com protuberâncias vermelhas crescendo de suas costas.",
   "dialogues": [
     "899"
   ],
@@ -92,5 +92,6 @@
   "tags": [
     "9",
     "18"
-  ]
+  ],
+  "feminine_form": true
 }

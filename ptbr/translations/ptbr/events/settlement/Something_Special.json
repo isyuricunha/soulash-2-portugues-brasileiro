@@ -1,0 +1,85 @@
+{
+  "id": "core_2_something_special",
+  "name": "Algo Especial",
+  "category": "settlement",
+  "flavor": "Uma elfa fashionista está procurando algo realmente sofisticado para vestir.",
+  "icon": 23,
+  "small_icon": 23,
+  "rarity": "uncommon",
+  "restrict_races": [
+    "2"
+  ],
+  "trigger": {
+    "base_probability": 0.004,
+    "conditions": [
+      {
+        "type": "settlement_population_min",
+        "value": 30
+      },
+      {
+        "type": "settlement_tier_min",
+        "value": 1
+      },
+      {
+        "type": "min_unemployed",
+        "value": 1
+      }
+    ]
+  },
+  "duration": {
+    "type": "temporary",
+    "days": [
+      30,
+      45
+    ]
+  },
+  "effects": [
+    {
+      "type": "spawn_group",
+      "amount": [
+        1,
+        1
+      ],
+      "group_type": "settlement",
+      "entity": "core_2_Elf_Fashionista",
+      "border_color": [
+        170,
+        128,
+        192
+      ]
+    }
+  ],
+  "extra_dialogues": [
+    "core_2_something_special"
+  ],
+  "interactions": [
+    {
+      "type": "conversation",
+      "id": "core_2_deliver_linen",
+      "translation_id": 0,
+      "required_ingredients": [
+        {
+          "id": "300",
+          "amount": 10
+        }
+      ],
+      "entities": [
+        "core_2_Elf_Fashionista"
+      ],
+      "label": "Entregue o item solicitado.",
+      "reward": {
+        "gold": 50,
+        "skill_id": "core_2_tailoring",
+        "exp": 20,
+        "remove_event": true
+      },
+      "history_event": "::name entregou as mercadorias solicitadas a uma elfa fashionista!",
+      "announcement": "Você entregou as mercadorias solicitadas à elfa fashionista de ::settlement!"
+    }
+  ],
+  "history_events": {
+    "begin": "Uma elfa fashionista está procurando algo especial para vestir em ::settlement.",
+    "success": "Uma elfa fashionista agora pode deslumbrar com um novo visual.",
+    "failure": "Uma elfa fashionista terá de ficar sem a última moda."
+  }
+}

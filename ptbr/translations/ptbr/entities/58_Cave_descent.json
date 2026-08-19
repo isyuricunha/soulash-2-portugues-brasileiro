@@ -15,7 +15,7 @@
     "name",
     "position_2d"
   ],
-  "description": "O chão entra em uma descida íngreme aqui, mostrando passagem para mais profundo no subsolo.",
+  "description": "O terreno desce íngreme aqui, revelando uma passagem mais profunda no subsolo.",
   "glyph": {
     "frames": [
       {
@@ -40,5 +40,6 @@
     78,
     77
   ],
-  "name": "Descida da Caverna"
+  "name": "Descida de Caverna",
+  "feminine_form": true
 }

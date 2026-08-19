@@ -44,7 +44,7 @@
       15
     ]
   },
-  "description": "Surpreendentemente, não foram os anões que descobriram a existência do adamantium, mas o mundo ficou sabendo dele através de uma invasão dos demônios nativos vivendo nas profundezas de um inferno de lava.",
+  "description": "Surpreendentemente, não foram os anões que descobriram a existência da adamantina, mas o mundo ficou sabendo dela através de uma invasão dos demônios nativos que vivem nas profundezas de um inferno de lava.",
   "glyph": {
     "frames": [
       {
@@ -69,7 +69,7 @@
     74,
     68
   ],
-  "name": "Minério de Adamantio",
+  "name": "Minério de Adamantita",
   "resource": {
     "affix": "",
     "magic_ingredient": 0,

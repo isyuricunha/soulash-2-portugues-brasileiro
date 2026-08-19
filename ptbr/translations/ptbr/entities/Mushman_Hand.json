@@ -21,7 +21,7 @@
     "weapon",
     "weight"
   ],
-  "description": "Uma mão sem vida de um mushman morto.",
+  "description": "Uma mão inanimada de um homem-cogumelo morto.",
   "glyph": {
     "frames": [
       {
@@ -46,7 +46,7 @@
     160,
     161
   ],
-  "name": "Mão de Mushman",
+  "name": "Mão de Homem-Cogumelo",
   "weapon": {
     "attack_speed": 1.0,
     "critical_hit": 0.0,
@@ -63,5 +63,6 @@
     "range": 1,
     "type": 6
   },
-  "weight": 2.0
+  "weight": 2.0,
+  "feminine_form": true
 }

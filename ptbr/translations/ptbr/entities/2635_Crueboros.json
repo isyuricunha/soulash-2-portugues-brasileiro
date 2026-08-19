@@ -33,7 +33,7 @@
     "weapon"
   ],
   "corpse": "2641",
-  "description": "Uma grande criatura viscosa que habita cavernas escuras. Ele tem visão pobre e é guiado por seu olfato e audição.",
+  "description": "Uma criatura grande e viscosa que habita cavernas escuras. Ele tem visão ruim e é guiado pelo olfato e audição.",
   "dialogues": [
     "726",
     "895"
@@ -67,8 +67,8 @@
   },
   "fighter": {
     "attackNames": [
-      "Scratch",
-      "Bite"
+      "Arranhão",
+      "Mordida"
     ]
   },
   "glyph": {

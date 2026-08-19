@@ -10,7 +10,7 @@
     "value",
     "weight"
   ],
-  "description": "Um corpo sem vida de um lemingue.",
+  "description": "Um corpo sem vida de um lemming.",
   "glyph": {
     "frames": [
       {
@@ -39,7 +39,7 @@
     140,
     143
   ],
-  "name": "Cadáver de Lemingue",
+  "name": "Cadáver de Lemming",
   "producer": {
     "products": {
       "3": [

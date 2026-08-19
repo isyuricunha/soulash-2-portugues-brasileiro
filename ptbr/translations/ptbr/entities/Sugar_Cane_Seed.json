@@ -9,7 +9,7 @@
     "value",
     "weight"
   ],
-  "description": "Vai crescer em cana-de-açúcar um dia.",
+  "description": "Um dia crescerá e se tornará cana-de-açúcar.",
   "glyph": {
     "frames": [
       {
@@ -34,7 +34,8 @@
     73,
     73
   ],
-  "name": "Semente de Cana-de-Açúcar",
+  "name": "Semente de Cana-de-açúcar",
   "value": 150,
-  "weight": 0.019999999552965164
+  "weight": 0.019999999552965164,
+  "feminine_form": true
 }

@@ -43,8 +43,8 @@
   },
   "fighter": {
     "attackNames": [
-      "Slam",
-      "Tendril"
+      "Esmagar",
+      "Tentáculo"
     ]
   },
   "glyph": {
@@ -71,7 +71,7 @@
   "moveable": {
     "speed": 1.0
   },
-  "name": "Veio de Água-Marinha Animado",
+  "name": "Veio de Água-marinha Animado",
   "sight": {
     "ignore_infra_penalty": false,
     "infravision": true,

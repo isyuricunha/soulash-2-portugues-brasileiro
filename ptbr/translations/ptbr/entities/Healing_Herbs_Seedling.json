@@ -34,7 +34,7 @@
     "time": 20,
     "tools": []
   },
-  "description": "Ervas de cura jovens e crescentes com suas primeiras folhas verdes.",
+  "description": "Ervas curativas jovens e crescendo, com suas primeiras folhas verdes.",
   "glyph": {
     "frames": [
       {
@@ -55,7 +55,7 @@
     73,
     73
   ],
-  "name": "Muda de Ervas Medicinais",
+  "name": "Muda de Ervas Curativas",
   "random_resource": {
     "delay_spawn": true,
     "entity": [
@@ -73,5 +73,6 @@
     "spawn_chance": 100.0,
     "spawn_multiply": 0.0,
     "spawn_rolls": 1
-  }
+  },
+  "feminine_form": true
 }

@@ -79,9 +79,9 @@
   "moveable": {
     "speed": 1.100000023841858
   },
-  "name": "Reptilion Oleiro",
+  "name": "Oleiro Reptilion",
   "persona": {
-    "occupation": "Oleiro"
+    "occupation": "Potter"
   },
   "sight": {
     "ignore_infra_penalty": false,

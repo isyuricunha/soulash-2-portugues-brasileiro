@@ -42,7 +42,7 @@
       {
         "chance": 1.0,
         "id": "core_2_Bone_Warpick",
-        "name": "Picareta de Guerra de Osso",
+        "name": "Pico de Guerra de Osso",
         "stack": 1
       }
     ]
@@ -81,9 +81,9 @@
   "moveable": {
     "speed": 1.2000000476837158
   },
-  "name": "Esqueleto Quebra-Gelo",
+  "name": "Quebra-gelo Esqueleto",
   "persona": {
-    "occupation": "Quebra-Gelo"
+    "occupation": "Ice Breaker"
   },
   "sight": {
     "ignore_infra_penalty": false,

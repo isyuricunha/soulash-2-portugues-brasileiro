@@ -62,5 +62,6 @@
   ],
   "name": "Luvas de Placas",
   "value": 10000,
-  "weight": 4.0
+  "weight": 4.0,
+  "feminine_form": true
 }

@@ -51,10 +51,11 @@
   ],
   "name": "Seda de Lótus",
   "resource": {
-    "affix": "Lotus Silk",
+    "affix": "Seda de Lótus",
     "magic_ingredient": 0,
     "quality": 4,
-    "type": 4
+    "type": 4,
+    "feminine_affix": "Seda de Lótus"
   },
   "statistics": {
     "dexterity": [
@@ -79,5 +80,6 @@
     ]
   },
   "value": 15000,
-  "weight": 0.10000000149011612
+  "weight": 0.10000000149011612,
+  "feminine_form": true
 }

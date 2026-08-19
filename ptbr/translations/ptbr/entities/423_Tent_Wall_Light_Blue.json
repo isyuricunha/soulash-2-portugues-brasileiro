@@ -47,7 +47,7 @@
     "time": 2,
     "tools": []
   },
-  "description": "Parede de uma tenda feita de um material. Pode esconder bens de olhos curiosos e uma pessoa do sol escaldante.",
+  "description": "Parede de barraca feita de um material. Pode proteger mercadorias de olhares curiosos e uma pessoa do sol escaldante.",
   "glyph": {
     "frames": [
       {
@@ -79,7 +79,7 @@
     120,
     120
   ],
-  "name": "Parede de Tenda Azul Claro",
+  "name": "Parede de Barraca Azul Claro",
   "producer": {
     "products": {
       "core_2_deconstruct": [
@@ -94,5 +94,6 @@
       ]
     },
     "time": 20
-  }
+  },
+  "feminine_form": true
 }

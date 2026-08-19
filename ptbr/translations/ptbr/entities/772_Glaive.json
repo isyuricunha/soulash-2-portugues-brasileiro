@@ -29,7 +29,7 @@
       1
     ]
   },
-  "description": "Uma arma de haste muito longa com uma lâmina de sabre no topo de um bastão.",
+  "description": "Uma arma de haste muito longa com uma lâmina de Sabre no topo de um bastão.",
   "glyph": {
     "frames": [
       {
@@ -72,5 +72,6 @@
     "range": 1,
     "type": 4
   },
-  "weight": 2.5
+  "weight": 2.5,
+  "feminine_form": true
 }

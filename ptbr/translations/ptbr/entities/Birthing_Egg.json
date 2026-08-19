@@ -7,7 +7,7 @@
     "name",
     "position_2d"
   ],
-  "description": "É um ovo escuro enorme plantado no chão. Parece perturbador com suas veias que pulsam ritmicamente. Como se o próprio ovo estivesse vivo.",
+  "description": "É um enorme ovo escuro enterrado no solo. Parece perturbador com suas veias que pulsam ritmicamente. Como se o próprio ovo estivesse vivo.",
   "glyph": {
     "frames": [
       {
@@ -28,5 +28,5 @@
     111,
     146
   ],
-  "name": "Ovo de Nascimento"
+  "name": "Ovo Gestante"
 }

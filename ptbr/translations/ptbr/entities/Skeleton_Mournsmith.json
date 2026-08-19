@@ -80,9 +80,9 @@
   "moveable": {
     "speed": 1.0
   },
-  "name": "Esqueleto Forjador de Mágoas",
+  "name": "Esqueleto Ferreiro do Luto",
   "persona": {
-    "occupation": "Forjador de Mágoas"
+    "occupation": "Mournsmith"
   },
   "sight": {
     "ignore_infra_penalty": false,

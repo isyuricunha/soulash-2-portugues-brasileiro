@@ -1,0 +1,46 @@
+{
+  "components": [
+    "glyph",
+    "item",
+    "minimap_pixel",
+    "name",
+    "position_2d",
+    "tool",
+    "value",
+    "weight"
+  ],
+  "description": "Este conjunto de xícaras e pires delicados parece que vai se desmanchar só de ser olhado.",
+  "glyph": {
+    "frames": [
+      {
+        "color": [
+          255,
+          255,
+          255
+        ],
+        "delay": 0,
+        "index": 3459
+      }
+    ],
+    "random_frame_start": false
+  },
+  "id": "core_2_Porcelain_Set",
+  "item": {
+    "image": 1540,
+    "type": 13
+  },
+  "minimap_pixel": [
+    156,
+    160,
+    161
+  ],
+  "name": "Conjunto de Porcelana",
+  "tool": [
+    {
+      "id": 3,
+      "quality": 10
+    }
+  ],
+  "value": 2000,
+  "weight": 2.0
+}

@@ -1,6 +1,6 @@
 {
   "id": "core_2_smesh",
-  "name": "Esmagamento",
+  "name": "Smesh",
   "requirements": {
     "skill": 50
   },

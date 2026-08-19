@@ -51,10 +51,11 @@
   ],
   "name": "Âmbar",
   "resource": {
-    "affix": "Amber",
+    "affix": "Âmbar",
     "magic_ingredient": 0,
     "quality": 1,
-    "type": 8
+    "type": 8,
+    "feminine_affix": "âmbar"
   },
   "value": 1200,
   "weapon": {

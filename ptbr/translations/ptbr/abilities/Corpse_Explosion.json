@@ -7,7 +7,7 @@
     "item_type": 18,
     "stamina": 10
   },
-  "description": "Explode o cadáver do alvo causando ::damage de dano ::damage_type em ::aoe_range células ao redor do alvo selecionado.",
+  "description": "Explode o cadáver alvo causando ::damage de dano ::damage_type em ::aoe_range tiles ao redor do alvo selecionado.",
   "duration": 0.0,
   "effects": {
     "aoe_break": 1,

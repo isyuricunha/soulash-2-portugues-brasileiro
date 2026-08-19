@@ -6,7 +6,7 @@
     "health": 0,
     "stamina": 4
   },
-  "description": "Cipós crescem da terra para imobilizar o alvo e causar ::damage de dano ::damage_type. O efeito de imobilização é bem-sucedido em uma verificação oposta da força de vontade do conjurador vs a força do defensor.",
+  "description": "Vinhas crescem da terra para imobilizar o alvo e causar ::damage de dano ::damage_type. O efeito de imobilizaçăo tem sucesso em um teste oposto de vontade do conjurador contra a força do defensor.",
   "duration": 2.0,
   "effects": {
     "damage": [

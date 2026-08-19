@@ -9,7 +9,7 @@
     "value",
     "weight"
   ],
-  "description": "Pequenas e fedidas fezes de rato.",
+  "description": "Pequenas fezes fedorentas de rato.",
   "glyph": {
     "frames": [
       {
@@ -36,5 +36,6 @@
   ],
   "name": "Fezes de Rato",
   "value": 100,
-  "weight": 0.10000000149011612
+  "weight": 0.10000000149011612,
+  "feminine_form": true
 }

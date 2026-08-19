@@ -46,7 +46,7 @@
     "weapon"
   ],
   "corpse": "core_2_Lesser_Demon_Corpse",
-  "description": "Uma figura repugnante e retorcida que parece estar queimando por dentro.",
+  "description": "Uma figura nojenta e retorcida que parece estar queimando por dentro.",
   "dialogues": [
     "994"
   ],
@@ -55,7 +55,7 @@
       {
         "chance": 1.0,
         "id": "2176",
-        "name": "Tanga",
+        "name": "tapa-sexo",
         "stack": 1
       }
     ]
@@ -66,7 +66,7 @@
   },
   "fighter": {
     "attackNames": [
-      "Hellish Punch"
+      "Soco Infernal"
     ]
   },
   "glyph": {

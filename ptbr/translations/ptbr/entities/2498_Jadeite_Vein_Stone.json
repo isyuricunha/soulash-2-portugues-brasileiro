@@ -33,7 +33,7 @@
     "producer"
   ],
   "corpse": [],
-  "description": "Um veio de jadeíta na parede de pedra.",
+  "description": "Um veio de jadeíta em uma parede de pedra.",
   "glyph": {
     "frames": [
       {
@@ -56,7 +56,7 @@
     89,
     23
   ],
-  "name": "Veio de Jadeíta em Pedra",
+  "name": "Pedra de Veio de Jadeíta",
   "producer": {
     "products": {
       "5": [
@@ -71,5 +71,6 @@
       ]
     },
     "time": 70
-  }
+  },
+  "feminine_form": true
 }

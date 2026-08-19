@@ -33,7 +33,7 @@
     "producer"
   ],
   "corpse": [],
-  "description": "Um veio de gema de rubi na parede de pedra.",
+  "description": "Um veio de gema de rubi em parede de pedra.",
   "glyph": {
     "frames": [
       {
@@ -56,7 +56,7 @@
     10,
     8
   ],
-  "name": "Veio de Rubi em Pedra",
+  "name": "Pedra com Veio de Rubi",
   "producer": {
     "products": {
       "5": [
@@ -71,5 +71,6 @@
       ]
     },
     "time": 30
-  }
+  },
+  "feminine_form": true
 }

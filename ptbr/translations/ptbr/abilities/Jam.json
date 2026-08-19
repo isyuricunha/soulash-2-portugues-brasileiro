@@ -6,7 +6,7 @@
     "health": 0,
     "stamina": 0
   },
-  "description": "A geleia aumenta sua regeneração de vida em ::regeneration.",
+  "description": "Geléia aumenta sua regeneração de vida em ::regeneration.",
   "duration": 600.0,
   "effects": {
     "regeneration": 3.0

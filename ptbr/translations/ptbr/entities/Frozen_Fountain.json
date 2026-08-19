@@ -6,7 +6,7 @@
     "name",
     "position_2d"
   ],
-  "description": "Água congelada em pleno fluxo. Você pode ver um pequeno peixe suspenso no gelo.",
+  "description": "A água está congelada em meio ao fluxo. Você pode ver um pequeno peixe suspenso no gelo.",
   "glyph": {
     "frames": [
       {
@@ -31,5 +31,6 @@
     122,
     150
   ],
-  "name": "Fonte Congelada"
+  "name": "Fonte Congelada",
+  "feminine_form": true
 }

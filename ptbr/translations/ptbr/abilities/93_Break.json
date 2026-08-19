@@ -6,7 +6,7 @@
     "health": 0,
     "stamina": 6
   },
-  "description": "Causa ::damage ::damage_type de dano a objetos inanimados.",
+  "description": "Causa ::damage de dano ::damage_type a objeto inanimado.",
   "duration": 0.0,
   "effects": {
     "damage": [

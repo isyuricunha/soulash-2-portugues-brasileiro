@@ -5,7 +5,7 @@
     "health": 0,
     "stamina": 4
   },
-  "description": "Cuspa em um inimigo causando ::damage de ::damage_type de dano",
+  "description": "Cuspa em um inimigo causando ::damage ::damage_type de dano",
   "duration": 0,
   "effects": {
     "damage": [

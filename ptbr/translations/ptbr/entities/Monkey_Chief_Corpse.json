@@ -10,7 +10,7 @@
     "value",
     "weight"
   ],
-  "description": "Um corpo sem vida de um chefe macaco.",
+  "description": "Um corpo sem vida de um chefe dos macacos.",
   "glyph": {
     "frames": [
       {
@@ -39,7 +39,7 @@
     102,
     57
   ],
-  "name": "Cadáver de Chefe Macaco",
+  "name": "Cadáver de Chefe dos Macacos",
   "producer": {
     "products": {
       "3": [

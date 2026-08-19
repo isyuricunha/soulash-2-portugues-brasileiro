@@ -7,7 +7,7 @@
     "position_2d"
   ],
   "corpse": [],
-  "description": "Um pouco sujo e claramente amado.",
+  "description": "Um pouco suja e claramente amada.",
   "glyph": {
     "frames": [
       {
@@ -38,5 +38,6 @@
     110,
     42
   ],
-  "name": "Boneca de Pano"
+  "name": "Boneca de Trapo",
+  "feminine_form": true
 }

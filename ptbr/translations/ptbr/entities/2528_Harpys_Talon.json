@@ -24,7 +24,7 @@
     "weapon",
     "weight"
   ],
-  "description": "Uma garra afiada e mortal serve como símbolo dos monstros traiçoeiros que vagam pelos céus.",
+  "description": "Uma garra afiada como navalha e mortal serve como símbolo dos monstros traiçoeiros que vagueiam pelos céus.",
   "glyph": {
     "frames": [
       {
@@ -49,12 +49,13 @@
     109,
     155
   ],
-  "name": "Garra de Harpia",
+  "name": "Garra da Harpia",
   "resource": {
-    "affix": "Tempting",
+    "affix": "Tentador",
     "magic_ingredient": 0,
     "quality": 3,
-    "type": 5
+    "type": 5,
+    "feminine_affix": "Tentadora"
   },
   "value": 2200,
   "weapon": {
@@ -67,5 +68,6 @@
     "range": 0,
     "type": 9
   },
-  "weight": 0.10000000149011612
+  "weight": 0.10000000149011612,
+  "feminine_form": true
 }

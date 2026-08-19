@@ -31,7 +31,7 @@
     "tags"
   ],
   "corpse": "2164",
-  "description": "Um morador de caverna primitivo e viscoso. Ele tem um olfato aguçado e enxerga muito bem no escuro. Sua pele é verde suja.",
+  "description": "Um habitante de caverna viscoso e primitivo. Ele tem um olfato aguçado e enxerga muito bem no escuro. Sua pele é verde suja.",
   "dialogues": [
     "44",
     "45"
@@ -57,7 +57,7 @@
       {
         "chance": 1.0,
         "id": "23",
-        "name": "Farrapos",
+        "name": "Farrapas",
         "stack": 1
       }
     ]

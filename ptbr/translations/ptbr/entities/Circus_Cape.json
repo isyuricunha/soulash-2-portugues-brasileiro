@@ -47,7 +47,7 @@
       14
     ]
   },
-  "description": "Uma capa de mestre de cerimônias de circo, toda em preto e branco.",
+  "description": "Uma capa de mestre de circo, toda em preto e branco.",
   "glyph": {
     "frames": [
       {
@@ -74,5 +74,6 @@
   ],
   "name": "Capa de Circo",
   "value": 20000,
-  "weight": 4.0
+  "weight": 4.0,
+  "feminine_form": true
 }

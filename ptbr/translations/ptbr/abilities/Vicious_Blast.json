@@ -6,7 +6,7 @@
     "health": 0,
     "stamina": 4
   },
-  "description": "Um cone de energia que causa ::damage de dano ::damage_type a todos em seu caminho e os puxa em direção ao conjurador.",
+  "description": " Um cone de energia que causa ::damage ::damage_type de dano a todos em seu caminho e os puxa para o conjurador.",
   "duration": 0.0,
   "effects": {
     "aoe_break": 6,

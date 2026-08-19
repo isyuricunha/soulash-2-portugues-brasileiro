@@ -35,7 +35,7 @@
     "weapon"
   ],
   "corpse": "2730",
-  "description": "Geada cobre suas roupas.",
+  "description": "A Geada está cobrindo as roupas dela.",
   "dialogues": [
     "622",
     "623"
@@ -45,7 +45,7 @@
       {
         "chance": 1.0,
         "id": "2441",
-        "name": "Raiz de Bruxa",
+        "name": "Raiz de Megera",
         "stack": 1
       }
     ],
@@ -61,7 +61,7 @@
       {
         "chance": 1.0,
         "id": "339",
-        "name": "Cajado da Bruxa",
+        "name": "Cajado de Bruxa",
         "stack": 1
       }
     ],
@@ -80,7 +80,7 @@
   },
   "fighter": {
     "attackNames": [
-      "Frost Hand"
+      "Mão de Geada"
     ]
   },
   "gender": "female",
@@ -111,7 +111,7 @@
   "moveable": {
     "speed": 1.0
   },
-  "name": "Bruxa de Gelo",
+  "name": "Bruxa do Gelo",
   "sight": {
     "ignore_infra_penalty": false,
     "infravision": false,
@@ -164,5 +164,6 @@
     "parry_bonus": 0,
     "range": 1,
     "type": 1
-  }
+  },
+  "feminine_form": true
 }

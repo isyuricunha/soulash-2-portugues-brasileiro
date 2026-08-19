@@ -45,7 +45,7 @@
     "time": 20,
     "tools": []
   },
-  "description": "Coqueiro muito jovem.",
+  "description": "Uma palmeira de coco muito jovem.",
   "glyph": {
     "frames": [
       {
@@ -112,7 +112,7 @@
     93,
     40
   ],
-  "name": "Muda de Coqueiro",
+  "name": "Muda de Palmeira de Coco",
   "random_resource": {
     "delay_spawn": true,
     "entity": [
@@ -130,5 +130,6 @@
     "spawn_chance": 100.0,
     "spawn_multiply": 0.0,
     "spawn_rolls": 1
-  }
+  },
+  "feminine_form": true
 }

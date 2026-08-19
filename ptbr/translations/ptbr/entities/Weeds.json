@@ -7,7 +7,7 @@
     "position_2d"
   ],
   "corpse": [],
-  "description": "Apenas algumas ervas daninhas crescendo na natureza.",
+  "description": "Apenas ervas daninhas crescendo na natureza.",
   "glyph": {
     "frames": [
       {
@@ -38,5 +38,6 @@
     108,
     64
   ],
-  "name": "Ervas Daninhas"
+  "name": "Ervas Daninhas",
+  "feminine_form": true
 }

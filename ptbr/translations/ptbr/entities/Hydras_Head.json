@@ -52,7 +52,7 @@
   },
   "fighter": {
     "attackNames": [
-      "Bite"
+      "Mordida"
     ]
   },
   "glyph": {
@@ -131,5 +131,6 @@
     "parry_bonus": 0,
     "range": 1,
     "type": 0
-  }
+  },
+  "feminine_form": true
 }

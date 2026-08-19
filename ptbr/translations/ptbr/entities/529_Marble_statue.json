@@ -39,7 +39,7 @@
       6
     ]
   },
-  "description": "Estátua feita de mármore preservando a imagem de uma pessoa há muito desaparecida.",
+  "description": "Estátua feita de mármore preservando a imagem de uma pessoa há muito perdida.",
   "glyph": {
     "frames": [
       {
@@ -77,5 +77,6 @@
       ]
     },
     "time": 40
-  }
+  },
+  "feminine_form": true
 }

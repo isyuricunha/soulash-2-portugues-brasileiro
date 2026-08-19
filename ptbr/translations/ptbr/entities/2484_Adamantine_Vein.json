@@ -33,7 +33,7 @@
     "producer"
   ],
   "corpse": [],
-  "description": "Um veio de minério de adamantio.",
+  "description": "Uma veia de minério de adamantina.",
   "glyph": {
     "frames": [
       {
@@ -56,7 +56,7 @@
     72,
     29
   ],
-  "name": "Veio de Adamantio",
+  "name": "Veia de Adamantina",
   "producer": {
     "products": {
       "5": [
@@ -71,5 +71,6 @@
       ]
     },
     "time": 60
-  }
+  },
+  "feminine_form": true
 }

@@ -33,7 +33,7 @@
       15
     ]
   },
-  "description": "Um pequeno enfeite em forma de lanterna. Até suas chamas parecem congeladas.",
+  "description": "Um pequeno bibelô em forma de lanterna. Até suas chamas parecem congeladas.",
   "glyph": {
     "frames": [
       {
@@ -60,10 +60,11 @@
   ],
   "name": "Luz Congelada",
   "resource": {
-    "affix": "of the Cold Light",
+    "affix": "da Luz Fria",
     "magic_ingredient": 1,
     "quality": 1,
-    "type": 7
+    "type": 7,
+    "feminine_affix": "fria"
   },
   "value": 700,
   "weapon": {
@@ -82,5 +83,6 @@
     "range": 0,
     "type": 9
   },
-  "weight": 0.10000000149011612
+  "weight": 0.10000000149011612,
+  "feminine_form": true
 }

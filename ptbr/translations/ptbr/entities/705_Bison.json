@@ -38,7 +38,7 @@
     "tags"
   ],
   "corpse": "706",
-  "description": "Este animal massivo geralmente permanece dócil se não for ameaçado.",
+  "description": "Este animal imenso geralmente permanece dócil se não for ameaçado.",
   "dialogues": [
     "904"
   ],
@@ -70,8 +70,8 @@
   },
   "fighter": {
     "attackNames": [
-      "Bite",
-      "Horns"
+      "Mordida",
+      "Chifres"
     ]
   },
   "glyph": {
@@ -98,7 +98,7 @@
   "moveable": {
     "speed": 1.2000000476837158
   },
-  "name": "Bisonte",
+  "name": "Bisão",
   "sight": {
     "ignore_infra_penalty": false,
     "infravision": false,

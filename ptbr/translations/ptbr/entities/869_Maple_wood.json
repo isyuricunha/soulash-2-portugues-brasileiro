@@ -51,10 +51,11 @@
   ],
   "name": "Madeira de Bordo",
   "resource": {
-    "affix": "Maple",
+    "affix": "de Bordo",
     "magic_ingredient": 0,
     "quality": 1,
-    "type": 3
+    "type": 3,
+    "feminine_affix": "borda"
   },
   "value": 200,
   "weapon": {
@@ -67,5 +68,6 @@
     "range": 1,
     "type": 9
   },
-  "weight": 0.10000000149011612
+  "weight": 0.10000000149011612,
+  "feminine_form": true
 }

@@ -32,7 +32,7 @@
     "weapon"
   ],
   "corpse": "2776",
-  "description": "Poderia ser valioso se não estivesse tentando te matar.",
+  "description": "Poderia ser valioso se não estivesse tentando te matar. ",
   "dialogues": [
     "596",
     "597"
@@ -43,8 +43,8 @@
   },
   "fighter": {
     "attackNames": [
-      "Slam",
-      "Golden Tendril"
+      "Impacto",
+      "Tentáculo Dourado"
     ]
   },
   "glyph": {

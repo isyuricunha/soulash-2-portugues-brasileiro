@@ -6,7 +6,7 @@
     "position_2d",
     "stackable"
   ],
-  "description": "Nenhuma magia de fogo além deste sinal!",
+  "description": "Nenhuma magia de fogo além desta placa!",
   "glyph": {
     "frames": [
       {
@@ -27,5 +27,6 @@
     153,
     137
   ],
-  "name": "Faixa de Aviso"
+  "name": "Faixa de Aviso",
+  "feminine_form": true
 }

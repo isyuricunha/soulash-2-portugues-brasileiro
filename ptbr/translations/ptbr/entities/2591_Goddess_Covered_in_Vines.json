@@ -39,7 +39,7 @@
     "time": 120,
     "tools": []
   },
-  "description": "Estátua feita de pedra preservando a imagem de uma deusa esquecida. As vinhas tomam a forma de letras que dizem: \"Não há deuses além das Damas dos Bosques.\"",
+  "description": "Estátua feita de pedra preservando a imagem de uma deusa esquecida. As vinhas tomam a forma de letras que dizem: “Não há deuses senão as Damas da Floresta.”",
   "glyph": {
     "frames": [
       {
@@ -80,5 +80,6 @@
     80,
     80
   ],
-  "name": "Deusa Coberta por Vinhas"
+  "name": "Deusa Coberta de Vinhas",
+  "feminine_form": true
 }

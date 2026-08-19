@@ -6,7 +6,7 @@
     "health": 0,
     "stamina": 6
   },
-  "description": "Esta habilidade inflige medo em um único alvo por ::duration turnos. O medo é determinado por uma verificação de força de vontade oposta. Se bem-sucedido, o alvo fugirá o mais rápido possível.",
+  "description": "Esta habilidade inflige medo a um único alvo por ::duration turnos. O medo é determinado por um teste de força de vontade oposto. Se bem-sucedido, o alvo fugirá o mais rápido que puder.",
   "duration": 3.0,
   "effects": {
     "fear": 1

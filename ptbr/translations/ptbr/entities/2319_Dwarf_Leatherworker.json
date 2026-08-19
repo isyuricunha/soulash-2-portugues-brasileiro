@@ -40,7 +40,7 @@
       {
         "chance": 1.0,
         "id": "164",
-        "name": "Tesoura",
+        "name": "Flecha",
         "stack": 1
       }
     ]
@@ -79,9 +79,9 @@
   "moveable": {
     "speed": 1.0
   },
-  "name": "Anão Courador",
+  "name": "Anão Curtidor",
   "persona": {
-    "occupation": "Courador"
+    "occupation": "Leatherworker"
   },
   "sight": {
     "ignore_infra_penalty": false,

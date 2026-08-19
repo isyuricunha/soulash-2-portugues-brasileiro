@@ -25,7 +25,7 @@
     "weapon",
     "weight"
   ],
-  "description": "Um tipo de madeira muito macia e flexível.",
+  "description": "Uma madeira muito macia e flexível.",
   "glyph": {
     "frames": [
       {
@@ -50,12 +50,13 @@
     74,
     81
   ],
-  "name": "Madeira de Avelã",
+  "name": "Madeira de Avelaneira",
   "resource": {
-    "affix": "Hazelnut",
+    "affix": "Avelã",
     "magic_ingredient": 0,
     "quality": 3,
-    "type": 3
+    "type": 3,
+    "feminine_affix": "avelã"
   },
   "statistics": {
     "dexterity": [
@@ -96,5 +97,6 @@
     "range": 0,
     "type": 9
   },
-  "weight": 0.10000000149011612
+  "weight": 0.10000000149011612,
+  "feminine_form": true
 }

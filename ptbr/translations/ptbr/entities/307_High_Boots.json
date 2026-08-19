@@ -36,7 +36,7 @@
       14
     ]
   },
-  "description": "Essas botas sexy chegam até os joelhos.",
+  "description": "Essas botas sensuais vão até os joelhos.",
   "glyph": {
     "frames": [
       {
@@ -63,5 +63,6 @@
   ],
   "name": "Botas Altas",
   "value": 2200,
-  "weight": 1.5
+  "weight": 1.5,
+  "feminine_form": true
 }

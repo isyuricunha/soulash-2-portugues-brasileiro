@@ -23,7 +23,7 @@
     "value",
     "weight"
   ],
-  "description": "Uma madeira bonita e naturalmente lisa.",
+  "description": "Uma bela madeira, naturalmente lisa.",
   "glyph": {
     "frames": [
       {
@@ -50,11 +50,13 @@
   ],
   "name": "Madeira de Acácia",
   "resource": {
-    "affix": "Acacia",
+    "affix": "Acácia",
     "magic_ingredient": 0,
     "quality": 1,
-    "type": 3
+    "type": 3,
+    "feminine_affix": "acácia"
   },
   "value": 400,
-  "weight": 0.10000000149011612
+  "weight": 0.10000000149011612,
+  "feminine_form": true
 }

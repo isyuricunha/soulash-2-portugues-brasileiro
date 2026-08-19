@@ -30,7 +30,7 @@
       2
     ]
   },
-  "description": "Biscoito delicioso em forma humanoide.",
+  "description": "Biscoito delicioso em formato humanoide.",
   "food": {
     "nutrition": 90,
     "on_eat": "core_2_Gingerbread",
@@ -60,7 +60,7 @@
     78,
     54
   ],
-  "name": "Pão de Gengibre",
+  "name": "Biscoito de Gengibre",
   "value": 1000,
   "weight": 0.10000000149011612
 }

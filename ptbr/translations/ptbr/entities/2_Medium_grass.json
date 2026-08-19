@@ -44,7 +44,7 @@
     "time": 5,
     "tools": []
   },
-  "description": "Eu gostaria de poder me deitar aqui por um momento.",
+  "description": "Gostaria de poder me deitar aqui por um momento.",
   "glyph": {
     "frames": [
       {
@@ -93,5 +93,6 @@
     39,
     13
   ],
-  "name": "Grama Média"
+  "name": "Grama Média",
+  "feminine_form": true
 }

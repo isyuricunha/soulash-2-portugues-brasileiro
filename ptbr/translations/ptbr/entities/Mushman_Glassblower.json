@@ -39,7 +39,7 @@
       {
         "chance": 1.0,
         "id": "23",
-        "name": "Farrapos",
+        "name": "Trapos",
         "stack": 1
       }
     ]
@@ -78,9 +78,9 @@
   "moveable": {
     "speed": 1.2999999523162842
   },
-  "name": "Soprador de Vidro Mushman",
+  "name": "Homem-Cogumelo Vidreiro",
   "persona": {
-    "occupation": "Soprador de Vidro"
+    "occupation": "Glassblower"
   },
   "sight": {
     "ignore_infra_penalty": false,

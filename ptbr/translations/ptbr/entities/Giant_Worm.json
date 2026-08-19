@@ -82,7 +82,7 @@
     "weapon"
   ],
   "corpse": "core_2_Giant_Worm_Corpse",
-  "description": "Esta minhoca gigante se contorce pela areia como se fosse o rei do deserto.",
+  "description": "Este enorme verme se contorce pela areia como se fosse o rei do deserto.",
   "dialogues": [
     "1031"
   ],
@@ -92,7 +92,7 @@
   },
   "fighter": {
     "attackNames": [
-      "Bite"
+      "Mordida"
     ]
   },
   "glyph": {
@@ -119,7 +119,7 @@
   "moveable": {
     "speed": 0.800000011920929
   },
-  "name": "Minhoca Gigante",
+  "name": "Verme Gigante",
   "random_resource": {
     "delay_spawn": false,
     "entity": [

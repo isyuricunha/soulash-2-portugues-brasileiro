@@ -24,7 +24,7 @@
     "time": 10,
     "tools": []
   },
-  "description": "Tem um cheiro pungente e camadas.",
+  "description": "Tem um cheiro forte e camadas.",
   "food": {
     "nutrition": 25,
     "on_eat": "",
@@ -56,5 +56,6 @@
   ],
   "name": "Cebola",
   "value": 400,
-  "weight": 0.10000000149011612
+  "weight": 0.10000000149011612,
+  "feminine_form": true
 }

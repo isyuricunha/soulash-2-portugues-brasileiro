@@ -10,7 +10,7 @@
     "value",
     "weight"
   ],
-  "description": "Cachorrinho assustado. Se você soltá-lo, ele tentará escapar.",
+  "description": "Pequeno filhote assustado. Se você soltá-lo, ele tentará fugir.",
   "glyph": {
     "frames": [
       {
@@ -35,7 +35,7 @@
     199,
     185
   ],
-  "name": "Filhotinho Pego",
+  "name": "Filhote Capturado",
   "random_resource": {
     "delay_spawn": true,
     "entity": [

@@ -41,7 +41,7 @@
       14
     ]
   },
-  "description": "Muitas vezes usado pelos cães de aristocratas, ou por garotas de trabalho de alta classe.",
+  "description": "Frequentemente usada por cães de aristocratas, ou por garotas de programa de alta classe.",
   "glyph": {
     "frames": [
       {
@@ -68,5 +68,6 @@
   ],
   "name": "Coleira Decorada",
   "value": 2800,
-  "weight": 1.0
+  "weight": 1.0,
+  "feminine_form": true
 }

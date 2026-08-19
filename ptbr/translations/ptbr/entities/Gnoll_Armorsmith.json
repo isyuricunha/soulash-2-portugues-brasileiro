@@ -102,9 +102,9 @@
   "moveable": {
     "speed": 1.100000023841858
   },
-  "name": "Gnoll Armoreiro",
+  "name": "Armoreiro Gnoll",
   "persona": {
-    "occupation": "Armoreiro"
+    "occupation": "Armorsmith"
   },
   "sight": {
     "ignore_infra_penalty": false,

@@ -44,19 +44,19 @@
       {
         "chance": 0.75,
         "id": "100",
-        "name": "Dardo",
+        "name": "Azagaia",
         "stack": 1
       },
       {
         "chance": 0.75,
         "id": "100",
-        "name": "Dardo",
+        "name": "Azagaia",
         "stack": 1
       },
       {
         "chance": 1.0,
         "id": "77",
-        "name": "Espada Curta",
+        "name": "espada curta",
         "stack": 1
       }
     ],
@@ -149,5 +149,6 @@
   "tags": [
     "1",
     "9"
-  ]
+  ],
+  "feminine_form": true
 }

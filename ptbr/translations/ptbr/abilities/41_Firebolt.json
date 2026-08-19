@@ -5,7 +5,7 @@
     "health": 1,
     "stamina": 4
   },
-  "description": "Lança uma bola de fogo em um único alvo que causa ::damage de dano ::damage_type.",
+  "description": "Arremessa uma bola de fogo em um único alvo que causa ::damage ::damage_type de dano.",
   "duration": 0,
   "effects": {
     "damage": [
@@ -17,7 +17,7 @@
   },
   "id": "41",
   "image": 40,
-  "name": "Lança-Chamas",
+  "name": "Bola de Fogo",
   "range": 6,
   "target": "line"
 }

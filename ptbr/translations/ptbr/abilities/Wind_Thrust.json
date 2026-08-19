@@ -6,7 +6,7 @@
     "health": 0,
     "stamina": 15
   },
-  "description": "Empurre o ar criando uma explosão de força que causa ::damage de dano ::damage_type em longo alcance.",
+  "description": "Empurra o ar criando uma explosăo de força causando ::damage de dano ::damage_type a longo alcance.",
   "duration": 0.0,
   "effects": {
     "damage": [
@@ -18,7 +18,7 @@
   },
   "id": "core_2_Wind_Thrust",
   "image": 716,
-  "name": "Empurrão de Vento",
+  "name": "Investida de Vento",
   "range": 10,
   "requirements": {
     "one_of": [

@@ -30,7 +30,7 @@
       2
     ]
   },
-  "description": "Massa recheada com frutas frescas.",
+  "description": "Torta recheada com frutas frescas.",
   "food": {
     "nutrition": 80,
     "on_eat": "",
@@ -62,5 +62,6 @@
   ],
   "name": "Torta de Morango",
   "value": 500,
-  "weight": 0.10000000149011612
+  "weight": 0.10000000149011612,
+  "feminine_form": true
 }

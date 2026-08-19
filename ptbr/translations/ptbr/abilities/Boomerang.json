@@ -7,7 +7,7 @@
     "health": 0,
     "stamina": 5
   },
-  "description": "Acerte tudo em linha com ::damage de dano ::damage_type no alcance ::range perfurando seu inimigo.",
+  "description": "Atinge tudo em linha causando ::damage de dano ::damage_type no alcance ::range perfurando seu inimigo.",
   "duration": 0.0,
   "effects": null,
   "id": "core_2_Boomerang",

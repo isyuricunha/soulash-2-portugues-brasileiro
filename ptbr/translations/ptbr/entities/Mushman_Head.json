@@ -8,7 +8,7 @@
     "usable",
     "weight"
   ],
-  "description": "Uma cabeça de um mushman morto. Pode ainda guardar algumas memórias.",
+  "description": "Uma cabeça de um homem-cogumelo morto. Pode ainda guardar algumas memórias.",
   "glyph": {
     "frames": [
       {
@@ -33,10 +33,11 @@
     160,
     161
   ],
-  "name": "Cabeça de Mushman",
+  "name": "Cabeça de Homem-Cogumelo",
   "usable": {
     "ability": "core_2_Lightning_Shot",
     "recipe": ""
   },
-  "weight": 2.5
+  "weight": 2.5,
+  "feminine_form": true
 }

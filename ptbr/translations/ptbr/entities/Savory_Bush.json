@@ -24,7 +24,7 @@
     "producer"
   ],
   "corpse": [],
-  "description": "Um arbusto com pequenas flores brancas. Suas folhas podem ser usadas para produzir especiarias.",
+  "description": "Um arbusto com flores pequenas e brancas. Suas folhas podem ser usadas para produzir especiarias.",
   "glyph": {
     "frames": [
       {
@@ -65,7 +65,7 @@
     73,
     73
   ],
-  "name": "Arbusto Saboroso",
+  "name": "Arbusto de Segurelha",
   "producer": {
     "products": {
       "10": [

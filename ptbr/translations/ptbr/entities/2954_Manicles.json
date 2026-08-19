@@ -61,7 +61,8 @@
     200,
     200
   ],
-  "name": "Manípulos",
+  "name": "Manilhas",
   "value": 4000,
-  "weight": 5.0
+  "weight": 5.0,
+  "feminine_form": true
 }

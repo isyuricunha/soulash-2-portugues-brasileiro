@@ -6,7 +6,7 @@
     "health": 0,
     "stamina": 10
   },
-  "description": "Avança rapidamente ::range células, acertando a primeira coisa com a qual entrar em contato, causando ::damage de dano ::damage_type e empurrando-os para trás.",
+  "description": "Avance ::range ladrilhos atingindo a primeira coisa com que entrar em contato, causando ::damage de dano ::damage_type e arremessando-a para trás.",
   "duration": 0.0,
   "effects": {
     "charge": 8,
@@ -20,7 +20,7 @@
   "id": "core_2_Ram",
   "image": 792,
   "min_range": 1,
-  "name": "Aríete",
+  "name": "Investida",
   "range": 8,
   "skill": "",
   "slots": {

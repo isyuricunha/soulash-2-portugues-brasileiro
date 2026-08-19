@@ -40,7 +40,7 @@
     "tags"
   ],
   "corpse": [],
-  "description": "Esta minhoca gigante se contorce pela areia como se fosse o rei do deserto.",
+  "description": "Este enorme verme se contorce pela areia como se fosse o rei do deserto.",
   "experience_gainer": {
     "exp": 0,
     "level": 50
@@ -69,7 +69,7 @@
   "moveable": {
     "speed": 0.800000011920929
   },
-  "name": "Corpo de Minhoca Gigante",
+  "name": "Corpo de Verme Gigante",
   "stamina": {
     "fatigue": 100,
     "stamina": 100,

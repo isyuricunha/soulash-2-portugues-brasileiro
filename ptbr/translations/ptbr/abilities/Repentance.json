@@ -6,7 +6,7 @@
     "health": 2,
     "stamina": 5
   },
-  "description": "Faça o pecador se arrepender de seus pecados, atacando a si mesmo com um ataque ::damage_type.",
+  "description": "Faça o pecador se arrepender de seus pecados, atacando a si mesmo com ataque ::damage_type.",
   "duration": 0.0,
   "effects": {
     "damage": [

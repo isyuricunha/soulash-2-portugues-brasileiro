@@ -35,7 +35,7 @@
       1
     ]
   },
-  "description": "Placas sólidas de metal para proteger suas pernas de serem cortadas.",
+  "description": "Placas sólidas de metal para proteger suas pernas de serem decepadas.",
   "glyph": {
     "frames": [
       {
@@ -60,7 +60,8 @@
     163,
     157
   ],
-  "name": "Guarda-Pernas",
+  "name": "Perneiras",
   "value": 1000,
-  "weight": 2.0
+  "weight": 2.0,
+  "feminine_form": true
 }

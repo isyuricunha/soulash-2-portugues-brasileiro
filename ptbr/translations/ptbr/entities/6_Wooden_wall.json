@@ -47,7 +47,7 @@
     "time": 10,
     "tools": []
   },
-  "description": "Não seria difícil furar um buraco nesta parede.",
+  "description": "Não seria difícil fazer um buraco nesta parede.",
   "glyph": {
     "frames": [
       {
@@ -103,5 +103,6 @@
       ]
     },
     "time": 60
-  }
+  },
+  "feminine_form": true
 }

@@ -79,9 +79,9 @@
   "moveable": {
     "speed": 0.8999999761581421
   },
-  "name": "Rasimi Portador de Luz",
+  "name": "Rasimi Portador da Luz",
   "persona": {
-    "occupation": "Portador de Luz"
+    "occupation": "Light Bringer"
   },
   "sight": {
     "ignore_infra_penalty": false,

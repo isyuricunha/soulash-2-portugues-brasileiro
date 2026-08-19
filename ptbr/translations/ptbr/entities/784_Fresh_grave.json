@@ -36,7 +36,7 @@
     45,
     12
   ],
-  "name": "Túmulo Fresco",
+  "name": "Cova Recente",
   "producer": {
     "products": {
       "12": [
@@ -117,5 +117,6 @@
       ]
     },
     "time": 20
-  }
+  },
+  "feminine_form": true
 }

@@ -24,7 +24,7 @@
     "value",
     "weight"
   ],
-  "description": "Um pedaço de couro branco como pérola de uma criatura mítica.",
+  "description": "Um pedaço de couro branco perolado de uma criatura mítica.",
   "glyph": {
     "frames": [
       {
@@ -51,10 +51,11 @@
   ],
   "name": "Couro Branco",
   "resource": {
-    "affix": "Mythical",
+    "affix": "Mítico",
     "magic_ingredient": 0,
     "quality": 3,
-    "type": 2
+    "type": 2,
+    "feminine_affix": "Mítica"
   },
   "statistics": {
     "dexterity": [

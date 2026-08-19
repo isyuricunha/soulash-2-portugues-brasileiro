@@ -92,9 +92,9 @@
   "moveable": {
     "speed": 1.0
   },
-  "name": "Humano Rebelde",
+  "name": "Rebelde Humano",
   "persona": {
-    "occupation": "Rebelde"
+    "occupation": "Rebel"
   },
   "sight": {
     "ignore_infra_penalty": false,

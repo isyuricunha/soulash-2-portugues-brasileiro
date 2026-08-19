@@ -42,7 +42,7 @@
       12
     ]
   },
-  "description": "Era um pedaço típico de pano, mas envolveu um corpo em decomposição por tanto tempo que ficou encharcado de morte.",
+  "description": "Era um pedaço de tecido comum, mas envolveu um corpo em decomposição por tanto tempo que ficou encharcado de morte.",
   "glyph": {
     "frames": [
       {
@@ -67,12 +67,13 @@
     200,
     200
   ],
-  "name": "Mortalha",
+  "name": "Tecido Funerário",
   "resource": {
-    "affix": "Morbid",
+    "affix": "Mórbido",
     "magic_ingredient": 0,
     "quality": 3,
-    "type": 4
+    "type": 4,
+    "feminine_affix": "Mórbida"
   },
   "statistics": {
     "dexterity": [

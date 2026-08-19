@@ -45,7 +45,7 @@
       15
     ]
   },
-  "description": "Uma tora é um tronco de árvore com galhos cortados. Pode ser útil para construir coisas. Você pode ser capaz de cortá-la ainda mais para fazer alguns pedaços de madeira.",
+  "description": "Um tronco é o tronco de uma árvore com os galhos cortados. Pode ser útil para construir coisas. Você talvez consiga cortá-lo ainda mais para obter alguns pedaços de madeira.",
   "glyph": {
     "frames": [
       {
@@ -70,7 +70,7 @@
     102,
     57
   ],
-  "name": "Tora de Ébano",
+  "name": "Tronco de Ébano",
   "producer": {
     "products": {
       "1": [

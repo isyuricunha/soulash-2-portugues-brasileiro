@@ -8,7 +8,7 @@
     "statistics",
     "weight"
   ],
-  "description": "Um conjunto de pernas fortes de um ursan morto.",
+  "description": "Um par de pernas fortes de um ursan morto.",
   "extra_weight": 10.0,
   "glyph": {
     "frames": [
@@ -57,5 +57,6 @@
       0
     ]
   },
-  "weight": 1.5
+  "weight": 1.5,
+  "feminine_form": true
 }

@@ -11,7 +11,7 @@
     "value",
     "weight"
   ],
-  "description": "Uma pedra preciosa de cor azul.",
+  "description": "Uma gema de cor azul.",
   "glyph": {
     "frames": [
       {
@@ -38,10 +38,11 @@
   ],
   "name": "Safira",
   "resource": {
-    "affix": "Sapphire",
+    "affix": "Safira",
     "magic_ingredient": 0,
     "quality": 2,
-    "type": 8
+    "type": 8,
+    "feminine_affix": "safira"
   },
   "statistics": {
     "dexterity": [
@@ -66,5 +67,6 @@
     ]
   },
   "value": 2500,
-  "weight": 0.10000000149011612
+  "weight": 0.10000000149011612,
+  "feminine_form": true
 }

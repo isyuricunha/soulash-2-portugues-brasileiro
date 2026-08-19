@@ -30,7 +30,7 @@
     "time": 0,
     "tools": []
   },
-  "description": "Um chão de pedra fria.",
+  "description": "Um piso de pedra frio.",
   "glyph": {
     "frames": [
       {
@@ -52,5 +52,5 @@
     63,
     72
   ],
-  "name": "Chão de Pedra"
+  "name": "Piso de Pedra"
 }

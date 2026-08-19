@@ -44,7 +44,7 @@
       {
         "chance": 0.30000001192092896,
         "id": "100",
-        "name": "Dardo",
+        "name": "Azagaia",
         "stack": 3
       }
     ],
@@ -52,7 +52,7 @@
       {
         "chance": 0.30000001192092896,
         "id": "169",
-        "name": "Capacete",
+        "name": "Elmo",
         "stack": 1
       }
     ],
@@ -60,7 +60,7 @@
       {
         "chance": 1.0,
         "id": "312",
-        "name": "Espada de Osso",
+        "name": "espada de osso",
         "stack": 1
       }
     ],
@@ -109,7 +109,7 @@
   },
   "name": "Presa de Gnoll",
   "persona": {
-    "occupation": "Presa"
+    "occupation": "Fang"
   },
   "sight": {
     "ignore_infra_penalty": false,
@@ -155,5 +155,6 @@
       25
     ]
   },
-  "tags": []
+  "tags": [],
+  "feminine_form": true
 }

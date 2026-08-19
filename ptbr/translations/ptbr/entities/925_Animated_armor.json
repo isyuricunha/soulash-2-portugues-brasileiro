@@ -55,25 +55,25 @@
       {
         "chance": 0.25,
         "id": "21",
-        "name": "Capacete Nasal",
+        "name": "Elmo Nasal",
         "stack": 1
       },
       {
         "chance": 0.25,
         "id": "169",
-        "name": "Capacete",
+        "name": "Elmo",
         "stack": 1
       },
       {
         "chance": 0.25,
         "id": "328",
-        "name": "Capacete Enferrujado",
+        "name": "Elmo Enferrujado",
         "stack": 1
       },
       {
         "chance": 0.25,
         "id": "393",
-        "name": "Grande Capacete",
+        "name": "Grande Elmo",
         "stack": 1
       }
     ],
@@ -81,13 +81,13 @@
       {
         "chance": 0.25,
         "id": "439",
-        "name": "Caneleiras",
+        "name": "Grebas",
         "stack": 1
       },
       {
         "chance": 0.25,
         "id": "452",
-        "name": "Caneleiras de Placas",
+        "name": "Grebas de Placa",
         "stack": 1
       },
       {
@@ -99,7 +99,7 @@
       {
         "chance": 0.25,
         "id": "572",
-        "name": "Guarda-Pernas",
+        "name": "Perneiras",
         "stack": 1
       }
     ],
@@ -130,7 +130,7 @@
   },
   "fighter": {
     "attackNames": [
-      "Iron fist"
+      "Punho de Ferro"
     ]
   },
   "glyph": {
@@ -212,5 +212,6 @@
     "parry_bonus": 0,
     "range": 1,
     "type": 2
-  }
+  },
+  "feminine_form": true
 }

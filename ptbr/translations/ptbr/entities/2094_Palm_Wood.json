@@ -24,7 +24,7 @@
     "weapon",
     "weight"
   ],
-  "description": "Peça de madeira muito leve e durável.",
+  "description": "Pedaço de madeira muito leve e durável.",
   "extra_weight": -0.20000000298023224,
   "glyph": {
     "frames": [
@@ -52,10 +52,11 @@
   ],
   "name": "Madeira de Palmeira",
   "resource": {
-    "affix": "Flexible",
+    "affix": "Flexível",
     "magic_ingredient": 0,
     "quality": 1,
-    "type": 3
+    "type": 3,
+    "feminine_affix": "Flexível"
   },
   "value": 280,
   "weapon": {
@@ -68,5 +69,6 @@
     "range": 0,
     "type": 9
   },
-  "weight": 0.10000000149011612
+  "weight": 0.10000000149011612,
+  "feminine_form": true
 }

@@ -23,7 +23,7 @@
     "position_2d"
   ],
   "corpse": [],
-  "description": "Um arbusto de pequenos cogumelos com caules longos.",
+  "description": "Um arbusto de minúsculos cogumelos com hastes longas.",
   "glyph": {
     "frames": [
       {
@@ -64,5 +64,5 @@
     89,
     31
   ],
-  "name": "Arbusto de Cogumelos"
+  "name": "Arbusto de Cogumelo"
 }

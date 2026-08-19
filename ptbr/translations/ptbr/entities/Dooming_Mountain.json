@@ -168,14 +168,14 @@
     "tags"
   ],
   "corpse": "core_2_Obsidian_Heart",
-  "description": "Esta montanha acordou e está à procura de sangue.",
+  "description": "Esta montanha despertou e procura sangue.",
   "experience_gainer": {
     "exp": 0,
     "level": 50
   },
   "fighter": {
     "attackNames": [
-      "Heat Wave"
+      "Onda de Calor"
     ]
   },
   "glyph": {
@@ -199,7 +199,7 @@
     0,
     42
   ],
-  "name": "Montanha Condenada",
+  "name": "Montanha Funesta",
   "sight": {
     "ignore_infra_penalty": false,
     "infravision": true,
@@ -239,5 +239,6 @@
   "tags": [
     "9",
     "38"
-  ]
+  ],
+  "feminine_form": true
 }

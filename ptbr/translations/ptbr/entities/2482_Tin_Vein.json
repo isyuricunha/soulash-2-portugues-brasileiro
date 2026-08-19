@@ -33,7 +33,7 @@
     "producer"
   ],
   "corpse": [],
-  "description": "Um veio de minério de estanho.",
+  "description": "Uma veia de minério de estanho.",
   "glyph": {
     "frames": [
       {
@@ -56,7 +56,7 @@
     140,
     144
   ],
-  "name": "Veio de Estanho",
+  "name": "Veia de Estanho",
   "producer": {
     "products": {
       "5": [
@@ -71,5 +71,6 @@
       ]
     },
     "time": 20
-  }
+  },
+  "feminine_form": true
 }

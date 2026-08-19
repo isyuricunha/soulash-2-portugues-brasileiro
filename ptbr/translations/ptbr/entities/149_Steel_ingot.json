@@ -71,10 +71,11 @@
   ],
   "name": "Lingote de Aço",
   "resource": {
-    "affix": "Steel",
+    "affix": "Aço",
     "magic_ingredient": 0,
     "quality": 3,
-    "type": 1
+    "type": 1,
+    "feminine_affix": "de aço"
   },
   "value": 9500,
   "weapon": {

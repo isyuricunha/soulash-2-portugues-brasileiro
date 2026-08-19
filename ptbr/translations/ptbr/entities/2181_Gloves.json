@@ -35,7 +35,7 @@
       12
     ]
   },
-  "description": "Perfeito para esconder imperfeições na pele ou dedos faltando.",
+  "description": "Perfeito para esconder imperfeições na pele ou dedos ausentes.",
   "glyph": {
     "frames": [
       {
@@ -62,5 +62,6 @@
   ],
   "name": "Luvas",
   "value": 800,
-  "weight": 0.30000001192092896
+  "weight": 0.30000001192092896,
+  "feminine_form": true
 }

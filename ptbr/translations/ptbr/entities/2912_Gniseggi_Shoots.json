@@ -48,12 +48,13 @@
     195,
     195
   ],
-  "name": "Disparos de Gniseggi",
+  "name": "Brotos de Gniseggi",
   "resource": {
-    "affix": "of Druidic Power",
+    "affix": "do Poder Druídico",
     "magic_ingredient": 1,
     "quality": 1,
-    "type": 7
+    "type": 7,
+    "feminine_affix": "druídica"
   },
   "value": 1500,
   "weight": 0.10000000149011612

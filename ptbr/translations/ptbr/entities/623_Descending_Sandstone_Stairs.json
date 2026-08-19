@@ -7,7 +7,7 @@
     "position_2d",
     "producer"
   ],
-  "description": "Uma escada desconfortavelmente estreita levando para baixo.",
+  "description": "Uma escada desconfortavelmente estreita que desce.",
   "glyph": {
     "frames": [
       {
@@ -47,5 +47,6 @@
       ]
     },
     "time": 20
-  }
+  },
+  "feminine_form": true
 }

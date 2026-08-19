@@ -39,15 +39,15 @@
     "weapon"
   ],
   "corpse": [],
-  "description": "Um verme serpenteado sem asas, envolto em vibrantes cápsulas fúngicas e tendrils miceliais.",
+  "description": "Um verme serpentino sem asas, coberto por chapéus fúngicos vibrantes e tentáculos miceliais.",
   "experience_gainer": {
     "exp": 0,
     "level": 50
   },
   "fighter": {
     "attackNames": [
-      "Kick",
-      "Scratch"
+      "Chute",
+      "Arranhão"
     ]
   },
   "glyph": {
@@ -74,7 +74,7 @@
   "moveable": {
     "speed": 0.699999988079071
   },
-  "name": "Perna de Dragão de Cogumelo",
+  "name": "Perna de Dragão-Cogumelo",
   "sight": {
     "ignore_infra_penalty": true,
     "infravision": true,
@@ -126,5 +126,6 @@
     "parry_bonus": 0,
     "range": 1,
     "type": 0
-  }
+  },
+  "feminine_form": true
 }

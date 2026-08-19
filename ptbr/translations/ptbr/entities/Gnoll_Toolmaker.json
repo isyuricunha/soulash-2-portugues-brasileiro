@@ -86,9 +86,9 @@
   "moveable": {
     "speed": 1.100000023841858
   },
-  "name": "Gnoll Ferramenteiro",
+  "name": "Gnoll Artesão",
   "persona": {
-    "occupation": "Ferreiro"
+    "occupation": "Toolmaker"
   },
   "sight": {
     "ignore_infra_penalty": false,

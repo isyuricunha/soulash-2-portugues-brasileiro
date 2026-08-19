@@ -36,7 +36,7 @@
       21
     ]
   },
-  "description": "Solo agradável e solto pronto para algumas sementes.",
+  "description": "Terra agradável e solta, pronta para as sementes.",
   "glyph": {
     "frames": [
       {
@@ -58,5 +58,6 @@
     45,
     12
   ],
-  "name": "Terra Arada"
+  "name": "Terra Arada",
+  "feminine_form": true
 }

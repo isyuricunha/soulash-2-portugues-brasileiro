@@ -28,7 +28,7 @@
       1
     ]
   },
-  "description": "Algumas pancadas com isso vão transformar qualquer humano em queijo.",
+  "description": "Uns poucos golpes com isto transformam qualquer humano em queijo.",
   "glyph": {
     "frames": [
       {
@@ -71,5 +71,6 @@
     "range": 1,
     "type": 2
   },
-  "weight": 1.5
+  "weight": 1.5,
+  "feminine_form": true
 }

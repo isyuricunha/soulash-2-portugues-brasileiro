@@ -6,7 +6,7 @@
     "health": 0,
     "stamina": 8
   },
-  "description": "Afoga o alvo causando ::damage de ::damage_type.",
+  "description": "Afoga o alvo causando ::damage de dano ::damage_type.",
   "duration": 0.0,
   "effects": {
     "damage": [

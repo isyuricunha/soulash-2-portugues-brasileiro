@@ -48,7 +48,7 @@
     "weapon"
   ],
   "corpse": "2755",
-  "description": "Uma criatura semelhante a um macaco, pronta para te devorar vivo.",
+  "description": "Uma criatura símia, pronta para te devorar vivo.",
   "dialogues": [
     "624",
     "625",
@@ -70,7 +70,7 @@
   },
   "fighter": {
     "attackNames": [
-      "Freezing Claws"
+      "Garras Congelantes"
     ]
   },
   "glyph": {

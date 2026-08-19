@@ -28,7 +28,7 @@
       1
     ]
   },
-  "description": "Maça em um cabo de metal com um pomo em forma de escama.",
+  "description": "Maça com cabo de metal e pomo de escama.",
   "glyph": {
     "frames": [
       {
@@ -53,7 +53,7 @@
     160,
     161
   ],
-  "name": "Maça Escamada",
+  "name": "Maça de Escama",
   "value": 3500,
   "weapon": {
     "attack_speed": 1.0,
@@ -71,5 +71,6 @@
     "range": 1,
     "type": 2
   },
-  "weight": 2.0
+  "weight": 2.0,
+  "feminine_form": true
 }

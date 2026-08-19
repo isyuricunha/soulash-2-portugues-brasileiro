@@ -24,7 +24,7 @@
     "weapon",
     "weight"
   ],
-  "description": "A parte majestosa de um unicórnio.",
+  "description": "A única parte majestosa de um unicórnio.",
   "glyph": {
     "frames": [
       {
@@ -51,10 +51,11 @@
   ],
   "name": "Chifre de Unicórnio",
   "resource": {
-    "affix": "Regal",
+    "affix": "Real",
     "magic_ingredient": 0,
     "quality": 2,
-    "type": 5
+    "type": 5,
+    "feminine_affix": "Real"
   },
   "value": 1500,
   "weapon": {

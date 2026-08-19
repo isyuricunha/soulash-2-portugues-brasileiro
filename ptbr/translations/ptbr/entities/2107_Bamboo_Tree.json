@@ -25,7 +25,7 @@
     "producer"
   ],
   "corpse": [],
-  "description": "A grama mais alta que você já viu.",
+  "description": "O capim mais alto que você já viu.",
   "glyph": {
     "frames": [
       {
@@ -123,5 +123,6 @@
       ]
     },
     "time": 20
-  }
+  },
+  "feminine_form": true
 }

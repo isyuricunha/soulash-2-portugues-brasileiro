@@ -47,7 +47,7 @@
       1
     ]
   },
-  "description": "Mão de um golem equipada com um escudo resistente.",
+  "description": "Uma mão de golem equipada com um escudo robusto.",
   "glyph": {
     "frames": [
       {
@@ -94,5 +94,6 @@
     "range": 1,
     "type": 8
   },
-  "weight": 2.5
+  "weight": 2.5,
+  "feminine_form": true
 }

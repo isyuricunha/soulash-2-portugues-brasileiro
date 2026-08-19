@@ -23,7 +23,7 @@
     "producer"
   ],
   "corpse": "62",
-  "description": "Estátua feita de madeira retratando um elfo chorando incontrolavelmente.",
+  "description": "Estátua de madeira representando um elfo chorando incontrolavelmente.",
   "glyph": {
     "frames": [
       {
@@ -87,5 +87,6 @@
       ]
     },
     "time": 20
-  }
+  },
+  "feminine_form": true
 }

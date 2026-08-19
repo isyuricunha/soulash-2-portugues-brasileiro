@@ -45,7 +45,7 @@
     "weapon"
   ],
   "corpse": "341",
-  "description": "Esta criatura massiva é uma grande ameaça em curto alcance.",
+  "description": "Esta criatura massiva é uma grande ameaça à curta distância.",
   "dialogues": [
     "116",
     "117",
@@ -76,8 +76,8 @@
   },
   "fighter": {
     "attackNames": [
-      "Bite",
-      "Paw"
+      "Mordida",
+      "Pata"
     ]
   },
   "glyph": {

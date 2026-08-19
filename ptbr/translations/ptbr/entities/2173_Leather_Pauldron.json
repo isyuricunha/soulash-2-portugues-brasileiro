@@ -35,7 +35,7 @@
       14
     ]
   },
-  "description": "Uma única espaldar para proteger o braço não dominante sem restringir o que segura a lâmina.",
+  "description": "Uma única ombreira para proteger o braço livre sem restringir o que empunha a lâmina.",
   "glyph": {
     "frames": [
       {
@@ -60,7 +60,7 @@
     46,
     17
   ],
-  "name": "Espaldar de Couro",
+  "name": "Pauldrão de Couro",
   "value": 400,
   "weight": 0.5
 }

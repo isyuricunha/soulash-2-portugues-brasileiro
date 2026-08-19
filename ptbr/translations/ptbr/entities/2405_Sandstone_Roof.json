@@ -27,7 +27,7 @@
     "time": 5,
     "tools": []
   },
-  "description": "Teto feito de blocos de arenito.",
+  "description": "Telhado de blocos de arenito.",
   "glyph": {
     "frames": [
       {
@@ -48,7 +48,7 @@
     108,
     58
   ],
-  "name": "Teto de Arenito",
+  "name": "Telhado de Arenito",
   "producer": {
     "products": {
       "core_2_deconstruct": [

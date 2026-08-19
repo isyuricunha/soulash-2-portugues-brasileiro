@@ -23,7 +23,7 @@
     "value",
     "weight"
   ],
-  "description": "Uma flora delicada e luminescente que prospera sob o toque suave da luz da lua.",
+  "description": "Uma flora delicada e luminosa que prospera sob o toque suave do luar.",
   "glyph": {
     "frames": [
       {
@@ -48,12 +48,13 @@
     109,
     155
   ],
-  "name": "Musgo Iluminado pela Lua",
+  "name": "Musgo Lunar",
   "resource": {
-    "affix": "of the Moonlight",
+    "affix": "do Luar",
     "magic_ingredient": 2,
     "quality": 2,
-    "type": 7
+    "type": 7,
+    "feminine_affix": "lunar"
   },
   "value": 500,
   "weight": 0.10000000149011612

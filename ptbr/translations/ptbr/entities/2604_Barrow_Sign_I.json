@@ -8,7 +8,7 @@
     "position_2d"
   ],
   "corpse": [],
-  "description": "Aqui jaz Dasch, O Grande. Bravo guerreiro e amante apaixonado.",
+  "description": "Aqui jaz Dasch, o Grande. Bravo guerreiro e apaixonado amante.",
   "glyph": {
     "frames": [
       {
@@ -75,5 +75,6 @@
     108,
     46
   ],
-  "name": "Placa Tumular I"
+  "name": "Placa de Tumba I",
+  "feminine_form": true
 }

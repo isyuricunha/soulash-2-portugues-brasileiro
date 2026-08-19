@@ -62,7 +62,8 @@
     93,
     57
   ],
-  "name": "Capa Escura",
+  "name": "Capa Sombria",
   "value": 1900,
-  "weight": 0.800000011920929
+  "weight": 0.800000011920929,
+  "feminine_form": true
 }

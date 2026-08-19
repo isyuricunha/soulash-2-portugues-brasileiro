@@ -82,9 +82,9 @@
   "moveable": {
     "speed": 1.0
   },
-  "name": "Orc Xamã",
+  "name": "Xamã Orc",
   "persona": {
-    "occupation": "Xamã"
+    "occupation": "Shaman"
   },
   "sight": {
     "ignore_infra_penalty": false,

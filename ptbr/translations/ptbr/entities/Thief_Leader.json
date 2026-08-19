@@ -1,8 +1,16 @@
 {
   "artificial_intelligence": {
-    "allies": [],
+    "allies": [
+      "0",
+      "11",
+      "12",
+      "1",
+      "28"
+    ],
     "allow_production": [],
-    "behaviors": [],
+    "behaviors": [
+      1
+    ],
     "enemies": []
   },
   "components": [
@@ -20,6 +28,7 @@
     "minimap_pixel",
     "moveable",
     "name",
+    "persona",
     "position_2d",
     "sight",
     "skills",
@@ -27,7 +36,7 @@
     "statistics",
     "tags"
   ],
-  "corpse": "25",
+  "corpse": "core_2_Thief_Leader_Head",
   "description": "",
   "dialogues": [
     "72",
@@ -37,16 +46,32 @@
     "left_hand": [
       {
         "chance": 1.0,
-        "id": "71",
-        "name": "Adaga",
+        "id": "687",
+        "name": "Cinquedea",
+        "stack": 1
+      }
+    ],
+    "legs_armor": [
+      {
+        "chance": 1.0,
+        "id": "2309",
+        "name": "Caneleiras de Couro",
         "stack": 1
       }
     ],
     "right_hand": [
       {
         "chance": 1.0,
-        "id": "71",
-        "name": "Adaga",
+        "id": "687",
+        "name": "Cinquedea",
+        "stack": 1
+      }
+    ],
+    "torso_armor": [
+      {
+        "chance": 1.0,
+        "id": "394",
+        "name": "Brigantina",
         "stack": 1
       }
     ]
@@ -79,13 +104,16 @@
   "id": "core_2_Thief_Leader",
   "minimap_pixel": [
     176,
-    194,
+    206,
     173
   ],
   "moveable": {
     "speed": 0.800000011920929
   },
   "name": "Líder dos Ladrões",
+  "persona": {
+    "occupation": "Thief Leader"
+  },
   "sight": {
     "ignore_infra_penalty": false,
     "infravision": false,
@@ -93,12 +121,14 @@
     "threesixty": false
   },
   "skills": {
+    "max_skill": 40,
     "milestones": [
       "core_2_backstab",
       "core_2_blind",
       "core_2_vanish",
       "core_2_quick_thrust"
     ],
+    "min_skill": 40,
     "skills": [
       "core_2_thievery"
     ]
@@ -114,23 +144,24 @@
       49
     ],
     "endurance": [
-      18,
-      22
+      48,
+      52
     ],
     "intelligence": [
-      15,
-      19
-    ],
-    "strength": [
-      24,
+      25,
       29
     ],
+    "strength": [
+      44,
+      59
+    ],
     "willpower": [
-      15,
-      18
+      35,
+      38
     ]
   },
   "tags": [
-    "9"
+    "9",
+    "41"
   ]
 }

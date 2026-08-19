@@ -36,7 +36,7 @@
       {
         "chance": 1.0,
         "id": "323",
-        "name": "Collant",
+        "name": "Meia-calça",
         "stack": 1
       }
     ],
@@ -85,7 +85,7 @@
   },
   "name": "Elfo Moleiro",
   "persona": {
-    "occupation": "Moleiro"
+    "occupation": "Miller"
   },
   "sight": {
     "ignore_infra_penalty": false,

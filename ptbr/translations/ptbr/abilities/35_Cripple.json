@@ -6,7 +6,7 @@
     "health": 0,
     "stamina": 5
   },
-  "description": "Ataque corpo a corpo regular com ::damage de dano ::damage_type que desacelera o alvo, aumentando o tempo necessário para se mover em ::movement_speed.",
+  "description": "Ataque corpo a corpo regular com ::damage ::damage_type de dano que desacelera o alvo, aumentando o tempo necessário para mover-se em ::movement_speed.",
   "duration": 6.0,
   "effects": {
     "damage": [

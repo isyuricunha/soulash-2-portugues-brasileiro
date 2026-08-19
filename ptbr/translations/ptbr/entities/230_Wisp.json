@@ -32,7 +32,7 @@
     "tags"
   ],
   "corpse": "326",
-  "description": "Estas chamas azuis dançando acima do chão são espíritos da floresta.",
+  "description": "Estas chamas azuis dançando acima do solo são espíritos da floresta.",
   "dialogues": [
     "42",
     "43"
@@ -79,7 +79,7 @@
   "moveable": {
     "speed": 1.0
   },
-  "name": "Luz Bruxuleante",
+  "name": "Fogo-fátuo",
   "sight": {
     "ignore_infra_penalty": false,
     "infravision": true,

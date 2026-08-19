@@ -6,7 +6,7 @@
     "health": 0,
     "stamina": 10
   },
-  "description": "Joga um raio perfurando até ::range células e eletrocutando tudo com o que entrar em contato, causando ::damage ::damage_type de dano e atordoando por ::stun turnos.",
+  "description": "Arremessa um raio perfurante por até ::range ladrilhos eletrocutando tudo com que entra em contato, causando ::damage de dano ::damage_type e atordoando por ::stun turnos.",
   "duration": 0.0,
   "effects": {
     "damage": [
@@ -21,7 +21,7 @@
   "id": "core_2_Lightning_Bolt",
   "image": 750,
   "min_range": 2,
-  "name": "Relâmpago",
+  "name": "Raio",
   "range": 7,
   "skill": "core_2_stormthrowing",
   "slots": {

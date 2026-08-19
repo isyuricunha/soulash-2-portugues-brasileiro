@@ -6,7 +6,7 @@
     "name",
     "position_2d"
   ],
-  "description": "Pedra alta e ereta coberta por musgo e algumas entalhes misteriosos.",
+  "description": "Pedra alta e ereta coberta de musgo e alguns entalhes misteriosos.",
   "glyph": {
     "frames": [
       {
@@ -27,5 +27,6 @@
     174,
     208
   ],
-  "name": "Pedra Druídica"
+  "name": "Pedra Druídica",
+  "feminine_form": true
 }

@@ -23,7 +23,7 @@
     "time": 5,
     "tools": []
   },
-  "description": "Pedacinhos de madeira picada para queimar.",
+  "description": "Pedaços de madeira cortados para queimar.",
   "fuel": {
     "time": 120
   },
@@ -53,5 +53,6 @@
   ],
   "name": "Lenha",
   "value": 10,
-  "weight": 0.1
+  "weight": 0.1,
+  "feminine_form": true
 }

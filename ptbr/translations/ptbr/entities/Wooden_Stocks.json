@@ -10,7 +10,7 @@
     "producer"
   ],
   "corpse": [],
-  "description": "Duas peças de madeira com buracos para as mãos e a cabeça de alguma alma pobre.",
+  "description": "Duas peças de madeira com buracos para as mãos e a cabeça de alguma pobre alma.",
   "glyph": {
     "frames": [
       {
@@ -33,7 +33,7 @@
     40,
     40
   ],
-  "name": "Troncos de Madeira",
+  "name": "Cepo de Madeira",
   "producer": {
     "products": {
       "core_2_deconstruct": [

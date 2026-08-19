@@ -40,8 +40,8 @@
   },
   "fighter": {
     "attackNames": [
-      "Sting",
-      "Bite"
+      "Ferrão",
+      "Mordida"
     ]
   },
   "glyph": {
@@ -113,5 +113,6 @@
   "tags": [
     "18",
     "9"
-  ]
+  ],
+  "feminine_form": true
 }

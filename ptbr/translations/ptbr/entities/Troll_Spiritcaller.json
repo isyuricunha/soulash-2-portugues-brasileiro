@@ -45,7 +45,7 @@
       {
         "chance": 0.30000001192092896,
         "id": "100",
-        "name": "Dardo",
+        "name": "Azagaia",
         "stack": 3
       }
     ],
@@ -53,7 +53,7 @@
       {
         "chance": 0.30000001192092896,
         "id": "328",
-        "name": "Capacete Enferrujado",
+        "name": "Elmo Enferrujado",
         "stack": 1
       }
     ],
@@ -61,7 +61,7 @@
       {
         "chance": 1.0,
         "id": "382",
-        "name": "Cajado do Pregador",
+        "name": "Cajado de Pregador",
         "stack": 1
       }
     ],
@@ -108,9 +108,9 @@
   "moveable": {
     "speed": 0.8999999761581421
   },
-  "name": "Troll Invocador de Espíritos",
+  "name": "Troll Evocador de Espíritos",
   "persona": {
-    "occupation": "Invocador de Espíritos"
+    "occupation": "Spiritcaller"
   },
   "sight": {
     "ignore_infra_penalty": false,

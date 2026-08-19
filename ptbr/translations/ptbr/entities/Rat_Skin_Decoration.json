@@ -1,0 +1,51 @@
+{
+  "components": [
+    "collidable",
+    "glyph",
+    "health",
+    "minimap_pixel",
+    "name",
+    "position_2d",
+    "producer"
+  ],
+  "corpse": [],
+  "description": "A pele de um rato esfolado pendurada na parede como uma decoração sombria.",
+  "glyph": {
+    "frames": [
+      {
+        "color": [
+          255,
+          255,
+          255
+        ],
+        "delay": 0,
+        "index": 3388
+      }
+    ],
+    "random_frame_start": true
+  },
+  "health": 50,
+  "id": "core_2_Rat_Skin_Decoration",
+  "minimap_pixel": [
+    169,
+    108,
+    14
+  ],
+  "name": "Decoração de Pele de Rato",
+  "producer": {
+    "products": {
+      "core_2_deconstruct": [
+        {
+          "amount": [
+            0,
+            0
+          ],
+          "id": "",
+          "percent_chance": 100
+        }
+      ]
+    },
+    "time": 20
+  },
+  "feminine_form": true
+}

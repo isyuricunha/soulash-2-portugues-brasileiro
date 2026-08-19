@@ -6,7 +6,7 @@
     "health": 0,
     "stamina": 0
   },
-  "description": "Maior chance de produzir um filho, assumindo que haja um parceiro para reproduzir na cidade.",
+  "description": "Maior chance de gerar um filho, assumindo que haja um parceiro para reprodução na cidade.",
   "duration": 1.0,
   "effects": {
     "fertility": 1

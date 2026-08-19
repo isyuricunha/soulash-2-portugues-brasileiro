@@ -39,7 +39,7 @@
       {
         "chance": 1.0,
         "id": "311",
-        "name": "Lança de Osso",
+        "name": "lança de osso",
         "stack": 1
       }
     ]
@@ -78,9 +78,9 @@
   "moveable": {
     "speed": 1.0
   },
-  "name": "Espectro de Osso Rebelde",
+  "name": "Aparição Óssea Rebelde",
   "persona": {
-    "occupation": "Rebelde"
+    "occupation": "Rebel"
   },
   "sight": {
     "ignore_infra_penalty": false,
@@ -119,5 +119,6 @@
     "9",
     "3",
     "35"
-  ]
+  ],
+  "feminine_form": true
 }

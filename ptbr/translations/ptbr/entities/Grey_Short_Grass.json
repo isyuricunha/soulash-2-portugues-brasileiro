@@ -48,7 +48,7 @@
     "time": 5,
     "tools": []
   },
-  "description": "Cinza estranho, mas parece normal além disso.",
+  "description": "Estranhamente cinza, mas parece normal fora isso.",
   "glyph": {
     "frames": [
       {
@@ -107,5 +107,6 @@
     "spawn_chance": 2.0,
     "spawn_multiply": 20.0,
     "spawn_rolls": 1
-  }
+  },
+  "feminine_form": true
 }

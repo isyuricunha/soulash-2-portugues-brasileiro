@@ -14,7 +14,7 @@
       "id": "561"
     }
   ],
-  "description": "Pode queimar você.",
+  "description": "Pode te queimar.",
   "glyph": {
     "frames": [
       {
@@ -68,5 +68,6 @@
       ]
     },
     "time": 60
-  }
+  },
+  "feminine_form": true
 }

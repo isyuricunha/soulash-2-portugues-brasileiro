@@ -25,7 +25,7 @@
     "producer"
   ],
   "corpse": [],
-  "description": "Uma árvore comum como muitas outras. Com um machado adequado, alguém pode ser capaz de derrubá-la.",
+  "description": "Uma árvore comum como tantas outras. Com um machado adequado, talvez seja possível derrubá-la.",
   "glyph": {
     "frames": [
       {
@@ -148,5 +148,6 @@
       ]
     },
     "time": 30
-  }
+  },
+  "feminine_form": true
 }

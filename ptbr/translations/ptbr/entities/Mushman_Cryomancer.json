@@ -79,9 +79,9 @@
   "moveable": {
     "speed": 1.2999999523162842
   },
-  "name": "Criomante Mushman",
+  "name": "Criomante Homem-Cogumelo",
   "persona": {
-    "occupation": "Criomante"
+    "occupation": "Cryomancer"
   },
   "sight": {
     "ignore_infra_penalty": false,

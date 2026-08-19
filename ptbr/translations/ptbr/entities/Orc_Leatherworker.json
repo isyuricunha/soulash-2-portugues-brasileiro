@@ -82,9 +82,9 @@
   "moveable": {
     "speed": 1.100000023841858
   },
-  "name": "Orc Courador",
+  "name": "Curtidor Orc",
   "persona": {
-    "occupation": "Courador"
+    "occupation": "Leatherworker"
   },
   "sight": {
     "ignore_infra_penalty": false,

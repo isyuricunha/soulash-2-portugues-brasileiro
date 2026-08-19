@@ -96,9 +96,9 @@
   "moveable": {
     "speed": 1.0
   },
-  "name": "Guarda-Cogumelo Mushman",
+  "name": "Homem-Cogumelo Guardião de Cogumelo",
   "persona": {
-    "occupation": "Guarda Cogumelo"
+    "occupation": "Mush Guardian"
   },
   "sight": {
     "ignore_infra_penalty": false,

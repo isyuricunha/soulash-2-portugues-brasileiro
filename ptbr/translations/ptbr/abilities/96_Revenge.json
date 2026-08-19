@@ -6,7 +6,7 @@
     "health": 0,
     "stamina": 20
   },
-  "description": "Causa dano ::damage_type a todos ao seu redor igual à soma das últimas ::revenge_counter vezes que você sofreu dano, resetando o contador de dano.",
+  "description": "Causa dano ::damage_type a todos ao seu redor igual à soma das últimas ::revenge_counter vezes que dano foi causado a você, reiniciando o contador de dano.",
   "duration": 0.0,
   "effects": {
     "aoe_range": 5,

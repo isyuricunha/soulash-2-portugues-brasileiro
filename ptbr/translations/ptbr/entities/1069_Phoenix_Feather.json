@@ -9,7 +9,7 @@
     "value",
     "weight"
   ],
-  "description": "Enquanto você segura os restos de uma fênix, ela produz uma chama imortal.",
+  "description": "Ao segurar os restos de uma fênix, ela emite uma chama imortal.",
   "glyph": {
     "frames": [
       {
@@ -45,5 +45,6 @@
   ],
   "name": "Pena de Fênix",
   "value": 10000,
-  "weight": 0.009999999776482582
+  "weight": 0.009999999776482582,
+  "feminine_form": true
 }

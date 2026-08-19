@@ -42,7 +42,7 @@
       "id": "946"
     }
   ],
-  "description": "Uma lagoa de sangue vermelho carmesim.",
+  "description": "Uma poça de sangue vermelho carmesim.",
   "glyph": {
     "frames": [
       {
@@ -77,8 +77,9 @@
     62,
     57
   ],
-  "name": "Lagoa de Sangue",
+  "name": "Poça de Sangue",
   "water": {
     "swimming": true
-  }
+  },
+  "feminine_form": true
 }

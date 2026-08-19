@@ -29,7 +29,7 @@
       1
     ]
   },
-  "description": "Uma bola com espinhos presa a um bastão que é igualmente mortal para usuários inexperientes e para seus oponentes.",
+  "description": "Uma bola com espinhos presa a um bastão, igualmente letal para usuários inexperientes quanto para seus oponentes.",
   "glyph": {
     "frames": [
       {
@@ -72,5 +72,6 @@
     "range": 1,
     "type": 2
   },
-  "weight": 2.5
+  "weight": 2.5,
+  "feminine_form": true
 }

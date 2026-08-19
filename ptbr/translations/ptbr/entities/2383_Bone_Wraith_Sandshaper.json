@@ -79,9 +79,9 @@
   "moveable": {
     "speed": 1.0
   },
-  "name": "Espectro de Osso Moldador de Areia",
+  "name": "Espectro Ósseo Moldador de Areia",
   "persona": {
-    "occupation": "Moldadores de Areia"
+    "occupation": "Sandshapers"
   },
   "sight": {
     "ignore_infra_penalty": false,

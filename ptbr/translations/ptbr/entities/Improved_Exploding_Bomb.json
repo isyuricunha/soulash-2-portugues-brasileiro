@@ -40,7 +40,7 @@
       15
     ]
   },
-  "description": "Uma bomba melhor faz um bum maior!",
+  "description": "Bomba melhor faz um bum maior!",
   "glyph": {
     "frames": [
       {
@@ -65,11 +65,12 @@
     133,
     109
   ],
-  "name": "Bomba Explosiva Melhorada",
+  "name": "Bomba Explosiva Aprimorada",
   "usable": {
     "ability": "core_2_Improved_Exploding_Bomb",
     "recipe": ""
   },
   "value": 2000,
-  "weight": 0.20000000298023224
+  "weight": 0.20000000298023224,
+  "feminine_form": true
 }

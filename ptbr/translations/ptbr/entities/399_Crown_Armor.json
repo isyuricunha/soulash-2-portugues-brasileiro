@@ -64,7 +64,8 @@
     165,
     32
   ],
-  "name": "Armadura de Coroa",
+  "name": "Armadura Real",
   "value": 20000,
-  "weight": 10.0
+  "weight": 10.0,
+  "feminine_form": true
 }

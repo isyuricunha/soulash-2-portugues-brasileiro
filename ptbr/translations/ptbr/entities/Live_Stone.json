@@ -12,7 +12,7 @@
     "weapon",
     "weight"
   ],
-  "description": "Esta pedra cinza pulsa com vida.",
+  "description": "Esta pedra cinzenta pulsa com vida.",
   "glyph": {
     "frames": [
       {
@@ -39,10 +39,11 @@
   ],
   "name": "Pedra Viva",
   "resource": {
-    "affix": "Live Stone",
+    "affix": "Pedra Viva",
     "magic_ingredient": 0,
     "quality": 2,
-    "type": 6
+    "type": 6,
+    "feminine_affix": "viva"
   },
   "statistics": {
     "dexterity": [
@@ -83,5 +84,6 @@
     "range": 1,
     "type": 9
   },
-  "weight": 0.5
+  "weight": 0.5,
+  "feminine_form": true
 }

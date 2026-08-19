@@ -27,7 +27,7 @@
     "tags"
   ],
   "corpse": "960",
-  "description": "Uma pequena figura humanoide com orelhas pontudas e um chapéu colorido.",
+  "description": "Uma pequena figura humanóide com orelhas pontudas e chapéu colorido.",
   "dialogues": [
     "1033"
   ],
@@ -36,15 +36,15 @@
       {
         "chance": 1.0,
         "id": "core_2_Stick",
-        "name": "Cajado",
+        "name": "Galho",
         "stack": 1
       }
     ]
   },
   "fighter": {
     "attackNames": [
-      "Punch",
-      "Bite"
+      "Soco",
+      "Mordida"
     ]
   },
   "glyph": {
@@ -74,7 +74,7 @@
   "moveable": {
     "speed": 1.100000023841858
   },
-  "name": "Elfo do Santa",
+  "name": "Elfo do Papai Noel",
   "sight": {
     "ignore_infra_penalty": false,
     "infravision": true,

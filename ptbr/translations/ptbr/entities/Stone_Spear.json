@@ -29,7 +29,7 @@
       14
     ]
   },
-  "description": "Uma lança de tamanho médio com um cabo de madeira e uma ponta de pedra afiada.",
+  "description": "Uma lança de comprimento médio com cabo de madeira e ponta de pedra afiada.",
   "glyph": {
     "frames": [
       {
@@ -72,5 +72,6 @@
     "range": 1,
     "type": 4
   },
-  "weight": 4.0
+  "weight": 4.0,
+  "feminine_form": true
 }

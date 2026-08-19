@@ -43,7 +43,7 @@
       15
     ]
   },
-  "description": "Uma caveira entalhada com símbolos místicos.",
+  "description": "Um crânio esculpido com símbolos místicos.",
   "glyph": {
     "frames": [
       {
@@ -68,12 +68,13 @@
     109,
     155
   ],
-  "name": "Crânio Entalhado",
+  "name": "Crânio Esculpido",
   "resource": {
-    "affix": "of the Skull",
+    "affix": "do Crânio",
     "magic_ingredient": 3,
     "quality": 3,
-    "type": 7
+    "type": 7,
+    "feminine_affix": "craniana"
   },
   "value": 3000,
   "weight": 0.10000000149011612

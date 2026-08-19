@@ -30,7 +30,7 @@
     "tags"
   ],
   "corpse": "2760",
-  "description": "Um humanoide parecido com um sapo coberto por uma baba nojenta.",
+  "description": "\rUm humanoide semelhante a sapo coberto por uma gosma nojenta.",
   "dialogues": [],
   "experience_gainer": {
     "exp": 0,
@@ -38,8 +38,8 @@
   },
   "fighter": {
     "attackNames": [
-      "Bite",
-      "Tongue whip"
+      "Mordida",
+      "Chicote de língua"
     ]
   },
   "glyph": {

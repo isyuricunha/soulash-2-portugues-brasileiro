@@ -24,7 +24,7 @@
       1
     ]
   },
-  "description": "Arma curta de uma mão usada para estocar e cortar.",
+  "description": "Arma curta, de uma mão, usada para estocadas e cortes.",
   "glyph": {
     "frames": [
       {
@@ -49,7 +49,7 @@
     160,
     161
   ],
-  "name": "Espada Curta",
+  "name": "espada curta",
   "value": 200,
   "weapon": {
     "attack_speed": 1.0,
@@ -66,5 +66,6 @@
     "range": 1,
     "type": 1
   },
-  "weight": 1.5
+  "weight": 1.5,
+  "feminine_form": true
 }

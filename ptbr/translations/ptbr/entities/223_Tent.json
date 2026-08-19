@@ -21,7 +21,7 @@
     "minimap_pixel"
   ],
   "corpse": [],
-  "description": "Pequeno local fechado de descanso, abrigo contra chuva e sol.",
+  "description": "Pequeno local fechado para descanso, abrigo da chuva e do sol.",
   "glyph": {
     "frames": [
       {
@@ -43,5 +43,6 @@
     50
   ],
   "name": "Barraca",
-  "resting_place": 130
+  "resting_place": 130,
+  "feminine_form": true
 }

@@ -44,7 +44,7 @@
       15
     ]
   },
-  "description": "Explodindo no impacto, causando dano a todos próximos com todos os tipos de dano.",
+  "description": "Explode ao impacto, ferindo todos nas proximidades com todo tipo de dano.",
   "glyph": {
     "frames": [
       {
@@ -69,7 +69,7 @@
     133,
     109
   ],
-  "name": "Bomba Arco-Íris",
+  "name": "Bomba Arco-íris",
   "value": 4000,
   "weapon": {
     "attack_animation": "core_2_Rainbow_Bomb_Throw",
@@ -123,5 +123,6 @@
     "range": 8,
     "type": 11
   },
-  "weight": 0.20000000298023224
+  "weight": 0.20000000298023224,
+  "feminine_form": true
 }

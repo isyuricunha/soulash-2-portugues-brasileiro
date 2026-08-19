@@ -11,7 +11,7 @@
     "value",
     "weight"
   ],
-  "description": "Um casco resistente colhido de uma criatura que funde humano e cavalo.",
+  "description": "Um casco robusto colhido de uma criatura que mescla humano e cavalo.",
   "glyph": {
     "frames": [
       {
@@ -39,12 +39,13 @@
   "moveable": {
     "speed": -0.05
   },
-  "name": "Casco de Centauro",
+  "name": "Casco do Centauro",
   "resource": {
-    "affix": "Galloping",
+    "affix": "Galopante",
     "magic_ingredient": 0,
     "quality": 3,
-    "type": 5
+    "type": 5,
+    "feminine_affix": "Galopante"
   },
   "value": 2300,
   "weight": 0.10000000149011612

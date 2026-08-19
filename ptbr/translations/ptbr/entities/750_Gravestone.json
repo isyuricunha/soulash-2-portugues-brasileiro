@@ -24,7 +24,7 @@
     "time": 10,
     "tools": []
   },
-  "description": "Reserve este belo local para você\nApenas 20 peças de prata\nPergunte por Gervaud em Mansfield",
+  "description": "Reserve este belo lugar para você\nApenas 20 peças de prata\nProcure Gervaud em Mansfield",
   "glyph": {
     "frames": [
       {
@@ -95,5 +95,6 @@
       ]
     },
     "time": 15
-  }
+  },
+  "feminine_form": true
 }

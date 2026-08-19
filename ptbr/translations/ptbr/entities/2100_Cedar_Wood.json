@@ -24,7 +24,7 @@
     "weapon",
     "weight"
   ],
-  "description": "A madeira de cedro é excepcional na fabricação de arcos e compõe escudos muito resistentes.",
+  "description": "A madeira de cedro é excepcional na fabricação de arcos e resulta em escudos muito resistentes.",
   "glyph": {
     "frames": [
       {
@@ -51,10 +51,11 @@
   ],
   "name": "Madeira de Cedro",
   "resource": {
-    "affix": "Solid",
+    "affix": "Sólido",
     "magic_ingredient": 0,
     "quality": 2,
-    "type": 3
+    "type": 3,
+    "feminine_affix": "Sólida"
   },
   "value": 700,
   "weapon": {
@@ -72,5 +73,6 @@
     "range": 0,
     "type": 9
   },
-  "weight": 0.10000000149011612
+  "weight": 0.10000000149011612,
+  "feminine_form": true
 }

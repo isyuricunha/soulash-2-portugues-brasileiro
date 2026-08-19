@@ -111,9 +111,9 @@
   "moveable": {
     "speed": 1.100000023841858
   },
-  "name": "Vampiro Armeiro",
+  "name": "Armeiro Vampiro",
   "persona": {
-    "occupation": "Armeiro"
+    "occupation": "Weaponsmith"
   },
   "sight": {
     "ignore_infra_penalty": false,

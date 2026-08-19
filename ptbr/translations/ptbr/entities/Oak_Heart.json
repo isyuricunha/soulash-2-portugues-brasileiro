@@ -50,10 +50,11 @@
   ],
   "name": "Coração de Carvalho",
   "resource": {
-    "affix": "of the Oak Heart",
+    "affix": "do Coração de Carvalho",
     "magic_ingredient": 1,
     "quality": 1,
-    "type": 7
+    "type": 7,
+    "feminine_affix": "do Coração de Carvalho"
   },
   "value": 300,
   "weight": 0.10000000149011612

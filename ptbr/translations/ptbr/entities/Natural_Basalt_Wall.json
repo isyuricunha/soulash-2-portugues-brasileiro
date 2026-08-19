@@ -56,7 +56,7 @@
     58,
     92
   ],
-  "name": "Parede de Basalto Natural",
+  "name": "Parede Natural de Basalto",
   "producer": {
     "products": {
       "5": [
@@ -71,5 +71,6 @@
       ]
     },
     "time": 120
-  }
+  },
+  "feminine_form": true
 }

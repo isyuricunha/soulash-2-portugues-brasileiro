@@ -24,7 +24,7 @@
     "weapon",
     "weight"
   ],
-  "description": "Casca de quitina de um inseto do tamanho de um cão.",
+  "description": "Carapaça de quitina de um inseto do tamanho de um cachorro.",
   "glyph": {
     "frames": [
       {
@@ -49,12 +49,13 @@
     227,
     120
   ],
-  "name": "Casca de Inseto",
+  "name": "Carapaça de Inseto",
   "resource": {
-    "affix": "Chitin",
+    "affix": "Quitinoso",
     "magic_ingredient": 0,
     "quality": 1,
-    "type": 10
+    "type": 10,
+    "feminine_affix": "Quitinosa"
   },
   "value": 300,
   "weapon": {
@@ -73,5 +74,6 @@
     "range": 0,
     "type": -1
   },
-  "weight": 0.10000000149011612
+  "weight": 0.10000000149011612,
+  "feminine_form": true
 }

@@ -28,7 +28,7 @@
     "weapon"
   ],
   "corpse": "core_2_Kangoroo_Corpse",
-  "description": "Um animal surpreendentemente grande saltitando sobre suas pernas traseiras massivas.",
+  "description": "Um animal surpreendentemente grande saltitando em suas enormes patas traseiras.",
   "dialogues": [
     "755",
     "756",
@@ -63,8 +63,8 @@
   },
   "fighter": {
     "attackNames": [
-      "Scratch",
-      "Kick"
+      "Arranhão",
+      "Chute"
     ]
   },
   "glyph": {

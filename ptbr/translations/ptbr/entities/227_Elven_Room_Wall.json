@@ -33,7 +33,7 @@
     "producer"
   ],
   "corpse": [],
-  "description": "Esta é parte da árvore élfica mágica dentro da fortaleza élfica de Anheluna.",
+  "description": "Isto é parte da árvore ancestral mágica no interior da fortaleza élfica de Anheluna.",
   "glyph": {
     "frames": [
       {
@@ -74,7 +74,7 @@
     58,
     75
   ],
-  "name": "Parede de Sala Élfica",
+  "name": "Parede do Quarto Élfico",
   "producer": {
     "products": {
       "1": [
@@ -89,5 +89,6 @@
       ]
     },
     "time": 100
-  }
+  },
+  "feminine_form": true
 }

@@ -6,7 +6,7 @@
     "health": 0,
     "stamina": 0
   },
-  "description": "Esta poção lhe dá ::resistance de resistência ::damage_type por ::duration turnos.",
+  "description": "Esta poção concede resistência ::resistance a ::damage_type por ::duration turnos.",
   "duration": 100.0,
   "effects": {
     "damage_type": "electricity",

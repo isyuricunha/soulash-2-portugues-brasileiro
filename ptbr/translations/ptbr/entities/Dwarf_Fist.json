@@ -54,7 +54,7 @@
       {
         "chance": 1.0,
         "id": "581",
-        "name": "Saia Escocesa",
+        "name": "Kilt",
         "stack": 1
       }
     ]
@@ -93,9 +93,9 @@
   "moveable": {
     "speed": 1.0
   },
-  "name": "Soco Anão",
+  "name": "Punho Anão",
   "persona": {
-    "occupation": "Punho"
+    "occupation": "Fist"
   },
   "sight": {
     "ignore_infra_penalty": false,

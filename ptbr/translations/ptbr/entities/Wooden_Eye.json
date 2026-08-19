@@ -27,7 +27,7 @@
       15
     ]
   },
-  "description": "Tem uma pupila desenhada nele, mas este olho não parece um de verdade.",
+  "description": "Tem uma pupila desenhada nele, mas este olho não parece real.",
   "glyph": {
     "frames": [
       {
@@ -54,10 +54,11 @@
   ],
   "name": "Olho de Madeira",
   "resource": {
-    "affix": "Freeing",
+    "affix": "Libertação",
     "magic_ingredient": 1,
     "quality": 1,
-    "type": 7
+    "type": 7,
+    "feminine_affix": "Libertadora"
   },
   "value": 400,
   "weapon": {

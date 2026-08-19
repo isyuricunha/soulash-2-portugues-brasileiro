@@ -55,7 +55,7 @@
       {
         "chance": 1.0,
         "id": "2300",
-        "name": "Maça Escamada",
+        "name": "Maça de Escamas",
         "stack": 1
       }
     ],
@@ -63,7 +63,7 @@
       {
         "chance": 1.0,
         "id": "core_2_Pirate_Shirt",
-        "name": "Camisa de Pirata",
+        "name": "Camisa Pirata",
         "stack": 1
       }
     ]
@@ -102,7 +102,7 @@
   "moveable": {
     "speed": 0.8999999761581421
   },
-  "name": "Rasimi Pirata",
+  "name": "Pirata Rasimi",
   "sight": {
     "ignore_infra_penalty": false,
     "infravision": true,

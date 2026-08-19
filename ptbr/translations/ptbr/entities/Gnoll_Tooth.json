@@ -98,7 +98,7 @@
   },
   "name": "Dente de Gnoll",
   "persona": {
-    "occupation": "Dente"
+    "occupation": "Tooth"
   },
   "sight": {
     "ignore_infra_penalty": false,

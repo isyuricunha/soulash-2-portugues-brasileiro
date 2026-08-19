@@ -25,7 +25,7 @@
   },
   {
     "id": "core_2_parry_mastery",
-    "name": "Mestria em Aparar",
+    "name": "Maestria em Aparar",
     "image": 12,
     "restrict_weapon_type": "sword",
     "effects": [
@@ -37,7 +37,7 @@
   },
   {
     "id": "core_2_three_swords_style",
-    "name": "Estilo das Três Espadas",
+    "name": "Estilo de Três Espadas",
     "image": 13,
     "restrict_weapon_type": "sword",
     "effects": [
@@ -49,7 +49,7 @@
   },
   {
     "id": "core_2_area_maps",
-    "name": "Vim Preparado",
+    "name": "Veio Preparado",
     "image": 5,
     "effects": [
       {
@@ -102,7 +102,7 @@
   },
   {
     "id": "core_2_no_fall_damage",
-    "name": "Imunidade a Quedas",
+    "name": "Imunidade à Queda",
     "image": 23,
     "effects": [
       {
@@ -113,7 +113,7 @@
   },
   {
     "id": "core_2_swift_movement",
-    "name": "Movimento Rápido",
+    "name": "Movimento Ágil",
     "image": 4,
     "effects": [
       {
@@ -201,7 +201,7 @@
   },
   {
     "id": "core_2_health_bonus",
-    "name": "Apto",
+    "name": "Em Forma",
     "image": 18,
     "effects": [
       {
@@ -212,7 +212,7 @@
   },
   {
     "id": "core_2_max_stamina",
-    "name": "Cavalo de Trabalho",
+    "name": "Cavalo de Batalha",
     "image": 21,
     "effects": [
       {
@@ -223,7 +223,7 @@
   },
   {
     "id": "core_2_attack_speed",
-    "name": "Golpe Rápido",
+    "name": "Golpe Veloz",
     "image": 20,
     "effects": [
       {
@@ -234,7 +234,7 @@
   },
   {
     "id": "core_2_health_tick",
-    "name": "Recuperação Rápida",
+    "name": "Recuperação Veloz",
     "image": 22,
     "effects": [
       {
@@ -245,7 +245,7 @@
   },
   {
     "id": "core_2_light_footed",
-    "name": "Pés Leves",
+    "name": "Passos Leves",
     "image": 24,
     "effects": [
       {
@@ -256,7 +256,7 @@
   },
   {
     "id": "core_2_strong_grip",
-    "name": "Aperto Forte",
+    "name": "Pegada Firme",
     "image": 29,
     "restrict_weapon_type": "axe",
     "effects": [
@@ -268,7 +268,7 @@
   },
   {
     "id": "core_2_swift_woodcutting",
-    "name": "Lenhador Rápido",
+    "name": "Corte de Madeira Veloz",
     "image": 30,
     "effects": [
       {
@@ -302,7 +302,7 @@
   },
   {
     "id": "core_2_2h_dual_wield",
-    "name": "Empunhar Duas Armas de Duas Mãos",
+    "name": "Empunhadura Dupla de 2-Mãos",
     "image": 25,
     "restrict_weapon_type": "axe",
     "effects": [
@@ -334,7 +334,7 @@
   },
   {
     "id": "core_2_pierce_armor",
-    "name": "Perfurar Armadura",
+    "name": "Perfuração de Armadura",
     "image": 31,
     "restrict_weapon_type": "mace",
     "effects": [
@@ -347,7 +347,7 @@
   },
   {
     "id": "core_2_taking_advantage",
-    "name": "Tirar Vantagem",
+    "name": "Aproveitar a Vantagem",
     "image": 26,
     "restrict_weapon_type": "mace",
     "effects": [
@@ -371,7 +371,7 @@
   },
   {
     "id": "core_2_fire_starter",
-    "name": "Iniciador de Fogo",
+    "name": "Incendiário",
     "image": 34,
     "effects": [
       {
@@ -419,7 +419,7 @@
   },
   {
     "id": "core_2_nose_for_trouble",
-    "name": "Faro Para Problemas",
+    "name": "Faro para Problemas",
     "image": 40,
     "effects": [
       {
@@ -440,7 +440,7 @@
   },
   {
     "id": "core_2_salvage_bonus",
-    "name": "Bônus de Chance de Desmanche",
+    "name": "Bônus de Chance de Recuperação",
     "image": 44,
     "effects": [
       {
@@ -463,7 +463,7 @@
   },
   {
     "id": "core_2_discover_all_tiers",
-    "name": "Descubra Tudo",
+    "name": "Descobrir Tudo",
     "image": 45,
     "effects": [
       {
@@ -473,7 +473,7 @@
   },
   {
     "id": "core_2_extra_loot",
-    "name": "Loot Extra",
+    "name": "Saques Extras",
     "image": 42,
     "effects": [
       {
@@ -484,7 +484,7 @@
   },
   {
     "id": "core_2_infravision",
-    "name": "Visão Infravermelha",
+    "name": "Infravisão",
     "image": 60,
     "effects": [
       {
@@ -560,7 +560,7 @@
   },
   {
     "id": "core_2_good_deals",
-    "name": "Boas Ofertas",
+    "name": "Bons Negócios",
     "image": 46,
     "effects": [
       {
@@ -651,7 +651,7 @@
   },
   {
     "id": "core_2_bonus_dexterity",
-    "name": "Destreza Bônus",
+    "name": "Bônus de Destreza",
     "image": 62,
     "effects": [
       {
@@ -719,7 +719,7 @@
   },
   {
     "id": "core_2_heavy_duty",
-    "name": "Serviço Pesado",
+    "name": "Uso Pesado",
     "image": 64,
     "apply_mode": "party_only",
     "effects": [
@@ -731,7 +731,7 @@
   },
   {
     "id": "core_2_rapid_retreat",
-    "name": "Retirada Rápida",
+    "name": "Recuo Rápido",
     "image": 66,
     "effects": [
       {
@@ -806,7 +806,7 @@
   },
   {
     "id": "core_2_light_walk",
-    "name": "Passos Leves",
+    "name": "Passo Leve",
     "image": 70,
     "effects": [
       {
@@ -817,7 +817,7 @@
   },
   {
     "id": "core_2_analyze_speed",
-    "name": "Analisar Velocidade",
+    "name": "Análise de Velocidade",
     "image": 72,
     "effects": [
       {
@@ -840,7 +840,7 @@
   },
   {
     "id": "core_2_analyze_weakness",
-    "name": "Analisar Fraqueza",
+    "name": "Análise de Fraqueza",
     "image": 73,
     "effects": [
       {
@@ -921,7 +921,7 @@
   },
   {
     "id": "core_2_surrounded_by_nature",
-    "name": "Natureza Avasaladora",
+    "name": "Natureza Avassaladora",
     "image": 80,
     "effects": [
       {
@@ -933,7 +933,7 @@
   },
   {
     "id": "core_2_shooting_thorns",
-    "name": "Disparo de Espinhos",
+    "name": "Espinhos Projetados",
     "image": 79,
     "effects": [
       {
@@ -968,7 +968,7 @@
   },
   {
     "id": "core_2_freeze",
-    "name": "Congelar",
+    "name": "Congelamento",
     "image": 84,
     "effects": [
       {
@@ -992,7 +992,7 @@
   },
   {
     "id": "core_2_walk_on_water",
-    "name": "Andar Sobre a Água",
+    "name": "Andar sobre a Água",
     "image": 85,
     "effects": [
       {
@@ -1015,7 +1015,7 @@
   },
   {
     "id": "core_2_static",
-    "name": "Estático",
+    "name": "Estática",
     "image": 89,
     "restrict_weapon_type": "throw",
     "effects": [
@@ -1039,7 +1039,7 @@
   },
   {
     "id": "core_2_conductive_aim",
-    "name": "Mira Condutora",
+    "name": "Mira Condutiva",
     "image": 97,
     "restrict_weapon_type": "throw",
     "effects": [
@@ -1074,7 +1074,7 @@
   },
   {
     "id": "core_2_lightning_reflexes",
-    "name": "Reflexos Relâmpago",
+    "name": "Reflexos de Raio",
     "image": 93,
     "effects": [
       {
@@ -1086,6 +1086,7 @@
   {
     "id": "core_2_electric_speed",
     "name": "Velocidade Elétrica",
+    "description": "Cada acúmulo concede bônus de -0.05 de velocidade de ataque. Máximo de 10 acúmulos.",
     "image": 90,
     "effects": [
       {
@@ -1096,7 +1097,7 @@
   },
   {
     "id": "core_2_non_conductive",
-    "name": "Não Condutor",
+    "name": "Não Condutivo",
     "image": 95,
     "effects": [
       {
@@ -1108,7 +1109,7 @@
   },
   {
     "id": "core_2_energy_steal",
-    "name": "Roubar Energia",
+    "name": "Roubo de Energia",
     "image": 91,
     "effects": [
       {
@@ -1120,6 +1121,7 @@
   {
     "id": "core_2_charged_precision",
     "name": "Precisão Carregada",
+    "description": "Cada pilha concede a você 1% de chance de acerto crítico.",
     "image": 99,
     "effects": [
       {
@@ -1130,7 +1132,7 @@
   },
   {
     "id": "core_2_lightning_strike",
-    "name": "Golpe de Relâmpago",
+    "name": "Golpe de Raio",
     "image": 96,
     "effects": [
       {
@@ -1142,7 +1144,7 @@
   },
   {
     "id": "core_2_expert_throw",
-    "name": "Arremesso Especializado",
+    "name": "Arremesso Perito",
     "image": 94,
     "restrict_weapon_type": "throw",
     "effects": [
@@ -1154,7 +1156,7 @@
   },
   {
     "id": "core_2_taste_for_souls",
-    "name": "Gosto por Almas",
+    "name": "Apetite por Almas",
     "image": 100,
     "effects": [
       {
@@ -1166,7 +1168,7 @@
   },
   {
     "id": "core_2_soul_deposit",
-    "name": "Depósitos de Alma",
+    "name": "Depósitos de Almas",
     "image": 101,
     "effects": [
       {
@@ -1188,7 +1190,7 @@
   },
   {
     "id": "core_2_harness_power",
-    "name": "Aproveitar Poder",
+    "name": "Canalizar Poder",
     "image": 104,
     "effects": [
       {
@@ -1210,7 +1212,7 @@
   },
   {
     "id": "core_2_raise_undead",
-    "name": "Reanimar Mortos",
+    "name": "Erguer Mortos-Vivos",
     "image": 106,
     "effects": [
       {
@@ -1223,7 +1225,7 @@
   },
   {
     "id": "core_2_raise_bone_wraith",
-    "name": "Invocar Espectro de Osso",
+    "name": "Erguer Espectro de Osso",
     "image": 113,
     "effects": [
       {
@@ -1236,7 +1238,7 @@
   },
   {
     "id": "core_2_better_deal_usable",
-    "name": "Negócios Melhorados (Usável)",
+    "name": "Melhores Negócios (Utilizável)",
     "image": 111,
     "effects": [
       {
@@ -1271,7 +1273,7 @@
   },
   {
     "id": "core_2_blessed_knuckles",
-    "name": "Nodosos Abençoados",
+    "name": "Nudelos Abençoados",
     "image": 127,
     "effects": [
       {
@@ -1293,7 +1295,7 @@
   },
   {
     "id": "core_2_purify_damned",
-    "name": "Purificar os Malditos",
+    "name": "Purificar os Condenados",
     "image": 129,
     "restrict_tags": [
       "4",
@@ -1367,7 +1369,7 @@
   },
   {
     "id": "core_2_raging",
-    "name": "Fúria",
+    "name": "Furioso",
     "image": 136,
     "effects": [
       {
@@ -1389,7 +1391,7 @@
   },
   {
     "id": "core_2_darkvision",
-    "name": "Visão Sombria",
+    "name": "Visão Noturna",
     "image": 137,
     "effects": [
       {
@@ -1444,7 +1446,7 @@
   },
   {
     "id": "core_2_Scorch_Ward",
-    "name": "Guarda-Chamas",
+    "name": "Barreira Calcinante",
     "image": 142,
     "effects": [
       {
@@ -1468,7 +1470,7 @@
   },
   {
     "id": "core_2_repeat_fire_ability",
-    "name": "Repetir Habilidade de Fogo",
+    "name": "Habilidade de Disparo Repetido",
     "image": 146,
     "effects": [
       {
@@ -1481,7 +1483,7 @@
   },
   {
     "id": "core_2_sprint_boost_solo",
-    "name": "Impulso de Velocidade",
+    "name": "Impulso de Corrida",
     "image": 144,
     "apply_mode": "solo_only",
     "effects": [
@@ -1505,7 +1507,7 @@
   },
   {
     "id": "core_2_poison_transfer_on_kill",
-    "name": "Morte Veneno",
+    "name": "Morte Venenosa",
     "image": 159,
     "effects": [
       {
@@ -1539,6 +1541,29 @@
         "effect": "ability_extend_duration",
         "value": "core_2_Aura_Of_Petals",
         "secondary_value": 0.5
+      }
+    ]
+  },
+  {
+    "id": "core_2_knock_it_down",
+    "name": "Derrubada",
+    "image": 162,
+    "effects": [
+      {
+        "effect": "bonus_knockback_damage_percent",
+        "value": 0.2
+      }
+    ]
+  },
+  {
+    "id": "core_2_feed_on_electricity",
+    "name": "Alimentar-se de Eletricidade",
+    "image": 163,
+    "effects": [
+      {
+        "effect": "heal_on_damage_type",
+        "value": "electricity",
+        "secondary_value": 0.2
       }
     ]
   }

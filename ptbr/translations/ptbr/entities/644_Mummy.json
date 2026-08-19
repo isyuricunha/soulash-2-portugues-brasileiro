@@ -30,7 +30,7 @@
     "tags"
   ],
   "corpse": "347",
-  "description": "Cadáver não-morto envolto em bandagens antigas. Olhos vermelhos rubi brilham para você com ira.",
+  "description": "Cadáver morto-vivo envolto em bandagens antigas. Olhos vermelho-rubi brilham para você com ira.",
   "dialogues": [
     "228",
     "229"
@@ -48,7 +48,7 @@
       {
         "chance": 1.0,
         "id": "183",
-        "name": "Túnica",
+        "name": "Veste",
         "stack": 1
       }
     ]
@@ -123,5 +123,6 @@
   },
   "tags": [
     "4"
-  ]
+  ],
+  "feminine_form": true
 }

@@ -50,7 +50,7 @@
       1
     ]
   },
-  "description": "Um torso de golem com uma caixa espaçosa dentro.",
+  "description": "Torso de um golem com uma caixa espaçosa no interior.",
   "glyph": {
     "frames": [
       {
@@ -75,7 +75,7 @@
     160,
     161
   ],
-  "name": "Torso de Caixa",
+  "name": "Torso Caixa",
   "value": 15000,
   "weight": 1.5
 }

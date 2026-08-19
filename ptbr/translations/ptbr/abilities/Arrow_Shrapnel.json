@@ -7,7 +7,7 @@
     "health": 0,
     "stamina": 5
   },
-  "description": "Sua flecha explode no impacto em múltiplos estilhaços pequenos que acertam tudo atrás do alvo em um cone causando ::damage de ::damage_type de dano.",
+  "description": "Sua flecha explode no impacto em vários estilhaços que atingem tudo atrás do alvo em um cone causando ::damage de dano ::damage_type.",
   "duration": 0.0,
   "effects": {
     "aoe_break": 2,

@@ -48,7 +48,7 @@
       {
         "chance": 1.0,
         "id": "2220",
-        "name": "Capacete de Escamas",
+        "name": "Elmo de Escamas",
         "stack": 1
       }
     ],
@@ -121,7 +121,7 @@
   },
   "name": "Líder Reptilion",
   "persona": {
-    "occupation": "Líder"
+    "occupation": "Leader"
   },
   "sight": {
     "ignore_infra_penalty": false,

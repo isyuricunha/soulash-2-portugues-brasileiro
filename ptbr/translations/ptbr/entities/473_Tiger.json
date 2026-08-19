@@ -28,7 +28,7 @@
     "weapon"
   ],
   "corpse": "593",
-  "description": "Este gato grande é o caçador perfeito. Parece que não foi alimentado há algum tempo, e você pode sentir seu desejo de te devorar.",
+  "description": "Este gato crescido demais é o caçador perfeito. Parece que não come há tempos, e você sente sua ânsia por devorá-lo.",
   "dialogues": [
     "238",
     "239",
@@ -63,8 +63,8 @@
   },
   "fighter": {
     "attackNames": [
-      "Scratch",
-      "Bite"
+      "Arranhão",
+      "Mordida"
     ]
   },
   "glyph": {

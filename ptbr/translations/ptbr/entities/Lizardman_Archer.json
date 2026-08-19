@@ -52,7 +52,7 @@
       {
         "chance": 1.0,
         "id": "169",
-        "name": "Capacete",
+        "name": "Elmo",
         "stack": 1
       }
     ],
@@ -60,7 +60,7 @@
       {
         "chance": 1.0,
         "id": "572",
-        "name": "Guarda-Pernas",
+        "name": "Perneiras",
         "stack": 1
       }
     ],
@@ -87,9 +87,9 @@
   },
   "fighter": {
     "attackNames": [
-      "Scratch",
-      "Bite",
-      "Tail"
+      "Arranhão",
+      "Mordida",
+      "Cauda"
     ]
   },
   "glyph": {
@@ -119,7 +119,7 @@
   "moveable": {
     "speed": 1.0
   },
-  "name": "Arqueiro Homem-Lagarto",
+  "name": "Homem-lagarto Arqueiro",
   "sight": {
     "ignore_infra_penalty": false,
     "infravision": false,

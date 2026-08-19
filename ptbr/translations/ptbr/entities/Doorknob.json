@@ -33,7 +33,7 @@
       15
     ]
   },
-  "description": "Uma maçaneta comum. Provavelmente poderia ser adaptada a uma porta.",
+  "description": "Uma maçaneta comum. Provavelmente pode ser instalada em uma porta.",
   "glyph": {
     "frames": [
       {
@@ -60,10 +60,11 @@
   ],
   "name": "Maçaneta",
   "resource": {
-    "affix": "of the Door",
+    "affix": "da Porta",
     "magic_ingredient": 2,
     "quality": 2,
-    "type": 7
+    "type": 7,
+    "feminine_affix": "da Porta"
   },
   "value": 900,
   "weapon": {
@@ -82,5 +83,6 @@
     "range": 0,
     "type": 9
   },
-  "weight": 0.10000000149011612
+  "weight": 0.10000000149011612,
+  "feminine_form": true
 }

@@ -50,7 +50,7 @@
     "time": 20,
     "tools": []
   },
-  "description": "Um portão feito de blocos de pedra grossos permite a passagem.",
+  "description": "Um portão feito de grossos blocos de pedra permite a passagem.",
   "glyph": {
     "frames": [
       {
@@ -77,7 +77,7 @@
   "openable": {
     "block_light": false,
     "collidable": false,
-    "description": "Blocos de pedra são movidos para os lados permitindo a passagem.",
+    "description": "Blocos de pedra são movidos para os lados, permitindo a passagem.",
     "glyph": {
       "frames": [
         {

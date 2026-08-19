@@ -30,14 +30,14 @@
     "tags"
   ],
   "corpse": [],
-  "description": "Esta minhoca gigante se contorce pela areia como se fosse o rei do deserto.",
+  "description": "Este enorme verme se contorce pela areia como se fosse o rei do deserto.",
   "experience_gainer": {
     "exp": 0,
     "level": 50
   },
   "fighter": {
     "attackNames": [
-      "Tail Sting"
+      "Ferroada da Cauda"
     ]
   },
   "glyph": {
@@ -64,7 +64,7 @@
   "moveable": {
     "speed": 0.800000011920929
   },
-  "name": "Cauda de Minhoca Gigante",
+  "name": "Cauda de Verme Gigante",
   "sight": {
     "ignore_infra_penalty": true,
     "infravision": true,
@@ -104,5 +104,6 @@
     "38",
     "18",
     "9"
-  ]
+  ],
+  "feminine_form": true
 }

@@ -44,7 +44,7 @@
     "tags"
   ],
   "corpse": "791",
-  "description": "Este livro não quer apenas ficar na prateleira.",
+  "description": "Este livro não quer apenas ficar parado na estante.",
   "dialogues": [],
   "experience_gainer": {
     "exp": 0,
@@ -52,7 +52,7 @@
   },
   "fighter": {
     "attackNames": [
-      "Page Slap"
+      "Tapa de Página"
     ]
   },
   "glyph": {

@@ -24,7 +24,7 @@
     "weapon",
     "weight"
   ],
-  "description": "Liso e escamoso, a pele de cobra deslumbra com um brilho iridescente, um tapete exótico da arte da natureza.",
+  "description": "Elegante e escamosa, a pele de cobra brilha com um fascínio iridescente, uma tapeçaria exótica da arte da natureza.",
   "glyph": {
     "frames": [
       {
@@ -51,10 +51,11 @@
   ],
   "name": "Couro de Cobra",
   "resource": {
-    "affix": "Sleek",
+    "affix": "Elegante",
     "magic_ingredient": 0,
     "quality": 1,
-    "type": 2
+    "type": 2,
+    "feminine_affix": "Elegante"
   },
   "value": 800,
   "weapon": {

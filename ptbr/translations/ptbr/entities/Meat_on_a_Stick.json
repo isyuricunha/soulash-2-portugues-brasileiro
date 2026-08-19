@@ -10,7 +10,7 @@
     "value",
     "weight"
   ],
-  "description": "Cubos de carne em um palito, cobertos com molho. O que mais você pode querer?",
+  "description": "Cubos de carne no espeto, cobertos com molho. O que mais você pode querer?",
   "food": {
     "nutrition": 50,
     "on_eat": "",
@@ -40,7 +40,8 @@
     78,
     54
   ],
-  "name": "Carne no Palito",
+  "name": "Carne no Espeto",
   "value": 300,
-  "weight": 0.10000000149011612
+  "weight": 0.10000000149011612,
+  "feminine_form": true
 }

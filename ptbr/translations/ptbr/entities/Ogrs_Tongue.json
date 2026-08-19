@@ -10,7 +10,7 @@
     "value",
     "weight"
   ],
-  "description": "Estranhamente longo e levemente quente ao toque.",
+  "description": "Estranhamente longa e levemente quente ao toque.",
   "glyph": {
     "frames": [
       {
@@ -35,13 +35,14 @@
     144,
     88
   ],
-  "name": "Língua de Ogre",
+  "name": "Língua de Ogr",
   "resource": {
     "affix": "",
     "magic_ingredient": 0,
     "quality": 3,
-    "type": 0
+    "type": 12
   },
   "value": 800,
-  "weight": 0.10000000149011612
+  "weight": 0.10000000149011612,
+  "feminine_form": true
 }

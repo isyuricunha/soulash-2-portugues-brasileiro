@@ -6,7 +6,7 @@
     "health": 0,
     "stamina": 6
   },
-  "description": "Ataque todos em um anel ao seu redor com ::damage de dano ::damage_type.",
+  "description": "Ataca todos em um anel ao seu redor por ::damage ::damage_type de dano.",
   "duration": 0.0,
   "effects": {
     "aoe_break": 0,

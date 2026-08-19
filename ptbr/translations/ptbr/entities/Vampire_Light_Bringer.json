@@ -79,9 +79,9 @@
   "moveable": {
     "speed": 1.5
   },
-  "name": "Vampiro Portador de Luz",
+  "name": "Vampiro Portador da Luz",
   "persona": {
-    "occupation": "Portador de Luz"
+    "occupation": "Light Bringer"
   },
   "sight": {
     "ignore_infra_penalty": false,

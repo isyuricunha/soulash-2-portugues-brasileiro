@@ -23,7 +23,7 @@
     "value",
     "weight"
   ],
-  "description": "Pele grossa e quente de uma rena.",
+  "description": "Pelagem grossa e quente de uma rena.",
   "glyph": {
     "frames": [
       {
@@ -50,11 +50,13 @@
   ],
   "name": "Pele de Rena",
   "resource": {
-    "affix": "Febrile",
+    "affix": "Febril",
     "magic_ingredient": 0,
     "quality": 1,
-    "type": 9
+    "type": 9,
+    "feminine_affix": "Febril"
   },
   "value": 250,
-  "weight": 0.10000000149011612
+  "weight": 0.10000000149011612,
+  "feminine_form": true
 }

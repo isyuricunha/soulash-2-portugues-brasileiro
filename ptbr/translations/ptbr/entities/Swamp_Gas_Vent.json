@@ -16,7 +16,7 @@
     "duration": 3.0,
     "tick": 1.0
   },
-  "description": "Uma coluna de gás tóxico sobe do chão envenenando todos nas proximidades.",
+  "description": "Uma coluna de gás fétido sobe do solo envenenando todos ao redor.",
   "glyph": {
     "frames": [
       {
@@ -109,5 +109,6 @@
     255,
     255
   ],
-  "name": "Ventilação de Gás do Pântano"
+  "name": "Respiro de Gás de Pântano",
+  "feminine_form": true
 }

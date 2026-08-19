@@ -70,9 +70,9 @@
   "moveable": {
     "speed": 1.0
   },
-  "name": "Rasimi Soprador de Vidro",
+  "name": "Vidreiro Rasimi",
   "persona": {
-    "occupation": "Soprador de Vidro"
+    "occupation": "Glassblower"
   },
   "sight": {
     "ignore_infra_penalty": false,

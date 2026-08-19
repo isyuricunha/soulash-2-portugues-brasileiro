@@ -6,7 +6,7 @@
     "health": 0,
     "stamina": 5
   },
-  "description": "Aplica Congelamento por 3 turnos e imobiliza o alvo por 1 turno.",
+  "description": "Aplique Congelamento por 3 turnos e imobilize o alvo por 1 turno.",
   "duration": 1.0,
   "effects": {
     "frostbite": 3,

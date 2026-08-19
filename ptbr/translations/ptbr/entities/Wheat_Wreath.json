@@ -8,7 +8,7 @@
     "position_2d"
   ],
   "corpse": [],
-  "description": "Hastes de trigo secas dispostas em um círculo.",
+  "description": "Talos de trigo secos dispostos em círculo.",
   "glyph": {
     "frames": [
       {
@@ -30,5 +30,6 @@
     108,
     14
   ],
-  "name": "Coroa de Trigo"
+  "name": "Guirlanda de Trigo",
+  "feminine_form": true
 }

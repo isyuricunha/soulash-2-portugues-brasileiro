@@ -32,7 +32,7 @@
     "producer"
   ],
   "corpse": [],
-  "description": "Esta é uma parede feita de mármore, com buracos nela.",
+  "description": "Esta é uma parede de mármore com buracos.",
   "glyph": {
     "frames": [
       {
@@ -70,5 +70,6 @@
       ]
     },
     "time": 80
-  }
+  },
+  "feminine_form": true
 }

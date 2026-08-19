@@ -77,9 +77,9 @@
   "moveable": {
     "speed": 1.2999999523162842
   },
-  "name": "Troll Moldador de Pedras",
+  "name": "Troll Moldador de Pedra",
   "persona": {
-    "occupation": "Moldador de Pedras"
+    "occupation": "Stone Shaper"
   },
   "sight": {
     "ignore_infra_penalty": false,

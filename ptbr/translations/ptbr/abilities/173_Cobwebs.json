@@ -6,7 +6,7 @@
     "health": 0,
     "stamina": 0
   },
-  "description": "Você está preso nas teias de aranha e não pode se mover!",
+  "description": "Você está preso em teias de aranha e não pode se mover!",
   "duration": 3.0,
   "effects": {
     "immobilize": 1

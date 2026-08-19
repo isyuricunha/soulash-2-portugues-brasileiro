@@ -8,7 +8,7 @@
     "position_2d"
   ],
   "corpse": [],
-  "description": "Aqui jaz Hamnes, O Silencioso. Que ele nunca seja esquecido.",
+  "description": "Aqui jaz Hamnes, o Silencioso. Que nunca seja esquecido.",
   "glyph": {
     "frames": [
       {
@@ -75,5 +75,6 @@
     108,
     14
   ],
-  "name": "Placa Tumular II"
+  "name": "Placa de Tumba II",
+  "feminine_form": true
 }

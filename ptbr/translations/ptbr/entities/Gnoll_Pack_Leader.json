@@ -45,7 +45,7 @@
       {
         "chance": 1.0,
         "id": "391",
-        "name": "Capacete de Couro",
+        "name": "Elmo de Couro",
         "stack": 1
       }
     ],
@@ -104,9 +104,9 @@
   "moveable": {
     "speed": 0.8999999761581421
   },
-  "name": "Gnoll Líder de Matilha",
+  "name": "Gnoll Líder da Matilha",
   "persona": {
-    "occupation": "Líder de Matilha"
+    "occupation": "Pack Leader"
   },
   "sight": {
     "ignore_infra_penalty": false,

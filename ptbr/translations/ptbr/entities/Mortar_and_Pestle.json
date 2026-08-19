@@ -23,7 +23,7 @@
     "time": 60,
     "tools": []
   },
-  "description": "Uma tigela de pedra e um pequeno pilão de pedra são úteis, se você precisa fazer alguma alquimia acontecer na hora.",
+  "description": "Uma tigela de pedra e um pequeno pilão de pedra são úteis, se você precisa fazer alquimia no local.",
   "glyph": {
     "frames": [
       {
@@ -48,7 +48,7 @@
     150,
     221
   ],
-  "name": "Pilão e Tigela",
+  "name": "Almofariz e Pilão",
   "tool": [
     {
       "id": 15,

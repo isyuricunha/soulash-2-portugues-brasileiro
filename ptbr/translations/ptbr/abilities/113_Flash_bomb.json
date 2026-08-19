@@ -6,7 +6,7 @@
     "health": 0,
     "stamina": 8
   },
-  "description": "Arremessa uma bomba de clarão em um local, causando ::damage de dano ::damage_type e potencialmente atordoando todos no alcance de ::aoe_range por ::stun turnos.",
+  "description": "Arremesse uma bomba de luz em um local, causando ::damage ::damage_type de dano e potencialmente atordoando todos no alcance de ::aoe_range por ::stun turnos.",
   "duration": 1.5,
   "effects": {
     "aoe_break": 1,
@@ -22,7 +22,7 @@
   },
   "id": "113",
   "image": 94,
-  "name": "Bomba de Flash",
+  "name": "Bomba de Luz",
   "range": 8,
   "target": "aoe_tile"
 }

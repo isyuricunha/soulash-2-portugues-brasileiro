@@ -35,7 +35,7 @@
       14
     ]
   },
-  "description": "Essas luvas de pele oferecem boa proteção contra congelamento.",
+  "description": "Estas luvas de pele oferecem boa proteção contra congelamento.",
   "glyph": {
     "frames": [
       {
@@ -62,5 +62,6 @@
   ],
   "name": "Luvas de Pele",
   "value": 200,
-  "weight": 0.5
+  "weight": 0.5,
+  "feminine_form": true
 }

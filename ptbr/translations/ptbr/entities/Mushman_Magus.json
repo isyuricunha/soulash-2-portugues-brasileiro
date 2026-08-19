@@ -70,9 +70,9 @@
   "moveable": {
     "speed": 1.2000000476837158
   },
-  "name": "Mago Mushman",
+  "name": "Mago de Cogumelo",
   "persona": {
-    "occupation": "Mago"
+    "occupation": "Magus"
   },
   "sight": {
     "ignore_infra_penalty": false,

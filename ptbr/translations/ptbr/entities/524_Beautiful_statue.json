@@ -63,7 +63,7 @@
     80,
     80
   ],
-  "name": "Estátua Bonita",
+  "name": "Estátua Bela",
   "producer": {
     "products": {
       "core_2_deconstruct": [
@@ -78,5 +78,6 @@
       ]
     },
     "time": 20
-  }
+  },
+  "feminine_form": true
 }

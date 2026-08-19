@@ -24,7 +24,7 @@
     "producer"
   ],
   "corpse": "35",
-  "description": "Parece que alguém tentou derrubá-la. Na base, você pode ver traços de escrita mal legível. \n\"...O Um... mal virá... mil anos... morrerá.\"",
+  "description": "Parece que alguém tentou derrubá-lo. Na base, vê-se traços de escrituras mal legíveis. \n",
   "glyph": {
     "frames": [
       {
@@ -71,5 +71,6 @@
       ]
     },
     "time": 20
-  }
+  },
+  "feminine_form": true
 }

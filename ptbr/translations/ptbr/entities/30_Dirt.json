@@ -37,7 +37,7 @@
     "time": 5,
     "tools": []
   },
-  "description": "Terra simples, nada interessante. Oh, olhe, uma minhoca!",
+  "description": "Terra simples, nada interessante. Olha, um verme!",
   "glyph": {
     "frames": [
       {
@@ -86,5 +86,6 @@
     45,
     12
   ],
-  "name": "Terra"
+  "name": "Terra",
+  "feminine_form": true
 }

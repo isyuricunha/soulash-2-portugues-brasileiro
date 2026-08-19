@@ -6,7 +6,7 @@
     "health": 0,
     "stamina": 10
   },
-  "description": "[color=192,176,27,255]Aura:[/color] ::aura\n\nEsta aura ativa a cada turno e dura ::duration turnos.",
+  "description": "[color=192,176,27,255]Aura:[/color] ::aura\n\nEsta aura é ativada a cada turno e dura ::duration turnos.",
   "duration": 4.0,
   "effects": null,
   "effects_keys": {

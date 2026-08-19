@@ -25,7 +25,7 @@
       1
     ]
   },
-  "description": "Espada longa com gravações intricadas.",
+  "description": "Espada longa com gravações intrincadas.",
   "glyph": {
     "frames": [
       {
@@ -50,7 +50,7 @@
     160,
     161
   ],
-  "name": "Espada Longa Gravada",
+  "name": "Montante Gravado",
   "value": 700,
   "weapon": {
     "attack_speed": 1.0,

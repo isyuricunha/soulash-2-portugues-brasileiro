@@ -84,9 +84,9 @@
   "moveable": {
     "speed": 1.2000000476837158
   },
-  "name": "Anão Soprador de Vidro",
+  "name": "Anão Vidraceiro",
   "persona": {
-    "occupation": "Soprador de Vidro"
+    "occupation": "Glassblower"
   },
   "sight": {
     "ignore_infra_penalty": false,

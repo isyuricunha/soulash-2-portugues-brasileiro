@@ -24,7 +24,7 @@
     "producer"
   ],
   "corpse": [],
-  "description": "Um campo de talos de grama alta usados para produzir açúcar.",
+  "description": "Um campo de caules de capim alto usados para produzir açúcar.",
   "glyph": {
     "frames": [
       {
@@ -69,7 +69,7 @@
     73,
     73
   ],
-  "name": "Campos de Cana-de-Açúcar",
+  "name": "Campos de Cana-de-açúcar",
   "producer": {
     "products": {
       "6": [

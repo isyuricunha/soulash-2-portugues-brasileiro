@@ -6,7 +6,7 @@
     "health": 0,
     "stamina": 6
   },
-  "description": "Consome o efeito de sangramento no alvo e causa dano igual ::damage_type.",
+  "description": "Consuma o efeito de sangramento no alvo e cause ::damage_type de dano equivalente.",
   "duration": 0.0,
   "effects": {
     "damage_type": "true",
@@ -14,7 +14,7 @@
   },
   "id": "179",
   "image": 245,
-  "name": "Corte Consumidor",
+  "name": "Golpe Devorador",
   "range": 1,
   "requirements": {
     "one_of": [

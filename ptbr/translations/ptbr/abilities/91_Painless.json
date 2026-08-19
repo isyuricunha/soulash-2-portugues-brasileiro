@@ -6,7 +6,7 @@
     "health": 2,
     "stamina": 0
   },
-  "description": "Você ignora a dor e reduz o dano causado a você por ::damage_reduce_percent%. Você não será capaz de ver a quantidade de vida durante a duração desta habilidade.",
+  "description": "Você ignora a dor e reduz o dano recebido em ::damage_reduce_percent%. Não será possível ver sua quantidade de vida durante a duração desta habilidade.",
   "duration": 10,
   "effects": {
     "damage_reduce_percent": 0.33,

@@ -22,7 +22,7 @@
     "time": 30,
     "tools": []
   },
-  "description": "Dispositivo usado para fiar linha ou fio. Usado para criar tecido.",
+  "description": "Dispositivo para fiar linha ou lã. Serve pra criar tecido.",
   "glyph": {
     "frames": [
       {
@@ -64,5 +64,6 @@
       "id": 12,
       "quality": 100
     }
-  ]
+  ],
+  "feminine_form": true
 }

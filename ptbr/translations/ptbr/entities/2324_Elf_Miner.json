@@ -78,9 +78,9 @@
   "moveable": {
     "speed": 1.100000023841858
   },
-  "name": "Elfo Mineiro",
+  "name": "Mineiro Elfo",
   "persona": {
-    "occupation": "Mineiro"
+    "occupation": "Miner"
   },
   "sight": {
     "ignore_infra_penalty": false,

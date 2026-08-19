@@ -33,7 +33,7 @@
       "id": "598"
     }
   ],
-  "description": "Este trecho de grama foi recentemente queimado até virar cinzas.",
+  "description": "Este tufo de grama queimou até virar cinzas recentemente.",
   "glyph": {
     "frames": [
       {
@@ -55,5 +55,6 @@
     26,
     26
   ],
-  "name": "Grama Queimada"
+  "name": "Grama Queimada",
+  "feminine_form": true
 }

@@ -92,7 +92,7 @@
   },
   "name": "Goblin Ferramenteiro",
   "persona": {
-    "occupation": "Ferreiro"
+    "occupation": "Toolmaker"
   },
   "sight": {
     "ignore_infra_penalty": false,

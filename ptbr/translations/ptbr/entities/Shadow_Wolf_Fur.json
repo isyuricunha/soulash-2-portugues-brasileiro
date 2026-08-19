@@ -1,0 +1,62 @@
+{
+  "armor": {
+    "acid": 0,
+    "death": 2,
+    "electricity": 0,
+    "fire": 0,
+    "frost": 0,
+    "holy": 0,
+    "parry": 0,
+    "physical": 0,
+    "poison": 0,
+    "thorns": 0
+  },
+  "components": [
+    "armor",
+    "glyph",
+    "item",
+    "minimap_pixel",
+    "name",
+    "position_2d",
+    "resource",
+    "stackable",
+    "value",
+    "weight"
+  ],
+  "description": "Esta pele parece imaterial, como se fosse feita de sombras.",
+  "glyph": {
+    "frames": [
+      {
+        "color": [
+          255,
+          255,
+          255
+        ],
+        "delay": 0,
+        "index": 3443
+      }
+    ],
+    "random_frame_start": false
+  },
+  "id": "core_2_Shadow_Wolf_Fur",
+  "item": {
+    "image": 1549,
+    "type": 16
+  },
+  "minimap_pixel": [
+    182,
+    175,
+    158
+  ],
+  "name": "Pele de Lobo Sombrio",
+  "resource": {
+    "affix": "da Sombra",
+    "magic_ingredient": 0,
+    "quality": 2,
+    "type": 9,
+    "feminine_affix": "Sombria"
+  },
+  "value": 500,
+  "weight": 0.10000000149011612,
+  "feminine_form": true
+}

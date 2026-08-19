@@ -28,7 +28,7 @@
     "time": 2,
     "tools": []
   },
-  "description": "O teto de uma tenda feita do material.",
+  "description": "O telhado de uma barraca feito do material.",
   "glyph": {
     "frames": [
       {
@@ -49,7 +49,7 @@
     120,
     120
   ],
-  "name": "Teto de Tenda Azul Claro",
+  "name": "Telhado de Barraca Azul Claro",
   "producer": {
     "products": {
       "core_2_deconstruct": [

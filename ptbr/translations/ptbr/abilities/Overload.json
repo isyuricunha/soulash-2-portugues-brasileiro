@@ -6,7 +6,7 @@
     "health": 0,
     "stamina": 0
   },
-  "description": "Pilhas estáticas explodem causando ::damage de dano ::damage_type em ::range células e atordoando todos por ::stun turnos.",
+  "description": "Pilhas de Estática explodem causando ::damage de dano ::damage_type em ::range tiles e atordoando todos por ::stun turnos.",
   "duration": 0.0,
   "effects": {
     "aoe_range": 2,

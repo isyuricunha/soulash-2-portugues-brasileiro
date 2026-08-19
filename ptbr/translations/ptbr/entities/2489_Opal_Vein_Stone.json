@@ -33,7 +33,7 @@
     "producer"
   ],
   "corpse": [],
-  "description": "Um veio de gema de opala na parede de pedra.",
+  "description": "Um veio de gema de opala em parede de pedra.",
   "glyph": {
     "frames": [
       {
@@ -56,7 +56,7 @@
     229,
     235
   ],
-  "name": "Veio de Opala em Pedra",
+  "name": "Pedra com Veio de Opala",
   "producer": {
     "products": {
       "5": [
@@ -71,5 +71,6 @@
       ]
     },
     "time": 30
-  }
+  },
+  "feminine_form": true
 }

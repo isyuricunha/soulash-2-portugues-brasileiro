@@ -81,9 +81,9 @@
   "moveable": {
     "speed": 1.100000023841858
   },
-  "name": "Esqueleto Armoreiro",
+  "name": "Armoreiro Esqueleto",
   "persona": {
-    "occupation": "Armoreiro"
+    "occupation": "Armorsmith"
   },
   "sight": {
     "ignore_infra_penalty": false,

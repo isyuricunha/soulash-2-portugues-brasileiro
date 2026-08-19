@@ -6,7 +6,7 @@
     "health": 0,
     "stamina": 10
   },
-  "description": "Aplica veneno, sangramento, queimadura, medo, imobilização e atordoamento por ::duration turnos e empurra o inimigo alvo ::knockback células.",
+  "description": "Aplica veneno, sangramento, queimadura, medo, imobilização e atordoamento por ::duration turnos e empurra o inimigo alvo por ::knockback quadrados.",
   "duration": 3.0,
   "effects": {
     "bleed": 3,

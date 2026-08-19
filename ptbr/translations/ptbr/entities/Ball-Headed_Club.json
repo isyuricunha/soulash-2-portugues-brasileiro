@@ -29,7 +29,7 @@
       14
     ]
   },
-  "description": "Clava lindamente esculpida.",
+  "description": "Clava belamente esculpida.",
   "glyph": {
     "frames": [
       {
@@ -54,7 +54,7 @@
     160,
     161
   ],
-  "name": "Clava de Cabeça Redonda",
+  "name": "Clava de Cabeça Esférica",
   "value": 2500,
   "weapon": {
     "attack_speed": 1.0,
@@ -72,5 +72,6 @@
     "range": 1,
     "type": 2
   },
-  "weight": 2.0
+  "weight": 2.0,
+  "feminine_form": true
 }

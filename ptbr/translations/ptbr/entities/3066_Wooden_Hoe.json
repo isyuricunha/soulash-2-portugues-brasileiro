@@ -26,7 +26,7 @@
       14
     ]
   },
-  "description": "Ferramenta de jardinagem usada para quebrar a superfície do solo.",
+  "description": "Ferramenta de jardinagem usada para revolver a superfície do solo.",
   "glyph": {
     "frames": [
       {
@@ -75,5 +75,6 @@
     "range": 1,
     "type": 2
   },
-  "weight": 1.0
+  "weight": 1.0,
+  "feminine_form": true
 }

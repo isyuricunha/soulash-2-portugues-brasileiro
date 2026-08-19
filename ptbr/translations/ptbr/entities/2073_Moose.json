@@ -39,7 +39,7 @@
     "tags"
   ],
   "corpse": "2074",
-  "description": "Um alce marrom escuro com grandes galhadas.",
+  "description": "Um alce marrom-escuro com grandes chifres.",
   "dialogues": [
     "2",
     "346",
@@ -74,7 +74,7 @@
   },
   "fighter": {
     "attackNames": [
-      "Antlers"
+      "Galhada"
     ]
   },
   "glyph": {

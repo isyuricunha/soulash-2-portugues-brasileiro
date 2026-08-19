@@ -79,9 +79,9 @@
   "moveable": {
     "speed": 1.0
   },
-  "name": "Espectro de Osso Herbalista",
+  "name": "Espectro Ósseo Herborista",
   "persona": {
-    "occupation": "Herbalista"
+    "occupation": "Herbalist"
   },
   "sight": {
     "ignore_infra_penalty": false,

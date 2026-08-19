@@ -10,7 +10,7 @@
     "weight",
     "minimap_pixel"
   ],
-  "description": "Um punhado de amoras para um lanche.",
+  "description": "Punhado de amoras para um lanche.",
   "food": {
     "nutrition": 5,
     "poisonous": 0,
@@ -41,5 +41,6 @@
   ],
   "name": "Amora",
   "value": 50,
-  "weight": 0.009999999776482582
+  "weight": 0.009999999776482582,
+  "feminine_form": true
 }

@@ -31,7 +31,7 @@
       1
     ]
   },
-  "description": "Runa Anã criada para imbuir seu usuário com poder ígneo.",
+  "description": "Runa anã forjada para imbuir seu usuário com poder ígneo.",
   "glyph": {
     "frames": [
       {
@@ -58,10 +58,11 @@
   ],
   "name": "Runa de Fogo",
   "resource": {
-    "affix": "of the Flames",
+    "affix": "das Chamas",
     "magic_ingredient": 1,
     "quality": 1,
-    "type": 7
+    "type": 7,
+    "feminine_affix": "flamígera"
   },
   "value": 500,
   "weapon": {
@@ -80,5 +81,6 @@
     "range": 0,
     "type": 9
   },
-  "weight": 0.10000000149011612
+  "weight": 0.10000000149011612,
+  "feminine_form": true
 }

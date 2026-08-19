@@ -11,7 +11,7 @@
     "value",
     "weight"
   ],
-  "description": "Bloco de basalto escuro valorizado por sua alta durabilidade.",
+  "description": "Bel bloco de basalto escuro, valorizado por sua alta durabilidade.",
   "glyph": {
     "frames": [
       {
@@ -38,10 +38,11 @@
   ],
   "name": "Bloco de Basalto",
   "resource": {
-    "affix": "Basalt",
+    "affix": "Basalto",
     "magic_ingredient": 0,
     "quality": 2,
-    "type": 6
+    "type": 6,
+    "feminine_affix": "Basáltica"
   },
   "statistics": {
     "dexterity": [

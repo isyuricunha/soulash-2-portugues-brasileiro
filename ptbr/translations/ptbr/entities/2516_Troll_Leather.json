@@ -11,7 +11,7 @@
     "value",
     "weight"
   ],
-  "description": "Um material resistente colhido da pele de um troll derrotado.",
+  "description": "Um material rústico colhido da pele de um troll derrotado.",
   "glyph": {
     "frames": [
       {
@@ -41,7 +41,8 @@
     "affix": "Troll",
     "magic_ingredient": 0,
     "quality": 3,
-    "type": 2
+    "type": 2,
+    "feminine_affix": "Troll"
   },
   "statistics": {
     "dexterity": [

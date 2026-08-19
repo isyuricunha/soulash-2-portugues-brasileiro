@@ -25,7 +25,7 @@
       "id": "615"
     }
   ],
-  "description": "Um pedaço de musgo brilhando com uma luz verde doentia.",
+  "description": "Uma mancha de musgo brilhando com uma luz verde doentia.",
   "glyph": {
     "frames": [
       {
@@ -52,5 +52,5 @@
     89,
     56
   ],
-  "name": "Musgo Brilhante"
+  "name": "Musgo Luminoso"
 }

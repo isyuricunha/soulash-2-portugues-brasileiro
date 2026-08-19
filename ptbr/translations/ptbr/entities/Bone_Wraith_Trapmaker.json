@@ -65,9 +65,9 @@
   "moveable": {
     "speed": 1.2000000476837158
   },
-  "name": "Espectro de Osso Armadilheiro",
+  "name": "Armadilheiro Espectro de Osso",
   "persona": {
-    "occupation": "Armadilheiro"
+    "occupation": "Trapmaker"
   },
   "sight": {
     "ignore_infra_penalty": false,

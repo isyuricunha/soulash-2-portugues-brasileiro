@@ -44,7 +44,7 @@
       {
         "chance": 1.0,
         "id": "2175",
-        "name": "Tanga de Pele",
+        "name": "Tapa-sexo de Pele",
         "stack": 1
       }
     ],
@@ -52,7 +52,7 @@
       {
         "chance": 1.0,
         "id": "core_2_Toothed_Sword",
-        "name": "Espada Denteada",
+        "name": "Espada Dentada",
         "stack": 1
       }
     ]
@@ -93,7 +93,7 @@
   },
   "name": "Esqueleto Soldado",
   "persona": {
-    "occupation": "Esqueleto Soldado"
+    "occupation": "Skeleton Soldier"
   },
   "sight": {
     "ignore_infra_penalty": false,

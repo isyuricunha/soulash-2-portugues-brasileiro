@@ -58,7 +58,7 @@
       {
         "chance": 1.0,
         "id": "183",
-        "name": "Túnica",
+        "name": "Manto",
         "stack": 1
       }
     ]
@@ -97,7 +97,7 @@
   "moveable": {
     "speed": 1.2999999523162842
   },
-  "name": "Caçador de Oferendas",
+  "name": "Caçador de Ofertas",
   "sight": {
     "ignore_infra_penalty": false,
     "infravision": false,

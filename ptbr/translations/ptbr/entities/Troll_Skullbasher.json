@@ -101,9 +101,9 @@
   "moveable": {
     "speed": 1.100000023841858
   },
-  "name": "Troll Esmaga-Crânios",
+  "name": "Troll Esmaga-crânio",
   "persona": {
-    "occupation": "Esmaga-Crânios"
+    "occupation": "Skullbasher"
   },
   "sight": {
     "ignore_infra_penalty": false,

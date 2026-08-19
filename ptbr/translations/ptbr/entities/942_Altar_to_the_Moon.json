@@ -30,7 +30,7 @@
     "time": 30,
     "tools": []
   },
-  "description": "Um belo altar de pedra com um símbolo azul da lua esculpido no centro. Este parece ser um importante local de culto, a julgar pelos muitos presentes sacrificiais colocados ao redor aqui.",
+  "description": "Um belo altar de pedra com um símbolo azul da lua esculpido no meio. Parece ser um importante local de adoração, a julgar pelos muitos presentes sacrificais colocados ao redor.",
   "glyph": {
     "frames": [
       {
@@ -51,7 +51,7 @@
     147,
     168
   ],
-  "name": "Altar à Lua",
+  "name": "Altar da Lua",
   "producer": {
     "products": {
       "core_2_deconstruct": [

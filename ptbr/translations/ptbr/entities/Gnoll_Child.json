@@ -57,9 +57,9 @@
   "moveable": {
     "speed": 2.0
   },
-  "name": "Gnoll Criança",
+  "name": "Criança Gnoll",
   "persona": {
-    "occupation": "Criança"
+    "occupation": "Child"
   },
   "sight": {
     "ignore_infra_penalty": false,

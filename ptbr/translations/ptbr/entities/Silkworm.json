@@ -24,7 +24,7 @@
     "tags"
   ],
   "corpse": "core_2_Silkworm_Corpse",
-  "description": "Pequena larva bege ocupada com sua vida.",
+  "description": "Pequeno verme bege ocupado com sua vida.",
   "dialogues": [
     "899"
   ],
@@ -78,7 +78,7 @@
   "moveable": {
     "speed": 1.0
   },
-  "name": "Bicho-da-Seda",
+  "name": "Bicho-da-seda",
   "sight": {
     "ignore_infra_penalty": false,
     "infravision": true,

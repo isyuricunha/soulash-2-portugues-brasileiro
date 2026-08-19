@@ -6,14 +6,14 @@
     "health": 2,
     "stamina": 1
   },
-  "description": "Teleporta para um local dentro do alcance de visão.",
+  "description": "Teleporta para um local no alcance da visão.",
   "duration": 0.0,
   "effects": {
     "lunge": 1
   },
   "id": "65",
   "image": 48,
-  "name": "Transição de Fase",
+  "name": "Mudança de Fase",
   "range": 5,
   "target": "tile"
 }

@@ -8,7 +8,7 @@
     "position_2d",
     "producer"
   ],
-  "description": "Uma planta com folhas semelhantes a samambaias e pequenas flores brancas.",
+  "description": "Uma planta com folhas semelhantes a samambaia e pequenas flores brancas.",
   "glyph": {
     "frames": [
       {
@@ -56,7 +56,7 @@
     255,
     255
   ],
-  "name": "Salsa Veneno",
+  "name": "Salsa Venenosa",
   "producer": {
     "products": {
       "6": [
@@ -71,5 +71,6 @@
       ]
     },
     "time": 10
-  }
+  },
+  "feminine_form": true
 }

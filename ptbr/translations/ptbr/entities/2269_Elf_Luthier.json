@@ -40,7 +40,7 @@
       {
         "chance": 1.0,
         "id": "323",
-        "name": "Collant",
+        "name": "Meias",
         "stack": 1
       }
     ],
@@ -87,9 +87,9 @@
   "moveable": {
     "speed": 1.0
   },
-  "name": "Lutier Elfo",
+  "name": "Laudeiro Elfo",
   "persona": {
-    "occupation": "Lutier"
+    "occupation": "Luthier"
   },
   "sight": {
     "ignore_infra_penalty": false,

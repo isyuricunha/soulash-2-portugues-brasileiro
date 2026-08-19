@@ -24,7 +24,7 @@
     "producer"
   ],
   "corpse": [],
-  "description": "Uma figura alta, vagamente humanoide feita de palha.",
+  "description": "Uma figura alta, vagamente humanoide, feita de palha.",
   "glyph": {
     "frames": [
       {
@@ -62,5 +62,6 @@
       ]
     },
     "time": 30
-  }
+  },
+  "feminine_form": true
 }

@@ -1,0 +1,45 @@
+{
+  "armor": {
+    "acid": 0,
+    "death": 0,
+    "electricity": 0,
+    "fire": -20,
+    "frost": 0,
+    "holy": 0,
+    "parry": 0,
+    "physical": 2,
+    "poison": 1000,
+    "thorns": 0
+  },
+  "components": [
+    "armor",
+    "collidable",
+    "glyph",
+    "minimap_pixel",
+    "name",
+    "position_2d"
+  ],
+  "description": "Antes uma bandeira orgulhosa de alguma unidade, agora apenas tristes retalhos de tecido.",
+  "glyph": {
+    "frames": [
+      {
+        "color": [
+          255,
+          255,
+          255
+        ],
+        "delay": 0,
+        "index": 3383
+      }
+    ],
+    "random_frame_start": true
+  },
+  "id": "core_2_Torn_Banner",
+  "minimap_pixel": [
+    71,
+    48,
+    17
+  ],
+  "name": "Bandeira Rasgada",
+  "feminine_form": true
+}

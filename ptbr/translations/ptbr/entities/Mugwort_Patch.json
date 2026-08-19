@@ -8,7 +8,7 @@
     "producer"
   ],
   "corpse": [],
-  "description": "Um pequeno arbusto de artemísia.",
+  "description": "Uma pequena touceira de artemísia.",
   "glyph": {
     "frames": [
       {
@@ -39,7 +39,7 @@
     154,
     43
   ],
-  "name": "Arbusto de Artemísia",
+  "name": "Touceira de Artemísia",
   "producer": {
     "products": {
       "10": [
@@ -54,5 +54,6 @@
       ]
     },
     "time": 10
-  }
+  },
+  "feminine_form": true
 }

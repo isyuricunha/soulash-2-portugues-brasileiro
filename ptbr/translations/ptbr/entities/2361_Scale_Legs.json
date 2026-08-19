@@ -40,7 +40,7 @@
       1
     ]
   },
-  "description": "Armadura de perna craftada a partir de escamas entrelaçadas, oferecendo proteção confiável contra ataques perfurantes.",
+  "description": "Armadura de perna feita de escamas entrelaçadas, oferecendo proteção confiável contra ataques perfurantes.",
   "glyph": {
     "frames": [
       {
@@ -65,7 +65,8 @@
     144,
     88
   ],
-  "name": "Pernas de Escamas",
+  "name": "Perneiras de Escamas",
   "value": 6000,
-  "weight": 3.0
+  "weight": 3.0,
+  "feminine_form": true
 }

@@ -54,10 +54,11 @@
   ],
   "name": "Dados de Osso",
   "resource": {
-    "affix": "of the Dice",
+    "affix": "dos Dados",
     "magic_ingredient": 1,
     "quality": 1,
-    "type": 7
+    "type": 7,
+    "feminine_affix": "dos Dados"
   },
   "value": 500,
   "weapon": {

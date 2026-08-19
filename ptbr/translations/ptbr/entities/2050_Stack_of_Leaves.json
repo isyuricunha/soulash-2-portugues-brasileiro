@@ -14,7 +14,7 @@
       "id": "561"
     }
   ],
-  "description": "Alguém colocou esta pilha de folhas aqui para criar um lugar de descanso provisório.",
+  "description": "Alguém deixou esta pilha de folhas aqui para criar um lugar provisório para descansar.",
   "glyph": {
     "frames": [
       {
@@ -52,5 +52,6 @@
     },
     "time": 5
   },
-  "resting_place": 110
+  "resting_place": 110,
+  "feminine_form": true
 }

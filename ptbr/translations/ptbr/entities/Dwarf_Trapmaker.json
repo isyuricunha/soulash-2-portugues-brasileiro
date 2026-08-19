@@ -79,9 +79,9 @@
   "moveable": {
     "speed": 1.5
   },
-  "name": "Armadileiro Anão",
+  "name": "Armadilheiro Anão",
   "persona": {
-    "occupation": "Armadilheiro"
+    "occupation": "Trapmaker"
   },
   "sight": {
     "ignore_infra_penalty": false,

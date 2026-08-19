@@ -1,0 +1,34 @@
+{
+  "components": [
+    "glyph",
+    "health",
+    "minimap_pixel",
+    "name",
+    "position_2d"
+  ],
+  "corpse": [],
+  "description": "Nem dá para saber de que cor elas eram.",
+  "glyph": {
+    "frames": [
+      {
+        "color": [
+          255,
+          255,
+          255
+        ],
+        "delay": 0,
+        "index": 3409
+      }
+    ],
+    "random_frame_start": false
+  },
+  "health": 1,
+  "id": "core_2_Burned_Flower",
+  "minimap_pixel": [
+    25,
+    39,
+    13
+  ],
+  "name": "Flor Queimada",
+  "feminine_form": true
+}

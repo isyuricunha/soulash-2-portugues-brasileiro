@@ -89,7 +89,7 @@
   },
   "name": "Vampiro Alquimista",
   "persona": {
-    "occupation": "Alquimista"
+    "occupation": "Alchemist"
   },
   "sight": {
     "ignore_infra_penalty": false,

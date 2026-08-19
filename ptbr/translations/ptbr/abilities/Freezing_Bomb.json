@@ -6,7 +6,7 @@
     "health": 0,
     "stamina": 8
   },
-  "description": "Arremesse uma bomba em um local, causando ::damage de ::damage_type e congelamento.",
+  "description": "Arremessa uma bomba em um local, causando ::damage de dano ::damage_type e aplicando ::stacker_count acúmulos de Congelamento.",
   "duration": 1.5,
   "effects": {
     "aoe_break": 1,
@@ -17,12 +17,15 @@
       10
     ],
     "damage_type": "frost",
-    "stacker": "124"
+    "stacker_count": 2
+  },
+  "effect_keys": {
+    "stacker": "core_2_freeze"
   },
   "id": "core_2_Freezing_Bomb",
   "image": 771,
   "name": "Bomba Congelante",
   "range": 6,
   "skill": "",
-  "target": "aoe_tile"
+  "target": "aoe_target"
 }

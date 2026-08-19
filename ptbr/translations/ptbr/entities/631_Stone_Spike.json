@@ -8,7 +8,7 @@
     "position_2d"
   ],
   "corpse": "-1",
-  "description": "Espigão de pedra saindo do chão.",
+  "description": "Espinho de pedra saindo do chão.",
   "glyph": {
     "frames": [
       {
@@ -29,5 +29,5 @@
     104,
     102
   ],
-  "name": "Espigão de Pedra"
+  "name": "Espinho de Pedra"
 }

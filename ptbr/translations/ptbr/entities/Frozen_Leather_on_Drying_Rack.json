@@ -27,7 +27,7 @@
       13
     ]
   },
-  "description": "Um pedaço de couro recém-esfolado secando aqui antes de ser processado. Parece um pouco congelado.",
+  "description": "Um pedaço de couro recém-esfolado secando aqui antes de poder ser processado. Parece um pouco queimado pelo frio.",
   "glyph": {
     "frames": [
       {
@@ -48,7 +48,7 @@
     200,
     200
   ],
-  "name": "Couro Congelado em Rack de Secagem",
+  "name": "Couro Congelado no Secadouro",
   "producer": {
     "products": {
       "core_2_deconstruct": [

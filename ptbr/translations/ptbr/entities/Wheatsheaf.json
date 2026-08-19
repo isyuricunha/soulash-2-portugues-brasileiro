@@ -20,7 +20,7 @@
     "position_2d"
   ],
   "corpse": [],
-  "description": "Simples hastes de trigo amarradas juntas.",
+  "description": "Caules simples de trigo amarrados juntos.",
   "glyph": {
     "frames": [
       {
@@ -51,5 +51,5 @@
     108,
     64
   ],
-  "name": "Gavela de Trigo"
+  "name": "Feixe de Trigo"
 }

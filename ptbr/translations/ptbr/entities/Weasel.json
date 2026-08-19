@@ -26,7 +26,7 @@
     "tags"
   ],
   "corpse": "core_2_Weasel_Corpse",
-  "description": "Pequeno, corpo esguio e fofo.",
+  "description": "Pequeno, de corpo esguio e fofo.",
   "dialogues": [
     "2",
     "913"
@@ -114,5 +114,6 @@
   "tags": [
     "2",
     "9"
-  ]
+  ],
+  "feminine_form": true
 }

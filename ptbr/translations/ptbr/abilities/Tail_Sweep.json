@@ -6,7 +6,7 @@
     "health": 0,
     "stamina": 8
   },
-  "description": "Uma cauda faz um grande golpe causando ::damage de dano ::damage_type em todos com uma força capaz de empurrá-los 2 células para trás.",
+  "description": "A cauda faz uma varrida ampla causando ::damage ::damage_type a todos com força suficiente para empurrá-los para trás 2 espaços.",
   "duration": 0.0,
   "effects": {
     "aoe_range": 3,
@@ -20,7 +20,7 @@
   },
   "id": "core_2_Tail_Sweep",
   "image": 812,
-  "name": "Golpe de Cauda",
+  "name": "Varrida de Cauda",
   "range": 2,
   "requirements": {
     "one_of": [

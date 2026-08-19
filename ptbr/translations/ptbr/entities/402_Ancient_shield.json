@@ -39,7 +39,7 @@
       1
     ]
   },
-  "description": "Escudo com formato único empunhado em batalha por exércitos antigos de Torifu Unido.",
+  "description": "Escudo de formato único empunhado em batalha pelos antigos exércitos de Torifu Unido.",
   "glyph": {
     "frames": [
       {
@@ -64,7 +64,7 @@
     57,
     194
   ],
-  "name": "Escudo Ancestral",
+  "name": "Escudo Antigo",
   "value": 8000,
   "weight": 5.0
 }

@@ -9,7 +9,7 @@
     "producer",
     "weight"
   ],
-  "description": "Um corpo sem vida de um dragão não-morto.",
+  "description": "Um corpo sem vida de um dragão morto-vivo.",
   "glyph": {
     "frames": [
       {
@@ -38,7 +38,7 @@
     80,
     15
   ],
-  "name": "Cadáver de Dragão Não-Morto",
+  "name": "Cadáver de Dragão Morto-Vivo",
   "producer": {
     "products": {
       "3": [

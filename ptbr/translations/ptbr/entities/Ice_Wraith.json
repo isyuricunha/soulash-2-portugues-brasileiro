@@ -48,7 +48,7 @@
     "weapon"
   ],
   "corpse": "core_2_Wraith_Shroud",
-  "description": "Restos de uma alma manchada com escuridão.",
+  "description": "Restos de uma alma contaminada pela escuridão.",
   "dialogues": [
     "982",
     "983"
@@ -59,7 +59,7 @@
   },
   "fighter": {
     "attackNames": [
-      "Ghastly Touch"
+      "Toque Sinistro"
     ]
   },
   "glyph": {

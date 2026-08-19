@@ -28,7 +28,7 @@
       12
     ]
   },
-  "description": "Um recipiente flexível para segurar, armazenar ou carregar algo.",
+  "description": "Um recipiente flexível para guardar, armazenar ou transportar algo.",
   "extra_weight": 5.0,
   "glyph": {
     "frames": [
@@ -56,5 +56,6 @@
   ],
   "name": "Bolsa",
   "value": 1500,
-  "weight": 0.5
+  "weight": 0.5,
+  "feminine_form": true
 }

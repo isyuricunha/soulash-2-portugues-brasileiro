@@ -39,7 +39,7 @@
     "weapon"
   ],
   "corpse": "2514",
-  "description": "Morto-vivo poderoso na forma de uma névoa sangrenta humanoide.",
+  "description": "Um morto-vivo poderoso na forma de uma névoa sangrenta humanoide.",
   "dialogues": [
     "869",
     "870"
@@ -60,7 +60,7 @@
   },
   "fighter": {
     "attackNames": [
-      "Bloody Touch"
+      "Toque Sangrento"
     ]
   },
   "glyph": {

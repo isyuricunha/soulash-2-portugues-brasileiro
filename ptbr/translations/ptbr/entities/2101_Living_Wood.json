@@ -25,7 +25,7 @@
     "weapon",
     "weight"
   ],
-  "description": "Mesmo quando cortado de uma árvore viva, este pedaço de madeira parece vivo, pulsando como um coração, bombeando resina.",
+  "description": "Mesmo quando cortada de uma árvore viva, esta peça de madeira parece viva, pulsando como um coração, bombeando resina.",
   "extra_weight": 1.0,
   "glyph": {
     "frames": [
@@ -53,10 +53,11 @@
   ],
   "name": "Madeira Viva",
   "resource": {
-    "affix": "Living",
+    "affix": "Viva",
     "magic_ingredient": 0,
     "quality": 4,
-    "type": 3
+    "type": 3,
+    "feminine_affix": "Viva"
   },
   "statistics": {
     "dexterity": [
@@ -91,5 +92,6 @@
     "range": 0,
     "type": -1
   },
-  "weight": 0.10000000149011612
+  "weight": 0.10000000149011612,
+  "feminine_form": true
 }

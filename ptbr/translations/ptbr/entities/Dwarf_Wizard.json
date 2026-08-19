@@ -68,7 +68,7 @@
   },
   "name": "Mago Anão",
   "persona": {
-    "occupation": "Mago"
+    "occupation": "Wizard"
   },
   "sight": {
     "ignore_infra_penalty": false,

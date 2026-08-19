@@ -6,7 +6,7 @@
     "health": 20,
     "stamina": 0
   },
-  "description": "Invoca 30 cadáveres em decomposição ao redor, que causarão dano de morte a quem pisar neles. Os cadáveres permanecem por ::duration turnos.",
+  "description": "Evoca 30 cadáveres em putrefação ao redor, que causarão dano de morte a quem pisar neles. Os cadáveres permanecem por ::duration turnos.",
   "duration": 30.0,
   "effects": {
     "aoe_range": 10,
@@ -18,7 +18,7 @@
   },
   "id": "161",
   "image": 511,
-  "name": "Invocar Cadáveres em Decomposição",
+  "name": "Evocar Cadáveres em Putrefação",
   "range": 0,
   "target": "aoe_self"
 }

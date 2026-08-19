@@ -37,7 +37,7 @@
       {
         "chance": 0.10000000149011612,
         "id": "303",
-        "name": "Vela de Cabeça",
+        "name": "Vela na Cabeça",
         "stack": 1
       }
     ],
@@ -94,7 +94,7 @@
   },
   "name": "Minerador Anão",
   "persona": {
-    "occupation": "Mineiro"
+    "occupation": "Miner"
   },
   "sight": {
     "ignore_infra_penalty": false,

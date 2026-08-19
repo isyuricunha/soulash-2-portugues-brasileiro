@@ -27,7 +27,7 @@
     "tags"
   ],
   "corpse": "2368",
-  "description": "Um comerciante alegre vendendo mercadorias do Festival.",
+  "description": "Um comerciante alegre vendendo artigos de festival.",
   "dialogues": [],
   "equipment": {
     "head_cloth": [
@@ -61,7 +61,7 @@
   },
   "fighter": {
     "attackNames": [
-      "Punch"
+      "Soco"
     ]
   },
   "glyph": {
@@ -91,9 +91,9 @@
   "moveable": {
     "speed": 1.0
   },
-  "name": "Vendedor do Festival do Espectro de Osso",
+  "name": "Vendedor do Festival do Espectro Ósseo",
   "persona": {
-    "occupation": "Vendedor do Festival"
+    "occupation": "Festival Vendor"
   },
   "sight": {
     "ignore_infra_penalty": false,

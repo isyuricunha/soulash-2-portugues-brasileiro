@@ -10,7 +10,7 @@
     "value",
     "weight"
   ],
-  "description": "Pele grossa que já fez parte de algum animal desconhecido.",
+  "description": "Pelo grosso que já foi parte de algum animal desconhecido.",
   "glyph": {
     "frames": [
       {
@@ -35,13 +35,15 @@
     175,
     158
   ],
-  "name": "Pelagem Rústica",
+  "name": "Pele Rústica",
   "resource": {
-    "affix": "Rugged",
+    "affix": "Rústico",
     "magic_ingredient": 0,
     "quality": 0,
-    "type": 9
+    "type": 9,
+    "feminine_affix": "Rústica"
   },
   "value": 400,
-  "weight": 0.10000000149011612
+  "weight": 0.10000000149011612,
+  "feminine_form": true
 }

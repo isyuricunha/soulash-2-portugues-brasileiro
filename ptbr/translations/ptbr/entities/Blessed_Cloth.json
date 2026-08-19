@@ -51,10 +51,11 @@
   ],
   "name": "Tecido Abençoado",
   "resource": {
-    "affix": "Blessed",
+    "affix": "Abençoado",
     "magic_ingredient": 0,
     "quality": 3,
-    "type": 4
+    "type": 4,
+    "feminine_affix": "Abençoada"
   },
   "value": 2000,
   "weapon": {

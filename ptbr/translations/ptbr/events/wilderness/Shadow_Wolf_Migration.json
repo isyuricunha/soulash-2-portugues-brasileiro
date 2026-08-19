@@ -1,0 +1,40 @@
+{
+  "id": "core_2_shadow_wolf_migration",
+  "name": "Migração de Lobos Sombrios",
+  "category": "wilderness",
+  "flavor": "Uma matilha de lobos às vezes é vista movendo-se pela floresta como sombras. Diz-se que é presságio de alguma desgraça prestes a atingir a área. Melhor deixá-los em paz.",
+  "icon": 0,
+  "small_icon": 0,
+  "rarity": "common",
+  "restrict_biomes": [
+    "forest"
+  ],
+  "trigger": {
+    "base_probability": 0.3
+  },
+  "duration": {
+    "type": "temporary",
+    "days": [
+      3,
+      8
+    ]
+  },
+  "max_per_region": 1,
+  "effects": [
+    {
+      "type": "migrate_group",
+      "entity": "core_2_Shadow_Wolf",
+      "amount": [
+        10,
+        15
+      ],
+      "spawn_behaviors": [
+        23
+      ]
+    }
+  ],
+  "history_events": {
+    "begin": "Uma matilha de lobos sombrios foi avistada movendo-se pela floresta.",
+    "end": "Uma matilha de lobos sombrios desapareceu tão repentinamente quanto havia aparecido."
+  }
+}

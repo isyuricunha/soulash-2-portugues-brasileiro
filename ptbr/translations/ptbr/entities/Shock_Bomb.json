@@ -36,7 +36,7 @@
       15
     ]
   },
-  "description": "Explodindo no impacto, enviando um choque elétrico através de todos próximos.",
+  "description": "Explodindo no impacto, enviando um choque elétrico a todos por perto.",
   "glyph": {
     "frames": [
       {
@@ -67,5 +67,6 @@
     "recipe": ""
   },
   "value": 1100,
-  "weight": 0.20000000298023224
+  "weight": 0.20000000298023224,
+  "feminine_form": true
 }

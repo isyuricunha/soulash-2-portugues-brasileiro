@@ -9,7 +9,7 @@
     "producer",
     "weight"
   ],
-  "description": "O cadáver de um verme da areia, completamente sem vida.",
+  "description": "O cadáver de um verme da areia, completamente desprovido de vida.",
   "glyph": {
     "frames": [
       {
@@ -38,7 +38,7 @@
     118,
     35
   ],
-  "name": "Cadáver de Verme da Areia",
+  "name": "Cadáver de Verme de Areia",
   "producer": {
     "products": {
       "3": [

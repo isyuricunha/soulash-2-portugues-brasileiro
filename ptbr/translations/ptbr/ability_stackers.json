@@ -1,7 +1,7 @@
 [
   {
     "id": "core_2_freeze",
-    "name": "Congelar",
+    "name": "Congelamento",
     "image": 0,
     "effects": [
       {
@@ -12,7 +12,7 @@
     "max_stacks": 50,
     "duration": 3,
     "apply_caster": false,
-    "description": "Congelar faz os inimigos diminuírem sua velocidade de movimento em 0.01 turno por carga. Dura 3 turnos, a menos que seja renovado por uma nova aplicação de carga."
+    "description": "O Congelamento faz os inimigos reduzirem a velocidade de movimento em 0.01 turno por acúmulo. Dura 3 turnos, a menos que seja renovado por uma nova aplicação de acúmulo."
   },
   {
     "id": "core_2_static",
@@ -29,7 +29,7 @@
     "max_stacks_cast_unlock": true,
     "duration": 5,
     "apply_caster": false,
-    "description": "Acumula energia estática em um alvo, reduzindo sua Força de Vontade em 1 por carga. Se desbloqueado, causa Sobrecarga no máximo de cargas, causando dano elétrico e atordoamento em uma pequena área."
+    "description": "Acumula energia estática no alvo, reduzindo sua força de vontade em 1 por acúmulo. Se desbloqueado, causa Sobrecarga no máximo de acúmulos, infligindo dano elétrico e atordoamento em uma pequena área."
   },
   {
     "id": "core_2_lightning_reflexes",
@@ -44,7 +44,7 @@
     "max_stacks": 10,
     "duration": 8,
     "apply_caster": true,
-    "description": "Você ataca mais rápido em 0.02 turno por carga."
+    "description": "Você ataca 0.02 turno mais rápido por acúmulo."
   },
   {
     "id": "core_2_electric_speed",
@@ -59,7 +59,7 @@
     "max_stacks": 10,
     "duration": 8,
     "apply_caster": true,
-    "description": "Seu movimento é mais rápido em 0.05 turno por carga."
+    "description": "Seu movimento é 0.05 turno mais rápido por acúmulo."
   },
   {
     "id": "core_2_charged_precision",
@@ -74,18 +74,18 @@
     "max_stacks": 10,
     "duration": 8,
     "apply_caster": true,
-    "description": "A chance de acerto crítico é aumentada em 1% por carga."
+    "description": "Aumenta a chance de acerto crítico em 1% por pilha."
   },
   {
     "id": "core_2_blessed_knuckles",
-    "name": "Nodosos Abençoados",
+    "name": "Punhos Abençoados",
     "image": 6,
     "effects": [],
     "max_stacks": 5,
     "on_max_stacks_cast": "core_2_Blessed_Knuckles",
     "max_stacks_cast_unlock": false,
     "apply_caster": true,
-    "description": "Seus nódulos são carregados por poder divino ao acertar, culminando em uma explosão de luz a cada 5º acerto."
+    "description": "Seus punhos são carregados pelo poder divino ao atingir, culminando em uma explosão de luz a cada 5º acerto."
   },
   {
     "id": "core_2_divine_fury",
@@ -104,11 +104,11 @@
     "max_stacks": 10,
     "duration": 8,
     "apply_caster": true,
-    "description": "Reduz o tempo de ataques em 0.01 e aumenta o dano causado em 4% por carga."
+    "description": "Reduz o tempo de ataques em 0.01 e aumenta o dano causado em 4% por pilha."
   },
   {
     "id": "core_2_raging",
-    "name": "Fúria",
+    "name": "Enfurecido",
     "image": 5,
     "effects": [
       {
@@ -119,6 +119,6 @@
     "max_stacks": 6,
     "duration": 8,
     "apply_caster": true,
-    "description": "Aumenta o dano causado em 5% por carga."
+    "description": "Aumenta o dano causado em 5% por pilha."
   }
 ]

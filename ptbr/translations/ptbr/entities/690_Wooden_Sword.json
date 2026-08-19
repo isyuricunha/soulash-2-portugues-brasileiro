@@ -24,7 +24,7 @@
       14
     ]
   },
-  "description": "Recrutas frequentemente usam esta arma para treinar sem se matarem.",
+  "description": "Recrutas costumam usar esta arma para treinar sem se matarem.",
   "glyph": {
     "frames": [
       {
@@ -66,5 +66,6 @@
     "range": 1,
     "type": 1
   },
-  "weight": 0.75
+  "weight": 0.75,
+  "feminine_form": true
 }

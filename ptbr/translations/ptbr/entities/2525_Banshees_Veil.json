@@ -11,7 +11,7 @@
     "value",
     "weight"
   ],
-  "description": "Um véu assombroso, dito ser tecido dos gritos lamentáveis de uma banshee.",
+  "description": "Um véu assombroso, dito ser tecido a partir dos lamentos pranteadores de uma banshee.",
   "glyph": {
     "frames": [
       {
@@ -36,12 +36,13 @@
     109,
     155
   ],
-  "name": "Véu de Banshee",
+  "name": "Véu da Banshee",
   "resource": {
-    "affix": "Widow's",
+    "affix": "Da Viúva",
     "magic_ingredient": 0,
     "quality": 3,
-    "type": 4
+    "type": 4,
+    "feminine_affix": "Viúva"
   },
   "statistics": {
     "dexterity": [

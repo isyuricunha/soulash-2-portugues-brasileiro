@@ -1,0 +1,29 @@
+{
+  "id": "core_2_toxic_flower",
+  "name": "Flor Tóxica",
+  "category": "wilderness",
+  "flavor": "Uma flor muito rara, útil na alquimia, foi vista nesta região. Obtê-la não será fácil.",
+  "icon": 0,
+  "small_icon": 0,
+  "rarity": "uncommon",
+  "trigger": {
+    "base_probability": 0.08
+  },
+  "duration": {
+    "type": "temporary",
+    "days": [
+      7,
+      14
+    ]
+  },
+  "buildings": [
+    {
+      "building_id": "555"
+    }
+  ],
+  "max_per_region": 1,
+  "history_events": {
+    "begin": "Uma flor rara foi avistada em uma área rarefeita.",
+    "end": "Uma flor rara terminou de florescer."
+  }
+}

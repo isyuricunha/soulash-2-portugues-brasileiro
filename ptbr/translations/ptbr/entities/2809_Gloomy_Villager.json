@@ -40,7 +40,7 @@
       {
         "chance": 1.0,
         "id": "730",
-        "name": "Forquilha",
+        "name": "Forcado",
         "stack": 1
       }
     ],
@@ -48,7 +48,7 @@
       {
         "chance": 1.0,
         "id": "23",
-        "name": "Farrapos",
+        "name": "Farrapas",
         "stack": 1
       }
     ]
@@ -87,7 +87,7 @@
   "moveable": {
     "speed": 1.2000000476837158
   },
-  "name": "Aldeão Lúgubre",
+  "name": "Aldeão Sombrio",
   "sight": {
     "ignore_infra_penalty": false,
     "infravision": false,

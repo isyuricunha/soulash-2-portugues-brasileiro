@@ -41,7 +41,7 @@
     "tags"
   ],
   "corpse": "588",
-  "description": "Criatura pequena e fofa da noite.",
+  "description": "Bonita criaturinha da noite.",
   "dialogues": [
     "28"
   ],
@@ -51,8 +51,8 @@
   },
   "fighter": {
     "attackNames": [
-      "Bite",
-      "Wings flap"
+      "Mordida",
+      "Bater de Asas"
     ]
   },
   "glyph": {

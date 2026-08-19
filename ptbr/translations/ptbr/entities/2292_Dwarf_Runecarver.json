@@ -80,9 +80,9 @@
   "moveable": {
     "speed": 1.100000023841858
   },
-  "name": "Anão Entalhador de Runas",
+  "name": "Anão Gravador de Runas",
   "persona": {
-    "occupation": "Entalhador de Runas"
+    "occupation": "Runecarver"
   },
   "sight": {
     "ignore_infra_penalty": false,

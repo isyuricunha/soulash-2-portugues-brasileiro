@@ -33,7 +33,7 @@
       15
     ]
   },
-  "description": "Este sino faz sons suspeitos no vento.",
+  "description": "Esta campainha faz sons suspeitos no vento.",
   "glyph": {
     "frames": [
       {
@@ -58,12 +58,13 @@
     109,
     155
   ],
-  "name": "Chocalhos de Osso",
+  "name": "Campainhas de Osso",
   "resource": {
-    "affix": "of the Melody",
+    "affix": "da Melodia",
     "magic_ingredient": 2,
     "quality": 2,
-    "type": 7
+    "type": 7,
+    "feminine_affix": "melódica"
   },
   "value": 1000,
   "weapon": {
@@ -82,5 +83,6 @@
     "range": 0,
     "type": 9
   },
-  "weight": 0.10000000149011612
+  "weight": 0.10000000149011612,
+  "feminine_form": true
 }

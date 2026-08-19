@@ -34,7 +34,7 @@
     "random_resource"
   ],
   "corpse": [],
-  "description": "Árvore massiva com um tronco grande que pode armazenar vastas quantidades de água.",
+  "description": "Árvore massiva com um tronco largo que pode armazenar vastas quantidades de água.",
   "glyph": {
     "frames": [
       {
@@ -66,7 +66,7 @@
     93,
     191
   ],
-  "name": "Árvore Baobá",
+  "name": "Baobá",
   "producer": {
     "products": {
       "1": [
@@ -107,5 +107,6 @@
     "spawn_chance": 100.0,
     "spawn_multiply": 20.0,
     "spawn_rolls": 1
-  }
+  },
+  "feminine_form": true
 }

@@ -62,5 +62,6 @@
   ],
   "name": "Caneleiras de Madeira",
   "value": 500,
-  "weight": 0.6000000238418579
+  "weight": 0.6000000238418579,
+  "feminine_form": true
 }

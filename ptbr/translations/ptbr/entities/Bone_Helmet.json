@@ -37,7 +37,7 @@
       14
     ]
   },
-  "description": "Esta construção de osso protege a cabeça de uma concussão.",
+  "description": "Esta construção de osso protege a cabeça contra concussão.",
   "glyph": {
     "frames": [
       {
@@ -62,7 +62,7 @@
     160,
     161
   ],
-  "name": "Capacete de Osso",
+  "name": "Elmo de Osso",
   "value": 200,
   "weight": 1.0
 }

@@ -39,7 +39,7 @@
       1
     ]
   },
-  "description": "Grevas feitas de osso endurecido, frequentemente usadas por espectros de osso para mostrar sua ferocidade e brutalidade.",
+  "description": "Grevas feitas de osso endurecido, frequentemente usadas por espectros ósseos para exibir sua ferocidade e brutalidade.",
   "glyph": {
     "frames": [
       {
@@ -64,7 +64,8 @@
     166,
     66
   ],
-  "name": "Caneleiras de Osso",
+  "name": "Grevas de Osso",
   "value": 3200,
-  "weight": 2.0
+  "weight": 2.0,
+  "feminine_form": true
 }

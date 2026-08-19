@@ -31,7 +31,7 @@
     "time": 20,
     "tools": []
   },
-  "description": "Uma escada desconfortavelmente estreita que leva para cima.",
+  "description": "Uma escada desconfortavelmente estreita levando para cima.",
   "glyph": {
     "frames": [
       {
@@ -57,7 +57,7 @@
     38,
     7
   ],
-  "name": "Escada Ascendente",
+  "name": "Escadas Ascendentes",
   "producer": {
     "products": {
       "core_2_deconstruct": [
@@ -72,5 +72,6 @@
       ]
     },
     "time": 20
-  }
+  },
+  "feminine_form": true
 }

@@ -51,10 +51,11 @@
   ],
   "name": "Madeira de Nogueira",
   "resource": {
-    "affix": "Durable",
+    "affix": "Durável",
     "magic_ingredient": 0,
     "quality": 2,
-    "type": 3
+    "type": 3,
+    "feminine_affix": "Durável"
   },
   "value": 700,
   "weapon": {
@@ -73,5 +74,6 @@
     "range": 0,
     "type": 9
   },
-  "weight": 0.10000000149011612
+  "weight": 0.10000000149011612,
+  "feminine_form": true
 }

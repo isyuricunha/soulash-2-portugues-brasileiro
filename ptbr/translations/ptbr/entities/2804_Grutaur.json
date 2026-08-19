@@ -28,7 +28,7 @@
     "tags"
   ],
   "corpse": "2768",
-  "description": "Parece um minotauro com pelagem extra.",
+  "description": "Parece um minotauro com mais pelo.",
   "dialogues": [
     "602",
     "603",
@@ -39,7 +39,7 @@
       {
         "chance": 1.0,
         "id": "2175",
-        "name": "Tanga de Pele",
+        "name": "Tapa-sexo de Pele",
         "stack": 1
       }
     ],
@@ -47,7 +47,7 @@
       {
         "chance": 0.0,
         "id": "85",
-        "name": "Clava",
+        "name": "clava",
         "stack": 1
       }
     ]

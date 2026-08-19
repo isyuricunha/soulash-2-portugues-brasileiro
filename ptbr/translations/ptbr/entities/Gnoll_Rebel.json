@@ -92,9 +92,9 @@
   "moveable": {
     "speed": 1.100000023841858
   },
-  "name": "Gnoll Rebelde",
+  "name": "Rebelde Gnoll",
   "persona": {
-    "occupation": "Rebelde"
+    "occupation": "Rebel"
   },
   "sight": {
     "ignore_infra_penalty": false,

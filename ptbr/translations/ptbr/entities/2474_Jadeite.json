@@ -24,7 +24,7 @@
     "value",
     "weight"
   ],
-  "description": "Esta pedra verde cativante incorpora pureza e elegância, apreciada por seu fascínio atemporal.",
+  "description": "Esta gema verde cativante incorpora pureza e elegância, valorizada por seu encanto atemporal.",
   "glyph": {
     "frames": [
       {
@@ -54,7 +54,8 @@
     "affix": "Jade",
     "magic_ingredient": 0,
     "quality": 4,
-    "type": 8
+    "type": 8,
+    "feminine_affix": "de Jade"
   },
   "statistics": {
     "dexterity": [
@@ -80,5 +81,6 @@
     ]
   },
   "value": 7000,
-  "weight": 0.10000000149011612
+  "weight": 0.10000000149011612,
+  "feminine_form": true
 }

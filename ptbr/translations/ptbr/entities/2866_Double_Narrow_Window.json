@@ -53,7 +53,7 @@
     "time": 50,
     "tools": []
   },
-  "description": "Mais estilosa do que prática.",
+  "description": "Mais estilosa que prática.",
   "glyph": {
     "frames": [
       {
@@ -91,5 +91,6 @@
       ]
     },
     "time": 20
-  }
+  },
+  "feminine_form": true
 }

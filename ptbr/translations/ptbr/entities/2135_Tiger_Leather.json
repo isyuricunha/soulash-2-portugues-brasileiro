@@ -12,7 +12,7 @@
     "weapon",
     "weight"
   ],
-  "description": "Couro exótico frequentemente usado por nobres para decorar suas armas.",
+  "description": "Couro exótico, frequentemente usado por nobres para decorar suas armas.",
   "glyph": {
     "frames": [
       {
@@ -42,10 +42,11 @@
   },
   "name": "Couro de Tigre",
   "resource": {
-    "affix": "Exotic",
+    "affix": "Exótico",
     "magic_ingredient": 0,
     "quality": 3,
-    "type": 2
+    "type": 2,
+    "feminine_affix": "Exótica"
   },
   "value": 3000,
   "weapon": {

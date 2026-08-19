@@ -44,7 +44,7 @@
     "weapon"
   ],
   "corpse": "2008",
-  "description": "Uma coisinha feia, parece um boneco de pau animado.",
+  "description": "Uma coisinha feia, parece uma figura de palito animada.",
   "dialogues": [
     "632",
     "351"
@@ -55,7 +55,7 @@
   },
   "fighter": {
     "attackNames": [
-      "Thwack"
+      "Pancada"
     ]
   },
   "glyph": {
@@ -82,7 +82,7 @@
   "moveable": {
     "speed": 1.0
   },
-  "name": "Graveto",
+  "name": "Galho",
   "sight": {
     "ignore_infra_penalty": false,
     "infravision": true,

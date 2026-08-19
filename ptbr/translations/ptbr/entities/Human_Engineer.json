@@ -87,9 +87,9 @@
   "moveable": {
     "speed": 1.2000000476837158
   },
-  "name": "Humano Engenheiro",
+  "name": "Engenheiro Humano",
   "persona": {
-    "occupation": "Engenheiro"
+    "occupation": "Engineer"
   },
   "sight": {
     "ignore_infra_penalty": false,

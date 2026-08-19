@@ -102,9 +102,9 @@
   "moveable": {
     "speed": 1.100000023841858
   },
-  "name": "Humano Ladrão",
+  "name": "Ladrão Humano",
   "persona": {
-    "occupation": "Ladino"
+    "occupation": "Thief"
   },
   "sight": {
     "ignore_infra_penalty": false,

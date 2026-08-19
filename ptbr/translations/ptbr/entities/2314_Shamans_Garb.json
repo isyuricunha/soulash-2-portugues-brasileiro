@@ -43,7 +43,7 @@
       14
     ]
   },
-  "description": "Esta vestimenta é uma colcha de retalhos de várias peles e couros, adornada com ossos e penas, e tem um visual distintamente selvagem e primitivo.",
+  "description": "Esta vestimenta é um retalho de várias peles e couros, adornada com ossos e penas, e tem uma aparência distintamente selvagem e primitiva.",
   "glyph": {
     "frames": [
       {
@@ -68,7 +68,8 @@
     200,
     33
   ],
-  "name": "Vestimenta de Xamã",
+  "name": "Vestimenta do Xamã",
   "value": 7500,
-  "weight": 2.0
+  "weight": 2.0,
+  "feminine_form": true
 }

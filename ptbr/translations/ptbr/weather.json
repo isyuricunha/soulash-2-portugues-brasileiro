@@ -23,12 +23,38 @@
       "high_mountain",
       "peak"
     ],
-    "trigger_message": "Está começando a chover!"
+    "trigger_message": "Começa a chover!",
+    "change_entities_on_start": [
+      {
+        "from": "core_2_Dried_Mud",
+        "to": [
+          "974"
+        ]
+      },
+      {
+        "from": "core_2_Dried_Short_Grass",
+        "to": [
+          "1"
+        ]
+      },
+      {
+        "from": "core_2_Dried_Flower",
+        "to": [
+          "222"
+        ]
+      },
+      {
+        "from": "42",
+        "to": [
+          "11"
+        ]
+      }
+    ]
   },
   {
     "id": "2",
     "name": "Chuva Ácida",
-    "animation": "132",
+    "animation": "core_2_Acid_Rain",
     "animation_tick": 2000.0,
     "ability": [],
     "ability_trigger_time": 1.0,
@@ -39,11 +65,67 @@
     "biomes": [
       "swamps"
     ],
-    "trigger_message": "Está começando a chover!"
+    "trigger_message": "Começa a chover!",
+    "change_entities_on_start": [
+      {
+        "from": "410",
+        "to": "677"
+      },
+      {
+        "from": "609",
+        "to": "677"
+      },
+      {
+        "from": "11",
+        "to": [
+          "core_2_Burned_Tree"
+        ]
+      },
+      {
+        "from": "2544",
+        "to": [
+          "core_2_Burnde_Bush"
+        ]
+      },
+      {
+        "from": "816",
+        "to": [
+          "core_2_Burnde_Bush"
+        ]
+      },
+      {
+        "from": "228",
+        "to": [
+          "core_2_Dried_Mud"
+        ]
+      },
+      {
+        "from": "2505",
+        "to": [
+          "core_2_Burned_Flower"
+        ]
+      },
+      {
+        "from": "41",
+        "to": [
+          "core_2_Burned_Tree"
+        ]
+      },
+      {
+        "from": "868",
+        "to": "918"
+      },
+      {
+        "from": "core_2_Cranberry_Bush",
+        "to": [
+          "core_2_Burnde_Bush"
+        ]
+      }
+    ]
   },
   {
     "id": "3",
-    "name": "Neve",
+    "name": "Nevasca",
     "animation": "182",
     "animation_tick": 2000.0,
     "ability": [
@@ -58,11 +140,11 @@
       "snow",
       "tundra"
     ],
-    "trigger_message": "Está começando a nevar!"
+    "trigger_message": "Começa a nevar!"
   },
   {
     "id": "4",
-    "name": "Chuva de fogo",
+    "name": "Chuva de Fogo",
     "animation": "190",
     "animation_tick": 2000.0,
     "ability": [
@@ -94,7 +176,7 @@
   },
   {
     "id": "7",
-    "name": "Chuva pesada",
+    "name": "Chuva forte",
     "animation": "core_2_Heavy_Rain",
     "animation_tick": 2000.0,
     "ability": [
@@ -109,6 +191,248 @@
     "biomes": [
       "tropical_rainforest"
     ],
-    "trigger_message": "É um temporal!"
+    "trigger_message": "É um temporal!",
+    "change_entities_on_start": [
+      {
+        "from": "core_2_Dried_Mud",
+        "to": [
+          "974"
+        ]
+      },
+      {
+        "from": "core_2_Dried_Short_Grass",
+        "to": [
+          "1"
+        ]
+      },
+      {
+        "from": "core_2_Dried_Flower",
+        "to": [
+          "222"
+        ]
+      },
+      {
+        "from": "42",
+        "to": [
+          "11"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "8",
+    "name": "Tempestade Furiosa",
+    "animation": "core_2_Storm_Weather",
+    "animation_tick": 2000.0,
+    "ability": [],
+    "ability_trigger_time": 1.0,
+    "disabled_under_roof": true,
+    "duration": 500.0,
+    "trigger_every": 500.0,
+    "trigger_chance": 0.0,
+    "biomes": [],
+    "trigger_message": "Relâmpagos caem, a tempestade chegou!"
+  },
+  {
+    "id": "9",
+    "name": "Lua de Sangue",
+    "animation": "core_2_Blood_Moon",
+    "animation_tick": 2000.0,
+    "ability": [
+      "core_2_Blood_Moon_Curse"
+    ],
+    "ability_trigger_time": 6.0,
+    "disabled_under_roof": false,
+    "duration": 300.0,
+    "trigger_every": 200.0,
+    "trigger_chance": 0.03,
+    "biomes": [],
+    "trigger_message": "[color=178,37,37,255]Uma lua de sangue nasce! Os mortos-vivos ficam mais fortes sob sua luz carmesim![/color]",
+    "force_night": true
+  },
+  {
+    "id": "10",
+    "name": "Lua Azul",
+    "animation": "core_2_Blue_Moon",
+    "animation_tick": 2000.0,
+    "ability": [
+      "core_2_Blue_Moon_Charge"
+    ],
+    "ability_trigger_time": 6.0,
+    "disabled_under_roof": false,
+    "duration": 300.0,
+    "trigger_every": 200.0,
+    "trigger_chance": 0.03,
+    "biomes": [],
+    "trigger_message": "[color=74,172,212,255]Uma lua azul nasce! Sua energia elétrica fortalece todos os combatentes![/color]"
+  },
+  {
+    "id": "11",
+    "name": "Onda de calor",
+    "animation": "core_2_Heatwave",
+    "animation_tick": 2000.0,
+    "ability": [],
+    "ability_trigger_time": 0.0,
+    "disabled_under_roof": false,
+    "duration": 300.0,
+    "trigger_every": 200.0,
+    "trigger_chance": 0.03,
+    "biomes": [
+      "savanna"
+    ],
+    "trigger_message": "[color=235,137,33,255]Uma onda de calor escaldante chega. Mantenha-se hidratado![/color]",
+    "thirst_multiplier": 4.0
+  },
+  {
+    "id": "12",
+    "name": "Seca",
+    "animation": "core_2_Drought",
+    "animation_tick": 2000.0,
+    "ability": [],
+    "ability_trigger_time": 0.0,
+    "disabled_under_roof": false,
+    "duration": 300.0,
+    "trigger_every": 200.0,
+    "trigger_chance": 0.03,
+    "biomes": [
+      "savanna"
+    ],
+    "trigger_message": "[color=210,153,60,255]Uma seca devastadora assola a terra. Os rios secam![/color]",
+    "change_entities_on_start": [
+      {
+        "from": "974",
+        "to": [
+          "core_2_Dried_Mud"
+        ]
+      },
+      {
+        "from": "2033",
+        "to": [
+          "core_2_Dried_Mud"
+        ]
+      },
+      {
+        "from": "411",
+        "to": [
+          "core_2_Dried_Mud"
+        ]
+      },
+      {
+        "from": "1",
+        "to": [
+          "core_2_Dried_Short_Grass"
+        ]
+      },
+      {
+        "from": "222",
+        "to": [
+          "core_2_Dried_Flower"
+        ]
+      },
+      {
+        "from": "270",
+        "to": [
+          "core_2_Dried_Flower"
+        ]
+      },
+      {
+        "from": "core_2_Acacia_Tree",
+        "to": [
+          "42"
+        ]
+      },
+      {
+        "from": "core_2_Candelabra_Tree",
+        "to": [
+          "42"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "13",
+    "name": "Tempestade de areia",
+    "animation": "core_2_Dust_Storm_weather",
+    "animation_tick": 2000.0,
+    "ability": [
+      "core_2_Duststorm_Blindness"
+    ],
+    "ability_trigger_time": 10.0,
+    "disabled_under_roof": true,
+    "duration": 300.0,
+    "trigger_every": 200.0,
+    "trigger_chance": 0.03,
+    "biomes": [
+      "savanna"
+    ],
+    "trigger_message": "[color=194,152,80,255]Uma tempestade de areia cegante se aproxima! A visibilidade é severamente reduzida![/color]"
+  },
+  {
+    "id": "14",
+    "name": "Nevoeiro",
+    "animation": "core_2_Fog_weather",
+    "animation_tick": 2000.0,
+    "ability": [
+      "core_2_Fog_Haze"
+    ],
+    "ability_trigger_time": 10.0,
+    "disabled_under_roof": true,
+    "duration": 300.0,
+    "trigger_every": 200.0,
+    "trigger_chance": 0.03,
+    "biomes": [
+      "forest",
+      "boreal_forest",
+      "swamps"
+    ],
+    "trigger_message": "[color=180,190,200,255]Um nevoeiro denso desce sobre a terra. A visibilidade é reduzida![/color]"
+  },
+  {
+    "id": "15",
+    "name": "Temporal",
+    "animation": "core_2_Thunderstorm",
+    "animation_tick": 2000.0,
+    "ability": [
+      "core_2_Thunderstorm_Strike"
+    ],
+    "ability_trigger_time": 3.0,
+    "disabled_under_roof": true,
+    "duration": 300.0,
+    "trigger_every": 100.0,
+    "trigger_chance": 0.03,
+    "biomes": [
+      "mountain",
+      "high_mountain",
+      "peak"
+    ],
+    "trigger_message": "[color=220,230,255,255]Uma tempestade se aproxima! Relâmpagos cortam o céu![/color]"
+  },
+  {
+    "id": "16",
+    "name": "Inundação",
+    "animation": "core_2_Flooding",
+    "animation_tick": 2000.0,
+    "ability": [],
+    "ability_trigger_time": 1.0,
+    "disabled_under_roof": true,
+    "duration": 500.0,
+    "trigger_every": 500.0,
+    "trigger_chance": 0.25,
+    "biomes": [],
+    "trigger_message": "Esta região foi atingida por uma inundação."
+  },
+  {
+    "id": "17",
+    "name": "Tempestade se Aproximando",
+    "animation": "core_2_Approaching_storm_2",
+    "animation_tick": 2000.0,
+    "ability": [],
+    "ability_trigger_time": 1.0,
+    "disabled_under_roof": true,
+    "duration": 500.0,
+    "trigger_every": 500.0,
+    "trigger_chance": 0.0,
+    "biomes": [],
+    "trigger_message": "A tempestade está chegando!"
   }
 ]

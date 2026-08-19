@@ -27,7 +27,7 @@
     "tags"
   ],
   "corpse": "core_2_Mushman_Corpse",
-  "description": "Um comerciante alegre vendendo mercadorias do Festival.",
+  "description": "Um comerciante alegre vendendo mercadorias de festival.",
   "dialogues": [],
   "equipment": {
     "head_cloth": [
@@ -61,7 +61,7 @@
   },
   "fighter": {
     "attackNames": [
-      "Punch"
+      "Soco"
     ]
   },
   "glyph": {
@@ -91,9 +91,9 @@
   "moveable": {
     "speed": 1.0
   },
-  "name": "Vendedor do Festival Mushman",
+  "name": "Vendedor de Festival Homem-Cogumelo",
   "persona": {
-    "occupation": "Vendedor do Festival"
+    "occupation": "Festival Vendor"
   },
   "sight": {
     "ignore_infra_penalty": false,

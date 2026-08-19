@@ -10,7 +10,7 @@
     "producer"
   ],
   "corpse": [],
-  "description": "Um trecho de grama realmente alta.",
+  "description": "Um tufo de grama muito alta.",
   "glyph": {
     "frames": [
       {
@@ -64,5 +64,6 @@
       ]
     },
     "time": 5
-  }
+  },
+  "feminine_form": true
 }

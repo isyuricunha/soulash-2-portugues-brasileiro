@@ -37,7 +37,7 @@
       15
     ]
   },
-  "description": "Parece que alguém fumou isso muitas vezes.",
+  "description": "Parece que alguém o fumou muitas vezes.",
   "glyph": {
     "frames": [
       {
@@ -62,12 +62,13 @@
     109,
     155
   ],
-  "name": "Cano Preto",
+  "name": "Cachimbo Preto",
   "resource": {
-    "affix": "of the Smoke",
+    "affix": "da Fumaça",
     "magic_ingredient": 2,
     "quality": 2,
-    "type": 7
+    "type": 7,
+    "feminine_affix": "enfumaçada"
   },
   "statistics": {
     "dexterity": [

@@ -68,8 +68,8 @@
   },
   "fighter": {
     "attackNames": [
-      "Horns",
-      "Hooves"
+      "Chifres",
+      "Cascos"
     ]
   },
   "glyph": {
@@ -96,7 +96,7 @@
   "moveable": {
     "speed": 1.0
   },
-  "name": "Cabra da Montanha",
+  "name": "Cabra-da-montanha",
   "producer": {
     "delay_on_use": 1440,
     "products": {
@@ -149,5 +149,6 @@
   "tags": [
     "2",
     "9"
-  ]
+  ],
+  "feminine_form": true
 }

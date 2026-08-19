@@ -93,9 +93,9 @@
   "moveable": {
     "speed": 1.100000023841858
   },
-  "name": "Arqueiro Elfo",
+  "name": "Elfo Arqueiro",
   "persona": {
-    "occupation": "Arqueiro"
+    "occupation": "Bowyer"
   },
   "sight": {
     "ignore_infra_penalty": false,

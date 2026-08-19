@@ -6,7 +6,7 @@
     "health": 0,
     "stamina": 5
   },
-  "description": "Um ataque que causa ::damage ::damage_type de dano e reduz o fôlego do inimigo em ::burn_stamina.",
+  "description": "Um ataque causando ::damage ::damage_type de dano e reduzindo a stamina do inimigo em ::burn_stamina.",
   "duration": 0.0,
   "effects": {
     "burn_stamina": 25,

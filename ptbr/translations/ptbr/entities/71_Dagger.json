@@ -24,7 +24,7 @@
       1
     ]
   },
-  "description": "Arma curta com uma lâmina pontiaguda.",
+  "description": "Arma curta com lâmina pontiaguda.",
   "glyph": {
     "frames": [
       {
@@ -66,5 +66,6 @@
     "range": 1,
     "type": 3
   },
-  "weight": 1.0
+  "weight": 1.0,
+  "feminine_form": true
 }

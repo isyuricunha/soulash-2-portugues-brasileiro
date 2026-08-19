@@ -22,7 +22,7 @@
     "position_2d"
   ],
   "corpse": [],
-  "description": "Orbes mágicos flutuantes que parecem exatamente luas azuis em miniatura flutuando suavemente através das árvores.",
+  "description": "Orbes mágicas flutuantes que parecem exatamente luas azuis em miniatura flutuando suavemente entre as árvores.",
   "glyph": {
     "frames": [
       {
@@ -58,5 +58,6 @@
     120,
     42
   ],
-  "name": "Lua Azul de Papel"
+  "name": "Lua Azul de Papel",
+  "feminine_form": true
 }

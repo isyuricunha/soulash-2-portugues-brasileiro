@@ -7,7 +7,7 @@
     "item": "561",
     "stamina": 30
   },
-  "description": "Explode o alvo em Chamas Ardentes causando ::damage ::damage_type de dano em ::aoe_range células ao redor e espalha ::summon_count ::summon perto dele.",
+  "description": "Exploda a Chama Ardente alvo causando ::damage ::damage_type de dano em ::aoe_range tiles ao redor e espalhe ::summon_count ::summon perto dela.",
   "duration": 0.0,
   "effects": {
     "aoe_break": 1,

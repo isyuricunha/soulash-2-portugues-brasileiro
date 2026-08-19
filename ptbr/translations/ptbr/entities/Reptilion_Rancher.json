@@ -79,9 +79,9 @@
   "moveable": {
     "speed": 1.5
   },
-  "name": "Reptilion Fazendeiro",
+  "name": "Reptilion Criador",
   "persona": {
-    "occupation": "Fazendeiro"
+    "occupation": "Rancher"
   },
   "sight": {
     "ignore_infra_penalty": false,

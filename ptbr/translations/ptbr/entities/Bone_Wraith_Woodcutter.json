@@ -81,9 +81,9 @@
   "moveable": {
     "speed": 1.0
   },
-  "name": "Espectro de Osso Lenhador",
+  "name": "Lenhador Espectro de Osso",
   "persona": {
-    "occupation": "Lanhador"
+    "occupation": "Woodcutter"
   },
   "sight": {
     "ignore_infra_penalty": false,

@@ -44,7 +44,7 @@
     "time": 20,
     "tools": []
   },
-  "description": "Uma árvore de acácia muito jovem e pequena.",
+  "description": "Uma acácia muito jovem e pequena.",
   "glyph": {
     "frames": [
       {
@@ -108,5 +108,6 @@
     "spawn_chance": 100.0,
     "spawn_multiply": 0.0,
     "spawn_rolls": 1
-  }
+  },
+  "feminine_form": true
 }

@@ -6,7 +6,7 @@
   ],
   "description": "Gera árvores aleatórias",
   "id": "407",
-  "name": "Geração Aleatória de Árvores",
+  "name": "Geração de Árvore Aleatória",
   "random_resource": {
     "entity": [
       "11",
@@ -36,5 +36,6 @@
     "spawn_chance": 100.0,
     "spawn_multiply": 0.0,
     "spawn_rolls": 60
-  }
+  },
+  "feminine_form": true
 }

@@ -43,7 +43,7 @@
       {
         "chance": 1.0,
         "id": "23",
-        "name": "Farrapos",
+        "name": "Farrap",
         "stack": 1
       }
     ]
@@ -82,9 +82,9 @@
   "moveable": {
     "speed": 1.2999999523162842
   },
-  "name": "Orc Soprador de Vidro",
+  "name": "Orc Vidreiro",
   "persona": {
-    "occupation": "Soprador de Vidro"
+    "occupation": "Glassblower"
   },
   "sight": {
     "ignore_infra_penalty": false,

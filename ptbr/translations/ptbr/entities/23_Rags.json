@@ -33,7 +33,7 @@
     "time": 15,
     "tools": []
   },
-  "description": "Este é um pedaço de pano sujo e fedido, rasgado e esfarrapado em vários lugares.",
+  "description": "Este é um pedaço de tecido sujo e fedorento, esfarrapado e rasgado em vários lugares.",
   "glyph": {
     "frames": [
       {
@@ -58,7 +58,8 @@
     115,
     97
   ],
-  "name": "Farrapos",
+  "name": "Farrapas",
   "value": 50,
-  "weight": 0.5
+  "weight": 0.5,
+  "feminine_form": true
 }

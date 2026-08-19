@@ -1,0 +1,83 @@
+{
+  "id": "core_2_let_it_snow",
+  "name": "Que Neve",
+  "category": "settlement",
+  "flavor": "Todos nós às vezes sentimos vontade de experimentar um toque do exótico. Às vezes, é algo diferente do que parece à primeira vista.",
+  "icon": 23,
+  "small_icon": 23,
+  "rarity": "uncommon",
+  "restrict_races": [
+    "31"
+  ],
+  "trigger": {
+    "base_probability": 0.004,
+    "conditions": [
+      {
+        "type": "settlement_population_min",
+        "value": 30
+      },
+      {
+        "type": "settlement_tier_min",
+        "value": 1
+      },
+      {
+        "type": "min_unemployed",
+        "value": 1
+      }
+    ]
+  },
+  "duration": {
+    "type": "temporary",
+    "days": [
+      30,
+      45
+    ]
+  },
+  "effects": [
+    {
+      "type": "spawn_group",
+      "amount": [
+        1,
+        1
+      ],
+      "group_type": "settlement",
+      "entity": "core_2_Gnoll_Scribe",
+      "border_color": [
+        170,
+        128,
+        192
+      ]
+    }
+  ],
+  "extra_dialogues": [
+    "core_2_let_it_snow"
+  ],
+  "interactions": [
+    {
+      "type": "conversation",
+      "id": "core_2_deliver_ice",
+      "translation_id": 0,
+      "required_ingredients": [
+        {
+          "id": "2472",
+          "amount": 5
+        }
+      ],
+      "entities": [
+        "core_2_Gnoll_Scribe"
+      ],
+      "label": "Entregar item solicitado.",
+      "reward": {
+        "gold": 50,
+        "remove_event": true
+      },
+      "history_event": "::name entregou os bens necessários ao escrivão Gnoll!",
+      "announcement": "Você entregou as mercadorias necessárias ao escriba Gnoll de ::settlement!"
+    }
+  ],
+  "history_events": {
+    "begin": "Um gnoll quer provar algo exótico em ::settlement.",
+    "success": "O escriba Gnoll agora pode provar algo exótico.",
+    "failure": "O escriba Gnoll ainda sentirá falta do exótico."
+  }
+}

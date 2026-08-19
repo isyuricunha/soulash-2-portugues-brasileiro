@@ -38,10 +38,11 @@
   ],
   "name": "Chifre de Minotauro",
   "resource": {
-    "affix": "Barbaric",
+    "affix": "Bárbaro",
     "magic_ingredient": 0,
     "quality": 3,
-    "type": 5
+    "type": 5,
+    "feminine_affix": "Bárbara"
   },
   "statistics": {
     "dexterity": [

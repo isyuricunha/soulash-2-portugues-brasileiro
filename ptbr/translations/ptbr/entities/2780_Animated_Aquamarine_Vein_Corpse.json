@@ -9,7 +9,7 @@
     "producer",
     "weight"
   ],
-  "description": "Veio de água-marinha animado, mas desta vez está morto.",
+  "description": "Veia de água-marinha animada, mas desta vez está morta.",
   "glyph": {
     "frames": [
       {
@@ -38,7 +38,7 @@
     128,
     104
   ],
-  "name": "Cadáver de Veio de Água-Marinha Animado",
+  "name": "Cadáver de Veia de Água-marinha Animada",
   "producer": {
     "products": {
       "3": [

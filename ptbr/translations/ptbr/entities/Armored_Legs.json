@@ -45,7 +45,7 @@
       1
     ]
   },
-  "description": "Um conjunto de pernas de golem equipadas com alguma armadura adicional.",
+  "description": "Um conjunto de pernas de golem equipado com alguma armadura adicional.",
   "glyph": {
     "frames": [
       {
@@ -72,5 +72,6 @@
   ],
   "name": "Pernas Blindadas",
   "value": 15000,
-  "weight": 1.5
+  "weight": 1.5,
+  "feminine_form": true
 }

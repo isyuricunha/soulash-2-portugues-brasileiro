@@ -31,7 +31,7 @@
     "tags"
   ],
   "corpse": "2637",
-  "description": "Macehand foi criado usando magia negra. Em vez de uma mão, ele tem uma clava que pode causar muito dano.",
+  "description": "Mão-de-Maça foi criado usando magia negra. Em vez de uma mão, ele tem uma clava que pode causar muito dano.",
   "dialogues": [],
   "experience_gainer": {
     "exp": 0,
@@ -67,7 +67,7 @@
   "moveable": {
     "speed": 1.0
   },
-  "name": "Mão de Maça",
+  "name": "Mão-de-Maça",
   "sight": {
     "ignore_infra_penalty": false,
     "infravision": true,

@@ -9,7 +9,7 @@
     "value",
     "weight"
   ],
-  "description": "Crescerá em um arbusto de amora-de-urso um dia.",
+  "description": "Um dia crescerá e se tornará um arbusto de uva-ursina.",
   "glyph": {
     "frames": [
       {
@@ -34,7 +34,8 @@
     109,
     155
   ],
-  "name": "Semente de Amora-de-urso",
+  "name": "Semente de Uva-ursina",
   "value": 100,
-  "weight": 0.009999999776482582
+  "weight": 0.009999999776482582,
+  "feminine_form": true
 }

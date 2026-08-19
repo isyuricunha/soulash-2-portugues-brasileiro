@@ -24,7 +24,7 @@
     "weapon",
     "weight"
   ],
-  "description": "Uma parte pontiaguda de um skavedda morto.",
+  "description": "Uma parte pontiaguda de uma skavedda morta.",
   "glyph": {
     "frames": [
       {
@@ -51,10 +51,11 @@
   ],
   "name": "Chifre de Skavedda",
   "resource": {
-    "affix": "Pointy",
+    "affix": "Pontiagudo",
     "magic_ingredient": 0,
     "quality": 2,
-    "type": 5
+    "type": 5,
+    "feminine_affix": "Pontiaguda"
   },
   "value": 1600,
   "weapon": {

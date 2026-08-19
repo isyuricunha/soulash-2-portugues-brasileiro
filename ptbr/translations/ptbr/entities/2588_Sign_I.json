@@ -8,7 +8,7 @@
     "position_2d"
   ],
   "corpse": [],
-  "description": "Venham todos ao Grande Circo! Animais selvagens, acrobatas, mágicos e muito mais!",
+  "description": "Venham todos, venham ver o Grande Circo! Animais selvagens, acrobatas, mágicos e muito mais!",
   "glyph": {
     "frames": [
       {
@@ -75,5 +75,6 @@
     108,
     14
   ],
-  "name": "Placa I"
+  "name": "Placa I",
+  "feminine_form": true
 }

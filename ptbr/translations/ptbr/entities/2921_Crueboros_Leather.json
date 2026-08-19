@@ -23,7 +23,7 @@
     "value",
     "weight"
   ],
-  "description": "Um couro cortado de um crueboros morto.",
+  "description": "Um couro retirado de um Crueboros morto.",
   "glyph": {
     "frames": [
       {
@@ -50,10 +50,11 @@
   ],
   "name": "Couro de Crueboros",
   "resource": {
-    "affix": "Slimy",
+    "affix": "Viscoso",
     "magic_ingredient": 0,
     "quality": 2,
-    "type": 2
+    "type": 2,
+    "feminine_affix": "Viscosa"
   },
   "value": 1500,
   "weight": 0.10000000149011612

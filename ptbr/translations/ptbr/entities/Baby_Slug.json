@@ -25,7 +25,7 @@
     "tags"
   ],
   "corpse": "588",
-  "description": "Um caracol bebê sem sua casca. Parece úmido.",
+  "description": "Uma lesma bebê sem concha. Parece úmida.",
   "dialogues": [
     "908"
   ],
@@ -127,5 +127,6 @@
   "tags": [
     "9",
     "2"
-  ]
+  ],
+  "feminine_form": true
 }

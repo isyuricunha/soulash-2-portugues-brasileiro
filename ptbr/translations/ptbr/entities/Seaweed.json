@@ -7,7 +7,7 @@
     "position_2d"
   ],
   "corpse": [],
-  "description": "Algumas partes de planta aquática.",
+  "description": "Algumas partes de planta subaquática.",
   "glyph": {
     "frames": [
       {
@@ -47,5 +47,6 @@
     39,
     13
   ],
-  "name": "Algas"
+  "name": "Alga Marinha",
+  "feminine_form": true
 }

@@ -10,7 +10,7 @@
     "value",
     "weight"
   ],
-  "description": "Pastel saboroso feito com carne. Não pergunte de que tipo.",
+  "description": "Torta saborosa feita com carne. Não pergunte de que tipo.",
   "food": {
     "nutrition": 20,
     "on_eat": "",
@@ -42,5 +42,6 @@
   ],
   "name": "Torta de Carne",
   "value": 200,
-  "weight": 0.20000000298023224
+  "weight": 0.20000000298023224,
+  "feminine_form": true
 }

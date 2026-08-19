@@ -40,7 +40,7 @@
       {
         "chance": 1.0,
         "id": "234",
-        "name": "Dardo",
+        "name": "Virote",
         "stack": 20
       }
     ],
@@ -89,7 +89,7 @@
   },
   "name": "Anão Besteiro",
   "persona": {
-    "occupation": "Besteiro"
+    "occupation": "Crossbower"
   },
   "sight": {
     "ignore_infra_penalty": false,

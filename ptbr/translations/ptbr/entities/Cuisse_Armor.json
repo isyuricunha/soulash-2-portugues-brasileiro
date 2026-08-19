@@ -64,5 +64,6 @@
   ],
   "name": "Armadura de Coxa",
   "value": 1200,
-  "weight": 2.0
+  "weight": 2.0,
+  "feminine_form": true
 }

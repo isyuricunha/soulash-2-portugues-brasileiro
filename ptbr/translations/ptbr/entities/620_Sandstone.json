@@ -24,7 +24,7 @@
     "weapon",
     "weight"
   ],
-  "description": "Grãos de areia cimentados juntos para formar esta rocha.",
+  "description": "Grãos de areia cimentados juntos para formar esta pedra.",
   "glyph": {
     "frames": [
       {
@@ -51,10 +51,11 @@
   ],
   "name": "Arenito",
   "resource": {
-    "affix": "Sandstone",
+    "affix": "Arenito",
     "magic_ingredient": 0,
     "quality": 2,
-    "type": 6
+    "type": 6,
+    "feminine_affix": "arenitosa"
   },
   "value": 700,
   "weapon": {

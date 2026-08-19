@@ -97,9 +97,9 @@
   "moveable": {
     "speed": 1.0
   },
-  "name": "Vampiro Caçador",
+  "name": "Caçador Vampiro",
   "persona": {
-    "occupation": "Caçador"
+    "occupation": "Hunter"
   },
   "sight": {
     "ignore_infra_penalty": false,

@@ -34,7 +34,7 @@
       "id": "613"
     }
   ],
-  "description": "Pode haver um inimigo escondido atrás de cada folha de grama.",
+  "description": "Pode haver um inimigo escondido atrás de cada lâmina de grama.",
   "glyph": {
     "frames": [
       {
@@ -74,5 +74,6 @@
     39,
     13
   ],
-  "name": "Grama Alta"
+  "name": "Grama Alta",
+  "feminine_form": true
 }

@@ -31,15 +31,15 @@
     "weapon"
   ],
   "corpse": "981",
-  "description": "Uma mão demoníaca e feia surge do chão, agarrando tudo ao seu redor.",
+  "description": "Uma mão feia e demoníaca brota do chão, agarrando tudo ao redor.",
   "experience_gainer": {
     "exp": 0,
     "level": 40
   },
   "fighter": {
     "attackNames": [
-      "Grab",
-      "Slam"
+      "Agarre",
+      "Impacto"
     ]
   },
   "glyph": {
@@ -118,5 +118,6 @@
     "parry_bonus": 0,
     "range": 1,
     "type": 3
-  }
+  },
+  "feminine_form": true
 }

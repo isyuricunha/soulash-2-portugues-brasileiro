@@ -8,7 +8,7 @@
     "resting_place"
   ],
   "corpse": [],
-  "description": "Uma cama de madeira queimada. Está mal conservada neste ponto.",
+  "description": "Uma cama de madeira queimada. Mal está de pé neste ponto.",
   "glyph": {
     "frames": [
       {
@@ -31,5 +31,6 @@
     19
   ],
   "name": "Cama Queimada",
-  "resting_place": 110
+  "resting_place": 110,
+  "feminine_form": true
 }

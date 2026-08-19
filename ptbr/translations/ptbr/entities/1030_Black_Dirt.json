@@ -14,7 +14,7 @@
     "minimap_pixel",
     "name"
   ],
-  "description": "Terra carbonizada, completamente sem nutrientes. Nada crescerá aqui.",
+  "description": "Terra carbonizada, completamente desprovida de sustento. Nada jamais crescerá aqui.",
   "glyph": {
     "frames": [
       {
@@ -35,5 +35,6 @@
     13,
     12
   ],
-  "name": "Terra Negra"
+  "name": "Terra Negra",
+  "feminine_form": true
 }

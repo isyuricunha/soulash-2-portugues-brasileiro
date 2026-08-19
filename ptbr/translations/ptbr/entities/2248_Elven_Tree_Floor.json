@@ -16,7 +16,7 @@
     "name"
   ],
   "corpse": [],
-  "description": "Piso dentro de uma Árvore da Vida élfica. Parece antinatural, talvez esculpida com magia.",
+  "description": "Piso dentro de uma Árvore da Vida élfica. Parece não natural, talvez esculpido com magia.",
   "glyph": {
     "frames": [
       {
@@ -38,5 +38,5 @@
     44,
     7
   ],
-  "name": "Piso da Árvore Élfica"
+  "name": "Piso de Árvore Élfica"
 }

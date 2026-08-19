@@ -9,7 +9,7 @@
     "minimap_pixel"
   ],
   "corpse": "35",
-  "description": "Uma estalagmite é uma formação rochosa que se eleva do chão de uma caverna.",
+  "description": "Uma estalagmite é uma formação de pedra que se ergue do chão de uma caverna.",
   "glyph": {
     "frames": [
       {
@@ -30,5 +30,6 @@
     104,
     102
   ],
-  "name": "Estalagmite"
+  "name": "Estalagmite",
+  "feminine_form": true
 }

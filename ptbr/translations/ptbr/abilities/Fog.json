@@ -6,7 +6,7 @@
     "health": 0,
     "stamina": 5
   },
-  "description": "Envolva alguém com uma névoa espessa que obscurece a visão na área ao seu redor.",
+  "description": "Envolve alguém com uma névoa densa que obscurece a visão na área ao seu redor.",
   "duration": 10.0,
   "effects": {
     "aoe_range": 5,

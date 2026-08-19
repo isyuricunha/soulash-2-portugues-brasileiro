@@ -26,7 +26,7 @@
       2
     ]
   },
-  "description": "Tem um gosto doce e azedo.",
+  "description": "Tem gosto doce e azedo.",
   "glyph": {
     "frames": [
       {
@@ -55,7 +55,7 @@
     186,
     83
   ],
-  "name": "Gaseificada de Groselha",
+  "name": "Fizz de Groselha",
   "value": 800,
   "weight": 0.30000001192092896
 }

@@ -24,7 +24,7 @@
     "weapon",
     "weight"
   ],
-  "description": "Um tesouro precioso das dunas áridas.",
+  "description": "Um tesouro valioso das dunas áridas.",
   "glyph": {
     "frames": [
       {
@@ -49,12 +49,13 @@
     227,
     120
   ],
-  "name": "Escama de Vermes",
+  "name": "Escama de Verme",
   "resource": {
-    "affix": "Desolate",
+    "affix": "Desolado",
     "magic_ingredient": 0,
     "quality": 1,
-    "type": 10
+    "type": 10,
+    "feminine_affix": "Desolada"
   },
   "value": 400,
   "weapon": {
@@ -67,5 +68,6 @@
     "range": 0,
     "type": -1
   },
-  "weight": 0.10000000149011612
+  "weight": 0.10000000149011612,
+  "feminine_form": true
 }

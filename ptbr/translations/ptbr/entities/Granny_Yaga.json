@@ -36,7 +36,7 @@
     "tags"
   ],
   "corpse": "25",
-  "description": "Uma senhora maluca obcecada por doces.",
+  "description": "Uma velha maluca obcecada por doces.",
   "dialogues": [
     "919",
     "920"
@@ -62,7 +62,7 @@
       {
         "chance": 1.0,
         "id": "153",
-        "name": "Vaso de Metal",
+        "name": "Panela de Metal",
         "stack": 1
       }
     ]
@@ -162,5 +162,6 @@
   "tags": [
     "1",
     "9"
-  ]
+  ],
+  "feminine_form": true
 }

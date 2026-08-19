@@ -95,9 +95,9 @@
   "moveable": {
     "speed": 1.0
   },
-  "name": "Vigia Cinza Elfo",
+  "name": "Observador Cinzento Élfico",
   "persona": {
-    "occupation": "Vigia Cinza"
+    "occupation": "Grey Watcher"
   },
   "sight": {
     "ignore_infra_penalty": false,

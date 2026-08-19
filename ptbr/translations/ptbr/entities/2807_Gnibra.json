@@ -29,7 +29,7 @@
     "weapon"
   ],
   "corpse": "2773",
-  "description": "Mistura curiosa de pássaro e lagarto com garras afiadas e bico duro.",
+  "description": "Mistura curiosa de ave e lagarto com garras afiadas como navalha e bico duro.",
   "dialogues": [
     "608",
     "609",
@@ -63,8 +63,8 @@
   },
   "fighter": {
     "attackNames": [
-      "Beak",
-      "Talons"
+      "Bico",
+      "Garras"
     ]
   },
   "glyph": {
@@ -147,5 +147,6 @@
     "parry_bonus": 0,
     "range": 2,
     "type": 4
-  }
+  },
+  "feminine_form": true
 }

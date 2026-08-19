@@ -50,7 +50,7 @@
     "time": 40,
     "tools": []
   },
-  "description": "Confeccionada pelos enigmáticos Espectros de Osso, esta porta impressionante é um mosaico de conchas desbotadas pelo sol, refletindo o espírito nômade da tribo e sua profunda conexão com as areias áridas.",
+  "description": "Forjada pelos enigmáticos Espectros Ósseos, esta porta impressionante é um mosaico de conchas branqueadas pelo sol, refletindo o espírito nômade da tribo e sua profunda conexão com as areias áridas.",
   "glyph": {
     "frames": [
       {
@@ -108,5 +108,6 @@
       ]
     },
     "time": 30
-  }
+  },
+  "feminine_form": true
 }

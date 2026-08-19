@@ -23,7 +23,7 @@
     "time": 10,
     "tools": []
   },
-  "description": "Aqui jazem partes de Stuart. Não conseguimos encontrar o resto após a explosão.",
+  "description": "Aqui jazem partes de Stuart. Não conseguimos encontrar o restante após a explosão.",
   "glyph": {
     "frames": [
       {
@@ -93,5 +93,6 @@
       ]
     },
     "time": 10
-  }
+  },
+  "feminine_form": true
 }

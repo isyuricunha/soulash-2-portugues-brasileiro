@@ -28,7 +28,7 @@
       1
     ]
   },
-  "description": "Espada longa com uma lâmina curva e um único gume. Há muitas lendas em torno desta espada, uma mais mortal que a outra.",
+  "description": "Espada longa com lâmina curva e de fio único. Há muitas lendas cercando esta espada, uma mais mortal que a outra.",
   "glyph": {
     "frames": [
       {
@@ -70,5 +70,6 @@
     "range": 1,
     "type": 1
   },
-  "weight": 3.0
+  "weight": 3.0,
+  "feminine_form": true
 }

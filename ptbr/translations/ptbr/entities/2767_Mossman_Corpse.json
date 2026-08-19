@@ -9,7 +9,7 @@
     "producer",
     "weight"
   ],
-  "description": "Corpo morto de um homem-musgo.",
+  "description": "Corpo morto de um homem de musgo",
   "glyph": {
     "frames": [
       {
@@ -38,7 +38,7 @@
     128,
     104
   ],
-  "name": "Cadáver de Homem-Musgo",
+  "name": "Cadáver de Homem de Musgo",
   "producer": {
     "products": {
       "3": [

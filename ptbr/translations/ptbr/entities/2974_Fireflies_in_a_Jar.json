@@ -36,12 +36,13 @@
     42,
     42
   ],
-  "name": "Vaga-lumes em um Pote",
+  "name": "Vaga-lumes num Pote",
   "resource": {
-    "affix": "of the Fireflies",
+    "affix": "dos Vaga-lumes",
     "magic_ingredient": 1,
     "quality": 1,
-    "type": 7
+    "type": 7,
+    "feminine_affix": "vaga-lume"
   },
   "sight": {
     "ignore_infra_penalty": false,

@@ -1,0 +1,85 @@
+{
+  "id": "core_2_lost_key",
+  "name": "Chave Perdida",
+  "category": "settlement",
+  "flavor": "A vida de vampiro nem sempre é fácil. Especialmente quando você perde acidentalmente a chave do seu apartamento.",
+  "icon": 23,
+  "small_icon": 23,
+  "rarity": "uncommon",
+  "restrict_races": [
+    "6"
+  ],
+  "trigger": {
+    "base_probability": 0.004,
+    "conditions": [
+      {
+        "type": "settlement_population_min",
+        "value": 30
+      },
+      {
+        "type": "settlement_tier_min",
+        "value": 1
+      },
+      {
+        "type": "min_unemployed",
+        "value": 1
+      }
+    ]
+  },
+  "duration": {
+    "type": "temporary",
+    "days": [
+      30,
+      45
+    ]
+  },
+  "effects": [
+    {
+      "type": "spawn_group",
+      "amount": [
+        1,
+        1
+      ],
+      "group_type": "settlement",
+      "entity": "core_2_Vampire_Scribe",
+      "border_color": [
+        170,
+        128,
+        192
+      ]
+    }
+  ],
+  "extra_dialogues": [
+    "core_2_lost_key"
+  ],
+  "interactions": [
+    {
+      "type": "conversation",
+      "id": "core_2_deliver_lost_key",
+      "translation_id": 0,
+      "required_ingredients": [
+        {
+          "id": "core_2_Coffin_Key",
+          "amount": 1
+        }
+      ],
+      "entities": [
+        "core_2_Vampire_Scribe"
+      ],
+      "label": "Entregar item solicitado.",
+      "reward": {
+        "gold": 50,
+        "skill_id": "core_2_adventuring",
+        "exp": 20,
+        "remove_event": true
+      },
+      "history_event": "::name entregou os bens solicitados ao Vampiro esquecido!",
+      "announcement": "Você entregou os bens solicitados ao Vampiro esquecido de ::settlement!"
+    }
+  ],
+  "history_events": {
+    "begin": "Um certo vampiro azarado não consegue entrar em seu caixão em ::settlement.",
+    "success": "O vampiro azarado pode dormir tranquilamente em seu caixão novamente.",
+    "failure": "O vampiro azarado nunca mais dormirá em seu caixão. Dizem que ele decidiu se tornar um aventureiro."
+  }
+}

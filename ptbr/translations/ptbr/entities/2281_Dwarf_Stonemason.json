@@ -76,9 +76,9 @@
   "moveable": {
     "speed": 1.5
   },
-  "name": "Anão Pedreiro",
+  "name": "Pedreiro Anão",
   "persona": {
-    "occupation": "Pedreiro"
+    "occupation": "Stonemason"
   },
   "sight": {
     "ignore_infra_penalty": false,

@@ -10,7 +10,7 @@
     "value",
     "weight"
   ],
-  "description": "É espesso, esverdeado e cheira mal.",
+  "description": "É espessa, esverdeada e cheira mal.",
   "glyph": {
     "frames": [
       {
@@ -43,5 +43,6 @@
     "type": 12
   },
   "value": 500,
-  "weight": 0.10000000149011612
+  "weight": 0.10000000149011612,
+  "feminine_form": true
 }

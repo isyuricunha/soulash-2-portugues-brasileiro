@@ -32,7 +32,7 @@
     "weapon"
   ],
   "corpse": "342",
-  "description": "Lobos terríveis são muito maiores e mais agressivos que o lobo médio.",
+  "description": "Lobos terríveis são muito maiores e mais agressivos que o lobo comum.",
   "dialogues": [
     "7",
     "878"
@@ -66,8 +66,8 @@
   },
   "fighter": {
     "attackNames": [
-      "Bite",
-      "Claws"
+      "Mordida",
+      "Garras"
     ]
   },
   "glyph": {

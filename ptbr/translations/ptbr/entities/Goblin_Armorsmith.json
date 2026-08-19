@@ -106,9 +106,9 @@
   "moveable": {
     "speed": 1.100000023841858
   },
-  "name": "Goblin Armoreiro",
+  "name": "Armoreiro Goblin",
   "persona": {
-    "occupation": "Armoreiro"
+    "occupation": "Armorsmith"
   },
   "sight": {
     "ignore_infra_penalty": false,

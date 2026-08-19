@@ -29,7 +29,7 @@
       14
     ]
   },
-  "description": "Uma versão menor de um porrete. Ainda pode machucar.",
+  "description": "Uma versão menor de uma clava. Ainda pode machucar.",
   "glyph": {
     "frames": [
       {
@@ -73,5 +73,6 @@
     "range": 6,
     "type": 11
   },
-  "weight": 1.0
+  "weight": 1.0,
+  "feminine_form": true
 }

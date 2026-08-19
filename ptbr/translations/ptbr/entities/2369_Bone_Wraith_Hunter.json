@@ -48,7 +48,7 @@
       {
         "chance": 1.0,
         "id": "100",
-        "name": "Dardo",
+        "name": "Azagaia",
         "stack": 2
       }
     ],
@@ -56,7 +56,7 @@
       {
         "chance": 1.0,
         "id": "100",
-        "name": "Dardo",
+        "name": "Azagaia",
         "stack": 1
       }
     ]
@@ -95,9 +95,9 @@
   "moveable": {
     "speed": 1.0
   },
-  "name": "Espectro de Osso Caçador",
+  "name": "Caçador de Espectro Ósseo",
   "persona": {
-    "occupation": "Caçador"
+    "occupation": "Hunter"
   },
   "sight": {
     "ignore_infra_penalty": false,

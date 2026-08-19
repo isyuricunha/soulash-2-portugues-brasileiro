@@ -39,7 +39,7 @@
       1
     ]
   },
-  "description": "Protege antebraços.",
+  "description": "Protege os antebraços.",
   "glyph": {
     "frames": [
       {
@@ -64,7 +64,7 @@
     160,
     161
   ],
-  "name": "Braçadeiras",
+  "name": "Guarda-braços",
   "value": 1200,
   "weight": 2.0
 }

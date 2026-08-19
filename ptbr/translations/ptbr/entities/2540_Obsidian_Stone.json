@@ -12,7 +12,7 @@
     "weapon",
     "weight"
   ],
-  "description": "Rochas negras como vidro formadas a partir de lava vulcânica.",
+  "description": "Pedra negra semelhante a vidro, formada a partir de lava vulcânica.",
   "glyph": {
     "frames": [
       {
@@ -39,10 +39,11 @@
   ],
   "name": "Pedra de Obsidiana",
   "resource": {
-    "affix": "Obsidian",
+    "affix": "Obsidiana",
     "magic_ingredient": 0,
     "quality": 4,
-    "type": 6
+    "type": 6,
+    "feminine_affix": "Obsidiana"
   },
   "statistics": {
     "dexterity": [
@@ -83,5 +84,6 @@
     "range": 0,
     "type": 9
   },
-  "weight": 0.10000000149011612
+  "weight": 0.10000000149011612,
+  "feminine_form": true
 }

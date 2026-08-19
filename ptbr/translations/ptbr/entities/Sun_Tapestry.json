@@ -27,7 +27,7 @@
       12
     ]
   },
-  "description": "Uma bela tapeçaria com o sol nascente.",
+  "description": "Uma bela tapeçaria com sol nascente.",
   "glyph": {
     "frames": [
       {
@@ -49,7 +49,7 @@
     108,
     14
   ],
-  "name": "Tapeçaria do Sol",
+  "name": "Tapeçaria Solar",
   "producer": {
     "products": {
       "core_2_deconstruct": [
@@ -64,5 +64,6 @@
       ]
     },
     "time": 20
-  }
+  },
+  "feminine_form": true
 }

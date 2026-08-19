@@ -27,7 +27,7 @@
     "time": 20,
     "tools": []
   },
-  "description": "Arbusto muito pequeno sem amoras-de-urso.",
+  "description": "Um arbusto muito pequeno sem nenhuma uva-ursina.",
   "glyph": {
     "frames": [
       {
@@ -49,7 +49,7 @@
     109,
     155
   ],
-  "name": "Muda de Arbusto de Amora-de-urso",
+  "name": "Muda de Arbusto de Uva-ursina",
   "random_resource": {
     "delay_spawn": true,
     "entity": [
@@ -67,5 +67,6 @@
     "spawn_chance": 100.0,
     "spawn_multiply": 0.0,
     "spawn_rolls": 1
-  }
+  },
+  "feminine_form": true
 }

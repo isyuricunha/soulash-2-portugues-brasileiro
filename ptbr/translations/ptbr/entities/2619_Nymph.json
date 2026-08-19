@@ -64,7 +64,7 @@
   },
   "fighter": {
     "attackNames": [
-      "Razor Leaves"
+      "Folhas Cortantes"
     ]
   },
   "gender": "female",
@@ -148,5 +148,6 @@
     "parry_bonus": 0,
     "range": 1,
     "type": 3
-  }
+  },
+  "feminine_form": true
 }

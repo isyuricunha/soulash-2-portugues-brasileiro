@@ -7,7 +7,7 @@
     "position_2d",
     "producer"
   ],
-  "description": "O declive de pedra erodido levando para baixo parece escorregadio.",
+  "description": "A encosta de pedra erodida que desce parece escorregadia.",
   "glyph": {
     "frames": [
       {
@@ -32,7 +32,7 @@
     38,
     7
   ],
-  "name": "Declive de Pedra Descendente",
+  "name": "Encosta de Pedra Erodida Descendente",
   "producer": {
     "products": {
       "core_2_deconstruct": [
@@ -47,5 +47,6 @@
       ]
     },
     "time": 40
-  }
+  },
+  "feminine_form": true
 }

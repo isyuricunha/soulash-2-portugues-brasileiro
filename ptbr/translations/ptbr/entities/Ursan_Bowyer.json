@@ -95,9 +95,9 @@
   "moveable": {
     "speed": 1.0
   },
-  "name": "Arqueiro Ursan",
+  "name": "Ursano Arqueiro",
   "persona": {
-    "occupation": "Arqueiro"
+    "occupation": "Bowyer"
   },
   "sight": {
     "ignore_infra_penalty": false,

@@ -9,7 +9,7 @@
     "weapon",
     "weight"
   ],
-  "description": "Um clube colorido feito para malabarismo.",
+  "description": "Uma clava colorida feita para malabarismo.",
   "glyph": {
     "frames": [
       {
@@ -34,7 +34,7 @@
     153,
     97
   ],
-  "name": "Clube de Malabarismo",
+  "name": "Clava de Malabarismo",
   "value": 300,
   "weapon": {
     "attack_animation": "1",
@@ -53,5 +53,6 @@
     "range": 6,
     "type": 11
   },
-  "weight": 0.800000011920929
+  "weight": 0.800000011920929,
+  "feminine_form": true
 }

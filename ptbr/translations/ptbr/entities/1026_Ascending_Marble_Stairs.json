@@ -31,7 +31,7 @@
       6
     ]
   },
-  "description": "Uma escadaria ascendente esculpida em belos blocos de mármore.",
+  "description": "Uma escada que sobe, esculpida em belos blocos de mármore.",
   "glyph": {
     "frames": [
       {
@@ -56,7 +56,7 @@
     124,
     137
   ],
-  "name": "Escadaria de Mármore Ascendente",
+  "name": "Escadas de Mármore Ascendentes",
   "producer": {
     "products": {
       "core_2_deconstruct": [
@@ -71,5 +71,6 @@
       ]
     },
     "time": 20
-  }
+  },
+  "feminine_form": true
 }

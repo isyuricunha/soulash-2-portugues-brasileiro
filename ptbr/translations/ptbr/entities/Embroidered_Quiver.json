@@ -29,7 +29,7 @@
       14
     ]
   },
-  "description": "Um grande coldre com belos bordados. Funciona apenas para armas de arremesso.",
+  "description": "Uma aljava grande com belos bordados. Funciona apenas para armas de arremesso.",
   "extra_weight": 20.0,
   "glyph": {
     "frames": [
@@ -57,5 +57,6 @@
   ],
   "name": "Aljava Bordada",
   "value": 7000,
-  "weight": 1.0
+  "weight": 1.0,
+  "feminine_form": true
 }

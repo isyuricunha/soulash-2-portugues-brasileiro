@@ -39,7 +39,7 @@
       1
     ]
   },
-  "description": "Um símbolo de poder reservado para a realeza.",
+  "description": "Um símbolo de poder reservado à realeza.",
   "glyph": {
     "frames": [
       {
@@ -66,5 +66,6 @@
   ],
   "name": "Coroa",
   "value": 20000,
-  "weight": 3.0
+  "weight": 3.0,
+  "feminine_form": true
 }

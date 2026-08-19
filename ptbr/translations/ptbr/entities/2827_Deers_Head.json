@@ -7,7 +7,7 @@
     "position_2d"
   ],
   "corpse": "163",
-  "description": "Cabeça decorativa de veado morto.",
+  "description": "Cabeça decorativa de cervo morto.",
   "glyph": {
     "frames": [
       {
@@ -29,5 +29,6 @@
     110,
     42
   ],
-  "name": "Cabeça de Veado"
+  "name": "Cabeça de Cervo",
+  "feminine_form": true
 }

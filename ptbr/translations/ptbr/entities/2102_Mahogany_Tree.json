@@ -25,7 +25,7 @@
     "producer"
   ],
   "corpse": [],
-  "description": "Uma árvore de madeira dura avermelhada.",
+  "description": "Uma árvore de madeira dura marrom-avermelhada.",
   "glyph": {
     "frames": [
       {
@@ -157,5 +157,6 @@
       ]
     },
     "time": 60
-  }
+  },
+  "feminine_form": true
 }

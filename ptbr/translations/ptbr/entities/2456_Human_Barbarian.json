@@ -68,7 +68,7 @@
       {
         "chance": 1.0,
         "id": "2188",
-        "name": "Cortador",
+        "name": "Cutelo",
         "stack": 1
       }
     ]
@@ -79,8 +79,8 @@
   },
   "fighter": {
     "attackNames": [
-      "Bite",
-      "Punch"
+      "Mordida",
+      "Soco"
     ]
   },
   "glyph": {

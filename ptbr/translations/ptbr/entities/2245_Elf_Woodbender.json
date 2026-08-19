@@ -87,9 +87,9 @@
   "moveable": {
     "speed": 1.100000023841858
   },
-  "name": "Elfo Moldador de Madeira",
+  "name": "Elfo Dobrador de Madeira",
   "persona": {
-    "occupation": "Curvador de Madeira"
+    "occupation": "Woodbender"
   },
   "sight": {
     "ignore_infra_penalty": false,

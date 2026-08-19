@@ -41,7 +41,7 @@
     "tags"
   ],
   "corpse": "2549",
-  "description": "Vacas são animais domesticados criados por seu leite e carne.",
+  "description": "Vacas são animais domesticados criados para seu leite e carne.",
   "dialogues": [
     "19",
     "904"
@@ -74,7 +74,7 @@
   },
   "fighter": {
     "attackNames": [
-      "Headbutt"
+      "Cabeçada"
     ]
   },
   "glyph": {
@@ -154,5 +154,6 @@
   "tags": [
     "2",
     "9"
-  ]
+  ],
+  "feminine_form": true
 }

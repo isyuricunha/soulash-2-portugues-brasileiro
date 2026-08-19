@@ -8,7 +8,7 @@
     "position_2d"
   ],
   "corpse": [],
-  "description": "Uma tapeçaria bonita que retrata uma lua cheia azul.",
+  "description": "Uma bela tapeçaria retratando uma lua cheia azul.",
   "glyph": {
     "frames": [
       {
@@ -30,5 +30,6 @@
     108,
     14
   ],
-  "name": "Tapeçaria da Lua Azul"
+  "name": "Tapeçaria da Lua Azul",
+  "feminine_form": true
 }

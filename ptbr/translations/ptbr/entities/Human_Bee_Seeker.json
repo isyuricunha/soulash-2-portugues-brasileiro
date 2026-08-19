@@ -79,9 +79,9 @@
   "moveable": {
     "speed": 1.2000000476837158
   },
-  "name": "Humano Caçador de Abelhas",
+  "name": "Buscador de Abelhas Humano",
   "persona": {
-    "occupation": "Caçador de Abelhas"
+    "occupation": "Bee Seeker"
   },
   "sight": {
     "ignore_infra_penalty": false,

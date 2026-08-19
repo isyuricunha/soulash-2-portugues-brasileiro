@@ -82,9 +82,9 @@
   "moveable": {
     "speed": 1.2000000476837158
   },
-  "name": "Cortador de Cogumelos Mushman",
+  "name": "Homem-Cogumelo Cortador de Cogumelos",
   "persona": {
-    "occupation": "Lanhador"
+    "occupation": "Woodcutter"
   },
   "sight": {
     "ignore_infra_penalty": false,

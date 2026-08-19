@@ -11,7 +11,7 @@
     "value",
     "weight"
   ],
-  "description": "Bastante grosso e curvo.",
+  "description": "Bem grosso e curvado.",
   "glyph": {
     "frames": [
       {
@@ -38,10 +38,11 @@
   ],
   "name": "Chifre de Takin",
   "resource": {
-    "affix": "Brawny",
+    "affix": "Robusto",
     "magic_ingredient": 0,
     "quality": 2,
-    "type": 5
+    "type": 5,
+    "feminine_affix": "Robusta"
   },
   "statistics": {
     "dexterity": [

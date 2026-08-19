@@ -21,7 +21,7 @@
     "position_2d"
   ],
   "corpse": [],
-  "description": "Grande trenó vermelho.",
+  "description": "\rGrande trenó vermelho.",
   "glyph": {
     "frames": [
       {
@@ -43,5 +43,5 @@
     48,
     17
   ],
-  "name": "Trenó do Santa"
+  "name": "Trenó do Papai Noel"
 }

@@ -10,7 +10,7 @@
     "value",
     "weight"
   ],
-  "description": "Olho mole de um hassasin.",
+  "description": "Olho gelatinoso de um hassasin.",
   "glyph": {
     "frames": [
       {
@@ -35,7 +35,7 @@
     144,
     88
   ],
-  "name": "Olho de Hassasin",
+  "name": "Olho do Hassasin",
   "resource": {
     "affix": "",
     "magic_ingredient": 0,

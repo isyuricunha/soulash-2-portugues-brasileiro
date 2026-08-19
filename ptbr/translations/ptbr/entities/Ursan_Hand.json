@@ -8,7 +8,7 @@
     "weapon",
     "weight"
   ],
-  "description": "Uma mão sem vida de um ursan morto.",
+  "description": "Uma mão inerte de um ursan morto.",
   "glyph": {
     "frames": [
       {
@@ -50,5 +50,6 @@
     "range": 1,
     "type": 6
   },
-  "weight": 1.5
+  "weight": 1.5,
+  "feminine_form": true
 }

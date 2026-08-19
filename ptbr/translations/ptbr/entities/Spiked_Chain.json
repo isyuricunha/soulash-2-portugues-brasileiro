@@ -43,7 +43,7 @@
       1
     ]
   },
-  "description": "Uma corrente de metal grossa com espinhos afiados.",
+  "description": "Uma corrente grossa de metal com espinhos afiados.",
   "glyph": {
     "frames": [
       {
@@ -68,7 +68,8 @@
     165,
     32
   ],
-  "name": "Corrente Espinhosa",
+  "name": "Corrente com Espinhos",
   "value": 2100,
-  "weight": 0.10000000149011612
+  "weight": 0.10000000149011612,
+  "feminine_form": true
 }

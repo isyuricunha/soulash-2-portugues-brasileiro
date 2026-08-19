@@ -38,7 +38,7 @@
       6
     ]
   },
-  "description": "Uma parede metálica de maquinário estranho e zumbidor.",
+  "description": "Uma parede metálica de maquinário estranho zumbindo.",
   "glyph": {
     "frames": [
       {
@@ -283,5 +283,6 @@
       ]
     },
     "time": 150
-  }
+  },
+  "feminine_form": true
 }

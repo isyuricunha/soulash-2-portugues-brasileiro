@@ -30,7 +30,7 @@
     "weapon"
   ],
   "corpse": "2169",
-  "description": "Abutres raramente atacam os vivos, preferindo se alimentar de carniça deixada pelo sol impiedoso do deserto.",
+  "description": "Urubus raramente atacam os vivos, preferindo se alimentar de carniça deixada pelo sol implacável do deserto.",
   "dialogues": [
     "2",
     "886"
@@ -63,7 +63,7 @@
   },
   "fighter": {
     "attackNames": [
-      "Beak"
+      "Bico"
     ]
   },
   "glyph": {
@@ -90,7 +90,7 @@
   "moveable": {
     "speed": 0.800000011920929
   },
-  "name": "Abutre",
+  "name": "Urubu",
   "sight": {
     "ignore_infra_penalty": false,
     "infravision": false,

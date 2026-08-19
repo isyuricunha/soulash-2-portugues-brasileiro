@@ -1,0 +1,74 @@
+{
+  "id": "core_2_location_raid_easy",
+  "name": "Saqueadores do Ermo",
+  "category": "settlement",
+  "flavor": "Encorajados por presas fáceis e um covil próximo, um bando de criaturas rasteiras decidiu atacar o assentamento. Eles não são particularmente perigosos, mas, se não forem contidos, trarão miséria à população.",
+  "icon": 20,
+  "small_icon": 20,
+  "rarity": "common",
+  "trigger": {
+    "base_probability": 0.015,
+    "conditions": [
+      {
+        "type": "settlement_tier_min",
+        "value": 1
+      },
+      {
+        "type": "settlement_tier_max",
+        "value": 1
+      },
+      {
+        "type": "nearby_location_difficulty",
+        "value": 1
+      }
+    ]
+  },
+  "duration": {
+    "type": "temporary",
+    "days": [
+      30,
+      60
+    ]
+  },
+  "effects": [
+    {
+      "type": "spawn_group",
+      "amount": [
+        3,
+        6
+      ],
+      "group_type": "hostile_group",
+      "entity_from_location": true,
+      "exclude": [
+        "core_2_caravan_1"
+      ],
+      "spawn_behaviors": [
+        21
+      ],
+      "border_color": [
+        180,
+        80,
+        80
+      ]
+    }
+  ],
+  "interactions": [
+    {
+      "type": "hostiles_cleared",
+      "translation_id": 0,
+      "history_event": "::name expulsou os saqueadores que atacavam ::settlement!",
+      "announcement": "Os saqueadores que atacavam ::settlement foram derrotados!",
+      "reward": {
+        "gold": 200,
+        "remove_event": true
+      }
+    }
+  ],
+  "extra_dialogues": [
+    "core_2_raid_easy"
+  ],
+  "history_events": {
+    "begin": "Um grupo de invasores surgiu dos ermos próximos a ::settlement, ameaçando a população.",
+    "end": "Os saqueadores que atormentavam ::settlement foram expulsos ou dispersados."
+  }
+}

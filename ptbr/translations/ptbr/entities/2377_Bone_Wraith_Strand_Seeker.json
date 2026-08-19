@@ -79,9 +79,9 @@
   "moveable": {
     "speed": 1.0
   },
-  "name": "Espectro de Osso Buscador de Praias",
+  "name": "Buscador de Fios de Espectro Ã“sseo",
   "persona": {
-    "occupation": "Buscador de Praias"
+    "occupation": "Strand Seeker"
   },
   "sight": {
     "ignore_infra_penalty": false,

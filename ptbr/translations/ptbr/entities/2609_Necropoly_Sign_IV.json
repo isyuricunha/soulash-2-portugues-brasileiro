@@ -8,7 +8,7 @@
     "position_2d"
   ],
   "corpse": [],
-  "description": "Família de Reiter. Não tenho certeza de como eles puderam pagar por isso.",
+  "description": "Família Reiter. Não sei como puderam pagar por isso.",
   "glyph": {
     "frames": [
       {
@@ -75,5 +75,6 @@
     108,
     14
   ],
-  "name": "Placa da Necrópole IV"
+  "name": "Placa de Necropoly IV",
+  "feminine_form": true
 }

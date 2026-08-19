@@ -6,7 +6,7 @@
     "health": 0,
     "stamina": 12
   },
-  "description": "Invoca múltiplas armas do ar e as arremessa em um alvo causando ::damage de ::damage_type de dano.",
+  "description": "Faz surgir múltiplas armas do nada e as arremessa contra um alvo causando ::damage de dano ::damage_type.",
   "duration": 0.0,
   "effects": {
     "damage": [

@@ -69,7 +69,7 @@
     45,
     12
   ],
-  "name": "Túmulo",
+  "name": "Cova",
   "producer": {
     "products": {
       "12": [
@@ -140,5 +140,6 @@
       ]
     },
     "time": 10
-  }
+  },
+  "feminine_form": true
 }

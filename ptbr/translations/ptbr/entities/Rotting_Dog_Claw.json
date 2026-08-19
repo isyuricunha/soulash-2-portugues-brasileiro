@@ -24,7 +24,7 @@
     "value",
     "weight"
   ],
-  "description": "Uma garra retorcida e apodrecida quase se desintegra em seus dedos.",
+  "description": "Uma garra torta e apodrecida quase se desmancha em seus dedos.",
   "glyph": {
     "frames": [
       {
@@ -49,12 +49,13 @@
     109,
     155
   ],
-  "name": "Garra de Cachorro Apodrecido",
+  "name": "Garra de Cão Apodrecido",
   "resource": {
-    "affix": "of Decomposition",
+    "affix": "da Decomposição",
     "magic_ingredient": 3,
     "quality": 3,
-    "type": 7
+    "type": 7,
+    "feminine_affix": "decomposta"
   },
   "statistics": {
     "dexterity": [
@@ -79,5 +80,6 @@
     ]
   },
   "value": 1900,
-  "weight": 0.10000000149011612
+  "weight": 0.10000000149011612,
+  "feminine_form": true
 }

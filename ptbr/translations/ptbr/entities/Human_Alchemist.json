@@ -87,7 +87,7 @@
   },
   "name": "Alquimista Humano",
   "persona": {
-    "occupation": "Alquimista"
+    "occupation": "Alchemist"
   },
   "sight": {
     "ignore_infra_penalty": false,

@@ -25,7 +25,7 @@
       12
     ]
   },
-  "description": "Fibras fortes e versáteis extraídas das folhas de palmeiras.",
+  "description": "Fibras fortes e versáteis extraídas das folhas em leque das palmeiras.",
   "glyph": {
     "frames": [
       {
@@ -52,10 +52,11 @@
   ],
   "name": "Fibras de Palmeira",
   "resource": {
-    "affix": "Strong",
+    "affix": "Forte",
     "magic_ingredient": 0,
     "quality": 2,
-    "type": 4
+    "type": 4,
+    "feminine_affix": "Forte"
   },
   "statistics": {
     "dexterity": [
@@ -80,5 +81,6 @@
     ]
   },
   "value": 700,
-  "weight": 0.10000000149011612
+  "weight": 0.10000000149011612,
+  "feminine_form": true
 }

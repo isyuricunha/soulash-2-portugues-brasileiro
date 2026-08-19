@@ -25,7 +25,7 @@
     "weapon",
     "weight"
   ],
-  "description": "Os belos chifres de um espírito florestal.",
+  "description": "Os belos chifres de um espírito da floresta.",
   "glyph": {
     "frames": [
       {
@@ -50,12 +50,13 @@
     154,
     107
   ],
-  "name": "Chifres de Leshy",
+  "name": "Galhada de Leshy",
   "resource": {
-    "affix": "Forest",
+    "affix": "da Floresta",
     "magic_ingredient": 0,
     "quality": 4,
-    "type": 5
+    "type": 5,
+    "feminine_affix": "Florestal"
   },
   "statistics": {
     "dexterity": [
@@ -96,5 +97,6 @@
     "range": 0,
     "type": 9
   },
-  "weight": 0.20000000298023224
+  "weight": 0.20000000298023224,
+  "feminine_form": true
 }

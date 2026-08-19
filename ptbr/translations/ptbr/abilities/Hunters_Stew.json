@@ -6,7 +6,7 @@
     "health": 0,
     "stamina": 0
   },
-  "description": "O ensopado saboroso aguça sua visão permitindo que você veja mais longe em um alcance de ::sight. Recupere ::heal de vida imediatamente.",
+  "description": "O ensopado saboroso aguça sua visão, permitindo ver mais longe em ::sight. Recupere ::heal de vida imediatamente.",
   "duration": 600.0,
   "effects": {
     "heal": [

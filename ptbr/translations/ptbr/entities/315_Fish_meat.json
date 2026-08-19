@@ -11,7 +11,7 @@
     "value",
     "weight"
   ],
-  "description": "Um filé de peixe. Delicioso!",
+  "description": "Um filé de peixe. Saboroso!",
   "food": {
     "nutrition": 35,
     "on_eat": "",
@@ -58,5 +58,6 @@
     "time": 20
   },
   "value": 300,
-  "weight": 0.30000001192092896
+  "weight": 0.30000001192092896,
+  "feminine_form": true
 }

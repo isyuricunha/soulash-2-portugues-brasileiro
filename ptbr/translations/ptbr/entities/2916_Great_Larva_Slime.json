@@ -11,7 +11,7 @@
     "weapon",
     "weight"
   ],
-  "description": "Uma parte viscoso de uma larva da grande floresta morta.",
+  "description": "Uma parte viscosa de uma grande larva da floresta morta.",
   "glyph": {
     "frames": [
       {
@@ -36,12 +36,13 @@
     195,
     195
   ],
-  "name": "Limo de Grande Larva",
+  "name": "Lodo de Grande Larva",
   "resource": {
-    "affix": "of Slime",
+    "affix": "Viscosa",
     "magic_ingredient": 2,
     "quality": 2,
-    "type": 7
+    "type": 7,
+    "feminine_affix": "Gosmenta"
   },
   "value": 1500,
   "weapon": {

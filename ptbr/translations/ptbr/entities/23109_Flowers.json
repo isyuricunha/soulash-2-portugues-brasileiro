@@ -24,7 +24,7 @@
       "id": "613"
     }
   ],
-  "description": "Flores vermelhas e roxas bonitas.",
+  "description": "Belas flores vermelhas e roxas.",
   "glyph": {
     "frames": [
       {
@@ -46,5 +46,6 @@
     39,
     13
   ],
-  "name": "Flores"
+  "name": "Flores",
+  "feminine_form": true
 }

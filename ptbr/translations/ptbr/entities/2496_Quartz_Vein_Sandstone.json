@@ -33,7 +33,7 @@
     "producer"
   ],
   "corpse": [],
-  "description": "Um veio de gema de quartzo na parede de arenito.",
+  "description": "Um veio de gema de quartzo em parede de arenito.",
   "glyph": {
     "frames": [
       {
@@ -56,7 +56,7 @@
     155,
     150
   ],
-  "name": "Veio de Quartzo em Arenito",
+  "name": "Arenito de Veio de Quartzo",
   "producer": {
     "products": {
       "5": [

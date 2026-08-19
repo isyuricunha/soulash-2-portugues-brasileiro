@@ -6,7 +6,7 @@
     "health": 3,
     "stamina": 1
   },
-  "description": "Causa ::damage de dano ::damage_type a todos em um cone na frente do conjurador.",
+  "description": "Causa ::damage de dano ::damage_type a todos em um cone à frente do lançador.",
   "duration": 0.0,
   "effects": {
     "aoe_break": 2,
@@ -19,7 +19,7 @@
   },
   "id": "55",
   "image": 103,
-  "name": "Ventos da Decadência",
+  "name": "Ventos da Decomposição",
   "range": 5,
   "skill": "core_2_necromancy",
   "slots": {

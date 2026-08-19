@@ -10,7 +10,7 @@
     "value",
     "weight"
   ],
-  "description": "Larvinha assustada. Se você soltá-la, ela tentará escapar.",
+  "description": "Pequena larva bebê assustada. Se você soltá-la, ela tentará fugir.",
   "glyph": {
     "frames": [
       {
@@ -35,7 +35,7 @@
     199,
     185
   ],
-  "name": "Larvinha Capturada",
+  "name": "Larva Bebê Capturada",
   "random_resource": {
     "delay_spawn": true,
     "entity": [
@@ -55,5 +55,6 @@
     "spawn_rolls": 1
   },
   "value": 800,
-  "weight": 0.20000000298023224
+  "weight": 0.20000000298023224,
+  "feminine_form": true
 }

@@ -38,5 +38,6 @@
     "ability": "36",
     "recipe": ""
   },
-  "weight": 2.5
+  "weight": 2.5,
+  "feminine_form": true
 }

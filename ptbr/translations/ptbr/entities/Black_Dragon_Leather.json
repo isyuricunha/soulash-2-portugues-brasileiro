@@ -24,7 +24,7 @@
     "value",
     "weight"
   ],
-  "description": "Esta pele exala uma aura estranha e sinistra. Parece tanto seca quanto levemente viscoso.",
+  "description": "Esta pele exala uma aura estranha e sinistra. Parece ao mesmo tempo seca e levemente viscosa.",
   "extra_weight": 2.0,
   "glyph": {
     "frames": [
@@ -52,10 +52,11 @@
   ],
   "name": "Couro de Dragão Negro",
   "resource": {
-    "affix": "Deadly",
+    "affix": "Mortal",
     "magic_ingredient": 0,
     "quality": 4,
-    "type": 2
+    "type": 2,
+    "feminine_affix": "Mortífera"
   },
   "statistics": {
     "dexterity": [

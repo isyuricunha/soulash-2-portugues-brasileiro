@@ -40,7 +40,7 @@
       10
     ]
   },
-  "description": "O metal mais pesado e potente conhecido pelos mortais.",
+  "description": "O metal mais pesado e mais potente conhecido pelos mortais.",
   "extra_weight": 3.0,
   "glyph": {
     "frames": [
@@ -66,12 +66,13 @@
     144,
     88
   ],
-  "name": "Lingote de Adamantio",
+  "name": "Lingote de Adamantita",
   "resource": {
-    "affix": "Adamantine",
+    "affix": "Adamantita",
     "magic_ingredient": 0,
     "quality": 4,
-    "type": 1
+    "type": 1,
+    "feminine_affix": "adamantina"
   },
   "value": 60000,
   "weapon": {

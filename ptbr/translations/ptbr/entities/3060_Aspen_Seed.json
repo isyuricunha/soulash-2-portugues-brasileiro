@@ -9,7 +9,7 @@
     "value",
     "weight"
   ],
-  "description": "Com cuidado suficiente, esta semente crescerá em um forte álamo.",
+  "description": "Com cuidado suficiente, esta semente crescerá e se tornará um choupo forte.",
   "glyph": {
     "frames": [
       {
@@ -34,7 +34,8 @@
     145,
     33
   ],
-  "name": "Semente de Álamo",
+  "name": "Semente de Choupo",
   "value": 100,
-  "weight": 0.10000000149011612
+  "weight": 0.10000000149011612,
+  "feminine_form": true
 }

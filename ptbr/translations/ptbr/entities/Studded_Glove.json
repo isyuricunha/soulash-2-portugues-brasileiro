@@ -29,7 +29,7 @@
       14
     ]
   },
-  "description": "Uma luva de couro com pequenos rebites de metal para dar um soco.",
+  "description": "Uma luva de couro com tachinhas metálicas para dar um soco forte.",
   "glyph": {
     "frames": [
       {
@@ -54,7 +54,7 @@
     160,
     161
   ],
-  "name": "Luva com Rebites",
+  "name": "Luva Tachada",
   "value": 600,
   "weapon": {
     "attack_speed": 0.800000011920929,
@@ -72,5 +72,6 @@
     "range": 1,
     "type": 6
   },
-  "weight": 0.6000000238418579
+  "weight": 0.6000000238418579,
+  "feminine_form": true
 }

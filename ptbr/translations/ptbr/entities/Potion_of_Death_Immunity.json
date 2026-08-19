@@ -34,7 +34,7 @@
       15
     ]
   },
-  "description": "Esta poção tornará você imune a dano de morte por um curto período de tempo.",
+  "description": "Esta poção tornará você imune a dano de morte por um curto período.",
   "glyph": {
     "frames": [
       {
@@ -59,11 +59,12 @@
     78,
     54
   ],
-  "name": "Poção da Imunidade à Morte",
+  "name": "Poção de Imunidade à Morte",
   "usable": {
     "ability": "core_2_Potion_of_Death_Immunity",
     "recipe": ""
   },
   "value": 3000,
-  "weight": 0.10000000149011612
+  "weight": 0.10000000149011612,
+  "feminine_form": true
 }

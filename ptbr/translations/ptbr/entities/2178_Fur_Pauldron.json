@@ -35,7 +35,7 @@
       14
     ]
   },
-  "description": "Uma única espaldar para proteger o braço não dominante sem restringir o que segura a lâmina.",
+  "description": "Um único pauldrão para proteger o braço livre sem restringir o que segura a lâmina.",
   "glyph": {
     "frames": [
       {
@@ -60,7 +60,7 @@
     46,
     17
   ],
-  "name": "Espaldeira de Pele",
+  "name": "Espaldar de Pele",
   "value": 1500,
   "weight": 1.0
 }

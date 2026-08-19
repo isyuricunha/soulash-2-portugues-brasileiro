@@ -6,7 +6,7 @@
     "health": 0,
     "stamina": 8
   },
-  "description": "Envie uma onda de choque causando ::damage de dano ::damage_type a todos em um cone.",
+  "description": "Envia uma onda de choque causando ::damage de dano ::damage_type a todos em um cone.",
   "duration": 0.0,
   "effects": {
     "aoe_break": 2,
@@ -20,7 +20,7 @@
   },
   "id": "core_2_Vine_Lash",
   "image": 794,
-  "name": "Chicote de Cipó",
+  "name": "Chicote de Vinha",
   "range": 8,
   "skill": "",
   "target": "cone"

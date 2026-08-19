@@ -11,7 +11,7 @@
     "value",
     "weight"
   ],
-  "description": "Macio e claro na cor.",
+  "description": "Macio e de cor clara.",
   "glyph": {
     "frames": [
       {
@@ -36,12 +36,13 @@
     175,
     158
   ],
-  "name": "Pele de Raposa-Feneco",
+  "name": "Pelo de Raposa-Fennec",
   "resource": {
-    "affix": "Shifty",
+    "affix": "Esquivo",
     "magic_ingredient": 0,
     "quality": 1,
-    "type": 9
+    "type": 9,
+    "feminine_affix": "Esquiva"
   },
   "statistics": {
     "dexterity": [

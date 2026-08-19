@@ -36,7 +36,7 @@
     "tags"
   ],
   "corpse": "2985",
-  "description": "Criatura estranha de um lugar estranho.",
+  "description": "Criatura bizarra de um lugar estranho.",
   "dialogues": [
     "312",
     "313"
@@ -47,7 +47,7 @@
   },
   "fighter": {
     "attackNames": [
-      "Tentacle"
+      "Tentáculo"
     ]
   },
   "glyph": {

@@ -47,7 +47,7 @@
       14
     ]
   },
-  "description": "Esta corrente de metal simples parece ter algumas manchas de sangue seco nela.",
+  "description": "Esta corrente de metal simples parece ter algumas manchas de sangue seco.",
   "glyph": {
     "frames": [
       {
@@ -74,5 +74,6 @@
   ],
   "name": "Corrente Sangrenta",
   "value": 1900,
-  "weight": 0.10000000149011612
+  "weight": 0.10000000149011612,
+  "feminine_form": true
 }

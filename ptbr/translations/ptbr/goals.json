@@ -3,74 +3,74 @@
     {
       "id": "core_2_adventurer",
       "name": "Aventureiro",
-      "objective": "Want to learn the basics of adventuring?",
+      "objective": "Quer aprender o básico de ser um aventureiro?",
       "goals": [
         {
-          "short": "Search the Wild",
-          "long": "Leave your current region to travel the world and explore nearby areas. You're looking for something of interest to pop up.",
+          "short": "Explorar a Natureza",
+          "long": "Saia da sua região atual para viajar pelo mundo e explorar áreas próximas. Fique atento a algo interessante que possa surgir.",
           "objective": {
             "special_location_tier": 1
           }
         },
         {
-          "short": "Loot the Chest",
-          "long": "All special locations can be plundered, usually by taking the contents of available treasure chest. Follow the market on the minimap and find a chest.",
+          "short": "Saqueie o Baú",
+          "long": "Todas as localizações especiais podem ser saqueadas, geralmente pegando o conteúdo dos baús do tesouro disponíveis. Siga o ícone do mercado no minimapa e encontre um baú.",
           "objective": {
             "loot": 1
           }
         },
         {
-          "short": "Acquire More Food",
-          "long": "Without food and water, your adventures will meet a quick end. You may try to stock up on food in the settlements, or find some in the wild.",
+          "short": "Conseguir Mais Comida",
+          "long": "Sem comida e água, suas aventuras terão um fim rápido. Você pode tentar estocar comida nos povoados, ou encontrar alguma na natureza.",
           "objective": {
             "eat": 100
           }
         },
         {
-          "short": "Drink Water",
-          "long": "There are a number of ways to acquire water, the simplest one is to find a well or a pond in the center of every settlement. While traveling, you may automatically refill just by passing a river.",
+          "short": "Beber Água",
+          "long": "Existem várias maneiras de obter água, a mais simples é encontrar um poço ou uma lagoa no centro de cada povoado. Ao viajar, você pode reabastecer automaticamente apenas passando por um rio.",
           "objective": {
             "drink": 100
           }
         },
         {
-          "short": "Profit From Trading",
-          "long": "Now that we found some loot, let's go back to town and trade it for something useful.",
+          "short": "Lucrar com Comércio",
+          "long": "Agora que encontramos algum saque, vamos voltar à cidade e trocá-lo por algo útil.",
           "objective": {
             "sell": 1
           }
         },
         {
-          "short": "Acquire a Tool",
-          "long": "There are many useful tools you could carry on your travels - knives to scavenge corpses, pickaxes to mine ores and gems, woodcutters to gather rare wood, harvesters to acquire wheat and herbs. Find a Toolmaker in Human, Dwarf or Bone Wraith settlement and order one. Plunder more chests along the way if you lack funds.",
+          "short": "Adquirir uma Ferramenta",
+          "long": "Há muitas ferramentas úteis que você pode carregar em suas viagens - facas para saquear cadáveres, picaretas para minerar minérios e gemas, machados para coletar madeira rara, foices para obter trigo e ervas. Encontre um Ferramenteiro em um assentamento Humano, Anão ou de Espectros de Osso e encomende uma. Saqueie mais baús pelo caminho se lhe faltarem fundos.",
           "objective": {
             "tool": 1
           }
         },
         {
-          "short": "Limited Potential",
-          "long": "Until we learn from experienced characters, our potential to master a skill is limited. Let's try to find a trainer and pay them to teach us some new theories about our chosen skill.",
+          "short": "Potencial Limitado",
+          "long": "Até aprendermos com personagens experientes, nosso potencial para dominar uma perícia é limitado. Vamos tentar encontrar um instrutor e pagá-lo para nos ensinar algumas novas teorias sobre nossa perícia escolhida.",
           "objective": {
             "train": 1
           }
         },
         {
-          "short": "Toughen Up",
-          "long": "As you explore the world, you might have noticed only easy locations pop up during your travels. To have an easier time finding more challenging areas, you'll need to train one of the combat skills, like Sword, Mace, or Axe Fighting, Pyromancy, or Thievery. Train one of those and acquire more equipment to prepare.",
+          "short": "Se Fortalecer",
+          "long": "Ao explorar o mundo, você pode ter notado que apenas locais fáceis aparecem durante suas viagens. Para ter mais facilidade em encontrar áreas mais desafiadoras, você precisará treinar uma das perícias de combate, como Combate com Espada, Maça ou Machado, Piromania ou Furto. Treine uma delas e adquira mais equipamentos para se preparar.",
           "objective": {
             "combat_skill": 20
           }
         },
         {
-          "short": "Troublesome",
-          "long": "It's time to pick up a new challenge, let's try finding a Troublesome special location, and loot it of all it's treasures. Make sure to have at least a knife with you, you don't want to waste precious resources from rare beasts, do you?",
+          "short": "Problemático",
+          "long": "É hora de encarar um novo desafio, vamos tentar encontrar um local especial Problemático e saquear todos os seus tesouros. Certifique-se de ter pelo menos uma faca com você, você não quer desperdiçar recursos preciosos de bestas raras, quer?",
           "objective": {
             "loot": 2
           }
         },
         {
-          "short": "Upgrade",
-          "long": "As you loot chests, explore the world, and scavenge beasts and monsters, surely you've come across magical ingredients? It's time to put them to good use, let's find a weaponsmith, tailor, leatherworker or armorsmith who knows how to craft one of our items and order an upgrade.",
+          "short": "Melhorar",
+          "long": "Ao saquear baús, explorar o mundo e revistar bestas e monstros, certamente você já encontrou ingredientes mágicos? É hora de colocá-los em bom uso. Vamos encontrar um armeiro, alfaiate, curtidor ou armoreiro que saiba como criar um de nossos itens e encomendar uma melhoria.",
           "objective": {
             "upgrade": 1
           }

@@ -32,7 +32,7 @@
       1
     ]
   },
-  "description": "Uma adaga curta com um cabo decorado com uma caveira. Muito boa para sacrificar pessoas em altares sombrios.",
+  "description": "Uma adaga curta com cabo decorado com caveira no topo. Muito boa para sacrificar pessoas em altares sombrios.",
   "glyph": {
     "frames": [
       {
@@ -79,5 +79,6 @@
     "range": 1,
     "type": 3
   },
-  "weight": 0.699999988079071
+  "weight": 0.699999988079071,
+  "feminine_form": true
 }

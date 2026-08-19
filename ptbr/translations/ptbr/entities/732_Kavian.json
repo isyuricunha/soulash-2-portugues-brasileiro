@@ -30,7 +30,7 @@
     "tags"
   ],
   "corpse": "733",
-  "description": "Uma criatura humanoide emplumada que tem as características de um corvo. Eles frequentemente imitam o que ouvem como um papagaio.",
+  "description": "Uma criatura humanoide emplumada que tem as feições de um corvo. Eles frequentemente imitam o que ouvem como um papagaio.",
   "dialogues": [
     "10",
     "29"
@@ -40,19 +40,19 @@
       {
         "chance": 0.33000001311302185,
         "id": "310",
-        "name": "Faca de Osso",
+        "name": "faca de osso",
         "stack": 1
       },
       {
         "chance": 0.33000001311302185,
         "id": "311",
-        "name": "Lança de Osso",
+        "name": "lança de osso",
         "stack": 1
       },
       {
         "chance": 0.3400000035762787,
         "id": "312",
-        "name": "Espada de Osso",
+        "name": "espada de osso",
         "stack": 1
       }
     ],
@@ -60,7 +60,7 @@
       {
         "chance": 1.0,
         "id": "23",
-        "name": "Farrapos",
+        "name": "Farrapose",
         "stack": 1
       }
     ]
@@ -71,8 +71,8 @@
   },
   "fighter": {
     "attackNames": [
-      "Beak",
-      "Talons"
+      "Bico",
+      "Garras"
     ]
   },
   "glyph": {

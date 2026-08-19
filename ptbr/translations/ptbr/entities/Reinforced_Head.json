@@ -48,7 +48,7 @@
       1
     ]
   },
-  "description": "Uma cabeça de golem reforçada com metais adicionais.",
+  "description": "A cabeça de um golem reforçada com metais adicionais.",
   "glyph": {
     "frames": [
       {
@@ -97,5 +97,6 @@
     ]
   },
   "value": 15000,
-  "weight": 2.5
+  "weight": 2.5,
+  "feminine_form": true
 }

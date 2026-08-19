@@ -1,0 +1,40 @@
+{
+  "components": [
+    "glyph",
+    "item",
+    "minimap_pixel",
+    "name",
+    "position_2d",
+    "value",
+    "weight"
+  ],
+  "description": "É muito macio ao toque, e quando você o segura na mão, parece que pode ouvi-lo ronronar.",
+  "glyph": {
+    "frames": [
+      {
+        "color": [
+          255,
+          255,
+          255
+        ],
+        "delay": 0,
+        "index": 3445
+      }
+    ],
+    "random_frame_start": false
+  },
+  "id": "core_2_Cat_Figurine",
+  "item": {
+    "image": 1547,
+    "type": 13
+  },
+  "minimap_pixel": [
+    156,
+    160,
+    161
+  ],
+  "name": "Estatueta de Gato",
+  "value": 2000,
+  "weight": 1.0,
+  "feminine_form": true
+}

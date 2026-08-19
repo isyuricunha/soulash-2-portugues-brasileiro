@@ -45,14 +45,14 @@
     "weapon"
   ],
   "corpse": [],
-  "description": "Um verme serpenteado sem asas, envolto em vibrantes cápsulas fúngicas e tendrils miceliais.",
+  "description": "Uma serpe sem asas, serpentina, envolta em vibrantes chapéus de fungos e tentáculos miceliais.",
   "experience_gainer": {
     "exp": 0,
     "level": 50
   },
   "fighter": {
     "attackNames": [
-      "Tail Bash"
+      "Golpe de Cauda"
     ]
   },
   "glyph": {
@@ -79,7 +79,7 @@
   "moveable": {
     "speed": 0.699999988079071
   },
-  "name": "Cauda de Dragão de Cogumelo",
+  "name": "Cauda de Dragão Cogumelo",
   "sight": {
     "ignore_infra_penalty": true,
     "infravision": true,
@@ -131,5 +131,6 @@
     "parry_bonus": 3,
     "range": 1,
     "type": 2
-  }
+  },
+  "feminine_form": true
 }

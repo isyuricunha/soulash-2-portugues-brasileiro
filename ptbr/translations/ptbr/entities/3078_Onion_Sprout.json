@@ -31,7 +31,7 @@
     "time": 20,
     "tools": []
   },
-  "description": "Muito jovem e delicado.",
+  "description": "Muito jovem e delicada.",
   "glyph": {
     "frames": [
       {
@@ -52,7 +52,7 @@
     145,
     33
   ],
-  "name": "Brotos de Cebola",
+  "name": "Broto de Cebola",
   "random_resource": {
     "delay_spawn": true,
     "entity": [

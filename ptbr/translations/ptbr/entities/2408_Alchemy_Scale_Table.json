@@ -30,7 +30,7 @@
     "time": 60,
     "tools": []
   },
-  "description": "Uma mesa feita de cascas e escamas esculpidas, coberta com frascos e reagentes estranhos.",
+  "description": "Uma mesa feita de conchas e escamas esculpidas, coberta com frascos estranhos e reagentes.",
   "glyph": {
     "frames": [
       {
@@ -52,7 +52,7 @@
     150,
     221
   ],
-  "name": "Mesa de Escamas de Alquimia",
+  "name": "Mesa de Alquimia de Escamas",
   "producer": {
     "products": {
       "core_2_deconstruct": [
@@ -73,5 +73,6 @@
       "id": 15,
       "quality": 100
     }
-  ]
+  ],
+  "feminine_form": true
 }

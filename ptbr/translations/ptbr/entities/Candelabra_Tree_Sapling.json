@@ -44,7 +44,7 @@
     "time": 20,
     "tools": []
   },
-  "description": "Uma árvore candelabro muito jovem e pequena.",
+  "description": "Uma candelária muito jovem e pequena.",
   "glyph": {
     "frames": [
       {
@@ -117,7 +117,7 @@
     171,
     128
   ],
-  "name": "Muda de Candelabro",
+  "name": "Muda de Candelária",
   "random_resource": {
     "delay_spawn": true,
     "entity": [
@@ -135,5 +135,6 @@
     "spawn_chance": 100.0,
     "spawn_multiply": 0.0,
     "spawn_rolls": 1
-  }
+  },
+  "feminine_form": true
 }

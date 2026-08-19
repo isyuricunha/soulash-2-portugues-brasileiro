@@ -30,7 +30,7 @@
     "time": 40,
     "tools": []
   },
-  "description": "Parece um caminho rápido para cima, se você não se importar em arriscar sua vida em cordas desgastadas.",
+  "description": "Parece um jeito rápido de subir, se você não se importar de arriscar a vida em cordas desgastadas.",
   "glyph": {
     "frames": [
       {
@@ -56,5 +56,6 @@
     38,
     7
   ],
-  "name": "Escada de Corda para Cima"
+  "name": "Escada de Corda para Cima",
+  "feminine_form": true
 }

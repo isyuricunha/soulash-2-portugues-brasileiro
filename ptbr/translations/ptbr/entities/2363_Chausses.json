@@ -35,7 +35,7 @@
       12
     ]
   },
-  "description": "Calças pesadas soltas oferecendo proteção decente.",
+  "description": "Calças pesadas e folgadas que oferecem proteção decente.",
   "glyph": {
     "frames": [
       {
@@ -60,7 +60,8 @@
     200,
     200
   ],
-  "name": "Calças Justas",
+  "name": "Chausses",
   "value": 6000,
-  "weight": 1.5
+  "weight": 1.5,
+  "feminine_form": true
 }

@@ -28,7 +28,7 @@
       1
     ]
   },
-  "description": "Recipiente de argila para líquidos com abertura estreita para despejar bebidas.",
+  "description": "Recipiente de barro para lÃ­quidos com abertura estreita para servir bebidas.",
   "glyph": {
     "frames": [
       {
@@ -57,7 +57,8 @@
     133,
     109
   ],
-  "name": "Jarra de Argila",
+  "name": "Jarra de Barro",
   "value": 500,
-  "weight": 1.0
+  "weight": 1.0,
+  "feminine_form": true
 }

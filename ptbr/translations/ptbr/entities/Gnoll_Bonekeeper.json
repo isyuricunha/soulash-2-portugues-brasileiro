@@ -85,9 +85,9 @@
   "moveable": {
     "speed": 1.100000023841858
   },
-  "name": "Gnoll Guardião de Ossos",
+  "name": "Guardião de Ossos Gnoll",
   "persona": {
-    "occupation": "Guardião de Ossos"
+    "occupation": "Bonekeeper"
   },
   "sight": {
     "ignore_infra_penalty": false,

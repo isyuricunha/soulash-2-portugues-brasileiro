@@ -37,7 +37,7 @@
       14
     ]
   },
-  "description": "Uma coroa realmente simples feita com um único pedaço de pedra.",
+  "description": "Uma coroa realmente simples feita com uma única peça de pedra.",
   "glyph": {
     "frames": [
       {
@@ -64,5 +64,6 @@
   ],
   "name": "Coroa de Pedra",
   "value": 200,
-  "weight": 4.0
+  "weight": 4.0,
+  "feminine_form": true
 }

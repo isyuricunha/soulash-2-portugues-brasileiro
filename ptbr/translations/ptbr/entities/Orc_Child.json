@@ -63,7 +63,7 @@
   },
   "name": "Criança Orc",
   "persona": {
-    "occupation": "Criança"
+    "occupation": "Child"
   },
   "sight": {
     "ignore_infra_penalty": false,
@@ -101,5 +101,6 @@
   "tags": [
     "9",
     "26"
-  ]
+  ],
+  "feminine_form": true
 }

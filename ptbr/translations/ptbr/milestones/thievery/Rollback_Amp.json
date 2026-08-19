@@ -1,6 +1,6 @@
 {
   "id": "core_2_rollback_amp",
-  "name": "Recuo",
+  "name": "Reverter",
   "requirements": {
     "milestones": [],
     "skill": 34

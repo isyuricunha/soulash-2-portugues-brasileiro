@@ -1,0 +1,21 @@
+{
+  "animation": "core_2_Heavy_Rain",
+  "cast_time": 0.0,
+  "cooldown": 0.0,
+  "cost": {
+    "health": 0,
+    "stamina": 0
+  },
+  "description": "A energia elétrica da lua azul percorre todos os seres, aumentando o dano ::damage_type em ::damage_bonus_percent%.",
+  "duration": 6.0,
+  "effects": {
+    "damage_bonus_percent": 0.5,
+    "damage_type": "electricity"
+  },
+  "id": "core_2_Blue_Moon_Charge",
+  "image": 829,
+  "name": "Carga da Lua Azul",
+  "range": 0,
+  "skill": "",
+  "target": "health"
+}

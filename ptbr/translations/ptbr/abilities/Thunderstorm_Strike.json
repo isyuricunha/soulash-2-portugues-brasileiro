@@ -1,0 +1,22 @@
+{
+  "animation": "core_2_Heavy_Rain",
+  "cast_time": 0.0,
+  "cost": {
+    "health": 0,
+    "stamina": 0
+  },
+  "description": "Raios atingem posições aleatórias na área.",
+  "duration": 0.0,
+  "effects": {
+    "summon_count": 100
+  },
+  "effects_keys": {
+    "summon": "core_2_Lightning_Strike"
+  },
+  "id": "core_2_Thunderstorm_Strike",
+  "image": 0,
+  "name": "Golpe de Tempestade",
+  "range": 0,
+  "skill": "",
+  "target": "tile"
+}

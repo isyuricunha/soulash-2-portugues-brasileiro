@@ -3,9 +3,7 @@
     "allies": [],
     "allow_production": [],
     "behaviors": [],
-    "enemies": [
-      "5"
-    ]
+    "enemies": []
   },
   "components": [
     "actor",
@@ -38,7 +36,7 @@
       {
         "chance": 1.0,
         "id": "core_2_Druidic_Rod",
-        "name": "Bastão Druídico",
+        "name": "Vara de Druida",
         "stack": 1
       }
     ],
@@ -46,7 +44,7 @@
       {
         "chance": 1.0,
         "id": "23",
-        "name": "Farrapos",
+        "name": "Trapos",
         "stack": 1
       }
     ]
@@ -86,7 +84,7 @@
   "moveable": {
     "speed": 1.0
   },
-  "name": "Ermitão",
+  "name": "Eremita",
   "sight": {
     "ignore_infra_penalty": false,
     "infravision": false,

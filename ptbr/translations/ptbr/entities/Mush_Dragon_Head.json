@@ -45,14 +45,14 @@
     "weapon"
   ],
   "corpse": "core_2_Mush_Dragon_Corpse",
-  "description": "Um verme serpenteado sem asas, envolto em vibrantes cápsulas fúngicas e tendrils miceliais.",
+  "description": "Um verme serpentino sem asas, coberto por chapéus fúngicos vibrantes e tentáculos miceliais.",
   "experience_gainer": {
     "exp": 0,
     "level": 50
   },
   "fighter": {
     "attackNames": [
-      "Bite"
+      "Mordida"
     ]
   },
   "glyph": {
@@ -79,7 +79,7 @@
   "moveable": {
     "speed": 0.699999988079071
   },
-  "name": "Dragão de Cogumelo",
+  "name": "Dragão Cogumelo",
   "sight": {
     "ignore_infra_penalty": true,
     "infravision": true,

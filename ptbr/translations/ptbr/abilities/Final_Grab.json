@@ -6,7 +6,7 @@
     "health": 0,
     "stamina": 8
   },
-  "description": "Mãos espectrais saíram do chão causando ::damage de dano ::damage_type ao alvo e puxando-o mais perto do conjurador.",
+  "description": "Mãos espectrais surgiram do solo causando ::damage ::damage_type de dano ao alvo e puxando-o para mais perto do conjurador.",
   "duration": 0.0,
   "effects": {
     "damage": [

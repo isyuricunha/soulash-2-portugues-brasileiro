@@ -35,7 +35,7 @@
       12
     ]
   },
-  "description": "Uma vestimenta em forma de cinto usada na cintura.",
+  "description": "Uma vestimenta semelhante a um cinto, usada na cintura.",
   "glyph": {
     "frames": [
       {
@@ -60,7 +60,8 @@
     154,
     38
   ],
-  "name": "Cinto",
+  "name": "Cinta",
   "value": 3200,
-  "weight": 0.5
+  "weight": 0.5,
+  "feminine_form": true
 }

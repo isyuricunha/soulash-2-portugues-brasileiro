@@ -56,7 +56,7 @@
     124,
     137
   ],
-  "name": "Parede de Mármore Natural",
+  "name": "Parede Natural de Mármore",
   "producer": {
     "products": {
       "5": [
@@ -71,5 +71,6 @@
       ]
     },
     "time": 120
-  }
+  },
+  "feminine_form": true
 }

@@ -7,7 +7,7 @@
     "health": 0,
     "stamina": 3
   },
-  "description": "Dispara um projétil mágico que causa ::damage de dano ::damage_type e aplica o efeito de veneno por ::poison_effect turnos. Pode deixar a munição após o disparo.",
+  "description": "Dispara um projétil mágico que causa ::damage de dano ::damage_type e aplica efeito de veneno por ::poison_effect turnos. Pode deixar a munição após o disparo.",
   "duration": 0.0,
   "effects": {
     "construct_item_cost": 0.8999999761581421,
@@ -21,7 +21,7 @@
   },
   "id": "core_2_Poison_Shot",
   "image": 720,
-  "name": "Tiro Envenenado",
+  "name": "Tiro Venenoso",
   "range": 7,
   "requirements": {
     "one_of": [

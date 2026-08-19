@@ -10,7 +10,7 @@
     "weight",
     "minimap_pixel"
   ],
-  "description": "Um punhado de framboesas que são perfeitas para um lanche.",
+  "description": "Um punhado de framboesas perfeitas para um lanche.",
   "food": {
     "nutrition": 6,
     "poisonous": 0,
@@ -41,5 +41,6 @@
   ],
   "name": "Framboesa",
   "value": 120,
-  "weight": 0.009999999776482582
+  "weight": 0.009999999776482582,
+  "feminine_form": true
 }

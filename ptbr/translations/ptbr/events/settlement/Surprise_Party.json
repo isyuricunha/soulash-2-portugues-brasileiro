@@ -1,0 +1,95 @@
+{
+  "id": "core_2_surprise_party",
+  "name": "Festa Surpresa",
+  "category": "settlement",
+  "flavor": "O líder deste lugar está fazendo aniversário! Lembre-se de trazer um presente.",
+  "icon": 24,
+  "small_icon": 24,
+  "rarity": "uncommon",
+  "restrict_races": [
+    "0"
+  ],
+  "trigger": {
+    "base_probability": 0.001,
+    "conditions": [
+      {
+        "type": "settlement_population_min",
+        "value": 30
+      },
+      {
+        "type": "race",
+        "values": [
+          "0"
+        ]
+      },
+      {
+        "type": "min_unemployed",
+        "value": 1
+      }
+    ]
+  },
+  "duration": {
+    "type": "temporary",
+    "days": [
+      20,
+      30
+    ]
+  },
+  "effects": [
+    {
+      "type": "production_multiplier",
+      "multiplier": 0.9
+    },
+    {
+      "type": "spawn_group",
+      "amount": [
+        1,
+        1
+      ],
+      "group_type": "settlement",
+      "entity": "core_2_Human_Merrymaker",
+      "border_color": [
+        170,
+        128,
+        192
+      ]
+    }
+  ],
+  "extra_dialogues": [
+    "core_2_birthday_party"
+  ],
+  "interactions": [
+    {
+      "type": "conversation",
+      "id": "core_2_deliver_gift",
+      "translation_id": 0,
+      "required_ingredients": [
+        {
+          "id": "839",
+          "amount": 1
+        }
+      ],
+      "reward": {
+        "remove_event": true,
+        "skill_id": "core_2_leadership",
+        "exp": 50,
+        "items": [
+          {
+            "id": "core_2_Birthday_Cake",
+            "amount": 1
+          }
+        ]
+      },
+      "entities": [
+        "core_2_Birthday_Cake"
+      ],
+      "trigger_event": "core_2_Productivity_Boost",
+      "history_event": "::name participou da festa de aniversário do líder em ::settlement!",
+      "announcement": "Você participou da festa de aniversário do líder em ::settlement!"
+    }
+  ],
+  "history_events": {
+    "begin": "As comemorações de aniversário começaram!",
+    "end": "As comemorações de aniversário terminaram."
+  }
+}

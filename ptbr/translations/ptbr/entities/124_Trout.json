@@ -10,7 +10,7 @@
     "value",
     "weight"
   ],
-  "description": "Peixe que vive em água doce, encontrado no outono e inverno.",
+  "description": "Peixe de água doce, encontrado no outono e no inverno.",
   "glyph": {
     "frames": [
       {
@@ -52,5 +52,6 @@
     "time": 0
   },
   "value": 800,
-  "weight": 2.0
+  "weight": 2.0,
+  "feminine_form": true
 }

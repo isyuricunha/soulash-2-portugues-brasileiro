@@ -8,7 +8,7 @@
     "position_2d"
   ],
   "corpse": [],
-  "description": "Cortinas de delicados fios de gelo translúcidos que tilintam suavemente, encantados para permanecerem intactos e frios ao toque.",
+  "description": "Cortinas de delicados fios de gelo translúcidos que tilintam suavemente, encantadas para permanecerem intactas e frias ao toque.\r",
   "glyph": {
     "frames": [
       {
@@ -30,5 +30,6 @@
     108,
     14
   ],
-  "name": "Cortinas de Gelo"
+  "name": "Draperias de Gelo",
+  "feminine_form": true
 }

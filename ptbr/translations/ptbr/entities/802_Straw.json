@@ -23,7 +23,7 @@
     "value",
     "weight"
   ],
-  "description": "Depois de extrair todas as sementes do trigo, você fica com palha. Pode ser usada em artesanato ou mastigada para complementar a imagem de camponês.",
+  "description": "Após extrair todas as sementes do trigo, sobra a palha. Pode ser usada em artesanato ou mastigada para completar a imagem de camponês.",
   "glyph": {
     "frames": [
       {
@@ -50,11 +50,13 @@
   ],
   "name": "Palha",
   "resource": {
-    "affix": "Straw",
+    "affix": "Palha",
     "magic_ingredient": 0,
     "quality": 0,
-    "type": 4
+    "type": 4,
+    "feminine_affix": "Palha"
   },
   "value": 20,
-  "weight": 0.10000000149011612
+  "weight": 0.10000000149011612,
+  "feminine_form": true
 }

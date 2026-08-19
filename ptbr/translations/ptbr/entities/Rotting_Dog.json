@@ -45,7 +45,7 @@
     "weapon"
   ],
   "corpse": "core_2_Rotting_Dog_Corpse",
-  "description": "Monstruosidade coberta por fungos crescendo entre a carne apodrecida.",
+  "description": "Monstrosidade recoberta por fungos crescendo entre a carne em putrefação.",
   "dialogues": [
     "7",
     "878"
@@ -79,8 +79,8 @@
   },
   "fighter": {
     "attackNames": [
-      "Bite",
-      "Claws"
+      "Mordida",
+      "Garras"
     ]
   },
   "glyph": {
@@ -107,7 +107,7 @@
   "moveable": {
     "speed": 0.800000011920929
   },
-  "name": "Cachorro Apodrecido",
+  "name": "Cão Apodrecido",
   "sight": {
     "ignore_infra_penalty": false,
     "infravision": true,

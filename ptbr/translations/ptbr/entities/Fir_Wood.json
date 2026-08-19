@@ -52,10 +52,11 @@
   ],
   "name": "Madeira de Abeto",
   "resource": {
-    "affix": "Fir",
+    "affix": "Abeto",
     "magic_ingredient": 0,
     "quality": 3,
-    "type": 3
+    "type": 3,
+    "feminine_affix": "Abeto"
   },
   "value": 700,
   "weapon": {
@@ -74,5 +75,6 @@
     "range": 0,
     "type": 9
   },
-  "weight": 0.10000000149011612
+  "weight": 0.10000000149011612,
+  "feminine_form": true
 }

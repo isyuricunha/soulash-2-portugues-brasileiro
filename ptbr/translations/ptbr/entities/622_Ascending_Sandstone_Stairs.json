@@ -34,7 +34,7 @@
     128,
     88
   ],
-  "name": "Escadas de Arenito Ascendentes",
+  "name": "Escadas Ascendentes de Arenito",
   "producer": {
     "products": {
       "core_2_deconstruct": [
@@ -49,5 +49,6 @@
       ]
     },
     "time": 20
-  }
+  },
+  "feminine_form": true
 }

@@ -39,7 +39,7 @@
       14
     ]
   },
-  "description": "Guarda-braços de madeira decorativos protegendo os antebraços.",
+  "description": "Braçadeiras decorativas de madeira que protegem os antebraços.",
   "glyph": {
     "frames": [
       {
@@ -66,5 +66,6 @@
   ],
   "name": "Braçadeiras de Madeira",
   "value": 1200,
-  "weight": 1.5
+  "weight": 1.5,
+  "feminine_form": true
 }

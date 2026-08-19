@@ -8,7 +8,7 @@
     "producer"
   ],
   "corpse": [],
-  "description": "Um pequeno pedaço de folhas aromáticas e frescas.",
+  "description": "Uma pequena touceira de folhas aromáticas e frescas.",
   "glyph": {
     "frames": [
       {
@@ -30,7 +30,7 @@
     202,
     138
   ],
-  "name": "Planta de Hortelã",
+  "name": "Touceira de Hortelã",
   "producer": {
     "products": {
       "10": [
@@ -45,5 +45,6 @@
       ]
     },
     "time": 10
-  }
+  },
+  "feminine_form": true
 }

@@ -72,5 +72,6 @@
     "recipe": ""
   },
   "value": 0,
-  "weight": 10.0
+  "weight": 10.0,
+  "feminine_form": true
 }

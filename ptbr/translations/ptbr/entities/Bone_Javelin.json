@@ -33,7 +33,7 @@
       14
     ]
   },
-  "description": "Lança curta de osso feita especificamente para arremesso.",
+  "description": "Azagaia curta de osso feita especificamente para arremesso.",
   "glyph": {
     "frames": [
       {
@@ -58,7 +58,7 @@
     153,
     97
   ],
-  "name": "Dardo de Osso",
+  "name": "Azagaia de Osso",
   "value": 600,
   "weapon": {
     "attack_animation": "5",
@@ -77,5 +77,6 @@
     "range": 6,
     "type": 11
   },
-  "weight": 0.800000011920929
+  "weight": 0.800000011920929,
+  "feminine_form": true
 }

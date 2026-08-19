@@ -24,7 +24,7 @@
     "weapon",
     "weight"
   ],
-  "description": "Uma substância sinistra e viscosa extraída das profundezas de uma criatura diabólica.",
+  "description": "Uma substância sinístra e viscosa extraída das profundezas de uma criatura demoníaca.",
   "glyph": {
     "frames": [
       {
@@ -49,12 +49,13 @@
     109,
     155
   ],
-  "name": "Lodo de Demônio",
+  "name": "Gosma do Demônio",
   "resource": {
-    "affix": "of Ooze",
+    "affix": "de Gosma",
     "magic_ingredient": 3,
     "quality": 3,
-    "type": 7
+    "type": 7,
+    "feminine_affix": "Gosmenta"
   },
   "value": 2200,
   "weapon": {

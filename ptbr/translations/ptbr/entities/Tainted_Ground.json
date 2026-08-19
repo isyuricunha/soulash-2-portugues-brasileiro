@@ -17,7 +17,7 @@
     "position_2d"
   ],
   "corpse": [],
-  "description": "Chão manchado e carbonizado. Sinal claro de atividade demoníaca nas proximidades.",
+  "description": "Terra contaminada, carbonizada. Sinal claro de atividade demoníaca próxima.",
   "glyph": {
     "frames": [
       {
@@ -39,5 +39,6 @@
     45,
     12
   ],
-  "name": "Chão Maculado"
+  "name": "Terra Contaminada",
+  "feminine_form": true
 }

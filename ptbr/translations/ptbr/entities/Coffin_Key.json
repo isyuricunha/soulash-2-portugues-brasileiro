@@ -39,7 +39,7 @@
       15
     ]
   },
-  "description": "Dizem que ajuda vampiros a se teletransportarem para seu covil.",
+  "description": "Diz-se que ajuda vampiros a se teletransportarem para seus covis.",
   "glyph": {
     "frames": [
       {
@@ -66,11 +66,13 @@
   ],
   "name": "Chave de Caixão",
   "resource": {
-    "affix": "Closing",
+    "affix": "Fechamento",
     "magic_ingredient": 1,
     "quality": 1,
-    "type": 7
+    "type": 7,
+    "feminine_affix": "fechada"
   },
   "value": 400,
-  "weight": 0.10000000149011612
+  "weight": 0.10000000149011612,
+  "feminine_form": true
 }

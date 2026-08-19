@@ -23,7 +23,7 @@
     "tags"
   ],
   "corpse": "core_2_Huge_Slug_Corpse",
-  "description": "Um caracol realmente grande sem sua casca. Parece úmido.",
+  "description": "Um caracol realmente grande sem sua concha. Parece úmido.",
   "dialogues": [
     "908"
   ],
@@ -92,5 +92,6 @@
   "tags": [
     "9",
     "2"
-  ]
+  ],
+  "feminine_form": true
 }

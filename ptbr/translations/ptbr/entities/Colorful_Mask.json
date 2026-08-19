@@ -21,7 +21,7 @@
     "value",
     "weight"
   ],
-  "description": "Máscara primitiva de madeira pintada com listras coloridas.",
+  "description": "Máscara de madeira primitiva pintada com listras coloridas.",
   "glyph": {
     "frames": [
       {
@@ -48,5 +48,6 @@
   ],
   "name": "Máscara Colorida",
   "value": 1500,
-  "weight": 0.5
+  "weight": 0.5,
+  "feminine_form": true
 }

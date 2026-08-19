@@ -40,10 +40,6 @@
     {
       "damage_type": 4,
       "id": "614"
-    },
-    {
-      "damage_type": 5,
-      "id": "609"
     }
   ],
   "description": "Água muito suja, beber pode ser perigoso.",
@@ -81,7 +77,7 @@
     39,
     13
   ],
-  "name": "Água Lamacenta",
+  "name": "Água Barrenta",
   "on_enter": {
     "ability": [
       "88",
@@ -90,5 +86,6 @@
     "only_player_triggers": false,
     "teleport": null,
     "trigger_chance": 1.0
-  }
+  },
+  "feminine_form": true
 }

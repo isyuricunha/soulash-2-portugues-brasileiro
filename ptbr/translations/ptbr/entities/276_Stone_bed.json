@@ -39,7 +39,7 @@
     "time": 20,
     "tools": []
   },
-  "description": "Cama esculpida em um enorme bloco de pedra.",
+  "description": "Cama esculpida a partir de um enorme bloco de pedra.",
   "glyph": {
     "frames": [
       {
@@ -78,5 +78,6 @@
     },
     "time": 10
   },
-  "resting_place": 140
+  "resting_place": 140,
+  "feminine_form": true
 }

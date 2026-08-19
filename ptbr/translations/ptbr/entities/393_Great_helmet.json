@@ -37,7 +37,7 @@
       1
     ]
   },
-  "description": "Cobre a cabeça e o rosto muito bem, mas obscurece a visão.",
+  "description": "Cobre muito bem a cabeça e o rosto, mas obscurece a visão.",
   "glyph": {
     "frames": [
       {
@@ -62,7 +62,7 @@
     190,
     191
   ],
-  "name": "Grande Capacete",
+  "name": "Grande Elmo",
   "value": 5000,
   "weight": 3.5
 }

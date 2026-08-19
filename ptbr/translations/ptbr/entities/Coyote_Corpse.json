@@ -9,7 +9,7 @@
     "producer",
     "weight"
   ],
-  "description": "Os restos de um coióte.",
+  "description": "Os restos de um coiote.",
   "glyph": {
     "frames": [
       {
@@ -38,7 +38,7 @@
     102,
     57
   ],
-  "name": "Cadáver de Coióte",
+  "name": "Cadáver de Coiote",
   "producer": {
     "products": {
       "3": [

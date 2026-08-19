@@ -81,5 +81,6 @@
     "range": 2,
     "type": 4
   },
-  "weight": 2.5
+  "weight": 2.5,
+  "feminine_form": true
 }

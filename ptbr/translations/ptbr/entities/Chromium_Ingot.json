@@ -68,10 +68,11 @@
   ],
   "name": "Lingote de Cromo",
   "resource": {
-    "affix": "Chromium",
+    "affix": "de Cromo",
     "magic_ingredient": 0,
     "quality": 3,
-    "type": 1
+    "type": 1,
+    "feminine_affix": "cromada"
   },
   "value": 10000,
   "weapon": {

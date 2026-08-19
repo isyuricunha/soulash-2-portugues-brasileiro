@@ -35,7 +35,7 @@
       15
     ]
   },
-  "description": "É lindo, como uma manhã de primavera.",
+  "description": "É belo, como uma manhã de primavera.",
   "glyph": {
     "frames": [
       {
@@ -62,10 +62,11 @@
   ],
   "name": "Cristal da Primavera",
   "resource": {
-    "affix": "of the Summer",
+    "affix": "do Verão",
     "magic_ingredient": 4,
     "quality": 4,
-    "type": 7
+    "type": 7,
+    "feminine_affix": "estival"
   },
   "statistics": {
     "dexterity": [

@@ -170,7 +170,7 @@
     "weapon"
   ],
   "corpse": "core_2_Big_Bad_Wolf_Corpse",
-  "description": "Tem olhos grandes. E orelhas grandes. E dentes enormes e afiados.",
+  "description": "Ele tem olhos grandes. E orelhas grandes. E dentes enormes, afiados.",
   "dialogues": [
     "7",
     "345"
@@ -181,7 +181,7 @@
   },
   "fighter": {
     "attackNames": [
-      "Bite"
+      "Mordida"
     ]
   },
   "glyph": {
@@ -208,7 +208,7 @@
   "moveable": {
     "speed": 0.699999988079071
   },
-  "name": "Lobo Mau Grande",
+  "name": "Grande Lobo Mau",
   "sight": {
     "ignore_infra_penalty": true,
     "infravision": true,

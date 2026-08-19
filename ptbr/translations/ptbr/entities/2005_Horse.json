@@ -25,7 +25,7 @@
     "tags"
   ],
   "corpse": [],
-  "description": "Cavalos são grandes bestas leais.",
+  "description": "Cavalos são grandes feras leais.",
   "dialogues": [
     "110",
     "111",
@@ -59,8 +59,8 @@
   },
   "fighter": {
     "attackNames": [
-      "Bites",
-      "Kicks"
+      "Mordidas",
+      "Cochetadas"
     ]
   },
   "glyph": {

@@ -23,7 +23,7 @@
     "time": 10,
     "tools": []
   },
-  "description": "Aqui jaz Corymtal. Voar não é para todos.",
+  "description": "Aqui jaz Corymtal. Voar não é para todos. ",
   "glyph": {
     "frames": [
       {
@@ -77,5 +77,6 @@
       ]
     },
     "time": 10
-  }
+  },
+  "feminine_form": true
 }

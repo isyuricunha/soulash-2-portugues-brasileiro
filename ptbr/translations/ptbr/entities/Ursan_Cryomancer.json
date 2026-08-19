@@ -80,9 +80,9 @@
   "moveable": {
     "speed": 1.2999999523162842
   },
-  "name": "Criomante Ursan",
+  "name": "Criomante Ursano",
   "persona": {
-    "occupation": "Criomante"
+    "occupation": "Cryomancer"
   },
   "sight": {
     "ignore_infra_penalty": false,

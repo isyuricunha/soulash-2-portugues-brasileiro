@@ -11,7 +11,7 @@
     "value",
     "weight"
   ],
-  "description": "Um emblema reluzente de mistérios antigos, capturando a essência sagrada de renascimento e ciclos eternos.",
+  "description": "Um emblema reluzente de mistérios antigos, capturando a essência sagrada do renascimento e dos ciclos eternos.",
   "glyph": {
     "frames": [
       {
@@ -36,12 +36,13 @@
     227,
     120
   ],
-  "name": "Casca de Escaravelho",
+  "name": "Casco de Escaravelho",
   "resource": {
-    "affix": "Eternal",
+    "affix": "Eterno",
     "magic_ingredient": 0,
     "quality": 1,
-    "type": 10
+    "type": 10,
+    "feminine_affix": "Eterna"
   },
   "statistics": {
     "dexterity": [

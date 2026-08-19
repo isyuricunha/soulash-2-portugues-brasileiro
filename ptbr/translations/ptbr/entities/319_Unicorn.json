@@ -40,7 +40,7 @@
     "tags"
   ],
   "corpse": "320",
-  "description": "Besta majestosa e extremamente rara. Dizem que seu chifre possui propriedades mágicas tremendas.",
+  "description": "Besta majestosa e extremamente rara. Diz-se que seu chifre possui tremendas propriedades mágicas.",
   "dialogues": [
     "110",
     "111",
@@ -73,8 +73,8 @@
   },
   "fighter": {
     "attackNames": [
-      "Horn",
-      "Kick"
+      "Chifre",
+      "Coice"
     ]
   },
   "glyph": {

@@ -8,7 +8,7 @@
     "producer"
   ],
   "corpse": [],
-  "description": "Um pequeno trecho de folhas aromáticas e pequenas flores amarelas.",
+  "description": "Um pequeno canteiro de folhas aromáticas e pequenas flores amarelas.",
   "glyph": {
     "frames": [
       {
@@ -30,7 +30,7 @@
     107,
     0
   ],
-  "name": "Plantação de Levístico",
+  "name": "Canteiro de Levístico",
   "producer": {
     "products": {
       "10": [

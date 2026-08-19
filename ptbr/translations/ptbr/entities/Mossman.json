@@ -52,7 +52,7 @@
   },
   "fighter": {
     "attackNames": [
-      "Slam"
+      "Impacto"
     ]
   },
   "glyph": {
@@ -79,7 +79,7 @@
   "moveable": {
     "speed": 0.699999988079071
   },
-  "name": "Homem de Musgo",
+  "name": "Homem-Musgo",
   "sight": {
     "ignore_infra_penalty": false,
     "infravision": true,

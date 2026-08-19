@@ -18,7 +18,7 @@
     "producer"
   ],
   "corpse": [],
-  "description": "Teto feito de glacê.",
+  "description": "Telhado feito de cobertura.",
   "glyph": {
     "frames": [
       {
@@ -40,7 +40,7 @@
     255,
     255
   ],
-  "name": "Teto de Glacê",
+  "name": "Telhado Gelado",
   "producer": {
     "products": {
       "core_2_deconstruct": [

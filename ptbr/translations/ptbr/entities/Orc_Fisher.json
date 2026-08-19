@@ -43,7 +43,7 @@
       {
         "chance": 1.0,
         "id": "120",
-        "name": "Vara de Pescar",
+        "name": "Vara de Pesca",
         "stack": 1
       }
     ]
@@ -82,9 +82,9 @@
   "moveable": {
     "speed": 1.2999999523162842
   },
-  "name": "Orc Pescador",
+  "name": "Pescador Orc",
   "persona": {
-    "occupation": "Pescador"
+    "occupation": "Fisher"
   },
   "sight": {
     "ignore_infra_penalty": false,

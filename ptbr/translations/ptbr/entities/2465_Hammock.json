@@ -6,7 +6,7 @@
     "position_2d",
     "resting_place"
   ],
-  "description": "Uma cama de tecido suspensa e relaxante, perfeita para momentos de lazer e descanso pacífico.",
+  "description": "Uma cama de tecido suspensa e relaxante, perfeita para descanso tranquilo e momentos pacíficos de repouso.",
   "glyph": {
     "frames": [
       {
@@ -28,5 +28,6 @@
     63
   ],
   "name": "Rede",
-  "resting_place": 110
+  "resting_place": 110,
+  "feminine_form": true
 }

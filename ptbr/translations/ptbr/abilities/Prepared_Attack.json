@@ -6,7 +6,7 @@
     "health": 0,
     "stamina": 10
   },
-  "description": "A próxima habilidade usada dentro de ::duration turnos aplicará um bônus de 100% de dano.",
+  "description": "A próxima habilidade usada dentro de ::duration turnos aplicará 100% de dano adicional.",
   "duration": 5.0,
   "effects": {
     "ability_damage_multiplier": 1.0,

@@ -35,7 +35,7 @@
       14
     ]
   },
-  "description": "Sandálias de madeira com uma base elevada que levanta os pés de quem as usa do chão. Elas fazem um som distinto de clique-claque ao caminhar.",
+  "description": "Sandálias de madeira com uma base elevada que mantém os pés do usuário fora do chão. Elas fazem um som característico de “toc-toc” ao caminhar.",
   "glyph": {
     "frames": [
       {
@@ -62,5 +62,6 @@
   ],
   "name": "Geta",
   "value": 700,
-  "weight": 0.5
+  "weight": 0.5,
+  "feminine_form": true
 }

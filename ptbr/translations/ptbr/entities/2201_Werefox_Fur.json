@@ -24,7 +24,7 @@
     "value",
     "weight"
   ],
-  "description": "Uma fusão encantadora de astúcia e graça, esta pelagem captura a essência de uma raposa metamorfoseada.",
+  "description": "Uma fusão encantadora de astúcia e graça, esta pele captura a essência de uma lobisraposa esquiva.",
   "glyph": {
     "frames": [
       {
@@ -49,12 +49,13 @@
     175,
     158
   ],
-  "name": "Pele de Raposa Metamorfoseada",
+  "name": "Pele de Lobisraposa",
   "resource": {
-    "affix": "Cunning",
+    "affix": "Astuto",
     "magic_ingredient": 0,
     "quality": 4,
-    "type": 9
+    "type": 9,
+    "feminine_affix": "Astuta"
   },
   "statistics": {
     "dexterity": [
@@ -80,5 +81,6 @@
     ]
   },
   "value": 9000,
-  "weight": 0.10000000149011612
+  "weight": 0.10000000149011612,
+  "feminine_form": true
 }

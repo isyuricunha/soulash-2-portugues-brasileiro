@@ -25,7 +25,7 @@
       1
     ]
   },
-  "description": "Você vê uma adaga longa com uma lâmina larga, uma das favoritas dos assassinos.",
+  "description": "Você vê uma adaga longa com uma lâmina larga, uma das favoritas dos degoladores.",
   "glyph": {
     "frames": [
       {
@@ -68,5 +68,6 @@
     "range": 1,
     "type": 3
   },
-  "weight": 1.0
+  "weight": 1.0,
+  "feminine_form": true
 }

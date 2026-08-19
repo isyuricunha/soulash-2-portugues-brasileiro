@@ -41,7 +41,7 @@
       15
     ]
   },
-  "description": "Escama de dragão cromático de uma espécie extinta de dragões.",
+  "description": "Escama que muda de cor de uma espécie extinta de dragões.",
   "glyph": {
     "frames": [
       {
@@ -68,10 +68,11 @@
   ],
   "name": "Escama de Dragão Cromático",
   "resource": {
-    "affix": "Arrogant",
+    "affix": "Arrogante",
     "magic_ingredient": 0,
     "quality": 3,
-    "type": 10
+    "type": 10,
+    "feminine_affix": "arrogante"
   },
   "statistics": {
     "dexterity": [
@@ -96,5 +97,6 @@
     ]
   },
   "value": 7000,
-  "weight": 0.10000000149011612
+  "weight": 0.10000000149011612,
+  "feminine_form": true
 }

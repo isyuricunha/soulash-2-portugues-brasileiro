@@ -80,9 +80,9 @@
   "moveable": {
     "speed": 1.100000023841858
   },
-  "name": "Troll Lenhador",
+  "name": "Lenhador Troll",
   "persona": {
-    "occupation": "Lanhador"
+    "occupation": "Woodcutter"
   },
   "sight": {
     "ignore_infra_penalty": false,

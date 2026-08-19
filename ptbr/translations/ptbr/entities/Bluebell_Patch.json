@@ -8,7 +8,7 @@
     "producer"
   ],
   "corpse": [],
-  "description": "Um pequeno trecho de grama com flores em forma de sino.",
+  "description": "Uma pequena touceira de grama com flores em forma de sino.",
   "glyph": {
     "frames": [
       {
@@ -30,7 +30,7 @@
     89,
     0
   ],
-  "name": "Trecho de Campainha Azul",
+  "name": "Touceira de Flor-de-sino",
   "producer": {
     "products": {
       "10": [
@@ -45,5 +45,6 @@
       ]
     },
     "time": 10
-  }
+  },
+  "feminine_form": true
 }

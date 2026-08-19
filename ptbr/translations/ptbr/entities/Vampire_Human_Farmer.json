@@ -101,9 +101,9 @@
   "moveable": {
     "speed": 1.5
   },
-  "name": "Vampiro Fazendeiro Humano",
+  "name": "Fazendeiro Vampiro Humano",
   "persona": {
-    "occupation": "Fazendeiro Humano"
+    "occupation": "Human Farmer"
   },
   "sight": {
     "ignore_infra_penalty": false,

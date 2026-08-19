@@ -24,7 +24,7 @@
     "time": 25,
     "tools": []
   },
-  "description": "Uma cama que pode ser usada para dormir e se recuperar da fadiga.",
+  "description": "Uma cama que pode ser usada para dormir e recuperar-se do cansaço.",
   "glyph": {
     "frames": [
       {
@@ -55,7 +55,7 @@
     39,
     25
   ],
-  "name": "Cama Élfica",
+  "name": "Uma cama que pode ser usada para dormir e recuperar-se do cansaço.",
   "producer": {
     "products": {
       "core_2_deconstruct": [
@@ -71,5 +71,6 @@
     },
     "time": 10
   },
-  "resting_place": 200
+  "resting_place": 200,
+  "feminine_form": true
 }

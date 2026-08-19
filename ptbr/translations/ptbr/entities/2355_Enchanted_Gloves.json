@@ -35,7 +35,7 @@
       12
     ]
   },
-  "description": "Luvas de tecido imbuídas com propriedades mágicas para melhorar suas capacidades.",
+  "description": "Luvas de tecido imbuídas com propriedades mágicas para aprimorar suas capacidades.",
   "glyph": {
     "frames": [
       {
@@ -62,5 +62,6 @@
   ],
   "name": "Luvas Encantadas",
   "value": 18000,
-  "weight": 0.5
+  "weight": 0.5,
+  "feminine_form": true
 }

@@ -14,7 +14,7 @@
     "minimap_pixel",
     "name"
   ],
-  "description": "Um mosaico de chão incrustado com intrincado desenho de flocos de neve.",
+  "description": "Um mosaico de piso com intrincado desenho de floco de neve.",
   "glyph": {
     "frames": [
       {
@@ -35,5 +35,5 @@
     63,
     72
   ],
-  "name": "Mosaico de Flocos de Neve no Chão"
+  "name": "Piso de Mosaico de Floco de Neve"
 }

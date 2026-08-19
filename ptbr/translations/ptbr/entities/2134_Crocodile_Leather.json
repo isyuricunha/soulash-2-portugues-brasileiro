@@ -25,7 +25,7 @@
     "weapon",
     "weight"
   ],
-  "description": "Um material distinto, que carrega as marcas do charme rústico de seu predador aquático.",
+  "description": "Um material distintivo, carrega as marcas do charme rústico de seu predador aquático.",
   "glyph": {
     "frames": [
       {
@@ -52,10 +52,11 @@
   ],
   "name": "Couro de Crocodilo",
   "resource": {
-    "affix": "Apex",
+    "affix": "Supremo",
     "magic_ingredient": 0,
     "quality": 3,
-    "type": 2
+    "type": 2,
+    "feminine_affix": "Suprema"
   },
   "statistics": {
     "dexterity": [

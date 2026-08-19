@@ -36,7 +36,7 @@
       15
     ]
   },
-  "description": "Explodindo no impacto, congelando todos nas proximidades.",
+  "description": "Explodindo no impacto, congelando todos ao redor. ",
   "glyph": {
     "frames": [
       {
@@ -67,5 +67,6 @@
     "recipe": ""
   },
   "value": 1300,
-  "weight": 0.20000000298023224
+  "weight": 0.20000000298023224,
+  "feminine_form": true
 }

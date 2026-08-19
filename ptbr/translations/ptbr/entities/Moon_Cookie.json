@@ -10,7 +10,7 @@
     "value",
     "weight"
   ],
-  "description": "Biscoito doce e manteigoso em forma de lua.",
+  "description": "Biscoito doce e amanteigado em forma de lua.",
   "food": {
     "nutrition": 10,
     "on_eat": "",
@@ -40,7 +40,7 @@
     78,
     54
   ],
-  "name": "Biscoito de Lua",
+  "name": "Biscoito da Lua",
   "value": 200,
   "weight": 0.10000000149011612
 }

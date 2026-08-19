@@ -40,7 +40,7 @@
       14
     ]
   },
-  "description": "Proteja sua tíbia.",
+  "description": "Protege a tíbia.",
   "glyph": {
     "frames": [
       {
@@ -65,7 +65,8 @@
     166,
     66
   ],
-  "name": "Caneleiras do Caçador",
+  "name": "Grebas de Caçador",
   "value": 3500,
-  "weight": 1.5
+  "weight": 1.5,
+  "feminine_form": true
 }

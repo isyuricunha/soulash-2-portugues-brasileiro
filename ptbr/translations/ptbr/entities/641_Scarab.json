@@ -27,7 +27,7 @@
     "tags"
   ],
   "corpse": "642",
-  "description": "Besouro superdesenvolvido com casca grossa e sangue venenoso.",
+  "description": "Besouro crescido com casco grosso e sangue venenoso.",
   "dialogues": [
     "109",
     "884"
@@ -61,7 +61,7 @@
   },
   "fighter": {
     "attackNames": [
-      "Bite"
+      "Mordida"
     ]
   },
   "glyph": {

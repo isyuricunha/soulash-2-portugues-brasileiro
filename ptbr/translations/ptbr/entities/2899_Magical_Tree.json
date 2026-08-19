@@ -30,7 +30,7 @@
       "id": "2898"
     }
   ],
-  "description": "Uma árvore bonita. Parece muito mágica.",
+  "description": "Uma bela árvore. Parece muito mágica.",
   "glyph": {
     "frames": [
       {
@@ -138,5 +138,6 @@
       ]
     },
     "time": 30
-  }
+  },
+  "feminine_form": true
 }

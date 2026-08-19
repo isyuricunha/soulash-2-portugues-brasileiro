@@ -9,7 +9,7 @@
     "producer",
     "weight"
   ],
-  "description": "Os restos de uma raposa-fênix.",
+  "description": "Os restos de uma raposa-fennec.",
   "glyph": {
     "frames": [
       {
@@ -38,7 +38,7 @@
     102,
     57
   ],
-  "name": "Cadáver de Raposa-Feneco",
+  "name": "Cadáver de Raposa-Fennec",
   "producer": {
     "products": {
       "3": [

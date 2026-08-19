@@ -10,7 +10,7 @@
     "value",
     "weight"
   ],
-  "description": "Corpo sem vida de uma bruxa de gelo.",
+  "description": "Um corpo sem vida de uma bruxa do gelo.",
   "glyph": {
     "frames": [
       {
@@ -39,7 +39,7 @@
     154,
     20
   ],
-  "name": "Cadáver de Bruxa de Gelo",
+  "name": "Cadáver de Bruxa do Gelo",
   "producer": {
     "products": {
       "3": [
@@ -56,5 +56,6 @@
     "time": 10
   },
   "value": 0,
-  "weight": 30.0
+  "weight": 30.0,
+  "feminine_form": true
 }

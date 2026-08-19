@@ -6,7 +6,7 @@
     "health": 0,
     "stamina": 8
   },
-  "description": "Joga uma bomba explosiva em um local, causando ::damage ::damage_type de dano.",
+  "description": "Arremesse uma bomba explosiva em um local, causando ::damage de dano ::damage_type.",
   "duration": 1.5,
   "effects": {
     "aoe_break": 1,
@@ -21,7 +21,7 @@
   },
   "id": "core_2_Improved_Exploding_Bomb",
   "image": 777,
-  "name": "Bomba Explosiva Melhorada",
+  "name": "Bomba Explosiva Aprimorada",
   "range": 8,
   "skill": "",
   "target": "aoe_tile"

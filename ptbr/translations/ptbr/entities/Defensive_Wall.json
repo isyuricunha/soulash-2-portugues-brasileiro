@@ -80,14 +80,14 @@
     "weapon"
   ],
   "corpse": "2025",
-  "description": "Parede móvel com defesas fortes.",
+  "description": "Parede móvel com fortes defesas.",
   "experience_gainer": {
     "exp": 0,
     "level": 50
   },
   "fighter": {
     "attackNames": [
-      "Slam"
+      "Impacto"
     ]
   },
   "glyph": {
@@ -166,5 +166,6 @@
     "parry_bonus": 0,
     "range": 1,
     "type": 1
-  }
+  },
+  "feminine_form": true
 }

@@ -81,7 +81,7 @@
   },
   "name": "Padeiro Humano",
   "persona": {
-    "occupation": "Padeiro"
+    "occupation": "Baker"
   },
   "sight": {
     "ignore_infra_penalty": false,

@@ -11,7 +11,7 @@
     "value",
     "weight"
   ],
-  "description": "Você sabe que é falso. Mas brilha tanto que quase pode acreditar que é real.",
+  "description": "Você sabe que é falsa. Mas brilha tão intensamente que você quase acredita que é real.",
   "glyph": {
     "frames": [
       {
@@ -38,10 +38,11 @@
   ],
   "name": "Gema de Vidro",
   "resource": {
-    "affix": "Glass Gem",
+    "affix": "Gema de Vidro",
     "magic_ingredient": 0,
     "quality": 2,
-    "type": 8
+    "type": 8,
+    "feminine_affix": "de Gema de Vidro"
   },
   "statistics": {
     "dexterity": [
@@ -67,5 +68,6 @@
     ]
   },
   "value": 2700,
-  "weight": 0.10000000149011612
+  "weight": 0.10000000149011612,
+  "feminine_form": true
 }

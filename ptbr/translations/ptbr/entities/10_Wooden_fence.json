@@ -46,7 +46,7 @@
     "time": 5,
     "tools": []
   },
-  "description": "Uma cerca baixa feita de madeira que impede o movimento, embora ainda seja baixa o suficiente para não bloquear sua visão.",
+  "description": "Uma cerca curta feita de madeira que impede a movimentação, embora ainda seja baixa o suficiente para não bloquear sua visão.",
   "glyph": {
     "frames": [
       {
@@ -78,7 +78,7 @@
     38,
     7
   ],
-  "name": "Nearca de Madeira",
+  "name": "Cerca de Madeira",
   "producer": {
     "products": {
       "core_2_deconstruct": [
@@ -93,5 +93,6 @@
       ]
     },
     "time": 20
-  }
+  },
+  "feminine_form": true
 }

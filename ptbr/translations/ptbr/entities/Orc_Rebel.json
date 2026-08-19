@@ -57,7 +57,7 @@
       {
         "chance": 1.0,
         "id": "312",
-        "name": "Espada de Osso",
+        "name": "espada de osso",
         "stack": 1
       }
     ],
@@ -106,7 +106,7 @@
   },
   "name": "Orc Rebelde",
   "persona": {
-    "occupation": "Rebelde"
+    "occupation": "Rebel"
   },
   "sight": {
     "ignore_infra_penalty": false,

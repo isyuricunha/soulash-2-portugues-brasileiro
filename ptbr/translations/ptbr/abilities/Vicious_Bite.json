@@ -6,7 +6,7 @@
     "health": 0,
     "stamina": 3
   },
-  "description": "Ataque corpo a corpo que causa ::damage de dano ::damage_type e atordoa o alvo.",
+  "description": "Ataque corpo a corpo que causa ::damage ::damage_type de dano e atordoa o alvo.",
   "duration": 0.0,
   "effects": {
     "damage": [

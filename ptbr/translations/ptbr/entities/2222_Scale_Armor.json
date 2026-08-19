@@ -40,7 +40,7 @@
       1
     ]
   },
-  "description": "Um conjunto de armadura feito de escamas entrelaçadas, proporcionando proteção confiável contra ataques perfurantes, enquanto ainda permite mobilidade em combate.",
+  "description": "Uma armadura feita de escamas entrelaçadas, fornecendo proteção confiável contra ataques perfurantes, ao mesmo tempo em que permite mobilidade no combate.",
   "glyph": {
     "frames": [
       {
@@ -67,5 +67,6 @@
   ],
   "name": "Armadura de Escamas",
   "value": 6800,
-  "weight": 5.0
+  "weight": 5.0,
+  "feminine_form": true
 }

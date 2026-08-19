@@ -11,7 +11,7 @@
     "value",
     "weight"
   ],
-  "description": "Uma pedra preciosa de cor verde.",
+  "description": "Uma gema de cor verde.",
   "glyph": {
     "frames": [
       {
@@ -38,10 +38,11 @@
   ],
   "name": "Esmeralda",
   "resource": {
-    "affix": "Emerald",
+    "affix": "Esmeralda",
     "magic_ingredient": 0,
     "quality": 2,
-    "type": 8
+    "type": 8,
+    "feminine_affix": "esmeralda"
   },
   "statistics": {
     "dexterity": [
@@ -66,5 +67,6 @@
     ]
   },
   "value": 2000,
-  "weight": 0.10000000149011612
+  "weight": 0.10000000149011612,
+  "feminine_form": true
 }

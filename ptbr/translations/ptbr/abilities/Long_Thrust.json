@@ -6,7 +6,7 @@
     "health": 0,
     "stamina": 4
   },
-  "description": "Ataque com arma que causa ::damage ::damage_type de dano.",
+  "description": "Ataque com arma que causa ::damage de dano ::damage_type.",
   "duration": 0.0,
   "effects": {
     "damage": [

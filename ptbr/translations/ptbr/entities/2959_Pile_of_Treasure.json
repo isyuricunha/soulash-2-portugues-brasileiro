@@ -82,7 +82,7 @@
     157,
     45
   ],
-  "name": "Pilha de Tesouro",
+  "name": "Pilha de Tesouros",
   "producer": {
     "products": {
       "15": [
@@ -97,5 +97,6 @@
       ]
     },
     "time": 1
-  }
+  },
+  "feminine_form": true
 }

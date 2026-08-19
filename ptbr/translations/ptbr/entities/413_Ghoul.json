@@ -41,7 +41,7 @@
       {
         "chance": 1.0,
         "id": "23",
-        "name": "Farrapos",
+        "name": "Farrapas",
         "stack": 1
       }
     ]
@@ -52,8 +52,8 @@
   },
   "fighter": {
     "attackNames": [
-      "Bite",
-      "Scratch"
+      "Mordida",
+      "Arranhão"
     ]
   },
   "glyph": {
@@ -83,7 +83,7 @@
   "moveable": {
     "speed": 1.100000023841858
   },
-  "name": "Gul",
+  "name": "Carniçal",
   "sight": {
     "ignore_infra_penalty": false,
     "infravision": true,

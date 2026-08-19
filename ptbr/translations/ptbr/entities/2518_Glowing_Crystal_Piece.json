@@ -11,7 +11,7 @@
     "value",
     "weight"
   ],
-  "description": "Um cristal luminoso emanando um brilho suave e etéreo.",
+  "description": "Um cristal luminoso que emana um brilho suave e etéreo.",
   "glyph": {
     "frames": [
       {
@@ -42,12 +42,13 @@
     109,
     155
   ],
-  "name": "Pedra de Cristal Brilhante",
+  "name": "Fragmento de Cristal Brilhante",
   "resource": {
-    "affix": "Glowing",
+    "affix": "Brilhante",
     "magic_ingredient": 0,
     "quality": 1,
-    "type": 8
+    "type": 8,
+    "feminine_affix": "Brilhante"
   },
   "value": 500,
   "weight": 0.10000000149011612

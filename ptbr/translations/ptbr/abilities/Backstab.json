@@ -6,7 +6,7 @@
     "health": 0,
     "stamina": 3
   },
-  "description": "Troca de posição com o alvo e o ataca por trás causando ::damage de ::damage_type de dano.",
+  "description": "Troca de posição com o alvo e o ataca por trás causando ::damage ::damage_type de dano.",
   "duration": 0.0,
   "effects": {
     "damage": [
@@ -19,7 +19,7 @@
   },
   "id": "22",
   "image": 82,
-  "name": "Golpe Traiçoeiro",
+  "name": "Golpe pelas Costas",
   "range": 1,
   "requirements": {
     "one_of": [

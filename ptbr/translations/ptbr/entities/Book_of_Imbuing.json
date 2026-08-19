@@ -25,7 +25,7 @@
     "time": 60,
     "tools": []
   },
-  "description": "Alguns segredos intricados da imbuição estão escondidos dentro destas páginas.",
+  "description": "Alguns segredos intrincados da imbuição estão escondidos nestas páginas.",
   "glyph": {
     "frames": [
       {
@@ -57,5 +57,6 @@
     "skill_p": "core_2_imbuing"
   },
   "value": 5000,
-  "weight": 0.20000000298023224
+  "weight": 0.20000000298023224,
+  "feminine_form": true
 }

@@ -35,7 +35,7 @@
     "time": 60,
     "tools": []
   },
-  "description": "Esta prateleira pode conter muitas garrafas.",
+  "description": "Esta estante comporta muitas garrafas.",
   "glyph": {
     "frames": [
       {
@@ -66,5 +66,6 @@
     48,
     17
   ],
-  "name": "Prateleira de Licores"
+  "name": "Prateleira de Bebidas",
+  "feminine_form": true
 }

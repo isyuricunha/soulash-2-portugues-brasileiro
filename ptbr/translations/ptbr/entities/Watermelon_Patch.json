@@ -24,7 +24,7 @@
     "producer"
   ],
   "corpse": [],
-  "description": "Um pequeno pedaço de terra cheio de melancias crescendo.",
+  "description": "Um pequeno canteiro cheio de melancias crescendo.",
   "glyph": {
     "frames": [
       {
@@ -63,7 +63,7 @@
     73,
     73
   ],
-  "name": "Plantação de Melancia",
+  "name": "Canteiro de Melancia",
   "producer": {
     "products": {
       "10": [

@@ -24,7 +24,7 @@
     "producer"
   ],
   "corpse": [],
-  "description": "Esta planta consiste em múltiplos ramos finos cobertos com folhas e framboesas comestíveis.",
+  "description": "Esta planta consiste em vários galhos finos cobertos com folhas e framboesas comestíveis.",
   "glyph": {
     "frames": [
       {
@@ -78,8 +78,8 @@
         },
         {
           "amount": [
-            1,
-            3
+            2,
+            4
           ],
           "id": "813",
           "percent_chance": 100
@@ -94,6 +94,6 @@
         }
       ]
     },
-    "time": 10
+    "time": 5
   }
 }

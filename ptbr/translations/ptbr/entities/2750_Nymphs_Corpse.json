@@ -9,7 +9,7 @@
     "producer",
     "weight"
   ],
-  "description": "Corpo de uma ninfa morto.",
+  "description": "Corpo morto de uma ninfa.",
   "glyph": {
     "frames": [
       {
@@ -54,5 +54,6 @@
     },
     "time": 10
   },
-  "weight": 60.0
+  "weight": 60.0,
+  "feminine_form": true
 }

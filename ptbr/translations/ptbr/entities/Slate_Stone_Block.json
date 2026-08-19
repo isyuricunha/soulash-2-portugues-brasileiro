@@ -38,10 +38,11 @@
   ],
   "name": "Bloco de Pedra de Ardósia",
   "resource": {
-    "affix": "Slate",
+    "affix": "Ardósia",
     "magic_ingredient": 0,
     "quality": 1,
-    "type": 6
+    "type": 6,
+    "feminine_affix": "ardósia"
   },
   "statistics": {
     "dexterity": [

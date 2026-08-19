@@ -7,7 +7,7 @@
     "position_2d"
   ],
   "corpse": [],
-  "description": "Uma boneca com um sorriso de porcelana, vestida com um vestido de renda.",
+  "description": "Uma boneca com sorriso de porcelana, vestida com um vestido de renda.",
   "glyph": {
     "frames": [
       {
@@ -29,5 +29,6 @@
     110,
     42
   ],
-  "name": "Boneca de Porcelana"
+  "name": "Boneca de Porcelana",
+  "feminine_form": true
 }

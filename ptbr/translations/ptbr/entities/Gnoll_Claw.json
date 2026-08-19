@@ -96,7 +96,7 @@
   },
   "name": "Garra de Gnoll",
   "persona": {
-    "occupation": "Garra"
+    "occupation": "Claw"
   },
   "sight": {
     "ignore_infra_penalty": false,
@@ -142,5 +142,6 @@
   },
   "tags": [
     "9"
-  ]
+  ],
+  "feminine_form": true
 }

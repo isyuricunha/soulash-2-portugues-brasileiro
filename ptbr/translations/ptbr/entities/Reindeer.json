@@ -26,7 +26,7 @@
     "tags"
   ],
   "corpse": "core_2_Reindeer_Corpse",
-  "description": "Uma rena enorme com uma espessa camada de pele.",
+  "description": "Uma rena enorme com pelagem espessa.",
   "dialogues": [
     "346",
     "347",
@@ -38,7 +38,7 @@
   },
   "fighter": {
     "attackNames": [
-      "Antlers"
+      "Galhada"
     ]
   },
   "glyph": {
@@ -102,5 +102,6 @@
   "tags": [
     "2",
     "9"
-  ]
+  ],
+  "feminine_form": true
 }

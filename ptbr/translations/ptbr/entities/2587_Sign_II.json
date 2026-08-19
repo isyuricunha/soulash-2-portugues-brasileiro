@@ -8,7 +8,7 @@
     "position_2d"
   ],
   "corpse": [],
-  "description": "\"Bem-vindo ao Grande Circo! Agora com ainda mais grandiosidade!\"",
+  "description": "Bem-vindos ao Grande Circo! Agora com ainda mais grandiosidade!",
   "glyph": {
     "frames": [
       {
@@ -75,5 +75,6 @@
     108,
     14
   ],
-  "name": "Placa II"
+  "name": "Placa II",
+  "feminine_form": true
 }

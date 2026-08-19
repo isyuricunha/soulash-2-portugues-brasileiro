@@ -78,9 +78,9 @@
   "moveable": {
     "speed": 1.0
   },
-  "name": "Tecelão de Micélio Mushman",
+  "name": "Tecelão de Micélio Homem-Cogumelo",
   "persona": {
-    "occupation": "Tecelão de Micélio"
+    "occupation": "Mycelium Weaver"
   },
   "sight": {
     "ignore_infra_penalty": false,

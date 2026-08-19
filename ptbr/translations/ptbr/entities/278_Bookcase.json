@@ -36,7 +36,7 @@
     "time": 30,
     "tools": []
   },
-  "description": "Grande estante de livros em pé cheia de vários livros.",
+  "description": "Grande estante vertical cheia de vários livros.",
   "glyph": {
     "frames": [
       {
@@ -76,7 +76,7 @@
     48,
     17
   ],
-  "name": "Estante de Livros",
+  "name": "Estante",
   "producer": {
     "products": {
       "core_2_deconstruct": [
@@ -91,5 +91,6 @@
       ]
     },
     "time": 10
-  }
+  },
+  "feminine_form": true
 }

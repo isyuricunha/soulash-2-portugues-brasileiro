@@ -10,7 +10,7 @@
     "value",
     "weight"
   ],
-  "description": "Parece um pouco com um cone de pinheiro enrugado.",
+  "description": "Parece um pouco com uma pinha enrugada.",
   "food": {
     "nutrition": 10,
     "on_eat": "",
@@ -40,7 +40,8 @@
     90,
     34
   ],
-  "name": "Cogumelo Morel Negro",
+  "name": "Morchela Negra",
   "value": 100,
-  "weight": 0.10000000149011612
+  "weight": 0.10000000149011612,
+  "feminine_form": true
 }

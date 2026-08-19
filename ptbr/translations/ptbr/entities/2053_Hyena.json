@@ -27,7 +27,7 @@
     "tags"
   ],
   "corpse": "2054",
-  "description": "As hienas são necrófagas oportunistas que frequentemente caçam animais menores. Quando a fome atinge o grupo ou seu território é invadido, elas podem até arriscar atacar um humanoide.",
+  "description": "Hienas são necrófagas oportunistas que frequentemente caçam animais menores. Quando a fome atinge a matilha ou seu território é invadido, elas podem até arriscar atacar um humanoide.",
   "dialogues": [
     "885",
     "2"
@@ -60,7 +60,7 @@
   },
   "fighter": {
     "attackNames": [
-      "Bite"
+      "Mordida"
     ]
   },
   "glyph": {
@@ -124,5 +124,6 @@
   "tags": [
     "2",
     "9"
-  ]
+  ],
+  "feminine_form": true
 }

@@ -38,7 +38,7 @@
       {
         "chance": 1.0,
         "id": "100",
-        "name": "Dardo",
+        "name": "Azagaia",
         "stack": 10
       }
     ],
@@ -46,7 +46,7 @@
       {
         "chance": 1.0,
         "id": "100",
-        "name": "Dardo",
+        "name": "Azagaia",
         "stack": 1
       }
     ]
@@ -85,7 +85,7 @@
   "moveable": {
     "speed": 1.2999999523162842
   },
-  "name": "Guarda Trovão",
+  "name": "Guarda do Trovão",
   "sight": {
     "ignore_infra_penalty": false,
     "infravision": true,

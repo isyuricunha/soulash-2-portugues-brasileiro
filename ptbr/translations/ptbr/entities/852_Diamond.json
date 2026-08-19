@@ -51,10 +51,11 @@
   ],
   "name": "Diamante",
   "resource": {
-    "affix": "Diamond",
+    "affix": "Diamante",
     "magic_ingredient": 0,
     "quality": 4,
-    "type": 8
+    "type": 8,
+    "feminine_affix": "diamantina"
   },
   "value": 7500,
   "weapon": {

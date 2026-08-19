@@ -43,7 +43,7 @@
     "time": 50,
     "tools": []
   },
-  "description": "Ótimo para quebrar lentamente cada osso do seu inimigo.",
+  "description": "Roda de Tortura",
   "glyph": {
     "frames": [
       {
@@ -66,7 +66,7 @@
     74,
     68
   ],
-  "name": "Roda de Quebra-Ossos",
+  "name": "Ótimo para quebrar lentamente cada osso do seu inimigo.",
   "producer": {
     "products": {
       "core_2_deconstruct": [
@@ -81,5 +81,6 @@
       ]
     },
     "time": 40
-  }
+  },
+  "feminine_form": true
 }

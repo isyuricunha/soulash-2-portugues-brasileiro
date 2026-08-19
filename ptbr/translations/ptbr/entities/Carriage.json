@@ -21,7 +21,7 @@
     "position_2d"
   ],
   "corpse": [],
-  "description": "Um veículo elegante para transportar pessoas. Parece que foi abandonado há algum tempo.",
+  "description": "Um veículo elegante para transportar pessoas. Parece ter sido abandonado há algum tempo.",
   "glyph": {
     "frames": [
       {
@@ -52,5 +52,6 @@
     48,
     17
   ],
-  "name": "Carruagem"
+  "name": "Carruagem",
+  "feminine_form": true
 }

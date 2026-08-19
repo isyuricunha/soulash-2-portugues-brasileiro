@@ -23,7 +23,7 @@
     "time": 10,
     "tools": []
   },
-  "description": "Esta cadeira única é feita de grandes pedaços de casca, proporcionando um assento robusto e com textura marcante. O encosto curvo e a base larga da cadeira oferecem suporte e conforto amplos, enquanto sua superfície iridescente brilha na luz.",
+  "description": "Esta cadeira única é feita de grandes pedaços de carapaça, fornecendo um assento resistente e com textura marcante. O encosto curvo e a base larga oferecem amplo suporte e conforto, enquanto sua superfície iridescente brilha na luz.",
   "glyph": {
     "frames": [
       {
@@ -46,7 +46,7 @@
     68,
     24
   ],
-  "name": "Cadeira de Casca",
+  "name": "Cadeira de Carapaça",
   "producer": {
     "products": {
       "core_2_deconstruct": [
@@ -61,5 +61,6 @@
       ]
     },
     "time": 20
-  }
+  },
+  "feminine_form": true
 }

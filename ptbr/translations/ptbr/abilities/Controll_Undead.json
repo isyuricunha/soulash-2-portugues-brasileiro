@@ -6,12 +6,12 @@
     "health": 0,
     "stamina": 10
   },
-  "description": "controlar mortos-vivos",
+  "description": "controla mortos-vivos",
   "duration": 0.0,
   "effects": null,
   "id": "core_2_Controll_Undead",
   "image": 816,
-  "name": "Controlar Mortos-Vivos",
+  "name": "Controlar Mortos-vivos",
   "range": 6,
   "skill": "",
   "target": "aoe_tile"

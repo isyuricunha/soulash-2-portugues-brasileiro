@@ -29,7 +29,7 @@
     "tags"
   ],
   "corpse": "589",
-  "description": "Um filhote de cachorro com olhos grandes de cachorrinho.",
+  "description": "Um filhote de cachorro com grandes olhos de cachorrinho.",
   "dialogues": [
     "654",
     "878"
@@ -88,7 +88,7 @@
   "moveable": {
     "speed": 0.699999988079071
   },
-  "name": "Filhote",
+  "name": "Cachorrinho",
   "producer": {
     "products": {
       "core_2_catch_animal": [

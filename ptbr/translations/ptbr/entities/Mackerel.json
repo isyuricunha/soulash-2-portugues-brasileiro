@@ -52,5 +52,6 @@
     "time": 0
   },
   "value": 700,
-  "weight": 3.0
+  "weight": 3.0,
+  "feminine_form": true
 }

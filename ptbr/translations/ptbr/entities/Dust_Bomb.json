@@ -40,7 +40,7 @@
       15
     ]
   },
-  "description": "Explodindo no impacto, silenciando todos próximos por um curto período de tempo.",
+  "description": "Explode no impacto, silenciando todos nas proximidades por um curto período de tempo.",
   "glyph": {
     "frames": [
       {
@@ -65,11 +65,12 @@
     133,
     109
   ],
-  "name": "Bomba de Pó",
+  "name": "Bomba de Poeira",
   "usable": {
     "ability": "core_2_Dust_Bomb",
     "recipe": ""
   },
   "value": 1500,
-  "weight": 0.20000000298023224
+  "weight": 0.20000000298023224,
+  "feminine_form": true
 }

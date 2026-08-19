@@ -50,7 +50,7 @@
     160,
     161
   ],
-  "name": "Espada Denteada",
+  "name": "Espada Dentada",
   "value": 900,
   "weapon": {
     "attack_speed": 1.0,
@@ -68,5 +68,6 @@
     "range": 1,
     "type": 1
   },
-  "weight": 2.0
+  "weight": 2.0,
+  "feminine_form": true
 }

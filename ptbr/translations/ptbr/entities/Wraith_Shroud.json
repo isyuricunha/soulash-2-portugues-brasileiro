@@ -51,10 +51,11 @@
   ],
   "name": "Sudário de Espectro",
   "resource": {
-    "affix": "of the Icebound",
+    "affix": "do Gelado",
     "magic_ingredient": 3,
     "quality": 3,
-    "type": 7
+    "type": 7,
+    "feminine_affix": "gelada"
   },
   "value": 3000,
   "weapon": {

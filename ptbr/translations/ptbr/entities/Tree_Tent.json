@@ -39,7 +39,7 @@
     "time": 20,
     "tools": []
   },
-  "description": "Pequeno local fechado de descanso, feito com galhos de árvore.",
+  "description": "Pequeno local de descanso fechado, feito com galhos de árvore.",
   "glyph": {
     "frames": [
       {
@@ -77,5 +77,6 @@
     },
     "time": 20
   },
-  "resting_place": 110
+  "resting_place": 110,
+  "feminine_form": true
 }

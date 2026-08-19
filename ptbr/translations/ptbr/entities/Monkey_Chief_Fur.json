@@ -49,12 +49,13 @@
     175,
     158
   ],
-  "name": "Pele de Chefe Macaco",
+  "name": "Pele de Chefe dos Macacos",
   "resource": {
-    "affix": "Unusual",
+    "affix": "Incomum",
     "magic_ingredient": 0,
     "quality": 2,
-    "type": 9
+    "type": 9,
+    "feminine_affix": "Incomum"
   },
   "statistics": {
     "dexterity": [
@@ -80,5 +81,6 @@
     ]
   },
   "value": 1000,
-  "weight": 0.10000000149011612
+  "weight": 0.10000000149011612,
+  "feminine_form": true
 }

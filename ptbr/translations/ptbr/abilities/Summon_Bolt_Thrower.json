@@ -6,7 +6,7 @@
     "health": 0,
     "stamina": 0
   },
-  "description": "Invoca um besteiro imóvel que irá apoiá-lo em combate.",
+  "description": "Invoca um arremessador de virotes imóvel que o apoiará em combate.",
   "duration": 40.0,
   "effects": {
     "summon_count": 1
@@ -16,7 +16,7 @@
   },
   "id": "core_2_Summon_Bolt_Thrower",
   "image": 708,
-  "name": "Invocar Arremessador de Projéteis",
+  "name": "Invocar Arremessador de Virotes",
   "range": 4,
   "skill": "",
   "target": "tile"

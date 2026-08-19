@@ -26,7 +26,7 @@
       "id": "410"
     }
   ],
-  "description": "Grama de pântano coberta por geada.",
+  "description": "Grama de pântano coberta de geada.",
   "glyph": {
     "frames": [
       {
@@ -48,5 +48,6 @@
     88,
     113
   ],
-  "name": "Grama de Pântano Congelada"
+  "name": "Grama de Pântano Congelada",
+  "feminine_form": true
 }

@@ -1,6 +1,6 @@
 {
   "id": "core_2_turn_vampire",
-  "name": "Tornar-se Vampiro",
+  "name": "Transformar em Vampiro",
   "requirements": {
     "skill": 45
   },

@@ -42,7 +42,7 @@
       {
         "chance": 1.0,
         "id": "2170",
-        "name": "Capuz de Pele",
+        "name": "Touca de Pele",
         "stack": 1
       }
     ],
@@ -50,7 +50,7 @@
       {
         "chance": 1.0,
         "id": "2175",
-        "name": "Tanga de Pele",
+        "name": "Tapa-sexo de Pele",
         "stack": 1
       }
     ],
@@ -105,9 +105,9 @@
   "moveable": {
     "speed": 1.0
   },
-  "name": "Berserker Reckless Ursan",
+  "name": "Berserker Imprudente Ursano",
   "persona": {
-    "occupation": "Berserker Reckless"
+    "occupation": "Reckless Berserker"
   },
   "sight": {
     "ignore_infra_penalty": false,

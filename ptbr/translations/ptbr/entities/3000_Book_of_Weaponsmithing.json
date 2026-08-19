@@ -25,7 +25,7 @@
     "time": 60,
     "tools": []
   },
-  "description": "Alguns segredos pesados de forja de armas estão escondidos nessas páginas.",
+  "description": "Alguns segredos pesados da arte de armeiro estão escondidos nessas páginas.",
   "glyph": {
     "frames": [
       {
@@ -50,7 +50,7 @@
     178,
     176
   ],
-  "name": "Livro de Forja de Armas",
+  "name": "Livro de Armeiro",
   "usable": {
     "ability": "",
     "recipe": "",

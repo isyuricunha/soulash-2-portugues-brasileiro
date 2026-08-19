@@ -39,7 +39,7 @@
     "tags"
   ],
   "corpse": "703",
-  "description": "Morcegos são ratos voadores das covas mais escuras. Alguns podem achá-los fofos.",
+  "description": "Morcegos são ratos voadores das fossas mais escuras. Alguns podem achá-los fofos.",
   "dialogues": [
     "28",
     "899"
@@ -50,8 +50,8 @@
   },
   "fighter": {
     "attackNames": [
-      "Bite",
-      "Wings flap"
+      "Mordida",
+      "Batida de Asas"
     ]
   },
   "glyph": {

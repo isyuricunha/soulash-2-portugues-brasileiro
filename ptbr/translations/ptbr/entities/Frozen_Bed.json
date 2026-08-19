@@ -29,7 +29,7 @@
     "time": 25,
     "tools": []
   },
-  "description": "Uma cama simples de madeira coberta por gelo e geada. Provavelmente você não conseguirá usá-la.",
+  "description": "Uma simples cama de madeira tomada por gelo e geada. Provavelmente não conseguirá usá-la.",
   "glyph": {
     "frames": [
       {
@@ -76,5 +76,6 @@
     },
     "time": 20
   },
-  "resting_place": 50
+  "resting_place": 50,
+  "feminine_form": true
 }

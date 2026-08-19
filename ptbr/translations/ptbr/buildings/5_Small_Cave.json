@@ -1,8 +1,8 @@
 {
   "id": "5",
   "image": -1,
-  "name": "Pequena Caverna",
-  "occupation": "",
+  "name": "Caverna Pequena",
+  "occupation": "-1",
   "produces": [],
   "workers": [
     0,

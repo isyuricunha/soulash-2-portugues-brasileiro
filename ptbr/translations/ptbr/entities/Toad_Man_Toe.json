@@ -23,7 +23,7 @@
     "value",
     "weight"
   ],
-  "description": "Um dedo do pé ossudo de um homem-sapo.",
+  "description": "Um dedo ósseo de um Homem-Sapo.",
   "glyph": {
     "frames": [
       {
@@ -48,12 +48,13 @@
     109,
     155
   ],
-  "name": "Dedo do Pé de Homem-Sapo",
+  "name": "Dedo de Homem-Sapo",
   "resource": {
-    "affix": "of the Toe",
+    "affix": "do Dedo",
     "magic_ingredient": 2,
     "quality": 2,
-    "type": 7
+    "type": 7,
+    "feminine_affix": "deduda"
   },
   "value": 700,
   "weight": 0.10000000149011612

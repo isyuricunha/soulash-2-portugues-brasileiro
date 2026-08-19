@@ -27,7 +27,7 @@
     "tags"
   ],
   "corpse": [],
-  "description": "Uma pequena figura com ferramentas de jardinagem e um chapéu engraçado.",
+  "description": "Uma figura pequena com ferramentas de jardinagem e um chapéu engraçado.",
   "dialogues": [
     "1035"
   ],
@@ -67,7 +67,7 @@
   },
   "fighter": {
     "attackNames": [
-      "Punch"
+      "Soco"
     ]
   },
   "glyph": {

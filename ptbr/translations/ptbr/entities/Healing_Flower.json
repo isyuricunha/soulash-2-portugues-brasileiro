@@ -8,7 +8,7 @@
     "position_2d"
   ],
   "corpse": [],
-  "description": "Flor bonita imbuída com poder de cura.",
+  "description": "Bela flor imbuída de poder de cura.",
   "glyph": {
     "frames": [
       {
@@ -30,7 +30,7 @@
     39,
     13
   ],
-  "name": "Flor de Cura",
+  "name": "Flor Curativa",
   "on_enter": {
     "ability": [
       "core_2_Healing"
@@ -38,5 +38,6 @@
     "only_player_triggers": true,
     "teleport": null,
     "trigger_chance": 1.0
-  }
+  },
+  "feminine_form": true
 }

@@ -25,7 +25,7 @@
     "tags"
   ],
   "corpse": "590",
-  "description": "Apenas uma pequena larva. Provavelmente vai crescer mais.",
+  "description": "Apenas uma larva pequena. Provavelmente vai crescer mais.",
   "dialogues": [
     "899"
   ],
@@ -127,5 +127,6 @@
   "tags": [
     "9",
     "2"
-  ]
+  ],
+  "feminine_form": true
 }

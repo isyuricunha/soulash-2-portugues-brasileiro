@@ -57,7 +57,7 @@
     165,
     32
   ],
-  "name": "Adaga Joalheira",
+  "name": "Adaga Joalhada",
   "value": 1500,
   "weapon": {
     "attack_speed": 0.800000011920929,
@@ -74,5 +74,6 @@
     "range": 1,
     "type": 3
   },
-  "weight": 0.699999988079071
+  "weight": 0.699999988079071,
+  "feminine_form": true
 }

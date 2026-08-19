@@ -9,7 +9,7 @@
     "producer",
     "weight"
   ],
-  "description": "O cadáver carbonizado de um bisonte.",
+  "description": "O cadáver carbonizado de um bisão.",
   "glyph": {
     "frames": [
       {
@@ -38,7 +38,7 @@
     98,
     64
   ],
-  "name": "Cadáver de Bisonte",
+  "name": "Cadáver de Bisão",
   "producer": {
     "products": {
       "3": [

@@ -62,7 +62,8 @@
     163,
     157
   ],
-  "name": "Armadura Poleyn",
+  "name": "Armadura de Joelheira",
   "value": 2000,
-  "weight": 2.0
+  "weight": 2.0,
+  "feminine_form": true
 }

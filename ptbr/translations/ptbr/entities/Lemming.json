@@ -26,7 +26,7 @@
     "tags"
   ],
   "corpse": "core_2_Lemming_Corpse",
-  "description": "Pequena bola fofa.",
+  "description": "Uma bolinha fofa.",
   "dialogues": [
     "2",
     "886"
@@ -82,7 +82,7 @@
   "moveable": {
     "speed": 0.8999999761581421
   },
-  "name": "Lemingue",
+  "name": "Lemming",
   "sight": {
     "ignore_infra_penalty": false,
     "infravision": false,

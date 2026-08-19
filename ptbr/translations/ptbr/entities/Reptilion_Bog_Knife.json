@@ -41,7 +41,7 @@
       {
         "chance": 1.0,
         "id": "2176",
-        "name": "Tanga",
+        "name": "tapa-sexo",
         "stack": 1
       }
     ],
@@ -88,9 +88,9 @@
   "moveable": {
     "speed": 1.100000023841858
   },
-  "name": "Reptilion Faca do Pântano",
+  "name": "Faca do Pântano Reptilion",
   "persona": {
-    "occupation": "Faca do Pântano"
+    "occupation": "Bog Knife"
   },
   "sight": {
     "ignore_infra_penalty": false,

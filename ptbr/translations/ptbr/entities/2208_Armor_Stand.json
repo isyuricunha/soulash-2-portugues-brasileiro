@@ -51,7 +51,7 @@
     "time": 60,
     "tools": []
   },
-  "description": "Um suporte projetado para exibir e armazenar armaduras.",
+  "description": "Um suporte projetado para exibir e guardar armaduras.",
   "glyph": {
     "frames": [
       {

@@ -30,7 +30,7 @@
     39,
     25
   ],
-  "name": "Festo de Linguiça",
+  "name": "Guirlanda de Linguiças",
   "producer": {
     "products": {
       "core_2_deconstruct": [
@@ -45,5 +45,6 @@
       ]
     },
     "time": 5
-  }
+  },
+  "feminine_form": true
 }

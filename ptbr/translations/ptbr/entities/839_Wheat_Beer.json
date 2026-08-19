@@ -26,7 +26,7 @@
       15
     ]
   },
-  "description": "Quando quero ir pescar, a cerveja está bem ali comigo.",
+  "description": "Quando vou pescar, a cerveja vai junto.",
   "glyph": {
     "frames": [
       {
@@ -57,5 +57,6 @@
   ],
   "name": "Cerveja de Trigo",
   "value": 1200,
-  "weight": 0.30000001192092896
+  "weight": 0.30000001192092896,
+  "feminine_form": true
 }

@@ -8,7 +8,7 @@
     "producer"
   ],
   "corpse": [],
-  "description": "Guirlanda feita com cordas pesadas trançadas juntas.",
+  "description": "Guirlanda feita com cordas pesadas trançadas entre si.",
   "glyph": {
     "frames": [
       {
@@ -39,7 +39,7 @@
     39,
     25
   ],
-  "name": "Festo de Corda",
+  "name": "Festoão de Corda",
   "producer": {
     "products": {
       "core_2_deconstruct": [

@@ -38,7 +38,7 @@
       {
         "chance": 0.4000000059604645,
         "id": "2186",
-        "name": "Malho",
+        "name": "Martelo",
         "stack": 1
       }
     ],
@@ -85,9 +85,9 @@
   "moveable": {
     "speed": 1.100000023841858
   },
-  "name": "Gnoll Estalajadeiro",
+  "name": "Estalajadeiro Gnoll",
   "persona": {
-    "occupation": "Estalajadeiro"
+    "occupation": "Innkeeper"
   },
   "sight": {
     "ignore_infra_penalty": false,

@@ -9,7 +9,7 @@
     "value",
     "weight"
   ],
-  "description": "Um dia se tornará um arbusto de morango.",
+  "description": "Crescerá e se tornará um arbusto de morango um dia.",
   "glyph": {
     "frames": [
       {
@@ -36,5 +36,6 @@
   ],
   "name": "Semente de Morango",
   "value": 150,
-  "weight": 0.019999999552965164
+  "weight": 0.019999999552965164,
+  "feminine_form": true
 }

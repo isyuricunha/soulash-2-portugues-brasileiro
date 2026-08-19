@@ -34,7 +34,7 @@
       "id": "411"
     }
   ],
-  "description": "Água Fétida",
+  "description": "Água fedorenta",
   "glyph": {
     "frames": [
       {
@@ -56,5 +56,6 @@
     32,
     82
   ],
-  "name": "Água Podre"
+  "name": "Água Podre",
+  "feminine_form": true
 }

@@ -89,7 +89,7 @@
   },
   "name": "Elfo Guardião",
   "persona": {
-    "occupation": "Guardião"
+    "occupation": "Guardian"
   },
   "sight": {
     "ignore_infra_penalty": false,

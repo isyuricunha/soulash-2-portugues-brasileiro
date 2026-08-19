@@ -30,7 +30,7 @@
     "tags"
   ],
   "corpse": "648",
-  "description": "Vermes gigantes vivem sob a areia. Rumores dizem que podem devorar um adulto inteiro.",
+  "description": "Vermes gigantes vivem sob a areia. Dizem que podem devorar um adulto de uma só vez.",
   "dialogues": [
     "899"
   ],
@@ -63,7 +63,7 @@
   },
   "fighter": {
     "attackNames": [
-      "Bite"
+      "Mordida"
     ]
   },
   "glyph": {

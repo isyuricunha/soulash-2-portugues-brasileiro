@@ -6,7 +6,7 @@
     "health": 0,
     "stamina": 12
   },
-  "description": "Realiza um ataque na frente e atrás de você ao mesmo tempo aplicando repulsão e causando ::damage de ::damage_type.",
+  "description": "Realiza um ataque à sua frente e atrás de você ao mesmo tempo aplicando repulso e causando ::damage ::damage_type.",
   "duration": 0.0,
   "effects": {
     "damage": [
@@ -19,7 +19,7 @@
   },
   "id": "core_2_Back_and_Forth",
   "image": 717,
-  "name": "Para Frente e Para Trás",
+  "name": "Ida e Volta",
   "range": 1,
   "requirements": {
     "one_of": [

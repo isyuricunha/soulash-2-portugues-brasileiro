@@ -11,7 +11,7 @@
     "value",
     "weight"
   ],
-  "description": "Uma pilha de ossos pequenos, sobras de algum banquete.",
+  "description": "Uma pilha de ossos pequenos, sobra de algum banquete.",
   "glyph": {
     "frames": [
       {
@@ -56,10 +56,11 @@
   ],
   "name": "Ossos de Pássaro",
   "resource": {
-    "affix": "Hollow",
+    "affix": "Oco",
     "magic_ingredient": 0,
     "quality": 0,
-    "type": 5
+    "type": 5,
+    "feminine_affix": "Oca"
   },
   "statistics": {
     "dexterity": [

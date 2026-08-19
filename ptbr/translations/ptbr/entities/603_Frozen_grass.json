@@ -26,7 +26,7 @@
       "id": "2"
     }
   ],
-  "description": "Grama coberta por geada.",
+  "description": "Grama coberta de geada.",
   "glyph": {
     "frames": [
       {
@@ -48,5 +48,6 @@
     88,
     113
   ],
-  "name": "Grama Congelada"
+  "name": "Grama Congelada",
+  "feminine_form": true
 }

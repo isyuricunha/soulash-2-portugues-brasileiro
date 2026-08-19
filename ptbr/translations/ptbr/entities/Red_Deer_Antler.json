@@ -24,7 +24,7 @@
     "weapon",
     "weight"
   ],
-  "description": "Chifres retos de um majestoso veado vermelho.",
+  "description": "Uma galhada reta de cervo vermelho majestoso.",
   "glyph": {
     "frames": [
       {
@@ -49,12 +49,13 @@
     204,
     187
   ],
-  "name": "Chifre de Veado Vermelho",
+  "name": "Galhada de Cervo Vermelho",
   "resource": {
-    "affix": "Majestic",
+    "affix": "Majestoso",
     "magic_ingredient": 0,
     "quality": 3,
-    "type": 5
+    "type": 5,
+    "feminine_affix": "Majestosa"
   },
   "value": 2000,
   "weapon": {
@@ -73,5 +74,6 @@
     "range": 0,
     "type": 9
   },
-  "weight": 0.10000000149011612
+  "weight": 0.10000000149011612,
+  "feminine_form": true
 }

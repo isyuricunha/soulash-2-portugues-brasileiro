@@ -1,0 +1,31 @@
+{
+  "id": "core_2_wilderness_arcane_storm",
+  "name": "Tempestade Arcana",
+  "category": "wilderness",
+  "flavor": "Uma confluência de linhas de força desestabilizou os padrões climáticos acima desta região, invocando uma tempestade anormal que crepita com energia arcana. A tempestade persiste enquanto a perturbação permanecer.",
+  "icon": 19,
+  "small_icon": 19,
+  "rarity": "uncommon",
+  "trigger": {
+    "base_probability": 0.01
+  },
+  "duration": {
+    "type": "temporary",
+    "days": [
+      5,
+      20
+    ]
+  },
+  "max_per_region": 1,
+  "restrict_biomes": [
+    "mountain",
+    "high_mountain",
+    "peak"
+  ],
+  "permanent_weather": "15",
+  "effects": [],
+  "history_events": {
+    "begin": "Uma tempestade arcana se aproxima, crepitando com raios anormais.",
+    "end": "A perturbação arcana se dissipa e os céus se limpam."
+  }
+}

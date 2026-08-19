@@ -6,7 +6,7 @@
     "health": 0,
     "stamina": 0
   },
-  "description": "Você é cercado por pétalas de flores causando ::damage de ::damage_type a tudo em um raio de ::aoe_range ao seu redor.",
+  "description": "Você está cercado por pétalas de flores causando ::damage ::damage_type em tudo dentro do alcance de ::aoe_range ao seu redor.",
   "duration": 0.0,
   "effects": {
     "aoe_break": 1,
@@ -21,7 +21,7 @@
   },
   "id": "core_2_Aura_of_Petals_Trigger",
   "image": 728,
-  "name": "Disparo da Aura de Pétalas",
+  "name": "Gatilho da Aura de Pétalas",
   "range": 0,
   "skill": "core_2_floromancy",
   "target": "aoe_self"

@@ -23,7 +23,7 @@
     "value",
     "weight"
   ],
-  "description": "Pelagem grossa e marrom de um coióte.",
+  "description": "Pelo grosso e marrom de um coiote.",
   "glyph": {
     "frames": [
       {
@@ -48,12 +48,13 @@
     175,
     158
   ],
-  "name": "Pele de Coióte",
+  "name": "Pelo de Coiote",
   "resource": {
-    "affix": "Clever",
+    "affix": "astuto",
     "magic_ingredient": 0,
     "quality": 1,
-    "type": 9
+    "type": 9,
+    "feminine_affix": "astuta"
   },
   "value": 300,
   "weight": 0.10000000149011612

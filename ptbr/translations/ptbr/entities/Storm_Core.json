@@ -1,0 +1,49 @@
+{
+  "components": [
+    "glyph",
+    "item",
+    "minimap_pixel",
+    "name",
+    "position_2d",
+    "resource",
+    "stackable",
+    "value",
+    "weight"
+  ],
+  "description": "O núcleo da tempestade é uma joia que pulsa com intenso poder elemental de raios e vento.",
+  "glyph": {
+    "frames": [
+      {
+        "color": [
+          255,
+          255,
+          255
+        ],
+        "delay": 0,
+        "index": 3390
+      }
+    ],
+    "random_frame_start": false
+  },
+  "id": "core_2_Storm_Core",
+  "item": {
+    "image": 1536,
+    "type": 16
+  },
+  "minimap_pixel": [
+    100,
+    109,
+    155
+  ],
+  "name": "Núcleo da Tempestade",
+  "resource": {
+    "affix": "da Tempestade",
+    "granted_passive": "core_2_feed_on_electricity",
+    "magic_ingredient": 5,
+    "quality": 5,
+    "type": 7,
+    "feminine_affix": "tempestuosa"
+  },
+  "value": 20000,
+  "weight": 0.10000000149011612
+}

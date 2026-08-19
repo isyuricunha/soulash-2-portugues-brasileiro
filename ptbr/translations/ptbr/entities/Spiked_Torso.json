@@ -45,7 +45,7 @@
       1
     ]
   },
-  "description": "Um torso de golem equipado com espinhos afiados.",
+  "description": "Um torso de golem equipado com piques perigosos.",
   "glyph": {
     "frames": [
       {
@@ -70,7 +70,7 @@
     160,
     161
   ],
-  "name": "Torso com Espinhos",
+  "name": "Torso com Piques",
   "value": 15000,
   "weight": 1.5
 }

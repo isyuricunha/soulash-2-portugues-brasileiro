@@ -23,7 +23,7 @@
     "time": 10,
     "tools": []
   },
-  "description": "Acabamos de encontrar um corpo na floresta e o enterramos aqui.",
+  "description": "Acabamos de encontrar um corpo no bosque e o enterramos aqui. ",
   "glyph": {
     "frames": [
       {
@@ -84,5 +84,6 @@
       ]
     },
     "time": 10
-  }
+  },
+  "feminine_form": true
 }

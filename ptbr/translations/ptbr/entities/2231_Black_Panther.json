@@ -28,7 +28,7 @@
     "weapon"
   ],
   "corpse": "2232",
-  "description": "Escura como a noite, apenas os olhos podem alertar sua presa antes que seja tarde demais.",
+  "description": "Escura como a noite, apenas os olhos podem avisar a presa antes que seja tarde demais.",
   "dialogues": [
     "580",
     "581",
@@ -63,8 +63,8 @@
   },
   "fighter": {
     "attackNames": [
-      "Scratch",
-      "Bite"
+      "Arranhão",
+      "Mordida"
     ]
   },
   "glyph": {
@@ -144,5 +144,6 @@
     "parry_bonus": 0,
     "range": 1,
     "type": 3
-  }
+  },
+  "feminine_form": true
 }

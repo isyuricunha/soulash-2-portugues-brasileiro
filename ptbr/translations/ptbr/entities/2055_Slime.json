@@ -40,7 +40,7 @@
     "tags"
   ],
   "corpse": "2167",
-  "description": "É uma massa gelatinosa sem forma. Rumores dizem que pode dissolver matéria ao toque.",
+  "description": "É uma massa amorfa e viscosa de fluido gelatinoso. Dizem que pode dissolver matéria ao toque.",
   "dialogues": [],
   "experience_gainer": {
     "exp": 0,
@@ -48,7 +48,7 @@
   },
   "fighter": {
     "attackNames": [
-      "Acid Touch"
+      "Toque Ácido"
     ]
   },
   "glyph": {
@@ -75,7 +75,7 @@
   "moveable": {
     "speed": 1.399999976158142
   },
-  "name": "Limo",
+  "name": "Slime",
   "sight": {
     "ignore_infra_penalty": false,
     "infravision": true,

@@ -35,7 +35,7 @@
       14
     ]
   },
-  "description": "A lâmina desta lança é pesada, mas equilibrada por um espigão de metal na extremidade.",
+  "description": "A lâmina desta lança é pesada, mas equilibrada por uma ponta traseira metálica.",
   "glyph": {
     "frames": [
       {
@@ -78,5 +78,6 @@
     "range": 1,
     "type": 4
   },
-  "weight": 2.5
+  "weight": 2.5,
+  "feminine_form": true
 }

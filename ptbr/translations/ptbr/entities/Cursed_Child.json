@@ -32,7 +32,7 @@
     "tags"
   ],
   "corpse": "592",
-  "description": "Certa vez uma criança gulosa, agora amaldiçoada por sua própria ganância.",
+  "description": "Antes uma criança gulosa, agora amaldiçoada por sua própria ganância.",
   "dialogues": [],
   "equipment": {
     "right_hand": [
@@ -47,7 +47,7 @@
       {
         "chance": 1.0,
         "id": "23",
-        "name": "Farrapos",
+        "name": "Trapos",
         "stack": 1
       }
     ]
@@ -58,7 +58,7 @@
   },
   "fighter": {
     "attackNames": [
-      "Punch"
+      "Soco"
     ]
   },
   "glyph": {
@@ -124,5 +124,6 @@
   },
   "tags": [
     "9"
-  ]
+  ],
+  "feminine_form": true
 }

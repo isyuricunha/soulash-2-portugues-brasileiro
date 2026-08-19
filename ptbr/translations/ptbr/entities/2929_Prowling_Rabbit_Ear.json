@@ -48,13 +48,15 @@
     104,
     91
   ],
-  "name": "Orelha de Coelho Esgueirando",
+  "name": "Orelha de Coelho à Espreita",
   "resource": {
-    "affix": "of Warmth",
+    "affix": "do Calor",
     "magic_ingredient": 1,
     "quality": 1,
-    "type": 7
+    "type": 7,
+    "feminine_affix": "quente"
   },
   "value": 200,
-  "weight": 0.10000000149011612
+  "weight": 0.10000000149011612,
+  "feminine_form": true
 }

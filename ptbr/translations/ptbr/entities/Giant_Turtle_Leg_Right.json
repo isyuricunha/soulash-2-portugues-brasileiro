@@ -43,14 +43,14 @@
     "weapon"
   ],
   "corpse": [],
-  "description": "Uma tartaruga enorme com uma casca verde-amarelada gigante.",
+  "description": "Uma tartaruga enorme com um casco gigante esverdeado-amarelado.",
   "experience_gainer": {
     "exp": 0,
     "level": 50
   },
   "fighter": {
     "attackNames": [
-      "Stomp"
+      "Pisoteio"
     ]
   },
   "glyph": {
@@ -130,5 +130,6 @@
     "parry_bonus": 2,
     "range": 1,
     "type": 9
-  }
+  },
+  "feminine_form": true
 }

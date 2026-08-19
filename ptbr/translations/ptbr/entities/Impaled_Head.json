@@ -8,7 +8,7 @@
     "position_2d"
   ],
   "corpse": [],
-  "description": "A cabeça de uma vítima infeliz empalada grotescamente em uma estaca ameaçadora.",
+  "description": "A cabeça de uma vítima infeliz empalada grotescamente em um pique ameaçador.",
   "glyph": {
     "frames": [
       {
@@ -49,5 +49,6 @@
     128,
     104
   ],
-  "name": "Cabeça Empalada"
+  "name": "Cabeça Empalada",
+  "feminine_form": true
 }

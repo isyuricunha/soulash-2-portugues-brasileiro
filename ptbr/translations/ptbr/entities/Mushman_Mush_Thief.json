@@ -96,9 +96,9 @@
   "moveable": {
     "speed": 1.0
   },
-  "name": "Ladrão de Cogumelos Mushman",
+  "name": "Homem-Cogumelo Ladrão de Cogumelo",
   "persona": {
-    "occupation": "Ladino"
+    "occupation": "Thief"
   },
   "sight": {
     "ignore_infra_penalty": false,

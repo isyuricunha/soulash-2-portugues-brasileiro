@@ -40,7 +40,7 @@
     {
       "animation": "",
       "askey": 117,
-      "description": "Corte uma árvore ou um pedaço de madeira.\n\nUse com a tecla de atalho: [color=244,247,118,255]u[/color]",
+      "description": "Derrube uma árvore ou um pedaço de madeira.\n\nUse com tecla de atalho: [color=244,247,118,255]u[/color]",
       "equipment": true,
       "id": "1",
       "image": 32,
@@ -57,12 +57,12 @@
     {
       "animation": "",
       "askey": 117,
-      "description": "Esfolar e abater o cadáver tentando adquirir recursos úteis.\n\nUse com a tecla de atalho: [color=244,247,118,255]u[/color]",
+      "description": "Esfolie e despedace o cadáver tentando obter recursos úteis.\n\nUse com tecla de atalho: [color=244,247,118,255]u[/color]",
       "equipment": true,
       "id": "3",
       "image": 17,
       "key": "u",
-      "name": "Catador",
+      "name": "Catatar",
       "required_tool": 4,
       "sound": "data/mods/core_2/assets/sfx/butchering.ogg",
       "time_statistic_multiplier": 0.1,
@@ -73,7 +73,7 @@
     {
       "animation": "",
       "askey": 117,
-      "description": "Tentar pegar um peixe na fonte de água.\n\nUse com a tecla de atalho: [color=244,247,118,255]u[/color]",
+      "description": "Tente pegar um peixe na fonte de água.\n\nUse com tecla de atalho: [color=244,247,118,255]u[/color]",
       "force_single_item": true,
       "id": "4",
       "image": 33,
@@ -89,11 +89,11 @@
     {
       "animation": "",
       "askey": 117,
-      "description": "Minerar a parede destruindo-a e tentando adquirir recursos.\n\nUse com a tecla de atalho: [color=244,247,118,255]u[/color]",
+      "description": "Minerar a parede, destruindo-a, e tentar obter recursos.\n\nUse com tecla de atalho: [color=244,247,118,255]u[/color]",
       "id": "5",
       "image": 31,
       "key": "u",
-      "name": "Mina",
+      "name": "Minerar",
       "required_tool": 9,
       "sound": "data/mods/core_2/assets/sfx/mine.ogg",
       "time_statistic_multiplier": 0.15,
@@ -104,7 +104,7 @@
     {
       "animation": "",
       "askey": 117,
-      "description": "Colher recursos do objeto selecionado.\n\nUse com a tecla de atalho: [color=244,247,118,255]u[/color]",
+      "description": "Colher recursos do objeto selecionado.\n\nUse com tecla de atalho: [color=244,247,118,255]u[/color]",
       "equipment": true,
       "id": "6",
       "image": 0,
@@ -120,7 +120,7 @@
     {
       "animation": "",
       "askey": 117,
-      "description": "Separar grãos das cascas de trigo.\n\nUse com atalho: [color=244,247,118,255]u[/color]",
+      "description": "Separar grãos da casca do trigo.\n\nUse com tecla de atalho: [color=244,247,118,255]u[/color]",
       "equipment": true,
       "id": "7",
       "image": 41,
@@ -135,7 +135,7 @@
     {
       "animation": "",
       "askey": 117,
-      "description": "Cozinhar comida para melhorar sua qualidade.\n\nUse com atalho: [color=244,247,118,255]u[/color]",
+      "description": "Cozinhar alimentos para melhorar sua qualidade.\n\nUse com tecla de atalho: [color=244,247,118,255]u[/color]",
       "equipment": true,
       "id": "9",
       "image": 42,
@@ -165,11 +165,11 @@
     {
       "animation": "",
       "askey": -1,
-      "description": "Adquirir leite do alvo selecionado.",
+      "description": "Obter leite do alvo selecionado.",
       "id": "11",
       "image": 38,
       "key": "",
-      "name": "Leite",
+      "name": "Ordenhar",
       "required_tool": -1,
       "sound": "data/mods/core_2/assets/sfx/milk.ogg",
       "time_statistic_multiplier": 0.0,
@@ -180,7 +180,7 @@
     {
       "animation": "",
       "askey": -1,
-      "description": "Cavar através da terra.\n\nUse com atalho: [color=244,247,118,255]u[/color]",
+      "description": "Cavar terra.\n\nUse com a tecla de atalho: [color=244,247,118,255]u[/color]",
       "force_single_item": true,
       "id": "12",
       "image": 43,
@@ -211,11 +211,11 @@
     {
       "animation": "",
       "askey": -1,
-      "description": "Usar uma ferramenta de Início de Fogo para acender uma entidade de Combustível em chamas.",
+      "description": "Use uma ferramenta Iniciador de Fogo para atear fogo à entidade Combustível.",
       "id": "17",
       "image": 16,
       "key": "",
-      "name": "Iniciar um Fogo",
+      "name": "Acender Fogo",
       "required_tool": 20,
       "sound": "data/mods/core_2/assets/sfx/fire_starter.ogg",
       "time_statistic_multiplier": 0,
@@ -225,7 +225,7 @@
     {
       "animation": "",
       "askey": -1,
-      "description": "Despejar água de um de seus recipientes de líquido na célula.",
+      "description": "Despejar água de um dos seus recipientes de líquido no tile.",
       "id": "19",
       "image": 58,
       "key": "",
@@ -246,7 +246,7 @@
       "description": "",
       "id": "core_2_pickpocket",
       "image": 58,
-      "name": "Furtar"
+      "name": "Bater Carteira"
     },
     {
       "description": "",
@@ -256,7 +256,7 @@
     },
     {
       "animation": "",
-      "description": "Tosquiar a ovelha para adquirir sua lã.",
+      "description": "Tosquiar a ovelha para obter sua lã.",
       "id": "core_2_shear",
       "image": 69,
       "name": "Tosquiar",
@@ -285,12 +285,12 @@
     {
       "animation": "",
       "askey": 117,
-      "description": "Plantar uma semente no chão.\n\nUse com atalho: [color=244,247,118,255]u[/color]",
+      "description": "Plantar uma semente no chão.\n\nUsar com tecla de atalho: [color=244,247,118,255]u[/color]",
       "equipment": true,
       "id": "core_2_plant",
       "image": 61,
       "key": "u",
-      "name": "Plantar",
+      "name": "Plant",
       "required_tool": -1,
       "restrict_to_own_region": true,
       "sound": "data/mods/core_2/assets/sfx/dig.ogg",
@@ -300,12 +300,12 @@
     {
       "animation": "",
       "askey": 98,
-      "description": "Pedir educadamente à árvore para se tornar útil para você.\n\nUse com atalho: [color=244,247,118,255]b[/color]",
+      "description": "Pedir educadamente à árvore que se torne útil para você.\n\nUsar com tecla de atalho: [color=244,247,118,255]b[/color]",
       "equipment": true,
       "id": "core_2_woodbend",
       "image": 77,
       "key": "b",
-      "name": "Curvar Madeira",
+      "name": "Woodbend",
       "required_tool": -1,
       "require_unlock": true,
       "restrict_default": true,
@@ -318,7 +318,7 @@
     {
       "animation": "",
       "askey": -1,
-      "description": "Pegar um animal bebê para transportá-lo para outro lugar.",
+      "description": "Capture um filhote de animal para transportá-lo para outro local.",
       "force_single_item": true,
       "require_unlock": true,
       "restrict_default": true,
@@ -335,7 +335,7 @@
     {
       "animation": "",
       "askey": -1,
-      "description": "Regar uma planta para ajudá-la a crescer mais rápido.",
+      "description": "Regue uma planta para ajudá-la a crescer mais rápido.",
       "force_single_item": true,
       "require_unlock": true,
       "restrict_default": true,
@@ -352,12 +352,12 @@
     {
       "animation": "core_2_Transformation_into_Necrotyrant",
       "askey": -1,
-      "description": "Substituir o Necrotirano e assumir o controle de sua Bastilha dos Mortos-Vivos.\n\nPode ser usado apenas nas ruínas da Bastilha dos Mortos-Vivos ao interagir com o Monólito do Despertar.",
+      "description": "Substitua o Necrotirano e assuma o controle de seu Bastião Morto-vivo.\n\nSó pode ser usado nas ruínas do Bastião Morto-vivo ao interagir com o Monolito do Despertar.",
       "force_single_item": true,
       "id": "core_2_become_necrotyrant",
       "image": 87,
       "key": "",
-      "name": "Tornar-se o Necrotirano",
+      "name": "Torne-se o Necrotirano",
       "required_tool": -1,
       "require_unlock": true,
       "restrict_default": true,
@@ -371,7 +371,7 @@
     {
       "animation": "core_2_Become_Vampire",
       "askey": -1,
-      "description": "Tornar-se um Vampiro e viver para sempre como uma criatura sedenta por sangue.\n\nPode ser usado apenas ao realizar um ritual no Altar Necrótico com Sangue de Vampiro adquirido de um Senhor Vampiro.",
+      "description": "Torne-se um Vampiro e viva para sempre como uma criatura sedenta de sangue.\n\nSó pode ser usado ao realizar um ritual no Altar Necrótico com Sangue de Vampiro obtido de um Lorde Vampiro.",
       "force_single_item": true,
       "id": "core_2_become_vampire",
       "image": 92,
@@ -393,7 +393,7 @@
     {
       "animation": "",
       "askey": -1,
-      "description": "Cortar pedaços de carne tentando adquirir recursos alquímicos úteis.",
+      "description": "Retalhe pedaços de carne tentando obter recursos alquímicos úteis.",
       "equipment": true,
       "id": "core_2_carve",
       "image": 89,
@@ -410,7 +410,7 @@
     {
       "animation": "",
       "askey": -1,
-      "description": "Fazer um desejo e ver se ele se realiza.",
+      "description": "Faça um desejo e veja se ele se realiza.",
       "force_single_item": true,
       "id": "core_2_wish",
       "image": 91,
@@ -424,7 +424,7 @@
     {
       "animation": "",
       "askey": -1,
-      "description": "Arriscar uma chance. Dizer uma prece a uma divindade desconhecida. Talvez ela te ouça.",
+      "description": "Arrisque-se. Faça uma prece a uma divindade desconhecida. Talvez ela o ouça.",
       "force_single_item": true,
       "id": "core_2_pray",
       "image": 90,
@@ -434,26 +434,42 @@
       "time_statistic_multiplier": 0.1,
       "time_statistic_scale": 2,
       "time_weight_scale": 1
+    },
+    {
+      "animation": "",
+      "askey": -1,
+      "description": "Vasculhe o recipiente para encontrar algo interessante.",
+      "force_single_item": false,
+      "id": "core_2_rummage",
+      "image": 99,
+      "name": "Vasculhar",
+      "required_tool": -1,
+      "require_unlock": true,
+      "restrict_default": true,
+      "sound": "data/mods/core_2/assets/sfx/loot_chest.ogg",
+      "time_statistic_multiplier": 0.1,
+      "time_statistic_scale": 2,
+      "time_weight_scale": 1
     }
   ],
   "control_actions": [
     {
       "id": "core_2_tame",
       "name": "Domar",
-      "description": "Use sua força de vontade para tentar domar um animal. Esta ação requer um espaço vazio para companheiro e leva 2 turnos.",
+      "description": "Use sua força de vontade para tentar domar um animal. Esta ação requer um espaço de companheiro vazio e leva 2 turnos.",
       "image": 75,
       "tags": [
         "2"
       ],
       "success_animation": "core_2_Tame_animal",
-      "success_message": "{} se torna seu novo companheiro!",
+      "success_message": "{} torna-se seu novo companheiro!",
       "failure_ability": "12",
       "failure_message": "[{}%] Você não conseguiu domar {}, ele fica enfurecido!"
     },
     {
       "id": "core_2_control_undead",
-      "name": "Controlar Morto-Vivo",
-      "description": "Use sua força de vontade para tentar tomar controle de um ser morto-vivo. Esta ação requer um espaço vazio para companheiro e leva 2 turnos.",
+      "name": "Controlar Morto-vivo",
+      "description": "Use sua força de vontade para tentar assumir o controle de um ser morto-vivo. Esta ação requer um espaço de companheiro vazio e leva 2 turnos.",
       "image": 84,
       "tags": [
         "4"
@@ -461,7 +477,7 @@
       "success_animation": "core_2_Take_Control",
       "success_message": "{} se torna seu novo companheiro!",
       "failure_ability": "",
-      "failure_message": "[{}%] Você não conseguiu tomar controle de {}."
+      "failure_message": "[{}%] Você não conseguiu assumir o controle de {}."
     }
   ],
   "races": [
@@ -476,9 +492,10 @@
         "child": "2000",
         "leader": "2203",
         "recruit": "691",
-        "rebel": "core_2_Human_Rebel"
+        "rebel": "core_2_Human_Rebel",
+        "adventurer": "core_2_Human_Adventurer"
       },
-      "description": "Criaturas versáteis e adaptáveis com uma ampla gama de habilidades e competências. Humanos têm uma vida curta em comparação com outras raças, o que alimenta seu desejo por progresso e realização. São conhecidos por sua engenhosidade, ambição e resiliência, e muitas vezes são habilidosos em várias profissões e ofícios.\n\nO medo da morte e o desejo de deixar um legado duradouro impulsionam muitos humanos a alcançar grandeza, mas também podem levar à imprudência e à ganância.\n\nHumanos vivem cerca de [color=244,247,118,255]::elder_age[/color] anos.\n[color=244,247,118,255]Todos os Atributos +1[/color]",
+      "description": "Criaturas versáteis e adaptáveis com uma ampla gama de habilidades e capacidades. Os humanos são de vida curta comparados a outras raças, o que alimenta sua ânsia por progresso e conquistas. São conhecidos por sua engenhosidade, ambição e resiliência, e frequentemente são hábeis em várias profissões e ofícios.\n\nO medo da morte e o desejo de deixar um legado duradouro impulsionam muitos humanos a alcançar a grandeza, mas também podem levá-los à imprudência e à ganância.\n\nOs humanos vivem cerca de [color=244,247,118,255]::elder_age[/color] anos.\n[color=244,247,118,255]Todos os Atributos +1[/color]",
       "forbidden_actions": [
         "6",
         "10"
@@ -566,13 +583,14 @@
         "child": "2244",
         "leader": "2417",
         "recruit": "2294",
-        "rebel": "core_2_Dwarf_Rebel"
+        "rebel": "core_2_Dwarf_Rebel",
+        "adventurer": "core_2_Dwarf_Adventurer"
       },
       "crimes": {
         "forbidden": 50,
         "murder": -1
       },
-      "description": "Criaturas baixas, robustas e resistentes com amor por mineração e artesanato.\n\nAnões são renomados por suas habilidades em metalurgia, trabalho com pedra e engenharia, além de seu forte senso de comunidade e lealdade. Eles têm um rico patrimônio cultural de folclore e canções e vivem em fortalezas nas montanhas.\n\nAnões vivem cerca de [color=244,247,118,255]::elder_age[/color] anos.\n[color=244,247,118,255]Resistência +2, Força de Vontade +2[/color]\n[color=244,247,118,255]Visão Noturna[/color] - alcance total de visão no escuro, metade à luz do dia.",
+      "description": "Criaturas baixas, robustas e resistentes, com amor pela mineração e artesanato.\n\nOs Anões são renomados por suas habilidades em metalurgia, obra em pedra e engenharia, e seu forte senso de comunidade e lealdade. Eles possuem um rico patrimônio cultural de folclore e canção e vivem em fortalezas nas montanhas.\n\nOs Anões vivem por cerca de [color=244,247,118,255]::elder_age[/color] anos.\n[color=244,247,118,255]Resistência +2, Vontade +2[/color]\n[color=244,247,118,255]Infravisão[/color] - alcance total de visão na escuridão, metade à luz do dia.",
       "forbidden_actions": [
         "5",
         "6",
@@ -589,7 +607,7 @@
         "states": "npc/states/dwarf.json",
         "surnames": "npc/surnames/dwarf.json"
       },
-      "orphan_surname": "de Pedra",
+      "orphan_surname": "da Pedra",
       "passives": [
         "core_2_infravision"
       ],
@@ -678,12 +696,13 @@
         "child": "2243",
         "leader": "2418",
         "recruit": "2295",
-        "rebel": "core_2_Elf_Rebel"
+        "rebel": "core_2_Elf_Rebel",
+        "adventurer": "core_2_Elf_Adventurer"
       },
       "crimes": {
         "forbidden": -1
       },
-      "description": "Seres graciosos e mágicos com orelhas pontudas e afinidade com a natureza. Elfos são frequentemente habilidosos em arqueria, magia e furtividade, e são conhecidos por suas longas vidas e sabedoria.\n\nElfos têm um rico patrimônio cultural de canções, danças e contação de histórias. Eles vivem em grandes árvores que cultivam a partir de uma mística Semente da Vida.\n\nElfos vivem cerca de [color=244,247,118,255]::elder_age[/color] anos.\n[color=244,247,118,255]Destreza +2, Inteligência +2[/color]",
+      "description": "Seres graciosos e mágicos com orelhas pontudas e afinidade com a natureza.\n\nOs elfos são frequentemente habilidosos em arco e flecha, magia e furtividade, e são conhecidos por suas longas vidas e sabedoria.\n\nOs elfos possuem um rico patrimônio cultural de canções, danças e contação de histórias. Vivem em grandes árvores que cultivam a partir de uma mística Semente da Vida.[color=244,247,118,255]::elder_age[/color] anos.\n[color=244,247,118,255]Destreza +2, Inteligência +2[/color]",
       "forbidden_actions": [
         "1"
       ],
@@ -764,9 +783,9 @@
       }
     },
     {
-      "description": "None",
+      "description": "Nenhum",
       "id": "3",
-      "name": "Meio-Humano",
+      "name": "Pequenino",
       "names": {
         "female": "npc/names/human_female.txt",
         "male": "npc/names/human_male.txt"
@@ -787,7 +806,8 @@
         "child": "core_2_Goblin_Child",
         "leader": "core_2_Goblin_Boss",
         "recruit": "core_2_Goblin_Recruit",
-        "rebel": "core_2_Goblin_Rebel"
+        "rebel": "core_2_Goblin_Rebel",
+        "adventurer": "core_2_Goblin_Adventurer"
       },
       "crimes": {
         "assault": 5,
@@ -795,8 +815,8 @@
         "robbery": 200,
         "stealing": 200
       },
-      "description": "Goblins são uma raça astuta e resiliente, adaptada a sobreviver no terreno acidentado e rochoso das colinas. Eles mantêm uma comunidade unida, valorizando a astúcia e a força. Sua sociedade é construída sobre uma mistura de sobrevivência e um espírito inquebrantável, tornando-os habitantes formidáveis das colinas.\n\nGoblins vivem cerca de [color=244,247,118,255]::elder_age[/color] anos.\n[color=244,247,118,255]Destreza +3, Resistência +1[/color]\n[color=244,247,118,255]Furtividade +5[/color]",
-      "orphan_surname": "Farpa",
+      "description": "Goblins são uma raça astuta e resiliente, apta a sobreviver no terreno acidentado e rochoso das colinas. Mantêm uma comunidade unida, valorizando astúcia e força. Sua sociedade é construída sobre uma mistura de sobrevivência e um espírito inabalável, tornando-os formidáveis habitantes das colinas.\n\nGoblins vivem por [color=244,247,118,255]::elder_age[/color] anos.\n[color=244,247,118,255]Destreza +3, Resistência +1[/color]\n[color=244,247,118,255]Furtividade +5[/color]",
+      "orphan_surname": "Lasca",
       "id": "4",
       "image": 1,
       "items": [],
@@ -864,7 +884,7 @@
       }
     },
     {
-      "description": "None",
+      "description": "Nenhum",
       "id": "5",
       "image": 3,
       "items": [],
@@ -894,7 +914,8 @@
         "adult": "core_2_Vampire_Adult",
         "child": "core_2_Vampire_Adult",
         "leader": "core_2_Vampire_Lord",
-        "recruit": "core_2_Vampire_Recruit"
+        "recruit": "core_2_Vampire_Recruit",
+        "adventurer": "core_2_Vampire_Adventurer"
       },
       "crimes": {
         "assault": 100,
@@ -956,7 +977,7 @@
         "strength": 1,
         "health_regen_tick": 7.0
       },
-      "description": "Ao contrário de seus primos noturnos, esses vampiros são andantes diurnos, adaptados para prosperar sob céus nublados e luz dourada. Eles são ferozes quando provocados — cavaleiros rápidos, arqueiros devastadores e duelistas aterrorizantes nas planícies abertas. Seus ancestrais falam de um tempo em que o próprio céu se curvou à sua sede.\n\nForça +1, Resistência +2, Inteligência +1\nSede e fome são substituídas por sede de sangue.\nInfravisão: ver no escuro\nRegeneração de Vida a cada 7 turnos.",
+      "description": "Ao contrário de seus primos noturnos, esses vampiros são caminhantes do dia, adaptados para prosperar sob céus nublados e luz dourada. São ferozes quando provocados — cavaleiros rápidos, arqueiros devastadores e duelistas aterrorizantes nas planícies abertas. Seus anciãos falam de um tempo em que o próprio céu se curvava à sua sede.\n\nForça +1, Resistência +2, Inteligência +1\nSede e fome são substituídas por sede de sangue.\nInfravisão: ver no escuro\nRegeneração de vida ocorre a cada 7 turnos.",
       "id": "6",
       "name": "Vampiro",
       "options": [
@@ -965,7 +986,7 @@
         "spread_vampirism"
       ],
       "image": 15,
-      "orphan_surname": "Sem Sangue",
+      "orphan_surname": "Sem-sangue",
       "names": {
         "female": "npc/names/vampire_female.txt",
         "male": "npc/names/vampire_male.txt",
@@ -995,7 +1016,8 @@
         "child": "core_2_Troll_Child",
         "leader": "core_2_Troll_Warbringer",
         "recruit": "core_2_Troll_Recruit",
-        "rebel": "core_2_Troll_Rebel"
+        "rebel": "core_2_Troll_Rebel",
+        "adventurer": "core_2_Troll_Adventurer"
       },
       "crimes": {
         "assault": 500,
@@ -1010,7 +1032,7 @@
         "17",
         "core_2_woodbend"
       ],
-      "description": "Trolls são uma raça rústica e resistente, perfeitamente adaptada ao seu ambiente rochoso e árido. Eles têm corpos musculosos e poderosos, e são ferozmente protetores de seus clãs.\n\nTrolls vivem por volta de [color=244,247,118,255]::elder_age[/color] anos.\n[color=244,247,118,255]Força +3, Resistência +2, Inteligência -4[/color]\n[color=244,247,118,255]Infravision[/color]\n[color=244,247,118,255]Regeneração de Vida mais rápida[/color]",
+      "description": "Trolls são uma raça rude e resistente, perfeitamente adaptada ao seu ambiente hostil e rochoso. Eles têm constituições poderosas e musculosas, e são ferozmente protetores de seus clãs.\n\nTrolls vivem cerca de [color=244,247,118,255]::elder_age[/color] anos.\n[color=244,247,118,255]Força +3, Resistência +2, Inteligência -4[/color]\n[color=244,247,118,255]Infravisão[/color]\n[color=244,247,118,255]Regeneração de Vida Mais Rápida[/color]",
       "id": "7",
       "image": 6,
       "items": [],
@@ -1022,7 +1044,7 @@
         "states": "npc/states/troll.json",
         "surnames": "npc/surnames/troll.json"
       },
-      "orphan_surname": "Pederneira",
+      "orphan_surname": "Flint",
       "playable": true,
       "recipes": [],
       "passives": [
@@ -1109,7 +1131,8 @@
         "child": "core_2_Orc_Child",
         "leader": "core_2_Orc_Warchief",
         "recruit": "core_2_Orc_Recruit",
-        "rebel": "core_2_Orc_Rebel"
+        "rebel": "core_2_Orc_Rebel",
+        "adventurer": "core_2_Orc_Adventurer"
       },
       "crimes": {
         "assault": 5,
@@ -1153,7 +1176,7 @@
           "image": 94
         }
       ],
-      "description": "Orcs são uma raça feroz e resistente adaptada ao terreno acidentado de sua terra natal montanhosa. Com corpos musculosos e pele grossa e calosa, eles prosperam em paisagens rochosas e desiguais. Os Orcs são uma sociedade guerreira, valorizando força, resiliência e astúcia tática. Seus líderes são geralmente escolhidos com base na proeza em combate.\n\nOrcs vivem por volta de [color=244,247,118,255]::elder_age[/color] anos.\n[color=244,247,118,255]Força +2, Resistência +2[/color]",
+      "description": "Orcs são uma raça feroz e resistente, adaptada ao terreno acidentado de sua terra natal acidentada. Com constituições musculosas e pele grossa e calosa, eles prosperam em paisagens rochosas e irregulares. Os Orcs formam uma sociedade guerreira, valorizando força, resistência e astúcia tática. Seus líderes são tipicamente escolhidos com base na proeza em combate.\n\nOrcs vivem cerca de [color=244,247,118,255]::elder_age[/color] anos.\n[color=244,247,118,255]Força +2, Resistência +2[/color]",
       "id": "8",
       "image": 7,
       "items": [],
@@ -1165,7 +1188,7 @@
         "states": "npc/states/orc.json",
         "surnames": "npc/surnames/orc.json"
       },
-      "orphan_surname": "Nascido para Batalha",
+      "orphan_surname": "Nascido na Batalha",
       "playable": true,
       "recipes": [],
       "statistics": {
@@ -1189,7 +1212,7 @@
       }
     },
     {
-      "description": "None",
+      "description": "Nenhum",
       "id": "9",
       "image": 8,
       "items": [],
@@ -1220,7 +1243,8 @@
         "child": "2412",
         "leader": "2420",
         "recruit": "2414",
-        "rebel": "core_2_Rasimi_Rebel"
+        "rebel": "core_2_Rasimi_Rebel",
+        "adventurer": "core_2_Rasimi_Adventurer"
       },
       "forbidden_actions": [
         "core_2_woodbend"
@@ -1232,7 +1256,7 @@
         "robbery": 8,
         "stealing": 6
       },
-      "description": "Humanoides felinos ágeis e ferozes que chamam as densas selvas de lar. Eles formam tribos e clãs, frequentemente envolvidos em disputas territoriais. Os Rasimi vivem em cidades construídas em árvores, caçando e coletando recursos da selva abaixo. Eles são escaladores e caçadores habilidosos, usando suas garras afiadas e dentes para derrubar presas.\n\nSua sociedade é ferozmente independente, com pouco respeito por estrangeiros. Eles têm uma rica tradição oral, passando histórias de seus ancestrais e lendas da selva.\n\nOs Rasimi acreditam em força e honra e frequentemente se envolvem em combate ritual para determinar liderança e resolver disputas. Sua cultura é selvagem e indomada, profundamente conectada ao mundo natural.\n\nRasimi vivem por volta de [color=244,247,118,255]::elder_age[/color] anos.\n[color=244,247,118,255]Destreza +2, Resistência +2[/color]\n[color=244,247,118,255]Infravision[/color] - alcance total de visão no escuro, metade à luz do dia.",
+      "description": "Humanóides felinos ferozes e ágeis que chamam as densas selvas de lar. Formam tribos e clãs, frequentemente envolvendo-se em disputas territoriais. Os Rasimi vivem em cidades construídas nas árvores, caçando e coletando recursos da selva abaixo. São escaladores e caçadores hábeis, usando suas garras e dentes afiados para abater presas.\n\nSua sociedade é ferozmente independente, com pouco respeito por forasteiros. Possuem uma rica tradição oral, transmitindo histórias de seus ancestrais e lendas da selva.\n\nOs Rasimi acreditam na força e na honra e frequentemente participam de combates rituais para determinar liderança e resolver disputas. Sua cultura é selvagem e indomada, profundamente conectada ao mundo natural.\n\nOs Rasimi vivem cerca de [color=244,247,118,255]::elder_age[/color] anos.\n[color=244,247,118,255]Destreza +2, Resistência +2[/color]\n[color=244,247,118,255]Infravisão[/color] - alcance total de visão na escuridão, metade à luz do dia.",
       "id": "10",
       "image": 9,
       "items": [],
@@ -1244,7 +1268,7 @@
         "states": "npc/states/rasimi.json",
         "surnames": "npc/surnames/rasimi.json"
       },
-      "orphan_surname": "Brutamontes",
+      "orphan_surname": "Bruto",
       "passives": [
         "core_2_infravision"
       ],
@@ -1324,7 +1348,7 @@
       "playable": false
     },
     {
-      "description": "None",
+      "description": "Nenhum",
       "id": "12",
       "name": "Troglodita",
       "names": {
@@ -1338,9 +1362,9 @@
       ]
     },
     {
-      "description": "None",
+      "description": "Nenhuma",
       "id": "13",
-      "name": "Homem-Peixe",
+      "name": "Homem-peixe",
       "names": {
         "female": "npc/names/fishman.txt",
         "male": "npc/names/fishman.txt"
@@ -1352,7 +1376,7 @@
       ]
     },
     {
-      "description": "None",
+      "description": "Nenhuma",
       "id": "14",
       "image": 44,
       "items": [],
@@ -1372,7 +1396,7 @@
       ]
     },
     {
-      "description": "None",
+      "description": "Nenhuma",
       "id": "15",
       "name": "Sátiro",
       "names": {
@@ -1386,7 +1410,7 @@
       ]
     },
     {
-      "description": "None",
+      "description": "Nenhuma",
       "id": "16",
       "image": 27,
       "name": "Centauro",
@@ -1466,7 +1490,7 @@
           "image": 134
         }
       ],
-      "description": "Esqueletos são uma raça gelada de guerreiros mortos-vivos liderados por um Necrotirano. Adaptados ao ambiente frio e severo, seus ossos são tão duros quanto o gelo que os cerca. Sua sociedade é militarista, com uma hierarquia rígida focada em guerra e conquista. Eles saqueiam terras vizinhas não apenas por recursos, mas para expandir seu império gelado.",
+      "description": "Os esqueletos são uma raça arrepiante de guerreiros mortos-vivos liderados por um Necrotirano. Adaptados ao ambiente hostil e frio, seus ossos são tão duros quanto o gelo que os cerca. Sua sociedade é militarista, com uma hierarquia estrita focada em guerra e conquista. Eles invadem terras vizinhas não apenas por recursos, mas para expandir seu império gelado.",
       "id": "17",
       "image": 15,
       "name": "Esqueleto",
@@ -1488,9 +1512,9 @@
       ]
     },
     {
-      "description": "None",
+      "description": "Nenhum",
       "id": "18",
-      "name": "Gul",
+      "name": "Carniçal",
       "names": {
         "female": "npc/names/human_female.txt",
         "male": "npc/names/human_male.txt"
@@ -1502,7 +1526,7 @@
       ]
     },
     {
-      "description": "None",
+      "description": "Nenhum",
       "id": "19",
       "name": "Dragão",
       "playable": false,
@@ -1512,7 +1536,7 @@
       ]
     },
     {
-      "description": "None",
+      "description": "Nenhum",
       "id": "20",
       "name": "Insetoide",
       "playable": false,
@@ -1522,7 +1546,7 @@
       ]
     },
     {
-      "description": "None",
+      "description": "Nenhum",
       "id": "21",
       "name": "Mutante",
       "names": {
@@ -1547,7 +1571,7 @@
         "child": 0,
         "elder": 10000
       },
-      "description": "None",
+      "description": "Nenhum",
       "id": "22",
       "name": "Zumbi",
       "names": {
@@ -1571,7 +1595,8 @@
         "child": "core_2_Reptilion_Child",
         "leader": "core_2_Reptilion_Leader",
         "recruit": "core_2_Reptilion_Recruit",
-        "rebel": "core_2_Reptilion_Rebel"
+        "rebel": "core_2_Reptilion_Rebel",
+        "adventurer": "core_2_Reptilion_Adventurer"
       },
       "crimes": {
         "assault": 100,
@@ -1582,7 +1607,7 @@
         "5",
         "15"
       ],
-      "description": "Uma raça antiga, selvagem e inteligente de humanoides répteis de sangue frio. Os Reptilions formam tribos nos pântanos. Quando não estão em guerra uns com os outros, caçam seu principal inimigo, os peixes-homens, que acreditam ser sua presa natural.\n\nOs Reptilions vivem por volta de [color=244,247,118,255]::elder_age[/color] anos.\n[color=244,247,118,255]Força +2, Destreza +2[/color]\n[color=244,247,118,255]Pesca com Garras[/color] - Pode pegar peixes com as mãos nuas.",
+      "description": "Uma raça antiga, selvagem e inteligente de humanóides reptilianos de sangue frio. Os Reptilions formam tribos nos pântanos. Quando não estão em guerra entre si, caçam seu inimigo principal, os homens-peixe, que acreditam ser sua presa natural.\n\nOs Reptilions vivem cerca de [color=244,247,118,255]::elder_age[/color] anos.\n[color=244,247,118,255]Força +2, Destreza +2[/color]\n[color=244,247,118,255]Pesca com Garras[/color] - Pode pegar peixes com as mãos nuas.",
       "id": "23",
       "items": [],
       "name": "Reptilion",
@@ -1593,7 +1618,7 @@
         "states": "npc/states/reptilion.json",
         "surnames": "npc/surnames/reptilion.json"
       },
-      "orphan_surname": "Sem Escamas",
+      "orphan_surname": "Sem-escamas",
       "playable": true,
       "recipes": [],
       "passives": [
@@ -1657,7 +1682,7 @@
       }
     },
     {
-      "description": "None",
+      "description": "Nenhum",
       "id": "24",
       "name": "Gnomo",
       "names": {
@@ -1671,7 +1696,7 @@
       ]
     },
     {
-      "description": "None",
+      "description": "Nenhum",
       "id": "25",
       "name": "Kavian",
       "playable": false,
@@ -1691,13 +1716,14 @@
         "child": "2413",
         "leader": "2419",
         "recruit": "2416",
-        "rebel": "core_2_Bone_Wraith_Rebel"
+        "rebel": "core_2_Bone_Wraith_Rebel",
+        "adventurer": "core_2_Bone_Wraith_Adventurer"
       },
-      "description": "Uma raça misteriosa e enigmática que vive no deserto inóspito. São conhecidos por sua arte óssea, uma forma única de construção que envolve o uso de ossos para criar estruturas e aprimorar seus corpos.\n\nOs Espectros de Osso são nômades, constantemente em busca de novos ossos de seres poderosos para adicionar à sua coleção. São caçadores e rastreadores habilidosos, capazes de navegar pelo deserto com facilidade.\n\nSua sociedade é estruturada em torno do poder, com os membros mais potentes e capazes sendo os mais influentes. São conhecidos por serem implacáveis e astutos e são frequentemente temidos por outros seres.\n\nOs Espectros de Osso mantêm-se reservados e revelam pouco sobre sua cultura ou crenças a estranhos.\n\nEspectros de Osso vivem por volta de [color=244,247,118,255]::elder_age[/color] anos.\n[color=244,247,118,255]Força +2, Inteligência +2[/color]",
+      "description": "Uma raça misteriosa e enigmática que vive no deserto inóspito. São conhecidos por seu artesanato ósseo, uma forma única de construção que envolve o uso de ossos para criar estruturas e aprimorar seus corpos.\n\nOs Espectros Ósseos são nômades, constantemente em busca de novos ossos de seres poderosos para adicionar à sua coleção. São caçadores e rastreadores hábeis, capazes de navegar pelo deserto com facilidade.\n\nSua sociedade é estruturada em torno do poder, com os membros mais poderosos e capazes sendo os mais influentes. São conhecidos por serem implacáveis e astutos, e são frequentemente temidos por outros seres.\n\nOs Espectros Ósseos mantêm-se reclusos e revelam pouco sobre sua cultura ou crenças aos forasteiros.\n\nOs Espectros Ósseos vivem por volta de [color=244,247,118,255]::elder_age[/color] anos.\n[color=244,247,118,255]Força +2, Inteligência +2[/color]",
       "id": "26",
       "image": 43,
       "items": [],
-      "name": "Espectro de Osso",
+      "name": "Espectro Ósseo",
       "names": {
         "female": "npc/names/bone_wraith_female.txt",
         "male": "npc/names/bone_wraith_male.txt",
@@ -1715,7 +1741,7 @@
         "10",
         "19"
       ],
-      "orphan_surname": "Os Sem Ossos",
+      "orphan_surname": "Os Sem-Ossos",
       "playable": true,
       "recipes": [],
       "settlement": {
@@ -1827,7 +1853,7 @@
       ]
     },
     {
-      "description": "None",
+      "description": "Nenhum",
       "id": "29",
       "image": 47,
       "items": [],
@@ -1877,7 +1903,8 @@
         "child": "core_2_Gnoll_Child",
         "leader": "core_2_Gnoll_Pack_Leader",
         "recruit": "core_2_Gnoll_Recruit",
-        "rebel": "core_2_Gnoll_Rebel"
+        "rebel": "core_2_Gnoll_Rebel",
+        "adventurer": "core_2_Gnoll_Adventurer"
       },
       "crimes": {
         "assault": 5,
@@ -1886,7 +1913,7 @@
         "stealing": 60
       },
       "orphan_surname": "Sem Matilha",
-      "description": "Gnolls, humanoides semelhantes a hienas, são conhecidos por serem caçadores habilidosos e guerreiros ferozes. Eles têm uma má reputação por comerem raças inteligentes, mas não fazem mais isso!\n\nEles só comem humanos agora.\n\nGnolls vivem por volta de [color=244,247,118,255]::elder_age[/color] anos.\n[color=244,247,118,255]Destreza +2, Força de Vontade +2[/color]\n[color=244,247,118,255]Visão Noturna[/color] - alcance total de visão no escuro, metade à luz do dia.",
+      "description": "Gnolls, humanoides semelhantes a hienas, são conhecidos por serem caçadores habilidosos e guerreiros ferozes. Têm má reputação por comerem raças inteligentes, mas não fazem mais isso!\n\nAgora só comem humanos.\n\nGnolls vivem cerca de [color=244,247,118,255]::elder_age[/color] anos.\n[color=244,247,118,255]Destreza +2, Vontade +2[/color]\n[color=244,247,118,255]Infravision[/color] - alcance total de visão na escuridão, metade à luz do dia.",
       "forbidden_actions": [
         "5"
       ],
@@ -1970,10 +1997,11 @@
         "child": "core_2_Mushman_Child",
         "leader": "core_2_Mushman_Circle_King",
         "recruit": "core_2_Mushman_Recruit",
-        "rebel": "core_2_Mushman_Rebel"
+        "rebel": "core_2_Mushman_Rebel",
+        "adventurer": "core_2_Mushman_Adventurer"
       },
-      "orphan_surname": "Sporeling",
-      "description": "Os Mushmen mantêm a ordem na floresta. Eles espalham esporos e criam cogumelos em todos os lugares. Eles são uma raça rara que vive subterrânea, longe do sol. Grandes redes de micélio permitem que eles permaneçam em contato com colônias em diferentes florestas.\n\nOs Mushmen vivem por volta de [color=244,247,118,255]::elder_age[/color] anos.\n[color=244,247,118,255]Força +2, Inteligência +2[/color]\n[color=244,247,118,255]Visão Noturna[/color] - alcance total de visão no escuro, metade à luz do dia.",
+      "orphan_surname": "Esporídeo",
+      "description": "Homens-cogumelo mantêm a ordem na floresta. Espalham esporos e criam cogumelos por toda parte. São uma raça rara que vive no subsolo, longe do sol. Grandes redes de micélio permitem que mantenham contato com colônias em diferentes florestas.\n\nHomens-cogumelo vivem cerca de [color=244,247,118,255]::elder_age[/color] anos.\n[color=244,247,118,255]Força +2, Inteligência +2[/color]\n[color=244,247,118,255]Infravision[/color] - alcance total de visão na escuridão, metade à luz do dia.",
       "forbidden_actions": [
         "6",
         "10"
@@ -1987,7 +2015,7 @@
       "id": "32",
       "image": 26,
       "items": [],
-      "name": "Mushman",
+      "name": "Homem-cogumelo",
       "names": {
         "female": "npc/names/mushman.txt",
         "male": "npc/names/mushman.txt",
@@ -2066,10 +2094,11 @@
         "child": "core_2_Ursan_Child",
         "leader": "core_2_Ursan_Warchief",
         "recruit": "core_2_Ursan_Recruit",
-        "rebel": "core_2_Ursan_Rebel"
+        "rebel": "core_2_Ursan_Rebel",
+        "adventurer": "core_2_Ursan_Adventurer"
       },
-      "orphan_surname": "Do Abismo",
-      "description": "Os Ursans são uma raça antiga. Eles valorizam a força física e a lealdade acima de tudo. Eles têm grande orgulho em ser capazes de suportar qualquer coisa que um ambiente hostil possa lançar contra eles. Vivendo em tundras desoladas, foram forçados a ser engenhosos.\n\nOs Ursans vivem por volta de [color=244,247,118,255]::elder_age[/color] anos.\n[color=244,247,118,255]Força +1, Resistência +1, Força de Vontade +2[/color]",
+      "orphan_surname": "do Abismo",
+      "description": "Os Ursans são uma raça antiga. Eles valorizam a força física e a lealdade acima de tudo. Têm grande orgulho de poder suportar qualquer coisa que um ambiente hostil lhes reserve. Viver em tundras desoladas os forçou a ser engenhosos.\n\nOs Ursans vivem cerca de [color=244,247,118,255]::elder_age[/color] anos.\n[color=244,247,118,255]Força +1, Resistência +1, Vontade +2[/color]",
       "forbidden_actions": [
         "6",
         "10"
@@ -2174,7 +2203,7 @@
     },
     {
       "id": "1",
-      "name": "human",
+      "name": "humano",
       "options": [
         "sleep_in_bed",
         "cover_from_weather"
@@ -2186,11 +2215,11 @@
     },
     {
       "id": "3",
-      "name": "magic"
+      "name": "magia"
     },
     {
       "id": "4",
-      "name": "undead",
+      "name": "morto-vivo",
       "options": [
         "ritual_birth",
         "damaging_healing",
@@ -2200,14 +2229,14 @@
     },
     {
       "id": "5",
-      "name": "player",
+      "name": "jogador",
       "options": [
         "player_tag"
       ]
     },
     {
       "id": "6",
-      "name": "dwarf",
+      "name": "anão",
       "options": [
         "sleep_in_bed",
         "cover_from_weather"
@@ -2215,7 +2244,7 @@
     },
     {
       "id": "7",
-      "name": "elf",
+      "name": "elfo",
       "options": [
         "sleep_in_bed",
         "cover_from_weather"
@@ -2223,15 +2252,15 @@
     },
     {
       "id": "8",
-      "name": "owlman"
+      "name": "corujano"
     },
     {
       "id": "9",
-      "name": "alive"
+      "name": "vivo"
     },
     {
       "id": "10",
-      "name": "troglodyte",
+      "name": "troglodita",
       "options": [
         "cover_from_weather"
       ]
@@ -2252,44 +2281,44 @@
     },
     {
       "id": "13",
-      "name": "fishman"
+      "name": "homem-peixe"
     },
     {
       "id": "14",
-      "name": "demon"
+      "name": "demônio"
     },
     {
       "id": "15",
-      "name": "satyr",
+      "name": "sátiro",
       "options": [
         "cover_from_weather"
       ]
     },
     {
       "id": "16",
-      "name": "centaur",
+      "name": "centauro",
       "options": [
         "cover_from_weather"
       ]
     },
     {
       "id": "17",
-      "name": "mutant",
+      "name": "mutante",
       "options": [
         "cover_from_weather"
       ]
     },
     {
       "id": "18",
-      "name": "insectoid"
+      "name": "insectoide"
     },
     {
       "id": "19",
-      "name": "dragon"
+      "name": "dragão"
     },
     {
       "id": "20",
-      "name": "skeleton",
+      "name": "esqueleto",
       "options": [
         "damaging_healing",
         "no_fatigue",
@@ -2298,14 +2327,14 @@
     },
     {
       "id": "21",
-      "name": "ghoul",
+      "name": "carniçal",
       "options": [
         "damaging_healing"
       ]
     },
     {
       "id": "22",
-      "name": "zombie",
+      "name": "zumbi",
       "options": [
         "damaging_healing",
         "no_fatigue",
@@ -2314,7 +2343,7 @@
     },
     {
       "id": "23",
-      "name": "vampire",
+      "name": "vampiro",
       "options": [
         "sleep_in_bed",
         "damaging_healing",
@@ -2323,11 +2352,11 @@
     },
     {
       "id": "24",
-      "name": "reptilion"
+      "name": "reptiliano"
     },
     {
       "id": "25",
-      "name": "halfling",
+      "name": "meio-homem",
       "options": [
         "sleep_in_bed",
         "cover_from_weather"
@@ -2335,7 +2364,7 @@
     },
     {
       "id": "26",
-      "name": "greenskin"
+      "name": "pele-verde"
     },
     {
       "id": "27",
@@ -2354,7 +2383,7 @@
     },
     {
       "id": "29",
-      "name": "gnome",
+      "name": "gnomo",
       "options": [
         "sleep_in_bed",
         "cover_from_weather"
@@ -2369,7 +2398,7 @@
     },
     {
       "id": "31",
-      "name": "god",
+      "name": "deus",
       "options": [
         "unique_entity",
         "immune_to_transformation"
@@ -2377,7 +2406,7 @@
     },
     {
       "id": "32",
-      "name": "mechanical",
+      "name": "mecânico",
       "options": [
         "no_fatigue",
         "immune_to_transformation"
@@ -2385,7 +2414,7 @@
     },
     {
       "id": "33",
-      "name": "angelic"
+      "name": "angelical"
     },
     {
       "id": "34",
@@ -2393,14 +2422,14 @@
     },
     {
       "id": "35",
-      "name": "Espectro de Osso",
+      "name": "espectro ósseo",
       "options": [
         "ritual_birth"
       ]
     },
     {
       "id": "36",
-      "name": "ursan"
+      "name": "ursano"
     },
     {
       "id": "37",
@@ -2408,24 +2437,31 @@
     },
     {
       "id": "38",
-      "name": "uncontrollable",
+      "name": "incontrolável",
       "options": [
         "immune_to_control"
       ]
     },
     {
       "id": "39",
-      "name": "Anão Negro"
+      "name": "anão sombrio"
     },
     {
       "id": "40",
-      "name": "fungus"
+      "name": "fungo"
+    },
+    {
+      "id": "41",
+      "name": "fora da lei",
+      "options": [
+        "crime_exempt"
+      ]
     }
   ],
   "custom_eq_slots": [
     {
       "id": "core_2_golem_head",
-      "name": "CABEÇA DE GOLEM",
+      "name": "Cabeça de Golem",
       "item_types": [
         26
       ],
@@ -2434,7 +2470,7 @@
     },
     {
       "id": "core_2_golem_torso",
-      "name": "TORSO DE GOLEM",
+      "name": "Torso de Golem",
       "item_types": [
         27
       ],
@@ -2443,7 +2479,7 @@
     },
     {
       "id": "core_2_golem_legs",
-      "name": "PERNAS DE GOLEM",
+      "name": "Pernas de Golem",
       "item_types": [
         28
       ],
@@ -2452,7 +2488,7 @@
     },
     {
       "id": "core_2_golem_hand",
-      "name": "MÃO DE GOLEM",
+      "name": "Mão de Golem",
       "item_types": [
         29
       ],
@@ -2470,7 +2506,7 @@
     },
     {
       "id": "core_2_meat_head",
-      "name": "CABEÇA DE CARNE",
+      "name": "Cabeça de Carne",
       "item_types": [
         32
       ],
@@ -2479,7 +2515,7 @@
     },
     {
       "id": "core_2_meat_hand",
-      "name": "MÃO DE CARNE",
+      "name": "Mão de Carne",
       "item_types": [
         34
       ],
@@ -2488,7 +2524,7 @@
     },
     {
       "id": "core_2_meat_legs",
-      "name": "PERNAS DE CARNE",
+      "name": "Pernas de Carne",
       "item_types": [
         33
       ],

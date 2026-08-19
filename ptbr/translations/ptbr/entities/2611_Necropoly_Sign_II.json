@@ -8,7 +8,7 @@
     "position_2d"
   ],
   "corpse": [],
-  "description": "Família de Lustenbaum.",
+  "description": "Família Lustenbaum.",
   "glyph": {
     "frames": [
       {
@@ -75,5 +75,6 @@
     108,
     14
   ],
-  "name": "Placa da Necrópole II"
+  "name": "Placa de Necropoly II",
+  "feminine_form": true
 }

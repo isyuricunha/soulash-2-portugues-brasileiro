@@ -30,7 +30,7 @@
     "time": 25,
     "tools": []
   },
-  "description": "Uma simples ponte de madeira, permitindo passagem fácil para o outro lado.",
+  "description": "Uma ponte de madeira simples, permitindo fácil passagem para o outro lado.",
   "glyph": {
     "frames": [
       {
@@ -75,5 +75,6 @@
       ]
     },
     "time": 20
-  }
+  },
+  "feminine_form": true
 }

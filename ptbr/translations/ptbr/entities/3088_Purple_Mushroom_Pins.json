@@ -30,7 +30,7 @@
     "time": 20,
     "tools": []
   },
-  "description": "Cogumelos roxos minúsculos. Ainda crescendo para seu tamanho total.",
+  "description": "Cogumelos roxos minúsculos. Ainda crescendo até seu tamanho completo.",
   "glyph": {
     "frames": [
       {
@@ -61,7 +61,7 @@
     90,
     253
   ],
-  "name": "Cogumelos Roxos",
+  "name": "Pinos de Cogumelo Roxo",
   "random_resource": {
     "delay_spawn": true,
     "entity": [

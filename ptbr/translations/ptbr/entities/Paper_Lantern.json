@@ -22,7 +22,7 @@
     "position_2d"
   ],
   "corpse": [],
-  "description": "Uma lanterna feita de papel e vela flutua suavemente acima do chão.",
+  "description": "Uma lanterna feita com papel e vela flutua suavemente acima do chão.",
   "glyph": {
     "frames": [
       {
@@ -58,5 +58,6 @@
     120,
     42
   ],
-  "name": "Lanterna de Papel"
+  "name": "Lanterna de Papel",
+  "feminine_form": true
 }

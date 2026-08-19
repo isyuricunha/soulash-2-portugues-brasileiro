@@ -7,7 +7,7 @@
     "position_2d",
     "producer"
   ],
-  "description": "Deslizar morro abaixo é muito divertido.",
+  "description": "Escorregar morro abaixo é uma grande diversão.",
   "glyph": {
     "frames": [
       {
@@ -32,7 +32,7 @@
     38,
     7
   ],
-  "name": "Declive de Gelo Descendente",
+  "name": "Encosta de Gelo Descendente",
   "producer": {
     "products": {
       "core_2_deconstruct": [

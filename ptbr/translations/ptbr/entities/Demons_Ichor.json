@@ -24,7 +24,7 @@
     "weapon",
     "weight"
   ],
-  "description": "Um frasco de substância escura e nojenta que parece querer sair de sua prisão.",
+  "description": "Um frasco de uma substância escura e nojenta que parece querer sair de sua prisão.",
   "glyph": {
     "frames": [
       {
@@ -51,10 +51,11 @@
   ],
   "name": "Icor de Demônio",
   "resource": {
-    "affix": "of Hell",
+    "affix": "do Inferno",
     "magic_ingredient": 3,
     "quality": 3,
-    "type": 7
+    "type": 7,
+    "feminine_affix": "infernal"
   },
   "value": 2500,
   "weapon": {

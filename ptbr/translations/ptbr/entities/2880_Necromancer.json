@@ -37,7 +37,7 @@
     "tags"
   ],
   "corpse": "25",
-  "description": "Há uma aura de mal e morte ao redor desta pessoa.",
+  "description": "Há uma aura de maldade e morte cercando esta pessoa.",
   "dialogues": [
     "635",
     "636"
@@ -63,7 +63,7 @@
       {
         "chance": 1.0,
         "id": "370",
-        "name": "Lâmina Negra",
+        "name": "Lâmina Sombria",
         "stack": 1
       }
     ],
@@ -71,7 +71,7 @@
       {
         "chance": 1.0,
         "id": "183",
-        "name": "Túnica",
+        "name": "Manto",
         "stack": 1
       }
     ]

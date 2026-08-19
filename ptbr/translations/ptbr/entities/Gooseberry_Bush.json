@@ -23,7 +23,7 @@
     "producer"
   ],
   "corpse": [],
-  "description": "Uma bagunça de ramos e pequenos espinhos pontilhados com groselhas comestíveis.",
+  "description": "Uma confusão de galhos e pequenos espinhos salpicados de groselhas comestíveis.",
   "glyph": {
     "frames": [
       {
@@ -63,7 +63,7 @@
     116,
     73
   ],
-  "name": "Arbusto de Groselha",
+  "name": "Groseleira",
   "producer": {
     "products": {
       "10": [
@@ -94,5 +94,6 @@
       ]
     },
     "time": 10
-  }
+  },
+  "feminine_form": true
 }

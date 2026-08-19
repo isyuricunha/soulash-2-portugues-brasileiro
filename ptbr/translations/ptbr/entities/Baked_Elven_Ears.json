@@ -40,7 +40,8 @@
     104,
     91
   ],
-  "name": "Orelhas de Elfo Assadas",
+  "name": "Orelhas Élficas Assadas",
   "value": 500,
-  "weight": 0.10000000149011612
+  "weight": 0.10000000149011612,
+  "feminine_form": true
 }

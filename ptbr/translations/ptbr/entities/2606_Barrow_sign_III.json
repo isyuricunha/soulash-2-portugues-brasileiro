@@ -8,7 +8,7 @@
     "position_2d"
   ],
   "corpse": [],
-  "description": "Família de Wendbenders.",
+  "description": "Família dos Wendbenders.",
   "glyph": {
     "frames": [
       {
@@ -75,5 +75,6 @@
     108,
     14
   ],
-  "name": "Placa Tumular III"
+  "name": "Placa de Tumba III",
+  "feminine_form": true
 }

@@ -46,7 +46,7 @@
     "weapon"
   ],
   "corpse": [],
-  "description": "Uma chama flamejante que pode queimar você se chegar muito perto.",
+  "description": "Uma chama ardente que pode te queimar se você chegar muito perto.",
   "dialogues": [],
   "experience_gainer": {
     "exp": 0,
@@ -54,7 +54,7 @@
   },
   "fighter": {
     "attackNames": [
-      "Burn"
+      "Queimar"
     ]
   },
   "glyph": {
@@ -71,7 +71,7 @@
     ],
     "random_frame_start": false
   },
-  "health": 90,
+  "health": 410,
   "id": "2634",
   "minimap_pixel": [
     203,
@@ -99,16 +99,16 @@
       33
     ],
     "endurance": [
-      13,
-      16
+      23,
+      26
     ],
     "intelligence": [
-      20,
-      24
+      30,
+      44
     ],
     "strength": [
-      12,
-      15
+      22,
+      35
     ],
     "willpower": [
       17,
@@ -133,5 +133,6 @@
     "parry_bonus": 0,
     "range": 6,
     "type": 5
-  }
+  },
+  "feminine_form": true
 }

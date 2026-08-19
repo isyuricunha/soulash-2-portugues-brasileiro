@@ -25,7 +25,7 @@
     "producer"
   ],
   "corpse": "2008",
-  "description": "O Bordo é uma árvore com casca marrom e folhas de forma única. Produz madeira muito valiosa para artesanato.",
+  "description": "O bordo é uma árvore com casca marrom e folhas de formato único. Produz madeira muito valiosa no artesanato.",
   "glyph": {
     "frames": [
       {
@@ -74,7 +74,7 @@
     99,
     99
   ],
-  "name": "Árvore de Bordo",
+  "name": "Bordo",
   "producer": {
     "products": {
       "1": [

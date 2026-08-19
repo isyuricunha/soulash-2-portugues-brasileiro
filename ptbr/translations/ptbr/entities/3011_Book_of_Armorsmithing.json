@@ -25,7 +25,7 @@
     "time": 60,
     "tools": []
   },
-  "description": "Alguns segredos astutos de forja de armaduras estão escondidos dentro dessas páginas.",
+  "description": "Alguns segredos artesanais de armoraria estão escondidos nestas páginas.",
   "glyph": {
     "frames": [
       {
@@ -50,7 +50,7 @@
     178,
     176
   ],
-  "name": "Livro de Armoreiro",
+  "name": "Livro de Armoraria",
   "usable": {
     "ability": "",
     "recipe": "",

@@ -29,7 +29,7 @@
     "duration": 0.0,
     "tick": 0.0
   },
-  "description": "Mecanismo de ferro escondido na grama, causa dano a seres azarados quando entram.",
+  "description": "Mecanismo de ferro escondido na grama, danifica seres azarados quando entram.",
   "glyph": {
     "frames": [
       {
@@ -50,5 +50,6 @@
     153,
     241
   ],
-  "name": "Armadilha de Urso"
+  "name": "Armadilha de Urso",
+  "feminine_form": true
 }

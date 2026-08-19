@@ -51,10 +51,11 @@
   ],
   "name": "Couro de Leopardo",
   "resource": {
-    "affix": "Leopard",
+    "affix": "Leopardo",
     "magic_ingredient": 0,
     "quality": 3,
-    "type": 2
+    "type": 2,
+    "feminine_affix": "leoparda"
   },
   "statistics": {
     "dexterity": [

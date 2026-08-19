@@ -30,7 +30,7 @@
       2
     ]
   },
-  "description": "Alguma carne moída com um pouco de cenoura.",
+  "description": "Carne moída com um pouco de cenoura.",
   "food": {
     "nutrition": 85,
     "on_eat": "",

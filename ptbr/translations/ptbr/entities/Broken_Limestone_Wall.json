@@ -32,7 +32,7 @@
     "producer"
   ],
   "corpse": [],
-  "description": "Esta é uma parede feita de calcário, agora com alguns buracos.",
+  "description": "Esta é uma parede feita de calcário, agora com alguns buracos nela.",
   "glyph": {
     "frames": [
       {
@@ -70,5 +70,6 @@
       ]
     },
     "time": 80
-  }
+  },
+  "feminine_form": true
 }

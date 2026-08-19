@@ -25,7 +25,7 @@
     "producer"
   ],
   "corpse": "61",
-  "description": "Parece um pouco com um arbusto ambicioso.",
+  "description": "Parece um pouco um arbusto excessivamente ambicioso.",
   "glyph": {
     "frames": [
       {
@@ -65,7 +65,7 @@
     93,
     40
   ],
-  "name": "Árvore de Avelã",
+  "name": "Avelaneira",
   "producer": {
     "delay_on_use": 1440,
     "products": {
@@ -109,5 +109,6 @@
       ]
     },
     "time": 20
-  }
+  },
+  "feminine_form": true
 }

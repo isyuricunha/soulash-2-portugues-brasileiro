@@ -42,7 +42,7 @@
     "tags"
   ],
   "corpse": "2076",
-  "description": "Um veado marrom claro com uma coroa de galhadas.",
+  "description": "Um wapiti marrom-claro com uma coroa de galhada.",
   "dialogues": [
     "2",
     "346",
@@ -77,7 +77,7 @@
   },
   "fighter": {
     "attackNames": [
-      "Antlers"
+      "Galhada"
     ]
   },
   "glyph": {
@@ -104,7 +104,7 @@
   "moveable": {
     "speed": 0.8999999761581421
   },
-  "name": "Veado",
+  "name": "Wapiti",
   "sight": {
     "ignore_infra_penalty": false,
     "infravision": false,

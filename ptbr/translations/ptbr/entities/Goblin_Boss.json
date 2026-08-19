@@ -50,7 +50,7 @@
       {
         "chance": 1.0,
         "id": "core_2_Hobnailed_Boots",
-        "name": "Botinas com Tachas",
+        "name": "Botas Pregadas",
         "stack": 1
       }
     ],
@@ -58,7 +58,7 @@
       {
         "chance": 1.0,
         "id": "391",
-        "name": "Capacete de Couro",
+        "name": "Elmo de Couro",
         "stack": 1
       }
     ],
@@ -111,7 +111,7 @@
   },
   "name": "Chefe Goblin",
   "persona": {
-    "occupation": "Chefe"
+    "occupation": "Boss"
   },
   "sight": {
     "ignore_infra_penalty": false,

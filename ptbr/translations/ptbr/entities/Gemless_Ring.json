@@ -41,7 +41,7 @@
       1
     ]
   },
-  "description": "Este anel parece que deveria ter uma gema, mas ela foi perdida.",
+  "description": "Este anel parece que deveria ter uma gema, mas foi perdida.",
   "glyph": {
     "frames": [
       {
@@ -66,7 +66,7 @@
     102,
     57
   ],
-  "name": "Anel sem Gema",
+  "name": "Anel Sem Gema",
   "value": 3500,
   "weight": 0.10000000149011612
 }

@@ -5,7 +5,7 @@
     "name",
     "position_2d"
   ],
-  "description": "Queimando suavemente, este bastão de incenso libera um aroma cativante que acalma os sentidos e adiciona um ar de mistério ao seu entorno.",
+  "description": "Queimando suavemente, este bastão de incenso libera um aroma cativante que acalma os sentidos e adiciona um ar de mistério ao ambiente.",
   "glyph": {
     "frames": [
       {
@@ -62,5 +62,5 @@
     157,
     45
   ],
-  "name": "Incenso Queimando"
+  "name": "Incenso Ardente"
 }

@@ -37,7 +37,7 @@
       12
     ]
   },
-  "description": "As calças justas se tornaram fashion após um bandido carismático chamado Hodin Rood vagar pelas terras usando-as.",
+  "description": "A meia-calça tornou-se moda após um bandido carismático chamado Hodin Rood percorrer as terras vestindo-a.",
   "glyph": {
     "frames": [
       {
@@ -62,7 +62,8 @@
     217,
     43
   ],
-  "name": "Collant",
+  "name": "Meia-calça",
   "value": 2000,
-  "weight": 0.5
+  "weight": 0.5,
+  "feminine_form": true
 }

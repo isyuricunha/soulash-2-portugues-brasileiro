@@ -9,7 +9,7 @@
     "value",
     "weight"
   ],
-  "description": "Com cuidado suficiente, este cone se tornará um grande cedro.",
+  "description": "Com cuidado suficiente, esta pinha crescerá e se tornará um grande cedro.",
   "glyph": {
     "frames": [
       {
@@ -34,7 +34,8 @@
     145,
     33
   ],
-  "name": "Cone de Cedro",
+  "name": "Pinha de Cedro",
   "value": 100,
-  "weight": 0.10000000149011612
+  "weight": 0.10000000149011612,
+  "feminine_form": true
 }

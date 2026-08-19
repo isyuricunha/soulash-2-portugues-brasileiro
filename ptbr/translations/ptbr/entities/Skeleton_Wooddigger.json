@@ -80,9 +80,9 @@
   "moveable": {
     "speed": 1.100000023841858
   },
-  "name": "Esqueleto Lenhador",
+  "name": "Esqueleto Escavador de Madeira",
   "persona": {
-    "occupation": "Lanhador"
+    "occupation": "Wooddigger"
   },
   "sight": {
     "ignore_infra_penalty": false,

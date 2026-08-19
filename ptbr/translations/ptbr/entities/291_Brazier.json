@@ -42,7 +42,7 @@
     "time": 20,
     "tools": []
   },
-  "description": "Este braseiro emite luz das brasas queimando dentro.",
+  "description": "Este braseiro emite luz dos carvões em brasa em seu interior.",
   "glyph": {
     "frames": [
       {
@@ -118,7 +118,7 @@
     55,
     20
   ],
-  "name": "Braseiro",
+  "name": "Brasreiro",
   "producer": {
     "products": {
       "core_2_deconstruct": [

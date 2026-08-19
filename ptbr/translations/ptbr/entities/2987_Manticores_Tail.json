@@ -11,7 +11,7 @@
     "value",
     "weight"
   ],
-  "description": "Uma cauda cortada de uma mantícora.",
+  "description": "Uma cauda cortada de uma manticora.",
   "glyph": {
     "frames": [
       {
@@ -36,12 +36,13 @@
     81,
     27
   ],
-  "name": "Cauda de Mantícora",
+  "name": "Cauda de Manticora",
   "resource": {
-    "affix": "of Mutation",
+    "affix": "da Mutação",
     "magic_ingredient": 4,
     "quality": 4,
-    "type": 7
+    "type": 7,
+    "feminine_affix": "Mutante"
   },
   "stamina": {
     "fatigue": 0,
@@ -49,5 +50,6 @@
     "stamina_regen": 0.20000000298023224
   },
   "value": 22000,
-  "weight": 0.10000000149011612
+  "weight": 0.10000000149011612,
+  "feminine_form": true
 }

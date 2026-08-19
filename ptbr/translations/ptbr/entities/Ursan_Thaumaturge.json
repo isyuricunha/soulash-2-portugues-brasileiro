@@ -80,9 +80,9 @@
   "moveable": {
     "speed": 1.2999999523162842
   },
-  "name": "Ursan Taumaturgista",
+  "name": "Ursano Taumaturgo",
   "persona": {
-    "occupation": "Taumaturgista"
+    "occupation": "Thaumaturge"
   },
   "sight": {
     "ignore_infra_penalty": false,

@@ -48,7 +48,7 @@
       15
     ]
   },
-  "description": "Uma pequena boneca de vime de aparência assustadora.",
+  "description": "Um boneco de vime de aparência um tanto assustadora.",
   "glyph": {
     "frames": [
       {
@@ -73,12 +73,13 @@
     109,
     155
   ],
-  "name": "Boneca de Vime",
+  "name": "Boneco de Vime",
   "resource": {
-    "affix": "of the Ash",
+    "affix": "da Cinza",
     "magic_ingredient": 3,
     "quality": 3,
-    "type": 7
+    "type": 7,
+    "feminine_affix": "cinzenta"
   },
   "value": 3000,
   "weapon": {

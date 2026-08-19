@@ -24,7 +24,7 @@
     "tool"
   ],
   "corpse": [],
-  "description": "Alguém fez uma fogueira com crânios de vários humanoides.",
+  "description": "Alguém fez uma fogueira com os crânios de vários humanoides.",
   "glyph": {
     "frames": [
       {
@@ -151,7 +151,7 @@
     43,
     10
   ],
-  "name": "Crânios Flamejantes",
+  "name": "Crânios em Chamas",
   "producer": {
     "products": {
       "core_2_deconstruct": [

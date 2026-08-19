@@ -29,7 +29,7 @@
       "id": "410"
     }
   ],
-  "description": "O trecho de grama do pântano aqui foi recentemente queimado com fogo.",
+  "description": "O trecho de grama de pântano aqui foi queimado com fogo recentemente.",
   "glyph": {
     "frames": [
       {
@@ -51,5 +51,6 @@
     58,
     37
   ],
-  "name": "Grama do Pântano Queimada"
+  "name": "Grama de Pântano Queimada",
+  "feminine_form": true
 }

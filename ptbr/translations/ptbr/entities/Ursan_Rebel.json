@@ -37,7 +37,7 @@
       {
         "chance": 1.0,
         "id": "2175",
-        "name": "Tanga de Pele",
+        "name": "Tapa-sexo de Pele",
         "stack": 1
       }
     ],
@@ -92,9 +92,9 @@
   "moveable": {
     "speed": 1.0
   },
-  "name": "Rebelde Ursan",
+  "name": "Rebelde Ursano",
   "persona": {
-    "occupation": "Rebelde"
+    "occupation": "Rebel"
   },
   "sight": {
     "ignore_infra_penalty": false,

@@ -37,7 +37,7 @@
       1
     ]
   },
-  "description": "Uma armadura feita de finas placas de pedra.",
+  "description": "Armadura feita de finas placas de pedra.",
   "glyph": {
     "frames": [
       {
@@ -64,5 +64,6 @@
   ],
   "name": "Armadura de Placas de Pedra",
   "value": 2300,
-  "weight": 5.0
+  "weight": 5.0,
+  "feminine_form": true
 }

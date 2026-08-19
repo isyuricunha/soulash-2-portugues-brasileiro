@@ -41,7 +41,7 @@
       15
     ]
   },
-  "description": "Você mal consegue colocar algo aí.",
+  "description": "Mal cabe algo aí dentro.",
   "glyph": {
     "frames": [
       {
@@ -56,7 +56,7 @@
     ],
     "random_frame_start": false
   },
-  "id": "core_2_Small_Cauldron_",
+  "id": "`core_2_Small_Cauldron_`",
   "item": {
     "image": 1028,
     "type": 16
@@ -66,12 +66,13 @@
     109,
     155
   ],
-  "name": "Caldeirão Pequeno",
+  "name": "Pequeno Caldeirão",
   "resource": {
-    "affix": "of the Witch",
+    "affix": "da Bruxa",
     "magic_ingredient": 3,
     "quality": 3,
-    "type": 7
+    "type": 7,
+    "feminine_affix": "bruxa"
   },
   "statistics": {
     "dexterity": [

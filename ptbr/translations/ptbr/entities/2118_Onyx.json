@@ -24,7 +24,7 @@
     "weapon",
     "weight"
   ],
-  "description": "Uma pedra preciosa bonita de cor preta brilhante.",
+  "description": "Uma bela gema de cor preta brilhante.",
   "glyph": {
     "frames": [
       {
@@ -51,10 +51,11 @@
   ],
   "name": "Ônix",
   "resource": {
-    "affix": "Onyx",
+    "affix": "Ônix",
     "magic_ingredient": 0,
     "quality": 3,
-    "type": 8
+    "type": 8,
+    "feminine_affix": "Ônix"
   },
   "value": 6000,
   "weapon": {

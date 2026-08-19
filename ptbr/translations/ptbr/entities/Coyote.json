@@ -41,7 +41,7 @@
     "weapon"
   ],
   "corpse": "core_2_Coyote_Corpse",
-  "description": "Primo próximo do lobo, mas um pouco menor.",
+  "description": "Parente próximo do lobo, mas um pouco menor.",
   "dialogues": [
     "757",
     "758",
@@ -76,8 +76,8 @@
   },
   "fighter": {
     "attackNames": [
-      "Bite",
-      "Scratch"
+      "Mordida",
+      "Arranhão"
     ]
   },
   "glyph": {
@@ -104,7 +104,7 @@
   "moveable": {
     "speed": 1.0
   },
-  "name": "Coióte",
+  "name": "Coiote",
   "sight": {
     "ignore_infra_penalty": false,
     "infravision": true,

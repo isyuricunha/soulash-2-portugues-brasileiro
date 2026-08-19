@@ -77,9 +77,9 @@
   "moveable": {
     "speed": 1.2000000476837158
   },
-  "name": "Courador Mushman",
+  "name": "Curtidor de Cogumelo",
   "persona": {
-    "occupation": "Courador"
+    "occupation": "Leatherworker"
   },
   "sight": {
     "ignore_infra_penalty": false,

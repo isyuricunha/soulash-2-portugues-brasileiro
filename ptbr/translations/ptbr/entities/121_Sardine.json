@@ -10,7 +10,7 @@
     "value",
     "weight"
   ],
-  "description": "Peixe pequeno com escamas prateadas. Geralmente muito pequeno em comprimento. Pode ser comumente encontrado na primavera.",
+  "description": "Peixe pequeno com escamas prateadas. Geralmente muito pequeno. Pode ser comumente encontrado na primavera",
   "glyph": {
     "frames": [
       {
@@ -52,5 +52,6 @@
     "time": 0
   },
   "value": 100,
-  "weight": 0.30000001192092896
+  "weight": 0.30000001192092896,
+  "feminine_form": true
 }

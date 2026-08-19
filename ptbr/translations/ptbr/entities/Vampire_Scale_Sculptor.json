@@ -79,9 +79,9 @@
   "moveable": {
     "speed": 1.5
   },
-  "name": "Vampiro Escultor de Escamas",
+  "name": "Escultor de Escamas Vampiro",
   "persona": {
-    "occupation": "Escultor de Escamas"
+    "occupation": "Scale Sculptor"
   },
   "sight": {
     "ignore_infra_penalty": false,

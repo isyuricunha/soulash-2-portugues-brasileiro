@@ -34,7 +34,7 @@
     "tags"
   ],
   "corpse": "2242",
-  "description": "Uma minúscula criatura humanoide está batendo asas coloridas semelhantes a de borboleta para permanecer no ar.",
+  "description": "Uma minúscula criatura humanoide bate asas coloridas, semelhantes a borboletas, para se manter no ar.",
   "dialogues": [],
   "equipment": {
     "ammo": [
@@ -60,7 +60,7 @@
   },
   "fighter": {
     "attackNames": [
-      "Wing Flap"
+      "Batida de Asa"
     ]
   },
   "gender": "female",
@@ -128,5 +128,6 @@
   "tags": [
     "3",
     "9"
-  ]
+  ],
+  "feminine_form": true
 }

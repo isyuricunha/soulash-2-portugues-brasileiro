@@ -38,10 +38,11 @@
   ],
   "name": "Couro de Canguru",
   "resource": {
-    "affix": "Kangaroo",
+    "affix": "Canguru",
     "magic_ingredient": 0,
     "quality": 1,
-    "type": 2
+    "type": 2,
+    "feminine_affix": "canguru"
   },
   "statistics": {
     "dexterity": [

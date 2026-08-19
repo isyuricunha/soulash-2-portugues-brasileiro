@@ -28,7 +28,7 @@
       14
     ]
   },
-  "description": "Uma lança de tamanho médio com um cabo de madeira e uma ponta de metal.",
+  "description": "Uma lança de comprimento médio com haste de madeira e ponta de metal.",
   "glyph": {
     "frames": [
       {
@@ -70,5 +70,6 @@
     "range": 1,
     "type": 4
   },
-  "weight": 2.0
+  "weight": 2.0,
+  "feminine_form": true
 }

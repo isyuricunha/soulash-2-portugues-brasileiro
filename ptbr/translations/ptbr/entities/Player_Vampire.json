@@ -68,7 +68,7 @@
   "moveable": {
     "speed": 0.8999999761581421
   },
-  "name": "Vampiro Jogador",
+  "name": "Vampiro do Jogador",
   "on_destruction": {
     "abilities": [],
     "change_entities_globally": null,
@@ -88,7 +88,7 @@
     "trigger_weather_now": false
   },
   "persona": {
-    "occupation": "Vampiro Lorde"
+    "occupation": "Vampire Lord"
   },
   "sight": {
     "ignore_infra_penalty": false,

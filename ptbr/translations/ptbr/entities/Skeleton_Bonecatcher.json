@@ -69,9 +69,9 @@
   "moveable": {
     "speed": 1.2000000476837158
   },
-  "name": "Esqueleto Catador de Ossos",
+  "name": "Coletor de Ossos Esqueleto",
   "persona": {
-    "occupation": "Catador de Ossos"
+    "occupation": "Bonecatcher"
   },
   "sight": {
     "ignore_infra_penalty": false,

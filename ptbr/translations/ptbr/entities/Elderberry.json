@@ -10,7 +10,7 @@
     "value",
     "weight"
   ],
-  "description": "Amora roxa escura e amarga.",
+  "description": "Baga amarga roxa-escura.",
   "food": {
     "nutrition": 5,
     "on_eat": "",
@@ -40,7 +40,7 @@
     130,
     50
   ],
-  "name": "Sabugueiro",
+  "name": "Sabugo",
   "value": 150,
   "weight": 0.10000000149011612
 }

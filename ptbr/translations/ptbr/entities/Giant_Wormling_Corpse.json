@@ -9,7 +9,7 @@
     "producer",
     "weight"
   ],
-  "description": "Um cadáver de minhoca gigante bebê, completamente sem vida.",
+  "description": "Um cadáver de verme gigante, completamente desprovido de vida.",
   "glyph": {
     "frames": [
       {
@@ -38,7 +38,7 @@
     128,
     104
   ],
-  "name": "Cadáver de Minhoca Gigante Bebê",
+  "name": "Cadáver de Verme Gigante",
   "producer": {
     "products": {
       "3": [

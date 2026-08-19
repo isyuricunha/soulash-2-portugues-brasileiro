@@ -20,7 +20,7 @@
     "time": 30,
     "tools": []
   },
-  "description": "Sangue jogado no ar através de pressão em tubos. Uma visão sombria.",
+  "description": "Sangue lançado ao ar pela pressão nos canos. Uma visão sombria.",
   "glyph": {
     "frames": [
       {
@@ -63,5 +63,6 @@
     37,
     37
   ],
-  "name": "Fonte de Sangue"
+  "name": "Fonte de Sangue",
+  "feminine_form": true
 }

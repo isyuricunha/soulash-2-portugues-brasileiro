@@ -37,7 +37,7 @@
       14
     ]
   },
-  "description": "Máscara primitiva de madeira com inscrições rituais.",
+  "description": "Máscara de madeira primitiva com inscrições rituais.",
   "glyph": {
     "frames": [
       {
@@ -64,5 +64,6 @@
   ],
   "name": "Máscara",
   "value": 2500,
-  "weight": 0.5
+  "weight": 0.5,
+  "feminine_form": true
 }

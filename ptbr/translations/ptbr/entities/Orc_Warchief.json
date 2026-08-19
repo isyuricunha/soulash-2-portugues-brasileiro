@@ -53,7 +53,7 @@
       {
         "chance": 1.0,
         "id": "core_2_Hobnailed_Boots",
-        "name": "Botinas com Tachas",
+        "name": "Botas Pregadas",
         "stack": 1
       }
     ],
@@ -61,7 +61,7 @@
       {
         "chance": 1.0,
         "id": "391",
-        "name": "Capacete de Couro",
+        "name": "Elmo de Couro",
         "stack": 1
       }
     ],
@@ -77,7 +77,7 @@
       {
         "chance": 1.0,
         "id": "2089",
-        "name": "Martelo Faíscante",
+        "name": "Martelo de Faísca",
         "stack": 1
       }
     ],
@@ -122,7 +122,7 @@
   },
   "name": "Chefe de Guerra Orc",
   "persona": {
-    "occupation": "Chefe de Guerra"
+    "occupation": "Warchief"
   },
   "sight": {
     "ignore_infra_penalty": false,

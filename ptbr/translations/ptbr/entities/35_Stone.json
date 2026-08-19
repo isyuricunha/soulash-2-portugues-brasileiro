@@ -61,5 +61,6 @@
     "type": 6
   },
   "value": 200,
-  "weight": 0.5
+  "weight": 0.5,
+  "feminine_form": true
 }

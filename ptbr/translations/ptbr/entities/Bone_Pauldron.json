@@ -37,7 +37,7 @@
       14
     ]
   },
-  "description": "Um simples ombro feito com fragmentos de osso.",
+  "description": "Uma espaldiera simples feita com fragmentos de osso.",
   "glyph": {
     "frames": [
       {
@@ -62,7 +62,8 @@
     46,
     17
   ],
-  "name": "Espaldeira de Osso",
+  "name": "Espaldiera de Osso",
   "value": 700,
-  "weight": 0.5
+  "weight": 0.5,
+  "feminine_form": true
 }

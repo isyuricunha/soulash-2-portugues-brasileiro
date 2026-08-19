@@ -62,5 +62,6 @@
   ],
   "name": "Capa",
   "value": 1800,
-  "weight": 0.800000011920929
+  "weight": 0.800000011920929,
+  "feminine_form": true
 }

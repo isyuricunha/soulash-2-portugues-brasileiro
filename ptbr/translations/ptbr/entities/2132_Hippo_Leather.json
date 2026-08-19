@@ -23,7 +23,7 @@
     "value",
     "weight"
   ],
-  "description": "Couro durável, bem feito de um animal volumoso.",
+  "description": "Couro durável e bem-feito de um animal corpulento.",
   "extra_weight": 1.0,
   "glyph": {
     "frames": [
@@ -51,10 +51,11 @@
   ],
   "name": "Couro de Hipopótamo",
   "resource": {
-    "affix": "Sensitive",
+    "affix": "Sensível",
     "magic_ingredient": 0,
     "quality": 2,
-    "type": 2
+    "type": 2,
+    "feminine_affix": "Sensível"
   },
   "value": 1000,
   "weight": 0.10000000149011612

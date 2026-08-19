@@ -38,7 +38,7 @@
       2
     ]
   },
-  "description": "Deliciosa carne empanada vai limpar sua mente de qualquer preocupação.",
+  "description": "Uma carne empanada deliciosa vai limpar sua cabeça de qualquer preocupação.",
   "food": {
     "nutrition": 90,
     "on_eat": "core_2_Cutlet_of_Clarity"
@@ -67,7 +67,8 @@
     78,
     54
   ],
-  "name": "Cotoleta da Clareza",
+  "name": "Costeleta de Clareza",
   "value": 1000,
-  "weight": 0.10000000149011612
+  "weight": 0.10000000149011612,
+  "feminine_form": true
 }

@@ -46,7 +46,7 @@
       11
     ]
   },
-  "description": "Um construto feito de carne em decomposição.",
+  "description": "Um constructo feito de carne podre.",
   "dialogues": [],
   "equipment": {
     "custom_slots": [
@@ -79,8 +79,8 @@
   },
   "fighter": {
     "attackNames": [
-      "Punch",
-      "Slam"
+      "Soco",
+      "Impacto"
     ]
   },
   "glyph": {

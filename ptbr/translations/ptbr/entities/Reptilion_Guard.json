@@ -98,9 +98,9 @@
   "moveable": {
     "speed": 1.0
   },
-  "name": "Guarda Reptilion",
+  "name": "Reptilion Guarda",
   "persona": {
-    "occupation": "Guarda"
+    "occupation": "Guard"
   },
   "sight": {
     "ignore_infra_penalty": false,

@@ -10,7 +10,7 @@
     "value",
     "weight"
   ],
-  "description": "Folhas planas e longas de capim elefante.",
+  "description": "Folhas planas e longas de capim-elefante.",
   "glyph": {
     "frames": [
       {
@@ -35,7 +35,7 @@
     73,
     73
   ],
-  "name": "Capim Elefante",
+  "name": "Capim-elefante",
   "resource": {
     "affix": "",
     "magic_ingredient": 0,

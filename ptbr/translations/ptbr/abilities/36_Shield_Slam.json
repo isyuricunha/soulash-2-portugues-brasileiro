@@ -6,7 +6,7 @@
     "health": 0,
     "stamina": 8
   },
-  "description": "Um ataque com um escudo que causa ::damage de dano ::damage_type e empurra o inimigo ::knockback células.",
+  "description": "Um ataque com escudo que causa ::damage ::damage_type de dano e empurra o inimigo para ::knockback tiles de distância.",
   "duration": 0.0,
   "effects": {
     "damage": [
@@ -19,7 +19,7 @@
   },
   "id": "36",
   "image": 2,
-  "name": "Esmagamento com Escudo",
+  "name": "Golpe de Escudo",
   "range": 1,
   "requirements": {
     "always": [

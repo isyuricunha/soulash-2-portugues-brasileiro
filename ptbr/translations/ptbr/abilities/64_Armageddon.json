@@ -6,7 +6,7 @@
     "health": 0,
     "stamina": 15
   },
-  "description": "Lança um enxame de meteoros na área selecionada que causa ::damage ::damage_type de dano a todos dentro.",
+  "description": "Faz chover uma saraivada de meteoros sobre a área selecionada, causando ::damage de dano ::damage_type a todos dentro dela.",
   "duration": 0.0,
   "effects": {
     "aoe_range": 4,

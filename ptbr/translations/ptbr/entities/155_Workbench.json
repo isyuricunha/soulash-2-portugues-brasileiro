@@ -22,7 +22,7 @@
     "time": 60,
     "tools": []
   },
-  "description": "Bom lugar para trabalhar.",
+  "description": "Bom lugar pra consertar e criar.",
   "glyph": {
     "frames": [
       {
@@ -43,7 +43,7 @@
     83,
     92
   ],
-  "name": "Banco de Trabalho",
+  "name": "Bancada de Trabalho",
   "producer": {
     "products": {
       "core_2_deconstruct": [

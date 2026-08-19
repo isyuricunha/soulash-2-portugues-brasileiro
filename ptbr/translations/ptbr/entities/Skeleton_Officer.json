@@ -47,7 +47,7 @@
       {
         "chance": 1.0,
         "id": "393",
-        "name": "Grande Capacete",
+        "name": "Elmo Grande",
         "stack": 1
       }
     ],
@@ -55,7 +55,7 @@
       {
         "chance": 1.0,
         "id": "402",
-        "name": "Escudo Ancestral",
+        "name": "Escudo Antigo",
         "stack": 1
       }
     ],
@@ -108,7 +108,7 @@
   },
   "name": "Esqueleto Oficial",
   "persona": {
-    "occupation": "Oficial"
+    "occupation": "Officer"
   },
   "sight": {
     "ignore_infra_penalty": false,

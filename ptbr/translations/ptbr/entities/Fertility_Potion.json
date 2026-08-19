@@ -42,7 +42,7 @@
       15
     ]
   },
-  "description": "Esta poção aumentará suas chances de ter um filho. Não, ela garantirá!",
+  "description": "Esta poção aumenta sua chance de ter um filho. Não, ela garante!",
   "glyph": {
     "frames": [
       {
@@ -67,11 +67,12 @@
     78,
     54
   ],
-  "name": "Poção de Fertilidade",
+  "name": "Poção da Fertilidade",
   "usable": {
     "ability": "core_2_Fertility_Boost",
     "recipe": ""
   },
   "value": 10000,
-  "weight": 0.10000000149011612
+  "weight": 0.10000000149011612,
+  "feminine_form": true
 }

@@ -9,7 +9,7 @@
     "producer",
     "weight"
   ],
-  "description": "Um corpo sem vida de um veado branco mítico.",
+  "description": "O corpo sem vida de um cervo branco mítico.",
   "glyph": {
     "frames": [
       {
@@ -38,7 +38,7 @@
     219,
     219
   ],
-  "name": "Cadáver de Veado Branco",
+  "name": "Cadáver de Cervo Branco",
   "producer": {
     "products": {
       "3": [

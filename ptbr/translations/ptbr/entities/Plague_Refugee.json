@@ -28,14 +28,14 @@
     "weapon"
   ],
   "corpse": "25",
-  "description": "Um sobrevivente da peste, rejeitado, mas vivo. Um pouco louco e um pouco perigoso.",
+  "description": "Um sobrevivente da peste, excluído, mas vivo. Um pouco louco, e um pouco perigoso.",
   "dialogues": [],
   "equipment": {
     "torso_cloth": [
       {
         "chance": 1.0,
         "id": "23",
-        "name": "Farrapos",
+        "name": "Farrap",
         "stack": 1
       }
     ]
@@ -46,8 +46,8 @@
   },
   "fighter": {
     "attackNames": [
-      "Bite",
-      "Scratch"
+      "Mordida",
+      "Arranhão"
     ]
   },
   "glyph": {
@@ -79,7 +79,7 @@
   },
   "name": "Refugiado da Peste",
   "persona": {
-    "occupation": "Refugiado da Peste"
+    "occupation": "Plague Refugee"
   },
   "sight": {
     "ignore_infra_penalty": false,

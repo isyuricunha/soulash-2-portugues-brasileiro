@@ -82,9 +82,9 @@
   "moveable": {
     "speed": 1.100000023841858
   },
-  "name": "Orc Sapateiro",
+  "name": "Sapateiro Orc",
   "persona": {
-    "occupation": "Sapateiro"
+    "occupation": "Shoemaker"
   },
   "sight": {
     "ignore_infra_penalty": false,

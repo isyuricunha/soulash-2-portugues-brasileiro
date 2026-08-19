@@ -27,7 +27,7 @@
     "tags"
   ],
   "corpse": "634",
-  "description": "Lagarto gigante com uma grande mandíbula parece que poderia arrancar sua cabeça com uma única mordida.",
+  "description": "Um lagarto gigante com uma grande mandíbula parece capaz de arrancar sua cabeça com uma única mordida.",
   "dialogues": [
     "198",
     "199",
@@ -62,7 +62,7 @@
   },
   "fighter": {
     "attackNames": [
-      "Bite"
+      "Mordida"
     ]
   },
   "glyph": {

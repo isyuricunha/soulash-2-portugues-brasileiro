@@ -48,7 +48,7 @@
       1
     ]
   },
-  "description": "Um torso de golem com uma fornalha em chamas dentro.",
+  "description": "O torso de um golem com uma fornalha ardendo dentro.",
   "glyph": {
     "frames": [
       {
@@ -73,7 +73,7 @@
     160,
     161
   ],
-  "name": "Torso Fornalha",
+  "name": "Torso de Fornalha",
   "usable": {
     "ability": "12",
     "recipe": ""

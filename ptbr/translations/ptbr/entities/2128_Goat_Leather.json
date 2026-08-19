@@ -11,7 +11,7 @@
     "value",
     "weight"
   ],
-  "description": "Suave e forte, o couro de cabra exala beleza natural, perfeito para confeccionar acessórios elegantes e roupas duráveis.",
+  "description": "Liso e forte, o couro de cabra exala beleza natural, perfeito para criar acessórios elegantes e vestuário duradouro.",
   "extra_weight": -0.20000000298023224,
   "glyph": {
     "frames": [
@@ -39,10 +39,11 @@
   ],
   "name": "Couro de Cabra",
   "resource": {
-    "affix": "Durable",
+    "affix": "Durável",
     "magic_ingredient": 0,
     "quality": 1,
-    "type": 2
+    "type": 2,
+    "feminine_affix": "Durável"
   },
   "statistics": {
     "dexterity": [

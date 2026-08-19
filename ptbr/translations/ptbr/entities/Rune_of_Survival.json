@@ -35,7 +35,7 @@
       1
     ]
   },
-  "description": "Runa Anã criada para imbuir seu usuário com um meio de sobrevivência.",
+  "description": "Runa anã criada para dotar seu usuário de um meio de sobrevivência.",
   "glyph": {
     "frames": [
       {
@@ -62,10 +62,11 @@
   ],
   "name": "Runa de Sobrevivência",
   "resource": {
-    "affix": "of the Survival",
+    "affix": "da Sobrevivência",
     "magic_ingredient": 3,
     "quality": 3,
-    "type": 7
+    "type": 7,
+    "feminine_affix": "sobrevivente"
   },
   "statistics": {
     "dexterity": [
@@ -91,5 +92,6 @@
     ]
   },
   "value": 4500,
-  "weight": 0.10000000149011612
+  "weight": 0.10000000149011612,
+  "feminine_form": true
 }

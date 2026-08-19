@@ -63,5 +63,6 @@
   ],
   "name": "Túnica de Couro",
   "value": 1400,
-  "weight": 1.0
+  "weight": 1.0,
+  "feminine_form": true
 }

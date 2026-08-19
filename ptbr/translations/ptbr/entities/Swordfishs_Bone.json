@@ -11,7 +11,7 @@
     "value",
     "weight"
   ],
-  "description": "Este osso flexível já esteve dentro de um poderoso peixe-espada.",
+  "description": "Este osso maleável já esteve dentro de um peixe-espada poderoso.",
   "glyph": {
     "frames": [
       {
@@ -36,12 +36,13 @@
     109,
     155
   ],
-  "name": "Osso de Peixe-Espada",
+  "name": "Osso de Peixe-espada",
   "resource": {
-    "affix": "Swordfish",
+    "affix": "do Peixe-espada",
     "magic_ingredient": 0,
     "quality": 3,
-    "type": 5
+    "type": 5,
+    "feminine_affix": "peixe-espada"
   },
   "statistics": {
     "dexterity": [

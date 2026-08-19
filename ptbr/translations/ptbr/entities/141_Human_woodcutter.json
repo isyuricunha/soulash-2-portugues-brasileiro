@@ -81,9 +81,9 @@
   "moveable": {
     "speed": 1.100000023841858
   },
-  "name": "Humano Lenhador",
+  "name": "Lenhador Humano",
   "persona": {
-    "occupation": "Lanhador"
+    "occupation": "Woodcutter"
   },
   "sight": {
     "ignore_infra_penalty": false,

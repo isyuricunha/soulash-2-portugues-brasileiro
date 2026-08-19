@@ -24,7 +24,7 @@
     "producer"
   ],
   "corpse": [],
-  "description": "Era uma árvore comum, que ficou por muito tempo em água turva.",
+  "description": "Antes uma árvore comum, que ficou por tempo demais em águas turvas.",
   "glyph": {
     "frames": [
       {
@@ -130,5 +130,6 @@
       ]
     },
     "time": 30
-  }
+  },
+  "feminine_form": true
 }

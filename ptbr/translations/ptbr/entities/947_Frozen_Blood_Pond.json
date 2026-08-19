@@ -43,7 +43,7 @@
       "id": "946"
     }
   ],
-  "description": "Uma poça congelada de sangue.",
+  "description": "Uma poça de sangue congelada.",
   "glyph": {
     "frames": [
       {
@@ -65,5 +65,6 @@
     62,
     57
   ],
-  "name": "Poça de Sangue Congelado"
+  "name": "Poça de Sangue Congelada",
+  "feminine_form": true
 }

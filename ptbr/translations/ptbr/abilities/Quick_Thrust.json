@@ -6,7 +6,7 @@
     "health": 0,
     "stamina": 3
   },
-  "description": "Execute um ataque rápido de estocada no seu oponente, causando ::damage de dano ::damage_type.",
+  "description": "Execute um ataque de estocada rápido contra seu oponente, causando ::damage de dano ::damage_type.",
   "duration": 0.0,
   "effects": {
     "damage": [
@@ -18,7 +18,7 @@
   },
   "id": "176",
   "image": 88,
-  "name": "Investida Rápida",
+  "name": "Estocada Rápida",
   "range": 1,
   "requirements": {
     "one_of": [

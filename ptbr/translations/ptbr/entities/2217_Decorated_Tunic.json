@@ -40,7 +40,7 @@
       12
     ]
   },
-  "description": "Uma túnica finamente elaborada adornada com bordados intricados e enfeites, exibindo o status e a riqueza do usuário.",
+  "description": "Uma túnica finamente trabalhada, adornada com bordados intrincados e enfeites, exibindo o status e a riqueza de quem a usa.",
   "glyph": {
     "frames": [
       {
@@ -67,5 +67,6 @@
   ],
   "name": "Túnica Decorada",
   "value": 9000,
-  "weight": 1.0
+  "weight": 1.0,
+  "feminine_form": true
 }

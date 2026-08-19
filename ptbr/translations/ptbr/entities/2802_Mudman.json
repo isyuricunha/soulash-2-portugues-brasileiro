@@ -28,7 +28,7 @@
     "weapon"
   ],
   "corpse": "2764",
-  "description": "Uma forma vagamente humanoide coberta por lama pegajosa.",
+  "description": "Uma forma vagamente humanoide coberta de lama pegajosa.",
   "dialogues": [
     "598",
     "599"
@@ -39,7 +39,7 @@
   },
   "fighter": {
     "attackNames": [
-      "Mud Throw"
+      "Arremesso de Lama"
     ]
   },
   "glyph": {

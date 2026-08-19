@@ -79,9 +79,9 @@
   "moveable": {
     "speed": 1.100000023841858
   },
-  "name": "Dobrador de Metais Elfo",
+  "name": "Dobrador de Metal Elfo",
   "persona": {
-    "occupation": "Dobrador de Metais"
+    "occupation": "Metalbender"
   },
   "sight": {
     "ignore_infra_penalty": false,

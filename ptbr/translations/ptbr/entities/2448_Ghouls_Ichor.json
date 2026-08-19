@@ -11,7 +11,7 @@
     "weapon",
     "weight"
   ],
-  "description": "Uma substância vil e pútrida, a essência dos mortos-vivos amaldiçoados. Este icor esverdeado e doentio exsuda decadência e corrupção, um testemunho da natureza repulsiva dos ghouls.",
+  "description": "Uma substância vil e pútrida, a essência dos mortos-vivos amaldiçoados. Este ícor verde-doentio exala decomposição e corrupção, um testemunho da natureza hedionda dos necrófagos.",
   "glyph": {
     "frames": [
       {
@@ -36,12 +36,13 @@
     109,
     155
   ],
-  "name": "Icor de Ghoul",
+  "name": "Ícor de Necrófago",
   "resource": {
-    "affix": "of Death",
+    "affix": "da Morte",
     "magic_ingredient": 2,
     "quality": 2,
-    "type": 7
+    "type": 7,
+    "feminine_affix": "mortal"
   },
   "value": 800,
   "weapon": {

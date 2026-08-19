@@ -9,7 +9,7 @@
     "value",
     "weight"
   ],
-  "description": "Um dia se tornará uma bela planta de algodão.",
+  "description": "Um dia nascerá uma bela planta de algodão.",
   "glyph": {
     "frames": [
       {
@@ -36,5 +36,6 @@
   ],
   "name": "Semente de Algodão",
   "value": 400,
-  "weight": 0.10000000149011612
+  "weight": 0.10000000149011612,
+  "feminine_form": true
 }

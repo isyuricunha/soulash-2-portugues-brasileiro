@@ -6,7 +6,7 @@
     "health": 0,
     "stamina": 0
   },
-  "description": "Peixe assado saboroso concede +::endurance de Resistência e +::willpower de Força de Vontade por ::duration turnos.",
+  "description": "Peixe assado saboroso concede +::endurance Resistência e +::willpower Vontade por ::duration turnos.",
   "duration": 600.0,
   "effects": {
     "endurance": 1,

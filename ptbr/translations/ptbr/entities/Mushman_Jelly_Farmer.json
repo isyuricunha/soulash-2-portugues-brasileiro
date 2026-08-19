@@ -103,9 +103,9 @@
   "moveable": {
     "speed": 1.5
   },
-  "name": "Fazendeiro de Geléia Mushman",
+  "name": "Fazendeiro de Geleia de Cogumelo",
   "persona": {
-    "occupation": "Fazendeiro de Geléia Terrestre"
+    "occupation": "Ground Jelly Farmer"
   },
   "sight": {
     "ignore_infra_penalty": false,

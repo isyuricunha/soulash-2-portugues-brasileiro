@@ -29,7 +29,7 @@
       14
     ]
   },
-  "description": "Bestas oferecem dano pesado ao custo de longos recarregamentos.",
+  "description": "Bestas oferecem dano pesado ao custo de recargas longas.",
   "glyph": {
     "frames": [
       {
@@ -73,5 +73,6 @@
     "range": 10,
     "type": 7
   },
-  "weight": 3.0
+  "weight": 3.0,
+  "feminine_form": true
 }

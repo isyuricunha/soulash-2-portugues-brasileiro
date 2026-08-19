@@ -34,7 +34,7 @@
     "weapon"
   ],
   "corpse": "2437",
-  "description": "Uma serpente venenosa conhecida por sua aparência com capuz e seu assobio ameaçador.",
+  "description": "Uma serpente venenosa conhecida por sua aparência encapuzada e chiado ameaçador.",
   "dialogues": [
     "365",
     "887"
@@ -66,7 +66,7 @@
   },
   "fighter": {
     "attackNames": [
-      "Bite"
+      "Mordida"
     ]
   },
   "glyph": {
@@ -146,5 +146,6 @@
     "parry_bonus": 0,
     "range": 1,
     "type": 10
-  }
+  },
+  "feminine_form": true
 }

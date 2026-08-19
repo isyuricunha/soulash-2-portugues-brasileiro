@@ -47,7 +47,7 @@
       {
         "chance": 1.0,
         "id": "2300",
-        "name": "Maça Escamada",
+        "name": "Maça de Escamas",
         "stack": 1
       }
     ]
@@ -86,9 +86,9 @@
   "moveable": {
     "speed": 0.8999999761581421
   },
-  "name": "Rasimi Rebelde",
+  "name": "Rebelde Rasimi",
   "persona": {
-    "occupation": "Rebelde"
+    "occupation": "Rebel"
   },
   "sight": {
     "ignore_infra_penalty": false,

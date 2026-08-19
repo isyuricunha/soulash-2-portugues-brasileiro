@@ -20,7 +20,7 @@
     "time": 40,
     "tools": []
   },
-  "description": "Uma escadaria que leva para baixo esculpida no gelo mais puro.",
+  "description": "Uma escada descendente esculpida no gelo mais puro.",
   "glyph": {
     "frames": [
       {
@@ -45,7 +45,7 @@
     157,
     188
   ],
-  "name": "Escadas de Gelo Descendente",
+  "name": "Escadas de Gelo Descendentes",
   "producer": {
     "products": {
       "core_2_deconstruct": [
@@ -60,5 +60,6 @@
       ]
     },
     "time": 20
-  }
+  },
+  "feminine_form": true
 }

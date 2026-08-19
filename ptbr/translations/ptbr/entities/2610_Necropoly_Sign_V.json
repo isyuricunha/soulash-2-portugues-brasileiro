@@ -8,7 +8,7 @@
     "position_2d"
   ],
   "corpse": [],
-  "description": "Família de Ulfahr. Apenas nos deixe em paz!",
+  "description": "Família Ulfahr. Deixem-nos em paz!",
   "glyph": {
     "frames": [
       {
@@ -75,5 +75,6 @@
     108,
     14
   ],
-  "name": "Placa da Necrópole V"
+  "name": "Placa de Necropoly V",
+  "feminine_form": true
 }

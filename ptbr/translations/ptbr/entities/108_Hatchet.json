@@ -29,7 +29,7 @@
       1
     ]
   },
-  "description": "Esta arma foi projetada para abater o maior número de árvores possível.",
+  "description": "Esta arma foi projetada para abater o maior número possível de árvores.",
   "glyph": {
     "frames": [
       {
@@ -54,7 +54,7 @@
     160,
     161
   ],
-  "name": "Machadinha",
+  "name": "Machado",
   "tool": [
     {
       "id": 13,

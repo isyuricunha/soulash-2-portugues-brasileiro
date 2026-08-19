@@ -32,7 +32,7 @@
       1
     ]
   },
-  "description": "Uma alma de uma fênix eterna infundida em uma lâmina de metal. Esta arma pode explodir em chamas pela pura vontade do portador.",
+  "description": "A alma de uma fênix eterna infundida em uma lâmina de metal. Esta arma pode irromper em chamas pela mera vontade de seu portador.",
   "glyph": {
     "frames": [
       {
@@ -107,5 +107,6 @@
     "range": 1,
     "type": 1
   },
-  "weight": 2.0
+  "weight": 2.0,
+  "feminine_form": true
 }

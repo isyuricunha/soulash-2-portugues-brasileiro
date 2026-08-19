@@ -45,7 +45,7 @@
     "tags"
   ],
   "corpse": "830",
-  "description": "Uma besta bem treinada que ajuda os humanoides a caçar animais.",
+  "description": "Uma fera bem treinada que ajuda humanoides a caçar animais.",
   "dialogues": [
     "348",
     "349",
@@ -79,8 +79,8 @@
   },
   "fighter": {
     "attackNames": [
-      "Bite",
-      "Paw"
+      "Mordida",
+      "Pata"
     ]
   },
   "glyph": {

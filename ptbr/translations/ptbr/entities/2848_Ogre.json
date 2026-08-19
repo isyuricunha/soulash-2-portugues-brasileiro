@@ -31,7 +31,7 @@
     "tags"
   ],
   "corpse": "2651",
-  "description": "Um gigante imponente notório por seu temperamento explosivo.",
+  "description": "Um gigante corpulento notório por seu temperamento explosivo.",
   "dialogues": [
     "618",
     "619"
@@ -47,7 +47,7 @@
       {
         "chance": 1.0,
         "id": "2176",
-        "name": "Tanga",
+        "name": "Tapasexo",
         "stack": 1
       }
     ],
@@ -55,7 +55,7 @@
       {
         "chance": 1.0,
         "id": "2300",
-        "name": "Maça Escamada",
+        "name": "Maça de Escamas",
         "stack": 1
       }
     ],
@@ -74,7 +74,7 @@
   },
   "fighter": {
     "attackNames": [
-      "Whack"
+      "Pancada"
     ]
   },
   "glyph": {

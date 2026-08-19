@@ -25,7 +25,7 @@
     "tags"
   ],
   "corpse": "2766",
-  "description": "Parece estar caçando cenouras.",
+  "description": "Parece que está caçando cenouras.",
   "dialogues": [
     "2",
     "896"
@@ -80,7 +80,7 @@
   "moveable": {
     "speed": 0.8999999761581421
   },
-  "name": "Coelho Esgueirando",
+  "name": "Coelho Rondante",
   "sight": {
     "ignore_infra_penalty": false,
     "infravision": false,

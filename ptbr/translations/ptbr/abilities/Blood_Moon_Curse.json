@@ -1,0 +1,20 @@
+{
+  "animation": "",
+  "cast_time": 0.0,
+  "cooldown": 0.0,
+  "cost": {
+    "health": 0,
+    "stamina": 0
+  },
+  "description": "A luz carmesim da lua de sangue fortalece os mortos-vivos, concedendo-lhes ::damage_bonus_percent% de dano extra em todos os ataques.",
+  "duration": 10.0,
+  "effects": {
+    "damage_bonus_percent": 0.5
+  },
+  "id": "core_2_Blood_Moon_Curse",
+  "image": 830,
+  "name": "Maldição da Lua de Sangue",
+  "range": 0,
+  "skill": "",
+  "target": "health"
+}

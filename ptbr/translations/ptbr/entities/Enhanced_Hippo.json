@@ -44,7 +44,7 @@
     "tags"
   ],
   "corpse": "2234",
-  "description": "Esta criatura massiva é uma grande ameaça em curto alcance.",
+  "description": "Esta criatura enorme é uma grande ameaça à curta distância.",
   "dialogues": [
     "368",
     "369",
@@ -78,7 +78,7 @@
   },
   "fighter": {
     "attackNames": [
-      "Bite"
+      "Mordida"
     ]
   },
   "glyph": {

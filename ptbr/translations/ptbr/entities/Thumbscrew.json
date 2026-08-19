@@ -39,7 +39,7 @@
     "time": 50,
     "tools": []
   },
-  "description": "É um dispositivo simples - você coloca o dedo de alguém nele e eles começam a gritar.",
+  "description": "É um dispositivo simples — você coloca o dedo de alguém nele e a pessoa começa a gritar.",
   "glyph": {
     "frames": [
       {
@@ -62,7 +62,7 @@
     74,
     68
   ],
-  "name": "Esmagador de Polegar",
+  "name": "Torno de Dedo",
   "producer": {
     "products": {
       "core_2_deconstruct": [
@@ -77,5 +77,6 @@
       ]
     },
     "time": 40
-  }
+  },
+  "feminine_form": true
 }

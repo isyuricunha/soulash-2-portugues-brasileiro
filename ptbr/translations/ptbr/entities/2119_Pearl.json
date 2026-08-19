@@ -24,7 +24,7 @@
     "weapon",
     "weight"
   ],
-  "description": "Esta pérola rara é difícil de encontrar e é um objeto de desejo entre humanos e elfos.",
+  "description": "Esta pérola rara é difícil de encontrar e é objeto de desejo entre humanos e elfos.",
   "glyph": {
     "frames": [
       {
@@ -51,10 +51,11 @@
   ],
   "name": "Pérola",
   "resource": {
-    "affix": "Pearl",
+    "affix": "Pérola",
     "magic_ingredient": 0,
     "quality": 3,
-    "type": 8
+    "type": 8,
+    "feminine_affix": "Pérola"
   },
   "value": 4500,
   "weapon": {
@@ -72,5 +73,6 @@
     "range": 0,
     "type": 9
   },
-  "weight": 0.10000000149011612
+  "weight": 0.10000000149011612,
+  "feminine_form": true
 }

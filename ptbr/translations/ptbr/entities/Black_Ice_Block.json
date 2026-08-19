@@ -24,7 +24,7 @@
     "weapon",
     "weight"
   ],
-  "description": "Resfriado e sólido, o bloco de gelo negro pode ser usado como material de construção em climas mais frios.",
+  "description": "Gelado e sólido, o bloco de gelo negro pode ser usado como material de construção em climas mais frios.",
   "glyph": {
     "frames": [
       {
@@ -51,10 +51,11 @@
   ],
   "name": "Bloco de Gelo Negro",
   "resource": {
-    "affix": "Black Ice",
+    "affix": "Gelo Negro",
     "magic_ingredient": 0,
     "quality": 3,
-    "type": 6
+    "type": 6,
+    "feminine_affix": "Negra"
   },
   "value": 1500,
   "weapon": {

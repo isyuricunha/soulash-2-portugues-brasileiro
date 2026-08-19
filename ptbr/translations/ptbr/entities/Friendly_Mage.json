@@ -5,9 +5,7 @@
     "66"
   ],
   "artificial_intelligence": {
-    "allies": [
-      "5"
-    ],
+    "allies": [],
     "allow_production": [],
     "behaviors": [],
     "enemies": []
@@ -47,7 +45,7 @@
       {
         "chance": 0.0,
         "id": "339",
-        "name": "Cajado da Bruxa",
+        "name": "Cajado de Bruxa",
         "stack": 1
       }
     ],

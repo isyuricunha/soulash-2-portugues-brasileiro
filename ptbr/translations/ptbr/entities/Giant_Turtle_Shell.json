@@ -44,14 +44,14 @@
     "weapon"
   ],
   "corpse": [],
-  "description": "Uma tartaruga enorme com uma casca verde-amarelada gigante.",
+  "description": "Uma tartaruga enorme com um casco gigante esverdeado-amarelado.",
   "experience_gainer": {
     "exp": 0,
     "level": 50
   },
   "fighter": {
     "attackNames": [
-      "Ram"
+      "Investida"
     ]
   },
   "glyph": {
@@ -78,7 +78,7 @@
   "moveable": {
     "speed": 1.5
   },
-  "name": "Casca de Tartaruga Gigante",
+  "name": "Casco de Tartaruga Gigante",
   "sight": {
     "ignore_infra_penalty": true,
     "infravision": true,

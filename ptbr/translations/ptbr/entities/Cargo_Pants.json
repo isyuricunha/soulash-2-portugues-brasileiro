@@ -46,7 +46,7 @@
       12
     ]
   },
-  "description": "Com bolsos. Muitos bolsos.",
+  "description": "Com bolsos. Tããantos bolsos.",
   "glyph": {
     "frames": [
       {
@@ -71,7 +71,8 @@
     200,
     200
   ],
-  "name": "Calça Cargo",
+  "name": "Calças Cargo",
   "value": 3700,
-  "weight": 0.5
+  "weight": 0.5,
+  "feminine_form": true
 }

@@ -82,10 +82,11 @@
   ],
   "name": "Lingote de Platina",
   "resource": {
-    "affix": "Platinum",
+    "affix": "Platina",
     "magic_ingredient": 0,
     "quality": 3,
-    "type": 1
+    "type": 1,
+    "feminine_affix": "platinada"
   },
   "value": 15000,
   "weapon": {

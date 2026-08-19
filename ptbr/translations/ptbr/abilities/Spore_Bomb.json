@@ -6,7 +6,7 @@
     "health": 0,
     "stamina": 0
   },
-  "description": "Uma bomba que causa ::damage de dano ::damage_type ao alvo e o imobiliza por ::duration turnos. Sucede em uma verificação de força de vontade do conjurador vs força do defensor.",
+  "description": "Uma bomba que causa ::damage de dano ::damage_type ao alvo e o imobiliza por ::duration turnos. Sucesso em teste oposto de vontade do conjurador contra força do defensor.",
   "duration": 4.0,
   "effects": {
     "aoe_break": 1,

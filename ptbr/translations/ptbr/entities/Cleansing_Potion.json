@@ -38,7 +38,7 @@
       15
     ]
   },
-  "description": "Esta poção irá limpar seu corpo dos efeitos de sangramento, queimadura, silêncio, medo e congelamento.",
+  "description": "Esta poção purificará seu corpo de efeitos de sangramento, queimadura, silêncio, medo e congelamento.",
   "glyph": {
     "frames": [
       {
@@ -69,5 +69,6 @@
     "recipe": ""
   },
   "value": 3000,
-  "weight": 0.10000000149011612
+  "weight": 0.10000000149011612,
+  "feminine_form": true
 }

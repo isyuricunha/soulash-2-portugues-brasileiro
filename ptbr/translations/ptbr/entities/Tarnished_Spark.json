@@ -22,7 +22,7 @@
     "statistics",
     "weight"
   ],
-  "description": "Um fragmento de alma levemente manchado, obscurecido por sussurros de arrependimento e paixões fugazes, sua luz fraca vacilando em confusão.",
+  "description": "Um fragmento de alma levemente manchado, enevoado por sussurros de arrependimento e paixões passageiras, sua luz tênue vacilando em confusão.",
   "glyph": {
     "frames": [
       {
@@ -56,7 +56,7 @@
     188,
     213
   ],
-  "name": "Faísca Manhada",
+  "name": "Faísca Manchada",
   "statistics": {
     "dexterity": [
       0,
@@ -79,5 +79,6 @@
       0
     ]
   },
-  "weight": 0.009999999776482582
+  "weight": 0.009999999776482582,
+  "feminine_form": true
 }

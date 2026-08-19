@@ -8,7 +8,7 @@
     "position_2d"
   ],
   "corpse": [],
-  "description": "Família de Lustenbaum. A parte melhor e mais rica dela, pelo menos.",
+  "description": "Família Lustenbaum. A parte melhor e mais rica, pelo menos.",
   "glyph": {
     "frames": [
       {
@@ -75,5 +75,6 @@
     108,
     14
   ],
-  "name": "Placa da Necrópole III"
+  "name": "Placa de Necropoly III",
+  "feminine_form": true
 }

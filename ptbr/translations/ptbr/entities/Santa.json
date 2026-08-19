@@ -69,8 +69,8 @@
   },
   "fighter": {
     "attackNames": [
-      "Punch",
-      "Slap"
+      "Soco",
+      "Tapa"
     ]
   },
   "glyph": {
@@ -97,7 +97,7 @@
   "moveable": {
     "speed": 0.800000011920929
   },
-  "name": "Santa",
+  "name": "Papai Noel",
   "sight": {
     "ignore_infra_penalty": false,
     "infravision": true,

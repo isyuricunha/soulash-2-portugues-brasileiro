@@ -28,7 +28,7 @@
     "time": 0,
     "tools": []
   },
-  "description": "Estrada feita de pequenas pedras para travessia mais fácil.",
+  "description": "Estrada feita de pequenas pedras para facilitar a travessia.",
   "glyph": {
     "frames": [
       {
@@ -49,5 +49,6 @@
     71,
     80
   ],
-  "name": "Estrada de Pedra"
+  "name": "Estrada de Pedra",
+  "feminine_form": true
 }

@@ -57,14 +57,14 @@
     "random_frame_start": true
   },
   "health": 50,
-  "height": 5,
+  "height": 0,
   "id": "core_2_Rope_Fence",
   "minimap_pixel": [
     61,
     38,
     7
   ],
-  "name": "Cerco de Corda",
+  "name": "Cerca de Corda",
   "producer": {
     "products": {
       "core_2_deconstruct": [
@@ -79,5 +79,6 @@
       ]
     },
     "time": 20
-  }
+  },
+  "feminine_form": true
 }

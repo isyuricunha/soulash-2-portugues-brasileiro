@@ -87,9 +87,9 @@
   "moveable": {
     "speed": 1.2999999523162842
   },
-  "name": "Gnoll Portador de Luz",
+  "name": "Gnoll Portador da Luz",
   "persona": {
-    "occupation": "Portador de Luz"
+    "occupation": "Light Bringer"
   },
   "sight": {
     "ignore_infra_penalty": false,

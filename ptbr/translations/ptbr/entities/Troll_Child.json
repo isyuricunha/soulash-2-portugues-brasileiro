@@ -61,9 +61,9 @@
   "moveable": {
     "speed": 2.0
   },
-  "name": "Troll Criança",
+  "name": "Criança Troll",
   "persona": {
-    "occupation": "Criança"
+    "occupation": "Child"
   },
   "sight": {
     "ignore_infra_penalty": false,
@@ -101,5 +101,6 @@
   "tags": [
     "9",
     "26"
-  ]
+  ],
+  "feminine_form": true
 }

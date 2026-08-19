@@ -25,7 +25,7 @@
     "time": 60,
     "tools": []
   },
-  "description": "Alguns segredos furtivos de ladinagem estão escondidos nessas páginas.",
+  "description": "Alguns segredos sorrateiros da ladinagem estão escondidos nestas páginas.",
   "glyph": {
     "frames": [
       {
@@ -50,7 +50,7 @@
     178,
     176
   ],
-  "name": "Livro de Ladinagem",
+  "name": "Livro da Ladinagem",
   "usable": {
     "ability": "",
     "recipe": "",

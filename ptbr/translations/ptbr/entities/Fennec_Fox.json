@@ -61,7 +61,7 @@
   },
   "fighter": {
     "attackNames": [
-      "Bite"
+      "Mordida"
     ]
   },
   "glyph": {
@@ -88,7 +88,7 @@
   "moveable": {
     "speed": 0.8999999761581421
   },
-  "name": "Raposa-Feneco",
+  "name": "Raposa-fennec",
   "sight": {
     "ignore_infra_penalty": false,
     "infravision": false,
@@ -125,5 +125,6 @@
   "tags": [
     "2",
     "9"
-  ]
+  ],
+  "feminine_form": true
 }

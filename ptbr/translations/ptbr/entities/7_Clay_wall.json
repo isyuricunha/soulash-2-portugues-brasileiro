@@ -33,7 +33,7 @@
     "producer"
   ],
   "corpse": [],
-  "description": "Não seria difícil furar um buraco nesta parede.",
+  "description": "Não seria difícil abrir um buraco nesta parede.",
   "glyph": {
     "frames": [
       {
@@ -71,5 +71,6 @@
       ]
     },
     "time": 30
-  }
+  },
+  "feminine_form": true
 }

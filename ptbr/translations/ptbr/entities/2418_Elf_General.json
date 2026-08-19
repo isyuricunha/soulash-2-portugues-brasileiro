@@ -56,7 +56,7 @@
       {
         "chance": 1.0,
         "id": "2211",
-        "name": "Caneleiras de Madeira",
+        "name": "Grebas de Madeira",
         "stack": 1
       }
     ],
@@ -107,7 +107,7 @@
   "moveable": {
     "speed": 0.800000011920929
   },
-  "name": "General Elfo",
+  "name": "General Élfico",
   "persona": {
     "occupation": "General"
   },

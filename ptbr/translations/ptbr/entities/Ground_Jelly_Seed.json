@@ -9,7 +9,7 @@
     "value",
     "weight"
   ],
-  "description": "Com alguns cuidados, esta semente crescerá em uma geléia terrestre.",
+  "description": "Com algum cuidado, esta semente crescerá e se tornará uma geleia de chão.",
   "glyph": {
     "frames": [
       {
@@ -34,7 +34,8 @@
     168,
     110
   ],
-  "name": "Semente de Geléia Terrestre",
+  "name": "Semente de Geleia de Chão",
   "value": 50,
-  "weight": 0.009999999776482582
+  "weight": 0.009999999776482582,
+  "feminine_form": true
 }

@@ -10,7 +10,7 @@
     "value",
     "weight"
   ],
-  "description": "Peixe comum encontrado em rios durante o inverno e a primavera. Tem um corpo muito longo e esguio, com escamas pequenas e cabeça longa.",
+  "description": "Peixe comum encontrado em rios durante o inverno e a primavera. Tem corpo muito longo e esbelto, com escamas pequenas e cabeça longa.",
   "glyph": {
     "frames": [
       {
@@ -35,7 +35,7 @@
     95,
     56
   ],
-  "name": "Lucio",
+  "name": "Lúcio",
   "producer": {
     "products": {
       "3": [

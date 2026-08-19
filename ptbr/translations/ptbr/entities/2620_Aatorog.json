@@ -32,7 +32,7 @@
     "weapon"
   ],
   "corpse": "2642",
-  "description": "Um lagarto crescido cuspindo veneno venenoso.",
+  "description": "Um lagarto enorme cuspindo veneno venenoso.",
   "dialogues": [
     "894"
   ],
@@ -64,7 +64,7 @@
   },
   "fighter": {
     "attackNames": [
-      "Acidic Bite"
+      "Mordida Ácida"
     ]
   },
   "glyph": {

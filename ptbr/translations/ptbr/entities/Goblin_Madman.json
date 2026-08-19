@@ -100,9 +100,9 @@
   "moveable": {
     "speed": 1.0
   },
-  "name": "Lunático Goblin",
+  "name": "Goblin Louco",
   "persona": {
-    "occupation": "Lunático"
+    "occupation": "Madman"
   },
   "sight": {
     "ignore_infra_penalty": false,

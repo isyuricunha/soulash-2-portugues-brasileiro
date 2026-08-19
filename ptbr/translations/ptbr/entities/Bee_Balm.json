@@ -8,7 +8,7 @@
     "producer"
   ],
   "corpse": [],
-  "description": "Uma adorável flor rosa. Abelhas parecem ser obcecadas por ela.",
+  "description": "Uma linda flor rosa. As abelhas parecem obcecadas por ela.",
   "glyph": {
     "frames": [
       {
@@ -39,7 +39,7 @@
     89,
     87
   ],
-  "name": "Bálsamo de Abelha",
+  "name": "Melissa",
   "producer": {
     "products": {
       "10": [
@@ -54,5 +54,6 @@
       ]
     },
     "time": 10
-  }
+  },
+  "feminine_form": true
 }

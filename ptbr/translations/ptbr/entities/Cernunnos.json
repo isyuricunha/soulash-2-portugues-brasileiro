@@ -48,7 +48,7 @@
     "weapon"
   ],
   "corpse": "core_2_Cernunnos_Corpse",
-  "description": "Uma encarnação folhuda e com galhadas das florestas selvagens.",
+  "description": "Uma encarnação frondosa e galhada dos bosques selvagens.",
   "dialogues": [],
   "experience_gainer": {
     "exp": 0,
@@ -56,7 +56,7 @@
   },
   "fighter": {
     "attackNames": [
-      "Horns"
+      "Chifres"
     ]
   },
   "glyph": {

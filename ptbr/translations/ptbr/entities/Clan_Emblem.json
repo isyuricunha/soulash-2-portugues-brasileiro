@@ -68,12 +68,13 @@
     165,
     32
   ],
-  "name": "Emblema do Clã",
+  "name": "Emblema de Clã",
   "resource": {
-    "affix": "of the Clan",
+    "affix": "do Clã",
     "magic_ingredient": 4,
     "quality": 4,
-    "type": 7
+    "type": 7,
+    "feminine_affix": "clânica"
   },
   "value": 40000,
   "weapon": {

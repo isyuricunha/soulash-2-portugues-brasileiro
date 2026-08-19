@@ -40,7 +40,7 @@
       10
     ]
   },
-  "description": "O metal lendário descoberto por anões é muito leve, durável e oferece proteção inigualável.",
+  "description": "O metal lendário descoberto pelos anões é muito leve, durável e oferece proteção inigualável.",
   "extra_weight": -0.20000000298023224,
   "glyph": {
     "frames": [
@@ -71,7 +71,8 @@
     "affix": "Mithril",
     "magic_ingredient": 0,
     "quality": 4,
-    "type": 1
+    "type": 1,
+    "feminine_affix": "Mithril"
   },
   "value": 20000,
   "weapon": {

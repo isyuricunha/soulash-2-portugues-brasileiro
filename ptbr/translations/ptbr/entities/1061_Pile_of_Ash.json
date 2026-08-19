@@ -16,7 +16,7 @@
     "position_2d"
   ],
   "corpse": [],
-  "description": "Havia uma vez algum tipo de parede ou formação aqui, mas agora é apenas uma pilha de cinzas.",
+  "description": "Houve algum tipo de muro ou formação aqui, mas agora é apenas uma pilha de cinzas.",
   "glyph": {
     "frames": [
       {
@@ -74,5 +74,6 @@
     175,
     175
   ],
-  "name": "Pilha de Cinzas"
+  "name": "Pilha de Cinzas",
+  "feminine_form": true
 }

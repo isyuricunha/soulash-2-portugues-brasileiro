@@ -23,7 +23,7 @@
     "position_2d"
   ],
   "corpse": [],
-  "description": "Estátua desfigurada, agora derretida em forma grotesca.",
+  "description": "Estátua desfigurada, agora derretida em uma forma grotesca.",
   "glyph": {
     "frames": [
       {
@@ -46,5 +46,6 @@
     80,
     80
   ],
-  "name": "Estátua Profanada"
+  "name": "Estátua Profanada",
+  "feminine_form": true
 }

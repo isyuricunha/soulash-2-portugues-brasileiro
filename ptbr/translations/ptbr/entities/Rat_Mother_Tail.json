@@ -11,7 +11,7 @@
     "weapon",
     "weight"
   ],
-  "description": "Uma cauda emaranhada de uma Ratazana.",
+  "description": "Uma cauda emaranhada de uma Mãe Rato.",
   "glyph": {
     "frames": [
       {
@@ -36,12 +36,13 @@
     195,
     195
   ],
-  "name": "Cauda de Ratazana",
+  "name": "Cauda da Mãe Rata",
   "resource": {
-    "affix": "of Ratling",
+    "affix": "do Ratoide",
     "magic_ingredient": 3,
     "quality": 3,
-    "type": 7
+    "type": 7,
+    "feminine_affix": "ratoide"
   },
   "value": 5000,
   "weapon": {
@@ -60,5 +61,6 @@
     "range": 0,
     "type": 9
   },
-  "weight": 0.10000000149011612
+  "weight": 0.10000000149011612,
+  "feminine_form": true
 }

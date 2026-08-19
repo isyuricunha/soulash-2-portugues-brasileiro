@@ -46,7 +46,7 @@
       {
         "chance": 0.30000001192092896,
         "id": "169",
-        "name": "Capacete",
+        "name": "Elmo",
         "stack": 1
       }
     ],
@@ -95,7 +95,7 @@
   },
   "name": "Punho Reptilion",
   "persona": {
-    "occupation": "Punho"
+    "occupation": "Fist"
   },
   "sight": {
     "ignore_infra_penalty": false,

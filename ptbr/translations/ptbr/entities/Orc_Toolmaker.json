@@ -90,9 +90,9 @@
   "moveable": {
     "speed": 1.100000023841858
   },
-  "name": "Orc Ferreiro",
+  "name": "Ferramenteiro Orc",
   "persona": {
-    "occupation": "Ferreiro"
+    "occupation": "Toolmaker"
   },
   "sight": {
     "ignore_infra_penalty": false,

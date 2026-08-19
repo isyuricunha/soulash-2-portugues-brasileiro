@@ -70,7 +70,7 @@
   },
   "name": "Anão Cervejeiro",
   "persona": {
-    "occupation": "Cervejeiro"
+    "occupation": "Brewer"
   },
   "sight": {
     "ignore_infra_penalty": false,

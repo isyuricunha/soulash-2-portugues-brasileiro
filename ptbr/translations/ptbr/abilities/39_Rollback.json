@@ -6,7 +6,7 @@
     "health": 0,
     "stamina": 5
   },
-  "description": "Movimenta-se muito rapidamente até ::rollback células para trás, se disponível.",
+  "description": "Mova-se muito rapidamente até ::rollback tiles para trás se disponível.",
   "duration": 0.0,
   "effects": {
     "rollback": 3
@@ -14,7 +14,7 @@
   "id": "39",
   "image": 22,
   "level": 3,
-  "name": "Recuo",
+  "name": "Retrocesso",
   "profession": 1,
   "range": 0,
   "skill": "core_2_athletics",

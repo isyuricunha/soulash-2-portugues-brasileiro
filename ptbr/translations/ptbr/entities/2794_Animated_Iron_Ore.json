@@ -31,7 +31,7 @@
     "tags"
   ],
   "corpse": "2778",
-  "description": "Poderia ser valioso se não estivesse tentando te matar.",
+  "description": "Poderia ser valioso se não estivesse tentando te matar. ",
   "dialogues": [
     "596",
     "597"
@@ -42,8 +42,8 @@
   },
   "fighter": {
     "attackNames": [
-      "Slam",
-      "Tendril"
+      "Impacto",
+      "Tentáculo"
     ]
   },
   "glyph": {

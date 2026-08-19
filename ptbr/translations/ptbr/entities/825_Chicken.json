@@ -28,7 +28,7 @@
     "tags"
   ],
   "corpse": "827",
-  "description": "As galinhas são uma boa fonte de carne e ovos.",
+  "description": "Galinhas são uma boa fonte de carne e ovos.",
   "dialogues": [
     "886"
   ],
@@ -61,9 +61,9 @@
   },
   "fighter": {
     "attackNames": [
-      "Beak",
-      "Wings",
-      "Talons"
+      "Bico",
+      "Asas",
+      "Garras"
     ]
   },
   "glyph": {
@@ -143,5 +143,6 @@
   "tags": [
     "2",
     "9"
-  ]
+  ],
+  "feminine_form": true
 }

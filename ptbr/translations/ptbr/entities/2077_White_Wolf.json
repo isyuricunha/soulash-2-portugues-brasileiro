@@ -41,7 +41,7 @@
     "weapon"
   ],
   "corpse": "2078",
-  "description": "Lobos brancos são difíceis de serem vistos na neve, tornando-os caçadores muito perigosos.",
+  "description": "Lobos brancos são difíceis de avistar na neve, o que os torna caçadores muito perigosos.",
   "dialogues": [
     "7",
     "878"
@@ -74,8 +74,8 @@
   },
   "fighter": {
     "attackNames": [
-      "Bite",
-      "Scratch"
+      "Mordida",
+      "Arranhão"
     ]
   },
   "glyph": {

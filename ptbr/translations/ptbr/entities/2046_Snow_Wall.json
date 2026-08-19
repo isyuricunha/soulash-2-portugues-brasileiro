@@ -48,7 +48,7 @@
     "time": 10,
     "tools": []
   },
-  "description": "Uma parede feita de neve.",
+  "description": "Parede feita de neve.",
   "glyph": {
     "frames": [
       {
@@ -86,5 +86,6 @@
       ]
     },
     "time": 30
-  }
+  },
+  "feminine_form": true
 }

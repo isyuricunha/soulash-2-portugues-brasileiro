@@ -81,9 +81,9 @@
   "moveable": {
     "speed": 1.100000023841858
   },
-  "name": "Couraria Reptilion",
+  "name": "Curtidor Reptilion",
   "persona": {
-    "occupation": "Courador"
+    "occupation": "Leatherworker"
   },
   "sight": {
     "ignore_infra_penalty": false,

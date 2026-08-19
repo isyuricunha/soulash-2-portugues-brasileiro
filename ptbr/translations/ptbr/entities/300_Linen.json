@@ -37,7 +37,7 @@
       12
     ]
   },
-  "description": "O linho é produzido a partir do linho e é usado na fabricação de várias roupas.",
+  "description": "O linho é produzido a partir do linho e é usado na confecção de diversas roupas.",
   "glyph": {
     "frames": [
       {
@@ -64,10 +64,11 @@
   ],
   "name": "Linho",
   "resource": {
-    "affix": "Linen",
+    "affix": "Linho",
     "magic_ingredient": 0,
     "quality": 1,
-    "type": 4
+    "type": 4,
+    "feminine_affix": "de linho"
   },
   "value": 900,
   "weight": 0.10000000149011612

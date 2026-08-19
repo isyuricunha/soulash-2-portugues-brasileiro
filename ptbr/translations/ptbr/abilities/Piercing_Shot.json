@@ -7,7 +7,7 @@
     "health": 0,
     "stamina": 3
   },
-  "description": "Acerte tudo em linha com ::damage de dano ::damage_type em um alcance ::range. Pode deixar a munição após o disparo.",
+  "description": "Atinga tudo em linha causando ::damage de dano ::damage_type no alcance ::range. Pode deixar a munição após atirar.",
   "duration": 0.0,
   "effects": {
     "construct_item_cost": 0.8999999761581421,

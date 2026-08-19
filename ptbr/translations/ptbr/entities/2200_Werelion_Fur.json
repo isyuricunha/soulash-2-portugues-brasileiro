@@ -25,7 +25,7 @@
     "value",
     "weight"
   ],
-  "description": "Uma mistura fascinante de graça felina e poder indomável, esta pelagem incorpora o fascínio misterioso dos seres místicos metamorfos.",
+  "description": "Uma mistura hipnotizante de graça felina e poder indomado, esta pele incorpora o fascínio misterioso dos seres místicos metamorfos.",
   "glyph": {
     "frames": [
       {
@@ -50,12 +50,13 @@
     175,
     158
   ],
-  "name": "Pele de Leão Metamorfoseado",
+  "name": "Pele de Leão-garou",
   "resource": {
-    "affix": "Splendid",
+    "affix": "Esplêndido",
     "magic_ingredient": 0,
     "quality": 4,
-    "type": 9
+    "type": 9,
+    "feminine_affix": "Esplêndida"
   },
   "stamina": {
     "fatigue": 0,
@@ -85,5 +86,6 @@
     ]
   },
   "value": 11000,
-  "weight": 0.10000000149011612
+  "weight": 0.10000000149011612,
+  "feminine_form": true
 }

@@ -89,9 +89,9 @@
   "moveable": {
     "speed": 1.100000023841858
   },
-  "name": "Vampiro Lenhador",
+  "name": "Lenhador Vampiro",
   "persona": {
-    "occupation": "Lanhador"
+    "occupation": "Woodcutter"
   },
   "sight": {
     "ignore_infra_penalty": false,

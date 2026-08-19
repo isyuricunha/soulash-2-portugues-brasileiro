@@ -9,7 +9,7 @@
     "producer",
     "weight"
   ],
-  "description": "Um corpo sem vida de uma víbora luminosa.",
+  "description": "Cadáver sem vida de uma wyrm luminosa.",
   "glyph": {
     "frames": [
       {
@@ -38,7 +38,7 @@
     197,
     94
   ],
-  "name": "Cadáver de Víbora Luminosa",
+  "name": "Cadáver de Wyrm Luminoso",
   "producer": {
     "products": {
       "3": [

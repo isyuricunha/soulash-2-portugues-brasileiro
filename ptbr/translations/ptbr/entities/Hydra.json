@@ -178,14 +178,14 @@
     "weapon"
   ],
   "corpse": "core_2_Hydra_Corpse",
-  "description": "Draco gigante com múltiplas cabeças.",
+  "description": "Um draco gigante com múltiplas cabeças.",
   "experience_gainer": {
     "exp": 0,
     "level": 50
   },
   "fighter": {
     "attackNames": [
-      "Bite"
+      "Mordida"
     ]
   },
   "glyph": {
@@ -266,5 +266,6 @@
     "parry_bonus": 0,
     "range": 1,
     "type": 0
-  }
+  },
+  "feminine_form": true
 }

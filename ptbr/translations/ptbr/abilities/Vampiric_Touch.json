@@ -6,7 +6,7 @@
     "health": 0,
     "stamina": 6
   },
-  "description": "Causa ::damage de dano ::damage_type no inimigo alvo, recuperando ::damage_as_life% dele como vida.\n\nVampiros também recuperam ::damage_to_bloodlust de dano como Sede de Sangue.",
+  "description": "Cause ::damage ::damage_type de dano ao inimigo alvo, recuperando ::damage_as_life% dele como vida.\n\nVampiros também recuperam ::damage_to_bloodlust de dano como Sede de Sangue.",
   "duration": 0.0,
   "effects": {
     "damage": [

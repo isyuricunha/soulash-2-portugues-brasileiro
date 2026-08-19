@@ -8,7 +8,7 @@
     "usable",
     "weight"
   ],
-  "description": "Uma cabeça de um ursan morto. Pode ainda guardar algumas memórias.",
+  "description": "Uma cabeça de um ursan morto. Ainda pode guardar algumas memórias.",
   "glyph": {
     "frames": [
       {
@@ -38,5 +38,6 @@
     "ability": "core_2_Cold_Breath",
     "recipe": ""
   },
-  "weight": 2.5
+  "weight": 2.5,
+  "feminine_form": true
 }

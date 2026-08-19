@@ -27,7 +27,7 @@
       15
     ]
   },
-  "description": "Apenas um botão de madeira normal. Está sempre quente.",
+  "description": "Apenas um botão de madeira normal. Ele está sempre quente.",
   "glyph": {
     "frames": [
       {
@@ -54,10 +54,11 @@
   ],
   "name": "Botão",
   "resource": {
-    "affix": "of the Hook",
+    "affix": "do Gancho",
     "magic_ingredient": 1,
     "quality": 1,
-    "type": 7
+    "type": 7,
+    "feminine_affix": "ganchuda"
   },
   "value": 500,
   "weapon": {

@@ -78,10 +78,11 @@
   ],
   "name": "Lingote de Titânio",
   "resource": {
-    "affix": "Titanium",
+    "affix": "Titânico",
     "magic_ingredient": 0,
     "quality": 2,
-    "type": 1
+    "type": 1,
+    "feminine_affix": "Titânica"
   },
   "value": 6000,
   "weapon": {

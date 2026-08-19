@@ -55,7 +55,7 @@
       6
     ]
   },
-  "description": "Lisa e estilosa.",
+  "description": "Elegante e estilosa.",
   "glyph": {
     "frames": [
       {
@@ -93,5 +93,6 @@
       ]
     },
     "time": 20
-  }
+  },
+  "feminine_form": true
 }

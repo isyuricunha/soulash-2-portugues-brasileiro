@@ -29,7 +29,7 @@
       1
     ]
   },
-  "description": "Maças são armas favorecidas por guerreiros fortes que são muito úteis para quebrar alguns ossos.",
+  "description": "Maças são armas favoritas de guerreiros fortes, muito úteis para quebrar alguns ossos.",
   "glyph": {
     "frames": [
       {
@@ -72,5 +72,6 @@
     "range": 1,
     "type": 2
   },
-  "weight": 1.5
+  "weight": 1.5,
+  "feminine_form": true
 }

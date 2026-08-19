@@ -30,7 +30,7 @@
       14
     ]
   },
-  "description": "Toque-o e você será infectado pelo cajado.",
+  "description": "Toque nele e você contrairá a infecção do cajado.",
   "glyph": {
     "frames": [
       {
@@ -55,7 +55,7 @@
     204,
     187
   ],
-  "name": "Cajado da Bruxa",
+  "name": "Cajado de Bruxa",
   "statistics": {
     "dexterity": [
       0,

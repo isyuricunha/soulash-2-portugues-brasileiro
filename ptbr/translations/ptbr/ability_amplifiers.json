@@ -10,7 +10,7 @@
         "value": 25
       }
     ],
-    "description": "Sangramento é um dano físico ao longo do tempo. O dano escala com Força e é reduzido pela metade da Resistência do alvo. É aplicado ao longo de 5 turnos com efeito diminuindo a cada turno."
+    "description": "Sangramento é um dano físico ao longo do tempo. O dano escala com Força e é reduzido pela metade da Vitalidade do alvo. É aplicado ao longo de 5 turnos com efeito decrescente a cada turno."
   },
   {
     "id": "core_2_fear_light",
@@ -26,11 +26,11 @@
         "third_value": 0.3
       }
     ],
-    "description": "Causa Medo no alvo por 0,3 turno por nível de Fúria Divina em si mesmo. Tempo de Recarga +8."
+    "description": "Amedronta o alvo por 0.3 turno por pilha de fúria divina em si. Recarga +8."
   },
   {
     "id": "core_2_chain_2",
-    "name": "Cadeia",
+    "name": "Encadeamento",
     "type": "offensive",
     "image": 11,
     "bonuses": [
@@ -39,7 +39,7 @@
         "value": 2
       }
     ],
-    "description": "O efeito em cadeia repete a habilidade causando-a para um alvo válido próximo."
+    "description": "O efeito de encadeamento repete a habilidade, fazendo-a alvejar um alvo válido próximo."
   },
   {
     "id": "core_2_cast_speed",
@@ -47,7 +47,7 @@
     "type": "utility",
     "image": 51,
     "cast_time": -0.2,
-    "description": "Velocidade de Conjuração é medida em fração de um turno, onde valores negativos reduzem o tempo que leva para usar a habilidade."
+    "description": "Velocidade de Conjuração é medida em fração de turno, onde valores negativos reduzem o tempo necessário para usar a habilidade."
   },
   {
     "id": "core_2_rollback",
@@ -60,7 +60,7 @@
         "value": 1
       }
     ],
-    "description": "Recuo faz você se mover imediatamente para trás pelo número especificado de células, se houver espaço suficiente."
+    "description": "Recuo faz com que você se mova imediatamente para trás pelo número especificado de tiles, se houver espaço suficiente."
   },
   {
     "id": "core_2_damage",
@@ -79,7 +79,7 @@
   },
   {
     "id": "core_2_bonus_fire_damage",
-    "name": "Bônus de Dano 4",
+    "name": "Dano Extra 4",
     "type": "offensive",
     "image": 46,
     "bonuses": [
@@ -94,7 +94,7 @@
   },
   {
     "id": "core_2_bonus_nature_damage",
-    "name": "Bônus de Dano 2",
+    "name": "Dano Extra 2",
     "type": "offensive",
     "image": 37,
     "bonuses": [
@@ -118,7 +118,7 @@
         "value": 2
       }
     ],
-    "description": "Queimadura é um dano de fogo ao longo do tempo. O dano escala com Poder Mágico vezes o valor da Queimadura, indicando a duração do efeito. É aplicado ao longo de um número especificado de turnos com efeito diminuindo a cada turno."
+    "description": "Queimadura é um dano do tipo fogo ao longo do tempo. O dano escala com o Poder Mágico multiplicado pelo valor da Queimadura, indicando a duração do efeito. Ele é aplicado durante um número específico de turnos com efeito decrescente a cada turno."
   },
   {
     "id": "core_2_parry_1",
@@ -144,7 +144,7 @@
         "value": 2
       }
     ],
-    "description": "Aparar aumenta a chance de mitigar todo o dano de um ataque básico. Este efeito só funciona em habilidades que têm duração e que você pode aplicar a si mesmo."
+    "description": "Parar aumenta a chance de mitigar todo o dano de um ataque básico. Este efeito só funciona em habilidades que têm duração e que você pode aplicar a si mesmo."
   },
   {
     "id": "core_2_duration",
@@ -152,7 +152,7 @@
     "type": "utility",
     "image": 24,
     "duration": 2,
-    "description": "Duração aumenta o tempo dos efeitos aplicados pela habilidade por um número especificado de turnos."
+    "description": "Duração aumenta o tempo dos efeitos aplicados pela habilidade em um número especificado de turnos."
   },
   {
     "id": "core_2_duration_3",
@@ -160,7 +160,7 @@
     "type": "utility",
     "image": 24,
     "duration": 3,
-    "description": "Duração aumenta o tempo dos efeitos aplicados pela habilidade por um número especificado de turnos."
+    "description": "Duração aumenta o tempo dos efeitos aplicados pela habilidade em um número especificado de turnos."
   },
   {
     "id": "core_2_damage_reduce",
@@ -186,7 +186,7 @@
         "value": -0.1
       }
     ],
-    "description": "A propriedade Velocidade de Movimento determina quão rapidamente você pode atravessar uma célula. Valor menor significa que você se moverá mais rápido."
+    "description": "A propriedade Velocidade de Movimento determina com que rapidez você pode atravessar um ladrilho. Valor menor significa que você se moverá mais rápido."
   },
   {
     "id": "core_2_cripple",
@@ -199,7 +199,7 @@
         "value": 0.2
       }
     ],
-    "description": "A propriedade Velocidade de Movimento determina quão rapidamente você pode atravessar uma célula. Valor menor significa que você se moverá mais rápido."
+    "description": "A propriedade Velocidade de Movimento determina quão rapidamente você pode percorrer um tile. Valor menor significa que você se moverá mais rápido."
   },
   {
     "id": "core_2_reach",
@@ -214,7 +214,7 @@
     "type": "utility",
     "image": 57,
     "range_melee": 2,
-    "description": "Aplica-se apenas a habilidades que têm o alcance básico de 1."
+    "description": "Aplica-se apenas a habilidades que tenham alcance básico de 1."
   },
   {
     "id": "core_2_range",
@@ -234,11 +234,11 @@
         "value": 3
       }
     ],
-    "description": "Joga o alvo para longe de você em linha reta. A distância é determinada pelo valor desta habilidade. Se o alvo colidir com algo em seu caminho, receberá dano verdadeiro adicional determinado por sua Força e reduzido pela metade da Resistência do alvo."
+    "description": "Arremessa o alvo para longe de você em linha reta. A distância é determinada pelo valor desta habilidade. Se o alvo colidir com um obstáculo em seu caminho, receberá dano verdadeiro adicional determinado pela sua Força e reduzido pela metade da Resistência do alvo."
   },
   {
     "id": "core_2_knockback_damage",
-    "name": "Bônus de Dano de Repulsão",
+    "name": "Dano Bônus de Repulsão",
     "type": "utility",
     "image": 22,
     "bonuses": [
@@ -247,19 +247,19 @@
         "value": 3.0
       }
     ],
-    "description": "Bônus de Dano de Repulsão multiplica o dano verdadeiro causado quando a repulsão causa uma colisão."
+    "description": "O Dano Bônus de Repulsão multiplica o dano verdadeiro causado quando a repulsão provoca uma colisão."
   },
   {
     "id": "core_2_stamina_reduction",
-    "name": "Redução de Custo de Fôlego",
+    "name": "Redução do Custo de Vigor",
     "type": "utility",
     "image": 40,
     "cost_stamina": -4,
-    "description": "Reduz o custo de fôlego de uma habilidade."
+    "description": "Reduz o custo de vigor de uma habilidade."
   },
   {
     "id": "core_2_pierce_1",
-    "name": "Perfurar",
+    "name": "Perfuração",
     "type": "offensive",
     "image": 56,
     "cooldown": 3,
@@ -269,7 +269,7 @@
         "value": 1
       }
     ],
-    "description": "Perfurar faz com que as habilidades em linha passem por colidíveis, potencialmente acertando múltiplos alvos em seu alcance."
+    "description": "Perfuração faz com que habilidades em linha atravessem obstáculos, podendo atingir múltiplos alvos em seu alcance."
   },
   {
     "id": "core_2_stun",
@@ -283,11 +283,11 @@
         "value": 2
       }
     ],
-    "description": "Atordoamento faz com que o alvo seja incapaz de realizar qualquer ação durante a duração."
+    "description": "Atordoamento faz com que o alvo fique incapaz de realizar qualquer ação durante a duração."
   },
   {
     "id": "core_2_pierce_armor",
-    "name": "Perfurar Armadura",
+    "name": "Perfuração de Armadura",
     "type": "offensive",
     "image": 34,
     "bonuses": [
@@ -297,11 +297,11 @@
         "secondary_value": "physical"
       }
     ],
-    "description": "Reduz o tipo específico de resistências do alvo pela porcentagem dada."
+    "description": "Reduz a resistência específica do alvo pela porcentagem indicada."
   },
   {
     "id": "core_2_cooldown_4",
-    "name": "Redução de Tempo de Recarga 4",
+    "name": "Redução de Recarga 4",
     "type": "utility",
     "image": 16,
     "cooldown": -4,
@@ -309,7 +309,7 @@
   },
   {
     "id": "core_2_cooldown",
-    "name": "Redução de Tempo de Recarga 2",
+    "name": "Redução de Recarga 2",
     "type": "utility",
     "image": 16,
     "cooldown": -2,
@@ -326,7 +326,7 @@
         "value": 4
       }
     ],
-    "description": "Efeitos de aumento de estatísticas funcionam apenas com habilidades que se aplicam com duração."
+    "description": "Efeitos de aumento de atributo funcionam apenas com habilidades que aplicam efeitos com duração."
   },
   {
     "id": "core_2_open_wound",
@@ -339,7 +339,7 @@
         "value": 0.2
       }
     ],
-    "description": "Aplica o efeito de Sangramento igual a 20% do dano causado pela habilidade."
+    "description": "Aplica efeito de Sangramento igual a 20% do dano físico ou verdadeiro causado pela habilidade."
   },
   {
     "id": "core_2_increase_bleed",
@@ -379,7 +379,7 @@
         "secondary_value": "bleed"
       }
     ],
-    "description": "Dano bônus se o alvo tiver o efeito de Sangramento."
+    "description": "Dano extra se o alvo tiver efeito de Sangramento."
   },
   {
     "id": "core_2_overhead",
@@ -397,7 +397,7 @@
         "secondary_value": "self"
       }
     ],
-    "description": "Bônus de 25% de dano, mas aplica o efeito de Vulnerável a si mesmo. Enquanto Vulnerável, você não pode aparar ataques."
+    "description": "Concede bônus de 25% de dano, mas aplica o efeito Vulnerável a si mesmo. Enquanto Vulnerável, você não pode aparar ataques."
   },
   {
     "id": "core_2_blood_is_life",
@@ -412,7 +412,7 @@
         "third_value": 0.25
       }
     ],
-    "description": "Consome o efeito de Sangramento e cura a si mesmo por 25% do seu valor."
+    "description": "Consome o efeito Sangramento e cura a si mesmo em 25% de seu valor."
   },
   {
     "id": "core_2_armor",
@@ -426,11 +426,11 @@
         "secondary_value": "physical"
       }
     ],
-    "description": "Adiciona Resistência Física a todas as áreas de acerto."
+    "description": "Adiciona Resistência Física a todas as áreas de impacto."
   },
   {
     "id": "core_2_burn_stamina",
-    "name": "Queimar Fôlego",
+    "name": "Queimar Vigor",
     "type": "utility",
     "image": 26,
     "bonuses": [
@@ -439,11 +439,11 @@
         "value": 25
       }
     ],
-    "description": "Remove 25 de fôlego do oponente."
+    "description": "Remove 25 de vigor do oponente."
   },
   {
     "id": "core_2_health_for_stamina",
-    "name": "Vida por Fôlego",
+    "name": "Vida por Vigor",
     "type": "utility",
     "image": 27,
     "bonuses": [
@@ -452,7 +452,7 @@
         "value": 4.0
       }
     ],
-    "description": "Cura 4x o custo de fôlego da habilidade."
+    "description": "Cura 4x o custo de vigor da habilidade."
   },
   {
     "id": "core_2_thorns",
@@ -465,11 +465,11 @@
         "value": 5
       }
     ],
-    "description": "Adiciona 5 Espinhos. Espinhos aplicam dano verdadeiro quando atingido por um ataque corpo a corpo básico. Funciona apenas em habilidades com duração."
+    "description": "Adiciona 5 Espinhos. Espinhos aplicam dano verdadeiro ao ser atingido por ataque corpo a corpo básico. Funciona apenas em habilidades com duração."
   },
   {
     "id": "core_2_stamina",
-    "name": "Fôlego",
+    "name": "Vigor",
     "type": "utility",
     "image": 32,
     "bonuses": [
@@ -478,7 +478,7 @@
         "value": 15
       }
     ],
-    "description": "Regenera 15 de fôlego."
+    "description": "Regenera 15 de vigor."
   },
   {
     "id": "core_2_repeat_ability",
@@ -495,7 +495,7 @@
   },
   {
     "id": "core_2_damage_on_missing_health",
-    "name": "Dano com Vida Faltando",
+    "name": "Dano por Vida Perdida",
     "type": "offensive",
     "image": 36,
     "bonuses": [
@@ -504,7 +504,7 @@
         "value": 0.1
       }
     ],
-    "description": "Para cada 10% de vida faltando, cause +1 de dano."
+    "description": "Para cada 10% de vida perdida, cause +1 de dano."
   },
   {
     "id": "core_2_fear",
@@ -518,7 +518,7 @@
         "value": 1
       }
     ],
-    "description": "Aplica Medo ao alvo, fazendo com que ele seja incapaz de atacar e tente se mover para longe de você."
+    "description": "Aplica Medo ao alvo, fazendo com que ele não possa atacar e tente se afastar de você."
   },
   {
     "id": "core_2_true_damage",
@@ -531,11 +531,11 @@
         "value": "true"
       }
     ],
-    "description": "Tipo de Dano alterado para Verdadeiro. Dano verdadeiro ignora resistências."
+    "description": "Tipo de dano alterado para Verdadeiro. Dano verdadeiro ignora resistências."
   },
   {
     "id": "core_2_damage_on_missing_stamina",
-    "name": "Dano ao Fôlego Ausente",
+    "name": "Dano por Vigor Ausente",
     "type": "offensive",
     "image": 41,
     "bonuses": [
@@ -544,11 +544,11 @@
         "value": 0.05
       }
     ],
-    "description": "Para cada 5% de fôlego que o oponente está sem, adicione +1 de dano."
+    "description": "Para cada 5% de vigor que o oponente estiver faltando, adicione +1 de dano."
   },
   {
     "id": "core_2_increase_cooldown",
-    "name": "Aumentar Tempo de Recarga do Alvo",
+    "name": "Aumentar Recarga do Alvo",
     "type": "utility",
     "image": 33,
     "bonuses": [
@@ -557,7 +557,7 @@
         "value": 3
       }
     ],
-    "description": "Aumenta o tempo de recarga de uma habilidade aleatória do alvo."
+    "description": "Aumenta a recarga de uma habilidade aleatória do alvo."
   },
   {
     "id": "core_2_quick_recovery",
@@ -570,7 +570,7 @@
         "value": 1
       }
     ],
-    "description": "Reduz o tempo de recarga de uma de suas habilidades em 1 de forma aleatória."
+    "description": "Reduz a recarga de uma de suas habilidades em 1 aleatoriamente."
   },
   {
     "id": "core_2_double_stun",
@@ -584,11 +584,11 @@
         "secondary_value": 1.0
       }
     ],
-    "description": "Se o alvo estiver Atordoado, aumente em 1 turno."
+    "description": "Se o alvo tiver Atordoamento aplicado, aumente-o em 1 turno."
   },
   {
     "id": "core_2_melting_flame",
-    "name": "Chama Derretida",
+    "name": "Chama Derretente",
     "type": "offensive",
     "image": 47,
     "bonuses": [
@@ -598,7 +598,7 @@
         "secondary_value": "burn"
       }
     ],
-    "description": "Bônus de 20% de dano a alvos afligidos por Queimadura."
+    "description": "Dano bônus de 20% a alvos com Queimadura."
   },
   {
     "id": "core_2_fire_power",
@@ -615,7 +615,7 @@
         "value": "fire"
       }
     ],
-    "description": "O modificador de Dano da Arma na Habilidade é substituído por Poder Mágico. Tipo de Dano alterado para Fogo."
+    "description": "Modificador de Dano de Arma na Habilidade é substituído por Poder Mágico. Tipo de Dano alterado para Fogo."
   },
   {
     "id": "core_2_magic_power_to_physical",
@@ -632,7 +632,7 @@
         "value": "physical"
       }
     ],
-    "description": "O modificador de Poder Mágico na Habilidade é substituído por Dano da Arma. Tipo de Dano alterado para Físico."
+    "description": "Modificador de Poder Mágico na Habilidade é substituído por Dano de Arma. Tipo de Dano alterado para Físico."
   },
   {
     "id": "core_2_aoe_increase",
@@ -645,7 +645,7 @@
         "value": 2
       }
     ],
-    "description": "O alcance da Área de Efeito é aumentado em 2."
+    "description": "Alcance da Área de Efeito aumentado em 2."
   },
   {
     "id": "core_2_hell",
@@ -659,7 +659,7 @@
         "secondary_value": 10
       }
     ],
-    "description": "+1 de Dano para cada entidade de Chama Ardente no alcance de 10 células."
+    "description": "+1 de Dano para cada entidade Chama Ardente no alcance de 10 quadrados."
   },
   {
     "id": "core_2_world_in_flames",
@@ -677,7 +677,7 @@
         "value": 100
       }
     ],
-    "description": "25% de chance de criar Chama Ardente na célula alvo vazia. Máx. 100."
+    "description": "25% de chance de criar Chama Ardente no alvo vazio. Máx. 100."
   },
   {
     "id": "core_2_critical_roll",
@@ -725,11 +725,11 @@
         "secondary_value": 2
       }
     ],
-    "description": "Para cada célula entre você e o alvo, adicione [0 - 2] de dano."
+    "description": "Para cada tile entre você e o alvo, adicione [0 - 2] de dano."
   },
   {
     "id": "core_2_skill_level_damage",
-    "name": "Domínio de Habilidade",
+    "name": "Maestria em Habilidade",
     "type": "offensive",
     "image": 62,
     "bonuses": [
@@ -738,7 +738,7 @@
         "value": 0.5
       }
     ],
-    "description": "Para cada 2 níveis de uma habilidade, adicione +1 de dano."
+    "description": "Para cada 2 níveis de uma perícia da habilidade, adicione +1 de dano."
   },
   {
     "id": "core_2_ignore_party",
@@ -755,7 +755,7 @@
   },
   {
     "id": "core_2_copy_to_party",
-    "name": "Bônus de Grupo",
+    "name": "Buff de Grupo",
     "type": "utility",
     "image": 64,
     "bonuses": [
@@ -768,7 +768,7 @@
   },
   {
     "id": "core_2_reduce_cooldown",
-    "name": "Reduzir Tempo de Recarga",
+    "name": "Reduzir Recarga",
     "type": "utility",
     "image": 65,
     "bonuses": [
@@ -793,7 +793,7 @@
   },
   {
     "id": "core_2_make_them_weak",
-    "name": "Enfraquecê-los",
+    "name": "Torná-los Fracos",
     "type": "offensive",
     "image": 67,
     "bonuses": [
@@ -806,7 +806,7 @@
   },
   {
     "id": "core_2_strength_in_numbers",
-    "name": "Força em Números",
+    "name": "Força nos Números",
     "type": "offensive",
     "image": 68,
     "bonuses": [
@@ -815,7 +815,7 @@
         "value": 0.15
       }
     ],
-    "description": "Para cada Companheiro em seu Grupo, você causa +15% de dano."
+    "description": "Para cada Companheiro no seu Grupo, você causa +15% de dano."
   },
   {
     "id": "core_2_flower_power",
@@ -832,7 +832,7 @@
         "value": "poison"
       }
     ],
-    "description": "O modificador de Dano da Arma na Habilidade é substituído por Poder Mágico. O Tipo de Dano é alterado para Natureza."
+    "description": "O modificador de Dano de Arma na Habilidade é substituído por Poder Mágico. Tipo de Dano alterado para Natureza."
   },
   {
     "id": "core_2_burning_poison",
@@ -846,7 +846,7 @@
         "secondary_value": "poison_effect"
       }
     ],
-    "description": "Bônus de 20% de dano a alvos afligidos por Veneno."
+    "description": "Dano bônus de 20% a alvos afligidos por Veneno."
   },
   {
     "id": "core_2_poison",
@@ -859,11 +859,11 @@
         "value": 2
       }
     ],
-    "description": "Veneno é um dano de natureza ao longo do tempo. O dano escala com o Poder Mágico vezes o valor do veneno, indicando a duração do efeito. Ele é aplicado ao longo de um número especificado de turnos com efeito diminuindo a cada turno."
+    "description": "Veneno é um dano do tipo natureza ao longo do tempo. O dano escala com Poder Mágico vezes o valor do veneno, indicando a duração do efeito. É aplicado ao longo de um número especificado de turnos com efeito decrescente a cada turno."
   },
   {
     "id": "core_2_heal_on_cast",
-    "name": "Cura ao Conjurar",
+    "name": "Cura ao Lançar",
     "type": "utility",
     "image": 73,
     "bonuses": [
@@ -872,7 +872,7 @@
         "value": 3
       }
     ],
-    "description": "Cure-se por 3 de Vida toda vez que conjurar uma magia."
+    "description": "Recupere 3 de Vida sempre que lançar um feitiço."
   },
   {
     "id": "core_2_bonus_thorns",
@@ -899,11 +899,11 @@
         "secondary_value": 1
       }
     ],
-    "description": "A habilidade aplica uma pilha de Congelamento aos alvos atingidos e atualiza sua duração. Congelamento acumula até 50 vezes."
+    "description": "A habilidade aplica uma pilha de Congelamento aos alvos atingidos e renova sua duração. Congelamento acumula até 50 vezes."
   },
   {
     "id": "core_2_frost_damage",
-    "name": "Dano de Gelo",
+    "name": "Dano de Geada",
     "type": "offensive",
     "image": 75,
     "bonuses": [
@@ -916,11 +916,11 @@
         "value": 1
       }
     ],
-    "description": "Transforma o dano da habilidade em Gelo e escala com Poder Mágico em vez de Arma."
+    "description": "Transforma o dano da habilidade em Geada e faz escalar com Poder Mágico em vez de Arma."
   },
   {
     "id": "core_2_gripped_ice",
-    "name": "Aperto de Gelo",
+    "name": "Agarado pelo Gelo",
     "type": "utility",
     "image": 79,
     "cooldown": 8,
@@ -932,11 +932,11 @@
         "third_value": 0.04
       }
     ],
-    "description": "Atordoa o alvo por 0.04 turno por pilha de Congelamento e consome todas as pilhas de Congelamento."
+    "description": "Atordoa o alvo por 0.04 turno por pilha de Congelamento, e consome todas as pilhas de Congelamento."
   },
   {
     "id": "core_2_ice_cold",
-    "name": "Gelo Frio",
+    "name": "Gélido",
     "type": "offensive",
     "image": 76,
     "bonuses": [
@@ -946,7 +946,7 @@
         "secondary_value": 0.5
       }
     ],
-    "description": "Em vez de dano, aplica metade dele como pilhas de Congelamento. Congelamento acumula até 50 vezes."
+    "description": "Em vez de dano, aplique metade como pilhas de Congelamento. Congelamento acumula até 50 vezes."
   },
   {
     "id": "core_2_cracking_ice",
@@ -960,11 +960,11 @@
         "secondary_value": "frostbite"
       }
     ],
-    "description": "Bônus de 30% de dano a alvos afligidos por Congelamento."
+    "description": "Bônus de 30% de dano a alvos aflitos por Queimadura de Gelo."
   },
   {
     "id": "core_2_stone_cold",
-    "name": "Pedra Fria",
+    "name": "Frio como Pedra",
     "type": "defensive",
     "image": 78,
     "bonuses": [
@@ -973,11 +973,11 @@
         "value": 10
       }
     ],
-    "description": "Ganha 10 de Força de Vontade pela duração da habilidade usada."
+    "description": "Ganhe 10 de força de vontade pela duração da habilidade usada."
   },
   {
     "id": "core_2_frostbite",
-    "name": "Congelamento",
+    "name": "Queimadura de Gelo",
     "type": "offensive",
     "image": 80,
     "bonuses": [
@@ -988,7 +988,7 @@
         "third_value": 0.1
       }
     ],
-    "description": "Aplica duração de Congelamento igual a 10% do número de pilhas de Congelamento no alvo e consome todas as pilhas de Congelamento."
+    "description": "Aplique duração de Queimadura de Gelo igual a 10% do número de pilhas de Congelamento no alvo, e consuma todas as pilhas de Congelamento."
   },
   {
     "id": "core_2_electric_power",
@@ -1005,7 +1005,7 @@
         "value": "electricity"
       }
     ],
-    "description": "O modificador de Dano da Arma na Habilidade é substituído por Poder Mágico. O Tipo de Dano é alterado para Eletricidade."
+    "description": "O modificador de Dano de Arma na Habilidade é substituído por Poder Mágico. Tipo de Dano alterado para Eletricidade."
   },
   {
     "id": "core_2_electroshock",
@@ -1020,7 +1020,7 @@
         "third_value": 0.1
       }
     ],
-    "description": "Atordoa o alvo por 0.1 turno por pilha de Estático e consome todas as pilhas de Estático."
+    "description": "Atordoa o alvo por 0.1 turno por pilha de Estático, e consome todas as pilhas de Estático."
   },
   {
     "id": "core_2_unleash",
@@ -1037,7 +1037,7 @@
   },
   {
     "id": "core_2_chain_3",
-    "name": "Cadeia",
+    "name": "Corrente",
     "type": "offensive",
     "image": 86,
     "bonuses": [
@@ -1046,11 +1046,11 @@
         "value": 3
       }
     ],
-    "description": "O efeito em cadeia repete a habilidade três vezes, fazendo com que ela atinja um alvo válido próximo."
+    "description": "O efeito de corrente repete a habilidade três vezes, fazendo com que ela alcance um alvo válido próximo."
   },
   {
     "id": "core_2_death_damage",
-    "name": "Dano da Morte",
+    "name": "Dano de Morte",
     "type": "offensive",
     "image": 87,
     "bonuses": [
@@ -1063,7 +1063,7 @@
         "value": 1
       }
     ],
-    "description": "Transforma o dano da habilidade em Morte e escala com Poder Mágico em vez de Arma."
+    "description": "Transforma o dano da habilidade em Morte e faz escalar com Poder Mágico em vez de Arma."
   },
   {
     "id": "core_2_undeath",
@@ -1077,7 +1077,7 @@
         "secondary_value": 10
       }
     ],
-    "description": "+1 de Poder Mágico para cada entidade Morta-Viva no alcance de 10 células."
+    "description": "+1 de Poder Mágico para cada entidade Morta-Viva no alcance de 10 ladrilhos."
   },
   {
     "id": "core_2_lifesteal",
@@ -1094,7 +1094,7 @@
   },
   {
     "id": "core_2_enduring",
-    "name": "Resistente",
+    "name": "Duradouro",
     "type": "defensive",
     "image": 98,
     "bonuses": [
@@ -1107,7 +1107,7 @@
   },
   {
     "id": "core_2_righteous_wrath",
-    "name": "Fúria Justa",
+    "name": "Ira Justa",
     "type": "defensive",
     "image": 99,
     "bonuses": [
@@ -1117,7 +1117,7 @@
         "secondary_value": 1
       }
     ],
-    "description": "Adiciona uma carga de Fúria Divina. Cada carga reduz o tempo de ataques em 0.01 e aumenta o dano em 4%."
+    "description": "Adiciona pilha de Fúria Divina. Cada pilha reduz o tempo de ataques em 0.01 e aumenta o dano em 4%."
   },
   {
     "id": "core_2_holy_power",
@@ -1134,11 +1134,11 @@
         "value": "holy"
       }
     ],
-    "description": "O modificador de Dano da Arma na Habilidade é substituído por Poder Mágico. O Tipo de Dano é alterado para Sagrado."
+    "description": "Modificador de Dano de Arma na Habilidade é substituído por Poder Mágico. Tipo de Dano alterado para Sagrado."
   },
   {
     "id": "core_2_brighter_light",
-    "name": "Luz Brilhante",
+    "name": "Luz Mais Brilhante",
     "type": "offensive",
     "image": 95,
     "bonuses": [
@@ -1148,11 +1148,11 @@
         "secondary_value": "burning_light"
       }
     ],
-    "description": "Bônus de 30% de dano a alvos afligidos pela Luz Ardente."
+    "description": "Dano bônus de 30% contra alvos aflitos por Luz Ardente."
   },
   {
     "id": "core_2_loner",
-    "name": "Solitarismo",
+    "name": "Solitário",
     "type": "offensive",
     "image": 96,
     "bonuses": [
@@ -1161,6 +1161,6 @@
         "value": 0.5
       }
     ],
-    "description": "Seus ataques e habilidades causam 50% mais dano se você lutar sem companheiros."
+    "description": "Seus ataques e habilidades causam 50% de dano adicional se você lutar sem nenhum companheiro."
   }
 ]

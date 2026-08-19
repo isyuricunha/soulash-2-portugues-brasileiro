@@ -64,5 +64,6 @@
   ],
   "name": "Toga",
   "value": 1200,
-  "weight": 0.5
+  "weight": 0.5,
+  "feminine_form": true
 }

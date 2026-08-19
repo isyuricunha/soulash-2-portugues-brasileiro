@@ -81,9 +81,9 @@
   "moveable": {
     "speed": 1.0
   },
-  "name": "Elfo Punho",
+  "name": "Punho Élfico",
   "persona": {
-    "occupation": "Punho"
+    "occupation": "Fist"
   },
   "sight": {
     "ignore_infra_penalty": false,

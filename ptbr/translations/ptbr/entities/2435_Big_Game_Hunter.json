@@ -104,7 +104,7 @@
   "moveable": {
     "speed": 0.8999999761581421
   },
-  "name": "Caçador de Grandes Presas",
+  "name": "Caçador de Grande Caça",
   "sight": {
     "ignore_infra_penalty": false,
     "infravision": false,

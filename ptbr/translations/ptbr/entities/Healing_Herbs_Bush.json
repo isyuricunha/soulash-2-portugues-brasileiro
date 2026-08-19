@@ -24,7 +24,7 @@
     "producer"
   ],
   "corpse": [],
-  "description": "Arbusto cheio de ervas capazes de aumentar sua regeneração.",
+  "description": "Arbusto cheio de ervas capazes de impulsionar sua regeneração.",
   "glyph": {
     "frames": [
       {
@@ -64,7 +64,7 @@
     73,
     73
   ],
-  "name": "Arbusto de Ervas de Cura",
+  "name": "Arbusto de Ervas Curativas",
   "producer": {
     "products": {
       "10": [

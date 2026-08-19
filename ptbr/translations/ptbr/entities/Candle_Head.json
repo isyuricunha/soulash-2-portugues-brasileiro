@@ -48,7 +48,7 @@
       1
     ]
   },
-  "description": "A cabeça de um golem com uma enorme vela no topo. Boa fonte de luz sobre pernas.",
+  "description": "Cabeça de golem com uma enorme vela no topo. Boa fonte de luz sobre pernas.",
   "glyph": {
     "frames": [
       {
@@ -80,5 +80,6 @@
   ],
   "name": "Cabeça de Vela",
   "value": 15000,
-  "weight": 0.5
+  "weight": 0.5,
+  "feminine_form": true
 }

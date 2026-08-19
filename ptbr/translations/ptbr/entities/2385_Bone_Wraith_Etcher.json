@@ -80,9 +80,9 @@
   "moveable": {
     "speed": 1.0
   },
-  "name": "Espectro de Osso Gravador",
+  "name": "Entalhador de Espectro Ósseo",
   "persona": {
-    "occupation": "Gravador de Ossos"
+    "occupation": "Bone Etcher"
   },
   "sight": {
     "ignore_infra_penalty": false,

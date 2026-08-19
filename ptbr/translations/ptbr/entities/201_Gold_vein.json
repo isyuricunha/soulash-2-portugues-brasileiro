@@ -33,7 +33,7 @@
     "producer"
   ],
   "corpse": "160",
-  "description": "Um veio de minério de ouro.",
+  "description": "Uma veia de minério de ouro.",
   "glyph": {
     "frames": [
       {
@@ -56,7 +56,7 @@
     165,
     32
   ],
-  "name": "Veio de Ouro",
+  "name": "Veia de Ouro",
   "producer": {
     "products": {
       "5": [
@@ -71,5 +71,6 @@
       ]
     },
     "time": 30
-  }
+  },
+  "feminine_form": true
 }

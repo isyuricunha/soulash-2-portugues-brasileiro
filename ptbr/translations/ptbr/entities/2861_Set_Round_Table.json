@@ -36,7 +36,7 @@
     "time": 10,
     "tools": []
   },
-  "description": "Pronta para uma refeição agradável.",
+  "description": "Pronto para uma boa refeição.",
   "glyph": {
     "frames": [
       {
@@ -58,7 +58,7 @@
     48,
     17
   ],
-  "name": "Mesa Redonda Posta",
+  "name": "Conjunto de Mesa Redonda",
   "producer": {
     "products": {
       "core_2_deconstruct": [
@@ -73,5 +73,6 @@
       ]
     },
     "time": 20
-  }
+  },
+  "feminine_form": true
 }

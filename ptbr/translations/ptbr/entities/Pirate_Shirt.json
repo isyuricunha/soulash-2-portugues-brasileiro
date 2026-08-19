@@ -37,7 +37,7 @@
       12
     ]
   },
-  "description": "Uma camisa branca com mangas completas e alguns babados na frente.",
+  "description": "Uma camisa branca com mangas compridas e alguns babados na frente.",
   "glyph": {
     "frames": [
       {
@@ -62,7 +62,7 @@
     200,
     200
   ],
-  "name": "Camisa de Pirata",
+  "name": "Camisa Pirata",
   "value": 350,
   "weight": 0.5
 }

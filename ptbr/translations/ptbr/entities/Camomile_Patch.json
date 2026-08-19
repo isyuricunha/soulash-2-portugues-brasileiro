@@ -8,7 +8,7 @@
     "producer"
   ],
   "corpse": [],
-  "description": "Um pequeno trecho de flores brancas.",
+  "description": "Um pequeno canteiro de flores brancas.",
   "glyph": {
     "frames": [
       {
@@ -30,7 +30,7 @@
     218,
     147
   ],
-  "name": "Trecho de Camomila",
+  "name": "Canteiro de Camomila",
   "producer": {
     "products": {
       "10": [

@@ -7,7 +7,7 @@
     "position_2d"
   ],
   "corpse": [],
-  "description": "Algumas partes de planta aquática.",
+  "description": "Algumas partes de planta subaquática.",
   "glyph": {
     "frames": [
       {
@@ -29,5 +29,6 @@
     39,
     13
   ],
-  "name": "Alga"
+  "name": "Kelp",
+  "feminine_form": true
 }

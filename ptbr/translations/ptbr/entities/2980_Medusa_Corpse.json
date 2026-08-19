@@ -64,5 +64,6 @@
     },
     "time": 10
   },
-  "weight": 40.0
+  "weight": 40.0,
+  "feminine_form": true
 }

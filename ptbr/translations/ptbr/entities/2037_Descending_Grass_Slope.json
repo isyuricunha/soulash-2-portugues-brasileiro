@@ -7,7 +7,7 @@
     "position_2d",
     "producer"
   ],
-  "description": "Declive coberto de grama e plantas levando para baixo.",
+  "description": "Encosta coberta de grama e plantas que desce.",
   "glyph": {
     "frames": [
       {
@@ -32,7 +32,7 @@
     38,
     7
   ],
-  "name": "Declive de Grama Descendente",
+  "name": "Encosta Gramada Descendente",
   "producer": {
     "products": {
       "core_2_deconstruct": [
@@ -47,5 +47,6 @@
       ]
     },
     "time": 40
-  }
+  },
+  "feminine_form": true
 }

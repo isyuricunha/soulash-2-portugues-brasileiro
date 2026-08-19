@@ -6,7 +6,7 @@
     "health": 1,
     "stamina": 3
   },
-  "description": "Toque um alvo próximo para causar ::damage de dano ::damage_type.",
+  "description": "Toque um alvo próximo a você para causar ::damage de dano ::damage_type.",
   "duration": 0.0,
   "effects": {
     "damage": [

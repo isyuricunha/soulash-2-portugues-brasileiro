@@ -9,7 +9,7 @@
     "value",
     "weight"
   ],
-  "description": "Uma cabeça de um espectro de osso. Pode ainda reter algumas memórias.",
+  "description": "Uma cabeça de um espectro de osso. Pode ainda guardar algumas memórias.",
   "glyph": {
     "frames": [
       {
@@ -40,5 +40,6 @@
     "recipe": ""
   },
   "value": 150,
-  "weight": 2.5
+  "weight": 2.5,
+  "feminine_form": true
 }

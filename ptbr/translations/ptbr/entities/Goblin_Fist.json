@@ -85,9 +85,9 @@
   "moveable": {
     "speed": 0.8999999761581421
   },
-  "name": "Goblin Punhos",
+  "name": "Goblin Punho",
   "persona": {
-    "occupation": "Punho"
+    "occupation": "Fist"
   },
   "sight": {
     "ignore_infra_penalty": false,

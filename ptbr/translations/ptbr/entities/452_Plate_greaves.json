@@ -64,7 +64,8 @@
     143,
     137
   ],
-  "name": "Caneleiras de Placas",
+  "name": "Grebas de Placa",
   "value": 2600,
-  "weight": 4.0
+  "weight": 4.0,
+  "feminine_form": true
 }

@@ -68,5 +68,6 @@
   ],
   "name": "Coroa de Flores",
   "value": 1300,
-  "weight": 1.0
+  "weight": 1.0,
+  "feminine_form": true
 }

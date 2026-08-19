@@ -57,7 +57,7 @@
     153,
     97
   ],
-  "name": "Dardo",
+  "name": "Azagaia",
   "value": 1200,
   "weapon": {
     "attack_animation": "5",
@@ -75,5 +75,6 @@
     "range": 6,
     "type": 11
   },
-  "weight": 1.0
+  "weight": 1.0,
+  "feminine_form": true
 }

@@ -25,7 +25,7 @@
       1
     ]
   },
-  "description": "Uma espada com lâmina longa e dupla.",
+  "description": "Uma espada com lâmina longa e de dois gumes.",
   "glyph": {
     "frames": [
       {
@@ -68,5 +68,6 @@
     "range": 1,
     "type": 1
   },
-  "weight": 2.0
+  "weight": 2.0,
+  "feminine_form": true
 }

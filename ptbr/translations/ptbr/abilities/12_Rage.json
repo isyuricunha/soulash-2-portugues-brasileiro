@@ -6,7 +6,7 @@
     "health": 0,
     "stamina": 25
   },
-  "description": "Você entra em um estado de fúria primal, aumentando o dano que causa em ::damage_bonus_percent%, mas tornando-se vulnerável também, recebendo uma penalidade de redução de dano de ::damage_reduce_percent%.",
+  "description": "Você entra em estado de fúria primal, aumentando o dano que causa em ::damage_bonus_percent%, mas ficando vulnerável também, recebendo penalidade de ::damage_reduce_percent% na redução de dano.",
   "duration": 10.0,
   "effects": {
     "damage_bonus_percent": 0.25,
