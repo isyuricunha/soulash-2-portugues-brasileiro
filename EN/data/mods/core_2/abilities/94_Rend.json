@@ -1,0 +1,36 @@
+{
+	"animation": "121",
+	"cast_time": -1.0,
+	"cooldown": 7.0,
+	"cost": {
+		"health": 0,
+		"stamina": 4
+	},
+	"description": "Cut deep at the flesh of your enemy dealing ::damage ::damage_type damage and apply ::bleed bleeding damage over time.",
+	"duration": 0.0,
+	"effects": {
+		"bleed": 20,
+		"damage": [
+			1,
+			4
+		],
+		"damage_type": "true",
+		"damage_weapon": 0.10000000149011612
+	},
+	"id": "94",
+	"image": 71,
+	"name": "Rend",
+	"range": -1,
+	"requirements": {
+		"one_of": [
+			2,
+			1,
+			4
+		]
+	},
+	"skill": "core_2_sword_fighting",
+	"slots": {
+		"offensive": 2
+	},
+	"target": "health"
+}

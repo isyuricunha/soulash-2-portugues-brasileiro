@@ -1,0 +1,16 @@
+{
+	"id": "core_2_leaf_spear",
+	"name": "Leaf Spear",
+	"requirements": {
+		"milestones": [],
+		"skill": 34
+	},
+	"rewards": [
+		{
+			"recipe": "core_2_Leaf_Spear"
+		}
+	],
+	"skill_id": "core_2_weaponsmith",
+	"steps": [],
+	"steps_type": 0
+}

@@ -1,0 +1,22 @@
+{
+	"animation": "",
+	"cast_time": 0.0,
+	"cooldown": 0.0,
+	"cost": {
+		"health": 0,
+		"stamina": 0
+	},
+	"description": "You feel empowered by a tasty Goulash, giving you bonus ::strength Strength, ::endurance Endurance, and ::dexterity Dexterity for ::duration turns.",
+	"duration": 600.0,
+	"effects": {
+		"dexterity": 3,
+		"endurance": 3,
+		"strength": 3
+	},
+	"id": "core_2_Goulash",
+	"image": 327,
+	"name": "Goulash",
+	"range": 0,
+	"skill": "",
+	"target": "self"
+}

@@ -1,0 +1,64 @@
+{
+	"components": [
+		"glyph",
+		"minimap_pixel",
+		"name",
+		"position_2d",
+		"producer",
+		"stackable"
+	],
+	"description": "A wild purple mushroom. Might be edible.",
+	"glyph": {
+		"frames": [
+			{
+				"color": [
+					255,
+					255,
+					253
+				],
+				"delay": 0,
+				"index": 390
+			},
+			{
+				"color": [
+					255,
+					255,
+					253
+				],
+				"delay": 0,
+				"index": 936
+			}
+		],
+		"random_frame_start": true
+	},
+	"id": "changeme_template_Purple_Mushrooms",
+	"minimap_pixel": [
+		159,
+		90,
+		253
+	],
+	"name": "Purple Mushrooms",
+	"producer": {
+		"products": {
+			"10": [
+				{
+					"amount": [
+						1,
+						2
+					],
+					"id": "343",
+					"percent_chance": 100
+				},
+				{
+					"amount": [
+						1,
+						1
+					],
+					"id": "3047",
+					"percent_chance": 10
+				}
+			]
+		},
+		"time": 10
+	}
+}

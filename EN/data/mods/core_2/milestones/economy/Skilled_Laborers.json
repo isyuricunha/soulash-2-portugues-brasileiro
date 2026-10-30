@@ -1,0 +1,15 @@
+{
+	"id": "core_2_skilled_laborers",
+	"name": "Skilled Laborers",
+	"requirements": {
+		"skill": 41
+	},
+	"rewards": [
+		{
+			"passive": "core_2_skilled_laborers"
+		}
+	],
+	"skill_id": "core_2_economy",
+	"steps": [],
+	"steps_type": 0
+}

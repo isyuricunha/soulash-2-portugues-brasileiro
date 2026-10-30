@@ -1,0 +1,15 @@
+{
+	"id": "98",
+	"image": 72,
+	"max": 1,
+	"name": "Shaman's Hut",
+	"occupation_image": 93,
+	"occupation": "2335",
+	"produces": [],
+	"race": "10",
+	"tier": 2,
+	"workers": [
+		1,
+		1
+	]
+}

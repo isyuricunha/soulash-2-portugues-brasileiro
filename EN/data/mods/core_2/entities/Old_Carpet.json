@@ -1,0 +1,30 @@
+{
+	"components": [
+		"glyph",
+		"minimap_pixel",
+		"name",
+		"position_2d"
+	],
+	"description": "This carpet is worn out by time and frequent use.",
+	"glyph": {
+		"frames": [
+			{
+				"color": [
+					255,
+					255,
+					255
+				],
+				"delay": 0,
+				"index": 3081
+			}
+		],
+		"random_frame_start": false
+	},
+	"id": "core_2_Old_Carpet",
+	"minimap_pixel": [
+		148,
+		25,
+		22
+	],
+	"name": "Old Carpet"
+}

@@ -1,0 +1,62 @@
+{
+	"components": [
+		"craftable",
+		"food",
+		"glyph",
+		"item",
+		"minimap_pixel",
+		"name",
+		"position_2d",
+		"stackable",
+		"value",
+		"weight"
+	],
+	"craftable": {
+		"backgrounds": [],
+		"biomes": [],
+		"magic_slots": 0,
+		"resources": [
+			{
+				"amount": 1,
+				"id": "800"
+			}
+		],
+		"time": 1,
+		"tools": [
+			8
+		]
+	},
+	"description": "Milled wheat grain is an important baking ingredient.",
+	"food": {
+		"nutrition": 1,
+		"on_eat": "",
+		"raw": true
+	},
+	"glyph": {
+		"frames": [
+			{
+				"color": [
+					255,
+					255,
+					255
+				],
+				"delay": 0,
+				"index": 402
+			}
+		],
+		"random_frame_start": false
+	},
+	"id": "801",
+	"item": {
+		"image": 358,
+		"type": 20
+	},
+	"minimap_pixel": [
+		182,
+		185,
+		184
+	],
+	"name": "Wheat Flour",
+	"value": 200,
+	"weight": 0.009999999776482582
+}

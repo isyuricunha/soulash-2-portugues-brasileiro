@@ -1,0 +1,23 @@
+{
+	"animation": "241",
+	"cast_time": 0.5,
+	"cooldown": 200.0,
+	"cost": {
+		"health": 0,
+		"stamina": 0
+	},
+	"description": "Reset cooldown of ::clear_cooldowns abilities. The abilities are picked from the beginning of your action bar and only apply to the ones that are on cooldown.",
+	"duration": 0.0,
+	"effects": {
+		"clear_cooldowns": 4
+	},
+	"id": "189",
+	"image": 540,
+	"name": "Tactical Recovery",
+	"range": 0,
+	"skill": "core_2_mace_fighting",
+	"slots": {
+		"utility": 3
+	},
+	"target": "self"
+}

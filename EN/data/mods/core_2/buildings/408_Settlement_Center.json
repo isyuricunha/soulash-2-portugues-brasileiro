@@ -1,0 +1,12 @@
+{
+	"id": "408",
+	"image": 158,
+	"name": "Settlement Center",
+	"occupation": "-1",
+	"produces": [],
+	"race": "7",
+	"workers": [
+		0,
+		0
+	]
+}

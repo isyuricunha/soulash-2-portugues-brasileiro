@@ -1,0 +1,26 @@
+{
+	"animation": "236",
+	"cast_time": 1.0,
+	"cooldown": 10.0,
+	"cost": {
+		"health": 0,
+		"stamina": 7
+	},
+	"description": "An attack dealing ::damage ::damage_type damage and applying ::stun stun effect to the enemy.",
+	"duration": 0.30000001192092896,
+	"effects": {
+		"damage": [
+			2,
+			4
+		],
+		"damage_type": "physical",
+		"damage_weapon": 1.0,
+		"stun": 0.30000001192092896
+	},
+	"id": "184",
+	"image": 640,
+	"name": "Stomp",
+	"range": 1,
+	"skill": "",
+	"target": "health"
+}

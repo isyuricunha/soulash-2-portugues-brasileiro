@@ -1,0 +1,64 @@
+{
+	"components": [
+		"glyph",
+		"item",
+		"minimap_pixel",
+		"name",
+		"position_2d",
+		"resource",
+		"stackable",
+		"value",
+		"weapon",
+		"weight"
+	],
+	"description": "A small fragment of a mossman that seems to be moving independently.",
+	"glyph": {
+		"frames": [
+			{
+				"color": [
+					255,
+					255,
+					255
+				],
+				"delay": 0,
+				"index": 2133
+			}
+		],
+		"random_frame_start": false
+	},
+	"id": "core_2_Live_Moss",
+	"item": {
+		"image": 875,
+		"type": 16
+	},
+	"minimap_pixel": [
+		245,
+		240,
+		226
+	],
+	"name": "Live Moss",
+	"resource": {
+		"affix": "of Lichen",
+		"magic_ingredient": 1,
+		"quality": 1,
+		"type": 7
+	},
+	"value": 500,
+	"weapon": {
+		"attack_speed": 0.0,
+		"critical_hit": 0.0,
+		"damage": [
+			{
+				"dmg_max": 1,
+				"dmg_min": 1,
+				"dmg_type": "death"
+			}
+		],
+		"hands": 0,
+		"hit_bonus": 0,
+		"parry_bonus": 0,
+		"range": 0,
+		"type": 9
+	},
+	"weight": 0.10000000149011612
+}

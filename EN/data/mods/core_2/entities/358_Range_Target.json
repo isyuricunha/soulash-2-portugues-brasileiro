@@ -1,0 +1,72 @@
+{
+	"category_id": 7,
+	"components": [
+		"collidable",
+		"craftable",
+		"glyph",
+		"health",
+		"height",
+		"minimap_pixel",
+		"name",
+		"position_2d",
+		"producer"
+	],
+	"corpse": "62",
+	"craftable": {
+		"backgrounds": [],
+		"biomes": [],
+		"magic_slots": 0,
+		"resource_types": [
+			{
+				"amount": 3,
+				"id": 3
+			},
+			{
+				"amount": 1,
+				"id": 4
+			}
+		],
+		"resources": null,
+		"time": 20,
+		"tools": []
+	},
+	"description": "Used to train shooting at immobile targets.",
+	"glyph": {
+		"frames": [
+			{
+				"color": [
+					255,
+					255,
+					255
+				],
+				"delay": 0,
+				"index": 623
+			}
+		],
+		"random_frame_start": false
+	},
+	"health": 20000,
+	"height": 0,
+	"id": "358",
+	"minimap_pixel": [
+		79,
+		35,
+		10
+	],
+	"name": "Range Target",
+	"producer": {
+		"products": {
+			"core_2_deconstruct": [
+				{
+					"amount": [
+						0,
+						0
+					],
+					"id": "",
+					"percent_chance": 100
+				}
+			]
+		},
+		"time": 20
+	}
+}

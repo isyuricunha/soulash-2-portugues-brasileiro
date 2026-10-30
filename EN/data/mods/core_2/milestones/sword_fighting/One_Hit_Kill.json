@@ -1,0 +1,16 @@
+{
+	"id": "core_2_one_hit_kill",
+	"name": "One Hit Kill",
+	"requirements": {
+		"milestones": [],
+		"skill": 50
+	},
+	"rewards": [
+		{
+			"ability": "178"
+		}
+	],
+	"skill_id": "core_2_sword_fighting",
+	"steps": [],
+	"steps_type": 0
+}

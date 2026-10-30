@@ -1,0 +1,60 @@
+{
+	"components": [
+		"glyph",
+		"item",
+		"liquid_source",
+		"minimap_pixel",
+		"name",
+		"position_2d",
+		"producer",
+		"value",
+		"weight"
+	],
+	"description": "The remains of a gnibra.",
+	"glyph": {
+		"frames": [
+			{
+				"color": [
+					255,
+					255,
+					255
+				],
+				"delay": 0,
+				"index": 1829
+			}
+		],
+		"random_frame_start": false
+	},
+	"id": "2773",
+	"item": {
+		"image": 723,
+		"type": 18
+	},
+	"liquid_source": {
+		"limit": 80,
+		"type": 4
+	},
+	"minimap_pixel": [
+		171,
+		102,
+		57
+	],
+	"name": "Gnibra Corpse",
+	"producer": {
+		"products": {
+			"3": [
+				{
+					"amount": [
+						3,
+						5
+					],
+					"id": "318",
+					"percent_chance": 100
+				}
+			]
+		},
+		"time": 0
+	},
+	"value": 0,
+	"weight": 70.0
+}

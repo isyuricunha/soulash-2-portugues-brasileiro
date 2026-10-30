@@ -1,0 +1,46 @@
+{
+	"components": [
+		"food",
+		"glyph",
+		"item",
+		"minimap_pixel",
+		"name",
+		"position_2d",
+		"stackable",
+		"value",
+		"weight"
+	],
+	"description": "Delicious sausage roasted over a fire. Don't ask what kind of meat it has inside.",
+	"food": {
+		"nutrition": 20,
+		"on_eat": "",
+		"raw": false
+	},
+	"glyph": {
+		"frames": [
+			{
+				"color": [
+					255,
+					255,
+					255
+				],
+				"delay": 0,
+				"index": 3317
+			}
+		],
+		"random_frame_start": false
+	},
+	"id": "core_2_Sausage",
+	"item": {
+		"image": 1511,
+		"type": 20
+	},
+	"minimap_pixel": [
+		206,
+		130,
+		50
+	],
+	"name": "Sausage",
+	"value": 200,
+	"weight": 0.20000000298023224
+}

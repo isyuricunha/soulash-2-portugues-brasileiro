@@ -1,0 +1,31 @@
+{
+	"animation": "core_2_Ram",
+	"cast_time": 1.0,
+	"cooldown": 20.0,
+	"cost": {
+		"health": 0,
+		"stamina": 10
+	},
+	"description": "Rush forward ::range tiles hitting first thing you come in contact with, dealing ::damage ::damage_type damage and knocking them back.",
+	"duration": 0.0,
+	"effects": {
+		"charge": 8,
+		"damage": [
+			30,
+			50
+		],
+		"damage_type": "electricity",
+		"knockback": 5
+	},
+	"id": "core_2_Ram",
+	"image": 792,
+	"min_range": 1,
+	"name": "Ram",
+	"range": 8,
+	"skill": "",
+	"slots": {
+		"offensive": 1,
+		"utility": 1
+	},
+	"target": "line_health"
+}

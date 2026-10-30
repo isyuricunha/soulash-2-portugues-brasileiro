@@ -1,0 +1,61 @@
+{
+    "id": "core_2_raging_storm",
+    "name": "Raging Storm",
+    "category": "settlement",
+    "flavor": "The unnatural storm destroying this city was not stopped in time. Now the storm itself has descended to spread destruction and death.",
+    "icon": 19,
+    "small_icon": 19,
+    "rarity": "uncommon",
+    "restrict_races": [
+        "33"
+    ],
+    "trigger": {
+        "base_probability": 0.0,
+        "conditions": []
+    },
+    "duration": {
+        "type": "temporary",
+        "days": [
+            60,
+            120
+        ]
+    },
+    "effects": [
+        {
+            "type": "spawn_group",
+            "amount": [
+                1,
+                1
+            ],
+            "group_type": "hostile_group",
+            "entity": "core_2_Storm_Essence",
+            "z_level": 0,
+            "border_color": [
+                160,
+                40,
+                40
+            ]
+        }
+    ],
+    "extra_dialogues": ["core_2_raging_storm"],
+    "interactions": [
+        {
+            "type": "entity_destruction",
+            "translation_id": 2,
+            "entities": [
+                "core_2_Storm_Essence"
+            ],
+            "history_event": "::name slayed Storm Essence, ending the raging element in ::settlement!",
+            "announcement": "You have slayed Storm Essence in ::settlement!",
+            "reward": {
+                "remove_event": true,
+                "skill_id": "core_2_stormthrowing",
+			    "exp": 300
+            }
+        }
+    ],
+    "history_events": {
+        "begin": "Raging storm has been stopped!",
+        "end": "The storm took its toll and has clamed down for now."
+    }
+}

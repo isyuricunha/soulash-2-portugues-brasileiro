@@ -1,0 +1,16 @@
+{
+	"id": "core_2_bone_lock",
+	"name": "Bone Lock",
+	"requirements": {
+		"milestones": [],
+		"skill": 25
+	},
+	"rewards": [
+		{
+			"recipe": "core_2_Bone_Lock"
+		}
+	],
+	"skill_id": "core_2_imbuing",
+	"steps": [],
+	"steps_type": 0
+}

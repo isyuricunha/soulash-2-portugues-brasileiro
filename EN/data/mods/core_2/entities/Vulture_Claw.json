@@ -1,0 +1,39 @@
+{
+	"components": [
+		"glyph",
+		"item",
+		"minimap_pixel",
+		"name",
+		"position_2d",
+		"value",
+		"weight"
+	],
+	"description": "A claw of a dead vulture. Acceptable trophy in the Great Hunt.",
+	"glyph": {
+		"frames": [
+			{
+				"color": [
+					255,
+					255,
+					255
+				],
+				"delay": 0,
+				"index": 3394
+			}
+		],
+		"random_frame_start": false
+	},
+	"id": "core_2_Vulture_Claw",
+	"item": {
+		"image": 1559,
+		"type": 16
+	},
+	"minimap_pixel": [
+		150,
+		80,
+		15
+	],
+	"name": "Vulture Claw",
+	"value": 500,
+	"weight": 0.1
+}

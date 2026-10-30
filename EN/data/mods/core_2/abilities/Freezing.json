@@ -1,0 +1,27 @@
+{
+	"animation": "",
+	"cast_time": 1.0,
+	"cooldown": 8.0,
+	"cost": {
+		"health": 0,
+		"stamina": 0
+	},
+	"description": "Freeze target in place dealing ::damage ::damage_type damage and immobilizing it for ::duration turns and stunning target.",
+	"duration": 3.0,
+	"effects": {
+		"damage": [
+			45,
+			50
+		],
+		"damage_type": "frost",
+		"damage_weapon": 1.75,
+		"immobilize": 3,
+		"stun": 5.0
+	},
+	"id": "core_2_Freezing",
+	"image": 833,
+	"name": "Freezing",
+	"range": 10,
+	"skill": "",
+	"target": "health"
+}

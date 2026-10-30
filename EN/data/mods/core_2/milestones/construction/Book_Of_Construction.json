@@ -1,0 +1,16 @@
+{
+	"id": "core_2_book_construction",
+	"name": "Book Of Construction",
+	"requirements": {
+		"milestones": [],
+		"skill": 44
+	},
+	"rewards": [
+		{
+			"recipe": "3007"
+		}
+	],
+	"skill_id": "core_2_construction",
+	"steps": [],
+	"steps_type": 0
+}

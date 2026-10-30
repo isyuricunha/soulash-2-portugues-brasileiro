@@ -1,0 +1,56 @@
+{
+	"background": {
+		"color": [
+			0,
+			0,
+			0
+		],
+		"movement_penalty": 0.10000000149011612,
+		"noise": 9,
+		"noise_intensity": 5
+	},
+	"components": [
+		"background",
+		"glyph",
+		"health",
+		"minimap_pixel",
+		"name"
+	],
+	"corpse": [
+		{
+			"damage_type": 0,
+			"id": "30"
+		},
+		{
+			"damage_type": 2,
+			"id": "602"
+		},
+		{
+			"damage_type": 5,
+			"id": "2"
+		}
+	],
+	"description": "Path in the snow formed by numerous beings traversing it.",
+	"glyph": {
+		"frames": [
+			{
+				"color": [
+					255,
+					255,
+					255
+				],
+				"delay": 0,
+				"index": 819
+			}
+		],
+		"random_frame_start": false
+	},
+	"health": 1,
+	"id": "1999",
+	"minimap_pixel": [
+		60,
+		60,
+		60
+	],
+	"name": "Snow Path"
+}

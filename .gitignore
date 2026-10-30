@@ -4,3 +4,7 @@
 amostra_5k_linhas.txt
 glossario_mistral.md
 translation_cache.json
+
+translation-work/.state/
+__pycache__/
+*.pyc

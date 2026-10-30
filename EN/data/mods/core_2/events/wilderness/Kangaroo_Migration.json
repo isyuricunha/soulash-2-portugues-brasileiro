@@ -1,0 +1,36 @@
+{
+    "id": "core_2_kangaroo_migration",
+    "name": "Kangaroo Migration",
+    "category": "wilderness",
+    "flavor": "A mob of kangaroos is crossing the savanna on their seasonal migration, bounding from one edge of the land to the other in search of fresh grazing grounds. They are peaceful by nature but travel as a tight-knit group — disturb one and the whole mob turns.",
+    "icon": 0,
+    "small_icon": 0,
+    "rarity": "common",
+    "restrict_biomes": ["savanna"],
+    "trigger": {
+        "base_probability": 0.3
+    },
+    "duration": {
+        "type": "temporary",
+        "days": [
+            3,
+            8
+        ]
+    },
+    "max_per_region": 1,
+    "effects": [
+        {
+            "type": "migrate_group",
+            "entity": "core_2_Kangoroo",
+            "amount": [
+                30,
+                40
+            ],
+            "spawn_behaviors": [23]
+        }
+    ],
+    "history_events": {
+        "begin": "A mob of kangaroos has been spotted moving through the savanna on their seasonal migration.",
+        "end": "The kangaroo mob has crossed the region and vanished into the distance."
+    }
+}

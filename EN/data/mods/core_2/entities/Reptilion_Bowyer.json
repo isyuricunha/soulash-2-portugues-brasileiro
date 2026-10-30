@@ -1,0 +1,147 @@
+{
+	"artificial_intelligence": {
+		"allies": [
+			"24"
+		],
+		"allow_production": [],
+		"behaviors": [],
+		"enemies": []
+	},
+	"components": [
+		"actor",
+		"artificial_intelligence",
+		"collidable",
+		"dialogues",
+		"equipment",
+		"experience_gainer",
+		"fighter",
+		"glyph",
+		"health",
+		"humanoid",
+		"minimap_pixel",
+		"moveable",
+		"name",
+		"persona",
+		"position_2d",
+		"sight",
+		"skills",
+		"stamina",
+		"statistics",
+		"tags"
+	],
+	"corpse": "core_2_Reptilion_Corpse",
+	"description": "",
+	"dialogues": [],
+	"equipment": {
+		"ammo": [
+			{
+				"chance": 1.0,
+				"id": "234",
+				"name": "Bolt",
+				"stack": 5
+			}
+		],
+		"backpack": [
+			{
+				"chance": 1.0,
+				"id": "106",
+				"name": "Crossbow",
+				"stack": 1
+			}
+		],
+		"torso_cloth": [
+			{
+				"chance": 1.0,
+				"id": "23",
+				"name": "Rags",
+				"stack": 1
+			}
+		]
+	},
+	"experience_gainer": {
+		"exp": 5,
+		"level": 1
+	},
+	"fighter": {
+		"attackNames": null
+	},
+	"glyph": {
+		"frames": [
+			{
+				"color": [
+					255,
+					255,
+					255
+				],
+				"delay": 0,
+				"index": 128
+			}
+		],
+		"random_frame_start": false
+	},
+	"health": 69,
+	"humanoid": {
+		"race": "23"
+	},
+	"id": "core_2_Reptilion_Bowyer",
+	"minimap_pixel": [
+		113,
+		179,
+		34
+	],
+	"moveable": {
+		"speed": 1.100000023841858
+	},
+	"name": "Reptilion Bowyer",
+	"persona": {
+		"occupation": "Bowyer"
+	},
+	"sight": {
+		"ignore_infra_penalty": false,
+		"infravision": false,
+		"range": 9,
+		"threesixty": false
+	},
+	"skills": {
+		"milestones": [
+			"core_2_crossbow",
+			"core_2_heavy_crossbow",
+			"core_2_short_bow",
+			"core_2_training_bow"
+		],
+		"skills": [
+			"core_2_carpentry"
+		]
+	},
+	"stamina": {
+		"fatigue": 100,
+		"stamina": 100,
+		"stamina_regen": 0.0
+	},
+	"statistics": {
+		"dexterity": [
+			6,
+			10
+		],
+		"endurance": [
+			8,
+			14
+		],
+		"intelligence": [
+			6,
+			9
+		],
+		"strength": [
+			8,
+			11
+		],
+		"willpower": [
+			7,
+			11
+		]
+	},
+	"tags": [
+		"9",
+		"24"
+	]
+}

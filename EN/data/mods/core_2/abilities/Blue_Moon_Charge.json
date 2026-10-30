@@ -1,0 +1,21 @@
+{
+	"animation": "core_2_Heavy_Rain",
+	"cast_time": 0.0,
+	"cooldown": 0.0,
+	"cost": {
+		"health": 0,
+		"stamina": 0
+	},
+	"description": "The blue moon's electric energy courses through every being, increasing ::damage_type damage by ::damage_bonus_percent%.",
+	"duration": 6.0,
+	"effects": {
+		"damage_bonus_percent": 0.5,
+		"damage_type": "electricity"
+	},
+	"id": "core_2_Blue_Moon_Charge",
+	"image": 829,
+	"name": "Blue Moon Charge",
+	"range": 0,
+	"skill": "",
+	"target": "health"
+}

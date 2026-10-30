@@ -1,0 +1,110 @@
+{
+    "id": "core_2_neverending_sleep",
+    "name": "Neverending Sleep",
+    "category": "settlement",
+    "flavor": "An eternal night has befallen this city. Everyone is asleep, and despite hunger and thirst, they are unable to wake up.",
+    "icon": 30,
+    "small_icon": 30,
+    "rarity": "uncommon",
+    "restrict_races": [
+        "0",
+        "10",
+        "24",
+        "31"
+    ],
+    "trigger": {
+        "base_probability": 0.01,
+        "conditions": [
+            {
+                "type": "min_unemployed",
+                "value": 1
+            }
+        ]
+    },
+    "duration": {
+        "type": "temporary",
+        "days": [
+            60,
+            90
+        ]
+    },
+    "locations": [
+        {
+            "id": "core_2_dream_domain_event",
+            "radius": 10
+        }
+    ],
+    "effects": [
+        {
+            "type": "production_multiplier",
+            "multiplier": 0
+        },
+        {
+            "type": "force_sleep"
+        },
+        {
+            "type": "roaming_spawn",
+            "amount": [
+                1,
+                1
+            ],
+            "entity": "core_2_Sandman",
+            "spawn_behaviors": [
+                15,
+                17
+            ]
+        }
+    ],
+    "extra_dialogues": [],
+    "interactions": [
+        {
+            "type": "reveal_event_location",
+            "id": "core_2_dream_domain_reveal",
+            "translation_id": 0,
+            "entities": [
+                "core_2_Sandman"
+            ]
+        },
+        {
+            "type": "conversation",
+            "id": "core_2_neverending_sleep_reward",
+            "translation_id": 1,
+            "require_location_cleared": true,
+            "required_ingredients": [
+                {
+                    "id": "core_2_Sack_of_Sand",
+                    "amount": 1
+                }
+            ],
+            "entities": [
+                "core_2_Sandman"
+            ],
+            "label": "Deliver the sack of sand.",
+            "reward": {
+                "gold": 2000,
+                "remove_event": true,
+                "skill_id": "core_2_adventuring",
+                "exp": 100,
+                "announcement": "The settlement ::settlement has been woken up from neverending sleep."
+            },
+            "history_event": "::name has broken the neverending sleep!"
+        },
+        {
+            "type": "entity_destruction",
+            "translation_id": 2,
+            "entities": [
+                "core_2_Sandman"
+            ],
+            "history_event": "::name has slain the Sandman, ending the neverending sleep in ::settlement!",
+            "announcement": "You have slain the Sandman in ::settlement!",
+            "reward": {
+                "remove_event": true
+            }
+        }
+    ],
+    "history_events": {
+        "begin": "::settlement was plunged into an endless sleep.",
+        "end": "Eternal sleep in ::settlement was never broken ,condemning the city to a slow demise.",
+        "success": "Eternal sleep in ::settlement has been broken. People can breathe a sigh of relief."
+    }
+}

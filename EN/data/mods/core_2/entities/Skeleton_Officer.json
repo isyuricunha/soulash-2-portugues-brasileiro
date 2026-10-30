@@ -1,0 +1,162 @@
+{
+	"ability_user": [
+		"180",
+		"166",
+		"186",
+		"92",
+		"187"
+	],
+	"artificial_intelligence": {
+		"allies": [],
+		"allow_production": [],
+		"behaviors": [],
+		"enemies": []
+	},
+	"components": [
+		"ability_user",
+		"actor",
+		"artificial_intelligence",
+		"collidable",
+		"consumer",
+		"dialogues",
+		"equipment",
+		"fighter",
+		"glyph",
+		"health",
+		"humanoid",
+		"minimap_pixel",
+		"moveable",
+		"name",
+		"persona",
+		"position_2d",
+		"sight",
+		"skills",
+		"stamina",
+		"statistics",
+		"tags"
+	],
+	"corpse": "55",
+	"description": "",
+	"dialogues": [
+		"975",
+		"950",
+		"951"
+	],
+	"equipment": {
+		"head_armor": [
+			{
+				"chance": 1.0,
+				"id": "393",
+				"name": "Great Helmet",
+				"stack": 1
+			}
+		],
+		"left_hand": [
+			{
+				"chance": 1.0,
+				"id": "402",
+				"name": "Ancient Shield",
+				"stack": 1
+			}
+		],
+		"right_hand": [
+			{
+				"chance": 1.0,
+				"id": "680",
+				"name": "Bone Axe",
+				"stack": 1
+			}
+		],
+		"torso_armor": [
+			{
+				"chance": 1.0,
+				"id": "core_2_Bone_Armor",
+				"name": "Bone Armor",
+				"stack": 1
+			}
+		]
+	},
+	"fighter": {
+		"attackNames": null
+	},
+	"glyph": {
+		"frames": [
+			{
+				"color": [
+					255,
+					255,
+					255
+				],
+				"delay": 0,
+				"index": 85
+			}
+		],
+		"random_frame_start": false
+	},
+	"health": 600,
+	"humanoid": {
+		"race": "17"
+	},
+	"id": "core_2_Skeleton_Officer",
+	"minimap_pixel": [
+		224,
+		172,
+		105
+	],
+	"moveable": {
+		"speed": 0.8999999761581421
+	},
+	"name": "Skeleton Officer",
+	"persona": {
+		"occupation": "Officer"
+	},
+	"sight": {
+		"ignore_infra_penalty": false,
+		"infravision": false,
+		"range": 10,
+		"threesixty": false
+	},
+	"skills": {
+		"milestones": [
+			"core_2_juggernaut",
+			"core_2_last_resort",
+			"core_2_mighty",
+			"core_2_unremarkable_might"
+		],
+		"skills": [
+			"core_2_axe_fighting",
+			"core_2_leadership"
+		]
+	},
+	"stamina": {
+		"fatigue": 100,
+		"stamina": 100,
+		"stamina_regen": 0.0
+	},
+	"statistics": {
+		"dexterity": [
+			54,
+			57
+		],
+		"endurance": [
+			55,
+			59
+		],
+		"intelligence": [
+			15,
+			19
+		],
+		"strength": [
+			58,
+			63
+		],
+		"willpower": [
+			41,
+			45
+		]
+	},
+	"tags": [
+		"4",
+		"20"
+	]
+}

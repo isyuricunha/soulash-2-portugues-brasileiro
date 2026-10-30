@@ -1,0 +1,140 @@
+{
+	"ability_user": [
+		"core_2_Sould_Bind",
+		"core_2_Spectral_Chain"
+	],
+	"armor": {
+		"acid": 20,
+		"death": -20,
+		"electricity": 20,
+		"fire": 20,
+		"frost": 20,
+		"holy": 999,
+		"parry": 0,
+		"physical": 50,
+		"poison": 99,
+		"thorns": 0
+	},
+	"artificial_intelligence": {
+		"allies": [],
+		"allow_production": [],
+		"behaviors": [],
+		"enemies": [
+			"5"
+		]
+	},
+	"components": [
+		"ability_user",
+		"actor",
+		"armor",
+		"artificial_intelligence",
+		"collidable",
+		"dialogues",
+		"equipment",
+		"experience_gainer",
+		"fighter",
+		"glyph",
+		"health",
+		"minimap_pixel",
+		"moveable",
+		"name",
+		"position_2d",
+		"sight",
+		"stamina",
+		"statistics",
+		"tags"
+	],
+	"corpse": [],
+	"description": "This figure with angel wings seems to glow and be able to illuminate any darkness.",
+	"dialogues": [
+		"1037"
+	],
+	"equipment": {
+		"right_hand": [
+			{
+				"chance": 1.0,
+				"id": "core_2_Glowing_Sword",
+				"name": "Glowing Sword",
+				"stack": 1
+			}
+		],
+		"torso_armor": [
+			{
+				"chance": 1.0,
+				"id": "2180",
+				"name": "Lamellar Armor",
+				"stack": 1
+			}
+		]
+	},
+	"experience_gainer": {
+		"exp": 0,
+		"level": 50
+	},
+	"fighter": {
+		"attackNames": null
+	},
+	"glyph": {
+		"frames": [
+			{
+				"color": [
+					255,
+					255,
+					255
+				],
+				"delay": 0,
+				"index": 567
+			}
+		],
+		"random_frame_start": false
+	},
+	"health": 2500,
+	"id": "core_2_Holy_Warrior_Body",
+	"minimap_pixel": [
+		149,
+		165,
+		101
+	],
+	"moveable": {
+		"speed": 1.5
+	},
+	"name": "Holy Warrior",
+	"sight": {
+		"ignore_infra_penalty": false,
+		"infravision": true,
+		"range": 12,
+		"threesixty": false
+	},
+	"stamina": {
+		"fatigue": 100,
+		"stamina": 100,
+		"stamina_regen": 0.0
+	},
+	"statistics": {
+		"dexterity": [
+			50,
+			70
+		],
+		"endurance": [
+			150,
+			160
+		],
+		"intelligence": [
+			50,
+			60
+		],
+		"magic_power": 10,
+		"strength": [
+			110,
+			120
+		],
+		"willpower": [
+			150,
+			160
+		]
+	},
+	"tags": [
+		"38",
+		"33"
+	]
+}

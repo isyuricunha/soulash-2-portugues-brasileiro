@@ -1,0 +1,16 @@
+{
+	"id": "core_2_snake_sword",
+	"name": "Snake Sword",
+	"requirements": {
+		"milestones": [],
+		"skill": 38
+	},
+	"rewards": [
+		{
+			"recipe": "2303"
+		}
+	],
+	"skill_id": "core_2_weaponsmith",
+	"steps": [],
+	"steps_type": 0
+}

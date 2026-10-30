@@ -1,0 +1,22 @@
+{
+	"animation": "core_2_Become_Vampire",
+	"cast_time": 1.0,
+	"cooldown": 50.0,
+	"cost": {
+		"health": 0,
+		"stamina": 10
+	},
+	"description": "You forever reject mortality to become a creature of the night.",
+	"duration": 25.0,
+	"effects": null,
+	"id": "core_2_Become_Vampire",
+	"image": 782,
+	"name": "Become Vampire",
+	"range": 0,
+	"skill": "core_2_alchemy",
+	"slots": {
+		"defensive": 2,
+		"utility": 2
+	},
+	"target": "self"
+}

@@ -1,0 +1,16 @@
+{
+	"id": "core_2_Armored_Torso",
+	"name": "Armored Torso",
+	"requirements": {
+		"milestones": [],
+		"skill": 47
+	},
+	"rewards": [
+		{
+			"recipe": "core_2_Armored_Torso"
+		}
+	],
+	"skill_id": "core_2_construction",
+	"steps": [],
+	"steps_type": 0
+}

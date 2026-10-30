@@ -1,0 +1,44 @@
+{
+	"components": [
+		"glyph",
+		"health",
+		"height",
+		"minimap_pixel",
+		"name",
+		"position_2d"
+	],
+	"corpse": [],
+	"description": "A corpse of some poor soul, charred and impaled on jagged spikes.",
+	"glyph": {
+		"frames": [
+			{
+				"color": [
+					255,
+					255,
+					255
+				],
+				"delay": 0,
+				"index": 3022
+			},
+			{
+				"color": [
+					255,
+					255,
+					255
+				],
+				"delay": 0,
+				"index": 3019
+			}
+		],
+		"random_frame_start": true
+	},
+	"health": 50,
+	"height": 1,
+	"id": "core_2_Charred_Corpse",
+	"minimap_pixel": [
+		147,
+		128,
+		104
+	],
+	"name": "Charred Corpse"
+}

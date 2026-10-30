@@ -1,0 +1,77 @@
+{
+	"components": [
+		"craftable",
+		"glyph",
+		"item",
+		"minimap_pixel",
+		"name",
+		"position_2d",
+		"value",
+		"weapon",
+		"weight"
+	],
+	"craftable": {
+		"backgrounds": [],
+		"biomes": [],
+		"magic_slots": 2,
+		"resource_types": [
+			{
+				"amount": 2,
+				"id": 1
+			},
+			{
+				"amount": 1,
+				"id": 3
+			}
+		],
+		"time": 45,
+		"tools": [
+			14
+		]
+	},
+	"description": "A dart almost as long as a short spear.",
+	"glyph": {
+		"frames": [
+			{
+				"color": [
+					255,
+					255,
+					255
+				],
+				"delay": 0,
+				"index": 2676
+			}
+		],
+		"random_frame_start": false
+	},
+	"id": "core_2_War_Dart",
+	"item": {
+		"image": 1198,
+		"type": 13
+	},
+	"minimap_pixel": [
+		198,
+		153,
+		97
+	],
+	"name": "War Dart",
+	"value": 2000,
+	"weapon": {
+		"attack_animation": "core_2_Dart",
+		"attack_speed": 1.0,
+		"critical_hit": 0.0,
+		"damage": [
+			{
+				"dmg_max": 8,
+				"dmg_min": 6,
+				"dmg_type": "physical"
+			}
+		],
+		"hands": 1,
+		"hit_bonus": 2,
+		"parry_bonus": 0,
+		"range": 6,
+		"type": 11
+	},
+	"weight": 1.0
+}

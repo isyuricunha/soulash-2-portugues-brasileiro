@@ -1,0 +1,16 @@
+{
+	"id": "core_2_platinum_Ingot",
+	"name": "Platinum Ingot",
+	"requirements": {
+		"milestones": [],
+		"skill": 36
+	},
+	"rewards": [
+		{
+			"recipe": "core_2_Platinum_Ingot"
+		}
+	],
+	"skill_id": "core_2_alchemy",
+	"steps": [],
+	"steps_type": 0
+}

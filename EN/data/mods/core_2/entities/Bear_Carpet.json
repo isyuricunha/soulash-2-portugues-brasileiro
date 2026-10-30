@@ -1,0 +1,30 @@
+{
+	"components": [
+		"glyph",
+		"minimap_pixel",
+		"name",
+		"position_2d"
+	],
+	"description": "Made with bear fur, provides a little warmth against the cold ambiance.",
+	"glyph": {
+		"frames": [
+			{
+				"color": [
+					255,
+					255,
+					255
+				],
+				"delay": 0,
+				"index": 3072
+			}
+		],
+		"random_frame_start": false
+	},
+	"id": "core_2_Bear_Carpet",
+	"minimap_pixel": [
+		148,
+		25,
+		22
+	],
+	"name": "Bear Carpet"
+}

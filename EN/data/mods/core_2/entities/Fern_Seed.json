@@ -1,0 +1,40 @@
+{
+	"components": [
+		"glyph",
+		"item",
+		"minimap_pixel",
+		"name",
+		"position_2d",
+		"stackable",
+		"value",
+		"weight"
+	],
+	"description": "Will make a beautiful fern plant one day. ",
+	"glyph": {
+		"frames": [
+			{
+				"color": [
+					255,
+					255,
+					255
+				],
+				"delay": 0,
+				"index": 3119
+			}
+		],
+		"random_frame_start": false
+	},
+	"id": "core_2_Fern_Seed",
+	"item": {
+		"image": 1450,
+		"type": 24
+	},
+	"minimap_pixel": [
+		153,
+		204,
+		255
+	],
+	"name": "Fern Seed",
+	"value": 100,
+	"weight": 0.10000000149011612
+}

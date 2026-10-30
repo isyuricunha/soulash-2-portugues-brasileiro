@@ -1,0 +1,16 @@
+{
+	"id": "core_2_quick_step",
+	"name": "Quick Step",
+	"requirements": {
+		"milestones": [],
+		"skill": 9
+	},
+	"rewards": [
+		{
+			"ability": "5"
+		}
+	],
+	"skill_id": "core_2_athletics",
+	"steps": [],
+	"steps_type": 0
+}

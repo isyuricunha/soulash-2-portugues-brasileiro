@@ -1,0 +1,15 @@
+{
+	"id": "core_2_pierce_armor",
+	"name": "Pierce Armor",
+	"requirements": {
+		"skill": 27
+	},
+	"rewards": [
+		{
+			"amplifier": "core_2_pierce_armor"
+		}
+	],
+	"skill_id": "core_2_axe_fighting",
+	"steps": [],
+	"steps_type": 0
+}

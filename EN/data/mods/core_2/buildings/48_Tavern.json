@@ -1,0 +1,48 @@
+{
+	"id": "48",
+	"image": 181,
+	"max": 2,
+	"name": "Tavern",
+	"occupation_image": 5,
+	"occupation": "2271",
+	"produces": [
+		{
+			"entities": [
+				{
+					"daily": 4,
+					"id": "809"
+				}
+			],
+			"takes": [
+				{
+					"amount": 4,
+					"id": "318"
+				}
+			]
+		},
+		{
+			"entities": [
+				{
+					"daily": 1,
+					"id": "879"
+				}
+			],
+			"takes": "craftable"
+		},
+		{
+			"entities": [
+				{
+					"daily": 1,
+					"id": "880"
+				}
+			],
+			"takes": "craftable"
+		}
+	],
+	"race": "2",
+	"tier": 1,
+	"workers": [
+		1,
+		2
+	]
+}

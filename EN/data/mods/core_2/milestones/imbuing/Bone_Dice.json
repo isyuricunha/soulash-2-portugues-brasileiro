@@ -1,0 +1,16 @@
+{
+	"id": "core_2_bone_dice",
+	"name": "Bone Dice",
+	"requirements": {
+		"milestones": [],
+		"skill": 5
+	},
+	"rewards": [
+		{
+			"recipe": "core_2_Bone_Dice"
+		}
+	],
+	"skill_id": "core_2_imbuing",
+	"steps": [],
+	"steps_type": 0
+}

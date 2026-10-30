@@ -1,0 +1,84 @@
+{
+	"id": "79",
+	"image": 165,
+	"max": 2,
+	"name": "Smelter",
+	"occupation_image": 32,
+	"occupation": "2289",
+	"produces": [
+		{
+			"entities": [
+				{
+					"daily": 1,
+					"id": "145"
+				}
+			],
+			"takes": "craftable"
+		},
+		{
+			"entities": [
+				{
+					"daily": 1,
+					"id": "147"
+				}
+			],
+			"takes": "craftable"
+		},
+		{
+			"entities": [
+				{
+					"daily": 1,
+					"id": "149"
+				}
+			],
+			"takes": "craftable"
+		},
+		{
+			"entities": [
+				{
+					"daily": 1,
+					"id": "159"
+				}
+			],
+			"takes": "craftable"
+		},
+		{
+			"entities": [
+				{
+					"daily": 1,
+					"id": "161"
+				}
+			],
+			"takes": "craftable"
+		},
+		{
+			"entities": [
+				{
+					"daily": 1,
+					"id": "2114"
+				}
+			],
+			"takes": "craftable"
+		},
+		{
+			"entities": [
+				{
+					"daily": 2,
+					"id": "148"
+				}
+			],
+			"takes": [
+				{
+					"amount": 4,
+					"id": "2008"
+				}
+			]
+		}
+	],
+	"race": "1",
+	"tier": 1,
+	"workers": [
+		1,
+		2
+	]
+}

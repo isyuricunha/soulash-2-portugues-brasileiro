@@ -1,0 +1,65 @@
+{
+	"components": [
+		"craftable",
+		"food",
+		"glyph",
+		"item",
+		"minimap_pixel",
+		"name",
+		"position_2d",
+		"stackable",
+		"value",
+		"weight"
+	],
+	"craftable": {
+		"backgrounds": [],
+		"biomes": [],
+		"magic_slots": 0,
+		"resources": [
+			{
+				"amount": 2,
+				"id": "315"
+			},
+			{
+				"amount": 2,
+				"id": "812"
+			}
+		],
+		"time": 30,
+		"tools": [
+			2
+		]
+	},
+	"description": "Simple ingredients used to make a flavourful dish.",
+	"food": {
+		"nutrition": 90,
+		"on_eat": "core_2_Baked_Fish"
+	},
+	"glyph": {
+		"frames": [
+			{
+				"color": [
+					255,
+					255,
+					255
+				],
+				"delay": 0,
+				"index": 2033
+			}
+		],
+		"random_frame_start": false
+	},
+	"id": "3035",
+	"item": {
+		"image": 815,
+		"type": 20
+	},
+	"minimap_pixel": [
+		157,
+		78,
+		54
+	],
+	"name": "Baked Fish",
+	"value": 1000,
+	"weight": 0.10000000149011612
+}

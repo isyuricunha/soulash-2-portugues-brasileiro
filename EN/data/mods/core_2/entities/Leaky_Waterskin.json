@@ -1,0 +1,63 @@
+{
+	"components": [
+		"container",
+		"craftable",
+		"glyph",
+		"item",
+		"liquid_source",
+		"minimap_pixel",
+		"name",
+		"position_2d",
+		"value",
+		"weight"
+	],
+	"container": {
+		"capacity": 50,
+		"type": 1
+	},
+	"craftable": {
+		"backgrounds": [],
+		"biomes": [],
+		"magic_slots": 0,
+		"resource_types": [
+			{
+				"amount": 3,
+				"id": 2
+			}
+		],
+		"time": 15,
+		"tools": []
+	},
+	"description": "Leather bag. It's leaking, so it can't hold much water.",
+	"glyph": {
+		"frames": [
+			{
+				"color": [
+					255,
+					255,
+					255
+				],
+				"delay": 0,
+				"index": 2576
+			}
+		],
+		"random_frame_start": false
+	},
+	"id": "core_2_Leaky_Waterskin",
+	"item": {
+		"image": 1141,
+		"type": 17
+	},
+	"liquid_source": {
+		"limit": 0,
+		"type": 1
+	},
+	"minimap_pixel": [
+		122,
+		93,
+		57
+	],
+	"name": "Leaky Waterskin",
+	"value": 100,
+	"weight": 0.5
+}

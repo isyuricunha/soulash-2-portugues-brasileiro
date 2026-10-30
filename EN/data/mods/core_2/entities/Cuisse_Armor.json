@@ -1,0 +1,68 @@
+{
+	"armor": {
+		"acid": 1,
+		"death": 0,
+		"electricity": 0,
+		"fire": 2,
+		"frost": 0,
+		"holy": 0,
+		"parry": 0,
+		"physical": 2,
+		"poison": 0,
+		"thorns": 0
+	},
+	"components": [
+		"armor",
+		"craftable",
+		"glyph",
+		"item",
+		"minimap_pixel",
+		"name",
+		"position_2d",
+		"value",
+		"weight"
+	],
+	"craftable": {
+		"backgrounds": [],
+		"biomes": [],
+		"magic_slots": 2,
+		"resource_types": [
+			{
+				"amount": 3,
+				"id": 1
+			}
+		],
+		"time": 120,
+		"tools": [
+			1
+		]
+	},
+	"description": "Special armor for your thights, made out of shaped metal plates and some leather straps.",
+	"glyph": {
+		"frames": [
+			{
+				"color": [
+					255,
+					255,
+					255
+				],
+				"delay": 0,
+				"index": 2741
+			}
+		],
+		"random_frame_start": false
+	},
+	"id": "core_2_Cuisse_Armor",
+	"item": {
+		"image": 1254,
+		"type": 7
+	},
+	"minimap_pixel": [
+		177,
+		163,
+		157
+	],
+	"name": "Cuisse Armor",
+	"value": 1200,
+	"weight": 2.0
+}

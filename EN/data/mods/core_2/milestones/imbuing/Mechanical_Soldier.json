@@ -1,0 +1,16 @@
+{
+	"id": "core_2_mechanical_soldier",
+	"name": "Mechanical Soldier",
+	"requirements": {
+		"milestones": [],
+		"skill": 43
+	},
+	"rewards": [
+		{
+			"recipe": "core_2_Mechanical_Soldier"
+		}
+	],
+	"skill_id": "core_2_imbuing",
+	"steps": [],
+	"steps_type": 0
+}

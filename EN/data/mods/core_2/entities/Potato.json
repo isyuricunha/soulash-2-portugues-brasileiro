@@ -1,0 +1,62 @@
+{
+	"components": [
+		"food",
+		"glyph",
+		"item",
+		"minimap_pixel",
+		"name",
+		"position_2d",
+		"producer",
+		"stackable",
+		"value",
+		"weight"
+	],
+	"description": "Boil it. Mash it. Stick it in a stew.",
+	"food": {
+		"nutrition": 5,
+		"on_eat": "",
+		"raw": true
+	},
+	"glyph": {
+		"frames": [
+			{
+				"color": [
+					255,
+					255,
+					255
+				],
+				"delay": 0,
+				"index": 2590
+			}
+		],
+		"random_frame_start": false
+	},
+	"id": "core_2_Potato",
+	"item": {
+		"image": 1150,
+		"type": 20
+	},
+	"minimap_pixel": [
+		237,
+		145,
+		33
+	],
+	"name": "Potato",
+	"producer": {
+		"products": {
+			"9": [
+				{
+					"amount": [
+						1,
+						1
+					],
+					"id": "core_2_Baked_Potato",
+					"percent_chance": 100
+				}
+			]
+		},
+		"time": 10
+	},
+	"value": 100,
+	"weight": 0.10000000149011612
+}

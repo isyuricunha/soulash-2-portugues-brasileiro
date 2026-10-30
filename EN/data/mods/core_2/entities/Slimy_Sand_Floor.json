@@ -1,0 +1,38 @@
+{
+	"background": {
+		"color": [
+			44,
+			45,
+			41
+		],
+		"noise": 4
+	},
+	"components": [
+		"background",
+		"glyph",
+		"minimap_pixel",
+		"name"
+	],
+	"description": "Floor made out of sand covered in some kind of slimy substance.",
+	"glyph": {
+		"frames": [
+			{
+				"color": [
+					255,
+					255,
+					255
+				],
+				"delay": 0,
+				"index": 3131
+			}
+		],
+		"random_frame_start": false
+	},
+	"id": "core_2_Slimy_Sand_Floor",
+	"minimap_pixel": [
+		124,
+		108,
+		58
+	],
+	"name": "Slimy Sand Floor"
+}

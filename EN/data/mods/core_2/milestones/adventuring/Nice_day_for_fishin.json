@@ -1,0 +1,16 @@
+{
+	"id": "core_2_nice_day_for_fishin",
+	"name": "Nice Day For Fishin'",
+	"requirements": {
+		"milestones": [],
+		"skill": 12
+	},
+	"rewards": [
+		{
+			"recipe": "120"
+		}
+	],
+	"skill_id": "core_2_adventuring",
+	"steps": [],
+	"steps_type": 0
+}

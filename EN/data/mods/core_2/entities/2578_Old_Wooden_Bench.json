@@ -1,0 +1,78 @@
+{
+	"armor": {
+		"acid": -2,
+		"death": 0,
+		"electricity": 1,
+		"fire": -5,
+		"frost": 2,
+		"holy": 0,
+		"parry": 0,
+		"physical": 1,
+		"poison": 0,
+		"thorns": 0
+	},
+	"category_id": 7,
+	"components": [
+		"armor",
+		"craftable",
+		"glyph",
+		"health",
+		"minimap_pixel",
+		"name",
+		"position_2d"
+	],
+	"corpse": [],
+	"craftable": {
+		"magic_slots": 0,
+		"resource_types": [
+			{
+				"amount": 1,
+				"id": 11
+			}
+		],
+		"resources": null,
+		"time": 10,
+		"tools": []
+	},
+	"description": "Simple bench. Looks decrepit and dusty.",
+	"glyph": {
+		"frames": [
+			{
+				"color": [
+					255,
+					255,
+					255
+				],
+				"delay": 0,
+				"index": 229
+			},
+			{
+				"color": [
+					255,
+					255,
+					255
+				],
+				"delay": 0,
+				"index": 1214
+			},
+			{
+				"color": [
+					255,
+					255,
+					255
+				],
+				"delay": 0,
+				"index": 1215
+			}
+		],
+		"random_frame_start": true
+	},
+	"health": 20,
+	"id": "2578",
+	"minimap_pixel": [
+		139,
+		108,
+		64
+	],
+	"name": "Old Wooden Bench"
+}

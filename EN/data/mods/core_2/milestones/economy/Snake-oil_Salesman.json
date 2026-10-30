@@ -1,0 +1,15 @@
+{
+	"id": "core_2_snake_oil_salesman",
+	"name": "Snake-oil Salesman",
+	"requirements": {
+		"skill": 43
+	},
+	"rewards": [
+		{
+			"passive": "core_2_snake_oil_salesman"
+		}
+	],
+	"skill_id": "core_2_economy",
+	"steps": [],
+	"steps_type": 0
+}

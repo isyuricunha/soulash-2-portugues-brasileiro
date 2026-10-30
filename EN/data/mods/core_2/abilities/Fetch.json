@@ -1,0 +1,29 @@
+{
+	"animation": "core_2_Fetch",
+	"cast_time": 0.30000001192092896,
+	"cooldown": 10.0,
+	"cost": {
+		"health": 0,
+		"stamina": 6
+	},
+	"description": "Fetch your target dealing ::damage ::damage_type and pull it closer to you.",
+	"duration": 0.0,
+	"effects": {
+		"damage": [
+			30,
+			40
+		],
+		"damage_type": "fire",
+		"pull_target": 10
+	},
+	"id": "core_2_Fetch",
+	"image": 825,
+	"name": "Fetch!",
+	"range": 7,
+	"skill": "",
+	"slots": {
+		"offensive": 2,
+		"utility": 1
+	},
+	"target": "line_health"
+}

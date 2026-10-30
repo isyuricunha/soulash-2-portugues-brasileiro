@@ -1,0 +1,16 @@
+{
+	"id": "core_2_Bladed_Hand",
+	"name": "Bladed Hand",
+	"requirements": {
+		"milestones": [],
+		"skill": 44
+	},
+	"rewards": [
+		{
+			"recipe": "core_2_Bladed_Hand"
+		}
+	],
+	"skill_id": "core_2_construction",
+	"steps": [],
+	"steps_type": 0
+}

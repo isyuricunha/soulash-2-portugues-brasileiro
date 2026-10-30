@@ -1,0 +1,55 @@
+{
+	"components": [
+		"food",
+		"glyph",
+		"item",
+		"minimap_pixel",
+		"name",
+		"position_2d",
+		"stackable",
+		"value",
+		"weight"
+	],
+	"description": "A wild purple mushroom. Might be edible.",
+	"food": {
+		"nutrition": 15,
+		"on_eat": "",
+		"raw": false
+	},
+	"glyph": {
+		"frames": [
+			{
+				"color": [
+					255,
+					255,
+					253
+				],
+				"delay": 0,
+				"index": 390
+			},
+			{
+				"color": [
+					255,
+					255,
+					253
+				],
+				"delay": 0,
+				"index": 936
+			}
+		],
+		"random_frame_start": true
+	},
+	"id": "343",
+	"item": {
+		"image": 140,
+		"type": 20
+	},
+	"minimap_pixel": [
+		159,
+		90,
+		253
+	],
+	"name": "Purple Mushroom",
+	"value": 150,
+	"weight": 0.10000000149011612
+}

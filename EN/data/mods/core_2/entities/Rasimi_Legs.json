@@ -1,0 +1,61 @@
+{
+	"components": [
+		"glyph",
+		"item",
+		"minimap_pixel",
+		"name",
+		"position_2d",
+		"statistics",
+		"weight"
+	],
+	"description": "A set of furry legs of a dead rasimi.",
+	"glyph": {
+		"frames": [
+			{
+				"color": [
+					255,
+					255,
+					255
+				],
+				"delay": 0,
+				"index": 2849
+			}
+		],
+		"random_frame_start": false
+	},
+	"id": "core_2_Rasimi_Legs",
+	"item": {
+		"image": 1291,
+		"type": 33
+	},
+	"minimap_pixel": [
+		156,
+		160,
+		161
+	],
+	"name": "Rasimi Legs",
+	"statistics": {
+		"dexterity": [
+			0,
+			0
+		],
+		"endurance": [
+			0,
+			0
+		],
+		"intelligence": [
+			0,
+			0
+		],
+		"sneaking": 10,
+		"strength": [
+			0,
+			0
+		],
+		"willpower": [
+			0,
+			0
+		]
+	},
+	"weight": 1.5
+}

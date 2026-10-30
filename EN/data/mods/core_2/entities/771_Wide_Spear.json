@@ -1,0 +1,80 @@
+{
+	"components": [
+		"craftable",
+		"glyph",
+		"item",
+		"minimap_pixel",
+		"name",
+		"position_2d",
+		"value",
+		"weapon",
+		"weight"
+	],
+	"craftable": {
+		"backgrounds": [],
+		"biomes": [],
+		"magic_slots": 3,
+		"resource_types": [
+			{
+				"amount": 2,
+				"id": 1
+			},
+			{
+				"amount": 1,
+				"id": 5
+			},
+			{
+				"amount": 1,
+				"id": 3
+			}
+		],
+		"time": 90,
+		"tools": [
+			1
+		]
+	},
+	"description": "Wide spike tip on a wooden stick.",
+	"glyph": {
+		"frames": [
+			{
+				"color": [
+					255,
+					255,
+					255
+				],
+				"delay": 0,
+				"index": 490
+			}
+		],
+		"random_frame_start": false
+	},
+	"id": "771",
+	"item": {
+		"image": 309,
+		"type": 13
+	},
+	"minimap_pixel": [
+		171,
+		152,
+		132
+	],
+	"name": "Wide Spear",
+	"value": 3500,
+	"weapon": {
+		"attack_speed": 1.2000000476837158,
+		"critical_hit": 0.0,
+		"damage": [
+			{
+				"dmg_max": 13,
+				"dmg_min": 8,
+				"dmg_type": "physical"
+			}
+		],
+		"hands": 2,
+		"hit_bonus": 2,
+		"parry_bonus": 2,
+		"range": 1,
+		"type": 4
+	},
+	"weight": 2.0
+}

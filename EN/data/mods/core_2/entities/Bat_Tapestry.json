@@ -1,0 +1,34 @@
+{
+	"components": [
+		"collidable",
+		"glyph",
+		"health",
+		"minimap_pixel",
+		"name",
+		"position_2d"
+	],
+	"corpse": [],
+	"description": "A beautiful tapestry depicting a bat during flight.",
+	"glyph": {
+		"frames": [
+			{
+				"color": [
+					255,
+					255,
+					255
+				],
+				"delay": 0,
+				"index": 3071
+			}
+		],
+		"random_frame_start": true
+	},
+	"health": 50,
+	"id": "core_2_Bat_Tapestry",
+	"minimap_pixel": [
+		169,
+		108,
+		14
+	],
+	"name": "Bat Tapestry"
+}

@@ -1,0 +1,50 @@
+{
+	"category_id": 7,
+	"components": [
+		"craftable",
+		"glyph",
+		"health",
+		"minimap_pixel",
+		"name",
+		"position_2d",
+		"resting_place"
+	],
+	"corpse": [],
+	"craftable": {
+		"backgrounds": [],
+		"biomes": [],
+		"magic_slots": 0,
+		"resources": [
+			{
+				"amount": 4,
+				"id": "core_2_Rose_Flower"
+			}
+		],
+		"time": 25,
+		"tools": []
+	},
+	"description": "A beautiful, fregrant bed made out of flowers.",
+	"glyph": {
+		"frames": [
+			{
+				"color": [
+					255,
+					255,
+					255
+				],
+				"delay": 0,
+				"index": 2637
+			}
+		],
+		"random_frame_start": true
+	},
+	"health": 100,
+	"id": "core_2_Bed_of_Flowers",
+	"minimap_pixel": [
+		58,
+		39,
+		25
+	],
+	"name": "Bed of Flowers",
+	"resting_place": 200
+}

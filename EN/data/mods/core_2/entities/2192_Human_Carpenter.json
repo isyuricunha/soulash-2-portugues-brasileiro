@@ -1,0 +1,168 @@
+{
+	"artificial_intelligence": {
+		"allies": [
+			"1"
+		],
+		"allow_production": [],
+		"behaviors": [],
+		"enemies": []
+	},
+	"components": [
+		"actor",
+		"artificial_intelligence",
+		"collidable",
+		"consumer",
+		"dialogues",
+		"equipment",
+		"experience_gainer",
+		"fighter",
+		"glyph",
+		"health",
+		"humanoid",
+		"minimap_pixel",
+		"moveable",
+		"name",
+		"persona",
+		"position_2d",
+		"sight",
+		"skills",
+		"stamina",
+		"statistics",
+		"tags"
+	],
+	"corpse": "25",
+	"description": "",
+	"dialogues": [
+		"530",
+		"531"
+	],
+	"equipment": {
+		"right_hand": [
+			{
+				"chance": 1.0,
+				"id": "2185",
+				"name": "Light Axe",
+				"stack": 1
+			}
+		],
+		"torso_cloth": [
+			{
+				"chance": 1.0,
+				"id": "183",
+				"name": "Robe",
+				"stack": 1
+			}
+		]
+	},
+	"experience_gainer": {
+		"exp": 10,
+		"level": 2
+	},
+	"fighter": {
+		"attackNames": null
+	},
+	"glyph": {
+		"frames": [
+			{
+				"color": [
+					255,
+					255,
+					255
+				],
+				"delay": 0,
+				"index": 128
+			}
+		],
+		"random_frame_start": false
+	},
+	"health": 47,
+	"humanoid": {
+		"race": "0"
+	},
+	"id": "2192",
+	"minimap_pixel": [
+		113,
+		179,
+		34
+	],
+	"moveable": {
+		"speed": 1.25
+	},
+	"name": "Human Carpenter",
+	"persona": {
+		"occupation": "Carpenter"
+	},
+	"sight": {
+		"ignore_infra_penalty": false,
+		"infravision": false,
+		"range": 9,
+		"threesixty": false
+	},
+	"skills": {
+		"milestones": [
+			"core_2_bookcase",
+			"core_2_club",
+			"core_2_firewood",
+			"core_2_pitchfork",
+			"core_2_spear",
+			"core_2_spinning_wheel",
+			"core_2_trident",
+			"core_2_wooden_armguards",
+			"core_2_wooden_armor",
+			"core_2_wooden_barrel",
+			"core_2_wooden_bed",
+			"core_2_wooden_buckler",
+			"core_2_wooden_chair",
+			"core_2_wooden_door",
+			"core_2_wooden_fence",
+			"core_2_wooden_floor",
+			"core_2_wooden_gate",
+			"core_2_wooden_pillar",
+			"core_2_wooden_roof",
+			"core_2_wooden_shield",
+			"core_2_wooden_spikes",
+			"core_2_wooden_stairs",
+			"core_2_wooden_sword",
+			"core_2_wooden_table",
+			"core_2_wooden_wall",
+			"core_2_let_there_be_light",
+			"core_2_hasta",
+			"core_2_planson"
+		],
+		"skills": [
+			"core_2_carpentry",
+			"core_2_adventuring"
+		]
+	},
+	"stamina": {
+		"fatigue": 100,
+		"stamina": 100,
+		"stamina_regen": 0.0
+	},
+	"statistics": {
+		"dexterity": [
+			6,
+			10
+		],
+		"endurance": [
+			8,
+			14
+		],
+		"intelligence": [
+			6,
+			9
+		],
+		"strength": [
+			8,
+			11
+		],
+		"willpower": [
+			7,
+			11
+		]
+	},
+	"tags": [
+		"1",
+		"9"
+	]
+}

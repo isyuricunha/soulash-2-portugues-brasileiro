@@ -1,0 +1,88 @@
+{
+	"armor": {
+		"acid": 0,
+		"death": 0,
+		"electricity": 0,
+		"fire": 0,
+		"frost": 0,
+		"holy": 0,
+		"parry": 0,
+		"physical": 0,
+		"poison": 0,
+		"thorns": 4
+	},
+	"components": [
+		"armor",
+		"craftable",
+		"glyph",
+		"item",
+		"minimap_pixel",
+		"name",
+		"position_2d",
+		"resource",
+		"stackable",
+		"value",
+		"weight"
+	],
+	"craftable": {
+		"backgrounds": [],
+		"biomes": [],
+		"magic_slots": 0,
+		"resources": [
+			{
+				"amount": 1,
+				"id": "2349"
+			},
+			{
+				"amount": 1,
+				"id": "2911"
+			},
+			{
+				"amount": 1,
+				"id": "2445"
+			},
+			{
+				"amount": 1,
+				"id": "325"
+			}
+		],
+		"time": 50,
+		"tools": [
+			15
+		]
+	},
+	"description": "A small figurine in a shape of a tree",
+	"glyph": {
+		"frames": [
+			{
+				"color": [
+					255,
+					255,
+					255
+				],
+				"delay": 0,
+				"index": 2368
+			}
+		],
+		"random_frame_start": false
+	},
+	"id": "core_2_Tree_Of_Life_Figurine",
+	"item": {
+		"image": 1035,
+		"type": 16
+	},
+	"minimap_pixel": [
+		100,
+		109,
+		155
+	],
+	"name": "Tree Of Life Figurine",
+	"resource": {
+		"affix": "of the Branch",
+		"magic_ingredient": 4,
+		"quality": 4,
+		"type": 7
+	},
+	"value": 10000,
+	"weight": 0.10000000149011612
+}

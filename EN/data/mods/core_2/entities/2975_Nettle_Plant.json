@@ -1,0 +1,72 @@
+{
+	"components": [
+		"glyph",
+		"health",
+		"minimap_pixel",
+		"name",
+		"position_2d",
+		"producer",
+		"stackable"
+	],
+	"corpse": [
+		{
+			"damage_type": 1,
+			"id": "561"
+		}
+	],
+	"description": "Might burn you.",
+	"glyph": {
+		"frames": [
+			{
+				"color": [
+					36,
+					143,
+					46
+				],
+				"delay": 0,
+				"index": 1972
+			},
+			{
+				"color": [
+					36,
+					143,
+					0
+				],
+				"delay": 0,
+				"index": 1973
+			}
+		],
+		"random_frame_start": true
+	},
+	"health": 10,
+	"id": "2975",
+	"minimap_pixel": [
+		153,
+		204,
+		255
+	],
+	"name": "Nettle Plant",
+	"producer": {
+		"products": {
+			"6": [
+				{
+					"amount": [
+						1,
+						1
+					],
+					"id": "2257",
+					"percent_chance": 100
+				},
+				{
+					"amount": [
+						2,
+						4
+					],
+					"id": "3098",
+					"percent_chance": 30
+				}
+			]
+		},
+		"time": 60
+	}
+}

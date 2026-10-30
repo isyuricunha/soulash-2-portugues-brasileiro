@@ -1,0 +1,19 @@
+{
+	"enables": [
+		"core_2_weaponsmith",
+		"core_2_carpentry"
+	],
+	"id": "15",
+	"image": 13,
+	"max": 1,
+	"name": "Toolmaker",
+	"occupation_image": 8,
+	"occupation": "2194",
+	"produces": [],
+	"race": "0",
+	"tier": 2,
+	"workers": [
+		1,
+		2
+	]
+}

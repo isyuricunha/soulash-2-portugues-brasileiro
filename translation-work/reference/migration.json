@@ -1,0 +1,11 @@
+{
+  "private_head": "e49fae5d39714c6e9fc0d4ef655c64b6c30aef6a",
+  "history": "private-history.bundle",
+  "snapshot": "private-worktree.zip",
+  "files": 11547,
+  "archive_sha256": "21184e4ba995175490c13899422097058c1441bfb3fdfbbbf9eca97ba4461893",
+  "secrets_excluded": [
+    ".env"
+  ],
+  "source_repository_unchanged": true
+}

@@ -1,0 +1,42 @@
+{
+	"components": [
+		"glyph",
+		"item",
+		"liquid_source",
+		"minimap_pixel",
+		"name",
+		"position_2d",
+		"weight"
+	],
+	"description": "The vampire's corpse looks pale, like it has no blood left.",
+	"glyph": {
+		"frames": [
+			{
+				"color": [
+					255,
+					255,
+					255
+				],
+				"delay": 0,
+				"index": 3104
+			}
+		],
+		"random_frame_start": false
+	},
+	"id": "core_2_Vampire_Corpse",
+	"item": {
+		"image": 1436,
+		"type": 18
+	},
+	"liquid_source": {
+		"limit": 200,
+		"type": 9
+	},
+	"minimap_pixel": [
+		66,
+		160,
+		5
+	],
+	"name": "Vampire Corpse",
+	"weight": 60.0
+}

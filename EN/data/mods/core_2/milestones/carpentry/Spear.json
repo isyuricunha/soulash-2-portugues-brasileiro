@@ -1,0 +1,16 @@
+{
+	"id": "core_2_spear",
+	"name": "Spear",
+	"requirements": {
+		"milestones": [],
+		"skill": 17
+	},
+	"rewards": [
+		{
+			"recipe": "96"
+		}
+	],
+	"skill_id": "core_2_carpentry",
+	"steps": [],
+	"steps_type": 0
+}

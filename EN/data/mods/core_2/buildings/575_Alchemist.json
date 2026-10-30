@@ -1,0 +1,18 @@
+{
+	"enables": [
+		"core_2_alchemy"
+	],
+	"id": "575",
+	"image": 395,
+	"max": 2,
+	"name": "Alchemist",
+	"occupation_image": 15,
+	"occupation": "core_2_Gnome_Alchemist",
+	"produces": [],
+	"race": "24",
+	"tier": 2,
+	"workers": [
+		1,
+		2
+	]
+}

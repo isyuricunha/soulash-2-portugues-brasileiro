@@ -1,0 +1,28 @@
+{
+	"animation": "core_2_Shrapnel_Bomb_Throw",
+	"cast_time": 0.5,
+	"cooldown": 10.0,
+	"cost": {
+		"health": 0,
+		"stamina": 8
+	},
+	"description": "Throw a bomb at a location, dealing ::damage ::damage_type damage.",
+	"duration": 1.5,
+	"effects": {
+		"aoe_break": 1,
+		"aoe_range": 3,
+		"aoe_shape": 1,
+		"damage": [
+			8,
+			11
+		],
+		"damage_type": "physical",
+		"damage_weapon": 0.25
+	},
+	"id": "core_2_Shrapnel_Bomb",
+	"image": 769,
+	"name": "Shrapnel Bomb",
+	"range": 8,
+	"skill": "",
+	"target": "aoe_tile"
+}

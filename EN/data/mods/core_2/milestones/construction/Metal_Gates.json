@@ -1,0 +1,19 @@
+{
+	"id": "core_2_metal_gates",
+	"name": "Metal Gates",
+	"requirements": {
+		"milestones": [],
+		"skill": 31
+	},
+	"rewards": [
+		{
+			"recipe": "2477"
+		},
+		{
+			"recipe": "2478"
+		}
+	],
+	"skill_id": "core_2_construction",
+	"steps": [],
+	"steps_type": 0
+}

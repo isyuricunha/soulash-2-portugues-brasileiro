@@ -1,0 +1,199 @@
+{
+	"background": {
+		"color": [
+			40,
+			40,
+			40
+		],
+		"noise": 5
+	},
+	"components": [
+		"background",
+		"block_light",
+		"glyph",
+		"height",
+		"liquid_source",
+		"minimap_pixel",
+		"name",
+		"on_enter",
+		"position_2d"
+	],
+	"description": "Blood tumbles down from above.",
+	"glyph": {
+		"frames": [
+			{
+				"color": [
+					255,
+					255,
+					255
+				],
+				"delay": 60,
+				"index": 1410
+			},
+			{
+				"color": [
+					255,
+					255,
+					255
+				],
+				"delay": 60,
+				"index": 1411
+			},
+			{
+				"color": [
+					255,
+					255,
+					255
+				],
+				"delay": 60,
+				"index": 1412
+			},
+			{
+				"color": [
+					255,
+					255,
+					255
+				],
+				"delay": 60,
+				"index": 1413
+			},
+			{
+				"color": [
+					255,
+					255,
+					255
+				],
+				"delay": 60,
+				"index": 1414
+			},
+			{
+				"color": [
+					255,
+					255,
+					255
+				],
+				"delay": 60,
+				"index": 1415
+			},
+			{
+				"color": [
+					255,
+					255,
+					255
+				],
+				"delay": 60,
+				"index": 1416
+			},
+			{
+				"color": [
+					255,
+					255,
+					255
+				],
+				"delay": 60,
+				"index": 1417
+			},
+			{
+				"color": [
+					255,
+					255,
+					255
+				],
+				"delay": 60,
+				"index": 1418
+			},
+			{
+				"color": [
+					255,
+					255,
+					255
+				],
+				"delay": 60,
+				"index": 1419
+			},
+			{
+				"color": [
+					255,
+					255,
+					255
+				],
+				"delay": 60,
+				"index": 1420
+			},
+			{
+				"color": [
+					255,
+					255,
+					255
+				],
+				"delay": 60,
+				"index": 1421
+			},
+			{
+				"color": [
+					255,
+					255,
+					255
+				],
+				"delay": 60,
+				"index": 1422
+			},
+			{
+				"color": [
+					255,
+					255,
+					255
+				],
+				"delay": 60,
+				"index": 1423
+			},
+			{
+				"color": [
+					255,
+					255,
+					255
+				],
+				"delay": 60,
+				"index": 1424
+			},
+			{
+				"color": [
+					255,
+					255,
+					255
+				],
+				"delay": 60,
+				"index": 1425
+			},
+			{
+				"color": [
+					255,
+					255,
+					255
+				],
+				"delay": 60,
+				"index": 1426
+			}
+		],
+		"random_frame_start": true
+	},
+	"height": 0,
+	"id": "913",
+	"liquid_source": {
+		"limit": -1,
+		"type": 4
+	},
+	"minimap_pixel": [
+		124,
+		7,
+		7
+	],
+	"name": "Waterfall of Blood",
+	"on_enter": {
+		"ability": [
+			"88",
+			"89"
+		],
+		"teleport": null
+	}
+}

@@ -1,0 +1,16 @@
+{
+	"id": "core_2_poppy_seedling",
+	"name": "Poppy Seedling",
+	"requirements": {
+		"milestones": [],
+		"skill": 2
+	},
+	"rewards": [
+		{
+			"recipe": "core_2_Poppy_Flower_Seedling"
+		}
+	],
+	"skill_id": "core_2_agriculture",
+	"steps": [],
+	"steps_type": 0
+}

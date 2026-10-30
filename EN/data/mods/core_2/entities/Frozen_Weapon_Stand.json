@@ -1,0 +1,135 @@
+{
+	"armor": {
+		"acid": 0,
+		"death": 0,
+		"electricity": 0,
+		"fire": -20,
+		"frost": 0,
+		"holy": 0,
+		"parry": 0,
+		"physical": 2,
+		"poison": 1000,
+		"thorns": 0
+	},
+	"components": [
+		"armor",
+		"collidable",
+		"craftable",
+		"glyph",
+		"health",
+		"minimap_pixel",
+		"name",
+		"position_2d",
+		"producer"
+	],
+	"corpse": [
+		{
+			"damage_type": 0,
+			"id": "62"
+		},
+		{
+			"damage_type": 8,
+			"id": "core_2_Fossil_Wood"
+		},
+		{
+			"damage_type": 9,
+			"id": "core_2_Fossil_Wood"
+		}
+	],
+	"craftable": {
+		"backgrounds": [],
+		"biomes": [],
+		"magic_slots": 0,
+		"resource_types": [
+			{
+				"amount": 4,
+				"id": 1
+			}
+		],
+		"time": 60,
+		"tools": []
+	},
+	"description": "A display rack designed to hold and showcase weapons, covered somewhat with ice and snow.",
+	"glyph": {
+		"frames": [
+			{
+				"color": [
+					255,
+					255,
+					255
+				],
+				"delay": 0,
+				"index": 2774
+			},
+			{
+				"color": [
+					255,
+					255,
+					255
+				],
+				"delay": 86400000,
+				"index": 2775
+			},
+			{
+				"color": [
+					255,
+					255,
+					255
+				],
+				"delay": 86400000,
+				"index": 2776
+			},
+			{
+				"color": [
+					255,
+					255,
+					255
+				],
+				"delay": 86400000,
+				"index": 2777
+			},
+			{
+				"color": [
+					255,
+					255,
+					255
+				],
+				"delay": 86400000,
+				"index": 2778
+			},
+			{
+				"color": [
+					255,
+					255,
+					255
+				],
+				"delay": 86400000,
+				"index": 2779
+			}
+		],
+		"random_frame_start": true
+	},
+	"health": 100,
+	"id": "core_2_Frozen_Weapon_Stand",
+	"minimap_pixel": [
+		71,
+		48,
+		17
+	],
+	"name": "Frozen Weapon Stand",
+	"producer": {
+		"products": {
+			"core_2_deconstruct": [
+				{
+					"amount": [
+						0,
+						0
+					],
+					"id": "",
+					"percent_chance": 100
+				}
+			]
+		},
+		"time": 10
+	}
+}

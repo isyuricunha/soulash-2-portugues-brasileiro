@@ -1,0 +1,21 @@
+{
+	"animation": "core_2_Poisonous_Weapon",
+	"cast_time": 0.5,
+	"cooldown": 0.0,
+	"cost": {
+		"health": 0,
+		"stamina": 0
+	},
+	"description": "Weapons that you hold are enchanted with ::damage_type power increasing damage by ::damage_bonus for ::duration turns.",
+	"duration": 10.0,
+	"effects": {
+		"damage_bonus": 3,
+		"damage_type": "poison"
+	},
+	"id": "core_2_Poison_Blade",
+	"image": 24,
+	"name": "Poison Blade",
+	"range": 0,
+	"skill": "",
+	"target": "self"
+}

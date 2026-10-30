@@ -1,0 +1,58 @@
+{
+    "id": "core_2_wandering_druid",
+    "name": "Wandering Druid",
+    "category": "wilderness",
+    "flavor": "A lone druid has been spotted wandering the land. Wild animals seem to be drawn to their presence, following closely wherever they roam.",
+    "icon": 0,
+    "small_icon": 0,
+    "rarity": "uncommon",
+    "trigger": {
+        "base_probability": 0.08
+    },
+    "duration": {
+        "type": "temporary",
+        "days": [
+            3,
+            7
+        ]
+    },
+    "max_per_region": 1,
+    "restrict_biomes": ["forest", "boreal_forest"],
+    "effects": [
+        {
+            "type": "roaming_spawn",
+            "entity": "core_2_Wandering_Druid",
+            "amount": [
+                1,
+                1
+            ],
+            "trade_list": [
+                {
+                    "id": "core_2_Cought_Baby_Rabbit",
+                    "amount": 3
+                },
+                {
+                    "id": "core_2_Caught_Buck",
+                    "amount": 3
+                },
+                {
+                    "id": "core_2_Misfortune_Leaves",
+                    "amount": 5
+                },
+                {
+                    "id": "core_2_Mushroom_Tree_Seed",
+                    "amount": 4
+                },
+                {
+                    "id": "core_2_Book_of_Floromancy",
+                    "amount": 1
+                }
+            ],
+            "spawn_behaviors": []
+        }
+    ],
+    "history_events": {
+        "begin": "A wandering druid has entered the area, and animals appear to be following in their footsteps.",
+        "end": "The wandering druid has moved on, and the animals they drew near have dispersed."
+    }
+}

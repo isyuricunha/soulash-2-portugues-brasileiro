@@ -1,0 +1,31 @@
+{
+	"components": [
+		"glyph",
+		"minimap_pixel",
+		"name",
+		"position_2d",
+		"stackable"
+	],
+	"description": "This map represents a world different to yours. It looks old and is torn in several spots.",
+	"glyph": {
+		"frames": [
+			{
+				"color": [
+					255,
+					255,
+					255
+				],
+				"delay": 0,
+				"index": 2863
+			}
+		],
+		"random_frame_start": false
+	},
+	"id": "core_2_Torn_Map",
+	"minimap_pixel": [
+		177,
+		153,
+		137
+	],
+	"name": "Torn Map"
+}

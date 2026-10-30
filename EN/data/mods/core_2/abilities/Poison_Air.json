@@ -1,0 +1,31 @@
+{
+	"animation": "",
+	"cast_time": 1.2000000476837158,
+	"cooldown": 12.0,
+	"cost": {
+		"health": 0,
+		"stamina": 10
+	},
+	"description": "Creates a temporary cloud in the selected area dealing ::damage ::damage_type damage immediately and apply Poison to everyone for ::poison_effect turns. The clouds may sometimes remain in random tiles for ::duration turns.",
+	"duration": 5.0,
+	"effects": {
+		"aoe_range": 10,
+		"aoe_shape": 1,
+		"damage": [
+			30,
+			50
+		],
+		"damage_type": "poison",
+		"poison_effect": 5,
+		"summon_count": 15
+	},
+	"effects_keys": {
+		"summon": "789"
+	},
+	"id": "core_2_Poison_Air",
+	"image": 599,
+	"name": "Poison Air",
+	"range": 8,
+	"skill": "",
+	"target": "aoe_tile"
+}

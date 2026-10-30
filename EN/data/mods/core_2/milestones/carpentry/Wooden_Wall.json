@@ -1,0 +1,19 @@
+{
+	"id": "core_2_wooden_wall",
+	"name": "Wooden Wall",
+	"requirements": {
+		"milestones": [],
+		"skill": 7
+	},
+	"rewards": [
+		{
+			"recipe": "6"
+		},
+		{
+			"recipe": "2012"
+		}
+	],
+	"skill_id": "core_2_carpentry",
+	"steps": [],
+	"steps_type": 0
+}

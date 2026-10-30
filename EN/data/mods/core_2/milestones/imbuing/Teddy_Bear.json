@@ -1,0 +1,16 @@
+{
+	"id": "core_2_teddy_bear",
+	"name": "Teddy Bear",
+	"requirements": {
+		"milestones": [],
+		"skill": 27
+	},
+	"rewards": [
+		{
+			"recipe": "core_2_Teddy_Bear"
+		}
+	],
+	"skill_id": "core_2_imbuing",
+	"steps": [],
+	"steps_type": 0
+}

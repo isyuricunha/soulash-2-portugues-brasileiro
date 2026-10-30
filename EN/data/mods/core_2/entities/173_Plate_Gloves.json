@@ -1,0 +1,66 @@
+{
+	"armor": {
+		"acid": 3,
+		"death": 0,
+		"electricity": 0,
+		"fire": 5,
+		"frost": 5,
+		"holy": 0,
+		"parry": 0,
+		"physical": 5,
+		"poison": 0
+	},
+	"components": [
+		"armor",
+		"craftable",
+		"glyph",
+		"item",
+		"minimap_pixel",
+		"name",
+		"position_2d",
+		"value",
+		"weight"
+	],
+	"craftable": {
+		"magic_slots": 5,
+		"resource_types": [
+			{
+				"amount": 5,
+				"id": 1
+			}
+		],
+		"resources": null,
+		"time": 90,
+		"tools": [
+			1
+		]
+	},
+	"description": "Solid plates of metal to protect hands from being cut off.",
+	"glyph": {
+		"frames": [
+			{
+				"color": [
+					255,
+					255,
+					255
+				],
+				"delay": 0,
+				"index": 648
+			}
+		],
+		"random_frame_start": false
+	},
+	"id": "173",
+	"item": {
+		"image": 75,
+		"type": 11
+	},
+	"minimap_pixel": [
+		100,
+		74,
+		68
+	],
+	"name": "Plate Gloves",
+	"value": 10000,
+	"weight": 4.0
+}

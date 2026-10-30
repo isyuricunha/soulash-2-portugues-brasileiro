@@ -1,0 +1,105 @@
+{
+	"components": [
+		"craftable",
+		"glyph",
+		"item",
+		"minimap_pixel",
+		"name",
+		"position_2d",
+		"stackable",
+		"usable",
+		"value",
+		"weight"
+	],
+	"craftable": {
+		"backgrounds": [],
+		"biomes": [],
+		"magic_slots": 0,
+		"resources": [
+			{
+				"amount": 1,
+				"id": "835"
+			},
+			{
+				"amount": 1,
+				"id": "838"
+			},
+			{
+				"amount": 1,
+				"id": "2008"
+			}
+		],
+		"time": 30,
+		"tools": [
+			15
+		]
+	},
+	"description": "A surprisingly cool vial containing a magical concoction that explodes when exposed to the air, causing severe burns to any within range.",
+	"glyph": {
+		"frames": [
+			{
+				"color": [
+					255,
+					255,
+					255
+				],
+				"delay": 150,
+				"index": 702
+			},
+			{
+				"color": [
+					255,
+					255,
+					255
+				],
+				"delay": 150,
+				"index": 1099
+			},
+			{
+				"color": [
+					255,
+					255,
+					255
+				],
+				"delay": 150,
+				"index": 1100
+			},
+			{
+				"color": [
+					255,
+					255,
+					255
+				],
+				"delay": 150,
+				"index": 1344
+			},
+			{
+				"color": [
+					255,
+					255,
+					255
+				],
+				"delay": 150,
+				"index": 1345
+			}
+		],
+		"random_frame_start": false
+	},
+	"id": "854",
+	"item": {
+		"image": 384,
+		"type": 17
+	},
+	"minimap_pixel": [
+		222,
+		113,
+		32
+	],
+	"name": "Alchemic Fire",
+	"usable": {
+		"ability": "136",
+		"recipe": ""
+	},
+	"value": 2000,
+	"weight": 0.30000001192092896
+}

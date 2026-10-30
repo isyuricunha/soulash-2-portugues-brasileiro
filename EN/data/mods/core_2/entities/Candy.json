@@ -1,0 +1,46 @@
+{
+	"components": [
+		"food",
+		"glyph",
+		"item",
+		"minimap_pixel",
+		"name",
+		"position_2d",
+		"stackable",
+		"value",
+		"weight"
+	],
+	"description": "Tastes sweet.",
+	"food": {
+		"nutrition": 5,
+		"on_eat": "",
+		"raw": false
+	},
+	"glyph": {
+		"frames": [
+			{
+				"color": [
+					255,
+					255,
+					255
+				],
+				"delay": 0,
+				"index": 2631
+			}
+		],
+		"random_frame_start": false
+	},
+	"id": "core_2_Candy",
+	"item": {
+		"image": 1159,
+		"type": 20
+	},
+	"minimap_pixel": [
+		100,
+		109,
+		155
+	],
+	"name": "Candy",
+	"value": 50,
+	"weight": 0.009999999776482582
+}

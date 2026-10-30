@@ -1,0 +1,65 @@
+{
+	"components": [
+		"glyph",
+		"item",
+		"minimap_pixel",
+		"name",
+		"position_2d",
+		"resource",
+		"stackable",
+		"value",
+		"weight"
+	],
+	"description": "Mostly decomposed plants and some soil. Good for building a primitive shelter.",
+	"glyph": {
+		"frames": [
+			{
+				"color": [
+					255,
+					255,
+					255
+				],
+				"delay": 0,
+				"index": 2116
+			},
+			{
+				"color": [
+					255,
+					255,
+					255
+				],
+				"delay": 0,
+				"index": 1224
+			},
+			{
+				"color": [
+					255,
+					255,
+					255
+				],
+				"delay": 0,
+				"index": 1225
+			}
+		],
+		"random_frame_start": true
+	},
+	"id": "core_2_Peat",
+	"item": {
+		"image": 858,
+		"type": 16
+	},
+	"minimap_pixel": [
+		114,
+		113,
+		115
+	],
+	"name": "Peat",
+	"resource": {
+		"affix": "",
+		"magic_ingredient": 0,
+		"quality": 0,
+		"type": 0
+	},
+	"value": 100,
+	"weight": 0.5
+}

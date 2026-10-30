@@ -1,0 +1,16 @@
+{
+	"id": "core_2_healing_herbs",
+	"name": "Healing Herbs Seedling",
+	"requirements": {
+		"milestones": [],
+		"skill": 25
+	},
+	"rewards": [
+		{
+			"recipe": "core_2_Healing_Herbs_Seedling"
+		}
+	],
+	"skill_id": "core_2_agriculture",
+	"steps": [],
+	"steps_type": 0
+}

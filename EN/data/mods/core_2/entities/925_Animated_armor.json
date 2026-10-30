@@ -1,0 +1,216 @@
+{
+	"ability_user": [
+		"16"
+	],
+	"armor": {
+		"acid": -10,
+		"death": 100,
+		"electricity": 5,
+		"fire": 0,
+		"frost": -4,
+		"holy": 0,
+		"parry": 2,
+		"physical": 10,
+		"poison": 0,
+		"thorns": 0
+	},
+	"artificial_intelligence": {
+		"allies": [],
+		"allow_production": [],
+		"behaviors": [],
+		"enemies": [
+			"5"
+		]
+	},
+	"components": [
+		"ability_user",
+		"actor",
+		"armor",
+		"artificial_intelligence",
+		"collidable",
+		"dialogues",
+		"equipment",
+		"experience_gainer",
+		"fighter",
+		"glyph",
+		"health",
+		"humanoid",
+		"minimap_pixel",
+		"moveable",
+		"name",
+		"position_2d",
+		"sight",
+		"stamina",
+		"statistics",
+		"tags",
+		"weapon"
+	],
+	"corpse": [],
+	"description": "This armor moves of its own accord!",
+	"dialogues": [
+		"362"
+	],
+	"equipment": {
+		"head_armor": [
+			{
+				"chance": 0.25,
+				"id": "21",
+				"name": "Nasal Helmet",
+				"stack": 1
+			},
+			{
+				"chance": 0.25,
+				"id": "169",
+				"name": "Helmet",
+				"stack": 1
+			},
+			{
+				"chance": 0.25,
+				"id": "328",
+				"name": "Rusty Helmet",
+				"stack": 1
+			},
+			{
+				"chance": 0.25,
+				"id": "393",
+				"name": "Great Helmet",
+				"stack": 1
+			}
+		],
+		"legs_armor": [
+			{
+				"chance": 0.25,
+				"id": "439",
+				"name": "Greaves",
+				"stack": 1
+			},
+			{
+				"chance": 0.25,
+				"id": "452",
+				"name": "Plate Greaves",
+				"stack": 1
+			},
+			{
+				"chance": 0.25,
+				"id": "571",
+				"name": "Chainmail Pants",
+				"stack": 1
+			},
+			{
+				"chance": 0.25,
+				"id": "572",
+				"name": "Leg Guards",
+				"stack": 1
+			}
+		],
+		"torso_armor": [
+			{
+				"chance": 0.25,
+				"id": "166",
+				"name": "Breastplate",
+				"stack": 1
+			},
+			{
+				"chance": 0.25,
+				"id": "397",
+				"name": "Heavy Armor",
+				"stack": 1
+			},
+			{
+				"chance": 0.25,
+				"id": "398",
+				"name": "Noble Armor",
+				"stack": 1
+			}
+		]
+	},
+	"experience_gainer": {
+		"exp": 0,
+		"level": 30
+	},
+	"fighter": {
+		"attackNames": [
+			"Iron fist"
+		]
+	},
+	"glyph": {
+		"frames": [
+			{
+				"color": [
+					255,
+					255,
+					255
+				],
+				"delay": 0,
+				"index": 743
+			}
+		],
+		"random_frame_start": false
+	},
+	"health": 400,
+	"humanoid": {
+		"race": ""
+	},
+	"id": "925",
+	"minimap_pixel": [
+		181,
+		182,
+		182
+	],
+	"moveable": {
+		"speed": 0.800000011920929
+	},
+	"name": "Animated Armor",
+	"sight": {
+		"ignore_infra_penalty": false,
+		"infravision": true,
+		"range": 10,
+		"threesixty": false
+	},
+	"stamina": {
+		"fatigue": 100,
+		"stamina": 100,
+		"stamina_regen": 0.0
+	},
+	"statistics": {
+		"dexterity": [
+			35,
+			40
+		],
+		"endurance": [
+			35,
+			40
+		],
+		"intelligence": [
+			20,
+			24
+		],
+		"strength": [
+			35,
+			40
+		],
+		"willpower": [
+			20,
+			24
+		]
+	},
+	"tags": [
+		"3"
+	],
+	"weapon": {
+		"attack_speed": 1.0,
+		"critical_hit": 0.0,
+		"damage": [
+			{
+				"dmg_max": 16,
+				"dmg_min": 10,
+				"dmg_type": "physical"
+			}
+		],
+		"hands": 1,
+		"hit_bonus": 0,
+		"parry_bonus": 0,
+		"range": 1,
+		"type": 2
+	}
+}

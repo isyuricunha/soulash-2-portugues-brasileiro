@@ -1,0 +1,77 @@
+{
+	"components": [
+		"glyph",
+		"item",
+		"minimap_pixel",
+		"name",
+		"position_2d",
+		"statistics",
+		"weapon",
+		"weight"
+	],
+	"description": "A lifeless hand of a dead gnoll.",
+	"glyph": {
+		"frames": [
+			{
+				"color": [
+					255,
+					255,
+					255
+				],
+				"delay": 0,
+				"index": 2860
+			}
+		],
+		"random_frame_start": false
+	},
+	"id": "core_2_Gnoll_Hand",
+	"item": {
+		"image": 1304,
+		"type": 34
+	},
+	"minimap_pixel": [
+		156,
+		160,
+		161
+	],
+	"name": "Gnoll Hand",
+	"statistics": {
+		"dexterity": [
+			0,
+			0
+		],
+		"endurance": [
+			-10,
+			-10
+		],
+		"intelligence": [
+			0,
+			0
+		],
+		"strength": [
+			0,
+			0
+		],
+		"willpower": [
+			0,
+			0
+		]
+	},
+	"weapon": {
+		"attack_speed": 1.0,
+		"critical_hit": 0.0,
+		"damage": [
+			{
+				"dmg_max": 1,
+				"dmg_min": 0,
+				"dmg_type": "true"
+			}
+		],
+		"hands": 1,
+		"hit_bonus": 0,
+		"parry_bonus": 0,
+		"range": 1,
+		"type": 6
+	},
+	"weight": 1.5
+}

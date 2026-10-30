@@ -1,0 +1,68 @@
+{
+	"armor": {
+		"acid": 2,
+		"death": 0,
+		"electricity": 0,
+		"fire": 0,
+		"frost": 0,
+		"holy": 2,
+		"parry": 0,
+		"physical": 5,
+		"poison": 0,
+		"thorns": 0
+	},
+	"components": [
+		"armor",
+		"craftable",
+		"glyph",
+		"item",
+		"minimap_pixel",
+		"name",
+		"position_2d",
+		"value",
+		"weight"
+	],
+	"craftable": {
+		"backgrounds": [],
+		"biomes": [],
+		"magic_slots": 4,
+		"resource_types": [
+			{
+				"amount": 4,
+				"id": 1
+			}
+		],
+		"time": 150,
+		"tools": [
+			1
+		]
+	},
+	"description": "Cover the head and face very well, but obscures vision.",
+	"glyph": {
+		"frames": [
+			{
+				"color": [
+					255,
+					255,
+					255
+				],
+				"delay": 0,
+				"index": 356
+			}
+		],
+		"random_frame_start": false
+	},
+	"id": "393",
+	"item": {
+		"image": 165,
+		"type": 1
+	},
+	"minimap_pixel": [
+		186,
+		190,
+		191
+	],
+	"name": "Great Helmet",
+	"value": 5000,
+	"weight": 3.5
+}

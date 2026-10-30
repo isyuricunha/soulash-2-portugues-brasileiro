@@ -1,0 +1,45 @@
+{
+    "id": "core_2_mushroom_bloom",
+    "name": "Mushroom Bloom",
+    "category": "wilderness",
+    "flavor": "The recent heavy rains have soaked deep into the earth, awakening ancient mycelium networks beneath the forest floor. Enormous mushrooms have erupted across the land overnight, their caps rising high as trees.",
+    "icon": 0,
+    "small_icon": 0,
+    "rarity": "uncommon",
+    "trigger": {
+        "base_probability": 0.12
+    },
+    "duration": {
+        "type": "temporary",
+        "days": [
+            10,
+            20
+        ]
+    },
+    "max_per_region": 1,
+    "restrict_biomes": ["forest", "boreal_forest", "grasslands"],
+    "effects": [
+        {
+            "type": "roaming_spawn",
+            "entity": "core_2_Mushroom_Tree",
+            "amount": [
+                15,
+                30
+            ],
+            "spawn_behaviors": []
+        },
+        {
+            "type": "roaming_spawn",
+            "entity": "core_2_Mushman_Forester",
+            "amount": [
+                1,
+                3
+            ],
+            "spawn_behaviors": []
+        }
+    ],
+    "history_events": {
+        "begin": "Heavy rains have triggered a massive bloom of giant mushrooms across the region.",
+        "end": "The giant mushrooms have withered and the forest floor returns to its usual state."
+    }
+}

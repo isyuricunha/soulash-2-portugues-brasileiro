@@ -1,0 +1,16 @@
+{
+	"id": "core_2_rock_axe",
+	"name": "Rock Axe",
+	"requirements": {
+		"milestones": [],
+		"skill": 32
+	},
+	"rewards": [
+		{
+			"recipe": "core_2_Rock_Axe"
+		}
+	],
+	"skill_id": "core_2_construction",
+	"steps": [],
+	"steps_type": 0
+}

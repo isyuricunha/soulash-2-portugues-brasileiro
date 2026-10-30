@@ -1,0 +1,15 @@
+{
+	"id": "core_2_recycler_3",
+	"name": "Recycler III",
+	"requirements": {
+		"skill": 24
+	},
+	"rewards": [
+		{
+			"passive": "core_2_recycler_3"
+		}
+	],
+	"skill_id": "core_2_economy",
+	"steps": [],
+	"steps_type": 0
+}

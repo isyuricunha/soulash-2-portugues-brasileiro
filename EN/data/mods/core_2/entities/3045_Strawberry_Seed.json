@@ -1,0 +1,40 @@
+{
+	"components": [
+		"glyph",
+		"item",
+		"minimap_pixel",
+		"name",
+		"position_2d",
+		"stackable",
+		"value",
+		"weight"
+	],
+	"description": "Will grow into strawberry bush one day.",
+	"glyph": {
+		"frames": [
+			{
+				"color": [
+					255,
+					255,
+					255
+				],
+				"delay": 0,
+				"index": 2043
+			}
+		],
+		"random_frame_start": false
+	},
+	"id": "3045",
+	"item": {
+		"image": 825,
+		"type": 24
+	},
+	"minimap_pixel": [
+		156,
+		73,
+		73
+	],
+	"name": "Strawberry Seed",
+	"value": 150,
+	"weight": 0.019999999552965164
+}

@@ -1,0 +1,53 @@
+{
+	"components": [
+		"glyph",
+		"item",
+		"minimap_pixel",
+		"name",
+		"position_2d",
+		"producer",
+		"weight"
+	],
+	"description": "Animated amethyst vein, but this time it is dead.",
+	"glyph": {
+		"frames": [
+			{
+				"color": [
+					255,
+					255,
+					255
+				],
+				"delay": 0,
+				"index": 1861
+			}
+		],
+		"random_frame_start": true
+	},
+	"id": "2832",
+	"item": {
+		"image": 744,
+		"type": 18
+	},
+	"minimap_pixel": [
+		147,
+		128,
+		104
+	],
+	"name": "Animated Amethyst Vein Corpse",
+	"producer": {
+		"products": {
+			"3": [
+				{
+					"amount": [
+						2,
+						4
+					],
+					"id": "850",
+					"percent_chance": 100
+				}
+			]
+		},
+		"time": 20
+	},
+	"weight": 100.0
+}

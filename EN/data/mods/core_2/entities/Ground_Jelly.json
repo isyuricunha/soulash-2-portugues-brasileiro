@@ -1,0 +1,46 @@
+{
+	"components": [
+		"food",
+		"glyph",
+		"item",
+		"minimap_pixel",
+		"name",
+		"position_2d",
+		"stackable",
+		"value",
+		"weight"
+	],
+	"description": "Not very nutritious, but can grow anywhere.",
+	"food": {
+		"nutrition": 5,
+		"on_eat": "",
+		"raw": true
+	},
+	"glyph": {
+		"frames": [
+			{
+				"color": [
+					255,
+					255,
+					255
+				],
+				"delay": 0,
+				"index": 2144
+			}
+		],
+		"random_frame_start": false
+	},
+	"id": "core_2_Ground_Jelly",
+	"item": {
+		"image": 885,
+		"type": 20
+	},
+	"minimap_pixel": [
+		237,
+		145,
+		33
+	],
+	"name": "Ground Jelly",
+	"value": 100,
+	"weight": 0.10000000149011612
+}

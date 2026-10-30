@@ -1,0 +1,16 @@
+{
+	"id": "core_2_jax_in_the_box",
+	"name": "Jax in the Box",
+	"requirements": {
+		"milestones": [],
+		"skill": 33
+	},
+	"rewards": [
+		{
+			"recipe": "core_2_Jack-in-the-box"
+		}
+	],
+	"skill_id": "core_2_imbuing",
+	"steps": [],
+	"steps_type": 0
+}

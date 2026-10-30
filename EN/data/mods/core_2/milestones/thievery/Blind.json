@@ -1,0 +1,16 @@
+{
+	"id": "core_2_blind",
+	"name": "Blind",
+	"requirements": {
+		"milestones": [],
+		"skill": 24
+	},
+	"rewards": [
+		{
+			"ability": "152"
+		}
+	],
+	"skill_id": "core_2_thievery",
+	"steps": [],
+	"steps_type": 0
+}

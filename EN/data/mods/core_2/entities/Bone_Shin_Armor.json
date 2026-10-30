@@ -1,0 +1,68 @@
+{
+	"armor": {
+		"acid": 1,
+		"death": 2,
+		"electricity": 0,
+		"fire": 0,
+		"frost": 0,
+		"holy": 0,
+		"parry": 0,
+		"physical": 1,
+		"poison": 0,
+		"thorns": 0
+	},
+	"components": [
+		"armor",
+		"craftable",
+		"glyph",
+		"item",
+		"minimap_pixel",
+		"name",
+		"position_2d",
+		"value",
+		"weight"
+	],
+	"craftable": {
+		"backgrounds": [],
+		"biomes": [],
+		"magic_slots": 1,
+		"resource_types": [
+			{
+				"amount": 2,
+				"id": 5
+			}
+		],
+		"time": 45,
+		"tools": [
+			14
+		]
+	},
+	"description": "Strong bones to protect your legs.",
+	"glyph": {
+		"frames": [
+			{
+				"color": [
+					255,
+					255,
+					255
+				],
+				"delay": 0,
+				"index": 2725
+			}
+		],
+		"random_frame_start": false
+	},
+	"id": "core_2_Bone_Greaves",
+	"item": {
+		"image": 1238,
+		"type": 7
+	},
+	"minimap_pixel": [
+		118,
+		166,
+		66
+	],
+	"name": "Bone Shin Armor",
+	"value": 1100,
+	"weight": 0.6000000238418579
+}

@@ -1,0 +1,117 @@
+{
+	"ability_user": [
+		"core_2_Summon_Ifrid",
+		"172"
+	],
+	"armor": {
+		"acid": 10,
+		"death": 9999,
+		"electricity": 0,
+		"fire": 9999,
+		"frost": -10,
+		"holy": 0,
+		"parry": 0,
+		"physical": 80,
+		"poison": 4,
+		"thorns": 0
+	},
+	"artificial_intelligence": {
+		"allies": [],
+		"allow_production": [],
+		"behaviors": [],
+		"enemies": [
+			"5"
+		]
+	},
+	"components": [
+		"ability_user",
+		"actor",
+		"armor",
+		"artificial_intelligence",
+		"collidable",
+		"experience_gainer",
+		"fighter",
+		"glyph",
+		"health",
+		"minimap_pixel",
+		"name",
+		"position_2d",
+		"sight",
+		"stamina",
+		"statistics",
+		"tags"
+	],
+	"corpse": "35",
+	"description": "This mountain has awakened and looking for blood.",
+	"experience_gainer": {
+		"exp": 0,
+		"level": 50
+	},
+	"fighter": {
+		"attackNames": [
+			"Heat Wave"
+		]
+	},
+	"glyph": {
+		"frames": [
+			{
+				"color": [
+					255,
+					255,
+					255
+				],
+				"delay": 0,
+				"index": 567
+			}
+		],
+		"random_frame_start": false
+	},
+	"health": 3000,
+	"id": "core_2_Dooming_Mountain_Centre",
+	"minimap_pixel": [
+		255,
+		0,
+		42
+	],
+	"name": "Dooming Mountain",
+	"sight": {
+		"ignore_infra_penalty": false,
+		"infravision": true,
+		"range": 20,
+		"threesixty": true
+	},
+	"stamina": {
+		"fatigue": 100,
+		"stamina": 100,
+		"stamina_regen": 0.0
+	},
+	"statistics": {
+		"dexterity": [
+			16,
+			20
+		],
+		"endurance": [
+			142,
+			146
+		],
+		"health_regen": 1.0,
+		"health_regen_tick": 0.33000001311302185,
+		"intelligence": [
+			8,
+			11
+		],
+		"magic_power": 10,
+		"strength": [
+			41,
+			45
+		],
+		"willpower": [
+			16,
+			20
+		]
+	},
+	"tags": [
+		"9",
+		"38"
+	]
+}

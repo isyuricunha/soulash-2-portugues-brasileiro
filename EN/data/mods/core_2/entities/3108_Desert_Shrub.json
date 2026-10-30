@@ -1,0 +1,60 @@
+{
+	"components": [
+		"block_light",
+		"glyph",
+		"glyph_top",
+		"health",
+		"height",
+		"liquid_source",
+		"minimap_pixel",
+		"name",
+		"position_2d"
+	],
+	"corpse": [],
+	"description": "A woody plant branching from the ground.",
+	"glyph": {
+		"frames": [
+			{
+				"color": [
+					28,
+					45,
+					30
+				],
+				"delay": 0,
+				"index": 860
+			}
+		],
+		"random_frame_start": false,
+		"random_top": {
+			"colors": [
+				[
+					255,
+					255,
+					255
+				]
+			],
+			"count": 2,
+			"glyph_ids": [
+				1716,
+				1717,
+				1718
+			],
+			"max_alpha": 200,
+			"max_range": 3,
+			"wind": true
+		}
+	},
+	"health": 50,
+	"height": 1,
+	"id": "3108",
+	"liquid_source": {
+		"limit": 100,
+		"type": 1
+	},
+	"minimap_pixel": [
+		37,
+		89,
+		31
+	],
+	"name": "Desert Shrub"
+}

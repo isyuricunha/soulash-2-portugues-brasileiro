@@ -1,0 +1,20 @@
+{
+	"animation": "109",
+	"cast_time": 1.0,
+	"cooldown": 0.0,
+	"cost": {
+		"health": 4,
+		"item_type": 18,
+		"stamina": 0
+	},
+	"description": "Raise corpse as a ghoul that fights on your side. Number of ghouls controlled is unlimited.",
+	"duration": 0.0,
+	"effects": {
+		"summon": 413
+	},
+	"id": "57",
+	"image": 100,
+	"name": "Raise Ghoul",
+	"range": 5,
+	"target": "corpse"
+}

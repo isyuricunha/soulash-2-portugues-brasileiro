@@ -1,0 +1,35 @@
+{
+	"components": [
+		"glyph",
+		"liquid_source",
+		"minimap_pixel",
+		"name",
+		"position_2d"
+	],
+	"description": "Just a simple puddle of water.",
+	"glyph": {
+		"frames": [
+			{
+				"color": [
+					255,
+					255,
+					255
+				],
+				"delay": 0,
+				"index": 3399
+			}
+		],
+		"random_frame_start": true
+	},
+	"id": "core_2_Big_Puddle",
+	"liquid_source": {
+		"limit": 100,
+		"type": 4
+	},
+	"minimap_pixel": [
+		138,
+		7,
+		7
+	],
+	"name": "Big Puddle"
+}

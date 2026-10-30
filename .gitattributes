@@ -1,2 +1,12 @@
-# Auto detect text files and perform LF normalization
-* text=auto
+* text=auto eol=lf
+*.py text eol=lf
+*.md text eol=lf
+*.jsonl text eol=lf
+EN/** -text
+PTBR/** -text
+english/** -text
+ptbr/** -text
+*.zip -text
+*.7z -text
+*.bundle -text
+translation-work/reference/*.zip -text

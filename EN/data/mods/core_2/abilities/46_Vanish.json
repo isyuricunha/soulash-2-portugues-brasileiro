@@ -1,0 +1,23 @@
+{
+	"animation": "43",
+	"cast_time": 0.20000000298023224,
+	"cooldown": 6.0,
+	"cost": {
+		"health": 0,
+		"stamina": 8
+	},
+	"description": "Hide from sight becoming invisible for ::duration turns. Attacking someone or using aggresive ability will uncover you.",
+	"duration": 3.0,
+	"effects": {
+		"hide": 1
+	},
+	"id": "46",
+	"image": 84,
+	"name": "Vanish",
+	"range": 0,
+	"skill": "core_2_thievery",
+	"slots": {
+		"utility": 2
+	},
+	"target": "self"
+}

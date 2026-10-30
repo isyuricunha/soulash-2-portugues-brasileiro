@@ -1,0 +1,40 @@
+{
+	"components": [
+		"glyph",
+		"item",
+		"minimap_pixel",
+		"name",
+		"position_2d",
+		"stackable",
+		"value",
+		"weight"
+	],
+	"description": "A delicate bell-shaped flower.",
+	"glyph": {
+		"frames": [
+			{
+				"color": [
+					255,
+					255,
+					255
+				],
+				"delay": 0,
+				"index": 2532
+			}
+		],
+		"random_frame_start": false
+	},
+	"id": "core_2_Bluebell_Flower",
+	"item": {
+		"image": 1114,
+		"type": 16
+	},
+	"minimap_pixel": [
+		73,
+		156,
+		73
+	],
+	"name": "Bluebell Flower",
+	"value": 100,
+	"weight": 0.10000000149011612
+}

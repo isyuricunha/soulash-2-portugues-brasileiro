@@ -1,0 +1,30 @@
+{
+	"components": [
+		"glyph",
+		"minimap_pixel",
+		"name",
+		"position_2d"
+	],
+	"description": "It used to be a portable bed, used by travellers, but now it's just frozen solid.",
+	"glyph": {
+		"frames": [
+			{
+				"color": [
+					255,
+					255,
+					255
+				],
+				"delay": 0,
+				"index": 2783
+			}
+		],
+		"random_frame_start": false
+	},
+	"id": "core_2_Frozen_Bedroll",
+	"minimap_pixel": [
+		93,
+		67,
+		28
+	],
+	"name": "Frozen Bedroll"
+}

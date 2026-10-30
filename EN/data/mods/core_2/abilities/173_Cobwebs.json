@@ -1,0 +1,20 @@
+{
+	"animation": "170",
+	"cast_time": 0.0,
+	"cooldown": 0.0,
+	"cost": {
+		"health": 0,
+		"stamina": 0
+	},
+	"description": "You're caught in the spider webs and can't move!",
+	"duration": 3.0,
+	"effects": {
+		"immobilize": 1
+	},
+	"id": "173",
+	"image": 93,
+	"level": 0,
+	"name": "Cobwebs",
+	"range": 1,
+	"target": "actor"
+}

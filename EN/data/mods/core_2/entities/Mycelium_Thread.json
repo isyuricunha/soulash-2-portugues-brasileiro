@@ -1,0 +1,76 @@
+{
+	"armor": {
+		"acid": 2,
+		"death": 0,
+		"electricity": 0,
+		"fire": 0,
+		"frost": 0,
+		"holy": 0,
+		"parry": 0,
+		"physical": 0,
+		"poison": 0,
+		"thorns": 0
+	},
+	"components": [
+		"armor",
+		"craftable",
+		"glyph",
+		"item",
+		"minimap_pixel",
+		"name",
+		"position_2d",
+		"resource",
+		"stackable",
+		"value",
+		"weight"
+	],
+	"craftable": {
+		"backgrounds": [],
+		"biomes": [],
+		"magic_slots": 0,
+		"resources": [
+			{
+				"amount": 2,
+				"id": "core_2_Mycelium"
+			}
+		],
+		"time": 10,
+		"tools": [
+			12
+		]
+	},
+	"description": "Mycelium thread is used in crafting of various clothing.",
+	"glyph": {
+		"frames": [
+			{
+				"color": [
+					255,
+					255,
+					255
+				],
+				"delay": 0,
+				"index": 2155
+			}
+		],
+		"random_frame_start": false
+	},
+	"id": "core_2_Mycelium_Thread",
+	"item": {
+		"image": 896,
+		"type": 16
+	},
+	"minimap_pixel": [
+		156,
+		73,
+		73
+	],
+	"name": "Mycelium Thread",
+	"resource": {
+		"affix": "Mycelium",
+		"magic_ingredient": 0,
+		"quality": 1,
+		"type": 4
+	},
+	"value": 900,
+	"weight": 0.10000000149011612
+}

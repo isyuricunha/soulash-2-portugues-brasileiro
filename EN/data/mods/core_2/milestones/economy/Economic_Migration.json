@@ -1,0 +1,15 @@
+{
+	"id": "core_2_economic_migration",
+	"name": "Economic Migration",
+	"requirements": {
+		"skill": 13
+	},
+	"rewards": [
+		{
+			"passive": "core_2_economic_migration"
+		}
+	],
+	"skill_id": "core_2_economy",
+	"steps": [],
+	"steps_type": 0
+}

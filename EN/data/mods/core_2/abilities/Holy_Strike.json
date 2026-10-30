@@ -1,0 +1,24 @@
+{
+	"animation": "",
+	"cast_time": -1.0,
+	"cooldown": 5.0,
+	"cost": {
+		"health": 0,
+		"stamina": 6
+	},
+	"description": "Deals ::damage ::damage_type damage.",
+	"duration": 0.0,
+	"effects": {
+		"damage": [
+			7,
+			10
+		],
+		"damage_type": "holy"
+	},
+	"id": "core_2_Holy_Strike",
+	"image": 609,
+	"name": "Holy Strike",
+	"range": 2,
+	"skill": "",
+	"target": "health"
+}

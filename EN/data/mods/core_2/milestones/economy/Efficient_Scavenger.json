@@ -1,0 +1,15 @@
+{
+	"id": "core_2_efficient_scavenger",
+	"name": "Efficient Scavenger",
+	"requirements": {
+		"skill": 26
+	},
+	"rewards": [
+		{
+			"passive": "core_2_efficient_scavenger"
+		}
+	],
+	"skill_id": "core_2_economy",
+	"steps": [],
+	"steps_type": 0
+}

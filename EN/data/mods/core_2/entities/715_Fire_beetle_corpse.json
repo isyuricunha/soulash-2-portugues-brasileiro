@@ -1,0 +1,60 @@
+{
+	"components": [
+		"glyph",
+		"item",
+		"light_source",
+		"minimap_pixel",
+		"name",
+		"position_2d",
+		"producer",
+		"value",
+		"weight"
+	],
+	"description": "The still-shining corpse of a fire beetle, though the beetle's light it emanates is far dimmer in death.",
+	"glyph": {
+		"frames": [
+			{
+				"color": [
+					255,
+					255,
+					255
+				],
+				"delay": 0,
+				"index": 678
+			}
+		]
+	},
+	"id": "715",
+	"item": {
+		"image": 264,
+		"type": 18
+	},
+	"light_source": {
+		"finish": -1,
+		"fuel": [],
+		"range": 5
+	},
+	"minimap_pixel": [
+		221,
+		66,
+		5
+	],
+	"name": "Fire Beetle Corpse",
+	"producer": {
+		"products": {
+			"3": [
+				{
+					"amount": [
+						1,
+						1
+					],
+					"id": "716",
+					"percent_chance": 100
+				}
+			]
+		},
+		"time": 0
+	},
+	"value": 0,
+	"weight": 50.0
+}

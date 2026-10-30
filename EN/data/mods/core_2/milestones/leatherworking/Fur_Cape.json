@@ -1,0 +1,15 @@
+{
+	"id": "core_2_fur_cape",
+	"name": "Fur Cape",
+	"requirements": {
+		"skill": 46
+	},
+	"rewards": [
+		{
+			"recipe": "187"
+		}
+	],
+	"skill_id": "core_2_leatherworking",
+	"steps": [],
+	"steps_type": 0
+}

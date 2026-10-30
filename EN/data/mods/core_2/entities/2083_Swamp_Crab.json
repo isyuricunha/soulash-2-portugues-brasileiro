@@ -1,0 +1,133 @@
+{
+	"artificial_intelligence": {
+		"allies": [],
+		"allow_production": [],
+		"behaviors": [],
+		"enemies": [
+			"5"
+		]
+	},
+	"components": [
+		"actor",
+		"artificial_intelligence",
+		"collidable",
+		"dialogues",
+		"equipment",
+		"experience_gainer",
+		"fighter",
+		"glyph",
+		"health",
+		"humanoid",
+		"minimap_pixel",
+		"moveable",
+		"name",
+		"position_2d",
+		"sight",
+		"stamina",
+		"statistics",
+		"tags"
+	],
+	"corpse": "2209",
+	"description": "This dog-sized crab seems ready to grab you by the ankles.",
+	"dialogues": [
+		"884"
+	],
+	"equipment": {
+		"disabled_slots": [
+			1,
+			0,
+			2,
+			3,
+			4,
+			5,
+			6,
+			7,
+			8,
+			9,
+			10,
+			11,
+			12,
+			13,
+			14,
+			15,
+			16,
+			17,
+			18
+		]
+	},
+	"experience_gainer": {
+		"exp": 0,
+		"level": 10
+	},
+	"fighter": {
+		"attackNames": [
+			"Pincer Grab",
+			"Pincer Smash"
+		]
+	},
+	"glyph": {
+		"frames": [
+			{
+				"color": [
+					255,
+					255,
+					255
+				],
+				"delay": 0,
+				"index": 18
+			}
+		],
+		"random_frame_start": false
+	},
+	"health": 80,
+	"humanoid": {
+		"race": ""
+	},
+	"id": "2083",
+	"minimap_pixel": [
+		30,
+		200,
+		58
+	],
+	"moveable": {
+		"speed": 1.100000023841858
+	},
+	"name": "Swamp Crab",
+	"sight": {
+		"ignore_infra_penalty": false,
+		"infravision": false,
+		"range": 7,
+		"threesixty": false
+	},
+	"stamina": {
+		"fatigue": 100,
+		"stamina": 100,
+		"stamina_regen": 0.0
+	},
+	"statistics": {
+		"dexterity": [
+			14,
+			18
+		],
+		"endurance": [
+			10,
+			13
+		],
+		"intelligence": [
+			12,
+			15
+		],
+		"strength": [
+			14,
+			18
+		],
+		"willpower": [
+			8,
+			12
+		]
+	},
+	"tags": [
+		"9",
+		"2"
+	]
+}

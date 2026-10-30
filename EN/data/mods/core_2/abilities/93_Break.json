@@ -1,0 +1,28 @@
+{
+	"animation": "122",
+	"cast_time": -1.0,
+	"cooldown": 0.0,
+	"cost": {
+		"health": 0,
+		"stamina": 6
+	},
+	"description": "Deal ::damage ::damage_type damage to inanimate object.",
+	"duration": 0.0,
+	"effects": {
+		"damage": [
+			300,
+			300
+		],
+		"damage_type": "physical",
+		"damage_weapon": 1.0
+	},
+	"id": "93",
+	"image": 69,
+	"name": "Break",
+	"range": 1,
+	"skill": "core_2_axe_fighting",
+	"slots": {
+		"utility": 2
+	},
+	"target": "non_actor"
+}

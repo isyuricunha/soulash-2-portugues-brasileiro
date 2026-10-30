@@ -1,0 +1,77 @@
+{
+	"components": [
+		"craftable",
+		"glyph",
+		"item",
+		"minimap_pixel",
+		"name",
+		"position_2d",
+		"value",
+		"weapon",
+		"weight"
+	],
+	"craftable": {
+		"backgrounds": [],
+		"biomes": [],
+		"magic_slots": 3,
+		"resource_types": [
+			{
+				"amount": 2,
+				"id": 1
+			},
+			{
+				"amount": 2,
+				"id": 3
+			}
+		],
+		"time": 45,
+		"tools": [
+			14
+		]
+	},
+	"description": "Long and heavy javelin.",
+	"glyph": {
+		"frames": [
+			{
+				"color": [
+					255,
+					255,
+					255
+				],
+				"delay": 0,
+				"index": 2679
+			}
+		],
+		"random_frame_start": false
+	},
+	"id": "core_2_Pilum",
+	"item": {
+		"image": 1201,
+		"type": 13
+	},
+	"minimap_pixel": [
+		198,
+		153,
+		97
+	],
+	"name": "Pilum",
+	"value": 3000,
+	"weapon": {
+		"attack_animation": "5",
+		"attack_speed": 1.0,
+		"critical_hit": 0.0,
+		"damage": [
+			{
+				"dmg_max": 11,
+				"dmg_min": 7,
+				"dmg_type": "physical"
+			}
+		],
+		"hands": 1,
+		"hit_bonus": 3,
+		"parry_bonus": 0,
+		"range": 6,
+		"type": 11
+	},
+	"weight": 1.5
+}

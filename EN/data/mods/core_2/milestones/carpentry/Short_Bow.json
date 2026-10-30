@@ -1,0 +1,16 @@
+{
+	"id": "core_2_short_bow",
+	"name": "Short Bow",
+	"requirements": {
+		"milestones": [],
+		"skill": 9
+	},
+	"rewards": [
+		{
+			"recipe": "102"
+		}
+	],
+	"skill_id": "core_2_carpentry",
+	"steps": [],
+	"steps_type": 0
+}

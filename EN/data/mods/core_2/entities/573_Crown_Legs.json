@@ -1,0 +1,66 @@
+{
+	"armor": {
+		"acid": 0,
+		"death": 2,
+		"electricity": 4,
+		"fire": 0,
+		"frost": 4,
+		"holy": 4,
+		"parry": 0,
+		"physical": 6,
+		"poison": 0
+	},
+	"components": [
+		"armor",
+		"craftable",
+		"glyph",
+		"item",
+		"minimap_pixel",
+		"name",
+		"position_2d",
+		"value",
+		"weight"
+	],
+	"craftable": {
+		"magic_slots": 5,
+		"resource_types": [
+			{
+				"amount": 5,
+				"id": 1
+			}
+		],
+		"resources": null,
+		"time": 200,
+		"tools": [
+			1
+		]
+	},
+	"description": "Sturdy and ornate leg armor worn by kings and emperors.",
+	"glyph": {
+		"frames": [
+			{
+				"color": [
+					255,
+					255,
+					255
+				],
+				"delay": 0,
+				"index": 598
+			}
+		],
+		"random_frame_start": false
+	},
+	"id": "573",
+	"item": {
+		"image": 277,
+		"type": 7
+	},
+	"minimap_pixel": [
+		217,
+		144,
+		88
+	],
+	"name": "Crown Legs",
+	"value": 20000,
+	"weight": 5.0
+}

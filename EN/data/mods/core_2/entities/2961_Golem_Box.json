@@ -1,0 +1,76 @@
+{
+	"components": [
+		"craftable",
+		"glyph",
+		"item",
+		"minimap_pixel",
+		"name",
+		"position_2d",
+		"usable",
+		"value",
+		"weight"
+	],
+	"craftable": {
+		"backgrounds": [],
+		"biomes": [],
+		"magic_slots": 0,
+		"resources": [
+			{
+				"amount": 1,
+				"id": "2115"
+			},
+			{
+				"amount": 1,
+				"id": "2116"
+			},
+			{
+				"amount": 1,
+				"id": "2547"
+			},
+			{
+				"amount": 1,
+				"id": "2535"
+			},
+			{
+				"amount": 1,
+				"id": "149"
+			}
+		],
+		"time": 120,
+		"tools": [
+			6
+		]
+	},
+	"description": "Oddly small for a whole golem.",
+	"glyph": {
+		"frames": [
+			{
+				"color": [
+					255,
+					255,
+					255
+				],
+				"delay": 0,
+				"index": 1967
+			}
+		],
+		"random_frame_start": false
+	},
+	"id": "2961",
+	"item": {
+		"image": 767,
+		"type": 17
+	},
+	"minimap_pixel": [
+		125,
+		128,
+		128
+	],
+	"name": "Golem Box",
+	"usable": {
+		"ability": "core_2_Summon_Golem",
+		"recipe": ""
+	},
+	"value": 0,
+	"weight": 10.0
+}

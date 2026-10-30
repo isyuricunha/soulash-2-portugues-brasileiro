@@ -1,0 +1,16 @@
+{
+	"id": "core_2_workhorse",
+	"name": "Workhorse",
+	"requirements": {
+		"milestones": [],
+		"skill": 36
+	},
+	"rewards": [
+		{
+			"passive": "core_2_max_stamina"
+		}
+	],
+	"skill_id": "core_2_athletics",
+	"steps": [],
+	"steps_type": 0
+}

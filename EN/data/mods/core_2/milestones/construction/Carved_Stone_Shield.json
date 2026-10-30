@@ -1,0 +1,16 @@
+{
+	"id": "core_2_carved_stone_shield",
+	"name": "Carved Stone Shield",
+	"requirements": {
+		"milestones": [],
+		"skill": 17
+	},
+	"rewards": [
+		{
+			"recipe": "core_2_Carved_Stone_Shield"
+		}
+	],
+	"skill_id": "core_2_construction",
+	"steps": [],
+	"steps_type": 0
+}

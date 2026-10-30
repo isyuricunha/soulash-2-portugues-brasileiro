@@ -1,0 +1,75 @@
+{
+	"armor": {
+		"acid": 1000,
+		"death": 1000,
+		"electricity": 1000,
+		"fire": 1000,
+		"frost": 0,
+		"holy": 1000,
+		"parry": 0,
+		"physical": 1000,
+		"poison": 1000
+	},
+	"background": {
+		"color": [
+			124,
+			7,
+			7
+		],
+		"noise": 5,
+		"noise_intensity": 7
+	},
+	"components": [
+		"armor",
+		"background",
+		"glyph",
+		"health",
+		"liquid_source",
+		"minimap_pixel",
+		"name",
+		"on_enter",
+		"position_2d",
+		"water"
+	],
+	"corpse": [
+		{
+			"damage_type": 2,
+			"id": "916"
+		}
+	],
+	"description": "The blood rocks gently back and forth in the shadow of the cave.",
+	"glyph": {
+		"frames": [
+			{
+				"color": [
+					255,
+					255,
+					255
+				],
+				"delay": 0,
+				"index": 21
+			}
+		]
+	},
+	"health": 1,
+	"id": "915",
+	"liquid_source": {
+		"limit": -1,
+		"type": 4
+	},
+	"minimap_pixel": [
+		124,
+		7,
+		7
+	],
+	"name": "Underground Lake of Blood",
+	"on_enter": {
+		"ability": [
+			"88",
+			"89"
+		]
+	},
+	"water": {
+		"swimming": true
+	}
+}

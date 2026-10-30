@@ -1,0 +1,16 @@
+{
+	"id": "core_2_stick_of_imagination",
+	"name": "Stick of Imagination",
+	"requirements": {
+		"milestones": [],
+		"skill": 1
+	},
+	"rewards": [
+		{
+			"recipe": "core_2_Stick_of_Imagination"
+		}
+	],
+	"skill_id": "core_2_imbuing",
+	"steps": [],
+	"steps_type": 0
+}

@@ -1,0 +1,16 @@
+{
+	"id": "core_2_rattle",
+	"name": "Rattle",
+	"requirements": {
+		"milestones": [],
+		"skill": 15
+	},
+	"rewards": [
+		{
+			"recipe": "core_2_Rattle"
+		}
+	],
+	"skill_id": "core_2_imbuing",
+	"steps": [],
+	"steps_type": 0
+}

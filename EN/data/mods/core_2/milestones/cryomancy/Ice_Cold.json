@@ -1,0 +1,16 @@
+{
+	"id": "core_2_ice_cold",
+	"name": "Ice Cold",
+	"requirements": {
+		"milestones": [],
+		"skill": 48
+	},
+	"rewards": [
+		{
+			"amplifier": "core_2_ice_cold"
+		}
+	],
+	"skill_id": "core_2_cryomancy",
+	"steps": [],
+	"steps_type": 0
+}

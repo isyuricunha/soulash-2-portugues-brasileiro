@@ -1,0 +1,80 @@
+{
+	"components": [
+		"craftable",
+		"glyph",
+		"item",
+		"minimap_pixel",
+		"name",
+		"position_2d",
+		"resource",
+		"stackable",
+		"value",
+		"weapon",
+		"weight"
+	],
+	"craftable": {
+		"backgrounds": [],
+		"biomes": [],
+		"magic_slots": 0,
+		"resources": [
+			{
+				"amount": 1,
+				"id": "62"
+			}
+		],
+		"time": 20,
+		"tools": [
+			15
+		]
+	},
+	"description": "Just a normal wooden button. It's always warm.",
+	"glyph": {
+		"frames": [
+			{
+				"color": [
+					255,
+					255,
+					255
+				],
+				"delay": 0,
+				"index": 2465
+			}
+		],
+		"random_frame_start": false
+	},
+	"id": "core_2_Button",
+	"item": {
+		"image": 1083,
+		"type": 16
+	},
+	"minimap_pixel": [
+		100,
+		109,
+		155
+	],
+	"name": "Button",
+	"resource": {
+		"affix": "of the Hook",
+		"magic_ingredient": 1,
+		"quality": 1,
+		"type": 7
+	},
+	"value": 500,
+	"weapon": {
+		"attack_speed": 0.0,
+		"critical_hit": 0.0,
+		"damage": [
+			{
+				"dmg_max": 1,
+				"dmg_min": 1,
+				"dmg_type": "electricity"
+			}
+		],
+		"hands": 1,
+		"hit_bonus": 0,
+		"parry_bonus": 0,
+		"range": 0,
+		"type": 9
+	},
+	"weight": 0.10000000149011612
+}

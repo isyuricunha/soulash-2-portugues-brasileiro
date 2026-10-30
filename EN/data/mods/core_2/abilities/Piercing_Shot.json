@@ -1,0 +1,37 @@
+{
+	"animation": "core_2_Piercing_Shot",
+	"cast_time": -1.0,
+	"cooldown": 4.0,
+	"cost": {
+		"ammo": 1,
+		"health": 0,
+		"stamina": 3
+	},
+	"description": "Hit everything in line for ::damage ::damage_type damage in range ::range. May leave the ammunition after shooting.",
+	"duration": 0.0,
+	"effects": {
+		"construct_item_cost": 0.8999999761581421,
+		"damage": [
+			2,
+			6
+		],
+		"damage_type": "physical",
+		"damage_weapon": 1.0,
+		"pierce": 1
+	},
+	"id": "core_2_Piercing_Shot",
+	"image": 719,
+	"name": "Piercing Shot",
+	"range": 7,
+	"requirements": {
+		"one_of": [
+			11,
+			12
+		]
+	},
+	"skill": "core_2_hunting",
+	"slots": {
+		"utility": 1
+	},
+	"target": "line"
+}

@@ -1,0 +1,15 @@
+{
+	"id": "core_2_risky_retaliation",
+	"name": "Risky Retaliation",
+	"requirements": {
+		"skill": 42
+	},
+	"rewards": [
+		{
+			"passive": "core_2_risky_retaliation"
+		}
+	],
+	"skill_id": "core_2_protection",
+	"steps": [],
+	"steps_type": 0
+}

@@ -1,0 +1,16 @@
+{
+	"id": "core_2_linden_log",
+	"name": "Linden Log",
+	"requirements": {
+		"milestones": [],
+		"skill": 21
+	},
+	"rewards": [
+		{
+			"recipe": "core_2_Linden_Log"
+		}
+	],
+	"skill_id": "core_2_alchemy",
+	"steps": [],
+	"steps_type": 0
+}

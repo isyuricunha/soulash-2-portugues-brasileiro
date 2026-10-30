@@ -1,0 +1,24 @@
+{
+	"id": "349",
+	"image": 264,
+	"name": "Barley Farm",
+	"occupation_image": 45,
+	"occupation": "core_2_Orc_Farmer",
+	"produces": [
+		{
+			"entities": [
+				{
+					"daily": 7,
+					"id": "3093"
+				}
+			],
+			"takes": []
+		}
+	],
+	"race": "8",
+	"tier": 1,
+	"workers": [
+		1,
+		4
+	]
+}

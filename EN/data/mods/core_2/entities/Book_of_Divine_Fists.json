@@ -1,0 +1,61 @@
+{
+	"components": [
+		"craftable",
+		"glyph",
+		"item",
+		"minimap_pixel",
+		"name",
+		"position_2d",
+		"stackable",
+		"usable",
+		"value",
+		"weight"
+	],
+	"craftable": {
+		"backgrounds": [],
+		"biomes": [],
+		"cooldown": 432000,
+		"magic_slots": 0,
+		"resources": [
+			{
+				"amount": 1,
+				"id": "2006"
+			}
+		],
+		"time": 60,
+		"tools": []
+	},
+	"description": "Some holy secrets of divine fists are hidden within these pages.",
+	"glyph": {
+		"frames": [
+			{
+				"color": [
+					255,
+					255,
+					255
+				],
+				"delay": 0,
+				"index": 3024
+			}
+		],
+		"random_frame_start": false
+	},
+	"id": "core_2_Book_of_Divine_Fists",
+	"item": {
+		"image": 1395,
+		"type": 17
+	},
+	"minimap_pixel": [
+		179,
+		178,
+		176
+	],
+	"name": "Book of Divine Fists",
+	"usable": {
+		"ability": "",
+		"recipe": "",
+		"skill_p": "core_2_divine_fists"
+	},
+	"value": 5000,
+	"weight": 0.20000000298023224
+}

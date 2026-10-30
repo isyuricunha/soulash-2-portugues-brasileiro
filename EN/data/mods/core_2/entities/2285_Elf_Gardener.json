@@ -1,0 +1,144 @@
+{
+	"artificial_intelligence": {
+		"allies": [
+			"7"
+		],
+		"allow_production": [
+			"6",
+			"7",
+			"10"
+		],
+		"allow_producer_entities": [
+			"797",
+			"2014",
+			"2539",
+			"2298", "core_2_Herbs_Bush",
+			"816",
+			"core_2_Ground_Jellies",
+			"core_2_Poppies",
+			"core_2_Bearberry_Bush",
+			"core_2_Sugar_Cane",
+			"core_2_Watermelon_Patch",
+			"changeme_template_Purple_Mushrooms", "changeme_template_Orange_Mushrooms",
+			"core_2_Mullberry_Tree",
+			"core_2_Gooseberry_Bush",
+			"3094",
+			"core_2_Cranberry_Bush",
+			"core_2_Potato_Plant"
+		],
+		"behaviors": [20],
+		"enemies": []
+	},
+	"components": [
+		"actor",
+		"artificial_intelligence",
+		"collidable",
+		"dialogues",
+		"equipment",
+		"experience_gainer",
+		"fighter",
+		"glyph",
+		"health",
+		"humanoid",
+		"minimap_pixel",
+		"moveable",
+		"name",
+		"persona",
+		"position_2d",
+		"sight",
+		"stamina",
+		"statistics",
+		"tags"
+	],
+	"corpse": "322",
+	"description": "",
+	"dialogues": [
+		"432",
+		"433"
+	],
+	"equipment": {
+		"right_hand": [
+			{
+				"chance": 1.0,
+				"id": "72",
+				"name": "Sickle",
+				"stack": 1
+			}
+		]
+	},
+	"experience_gainer": {
+		"exp": 5,
+		"level": 1
+	},
+	"fighter": {
+		"attackNames": null
+	},
+	"glyph": {
+		"frames": [
+			{
+				"color": [
+					255,
+					255,
+					255
+				],
+				"delay": 0,
+				"index": 139
+			}
+		],
+		"random_frame_start": false
+	},
+	"health": 95,
+	"humanoid": {
+		"race": "2"
+	},
+	"id": "2285",
+	"minimap_pixel": [
+		95,
+		105,
+		15
+	],
+	"moveable": {
+		"speed": 1.100000023841858
+	},
+	"name": "Elf Gardener",
+	"persona": {
+		"occupation": "Gardener"
+	},
+	"sight": {
+		"ignore_infra_penalty": false,
+		"infravision": false,
+		"range": 12,
+		"threesixty": false
+	},
+	"stamina": {
+		"fatigue": 100,
+		"stamina": 100,
+		"stamina_regen": 0.0
+	},
+	"statistics": {
+		"dexterity": [
+			14,
+			18
+		],
+		"endurance": [
+			10,
+			14
+		],
+		"intelligence": [
+			10,
+			14
+		],
+		"strength": [
+			10,
+			14
+		],
+		"willpower": [
+			13,
+			17
+		]
+	},
+	"tags": [
+		"7",
+		"9"
+	]
+}

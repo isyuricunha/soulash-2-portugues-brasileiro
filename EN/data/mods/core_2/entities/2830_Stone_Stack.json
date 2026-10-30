@@ -1,0 +1,47 @@
+{
+	"components": [
+		"glyph",
+		"minimap_pixel",
+		"name",
+		"position_2d",
+		"producer",
+		"stackable"
+	],
+	"description": "Many rocks and stones stack on one another. May block your way. ",
+	"glyph": {
+		"frames": [
+			{
+				"color": [
+					255,
+					255,
+					255
+				],
+				"delay": 0,
+				"index": 1864
+			}
+		],
+		"random_frame_start": true
+	},
+	"id": "2830",
+	"minimap_pixel": [
+		114,
+		113,
+		115
+	],
+	"name": "Stone Stack",
+	"producer": {
+		"products": {
+			"10": [
+				{
+					"amount": [
+						2,
+						4
+					],
+					"id": "35",
+					"percent_chance": 100
+				}
+			]
+		},
+		"time": 0
+	}
+}

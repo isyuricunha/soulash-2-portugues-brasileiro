@@ -1,0 +1,133 @@
+{
+	"artificial_intelligence": {
+		"allies": [],
+		"allow_production": [],
+		"behaviors": [],
+		"enemies": []
+	},
+	"components": [
+		"actor",
+		"artificial_intelligence",
+		"collidable",
+		"dialogues",
+		"equipment",
+		"experience_gainer",
+		"fighter",
+		"glyph",
+		"health",
+		"humanoid",
+		"minimap_pixel",
+		"moveable",
+		"name",
+		"position_2d",
+		"sight",
+		"skills",
+		"stamina",
+		"statistics",
+		"tags"
+	],
+	"corpse": "25",
+	"description": "Looks disheveled and definitely insane.",
+	"dialogues": [
+		"993"
+	],
+	"equipment": {
+		"right_hand": [
+			{
+				"chance": 1.0,
+				"id": "94",
+				"name": "Quarterstaff",
+				"stack": 1
+			}
+		],
+		"torso_cloth": [
+			{
+				"chance": 1.0,
+				"id": "23",
+				"name": "Rags",
+				"stack": 1
+			}
+		]
+	},
+	"experience_gainer": {
+		"exp": 28,
+		"level": 10
+	},
+	"fighter": {
+		"attackNames": null
+	},
+	"gender": "male",
+	"glyph": {
+		"frames": [
+			{
+				"color": [
+					127,
+					185,
+					85
+				],
+				"delay": 0,
+				"index": 148
+			}
+		],
+		"random_frame_start": false
+	},
+	"health": 80,
+	"humanoid": {
+		"race": "0"
+	},
+	"id": "core_2_Crazy_Old_Man",
+	"minimap_pixel": [
+		127,
+		185,
+		85
+	],
+	"moveable": {
+		"speed": 1.2999999523162842
+	},
+	"name": "Crazy Old Man",
+	"sight": {
+		"ignore_infra_penalty": false,
+		"infravision": false,
+		"range": 10,
+		"threesixty": false
+	},
+	"skills": {
+		"max_skill": 30,
+		"milestones": [],
+		"min_skill": 30,
+		"skills": [
+			"core_2_necromancy"
+		]
+	},
+	"stamina": {
+		"fatigue": 100,
+		"stamina": 100,
+		"stamina_regen": 0.0
+	},
+	"statistics": {
+		"dexterity": [
+			12,
+			20
+		],
+		"endurance": [
+			13,
+			20
+		],
+		"intelligence": [
+			98,
+			122
+		],
+		"strength": [
+			17,
+			25
+		],
+		"willpower": [
+			18,
+			22
+		]
+	},
+	"tags": [
+		"9",
+		"38"
+	]
+}

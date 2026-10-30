@@ -1,0 +1,76 @@
+{
+	"components": [
+		"craftable",
+		"glyph",
+		"item",
+		"minimap_pixel",
+		"name",
+		"position_2d",
+		"value",
+		"weapon",
+		"weight"
+	],
+	"craftable": {
+		"backgrounds": [],
+		"biomes": [],
+		"magic_slots": 1,
+		"resource_types": [
+			{
+				"amount": 2,
+				"id": 1
+			},
+			{
+				"amount": 1,
+				"id": 3
+			}
+		],
+		"time": 125,
+		"tools": [
+			15
+		]
+	},
+	"description": "A short rod engraved with white and blue lightning bolts.",
+	"glyph": {
+		"frames": [
+			{
+				"color": [
+					255,
+					255,
+					255
+				],
+				"delay": 0,
+				"index": 2667
+			}
+		],
+		"random_frame_start": false
+	},
+	"id": "core_2_Storm_Rod",
+	"item": {
+		"image": 1189,
+		"type": 13
+	},
+	"minimap_pixel": [
+		171,
+		102,
+		57
+	],
+	"name": "Storm Rod",
+	"value": 1000,
+	"weapon": {
+		"attack_speed": 1.0,
+		"critical_hit": 0.0,
+		"damage": [
+			{
+				"dmg_max": 3,
+				"dmg_min": 1,
+				"dmg_type": "electricity"
+			}
+		],
+		"hands": 1,
+		"hit_bonus": 2,
+		"parry_bonus": 1,
+		"range": 1,
+		"type": 4
+	},
+	"weight": 1.0
+}

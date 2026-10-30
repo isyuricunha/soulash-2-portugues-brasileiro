@@ -1,0 +1,159 @@
+{
+	"ability_user": [
+		"44"
+	],
+	"artificial_intelligence": {
+		"allies": [
+			"24"
+		],
+		"allow_production": [],
+		"behaviors": [],
+		"enemies": [
+			"5"
+		]
+	},
+	"components": [
+		"ability_user",
+		"actor",
+		"artificial_intelligence",
+		"collidable",
+		"dialogues",
+		"equipment",
+		"experience_gainer",
+		"fighter",
+		"glyph",
+		"health",
+		"humanoid",
+		"minimap_pixel",
+		"moveable",
+		"name",
+		"position_2d",
+		"sight",
+		"stamina",
+		"statistics",
+		"tags"
+	],
+	"corpse": "2450",
+	"description": "",
+	"dialogues": [
+		"284",
+		"285"
+	],
+	"equipment": {
+		"head_armor": [
+			{
+				"chance": 1.0,
+				"id": "169",
+				"name": "Helmet",
+				"stack": 1
+			}
+		],
+		"left_hand": [
+			{
+				"chance": 1.0,
+				"id": "2311",
+				"name": "Oval Shield",
+				"stack": 1
+			}
+		],
+		"legs_armor": [
+			{
+				"chance": 1.0,
+				"id": "572",
+				"name": "Leg Guards",
+				"stack": 1
+			}
+		],
+		"right_hand": [
+			{
+				"chance": 1.0,
+				"id": "96",
+				"name": "Spear",
+				"stack": 1
+			}
+		],
+		"torso_armor": [
+			{
+				"chance": 1.0,
+				"id": "166",
+				"name": "Breastplate",
+				"stack": 1
+			}
+		]
+	},
+	"experience_gainer": {
+		"exp": 0,
+		"level": 20
+	},
+	"fighter": {
+		"attackNames": [
+			"Scratch",
+			"Bite",
+			"Tail"
+		]
+	},
+	"glyph": {
+		"frames": [
+			{
+				"color": [
+					255,
+					255,
+					255
+				],
+				"delay": 0,
+				"index": 675
+			}
+		],
+		"random_frame_start": false
+	},
+	"health": 270,
+	"humanoid": {
+		"race": ""
+	},
+	"id": "core_2_Lizardman",
+	"minimap_pixel": [
+		163,
+		218,
+		96
+	],
+	"moveable": {
+		"speed": 1.0
+	},
+	"name": "Lizardman",
+	"sight": {
+		"ignore_infra_penalty": false,
+		"infravision": false,
+		"range": 10,
+		"threesixty": false
+	},
+	"stamina": {
+		"fatigue": 100,
+		"stamina": 100,
+		"stamina_regen": 0.0
+	},
+	"statistics": {
+		"dexterity": [
+			25,
+			30
+		],
+		"endurance": [
+			25,
+			30
+		],
+		"intelligence": [
+			14,
+			18
+		],
+		"strength": [
+			52,
+			56
+		],
+		"willpower": [
+			24,
+			28
+		]
+	},
+	"tags": [
+		"24"
+	]
+}

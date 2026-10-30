@@ -1,0 +1,15 @@
+{
+	"id": "core_2_dodge",
+	"name": "Dodge",
+	"requirements": {
+		"skill": 27
+	},
+	"rewards": [
+		{
+			"passive": "core_2_dodge_basic"
+		}
+	],
+	"skill_id": "core_2_pole_fighting",
+	"steps": [],
+	"steps_type": 0
+}

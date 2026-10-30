@@ -1,0 +1,77 @@
+{
+	"background": {
+		"color": [
+			44,
+			45,
+			41
+		],
+		"noise": 1,
+		"noise_intensity": 4
+	},
+	"components": [
+		"background",
+		"glyph",
+		"health",
+		"minimap_pixel",
+		"name"
+	],
+	"corpse": [
+		{
+			"damage_type": 0,
+			"id": "30"
+		},
+		{
+			"damage_type": 1,
+			"id": "598"
+		},
+		{
+			"damage_type": 2,
+			"id": "603"
+		},
+		{
+			"damage_type": 4,
+			"id": "613"
+		}
+	],
+	"description": "Patch of dry brown  grass.",
+	"glyph": {
+		"frames": [
+			{
+				"color": [
+					170,
+					136,
+					48
+				],
+				"delay": 0,
+				"index": 1510
+			},
+			{
+				"color": [
+					170,
+					136,
+					48
+				],
+				"delay": 0,
+				"index": 1511
+			},
+			{
+				"color": [
+					170,
+					136,
+					48
+				],
+				"delay": 0,
+				"index": 1512
+			}
+		],
+		"random_frame_start": true
+	},
+	"health": 1,
+	"id": "core_2_Brown_Grass",
+	"minimap_pixel": [
+		74,
+		74,
+		12
+	],
+	"name": "Brown Grass"
+}

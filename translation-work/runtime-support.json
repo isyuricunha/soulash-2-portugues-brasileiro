@@ -1,0 +1,5 @@
+{
+  "arm64_execution": "unverified",
+  "python": ">=3.11",
+  "toolchain_sha256": "b09d0f34003f6bff23690670c729ce52109ed73f7ea7c32d0e3cf62d165fc954"
+}

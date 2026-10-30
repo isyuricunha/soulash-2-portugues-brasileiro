@@ -1,0 +1,68 @@
+{
+	"armor": {
+		"acid": 0,
+		"death": 4,
+		"electricity": 0,
+		"fire": 0,
+		"frost": 0,
+		"holy": 0,
+		"parry": 0,
+		"physical": 3,
+		"poison": 0,
+		"thorns": 0
+	},
+	"components": [
+		"armor",
+		"craftable",
+		"glyph",
+		"item",
+		"minimap_pixel",
+		"name",
+		"position_2d",
+		"value",
+		"weight"
+	],
+	"craftable": {
+		"backgrounds": [],
+		"biomes": [],
+		"magic_slots": 2,
+		"resource_types": [
+			{
+				"amount": 3,
+				"id": 5
+			}
+		],
+		"time": 60,
+		"tools": [
+			14
+		]
+	},
+	"description": "Armor made with shards of bones to protect your torso.",
+	"glyph": {
+		"frames": [
+			{
+				"color": [
+					255,
+					255,
+					255
+				],
+				"delay": 0,
+				"index": 2722
+			}
+		],
+		"random_frame_start": false
+	},
+	"id": "core_2_Bone_Shard_Armor",
+	"item": {
+		"image": 1237,
+		"type": 4
+	},
+	"minimap_pixel": [
+		122,
+		93,
+		57
+	],
+	"name": "Bone Shard Armor",
+	"value": 1500,
+	"weight": 2.0
+}

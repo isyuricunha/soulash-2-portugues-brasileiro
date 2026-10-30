@@ -1,0 +1,16 @@
+{
+	"id": "core_2_clogs",
+	"name": "Clogs",
+	"requirements": {
+		"milestones": [],
+		"skill": 2
+	},
+	"rewards": [
+		{
+			"recipe": "3023"
+		}
+	],
+	"skill_id": "core_2_armorsmith",
+	"steps": [],
+	"steps_type": 0
+}

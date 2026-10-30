@@ -1,0 +1,48 @@
+{
+  "files": {
+    "translation-work/consent.py": {
+      "mode": "git-lf",
+      "sha256": "973c23bea400c3f50c02bd94b714459c6fc2b1928e43dc7979142adec7994def"
+    },
+    "translation-work/errors.py": {
+      "mode": "git-lf",
+      "sha256": "e07f7316072f2afedfce33ef24a311ac11e4cefa192501cc71109c3cea6c97c6"
+    },
+    "translation-work/extractor.py": {
+      "mode": "git-lf",
+      "sha256": "35028e29892598c36a29e2df10bc33a8f3168db2a6399c6cb9f78f992fb2e554"
+    },
+    "translation-work/legacy-releases.json": {
+      "mode": "git-lf",
+      "sha256": "bb72906e0d073997386efebc4f020782dbf0d9eb641c9ad2eb8adeb6f94d70e2"
+    },
+    "translation-work/models.py": {
+      "mode": "git-lf",
+      "sha256": "a51681685ccfc38bf8a78de8cbb9bdea144983a4715f85c4c507d2fd7311dca9"
+    },
+    "translation-work/native.py": {
+      "mode": "git-lf",
+      "sha256": "4b0b6989156fd83375323e8405d4bc18476479ad2293dbf963e96788cc8e2ec9"
+    },
+    "translation-work/protection.py": {
+      "mode": "git-lf",
+      "sha256": "bb0de69b396333b5330276f1cb85396bf37d537f4b5c57a8cea8a5922a20dca4"
+    },
+    "translation-work/release.py": {
+      "mode": "git-lf",
+      "sha256": "dc1f9c2f18f347ac520378ae6818577150ccb6b054858e310c36870afebc14df"
+    },
+    "translation-work/source-profiles.json": {
+      "mode": "git-lf",
+      "sha256": "72fbf9fc324046304390b8f5c79efdf823a949285e759eb0cfa854aef5c9e57c"
+    },
+    "translation-work/storage.py": {
+      "mode": "git-lf",
+      "sha256": "9dce5b65f46f6b2a438e64b40eb29acd52093338f7def094c72d1008701168f0"
+    },
+    "translation-work/toolkit.py": {
+      "mode": "git-lf",
+      "sha256": "f61d59f60be27ceca52164a4681bb2f7a594bed2c61fb6dad7d83787a5564e6b"
+    }
+  }
+}

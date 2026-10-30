@@ -1,0 +1,72 @@
+{
+	"armor": {
+		"acid": 0,
+		"death": 2,
+		"electricity": 0,
+		"fire": 0,
+		"frost": 5,
+		"holy": 2,
+		"parry": 0,
+		"physical": 0,
+		"poison": 0,
+		"thorns": 0
+	},
+	"components": [
+		"armor",
+		"craftable",
+		"glyph",
+		"item",
+		"minimap_pixel",
+		"name",
+		"position_2d",
+		"value",
+		"weight"
+	],
+	"craftable": {
+		"backgrounds": [],
+		"biomes": [],
+		"magic_slots": 3,
+		"resource_types": [
+			{
+				"amount": 2,
+				"id": 1
+			},
+			{
+				"amount": 1,
+				"id": 3
+			}
+		],
+		"time": 60,
+		"tools": [
+			1
+		]
+	},
+	"description": "This ring looks like it should have a gem, but it was lost.",
+	"glyph": {
+		"frames": [
+			{
+				"color": [
+					255,
+					255,
+					255
+				],
+				"delay": 0,
+				"index": 2468
+			}
+		],
+		"random_frame_start": false
+	},
+	"id": "core_2_Gemless_Ring",
+	"item": {
+		"image": 1086,
+		"type": 12
+	},
+	"minimap_pixel": [
+		171,
+		102,
+		57
+	],
+	"name": "Gemless Ring",
+	"value": 3500,
+	"weight": 0.10000000149011612
+}

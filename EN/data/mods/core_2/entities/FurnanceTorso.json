@@ -1,0 +1,70 @@
+{
+	"components": [
+		"craftable",
+		"glyph",
+		"item",
+		"minimap_pixel",
+		"name",
+		"position_2d",
+		"usable",
+		"value",
+		"weight"
+	],
+	"craftable": {
+		"backgrounds": [],
+		"biomes": [],
+		"magic_slots": 5,
+		"resource_types": [
+			{
+				"amount": 2,
+				"id": 1
+			},
+			{
+				"amount": 2,
+				"id": 3
+			}
+		],
+		"resources": [
+			{
+				"amount": 1,
+				"id": "148"
+			}
+		],
+		"time": 60,
+		"tools": [
+			1
+		]
+	},
+	"description": "A golem's torso with a burining furnance inside.",
+	"glyph": {
+		"frames": [
+			{
+				"color": [
+					255,
+					255,
+					255
+				],
+				"delay": 0,
+				"index": 2199
+			}
+		],
+		"random_frame_start": false
+	},
+	"id": "core_2_FurnanceTorso",
+	"item": {
+		"image": 925,
+		"type": 27
+	},
+	"minimap_pixel": [
+		156,
+		160,
+		161
+	],
+	"name": "Furnance Torso",
+	"usable": {
+		"ability": "12",
+		"recipe": ""
+	},
+	"value": 15000,
+	"weight": 1.5
+}

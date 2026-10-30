@@ -1,0 +1,68 @@
+{
+	"armor": {
+		"acid": 2,
+		"death": 0,
+		"electricity": 0,
+		"fire": 0,
+		"frost": 2,
+		"holy": 1,
+		"parry": 0,
+		"physical": 0,
+		"poison": 2,
+		"thorns": 0
+	},
+	"components": [
+		"armor",
+		"craftable",
+		"glyph",
+		"item",
+		"minimap_pixel",
+		"name",
+		"position_2d",
+		"value",
+		"weight"
+	],
+	"craftable": {
+		"backgrounds": [],
+		"biomes": [],
+		"magic_slots": 2,
+		"resource_types": [
+			{
+				"amount": 2,
+				"id": 4
+			}
+		],
+		"time": 60,
+		"tools": [
+			12
+		]
+	},
+	"description": "Loose material pants, very comfortable.",
+	"glyph": {
+		"frames": [
+			{
+				"color": [
+					255,
+					255,
+					255
+				],
+				"delay": 0,
+				"index": 380
+			}
+		],
+		"random_frame_start": false
+	},
+	"id": "298",
+	"item": {
+		"image": 107,
+		"type": 8
+	},
+	"minimap_pixel": [
+		200,
+		200,
+		200
+	],
+	"name": "Pants",
+	"value": 1500,
+	"weight": 0.5
+}

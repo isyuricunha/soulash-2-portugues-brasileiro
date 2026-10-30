@@ -1,0 +1,29 @@
+{
+    "id": "core_2_toxic_flower",
+    "name": "Toxic Flower",
+    "category": "wilderness",
+    "flavor": "A very rare flower, useful in alchemy, have been seen in this region. Obtaining it won't be easy.",
+    "icon": 0,
+    "small_icon": 0,
+    "rarity": "uncommon",
+    "trigger": {
+        "base_probability": 0.08
+    },
+    "duration": {
+        "type": "temporary",
+        "days": [
+            7,
+            14
+        ]
+    },
+    "buildings": [
+        {
+            "building_id": "555"
+        }
+    ],
+    "max_per_region": 1,
+    "history_events": {
+        "begin": "A rare flower has been spotted in thin area.",
+        "end": "A rare flower has finished blooming."
+    }
+}

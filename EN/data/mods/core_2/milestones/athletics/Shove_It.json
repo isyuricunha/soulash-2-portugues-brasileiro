@@ -1,0 +1,15 @@
+{
+	"id": "core_2_shove_it",
+	"name": "Shove It",
+	"requirements": {
+		"skill": 3
+	},
+	"rewards": [
+		{
+			"action": 40
+		}
+	],
+	"skill_id": "core_2_athletics",
+	"steps": [],
+	"steps_type": 0
+}

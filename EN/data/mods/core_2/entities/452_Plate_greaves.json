@@ -1,0 +1,70 @@
+{
+	"armor": {
+		"acid": 3,
+		"death": 0,
+		"electricity": 3,
+		"fire": 0,
+		"frost": 0,
+		"holy": 0,
+		"parry": 0,
+		"physical": 4,
+		"poison": 0
+	},
+	"components": [
+		"armor",
+		"craftable",
+		"glyph",
+		"item",
+		"minimap_pixel",
+		"name",
+		"position_2d",
+		"value",
+		"weight"
+	],
+	"craftable": {
+		"magic_slots": 4,
+		"resource_types": [
+			{
+				"amount": 3,
+				"id": 1
+			},
+			{
+				"amount": 1,
+				"id": 2
+			}
+		],
+		"resources": null,
+		"time": 110,
+		"tools": [
+			1
+		]
+	},
+	"description": "Solid plates of metal to protect your legs from being cut off.",
+	"glyph": {
+		"frames": [
+			{
+				"color": [
+					255,
+					255,
+					255
+				],
+				"delay": 0,
+				"index": 628
+			}
+		],
+		"random_frame_start": false
+	},
+	"id": "452",
+	"item": {
+		"image": 176,
+		"type": 7
+	},
+	"minimap_pixel": [
+		157,
+		143,
+		137
+	],
+	"name": "Plate Greaves",
+	"value": 2600,
+	"weight": 4.0
+}

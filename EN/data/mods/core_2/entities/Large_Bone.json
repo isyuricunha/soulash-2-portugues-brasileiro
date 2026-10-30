@@ -1,0 +1,71 @@
+{
+	"components": [
+		"glyph",
+		"minimap_pixel",
+		"name",
+		"position_2d",
+		"producer",
+		"stackable"
+	],
+	"description": "A bone of a very large animal. Something has been chweing it.",
+	"glyph": {
+		"frames": [
+			{
+				"color": [
+					255,
+					255,
+					255
+				],
+				"delay": 0,
+				"index": 3380
+			}
+		],
+		"random_frame_start": false
+	},
+	"id": "core_2_Large_Bone",
+	"minimap_pixel": [
+		171,
+		102,
+		57
+	],
+	"name": "Large Bone",
+	"producer": {
+		"products": {
+			"10": [
+				{
+					"amount": [
+						1,
+						1
+					],
+					"id": "2368",
+					"percent_chance": 25
+				},
+				{
+					"amount": [
+						1,
+						1
+					],
+					"id": "2522",
+					"percent_chance": 25
+				},
+				{
+					"amount": [
+						1,
+						1
+					],
+					"id": "2934",
+					"percent_chance": 25
+				},
+				{
+					"amount": [
+						1,
+						1
+					],
+					"id": "core_2_Collectors_Bone",
+					"percent_chance": 25
+				}
+			]
+		},
+		"time": 5
+	}
+}

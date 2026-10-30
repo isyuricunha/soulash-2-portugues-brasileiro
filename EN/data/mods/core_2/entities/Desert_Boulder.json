@@ -1,0 +1,74 @@
+{
+	"components": [
+		"glyph",
+		"item",
+		"minimap_pixel",
+		"name",
+		"position_2d",
+		"producer",
+		"stackable",
+		"value",
+		"weight"
+	],
+	"description": "A very large rock blocking your way.",
+	"glyph": {
+		"frames": [
+			{
+				"color": [
+					255,
+					255,
+					255
+				],
+				"delay": 0,
+				"index": 2536
+			},
+			{
+				"color": [
+					255,
+					255,
+					255
+				],
+				"delay": 0,
+				"index": 2537
+			},
+			{
+				"color": [
+					255,
+					255,
+					255
+				],
+				"delay": 0,
+				"index": 2538
+			}
+		],
+		"random_frame_start": true
+	},
+	"id": "core_2_Desert_Boulder",
+	"item": {
+		"image": 1116,
+		"type": 13
+	},
+	"minimap_pixel": [
+		114,
+		113,
+		115
+	],
+	"name": "Desert Boulder",
+	"producer": {
+		"products": {
+			"5": [
+				{
+					"amount": [
+						3,
+						5
+					],
+					"id": "620",
+					"percent_chance": 100
+				}
+			]
+		},
+		"time": 10
+	},
+	"value": 4000,
+	"weight": 100.0
+}

@@ -1,0 +1,26 @@
+{
+	"id": "581",
+	"image": 389,
+	"name": "Apple Orchard",
+	"occupation_image": 19,
+	"occupation": "core_2_Gnome_Orchardist",
+	"produces": [
+		{
+			"entities": [
+				{
+					"daily": 8,
+					"id": "811"
+				}
+			],
+			"takes": []
+		}
+	],
+	"race": "24",
+	"max": 4,
+	"tier": 1,
+	"workers": [
+		1,
+		2
+	]
+	
+}

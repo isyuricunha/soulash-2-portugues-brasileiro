@@ -1,0 +1,38 @@
+{
+	"components": [
+		"glyph",
+		"item",
+		"minimap_pixel",
+		"name",
+		"position_2d",
+		"stackable",
+		"weight"
+	],
+	"description": "Alphabet for little wyrms.",
+	"glyph": {
+		"frames": [
+			{
+				"color": [
+					255,
+					255,
+					255
+				],
+				"delay": 0,
+				"index": 1556
+			}
+		],
+		"random_frame_start": false
+	},
+	"id": "2943",
+	"item": {
+		"image": 385,
+		"type": 25
+	},
+	"minimap_pixel": [
+		179,
+		178,
+		176
+	],
+	"name": "D is for Dragon.",
+	"weight": 0.20000000298023224
+}

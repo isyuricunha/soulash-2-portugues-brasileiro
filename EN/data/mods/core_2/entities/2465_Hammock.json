@@ -1,0 +1,32 @@
+{
+	"components": [
+		"glyph",
+		"minimap_pixel",
+		"name",
+		"position_2d",
+		"resting_place"
+	],
+	"description": "A relaxing and suspended fabric bed, perfect for leisurely lounging and peaceful moments of rest.",
+	"glyph": {
+		"frames": [
+			{
+				"color": [
+					255,
+					255,
+					255
+				],
+				"delay": 0,
+				"index": 1618
+			}
+		],
+		"random_frame_start": true
+	},
+	"id": "2465",
+	"minimap_pixel": [
+		135,
+		161,
+		63
+	],
+	"name": "Hammock",
+	"resting_place": 110
+}

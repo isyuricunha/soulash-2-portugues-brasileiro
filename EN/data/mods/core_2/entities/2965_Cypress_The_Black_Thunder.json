@@ -1,0 +1,107 @@
+{
+	"ability_user": [
+		"189",
+		"98",
+		"65"
+	],
+	"artificial_intelligence": {
+		"allies": [
+			"27",
+			"21",
+			"4"
+		],
+		"allow_production": [],
+		"behaviors": [],
+		"enemies": [
+			"5"
+		]
+	},
+	"components": [
+		"ability_user",
+		"actor",
+		"artificial_intelligence",
+		"collidable",
+		"dialogues",
+		"experience_gainer",
+		"glyph",
+		"health",
+		"minimap_pixel",
+		"moveable",
+		"name",
+		"position_2d",
+		"sight",
+		"statistics",
+		"tags"
+	],
+	"corpse": "2994",
+	"description": "Once a magnificent dragon, now bones and scraps of skin held togher with sinister magic.",
+	"dialogues": [
+		"637",
+		"638"
+	],
+	"experience_gainer": {
+		"exp": 0,
+		"level": 40
+	},
+	"glyph": {
+		"frames": [
+			{
+				"color": [
+					255,
+					255,
+					255
+				],
+				"delay": 1000,
+				"index": 31
+			}
+		],
+		"random_frame_start": false
+	},
+	"health": 1000,
+	"id": "2965",
+	"minimap_pixel": [
+		130,
+		140,
+		143
+	],
+	"moveable": {
+		"speed": 0.8999999761581421
+	},
+	"name": "Cypress The Black Thunder",
+	"sight": {
+		"ignore_infra_penalty": false,
+		"infravision": true,
+		"range": 16,
+		"threesixty": false
+	},
+	"statistics": {
+		"dexterity": [
+			45,
+			54
+		],
+		"endurance": [
+			98,
+			112
+		],
+		"intelligence": [
+			63,
+			70
+		],
+		"magic_power": 40,
+		"sneaking": 20,
+		"strength": [
+			89,
+			98
+		],
+		"willpower": [
+			98,
+			112
+		]
+	},
+	"tags": [
+		"4",
+		"3",
+		"38",
+		"19"
+	]
+}

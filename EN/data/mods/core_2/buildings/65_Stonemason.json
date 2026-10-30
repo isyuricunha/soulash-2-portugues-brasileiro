@@ -1,0 +1,27 @@
+{
+	"enables": [
+		"core_2_construction"
+	],
+	"id": "65",
+	"image": 171,
+	"name": "Stonemason",
+	"occupation_image": 18,
+	"occupation": "2281",
+	"produces": [
+		{
+			"entities": [
+				{
+					"daily": 1,
+					"id": "35"
+				}
+			],
+			"takes": []
+		}
+	],
+	"race": "1",
+	"tier": 1,
+	"workers": [
+		1,
+		2
+	]
+}

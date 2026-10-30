@@ -1,0 +1,35 @@
+{
+	"components": [
+		"block_light",
+		"collidable",
+		"glyph",
+		"health",
+		"minimap_pixel",
+		"name",
+		"position_2d"
+	],
+	"corpse": "35",
+	"description": "A black stone spike rising from the ground, obstructing your view.",
+	"glyph": {
+		"frames": [
+			{
+				"color": [
+					255,
+					255,
+					255
+				],
+				"delay": 0,
+				"index": 1025
+			}
+		],
+		"random_frame_start": false
+	},
+	"health": 60,
+	"id": "1032",
+	"minimap_pixel": [
+		70,
+		70,
+		68
+	],
+	"name": "Black Spike"
+}

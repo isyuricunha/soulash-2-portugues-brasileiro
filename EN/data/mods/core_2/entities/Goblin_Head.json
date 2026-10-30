@@ -1,0 +1,42 @@
+{
+	"components": [
+		"glyph",
+		"item",
+		"minimap_pixel",
+		"name",
+		"position_2d",
+		"usable",
+		"weight"
+	],
+	"description": "A head of a dead goblin. Might still hold to some memories.",
+	"glyph": {
+		"frames": [
+			{
+				"color": [
+					255,
+					255,
+					255
+				],
+				"delay": 0,
+				"index": 2844
+			}
+		],
+		"random_frame_start": false
+	},
+	"id": "core_2_Goblin_Head",
+	"item": {
+		"image": 1286,
+		"type": 32
+	},
+	"minimap_pixel": [
+		156,
+		160,
+		161
+	],
+	"name": "Goblin Head",
+	"usable": {
+		"ability": "176",
+		"recipe": ""
+	},
+	"weight": 2.5
+}

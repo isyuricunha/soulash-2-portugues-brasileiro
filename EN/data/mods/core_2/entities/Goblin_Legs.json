@@ -1,0 +1,50 @@
+{
+	"armor": {
+		"acid": 0,
+		"death": 10,
+		"electricity": 0,
+		"fire": 0,
+		"frost": 0,
+		"holy": 0,
+		"parry": 0,
+		"physical": 0,
+		"poison": 0,
+		"thorns": 0
+	},
+	"components": [
+		"armor",
+		"glyph",
+		"item",
+		"minimap_pixel",
+		"name",
+		"position_2d",
+		"weight"
+	],
+	"description": "A set of crooked legs of a dead goblin.",
+	"glyph": {
+		"frames": [
+			{
+				"color": [
+					255,
+					255,
+					255
+				],
+				"delay": 0,
+				"index": 2843
+			}
+		],
+		"random_frame_start": false
+	},
+	"id": "core_2_Goblin_Legs",
+	"item": {
+		"image": 1285,
+		"type": 33
+	},
+	"minimap_pixel": [
+		156,
+		160,
+		215
+	],
+	"name": "Goblin Legs",
+	"weight": 1.5
+}

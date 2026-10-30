@@ -1,0 +1,46 @@
+{
+	"components": [
+		"food",
+		"glyph",
+		"item",
+		"minimap_pixel",
+		"name",
+		"position_2d",
+		"stackable",
+		"value",
+		"weight"
+	],
+	"description": "An edible root found in the dense jungles.",
+	"food": {
+		"nutrition": 20,
+		"poisonous": 0,
+		"raw": true
+	},
+	"glyph": {
+		"frames": [
+			{
+				"color": [
+					255,
+					255,
+					255
+				],
+				"delay": 0,
+				"index": 36
+			}
+		],
+		"random_frame_start": false
+	},
+	"id": "2366",
+	"item": {
+		"image": 607,
+		"type": 20
+	},
+	"minimap_pixel": [
+		206,
+		177,
+		66
+	],
+	"name": "Jungle Root",
+	"value": 300,
+	"weight": 0.10000000149011612
+}

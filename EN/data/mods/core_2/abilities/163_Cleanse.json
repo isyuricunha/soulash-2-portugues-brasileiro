@@ -1,0 +1,30 @@
+{
+	"animation": "219",
+	"cast_time": 0.5,
+	"cooldown": 5.0,
+	"cost": {
+		"health": 0,
+		"stamina": 4
+	},
+	"description": "Cleanses the body, removing poison, bleed. burning, immobilize and fear effects from touched target.",
+	"duration": 4.0,
+	"effects": {
+		"neutralize": [
+			"bleed",
+			"burn",
+			"fear",
+			"immobilize",
+			"poison_effect"
+		]
+	},
+	"id": "163",
+	"image": 228,
+	"name": "Cleanse",
+	"range": 1,
+	"skill": "core_2_protection",
+	"slots": {
+		"defensive": 1,
+		"utility": 1
+	},
+	"target": "actor"
+}

@@ -1,0 +1,16 @@
+{
+	"id": "core_2_bamboo_sapling",
+	"name": "Bamboo Tree Sapling",
+	"requirements": {
+		"milestones": [],
+		"skill": 20
+	},
+	"rewards": [
+		{
+			"recipe": "3087"
+		}
+	],
+	"skill_id": "core_2_agriculture",
+	"steps": [],
+	"steps_type": 0
+}

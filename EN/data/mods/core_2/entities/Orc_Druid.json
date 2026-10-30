@@ -1,0 +1,137 @@
+{
+	"artificial_intelligence": {
+		"allies": [
+			"0",
+			"11",
+			"12"
+		],
+		"allow_production": [],
+		"behaviors": [
+			1
+		],
+		"enemies": []
+	},
+	"components": [
+		"actor",
+		"artificial_intelligence",
+		"collidable",
+		"dialogues",
+		"equipment",
+		"experience_gainer",
+		"fighter",
+		"glyph",
+		"health",
+		"humanoid",
+		"minimap_pixel",
+		"moveable",
+		"name",
+		"persona",
+		"position_2d",
+		"sight",
+		"skills",
+		"stamina",
+		"statistics",
+		"tags"
+	],
+	"corpse": "2461",
+	"description": "",
+	"dialogues": [
+		"814",
+		"815"
+	],
+	"equipment": {
+		"torso_cloth": [
+			{
+				"chance": 1.0,
+				"id": "183",
+				"name": "Robe",
+				"stack": 1
+			}
+		]
+	},
+	"experience_gainer": {
+		"exp": 5,
+		"level": 1
+	},
+	"fighter": {
+		"attackNames": null
+	},
+	"glyph": {
+		"frames": [
+			{
+				"color": [
+					255,
+					255,
+					255
+				],
+				"delay": 0,
+				"index": 128
+			}
+		],
+		"random_frame_start": false
+	},
+	"health": 80,
+	"humanoid": {
+		"race": "8"
+	},
+	"id": "core_2_Orc_Druid",
+	"minimap_pixel": [
+		113,
+		179,
+		34
+	],
+	"moveable": {
+		"speed": 1.2999999523162842
+	},
+	"name": "Orc Druid",
+	"persona": {
+		"occupation": "Druid"
+	},
+	"sight": {
+		"ignore_infra_penalty": false,
+		"infravision": true,
+		"range": 9,
+		"threesixty": false
+	},
+	"skills": {
+		"milestones": [
+			"core_2_poison_cloud",
+			"core_2_poison_immunity",
+			"core_2_poison_ray"
+		],
+		"skills": [
+			"core_2_floromancy"
+		]
+	},
+	"stamina": {
+		"fatigue": 100,
+		"stamina": 100,
+		"stamina_regen": 0.0
+	},
+	"statistics": {
+		"dexterity": [
+			6,
+			10
+		],
+		"endurance": [
+			10,
+			14
+		],
+		"intelligence": [
+			6,
+			9
+		],
+		"strength": [
+			10,
+			14
+		],
+		"willpower": [
+			7,
+			11
+		]
+	},
+	"tags": [
+		"9",
+		"26"
+	]
+}

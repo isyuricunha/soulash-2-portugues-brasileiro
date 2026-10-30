@@ -1,0 +1,15 @@
+{
+	"id": "core_2_efficient_crafter_2",
+	"name": "Efficient Crafter II",
+	"requirements": {
+		"skill": 19
+	},
+	"rewards": [
+		{
+			"passive": "core_2_efficient_crafter_2"
+		}
+	],
+	"skill_id": "core_2_economy",
+	"steps": [],
+	"steps_type": 0
+}

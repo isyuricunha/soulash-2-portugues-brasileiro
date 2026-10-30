@@ -1,0 +1,15 @@
+{
+	"id": "core_2_sense_the_living",
+	"name": "Sense the Living",
+	"requirements": {
+		"skill": 9
+	},
+	"rewards": [
+		{
+			"ability": "6"
+		}
+	],
+	"skill_id": "core_2_hunting",
+	"steps": [],
+	"steps_type": 0
+}

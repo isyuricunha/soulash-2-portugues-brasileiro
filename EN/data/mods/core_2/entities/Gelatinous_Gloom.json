@@ -1,0 +1,127 @@
+{
+	"ability_user": [
+		"core_2_Acid_Pool",
+		"10"
+	],
+	"artificial_intelligence": {
+		"allies": [],
+		"allow_production": [],
+		"behaviors": [],
+		"enemies": [
+			"5"
+		]
+	},
+	"components": [
+		"ability_user",
+		"actor",
+		"artificial_intelligence",
+		"collidable",
+		"dialogues",
+		"experience_gainer",
+		"fighter",
+		"glyph",
+		"health",
+		"humanoid",
+		"minimap_pixel",
+		"moveable",
+		"name",
+		"position_2d",
+		"random_resource",
+		"sight",
+		"stamina",
+		"statistics",
+		"tags"
+	],
+	"corpse": "core_2_Gloom_Jelly",
+	"description": "A dark jelly-like creature which tries to consume everything in its path.",
+	"dialogues": [],
+	"experience_gainer": {
+		"exp": 0,
+		"level": 20
+	},
+	"fighter": {
+		"attackNames": [
+			"Tentacle"
+		]
+	},
+	"glyph": {
+		"frames": [
+			{
+				"color": [
+					255,
+					255,
+					255
+				],
+				"delay": 0,
+				"index": 558
+			}
+		],
+		"random_frame_start": false
+	},
+	"health": 200,
+	"humanoid": {
+		"race": ""
+	},
+	"id": "core_2_Gelatinous_Gloom",
+	"minimap_pixel": [
+		228,
+		212,
+		105
+	],
+	"moveable": {
+		"speed": 1.0
+	},
+	"name": "Gelatinous Gloom",
+	"random_resource": {
+		"delay_spawn": false,
+		"entity": [
+			"core_2_Gloom_Jelly"
+		],
+		"max_amount": 4,
+		"max_distance": 4,
+		"min_amount": 2,
+		"min_distance": 1,
+		"multiply_same": false,
+		"respawn_rate": 0.0,
+		"spawn_at": [],
+		"spawn_chance": 100.0,
+		"spawn_multiply": 0.0,
+		"spawn_rolls": 0
+	},
+	"sight": {
+		"ignore_infra_penalty": false,
+		"infravision": true,
+		"range": 7,
+		"threesixty": false
+	},
+	"stamina": {
+		"fatigue": 100,
+		"stamina": 100,
+		"stamina_regen": 0.0
+	},
+	"statistics": {
+		"dexterity": [
+			13,
+			19
+		],
+		"endurance": [
+			25,
+			29
+		],
+		"intelligence": [
+			25,
+			28
+		],
+		"strength": [
+			17,
+			21
+		],
+		"willpower": [
+			20,
+			23
+		]
+	},
+	"tags": [
+		"17"
+	]
+}

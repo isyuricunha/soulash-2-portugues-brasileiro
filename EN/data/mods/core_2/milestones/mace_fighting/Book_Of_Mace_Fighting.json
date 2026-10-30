@@ -1,0 +1,16 @@
+{
+	"id": "core_2_book_mace_fighting",
+	"name": "Book Of Mace Fighting",
+	"requirements": {
+		"milestones": [],
+		"skill": 44
+	},
+	"rewards": [
+		{
+			"recipe": "3005"
+		}
+	],
+	"skill_id": "core_2_mace_fighting",
+	"steps": [],
+	"steps_type": 0
+}

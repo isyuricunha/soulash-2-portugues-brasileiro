@@ -1,0 +1,159 @@
+{
+	"ability_user": [
+		"161",
+		"125",
+		"120"
+	],
+	"artificial_intelligence": {
+		"allies": [],
+		"allow_production": [],
+		"behaviors": [],
+		"enemies": [
+			"5"
+		]
+	},
+	"components": [
+		"ability_user",
+		"actor",
+		"artificial_intelligence",
+		"collidable",
+		"dialogues",
+		"equipment",
+		"experience_gainer",
+		"fighter",
+		"glyph",
+		"health",
+		"humanoid",
+		"minimap_pixel",
+		"moveable",
+		"name",
+		"position_2d",
+		"sight",
+		"stamina",
+		"statistics",
+		"tags",
+		"weapon"
+	],
+	"corpse": "559",
+	"description": "Faithful abbot of Storkism.",
+	"dialogues": [
+		"924",
+		"925"
+	],
+	"equipment": {
+		"boots": [
+			{
+				"chance": 1.0,
+				"id": "307",
+				"name": "High Boots",
+				"stack": 1
+			}
+		],
+		"right_hand": [
+			{
+				"chance": 1.0,
+				"id": "2089",
+				"name": "Spark Hammer",
+				"stack": 1
+			}
+		],
+		"torso_cloth": [
+			{
+				"chance": 1.0,
+				"id": "2314",
+				"name": "Shaman's Garb",
+				"stack": 1
+			}
+		]
+	},
+	"experience_gainer": {
+		"exp": 0,
+		"level": 30
+	},
+	"fighter": {
+		"attackNames": null
+	},
+	"gender": "male",
+	"glyph": {
+		"frames": [
+			{
+				"color": [
+					255,
+					255,
+					255
+				],
+				"delay": 0,
+				"index": 711
+			}
+		],
+		"random_frame_start": false
+	},
+	"health": 800,
+	"humanoid": {
+		"race": "1"
+	},
+	"id": "core_2_Stork_Abbot",
+	"minimap_pixel": [
+		106,
+		31,
+		132
+	],
+	"moveable": {
+		"speed": 0.800000011920929
+	},
+	"name": "Stork Abbot",
+	"sight": {
+		"ignore_infra_penalty": false,
+		"infravision": false,
+		"range": 10,
+		"threesixty": false
+	},
+	"stamina": {
+		"fatigue": 100,
+		"stamina": 100,
+		"stamina_regen": 0.0
+	},
+	"statistics": {
+		"dexterity": [
+			20,
+			25
+		],
+		"endurance": [
+			42,
+			50
+		],
+		"health_regen": 2.0,
+		"intelligence": [
+			44,
+			50
+		],
+		"strength": [
+			57,
+			63
+		],
+		"willpower": [
+			34,
+			38
+		]
+	},
+	"tags": [
+		"1",
+		"9"
+	],
+	"weapon": {
+		"attack_speed": 1.0,
+		"critical_hit": 0.0,
+		"damage": [
+			{
+				"dmg_max": 6,
+				"dmg_min": 2,
+				"dmg_type": "holy"
+			}
+		],
+		"hands": 1,
+		"hit_bonus": 0,
+		"parry_bonus": 0,
+		"range": 1,
+		"type": 1
+	}
+}

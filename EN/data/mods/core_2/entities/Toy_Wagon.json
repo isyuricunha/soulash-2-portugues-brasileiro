@@ -1,0 +1,78 @@
+{
+	"category_id": 2,
+	"components": [
+		"craftable",
+		"glyph",
+		"item",
+		"minimap_pixel",
+		"moveable",
+		"name",
+		"position_2d",
+		"resource",
+		"stackable",
+		"value",
+		"weight"
+	],
+	"craftable": {
+		"backgrounds": [],
+		"biomes": [],
+		"magic_slots": 0,
+		"resource_types": [
+			{
+				"amount": 1,
+				"id": 1
+			},
+			{
+				"amount": 1,
+				"id": 3
+			}
+		],
+		"resources": [
+			{
+				"amount": 1,
+				"id": "325"
+			}
+		],
+		"time": 50,
+		"tools": [
+			15
+		]
+	},
+	"description": "A small, wooden wagon with moving wheels.",
+	"glyph": {
+		"frames": [
+			{
+				"color": [
+					255,
+					255,
+					255
+				],
+				"delay": 0,
+				"index": 3529
+			}
+		],
+		"random_frame_start": false
+	},
+	"id": "core_2_Toy_Wagon",
+	"item": {
+		"image": 1574,
+		"type": 16
+	},
+	"minimap_pixel": [
+		100,
+		109,
+		155
+	],
+	"moveable": {
+		"speed": -0.05000000074505806
+	},
+	"name": "Toy Wagon",
+	"resource": {
+		"affix": "of the Wagon",
+		"magic_ingredient": 3,
+		"quality": 3,
+		"type": 7
+	},
+	"value": 2500,
+	"weight": 0.10000000149011612
+}

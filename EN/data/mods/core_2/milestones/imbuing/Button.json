@@ -1,0 +1,16 @@
+{
+	"id": "core_2_button",
+	"name": "Button",
+	"requirements": {
+		"milestones": [],
+		"skill": 4
+	},
+	"rewards": [
+		{
+			"recipe": "core_2_Button"
+		}
+	],
+	"skill_id": "core_2_imbuing",
+	"steps": [],
+	"steps_type": 0
+}

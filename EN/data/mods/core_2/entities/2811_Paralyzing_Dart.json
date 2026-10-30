@@ -1,0 +1,63 @@
+{
+	"components": [
+		"craftable",
+		"glyph",
+		"item",
+		"minimap_pixel",
+		"name",
+		"position_2d",
+		"stackable",
+		"usable",
+		"value",
+		"weight"
+	],
+	"craftable": {
+		"backgrounds": [],
+		"biomes": [],
+		"magic_slots": 0,
+		"resource_types": [
+			{
+				"amount": 1,
+				"id": 3
+			},
+			{
+				"amount": 1,
+				"id": 1
+			}
+		],
+		"time": 20,
+		"tools": []
+	},
+	"description": "It stings.",
+	"glyph": {
+		"frames": [
+			{
+				"color": [
+					255,
+					255,
+					255
+				],
+				"delay": 0,
+				"index": 1848
+			}
+		],
+		"random_frame_start": false
+	},
+	"id": "2811",
+	"item": {
+		"image": 732,
+		"type": 17
+	},
+	"minimap_pixel": [
+		49,
+		162,
+		242
+	],
+	"name": "Paralyzing Dart",
+	"usable": {
+		"ability": "117",
+		"recipe": ""
+	},
+	"value": 700,
+	"weight": 0.20000000298023224
+}

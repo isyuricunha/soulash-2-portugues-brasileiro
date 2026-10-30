@@ -1,0 +1,64 @@
+{
+    "id": "core_2_location_raid_hard",
+    "name": "A Wild Raid",
+    "category": "settlement",
+    "flavor": "Dangerous beings have poured forth from a nearby hideout. These are not opportunistic raiders, they are veterans of countless battles, and they have come to crush this settlement with overwhelming force.",
+    "icon": 22,
+    "small_icon": 22,
+    "rarity": "rare",
+    "trigger": {
+        "base_probability": 0.005,
+        "conditions": [
+            {
+                "type": "settlement_tier_min",
+                "value": 3
+            },
+            {
+                "type": "nearby_location_difficulty",
+                "value": 3
+            }
+        ]
+    },
+    "duration": {
+        "type": "temporary",
+        "days": [
+            45,
+            90
+        ]
+    },
+    "effects": [
+        {
+            "type": "spawn_group",
+            "amount": [
+                7,
+                14
+            ],
+            "group_type": "hostile_group",
+            "entity_from_location": true,
+            "exclude": [],
+            "spawn_behaviors": [21],
+            "border_color": [
+                220,
+                40,
+                40
+            ]
+        }
+    ],
+    "interactions": [
+        {
+            "type": "hostiles_cleared",
+            "translation_id": 0,
+            "history_event": "::name has shattered the onslaught on ::settlement and driven the attackers back!",
+            "announcement": "The onslaught on ::settlement has been stopped!",
+            "reward": {
+                "gold": 1000,
+                "remove_event": true
+            }
+        }
+    ],
+    "extra_dialogues": ["core_2_raid_medium"],
+    "history_events": {
+        "begin": "Dangerous beings from a nearby hideout have unleashed a devastating onslaught on ::settlement.",
+        "end": "The onslaught on ::settlement has been stopped. The attackers were driven back to their hideout."
+    }
+}

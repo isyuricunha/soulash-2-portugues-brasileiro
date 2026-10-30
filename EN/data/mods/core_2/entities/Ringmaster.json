@@ -1,0 +1,185 @@
+{
+	"ability_user": [
+		"core_2_Poison_Ray",
+		"139",
+		"4",
+		"99"
+	],
+	"armor": {
+		"acid": 0,
+		"death": 30,
+		"electricity": 0,
+		"fire": 0,
+		"frost": 0,
+		"holy": 0,
+		"parry": 0,
+		"physical": 10,
+		"poison": 30,
+		"thorns": 0
+	},
+	"artificial_intelligence": {
+		"allies": [],
+		"allow_production": [],
+		"behaviors": [],
+		"enemies": [
+			"5"
+		]
+	},
+	"components": [
+		"ability_user",
+		"actor",
+		"armor",
+		"artificial_intelligence",
+		"collidable",
+		"dialogues",
+		"equipment",
+		"experience_gainer",
+		"fighter",
+		"glyph",
+		"health",
+		"humanoid",
+		"minimap_pixel",
+		"moveable",
+		"name",
+		"on_destruction",
+		"position_2d",
+		"sight",
+		"stamina",
+		"statistics",
+		"tags"
+	],
+	"corpse": "25",
+	"description": "A sinister and charismatic figure who rules over a dark and twisted circus. ",
+	"dialogues": [
+		"873",
+		"963"
+	],
+	"equipment": {
+		"cape": [
+			{
+				"chance": 1.0,
+				"id": "core_2_Circus_Cape",
+				"name": "Circus Cape",
+				"stack": 1
+			}
+		],
+		"legs_cloth": [
+			{
+				"chance": 1.0,
+				"id": "323",
+				"name": "Tights",
+				"stack": 1
+			}
+		],
+		"right_hand": [
+			{
+				"chance": 1.0,
+				"id": "2187",
+				"name": "Jeweled Dagger",
+				"stack": 1
+			}
+		],
+		"torso_armor": [
+			{
+				"chance": 1.0,
+				"id": "165",
+				"name": "Leather Armor",
+				"stack": 1
+			}
+		]
+	},
+	"experience_gainer": {
+		"exp": 0,
+		"level": 40
+	},
+	"fighter": {
+		"attackNames": null
+	},
+	"gender": "male",
+	"glyph": {
+		"frames": [
+			{
+				"color": [
+					255,
+					255,
+					255
+				],
+				"delay": 0,
+				"index": 462
+			}
+		],
+		"random_frame_start": false
+	},
+	"health": 1300,
+	"humanoid": {
+		"race": "0"
+	},
+	"id": "core_2_Ringmaster",
+	"minimap_pixel": [
+		109,
+		199,
+		29
+	],
+	"moveable": {
+		"speed": 1.0
+	},
+	"name": "Ringmaster",
+	"on_destruction": {
+		"abilities": [],
+		"change_entities_globally": null,
+		"change_weather": null,
+		"destroy_entities_globally": [],
+		"disable_day": false,
+		"disable_fatigue": false,
+		"disable_hearing": false,
+		"disable_night": false,
+		"drinkable_blood": false,
+		"enable_teleport": false,
+		"infinite_crafting_durability": false,
+		"move_player": null,
+		"recipes": [
+			"core_2_Circus_Cape"
+		],
+		"reduce_durability_globally": 0,
+		"trigger_weather": null,
+		"trigger_weather_now": false
+	},
+	"sight": {
+		"ignore_infra_penalty": true,
+		"infravision": true,
+		"range": 10,
+		"threesixty": false
+	},
+	"stamina": {
+		"fatigue": 100,
+		"stamina": 150,
+		"stamina_regen": 0.0
+	},
+	"statistics": {
+		"dexterity": [
+			97,
+			112
+		],
+		"endurance": [
+			98,
+			112
+		],
+		"intelligence": [
+			75,
+			82
+		],
+		"strength": [
+			65,
+			72
+		],
+		"willpower": [
+			97,
+			112
+		]
+	},
+	"tags": [
+		"9",
+		"1",
+		"38"
+	]
+}

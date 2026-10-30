@@ -1,0 +1,47 @@
+{
+	"components": [
+		"glyph",
+		"item",
+		"minimap_pixel",
+		"name",
+		"position_2d",
+		"resource",
+		"stackable",
+		"value",
+		"weight"
+	],
+	"description": "The blood in this bottle is thick and almost black, like it has been preserved for centuries.",
+	"glyph": {
+		"frames": [
+			{
+				"color": [
+					255,
+					255,
+					255
+				],
+				"delay": 0,
+				"index": 3103
+			}
+		],
+		"random_frame_start": false
+	},
+	"id": "core_2_Vampire_Blood",
+	"item": {
+		"image": 1435,
+		"type": 16
+	},
+	"minimap_pixel": [
+		100,
+		109,
+		155
+	],
+	"name": "Vampire Blood",
+	"resource": {
+		"affix": "of Vampirism",
+		"magic_ingredient": 4,
+		"quality": 4,
+		"type": 7
+	},
+	"value": 50000,
+	"weight": 0.10000000149011612
+}

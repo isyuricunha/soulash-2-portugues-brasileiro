@@ -1,0 +1,150 @@
+{
+	"ability_user": [
+		"97"
+	],
+	"artificial_intelligence": {
+		"allies": [],
+		"allow_production": [],
+		"behaviors": [],
+		"enemies": [
+			"5"
+		]
+	},
+	"components": [
+		"ability_user",
+		"actor",
+		"artificial_intelligence",
+		"collidable",
+		"dialogues",
+		"equipment",
+		"experience_gainer",
+		"fighter",
+		"glyph",
+		"health",
+		"humanoid",
+		"minimap_pixel",
+		"moveable",
+		"name",
+		"position_2d",
+		"sight",
+		"stamina",
+		"statistics",
+		"tags",
+		"weapon"
+	],
+	"corpse": "2756",
+	"description": "",
+	"dialogues": [
+		"326",
+		"327"
+	],
+	"equipment": {
+		"head_cloth": [
+			{
+				"chance": 0.20000000298023224,
+				"id": "862",
+				"name": "Earrings",
+				"stack": 1
+			}
+		],
+		"torso_armor": [
+			{
+				"chance": 1.0,
+				"id": "396",
+				"name": "Metal Bra",
+				"stack": 1
+			}
+		]
+	},
+	"experience_gainer": {
+		"exp": 0,
+		"level": 30
+	},
+	"fighter": {
+		"attackNames": [
+			"Electrified Talon"
+		]
+	},
+	"gender": "female",
+	"glyph": {
+		"frames": [
+			{
+				"color": [
+					255,
+					255,
+					255
+				],
+				"delay": 0,
+				"index": 567
+			}
+		],
+		"random_frame_start": false
+	},
+	"health": 420,
+	"humanoid": {
+		"race": ""
+	},
+	"id": "2646",
+	"minimap_pixel": [
+		149,
+		165,
+		101
+	],
+	"moveable": {
+		"speed": 0.800000011920929
+	},
+	"name": "Harpy",
+	"sight": {
+		"ignore_infra_penalty": false,
+		"infravision": true,
+		"range": 12,
+		"threesixty": false
+	},
+	"stamina": {
+		"fatigue": 100,
+		"stamina": 100,
+		"stamina_regen": 0.0
+	},
+	"statistics": {
+		"dexterity": [
+			42,
+			46
+		],
+		"endurance": [
+			16,
+			20
+		],
+		"intelligence": [
+			38,
+			43
+		],
+		"magic_power": 3,
+		"strength": [
+			17,
+			22
+		],
+		"willpower": [
+			36,
+			40
+		]
+	},
+	"tags": [
+		"9"
+	],
+	"weapon": {
+		"attack_speed": 0.6000000238418579,
+		"critical_hit": 0.0,
+		"damage": [
+			{
+				"dmg_max": 6,
+				"dmg_min": 3,
+				"dmg_type": "electricity"
+			}
+		],
+		"hands": 1,
+		"hit_bonus": 2,
+		"parry_bonus": 0,
+		"range": 1,
+		"type": 3
+	}
+}

@@ -1,0 +1,54 @@
+{
+	"category_id": 7,
+	"components": [
+		"craftable",
+		"damage_applier",
+		"glyph",
+		"minimap_pixel",
+		"name",
+		"position_2d"
+	],
+	"craftable": {
+		"magic_slots": 0,
+		"resource_types": [
+			{
+				"amount": 3,
+				"id": 1
+			}
+		],
+		"resources": null,
+		"time": 20,
+		"tools": []
+	},
+	"damage_applier": {
+		"break_on_entry": true,
+		"dmg_animation": "-1",
+		"dmg_max": 20,
+		"dmg_min": 15,
+		"dmg_type": "true",
+		"duration": 0.0,
+		"tick": 0.0
+	},
+	"description": "Iron mechanism hidden in the grass, damages unlucky beings when they enter.",
+	"glyph": {
+		"frames": [
+			{
+				"color": [
+					255,
+					255,
+					255
+				],
+				"delay": 0,
+				"index": 884
+			}
+		],
+		"random_frame_start": false
+	},
+	"id": "555",
+	"minimap_pixel": [
+		51,
+		153,
+		241
+	],
+	"name": "Bear Trap"
+}

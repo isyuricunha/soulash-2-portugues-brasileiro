@@ -1,0 +1,16 @@
+{
+	"id": "core_2_dodge_thrust",
+	"name": "Dodge Thrust",
+	"requirements": {
+		"milestones": [],
+		"skill": 6
+	},
+	"rewards": [
+		{
+			"ability": "core_2_Dodge_Thrust"
+		}
+	],
+	"skill_id": "core_2_pole_fighting",
+	"steps": [],
+	"steps_type": 0
+}

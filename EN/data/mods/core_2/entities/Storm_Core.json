@@ -1,0 +1,48 @@
+{
+	"components": [
+		"glyph",
+		"item",
+		"minimap_pixel",
+		"name",
+		"position_2d",
+		"resource",
+		"stackable",
+		"value",
+		"weight"
+	],
+	"description": "The storm core is a gemstone that pulses with intense elemental power of lightning and wind.",
+	"glyph": {
+		"frames": [
+			{
+				"color": [
+					255,
+					255,
+					255
+				],
+				"delay": 0,
+				"index": 3390
+			}
+		],
+		"random_frame_start": false
+	},
+	"id": "core_2_Storm_Core",
+	"item": {
+		"image": 1536,
+		"type": 16
+	},
+	"minimap_pixel": [
+		100,
+		109,
+		155
+	],
+	"name": "Storm Core",
+	"resource": {
+		"affix": "of the Storm",
+		"granted_passive": "core_2_feed_on_electricity",
+		"magic_ingredient": 5,
+		"quality": 5,
+		"type": 7
+	},
+	"value": 20000,
+	"weight": 0.10000000149011612
+}

@@ -1,0 +1,18 @@
+{
+	"enables": [
+		"core_2_leatherworking"
+	],
+	"id": "19",
+	"image": 17,
+	"max": 1,
+	"name": "Shoemaker",
+	"occupation_image": 11,
+	"occupation": "2197",
+	"produces": [],
+	"race": "0",
+	"tier": 2,
+	"workers": [
+		1,
+		3
+	]
+}

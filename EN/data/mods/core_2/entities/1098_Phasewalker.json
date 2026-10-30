@@ -1,0 +1,85 @@
+{
+	"armor": {
+		"acid": 3,
+		"death": 3,
+		"electricity": 3,
+		"fire": 3,
+		"frost": 3,
+		"holy": 3,
+		"parry": 0,
+		"physical": 0,
+		"poison": 3,
+		"thorns": 0
+	},
+	"components": [
+		"armor",
+		"craftable",
+		"glyph",
+		"item",
+		"minimap_pixel",
+		"name",
+		"position_2d",
+		"usable",
+		"value",
+		"weight"
+	],
+	"craftable": {
+		"backgrounds": [],
+		"biomes": [],
+		"magic_slots": 5,
+		"resource_types": [
+			{
+				"amount": 2,
+				"id": 4
+			},
+			{
+				"amount": 1,
+				"id": 2
+			},
+			{
+				"amount": 1,
+				"id": 9
+			},
+			{
+				"amount": 1,
+				"id": 8
+			}
+		],
+		"time": 60,
+		"tools": [
+			12
+		]
+	},
+	"description": "This cape folds space and time to quickly move you to a nearby location.",
+	"glyph": {
+		"frames": [
+			{
+				"color": [
+					255,
+					255,
+					255
+				],
+				"delay": 0,
+				"index": 384
+			}
+		],
+		"random_frame_start": false
+	},
+	"id": "1098",
+	"item": {
+		"image": 338,
+		"type": 10
+	},
+	"minimap_pixel": [
+		181,
+		46,
+		17
+	],
+	"name": "Phasewalker",
+	"usable": {
+		"ability": "65",
+		"recipe": ""
+	},
+	"value": 22000,
+	"weight": 2.0
+}

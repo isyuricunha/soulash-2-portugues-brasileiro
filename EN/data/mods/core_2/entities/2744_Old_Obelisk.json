@@ -1,0 +1,30 @@
+{
+	"components": [
+		"glyph",
+		"minimap_pixel",
+		"name",
+		"position_2d"
+	],
+	"description": "Be warned! Old evil lies below. Do not disturb it, or our world shall be cursed with relentless hail storms and rain of snakes for generations to come.",
+	"glyph": {
+		"frames": [
+			{
+				"color": [
+					255,
+					255,
+					255
+				],
+				"delay": 0,
+				"index": 1745
+			}
+		],
+		"random_frame_start": true
+	},
+	"id": "2744",
+	"minimap_pixel": [
+		99,
+		174,
+		208
+	],
+	"name": "Old Obelisk"
+}

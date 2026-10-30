@@ -1,0 +1,16 @@
+{
+	"id": "core_2_poison_weapons",
+	"name": "Poison Weapons",
+	"requirements": {
+		"milestones": [],
+		"skill": 32
+	},
+	"rewards": [
+		{
+			"ability": "132"
+		}
+	],
+	"skill_id": "core_2_thievery",
+	"steps": [],
+	"steps_type": 0
+}

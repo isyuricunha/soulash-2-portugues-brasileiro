@@ -1,0 +1,35 @@
+{
+	"components": [
+		"glyph",
+		"liquid_source",
+		"minimap_pixel",
+		"name",
+		"position_2d"
+	],
+	"description": "A bathtub full of blod.",
+	"glyph": {
+		"frames": [
+			{
+				"color": [
+					255,
+					255,
+					255
+				],
+				"delay": 0,
+				"index": 2486
+			}
+		],
+		"random_frame_start": false
+	},
+	"id": "core_2_Blood_Bath_Tub",
+	"liquid_source": {
+		"limit": 1000,
+		"type": 4
+	},
+	"minimap_pixel": [
+		194,
+		133,
+		109
+	],
+	"name": "Blood Bath Tub"
+}

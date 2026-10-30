@@ -1,0 +1,60 @@
+{
+	"components": [
+		"block_light",
+		"glyph",
+		"height",
+		"minimap_pixel",
+		"name",
+		"position_2d"
+	],
+	"description": "Part of an enormous storm that usually has a calmer area inside.",
+	"glyph": {
+		"frames": [
+			{
+				"color": [
+					179,
+					181,
+					181
+				],
+				"delay": 70,
+				"index": 3433
+			},
+			{
+				"color": [
+					179,
+					181,
+					181
+				],
+				"delay": 70,
+				"index": 3434
+			},
+			{
+				"color": [
+					179,
+					181,
+					181
+				],
+				"delay": 70,
+				"index": 3435
+			},
+			{
+				"color": [
+					179,
+					181,
+					181
+				],
+				"delay": 70,
+				"index": 3436
+			}
+		],
+		"random_frame_start": true
+	},
+	"height": 0,
+	"id": "core_2_Cyclone",
+	"minimap_pixel": [
+		16,
+		16,
+		14
+	],
+	"name": "Cyclone"
+}

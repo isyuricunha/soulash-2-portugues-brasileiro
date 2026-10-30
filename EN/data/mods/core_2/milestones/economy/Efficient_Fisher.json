@@ -1,0 +1,15 @@
+{
+	"id": "core_2_efficient_fisher",
+	"name": "Efficient Fisher",
+	"requirements": {
+		"skill": 6
+	},
+	"rewards": [
+		{
+			"passive": "core_2_efficient_fisher"
+		}
+	],
+	"skill_id": "core_2_economy",
+	"steps": [],
+	"steps_type": 0
+}

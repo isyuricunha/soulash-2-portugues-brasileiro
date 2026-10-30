@@ -1,0 +1,201 @@
+{
+	"ability_user": [
+		"102",
+		"119",
+		"41",
+		"139"
+	],
+	"artificial_intelligence": {
+		"allies": [
+			"4"
+		],
+		"allow_production": [],
+		"behaviors": [],
+		"enemies": [
+			"5"
+		]
+	},
+	"category_id": 8,
+	"components": [
+		"ability_user",
+		"actor",
+		"artificial_intelligence",
+		"collidable",
+		"craftable",
+		"dialogues",
+		"equipment",
+		"experience_gainer",
+		"fighter",
+		"glyph",
+		"health",
+		"humanoid",
+		"minimap_pixel",
+		"moveable",
+		"name",
+		"on_destruction",
+		"position_2d",
+		"sight",
+		"stamina",
+		"statistics",
+		"tags",
+		"weapon"
+	],
+	"corpse": "2514",
+	"craftable": {
+		"backgrounds": [],
+		"biomes": [],
+		"magic_slots": 0,
+		"resources": [
+			{
+				"amount": 1,
+				"id": "2514"
+			}
+		],
+		"time": 0,
+		"tools": [
+			19
+		]
+	},
+	"description": "Dead soul bound to it's body by powerful magic.",
+	"dialogues": [
+		"614",
+		"615"
+	],
+	"equipment": {
+		"amulet": [
+			{
+				"chance": 1.0,
+				"id": "566",
+				"name": "Moon Amulet",
+				"stack": 1
+			}
+		],
+		"right_hand": [
+			{
+				"chance": 1.0,
+				"id": "381",
+				"name": "Crystal Staff",
+				"stack": 1
+			}
+		],
+		"torso_cloth": [
+			{
+				"chance": 1.0,
+				"id": "2217",
+				"name": "Decorated Tunic",
+				"stack": 1
+			}
+		]
+	},
+	"experience_gainer": {
+		"exp": 0,
+		"level": 30
+	},
+	"fighter": {
+		"attackNames": [
+			"Deadly Touch"
+		]
+	},
+	"glyph": {
+		"frames": [
+			{
+				"color": [
+					255,
+					255,
+					255
+				],
+				"delay": 0,
+				"index": 2422
+			}
+		],
+		"random_frame_start": false
+	},
+	"health": 400,
+	"humanoid": {
+		"race": ""
+	},
+	"id": "2812",
+	"minimap_pixel": [
+		149,
+		165,
+		101
+	],
+	"moveable": {
+		"speed": 1.100000023841858
+	},
+	"name": "Lich",
+	"on_destruction": {
+		"abilities": [],
+		"change_entities_globally": null,
+		"change_weather": null,
+		"destroy_entities_globally": [],
+		"disable_day": false,
+		"disable_fatigue": false,
+		"disable_hearing": false,
+		"disable_night": false,
+		"drinkable_blood": false,
+		"enable_teleport": false,
+		"infinite_crafting_durability": false,
+		"move_player": null,
+		"recipes": [
+			"2812"
+		],
+		"reduce_durability_globally": 0,
+		"trigger_weather": null,
+		"trigger_weather_now": false
+	},
+	"sight": {
+		"ignore_infra_penalty": false,
+		"infravision": true,
+		"range": 12,
+		"threesixty": false
+	},
+	"stamina": {
+		"fatigue": 100,
+		"stamina": 100,
+		"stamina_regen": 0.0
+	},
+	"statistics": {
+		"dexterity": [
+			12,
+			16
+		],
+		"endurance": [
+			20,
+			24
+		],
+		"intelligence": [
+			45,
+			50
+		],
+		"magic_power": 5,
+		"strength": [
+			27,
+			32
+		],
+		"willpower": [
+			30,
+			36
+		]
+	},
+	"tags": [
+		"4",
+		"3"
+	],
+	"weapon": {
+		"attack_speed": 1.0,
+		"critical_hit": 0.0,
+		"damage": [
+			{
+				"dmg_max": 6,
+				"dmg_min": 1,
+				"dmg_type": "death"
+			}
+		],
+		"hands": 1,
+		"hit_bonus": 1,
+		"parry_bonus": 0,
+		"range": 1,
+		"type": 1
+	}
+}

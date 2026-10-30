@@ -1,0 +1,65 @@
+{
+	"category_id": 4,
+	"components": [
+		"craftable",
+		"glyph",
+		"map_connector",
+		"minimap_pixel",
+		"name",
+		"position_2d",
+		"producer"
+	],
+	"craftable": {
+		"magic_slots": 0,
+		"resource_types": [
+			{
+				"amount": 2,
+				"id": 3
+			}
+		],
+		"resources": null,
+		"time": 20,
+		"tools": []
+	},
+	"description": "An uncomfortably narrow staircase leading down.",
+	"glyph": {
+		"frames": [
+			{
+				"color": [
+					255,
+					255,
+					255
+				],
+				"delay": 0,
+				"index": 204
+			}
+		],
+		"random_frame_start": false
+	},
+	"id": "14",
+	"map_connector": {
+		"opposite_connector": "13",
+		"z_level": -1
+	},
+	"minimap_pixel": [
+		61,
+		38,
+		7
+	],
+	"name": "Descending Stairs",
+	"producer": {
+		"products": {
+			"core_2_deconstruct": [
+				{
+					"amount": [
+						0,
+						0
+					],
+					"id": "-1",
+					"percent_chance": 0
+				}
+			]
+		},
+		"time": 20
+	}
+}

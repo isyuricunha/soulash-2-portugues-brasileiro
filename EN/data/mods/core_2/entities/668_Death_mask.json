@@ -1,0 +1,75 @@
+{
+	"armor": {
+		"acid": 2,
+		"death": 8,
+		"electricity": 0,
+		"fire": 2,
+		"frost": 0,
+		"holy": -8,
+		"parry": 0,
+		"physical": 4,
+		"poison": 2,
+		"thorns": 0
+	},
+	"components": [
+		"armor",
+		"craftable",
+		"glyph",
+		"item",
+		"minimap_pixel",
+		"name",
+		"position_2d",
+		"value",
+		"weight"
+	],
+	"craftable": {
+		"magic_slots": 5,
+		"resource_types": [
+			{
+				"amount": 3,
+				"id": 3
+			},
+			{
+				"amount": 1,
+				"id": 1
+			},
+			{
+				"amount": 1,
+				"id": 5
+			}
+		],
+		"resources": null,
+		"time": 120,
+		"tools": [
+			14
+		]
+	},
+	"description": "Ancient mask used in the burial ritual of desert pharaohs.",
+	"glyph": {
+		"frames": [
+			{
+				"color": [
+					255,
+					255,
+					255
+				],
+				"delay": 0,
+				"index": 680
+			}
+		],
+		"random_frame_start": false
+	},
+	"id": "668",
+	"item": {
+		"image": 236,
+		"type": 2
+	},
+	"minimap_pixel": [
+		90,
+		90,
+		90
+	],
+	"name": "Death Mask",
+	"value": 10000,
+	"weight": 2.0
+}

@@ -1,0 +1,16 @@
+{
+	"id": "core_2_skull_bone_ring",
+	"name": "Skull Bone Ring",
+	"requirements": {
+		"milestones": [],
+		"skill": 42
+	},
+	"rewards": [
+		{
+			"recipe": "core_2_Bone_Skull_Ring"
+		}
+	],
+	"skill_id": "core_2_imbuing",
+	"steps": [],
+	"steps_type": 0
+}

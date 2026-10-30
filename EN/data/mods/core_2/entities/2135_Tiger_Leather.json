@@ -1,0 +1,61 @@
+{
+	"components": [
+		"glyph",
+		"item",
+		"minimap_pixel",
+		"moveable",
+		"name",
+		"position_2d",
+		"resource",
+		"stackable",
+		"value",
+		"weapon",
+		"weight"
+	],
+	"description": "Exotic leather often used by nobles to decorate their weapons.",
+	"glyph": {
+		"frames": [
+			{
+				"color": [
+					255,
+					255,
+					255
+				],
+				"delay": 0,
+				"index": 569
+			}
+		],
+		"random_frame_start": false
+	},
+	"id": "2135",
+	"item": {
+		"image": 514,
+		"type": 16
+	},
+	"minimap_pixel": [
+		122,
+		93,
+		57
+	],
+	"moveable": {
+		"speed": -0.05
+	},
+	"name": "Tiger Leather",
+	"resource": {
+		"affix": "Exotic",
+		"magic_ingredient": 0,
+		"quality": 3,
+		"type": 2
+	},
+	"value": 3000,
+	"weapon": {
+		"attack_speed": -0.2,
+		"damage": null,
+		"hands": 1,
+		"hit_bonus": 2,
+		"parry_bonus": 0,
+		"range": 0,
+		"type": 9
+	},
+	"weight": 0.10000000149011612
+}

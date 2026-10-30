@@ -1,0 +1,16 @@
+{
+	"id": "core_2_boomerang",
+	"name": "Boomerang",
+	"requirements": {
+		"milestones": [],
+		"skill": 36
+	},
+	"rewards": [
+		{
+			"recipe": "core_2_Boomerang"
+		}
+	],
+	"skill_id": "core_2_carpentry",
+	"steps": [],
+	"steps_type": 0
+}

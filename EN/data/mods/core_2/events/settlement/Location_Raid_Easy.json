@@ -1,0 +1,68 @@
+{
+    "id": "core_2_location_raid_easy",
+    "name": "Raiders from the Wild",
+    "category": "settlement",
+    "flavor": "Emboldened by easy pickings and a nearby lair, a band of lowly creatures has decided to strike at the settlement. They are not particularly dangerous, but left unchecked they will bring misery unto the population.",
+    "icon": 20,
+    "small_icon": 20,
+    "rarity": "common",
+    "trigger": {
+        "base_probability": 0.015,
+        "conditions": [
+            {
+                "type": "settlement_tier_min",
+                "value": 1
+            },
+            {
+                "type": "settlement_tier_max",
+                "value": 1
+            },
+            {
+                "type": "nearby_location_difficulty",
+                "value": 1
+            }
+        ]
+    },
+    "duration": {
+        "type": "temporary",
+        "days": [
+            30,
+            60
+        ]
+    },
+    "effects": [
+        {
+            "type": "spawn_group",
+            "amount": [
+                3,
+                6
+            ],
+            "group_type": "hostile_group",
+            "entity_from_location": true,
+            "exclude": ["core_2_caravan_1"],
+            "spawn_behaviors": [21],
+            "border_color": [
+                180,
+                80,
+                80
+            ]
+        }
+    ],
+    "interactions": [
+        {
+            "type": "hostiles_cleared",
+            "translation_id": 0,
+            "history_event": "::name has driven off the raiders assaulting ::settlement!",
+            "announcement": "The raiders attacking ::settlement have been defeated!",
+            "reward": {
+                "gold": 200,
+                "remove_event": true
+            }
+        }
+    ],
+    "extra_dialogues": ["core_2_raid_easy"],
+    "history_events": {
+        "begin": "A raiding party has emerged from the wilds near ::settlement, threatening the population.",
+        "end": "The raiders troubling ::settlement have been driven off or dispersed."
+    }
+}

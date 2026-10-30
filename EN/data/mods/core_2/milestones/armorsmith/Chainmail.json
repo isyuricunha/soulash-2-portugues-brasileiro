@@ -1,0 +1,16 @@
+{
+	"id": "core_2_chainmail",
+	"name": "Chainmail",
+	"requirements": {
+		"milestones": [],
+		"skill": 23
+	},
+	"rewards": [
+		{
+			"recipe": "175"
+		}
+	],
+	"skill_id": "core_2_armorsmith",
+	"steps": [],
+	"steps_type": 0
+}

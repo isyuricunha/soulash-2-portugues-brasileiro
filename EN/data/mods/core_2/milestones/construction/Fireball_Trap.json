@@ -1,0 +1,16 @@
+{
+	"id": "core_2_fireball_trap",
+	"name": "Fireball Trap",
+	"requirements": {
+		"milestones": [],
+		"skill": 42
+	},
+	"rewards": [
+		{
+			"recipe": "2957"
+		}
+	],
+	"skill_id": "core_2_construction",
+	"steps": [],
+	"steps_type": 0
+}

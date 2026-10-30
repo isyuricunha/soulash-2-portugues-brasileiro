@@ -1,0 +1,82 @@
+{
+	"armor": {
+		"acid": 8,
+		"death": 0,
+		"electricity": 6,
+		"fire": 0,
+		"frost": 0,
+		"holy": 0,
+		"parry": 0,
+		"physical": 0,
+		"poison": 0,
+		"thorns": 0
+	},
+	"components": [
+		"armor",
+		"craftable",
+		"glyph",
+		"item",
+		"minimap_pixel",
+		"name",
+		"position_2d",
+		"value",
+		"weight"
+	],
+	"craftable": {
+		"backgrounds": [],
+		"biomes": [],
+		"magic_slots": 5,
+		"resource_types": [
+			{
+				"amount": 1,
+				"id": 9
+			},
+			{
+				"amount": 2,
+				"id": 2
+			},
+			{
+				"amount": 1,
+				"id": 3
+			}
+		],
+		"resources": [
+			{
+				"amount": 1,
+				"id": "2144"
+			}
+		],
+		"time": 60,
+		"tools": [
+			14
+		]
+	},
+	"description": "A symbol of a majestic lion mane on a string.",
+	"glyph": {
+		"frames": [
+			{
+				"color": [
+					255,
+					255,
+					255
+				],
+				"delay": 0,
+				"index": 2349
+			}
+		],
+		"random_frame_start": false
+	},
+	"id": "core_2_Lion_Mane_Necklace",
+	"item": {
+		"image": 1016,
+		"type": 3
+	},
+	"minimap_pixel": [
+		115,
+		125,
+		132
+	],
+	"name": "Lion Mane Necklace",
+	"value": 6000,
+	"weight": 0.10000000149011612
+}

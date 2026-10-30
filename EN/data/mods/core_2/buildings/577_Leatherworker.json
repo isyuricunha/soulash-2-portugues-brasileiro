@@ -1,0 +1,18 @@
+{
+	"enables": [
+		"core_2_leatherworking"
+	],
+	"id": "577",
+	"image": 393,
+	"max": 2,
+	"name": "Leatherworker",
+	"occupation_image": 12,
+	"occupation": "core_2_Gnome_Leatherworker",
+	"produces": [],
+	"race": "24",
+	"tier": 1,
+	"workers": [
+		1,
+		3
+	]
+}

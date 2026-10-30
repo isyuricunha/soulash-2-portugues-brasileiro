@@ -1,0 +1,67 @@
+{
+	"components": [
+		"craftable",
+		"glyph",
+		"minimap_pixel",
+		"name",
+		"position_2d",
+		"producer",
+		"stackable"
+	],
+	"craftable": {
+		"backgrounds": [],
+		"biomes": [],
+		"magic_slots": 0,
+		"resource_types": [
+			{
+				"amount": 2,
+				"id": 3
+			},
+			{
+				"amount": 1,
+				"id": 2
+			}
+		],
+		"time": 20,
+		"tools": [
+			13
+		]
+	},
+	"description": "A freshly skinned piece of leather drying here before it can be processed further. Looks a bit frostbitten.",
+	"glyph": {
+		"frames": [
+			{
+				"color": [
+					255,
+					255,
+					255
+				],
+				"delay": 0,
+				"index": 2767
+			}
+		],
+		"random_frame_start": false
+	},
+	"id": "core_2_Frozen_Leather_on_Drying_Rack",
+	"minimap_pixel": [
+		200,
+		200,
+		200
+	],
+	"name": "Frozen Leather on Drying Rack",
+	"producer": {
+		"products": {
+			"core_2_deconstruct": [
+				{
+					"amount": [
+						0,
+						0
+					],
+					"id": "",
+					"percent_chance": 0
+				}
+			]
+		},
+		"time": 20
+	}
+}

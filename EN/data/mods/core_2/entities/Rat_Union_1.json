@@ -1,0 +1,270 @@
+{
+	"ability_user": [
+		"core_2_Poison_Ray"
+	],
+	"artificial_intelligence": {
+		"allies": [],
+		"allow_production": [],
+		"behaviors": [],
+		"enemies": [
+			"5"
+		]
+	},
+	"chained": {
+		"map": [
+			[
+				"core_2_Rat_Union_M",
+				"",
+				"",
+				"",
+				"",
+				"",
+				"",
+				"",
+				"",
+				""
+			],
+			[
+				"RESERVED_core_2_leader_tile",
+				"",
+				"",
+				"",
+				"",
+				"",
+				"",
+				"",
+				"",
+				""
+			],
+			[
+				"core_2_Rat_Union_K",
+				"",
+				"",
+				"",
+				"",
+				"",
+				"",
+				"",
+				"",
+				""
+			],
+			[
+				"",
+				"",
+				"",
+				"",
+				"",
+				"",
+				"",
+				"",
+				"",
+				""
+			],
+			[
+				"",
+				"",
+				"",
+				"",
+				"",
+				"",
+				"",
+				"",
+				"",
+				""
+			],
+			[
+				"",
+				"",
+				"",
+				"",
+				"",
+				"",
+				"",
+				"",
+				"",
+				""
+			],
+			[
+				"",
+				"",
+				"",
+				"",
+				"",
+				"",
+				"",
+				"",
+				"",
+				""
+			],
+			[
+				"",
+				"",
+				"",
+				"",
+				"",
+				"",
+				"",
+				"",
+				"",
+				""
+			],
+			[
+				"",
+				"",
+				"",
+				"",
+				"",
+				"",
+				"",
+				"",
+				"",
+				""
+			],
+			[
+				"",
+				"",
+				"",
+				"",
+				"",
+				"",
+				"",
+				"",
+				"",
+				""
+			]
+		],
+		"snake": false
+	},
+	"components": [
+		"ability_user",
+		"actor",
+		"artificial_intelligence",
+		"chained",
+		"collidable",
+		"dialogues",
+		"experience_gainer",
+		"fighter",
+		"glyph",
+		"health",
+		"minimap_pixel",
+		"moveable",
+		"name",
+		"position_2d",
+		"random_resource",
+		"sight",
+		"stamina",
+		"statistics",
+		"tags",
+		"weapon"
+	],
+	"corpse": "core_2_Rat_Union_Corpse",
+	"description": "When Rat King and Rat Mother love eachother very much... They make an union to make more rat babies.",
+	"dialogues": [
+		"921"
+	],
+	"experience_gainer": {
+		"exp": 0,
+		"level": 40
+	},
+	"fighter": {
+		"attackNames": [
+			"Scratch"
+		]
+	},
+	"glyph": {
+		"frames": [
+			{
+				"color": [
+					255,
+					255,
+					255
+				],
+				"delay": 0,
+				"index": 567
+			}
+		],
+		"random_frame_start": false
+	},
+	"health": 840,
+	"id": "core_2_Rat_Union_1",
+	"minimap_pixel": [
+		149,
+		165,
+		101
+	],
+	"moveable": {
+		"speed": 0.699999988079071
+	},
+	"name": "Rat Union",
+	"random_resource": {
+		"delay_spawn": false,
+		"entity": [
+			"core_2_Rat"
+		],
+		"max_amount": 5,
+		"max_distance": 8,
+		"min_amount": 3,
+		"min_distance": 5,
+		"multiply_same": false,
+		"respawn_rate": 10.0,
+		"spawn_at": [],
+		"spawn_chance": 100.0,
+		"spawn_multiply": 0.0,
+		"spawn_rolls": 1
+	},
+	"sight": {
+		"ignore_infra_penalty": false,
+		"infravision": true,
+		"range": 12,
+		"threesixty": true
+	},
+	"stamina": {
+		"fatigue": 100,
+		"stamina": 100,
+		"stamina_regen": 0.0
+	},
+	"statistics": {
+		"dexterity": [
+			42,
+			46
+		],
+		"endurance": [
+			36,
+			40
+		],
+		"intelligence": [
+			40,
+			47
+		],
+		"magic_power": 3,
+		"strength": [
+			17,
+			22
+		],
+		"willpower": [
+			36,
+			40
+		]
+	},
+	"tags": [
+		"9",
+		"2",
+		"38"
+	],
+	"weapon": {
+		"attack_speed": 0.6000000238418579,
+		"critical_hit": 0.0,
+		"damage": [
+			{
+				"dmg_max": 6,
+				"dmg_min": 3,
+				"dmg_type": "poison"
+			}
+		],
+		"hands": 1,
+		"hit_bonus": 2,
+		"parry_bonus": 0,
+		"range": 1,
+		"type": 3
+	}
+}

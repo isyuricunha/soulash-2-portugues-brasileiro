@@ -1,0 +1,92 @@
+{
+	"components": [
+		"craftable",
+		"glyph",
+		"item",
+		"minimap_pixel",
+		"name",
+		"position_2d",
+		"resource",
+		"stackable",
+		"statistics",
+		"value",
+		"weight"
+	],
+	"craftable": {
+		"backgrounds": [],
+		"biomes": [],
+		"magic_slots": 0,
+		"resource_types": [
+			{
+				"amount": 1,
+				"id": 5
+			}
+		],
+		"resources": [
+			{
+				"amount": 2,
+				"id": "2475"
+			}
+		],
+		"time": 30,
+		"tools": [
+			15
+		]
+	},
+	"description": "A decorative pin made from bone.",
+	"glyph": {
+		"frames": [
+			{
+				"color": [
+					255,
+					255,
+					255
+				],
+				"delay": 0,
+				"index": 2492
+			}
+		],
+		"random_frame_start": false
+	},
+	"id": "core_2_Bone_Brooch",
+	"item": {
+		"image": 1102,
+		"type": 16
+	},
+	"minimap_pixel": [
+		100,
+		109,
+		155
+	],
+	"name": "Bone Brooch",
+	"resource": {
+		"affix": "of the Ornament",
+		"magic_ingredient": 3,
+		"quality": 3,
+		"type": 7
+	},
+	"statistics": {
+		"dexterity": [
+			0,
+			0
+		],
+		"endurance": [
+			1,
+			1
+		],
+		"intelligence": [
+			0,
+			0
+		],
+		"strength": [
+			1,
+			1
+		],
+		"willpower": [
+			0,
+			0
+		]
+	},
+	"value": 3200,
+	"weight": 0.10000000149011612
+}

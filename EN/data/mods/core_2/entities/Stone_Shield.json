@@ -1,0 +1,68 @@
+{
+	"armor": {
+		"acid": 0,
+		"death": 0,
+		"electricity": 2,
+		"fire": 0,
+		"frost": 0,
+		"holy": 0,
+		"parry": 2,
+		"physical": 2,
+		"poison": 0,
+		"thorns": 0
+	},
+	"components": [
+		"armor",
+		"craftable",
+		"glyph",
+		"item",
+		"minimap_pixel",
+		"name",
+		"position_2d",
+		"value",
+		"weight"
+	],
+	"craftable": {
+		"backgrounds": [],
+		"biomes": [],
+		"magic_slots": 2,
+		"resource_types": [
+			{
+				"amount": 2,
+				"id": 6
+			}
+		],
+		"time": 60,
+		"tools": [
+			14
+		]
+	},
+	"description": "A simple shield made out of stone.",
+	"glyph": {
+		"frames": [
+			{
+				"color": [
+					255,
+					255,
+					255
+				],
+				"delay": 0,
+				"index": 3045
+			}
+		],
+		"random_frame_start": false
+	},
+	"id": "core_2_Stone_Shield",
+	"item": {
+		"image": 1412,
+		"type": 14
+	},
+	"minimap_pixel": [
+		156,
+		160,
+		161
+	],
+	"name": "Stone Shield",
+	"value": 600,
+	"weight": 4.5
+}

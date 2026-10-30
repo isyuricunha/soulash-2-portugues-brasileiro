@@ -1,0 +1,24 @@
+{
+	"id": "311",
+	"image": 240,
+	"name": "Flax Farm",
+	"occupation_image": 48,
+	"occupation": "core_2_Gnoll_Farmer",
+	"produces": [
+		{
+			"entities": [
+				{
+					"daily": 1,
+					"id": "299"
+				}
+			],
+			"takes": []
+		}
+	],
+	"race": "31",
+	"tier": 2,
+	"workers": [
+		1,
+		4
+	]
+}

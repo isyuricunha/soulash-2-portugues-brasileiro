@@ -1,0 +1,80 @@
+{
+	"components": [
+		"glyph",
+		"height",
+		"map_connector",
+		"minimap_pixel",
+		"name",
+		"position_2d",
+		"producer"
+	],
+	"description": "Grass and plants covered slope you can climb up.",
+	"glyph": {
+		"frames": [
+			{
+				"color": [
+					255,
+					255,
+					255
+				],
+				"delay": 160,
+				"index": 1545
+			},
+			{
+				"color": [
+					255,
+					255,
+					255
+				],
+				"delay": 260,
+				"index": 3472
+			},
+			{
+				"color": [
+					255,
+					255,
+					255
+				],
+				"delay": 260,
+				"index": 3474
+			},
+			{
+				"color": [
+					255,
+					255,
+					255
+				],
+				"delay": 260,
+				"index": 3472
+			}
+		],
+		"random_frame_start": false
+	},
+	"height": 0,
+	"id": "2036",
+	"map_connector": {
+		"opposite_connector": "2037",
+		"z_level": 1
+	},
+	"minimap_pixel": [
+		61,
+		38,
+		7
+	],
+	"name": "Ascending Grass Slope",
+	"producer": {
+		"products": {
+			"core_2_deconstruct": [
+				{
+					"amount": [
+						0,
+						0
+					],
+					"id": "",
+					"percent_chance": 0
+				}
+			]
+		},
+		"time": 40
+	}
+}

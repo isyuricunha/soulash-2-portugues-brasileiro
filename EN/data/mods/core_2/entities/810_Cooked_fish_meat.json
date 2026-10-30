@@ -1,0 +1,46 @@
+{
+	"components": [
+		"food",
+		"glyph",
+		"item",
+		"minimap_pixel",
+		"name",
+		"position_2d",
+		"stackable",
+		"value",
+		"weight"
+	],
+	"description": "Cooked fish fillet, tasty.",
+	"food": {
+		"nutrition": 45,
+		"on_eat": "",
+		"raw": false
+	},
+	"glyph": {
+		"frames": [
+			{
+				"color": [
+					255,
+					255,
+					255
+				],
+				"delay": 0,
+				"index": 398
+			}
+		],
+		"random_frame_start": false
+	},
+	"id": "810",
+	"item": {
+		"image": 48,
+		"type": 20
+	},
+	"minimap_pixel": [
+		165,
+		59,
+		51
+	],
+	"name": "Cooked Fish Meat",
+	"value": 400,
+	"weight": 0.10000000149011612
+}

@@ -1,0 +1,200 @@
+{
+	"background": {
+		"color": [
+			40,
+			40,
+			40
+		],
+		"noise": 5
+	},
+	"components": [
+		"background",
+		"block_light",
+		"glyph",
+		"height",
+		"liquid_source",
+		"minimap_pixel",
+		"name",
+		"on_enter",
+		"position_2d"
+	],
+	"description": "Hot lava tumbles down from above.",
+	"glyph": {
+		"frames": [
+			{
+				"color": [
+					255,
+					255,
+					255
+				],
+				"delay": 60,
+				"index": 3189
+			},
+			{
+				"color": [
+					255,
+					255,
+					255
+				],
+				"delay": 60,
+				"index": 3190
+			},
+			{
+				"color": [
+					255,
+					255,
+					255
+				],
+				"delay": 60,
+				"index": 3191
+			},
+			{
+				"color": [
+					255,
+					255,
+					255
+				],
+				"delay": 60,
+				"index": 3192
+			},
+			{
+				"color": [
+					255,
+					255,
+					255
+				],
+				"delay": 60,
+				"index": 3193
+			},
+			{
+				"color": [
+					255,
+					255,
+					255
+				],
+				"delay": 60,
+				"index": 3194
+			},
+			{
+				"color": [
+					255,
+					255,
+					255
+				],
+				"delay": 60,
+				"index": 3195
+			},
+			{
+				"color": [
+					255,
+					255,
+					255
+				],
+				"delay": 60,
+				"index": 3196
+			},
+			{
+				"color": [
+					255,
+					255,
+					255
+				],
+				"delay": 60,
+				"index": 3197
+			},
+			{
+				"color": [
+					255,
+					255,
+					255
+				],
+				"delay": 60,
+				"index": 3198
+			},
+			{
+				"color": [
+					255,
+					255,
+					255
+				],
+				"delay": 60,
+				"index": 3199
+			},
+			{
+				"color": [
+					255,
+					255,
+					255
+				],
+				"delay": 60,
+				"index": 3200
+			},
+			{
+				"color": [
+					255,
+					255,
+					255
+				],
+				"delay": 60,
+				"index": 3201
+			},
+			{
+				"color": [
+					255,
+					255,
+					255
+				],
+				"delay": 60,
+				"index": 3202
+			},
+			{
+				"color": [
+					255,
+					255,
+					255
+				],
+				"delay": 60,
+				"index": 3203
+			},
+			{
+				"color": [
+					255,
+					255,
+					255
+				],
+				"delay": 60,
+				"index": 3204
+			},
+			{
+				"color": [
+					255,
+					255,
+					255
+				],
+				"delay": 60,
+				"index": 3205
+			}
+		],
+		"random_frame_start": true
+	},
+	"height": 0,
+	"id": "core_2_Waterfall_of_Lava",
+	"liquid_source": {
+		"limit": -1,
+		"type": 4
+	},
+	"minimap_pixel": [
+		124,
+		31,
+		7
+	],
+	"name": "Waterfall of Lava",
+	"on_enter": {
+		"ability": [
+			"142"
+		],
+		"only_player_triggers": false,
+		"teleport": null,
+		"trigger_chance": 1.0
+	}
+}

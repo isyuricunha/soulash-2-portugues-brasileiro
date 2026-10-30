@@ -1,0 +1,14 @@
+{
+	"id": "core_2_player_home",
+	"image": 386,
+	"name": "Home",
+	"occupation": "-1",
+	"produces": [],
+	"workers": [
+		0,
+		0
+	],
+	"allow_player": true,
+	"min_area": 64,
+	"group": "base"
+}

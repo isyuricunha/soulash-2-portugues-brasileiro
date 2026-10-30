@@ -1,0 +1,132 @@
+{
+	"artificial_intelligence": {
+		"allies": [],
+		"allow_production": [],
+		"behaviors": [],
+		"enemies": []
+	},
+	"components": [
+		"actor",
+		"artificial_intelligence",
+		"collidable",
+		"dialogues",
+		"equipment",
+		"experience_gainer",
+		"fighter",
+		"glyph",
+		"health",
+		"humanoid",
+		"minimap_pixel",
+		"moveable",
+		"name",
+		"persona",
+		"position_2d",
+		"sight",
+		"stamina",
+		"statistics",
+		"tags"
+	],
+	"corpse": "core_2_Mushman_Corpse",
+	"description": "A cheerful merchant selling festival wares.",
+	"dialogues": [],
+	"equipment": {
+		"head_cloth": [
+			{
+				"chance": 1.0,
+				"id": "2226",
+				"name": "Hat with Feather",
+				"stack": 1
+			}
+		],
+		"legs_cloth": [
+			{
+				"chance": 1.0,
+				"id": "298",
+				"name": "Pants",
+				"stack": 1
+			}
+		],
+		"torso_cloth": [
+			{
+				"chance": 1.0,
+				"id": "777",
+				"name": "Long Shirt",
+				"stack": 1
+			}
+		]
+	},
+	"experience_gainer": {
+		"exp": 0,
+		"level": 12
+	},
+	"fighter": {
+		"attackNames": [
+			"Punch"
+		]
+	},
+	"glyph": {
+		"frames": [
+			{
+				"color": [
+					255,
+					220,
+					100
+				],
+				"delay": 0,
+				"index": 567
+			}
+		],
+		"random_frame_start": false
+	},
+	"health": 80,
+	"humanoid": {
+		"race": "32"
+	},
+	"id": "core_2_Mushman_Festival_Vendor",
+	"minimap_pixel": [
+		200,
+		180,
+		80
+	],
+	"moveable": {
+		"speed": 1.0
+	},
+	"name": "Mushman Festival Vendor",
+	"persona": {
+		"occupation": "Festival Vendor"
+	},
+	"sight": {
+		"ignore_infra_penalty": false,
+		"infravision": false,
+		"range": 8,
+		"threesixty": false
+	},
+	"stamina": {
+		"fatigue": 100,
+		"stamina": 100,
+		"stamina_regen": 0.0
+	},
+	"statistics": {
+		"dexterity": [
+			10,
+			14
+		],
+		"endurance": [
+			10,
+			14
+		],
+		"intelligence": [
+			10,
+			14
+		],
+		"strength": [
+			10,
+			14
+		],
+		"willpower": [
+			10,
+			14
+		]
+	},
+	"tags": []
+}

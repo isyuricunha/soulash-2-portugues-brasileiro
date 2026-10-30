@@ -1,0 +1,16 @@
+{
+	"id": "core_2_feather_cloth",
+	"name": "Feather Cloth",
+	"requirements": {
+		"milestones": [],
+		"skill": 17
+	},
+	"rewards": [
+		{
+			"recipe": "2157"
+		}
+	],
+	"skill_id": "core_2_tailoring",
+	"steps": [],
+	"steps_type": 0
+}

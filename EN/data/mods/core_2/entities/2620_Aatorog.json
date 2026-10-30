@@ -1,0 +1,148 @@
+{
+	"ability_user": [
+		"10"
+	],
+	"artificial_intelligence": {
+		"allies": [],
+		"allow_production": [],
+		"behaviors": [],
+		"enemies": [
+			"5"
+		]
+	},
+	"components": [
+		"ability_user",
+		"actor",
+		"artificial_intelligence",
+		"collidable",
+		"dialogues",
+		"equipment",
+		"experience_gainer",
+		"fighter",
+		"glyph",
+		"health",
+		"minimap_pixel",
+		"moveable",
+		"name",
+		"position_2d",
+		"sight",
+		"stamina",
+		"statistics",
+		"tags",
+		"weapon"
+	],
+	"corpse": "2642",
+	"description": "An overgrown lizard spitting poisonous venom.",
+	"dialogues": [
+		"894"
+	],
+	"equipment": {
+		"disabled_slots": [
+			1,
+			0,
+			2,
+			3,
+			4,
+			5,
+			6,
+			7,
+			8,
+			9,
+			10,
+			11,
+			12,
+			13,
+			14,
+			15,
+			16,
+			17
+		]
+	},
+	"experience_gainer": {
+		"exp": 0,
+		"level": 10
+	},
+	"fighter": {
+		"attackNames": [
+			"Acidic Bite"
+		]
+	},
+	"glyph": {
+		"frames": [
+			{
+				"color": [
+					255,
+					255,
+					255
+				],
+				"delay": 0,
+				"index": 1691
+			}
+		],
+		"random_frame_start": false
+	},
+	"health": 90,
+	"id": "2620",
+	"minimap_pixel": [
+		129,
+		165,
+		76
+	],
+	"moveable": {
+		"speed": 1.100000023841858
+	},
+	"name": "Aatorog",
+	"sight": {
+		"ignore_infra_penalty": false,
+		"infravision": false,
+		"range": 7,
+		"threesixty": false
+	},
+	"stamina": {
+		"fatigue": 100,
+		"stamina": 100,
+		"stamina_regen": 0.0
+	},
+	"statistics": {
+		"dexterity": [
+			15,
+			22
+		],
+		"endurance": [
+			6,
+			10
+		],
+		"intelligence": [
+			15,
+			17
+		],
+		"strength": [
+			19,
+			25
+		],
+		"willpower": [
+			5,
+			8
+		]
+	},
+	"tags": [
+		"2",
+		"9"
+	],
+	"weapon": {
+		"attack_speed": 1.0,
+		"critical_hit": 0.0,
+		"damage": [
+			{
+				"dmg_max": 3,
+				"dmg_min": 1,
+				"dmg_type": "acid"
+			}
+		],
+		"hands": 1,
+		"hit_bonus": 0,
+		"parry_bonus": 0,
+		"range": 1,
+		"type": 9
+	}
+}

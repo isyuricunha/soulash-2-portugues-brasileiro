@@ -1,0 +1,15 @@
+{
+	"id": "core_2_pierce_defenses",
+	"name": "Pierce Defenses",
+	"requirements": {
+		"skill": 46
+	},
+	"rewards": [
+		{
+			"passive": "core_2_pierce_armor"
+		}
+	],
+	"skill_id": "core_2_mace_fighting",
+	"steps": [],
+	"steps_type": 0
+}

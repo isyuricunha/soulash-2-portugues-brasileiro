@@ -1,0 +1,25 @@
+{
+	"animation": "9",
+	"cast_time": 0.5,
+	"cooldown": 15.0,
+	"cost": {
+		"health": 0,
+		"stamina": 10
+	},
+	"description": "This ability inflicts fear for ::duration rounds to any enemy in range of ::aoe_range. Fear is determined on an opposite willpower check. If successful, target will run away as fast as it can.",
+	"duration": 3.0,
+	"effects": {
+		"aoe_range": 6,
+		"aoe_shape": 1,
+		"fear": 1
+	},
+	"id": "20",
+	"image": 63,
+	"name": "Battle Cry",
+	"range": 0,
+	"skill": "core_2_mace_fighting",
+	"slots": {
+		"utility": 3
+	},
+	"target": "aoe_self"
+}

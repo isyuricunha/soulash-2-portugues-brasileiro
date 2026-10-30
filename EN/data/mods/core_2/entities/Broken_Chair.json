@@ -1,0 +1,35 @@
+{
+	"components": [
+		"glyph",
+		"health",
+		"height",
+		"minimap_pixel",
+		"name",
+		"position_2d"
+	],
+	"corpse": "2008",
+	"description": "Looks like someone broke it in a fit of rage and just left it here.",
+	"glyph": {
+		"frames": [
+			{
+				"color": [
+					255,
+					255,
+					255
+				],
+				"delay": 0,
+				"index": 2876
+			}
+		],
+		"random_frame_start": true
+	},
+	"health": 20,
+	"height": 0,
+	"id": "core_2_Broken_Chair",
+	"minimap_pixel": [
+		99,
+		68,
+		24
+	],
+	"name": "Broken Chair"
+}

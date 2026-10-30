@@ -1,0 +1,21 @@
+{
+	"animation": "core_2_Drink_potion_of_frost_resist",
+	"cast_time": 1.0,
+	"cooldown": 30.0,
+	"cost": {
+		"health": 0,
+		"stamina": 0
+	},
+	"description": "This potion gives you ::resistance ::damage_type resistance for ::duration turns.",
+	"duration": 30.0,
+	"effects": {
+		"damage_type": "frost",
+		"resistance": 5
+	},
+	"id": "core_2_Potion_of_Frost_Resist",
+	"image": 762,
+	"name": "Potion of Frost Resist",
+	"range": 0,
+	"skill": "",
+	"target": "aoe_self"
+}

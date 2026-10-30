@@ -1,0 +1,104 @@
+{
+	"ability_user": [
+		"120"
+	],
+	"artificial_intelligence": {
+		"allies": [],
+		"allow_production": [],
+		"behaviors": [],
+		"enemies": [
+			"5"
+		]
+	},
+	"components": [
+		"ability_user",
+		"actor",
+		"artificial_intelligence",
+		"collidable",
+		"dialogues",
+		"equipment",
+		"experience_gainer",
+		"fighter",
+		"glyph",
+		"health",
+		"minimap_pixel",
+		"moveable",
+		"name",
+		"position_2d",
+		"sight",
+		"stamina",
+		"statistics",
+		"tags"
+	],
+	"corpse": "core_2_Live_Stone",
+	"description": "Looks like a statue. Until it moves.",
+	"dialogues": [],
+	"experience_gainer": {
+		"exp": 0,
+		"level": 20
+	},
+	"fighter": {
+		"attackNames": null
+	},
+	"glyph": {
+		"frames": [
+			{
+				"color": [
+					255,
+					255,
+					255
+				],
+				"delay": 0,
+				"index": 451
+			}
+		],
+		"random_frame_start": false
+	},
+	"health": 180,
+	"id": "core_2_Gargoyle",
+	"minimap_pixel": [
+		169,
+		190,
+		194
+	],
+	"moveable": {
+		"speed": 1.0
+	},
+	"name": "Gargoyle",
+	"sight": {
+		"ignore_infra_penalty": false,
+		"infravision": true,
+		"range": 9,
+		"threesixty": false
+	},
+	"stamina": {
+		"fatigue": 100,
+		"stamina": 100,
+		"stamina_regen": 0.0
+	},
+	"statistics": {
+		"dexterity": [
+			10,
+			14
+		],
+		"endurance": [
+			22,
+			27
+		],
+		"intelligence": [
+			9,
+			12
+		],
+		"strength": [
+			26,
+			30
+		],
+		"willpower": [
+			20,
+			24
+		]
+	},
+	"tags": [
+		"32"
+	]
+}

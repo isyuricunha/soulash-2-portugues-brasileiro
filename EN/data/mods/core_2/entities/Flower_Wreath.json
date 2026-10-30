@@ -1,0 +1,34 @@
+{
+	"components": [
+		"collidable",
+		"glyph",
+		"health",
+		"minimap_pixel",
+		"name",
+		"position_2d"
+	],
+	"corpse": [],
+	"description": "Wildflowers neatly arranged in a circle.",
+	"glyph": {
+		"frames": [
+			{
+				"color": [
+					255,
+					255,
+					255
+				],
+				"delay": 0,
+				"index": 3266
+			}
+		],
+		"random_frame_start": true
+	},
+	"health": 50,
+	"id": "core_2_Flower_Wreath",
+	"minimap_pixel": [
+		169,
+		108,
+		14
+	],
+	"name": "Flower Wreath"
+}

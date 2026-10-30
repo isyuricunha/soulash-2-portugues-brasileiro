@@ -1,0 +1,76 @@
+{
+	"components": [
+		"block_light",
+		"glyph",
+		"minimap_pixel",
+		"name",
+		"on_enter",
+		"position_2d"
+	],
+	"description": "You can just feel that something is coming...",
+	"glyph": {
+		"frames": [
+			{
+				"color": [
+					255,
+					255,
+					255
+				],
+				"delay": 150,
+				"index": 3441
+			},
+			{
+				"color": [
+					255,
+					255,
+					255
+				],
+				"delay": 130,
+				"index": 3438
+			},
+			{
+				"color": [
+					255,
+					255,
+					255
+				],
+				"delay": 150,
+				"index": 3439
+			},
+			{
+				"color": [
+					255,
+					255,
+					255
+				],
+				"delay": 150,
+				"index": 3440
+			},
+			{
+				"color": [
+					255,
+					255,
+					255
+				],
+				"delay": 50,
+				"index": 3441
+			}
+		],
+		"random_frame_start": true
+	},
+	"id": "core_2_Static_Energy",
+	"minimap_pixel": [
+		16,
+		61,
+		28
+	],
+	"name": "Static Energy",
+	"on_enter": {
+		"ability": [
+			"core_2_Lightning_2"
+		],
+		"only_player_triggers": false,
+		"teleport": null,
+		"trigger_chance": 1.0
+	}
+}

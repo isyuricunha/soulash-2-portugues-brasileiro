@@ -1,0 +1,16 @@
+{
+	"id": "core_2_stone_knife",
+	"name": "Stone Knife",
+	"requirements": {
+		"milestones": [],
+		"skill": 3
+	},
+	"rewards": [
+		{
+			"recipe": "core_2_Stone_Knife"
+		}
+	],
+	"skill_id": "core_2_construction",
+	"steps": [],
+	"steps_type": 0
+}

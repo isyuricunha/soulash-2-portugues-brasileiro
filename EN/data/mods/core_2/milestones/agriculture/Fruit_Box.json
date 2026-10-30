@@ -1,0 +1,16 @@
+{
+	"id": "core_2_fruit_box",
+	"name": "Fruit Box",
+	"requirements": {
+		"milestones": [],
+		"skill": 13
+	},
+	"rewards": [
+		{
+			"recipe": "2860"
+		}
+	],
+	"skill_id": "core_2_agriculture",
+	"steps": [],
+	"steps_type": 0
+}

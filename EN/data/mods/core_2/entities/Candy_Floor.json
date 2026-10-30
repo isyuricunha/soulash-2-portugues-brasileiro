@@ -1,0 +1,38 @@
+{
+	"background": {
+		"color": [
+			101,
+			68,
+			43
+		],
+		"noise": 4
+	},
+	"components": [
+		"background",
+		"glyph",
+		"minimap_pixel",
+		"name"
+	],
+	"description": "A floor made out of candy. Makes a cracking sound when you walk.",
+	"glyph": {
+		"frames": [
+			{
+				"color": [
+					255,
+					255,
+					255
+				],
+				"delay": 0,
+				"index": 2618
+			}
+		],
+		"random_frame_start": false
+	},
+	"id": "core_2_Candy_Floor",
+	"minimap_pixel": [
+		128,
+		96,
+		109
+	],
+	"name": "Candy Floor"
+}

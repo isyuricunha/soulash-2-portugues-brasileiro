@@ -1,0 +1,27 @@
+{
+	"animation": "144",
+	"cast_time": 1.5,
+	"cooldown": 3.0,
+	"cost": {
+		"health": 2,
+		"stamina": 8
+	},
+	"description": "Increase body heat to very high degrees dealing ::damage ::damage_type to everyone in range of ::aoe_range tiles around the caster.",
+	"duration": 0.0,
+	"effects": {
+		"aoe_range": 3,
+		"aoe_shape": 1,
+		"damage": [
+			0,
+			10
+		],
+		"damage_type": "fire",
+		"damage_weapon": 1.3300000429153442
+	},
+	"id": "107",
+	"image": 531,
+	"level": 3,
+	"name": "Heat",
+	"range": 1,
+	"target": "aoe_self"
+}

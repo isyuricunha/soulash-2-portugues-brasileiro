@@ -1,0 +1,18 @@
+{
+	"enables": [
+		"core_2_imbuing"
+	],
+	"id": "579",
+	"image": 391,
+	"max": 1,
+	"name": "Toymaker",
+	"occupation_image": 16,
+	"occupation": "core_2_Gnome_Toymaker",
+	"produces": [],
+	"race": "24",
+	"tier": 2,
+	"workers": [
+		1,
+		1
+	]
+}

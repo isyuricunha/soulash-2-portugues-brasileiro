@@ -1,0 +1,62 @@
+{
+	"components": [
+		"food",
+		"glyph",
+		"item",
+		"minimap_pixel",
+		"name",
+		"position_2d",
+		"producer",
+		"stackable",
+		"value",
+		"weight"
+	],
+	"description": "Some fresh meat, good source of nutrition.",
+	"food": {
+		"nutrition": 30,
+		"poisonous": 3,
+		"raw": true
+	},
+	"glyph": {
+		"frames": [
+			{
+				"color": [
+					255,
+					255,
+					255
+				],
+				"delay": 0,
+				"index": 399
+			}
+		],
+		"random_frame_start": false
+	},
+	"id": "318",
+	"item": {
+		"image": 49,
+		"type": 20
+	},
+	"minimap_pixel": [
+		168,
+		104,
+		91
+	],
+	"name": "Meat",
+	"producer": {
+		"products": {
+			"9": [
+				{
+					"amount": [
+						1,
+						1
+					],
+					"id": "809",
+					"percent_chance": 100
+				}
+			]
+		},
+		"time": 15
+	},
+	"value": 200,
+	"weight": 0.30000001192092896
+}

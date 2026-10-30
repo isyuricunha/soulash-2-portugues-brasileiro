@@ -1,0 +1,43 @@
+{
+	"background": {
+		"color": [
+			44,
+			45,
+			41
+		],
+		"noise": 2,
+		"noise_intensity": 5
+	},
+	"components": [
+		"background",
+		"glyph",
+		"health",
+		"minimap_pixel",
+		"name",
+		"position_2d"
+	],
+	"corpse": [],
+	"description": "Tainted, charred ground. Clear sign of nearby demonic activity.",
+	"glyph": {
+		"frames": [
+			{
+				"color": [
+					255,
+					255,
+					255
+				],
+				"delay": 0,
+				"index": 3013
+			}
+		],
+		"random_frame_start": false
+	},
+	"health": 1,
+	"id": "core_2_Tainted_Ground",
+	"minimap_pixel": [
+		65,
+		45,
+		12
+	],
+	"name": "Tainted Ground"
+}

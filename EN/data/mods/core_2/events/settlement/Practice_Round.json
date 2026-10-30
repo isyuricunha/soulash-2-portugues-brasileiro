@@ -1,0 +1,83 @@
+{
+    "id": "core_2_practice_round",
+    "name": "Practice Round",
+    "category": "settlement",
+    "flavor": "To be a true master in your field, you must practice in every possible way. Sometimes this requires acquiring new tools.",
+    "icon": 23,
+    "small_icon": 23,
+    "rarity": "uncommon",
+    "restrict_races": [
+        "10"
+    ],
+    "trigger": {
+        "base_probability": 0.004,
+        "conditions": [
+            {
+                "type": "settlement_population_min",
+                "value": 30
+            },
+            {
+                "type": "settlement_tier_min",
+                "value": 1
+            },
+            {
+                "type": "min_unemployed",
+                "value": 1
+            }
+        ]
+    },
+    "duration": {
+        "type": "temporary",
+        "days": [
+            30,
+            45
+        ]
+    },
+    "effects": [
+        {
+            "type": "spawn_group",
+            "amount": [
+                1,
+                1
+            ],
+            "group_type": "settlement",
+            "entity": "core_2_Rasimi_Archer",
+            "border_color": [
+                170,
+                128,
+                192
+            ]
+        }
+    ],
+    "extra_dialogues": ["core_2_practice_round"],
+    "interactions": [
+        {
+            "type": "conversation",
+            "id": "core_2_deliver_arrows",
+            "translation_id": 0,
+            "required_ingredients": [
+                {
+                    "id": "core_2_Bone_Arrow",
+                    "amount": 10
+                }
+            ],
+            "entities": [
+                "core_2_Rasimi_Archer"
+            ],
+            "label": "Deliver requested item.",
+            "reward": {
+                "gold": 50,
+                "skill_id": "core_2_hunting",
+                "exp": 20,
+                "remove_event": true
+            },
+            "history_event": "::name has delivered required goods to the Rasimi Archer!",
+            "announcement": "You have delivered required goods to the the Rasimi Archer of ::settlement!"
+        }
+    ],
+    "history_events": {
+        "begin": "A Rasimi Archer want to try something new in ::settlement.",
+        "success": "A Rasimi Archer can practice to their heart content.",
+        "failure": "A Rasimi Archer can't futher their skill for now."
+    }
+}

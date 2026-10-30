@@ -1,0 +1,40 @@
+{
+	"components": [
+		"glyph",
+		"item",
+		"minimap_pixel",
+		"name",
+		"position_2d",
+		"stackable",
+		"value",
+		"weight"
+	],
+	"description": "Easy to bend parts of a willow tree.",
+	"glyph": {
+		"frames": [
+			{
+				"color": [
+					255,
+					255,
+					255
+				],
+				"delay": 0,
+				"index": 2253
+			}
+		],
+		"random_frame_start": false
+	},
+	"id": "core_2_Wicker",
+	"item": {
+		"image": 945,
+		"type": 16
+	},
+	"minimap_pixel": [
+		171,
+		102,
+		57
+	],
+	"name": "Wicker",
+	"value": 50,
+	"weight": 0.10000000149011612
+}

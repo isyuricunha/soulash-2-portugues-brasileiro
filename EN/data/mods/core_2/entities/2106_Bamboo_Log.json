@@ -1,0 +1,73 @@
+{
+	"components": [
+		"glyph",
+		"item",
+		"minimap_pixel",
+		"name",
+		"position_2d",
+		"producer",
+		"resource",
+		"stackable",
+		"value",
+		"weight"
+	],
+	"description": "Light, cylindrical log of a bamboo tree.",
+	"glyph": {
+		"frames": [
+			{
+				"color": [
+					255,
+					255,
+					255
+				],
+				"delay": 0,
+				"index": 137
+			}
+		],
+		"random_frame_start": false
+	},
+	"id": "2106",
+	"item": {
+		"image": 524,
+		"type": 16
+	},
+	"minimap_pixel": [
+		171,
+		102,
+		57
+	],
+	"name": "Bamboo Log",
+	"producer": {
+		"products": {
+			"1": [
+				{
+					"amount": [
+						3,
+						5
+					],
+					"id": "2105",
+					"percent_chance": 100
+				}
+			],
+			"core_2_woodbend": [
+				{
+					"amount": [
+						4,
+						6
+					],
+					"id": "2105",
+					"percent_chance": 100
+				}
+			]
+		},
+		"time": 60
+	},
+	"resource": {
+		"affix": "",
+		"magic_ingredient": 0,
+		"quality": 0,
+		"type": 11
+	},
+	"value": 1300,
+	"weight": 20.0
+}

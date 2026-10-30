@@ -1,0 +1,28 @@
+{
+	"animation": "127",
+	"cast_time": 1.0,
+	"cooldown": 6.0,
+	"cost": {
+		"health": 0,
+		"stamina": 10
+	},
+	"description": "Shoots a ray of death from your finger at a straight line hitting first thing it comes in contact with for ::damage ::damage_type damage.",
+	"duration": 0.0,
+	"effects": {
+		"damage": [
+			20,
+			25
+		],
+		"damage_type": "death",
+		"magic_power_damage": 1.0
+	},
+	"id": "99",
+	"image": 112,
+	"name": "Death Ray",
+	"range": 8,
+	"skill": "core_2_necromancy",
+	"slots": {
+		"offensive": 4
+	},
+	"target": "line"
+}

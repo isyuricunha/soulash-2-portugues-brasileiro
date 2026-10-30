@@ -1,0 +1,67 @@
+{
+	"category_id": 7,
+	"components": [
+		"collidable",
+		"container",
+		"craftable",
+		"glyph",
+		"minimap_pixel",
+		"name",
+		"position_2d",
+		"producer"
+	],
+	"container": {
+		"capacity": 0,
+		"type": 3
+	},
+	"craftable": {
+		"backgrounds": [],
+		"biomes": [],
+		"magic_slots": 0,
+		"resources": [
+			{
+				"amount": 2,
+				"id": "62"
+			}
+		],
+		"time": 5,
+		"tools": []
+	},
+	"description": "This container helps store and share resources among faction members. Claim the region on the world map to create a new settlement and create a stash to access its storage.",
+	"glyph": {
+		"frames": [
+			{
+				"color": [
+					255,
+					255,
+					255
+				],
+				"delay": 0,
+				"index": 656
+			}
+		],
+		"random_frame_start": false
+	},
+	"id": "2207",
+	"minimap_pixel": [
+		71,
+		48,
+		17
+	],
+	"name": "Stash",
+	"producer": {
+		"products": {
+			"core_2_deconstruct": [
+				{
+					"amount": [
+						0,
+						0
+					],
+					"id": "",
+					"percent_chance": 0
+				}
+			]
+		},
+		"time": 30
+	}
+}

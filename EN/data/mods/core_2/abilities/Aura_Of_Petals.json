@@ -1,0 +1,22 @@
+{
+	"animation": "core_2_Aura_of_Petals",
+	"cast_time": 1.0,
+	"cooldown": 30.0,
+	"cost": {
+		"health": 0,
+		"stamina": 10
+	},
+	"description": "[color=192,176,27,255]Aura:[/color] ::aura\n\nThis aura activates every turn and lasts ::duration turns.",
+	"duration": 4.0,
+	"effects": null,
+	"effects_keys": {
+		"aura": "core_2_Aura_of_Petals_Trigger",
+		"magic_power_damage": 0.6
+	},
+	"id": "core_2_Aura_Of_Petals",
+	"image": 728,
+	"name": "Aura of Petals",
+	"range": 0,
+	"skill": "core_2_floromancy",
+	"target": "self"
+}

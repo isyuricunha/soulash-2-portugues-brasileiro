@@ -1,0 +1,76 @@
+{
+	"components": [
+		"glyph",
+		"health",
+		"item",
+		"minimap_pixel",
+		"name",
+		"position_2d",
+		"producer",
+		"resource",
+		"stackable",
+		"value",
+		"weight"
+	],
+	"corpse": "865",
+	"description": "Log is a tree with chopped branches. It can be very useful for building stuff. You might be able to produce some aspen wooden chunks from it.",
+	"glyph": {
+		"frames": [
+			{
+				"color": [
+					255,
+					255,
+					255
+				],
+				"delay": 0,
+				"index": 202
+			}
+		],
+		"random_frame_start": false
+	},
+	"health": 100,
+	"id": "866",
+	"item": {
+		"image": 391,
+		"type": 16
+	},
+	"minimap_pixel": [
+		196,
+		197,
+		194
+	],
+	"name": "Aspen Log",
+	"producer": {
+		"products": {
+			"1": [
+				{
+					"amount": [
+						3,
+						5
+					],
+					"id": "865",
+					"percent_chance": 100
+				}
+			],
+			"core_2_woodbend": [
+				{
+					"amount": [
+						4,
+						6
+					],
+					"id": "865",
+					"percent_chance": 100
+				}
+			]
+		},
+		"time": 30
+	},
+	"resource": {
+		"affix": "",
+		"magic_ingredient": 0,
+		"quality": 0,
+		"type": 11
+	},
+	"value": 2000,
+	"weight": 45.0
+}

@@ -1,0 +1,33 @@
+{
+	"id": "419",
+	"image": 162,
+	"name": "Forager",
+	"occupation_image": 17,
+	"occupation": "core_2_Troll_Forager",
+	"produces": [
+		{
+			"entities": [
+				{
+					"daily": 2,
+					"id": "343"
+				}
+			],
+			"takes": []
+		},
+		{
+			"entities": [
+				{
+					"daily": 2,
+					"id": "344"
+				}
+			],
+			"takes": []
+		}
+	],
+	"race": "7",
+	"tier": 1,
+	"workers": [
+		1,
+		3
+	]
+}

@@ -1,0 +1,85 @@
+{
+	"armor": {
+		"acid": 3,
+		"death": 2,
+		"electricity": 10,
+		"fire": 8,
+		"frost": 2,
+		"holy": 2,
+		"parry": 0,
+		"physical": 8,
+		"poison": 6,
+		"thorns": 0
+	},
+	"category_id": 7,
+	"components": [
+		"armor",
+		"collidable",
+		"craftable",
+		"glyph",
+		"health",
+		"height",
+		"minimap_pixel",
+		"name",
+		"position_2d",
+		"producer"
+	],
+	"corpse": [],
+	"craftable": {
+		"backgrounds": [],
+		"biomes": [],
+		"magic_slots": 0,
+		"resource_types": [
+			{
+				"amount": 3,
+				"id": 1
+			},
+			{
+				"amount": 1,
+				"id": 2
+			}
+		],
+		"resources": null,
+		"time": 50,
+		"tools": []
+	},
+	"description": "This chair is made entirely out of metal. It also has metal spikes on every surface and leather straps, so you can feel really cozy sitting on it. A classic torture device.",
+	"glyph": {
+		"frames": [
+			{
+				"color": [
+					255,
+					255,
+					255
+				],
+				"delay": 0,
+				"index": 2398
+			}
+		],
+		"random_frame_start": false
+	},
+	"health": 100,
+	"height": 0,
+	"id": "core_2_Iron_Chair",
+	"minimap_pixel": [
+		100,
+		74,
+		68
+	],
+	"name": "Iron Chair",
+	"producer": {
+		"products": {
+			"core_2_deconstruct": [
+				{
+					"amount": [
+						0,
+						0
+					],
+					"id": "",
+					"percent_chance": 0
+				}
+			]
+		},
+		"time": 40
+	}
+}

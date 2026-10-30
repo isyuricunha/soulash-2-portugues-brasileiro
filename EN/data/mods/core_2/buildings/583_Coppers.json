@@ -1,0 +1,16 @@
+{
+	"id": "583",
+	"image": 408,
+	"max": 1,
+	"name": "Coppers Barracks",
+	"occupation_image": 132,
+	"occupation": "core_2_Gnome_Copper",
+	"produces": [],
+	"race": "24",
+	"tier": 1,
+	"type": "military",
+	"workers": [
+		1,
+		20
+	]
+}

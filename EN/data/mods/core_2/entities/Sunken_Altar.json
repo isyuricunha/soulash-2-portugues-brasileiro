@@ -1,0 +1,53 @@
+{
+	"components": [
+		"collidable",
+		"glyph",
+		"health",
+		"height",
+		"minimap_pixel",
+		"name",
+		"position_2d",
+		"producer"
+	],
+	"corpse": "704",
+	"description": "An altar dredged from the swamp. The bronze heart can be destroyed here.",
+	"glyph": {
+		"frames": [
+			{
+				"color": [
+					255,
+					255,
+					255
+				],
+				"delay": 0,
+				"index": 3381
+			}
+		],
+		"random_frame_start": false
+	},
+	"health": 150,
+	"height": 0,
+	"id": "core_2_Sunken_Altar",
+	"minimap_pixel": [
+		220,
+		220,
+		220
+	],
+	"name": "Sunken Altar",
+	"producer": {
+		"delay_on_use": 1,
+		"products": {
+			"core_2_destroy_golem_heart": [
+				{
+					"amount": [
+						0,
+						0
+					],
+					"id": "",
+					"percent_chance": 0
+				}
+			]
+		},
+		"time": 20
+	}
+}

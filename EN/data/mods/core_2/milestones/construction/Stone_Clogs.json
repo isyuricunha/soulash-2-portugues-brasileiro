@@ -1,0 +1,16 @@
+{
+	"id": "core_2_stone_clogs",
+	"name": "Stone Clogs",
+	"requirements": {
+		"milestones": [],
+		"skill": 3
+	},
+	"rewards": [
+		{
+			"recipe": "core_2_Stone_Clogs"
+		}
+	],
+	"skill_id": "core_2_construction",
+	"steps": [],
+	"steps_type": 0
+}

@@ -1,0 +1,16 @@
+{
+	"id": "core_2_repentance",
+	"name": "Repentance",
+	"requirements": {
+		"milestones": [],
+		"skill": 36
+	},
+	"rewards": [
+		{
+			"ability": "core_2_Repentance"
+		}
+	],
+	"skill_id": "core_2_divine_fists",
+	"steps": [],
+	"steps_type": 0
+}

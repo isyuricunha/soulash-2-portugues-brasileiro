@@ -1,0 +1,16 @@
+{
+	"id": "core_2_well_informed",
+	"name": "Well Informed",
+	"requirements": {
+		"milestones": [],
+		"skill": 14
+	},
+	"rewards": [
+		{
+			"passive": "core_2_well_informed"
+		}
+	],
+	"skill_id": "core_2_adventuring",
+	"steps": [],
+	"steps_type": 0
+}

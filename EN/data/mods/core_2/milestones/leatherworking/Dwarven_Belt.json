@@ -1,0 +1,15 @@
+{
+	"id": "core_2_dwarven_belt",
+	"name": "Dwarven Belt",
+	"requirements": {
+		"skill": 49
+	},
+	"rewards": [
+		{
+			"recipe": "2223"
+		}
+	],
+	"skill_id": "core_2_leatherworking",
+	"steps": [],
+	"steps_type": 0
+}

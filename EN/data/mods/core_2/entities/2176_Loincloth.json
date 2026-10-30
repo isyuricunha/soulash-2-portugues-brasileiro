@@ -1,0 +1,66 @@
+{
+	"armor": {
+		"acid": 1,
+		"death": 0,
+		"electricity": 0,
+		"fire": 0,
+		"frost": 0,
+		"holy": 0,
+		"parry": 0,
+		"physical": 0,
+		"poison": 0
+	},
+	"components": [
+		"armor",
+		"craftable",
+		"glyph",
+		"item",
+		"minimap_pixel",
+		"name",
+		"position_2d",
+		"value",
+		"weight"
+	],
+	"craftable": {
+		"magic_slots": 1,
+		"resource_types": [
+			{
+				"amount": 1,
+				"id": 4
+			}
+		],
+		"resources": null,
+		"time": 20,
+		"tools": [
+			12
+		]
+	},
+	"description": "Two pieces of material held by the belt cover your front and back.",
+	"glyph": {
+		"frames": [
+			{
+				"color": [
+					255,
+					255,
+					255
+				],
+				"delay": 0,
+				"index": 548
+			}
+		],
+		"random_frame_start": false
+	},
+	"id": "2176",
+	"item": {
+		"image": 544,
+		"type": 8
+	},
+	"minimap_pixel": [
+		200,
+		200,
+		200
+	],
+	"name": "Loincloth",
+	"value": 100,
+	"weight": 0.30000001192092896
+}

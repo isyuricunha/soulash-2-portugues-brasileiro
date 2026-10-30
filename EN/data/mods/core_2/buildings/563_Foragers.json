@@ -1,0 +1,61 @@
+{
+	"id": "563",
+	"image": 387,
+	"name": "Foragers",
+	"occupation_image": 17,
+	"occupation": "core_2_Gnome_Forager",
+	"produces": [
+		{
+			"entities": [
+				{
+					"daily": 10,
+					"id": "812"
+				}
+			],
+			"takes": []
+		},
+		{
+			"entities": [
+				{
+					"daily": 10,
+					"id": "813"
+				}
+			],
+			"takes": []
+		},
+		{
+			"entities": [
+				{
+					"daily": 10,
+					"id": "814"
+				}
+			],
+			"takes": []
+		},
+		{
+			"entities": [
+				{
+					"daily": 20,
+					"id": "815"
+				}
+			],
+			"takes": []
+		},
+		{
+			"entities": [
+				{
+					"daily": 20,
+					"id": "2504"
+				}
+			],
+			"takes": []
+		}
+	],
+	"race": "24",
+	"max": 3,
+	"tier": 1,
+	"workers": [
+		1,
+		2
+	]
+}

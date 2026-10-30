@@ -1,0 +1,73 @@
+{
+	"components": [
+		"glyph",
+		"glyph_top",
+		"minimap_pixel",
+		"name",
+		"position_2d",
+		"producer",
+		"weight"
+	],
+	"description": "A small bush with starchy roots.",
+	"glyph": {
+		"frames": [
+			{
+				"color": [
+					255,
+					255,
+					255
+				],
+				"delay": 0,
+				"index": 2603
+			}
+		],
+		"random_frame_start": false,
+		"random_top": {
+			"colors": [
+				[
+					255,
+					255,
+					255
+				]
+			],
+			"count": 2,
+			"glyph_ids": [
+				2604
+			],
+			"max_alpha": 255,
+			"max_range": 3,
+			"wind": true
+		}
+	},
+	"id": "core_2_Potato_Plant",
+	"minimap_pixel": [
+		237,
+		145,
+		33
+	],
+	"name": "Potato Plant",
+	"producer": {
+		"products": {
+			"10": [
+				{
+					"amount": [
+						1,
+						3
+					],
+					"id": "core_2_Potato",
+					"percent_chance": 100
+				},
+				{
+					"amount": [
+						1,
+						2
+					],
+					"id": "core_2_Potato_Seed",
+					"percent_chance": 30
+				}
+			]
+		},
+		"time": 10
+	},
+	"weight": 0.10000000149011612
+}

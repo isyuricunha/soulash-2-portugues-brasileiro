@@ -1,0 +1,69 @@
+{
+	"armor": {
+		"acid": 1000,
+		"death": 1000,
+		"electricity": 1000,
+		"fire": 0,
+		"frost": 1000,
+		"holy": 1000,
+		"parry": 0,
+		"physical": 0,
+		"poison": 1000,
+		"thorns": 0
+	},
+	"background": {
+		"color": [
+			25,
+			75,
+			93
+		],
+		"movement_penalty": 0.5,
+		"noise": 8
+	},
+	"components": [
+		"armor",
+		"background",
+		"glyph",
+		"health",
+		"minimap_pixel",
+		"name",
+		"position_2d"
+	],
+	"corpse": [
+		{
+			"damage_type": 0,
+			"id": "core_2_Sea"
+		},
+		{
+			"damage_type": 1,
+			"id": "core_2_Sea"
+		},
+		{
+			"damage_type": 9,
+			"id": "228"
+		}
+	],
+	"description": "This water is frozen.",
+	"glyph": {
+		"frames": [
+			{
+				"color": [
+					255,
+					255,
+					255
+				],
+				"delay": 0,
+				"index": 2292
+			}
+		],
+		"random_frame_start": false
+	},
+	"health": 1,
+	"id": "core_2_Frozen_Sea",
+	"minimap_pixel": [
+		25,
+		75,
+		93
+	],
+	"name": "Frozen Sea"
+}

@@ -1,0 +1,69 @@
+{
+  "windows_tests": {
+    "storage_and_native": 5,
+    "project_flow": 4,
+    "http_client": 4,
+    "consent": 1,
+    "publishing_scenarios": 4
+  },
+  "verified": [
+    "500 small updates across 101 files",
+    "bounded retention",
+    "crash recovery",
+    "native fixture reconstruction",
+    "incremental source invalidation",
+    "incomplete build refusal",
+    "output and source tampering refusal",
+    "ZIP native paths",
+    "mock first and patch releases",
+    "idempotence",
+    "draft recovery",
+    "unexpected asset refusal",
+    "private history bundle verification",
+    "11547 archived file hashes",
+    "Windows doctor"
+  ],
+  "pending": [
+    "final full specification audit",
+    "rendered README preview when renderer available",
+    "live Ubuntu ARM64 preflight (handoff)",
+    "live game and GitHub tests not performed"
+  ],
+  "toolkit_complete": false,
+  "consolidated_suite": {
+    "tests": 31,
+    "seconds": 196.752,
+    "result": "passed"
+  },
+  "native_roundtrip": {
+    "files": 5987,
+    "entries": 29434,
+    "result": "passed"
+  },
+  "additional_evidence": [
+    "actual corpus roundtrip 5987 files / 29434 units",
+    "doctor readonly fixture",
+    "source inventory change rejection",
+    "overwrite guard",
+    "consent positive and negative",
+    "publishing suite 16 tests passed",
+    "source profile real dry-run unchanged",
+    "source profile modified fixture refusal",
+    "workflow wiring release and consent",
+    "symlink attribute guard fixture passed",
+    "release notes UTF-8 corrected and regression passed",
+    "permanent migration ZIP and Git bundle regression passed",
+    "changed source retains previous PTBR in durable history"
+  ],
+  "scale_apply": {
+    "payloads": 500,
+    "batches": 101,
+    "result": "passed",
+    "seconds": 374.309
+  },
+  "migration_public_comparison": {
+    "additional_reuse": 0,
+    "result": "completed",
+    "legacy_tree_preserved": true
+  }
+}

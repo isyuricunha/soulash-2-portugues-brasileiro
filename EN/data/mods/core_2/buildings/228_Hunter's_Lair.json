@@ -1,0 +1,67 @@
+{
+	"id": "228",
+	"image": 216,
+	"name": "Hunter's Lair",
+	"occupation_image": 1,
+	"occupation": "core_2_Reptilion_Hunter",
+	"produces": [
+		{
+			"entities": [
+				{
+					"daily": 3,
+					"id": "318"
+				},
+				{
+					"daily": 1,
+					"id": "2151"
+				}
+			],
+			"takes": []
+		},
+		{
+			"entities": [
+				{
+					"daily": 3,
+					"id": "318"
+				},
+				{
+					"daily": 1,
+					"id": "2134"
+				}
+			],
+			"takes": []
+		},
+		{
+			"entities": [
+				{
+					"daily": 3,
+					"id": "318"
+				},
+				{
+					"daily": 1,
+					"id": "2149"
+				}
+			],
+			"takes": []
+		},
+		{
+			"entities": [
+				{
+					"daily": 3,
+					"id": "318"
+				},
+				{
+					"daily": 1,
+					"id": "2429"
+				}
+			],
+			"takes": []
+		}
+	],
+	"race": "23",
+	"tier": 1,
+	"workers": [
+		1,
+		3
+	]
+}

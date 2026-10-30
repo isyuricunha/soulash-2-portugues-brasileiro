@@ -1,0 +1,16 @@
+{
+	"id": "core_2_composite_bow",
+	"name": "Composite Bow",
+	"requirements": {
+		"milestones": [],
+		"skill": 43
+	},
+	"rewards": [
+		{
+			"recipe": "105"
+		}
+	],
+	"skill_id": "core_2_carpentry",
+	"steps": [],
+	"steps_type": 0
+}

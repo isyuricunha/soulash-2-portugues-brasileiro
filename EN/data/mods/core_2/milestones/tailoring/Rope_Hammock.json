@@ -1,0 +1,16 @@
+{
+	"id": "core_2_rope_hammock",
+	"name": "Rope Hammock",
+	"requirements": {
+		"milestones": [],
+		"skill": 9
+	},
+	"rewards": [
+		{
+			"recipe": "core_2_Rope_Hammock"
+		}
+	],
+	"skill_id": "core_2_tailoring",
+	"steps": [],
+	"steps_type": 0
+}

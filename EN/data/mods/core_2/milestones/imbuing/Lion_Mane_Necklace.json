@@ -1,0 +1,16 @@
+{
+	"id": "core_2_lion_mane_necklace",
+	"name": "Lion Mane Necklace",
+	"requirements": {
+		"milestones": [],
+		"skill": 43
+	},
+	"rewards": [
+		{
+			"recipe": "core_2_Lion_Mane_Necklace"
+		}
+	],
+	"skill_id": "core_2_imbuing",
+	"steps": [],
+	"steps_type": 0
+}

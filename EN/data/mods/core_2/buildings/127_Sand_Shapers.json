@@ -1,0 +1,25 @@
+{
+	"id": "127",
+	"image": 97,
+	"max": 1,
+	"name": "Sand Shapers",
+	"occupation_image": 71,
+	"occupation": "2383",
+	"produces": [
+		{
+			"entities": [
+				{
+					"daily": 1,
+					"id": "2368"
+				}
+			],
+			"takes": "craftable"
+		}
+	],
+	"race": "26",
+	"tier": 2,
+	"workers": [
+		1,
+		2
+	]
+}

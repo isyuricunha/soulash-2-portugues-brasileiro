@@ -1,0 +1,102 @@
+{
+    "id": "core_2_mushman_putrid_circle",
+    "name": "The Putrid Circle",
+    "category": "settlement",
+    "flavor": "Deep in the wilds, mushman druids have gathered to perform the ancient ritual, calling forth the rot that sustains all life.",
+    "icon": 11,
+    "small_icon": 11,
+    "rarity": "uncommon",
+    "restrict_races": [
+        "32"
+    ],
+    "trigger": {
+        "base_probability": 0.004,
+        "conditions": [
+            {
+                "type": "settlement_population_min",
+                "value": 60
+            },
+            {
+                "type": "settlement_tier_min",
+                "value": 2
+            }
+        ]
+    },
+    "duration": {
+        "type": "temporary",
+        "days": [
+            60,
+            90
+        ]
+    },
+    "effects": [
+        {
+            "type": "spawn_group",
+            "amount": [
+                1,
+                1
+            ],
+            "group_type": "settlement",
+            "entity": "core_2_Mushman_Circle_Druid",
+            "border_color": [
+                170,
+                128,
+                192
+            ]
+        }
+    ],
+    "extra_dialogues": ["core_2_putrid_circle"],
+    "interactions": [
+        {
+            "type": "conversation",
+            "id": "core_2_deliver_druid_goods",
+            "translation_id": 0,
+            "required_ingredients": [
+                {
+                    "id": "384",
+                    "amount": 2
+                },
+                {
+                    "id": "core_2_Druidic_Robe",
+                    "amount": 5
+                }
+            ],
+            "entities": [
+                "core_2_Mushman_Circle_Druid"
+            ],
+            "trigger_event": "core_2_herald_of_rot",
+            "label": "Deliver requested items.",
+            "reward": {
+                "gold": 1000,
+                "remove_event": true,
+                "skill_id": "core_2_floromancy",
+                "exp": 120,
+                "items": [
+                    { "id": "core_2_Book_of_Floromancy", "amount": 1 },
+                    { "id": "core_2_Mycelium_Spores", "amount": 4 }
+                ]
+            },
+            "history_event": "::name has delivered required goods to the Mushmen druids!",
+            "announcement": "You have delivered required goods to the Mushmen druids of ::settlement!"
+        },
+        {
+            "type": "expiration",
+            "translation_id": 1,
+            "chance": 10,
+            "trigger_event": "core_2_herald_of_rot",
+            "history_event": "The Putrid Circle ritual failed and the rot has escaped it's confines!"
+        },
+        {
+            "type": "expiration",
+            "translation_id": 2,
+            "chance": 20,
+            "trigger_event": "core_2_plague_outbreak",
+            "history_event": "The failed Putrid Circle ritual has left behind festering rot that now spreads as plague!"
+        }
+    ],
+    "history_events": {
+        "begin": "Aspiring mushman druids have formed a Putrid Circle near ::settlement, beginning their ancient ritual.",
+        "success": "The Putrid Circle ritual was completed successfully. The rot blossoms and the mushman rejoice.",
+        "failure": "The ritual has called forth something ancient. A foul presence stirs in the wilds nearby, drawn by the druids chanting."
+    }
+}

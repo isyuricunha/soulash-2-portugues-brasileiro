@@ -1,0 +1,16 @@
+{
+	"id": "core_2_frozen_tear",
+	"name": "Frozen Tear",
+	"requirements": {
+		"milestones": [],
+		"skill": 2
+	},
+	"rewards": [
+		{
+			"recipe": "core_2_Frozen_Tear"
+		}
+	],
+	"skill_id": "core_2_imbuing",
+	"steps": [],
+	"steps_type": 0
+}

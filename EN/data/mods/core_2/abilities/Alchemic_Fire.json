@@ -1,0 +1,32 @@
+{
+	"animation": "176",
+	"cast_time": 0.699999988079071,
+	"cooldown": 8.0,
+	"cost": {
+		"health": 0,
+		"stamina": 0
+	},
+	"description": "Throw an exploding vial of alchemical fire that explodes in radius of ::aoe_range and deals ::damage ::damage_type damage, applies burn effect for ::burn turns and creates ::summon_count ::summon.",
+	"duration": 3.0,
+	"effects": {
+		"aoe_break": 1,
+		"aoe_range": 3,
+		"aoe_shape": 1,
+		"burn": 3,
+		"damage": [
+			15,
+			20
+		],
+		"damage_type": "fire",
+		"summon_count": 10
+	},
+	"effects_keys": {
+		"summon": "561"
+	},
+	"id": "136",
+	"image": 338,
+	"name": "Alchemic Fire",
+	"range": 7,
+	"skill": "",
+	"target": "aoe_target"
+}

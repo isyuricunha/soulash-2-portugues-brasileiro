@@ -1,0 +1,42 @@
+{
+	"background": {
+		"color": [
+			44,
+			45,
+			41
+		],
+		"noise": 3,
+		"noise_intensity": 6
+	},
+	"components": [
+		"background",
+		"glyph",
+		"health",
+		"minimap_pixel",
+		"name"
+	],
+	"corpse": [],
+	"description": "Looks like nobody visited this place for a long time.",
+	"glyph": {
+		"frames": [
+			{
+				"color": [
+					255,
+					255,
+					255
+				],
+				"delay": 0,
+				"index": 2877
+			}
+		],
+		"random_frame_start": false
+	},
+	"health": 1,
+	"id": "core_2_Dusty_Wooden_Floor",
+	"minimap_pixel": [
+		61,
+		38,
+		7
+	],
+	"name": "Dusty Wooden Floor"
+}

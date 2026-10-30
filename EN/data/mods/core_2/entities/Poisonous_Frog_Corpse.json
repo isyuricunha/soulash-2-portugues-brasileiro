@@ -1,0 +1,53 @@
+{
+	"components": [
+		"glyph",
+		"item",
+		"minimap_pixel",
+		"name",
+		"position_2d",
+		"producer",
+		"weight"
+	],
+	"description": "Lifless body of a poisonous frog.",
+	"glyph": {
+		"frames": [
+			{
+				"color": [
+					255,
+					255,
+					255
+				],
+				"delay": 0,
+				"index": 2128
+			}
+		],
+		"random_frame_start": false
+	},
+	"id": "core_2_Poisonous_Frog_Corpse",
+	"item": {
+		"image": 871,
+		"type": 18
+	},
+	"minimap_pixel": [
+		66,
+		160,
+		5
+	],
+	"name": "Poisonous Frog Corpse",
+	"producer": {
+		"products": {
+			"3": [
+				{
+					"amount": [
+						1,
+						1
+					],
+					"id": "core_2_Frog_Poison",
+					"percent_chance": 100
+				}
+			]
+		},
+		"time": 10
+	},
+	"weight": 10.0
+}

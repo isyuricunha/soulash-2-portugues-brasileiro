@@ -1,0 +1,87 @@
+{
+	"armor": {
+		"acid": 0,
+		"death": 0,
+		"electricity": 5,
+		"fire": 10,
+		"frost": -5,
+		"holy": 5,
+		"parry": 0,
+		"physical": 10,
+		"poison": -10,
+		"thorns": 0
+	},
+	"category_id": 6,
+	"components": [
+		"armor",
+		"collidable",
+		"craftable",
+		"glyph",
+		"health",
+		"liquid_source",
+		"minimap_pixel",
+		"name",
+		"position_2d",
+		"producer"
+	],
+	"corpse": "35",
+	"craftable": {
+		"backgrounds": [],
+		"biomes": [],
+		"magic_slots": 0,
+		"resource_types": [
+			{
+				"amount": 4,
+				"id": 6
+			},
+			{
+				"amount": 2,
+				"id": 3
+			}
+		],
+		"time": 20,
+		"tools": []
+	},
+	"description": "This well is carefully carved with leaves and flowers. Source of water. You can quench your thirst here or fill your containers.",
+	"glyph": {
+		"frames": [
+			{
+				"color": [
+					255,
+					255,
+					255
+				],
+				"delay": 0,
+				"index": 3533
+			}
+		],
+		"random_frame_start": false
+	},
+	"health": 100,
+	"id": "core_2_Decorated__Water_Well",
+	"liquid_source": {
+		"limit": -1,
+		"type": 1
+	},
+	"minimap_pixel": [
+		64,
+		66,
+		71
+	],
+	"name": "Decorated  Water Well",
+	"producer": {
+		"products": {
+			"core_2_deconstruct": [
+				{
+					"amount": [
+						0,
+						0
+					],
+					"id": "",
+					"percent_chance": 0
+				}
+			]
+		},
+		"time": 30
+	}
+}

@@ -1,0 +1,16 @@
+{
+	"id": "core_2_bone_shin_armor",
+	"name": "Bone Shin Armor",
+	"requirements": {
+		"milestones": [],
+		"skill": 18
+	},
+	"rewards": [
+		{
+			"recipe": "core_2_Bone_Greaves"
+		}
+	],
+	"skill_id": "core_2_armorsmith",
+	"steps": [],
+	"steps_type": 0
+}

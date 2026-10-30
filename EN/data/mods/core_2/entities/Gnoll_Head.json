@@ -1,0 +1,42 @@
+{
+	"components": [
+		"glyph",
+		"item",
+		"minimap_pixel",
+		"name",
+		"position_2d",
+		"usable",
+		"weight"
+	],
+	"description": "A head of a dead gnoll. Might still hold to some memories.",
+	"glyph": {
+		"frames": [
+			{
+				"color": [
+					255,
+					255,
+					255
+				],
+				"delay": 0,
+				"index": 2859
+			}
+		],
+		"random_frame_start": false
+	},
+	"id": "core_2_Gnoll_Head",
+	"item": {
+		"image": 1303,
+		"type": 32
+	},
+	"minimap_pixel": [
+		156,
+		160,
+		161
+	],
+	"name": "Gnoll Head",
+	"usable": {
+		"ability": "36",
+		"recipe": ""
+	},
+	"weight": 2.5
+}

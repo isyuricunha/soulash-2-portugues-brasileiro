@@ -1,0 +1,15 @@
+{
+	"id": "core_2_local_craftsman",
+	"name": "Local Craftsman",
+	"requirements": {
+		"skill": 23
+	},
+	"rewards": [
+		{
+			"passive": "core_2_local_craftsman"
+		}
+	],
+	"skill_id": "core_2_economy",
+	"steps": [],
+	"steps_type": 0
+}

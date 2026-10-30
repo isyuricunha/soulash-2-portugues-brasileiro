@@ -1,0 +1,15 @@
+{
+	"id": "core_2_efficient_transporter_1",
+	"name": "Efficient Transporter I",
+	"requirements": {
+		"skill": 17
+	},
+	"rewards": [
+		{
+			"passive": "core_2_efficient_transporter_1"
+		}
+	],
+	"skill_id": "core_2_economy",
+	"steps": [],
+	"steps_type": 0
+}

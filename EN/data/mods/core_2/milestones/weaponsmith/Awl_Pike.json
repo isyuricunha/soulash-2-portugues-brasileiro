@@ -1,0 +1,16 @@
+{
+	"id": "core_2_awl_pike",
+	"name": "Awl Pike",
+	"requirements": {
+		"milestones": [],
+		"skill": 37
+	},
+	"rewards": [
+		{
+			"recipe": "core_2_Awl_Pike"
+		}
+	],
+	"skill_id": "core_2_weaponsmith",
+	"steps": [],
+	"steps_type": 0
+}

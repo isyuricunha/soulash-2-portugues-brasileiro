@@ -1,0 +1,19 @@
+{
+	"id": "core_2_vase",
+	"name": "Vase",
+	"requirements": {
+		"milestones": [],
+		"skill": 13
+	},
+	"rewards": [
+		{
+			"recipe": "core_2_Large_Vase"
+		},
+		{
+			"recipe": "core_2_Flower_Vase"
+		}
+	],
+	"skill_id": "core_2_construction",
+	"steps": [],
+	"steps_type": 0
+}

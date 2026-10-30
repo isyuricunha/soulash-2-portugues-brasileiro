@@ -1,0 +1,36 @@
+{
+    "id": "core_2_shadow_wolf_migration",
+    "name": "Shadow Wolf Migration",
+    "category": "wilderness",
+    "flavor": "A pack of wolves is sometimes seen moving through the forest like shadows. This is said to be a harbinger of some misfortune about to befall the area. It's better to leave them alone.",
+    "icon": 0,
+    "small_icon": 0,
+    "rarity": "common",
+    "restrict_biomes": ["forest"],
+    "trigger": {
+        "base_probability": 0.3
+    },
+    "duration": {
+        "type": "temporary",
+        "days": [
+            3,
+            8
+        ]
+    },
+    "max_per_region": 1,
+    "effects": [
+        {
+            "type": "migrate_group",
+            "entity": "core_2_Shadow_Wolf",
+            "amount": [
+                10,
+                15
+            ],
+            "spawn_behaviors": [23]
+        }
+    ],
+    "history_events": {
+        "begin": "A pack of shadow wolfs has been spotted moving through the forest.",
+        "end": "A pack of shadow wolfs vanished as suddenly as it had appeared."
+    }
+}

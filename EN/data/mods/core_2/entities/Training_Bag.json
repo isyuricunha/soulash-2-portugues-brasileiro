@@ -1,0 +1,76 @@
+{
+	"armor": {
+		"acid": 0,
+		"death": 0,
+		"electricity": 0,
+		"fire": -20,
+		"frost": 0,
+		"holy": 0,
+		"parry": 0,
+		"physical": 2,
+		"poison": 1000,
+		"thorns": 0
+	},
+	"components": [
+		"armor",
+		"collidable",
+		"glyph",
+		"health",
+		"minimap_pixel",
+		"name",
+		"position_2d",
+		"producer"
+	],
+	"corpse": [
+		{
+			"damage_type": 0,
+			"id": "843"
+		},
+		{
+			"damage_type": 8,
+			"id": "843"
+		},
+		{
+			"damage_type": 9,
+			"id": "843"
+		}
+	],
+	"description": "Big leather bag stuffed with sand. Perfect for practicing punches.",
+	"glyph": {
+		"frames": [
+			{
+				"color": [
+					255,
+					255,
+					255
+				],
+				"delay": 86400000,
+				"index": 3326
+			}
+		],
+		"random_frame_start": true
+	},
+	"health": 10000,
+	"id": "core_2_Training_Bag",
+	"minimap_pixel": [
+		71,
+		48,
+		17
+	],
+	"name": "Training Bag",
+	"producer": {
+		"products": {
+			"core_2_deconstruct": [
+				{
+					"amount": [
+						0,
+						0
+					],
+					"id": "",
+					"percent_chance": 100
+				}
+			]
+		},
+		"time": 20
+	}
+}

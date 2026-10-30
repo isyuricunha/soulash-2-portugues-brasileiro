@@ -1,0 +1,102 @@
+{
+	"background": {
+		"color": [
+			0,
+			0,
+			0
+		],
+		"noise": 4
+	},
+	"category_id": 4,
+	"components": [
+		"background",
+		"craftable",
+		"glyph",
+		"map_connector",
+		"minimap_pixel",
+		"name",
+		"position_2d",
+		"producer"
+	],
+	"craftable": {
+		"backgrounds": [],
+		"biomes": [],
+		"magic_slots": 0,
+		"resource_types": [
+			{
+				"amount": 1,
+				"id": 6
+			}
+		],
+		"time": 20,
+		"tools": []
+	},
+	"description": "Stone blocks built to form a staircase leading up.",
+	"glyph": {
+		"frames": [
+			{
+				"color": [
+					255,
+					255,
+					255
+				],
+				"delay": 160,
+				"index": 235
+			},
+			{
+				"color": [
+					255,
+					255,
+					255
+				],
+				"delay": 260,
+				"index": 3497
+			},
+			{
+				"color": [
+					255,
+					255,
+					255
+				],
+				"delay": 260,
+				"index": 3499
+			},
+			{
+				"color": [
+					255,
+					255,
+					255
+				],
+				"delay": 260,
+				"index": 3497
+			}
+		],
+		"random_frame_start": false
+	},
+	"id": "420",
+	"map_connector": {
+		"opposite_connector": "419",
+		"z_level": 1
+	},
+	"minimap_pixel": [
+		74,
+		83,
+		92
+	],
+	"name": "Ascending Stone Stairs",
+	"producer": {
+		"products": {
+			"core_2_deconstruct": [
+				{
+					"amount": [
+						0,
+						0
+					],
+					"id": "",
+					"percent_chance": 0
+				}
+			]
+		},
+		"time": 40
+	}
+}

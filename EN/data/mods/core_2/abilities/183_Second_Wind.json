@@ -1,0 +1,27 @@
+{
+	"animation": "234",
+	"cast_time": 1.0,
+	"cooldown": 999.0,
+	"cost": {
+		"health": 0,
+		"stamina": 0
+	},
+	"description": "Find new strength to push through during a tough battle. Immediately regain ::stamina Stamina and ::heal health.",
+	"duration": 0.0,
+	"effects": {
+		"heal": [
+			400,
+			500
+		],
+		"stamina": 100
+	},
+	"id": "183",
+	"image": 619,
+	"name": "Second Wind",
+	"range": 0,
+	"skill": "core_2_athletics",
+	"slots": {
+		"utility": 4
+	},
+	"target": "self"
+}

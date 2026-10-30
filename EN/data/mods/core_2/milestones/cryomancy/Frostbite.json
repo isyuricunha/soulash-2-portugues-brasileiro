@@ -1,0 +1,16 @@
+{
+	"id": "core_2_frostbite",
+	"name": "Frostbite",
+	"requirements": {
+		"milestones": [],
+		"skill": 9
+	},
+	"rewards": [
+		{
+			"amplifier": "core_2_frostbite"
+		}
+	],
+	"skill_id": "core_2_cryomancy",
+	"steps": [],
+	"steps_type": 0
+}

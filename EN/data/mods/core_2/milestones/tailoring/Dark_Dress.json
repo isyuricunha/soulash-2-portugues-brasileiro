@@ -1,0 +1,16 @@
+{
+	"id": "core_2_dark_dress",
+	"name": "Dark Dress",
+	"requirements": {
+		"milestones": [],
+		"skill": 16
+	},
+	"rewards": [
+		{
+			"recipe": "core_2_Dark_Dress"
+		}
+	],
+	"skill_id": "core_2_tailoring",
+	"steps": [],
+	"steps_type": 0
+}

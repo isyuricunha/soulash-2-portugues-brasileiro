@@ -1,0 +1,68 @@
+{
+    "id": "core_2_hermit_camp",
+    "name": "Hermit Camp",
+    "category": "wilderness",
+    "flavor": "A small camp has been erected in the wilds by a group of wandering outcasts. They keep to themselves, minding their fire and their meager possessions, rarely straying far from their shelter.",
+    "icon": 0,
+    "small_icon": 0,
+    "rarity": "uncommon",
+    "trigger": {
+        "base_probability": 0.15
+    },
+    "duration": {
+        "type": "temporary",
+        "days": [
+            15,
+            45
+        ]
+    },
+    "buildings": [
+        {
+            "building_id": "556",
+            "placement": "map_edge",
+            "lair_only": true
+        }
+    ],
+    "max_per_region": 1,
+    "effects": [
+        {
+            "type": "roaming_spawn",
+            "entity": "core_2_Hermit",
+            "amount": [
+                2,
+                4
+            ],
+            "spawn_behaviors": [],
+            "trade_list": [
+                {
+                    "id": "core_2_Mint_Leaves",
+                    "amount": 3
+                },
+                {
+                    "id": "core_2_Camomile_Flower",
+                    "amount": 3
+                },
+                {
+                    "id": "core_2_Datura_Flower",
+                    "amount": 5
+                },
+                {
+                    "id": "core_2_Buutercap_Flower",
+                    "amount": 4
+                },
+                {
+                    "id": "core_2_Lovage_Leaves",
+                    "amount":3
+                },
+                {
+                    "id": "core_2_Poppy_Seed",
+                    "amount": 2
+                }
+            ]
+        }
+    ],
+    "history_events": {
+        "begin": "A small camp of hermits has appeared in this region.",
+        "end": "The hermits pack up and vanish into the wilds."
+    }
+}

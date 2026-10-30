@@ -1,0 +1,25 @@
+{
+	"id": "573",
+	"image": 396,
+	"max": 1,
+	"name": "Potter",
+	"occupation_image": 43,
+	"occupation": "core_2_Gnome_Potter",
+	"produces": [
+		{
+			"entities": [
+				{
+					"daily": 1,
+					"id": "832"
+				}
+			],
+			"takes": "craftable"
+		}
+	],
+	"race": "24",
+	"tier": 2,
+	"workers": [
+		1,
+		2
+	]
+}

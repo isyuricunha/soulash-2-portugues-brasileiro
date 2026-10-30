@@ -1,0 +1,153 @@
+{
+	"armor": {
+		"acid": 1000,
+		"death": 1000,
+		"electricity": 1000,
+		"fire": 1000,
+		"frost": 0,
+		"holy": 1000,
+		"parry": 0,
+		"physical": 1000,
+		"poison": 1000,
+		"thorns": 0
+	},
+	"background": {
+		"color": [
+			44,
+			45,
+			41
+		],
+		"movement_penalty": 0.8999999761581421,
+		"noise": 5,
+		"noise_intensity": 7
+	},
+	"components": [
+		"armor",
+		"background",
+		"glyph",
+		"health",
+		"liquid_source",
+		"minimap_pixel",
+		"name",
+		"on_enter",
+		"position_2d",
+		"producer",
+		"water"
+	],
+	"corpse": [
+		{
+			"damage_type": 2,
+			"id": "973"
+		},
+		{
+			"damage_type": 9,
+			"id": "974"
+		}
+	],
+	"description": "A river runs through here. Why not catch some fish? You're pretty sure your children aren't in a hurry to reunite with you.",
+	"glyph": {
+		"frames": [
+			{
+				"color": [
+					255,
+					255,
+					255
+				],
+				"delay": 300,
+				"index": 7
+			},
+			{
+				"color": [
+					255,
+					255,
+					255
+				],
+				"delay": 200,
+				"index": 939
+			},
+			{
+				"color": [
+					255,
+					255,
+					255
+				],
+				"delay": 200,
+				"index": 940
+			},
+			{
+				"color": [
+					255,
+					255,
+					255
+				],
+				"delay": 200,
+				"index": 941
+			}
+		],
+		"random_frame_start": false
+	},
+	"health": 1,
+	"id": "974",
+	"liquid_source": {
+		"limit": -1,
+		"type": 1
+	},
+	"minimap_pixel": [
+		30,
+		90,
+		128
+	],
+	"name": "River",
+	"on_enter": {
+		"ability": [
+			"88",
+			"89"
+		],
+		"only_player_triggers": false,
+		"teleport": null,
+		"trigger_chance": 1.0
+	},
+	"producer": {
+		"delay_on_use": 1440,
+		"products": {
+			"4": [
+				{
+					"amount": [
+						1,
+						1
+					],
+					"id": "122",
+					"percent_chance": 15
+				},
+				{
+					"amount": [
+						1,
+						1
+					],
+					"id": "123",
+					"percent_chance": 15
+				},
+				{
+					"amount": [
+						1,
+						1
+					],
+					"id": "124",
+					"percent_chance": 15
+				},
+				{
+					"amount": [
+						1,
+						1
+					],
+					"id": "125",
+					"percent_chance": 5
+				}
+			]
+		},
+		"time": 20
+	},
+	"water": {
+		"swimming": true
+	}
+}

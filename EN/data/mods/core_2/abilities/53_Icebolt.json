@@ -1,0 +1,25 @@
+{
+	"animation": "51",
+	"cast_time": 1.0,
+	"cooldown": 0.0,
+	"cost": {
+		"health": 0,
+		"stamina": 4
+	},
+	"description": "Throws an icicle at a single target that deals ::damage ::damage_type damage.",
+	"duration": 0.0,
+	"effects": {
+		"damage": [
+			0,
+			2
+		],
+		"damage_type": "frost",
+		"damage_weapon": 1.0
+	},
+	"id": "53",
+	"image": 161,
+	"level": 2,
+	"name": "Icebolt",
+	"range": 8,
+	"target": "line"
+}

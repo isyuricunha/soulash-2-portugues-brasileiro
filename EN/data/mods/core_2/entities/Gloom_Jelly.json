@@ -1,0 +1,105 @@
+{
+	"ability_user": [
+		"10"
+	],
+	"artificial_intelligence": {
+		"allies": [],
+		"allow_production": [],
+		"behaviors": [],
+		"enemies": [
+			"5"
+		]
+	},
+	"components": [
+		"ability_user",
+		"actor",
+		"artificial_intelligence",
+		"collidable",
+		"dialogues",
+		"experience_gainer",
+		"fighter",
+		"glyph",
+		"health",
+		"minimap_pixel",
+		"moveable",
+		"name",
+		"position_2d",
+		"sight",
+		"stamina",
+		"statistics",
+		"tags"
+	],
+	"corpse": [],
+	"description": "A small, gelatinous fragment of a larger creature—yet still dangerous.",
+	"dialogues": [],
+	"experience_gainer": {
+		"exp": 0,
+		"level": 20
+	},
+	"fighter": {
+		"attackNames": [
+			"Tentacle"
+		]
+	},
+	"glyph": {
+		"frames": [
+			{
+				"color": [
+					255,
+					255,
+					255
+				],
+				"delay": 0,
+				"index": 558
+			}
+		],
+		"random_frame_start": false
+	},
+	"health": 150,
+	"id": "core_2_Gloom_Jelly",
+	"minimap_pixel": [
+		228,
+		212,
+		105
+	],
+	"moveable": {
+		"speed": 0.8999999761581421
+	},
+	"name": "Gloom Jelly",
+	"sight": {
+		"ignore_infra_penalty": false,
+		"infravision": true,
+		"range": 7,
+		"threesixty": false
+	},
+	"stamina": {
+		"fatigue": 100,
+		"stamina": 100,
+		"stamina_regen": 0.0
+	},
+	"statistics": {
+		"dexterity": [
+			13,
+			19
+		],
+		"endurance": [
+			25,
+			29
+		],
+		"intelligence": [
+			25,
+			28
+		],
+		"strength": [
+			17,
+			21
+		],
+		"willpower": [
+			20,
+			23
+		]
+	},
+	"tags": [
+		"17"
+	]
+}

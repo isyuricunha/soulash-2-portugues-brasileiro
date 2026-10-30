@@ -1,0 +1,16 @@
+{
+	"id": "core_2_yew_sapling",
+	"name": "Yew Tree Sapling",
+	"requirements": {
+		"milestones": [],
+		"skill": 21
+	},
+	"rewards": [
+		{
+			"recipe": "3107"
+		}
+	],
+	"skill_id": "core_2_agriculture",
+	"steps": [],
+	"steps_type": 0
+}

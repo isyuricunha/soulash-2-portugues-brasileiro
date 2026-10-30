@@ -1,0 +1,57 @@
+{
+	"category_id": 7,
+	"components": [
+		"block_light",
+		"collidable",
+		"craftable",
+		"glyph",
+		"minimap_pixel",
+		"name",
+		"position_2d"
+	],
+	"craftable": {
+		"backgrounds": [],
+		"biomes": [],
+		"magic_slots": 0,
+		"resource_types": [
+			{
+				"amount": 2,
+				"id": 1
+			},
+			{
+				"amount": 2,
+				"id": 10
+			}
+		],
+		"resources": [
+			{
+				"amount": 1,
+				"id": "2368"
+			}
+		],
+		"time": 30,
+		"tools": []
+	},
+	"description": "This large, blackened cauldron is made entirely of interlocking bones bound together with shells. Bone wraiths use it in a dark and mysterious ritual to create new beings of their own kind. The cauldron's interior is filled with a steaming, bubbling liquid that emits a spicy, earthy aroma. Bones and other mysterious ingredients are thrown into the cauldron, where they are boiled during the ritual creating new bone wraiths.",
+	"glyph": {
+		"frames": [
+			{
+				"color": [
+					255,
+					255,
+					255
+				],
+				"delay": 0,
+				"index": 16
+			}
+		],
+		"random_frame_start": false
+	},
+	"id": "2409",
+	"minimap_pixel": [
+		115,
+		111,
+		146
+	],
+	"name": "Bone Cauldron"
+}

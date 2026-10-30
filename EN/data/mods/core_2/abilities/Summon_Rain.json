@@ -1,0 +1,21 @@
+{
+	"animation": "core_2_Summon_rain",
+	"cast_time": 1.0,
+	"cooldown": 100.0,
+	"cost": {
+		"health": 0,
+		"stamina": 10
+	},
+	"description": "Summons rain for ::duration turns in the area.",
+	"duration": 50.0,
+	"effects": null,
+	"effects_keys": {
+		"summon_weather": "1"
+	},
+	"id": "core_2_Summon_Rain",
+	"image": 739,
+	"name": "Summon Rain",
+	"range": 0,
+	"skill": "core_2_cryomancy",
+	"target": "self"
+}

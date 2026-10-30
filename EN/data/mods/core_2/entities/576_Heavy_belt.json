@@ -1,0 +1,68 @@
+{
+	"armor": {
+		"acid": 0,
+		"death": 0,
+		"electricity": 0,
+		"fire": 3,
+		"frost": 0,
+		"holy": 0,
+		"parry": 0,
+		"physical": 2,
+		"poison": 2,
+		"thorns": 0
+	},
+	"components": [
+		"armor",
+		"craftable",
+		"glyph",
+		"item",
+		"minimap_pixel",
+		"name",
+		"position_2d",
+		"value",
+		"weight"
+	],
+	"craftable": {
+		"backgrounds": [],
+		"biomes": [],
+		"magic_slots": 2,
+		"resource_types": [
+			{
+				"amount": 2,
+				"id": 2
+			}
+		],
+		"time": 60,
+		"tools": [
+			14
+		]
+	},
+	"description": "Many applications for this piece of garment consist of holding pants, hanging, spanking and preventing blood loss.",
+	"glyph": {
+		"frames": [
+			{
+				"color": [
+					255,
+					255,
+					255
+				],
+				"delay": 0,
+				"index": 692
+			}
+		],
+		"random_frame_start": false
+	},
+	"id": "576",
+	"item": {
+		"image": 233,
+		"type": 6
+	},
+	"minimap_pixel": [
+		142,
+		13,
+		77
+	],
+	"name": "Heavy Belt",
+	"value": 2800,
+	"weight": 2.0
+}

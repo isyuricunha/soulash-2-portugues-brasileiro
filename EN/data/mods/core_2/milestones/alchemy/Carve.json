@@ -1,0 +1,16 @@
+{
+	"id": "core_2_carve",
+	"name": "Carve",
+	"requirements": {
+		"milestones": [],
+		"skill": 12
+	},
+	"rewards": [
+		{
+			"production_action": "core_2_carve"
+		}
+	],
+	"skill_id": "core_2_alchemy",
+	"steps": [],
+	"steps_type": 0
+}

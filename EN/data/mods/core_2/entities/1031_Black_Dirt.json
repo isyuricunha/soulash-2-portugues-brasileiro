@@ -1,0 +1,39 @@
+{
+	"background": {
+		"color": [
+			44,
+			45,
+			41
+		],
+		"noise": 2,
+		"noise_intensity": 5
+	},
+	"components": [
+		"background",
+		"glyph",
+		"minimap_pixel",
+		"name"
+	],
+	"description": "Smoldered dirt, completely devoid of sustenance. Nothing will ever grow here.",
+	"glyph": {
+		"frames": [
+			{
+				"color": [
+					255,
+					255,
+					255
+				],
+				"delay": 0,
+				"index": 1024
+			}
+		],
+		"random_frame_start": false
+	},
+	"id": "1031",
+	"minimap_pixel": [
+		18,
+		13,
+		12
+	],
+	"name": "Black Dirt"
+}

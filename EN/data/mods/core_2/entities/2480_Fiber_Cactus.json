@@ -1,0 +1,73 @@
+{
+	"components": [
+		"block_light",
+		"glyph",
+		"glyph_top",
+		"health",
+		"height",
+		"minimap_pixel",
+		"name",
+		"position_2d",
+		"producer"
+	],
+	"corpse": [],
+	"description": "Durable and prickly cactus, a source of strong fibers for crafting and weaving in the arid desert landscape.",
+	"glyph": {
+		"frames": [
+			{
+				"color": [
+					47,
+					66,
+					7
+				],
+				"delay": 0,
+				"index": 860
+			}
+		],
+		"random_frame_start": false,
+		"random_top": {
+			"colors": [
+				[
+					255,
+					255,
+					255
+				]
+			],
+			"count": 1,
+			"glyph_ids": [
+				1669,
+				1670,
+				1671,
+				1672,
+				1673
+			],
+			"max_alpha": 200,
+			"max_range": 3,
+			"wind": true
+		}
+	},
+	"health": 50,
+	"height": 1,
+	"id": "2480",
+	"minimap_pixel": [
+		37,
+		89,
+		31
+	],
+	"name": "Fiber Cactus",
+	"producer": {
+		"products": {
+			"10": [
+				{
+					"amount": [
+						1,
+						2
+					],
+					"id": "2349",
+					"percent_chance": 100
+				}
+			]
+		},
+		"time": 10
+	}
+}

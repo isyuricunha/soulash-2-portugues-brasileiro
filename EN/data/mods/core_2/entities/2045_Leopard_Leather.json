@@ -1,0 +1,83 @@
+{
+	"armor": {
+		"acid": 0,
+		"death": 0,
+		"electricity": 0,
+		"fire": 0,
+		"frost": 3,
+		"holy": 0,
+		"parry": 0,
+		"physical": 0,
+		"poison": 0,
+		"thorns": 0
+	},
+	"components": [
+		"armor",
+		"glyph",
+		"item",
+		"minimap_pixel",
+		"name",
+		"position_2d",
+		"resource",
+		"stackable",
+		"statistics",
+		"value",
+		"weight"
+	],
+	"description": "Very rare and valuable material.",
+	"glyph": {
+		"frames": [
+			{
+				"color": [
+					255,
+					255,
+					255
+				],
+				"delay": 0,
+				"index": 2462
+			}
+		],
+		"random_frame_start": false
+	},
+	"id": "2045",
+	"item": {
+		"image": 1080,
+		"type": 16
+	},
+	"minimap_pixel": [
+		122,
+		93,
+		57
+	],
+	"name": "Leopard Leather",
+	"resource": {
+		"affix": "Leopard",
+		"magic_ingredient": 0,
+		"quality": 3,
+		"type": 2
+	},
+	"statistics": {
+		"dexterity": [
+			0,
+			0
+		],
+		"endurance": [
+			2,
+			2
+		],
+		"intelligence": [
+			0,
+			0
+		],
+		"strength": [
+			0,
+			0
+		],
+		"willpower": [
+			0,
+			0
+		]
+	},
+	"value": 6600,
+	"weight": 0.20000000298023224
+}

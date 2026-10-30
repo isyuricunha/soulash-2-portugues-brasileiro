@@ -1,0 +1,54 @@
+{
+	"components": [
+		"glyph",
+		"item",
+		"minimap_pixel",
+		"name",
+		"position_2d",
+		"resource",
+		"sight",
+		"stackable",
+		"value",
+		"weight"
+	],
+	"description": "An eye of the size of a small shield, characterized by its eerie iridescence and supernatural glow.",
+	"glyph": {
+		"frames": [
+			{
+				"color": [
+					255,
+					255,
+					255
+				],
+				"delay": 0,
+				"index": 1725
+			}
+		],
+		"random_frame_start": false
+	},
+	"id": "2519",
+	"item": {
+		"image": 663,
+		"type": 16
+	},
+	"minimap_pixel": [
+		192,
+		158,
+		158
+	],
+	"name": "Cyclops Eye",
+	"resource": {
+		"affix": "of the Eye",
+		"magic_ingredient": 3,
+		"quality": 3,
+		"type": 7
+	},
+	"sight": {
+		"ignore_infra_penalty": false,
+		"infravision": false,
+		"range": 2,
+		"threesixty": false
+	},
+	"value": 5000,
+	"weight": 0.10000000149011612
+}

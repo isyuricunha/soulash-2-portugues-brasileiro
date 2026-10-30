@@ -1,0 +1,25 @@
+{
+	"animation": "core_2_Magma_Spit",
+	"cast_time": 1.2000000476837158,
+	"cooldown": 6.0,
+	"cost": {
+		"health": 0,
+		"stamina": 4
+	},
+	"description": "Throws a ball of hot magma at a single target that deals ::damage ::damage_type damage.",
+	"duration": 0.0,
+	"effects": {
+		"damage": [
+			20,
+			30
+		],
+		"damage_type": "fire",
+		"magic_power_damage": 2.0
+	},
+	"id": "core_2_Magma_Spit",
+	"image": 806,
+	"name": "Magma Spit",
+	"range": 15,
+	"skill": "",
+	"target": "line"
+}

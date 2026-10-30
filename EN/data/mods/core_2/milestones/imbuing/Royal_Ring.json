@@ -1,0 +1,16 @@
+{
+	"id": "core_2_royal_ring",
+	"name": "Royal Ring",
+	"requirements": {
+		"milestones": [],
+		"skill": 48
+	},
+	"rewards": [
+		{
+			"recipe": "567"
+		}
+	],
+	"skill_id": "core_2_imbuing",
+	"steps": [],
+	"steps_type": 0
+}

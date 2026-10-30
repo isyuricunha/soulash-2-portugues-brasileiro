@@ -1,0 +1,72 @@
+{
+	"armor": {
+		"acid": 0,
+		"death": 2,
+		"electricity": 0,
+		"fire": 0,
+		"frost": 2,
+		"holy": 0,
+		"parry": 0,
+		"physical": 1,
+		"poison": 0,
+		"thorns": 0
+	},
+	"components": [
+		"armor",
+		"craftable",
+		"glyph",
+		"item",
+		"minimap_pixel",
+		"name",
+		"position_2d",
+		"value",
+		"weight"
+	],
+	"craftable": {
+		"backgrounds": [],
+		"biomes": [],
+		"magic_slots": 1,
+		"resource_types": [
+			{
+				"amount": 1,
+				"id": 4
+			},
+			{
+				"amount": 1,
+				"id": 5
+			}
+		],
+		"time": 60,
+		"tools": [
+			12
+		]
+	},
+	"description": "Ideal for when you need a little personal space.",
+	"glyph": {
+		"frames": [
+			{
+				"color": [
+					255,
+					255,
+					255
+				],
+				"delay": 0,
+				"index": 2426
+			}
+		],
+		"random_frame_start": false
+	},
+	"id": "core_2_Hoop_Skirt",
+	"item": {
+		"image": 1062,
+		"type": 8
+	},
+	"minimap_pixel": [
+		192,
+		133,
+		216
+	],
+	"name": "Hoop Skirt",
+	"value": 1000,
+	"weight": 0.5
+}

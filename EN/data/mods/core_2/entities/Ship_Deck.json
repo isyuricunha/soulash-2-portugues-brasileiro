@@ -1,0 +1,42 @@
+{
+	"background": {
+		"color": [
+			44,
+			45,
+			41
+		],
+		"noise": 3,
+		"noise_intensity": 6
+	},
+	"components": [
+		"background",
+		"glyph",
+		"health",
+		"minimap_pixel",
+		"name"
+	],
+	"corpse": [],
+	"description": "Just a roof for the hull of the ship. But you can get seasick on it.",
+	"glyph": {
+		"frames": [
+			{
+				"color": [
+					255,
+					255,
+					255
+				],
+				"delay": 0,
+				"index": 2177
+			}
+		],
+		"random_frame_start": false
+	},
+	"health": 1,
+	"id": "core_2_Ship_Deck",
+	"minimap_pixel": [
+		61,
+		38,
+		7
+	],
+	"name": "Ship Deck"
+}

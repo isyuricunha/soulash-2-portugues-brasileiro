@@ -1,0 +1,15 @@
+{
+	"id": "core_2_fur_parka",
+	"name": "Fur Parka",
+	"requirements": {
+		"skill": 44
+	},
+	"rewards": [
+		{
+			"recipe": "2315"
+		}
+	],
+	"skill_id": "core_2_leatherworking",
+	"steps": [],
+	"steps_type": 0
+}

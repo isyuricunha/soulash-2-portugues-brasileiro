@@ -1,0 +1,37 @@
+{
+	"animation": "20",
+	"cast_time": 1.0,
+	"cooldown": 20.0,
+	"cost": {
+		"health": 0,
+		"item": "561",
+		"stamina": 30
+	},
+	"description": "Explode target Burning Flame dealing ::damage ::damage_type damage in ::aoe_range tiles around and spread ::summon_count ::summon near it.",
+	"duration": 0.0,
+	"effects": {
+		"aoe_break": 1,
+		"aoe_range": 3,
+		"aoe_shape": 1,
+		"damage": [
+			3,
+			7
+		],
+		"damage_type": "fire",
+		"magic_power_damage": 1.0,
+		"summon_count": 8
+	},
+	"effects_keys": {
+		"summon": "561"
+	},
+	"id": "24",
+	"image": 23,
+	"name": "Explosion",
+	"range": 6,
+	"skill": "core_2_pyromancy",
+	"slots": {
+		"offensive": 2,
+		"utility": 1
+	},
+	"target": "aoe_tile"
+}

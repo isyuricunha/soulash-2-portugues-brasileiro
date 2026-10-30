@@ -1,0 +1,60 @@
+{
+	"armor": {
+		"acid": 1,
+		"death": 0,
+		"electricity": 0,
+		"fire": 0,
+		"frost": 0,
+		"holy": 0,
+		"parry": 0,
+		"physical": 0,
+		"poison": 1,
+		"thorns": 0
+	},
+	"components": [
+		"armor",
+		"glyph",
+		"item",
+		"minimap_pixel",
+		"name",
+		"position_2d",
+		"resource",
+		"stackable",
+		"value",
+		"weight"
+	],
+	"description": "A bony toe of a toad man.",
+	"glyph": {
+		"frames": [
+			{
+				"color": [
+					255,
+					255,
+					255
+				],
+				"delay": 0,
+				"index": 3059
+			}
+		],
+		"random_frame_start": false
+	},
+	"id": "core_2_Toad_Man_Toe",
+	"item": {
+		"image": 1417,
+		"type": 16
+	},
+	"minimap_pixel": [
+		100,
+		109,
+		155
+	],
+	"name": "Toad Man Toe",
+	"resource": {
+		"affix": "of the Toe",
+		"magic_ingredient": 2,
+		"quality": 2,
+		"type": 7
+	},
+	"value": 700,
+	"weight": 0.10000000149011612
+}

@@ -1,0 +1,16 @@
+{
+	"id": "core_2_wicker_doll",
+	"name": "Wicker Doll",
+	"requirements": {
+		"milestones": [],
+		"skill": 26
+	},
+	"rewards": [
+		{
+			"recipe": "core_2_Wicker_Doll"
+		}
+	],
+	"skill_id": "core_2_imbuing",
+	"steps": [],
+	"steps_type": 0
+}

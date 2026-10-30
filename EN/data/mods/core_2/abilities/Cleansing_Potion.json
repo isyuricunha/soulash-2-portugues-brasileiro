@@ -1,0 +1,24 @@
+{
+	"animation": "core_2_Drink_cleansing_potion",
+	"cast_time": 1.0,
+	"cooldown": 30.0,
+	"cost": {
+		"health": 0,
+		"stamina": 10
+	},
+	"description": "This potion cleanses your body of fear, burn, silence and frostbite effects.",
+	"duration": 0.0,
+	"effects": {
+		"neutralize": [
+			"burn",
+			"frostbite",
+			"fear"
+		]
+	},
+	"id": "core_2_Cleansing_Potion",
+	"image": 756,
+	"name": "Cleansing Potion",
+	"range": 0,
+	"skill": "",
+	"target": "self"
+}

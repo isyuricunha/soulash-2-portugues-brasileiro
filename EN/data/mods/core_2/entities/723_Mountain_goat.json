@@ -1,0 +1,153 @@
+{
+	"armor": {
+		"acid": 1,
+		"death": 0,
+		"electricity": 1,
+		"fire": 1,
+		"frost": 4,
+		"holy": 1,
+		"parry": 1,
+		"physical": 1,
+		"poison": 0,
+		"thorns": 0
+	},
+	"artificial_intelligence": {
+		"allies": [],
+		"allow_production": [],
+		"behaviors": [],
+		"enemies": []
+	},
+	"components": [
+		"actor",
+		"armor",
+		"artificial_intelligence",
+		"collidable",
+		"dialogues",
+		"equipment",
+		"experience_gainer",
+		"fighter",
+		"glyph",
+		"health",
+		"minimap_pixel",
+		"moveable",
+		"name",
+		"position_2d",
+		"producer",
+		"sight",
+		"stamina",
+		"statistics",
+		"tags"
+	],
+	"corpse": "724",
+	"description": "It looks like it just wants to chew some grass.",
+	"dialogues": [
+		"107",
+		"108",
+		"905"
+	],
+	"equipment": {
+		"disabled_slots": [
+			0,
+			4,
+			5,
+			6,
+			7,
+			8,
+			9,
+			12,
+			13,
+			14,
+			15,
+			16,
+			17
+		]
+	},
+	"experience_gainer": {
+		"exp": 0,
+		"level": 10
+	},
+	"fighter": {
+		"attackNames": [
+			"Horns",
+			"Hooves"
+		]
+	},
+	"glyph": {
+		"frames": [
+			{
+				"color": [
+					255,
+					255,
+					255
+				],
+				"delay": 0,
+				"index": 688
+			}
+		],
+		"random_frame_start": false
+	},
+	"health": 60,
+	"id": "723",
+	"minimap_pixel": [
+		196,
+		197,
+		194
+	],
+	"moveable": {
+		"speed": 1.0
+	},
+	"name": "Mountain Goat",
+	"producer": {
+		"delay_on_use": 1440,
+		"products": {
+			"11": [
+				{
+					"amount": [
+						1,
+						2
+					],
+					"id": "821",
+					"percent_chance": 100
+				}
+			]
+		},
+		"time": 10
+	},
+	"sight": {
+		"ignore_infra_penalty": false,
+		"infravision": false,
+		"range": 7,
+		"threesixty": false
+	},
+	"stamina": {
+		"fatigue": 100,
+		"stamina": 100,
+		"stamina_regen": 0.0
+	},
+	"statistics": {
+		"dexterity": [
+			10,
+			13
+		],
+		"endurance": [
+			13,
+			17
+		],
+		"intelligence": [
+			4,
+			9
+		],
+		"strength": [
+			16,
+			20
+		],
+		"willpower": [
+			10,
+			13
+		]
+	},
+	"tags": [
+		"2",
+		"9"
+	]
+}

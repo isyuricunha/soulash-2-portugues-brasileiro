@@ -1,0 +1,81 @@
+{
+    "id": "core_2_let_it_snow",
+    "name": "Let It Snow",
+    "category": "settlement",
+    "flavor": "We all sometimes feel like experiencing a touch of the exotic. Sometimes it is something different than it might seem at first glance.",
+    "icon": 23,
+    "small_icon": 23,
+    "rarity": "uncommon",
+    "restrict_races": [
+        "31"
+    ],
+    "trigger": {
+        "base_probability": 0.004,
+        "conditions": [
+            {
+                "type": "settlement_population_min",
+                "value": 30
+            },
+            {
+                "type": "settlement_tier_min",
+                "value": 1
+            },
+            {
+                "type": "min_unemployed",
+                "value": 1
+            }
+        ]
+    },
+    "duration": {
+        "type": "temporary",
+        "days": [
+            30,
+            45
+        ]
+    },
+    "effects": [
+        {
+            "type": "spawn_group",
+            "amount": [
+                1,
+                1
+            ],
+            "group_type": "settlement",
+            "entity": "core_2_Gnoll_Scribe",
+            "border_color": [
+                170,
+                128,
+                192
+            ]
+        }
+    ],
+    "extra_dialogues": ["core_2_let_it_snow"],
+    "interactions": [
+        {
+            "type": "conversation",
+            "id": "core_2_deliver_ice",
+            "translation_id": 0,
+            "required_ingredients": [
+                {
+                    "id": "2472",
+                    "amount": 5
+                }
+            ],
+            "entities": [
+                "core_2_Gnoll_Scribe"
+            ],
+            "label": "Deliver requested item.",
+            "reward": {
+                "gold": 50,
+                "remove_event": true
+            },
+            "history_event": "::name has delivered required goods to the Gnoll scribe!",
+            "announcement": "You have delivered required goods to the the Gnoll scribe of ::settlement!"
+        }
+    ],
+    "history_events": {
+        "begin": "A gnoll want a taste of something exotic in ::settlement.",
+        "success": "Gnoll scribe can now have a taste of something exotic.",
+        "failure": "Gnoll scribe will still miss the exotic."
+    }
+}

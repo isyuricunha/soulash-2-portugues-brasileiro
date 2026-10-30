@@ -1,0 +1,52 @@
+{
+	"armor": {
+		"acid": 0,
+		"death": 0,
+		"electricity": 0,
+		"fire": 3,
+		"frost": -1,
+		"holy": 0,
+		"parry": 0,
+		"physical": 2,
+		"poison": 0,
+		"thorns": 0
+	},
+	"components": [
+		"armor",
+		"glyph",
+		"item",
+		"minimap_pixel",
+		"name",
+		"position_2d",
+		"value",
+		"weight"
+	],
+	"description": "Primitive wooden mask painted in colorful stripes.",
+	"glyph": {
+		"frames": [
+			{
+				"color": [
+					255,
+					255,
+					255
+				],
+				"delay": 0,
+				"index": 3234
+			}
+		],
+		"random_frame_start": false
+	},
+	"id": "core_2_Colorful_Mask",
+	"item": {
+		"image": 1493,
+		"type": 2
+	},
+	"minimap_pixel": [
+		104,
+		73,
+		29
+	],
+	"name": "Colorful Mask",
+	"value": 1500,
+	"weight": 0.5
+}

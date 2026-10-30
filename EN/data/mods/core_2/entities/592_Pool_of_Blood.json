@@ -1,0 +1,69 @@
+{
+	"components": [
+		"glyph",
+		"liquid_source",
+		"minimap_pixel",
+		"name",
+		"position_2d",
+		"producer"
+	],
+	"description": "A pool of crimson red liquid that came from the body of a living being.",
+	"glyph": {
+		"frames": [
+			{
+				"color": [
+					255,
+					255,
+					255
+				],
+				"delay": 0,
+				"index": 851
+			},
+			{
+				"color": [
+					255,
+					255,
+					255
+				],
+				"delay": 999999999,
+				"index": 1115
+			},
+			{
+				"color": [
+					255,
+					255,
+					255
+				],
+				"delay": 999999999,
+				"index": 1121
+			}
+		],
+		"random_frame_start": true
+	},
+	"id": "592",
+	"liquid_source": {
+		"limit": 100,
+		"type": 4
+	},
+	"minimap_pixel": [
+		138,
+		7,
+		7
+	],
+	"name": "Pool of Blood",
+	"producer": {
+		"products": {
+			"19": [
+				{
+					"amount": [
+						0,
+						0
+					],
+					"id": "",
+					"percent_chance": 100
+				}
+			]
+		},
+		"time": 0
+	}
+}

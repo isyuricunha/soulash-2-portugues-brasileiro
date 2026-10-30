@@ -1,0 +1,139 @@
+{
+	"artificial_intelligence": {
+		"allies": [
+			"29"
+		],
+		"allow_production": [],
+		"behaviors": [],
+		"enemies": []
+	},
+	"components": [
+		"actor",
+		"artificial_intelligence",
+		"collidable",
+		"dialogues",
+		"equipment",
+		"experience_gainer",
+		"fighter",
+		"glyph",
+		"health",
+		"humanoid",
+		"minimap_pixel",
+		"moveable",
+		"name",
+		"persona",
+		"position_2d",
+		"sight",
+		"skills",
+		"stamina",
+		"statistics",
+		"tags"
+	],
+	"corpse": "core_2_Gnome_Corpse",
+	"description": "",
+	"dialogues": [
+		"1060",
+		"1070",
+		"1071"
+	],
+	"equipment": {
+		"torso_cloth": [
+			{
+				"chance": 1.0,
+				"id": "183",
+				"name": "Robe",
+				"stack": 1
+			}
+		]
+	},
+	"experience_gainer": {
+		"exp": 5,
+		"level": 1
+	},
+	"fighter": {
+		"attackNames": null
+	},
+	"glyph": {
+		"frames": [
+			{
+				"color": [
+					255,
+					255,
+					255
+				],
+				"delay": 0,
+				"index": 479
+			}
+		],
+		"random_frame_start": false
+	},
+	"health": 100,
+	"humanoid": {
+		"race": "24"
+	},
+	"id": "core_2_Gnome_Toymaker",
+	"minimap_pixel": [
+		224,
+		172,
+		105
+	],
+	"moveable": {
+		"speed": 1.2000000476837158
+	},
+	"name": "Gnome Toymaker",
+	"persona": {
+		"occupation": "Toymaker"
+	},
+	"sight": {
+		"ignore_infra_penalty": false,
+		"infravision": false,
+		"range": 8,
+		"threesixty": false
+	},
+	"skills": {
+		"milestones": [
+			"core_2_jax_in_the_box",
+			"core_2_hand_puppet",
+			"core_2_rattle",
+			"core_2_stick_of_imagination",
+			"core_2_wooden_pony",
+			"core_2_toy_wagon",
+			"core_2_teddy_bear",
+			"core_2_mechanical_soldier"
+		],
+		"skills": [
+			"core_2_imbuing"
+		]
+	},
+	"stamina": {
+		"fatigue": 100,
+		"stamina": 100,
+		"stamina_regen": 0.0
+	},
+	"statistics": {
+		"dexterity": [
+			14,
+			18
+		],
+		"endurance": [
+			14,
+			18
+		],
+		"intelligence": [
+			14,
+			18
+		],
+		"strength": [
+			13,
+			17
+		],
+		"willpower": [
+			13,
+			17
+		]
+	},
+	"tags": [
+		"9",
+		"29"
+	]
+}

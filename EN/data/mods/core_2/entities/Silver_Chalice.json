@@ -1,0 +1,49 @@
+{
+	"components": [
+		"container",
+		"glyph",
+		"item",
+		"liquid_source",
+		"minimap_pixel",
+		"name",
+		"position_2d",
+		"value",
+		"weight"
+	],
+	"container": {
+		"capacity": 50,
+		"type": 1
+	},
+	"description": "Beautifly made silver cup on a stem.",
+	"glyph": {
+		"frames": [
+			{
+				"color": [
+					255,
+					255,
+					255
+				],
+				"delay": 0,
+				"index": 3086
+			}
+		],
+		"random_frame_start": false
+	},
+	"id": "core_2_Silver_Chalice",
+	"item": {
+		"image": 1426,
+		"type": 17
+	},
+	"liquid_source": {
+		"limit": 0,
+		"type": 1
+	},
+	"minimap_pixel": [
+		194,
+		133,
+		109
+	],
+	"name": "Silver Chalice",
+	"value": 500,
+	"weight": 1.0
+}

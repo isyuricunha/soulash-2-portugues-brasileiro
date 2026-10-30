@@ -1,0 +1,94 @@
+{
+	"category_id": 7,
+	"components": [
+		"craftable",
+		"glyph",
+		"liquid_source",
+		"minimap_pixel",
+		"name",
+		"position_2d",
+		"producer"
+	],
+	"craftable": {
+		"backgrounds": [],
+		"biomes": [],
+		"magic_slots": 0,
+		"resource_types": [
+			{
+				"amount": 2,
+				"id": 1
+			}
+		],
+		"resources": null,
+		"time": 30,
+		"tools": []
+	},
+	"description": "Water thrown into air through pressure in pipes. You can feel a light breeze when you approach closer.",
+	"glyph": {
+		"frames": [
+			{
+				"color": [
+					255,
+					255,
+					255
+				],
+				"delay": 150,
+				"index": 59
+			},
+			{
+				"color": [
+					255,
+					255,
+					255
+				],
+				"delay": 150,
+				"index": 1160
+			},
+			{
+				"color": [
+					255,
+					255,
+					255
+				],
+				"delay": 150,
+				"index": 1161
+			},
+			{
+				"color": [
+					255,
+					255,
+					255
+				],
+				"delay": 150,
+				"index": 1162
+			}
+		],
+		"random_frame_start": true
+	},
+	"id": "263",
+	"liquid_source": {
+		"limit": -1,
+		"type": 1
+	},
+	"minimap_pixel": [
+		42,
+		122,
+		150
+	],
+	"name": "Fountain",
+	"producer": {
+		"products": {
+			"core_2_deconstruct": [
+				{
+					"amount": [
+						0,
+						0
+					],
+					"id": "",
+					"percent_chance": 100
+				}
+			]
+		},
+		"time": 20
+	}
+}

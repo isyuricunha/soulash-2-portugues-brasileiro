@@ -1,0 +1,80 @@
+{
+	"components": [
+		"craftable",
+		"glyph",
+		"item",
+		"minimap_pixel",
+		"name",
+		"position_2d",
+		"value",
+		"weapon",
+		"weight"
+	],
+	"craftable": {
+		"backgrounds": [],
+		"biomes": [],
+		"magic_slots": 5,
+		"resource_types": [
+			{
+				"amount": 2,
+				"id": 3
+			},
+			{
+				"amount": 2,
+				"id": 1
+			},
+			{
+				"amount": 1,
+				"id": 4
+			}
+		],
+		"time": 120,
+		"tools": [
+			1
+		]
+	},
+	"description": "This spear is exceptionally light, but not less deadly.",
+	"glyph": {
+		"frames": [
+			{
+				"color": [
+					255,
+					255,
+					255
+				],
+				"delay": 0,
+				"index": 2245
+			}
+		],
+		"random_frame_start": false
+	},
+	"id": "core_2_Feather_Spear",
+	"item": {
+		"image": 936,
+		"type": 13
+	},
+	"minimap_pixel": [
+		188,
+		210,
+		238
+	],
+	"name": "Feather Spear",
+	"value": 20000,
+	"weapon": {
+		"attack_speed": 1.0,
+		"critical_hit": 0.0,
+		"damage": [
+			{
+				"dmg_max": 14,
+				"dmg_min": 10,
+				"dmg_type": "physical"
+			}
+		],
+		"hands": 1,
+		"hit_bonus": 5,
+		"parry_bonus": 5,
+		"range": 1,
+		"type": 4
+	},
+	"weight": 2.0
+}

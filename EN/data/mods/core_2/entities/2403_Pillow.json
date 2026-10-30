@@ -1,0 +1,54 @@
+{
+	"components": [
+		"craftable",
+		"glyph",
+		"item",
+		"minimap_pixel",
+		"name",
+		"position_2d",
+		"resting_place",
+		"value",
+		"weight"
+	],
+	"craftable": {
+		"magic_slots": 0,
+		"resource_types": [
+			{
+				"amount": 2,
+				"id": 4
+			}
+		],
+		"resources": null,
+		"time": 30,
+		"tools": []
+	},
+	"description": "Pillow stuffed with some fabric. Its plump shape provides gentle support for the head and neck, ensuring a comfortable night's sleep. It's used without the need to drop it on the ground.",
+	"glyph": {
+		"frames": [
+			{
+				"color": [
+					255,
+					255,
+					255
+				],
+				"delay": 0,
+				"index": 1054
+			}
+		],
+		"random_frame_start": false
+	},
+	"id": "2403",
+	"item": {
+		"image": 606,
+		"type": 17
+	},
+	"minimap_pixel": [
+		93,
+		67,
+		28
+	],
+	"name": "Pillow",
+	"resting_place": 120,
+	"value": 100,
+	"weight": 1.0
+}

@@ -1,0 +1,73 @@
+{
+	"components": [
+		"craftable",
+		"glyph",
+		"item",
+		"minimap_pixel",
+		"name",
+		"position_2d",
+		"stackable",
+		"usable",
+		"value",
+		"weight"
+	],
+	"craftable": {
+		"backgrounds": [],
+		"biomes": [],
+		"magic_slots": 0,
+		"resources": [
+			{
+				"amount": 1,
+				"id": "core_2_Lumynous_Wyrm_Shine"
+			},
+			{
+				"amount": 1,
+				"id": "835"
+			},
+			{
+				"amount": 1,
+				"id": "core_2_Camomile_Flower"
+			},
+			{
+				"amount": 1,
+				"id": "core_2_Dandelion_Flower"
+			}
+		],
+		"time": 20,
+		"tools": [
+			15
+		]
+	},
+	"description": "This potion will give you better sight range.",
+	"glyph": {
+		"frames": [
+			{
+				"color": [
+					255,
+					255,
+					255
+				],
+				"delay": 0,
+				"index": 2980
+			}
+		],
+		"random_frame_start": false
+	},
+	"id": "core_2_Potion_of_Better_Sight",
+	"item": {
+		"image": 1364,
+		"type": 17
+	},
+	"minimap_pixel": [
+		157,
+		78,
+		54
+	],
+	"name": "Potion of Better Sight",
+	"usable": {
+		"ability": "core_2_Potion_of_Better_Sight",
+		"recipe": ""
+	},
+	"value": 3000,
+	"weight": 0.10000000149011612
+}

@@ -1,0 +1,15 @@
+{
+	"id": "core_2_festival",
+	"name": "Festival",
+	"requirements": {
+		"skill": 28
+	},
+	"rewards": [
+		{
+			"passive": "core_2_festival"
+		}
+	],
+	"skill_id": "core_2_economy",
+	"steps": [],
+	"steps_type": 0
+}

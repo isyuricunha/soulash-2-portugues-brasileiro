@@ -1,0 +1,15 @@
+{
+	"id": "core_2_port_building",
+	"name": "Port Building",
+	"requirements": {
+		"skill": 42
+	},
+	"rewards": [
+		{
+			"passive": "core_2_port_building"
+		}
+	],
+	"skill_id": "core_2_economy",
+	"steps": [],
+	"steps_type": 0
+}

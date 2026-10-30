@@ -1,0 +1,42 @@
+{
+	"background": {
+		"color": [
+			44,
+			45,
+			41
+		],
+		"noise": 4,
+		"noise_intensity": 4
+	},
+	"components": [
+		"background",
+		"glyph",
+		"health",
+		"minimap_pixel",
+		"name"
+	],
+	"corpse": [],
+	"description": "This floor has a thin layer of water and mud on it.",
+	"glyph": {
+		"frames": [
+			{
+				"color": [
+					255,
+					255,
+					255
+				],
+				"delay": 0,
+				"index": 3374
+			}
+		],
+		"random_frame_start": false
+	},
+	"health": 20,
+	"id": "core_2_Flooded_Stone_Floor",
+	"minimap_pixel": [
+		54,
+		63,
+		72
+	],
+	"name": "Flooded Stone Floor"
+}

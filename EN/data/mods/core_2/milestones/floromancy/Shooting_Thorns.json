@@ -1,0 +1,16 @@
+{
+	"id": "core_2_shooting_thorns",
+	"name": "Shooting Thorns",
+	"requirements": {
+		"milestones": [],
+		"skill": 46
+	},
+	"rewards": [
+		{
+			"passive": "core_2_shooting_thorns"
+		}
+	],
+	"skill_id": "core_2_floromancy",
+	"steps": [],
+	"steps_type": 0
+}

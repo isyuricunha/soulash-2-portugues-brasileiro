@@ -1,0 +1,42 @@
+{
+	"id": "core_2_player_port",
+	"image": 385,
+	"name": "Port",
+	"occupation_image": 140,
+	"occupation": "core_2_Human_Sailor",
+	"occupation_per_race": {
+		"0": "core_2_Human_Sailor",
+		"1": "core_2_Dwarf_Sailor",
+		"2": "core_2_Elf_Sailor",
+		"4": "core_2_Goblin_Sailor",
+		"6": "core_2_Vampire_Sailor",
+		"7": "core_2_Troll_Sailor",
+		"8": "core_2_Orc_Sailor",
+		"10": "core_2_Rasimi_Sailor",
+		"23": "core_2_Reptilion_Sailor",
+		"26": "core_2_Bone_Wraith_Sailor",
+		"31": "core_2_Gnoll_Sailor",
+		"32": "core_2_Mushman_Sailor",
+		"33": "core_2_Ursan_Sailor"
+	},
+	"produces": [],
+	"max": 1,
+	"tier": 1,
+	"workers": [
+		1,
+		2
+	],
+	"allow_player": true,
+	"required_entities": [
+		{
+			"entities": ["core_2_Sea"],
+			"count": 20
+		},
+		{
+			"component": "resting_place",
+			"count": 2
+		}
+	],
+	"min_area": 40,
+	"group": "base"
+}

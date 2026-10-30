@@ -1,0 +1,36 @@
+{
+    "id": "core_2_wandering_bisons",
+    "name": "Wandering Bisons",
+    "category": "wilderness",
+    "flavor": "A large herd of bisons has entered this region on their seasonal migration, crossing from one edge of the land to the other. They are wary but not immediately hostile — unless cornered.",
+    "icon": 0,
+    "small_icon": 0,
+    "rarity": "common",
+    "trigger": {
+        "base_probability": 0.25
+    },
+    "duration": {
+        "type": "temporary",
+        "days": [
+            3,
+            10
+        ]
+    },
+    "max_per_region": 1,
+    "restrict_biomes": ["boreal_forest"],
+    "effects": [
+        {
+            "type": "migrate_group",
+            "amount": [
+                20,
+                25
+            ],
+            "entity": "705",
+            "spawn_behaviors": [23]
+        }
+    ],
+    "history_events": {
+        "begin": "A wandering herd is passing through this region on their migration.",
+        "end": "The herd has moved on and the region is quiet once more."
+    }
+}

@@ -1,0 +1,19 @@
+{
+	"animation": "65",
+	"cast_time": 0.20000000298023224,
+	"cooldown": 8.0,
+	"cost": {
+		"health": 2,
+		"stamina": 1
+	},
+	"description": "Teleport to a spot in range of sight.",
+	"duration": 0.0,
+	"effects": {
+		"lunge": 1
+	},
+	"id": "65",
+	"image": 48,
+	"name": "Phaseshift",
+	"range": 5,
+	"target": "tile"
+}

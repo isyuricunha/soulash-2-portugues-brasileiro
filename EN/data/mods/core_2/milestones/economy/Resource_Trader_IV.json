@@ -1,0 +1,15 @@
+{
+	"id": "core_2_resource_trader_4",
+	"name": "Resource Trader IV",
+	"requirements": {
+		"skill": 47
+	},
+	"rewards": [
+		{
+			"passive": "core_2_resource_trader_4"
+		}
+	],
+	"skill_id": "core_2_economy",
+	"steps": [],
+	"steps_type": 0
+}

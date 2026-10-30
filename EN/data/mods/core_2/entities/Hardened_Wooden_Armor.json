@@ -1,0 +1,72 @@
+{
+	"armor": {
+		"acid": 0,
+		"death": 0,
+		"electricity": 3,
+		"fire": -2,
+		"frost": 3,
+		"holy": 0,
+		"parry": 0,
+		"physical": 3,
+		"poison": 6,
+		"thorns": 0
+	},
+	"components": [
+		"armor",
+		"craftable",
+		"glyph",
+		"item",
+		"minimap_pixel",
+		"name",
+		"position_2d",
+		"value",
+		"weight"
+	],
+	"craftable": {
+		"backgrounds": [],
+		"biomes": [],
+		"magic_slots": 4,
+		"resource_types": [
+			{
+				"amount": 3,
+				"id": 3
+			},
+			{
+				"amount": 1,
+				"id": 2
+			}
+		],
+		"time": 75,
+		"tools": [
+			14
+		]
+	},
+	"description": "This wooden armor has been hardened by fire and special varnishes, providing greater protection.",
+	"glyph": {
+		"frames": [
+			{
+				"color": [
+					255,
+					255,
+					255
+				],
+				"delay": 0,
+				"index": 3547
+			}
+		],
+		"random_frame_start": false
+	},
+	"id": "core_2_Hardened_Wooden_Armor",
+	"item": {
+		"image": 1581,
+		"type": 4
+	},
+	"minimap_pixel": [
+		114,
+		102,
+		68
+	],
+	"name": "Hardened Wooden Armor",
+	"value": 2700,
+	"weight": 1.5
+}

@@ -1,0 +1,21 @@
+{
+	"animation": "core_2_Drink_potion_of_holy_resistance",
+	"cast_time": 1.0,
+	"cooldown": 30.0,
+	"cost": {
+		"health": 0,
+		"stamina": 0
+	},
+	"description": "This potion gives you ::resistance ::damage_type resistance for ::duration turns.",
+	"duration": 100.0,
+	"effects": {
+		"damage_type": "holy",
+		"resistance": 7
+	},
+	"id": "core_2_Potion_of_Holy_Resist",
+	"image": 763,
+	"name": "Potion of Holy Resist",
+	"range": 0,
+	"skill": "",
+	"target": "self"
+}

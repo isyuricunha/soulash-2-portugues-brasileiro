@@ -1,0 +1,57 @@
+{
+	"armor": {
+		"acid": 0,
+		"death": 10,
+		"electricity": 20,
+		"fire": -20,
+		"frost": 100,
+		"holy": 10,
+		"parry": 0,
+		"physical": -5,
+		"poison": 10,
+		"thorns": 0
+	},
+	"background": {
+		"color": [
+			44,
+			45,
+			41
+		],
+		"noise": 4
+	},
+	"components": [
+		"armor",
+		"background",
+		"block_light",
+		"collidable",
+		"glyph",
+		"health",
+		"minimap_pixel",
+		"name",
+		"position_2d"
+	],
+	"corpse": [],
+	"description": "A sharp cone made from ice.",
+	"glyph": {
+		"frames": [
+			{
+				"color": [
+					255,
+					255,
+					255
+				],
+				"delay": 0,
+				"index": 998
+			}
+		],
+		"random_frame_start": false
+	},
+	"health": 200,
+	"id": "2815",
+	"minimap_pixel": [
+		113,
+		157,
+		188
+	],
+	"name": "Ice Peak"
+}

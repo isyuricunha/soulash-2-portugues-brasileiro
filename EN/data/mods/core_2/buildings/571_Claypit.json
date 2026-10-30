@@ -1,0 +1,24 @@
+{
+	"id": "571",
+	"image": 397,
+	"name": "Claypit",
+	"occupation_image": 50,
+	"occupation": "core_2_Gnome_Miner",
+	"produces": [
+		{
+			"entities": [
+				{
+					"daily": 1,
+					"id": "2004"
+				}
+			],
+			"takes": []
+		}
+	],
+	"race": "24",
+	"tier": 1,
+	"workers": [
+		1,
+		2
+	]
+}

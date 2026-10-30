@@ -1,0 +1,25 @@
+{
+	"animation": "core_2_Silence_heretic",
+	"cast_time": 0.6000000238418579,
+	"cooldown": 15.0,
+	"cost": {
+		"health": 0,
+		"stamina": 3
+	},
+	"description": "You utter holy words to your enemy, preventing it from using abilities for ::duration turns and knocking it back ::knockback tiles.",
+	"duration": 2.0,
+	"effects": {
+		"knockback": 5,
+		"silence": 1
+	},
+	"id": "core_2_Silence_Herectic",
+	"image": 778,
+	"name": "Silence, Herectic!",
+	"range": 1,
+	"skill": "core_2_divine_fists",
+	"slots": {
+		"offensive": 1,
+		"utility": 1
+	},
+	"target": "health"
+}

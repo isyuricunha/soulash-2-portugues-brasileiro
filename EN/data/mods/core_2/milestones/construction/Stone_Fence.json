@@ -1,0 +1,19 @@
+{
+	"id": "core_2_stone_fence",
+	"name": "Stone Fence",
+	"requirements": {
+		"milestones": [],
+		"skill": 21
+	},
+	"rewards": [
+		{
+			"recipe": "2871"
+		},
+		{
+			"recipe": "2869"
+		}
+	],
+	"skill_id": "core_2_construction",
+	"steps": [],
+	"steps_type": 0
+}

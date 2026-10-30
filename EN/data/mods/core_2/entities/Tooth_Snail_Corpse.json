@@ -1,0 +1,58 @@
+{
+	"components": [
+		"glyph",
+		"item",
+		"liquid_source",
+		"minimap_pixel",
+		"name",
+		"position_2d",
+		"producer",
+		"weight"
+	],
+	"description": "A lifeless body of a tooth snail.",
+	"glyph": {
+		"frames": [
+			{
+				"color": [
+					255,
+					255,
+					248
+				],
+				"delay": 0,
+				"index": 3061
+			}
+		],
+		"random_frame_start": false
+	},
+	"id": "core_2_Tooth_Snail_Corpse",
+	"item": {
+		"image": 1422,
+		"type": 18
+	},
+	"liquid_source": {
+		"limit": 40,
+		"type": 4
+	},
+	"minimap_pixel": [
+		149,
+		96,
+		248
+	],
+	"name": "Tooth Snail Corpse",
+	"producer": {
+		"products": {
+			"3": [
+				{
+					"amount": [
+						1,
+						1
+					],
+					"id": "core_2_Snail_Tooth",
+					"percent_chance": 100
+				}
+			]
+		},
+		"time": 10
+	},
+	"weight": 5.0
+}

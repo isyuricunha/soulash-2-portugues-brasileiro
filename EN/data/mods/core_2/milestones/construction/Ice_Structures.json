@@ -1,0 +1,28 @@
+{
+	"id": "core_2_ice_structures",
+	"name": "Ice Structures",
+	"requirements": {
+		"milestones": [],
+		"skill": 46
+	},
+	"rewards": [
+		{
+			"recipe": "976"
+		},
+		{
+			"recipe": "980"
+		},
+		{
+			"recipe": "979"
+		},
+		{
+			"recipe": "978"
+		},
+		{
+			"recipe": "977"
+		}
+	],
+	"skill_id": "core_2_construction",
+	"steps": [],
+	"steps_type": 0
+}

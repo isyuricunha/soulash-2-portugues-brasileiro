@@ -1,0 +1,56 @@
+{
+	"background": {
+		"color": [
+			51,
+			66,
+			12
+		],
+		"noise": 8
+	},
+	"components": [
+		"background",
+		"glyph",
+		"health",
+		"light_source",
+		"minimap_pixel",
+		"name"
+	],
+	"corpse": [
+		{
+			"damage_type": 0,
+			"id": "30"
+		},
+		{
+			"damage_type": 1,
+			"id": "615"
+		}
+	],
+	"description": "A patch of moss glowing with sickly, green light.",
+	"glyph": {
+		"frames": [
+			{
+				"color": [
+					255,
+					255,
+					255
+				],
+				"delay": 0,
+				"index": 3184
+			}
+		],
+		"random_frame_start": false
+	},
+	"health": 1,
+	"id": "core_2_Glowing_Moss",
+	"light_source": {
+		"finish": -1,
+		"lit_image": 1473,
+		"range": 4
+	},
+	"minimap_pixel": [
+		47,
+		89,
+		56
+	],
+	"name": "Glowing Moss"
+}

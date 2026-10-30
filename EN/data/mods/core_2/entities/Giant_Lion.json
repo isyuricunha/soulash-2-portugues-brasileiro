@@ -1,0 +1,265 @@
+{
+	"ability_user": [
+		"core_2_Mane_Power"
+	],
+	"armor": {
+		"acid": 50,
+		"death": 50,
+		"electricity": 9999,
+		"fire": 9999,
+		"frost": 50,
+		"holy": 30,
+		"parry": 0,
+		"physical": 30,
+		"poison": 50,
+		"thorns": 0
+	},
+	"artificial_intelligence": {
+		"allies": [],
+		"allow_production": [],
+		"behaviors": [],
+		"enemies": [
+			"5"
+		]
+	},
+	"chained": {
+		"map": [
+			[
+				"",
+				"core_2_Giant_Lion_Leg_Left",
+				"",
+				"core_2_Giant_Lion_Leg_Left",
+				"",
+				"",
+				"",
+				"",
+				"",
+				""
+			],
+			[
+				"RESERVED_core_2_leader_tile",
+				"core_2_Giant_Lion_Torso",
+				"core_2_Giant_Lion_Torso",
+				"core_2_Giant_Lion_Torso",
+				"core_2_Giant_Lion_Tail",
+				"",
+				"",
+				"",
+				"",
+				""
+			],
+			[
+				"",
+				"core_2_Giant_Lion_Leg_Right",
+				"",
+				"core_2_Giant_Lion_Leg_Right",
+				"",
+				"",
+				"",
+				"",
+				"",
+				""
+			],
+			[
+				"",
+				"",
+				"",
+				"",
+				"",
+				"",
+				"",
+				"",
+				"",
+				""
+			],
+			[
+				"",
+				"",
+				"",
+				"",
+				"",
+				"",
+				"",
+				"",
+				"",
+				""
+			],
+			[
+				"",
+				"",
+				"",
+				"",
+				"",
+				"",
+				"",
+				"",
+				"",
+				""
+			],
+			[
+				"",
+				"",
+				"",
+				"",
+				"",
+				"",
+				"",
+				"",
+				"",
+				""
+			],
+			[
+				"",
+				"",
+				"",
+				"",
+				"",
+				"",
+				"",
+				"",
+				"",
+				""
+			],
+			[
+				"",
+				"",
+				"",
+				"",
+				"",
+				"",
+				"",
+				"",
+				"",
+				""
+			],
+			[
+				"",
+				"",
+				"",
+				"",
+				"",
+				"",
+				"",
+				"",
+				"",
+				""
+			]
+		],
+		"snake": false
+	},
+	"components": [
+		"ability_user",
+		"actor",
+		"armor",
+		"artificial_intelligence",
+		"chained",
+		"collidable",
+		"dialogues",
+		"experience_gainer",
+		"fighter",
+		"glyph",
+		"health",
+		"minimap_pixel",
+		"moveable",
+		"name",
+		"position_2d",
+		"sight",
+		"stamina",
+		"statistics",
+		"tags",
+		"weapon"
+	],
+	"corpse": "core_2_Giant_Lion_Corpse",
+	"description": "A huge, proud lion. It's fur is riddled with scars.",
+	"dialogues": [
+		"214",
+		"215"
+	],
+	"experience_gainer": {
+		"exp": 0,
+		"level": 50
+	},
+	"fighter": {
+		"attackNames": [
+			"Bite"
+		]
+	},
+	"glyph": {
+		"frames": [
+			{
+				"color": [
+					255,
+					255,
+					255
+				],
+				"delay": 0,
+				"index": 305
+			}
+		],
+		"random_frame_start": false
+	},
+	"health": 3000,
+	"id": "core_2_Giant_Lion",
+	"minimap_pixel": [
+		149,
+		165,
+		101
+	],
+	"moveable": {
+		"speed": 0.699999988079071
+	},
+	"name": "Giant Lion",
+	"sight": {
+		"ignore_infra_penalty": true,
+		"infravision": true,
+		"range": 12,
+		"threesixty": true
+	},
+	"stamina": {
+		"fatigue": 100,
+		"stamina": 100,
+		"stamina_regen": 0.0
+	},
+	"statistics": {
+		"dexterity": [
+			90,
+			100
+		],
+		"endurance": [
+			106,
+			108
+		],
+		"intelligence": [
+			104,
+			110
+		],
+		"strength": [
+			150,
+			164
+		],
+		"willpower": [
+			160,
+			170
+		]
+	},
+	"tags": [
+		"38",
+		"2"
+	],
+	"weapon": {
+		"attack_speed": 1.0,
+		"critical_hit": 0.0,
+		"damage": [
+			{
+				"dmg_max": 40,
+				"dmg_min": 25,
+				"dmg_type": "electricity"
+			}
+		],
+		"hands": 1,
+		"hit_bonus": 0,
+		"parry_bonus": 0,
+		"range": 1,
+		"type": 0
+	}
+}

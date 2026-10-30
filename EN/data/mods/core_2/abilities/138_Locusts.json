@@ -1,0 +1,29 @@
+{
+	"animation": "178",
+	"cast_time": 1.0,
+	"cooldown": 12.0,
+	"cost": {
+		"health": 0,
+		"stamina": 8
+	},
+	"description": "Send a swarm of locusts in front of you to damage everyone for ::damage ::damage_type damage.",
+	"duration": 0.0,
+	"effects": {
+		"damage": [
+			8,
+			16
+		],
+		"damage_type": "poison",
+		"magic_power_damage": 1.0
+	},
+	"id": "138",
+	"image": 352,
+	"name": "Locusts",
+	"range": 5,
+	"skill": "core_2_floromancy",
+	"slots": {
+		"offensive": 2,
+		"utility": 1
+	},
+	"target": "cone"
+}

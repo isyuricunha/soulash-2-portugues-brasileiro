@@ -1,0 +1,16 @@
+{
+	"id": "core_2_physical_resist",
+	"name": "Potion Of Physical Resistance",
+	"requirements": {
+		"milestones": [],
+		"skill": 22
+	},
+	"rewards": [
+		{
+			"recipe": "core_2_Potion_of_Physical_Resistance"
+		}
+	],
+	"skill_id": "core_2_alchemy",
+	"steps": [],
+	"steps_type": 0
+}

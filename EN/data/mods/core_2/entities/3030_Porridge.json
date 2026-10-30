@@ -1,0 +1,70 @@
+{
+	"components": [
+		"craftable",
+		"food",
+		"glyph",
+		"item",
+		"minimap_pixel",
+		"name",
+		"position_2d",
+		"stackable",
+		"value",
+		"weight"
+	],
+	"craftable": {
+		"backgrounds": [],
+		"biomes": [],
+		"magic_slots": 0,
+		"resources": [
+			{
+				"amount": 1,
+				"id": "822"
+			},
+			{
+				"amount": 1,
+				"id": "814"
+			},
+			{
+				"amount": 2,
+				"id": "800"
+			}
+		],
+		"time": 20,
+		"tools": [
+			2
+		]
+	},
+	"description": "Very easy to make and full of nutrients.",
+	"food": {
+		"nutrition": 65,
+		"on_eat": "",
+		"raw": false
+	},
+	"glyph": {
+		"frames": [
+			{
+				"color": [
+					255,
+					255,
+					255
+				],
+				"delay": 0,
+				"index": 2032
+			}
+		],
+		"random_frame_start": false
+	},
+	"id": "3030",
+	"item": {
+		"image": 810,
+		"type": 20
+	},
+	"minimap_pixel": [
+		157,
+		78,
+		54
+	],
+	"name": "Porridge",
+	"value": 700,
+	"weight": 0.10000000149011612
+}

@@ -1,0 +1,77 @@
+{
+	"components": [
+		"craftable",
+		"glyph",
+		"item",
+		"minimap_pixel",
+		"name",
+		"position_2d",
+		"tool",
+		"value",
+		"weapon",
+		"weight"
+	],
+	"craftable": {
+		"magic_slots": 4,
+		"resource_types": [
+			{
+				"amount": 4,
+				"id": 1
+			}
+		],
+		"resources": null,
+		"time": 150,
+		"tools": [
+			1
+		]
+	},
+	"description": "This axe is designed for use in beheadings. It has a large, heavy blade, allowing for a more precise and efficient strike. The blade is mounted on a long wooden handle, which enables the executioner to deliver a decisive blow with both hands.",
+	"glyph": {
+		"frames": [
+			{
+				"color": [
+					255,
+					255,
+					255
+				],
+				"delay": 0,
+				"index": 469
+			}
+		],
+		"random_frame_start": false
+	},
+	"id": "2301",
+	"item": {
+		"image": 595,
+		"type": 13
+	},
+	"minimap_pixel": [
+		186,
+		190,
+		191
+	],
+	"name": "Executioner's Axe",
+	"tool": [
+		{
+			"id": 13,
+			"quality": 75
+		}
+	],
+	"value": 5000,
+	"weapon": {
+		"attack_speed": 1.25,
+		"damage": [
+			{
+				"dmg_max": 22,
+				"dmg_min": 13,
+				"dmg_type": "physical"
+			}
+		],
+		"hands": 2,
+		"hit_bonus": 3,
+		"parry_bonus": 3,
+		"range": 1,
+		"type": 0
+	},
+	"weight": 6.0
+}

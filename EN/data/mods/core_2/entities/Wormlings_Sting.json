@@ -1,0 +1,65 @@
+{
+	"components": [
+		"glyph",
+		"item",
+		"minimap_pixel",
+		"name",
+		"position_2d",
+		"resource",
+		"stackable",
+		"value",
+		"weapon",
+		"weight"
+	],
+	"description": "A sting of tiny giant worm.",
+	"glyph": {
+		"frames": [
+			{
+				"color": [
+					255,
+					255,
+					255
+				],
+				"delay": 0,
+				"index": 3126
+			}
+		],
+		"random_frame_start": false
+	},
+	"id": "core_2_Wormlings_Sting",
+	"item": {
+		"image": 1457,
+		"type": 16
+	},
+	"minimap_pixel": [
+		192,
+		158,
+		158
+	],
+	"name": "Wormling's Sting",
+	"resource": {
+		"affix": "of Wormling",
+		"magic_ingredient": 3,
+		"quality": 3,
+		"type": 7
+	},
+	"value": 3000,
+	"weapon": {
+		"attack_animation": "1",
+		"attack_speed": 0.0,
+		"critical_hit": 0.0,
+		"damage": [
+			{
+				"dmg_max": 5,
+				"dmg_min": 5,
+				"dmg_type": "acid"
+			}
+		],
+		"hands": 1,
+		"hit_bonus": 0,
+		"parry_bonus": 0,
+		"range": 0,
+		"type": 9
+	},
+	"weight": 0.10000000149011612
+}

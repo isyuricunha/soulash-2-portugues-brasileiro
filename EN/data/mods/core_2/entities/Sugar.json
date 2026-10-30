@@ -1,0 +1,46 @@
+{
+	"components": [
+		"food",
+		"glyph",
+		"item",
+		"minimap_pixel",
+		"name",
+		"position_2d",
+		"stackable",
+		"value",
+		"weight"
+	],
+	"description": "Extra sweet. Will rot your teeth.",
+	"food": {
+		"nutrition": 6,
+		"on_eat": "",
+		"raw": false
+	},
+	"glyph": {
+		"frames": [
+			{
+				"color": [
+					255,
+					255,
+					255
+				],
+				"delay": 0,
+				"index": 2383
+			}
+		],
+		"random_frame_start": false
+	},
+	"id": "core_2_Sugar",
+	"item": {
+		"image": 1047,
+		"type": 20
+	},
+	"minimap_pixel": [
+		156,
+		73,
+		73
+	],
+	"name": "Sugar",
+	"value": 150,
+	"weight": 0.019999999552965164
+}

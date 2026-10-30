@@ -1,0 +1,46 @@
+{
+	"components": [
+		"food",
+		"glyph",
+		"item",
+		"minimap_pixel",
+		"name",
+		"position_2d",
+		"stackable",
+		"value",
+		"weight"
+	],
+	"description": "Green and covered with little hairs. Perfect for a snack!",
+	"food": {
+		"nutrition": 8,
+		"on_eat": "",
+		"raw": false
+	},
+	"glyph": {
+		"frames": [
+			{
+				"color": [
+					255,
+					255,
+					255
+				],
+				"delay": 0,
+				"index": 2449
+			}
+		],
+		"random_frame_start": false
+	},
+	"id": "core_2_Gooseberry",
+	"item": {
+		"image": 1075,
+		"type": 20
+	},
+	"minimap_pixel": [
+		156,
+		73,
+		73
+	],
+	"name": "Gooseberry",
+	"value": 150,
+	"weight": 0.019999999552965164
+}

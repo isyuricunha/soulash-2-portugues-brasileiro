@@ -1,0 +1,16 @@
+{
+	"id": "core_2_mountain_ring",
+	"name": "Mountain Ring",
+	"requirements": {
+		"milestones": [],
+		"skill": 46
+	},
+	"rewards": [
+		{
+			"recipe": "core_2_Mountain_Ring"
+		}
+	],
+	"skill_id": "core_2_imbuing",
+	"steps": [],
+	"steps_type": 0
+}

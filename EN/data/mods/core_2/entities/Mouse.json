@@ -1,0 +1,129 @@
+{
+	"artificial_intelligence": {
+		"allies": [],
+		"allow_production": [],
+		"behaviors": [],
+		"enemies": [
+			"5"
+		]
+	},
+	"components": [
+		"actor",
+		"artificial_intelligence",
+		"collidable",
+		"dialogues",
+		"equipment",
+		"experience_gainer",
+		"fighter",
+		"glyph",
+		"health",
+		"minimap_pixel",
+		"moveable",
+		"name",
+		"position_2d",
+		"sight",
+		"stackable",
+		"stamina",
+		"statistics",
+		"tags"
+	],
+	"corpse": "590",
+	"description": "A small rodent with brown fur.",
+	"dialogues": [
+		"942",
+		"948"
+	],
+	"equipment": {
+		"disabled_slots": [
+			7,
+			8,
+			9,
+			10,
+			11,
+			12,
+			13,
+			14,
+			15,
+			16,
+			17,
+			5,
+			6,
+			18,
+			0,
+			2,
+			3,
+			4
+		]
+	},
+	"experience_gainer": {
+		"exp": 0,
+		"level": 1
+	},
+	"fighter": {
+		"attackNames": [
+			"Bite"
+		]
+	},
+	"glyph": {
+		"frames": [
+			{
+				"color": [
+					255,
+					255,
+					255
+				],
+				"delay": 0,
+				"index": 199
+			}
+		],
+		"random_frame_start": false
+	},
+	"health": 10,
+	"id": "core_2_Mouse",
+	"minimap_pixel": [
+		201,
+		199,
+		185
+	],
+	"moveable": {
+		"speed": 0.800000011920929
+	},
+	"name": "Mouse",
+	"sight": {
+		"ignore_infra_penalty": false,
+		"infravision": true,
+		"range": 8,
+		"threesixty": false
+	},
+	"stamina": {
+		"fatigue": 100,
+		"stamina": 100,
+		"stamina_regen": 0.0
+	},
+	"statistics": {
+		"dexterity": [
+			10,
+			18
+		],
+		"endurance": [
+			5,
+			10
+		],
+		"intelligence": [
+			5,
+			8
+		],
+		"strength": [
+			3,
+			8
+		],
+		"willpower": [
+			5,
+			8
+		]
+	},
+	"tags": [
+		"2",
+		"9"
+	]
+}

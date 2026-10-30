@@ -1,0 +1,16 @@
+{
+	"id": "core_2_eye_patch",
+	"name": "Eye Patch",
+	"requirements": {
+		"milestones": [],
+		"skill": 7
+	},
+	"rewards": [
+		{
+			"recipe": "301"
+		}
+	],
+	"skill_id": "core_2_tailoring",
+	"steps": [],
+	"steps_type": 0
+}

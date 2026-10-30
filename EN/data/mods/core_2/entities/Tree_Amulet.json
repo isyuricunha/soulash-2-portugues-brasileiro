@@ -1,0 +1,74 @@
+{
+	"armor": {
+		"acid": 0,
+		"death": 0,
+		"electricity": 0,
+		"fire": 5,
+		"frost": 0,
+		"holy": 0,
+		"parry": 0,
+		"physical": 0,
+		"poison": 6,
+		"thorns": 0
+	},
+	"components": [
+		"armor",
+		"craftable",
+		"glyph",
+		"item",
+		"minimap_pixel",
+		"name",
+		"position_2d",
+		"value",
+		"weight"
+	],
+	"craftable": {
+		"backgrounds": [],
+		"biomes": [],
+		"magic_slots": 4,
+		"resource_types": [
+			{
+				"amount": 2,
+				"id": 1
+			}
+		],
+		"resources": [
+			{
+				"amount": 2,
+				"id": "325"
+			}
+		],
+		"time": 60,
+		"tools": [
+			14
+		]
+	},
+	"description": "An amulet in a shape of a tree.",
+	"glyph": {
+		"frames": [
+			{
+				"color": [
+					255,
+					255,
+					255
+				],
+				"delay": 0,
+				"index": 2347
+			}
+		],
+		"random_frame_start": false
+	},
+	"id": "core_2_Tree_Amulet",
+	"item": {
+		"image": 1014,
+		"type": 3
+	},
+	"minimap_pixel": [
+		218,
+		165,
+		32
+	],
+	"name": "Tree Amulet",
+	"value": 3000,
+	"weight": 0.10000000149011612
+}

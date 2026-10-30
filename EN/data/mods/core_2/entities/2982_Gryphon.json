@@ -1,0 +1,133 @@
+{
+	"ability_user": [
+		"183",
+		"20",
+		"12",
+		"82"
+	],
+	"artificial_intelligence": {
+		"allies": [
+			"2"
+		],
+		"allow_production": [],
+		"behaviors": [],
+		"enemies": [
+			"5"
+		]
+	},
+	"components": [
+		"ability_user",
+		"actor",
+		"artificial_intelligence",
+		"collidable",
+		"dialogues",
+		"experience_gainer",
+		"fighter",
+		"glyph",
+		"health",
+		"minimap_pixel",
+		"moveable",
+		"name",
+		"position_2d",
+		"sight",
+		"stamina",
+		"statistics",
+		"tags",
+		"weapon"
+	],
+	"corpse": "2981",
+	"description": "A beautiful creature with lion's body and head and wings of an eagle.",
+	"dialogues": [
+		"647",
+		"648"
+	],
+	"experience_gainer": {
+		"exp": 0,
+		"level": 40
+	},
+	"fighter": {
+		"attackNames": [
+			"Scratch",
+			"Bite"
+		]
+	},
+	"glyph": {
+		"frames": [
+			{
+				"color": [
+					255,
+					255,
+					255
+				],
+				"delay": 0,
+				"index": 129
+			}
+		],
+		"random_frame_start": false
+	},
+	"health": 1100,
+	"id": "2982",
+	"minimap_pixel": [
+		206,
+		167,
+		66
+	],
+	"moveable": {
+		"speed": 0.800000011920929
+	},
+	"name": "Gryphon",
+	"sight": {
+		"ignore_infra_penalty": false,
+		"infravision": false,
+		"range": 12,
+		"threesixty": false
+	},
+	"stamina": {
+		"fatigue": 100,
+		"stamina": 100,
+		"stamina_regen": 0.0
+	},
+	"statistics": {
+		"dexterity": [
+			87,
+			96
+		],
+		"endurance": [
+			89,
+			100
+		],
+		"intelligence": [
+			54,
+			62
+		],
+		"strength": [
+			98,
+			112
+		],
+		"willpower": [
+			76,
+			86
+		]
+	},
+	"tags": [
+		"9",
+		"17",
+		"38"
+	],
+	"weapon": {
+		"attack_speed": 1.0,
+		"critical_hit": 0.0,
+		"damage": [
+			{
+				"dmg_max": 20,
+				"dmg_min": 10,
+				"dmg_type": "physical"
+			}
+		],
+		"hands": 2,
+		"hit_bonus": 0,
+		"parry_bonus": 0,
+		"range": 1,
+		"type": 1
+	}
+}

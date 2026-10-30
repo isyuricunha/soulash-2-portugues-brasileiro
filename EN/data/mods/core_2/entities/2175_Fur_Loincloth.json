@@ -1,0 +1,66 @@
+{
+	"armor": {
+		"acid": 0,
+		"death": 0,
+		"electricity": 0,
+		"fire": 0,
+		"frost": 4,
+		"holy": 0,
+		"parry": 0,
+		"physical": 2,
+		"poison": 0
+	},
+	"components": [
+		"armor",
+		"craftable",
+		"glyph",
+		"item",
+		"minimap_pixel",
+		"name",
+		"position_2d",
+		"value",
+		"weight"
+	],
+	"craftable": {
+		"magic_slots": 2,
+		"resource_types": [
+			{
+				"amount": 2,
+				"id": 9
+			}
+		],
+		"resources": null,
+		"time": 20,
+		"tools": [
+			14
+		]
+	},
+	"description": "Two pieces of fur held by the belt cover your front and back.",
+	"glyph": {
+		"frames": [
+			{
+				"color": [
+					255,
+					255,
+					255
+				],
+				"delay": 0,
+				"index": 544
+			}
+		],
+		"random_frame_start": false
+	},
+	"id": "2175",
+	"item": {
+		"image": 539,
+		"type": 8
+	},
+	"minimap_pixel": [
+		200,
+		200,
+		200
+	],
+	"name": "Fur Loincloth",
+	"value": 1300,
+	"weight": 1.5
+}

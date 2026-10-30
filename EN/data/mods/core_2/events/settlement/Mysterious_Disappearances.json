@@ -1,0 +1,94 @@
+{
+    "id": "core_2_mysterious_disappearances",
+    "name": "Mysterious Disappearances",
+    "category": "settlement",
+    "flavor": "Every day, more and more reptilians disappear - those that venture even a little bit away from the city. Why does this happen?",
+    "icon": 31,
+    "small_icon": 31,
+    "rarity": "uncommon",
+    "restrict_races": [
+        "23"
+    ],
+    "trigger": {
+        "base_probability": 0.02,
+        "conditions": [
+            {
+                "type": "min_unemployed",
+                "value": 1
+            }
+        ]
+    },
+    "duration": {
+        "type": "temporary",
+        "days": [
+            60,
+            90
+        ]
+    },
+    "locations": [
+        {
+            "id": "core_2_sunken_ruins_event",
+            "radius": 10
+        }
+    ],
+    "effects": [
+        {
+            "type": "spawn_group",
+            "amount": [
+                1,
+                1
+            ],
+            "group_type": "settlement",
+            "entity": "core_2_Reptilion_Scribe",
+            "border_color": [
+                170,
+                128,
+                192
+            ]
+        }
+    ],
+    "extra_dialogues": [],
+    "interactions": [
+        {
+            "type": "reveal_event_location",
+            "id": "core_2_sunken_ruins_reveal",
+            "translation_id": 0,
+            "entities": [
+                "core_2_Reptilion_Scribe"
+            ]
+        },
+        {
+            "type": "conversation",
+            "id": "core_2_mysterious_disappearances_reward",
+            "translation_id": 1,
+            "require_location_cleared": true,
+            "entities": ["core_2_Reptilion_Scribe"],
+             "required_ingredients": [
+                {
+                    "id": "core_2_Bronze_Golem_Heart",
+                    "amount": 1
+                }
+            ],
+            "reward": {
+                "gold": 2000,
+                "remove_event": true,
+                "skill_id": "core_2_adventuring",
+                "exp": 200,
+                "announcement": "The people in ::settlement will stop disappearing in the swamps.",
+                "items": [
+                    {
+                        "id": "core_2_Bronze_Golem_Heart",
+                        "amount": 1
+                    }
+                ]
+            },
+            "trigger_event": "core_2_sunken_temple",
+            "history_event": "::name found the reason for the mysterious disappearances!"
+        }
+    ],
+    "history_events": {
+        "begin": "There are people missing in ::settlement.",
+        "end": "Noone investigated mysterious dissapearances in ::settlement leaving questions unanswered.",
+        "success": "Mysterious dissapearances in ::settlement have been solved. People can breathe a sigh of relief."
+    }
+}

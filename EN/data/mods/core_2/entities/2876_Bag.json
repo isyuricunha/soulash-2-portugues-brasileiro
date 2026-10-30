@@ -1,0 +1,60 @@
+{
+	"components": [
+		"container",
+		"craftable",
+		"glyph",
+		"item",
+		"minimap_pixel",
+		"name",
+		"position_2d",
+		"value",
+		"weight"
+	],
+	"container": {
+		"capacity": 5,
+		"type": 2
+	},
+	"craftable": {
+		"magic_slots": 0,
+		"resource_types": [
+			{
+				"amount": 1,
+				"id": 4
+			}
+		],
+		"resources": null,
+		"time": 30,
+		"tools": [
+			12
+		]
+	},
+	"description": "A flexible container for holding, storing or carrying something.",
+	"extra_weight": 5.0,
+	"glyph": {
+		"frames": [
+			{
+				"color": [
+					255,
+					255,
+					255
+				],
+				"delay": 0,
+				"index": 1622
+			}
+		],
+		"random_frame_start": true
+	},
+	"id": "2876",
+	"item": {
+		"image": 649,
+		"type": 22
+	},
+	"minimap_pixel": [
+		99,
+		68,
+		24
+	],
+	"name": "Bag",
+	"value": 1500,
+	"weight": 0.5
+}

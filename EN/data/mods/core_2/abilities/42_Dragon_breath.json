@@ -1,0 +1,30 @@
+{
+	"animation": "39",
+	"cast_time": 1.0,
+	"cooldown": 5.0,
+	"cost": {
+		"health": 0,
+		"stamina": 5
+	},
+	"description": "Breathe fire like a dragon, dealing ::damage ::damage_type damage to everyone in a cone.",
+	"duration": 0.0,
+	"effects": {
+		"aoe_break": 2,
+		"damage": [
+			3,
+			6
+		],
+		"damage_type": "fire",
+		"magic_power_damage": 0.6600000262260437
+	},
+	"id": "42",
+	"image": 43,
+	"name": "Dragon Breath",
+	"range": 5,
+	"skill": "core_2_pyromancy",
+	"slots": {
+		"offensive": 1,
+		"utility": 1
+	},
+	"target": "cone"
+}

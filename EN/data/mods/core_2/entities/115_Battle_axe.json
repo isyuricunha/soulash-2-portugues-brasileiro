@@ -1,0 +1,81 @@
+{
+	"components": [
+		"craftable",
+		"glyph",
+		"item",
+		"minimap_pixel",
+		"name",
+		"position_2d",
+		"tool",
+		"value",
+		"weapon",
+		"weight"
+	],
+	"craftable": {
+		"magic_slots": 4,
+		"resource_types": [
+			{
+				"amount": 3,
+				"id": 1
+			},
+			{
+				"amount": 1,
+				"id": 3
+			}
+		],
+		"resources": null,
+		"time": 150,
+		"tools": [
+			1
+		]
+	},
+	"description": "This axe is so good, you could probably cut off three heads in a single swing!",
+	"glyph": {
+		"frames": [
+			{
+				"color": [
+					255,
+					255,
+					255
+				],
+				"delay": 0,
+				"index": 427
+			}
+		],
+		"random_frame_start": false
+	},
+	"id": "115",
+	"item": {
+		"image": 222,
+		"type": 13
+	},
+	"minimap_pixel": [
+		156,
+		160,
+		161
+	],
+	"name": "Battle Axe",
+	"tool": [
+		{
+			"id": 13,
+			"quality": 20
+		}
+	],
+	"value": 4000,
+	"weapon": {
+		"attack_speed": 1.0,
+		"damage": [
+			{
+				"dmg_max": 10,
+				"dmg_min": 6,
+				"dmg_type": "physical"
+			}
+		],
+		"hands": 1,
+		"hit_bonus": 4,
+		"parry_bonus": 2,
+		"range": 1,
+		"type": 0
+	},
+	"weight": 3.0
+}

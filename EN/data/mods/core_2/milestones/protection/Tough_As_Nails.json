@@ -1,0 +1,15 @@
+{
+	"id": "core_2_tough_as_nails",
+	"name": "Tough As Nails",
+	"requirements": {
+		"skill": 21
+	},
+	"rewards": [
+		{
+			"amplifier": "core_2_armor"
+		}
+	],
+	"skill_id": "core_2_protection",
+	"steps": [],
+	"steps_type": 0
+}

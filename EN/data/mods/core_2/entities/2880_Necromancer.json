@@ -1,0 +1,152 @@
+{
+	"ability_user": [
+		"102",
+		"116",
+		"119",
+		"57"
+	],
+	"artificial_intelligence": {
+		"allies": [
+			"4"
+		],
+		"allow_production": [],
+		"behaviors": [],
+		"enemies": [
+			"5"
+		]
+	},
+	"components": [
+		"ability_user",
+		"actor",
+		"artificial_intelligence",
+		"collidable",
+		"dialogues",
+		"equipment",
+		"experience_gainer",
+		"fighter",
+		"glyph",
+		"health",
+		"humanoid",
+		"minimap_pixel",
+		"moveable",
+		"name",
+		"position_2d",
+		"sight",
+		"stamina",
+		"statistics",
+		"tags"
+	],
+	"corpse": "25",
+	"description": "There is an aura of evil and death surrounding this person. ",
+	"dialogues": [
+		"635",
+		"636"
+	],
+	"equipment": {
+		"boots": [
+			{
+				"chance": 1.0,
+				"id": "192",
+				"name": "Sandals",
+				"stack": 1
+			}
+		],
+		"head_cloth": [
+			{
+				"chance": 1.0,
+				"id": "180",
+				"name": "Hood",
+				"stack": 1
+			}
+		],
+		"right_hand": [
+			{
+				"chance": 1.0,
+				"id": "370",
+				"name": "Dark Blade",
+				"stack": 1
+			}
+		],
+		"torso_cloth": [
+			{
+				"chance": 1.0,
+				"id": "183",
+				"name": "Robe",
+				"stack": 1
+			}
+		]
+	},
+	"experience_gainer": {
+		"exp": 0,
+		"level": 30
+	},
+	"fighter": {
+		"attackNames": null
+	},
+	"glyph": {
+		"frames": [
+			{
+				"color": [
+					127,
+					185,
+					85
+				],
+				"delay": 0,
+				"index": 148
+			}
+		],
+		"random_frame_start": false
+	},
+	"health": 333,
+	"humanoid": {
+		"race": "0"
+	},
+	"id": "2880",
+	"minimap_pixel": [
+		127,
+		185,
+		85
+	],
+	"moveable": {
+		"speed": 1.2000000476837158
+	},
+	"name": "Necromancer",
+	"sight": {
+		"ignore_infra_penalty": false,
+		"infravision": true,
+		"range": 10,
+		"threesixty": false
+	},
+	"stamina": {
+		"fatigue": 100,
+		"stamina": 100,
+		"stamina_regen": 0.0
+	},
+	"statistics": {
+		"dexterity": [
+			20,
+			24
+		],
+		"endurance": [
+			14,
+			19
+		],
+		"intelligence": [
+			48,
+			53
+		],
+		"magic_power": 10,
+		"strength": [
+			10,
+			13
+		],
+		"willpower": [
+			45,
+			49
+		]
+	},
+	"tags": [
+		"9",
+		"1"
+	]
+}

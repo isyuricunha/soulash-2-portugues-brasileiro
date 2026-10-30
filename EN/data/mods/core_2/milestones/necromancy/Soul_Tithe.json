@@ -1,0 +1,15 @@
+{
+	"id": "core_2_soul_tithe",
+	"name": "Soul Tithe",
+	"requirements": {
+		"skill": 36
+	},
+	"rewards": [
+		{
+			"action": 53
+		}
+	],
+	"skill_id": "core_2_necromancy",
+	"steps": [],
+	"steps_type": 0
+}

@@ -1,0 +1,77 @@
+{
+	"armor": {
+		"acid": 0,
+		"death": 0,
+		"electricity": 0,
+		"fire": 0,
+		"frost": 4,
+		"holy": 0,
+		"parry": 0,
+		"physical": 0,
+		"poison": 0,
+		"thorns": 0
+	},
+	"components": [
+		"armor",
+		"glyph",
+		"item",
+		"minimap_pixel",
+		"name",
+		"position_2d",
+		"resource",
+		"stackable",
+		"value",
+		"weapon",
+		"weight"
+	],
+	"description": "Crystalline blue gem, pulsing with an eerie, cold light. Encased in an eternal frost that never melts, it radiates a chilling aura, sapping warmth from the air around it.",
+	"glyph": {
+		"frames": [
+			{
+				"color": [
+					255,
+					255,
+					255
+				],
+				"delay": 0,
+				"index": 2800
+			}
+		],
+		"random_frame_start": false
+	},
+	"id": "core_2_Ice_Jewel",
+	"item": {
+		"image": 1260,
+		"type": 16
+	},
+	"minimap_pixel": [
+		100,
+		109,
+		155
+	],
+	"name": "Ice Jewel",
+	"resource": {
+		"affix": "of the Ice Calm",
+		"magic_ingredient": 4,
+		"quality": 4,
+		"type": 7
+	},
+	"value": 25000,
+	"weapon": {
+		"attack_speed": 0.0,
+		"critical_hit": 0.0,
+		"damage": [
+			{
+				"dmg_max": 4,
+				"dmg_min": 4,
+				"dmg_type": "frost"
+			}
+		],
+		"hands": 1,
+		"hit_bonus": 0,
+		"parry_bonus": 0,
+		"range": 0,
+		"type": 9
+	},
+	"weight": 0.10000000149011612
+}

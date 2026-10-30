@@ -1,0 +1,19 @@
+{
+	"id": "core_2_makeshift_wall",
+	"name": "Makeshift Wall",
+	"requirements": {
+		"milestones": [],
+		"skill": 1
+	},
+	"rewards": [
+		{
+			"recipe": "core_2_Makeshift_Stone_Wall"
+		},
+		{
+			"recipe": "core_2_Makeshift_Wooden_Wall"
+		}
+	],
+	"skill_id": "core_2_construction",
+	"steps": [],
+	"steps_type": 0
+}

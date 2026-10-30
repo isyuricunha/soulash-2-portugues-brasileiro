@@ -1,0 +1,8 @@
+{
+  "TXT": "byte-identical",
+  "entries": 29434,
+  "files": 5987,
+  "fixture_targets": "original English, temporary in memory only",
+  "real_translations_modified": false,
+  "semantic_roundtrip": "passed"
+}

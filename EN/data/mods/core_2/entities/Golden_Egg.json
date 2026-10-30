@@ -1,0 +1,48 @@
+{
+	"components": [
+		"glyph",
+		"item",
+		"minimap_pixel",
+		"name",
+		"position_2d",
+		"resource",
+		"stackable",
+		"value",
+		"weight"
+	],
+	"description": "Unusuallly large and heavy egg in a solid gold color.",
+	"glyph": {
+		"frames": [
+			{
+				"color": [
+					255,
+					255,
+					255
+				],
+				"delay": 0,
+				"index": 3123
+			}
+		],
+		"random_frame_start": true
+	},
+	"id": "core_2_Golden_Egg",
+	"item": {
+		"image": 1454,
+		"type": 16
+	},
+	"minimap_pixel": [
+		208,
+		204,
+		187
+	],
+	"name": "Golden Egg",
+	"resource": {
+		"affix": "of the Egg",
+		"granted_passive": "core_2_raging",
+		"magic_ingredient": 5,
+		"quality": 5,
+		"type": 7
+	},
+	"value": 100000,
+	"weight": 0.10000000149011612
+}

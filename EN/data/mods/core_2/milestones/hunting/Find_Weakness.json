@@ -1,0 +1,15 @@
+{
+	"id": "core_2_find_weakness",
+	"name": "Find Weakness",
+	"requirements": {
+		"skill": 30
+	},
+	"rewards": [
+		{
+			"amplifier": "core_2_find_weakness"
+		}
+	],
+	"skill_id": "core_2_hunting",
+	"steps": [],
+	"steps_type": 0
+}

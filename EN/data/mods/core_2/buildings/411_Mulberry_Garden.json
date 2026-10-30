@@ -1,0 +1,26 @@
+{
+	"id": "411",
+	"image": 163,
+	"name": "Mulberry Garden",
+	"occupation_image": 94,
+	"occupation": "core_2_Troll_Farmer",
+	"produces": [
+		{
+			"entities": [
+				{
+					"daily": 20,
+					"id": "core_2_Mulberry"
+				}
+			],
+			"takes": [
+				
+			]
+		}
+	],
+	"race": "7",
+	"tier": 1,
+	"workers": [
+		1,
+		4
+	]
+}

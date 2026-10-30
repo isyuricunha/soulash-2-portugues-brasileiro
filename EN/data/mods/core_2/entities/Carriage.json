@@ -1,0 +1,56 @@
+{
+	"armor": {
+		"acid": 0,
+		"death": 0,
+		"electricity": 0,
+		"fire": -20,
+		"frost": 0,
+		"holy": 0,
+		"parry": 0,
+		"physical": 2,
+		"poison": 1000,
+		"thorns": 0
+	},
+	"components": [
+		"armor",
+		"collidable",
+		"glyph",
+		"health",
+		"minimap_pixel",
+		"name",
+		"position_2d"
+	],
+	"corpse": [],
+	"description": "A fancy vehicle for transporting people. Looks like it's been abandoned some time ago.",
+	"glyph": {
+		"frames": [
+			{
+				"color": [
+					255,
+					255,
+					255
+				],
+				"delay": 0,
+				"index": 1620
+			},
+			{
+				"color": [
+					255,
+					255,
+					255
+				],
+				"delay": 0,
+				"index": 1621
+			}
+		],
+		"random_frame_start": true
+	},
+	"health": 100,
+	"id": "core_2_Carriges",
+	"minimap_pixel": [
+		71,
+		48,
+		17
+	],
+	"name": "Carriage"
+}

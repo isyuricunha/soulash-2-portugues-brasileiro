@@ -1,0 +1,25 @@
+{
+	"animation": "",
+	"cast_time": 0.20000000298023224,
+	"cooldown": 40.0,
+	"cost": {
+		"health": 20,
+		"stamina": 0
+	},
+	"description": "Summons frost clouds around, that will deal frost damage to anyone who steps on them. The clouds remain for ::duration turns.",
+	"duration": 30.0,
+	"effects": {
+		"aoe_range": 15,
+		"aoe_shape": 1,
+		"summon_count": 30
+	},
+	"effects_keys": {
+		"summon": "core_2_Frost_Cloud"
+	},
+	"id": "core_2_Summon_Frost_Cloud",
+	"image": 834,
+	"name": "Summon Frost Cloud",
+	"range": 0,
+	"skill": "",
+	"target": "aoe_self"
+}

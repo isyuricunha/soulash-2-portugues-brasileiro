@@ -1,0 +1,99 @@
+{
+	"armor": {
+		"acid": -5,
+		"death": 30,
+		"electricity": 30,
+		"fire": -10,
+		"frost": 20,
+		"holy": 2,
+		"parry": 0,
+		"physical": 8,
+		"poison": 6,
+		"thorns": 0
+	},
+	"background": {
+		"color": [
+			23,
+			27,
+			37
+		],
+		"noise": 4
+	},
+	"category_id": 2,
+	"components": [
+		"armor",
+		"background",
+		"block_light",
+		"collidable",
+		"craftable",
+		"glyph",
+		"health",
+		"height",
+		"minimap_pixel",
+		"name",
+		"position_2d",
+		"producer"
+	],
+	"corpse": [],
+	"craftable": {
+		"backgrounds": [],
+		"biomes": [],
+		"magic_slots": 0,
+		"resources": [
+			{
+				"amount": 2,
+				"id": "core_2_Peat"
+			}
+		],
+		"time": 10,
+		"tools": []
+	},
+	"description": "A crooked wall made out of peat bricks. ",
+	"glyph": {
+		"frames": [
+			{
+				"color": [
+					255,
+					255,
+					255
+				],
+				"delay": 0,
+				"index": 2112
+			},
+			{
+				"color": [
+					255,
+					255,
+					255
+				],
+				"delay": 0,
+				"index": 2113
+			}
+		],
+		"random_frame_start": true
+	},
+	"health": 250,
+	"height": 10,
+	"id": "core_2_Peat_Wall",
+	"minimap_pixel": [
+		74,
+		83,
+		92
+	],
+	"name": "Peat Wall",
+	"producer": {
+		"products": {
+			"core_2_deconstruct": [
+				{
+					"amount": [
+						0,
+						0
+					],
+					"id": "",
+					"percent_chance": 100
+				}
+			]
+		},
+		"time": 80
+	}
+}

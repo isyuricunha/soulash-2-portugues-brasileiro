@@ -1,0 +1,25 @@
+{
+	"animation": "core_2_Sandstorm",
+	"cast_time": 0.699999988079071,
+	"cooldown": 20.0,
+	"cost": {
+		"health": 0,
+		"stamina": 5
+	},
+	"description": "Envelop someone with a sandstorm that obscures vision in the area around them.",
+	"duration": 15.0,
+	"effects": {
+		"aoe_range": 10,
+		"aoe_shape": 1,
+		"summon_count": 100
+	},
+	"effects_keys": {
+		"summon": "core_2_Sandstorm"
+	},
+	"id": "core_2_Sandstorm",
+	"image": 785,
+	"name": "Sandstorm",
+	"range": 10,
+	"skill": "",
+	"target": "aoe_target"
+}

@@ -1,0 +1,135 @@
+{
+	"ability_user": [
+		"core_2_Roots",
+		"119",
+		"186"
+	],
+	"armor": {
+		"acid": 0,
+		"death": 0,
+		"electricity": 0,
+		"fire": -20,
+		"frost": 10,
+		"holy": 0,
+		"parry": 0,
+		"physical": 0,
+		"poison": 30,
+		"thorns": 50
+	},
+	"artificial_intelligence": {
+		"allies": [],
+		"allow_production": [],
+		"behaviors": [],
+		"enemies": [
+			"5"
+		]
+	},
+	"components": [
+		"ability_user",
+		"actor",
+		"armor",
+		"artificial_intelligence",
+		"collidable",
+		"dialogues",
+		"experience_gainer",
+		"fighter",
+		"glyph",
+		"health",
+		"minimap_pixel",
+		"name",
+		"position_2d",
+		"sight",
+		"stamina",
+		"statistics",
+		"tags",
+		"weapon"
+	],
+	"corpse": "2645",
+	"description": "\rAnimated tree roots that can catch and immobilize an unwary traveler.",
+	"dialogues": [],
+	"experience_gainer": {
+		"exp": 0,
+		"level": 30
+	},
+	"fighter": {
+		"attackNames": [
+			"Strangle"
+		]
+	},
+	"glyph": {
+		"frames": [
+			{
+				"color": [
+					255,
+					255,
+					255
+				],
+				"delay": 0,
+				"index": 1782
+			}
+		],
+		"random_frame_start": false
+	},
+	"health": 350,
+	"id": "2633",
+	"minimap_pixel": [
+		52,
+		144,
+		108
+	],
+	"name": "Deadly Roots",
+	"sight": {
+		"ignore_infra_penalty": false,
+		"infravision": true,
+		"range": 12,
+		"threesixty": false
+	},
+	"stamina": {
+		"fatigue": 100,
+		"stamina": 100,
+		"stamina_regen": 0.0
+	},
+	"statistics": {
+		"dexterity": [
+			15,
+			18
+		],
+		"endurance": [
+			40,
+			45
+		],
+		"hearing": 10,
+		"intelligence": [
+			20,
+			24
+		],
+		"magic_power": 10,
+		"strength": [
+			40,
+			44
+		],
+		"willpower": [
+			15,
+			19
+		]
+	},
+	"tags": [
+		"9"
+	],
+	"weapon": {
+		"attack_speed": 1.0,
+		"critical_hit": 0.0,
+		"damage": [
+			{
+				"dmg_max": 10,
+				"dmg_min": 5,
+				"dmg_type": "poison"
+			}
+		],
+		"hands": 1,
+		"hit_bonus": 3,
+		"parry_bonus": 1,
+		"range": 1,
+		"type": 0
+	}
+}

@@ -1,0 +1,34 @@
+{
+	"components": [
+		"collidable",
+		"glyph",
+		"health",
+		"minimap_pixel",
+		"name",
+		"position_2d"
+	],
+	"corpse": [],
+	"description": "A simple wooden coffin for someone's final journey.",
+	"glyph": {
+		"frames": [
+			{
+				"color": [
+					255,
+					255,
+					255
+				],
+				"delay": 0,
+				"index": 1779
+			}
+		],
+		"random_frame_start": true
+	},
+	"health": 50,
+	"id": "2613",
+	"minimap_pixel": [
+		169,
+		108,
+		17
+	],
+	"name": "Simple Coffin"
+}

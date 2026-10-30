@@ -1,0 +1,58 @@
+{
+	"components": [
+		"glyph",
+		"item",
+		"liquid_source",
+		"minimap_pixel",
+		"name",
+		"position_2d",
+		"producer",
+		"weight"
+	],
+	"description": "Dead werewolf body.",
+	"glyph": {
+		"frames": [
+			{
+				"color": [
+					255,
+					255,
+					255
+				],
+				"delay": 0,
+				"index": 1807
+			}
+		],
+		"random_frame_start": true
+	},
+	"id": "2752",
+	"item": {
+		"image": 706,
+		"type": 18
+	},
+	"liquid_source": {
+		"limit": 60,
+		"type": 4
+	},
+	"minimap_pixel": [
+		147,
+		128,
+		104
+	],
+	"name": "Werewolf Corpse",
+	"producer": {
+		"products": {
+			"3": [
+				{
+					"amount": [
+						1,
+						1
+					],
+					"id": "2148",
+					"percent_chance": 100
+				}
+			]
+		},
+		"time": 0
+	},
+	"weight": 60.0
+}

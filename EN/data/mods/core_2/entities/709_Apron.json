@@ -1,0 +1,68 @@
+{
+	"armor": {
+		"acid": 1,
+		"death": 0,
+		"electricity": 0,
+		"fire": 0,
+		"frost": 0,
+		"holy": 0,
+		"parry": 0,
+		"physical": 0,
+		"poison": 1,
+		"thorns": 0
+	},
+	"components": [
+		"armor",
+		"craftable",
+		"glyph",
+		"item",
+		"minimap_pixel",
+		"name",
+		"position_2d",
+		"value",
+		"weight"
+	],
+	"craftable": {
+		"backgrounds": [],
+		"biomes": [],
+		"magic_slots": 1,
+		"resource_types": [
+			{
+				"amount": 2,
+				"id": 4
+			}
+		],
+		"time": 50,
+		"tools": [
+			12
+		]
+	},
+	"description": "Simple apron used by cooks to protect clothes from nasty stains.",
+	"glyph": {
+		"frames": [
+			{
+				"color": [
+					255,
+					255,
+					255
+				],
+				"delay": 0,
+				"index": 377
+			}
+		],
+		"random_frame_start": false
+	},
+	"id": "709",
+	"item": {
+		"image": 261,
+		"type": 5
+	},
+	"minimap_pixel": [
+		180,
+		180,
+		180
+	],
+	"name": "Apron",
+	"value": 500,
+	"weight": 0.5
+}

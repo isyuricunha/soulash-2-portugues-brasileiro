@@ -1,0 +1,166 @@
+{
+	"artificial_intelligence": {
+		"allies": [
+			"29"
+		],
+		"allow_production": [],
+		"behaviors": [
+			5
+		],
+		"enemies": []
+	},
+	"components": [
+		"actor",
+		"artificial_intelligence",
+		"collidable",
+		"consumer",
+		"dialogues",
+		"equipment",
+		"experience_gainer",
+		"fighter",
+		"glyph",
+		"health",
+		"humanoid",
+		"minimap_pixel",
+		"moveable",
+		"name",
+		"persona",
+		"position_2d",
+		"sight",
+		"skills",
+		"stamina",
+		"statistics",
+		"tags"
+	],
+	"corpse": "core_2_Gnome_Corpse",
+	"description": "",
+	"dialogues": [
+		"1068",
+		"1070",
+		"1071",
+		"1072"
+	],
+	"equipment": {
+		"backpack": [
+			{
+				"chance": 1.0,
+				"id": "core_2_Exploding_Bomb",
+				"name": "Exploding Bomb",
+				"stack": 5
+			}
+		],
+		"legs_cloth": [
+			{
+				"chance": 1.0,
+				"id": "298",
+				"name": "Pants",
+				"stack": 1
+			}
+		],
+		"right_hand": [
+			{
+				"chance": 1.0,
+				"id": "79",
+				"name": "Longsword",
+				"stack": 1
+			}
+		],
+		"torso_armor": [
+			{
+				"chance": 1.0,
+				"id": "166",
+				"name": "Breastplate",
+				"stack": 1
+			}
+		]
+	},
+	"experience_gainer": {
+		"exp": 10,
+		"level": 2
+	},
+	"fighter": {
+		"attackNames": null
+	},
+	"glyph": {
+		"frames": [
+			{
+				"color": [
+					255,
+					255,
+					255
+				],
+				"delay": 0,
+				"index": 208
+			}
+		],
+		"random_frame_start": false
+	},
+	"health": 500,
+	"humanoid": {
+		"race": "24"
+	},
+	"id": "core_2_Gnome_Bombardier",
+	"minimap_pixel": [
+		176,
+		196,
+		222
+	],
+	"moveable": {
+		"speed": 1.0
+	},
+	"name": "Gnome Bombardier",
+	"persona": {
+		"occupation": "Bombardier"
+	},
+	"sight": {
+		"ignore_infra_penalty": false,
+		"infravision": false,
+		"range": 10,
+		"threesixty": false
+	},
+	"skills": {
+		"milestones": [
+			"core_2_climbing",
+			"core_2_drag_drop",
+			"core_2_fast",
+			"core_2_i_can_do_this_all_day",
+			"core_2_bushido",
+			"core_2_chain_slash"
+		],
+		"skills": [
+			"core_2_athletics",
+			"core_2_sword_fighting"
+		]
+	},
+	"stamina": {
+		"fatigue": 100,
+		"stamina": 100,
+		"stamina_regen": 0.0
+	},
+	"statistics": {
+		"dexterity": [
+			60,
+			65
+		],
+		"endurance": [
+			60,
+			65
+		],
+		"intelligence": [
+			59,
+			62
+		],
+		"strength": [
+			60,
+			65
+		],
+		"willpower": [
+			40,
+			43
+		]
+	},
+	"tags": [
+		"9",
+		"29"
+	]
+}

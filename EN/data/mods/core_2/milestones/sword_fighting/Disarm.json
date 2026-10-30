@@ -1,0 +1,16 @@
+{
+	"id": "core_2_disarm",
+	"name": "Disarm",
+	"requirements": {
+		"milestones": [],
+		"skill": 36
+	},
+	"rewards": [
+		{
+			"ability": "16"
+		}
+	],
+	"skill_id": "core_2_sword_fighting",
+	"steps": [],
+	"steps_type": 0
+}

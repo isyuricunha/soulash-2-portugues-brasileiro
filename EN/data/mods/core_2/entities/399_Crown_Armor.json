@@ -1,0 +1,70 @@
+{
+	"armor": {
+		"acid": 6,
+		"death": 0,
+		"electricity": 0,
+		"fire": 4,
+		"frost": 0,
+		"holy": 6,
+		"parry": 0,
+		"physical": 8,
+		"poison": 0
+	},
+	"components": [
+		"armor",
+		"craftable",
+		"glyph",
+		"item",
+		"minimap_pixel",
+		"name",
+		"position_2d",
+		"value",
+		"weight"
+	],
+	"craftable": {
+		"magic_slots": 5,
+		"resource_types": [
+			{
+				"amount": 4,
+				"id": 1
+			},
+			{
+				"amount": 1,
+				"id": 8
+			}
+		],
+		"resources": null,
+		"time": 360,
+		"tools": [
+			1
+		]
+	},
+	"description": "This armor is worn only by kings and emperors.",
+	"glyph": {
+		"frames": [
+			{
+				"color": [
+					255,
+					255,
+					255
+				],
+				"delay": 0,
+				"index": 608
+			}
+		],
+		"random_frame_start": false
+	},
+	"id": "399",
+	"item": {
+		"image": 168,
+		"type": 4
+	},
+	"minimap_pixel": [
+		218,
+		165,
+		32
+	],
+	"name": "Crown Armor",
+	"value": 20000,
+	"weight": 10.0
+}

@@ -1,0 +1,19 @@
+{
+	"id": "core_2_drying_leather_rack",
+	"name": "Drying Leather Rack",
+	"requirements": {
+		"milestones": [],
+		"skill": 6
+	},
+	"rewards": [
+		{
+			"recipe": "2784"
+		},
+		{
+			"recipe": "2785"
+		}
+	],
+	"skill_id": "core_2_carpentry",
+	"steps": [],
+	"steps_type": 0
+}

@@ -1,0 +1,28 @@
+{
+	"animation": "core_2_Fog",
+	"cast_time": 0.7,
+	"cooldown": 20.0,
+	"cost": {
+		"health": 0,
+		"stamina": 5
+	},
+	"description": "Envelop someone with a thick fog that obscures vision in the area around them.",
+	"duration": 10.0,
+	"effects": {
+		"aoe_range": 5,
+		"aoe_shape": 1,
+		"summon_count": 100
+	},
+	"effects_keys": {
+		"summon": "core_2_Fog"
+	},
+	"id": "core_2_Fog",
+	"image": 740,
+	"name": "Fog",
+	"range": 10,
+	"skill": "core_2_cryomancy",
+	"slots": {
+		"utility": 2
+	},
+	"target": "aoe_target"
+}

@@ -1,0 +1,70 @@
+{
+	"armor": {
+		"acid": 0,
+		"death": 1,
+		"electricity": 4,
+		"fire": 4,
+		"frost": 4,
+		"holy": 0,
+		"parry": 0,
+		"physical": 3,
+		"poison": 0
+	},
+	"components": [
+		"armor",
+		"craftable",
+		"glyph",
+		"item",
+		"minimap_pixel",
+		"name",
+		"position_2d",
+		"value",
+		"weight"
+	],
+	"craftable": {
+		"magic_slots": 4,
+		"resource_types": [
+			{
+				"amount": 3,
+				"id": 9
+			},
+			{
+				"amount": 1,
+				"id": 4
+			}
+		],
+		"resources": null,
+		"time": 90,
+		"tools": [
+			14
+		]
+	},
+	"description": "Short cloak made of animal fur. It provides warmth and protection from the elements and is often worn by hunters and travelers in colder climates.",
+	"glyph": {
+		"frames": [
+			{
+				"color": [
+					255,
+					255,
+					255
+				],
+				"delay": 0,
+				"index": 561
+			}
+		],
+		"random_frame_start": false
+	},
+	"id": "2318",
+	"item": {
+		"image": 591,
+		"type": 10
+	},
+	"minimap_pixel": [
+		182,
+		175,
+		158
+	],
+	"name": "Fur Mantle",
+	"value": 6000,
+	"weight": 2.5
+}

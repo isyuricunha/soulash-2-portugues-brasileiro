@@ -1,0 +1,16 @@
+{
+	"id": "core_2_walk_on_water",
+	"name": "Walk On Water",
+	"requirements": {
+		"milestones": [],
+		"skill": 44
+	},
+	"rewards": [
+		{
+			"passive": "core_2_walk_on_water"
+		}
+	],
+	"skill_id": "core_2_cryomancy",
+	"steps": [],
+	"steps_type": 0
+}

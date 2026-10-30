@@ -1,0 +1,16 @@
+{
+	"id": "core_2_crop_shirt",
+	"name": "Crop Shirt",
+	"requirements": {
+		"milestones": [],
+		"skill": 12
+	},
+	"rewards": [
+		{
+			"recipe": "core_2_Crop_Shirt"
+		}
+	],
+	"skill_id": "core_2_tailoring",
+	"steps": [],
+	"steps_type": 0
+}

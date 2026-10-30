@@ -1,0 +1,15 @@
+{
+	"id": "core_2_is_that_yours",
+	"name": "Is That Yours?",
+	"requirements": {
+		"skill": 44
+	},
+	"rewards": [
+		{
+			"ability": "182"
+		}
+	],
+	"skill_id": "core_2_protection",
+	"steps": [],
+	"steps_type": 1
+}

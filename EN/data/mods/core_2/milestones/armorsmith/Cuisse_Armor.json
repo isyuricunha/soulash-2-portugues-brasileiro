@@ -1,0 +1,16 @@
+{
+	"id": "core_2_cuisse_armor",
+	"name": "Cuisse Armor",
+	"requirements": {
+		"milestones": [],
+		"skill": 18
+	},
+	"rewards": [
+		{
+			"recipe": "core_2_Cuisse_Armor"
+		}
+	],
+	"skill_id": "core_2_armorsmith",
+	"steps": [],
+	"steps_type": 0
+}

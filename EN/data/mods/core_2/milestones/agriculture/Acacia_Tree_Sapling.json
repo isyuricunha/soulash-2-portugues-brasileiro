@@ -1,0 +1,16 @@
+{
+	"id": "core_2_acacia_sapling",
+	"name": "Acacia Tree Sapling",
+	"requirements": {
+		"milestones": [],
+		"skill": 4
+	},
+	"rewards": [
+		{
+			"recipe": "core_2_Acacia_Tree_Sapling"
+		}
+	],
+	"skill_id": "core_2_agriculture",
+	"steps": [],
+	"steps_type": 0
+}

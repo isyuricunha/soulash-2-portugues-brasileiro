@@ -1,0 +1,64 @@
+{
+	"components": [
+		"collidable",
+		"glyph",
+		"item",
+		"light_source",
+		"minimap_pixel",
+		"name",
+		"position_2d",
+		"stackable",
+		"value",
+		"weapon",
+		"weight"
+	],
+	"description": "This lamp is golden and it features delicate leaf-shaped ornamentation.",
+	"glyph": {
+		"frames": [
+			{
+				"color": [
+					255,
+					255,
+					255
+				],
+				"delay": 300,
+				"index": 3449
+			}
+		],
+		"random_frame_start": true
+	},
+	"id": "core_2_Fancy_Lamp",
+	"item": {
+		"image": 1546,
+		"type": 13
+	},
+	"light_source": {
+		"finish": -1,
+		"lit_image": 1545,
+		"range": 7
+	},
+	"minimap_pixel": [
+		136,
+		120,
+		42
+	],
+	"name": "Fancy Lamp",
+	"value": 300,
+	"weapon": {
+		"attack_speed": 1.0,
+		"critical_hit": 0.0,
+		"damage": [
+			{
+				"dmg_max": 1,
+				"dmg_min": 0,
+				"dmg_type": "poison"
+			}
+		],
+		"hands": 1,
+		"hit_bonus": 0,
+		"parry_bonus": 0,
+		"range": 1,
+		"type": 8
+	},
+	"weight": 0.5
+}

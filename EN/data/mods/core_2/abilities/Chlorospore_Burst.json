@@ -1,0 +1,29 @@
+{
+	"animation": "",
+	"cast_time": 1.2000000476837158,
+	"cooldown": 8.0,
+	"cost": {
+		"health": 0,
+		"stamina": 4
+	},
+	"description": "Throws small cloud of spores at a single target that deals ::damage ::damage_type damage.",
+	"duration": 0.0,
+	"effects": {
+		"damage": [
+			25,
+			40
+		],
+		"damage_type": "poison",
+		"poison_effect": 2
+	},
+	"id": "core_2_Chlorospore_Burst",
+	"image": 40,
+	"name": "Chlorospore Burst",
+	"range": 10,
+	"skill": "",
+	"slots": {
+		"offensive": 1,
+		"utility": 1
+	},
+	"target": "line"
+}

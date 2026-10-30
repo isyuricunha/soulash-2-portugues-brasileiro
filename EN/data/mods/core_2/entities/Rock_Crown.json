@@ -1,0 +1,72 @@
+{
+	"armor": {
+		"acid": 0,
+		"death": 2,
+		"electricity": 0,
+		"fire": 1,
+		"frost": 0,
+		"holy": 0,
+		"parry": 0,
+		"physical": 1,
+		"poison": 0,
+		"thorns": 0
+	},
+	"components": [
+		"armor",
+		"craftable",
+		"glyph",
+		"item",
+		"minimap_pixel",
+		"name",
+		"position_2d",
+		"value",
+		"weight"
+	],
+	"craftable": {
+		"backgrounds": [],
+		"biomes": [],
+		"magic_slots": 2,
+		"resource_types": [
+			{
+				"amount": 1,
+				"id": 1
+			},
+			{
+				"amount": 2,
+				"id": 6
+			}
+		],
+		"time": 65,
+		"tools": [
+			1
+		]
+	},
+	"description": "A crown that looks like it was made out of rocks.",
+	"glyph": {
+		"frames": [
+			{
+				"color": [
+					255,
+					255,
+					255
+				],
+				"delay": 0,
+				"index": 2342
+			}
+		],
+		"random_frame_start": false
+	},
+	"id": "core_2_Rock_Crown",
+	"item": {
+		"image": 1009,
+		"type": 1
+	},
+	"minimap_pixel": [
+		217,
+		144,
+		88
+	],
+	"name": "Rock Crown",
+	"value": 500,
+	"weight": 3.0
+}

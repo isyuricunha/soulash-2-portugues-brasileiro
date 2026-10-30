@@ -1,0 +1,30 @@
+{
+	"id": "464",
+	"image": 351,
+	"name": "Poisoner",
+	"max": 1,
+	"occupation_image": 96,
+	"occupation": "core_2_Skeleton_Poisoner",
+	"produces": [
+		{
+			"entities": [
+				{
+					"daily": 0.3,
+					"id": "core_2_Frozen_Poison"
+				}
+			],
+			"takes": [
+				{
+					"amount": 0.3,
+					"id": "core_2_Frozen_Herbs"
+				}
+			]
+		}
+	],
+	"race": "17",
+	"tier": 3,
+	"workers": [
+		1,
+		3
+	]
+}

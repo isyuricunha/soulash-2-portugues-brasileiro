@@ -1,0 +1,16 @@
+{
+	"id": "core_2_aura_of_petals",
+	"name": "Aura Of Petals",
+	"requirements": {
+		"milestones": [],
+		"skill": 21
+	},
+	"rewards": [
+		{
+			"ability": "core_2_Aura_Of_Petals"
+		}
+	],
+	"skill_id": "core_2_floromancy",
+	"steps": [],
+	"steps_type": 0
+}

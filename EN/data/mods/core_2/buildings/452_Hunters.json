@@ -1,0 +1,54 @@
+{
+	"id": "452",
+	"image": 339,
+	"name": "Hunters",
+	"occupation_image": 1,
+	"occupation": "core_2_Skeleton_Hunter",
+	"produces": [
+		{
+			"entities": [
+				{
+					"daily": 0.5,
+					"id": "318"
+				},
+				{
+					"daily": 0.25,
+					"id": "2146"
+				}
+			],
+			"takes": []
+		},
+		{
+			"entities": [
+				{
+					"daily": 0.5,
+					"id": "318"
+				},
+				{
+					"daily": 0.25,
+					"id": "core_2_Puinguin_Leather"
+				}
+			],
+			"takes": []
+		},
+		{
+			"entities": [
+				{
+					"daily": 0.5,
+					"id": "318"
+				},
+				{
+					"daily": 0.25,
+					"id": "2918"
+				}
+			],
+			"takes": []
+		}
+	],
+	"race": "17",
+	"tier": 1,
+	"workers": [
+		1,
+		4
+	]
+}

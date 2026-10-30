@@ -1,0 +1,16 @@
+{
+	"id": "111",
+	"image": 77,
+	"max": 1,
+	"name": "Slinger's Pack",
+	"occupation_image": 65,
+	"occupation": "2347",
+	"produces": [],
+	"race": "10",
+	"tier": 2,
+	"type": "military",
+	"workers": [
+		1,
+		6
+	]
+}

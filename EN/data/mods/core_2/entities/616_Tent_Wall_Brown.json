@@ -1,0 +1,89 @@
+{
+	"armor": {
+		"acid": 5,
+		"death": 0,
+		"electricity": 0,
+		"fire": 0,
+		"frost": 5,
+		"holy": 5,
+		"parry": 0,
+		"physical": 0,
+		"poison": 0,
+		"thorns": 0
+	},
+	"background": {
+		"color": [
+			44,
+			45,
+			41
+		],
+		"noise": 1
+	},
+	"category_id": 2,
+	"components": [
+		"armor",
+		"background",
+		"block_light",
+		"collidable",
+		"craftable",
+		"glyph",
+		"health",
+		"height",
+		"minimap_pixel",
+		"name",
+		"position_2d",
+		"producer"
+	],
+	"corpse": [],
+	"craftable": {
+		"magic_slots": 0,
+		"resource_types": [
+			{
+				"amount": 1,
+				"id": 4
+			}
+		],
+		"resources": null,
+		"time": 2,
+		"tools": []
+	},
+	"description": "Wall of a tent made from a material. It can shield goods from prying eyes and a person from the scorching sun.",
+	"glyph": {
+		"frames": [
+			{
+				"color": [
+					255,
+					255,
+					255
+				],
+				"delay": 0,
+				"index": 762
+			}
+		],
+		"random_frame_start": false
+	},
+	"health": 50,
+	"height": 7,
+	"id": "616",
+	"minimap_pixel": [
+		185,
+		144,
+		80
+	],
+	"name": "Tent Wall Brown",
+	"producer": {
+		"products": {
+			"core_2_deconstruct": [
+				{
+					"amount": [
+						0,
+						0
+					],
+					"id": "-1",
+					"percent_chance": 0
+				}
+			]
+		},
+		"time": 20
+	}
+}

@@ -1,0 +1,75 @@
+{
+	"armor": {
+		"acid": 0,
+		"death": 5,
+		"electricity": 10,
+		"fire": -20,
+		"frost": 200,
+		"holy": 5,
+		"parry": 0,
+		"physical": 2,
+		"poison": 5,
+		"thorns": 0
+	},
+	"category_id": 7,
+	"components": [
+		"armor",
+		"craftable",
+		"glyph",
+		"health",
+		"minimap_pixel",
+		"name",
+		"position_2d",
+		"producer"
+	],
+	"corpse": [],
+	"craftable": {
+		"magic_slots": 0,
+		"resources": [
+			{
+				"amount": 2,
+				"id": "2472"
+			}
+		],
+		"time": 40,
+		"tools": []
+	},
+	"description": "The ice-cold throne of Zima, God of Winter.",
+	"glyph": {
+		"frames": [
+			{
+				"color": [
+					255,
+					255,
+					255
+				],
+				"delay": 0,
+				"index": 1039
+			}
+		],
+		"random_frame_start": false
+	},
+	"health": 100,
+	"id": "979",
+	"minimap_pixel": [
+		113,
+		157,
+		188
+	],
+	"name": "Ice Throne",
+	"producer": {
+		"products": {
+			"core_2_deconstruct": [
+				{
+					"amount": [
+						0,
+						0
+					],
+					"id": "-1",
+					"percent_chance": 0
+				}
+			]
+		},
+		"time": 40
+	}
+}

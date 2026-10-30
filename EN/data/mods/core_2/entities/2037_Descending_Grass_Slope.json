@@ -1,0 +1,78 @@
+{
+	"components": [
+		"glyph",
+		"map_connector",
+		"minimap_pixel",
+		"name",
+		"position_2d",
+		"producer"
+	],
+	"description": "Grass and plants covered slope leading down.",
+	"glyph": {
+		"frames": [
+			{
+				"color": [
+					255,
+					255,
+					255
+				],
+				"delay": 160,
+				"index": 1546
+			},
+			{
+				"color": [
+					255,
+					255,
+					255
+				],
+				"delay": 260,
+				"index": 1546
+			},
+			{
+				"color": [
+					255,
+					255,
+					255
+				],
+				"delay": 260,
+				"index": 3475
+			},
+			{
+				"color": [
+					255,
+					255,
+					255
+				],
+				"delay": 260,
+				"index": 3473
+			}
+		],
+		"random_frame_start": false
+	},
+	"id": "2037",
+	"map_connector": {
+		"opposite_connector": "2036",
+		"z_level": -1
+	},
+	"minimap_pixel": [
+		61,
+		38,
+		7
+	],
+	"name": "Descending Grass Slope",
+	"producer": {
+		"products": {
+			"core_2_deconstruct": [
+				{
+					"amount": [
+						0,
+						0
+					],
+					"id": "",
+					"percent_chance": 0
+				}
+			]
+		},
+		"time": 40
+	}
+}

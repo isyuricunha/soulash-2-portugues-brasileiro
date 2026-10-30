@@ -1,0 +1,65 @@
+{
+	"components": [
+		"craftable",
+		"glyph",
+		"item",
+		"minimap_pixel",
+		"name",
+		"position_2d",
+		"stackable",
+		"usable",
+		"value",
+		"weight"
+	],
+	"craftable": {
+		"backgrounds": [],
+		"biomes": [],
+		"magic_slots": 0,
+		"resources": [
+			{
+				"amount": 1,
+				"id": "core_2_Puffball_Mushroom"
+			},
+			{
+				"amount": 1,
+				"id": "835"
+			}
+		],
+		"time": 20,
+		"tools": [
+			15
+		]
+	},
+	"description": "This potion will add some energy to your steps.",
+	"glyph": {
+		"frames": [
+			{
+				"color": [
+					255,
+					255,
+					255
+				],
+				"delay": 0,
+				"index": 2946
+			}
+		],
+		"random_frame_start": false
+	},
+	"id": "core_2_Haste_Potion",
+	"item": {
+		"image": 1332,
+		"type": 17
+	},
+	"minimap_pixel": [
+		157,
+		78,
+		54
+	],
+	"name": "Haste Potion",
+	"usable": {
+		"ability": "core_2_Haste_Potion",
+		"recipe": ""
+	},
+	"value": 1000,
+	"weight": 0.10000000149011612
+}

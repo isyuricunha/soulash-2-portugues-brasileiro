@@ -1,0 +1,16 @@
+{
+	"id": "core_2_ornament_shield",
+	"name": "Ornament Shield",
+	"requirements": {
+		"milestones": [],
+		"skill": 30
+	},
+	"rewards": [
+		{
+			"recipe": "403"
+		}
+	],
+	"skill_id": "core_2_armorsmith",
+	"steps": [],
+	"steps_type": 0
+}

@@ -1,0 +1,16 @@
+{
+	"id": "core_2_book_pyromancy",
+	"name": "Book Of Pyromancy",
+	"requirements": {
+		"milestones": [],
+		"skill": 44
+	},
+	"rewards": [
+		{
+			"recipe": "2986"
+		}
+	],
+	"skill_id": "core_2_pyromancy",
+	"steps": [],
+	"steps_type": 0
+}

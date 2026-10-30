@@ -1,0 +1,25 @@
+{
+	"id": "566",
+	"image": 402,
+	"name": "Red Currant Farm",
+	"occupation_image": 92,
+	"occupation": "core_2_Gnome_Farmer",
+	"produces": [
+		{
+			"entities": [
+				{
+					"daily": 10,
+					"id": "core_2_Red_Currant"
+				}
+			],
+			"takes": []
+		}
+	],
+	"race": "24",
+	"max": 4,
+	"tier": 1,
+	"workers": [
+		1,
+		4
+	]
+}

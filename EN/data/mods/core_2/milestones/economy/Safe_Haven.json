@@ -1,0 +1,15 @@
+{
+	"id": "core_2_safe_haven",
+	"name": "Safe Haven",
+	"requirements": {
+		"skill": 22
+	},
+	"rewards": [
+		{
+			"passive": "core_2_safe_haven"
+		}
+	],
+	"skill_id": "core_2_economy",
+	"steps": [],
+	"steps_type": 0
+}

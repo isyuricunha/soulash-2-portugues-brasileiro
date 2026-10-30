@@ -1,0 +1,166 @@
+{
+	"ability_user": [
+		"183",
+		"82"
+	],
+	"artificial_intelligence": {
+		"allies": [],
+		"allow_production": [],
+		"behaviors": [],
+		"enemies": []
+	},
+	"components": [
+		"ability_user",
+		"actor",
+		"artificial_intelligence",
+		"collidable",
+		"consumer",
+		"dialogues",
+		"equipment",
+		"fighter",
+		"glyph",
+		"health",
+		"humanoid",
+		"minimap_pixel",
+		"moveable",
+		"name",
+		"persona",
+		"position_2d",
+		"sight",
+		"skills",
+		"stamina",
+		"statistics",
+		"tags"
+	],
+	"corpse": "core_2_Ursan_Corpse",
+	"description": "",
+	"dialogues": [
+		"746",
+		"751",
+		"752"
+	],
+	"equipment": {
+		"cape": [
+			{
+				"chance": 1.0,
+				"id": "2178",
+				"name": "Fur Pauldron",
+				"stack": 1
+			}
+		],
+		"head_armor": [
+			{
+				"chance": 1.0,
+				"id": "core_2_Fur_Hood",
+				"name": "Fur Hood",
+				"stack": 1
+			}
+		],
+		"legs_armor": [
+			{
+				"chance": 1.0,
+				"id": "2309",
+				"name": "Leather Shin Guards",
+				"stack": 1
+			}
+		],
+		"right_hand": [
+			{
+				"chance": 1.0,
+				"id": "core_2_Jaw_Axe",
+				"name": "Jaw Axe",
+				"stack": 1
+			}
+		],
+		"torso_armor": [
+			{
+				"chance": 1.0,
+				"id": "2219",
+				"name": "Reinforced Fur Armor",
+				"stack": 1
+			}
+		]
+	},
+	"fighter": {
+		"attackNames": null
+	},
+	"glyph": {
+		"frames": [
+			{
+				"color": [
+					255,
+					255,
+					255
+				],
+				"delay": 0,
+				"index": 85
+			}
+		],
+		"random_frame_start": false
+	},
+	"health": 600,
+	"humanoid": {
+		"race": "33"
+	},
+	"id": "core_2_Ursan_Warchief",
+	"minimap_pixel": [
+		224,
+		172,
+		105
+	],
+	"moveable": {
+		"speed": 0.6000000238418579
+	},
+	"name": "Ursan Warchief",
+	"persona": {
+		"occupation": "Warchief"
+	},
+	"sight": {
+		"ignore_infra_penalty": false,
+		"infravision": false,
+		"range": 10,
+		"threesixty": false
+	},
+	"skills": {
+		"milestones": [
+			"core_2_climbing",
+			"core_2_long_jump",
+			"core_2_i_would_like_to_rage"
+		],
+		"skills": [
+			"core_2_athletics",
+			"core_2_leadership",
+			"core_2_axe_fighting"
+		]
+	},
+	"stamina": {
+		"fatigue": 100,
+		"stamina": 100,
+		"stamina_regen": 0.0
+	},
+	"statistics": {
+		"dexterity": [
+			34,
+			37
+		],
+		"endurance": [
+			75,
+			79
+		],
+		"intelligence": [
+			15,
+			19
+		],
+		"strength": [
+			68,
+			73
+		],
+		"willpower": [
+			61,
+			65
+		]
+	},
+	"tags": [
+		"9"
+	]
+}

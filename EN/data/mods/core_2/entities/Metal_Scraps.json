@@ -1,0 +1,44 @@
+{
+	"armor": {
+		"acid": 0,
+		"death": 0,
+		"electricity": 0,
+		"fire": -20,
+		"frost": 0,
+		"holy": 0,
+		"parry": 0,
+		"physical": 2,
+		"poison": 1000,
+		"thorns": 0
+	},
+	"components": [
+		"armor",
+		"collidable",
+		"glyph",
+		"minimap_pixel",
+		"name",
+		"position_2d"
+	],
+	"description": "Twisted and sharp scraps of metal, almost unusable.",
+	"glyph": {
+		"frames": [
+			{
+				"color": [
+					255,
+					255,
+					255
+				],
+				"delay": 0,
+				"index": 2885
+			}
+		],
+		"random_frame_start": true
+	},
+	"id": "core_2_Metal_Scraps",
+	"minimap_pixel": [
+		71,
+		48,
+		17
+	],
+	"name": "Metal Scraps"
+}

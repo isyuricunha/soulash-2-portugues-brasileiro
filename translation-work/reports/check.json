@@ -1,0 +1,26 @@
+{
+  "game": "Soulash 2",
+  "version": "0.10.5",
+  "generation": "a3e1280801576bd24484b6820b852bfa377d9722fb10ee3d420d84c437d12294",
+  "files": 5987,
+  "entries": 29434,
+  "filled": 25249,
+  "empty": 4185,
+  "reviewed": 0,
+  "review_pending": 29434,
+  "batches": 59,
+  "PTBR": "absent",
+  "next": {
+    "id": "s2-e377094d920cb2ca40859f34",
+    "batch": "batch-0001.jsonl"
+  },
+  "storage": {
+    "transactions": 1,
+    "completed": 1,
+    "protected": 0,
+    "bytes": 1338710,
+    "retention_count": 10,
+    "retention_bytes": 536870912,
+    "reclaimable_bytes": 0
+  }
+}

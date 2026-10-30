@@ -1,0 +1,63 @@
+{
+	"components": [
+		"container",
+		"craftable",
+		"glyph",
+		"item",
+		"liquid_source",
+		"minimap_pixel",
+		"name",
+		"position_2d",
+		"value",
+		"weight"
+	],
+	"container": {
+		"capacity": 200,
+		"type": 1
+	},
+	"craftable": {
+		"magic_slots": 0,
+		"resources": [
+			{
+				"amount": 2,
+				"id": "2004"
+			}
+		],
+		"time": 20,
+		"tools": [
+			1
+		]
+	},
+	"description": "Clay container for liquid with narrow opening to pour drinks.",
+	"glyph": {
+		"frames": [
+			{
+				"color": [
+					255,
+					255,
+					255
+				],
+				"delay": 0,
+				"index": 698
+			}
+		],
+		"random_frame_start": false
+	},
+	"id": "832",
+	"item": {
+		"image": 371,
+		"type": 17
+	},
+	"liquid_source": {
+		"limit": 0,
+		"type": 1
+	},
+	"minimap_pixel": [
+		194,
+		133,
+		109
+	],
+	"name": "Clay Jug",
+	"value": 500,
+	"weight": 1.0
+}

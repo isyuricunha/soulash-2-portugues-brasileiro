@@ -1,0 +1,36 @@
+{
+	"components": [
+		"collidable",
+		"glyph",
+		"health",
+		"minimap_pixel",
+		"name",
+		"position_2d",
+		"resting_place"
+	],
+	"corpse": [],
+	"description": "A simple stone coffin for someone's last journey. Looks used daily.",
+	"glyph": {
+		"frames": [
+			{
+				"color": [
+					255,
+					255,
+					255
+				],
+				"delay": 0,
+				"index": 1912
+			}
+		],
+		"random_frame_start": true
+	},
+	"health": 50,
+	"id": "core_2_Simple_Stone_Coffin",
+	"minimap_pixel": [
+		169,
+		108,
+		17
+	],
+	"name": "Simple Stone Coffin",
+	"resting_place": 150
+}

@@ -1,0 +1,100 @@
+{
+	"armor": {
+		"acid": 0,
+		"death": 5,
+		"electricity": 0,
+		"fire": 10,
+		"frost": 0,
+		"holy": 0,
+		"parry": 0,
+		"physical": 5,
+		"poison": 0,
+		"thorns": 0
+	},
+	"components": [
+		"armor",
+		"craftable",
+		"glyph",
+		"item",
+		"minimap_pixel",
+		"name",
+		"position_2d",
+		"statistics",
+		"value",
+		"weight"
+	],
+	"craftable": {
+		"backgrounds": [],
+		"biomes": [],
+		"magic_slots": 5,
+		"resources": [
+			{
+				"amount": 3,
+				"id": "716"
+			},
+			{
+				"amount": 1,
+				"id": "161"
+			},
+			{
+				"amount": 1,
+				"id": "2112"
+			}
+		],
+		"time": 60,
+		"tools": [
+			1
+		]
+	},
+	"description": "This necklace is made out of shiny beetles mounted to a thin chain.",
+	"glyph": {
+		"frames": [
+			{
+				"color": [
+					255,
+					255,
+					255
+				],
+				"delay": 0,
+				"index": 2466
+			}
+		],
+		"random_frame_start": false
+	},
+	"id": "core_2_Dead_Beetle_Necklace",
+	"item": {
+		"image": 1084,
+		"type": 3
+	},
+	"minimap_pixel": [
+		218,
+		165,
+		32
+	],
+	"name": "Dead Beetle Necklace",
+	"statistics": {
+		"burn": 20,
+		"dexterity": [
+			0,
+			0
+		],
+		"endurance": [
+			0,
+			0
+		],
+		"intelligence": [
+			0,
+			0
+		],
+		"strength": [
+			0,
+			0
+		],
+		"willpower": [
+			0,
+			0
+		]
+	},
+	"value": 40000,
+	"weight": 0.10000000149011612
+}

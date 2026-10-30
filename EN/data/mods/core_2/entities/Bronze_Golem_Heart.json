@@ -1,0 +1,60 @@
+{
+	"armor": {
+		"acid": 0,
+		"death": 0,
+		"electricity": 1,
+		"fire": 0,
+		"frost": 0,
+		"holy": 0,
+		"parry": 0,
+		"physical": 1,
+		"poison": 0,
+		"thorns": 0
+	},
+	"components": [
+		"armor",
+		"glyph",
+		"item",
+		"minimap_pixel",
+		"name",
+		"position_2d",
+		"resource",
+		"stackable",
+		"value",
+		"weight"
+	],
+	"description": "The golem's metal heart seems to keep beating.",
+	"glyph": {
+		"frames": [
+			{
+				"color": [
+					255,
+					255,
+					255
+				],
+				"delay": 0,
+				"index": 3300
+			}
+		],
+		"random_frame_start": false
+	},
+	"id": "core_2_Bronze_Golem_Heart",
+	"item": {
+		"image": 1488,
+		"type": 16
+	},
+	"minimap_pixel": [
+		192,
+		158,
+		158
+	],
+	"name": "Bronze Golem Heart",
+	"resource": {
+		"affix": "of Pulse",
+		"magic_ingredient": 2,
+		"quality": 2,
+		"type": 7
+	},
+	"value": 1000,
+	"weight": 0.10000000149011612
+}

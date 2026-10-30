@@ -1,0 +1,110 @@
+{
+	"armor": {
+		"acid": 5,
+		"death": 5,
+		"electricity": 10,
+		"fire": -5,
+		"frost": 10,
+		"holy": 5,
+		"parry": 0,
+		"physical": 5,
+		"poison": 20,
+		"thorns": 0
+	},
+	"category_id": 5,
+	"components": [
+		"armor",
+		"block_light",
+		"collidable",
+		"craftable",
+		"glyph",
+		"glyph_top",
+		"health",
+		"height",
+		"minimap_pixel",
+		"name",
+		"position_2d",
+		"random_resource"
+	],
+	"corpse": [],
+	"craftable": {
+		"backgrounds": [
+			"3068"
+		],
+		"biomes": [
+			12,
+			13,
+			14
+		],
+		"magic_slots": 0,
+		"resources": [
+			{
+				"amount": 1,
+				"id": "core_2_Elder_Tree_Seed"
+			}
+		],
+		"time": 20,
+		"tools": []
+	},
+	"description": "A very young elder tree.",
+	"glyph": {
+		"frames": [
+			{
+				"color": [
+					125,
+					60,
+					57
+				],
+				"delay": 0,
+				"index": 860
+			}
+		],
+		"random_frame_start": true,
+		"random_top": {
+			"colors": [
+				[
+					255,
+					255,
+					255
+				]
+			],
+			"count": 7,
+			"glyph_ids": [
+				2632,
+				2633,
+				2940,
+				2941
+			],
+			"max_alpha": 200,
+			"max_range": 6,
+			"wind": true
+		}
+	},
+	"health": 300,
+	"height": 30,
+	"id": "core_2_Elder_Tree_Sapling",
+	"minimap_pixel": [
+		161,
+		93,
+		40
+	],
+	"name": "Elder Tree Sapling",
+	"random_resource": {
+		"delay_spawn": true,
+		"entity": [
+			"core_2_Elder_Tree"
+		],
+		"max_amount": 1,
+		"max_distance": 0,
+		"min_amount": 1,
+		"min_distance": 0,
+		"multiply_same": false,
+		"respawn_rate": 864000.0,
+		"spawn_at": [
+			"core_2_Elder_Tree_Sapling"
+		],
+		"spawn_chance": 100.0,
+		"spawn_multiply": 0.0,
+		"spawn_rolls": 1
+	}
+}

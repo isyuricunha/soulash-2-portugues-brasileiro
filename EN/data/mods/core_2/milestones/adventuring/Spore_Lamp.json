@@ -1,0 +1,16 @@
+{
+	"id": "core_2_Spore_Lamp",
+	"name": "Spore Lamp",
+	"requirements": {
+		"milestones": [],
+		"skill": 29
+	},
+	"rewards": [
+		{
+			"recipe": "core_2_Spore_Lamp"
+		}
+	],
+	"skill_id": "core_2_adventuring",
+	"steps": [],
+	"steps_type": 0
+}

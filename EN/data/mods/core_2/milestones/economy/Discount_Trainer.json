@@ -1,0 +1,15 @@
+{
+	"id": "core_2_discount_trainer",
+	"name": "Discount Trainer",
+	"requirements": {
+		"skill": 11
+	},
+	"rewards": [
+		{
+			"passive": "core_2_discount_trainer"
+		}
+	],
+	"skill_id": "core_2_economy",
+	"steps": [],
+	"steps_type": 0
+}

@@ -1,0 +1,54 @@
+{
+	"components": [
+		"craftable",
+		"glyph",
+		"item",
+		"minimap_pixel",
+		"name",
+		"position_2d",
+		"stackable",
+		"weight"
+	],
+	"craftable": {
+		"magic_slots": 0,
+		"resources": [
+			{
+				"amount": 4,
+				"id": "2160"
+			},
+			{
+				"amount": 1,
+				"id": "852"
+			}
+		],
+		"time": 60,
+		"tools": []
+	},
+	"description": "A magical carpet capable of flight, controlled by the rider's will. It can take you anywhere in the world, soaring over mountains and seas with ease.",
+	"glyph": {
+		"frames": [
+			{
+				"color": [
+					255,
+					255,
+					255
+				],
+				"delay": 0,
+				"index": 910
+			}
+		],
+		"random_frame_start": false
+	},
+	"id": "2356",
+	"item": {
+		"image": 433,
+		"type": 17
+	},
+	"minimap_pixel": [
+		125,
+		128,
+		128
+	],
+	"name": "Flying Carpet",
+	"weight": 1.0
+}

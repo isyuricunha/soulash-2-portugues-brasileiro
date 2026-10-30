@@ -1,0 +1,15 @@
+{
+	"id": "core_2_merchant_king",
+	"name": "Merchant King",
+	"requirements": {
+		"skill": 50
+	},
+	"rewards": [
+		{
+			"action": 60
+		}
+	],
+	"skill_id": "core_2_economy",
+	"steps": [],
+	"steps_type": 0
+}

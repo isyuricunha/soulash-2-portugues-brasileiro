@@ -1,0 +1,117 @@
+{
+	"ability_user": [
+		"core_2_Gods_Wrath",
+		"55",
+		"180"
+	],
+	"artificial_intelligence": {
+		"allies": [
+			"17"
+		],
+		"allow_production": [],
+		"behaviors": [],
+		"enemies": [
+			"5"
+		]
+	},
+	"components": [
+		"ability_user",
+		"actor",
+		"artificial_intelligence",
+		"collidable",
+		"dialogues",
+		"equipment",
+		"experience_gainer",
+		"fighter",
+		"glyph",
+		"health",
+		"humanoid",
+		"minimap_pixel",
+		"moveable",
+		"name",
+		"position_2d",
+		"sight",
+		"stamina",
+		"statistics",
+		"tags"
+	],
+	"corpse": "core_2_Stork_Corpse",
+	"description": "The great stork, bringer of children.",
+	"dialogues": [],
+	"experience_gainer": {
+		"exp": 28,
+		"level": 40
+	},
+	"fighter": {
+		"attackNames": [
+			"Peck"
+		]
+	},
+	"glyph": {
+		"frames": [
+			{
+				"color": [
+					127,
+					185,
+					85
+				],
+				"delay": 0,
+				"index": 148
+			}
+		],
+		"random_frame_start": false
+	},
+	"health": 1324,
+	"humanoid": {
+		"race": ""
+	},
+	"id": "core_2_Stork",
+	"minimap_pixel": [
+		127,
+		185,
+		85
+	],
+	"moveable": {
+		"speed": 1.2999999523162842
+	},
+	"name": "Stork",
+	"sight": {
+		"ignore_infra_penalty": false,
+		"infravision": false,
+		"range": 10,
+		"threesixty": true
+	},
+	"stamina": {
+		"fatigue": 100,
+		"stamina": 100,
+		"stamina_regen": 0.0
+	},
+	"statistics": {
+		"dexterity": [
+			67,
+			75
+		],
+		"endurance": [
+			82,
+			90
+		],
+		"intelligence": [
+			93,
+			105
+		],
+		"strength": [
+			76,
+			85
+		],
+		"willpower": [
+			95,
+			104
+		]
+	},
+	"tags": [
+		"9",
+		"3",
+		"17",
+		"38"
+	]
+}

@@ -1,0 +1,66 @@
+{
+	"components": [
+		"craftable",
+		"food",
+		"glyph",
+		"item",
+		"minimap_pixel",
+		"name",
+		"position_2d",
+		"stackable",
+		"value",
+		"weight"
+	],
+	"craftable": {
+		"backgrounds": [],
+		"biomes": [],
+		"magic_slots": 0,
+		"resources": [
+			{
+				"amount": 2,
+				"id": "822"
+			},
+			{
+				"amount": 2,
+				"id": "801"
+			}
+		],
+		"time": 0,
+		"tools": [
+			2
+		]
+	},
+	"description": "Flat as a... well, a pancake.",
+	"food": {
+		"nutrition": 90,
+		"poisonous": 0,
+		"raw": false
+	},
+	"glyph": {
+		"frames": [
+			{
+				"color": [
+					255,
+					255,
+					255
+				],
+				"delay": 0,
+				"index": 2030
+			}
+		],
+		"random_frame_start": false
+	},
+	"id": "3032",
+	"item": {
+		"image": 812,
+		"type": 20
+	},
+	"minimap_pixel": [
+		157,
+		78,
+		54
+	],
+	"name": "Pancakes",
+	"value": 1000,
+	"weight": 0.10000000149011612
+}

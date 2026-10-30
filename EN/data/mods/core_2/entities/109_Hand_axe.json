@@ -1,0 +1,81 @@
+{
+	"components": [
+		"craftable",
+		"glyph",
+		"item",
+		"minimap_pixel",
+		"name",
+		"position_2d",
+		"tool",
+		"value",
+		"weapon",
+		"weight"
+	],
+	"craftable": {
+		"magic_slots": 3,
+		"resource_types": [
+			{
+				"amount": 2,
+				"id": 1
+			},
+			{
+				"amount": 1,
+				"id": 3
+			}
+		],
+		"resources": null,
+		"time": 60,
+		"tools": [
+			1
+		]
+	},
+	"description": "It's just like a regular axe, but you can hold it in your hand!",
+	"glyph": {
+		"frames": [
+			{
+				"color": [
+					255,
+					255,
+					255
+				],
+				"delay": 0,
+				"index": 310
+			}
+		],
+		"random_frame_start": false
+	},
+	"id": "109",
+	"item": {
+		"image": 33,
+		"type": 13
+	},
+	"minimap_pixel": [
+		156,
+		160,
+		161
+	],
+	"name": "Hand Axe",
+	"tool": [
+		{
+			"id": 13,
+			"quality": 40
+		}
+	],
+	"value": 1500,
+	"weapon": {
+		"attack_speed": 1.0,
+		"damage": [
+			{
+				"dmg_max": 8,
+				"dmg_min": 5,
+				"dmg_type": "physical"
+			}
+		],
+		"hands": 1,
+		"hit_bonus": 2,
+		"parry_bonus": 1,
+		"range": 1,
+		"type": 0
+	},
+	"weight": 1.5
+}

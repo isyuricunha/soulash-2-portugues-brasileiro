@@ -1,0 +1,76 @@
+{
+	"armor": {
+		"acid": 5,
+		"death": 9999,
+		"electricity": 20,
+		"fire": 50,
+		"frost": 10,
+		"holy": -10,
+		"parry": 0,
+		"physical": 20,
+		"poison": 10,
+		"thorns": 10
+	},
+	"components": [
+		"armor",
+		"block_light",
+		"collidable",
+		"glyph",
+		"health",
+		"height",
+		"minimap_pixel",
+		"name",
+		"position_2d",
+		"random_resource"
+	],
+	"corpse": "core_2_Demons_Ichor",
+	"description": "This portal looks like a one way road straight from abyss.",
+	"glyph": {
+		"frames": [
+			{
+				"color": [
+					255,
+					255,
+					255
+				],
+				"delay": 200,
+				"index": 3356
+			},
+			{
+				"color": [
+					255,
+					255,
+					255
+				],
+				"delay": 200,
+				"index": 3357
+			}
+		],
+		"random_frame_start": false
+	},
+	"health": 200,
+	"height": 0,
+	"id": "core_2_Demonic_Portal",
+	"minimap_pixel": [
+		81,
+		63,
+		59
+	],
+	"name": "Demonic Portal",
+	"random_resource": {
+		"delay_spawn": false,
+		"entity": [
+			"core_2_Demonic_Paw"
+		],
+		"max_amount": 1,
+		"max_distance": 5,
+		"min_amount": 1,
+		"min_distance": 1,
+		"multiply_same": false,
+		"respawn_rate": 50.0,
+		"spawn_at": [],
+		"spawn_chance": 100.0,
+		"spawn_multiply": 0.0,
+		"spawn_rolls": 1
+	}
+}

@@ -1,0 +1,15 @@
+{
+	"id": "core_2_Aligator_Teeth_Necklace",
+	"name": "Aligator Teeth Necklace",
+	"requirements": {
+		"skill": 8
+	},
+	"rewards": [
+		{
+			"recipe": "core_2_Aligator_Teeth_Necklace"
+		}
+	],
+	"skill_id": "core_2_leatherworking",
+	"steps": [],
+	"steps_type": 0
+}

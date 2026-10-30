@@ -1,0 +1,46 @@
+{
+	"components": [
+		"glyph",
+		"item",
+		"minimap_pixel",
+		"name",
+		"position_2d",
+		"stackable",
+		"usable",
+		"value",
+		"weight"
+	],
+	"description": "A piece of mechanism, cold as ice from the very heart of the eternal abyss.",
+	"glyph": {
+		"frames": [
+			{
+				"color": [
+					255,
+					255,
+					255
+				],
+				"delay": 0,
+				"index": 3514
+			}
+		],
+		"random_frame_start": false
+	},
+	"id": "core_2_Ice_Golem_Shard",
+	"item": {
+		"image": 1566,
+		"type": 17
+	},
+	"minimap_pixel": [
+		179,
+		178,
+		176
+	],
+	"name": "Ice Golem Shard",
+	"usable": {
+		"ability": "",
+		"recipe": "",
+		"skill_p": "core_2_necromancy"
+	},
+	"value": 5000,
+	"weight": 0.20000000298023224
+}

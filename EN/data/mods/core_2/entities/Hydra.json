@@ -1,0 +1,270 @@
+{
+	"ability_user": [
+		"47"
+	],
+	"armor": {
+		"acid": 999,
+		"death": 20,
+		"electricity": 20,
+		"fire": 50,
+		"frost": 20,
+		"holy": 20,
+		"parry": 0,
+		"physical": 20,
+		"poison": 60,
+		"thorns": 0
+	},
+	"artificial_intelligence": {
+		"allies": [],
+		"allow_production": [],
+		"behaviors": [],
+		"enemies": [
+			"5"
+		]
+	},
+	"chained": {
+		"map": [
+			[
+				"",
+				"",
+				"",
+				"",
+				"",
+				"",
+				"",
+				"",
+				"",
+				""
+			],
+			[
+				"",
+				"",
+				"",
+				"",
+				"",
+				"",
+				"",
+				"",
+				"",
+				""
+			],
+			[
+				"",
+				"core_2_Hydra_Head",
+				"",
+				"",
+				"",
+				"",
+				"",
+				"",
+				"",
+				""
+			],
+			[
+				"",
+				"core_2_Hydra_Head",
+				"RESERVED_core_2_leader_tile",
+				"core_2_Hydra_Torso",
+				"core_2_Hydra_Tail",
+				"",
+				"",
+				"",
+				"",
+				""
+			],
+			[
+				"",
+				"core_2_Hydra_Head",
+				"",
+				"",
+				"",
+				"",
+				"",
+				"",
+				"",
+				""
+			],
+			[
+				"",
+				"",
+				"",
+				"",
+				"",
+				"",
+				"",
+				"",
+				"",
+				""
+			],
+			[
+				"",
+				"",
+				"",
+				"",
+				"",
+				"",
+				"",
+				"",
+				"",
+				""
+			],
+			[
+				"",
+				"",
+				"",
+				"",
+				"",
+				"",
+				"",
+				"",
+				"",
+				""
+			],
+			[
+				"",
+				"",
+				"",
+				"",
+				"",
+				"",
+				"",
+				"",
+				"",
+				""
+			],
+			[
+				"",
+				"",
+				"",
+				"",
+				"",
+				"",
+				"",
+				"",
+				"",
+				""
+			]
+		],
+		"partConfig": {
+			"core_2_Hydra": {
+				"mainBody": true
+			},
+			"core_2_Hydra_Head": {
+				"regrowDelay": 5
+			}
+		},
+		"regrowMultiplier": 2,
+		"snake": false
+	},
+	"components": [
+		"ability_user",
+		"actor",
+		"armor",
+		"artificial_intelligence",
+		"chained",
+		"collidable",
+		"experience_gainer",
+		"fighter",
+		"glyph",
+		"health",
+		"minimap_pixel",
+		"moveable",
+		"name",
+		"position_2d",
+		"sight",
+		"stamina",
+		"statistics",
+		"tags",
+		"weapon"
+	],
+	"corpse": "core_2_Hydra_Corpse",
+	"description": "Giant drake with multiple heads.",
+	"experience_gainer": {
+		"exp": 0,
+		"level": 50
+	},
+	"fighter": {
+		"attackNames": [
+			"Bite"
+		]
+	},
+	"glyph": {
+		"frames": [
+			{
+				"color": [
+					255,
+					255,
+					255
+				],
+				"delay": 0,
+				"index": 567
+			}
+		],
+		"random_frame_start": false
+	},
+	"health": 6000,
+	"id": "core_2_Hydra",
+	"minimap_pixel": [
+		149,
+		165,
+		101
+	],
+	"moveable": {
+		"speed": 0.699999988079071
+	},
+	"name": "Hydra",
+	"sight": {
+		"ignore_infra_penalty": true,
+		"infravision": true,
+		"range": 12,
+		"threesixty": true
+	},
+	"stamina": {
+		"fatigue": 100,
+		"stamina": 100,
+		"stamina_regen": 0.0
+	},
+	"statistics": {
+		"dexterity": [
+			80,
+			90
+		],
+		"endurance": [
+			126,
+			128
+		],
+		"hearing": 2,
+		"intelligence": [
+			164,
+			170
+		],
+		"magic_power": 3,
+		"strength": [
+			100,
+			110
+		],
+		"willpower": [
+			86,
+			97
+		]
+	},
+	"tags": [
+		"38"
+	],
+	"weapon": {
+		"attack_speed": 1.0,
+		"critical_hit": 0.0,
+		"damage": [
+			{
+				"dmg_max": 40,
+				"dmg_min": 25,
+				"dmg_type": "acid"
+			}
+		],
+		"hands": 1,
+		"hit_bonus": 0,
+		"parry_bonus": 0,
+		"range": 1,
+		"type": 0
+	}
+}

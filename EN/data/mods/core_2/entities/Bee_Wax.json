@@ -1,0 +1,40 @@
+{
+	"components": [
+		"glyph",
+		"item",
+		"minimap_pixel",
+		"name",
+		"position_2d",
+		"stackable",
+		"value",
+		"weight"
+	],
+	"description": "Useful for making candles.",
+	"glyph": {
+		"frames": [
+			{
+				"color": [
+					255,
+					255,
+					255
+				],
+				"delay": 0,
+				"index": 2636
+			}
+		],
+		"random_frame_start": false
+	},
+	"id": "core_2_Bee_Wax",
+	"item": {
+		"image": 1156,
+		"type": 16
+	},
+	"minimap_pixel": [
+		153,
+		204,
+		255
+	],
+	"name": "Bee Wax",
+	"value": 200,
+	"weight": 0.10000000149011612
+}

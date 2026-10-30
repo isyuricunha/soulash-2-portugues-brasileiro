@@ -1,0 +1,15 @@
+{
+	"id": "core_2_quick_transporter",
+	"name": "Quick Transporter",
+	"requirements": {
+		"skill": 33
+	},
+	"rewards": [
+		{
+			"passive": "core_2_quick_transporter"
+		}
+	],
+	"skill_id": "core_2_economy",
+	"steps": [],
+	"steps_type": 0
+}

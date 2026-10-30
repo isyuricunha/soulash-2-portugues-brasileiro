@@ -1,0 +1,153 @@
+{
+	"ability_user": [
+		"184",
+		"37"
+	],
+	"artificial_intelligence": {
+		"allies": [],
+		"allow_production": [],
+		"behaviors": [],
+		"enemies": [
+			"5"
+		]
+	},
+	"components": [
+		"ability_user",
+		"actor",
+		"artificial_intelligence",
+		"collidable",
+		"dialogues",
+		"equipment",
+		"experience_gainer",
+		"fighter",
+		"glyph",
+		"health",
+		"minimap_pixel",
+		"moveable",
+		"name",
+		"position_2d",
+		"sight",
+		"stamina",
+		"statistics",
+		"tags",
+		"weapon"
+	],
+	"corpse": "2641",
+	"description": "A large slimy creature that inhabits dark caves. He has poor eyesight and is guided by his sense of smell and hearing.",
+	"dialogues": [
+		"726",
+		"895"
+	],
+	"equipment": {
+		"disabled_slots": [
+			1,
+			0,
+			2,
+			3,
+			4,
+			5,
+			6,
+			7,
+			8,
+			9,
+			10,
+			11,
+			12,
+			13,
+			14,
+			15,
+			16,
+			17,
+			18
+		]
+	},
+	"experience_gainer": {
+		"exp": 0,
+		"level": 30
+	},
+	"fighter": {
+		"attackNames": [
+			"Scratch",
+			"Bite"
+		]
+	},
+	"glyph": {
+		"frames": [
+			{
+				"color": [
+					255,
+					255,
+					255
+				],
+				"delay": 0,
+				"index": 127
+			}
+		],
+		"random_frame_start": false
+	},
+	"health": 500,
+	"id": "2635",
+	"minimap_pixel": [
+		120,
+		120,
+		120
+	],
+	"moveable": {
+		"speed": 1.2000000476837158
+	},
+	"name": "Crueboros",
+	"sight": {
+		"ignore_infra_penalty": false,
+		"infravision": false,
+		"range": 10,
+		"threesixty": false
+	},
+	"stamina": {
+		"fatigue": 100,
+		"stamina": 100,
+		"stamina_regen": 0.0
+	},
+	"statistics": {
+		"dexterity": [
+			15,
+			17
+		],
+		"endurance": [
+			45,
+			50
+		],
+		"hearing": 2,
+		"intelligence": [
+			5,
+			8
+		],
+		"strength": [
+			40,
+			48
+		],
+		"willpower": [
+			27,
+			30
+		]
+	},
+	"tags": [
+		"2",
+		"9"
+	],
+	"weapon": {
+		"attack_speed": 1.0,
+		"critical_hit": 0.0,
+		"damage": [
+			{
+				"dmg_max": 20,
+				"dmg_min": 12,
+				"dmg_type": "physical"
+			}
+		],
+		"hands": 1,
+		"hit_bonus": 2,
+		"parry_bonus": 0,
+		"range": 1,
+		"type": 2
+	}
+}

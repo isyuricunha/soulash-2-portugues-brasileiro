@@ -1,0 +1,16 @@
+{
+	"id": "core_2_paralyzing_mushroom_pins",
+	"name": "Paralyzing Mushroom Pins",
+	"requirements": {
+		"milestones": [],
+		"skill": 23
+	},
+	"rewards": [
+		{
+			"recipe": "core_2_Paralyzing_Mushroom_Pins"
+		}
+	],
+	"skill_id": "core_2_agriculture",
+	"steps": [],
+	"steps_type": 0
+}

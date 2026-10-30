@@ -1,0 +1,42 @@
+{
+	"components": [
+		"glyph",
+		"item",
+		"minimap_pixel",
+		"name",
+		"position_2d",
+		"usable",
+		"weight"
+	],
+	"description": "A head of a dead troll. Might still hold to some memories.",
+	"glyph": {
+		"frames": [
+			{
+				"color": [
+					255,
+					255,
+					255
+				],
+				"delay": 0,
+				"index": 2853
+			}
+		],
+		"random_frame_start": false
+	},
+	"id": "core_2_Troll_Head",
+	"item": {
+		"image": 1296,
+		"type": 32
+	},
+	"minimap_pixel": [
+		156,
+		160,
+		161
+	],
+	"name": "Troll Head",
+	"usable": {
+		"ability": "8",
+		"recipe": ""
+	},
+	"weight": 2.5
+}

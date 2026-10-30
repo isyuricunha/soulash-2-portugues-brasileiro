@@ -1,0 +1,24 @@
+{
+	"id": "497",
+	"image": 366,
+	"name": "Quarry",
+	"occupation_image": 18,
+	"occupation": "core_2_Vampire_Miner",
+	"produces": [
+		{
+			"entities": [
+				{
+					"daily": 0.4,
+					"id": "35"
+				}
+			],
+			"takes": []
+		}
+	],
+	"race": "6",
+	"tier": 1,
+	"workers": [
+		1,
+		2
+	]
+}

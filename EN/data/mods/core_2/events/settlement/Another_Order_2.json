@@ -1,0 +1,89 @@
+{
+    "id": "core_2_another_order_ursan",
+    "name": "Another Order",
+    "category": "settlement",
+    "flavor": "The Crafters' Guild has another order for nearby millers to fulfill and needs some help.",
+    "icon": 29,
+    "small_icon": 29,
+    "rarity": "uncommon",
+    "restrict_races": [
+        "33"
+    ],
+    "trigger": {
+        "base_probability": 0.00,
+        "conditions": [
+            {
+                "type": "settlement_population_min",
+                "value": 30
+            },
+            {
+                "type": "settlement_tier_min",
+                "value": 1
+            },
+            {
+                "type": "min_unemployed",
+                "value": 1
+            }
+        ]
+    },
+    "duration": {
+        "type": "temporary",
+        "days": [
+            30,
+            45
+        ]
+    },
+     "buildings": [
+        {
+            "building_id": "557",
+            "placement": "map_edge",
+            "lair_only": true
+        }
+    ],
+    "effects": [
+        {
+            "type": "spawn_group",
+            "amount": [
+                1,
+                1
+            ],
+            "group_type": "settlement",
+            "entity": "core_2_Ursan_Master_Crafter",
+            "border_color": [
+                 170,
+                128,
+                192
+            ]
+        }
+    ],
+    "extra_dialogues": [],
+    "interactions": [
+        {
+            "type": "conversation",
+            "id": "core_2_deliver_aprons",
+            "translation_id": 0,
+            "required_ingredients": [
+                {
+                    "id": "709",
+                    "amount": 5
+                }
+            ],
+            "entities": [
+                "core_2_Ursan_Master_Crafter"
+            ],
+            "label": "Deliver requested items.",
+            "reward": {
+                "gold": 400,
+                "remove_event": true
+            },
+            "trigger_event": "core_2_harvesters_helper_ursan",
+            "history_event": "::name has delivered required goods to a local Master Crafter.",
+            "announcement": "You have delivered required goods to a Master Crafter in ::settlement!"
+        }
+    ],
+    "history_events": {
+        "begin": "A new Master Crafter is looking for some help with making aprons in ::settlement.",
+        "success": "A Master Crafter will complete the order of aprons on time.",
+        "failure": "A Master Crafter will have to delay the order of aprons for millers."
+    }
+}

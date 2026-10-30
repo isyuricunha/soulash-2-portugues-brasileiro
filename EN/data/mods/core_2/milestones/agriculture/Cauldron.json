@@ -1,0 +1,16 @@
+{
+	"id": "core_2_cauldron",
+	"name": "Cauldron",
+	"requirements": {
+		"milestones": [],
+		"skill": 10
+	},
+	"rewards": [
+		{
+			"recipe": "core_2_Cauldron"
+		}
+	],
+	"skill_id": "core_2_agriculture",
+	"steps": [],
+	"steps_type": 0
+}

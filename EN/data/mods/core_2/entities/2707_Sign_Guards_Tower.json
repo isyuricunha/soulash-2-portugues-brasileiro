@@ -1,0 +1,31 @@
+{
+	"components": [
+		"glyph",
+		"minimap_pixel",
+		"name",
+		"position_2d",
+		"stackable"
+	],
+	"description": "",
+	"glyph": {
+		"frames": [
+			{
+				"color": [
+					255,
+					255,
+					255
+				],
+				"delay": 0,
+				"index": 292
+			}
+		],
+		"random_frame_start": false
+	},
+	"id": "2707",
+	"minimap_pixel": [
+		177,
+		153,
+		137
+	],
+	"name": "Sign: Guards Tower"
+}

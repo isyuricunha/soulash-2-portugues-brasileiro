@@ -1,0 +1,55 @@
+{
+	"components": [
+		"food",
+		"glyph",
+		"item",
+		"minimap_pixel",
+		"name",
+		"position_2d",
+		"stackable",
+		"value",
+		"weight"
+	],
+	"description": "A red mushroom with white dots. It is very poisonous.",
+	"food": {
+		"nutrition": -50,
+		"poisonous": 4,
+		"raw": true
+	},
+	"glyph": {
+		"frames": [
+			{
+				"color": [
+					255,
+					255,
+					255
+				],
+				"delay": 0,
+				"index": 392
+			},
+			{
+				"color": [
+					255,
+					255,
+					255
+				],
+				"delay": 0,
+				"index": 937
+			}
+		],
+		"random_frame_start": true
+	},
+	"id": "368",
+	"item": {
+		"image": 142,
+		"type": 20
+	},
+	"minimap_pixel": [
+		236,
+		34,
+		41
+	],
+	"name": "Bane Mushroom",
+	"value": 1500,
+	"weight": 0.10000000149011612
+}

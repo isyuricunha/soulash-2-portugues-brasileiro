@@ -1,0 +1,25 @@
+{
+  "policy": "Explicit pre-toolkit tags preserved; new toolkit starts at v1.0.0",
+  "schema": 1,
+  "tags": {
+    "v0.0.1": "69ae639736fa40c831c9c1e4fe7c3f262baeb972",
+    "v0.0.10": "cf1498b3ed2939d2cc0fae421db0c4d3910d5b4a",
+    "v0.0.11": "7cf8625d867f34729f1cfa299d13c8a8cadc9d20",
+    "v0.0.12": "3def939a84ca707d56c86b220cd03e61e106dc7a",
+    "v0.0.13": "a330dea8e31387c3aee7ffa19771227a696bf709",
+    "v0.0.14": "dc243cc36c58c98d97c12fb5432ceb83c8866d51",
+    "v0.0.15": "59c589d22c22e8277eff3b79b64f65c837e8d181",
+    "v0.0.16": "3640e0f819deaba3865e367794d6e4c05befee8e",
+    "v0.0.17": "53048c6fb09a0726c72b251c0d1f5872acff18ec",
+    "v0.0.18": "f1da5207ef1c21cbf82586bd72d07df806f983b1",
+    "v0.0.19": "8022b57fb2bfae8bfd4c93dc8fd76de1108f84fb",
+    "v0.0.2": "ca5c716bd3982bf5c58e182c0eb244cfce6f8205",
+    "v0.0.3": "ca5c716bd3982bf5c58e182c0eb244cfce6f8205",
+    "v0.0.4": "d6463389b8b93a5ed1faa2ec24e027d371e6a14b",
+    "v0.0.5": "6c1879fe57c6217531287293690ae65bea1e1a5e",
+    "v0.0.6": "d85bd5b8e2c3d5760d90cbd6e3b2fe35a71a3265",
+    "v0.0.7": "6a618aef6c7fdaf3cec6d7d8607f2fd3afa9446e",
+    "v0.0.8": "55edd7d0abfd8a399da85c6ebfe50a1463c9d99b",
+    "v0.0.9": "d244b5640c16b59a769aaaf9646f21efa03883d1"
+  }
+}

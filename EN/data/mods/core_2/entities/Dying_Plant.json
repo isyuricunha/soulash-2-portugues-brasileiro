@@ -1,0 +1,33 @@
+{
+	"components": [
+		"glyph",
+		"health",
+		"minimap_pixel",
+		"name",
+		"position_2d"
+	],
+	"corpse": [],
+	"description": "This plant hasn't seen water for a long time and is now dying.",
+	"glyph": {
+		"frames": [
+			{
+				"color": [
+					255,
+					255,
+					255
+				],
+				"delay": 0,
+				"index": 3407
+			}
+		],
+		"random_frame_start": true
+	},
+	"health": 10,
+	"id": "core_2_Dying_Plant",
+	"minimap_pixel": [
+		235,
+		117,
+		255
+	],
+	"name": "Dying Plant"
+}

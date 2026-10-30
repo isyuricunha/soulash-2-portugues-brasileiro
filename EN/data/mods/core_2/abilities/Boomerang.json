@@ -1,0 +1,28 @@
+{
+	"animation": "core_2_Boomerang",
+	"cast_time": -1.0,
+	"cooldown": 20.0,
+	"cost": {
+		"ammo": 1,
+		"health": 0,
+		"stamina": 5
+	},
+	"description": "Hit everything in line for ::damage ::damage_type damage in range ::range piercing your enemy.",
+	"duration": 0.0,
+	"effects": null,
+	"id": "core_2_Boomerang",
+	"image": 743,
+	"name": "Boomerang",
+	"range": 10,
+	"requirements": {
+		"always": [
+			13
+		]
+	},
+	"skill": "",
+	"slots": {
+		"offensive": 1,
+		"utility": 2
+	},
+	"target": "health"
+}

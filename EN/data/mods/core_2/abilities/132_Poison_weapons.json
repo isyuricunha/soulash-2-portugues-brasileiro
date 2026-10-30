@@ -1,0 +1,25 @@
+{
+	"animation": "171",
+	"cast_time": 0.5,
+	"cooldown": 10.0,
+	"cost": {
+		"health": 0,
+		"item_type": 0,
+		"stamina": 2
+	},
+	"description": "Weapons that you hold are coated with poison, increasing ::damage_type damage by ::damage_bonus for ::duration turns.",
+	"duration": 10.0,
+	"effects": {
+		"damage_bonus": 5,
+		"damage_type": "poison"
+	},
+	"id": "132",
+	"image": 534,
+	"name": "Poison Weapons",
+	"range": 0,
+	"skill": "core_2_thievery",
+	"slots": {
+		"utility": 3
+	},
+	"target": "self"
+}

@@ -1,0 +1,82 @@
+{
+    "id": "core_2_player_festival",
+    "name": "Festival",
+    "category": "settlement",
+    "flavor": "The settlement throws a grand festival. Traveling traders set up colorful stalls, and the celebration lifts everyone's spirits - work proceeds with renewed vigor.",
+    "icon": 1,
+    "small_icon": 1,
+    "rarity": "none",
+    "restrict_races": [],
+    "trigger": {
+        "base_probability": 0.0,
+        "conditions": []
+    },
+    "duration": {
+        "type": "temporary",
+        "days": [
+            30,
+            30
+        ]
+    },
+    "buildings": [
+        {
+            "building_id": "533"
+        }
+    ],
+    "effects": [
+        {
+            "type": "production_multiplier",
+            "multiplier": 1.2
+        },
+        {
+            "type": "spawn_group",
+            "amount": [
+                1,
+                2
+            ],
+            "group_type": "settlement",
+            "entity": "core_2_Festival_Vendor",
+            "trade_list": [
+                {
+                    "id": "318",
+                    "amount": 20
+                },
+                {
+                    "id": "809",
+                    "amount": 12
+                },
+                {
+                    "id": "core_2_Meat_on_a_Stick",
+                    "amount": 10
+                },
+                {
+                    "id": "core_2_Caught_Chick",
+                    "amount": 2
+                },
+                {
+                    "id": "core_2_Potato",
+                    "amount": 10
+                },
+                {
+                    "id": "core_2_Sausage",
+                    "amount": 5
+                },
+                {
+                    "id": "803",
+                    "amount": 4
+                }
+            ],
+            "border_color": [
+                128,
+                0,
+                128
+            ]
+        }
+    ],
+    "extra_dialogues": [],
+    "interactions": [],
+    "history_events": {
+        "begin": "A festival has begun in this settlement!",
+        "end": "The festival has ended and the stalls are packed away."
+    }
+}

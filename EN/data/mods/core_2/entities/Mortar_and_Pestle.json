@@ -1,0 +1,60 @@
+{
+	"components": [
+		"craftable",
+		"glyph",
+		"item",
+		"minimap_pixel",
+		"name",
+		"position_2d",
+		"tool",
+		"value",
+		"weight"
+	],
+	"craftable": {
+		"backgrounds": [],
+		"biomes": [],
+		"magic_slots": 0,
+		"resource_types": [
+			{
+				"amount": 5,
+				"id": 6
+			}
+		],
+		"time": 60,
+		"tools": []
+	},
+	"description": "A stone bowl and a small stone pestle is useful, if you have to make some alchemy happen on the spot.",
+	"glyph": {
+		"frames": [
+			{
+				"color": [
+					255,
+					255,
+					255
+				],
+				"delay": 0,
+				"index": 907
+			}
+		],
+		"random_frame_start": false
+	},
+	"id": "core_2_Mortar_and_Pestle",
+	"item": {
+		"image": 421,
+		"type": 17
+	},
+	"minimap_pixel": [
+		99,
+		150,
+		221
+	],
+	"name": "Mortar and Pestle",
+	"tool": [
+		{
+			"id": 15,
+			"quality": 30
+		}
+	],
+	"value": 500,
+	"weight": 0.5
+}

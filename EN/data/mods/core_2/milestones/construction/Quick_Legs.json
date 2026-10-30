@@ -1,0 +1,16 @@
+{
+	"id": "core_2_Quick_Legs",
+	"name": "Quick Legs",
+	"requirements": {
+		"milestones": [],
+		"skill": 44
+	},
+	"rewards": [
+		{
+			"recipe": "core_2_Quick_Legs"
+		}
+	],
+	"skill_id": "core_2_construction",
+	"steps": [],
+	"steps_type": 0
+}

@@ -1,0 +1,16 @@
+{
+	"id": "core_2_gripped_by_ice",
+	"name": "Gripped By Ice",
+	"requirements": {
+		"milestones": [],
+		"skill": 38
+	},
+	"rewards": [
+		{
+			"amplifier": "core_2_gripped_ice"
+		}
+	],
+	"skill_id": "core_2_cryomancy",
+	"steps": [],
+	"steps_type": 0
+}

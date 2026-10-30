@@ -1,0 +1,74 @@
+{
+	"components": [
+		"glyph",
+		"item",
+		"liquid_source",
+		"minimap_pixel",
+		"name",
+		"position_2d",
+		"producer",
+		"weight"
+	],
+	"description": "A lifeless body of a reindeer.",
+	"glyph": {
+		"frames": [
+			{
+				"color": [
+					255,
+					255,
+					255
+				],
+				"delay": 0,
+				"index": 2278
+			}
+		],
+		"random_frame_start": false
+	},
+	"id": "core_2_Reindeer_Corpse",
+	"item": {
+		"image": 960,
+		"type": 18
+	},
+	"liquid_source": {
+		"limit": 120,
+		"type": 4
+	},
+	"minimap_pixel": [
+		171,
+		102,
+		57
+	],
+	"name": "Reindeer Corpse",
+	"producer": {
+		"products": {
+			"3": [
+				{
+					"amount": [
+						2,
+						4
+					],
+					"id": "318",
+					"percent_chance": 100
+				},
+				{
+					"amount": [
+						1,
+						1
+					],
+					"id": "2126",
+					"percent_chance": 100
+				},
+				{
+					"amount": [
+						1,
+						1
+					],
+					"id": "core_2_Reindeer_Fur",
+					"percent_chance": 50
+				}
+			]
+		},
+		"time": 0
+	},
+	"weight": 60.0
+}

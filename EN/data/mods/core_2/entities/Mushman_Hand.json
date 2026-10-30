@@ -1,0 +1,67 @@
+{
+	"armor": {
+		"acid": 0,
+		"death": 0,
+		"electricity": 0,
+		"fire": 0,
+		"frost": 0,
+		"holy": 0,
+		"parry": 0,
+		"physical": 0,
+		"poison": 0,
+		"thorns": 5
+	},
+	"components": [
+		"armor",
+		"glyph",
+		"item",
+		"minimap_pixel",
+		"name",
+		"position_2d",
+		"weapon",
+		"weight"
+	],
+	"description": "A lifeless hand of a dead mushman.",
+	"glyph": {
+		"frames": [
+			{
+				"color": [
+					255,
+					255,
+					255
+				],
+				"delay": 0,
+				"index": 2845
+			}
+		],
+		"random_frame_start": false
+	},
+	"id": "core_2_Mushman_Hand",
+	"item": {
+		"image": 1287,
+		"type": 34
+	},
+	"minimap_pixel": [
+		156,
+		160,
+		161
+	],
+	"name": "Mushman Hand",
+	"weapon": {
+		"attack_speed": 1.0,
+		"critical_hit": 0.0,
+		"damage": [
+			{
+				"dmg_max": 10,
+				"dmg_min": 5,
+				"dmg_type": "acid"
+			}
+		],
+		"hands": 1,
+		"hit_bonus": 0,
+		"parry_bonus": 1,
+		"range": 1,
+		"type": 6
+	},
+	"weight": 2.0
+}

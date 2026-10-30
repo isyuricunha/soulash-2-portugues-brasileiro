@@ -1,0 +1,70 @@
+{
+	"armor": {
+		"acid": 2,
+		"death": 2,
+		"electricity": 2,
+		"fire": 2,
+		"frost": 0,
+		"holy": 5,
+		"parry": 0,
+		"physical": 2,
+		"poison": 0
+	},
+	"components": [
+		"armor",
+		"craftable",
+		"glyph",
+		"item",
+		"minimap_pixel",
+		"name",
+		"position_2d",
+		"value",
+		"weight"
+	],
+	"craftable": {
+		"magic_slots": 5,
+		"resource_types": [
+			{
+				"amount": 2,
+				"id": 1
+			},
+			{
+				"amount": 3,
+				"id": 8
+			}
+		],
+		"resources": null,
+		"time": 125,
+		"tools": [
+			1
+		]
+	},
+	"description": "A symbol of power reserved for royalty.",
+	"glyph": {
+		"frames": [
+			{
+				"color": [
+					255,
+					255,
+					255
+				],
+				"delay": 0,
+				"index": 740
+			}
+		],
+		"random_frame_start": false
+	},
+	"id": "174",
+	"item": {
+		"image": 76,
+		"type": 1
+	},
+	"minimap_pixel": [
+		217,
+		144,
+		88
+	],
+	"name": "Crown",
+	"value": 20000,
+	"weight": 3.0
+}

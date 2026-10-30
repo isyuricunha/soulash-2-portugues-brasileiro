@@ -1,0 +1,82 @@
+{
+	"components": [
+		"craftable",
+		"glyph",
+		"item",
+		"minimap_pixel",
+		"name",
+		"position_2d",
+		"value",
+		"weapon",
+		"weight"
+	],
+	"craftable": {
+		"backgrounds": [],
+		"biomes": [],
+		"magic_slots": 2,
+		"resource_types": [
+			{
+				"amount": 1,
+				"id": 1
+			},
+			{
+				"amount": 1,
+				"id": 3
+			}
+		],
+		"resources": [
+			{
+				"amount": 1,
+				"id": "2472"
+			}
+		],
+		"time": 125,
+		"tools": [
+			15
+		]
+	},
+	"description": "A short rod, cold to the touch.",
+	"glyph": {
+		"frames": [
+			{
+				"color": [
+					255,
+					255,
+					255
+				],
+				"delay": 0,
+				"index": 2665
+			}
+		],
+		"random_frame_start": false
+	},
+	"id": "core_2_Ice_Rod",
+	"item": {
+		"image": 1187,
+		"type": 13
+	},
+	"minimap_pixel": [
+		171,
+		102,
+		57
+	],
+	"name": "Ice Rod",
+	"value": 2000,
+	"weapon": {
+		"attack_speed": 1.0,
+		"critical_hit": 0.0,
+		"damage": [
+			{
+				"dmg_max": 7,
+				"dmg_min": 4,
+				"dmg_type": "frost"
+			}
+		],
+		"hands": 1,
+		"hit_bonus": 3,
+		"parry_bonus": 1,
+		"range": 1,
+		"type": 4
+	},
+	"weight": 1.0
+}

@@ -1,0 +1,75 @@
+{
+	"components": [
+		"craftable",
+		"glyph",
+		"item",
+		"minimap_pixel",
+		"name",
+		"position_2d",
+		"value",
+		"weapon",
+		"weight"
+	],
+	"craftable": {
+		"magic_slots": 3,
+		"resource_types": [
+			{
+				"amount": 3,
+				"id": 3
+			},
+			{
+				"amount": 1,
+				"id": 4
+			}
+		],
+		"resources": null,
+		"time": 90,
+		"tools": [
+			14
+		]
+	},
+	"description": "Longer wooden arc provide higher range.",
+	"glyph": {
+		"frames": [
+			{
+				"color": [
+					255,
+					255,
+					255
+				],
+				"delay": 0,
+				"index": 420
+			}
+		],
+		"random_frame_start": false
+	},
+	"id": "103",
+	"item": {
+		"image": 28,
+		"type": 13
+	},
+	"minimap_pixel": [
+		181,
+		112,
+		67
+	],
+	"name": "Longbow",
+	"value": 4200,
+	"weapon": {
+		"attack_animation": "5",
+		"attack_speed": 1.2000000476837158,
+		"damage": [
+			{
+				"dmg_max": 11,
+				"dmg_min": 5,
+				"dmg_type": "physical"
+			}
+		],
+		"hands": 2,
+		"hit_bonus": 3,
+		"parry_bonus": 0,
+		"range": 12,
+		"type": 5
+	},
+	"weight": 2.0
+}

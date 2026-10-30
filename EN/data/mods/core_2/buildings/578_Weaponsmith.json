@@ -1,0 +1,18 @@
+{
+	"enables": [
+		"core_2_weaponsmith"
+	],
+	"id": "578",
+	"image": 392,
+	"max": 2,
+	"name": "Weaponsmith",
+	"occupation_image": 6,
+	"occupation": "core_2_Gnome_Weaponsmith",
+	"produces": [],
+	"race": "24",
+	"tier": 2,
+	"workers": [
+		1,
+		2
+	]
+}

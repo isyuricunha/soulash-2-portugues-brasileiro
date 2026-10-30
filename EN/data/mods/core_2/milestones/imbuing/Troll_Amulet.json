@@ -1,0 +1,16 @@
+{
+	"id": "core_2_troll_amulet",
+	"name": "Troll Amulet",
+	"requirements": {
+		"milestones": [],
+		"skill": 20
+	},
+	"rewards": [
+		{
+			"recipe": "core_2_Troll_Amulet"
+		}
+	],
+	"skill_id": "core_2_imbuing",
+	"steps": [],
+	"steps_type": 0
+}

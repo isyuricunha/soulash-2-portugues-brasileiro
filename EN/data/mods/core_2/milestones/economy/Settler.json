@@ -1,0 +1,15 @@
+{
+	"id": "core_2_settler",
+	"name": "Settler",
+	"requirements": {
+		"skill": 31
+	},
+	"rewards": [
+		{
+			"passive": "core_2_settler"
+		}
+	],
+	"skill_id": "core_2_economy",
+	"steps": [],
+	"steps_type": 0
+}

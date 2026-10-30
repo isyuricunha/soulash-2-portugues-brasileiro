@@ -1,0 +1,16 @@
+{
+	"id": "core_2_meatloaf",
+	"name": "Meatloaf",
+	"requirements": {
+		"milestones": [],
+		"skill": 18
+	},
+	"rewards": [
+		{
+			"recipe": "core_2_Meatloaf"
+		}
+	],
+	"skill_id": "core_2_agriculture",
+	"steps": [],
+	"steps_type": 0
+}

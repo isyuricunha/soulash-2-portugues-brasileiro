@@ -1,0 +1,76 @@
+{
+	"armor": {
+		"acid": 0,
+		"death": 0,
+		"electricity": 2,
+		"fire": 0,
+		"frost": 0,
+		"holy": 0,
+		"parry": 0,
+		"physical": 0,
+		"poison": 0,
+		"thorns": 0
+	},
+	"components": [
+		"armor",
+		"craftable",
+		"glyph",
+		"item",
+		"minimap_pixel",
+		"name",
+		"position_2d",
+		"resource",
+		"stackable",
+		"value",
+		"weight"
+	],
+	"craftable": {
+		"backgrounds": [],
+		"biomes": [],
+		"magic_slots": 0,
+		"resource_types": [
+			{
+				"amount": 2,
+				"id": 3
+			}
+		],
+		"time": 50,
+		"tools": [
+			14
+		]
+	},
+	"description": "A small wooden totem carved with storm symbols and mysterious runes.",
+	"glyph": {
+		"frames": [
+			{
+				"color": [
+					255,
+					255,
+					255
+				],
+				"delay": 0,
+				"index": 3548
+			}
+		],
+		"random_frame_start": false
+	},
+	"id": "core_2_Storm_Totem_2",
+	"item": {
+		"image": 1582,
+		"type": 16
+	},
+	"minimap_pixel": [
+		100,
+		109,
+		155
+	],
+	"name": "Small Storm Totem",
+	"resource": {
+		"affix": "of the Totem",
+		"magic_ingredient": 2,
+		"quality": 2,
+		"type": 7
+	},
+	"value": 2000,
+	"weight": 0.10000000149011612
+}
