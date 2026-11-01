@@ -1,0 +1,65 @@
+{
+  "corrections": [
+    {
+      "EN": "Slightly improves health regeneration by ::regeneration periodically for ::duration turns",
+      "after": "Melhora levemente a regeneração de vida em ::regeneration periodicamente por ::duration turnos",
+      "before": "Melhora levemente a regenera��o de vida em ::regeneration periodicamente por ::duration turnos",
+      "id": "s2-f9e6ee6239273e0fcf65ee74"
+    },
+    {
+      "EN": "Perform a thrusting attack at nearby opponent that deals ::damage ::damage_type damage, and moves you one step backwards.",
+      "after": "Realize um ataque de estocada contra um oponente próximo, causando ::damage de dano do tipo ::damage_type e recuando um passo.",
+      "before": "Realize um ataque de estocada em oponente pr�ximo que causa ::damage ::damage_type de dano, e o move um passo para tr�s.",
+      "id": "s2-c053c05d767a863f3a03878e"
+    },
+    {
+      "EN": "of the Volcano",
+      "after": "do Vulcão",
+      "before": "do Vulc�o",
+      "id": "s2-7eef1dd03d1267e0523a0029"
+    },
+    {
+      "EN": "of the Volcano",
+      "after": "do Vulcão",
+      "before": "da Vulc�o",
+      "id": "s2-11bbcf3feafcbee11a4709ba"
+    },
+    {
+      "EN": "The water core is a shimmering gem of liquid purity, radiating an aura of tranquility and fluid energy.",
+      "after": "O núcleo de água é uma joia cintilante de pureza líquida, que irradia uma aura de tranquilidade e energia fluida.",
+      "before": "O n�cleo de �gua � uma joia cintilante de pureza l�quida, irradiando uma aura de tranquilidade e energia fluida.",
+      "id": "s2-0d4821bc31ee2bbc287bdca8"
+    },
+    {
+      "EN": "Water Core",
+      "after": "Núcleo de Água",
+      "before": "N�cleo de �gua",
+      "id": "s2-d33753662d5d9bfcb07f8034"
+    },
+    {
+      "EN": "The wind core is an ethereal gem resonating with the boundless energy of the skies. It hums with the essence of air and carries a whisper of distant breezes.",
+      "after": "O núcleo de vento é uma joia etérea que ressoa com a energia ilimitada dos céus. Ele vibra com a essência do ar e carrega um sussurro de brisas distantes.",
+      "before": "O n�cleo de vento � uma joia et�rea que ressoa com a energia ilimitada dos c�us. Ele vibra com a ess�ncia do ar e carrega um sussurro de brisas distantes.",
+      "id": "s2-1022c25c0924cc576ff7c9bd"
+    },
+    {
+      "EN": "Wind Core",
+      "after": "Núcleo de Vento",
+      "before": "N�cleo de Vento",
+      "id": "s2-83dc1c078f5310186189442d"
+    },
+    {
+      "EN": "of the Hurricane",
+      "after": "do Furacão",
+      "before": "do Furac�o",
+      "id": "s2-cae19da5ccdccf81d8b4d28f"
+    },
+    {
+      "EN": "of the Hurricane",
+      "after": "do Furacão",
+      "before": "da Furac�o",
+      "id": "s2-76577f12049b19998811e2ed"
+    }
+  ],
+  "rejected": []
+}

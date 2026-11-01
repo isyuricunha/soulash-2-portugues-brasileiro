@@ -1,0 +1,97 @@
+{
+  "corrections": [
+    {
+      "EN": "Static",
+      "after": "Estática",
+      "before": "Estático",
+      "id": "s2-8e05daa9ff8fbe20eceea8c8"
+    },
+    {
+      "EN": "Increased critical hit chance by 1% per stack.",
+      "after": "Aumenta a chance de acerto crítico em 1% por acúmulo.",
+      "before": "Aumenta a chance de acerto crítico em 1% por pilha.",
+      "id": "s2-5a1a76736115284050ad510d"
+    },
+    {
+      "EN": "Reduces time of attacks by 0.01 and increases damage done by 4% per stack.",
+      "after": "Reduz o tempo dos ataques em 0.01 e aumenta o dano causado em 4% por acúmulo.",
+      "before": "Reduz o tempo de ataques em 0.01 e aumenta o dano causado em 4% por pilha.",
+      "id": "s2-67b1f1deb2ec92cc9b91343e"
+    },
+    {
+      "EN": "Increases damage done by 5% per stack.",
+      "after": "Aumenta o dano causado em 5% por acúmulo.",
+      "before": "Aumenta o dano causado em 5% por pilha.",
+      "id": "s2-c28f15359a66523eb862951a"
+    },
+    {
+      "EN": "All special locations can be plundered, usually by taking the contents of available treasure chest. Follow the market on the minimap and find a chest.",
+      "after": "Todos os locais especiais podem ser saqueados, geralmente recolhendo o conteúdo dos baús de tesouro disponíveis. Siga o marcador no minimapa e encontre um baú.",
+      "before": "Todas as localizações especiais podem ser saqueadas, geralmente pegando o conteúdo dos baús do tesouro disponíveis. Siga o ícone do mercado no minimapa e encontre um baú.",
+      "id": "s2-10d0b6dc4b6d690437721cc0"
+    },
+    {
+      "EN": "There are many useful tools you could carry on your travels - knives to scavenge corpses, pickaxes to mine ores and gems, woodcutters to gather rare wood, harvesters to acquire wheat and herbs. Find a Toolmaker in Human, Dwarf or Bone Wraith settlement and order one. Plunder more chests along the way if you lack funds.",
+      "after": "Há muitas ferramentas úteis para levar em suas viagens: facas para extrair recursos de cadáveres, picaretas para minerar minérios e gemas, machados para coletar madeira rara e foices para obter trigo e ervas. Encontre um Ferramenteiro em um assentamento de humanos, anões ou espectros ósseos e encomende uma. Saqueie mais baús pelo caminho se faltar dinheiro.",
+      "before": "Há muitas ferramentas úteis que você pode carregar em suas viagens - facas para saquear cadáveres, picaretas para minerar minérios e gemas, machados para coletar madeira rara, foices para obter trigo e ervas. Encontre um Ferramenteiro em um assentamento Humano, Anão ou de Espectros de Osso e encomende uma. Saqueie mais baús pelo caminho se lhe faltarem fundos.",
+      "id": "s2-01dc1933c11b58801d3941d4"
+    },
+    {
+      "EN": "Until we learn from experienced characters, our potential to master a skill is limited. Let's try to find a trainer and pay them to teach us some new theories about our chosen skill.",
+      "after": "Até aprendermos com personagens experientes, nosso potencial para dominar uma habilidade é limitado. Vamos tentar encontrar um instrutor e pagá-lo para nos ensinar algumas novas teorias sobre nossa habilidade escolhida.",
+      "before": "Até aprendermos com personagens experientes, nosso potencial para dominar uma perícia é limitado. Vamos tentar encontrar um instrutor e pagá-lo para nos ensinar algumas novas teorias sobre nossa perícia escolhida.",
+      "id": "s2-a4e746ba52f826de0eb84f51"
+    },
+    {
+      "EN": "As you explore the world, you might have noticed only easy locations pop up during your travels. To have an easier time finding more challenging areas, you'll need to train one of the combat skills, like Sword, Mace, or Axe Fighting, Pyromancy, or Thievery. Train one of those and acquire more equipment to prepare.",
+      "after": "Ao explorar o mundo, você pode ter notado que apenas locais fáceis aparecem durante suas viagens. Para encontrar áreas mais desafiadoras com maior facilidade, você precisará treinar uma das habilidades de combate, como Combate com Espada, Combate com Maça, Combate com Machado, Piromancia ou Furto. Treine uma delas e consiga mais equipamentos para se preparar.",
+      "before": "Ao explorar o mundo, você pode ter notado que apenas locais fáceis aparecem durante suas viagens. Para ter mais facilidade em encontrar áreas mais desafiadoras, você precisará treinar uma das perícias de combate, como Combate com Espada, Maça ou Machado, Piromania ou Furto. Treine uma delas e adquira mais equipamentos para se preparar.",
+      "id": "s2-7bfe44bff897c00f94bfde42"
+    },
+    {
+      "EN": "Your fists become a beacon of celestial might, pummeling foes with escalating, sanctified force that shines brighter the longer you fight. Unleash a torrent of divine wrath with glove or knuckle weapons, infusing each strike with radiant holy damage.\n\nYou can train this skill by using abilities and attacking unarmed.",
+      "after": "Seus punhos tornam-se um farol de poder celestial, golpeando inimigos com uma força santificada e crescente que brilha mais intensamente quanto mais tempo você luta. Libere uma torrente de ira divina com luvas ou soqueiras, infundindo cada golpe com dano sagrado radiante.\n\nVocê pode treinar esta habilidade usando habilidades e atacando desarmado.",
+      "before": "Seus punhos tornam-se um farol de poder celestial, esmagando inimigos com uma força santificada e crescente que brilha mais intensamente quanto mais tempo você luta. Liberte um torrão de ira divina com armas de luva ou manopla, infundindo cada golpe com dano sagrado radiante.\n\nVocê pode treinar esta habilidade usando habilidades e atacando desarmado.",
+      "id": "s2-33e9d91b3bdb31b236db8e40"
+    },
+    {
+      "EN": "Pole Fighting",
+      "after": "Combate com Armas de Haste",
+      "before": "Luta com Postes",
+      "id": "s2-0d904d76b645dc5705e14542"
+    },
+    {
+      "EN": "Riders are not a problem if they charge directly at a prepared pike. Your opponents can't make a sword slash attack against you if you keep them at the tip of your long spear. Polearms can be a great addition to any warrior's arsenal, as they focus on benefits of range and positioning.\n\nYou can train this skill by using abilities and attacking with polearms.",
+      "after": "Cavaleiros não são um problema quando investem diretamente contra um pique preparado. Seus oponentes não podem atingir você com cortes de espada se forem mantidos na ponta de sua longa lança. Armas de haste são uma ótima adição ao arsenal de qualquer guerreiro, pois oferecem vantagens de alcance e posicionamento.\n\nVocê pode treinar esta habilidade usando habilidades e atacando com armas de haste.",
+      "before": "Cavaleiros não são um problema se investirem diretamente contra uma pique preparada. Seus oponentes não podem fazer um ataque de corte com espada contra você se você os mantiver na ponta de sua longa lança. Armas de haste podem ser uma ótima adição ao arsenal de qualquer guerreiro, pois focam nos benefícios de alcance e posicionamento.\n\nVocê pode treinar esta perícia usando habilidades e atacando com armas de haste.",
+      "id": "s2-61826e988a1ecb5eb73b848f"
+    },
+    {
+      "EN": "Duststorm",
+      "after": "Tempestade de Poeira",
+      "before": "Tempestade de areia",
+      "id": "s2-0f42976a909a0721df3faa41"
+    },
+    {
+      "EN": "[color=194,152,80,255]A blinding duststorm rolls in! Visibility is severely reduced![/color]",
+      "after": "[color=194,152,80,255]Uma tempestade de poeira ofuscante se aproxima! A visibilidade fica muito reduzida![/color]",
+      "before": "[color=194,152,80,255]Uma tempestade de areia cegante se aproxima! A visibilidade é severamente reduzida![/color]",
+      "id": "s2-7965e1e470369ea39cc6a5f4"
+    },
+    {
+      "EN": "Thunderstorm",
+      "after": "Tempestade com Raios",
+      "before": "Temporal",
+      "id": "s2-55d9434ef1acb4be8c3dbcb1"
+    }
+  ],
+  "rejected": [],
+  "reviewed": 126,
+  "scope": [
+    "ability_stackers.json",
+    "building_groups.json",
+    "goals.json",
+    "skills.json",
+    "weather.json"
+  ]
+}
