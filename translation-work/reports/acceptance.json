@@ -1,10 +1,20 @@
 {
   "windows_tests": {
-    "storage_and_native": 5,
-    "project_flow": 4,
-    "http_client": 4,
-    "consent": 1,
-    "publishing_scenarios": 4
+    "general_suite": {
+      "tests": 134,
+      "seconds": 788.765,
+      "result": "OK",
+      "skipped": 1,
+      "log": "tests-current-windows.txt"
+    },
+    "post_start_targeted_checks": {
+      "project_flow": 21,
+      "discovery": 10,
+      "workflow_and_git_inclusion": 3,
+      "migration": 2,
+      "documents": 5
+    },
+    "scope": "General suite plus targeted checks for subsequent reviewed changes; Git-normalized isolated checkout doctor passed for final implementation."
   },
   "verified": [
     "500 small updates across 101 files",
@@ -24,12 +34,11 @@
     "Windows doctor"
   ],
   "pending": [
-    "final full specification audit",
-    "rendered README preview when renderer available",
-    "live Ubuntu ARM64 preflight (handoff)",
-    "live game and GitHub tests not performed"
+    "Actual Ubuntu Server 24.04 ARM64 doctor execution after normal clone/pull",
+    "In-game runtime, glyphs and layout (not performed)",
+    "Live GitHub Actions and publication (not performed, not authorized as a test)"
   ],
-  "toolkit_complete": false,
+  "toolkit_complete": true,
   "consolidated_suite": {
     "tests": 31,
     "seconds": 196.752,
@@ -65,5 +74,23 @@
     "additional_reuse": 0,
     "result": "completed",
     "legacy_tree_preserved": true
-  }
+  },
+  "final_suite_observed": {
+    "command": "python -m unittest discover -s translation-work/tests -v",
+    "tests": 95,
+    "seconds": 642.148,
+    "result": "OK",
+    "skipped": 1,
+    "skip_reason": "real symlink creation privilege unavailable",
+    "log": "translation-work/reports/tests-final-windows.txt",
+    "scope": "run started before some subsequent edits; changed areas also exercised separately"
+  },
+  "remaining_engineering_audit": [],
+  "limitations": [
+    "Real symlink creation test skipped due to Windows privilege; filesystem-attribute guard tested",
+    "Markdown renderer unavailable among checked environment tools; source layout and links reviewed; external community links returned HTTP 403 in this environment",
+    "New-version acceptance is an explicit maintainer assertion of unmodified originals, not a publisher signature; known-version hash mismatches remain forbidden",
+    "Translation is not complete: 25249 reused PTBR, 4185 empty, 29434 review pending; build correctly refuses incomplete output"
+  ],
+  "git_handoff": "git-handoff.json: temporary index only, ordinary git add includes Python sources, isolated Git-normalized checkout doctor exit 0"
 }

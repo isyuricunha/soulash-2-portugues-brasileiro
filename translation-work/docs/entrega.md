@@ -22,4 +22,4 @@ O workflow verifica o build completo e publica automaticamente PTBR.zip, começa
 
 ## Limites
 
-Testes Windows e reconstrução técnica não comprovam apresentação dentro do jogo. Runtime, acentos, layout e compatibilidade de saves não foram testados. A conferência do Markdown bruto foi feita; não há alegação de preview renderizado. Consulte auditoria.md, requisitos.md e reports/acceptance.json para os itens ainda abertos no aceite técnico.
+Testes Windows e reconstrução técnica não comprovam apresentação dentro do jogo. Runtime, acentos, layout e compatibilidade de saves não foram testados. A conferência do Markdown bruto foi feita; não há alegação de preview renderizado. Consulte auditoria.md, requisitos.md e reports/acceptance.json para as evidências do aceite Windows e os limites de execução externa.

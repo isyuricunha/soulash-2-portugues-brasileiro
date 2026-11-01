@@ -1,0 +1,26 @@
+test_apply_noop_preserves_batch (test_project.ProjectFlow.test_apply_noop_preserves_batch) ... ok
+test_batch_sizes_and_noop (test_project.ProjectFlow.test_batch_sizes_and_noop) ... ok
+test_complete_build_gate (test_project.ProjectFlow.test_complete_build_gate) ... ok
+test_duplicate_and_unknown_payload (test_project.ProjectFlow.test_duplicate_and_unknown_payload) ... ok
+test_duplicate_record_refused (test_project.ProjectFlow.test_duplicate_record_refused) ... ok
+test_forged_complete_flag (test_project.ProjectFlow.test_forged_complete_flag) ... ok
+test_immutable_field_edit_refused (test_project.ProjectFlow.test_immutable_field_edit_refused) ... ok
+test_incomplete_rebuild_preserves_previous_output (test_project.ProjectFlow.test_incomplete_rebuild_preserves_previous_output) ... ok
+test_incomplete_source_refused (test_project.ProjectFlow.test_incomplete_source_refused) ... ok
+test_incremental_sync (test_project.ProjectFlow.test_incremental_sync) ... ok
+test_modified_translation_history (test_project.ProjectFlow.test_modified_translation_history) ... ok
+test_new_file_does_not_invalidate_existing (test_project.ProjectFlow.test_new_file_does_not_invalidate_existing) ... ok
+test_overwrite_guard (test_project.ProjectFlow.test_overwrite_guard) ... ok
+test_overwritten_en_sync (test_project.ProjectFlow.test_overwritten_en_sync) ... ok
+test_previous_catalog_reconstructed_from_delta (test_project.ProjectFlow.test_previous_catalog_reconstructed_from_delta) ... ok
+test_removed_record_history (test_project.ProjectFlow.test_removed_record_history) ... ok
+test_reordered_conversation_preserves_reviewed_translation (test_project.ProjectFlow.test_reordered_conversation_preserves_reviewed_translation) ... ok
+test_source_sync_invalidates_old_reference (test_project.ProjectFlow.test_source_sync_invalidates_old_reference) ... ok
+test_source_tamper (test_project.ProjectFlow.test_source_tamper) ... ok
+test_stale_apply_and_dry_run (test_project.ProjectFlow.test_stale_apply_and_dry_run) ... ok
+test_unaccepted_new_source_stales_output (test_project.ProjectFlow.test_unaccepted_new_source_stales_output) ... ok
+
+----------------------------------------------------------------------
+Ran 21 tests in 8.221s
+
+OK

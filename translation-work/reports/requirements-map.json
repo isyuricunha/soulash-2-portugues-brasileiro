@@ -1,0 +1,304 @@
+{
+  "source_attachment": "pasted-text-1.txt",
+  "section": "L",
+  "items": [
+    {
+      "requirement": 1,
+      "text": "Discovery with/without EN; correct deployable paths; safe, non-destructive import; ambiguous source and unsafe-path rejection.",
+      "evidence": [
+        "test_discovery.py",
+        "test_paths.py"
+      ],
+      "status": "verified-for-applicable-Soulash2-format-with-stated-limitations",
+      "limitations": [
+        "symlink live test skipped; attribute guard tested"
+      ]
+    },
+    {
+      "requirement": 2,
+      "text": "Lossless or proven equivalent native parse/rebuild, encoding and metadata preservation; round-trip validation.",
+      "evidence": [
+        "test_native_context.py",
+        "reports/native-roundtrip.json"
+      ],
+      "status": "verified-for-applicable-Soulash2-format-with-stated-limitations",
+      "limitations": []
+    },
+    {
+      "requirement": 3,
+      "text": "Initial extraction, default batches of 500, smaller last batch, multi-file IDs and manifest hashes.",
+      "evidence": [
+        "test_integrity_inventory.py",
+        "test_manifest_paths.py"
+      ],
+      "status": "verified-for-applicable-Soulash2-format-with-stated-limitations",
+      "limitations": []
+    },
+    {
+      "requirement": 4,
+      "text": "Translation application preserving all immutable original fields; partial acceptance, duplicate/unknown ID rejection, wrong-generation rejection, overwrite protection.",
+      "evidence": [
+        "test_project.py",
+        "test_atomic_apply.py"
+      ],
+      "status": "verified-for-applicable-Soulash2-format-with-stated-limitations",
+      "limitations": []
+    },
+    {
+      "requirement": 5,
+      "text": "Update of **one source string** in a large file preserves all other PTBR values; file-wide hash change must not invalidate all entries.",
+      "evidence": [
+        "test_project.py"
+      ],
+      "status": "verified-for-applicable-Soulash2-format-with-stated-limitations",
+      "limitations": []
+    },
+    {
+      "requirement": 6,
+      "text": "Addition, deletion, rename ambiguity, moving/reordering rows, duplicate source values, duplicate native keys, and source-file additions/removals.",
+      "evidence": [
+        "test_native_context.py",
+        "test_project.py"
+      ],
+      "status": "verified-for-applicable-Soulash2-format-with-stated-limitations",
+      "limitations": []
+    },
+    {
+      "requirement": 7,
+      "text": "New source files **placed directly in EN before sync**, including already overwritten EN files; compare against persisted previous accepted snapshot and produce the correct diff.",
+      "evidence": [
+        "test_project.py"
+      ],
+      "status": "verified-for-applicable-Soulash2-format-with-stated-limitations",
+      "limitations": []
+    },
+    {
+      "requirement": 8,
+      "text": "`update-sources` imports the correct native game resources, autodetects an unambiguous verified local installation where possible, or accepts `--game-root`. Test fallback on a remote server, unknown/multiple/wrong/modded game candidates, paths with spaces, incomplete resource trees, and wrong edition/variant.",
+      "evidence": [
+        "test_discovery.py",
+        "source-profiles.json"
+      ],
+      "status": "verified-for-applicable-Soulash2-format-with-stated-limitations",
+      "limitations": []
+    },
+    {
+      "requirement": 9,
+      "text": "`update-sources --dry-run` is read-only; a repeated import with unchanged source is a true no-op; every failure leaves EN, JSONL, output PTBR and the original installation unchanged.",
+      "evidence": [
+        "test_discovery.py",
+        "test_project.py"
+      ],
+      "status": "verified-for-applicable-Soulash2-format-with-stated-limitations",
+      "limitations": []
+    },
+    {
+      "requirement": 10,
+      "text": "No-op sync does not needlessly rewrite files or reorder batches.",
+      "evidence": [
+        "test_project.py"
+      ],
+      "status": "verified-for-applicable-Soulash2-format-with-stated-limitations",
+      "limitations": []
+    },
+    {
+      "requirement": 11,
+      "text": "Previously translated modified entries become pending while historical PTBR and prior source text remain accessible for Ella.",
+      "evidence": [
+        "test_project.py"
+      ],
+      "status": "verified-for-applicable-Soulash2-format-with-stated-limitations",
+      "limitations": []
+    },
+    {
+      "requirement": 12,
+      "text": "Changes preserve original batch assignments and create new batches only as necessary; reconstruction order follows native source order.",
+      "evidence": [
+        "test_project.py"
+      ],
+      "status": "verified-for-applicable-Soulash2-format-with-stated-limitations",
+      "limitations": []
+    },
+    {
+      "requirement": 13,
+      "text": "Incomplete source imports, missing previous snapshots, stale or conflicting revisions, concurrent edits and corrupt JSONL fail safely.",
+      "evidence": [
+        "test_project.py",
+        "test_storage_guards.py"
+      ],
+      "status": "verified-for-applicable-Soulash2-format-with-stated-limitations",
+      "limitations": []
+    },
+    {
+      "requirement": 14,
+      "text": "Atomic replace and multi-file interrupted transaction recovery; stage failures never corrupt valid accepted state, including when only one of many JSONL batches changed. Rollback/recover must still work after retention of older *completed* snapshots is pruned, within the documented recovery window.",
+      "evidence": [
+        "test_storage_guards.py"
+      ],
+      "status": "verified-for-applicable-Soulash2-format-with-stated-limitations",
+      "limitations": []
+    },
+    {
+      "requirement": 15,
+      "text": "**Required scale/storage regression:** create a realistic fixture of at least 100 JSONL batches, then apply 500 successive tiny translation payloads (mostly modifying one batch at a time). Assert that each apply stages/writes/backs up only modified batches and essential changed metadata, that unaffected batch contents and mtimes stay unchanged, and that count + total bytes of completed transaction snapshots remain bounded by the configured policy. Test storage totals, not just passed validations.",
+      "evidence": [
+        "test_scale.py",
+        "reports/scale-apply.txt"
+      ],
+      "status": "verified-for-applicable-Soulash2-format-with-stated-limitations",
+      "limitations": []
+    },
+    {
+      "requirement": 16,
+      "text": "**Required safe cleanup regression:** verify `gc --dry-run` is read-only, `gc` removes only eligible completed snapshots, and pruning refuses or preserves active journals, in-flight rollback, interrupted transactions, sole recoverable state, corrupt receipts, symlink/path escapes, or insufficient headroom. Simulate crashes during staged writes and recovery; verify no accepted translation is lost.",
+      "evidence": [
+        "test_storage_guards.py",
+        "test_paths.py"
+      ],
+      "status": "verified-for-applicable-Soulash2-format-with-stated-limitations",
+      "limitations": [
+        "symlink live test skipped; attribute guard tested"
+      ]
+    },
+    {
+      "requirement": 17,
+      "text": "Broken placeholders, formatting tags, encoding limits and engine-specific invalid structures are rejected accurately. **Gender/context regression fixtures** must include: (a) a source with no `gender` column but `Speaker_Jessica`/`Speaker_Daniel` entries and a `ScriptJessica` dialogue table, where discovered identifiers and their source evidence are exposed to the translator; (b) a verified female first-person speaker; (c) a female speaker describing a male third-person referent, without incorrectly applying feminine agreement to him; (d) ambiguous names/keys with unknown speaker gender; and (e) a player-selectable/dynamic-gender character. Check that usable speaker/addressee/referent context survives extraction, JSONL updates and sync, including linkages inferred from native IDs/tables; genuinely ambiguous cases remain flagged for review rather than asserted as facts, and context changes affecting agreement trigger review without discarding unrelated translations. Do not pretend that placeholder/structural tests prove human-level grammatical correctness.",
+      "evidence": [
+        "test_native_context.py",
+        "test_context_reference.py",
+        "test_contract.py"
+      ],
+      "status": "verified-for-applicable-Soulash2-format-with-stated-limitations",
+      "limitations": [
+        "game-specific selector evidence; no fabricated speaker tables or gender enums"
+      ]
+    },
+    {
+      "requirement": 18,
+      "text": "A partially translated project passes structural check and Ella may freely commit JSONL progress, **but no command other than an explicit complete build ever changes PTBR**. An incomplete build must fail, leaving no new PTBR files and preserving any previously published complete output.",
+      "evidence": [
+        "test_project.py"
+      ],
+      "status": "verified-for-applicable-Soulash2-format-with-stated-limitations",
+      "limitations": []
+    },
+    {
+      "requirement": 19,
+      "text": "Build output mirrors the exact deployable layout and never writes into the original game installation.",
+      "evidence": [
+        "test_manifest_paths.py",
+        "test_project.py"
+      ],
+      "status": "verified-for-applicable-Soulash2-format-with-stated-limitations",
+      "limitations": []
+    },
+    {
+      "requirement": 20,
+      "text": "All engineering work and Ella documentation live under translation-work/, except the public root README.md, EN/, PTBR/, repository metadata, and GitHub Actions.",
+      "evidence": [
+        "README.md",
+        "docs/entrega.md"
+      ],
+      "status": "verified-for-applicable-Soulash2-format-with-stated-limitations",
+      "limitations": []
+    },
+    {
+      "requirement": 21,
+      "text": "GitHub Actions triggers packaging on PTBR/ changes but not frequent EN/ or translation-work/ progress commits. The build must reject incomplete translation and only publish the entire completed PTBR tree. CI performs a fast build-manifest/hash/fingerprint check, not an independent native rebuild, and generates a ZIP with native files at the archive root and **no PTBR/ wrapper**. Assert the Release workflow creates and uploads the ZIP automatically, with **no second/manual package-or-upload requirement**.",
+      "evidence": [
+        "test_workflow.py",
+        "test_publishing.py"
+      ],
+      "status": "verified-for-applicable-Soulash2-format-with-stated-limitations",
+      "limitations": []
+    },
+    {
+      "requirement": 22,
+      "text": "ZIP member validation and **mocked end-to-end GitHub Release API calls** are exercised: first valid complete build creates v1.0.0 with **exactly one GitHub Release asset (`PTBR.zip`)** and well-structured PT-BR notes; next changed PTBR creates v1.0.1 with a real, categorized JSONL/native diff changelog; unchanged/repeated/manual runs do not bump; concurrent runners, non-ancestor tags and stale PTBR fail closed. **Presentation regressions:** fixture first Release, dialogue-only edits, native/font-only changes, multiple categories, no semantically known category and optional variant ZIPs. Assert human-readable sections and accurate installation/download links, the explicitly supplied Vai Brasil Discord URL in the README and Release description, any support appeal after primary change/download information, no oversized embedded images/QR by default, no raw commit-log-only changelog, no invented categories or game tests, and a valid comparison link where applicable. A small audience-facing changelog must remain informative without pasting the entire commit history. **Release asset allowlist regression:** when repository-root `LICENSE`/`CONTRIBUTING.md`, developer permission, font/OFL notices, generated changelog, manifests and Actions artifacts are present, assert none becomes an extra Release attachment; optional variants publish only their explicitly enabled, verified translation ZIPs. A mocked unexpected asset must be reported rather than counted as valid. Verify separately that mandatory third-party licensing information is delivered lawfully with the actual redistributed component. Exercise canonical repository-root API URL (no spurious trailing `/`), nested tag/release/upload endpoints, auth/permission failures, `404`, retries, interrupted drafts and asset confirmation. Passing `verify-output` alone is insufficient; the mock must actually execute the publishing HTTP client and assert correct request paths and idempotence. Report live GitHub runtime tests as untested.",
+      "evidence": [
+        "test_publishing.py",
+        "test_release_client.py",
+        "test_changelog.py"
+      ],
+      "status": "verified-for-applicable-Soulash2-format-with-stated-limitations",
+      "limitations": []
+    },
+    {
+      "requirement": 23,
+      "text": "**At initial toolkit handoff**, the root README is a completed, **visually polished GitHub player-facing landing page**, with verified official game art when available, original thematic heading, a compact row of **2–5 meaningful badges or equivalent accessible links** (Steam, PT-BR/Releases, Vai Brasil Discord), scannable player-focused sections, concise scope without technical count tables, accurate installation/backup/restore, stable Releases link with evergreen ZIP download instructions, player-relevant compatibility/help, portal, discreet optional Pix, true credits and mandatory concise license links. **README design regression:** inspect/fixture Markdown and an actual rendered preview when a renderer is available; test badge syntax and source/target URLs, alt text, reasonable size/quantity, heading order, narrow/mobile layout, stable pre/post-Release truthfulness and short readable text. Assert that internal extraction/JSONL/batches/manifests/hashes/dev CLI/CI reports do not leak into the player-facing page, but necessary game-installation paths and mandatory license/contributor attribution remain. Reject placeholders, dead images/links, invented download/compatibility badges, unsupported HTML/CSS, unsupported finished claims, borrowed installation instructions and plain technical templates. **Public copy and repository attribution regression:** check the root README, Release notes, any Nexus Mods copy and translation-site summary for (a) assistant/persona attributions and (b) named third-person narration of the maintainer's translation/testing activity outside credits. Temporary negative fixtures should flag both patterns, but accept neutral statements of verified work, concise named contributor credits and truthful legal/permission/provenance documents. Check internally authored game-repository handoff files for assistant/persona bylines as well. Do not rewrite existing Git history, original game resources or third-party documents; no extra CI infrastructure is needed.",
+      "evidence": [
+        "test_documents.py",
+        "test_public_copy.py",
+        "reports/readme-links.json"
+      ],
+      "status": "verified-for-applicable-Soulash2-format-with-stated-limitations",
+      "limitations": [
+        "raw Markdown reviewed; no renderer available; external community endpoints returned 403"
+      ]
+    },
+    {
+      "requirement": 24,
+      "text": "Test the simple gate end-to-end: repeated JSONL progress commits do not touch PTBR or trigger packaging; incomplete builds produce no partial output; a complete build creates native output + consistent build manifest; editing/removing an output file, modifying source/JSONL without rebuilding, or forging a `complete=true` flag makes fast CI verification fail; correct completed builds pass.",
+      "evidence": [
+        "test_project.py",
+        "test_workflow.py"
+      ],
+      "status": "verified-for-applicable-Soulash2-format-with-stated-limitations",
+      "limitations": []
+    },
+    {
+      "requirement": 25,
+      "text": "When optional variants are enabled, test vanilla-versus-patched source diffs, unequivocal shared translation reuse, ambiguous identical-English contexts that must not auto-reuse, independent per-variant statuses/builds and independent ZIP triggers.",
+      "evidence": [],
+      "status": "not-applicable-no-variants",
+      "limitations": []
+    },
+    {
+      "requirement": 26,
+      "text": "With optional variants, test PTBR.zip and PTBR-Community-Patch.zip member paths, variant prerequisites in public docs, and failure to publish a patch-derived ZIP when redistribution authorization is missing or unresolved.",
+      "evidence": [],
+      "status": "not-applicable-no-variants",
+      "limitations": []
+    },
+    {
+      "requirement": 27,
+      "text": "Repeated sync/apply/check/resume runs are idempotent where appropriate and do not lose progress.",
+      "evidence": [
+        "test_project.py"
+      ],
+      "status": "verified-for-applicable-Soulash2-format-with-stated-limitations",
+      "limitations": []
+    },
+    {
+      "requirement": 28,
+      "text": "**Mandatory day-one licensing test:** root `LICENSE` contains complete official English `CC-BY-NC-SA-4.0` legal code (not a deed); root **`GAME-DEVELOPER-PERMISSION.md` is named in English and written entirely in English**, based on the canonical verified English template, granting only the rights actually held for royalty-free, credited official commercial incorporation by the original developer/publisher; and `CONTRIBUTING.md` plus a functioning affirmative PR/equivalent opt-in process record contributor authorization before merging copyright-relevant text. The README links to all documents and preserves third-party rights. No license/permission files accidentally enter the native PTBR ZIP. Test that a contribution with no recorded consent is not treated as authorized for commercial integration.",
+      "evidence": [
+        "test_consent.py",
+        "test_documents.py",
+        "../LICENSE",
+        "../GAME-DEVELOPER-PERMISSION.md"
+      ],
+      "status": "verified-for-applicable-Soulash2-format-with-stated-limitations",
+      "limitations": []
+    },
+    {
+      "requirement": 29,
+      "text": "**Mandatory Windows-side portability regression + Ella-side preflight contract:** From the Windows development environment, test Git's canonical LF representation of CRLF-authored metadata and nested `engine-shapes.json` → `toolchain.json` → `runtime-support.json` hashes; unchanged files must pass and real tampering of binaries/native sources must fail. Implement and test a read-only, one-command preflight for Ella's Ubuntu Server 24.04 LTS ARM64 checkout that checks architecture/runtime/dependency resolution (e.g. Mono + Mono.Cecil), accepts a **valid fixture input** and verifies safe parse/rewrite behavior. The Windows agent must NOT be required to acquire a Linux ARM64 runner or SSH server access; report the **live server result as pending** until Ella actually executes that preflight. If preflight fails, Ella stops before translation and forwards the error for a Windows-side fix. No silent hash rebaselining, guessed support, manual `MONO_PATH` hacks or automatic OS package installation.\n\nRun the relevant test suite and self-review the changes. When actual game runtime testing is unavailable, state that explicitly rather than claiming runtime compatibility was verified.",
+      "evidence": [
+        "test_portability.py",
+        "test_doctor.py"
+      ],
+      "status": "verified-for-applicable-Soulash2-format-with-stated-limitations",
+      "limitations": [
+        "Windows implementation verified; actual Ubuntu ARM64 execution intentionally pending target preflight"
+      ]
+    }
+  ],
+  "note": "Mapping identifies evidence; individual assertions and final run must be inspected, mapping alone is not proof.",
+  "handoff_evidence": "git-handoff.json: isolated Git-normalized checkout, doctor exit 0",
+  "current_corpus_evidence": [
+    "doctor-current.json",
+    "check-current.json"
+  ],
+  "audit_result": "Windows engineering and migration accepted; external runtime checks remain explicitly unperformed. Evidence includes general suite, subsequent targeted checks, actual corpus roundtrip, archive verification and Git-normalized checkout doctor."
+}

@@ -8,3 +8,7 @@ translation_cache.json
 translation-work/.state/
 __pycache__/
 *.pyc
+
+# The active toolkit and its regression suite must survive Git clone/pull.
+!translation-work/*.py
+!translation-work/tests/*.py

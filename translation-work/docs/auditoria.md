@@ -46,3 +46,32 @@ Catálogo: alterações em EN imutável e duplicação de registro JSONL são re
 A árvore de imports do fluxo ativo foi verificada em test_no_network_toolkit.py: não há cliente de tradução, provedor ou biblioteca HTTP na extração, aplicação, sync ou build. O HTTP permanece isolado no publicador de Releases.
 
 Formato nativo: gênero feminino de entidade e feminine_affix reconstruídos em fixture sem alterar dano/IDs. Marcações de cor quebradas e números alterados são recusados; casos aprovados em test_native_context.py e test_contract.py.
+
+## Resultado consolidado observado em 01/11/2026
+
+A execução em reports/tests-final-windows.txt terminou com 95 testes em 642,148 s: OK, um skip por privilégio de symlink real. A execução começou antes de algumas alterações posteriores; os módulos alterados tiveram verificações específicas, mas a suíte precisa ser repetida sobre a versão final antes do aceite.
+
+A revisão identificou duas pendências funcionais: update-sources para versões futuras ainda depende de edição de perfil pelo desenvolvimento, e o catálogo externo de contexto precisa ser atualizado/invalidado de forma consistente após sync. Esses itens serão corrigidos antes da conclusão; não são bloqueios externos.
+
+## Importador: ordem de confiança
+
+update-sources verifica os recibos da toolkit antes de consultar a instalação e o perfil. Regressão específica confirma ausência de acesso às fontes em caso de CHECKSUM_MISMATCH; oito testes de descoberta aprovados.
+
+Versões futuras: --accept-new-version permite atualização em uma operação após confirmação explícita de origem pelo mantenedor, registrada no relatório transacional com fingerprint. Versões conhecidas alteradas continuam recusadas; dry-run não grava. Não é alegada autenticação criptográfica do publicador. Regressão de versão 0.10.6 aprovada.
+
+Correção de reordenação: o fingerprint semântico deixa de incluir posições de arrays do contexto. A sincronização de duas conversas reordenadas preservou revisão e PTBR, reportou dois movimentos e zero modificações. O manifesto aceito permite repetir importação de versão futura sem nova confirmação.
+
+## Correção da inclusão no Git
+
+A regra histórica *.py ignorava o código da toolkit e os testes. Exceções explícitas em .gitignore agora incluem translation-work/*.py e translation-work/tests/*.py. Regressão verifica git check-ignore para CLI, adaptador, publicador e testes. O mantenedor deve incluir esses arquivos no próximo commit; não foi criado commit automaticamente.
+
+
+## Aceite final — implementação Windows e migração
+
+Resultado geral: 134 testes em 788,765 s, OK (um skip de symlink real). As últimas alterações têm resultados específicos adicionais: 21 testes de fluxo, 10 de descoberta, 3 de workflows/inclusão Git, 2 de migração e 5 de documentos aprovados. A matriz de 29 requisitos está em reports/requirements-map.json. Notas anteriores deste documento descrevem etapas históricas da auditoria; este aceite e reports/acceptance.json representam o estado final.
+
+A importação de versões futuras foi resolvida por confirmação explícita de originais, sem editar a implementação; perfis conhecidos e manifesto aceito continuam protegidos por hashes. O catálogo externo de contexto é invalidado transacionalmente quando a geração muda, e o contexto ativo dos JSONL permanece atualizado. O histórico incremental permite reconstruir o catálogo anterior, incluindo adições, remoções e movimentos, sem snapshots integrais repetidos.
+
+A regra Git histórica que ignorava Python foi corrigida. O doctor passou na cópia isolada extraída de uma árvore Git produzida com índice temporário; o índice real do mantenedor não foi alterado. O código da toolkit e os testes devem ser incluídos no próximo commit. Nenhum commit, push, instalação no jogo ou Release real foi feito nesta entrega.
+
+Permanecem deliberadamente não executados: preflight no Ubuntu ARM64 do destino, testes dentro do jogo e GitHub Actions/publicação ao vivo. O anexo permite concluir o trabalho Windows com essas limitações explícitas. A tradução linguística continua pendente; não há PTBR novo incompleto nem alegação de tradução finalizada.

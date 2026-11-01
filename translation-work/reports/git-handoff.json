@@ -1,0 +1,8 @@
+{
+  "tree": "47478bdcc898e706284944504ab9973e55be05c4",
+  "temporary_index_only": true,
+  "normal_git_add_includes_toolkit": true,
+  "doctor_exit": 0,
+  "doctor_stdout": "{\r\n  \"runtime\": \"3.14.8\",\r\n  \"system\": \"Windows\",\r\n  \"architecture\": \"AMD64\",\r\n  \"fixture\": \"parse/rebuild fixture passed\",\r\n  \"read_only\": true,\r\n  \"ARM64\": \"pending target preflight\"\r\n}\r\n",
+  "doctor_stderr": ""
+}

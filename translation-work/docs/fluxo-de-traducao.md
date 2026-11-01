@@ -26,7 +26,7 @@ Use apenas texto nativo em PTBR, mantendo as variáveis originais. Não use toke
 
 ## Procedência das fontes
 
-update-sources aceita somente versões com inventário SHA-256 revisado em source-profiles.json. Uma instalação 0.10.5 modificada é recusada antes de sincronizar. Uma nova versão exige análise dos originais e atualização revisada do perfil e recibos pelo desenvolvimento da toolkit; não regenere hashes para silenciar diferenças. sync continua disponível para reconciliação explícita de fontes fornecidas pelo mantenedor, com histórico e diffs.
+Para versões conhecidas, update-sources exige o inventário SHA-256 de source-profiles.json ou do último manifesto aceito. Uma instalação 0.10.5 modificada é recusada antes de sincronizar. Para uma nova versão original, use update-sources --game-root "/path/to/Soulash 2" --accept-new-version --dry-run para inspecionar e repita sem --dry-run para importar. A opção afirma explicitamente que os arquivos são originais e não modificados; não representa assinatura do publicador. Ela não autoriza diferenças de uma versão conhecida, nem downgrade. Não regenere hashes para silenciar diferenças. sync continua disponível para reconciliação explícita de fontes fornecidas pelo mantenedor, com histórico e diffs.
 
 Para obter o envelope com IDs e fingerprints sem calculá-los manualmente: `python translation-work/toolkit.py export-payload > payload.json`. Recorte entries para o grupo que será trabalhado e ajuste expected_count. O comando é somente leitura; não preenche nem aprova traduções.
 

@@ -1,0 +1,20 @@
+{
+  "source": "accepted 0.10.5 corpus",
+  "counts": {
+    "Speaker_": 0,
+    "ScriptJessica": 0,
+    "npc_sex": 405,
+    "player_sex": 580
+  },
+  "example_paths": {
+    "Speaker_": [],
+    "ScriptJessica": [],
+    "npc_sex": [
+      "conversations.json"
+    ],
+    "player_sex": [
+      "conversations.json"
+    ]
+  },
+  "interpretation": "No invented speaker tables. Use actual selectors and conversation/entity references. Numeric sex mapping not verified."
+}
