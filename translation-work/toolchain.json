@@ -22,7 +22,11 @@
     },
     "translation-work/native.py": {
       "mode": "git-lf",
-      "sha256": "2d89a5e3007c97375b22e9616e5ce39deb70b8a30c87fa6bac35a776abdf7945"
+      "sha256": "08ddca381149d2820d276a689a5d156ad4cf998bbce6838398764d2072a90c68"
+    },
+    "translation-work/preview.py": {
+      "mode": "git-lf",
+      "sha256": "c928342aefeafff0addff3c9ed319c650fd9cf91acd95fcf9868b8842f7d0c29"
     },
     "translation-work/protection.py": {
       "mode": "git-lf",

@@ -85,10 +85,12 @@ def validate_row(r, complete=False):
     if complete and not r['reviewed']:
         raise Invalid('INCOMPLETE: translation/review pending: '+r['id'])
 
-def rebuild(files, rows, version):
+def rebuild(files, rows, version, *, require_review=True):
     by_file = {}
     for r in rows:
-        validate_row(r,complete=True)
+        validate_row(r,complete=require_review)
+        if not r['PTBR'].strip() or (r['gender_eligible'] and not r['gender']):
+            raise Invalid('INCOMPLETE: preview requires text and grammatical gender: '+r['id'])
         by_file.setdefault(r['source_file'],[]).append(r)
     outputs = {}
     for name, raw in files.items():

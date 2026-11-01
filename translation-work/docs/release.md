@@ -13,3 +13,8 @@ Após revisão completa e build, commit do PTBR e build-manifest deve incluir as
 O comando de teste é `python -m unittest discover -s translation-work/tests -p test_publishing.py -v`. O transporte HTTP é simulado, mas executa o cliente usado em produção e seus endpoints. Execução real do GitHub Actions e publicação real permanecem não verificadas.
 
 As 19 tags históricas v0.0.1 a v0.0.19 estão registradas por commit em legacy-releases.json e protegidas pela integridade da toolchain. O cliente confirma seus commits e ancestralidade, preserva as publicações antigas e inicia a série da toolkit em v1.0.0. Tags desconhecidas sem manifesto, tags alteradas e históricos divergentes falham; nenhuma versão antiga é apagada ou retagueada.
+
+
+## Prévia experimental
+
+`python translation-work/preview.py` gera `translation-work/.state/preview/PTBR.zip` com todos os textos preenchidos e gênero definido, mesmo com revisão pendente. Não altera aprovações, não cria manifesto de build final e não aciona o fluxo de publicação estável. A prévia preserva a identidade do Workshop e os ícones do mod. O relatório `reports/preview-build.json` registra contagens, hashes e ausência de teste no jogo. Publicar somente como pré-release, com limites explícitos. O build final continua exigindo revisão integral.
