@@ -13,6 +13,7 @@ class Invalid(ValueError):
 
 DEPLOY = 'data/mods/ptbr'
 SOURCE = 'data/mods/core_2'
+EXTRACTION_REVISION = 'soulash-json-v4-native-metadata-and-sentinels'
 HANDLER = SoulashFormatHandler()
 
 def encoded(obj):

@@ -281,6 +281,8 @@ class SoulashFormatHandler:
                     if isinstance(child, str) and self._is_scalar_translatable(
                         relative_path, key, pointer
                     ):
+                        if relative_path == "messages.json" and key in {"success", "fail"} and child == "none":
+                            continue
                         is_root_entity_name = relative_path.startswith(
                             "entities/"
                         ) and child_pointer == ("name",)
@@ -369,7 +371,7 @@ class SoulashFormatHandler:
     @staticmethod
     def _is_scalar_translatable(relative_path: str, key: str, parent: JsonPointer) -> bool:
         if relative_path == "messages.json":
-            return key != "id"
+            return key not in {"id", "align"}
         if relative_path == "dialogues.json" and key == "name":
             return False
         if key not in SCALAR_KEYS:

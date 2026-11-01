@@ -13,3 +13,8 @@ A instalação do jogo e o diretório privado não foram modificados. Não inclu
 A tradução pública antiga também é comparada às pendências após o reaproveitamento privado. Somente unidades com mesma identidade, inglês e contexto podem preencher células vazias, com validação de marcadores e origem registrada. O relatório reports/public-reuse.json lista o resultado. Nenhuma aprovação linguística é inferida dessa recuperação.
 
 Resultado da comparação pública: nenhuma unidade adicional satisfez simultaneamente identidade, fonte e contexto compatíveis entre as pendências. Nenhum texto foi descartado: a árvore pública antiga permanece no repositório e o privado está arquivado integralmente. O corpus ativo mantém 25.249 traduções recuperadas e 4.185 entradas vazias.
+
+
+## Atualização de 01/11/2026
+
+As contagens da migração inicial acima são históricas. Após excluir alinhamentos e sentinelas técnicas da extração, o corpus ativo contém 29.202 unidades em 59 lotes, todas preenchidas. Há 1.652 unidades revisadas e 27.550 aguardando revisão linguística. Foram recuperados 2.520 rascunhos com contexto alterado; eles não receberam aprovação automática. O mod legado perdeu 10 arquivos obsoletos e teve metadados técnicos restaurados. Consulte os relatórios em `../reports/`. O pacote final permanece bloqueado até a revisão integral; não houve teste dentro do jogo.

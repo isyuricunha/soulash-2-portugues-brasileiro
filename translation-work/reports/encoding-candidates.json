@@ -1,0 +1,110 @@
+[
+  {
+    "id": "s2-687de8671038c7680f06952e",
+    "EN": "I'm not close enough to you to tell you that.",
+    "before": "NÃ£o sou prÃ³ximo o bastante de vocÃª para te contar isso.",
+    "after": "Não sou próximo o bastante de você para te contar isso."
+  },
+  {
+    "id": "s2-11f31299a2e7375bad4df3bd",
+    "EN": "Sure, if I've seen any of them around, I can tell you where they are.",
+    "before": "Claro, se eu tiver visto algum deles por aÃ­, posso te dizer onde estÃ£o.",
+    "after": "Claro, se eu tiver visto algum deles por aí, posso te dizer onde estão."
+  },
+  {
+    "id": "s2-cd5191103790ae57ff9423c7",
+    "EN": "I don't know if I can tell you.",
+    "before": "NÃ£o sei se posso te contar.",
+    "after": "Não sei se posso te contar."
+  },
+  {
+    "id": "s2-5fb20c650022439d921a7122",
+    "EN": "Of course, who are you looking for?",
+    "before": "Claro, quem vocÃª procura?",
+    "after": "Claro, quem você procura?"
+  },
+  {
+    "id": "s2-23dbec0e2d2b1f66b0d6f974",
+    "EN": "Bone Wraith Binder",
+    "before": "Vinculador de Espectro Ã“sseo",
+    "after": "Vinculador de Espectro Ósseo"
+  },
+  {
+    "id": "s2-e152c35be4ca92aefaf12327",
+    "EN": "Bone Wraith Strand Seeker",
+    "before": "Buscador de Fios de Espectro Ã“sseo",
+    "after": "Buscador de Fios de Espectro Ósseo"
+  },
+  {
+    "id": "s2-4e309b86ca712e1d5a1e77a9",
+    "EN": "Bone Wraith Fiber Weaver",
+    "before": "TecelÃ£o de Fibras de Espectro Ã“sseo",
+    "after": "Tecelão de Fibras de Espectro Ósseo"
+  },
+  {
+    "id": "s2-6ba8eae41c9844d7d0f6f770",
+    "EN": "Mace",
+    "before": "MaÃ§a",
+    "after": "Maça"
+  },
+  {
+    "id": "s2-7b566931ac52983c1c1a6c5b",
+    "EN": "Bone Wraith Host",
+    "before": "Hospedeiro de Espectro Ã“sseo",
+    "after": "Hospedeiro de Espectro Ósseo"
+  },
+  {
+    "id": "s2-63c0fd7315a9f816f7ac8f2a",
+    "EN": "Floor made of marble plates.",
+    "before": "Piso feito de placas de mÃ¡rmore.",
+    "after": "Piso feito de placas de mármore."
+  },
+  {
+    "id": "s2-1e01e556da2aa91b84271786",
+    "EN": "Marble Floor",
+    "before": "Piso de MÃ¡rmore",
+    "after": "Piso de Mármore"
+  },
+  {
+    "id": "s2-3b85a99eba03a878e488c386",
+    "EN": "Alchemic Fire",
+    "before": "Fogo AlquÃ­mico",
+    "after": "Fogo Alquímico"
+  },
+  {
+    "id": "s2-830e82511724d6c1ca0c6b9d",
+    "EN": "Clay container for liquid with narrow opening to pour drinks.",
+    "before": "Recipiente de barro para lÃ­quidos com abertura estreita para servir bebidas.",
+    "after": "Recipiente de barro para líquidos com abertura estreita para servir bebidas."
+  },
+  {
+    "id": "s2-e9742b4fa788fbcb0901ce30",
+    "EN": "Always gets where it shouldn't.",
+    "before": "Sempre vai parar onde nÃ£o deve.",
+    "after": "Sempre vai parar onde não deve."
+  },
+  {
+    "id": "s2-5a61c563503fcd1130fbb670",
+    "EN": "An empty vial that can be filled with alchemical liquids.",
+    "before": "Um frasco vazio que pode ser preenchido com lÃ­quidos alquÃ­micos.",
+    "after": "Um frasco vazio que pode ser preenchido com líquidos alquímicos."
+  },
+  {
+    "id": "s2-7ca6944db2d8f41c219499a3",
+    "EN": "A tasteless and odorless mineral with a yellow crystalline consistency.",
+    "before": "Um mineral sem sabor e sem odor com consistÃªncia cristalina amarela.",
+    "after": "Um mineral sem sabor e sem odor com consistência cristalina amarela."
+  },
+  {
+    "id": "s2-98644daa02acc34a05c1322b",
+    "EN": "Hit property improves the chance to hit an opponent when performing a basic attack and is an opposite property to Parry.\n\nHit check is performed as follows:\n[color=255,246,143,255](Hit + 1d10) / (Parry + 1d10) = Chance to Hit %[/color]\nMinimum chance to hit is 10%. The visible range is between all your equipped weapons' minimum and maximum hit values.",
+    "before": "A propriedade Acerto melhora a chance de atingir um oponente ao realizar um ataque bÃ¡sico e Ã© uma propriedade oposta a Aparar.\n\nA verificaÃ§Ã£o de acerto Ã© realizada da seguinte forma:\n[color=255,246,143,255](Acerto + 1d10) / (Aparar + 1d10) = Chance de Acerto %[/color]\nA chance mÃ­nima de acerto Ã© 10%. O intervalo visÃ­vel fica entre os valores mÃ­nimo e mÃ¡ximo de acerto de todas as suas armas equipadas.",
+    "after": "A propriedade Acerto melhora a chance de atingir um oponente ao realizar um ataque básico e é uma propriedade oposta a Aparar.\n\nA verificação de acerto é realizada da seguinte forma:\n[color=255,246,143,255](Acerto + 1d10) / (Aparar + 1d10) = Chance de Acerto %[/color]\nA chance mínima de acerto é 10%. O intervalo visível fica entre os valores mínimo e máximo de acerto de todas as suas armas equipadas."
+  },
+  {
+    "id": "s2-59f584c9fff9f567813bd354",
+    "EN": "Parry property improves the chance to avoid getting hit by an opponent during a basic attack and is an opposite property to Hit. Abilities cannot be parried.\n\nHit check is performed as follows:\n[color=255,246,143,255](Hit + 1d10) / (Parry + 1d10) = Chance to Hit %[/color]\nMax chance to parry is 90%.\n\nParry can occur only 1 (2 with shield) times between attacks, which means performing your attack resets the counter. Both abilities that deal damage and regular attacks reset the counter, and drawing blood is unnecessary.",
+    "before": "A propriedade Aparar melhora a chance de evitar ser atingido por um oponente durante um ataque bÃ¡sico e Ã© uma propriedade oposta a Acerto. Habilidades nÃ£o podem ser aparadas.\n\nA verificaÃ§Ã£o de acerto Ã© realizada da seguinte forma:\n[color=255,246,143,255](Acerto + 1d10) / (Aparar + 1d10) = Chance de Acerto %[/color]\nA chance mÃ¡xima de aparar Ã© 90%.\n\nAparar pode ocorrer apenas 1 vezes (2 com escudo) entre ataques, o que significa que realizar seu ataque reinicia o contador. Tanto habilidades que causam dano quanto ataques regulares reiniciam o contador, e causar sangramento Ã© desnecessÃ¡rio.",
+    "after": "A propriedade Aparar melhora a chance de evitar ser atingido por um oponente durante um ataque básico e é uma propriedade oposta a Acerto. Habilidades não podem ser aparadas.\n\nA verificação de acerto é realizada da seguinte forma:\n[color=255,246,143,255](Acerto + 1d10) / (Aparar + 1d10) = Chance de Acerto %[/color]\nA chance máxima de aparar é 90%.\n\nAparar pode ocorrer apenas 1 vezes (2 com escudo) entre ataques, o que significa que realizar seu ataque reinicia o contador. Tanto habilidades que causam dano quanto ataques regulares reiniciam o contador, e causar sangramento é desnecessário."
+  }
+]

@@ -1,0 +1,816 @@
+{
+  "changes": [
+    {
+      "after": "none",
+      "before": "nenhum",
+      "path": [
+        "ability",
+        0,
+        "success"
+      ]
+    },
+    {
+      "after": "none",
+      "before": "nenhum",
+      "path": [
+        "ability",
+        0,
+        "fail"
+      ]
+    },
+    {
+      "after": "none",
+      "before": "nenhum",
+      "path": [
+        "ability",
+        2,
+        "fail"
+      ]
+    },
+    {
+      "after": "none",
+      "before": "nenhum",
+      "path": [
+        "ability",
+        9,
+        "success"
+      ]
+    },
+    {
+      "after": "none",
+      "before": "nenhum",
+      "path": [
+        "ability",
+        9,
+        "fail"
+      ]
+    },
+    {
+      "after": "none",
+      "before": "nenhum",
+      "path": [
+        "ability",
+        11,
+        "success"
+      ]
+    },
+    {
+      "after": "none",
+      "before": "nenhum",
+      "path": [
+        "ability",
+        11,
+        "fail"
+      ]
+    },
+    {
+      "after": "none",
+      "before": "nenhum",
+      "path": [
+        "ability",
+        13,
+        "success"
+      ]
+    },
+    {
+      "after": "none",
+      "before": "nenhum",
+      "path": [
+        "ability",
+        13,
+        "fail"
+      ]
+    },
+    {
+      "after": "none",
+      "before": "nenhum",
+      "path": [
+        "ability",
+        15,
+        "success"
+      ]
+    },
+    {
+      "after": "none",
+      "before": "nenhum",
+      "path": [
+        "ability",
+        15,
+        "fail"
+      ]
+    },
+    {
+      "after": "none",
+      "before": "nenhum",
+      "path": [
+        "ability",
+        16,
+        "success"
+      ]
+    },
+    {
+      "after": "none",
+      "before": "nenhum",
+      "path": [
+        "ability",
+        16,
+        "fail"
+      ]
+    },
+    {
+      "after": "none",
+      "before": "nenhum",
+      "path": [
+        "ability",
+        17,
+        "success"
+      ]
+    },
+    {
+      "after": "none",
+      "before": "nenhum",
+      "path": [
+        "ability",
+        17,
+        "fail"
+      ]
+    },
+    {
+      "after": "none",
+      "before": "Nenhum",
+      "path": [
+        "ability",
+        19,
+        "fail"
+      ]
+    },
+    {
+      "after": "none",
+      "before": "Nenhum",
+      "path": [
+        "ability",
+        20,
+        "success"
+      ]
+    },
+    {
+      "after": "none",
+      "before": "Nenhum",
+      "path": [
+        "ability",
+        20,
+        "fail"
+      ]
+    },
+    {
+      "after": "none",
+      "before": "Nenhum",
+      "path": [
+        "ability",
+        21,
+        "success"
+      ]
+    },
+    {
+      "after": "none",
+      "before": "Nenhum",
+      "path": [
+        "ability",
+        21,
+        "fail"
+      ]
+    },
+    {
+      "after": "none",
+      "before": "nenhum",
+      "path": [
+        "ability",
+        23,
+        "success"
+      ]
+    },
+    {
+      "after": "none",
+      "before": "nenhum",
+      "path": [
+        "ability",
+        23,
+        "fail"
+      ]
+    },
+    {
+      "after": "none",
+      "before": "nenhum",
+      "path": [
+        "ability",
+        24,
+        "success"
+      ]
+    },
+    {
+      "after": "none",
+      "before": "nenhum",
+      "path": [
+        "ability",
+        24,
+        "fail"
+      ]
+    },
+    {
+      "after": "none",
+      "before": "nenhum",
+      "path": [
+        "ability",
+        25,
+        "success"
+      ]
+    },
+    {
+      "after": "none",
+      "before": "nenhum",
+      "path": [
+        "ability",
+        25,
+        "fail"
+      ]
+    },
+    {
+      "after": "none",
+      "before": "nenhum",
+      "path": [
+        "ability",
+        27,
+        "success"
+      ]
+    },
+    {
+      "after": "none",
+      "before": "nenhum",
+      "path": [
+        "ability",
+        27,
+        "fail"
+      ]
+    },
+    {
+      "after": "none",
+      "before": "nenhum",
+      "path": [
+        "ability",
+        28,
+        "fail"
+      ]
+    },
+    {
+      "after": "none",
+      "before": "Nenhum.",
+      "path": [
+        "ability",
+        42,
+        "fail"
+      ]
+    },
+    {
+      "after": "none",
+      "before": "nenhum",
+      "path": [
+        "ability",
+        44,
+        "success"
+      ]
+    },
+    {
+      "after": "none",
+      "before": "nenhum",
+      "path": [
+        "ability",
+        44,
+        "fail"
+      ]
+    },
+    {
+      "after": "none",
+      "before": "nenhum",
+      "path": [
+        "ability",
+        46,
+        "success"
+      ]
+    },
+    {
+      "after": "none",
+      "before": "nenhum",
+      "path": [
+        "ability",
+        47,
+        "fail"
+      ]
+    },
+    {
+      "after": "none",
+      "before": "nenhum",
+      "path": [
+        "ability",
+        48,
+        "fail"
+      ]
+    },
+    {
+      "after": "none",
+      "before": "nenhum",
+      "path": [
+        "ability",
+        49,
+        "fail"
+      ]
+    },
+    {
+      "after": "none",
+      "before": "nenhum",
+      "path": [
+        "ability",
+        50,
+        "fail"
+      ]
+    },
+    {
+      "after": "none",
+      "before": "nenhum",
+      "path": [
+        "ability",
+        51,
+        "fail"
+      ]
+    },
+    {
+      "after": "none",
+      "before": "nenhum",
+      "path": [
+        "ability",
+        57,
+        "success"
+      ]
+    },
+    {
+      "after": "none",
+      "before": "nenhum",
+      "path": [
+        "ability",
+        57,
+        "fail"
+      ]
+    },
+    {
+      "after": "none",
+      "before": "nenhum",
+      "path": [
+        "ability",
+        59,
+        "success"
+      ]
+    },
+    {
+      "after": "none",
+      "before": "nenhum",
+      "path": [
+        "ability",
+        64,
+        "success"
+      ]
+    },
+    {
+      "after": "none",
+      "before": "nenhum",
+      "path": [
+        "ability",
+        64,
+        "fail"
+      ]
+    },
+    {
+      "after": "none",
+      "before": "nenhum",
+      "path": [
+        "ability",
+        65,
+        "fail"
+      ]
+    },
+    {
+      "after": "none",
+      "before": "nenhum",
+      "path": [
+        "ability",
+        66,
+        "success"
+      ]
+    },
+    {
+      "after": "none",
+      "before": "nenhum",
+      "path": [
+        "ability",
+        66,
+        "fail"
+      ]
+    },
+    {
+      "after": "none",
+      "before": "nenhum",
+      "path": [
+        "ability",
+        67,
+        "fail"
+      ]
+    },
+    {
+      "after": "none",
+      "before": "nenhum",
+      "path": [
+        "ability",
+        68,
+        "fail"
+      ]
+    },
+    {
+      "after": "none",
+      "before": "nenhum",
+      "path": [
+        "ability",
+        69,
+        "fail"
+      ]
+    },
+    {
+      "after": "none",
+      "before": "nenhum",
+      "path": [
+        "ability",
+        72,
+        "success"
+      ]
+    },
+    {
+      "after": "none",
+      "before": "nenhum",
+      "path": [
+        "ability",
+        72,
+        "fail"
+      ]
+    },
+    {
+      "after": "none",
+      "before": "Nenhum",
+      "path": [
+        "ability",
+        73,
+        "success"
+      ]
+    },
+    {
+      "after": "none",
+      "before": "Nenhum",
+      "path": [
+        "ability",
+        73,
+        "fail"
+      ]
+    },
+    {
+      "after": "none",
+      "before": "Nenhum",
+      "path": [
+        "ability",
+        74,
+        "success"
+      ]
+    },
+    {
+      "after": "none",
+      "before": "Nenhum",
+      "path": [
+        "ability",
+        74,
+        "fail"
+      ]
+    },
+    {
+      "after": "none",
+      "before": "nenhum",
+      "path": [
+        "ability",
+        76,
+        "success"
+      ]
+    },
+    {
+      "after": "none",
+      "before": "nenhum",
+      "path": [
+        "ability",
+        76,
+        "fail"
+      ]
+    },
+    {
+      "after": "none",
+      "before": "nenhum",
+      "path": [
+        "ability",
+        78,
+        "fail"
+      ]
+    },
+    {
+      "after": "none",
+      "before": "nenhum",
+      "path": [
+        "ability",
+        79,
+        "success"
+      ]
+    },
+    {
+      "after": "none",
+      "before": "nenhum",
+      "path": [
+        "ability",
+        86,
+        "success"
+      ]
+    },
+    {
+      "after": "none",
+      "before": "nenhum",
+      "path": [
+        "ability",
+        86,
+        "fail"
+      ]
+    },
+    {
+      "after": "none",
+      "before": "nenhum",
+      "path": [
+        "ability",
+        87,
+        "success"
+      ]
+    },
+    {
+      "after": "none",
+      "before": "nenhum",
+      "path": [
+        "ability",
+        87,
+        "fail"
+      ]
+    },
+    {
+      "after": "none",
+      "before": "nenhum",
+      "path": [
+        "ability",
+        88,
+        "success"
+      ]
+    },
+    {
+      "after": "none",
+      "before": "nenhum",
+      "path": [
+        "ability",
+        88,
+        "fail"
+      ]
+    },
+    {
+      "after": "none",
+      "before": "nenhum",
+      "path": [
+        "ability",
+        89,
+        "success"
+      ]
+    },
+    {
+      "after": "none",
+      "before": "nenhum",
+      "path": [
+        "ability",
+        89,
+        "fail"
+      ]
+    },
+    {
+      "after": "none",
+      "before": "nenhum",
+      "path": [
+        "ability",
+        90,
+        "success"
+      ]
+    },
+    {
+      "after": "none",
+      "before": "nenhum",
+      "path": [
+        "ability",
+        90,
+        "fail"
+      ]
+    },
+    {
+      "after": "none",
+      "before": "nenhum",
+      "path": [
+        "ability",
+        91,
+        "success"
+      ]
+    },
+    {
+      "after": "none",
+      "before": "nenhum",
+      "path": [
+        "ability",
+        91,
+        "fail"
+      ]
+    },
+    {
+      "after": "none",
+      "before": "nenhum",
+      "path": [
+        "ability",
+        92,
+        "success"
+      ]
+    },
+    {
+      "after": "none",
+      "before": "nenhum",
+      "path": [
+        "ability",
+        92,
+        "fail"
+      ]
+    },
+    {
+      "after": "none",
+      "before": "nenhum",
+      "path": [
+        "ability",
+        93,
+        "fail"
+      ]
+    },
+    {
+      "after": "none",
+      "before": "nenhum",
+      "path": [
+        "ability",
+        94,
+        "success"
+      ]
+    },
+    {
+      "after": "none",
+      "before": "nenhum",
+      "path": [
+        "ability",
+        94,
+        "fail"
+      ]
+    },
+    {
+      "after": "none",
+      "before": "nenhum",
+      "path": [
+        "ability",
+        95,
+        "success"
+      ]
+    },
+    {
+      "after": "none",
+      "before": "nenhum",
+      "path": [
+        "ability",
+        95,
+        "fail"
+      ]
+    },
+    {
+      "after": "none",
+      "before": "nenhum",
+      "path": [
+        "ability",
+        96,
+        "success"
+      ]
+    },
+    {
+      "after": "none",
+      "before": "nenhum",
+      "path": [
+        "ability",
+        96,
+        "fail"
+      ]
+    },
+    {
+      "after": "none",
+      "before": "nenhum",
+      "path": [
+        "ability",
+        98,
+        "success"
+      ]
+    },
+    {
+      "after": "none",
+      "before": "nenhum",
+      "path": [
+        "ability",
+        98,
+        "fail"
+      ]
+    },
+    {
+      "after": "none",
+      "before": "nenhum",
+      "path": [
+        "ability",
+        99,
+        "fail"
+      ]
+    },
+    {
+      "after": "none",
+      "before": "nenhum",
+      "path": [
+        "ability",
+        104,
+        "success"
+      ]
+    },
+    {
+      "after": "none",
+      "before": "nenhum",
+      "path": [
+        "ability",
+        105,
+        "success"
+      ]
+    },
+    {
+      "after": "none",
+      "before": "Nenhum",
+      "path": [
+        "ability",
+        106,
+        "success"
+      ]
+    },
+    {
+      "after": "none",
+      "before": "Nenhum",
+      "path": [
+        "ability",
+        109,
+        "success"
+      ]
+    },
+    {
+      "after": "none",
+      "before": "nenhum",
+      "path": [
+        "ability",
+        109,
+        "fail"
+      ]
+    },
+    {
+      "after": "none",
+      "before": "nenhum",
+      "path": [
+        "ability",
+        112,
+        "fail"
+      ]
+    },
+    {
+      "after": "none",
+      "before": "Nenhum",
+      "path": [
+        "ability",
+        113,
+        "fail"
+      ]
+    }
+  ],
+  "policy": "Restore success/fail none sentinels by native ID; preserve player-visible text",
+  "source": "english/translations/ptbr/messages.json"
+}

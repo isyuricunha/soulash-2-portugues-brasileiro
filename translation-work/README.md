@@ -3,7 +3,7 @@
 Fontes: Soulash 2 0.10.5, JSON UTF-8 e listas TXT em data/mods/core_2.
 Destino planejado: PTBR/data/mods/ptbr, instalado na raiz do jogo.
 
-As traduções reutilizadas da versão 0.10.1 exigem revisão linguística. Nenhuma entrada foi automaticamente aprovada. Os arquivos antigos english/, ptbr/ e os pacotes existentes foram preservados.
+As traduções reutilizadas da versão 0.10.1 exigem revisão linguística. Nenhuma entrada foi automaticamente aprovada. As fontes antigas e o histórico foram preservados. O mod legado recebeu a limpeza de arquivos obsoletos e a restauração de metadados técnicos; a atualização integral de textos permanece nos lotes até a revisão permitir o build.
 
 ## Uso
 
@@ -36,7 +36,9 @@ A mudança para CC BY-NC-SA 4.0 foi autorizada pelo mantenedor em 30/10/2026. A 
 
 ## Corpus migrado
 
-Soulash 2 0.10.5: 5.987 fontes, 29.434 unidades em 59 lotes. Foram reaproveitadas 25.249 traduções compatíveis da versão 0.10.1; 4.185 permanecem vazias. Todas as unidades exigem revisão explícita. A tradução privada e seu histórico estão preservados conforme docs/migracao.md.
+Soulash 2 0.10.5: 5.987 fontes, 29.202 unidades em 59 lotes. Todos os campos PTBR estão preenchidos; 1.652 unidades foram revisadas explicitamente e 27.550 continuam pendentes de revisão. Foram recuperados 2.520 rascunhos com inglês inalterado e contexto diferente, sem aprovação automática. A tradução privada e seu histórico estão preservados conforme docs/migracao.md.
+
+A extração exclui 122 valores de alinhamento e 110 sentinelas técnicas `none`, preservando-os como dados nativos. Dez arquivos obsoletos foram removidos do mod legado. Os relatórios de limpeza, recuperação e correção de codificação estão em reports/. Os fragmentos de nomes próprios procedurais dos gnomos mantêm a grafia original; profissões e textos de interface são traduzidos. Preenchimento integral não equivale a revisão linguística concluída nem a pacote publicado.
 
 ## Primeiros passos
 

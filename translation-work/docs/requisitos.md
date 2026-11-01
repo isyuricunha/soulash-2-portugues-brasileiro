@@ -29,3 +29,8 @@ Contexto: 1.331 conversas cruzadas com entidades em reference/conversation-conte
 Autodetecção: instalação em cache única, cache conflitante com Steam, ausência de Steam, caminho com espaços, identidade errada e metadados traduzidos foram exercitados em fixtures. update --dry-run preservou todos os arquivos no teste. source-profiles.json agora fixa o inventário completo da versão aceita. update-sources recusa diferenças antes de sync; teste de instalação modificada aprovado. Versões novas podem ser importadas em uma operação com --accept-new-version após confirmação de que core_2 contém os originais; a confirmação e os hashes ficam no relatório. Perfis conhecidos continuam com comparação exata.
 
 Inventário final: todos os caminhos do manifesto são relativos, sem travessia, existem em EN e correspondem aos source_file do catálogo (test_manifest_paths.py aprovado).
+
+
+## Atualização de 01/11/2026
+
+As contagens da migração inicial acima são históricas. Após excluir alinhamentos e sentinelas técnicas da extração, o corpus ativo contém 29.202 unidades em 59 lotes, todas preenchidas. Há 1.652 unidades revisadas e 27.550 aguardando revisão linguística. Foram recuperados 2.520 rascunhos com contexto alterado; eles não receberam aprovação automática. O mod legado perdeu 10 arquivos obsoletos e teve metadados técnicos restaurados. Consulte os relatórios em `../reports/`. O pacote final permanece bloqueado até a revisão integral; não houve teste dentro do jogo.

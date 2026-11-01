@@ -1,0 +1,2259 @@
+{
+  "entries": [
+    {
+      "id": "s2-38cfb5ebe7e7d0b121caf1ac",
+      "key": "wars/24/prefixes/@text=55848726df84febf#0",
+      "name_fragment": "Apricot",
+      "reason": "Reviewed proper-name spelling preserved; no invented Portuguese composition rules",
+      "source_file": "npc/companies/companies.json"
+    },
+    {
+      "id": "s2-91efd52dfe25b811f70083b6",
+      "key": "wars/24/prefixes/@text=a056256061752394#0",
+      "name_fragment": "Baked",
+      "reason": "Reviewed proper-name spelling preserved; no invented Portuguese composition rules",
+      "source_file": "npc/companies/companies.json"
+    },
+    {
+      "id": "s2-49b80b907a49710a789787c7",
+      "key": "wars/24/prefixes/@text=1d086001c6e5975b#0",
+      "name_fragment": "Bean",
+      "reason": "Reviewed proper-name spelling preserved; no invented Portuguese composition rules",
+      "source_file": "npc/companies/companies.json"
+    },
+    {
+      "id": "s2-990bcfafc4db79d50c7bafb8",
+      "key": "wars/24/prefixes/@text=a3ef49d473eec07b#0",
+      "name_fragment": "Basil",
+      "reason": "Reviewed proper-name spelling preserved; no invented Portuguese composition rules",
+      "source_file": "npc/companies/companies.json"
+    },
+    {
+      "id": "s2-e34d2dc0f5865977f6a5456f",
+      "key": "wars/24/prefixes/@text=dd36955e1de31121#0",
+      "name_fragment": "Biscuit",
+      "reason": "Reviewed proper-name spelling preserved; no invented Portuguese composition rules",
+      "source_file": "npc/companies/companies.json"
+    },
+    {
+      "id": "s2-0fa2935a1d05fb4e5d6f0352",
+      "key": "wars/24/prefixes/@text=9e87ba4dd07da92b#0",
+      "name_fragment": "Carrot",
+      "reason": "Reviewed proper-name spelling preserved; no invented Portuguese composition rules",
+      "source_file": "npc/companies/companies.json"
+    },
+    {
+      "id": "s2-831be821038cc85d671bf0f9",
+      "key": "wars/24/prefixes/@text=dca40757d00d1d85#0",
+      "name_fragment": "Caramel",
+      "reason": "Reviewed proper-name spelling preserved; no invented Portuguese composition rules",
+      "source_file": "npc/companies/companies.json"
+    },
+    {
+      "id": "s2-2d2c473c45ae0e63bfa84a01",
+      "key": "wars/24/prefixes/@text=527859c0ad13e24c#0",
+      "name_fragment": "Cocoa",
+      "reason": "Reviewed proper-name spelling preserved; no invented Portuguese composition rules",
+      "source_file": "npc/companies/companies.json"
+    },
+    {
+      "id": "s2-280330859df70e11fb53357d",
+      "key": "wars/24/prefixes/@text=45823eaac0c829b6#0",
+      "name_fragment": "Cookie",
+      "reason": "Reviewed proper-name spelling preserved; no invented Portuguese composition rules",
+      "source_file": "npc/companies/companies.json"
+    },
+    {
+      "id": "s2-8ac2b48e75c48ade453f9bc3",
+      "key": "wars/24/prefixes/@text=e392e490852004ff#0",
+      "name_fragment": "Drowsy",
+      "reason": "Reviewed proper-name spelling preserved; no invented Portuguese composition rules",
+      "source_file": "npc/companies/companies.json"
+    },
+    {
+      "id": "s2-b08c54a4aa6cb08315912bf0",
+      "key": "wars/24/prefixes/@text=66443efe6ecf5853#0",
+      "name_fragment": "Fluffy",
+      "reason": "Reviewed proper-name spelling preserved; no invented Portuguese composition rules",
+      "source_file": "npc/companies/companies.json"
+    },
+    {
+      "id": "s2-ef62903778f9bdb7e2f2234f",
+      "key": "wars/24/prefixes/@text=49a3ae7f70d454fa#0",
+      "name_fragment": "Fuzzy",
+      "reason": "Reviewed proper-name spelling preserved; no invented Portuguese composition rules",
+      "source_file": "npc/companies/companies.json"
+    },
+    {
+      "id": "s2-da4b81c6d631bf3006ded2d3",
+      "key": "wars/24/prefixes/@text=a25872e88c7d18c4#0",
+      "name_fragment": "Jellybean",
+      "reason": "Reviewed proper-name spelling preserved; no invented Portuguese composition rules",
+      "source_file": "npc/companies/companies.json"
+    },
+    {
+      "id": "s2-08fb83dba558e4fabf625a0a",
+      "key": "wars/24/prefixes/@text=fe5cab09d9e33c71#0",
+      "name_fragment": "Jammy",
+      "reason": "Reviewed proper-name spelling preserved; no invented Portuguese composition rules",
+      "source_file": "npc/companies/companies.json"
+    },
+    {
+      "id": "s2-d604a714d84f6202685500f1",
+      "key": "wars/24/prefixes/@text=3e48ea3921bd79a2#0",
+      "name_fragment": "Ladybug",
+      "reason": "Reviewed proper-name spelling preserved; no invented Portuguese composition rules",
+      "source_file": "npc/companies/companies.json"
+    },
+    {
+      "id": "s2-de1fdab31a758f06c0ecef85",
+      "key": "wars/24/prefixes/@text=60707cfeb40e2a66#0",
+      "name_fragment": "Lavender",
+      "reason": "Reviewed proper-name spelling preserved; no invented Portuguese composition rules",
+      "source_file": "npc/companies/companies.json"
+    },
+    {
+      "id": "s2-f655dba0c2e311cbdb0252e4",
+      "key": "wars/24/prefixes/@text=7e9bfa5b839e307e#0",
+      "name_fragment": "Mossy",
+      "reason": "Reviewed proper-name spelling preserved; no invented Portuguese composition rules",
+      "source_file": "npc/companies/companies.json"
+    },
+    {
+      "id": "s2-28880c50641911b288a387cf",
+      "key": "wars/24/prefixes/@text=15930314db88559e#0",
+      "name_fragment": "Merry",
+      "reason": "Reviewed proper-name spelling preserved; no invented Portuguese composition rules",
+      "source_file": "npc/companies/companies.json"
+    },
+    {
+      "id": "s2-3e7481324c2a8cc407e66d4d",
+      "key": "wars/24/prefixes/@text=2dcd5982ea7ba64d#0",
+      "name_fragment": "Muffin",
+      "reason": "Reviewed proper-name spelling preserved; no invented Portuguese composition rules",
+      "source_file": "npc/companies/companies.json"
+    },
+    {
+      "id": "s2-4454650ebfe356df85923d2a",
+      "key": "wars/24/prefixes/@text=f85d4cb7f5b57d83#0",
+      "name_fragment": "Pickle",
+      "reason": "Reviewed proper-name spelling preserved; no invented Portuguese composition rules",
+      "source_file": "npc/companies/companies.json"
+    },
+    {
+      "id": "s2-d270fecec2f61509b897110c",
+      "key": "wars/24/prefixes/@text=c6c5211a50793ccc#0",
+      "name_fragment": "Pumpkin",
+      "reason": "Reviewed proper-name spelling preserved; no invented Portuguese composition rules",
+      "source_file": "npc/companies/companies.json"
+    },
+    {
+      "id": "s2-eb87097218b34c6dbc335b06",
+      "key": "wars/24/prefixes/@text=a3362abb9f40dc8e#0",
+      "name_fragment": "Waffle",
+      "reason": "Reviewed proper-name spelling preserved; no invented Portuguese composition rules",
+      "source_file": "npc/companies/companies.json"
+    },
+    {
+      "id": "s2-afe40d71ea5fa0c6248ada87",
+      "key": "wars/24/suffixes/@text=f6a8e7d227e87384#0",
+      "name_fragment": "Adventurer",
+      "reason": "Reviewed proper-name spelling preserved; no invented Portuguese composition rules",
+      "source_file": "npc/companies/companies.json"
+    },
+    {
+      "id": "s2-fdb2534b129001ea9c5b4c14",
+      "key": "wars/24/suffixes/@text=81ffc4775832491e#0",
+      "name_fragment": "Ambusher",
+      "reason": "Reviewed proper-name spelling preserved; no invented Portuguese composition rules",
+      "source_file": "npc/companies/companies.json"
+    },
+    {
+      "id": "s2-ef50637754f5e4d89d66c698",
+      "key": "wars/24/suffixes/@text=b7b9be5f87ca2f50#0",
+      "name_fragment": "Baker",
+      "reason": "Reviewed proper-name spelling preserved; no invented Portuguese composition rules",
+      "source_file": "npc/companies/companies.json"
+    },
+    {
+      "id": "s2-76a89b3e82dd359cab6cafe8",
+      "key": "wars/24/suffixes/@text=143f40fdffa420df#0",
+      "name_fragment": "Berserker",
+      "reason": "Reviewed proper-name spelling preserved; no invented Portuguese composition rules",
+      "source_file": "npc/companies/companies.json"
+    },
+    {
+      "id": "s2-fb131658ca46e356b40e0a89",
+      "key": "wars/24/suffixes/@text=8006fc5ebe5d27b1#0",
+      "name_fragment": "Brigade",
+      "reason": "Reviewed proper-name spelling preserved; no invented Portuguese composition rules",
+      "source_file": "npc/companies/companies.json"
+    },
+    {
+      "id": "s2-4b4ef4718e3fe54b5fa1d12b",
+      "key": "wars/24/suffixes/@text=a57f7baaf54fff2b#0",
+      "name_fragment": "Buttonhole",
+      "reason": "Reviewed proper-name spelling preserved; no invented Portuguese composition rules",
+      "source_file": "npc/companies/companies.json"
+    },
+    {
+      "id": "s2-4bfd3d6462a498eb406c6671",
+      "key": "wars/24/suffixes/@text=262713e0518dc56b#0",
+      "name_fragment": "Chaser",
+      "reason": "Reviewed proper-name spelling preserved; no invented Portuguese composition rules",
+      "source_file": "npc/companies/companies.json"
+    },
+    {
+      "id": "s2-c37e94e62f7802464e7b0455",
+      "key": "wars/24/suffixes/@text=e1d2cd1d08470ea5#0",
+      "name_fragment": "Crusader",
+      "reason": "Reviewed proper-name spelling preserved; no invented Portuguese composition rules",
+      "source_file": "npc/companies/companies.json"
+    },
+    {
+      "id": "s2-ed0b7c036cc89ea3d401da6f",
+      "key": "wars/24/suffixes/@text=c39d646f10769b07#0",
+      "name_fragment": "Explorer",
+      "reason": "Reviewed proper-name spelling preserved; no invented Portuguese composition rules",
+      "source_file": "npc/companies/companies.json"
+    },
+    {
+      "id": "s2-ffbe0519fc3abba0d2f938f5",
+      "key": "wars/24/suffixes/@text=fe5b4864421290ea#0",
+      "name_fragment": "Fighter",
+      "reason": "Reviewed proper-name spelling preserved; no invented Portuguese composition rules",
+      "source_file": "npc/companies/companies.json"
+    },
+    {
+      "id": "s2-5e8caa5c98d7449de8239c5d",
+      "key": "wars/24/suffixes/@text=494ee23c96b623b7#0",
+      "name_fragment": "Gardener",
+      "reason": "Reviewed proper-name spelling preserved; no invented Portuguese composition rules",
+      "source_file": "npc/companies/companies.json"
+    },
+    {
+      "id": "s2-9b912ebc418f6acf400315d5",
+      "key": "wars/24/suffixes/@text=1d228f258f494c8a#0",
+      "name_fragment": "Guardian",
+      "reason": "Reviewed proper-name spelling preserved; no invented Portuguese composition rules",
+      "source_file": "npc/companies/companies.json"
+    },
+    {
+      "id": "s2-52868cda73bb779966d7c0d1",
+      "key": "wars/24/suffixes/@text=e026a39aff734f25#0",
+      "name_fragment": "Hedgehog",
+      "reason": "Reviewed proper-name spelling preserved; no invented Portuguese composition rules",
+      "source_file": "npc/companies/companies.json"
+    },
+    {
+      "id": "s2-48e078f21357153d1106c92a",
+      "key": "wars/24/suffixes/@text=1e07be7979669804#0",
+      "name_fragment": "Hedgeguard",
+      "reason": "Reviewed proper-name spelling preserved; no invented Portuguese composition rules",
+      "source_file": "npc/companies/companies.json"
+    },
+    {
+      "id": "s2-ff4a47b3e44de61ab29a62df",
+      "key": "wars/24/suffixes/@text=4e61bf4653c3f91f#0",
+      "name_fragment": "Hopper",
+      "reason": "Reviewed proper-name spelling preserved; no invented Portuguese composition rules",
+      "source_file": "npc/companies/companies.json"
+    },
+    {
+      "id": "s2-1d1bacc509a7e3a8668d991e",
+      "key": "wars/24/suffixes/@text=680ce38047bf1f29#0",
+      "name_fragment": "Hunter",
+      "reason": "Reviewed proper-name spelling preserved; no invented Portuguese composition rules",
+      "source_file": "npc/companies/companies.json"
+    },
+    {
+      "id": "s2-f6be4ac5aa69f34e0bf1225c",
+      "key": "wars/24/suffixes/@text=f24b52468bfaef30#0",
+      "name_fragment": "Knight",
+      "reason": "Reviewed proper-name spelling preserved; no invented Portuguese composition rules",
+      "source_file": "npc/companies/companies.json"
+    },
+    {
+      "id": "s2-86f7e3f9525b87042f5781bc",
+      "key": "wars/24/suffixes/@text=f24b52468bfaef30#1",
+      "name_fragment": "Knight",
+      "reason": "Reviewed proper-name spelling preserved; no invented Portuguese composition rules",
+      "source_file": "npc/companies/companies.json"
+    },
+    {
+      "id": "s2-50512127cf7e6b7b066cb246",
+      "key": "wars/24/suffixes/@text=533b205d171e6b09#0",
+      "name_fragment": "Marshal",
+      "reason": "Reviewed proper-name spelling preserved; no invented Portuguese composition rules",
+      "source_file": "npc/companies/companies.json"
+    },
+    {
+      "id": "s2-3c91c1339cf61c9ff379f148",
+      "key": "wars/24/suffixes/@text=90547a1e8264b831#0",
+      "name_fragment": "Ninja",
+      "reason": "Reviewed proper-name spelling preserved; no invented Portuguese composition rules",
+      "source_file": "npc/companies/companies.json"
+    },
+    {
+      "id": "s2-7d9d7f6b694eebff71911b67",
+      "key": "wars/24/suffixes/@text=52d044653f050340#0",
+      "name_fragment": "Patroller",
+      "reason": "Reviewed proper-name spelling preserved; no invented Portuguese composition rules",
+      "source_file": "npc/companies/companies.json"
+    },
+    {
+      "id": "s2-ac0fee530cd7dfb453d8ef6f",
+      "key": "wars/24/suffixes/@text=84edb6a537368a4a#0",
+      "name_fragment": "Protector",
+      "reason": "Reviewed proper-name spelling preserved; no invented Portuguese composition rules",
+      "source_file": "npc/companies/companies.json"
+    },
+    {
+      "id": "s2-7dbe2be84b6e07324e195194",
+      "key": "wars/24/suffixes/@text=8a1db462be753774#0",
+      "name_fragment": "Scout",
+      "reason": "Reviewed proper-name spelling preserved; no invented Portuguese composition rules",
+      "source_file": "npc/companies/companies.json"
+    },
+    {
+      "id": "s2-854b1c7eab2131075465fdcc",
+      "key": "wars/24/suffixes/@text=4b5b9b375e1fd912#0",
+      "name_fragment": "Skirmisher",
+      "reason": "Reviewed proper-name spelling preserved; no invented Portuguese composition rules",
+      "source_file": "npc/companies/companies.json"
+    },
+    {
+      "id": "s2-dd500099d2243826559ae0d0",
+      "key": "wars/24/suffixes/@text=91914eacd1bc0e88#0",
+      "name_fragment": "Stomper",
+      "reason": "Reviewed proper-name spelling preserved; no invented Portuguese composition rules",
+      "source_file": "npc/companies/companies.json"
+    },
+    {
+      "id": "s2-d031dbf079f304a3c11f2870",
+      "key": "wars/24/suffixes/@text=81258b7c45d5e6c9#0",
+      "name_fragment": "Warden",
+      "reason": "Reviewed proper-name spelling preserved; no invented Portuguese composition rules",
+      "source_file": "npc/companies/companies.json"
+    },
+    {
+      "id": "s2-762a05f7c4e3509e7093040b",
+      "key": "wars/24/suffixes/@text=87cb72383705c60b#0",
+      "name_fragment": "Watcher",
+      "reason": "Reviewed proper-name spelling preserved; no invented Portuguese composition rules",
+      "source_file": "npc/companies/companies.json"
+    },
+    {
+      "id": "s2-3a00dcda26d0ccff275144d3",
+      "key": "wars/24/suffixes/@text=eaf0fe0a362b5849#0",
+      "name_fragment": "Warrior",
+      "reason": "Reviewed proper-name spelling preserved; no invented Portuguese composition rules",
+      "source_file": "npc/companies/companies.json"
+    },
+    {
+      "id": "s2-1f48a239b905537e07efa63d",
+      "key": "prefixes/@text=7a599155e6623992#0",
+      "name_fragment": "Acorn",
+      "reason": "Reviewed proper-name spelling preserved; no invented Portuguese composition rules",
+      "source_file": "npc/settlements/gnome_settlements.json"
+    },
+    {
+      "id": "s2-03040a0b1e1f7c455a837ce8",
+      "key": "prefixes/@text=f223faa96f229162#0",
+      "name_fragment": "Apple",
+      "reason": "Reviewed proper-name spelling preserved; no invented Portuguese composition rules",
+      "source_file": "npc/settlements/gnome_settlements.json"
+    },
+    {
+      "id": "s2-a4a870ea91fc9001aabd6ae3",
+      "key": "prefixes/@text=1fbe8db80b6c1819#0",
+      "name_fragment": "Aspen",
+      "reason": "Reviewed proper-name spelling preserved; no invented Portuguese composition rules",
+      "source_file": "npc/settlements/gnome_settlements.json"
+    },
+    {
+      "id": "s2-159f70582bc0295008c55b12",
+      "key": "prefixes/@text=e0906c2d6dc6d526#0",
+      "name_fragment": "Autumn",
+      "reason": "Reviewed proper-name spelling preserved; no invented Portuguese composition rules",
+      "source_file": "npc/settlements/gnome_settlements.json"
+    },
+    {
+      "id": "s2-77c57a0ac07b412fff4cb425",
+      "key": "prefixes/@text=05ce03962fb8386d#0",
+      "name_fragment": "Badger",
+      "reason": "Reviewed proper-name spelling preserved; no invented Portuguese composition rules",
+      "source_file": "npc/settlements/gnome_settlements.json"
+    },
+    {
+      "id": "s2-69cd3515144cf852def4b35b",
+      "key": "prefixes/@text=b904432b6de55a66#0",
+      "name_fragment": "Barley",
+      "reason": "Reviewed proper-name spelling preserved; no invented Portuguese composition rules",
+      "source_file": "npc/settlements/gnome_settlements.json"
+    },
+    {
+      "id": "s2-2011cd003af71559a16d6b02",
+      "key": "prefixes/@text=f4fddf9a710e745e#0",
+      "name_fragment": "Birch",
+      "reason": "Reviewed proper-name spelling preserved; no invented Portuguese composition rules",
+      "source_file": "npc/settlements/gnome_settlements.json"
+    },
+    {
+      "id": "s2-9174e1e6d8a6acd05a19df82",
+      "key": "prefixes/@text=ca8203711df05fde#0",
+      "name_fragment": "Blossom",
+      "reason": "Reviewed proper-name spelling preserved; no invented Portuguese composition rules",
+      "source_file": "npc/settlements/gnome_settlements.json"
+    },
+    {
+      "id": "s2-0dce9986dd75fd73028a563c",
+      "key": "prefixes/@text=8e64d602bbbec37a#0",
+      "name_fragment": "Bluebell",
+      "reason": "Reviewed proper-name spelling preserved; no invented Portuguese composition rules",
+      "source_file": "npc/settlements/gnome_settlements.json"
+    },
+    {
+      "id": "s2-b8bab235228154e91541e381",
+      "key": "prefixes/@text=a23c0b400eba6f3a#0",
+      "name_fragment": "Bramble",
+      "reason": "Reviewed proper-name spelling preserved; no invented Portuguese composition rules",
+      "source_file": "npc/settlements/gnome_settlements.json"
+    },
+    {
+      "id": "s2-148cd71c2799816e7e091f95",
+      "key": "prefixes/@text=05af0612360ece1d#0",
+      "name_fragment": "Butter",
+      "reason": "Reviewed proper-name spelling preserved; no invented Portuguese composition rules",
+      "source_file": "npc/settlements/gnome_settlements.json"
+    },
+    {
+      "id": "s2-b5289f41deedaa758b697b65",
+      "key": "prefixes/@text=75656ad6e09976f2#0",
+      "name_fragment": "Candle",
+      "reason": "Reviewed proper-name spelling preserved; no invented Portuguese composition rules",
+      "source_file": "npc/settlements/gnome_settlements.json"
+    },
+    {
+      "id": "s2-93a4e39bc376ca80fd72a60b",
+      "key": "prefixes/@text=9512f4afb8279641#0",
+      "name_fragment": "Chestnut",
+      "reason": "Reviewed proper-name spelling preserved; no invented Portuguese composition rules",
+      "source_file": "npc/settlements/gnome_settlements.json"
+    },
+    {
+      "id": "s2-175812302b8ae1cfa2cf4a0c",
+      "key": "prefixes/@text=a740edd9c1a1745f#0",
+      "name_fragment": "Clover",
+      "reason": "Reviewed proper-name spelling preserved; no invented Portuguese composition rules",
+      "source_file": "npc/settlements/gnome_settlements.json"
+    },
+    {
+      "id": "s2-d8fb1de05f24e7930d663b99",
+      "key": "prefixes/@text=72a7c8157aa1110e#0",
+      "name_fragment": "Cottontail",
+      "reason": "Reviewed proper-name spelling preserved; no invented Portuguese composition rules",
+      "source_file": "npc/settlements/gnome_settlements.json"
+    },
+    {
+      "id": "s2-07761ec476d692f7f664bc5c",
+      "key": "prefixes/@text=9e8c5c157d73495e#0",
+      "name_fragment": "Cricket",
+      "reason": "Reviewed proper-name spelling preserved; no invented Portuguese composition rules",
+      "source_file": "npc/settlements/gnome_settlements.json"
+    },
+    {
+      "id": "s2-111a90da30c1abc66d8ad104",
+      "key": "prefixes/@text=75656ad6e09976f2#1",
+      "name_fragment": "Candle",
+      "reason": "Reviewed proper-name spelling preserved; no invented Portuguese composition rules",
+      "source_file": "npc/settlements/gnome_settlements.json"
+    },
+    {
+      "id": "s2-35a8c7cc9e9db7f34cb65bb4",
+      "key": "prefixes/@text=2fda11bbd0b94d18#0",
+      "name_fragment": "Daffodil",
+      "reason": "Reviewed proper-name spelling preserved; no invented Portuguese composition rules",
+      "source_file": "npc/settlements/gnome_settlements.json"
+    },
+    {
+      "id": "s2-db728d4cae411281b7c3e084",
+      "key": "prefixes/@text=02619168e605c9b0#0",
+      "name_fragment": "Dew",
+      "reason": "Reviewed proper-name spelling preserved; no invented Portuguese composition rules",
+      "source_file": "npc/settlements/gnome_settlements.json"
+    },
+    {
+      "id": "s2-f8a3de4789cf5a68fa913301",
+      "key": "prefixes/@text=b110357e7a18c96e#0",
+      "name_fragment": "Dimple",
+      "reason": "Reviewed proper-name spelling preserved; no invented Portuguese composition rules",
+      "source_file": "npc/settlements/gnome_settlements.json"
+    },
+    {
+      "id": "s2-baf07d9a32baa5040363d538",
+      "key": "prefixes/@text=1c6671e36bf469bd#0",
+      "name_fragment": "Dove",
+      "reason": "Reviewed proper-name spelling preserved; no invented Portuguese composition rules",
+      "source_file": "npc/settlements/gnome_settlements.json"
+    },
+    {
+      "id": "s2-3c36191c9300a3034a9c0842",
+      "key": "prefixes/@text=d9fe67c04cb07afe#0",
+      "name_fragment": "Elder",
+      "reason": "Reviewed proper-name spelling preserved; no invented Portuguese composition rules",
+      "source_file": "npc/settlements/gnome_settlements.json"
+    },
+    {
+      "id": "s2-3bb3cd2604c219e29939b95c",
+      "key": "prefixes/@text=bff0aac92a41256d#0",
+      "name_fragment": "Elm",
+      "reason": "Reviewed proper-name spelling preserved; no invented Portuguese composition rules",
+      "source_file": "npc/settlements/gnome_settlements.json"
+    },
+    {
+      "id": "s2-fdb5f98146a08fa80dd2de5f",
+      "key": "prefixes/@text=e85a6413c1bd537b#0",
+      "name_fragment": "Fall",
+      "reason": "Reviewed proper-name spelling preserved; no invented Portuguese composition rules",
+      "source_file": "npc/settlements/gnome_settlements.json"
+    },
+    {
+      "id": "s2-3485b5027cc139ae89030baf",
+      "key": "prefixes/@text=2a6118aaab29a215#0",
+      "name_fragment": "Fern",
+      "reason": "Reviewed proper-name spelling preserved; no invented Portuguese composition rules",
+      "source_file": "npc/settlements/gnome_settlements.json"
+    },
+    {
+      "id": "s2-8516623f4443db45fa007820",
+      "key": "prefixes/@text=6a201cad2f6557a7#0",
+      "name_fragment": "Fiddle",
+      "reason": "Reviewed proper-name spelling preserved; no invented Portuguese composition rules",
+      "source_file": "npc/settlements/gnome_settlements.json"
+    },
+    {
+      "id": "s2-8eae4a96ddc8a9e862d8ee71",
+      "key": "prefixes/@text=81629dd6f277eebe#0",
+      "name_fragment": "Flax",
+      "reason": "Reviewed proper-name spelling preserved; no invented Portuguese composition rules",
+      "source_file": "npc/settlements/gnome_settlements.json"
+    },
+    {
+      "id": "s2-a34eecb15846fb7bd5a4d0a7",
+      "key": "prefixes/@text=544a9cb451f2a731#0",
+      "name_fragment": "Ginger",
+      "reason": "Reviewed proper-name spelling preserved; no invented Portuguese composition rules",
+      "source_file": "npc/settlements/gnome_settlements.json"
+    },
+    {
+      "id": "s2-db5279621937bda29704bd0f",
+      "key": "prefixes/@text=0c8b0dbef56c9627#0",
+      "name_fragment": "Hearth",
+      "reason": "Reviewed proper-name spelling preserved; no invented Portuguese composition rules",
+      "source_file": "npc/settlements/gnome_settlements.json"
+    },
+    {
+      "id": "s2-635208b649353508d2804610",
+      "key": "prefixes/@text=ebcf983695346eea#0",
+      "name_fragment": "Honey",
+      "reason": "Reviewed proper-name spelling preserved; no invented Portuguese composition rules",
+      "source_file": "npc/settlements/gnome_settlements.json"
+    },
+    {
+      "id": "s2-854b3ff8fe42b5129b4b6697",
+      "key": "prefixes/@text=fed1a0585f331f52#0",
+      "name_fragment": "Ivy",
+      "reason": "Reviewed proper-name spelling preserved; no invented Portuguese composition rules",
+      "source_file": "npc/settlements/gnome_settlements.json"
+    },
+    {
+      "id": "s2-ca6e4684dae795e953ef6d10",
+      "key": "prefixes/@text=e9d28791393cea2f#0",
+      "name_fragment": "Kettle",
+      "reason": "Reviewed proper-name spelling preserved; no invented Portuguese composition rules",
+      "source_file": "npc/settlements/gnome_settlements.json"
+    },
+    {
+      "id": "s2-113e9da97ee5a323ee791b07",
+      "key": "prefixes/@text=213c649df845274f#0",
+      "name_fragment": "Kindred",
+      "reason": "Reviewed proper-name spelling preserved; no invented Portuguese composition rules",
+      "source_file": "npc/settlements/gnome_settlements.json"
+    },
+    {
+      "id": "s2-2f4fd3db16959311291f374a",
+      "key": "prefixes/@text=60707cfeb40e2a66#0",
+      "name_fragment": "Lavender",
+      "reason": "Reviewed proper-name spelling preserved; no invented Portuguese composition rules",
+      "source_file": "npc/settlements/gnome_settlements.json"
+    },
+    {
+      "id": "s2-0fd7fe85e38fbf56a3e32d0b",
+      "key": "prefixes/@text=7fcc15249ea31679#0",
+      "name_fragment": "Linden",
+      "reason": "Reviewed proper-name spelling preserved; no invented Portuguese composition rules",
+      "source_file": "npc/settlements/gnome_settlements.json"
+    },
+    {
+      "id": "s2-c0fd51f38ee41e50be652c13",
+      "key": "prefixes/@text=117361268a0facb6#0",
+      "name_fragment": "Little",
+      "reason": "Reviewed proper-name spelling preserved; no invented Portuguese composition rules",
+      "source_file": "npc/settlements/gnome_settlements.json"
+    },
+    {
+      "id": "s2-e1ff6097b0ed76d9976b0097",
+      "key": "prefixes/@text=18a91bdea286ec72#0",
+      "name_fragment": "Maple",
+      "reason": "Reviewed proper-name spelling preserved; no invented Portuguese composition rules",
+      "source_file": "npc/settlements/gnome_settlements.json"
+    },
+    {
+      "id": "s2-ac736f84971488ea3bb9de70",
+      "key": "prefixes/@text=c1a6967c32a3c45f#0",
+      "name_fragment": "Mellow",
+      "reason": "Reviewed proper-name spelling preserved; no invented Portuguese composition rules",
+      "source_file": "npc/settlements/gnome_settlements.json"
+    },
+    {
+      "id": "s2-82592e6c9b24b3ddfa5a4893",
+      "key": "prefixes/@text=15930314db88559e#0",
+      "name_fragment": "Merry",
+      "reason": "Reviewed proper-name spelling preserved; no invented Portuguese composition rules",
+      "source_file": "npc/settlements/gnome_settlements.json"
+    },
+    {
+      "id": "s2-7b2b0220f4a49eb0bf641000",
+      "key": "prefixes/@text=4d1f9e1f7316e383#0",
+      "name_fragment": "Mistle",
+      "reason": "Reviewed proper-name spelling preserved; no invented Portuguese composition rules",
+      "source_file": "npc/settlements/gnome_settlements.json"
+    },
+    {
+      "id": "s2-7794ffdfd408445009e24bda",
+      "key": "prefixes/@text=cb54feade6ec4212#0",
+      "name_fragment": "Moss",
+      "reason": "Reviewed proper-name spelling preserved; no invented Portuguese composition rules",
+      "source_file": "npc/settlements/gnome_settlements.json"
+    },
+    {
+      "id": "s2-1a245f54e069444cbb69be4d",
+      "key": "prefixes/@text=9530f5ea416535f6#0",
+      "name_fragment": "Nutmeg",
+      "reason": "Reviewed proper-name spelling preserved; no invented Portuguese composition rules",
+      "source_file": "npc/settlements/gnome_settlements.json"
+    },
+    {
+      "id": "s2-2b4f48a6a7fd7c0611a55210",
+      "key": "prefixes/@text=cfed998f07b32c43#0",
+      "name_fragment": "Oak",
+      "reason": "Reviewed proper-name spelling preserved; no invented Portuguese composition rules",
+      "source_file": "npc/settlements/gnome_settlements.json"
+    },
+    {
+      "id": "s2-6ade57f0c99cd91d967314a4",
+      "key": "prefixes/@text=3253b6f737c45ac8#0",
+      "name_fragment": "Oat",
+      "reason": "Reviewed proper-name spelling preserved; no invented Portuguese composition rules",
+      "source_file": "npc/settlements/gnome_settlements.json"
+    },
+    {
+      "id": "s2-c1ef526d7475e314a9c1e74c",
+      "key": "prefixes/@text=b901d921d255c25a#0",
+      "name_fragment": "Pebble",
+      "reason": "Reviewed proper-name spelling preserved; no invented Portuguese composition rules",
+      "source_file": "npc/settlements/gnome_settlements.json"
+    },
+    {
+      "id": "s2-626d034ef81eb7e609345bea",
+      "key": "prefixes/@text=529c3146271d02cb#0",
+      "name_fragment": "Penny",
+      "reason": "Reviewed proper-name spelling preserved; no invented Portuguese composition rules",
+      "source_file": "npc/settlements/gnome_settlements.json"
+    },
+    {
+      "id": "s2-cc371842a8e591e5a7bded11",
+      "key": "prefixes/@text=b83a3f99e94caf44#0",
+      "name_fragment": "Petal",
+      "reason": "Reviewed proper-name spelling preserved; no invented Portuguese composition rules",
+      "source_file": "npc/settlements/gnome_settlements.json"
+    },
+    {
+      "id": "s2-0c814cca41a0537db9af448f",
+      "key": "prefixes/@text=7859fff77202a94f#0",
+      "name_fragment": "Pine",
+      "reason": "Reviewed proper-name spelling preserved; no invented Portuguese composition rules",
+      "source_file": "npc/settlements/gnome_settlements.json"
+    },
+    {
+      "id": "s2-79cfde04cb1afb20f658b0cc",
+      "key": "prefixes/@text=cf648810607d3a3e#0",
+      "name_fragment": "Pip",
+      "reason": "Reviewed proper-name spelling preserved; no invented Portuguese composition rules",
+      "source_file": "npc/settlements/gnome_settlements.json"
+    },
+    {
+      "id": "s2-fd06d71b2ab386036c20ed43",
+      "key": "prefixes/@text=c8b2fae9f5dc3c52#0",
+      "name_fragment": "Plum",
+      "reason": "Reviewed proper-name spelling preserved; no invented Portuguese composition rules",
+      "source_file": "npc/settlements/gnome_settlements.json"
+    },
+    {
+      "id": "s2-3b800f5e481855fadcbbbc9a",
+      "key": "prefixes/@text=652eb3ace93262f9#0",
+      "name_fragment": "Poppy",
+      "reason": "Reviewed proper-name spelling preserved; no invented Portuguese composition rules",
+      "source_file": "npc/settlements/gnome_settlements.json"
+    },
+    {
+      "id": "s2-b13abd36b3db83fee283d32d",
+      "key": "prefixes/@text=b7b974f00a4e4aa5#0",
+      "name_fragment": "Primrose",
+      "reason": "Reviewed proper-name spelling preserved; no invented Portuguese composition rules",
+      "source_file": "npc/settlements/gnome_settlements.json"
+    },
+    {
+      "id": "s2-4cec5fbcd038c63cd00e08da",
+      "key": "prefixes/@text=c6c5211a50793ccc#0",
+      "name_fragment": "Pumpkin",
+      "reason": "Reviewed proper-name spelling preserved; no invented Portuguese composition rules",
+      "source_file": "npc/settlements/gnome_settlements.json"
+    },
+    {
+      "id": "s2-7e18734799b0a79555ac2fb7",
+      "key": "prefixes/@text=a6d20aa6a4c73f0d#0",
+      "name_fragment": "Rain",
+      "reason": "Reviewed proper-name spelling preserved; no invented Portuguese composition rules",
+      "source_file": "npc/settlements/gnome_settlements.json"
+    },
+    {
+      "id": "s2-f1c9a7a0f778151683787868",
+      "key": "prefixes/@text=6b9e1f86100c7a63#0",
+      "name_fragment": "Raspberry",
+      "reason": "Reviewed proper-name spelling preserved; no invented Portuguese composition rules",
+      "source_file": "npc/settlements/gnome_settlements.json"
+    },
+    {
+      "id": "s2-bdc9a6268acd46a31dc79732",
+      "key": "prefixes/@text=e10d850954a8e611#0",
+      "name_fragment": "Rose",
+      "reason": "Reviewed proper-name spelling preserved; no invented Portuguese composition rules",
+      "source_file": "npc/settlements/gnome_settlements.json"
+    },
+    {
+      "id": "s2-1cf11f44d80c23b4dc33a2ee",
+      "key": "prefixes/@text=5faa713a75d77607#0",
+      "name_fragment": "Sage",
+      "reason": "Reviewed proper-name spelling preserved; no invented Portuguese composition rules",
+      "source_file": "npc/settlements/gnome_settlements.json"
+    },
+    {
+      "id": "s2-0ab99a697ca3554404a38661",
+      "key": "prefixes/@text=e25fa28ba87532df#0",
+      "name_fragment": "Sorrel",
+      "reason": "Reviewed proper-name spelling preserved; no invented Portuguese composition rules",
+      "source_file": "npc/settlements/gnome_settlements.json"
+    },
+    {
+      "id": "s2-0715acdb21e0bdf83cc2ce12",
+      "key": "prefixes/@text=b173c0060a5820b4#0",
+      "name_fragment": "Sparrow",
+      "reason": "Reviewed proper-name spelling preserved; no invented Portuguese composition rules",
+      "source_file": "npc/settlements/gnome_settlements.json"
+    },
+    {
+      "id": "s2-65b8baf9b0da6d7a6b22651e",
+      "key": "prefixes/@text=db29e82a9287fc28#0",
+      "name_fragment": "Spring",
+      "reason": "Reviewed proper-name spelling preserved; no invented Portuguese composition rules",
+      "source_file": "npc/settlements/gnome_settlements.json"
+    },
+    {
+      "id": "s2-86eafa45b9ff6b21aacee1e0",
+      "key": "prefixes/@text=01e7c30f7fec479d#0",
+      "name_fragment": "Sweet",
+      "reason": "Reviewed proper-name spelling preserved; no invented Portuguese composition rules",
+      "source_file": "npc/settlements/gnome_settlements.json"
+    },
+    {
+      "id": "s2-9b95b30556fdcde9406cc1e9",
+      "key": "prefixes/@text=eccaa8dee4ba1b42#0",
+      "name_fragment": "Thimble",
+      "reason": "Reviewed proper-name spelling preserved; no invented Portuguese composition rules",
+      "source_file": "npc/settlements/gnome_settlements.json"
+    },
+    {
+      "id": "s2-bc10ff9cb26f87df8b1f300c",
+      "key": "prefixes/@text=a3af75f50e804518#0",
+      "name_fragment": "Thyme",
+      "reason": "Reviewed proper-name spelling preserved; no invented Portuguese composition rules",
+      "source_file": "npc/settlements/gnome_settlements.json"
+    },
+    {
+      "id": "s2-1ce8f6f219c9583c9053d610",
+      "key": "prefixes/@text=0a8a36409cd2a553#0",
+      "name_fragment": "Willow",
+      "reason": "Reviewed proper-name spelling preserved; no invented Portuguese composition rules",
+      "source_file": "npc/settlements/gnome_settlements.json"
+    },
+    {
+      "id": "s2-3d2cd8f1385bae4b1959a2c4",
+      "key": "suffixes/@text=cc1763c8ecdace5f#0",
+      "name_fragment": "abbey",
+      "reason": "Reviewed proper-name spelling preserved; no invented Portuguese composition rules",
+      "source_file": "npc/settlements/gnome_settlements.json"
+    },
+    {
+      "id": "s2-5d244b75ce986e4846258c14",
+      "key": "suffixes/@text=9687f37a648e57bb#0",
+      "name_fragment": "acre",
+      "reason": "Reviewed proper-name spelling preserved; no invented Portuguese composition rules",
+      "source_file": "npc/settlements/gnome_settlements.json"
+    },
+    {
+      "id": "s2-497e77bf4e0770a879ad3268",
+      "key": "suffixes/@text=b86c24fb6243540a#0",
+      "name_fragment": "arbor",
+      "reason": "Reviewed proper-name spelling preserved; no invented Portuguese composition rules",
+      "source_file": "npc/settlements/gnome_settlements.json"
+    },
+    {
+      "id": "s2-1bfaad0f5526b2cd3761a87d",
+      "key": "suffixes/@text=4381dc2ab1428516#0",
+      "name_fragment": "bank",
+      "reason": "Reviewed proper-name spelling preserved; no invented Portuguese composition rules",
+      "source_file": "npc/settlements/gnome_settlements.json"
+    },
+    {
+      "id": "s2-7afe4b2fae1dfc4690d74778",
+      "key": "suffixes/@text=36e110819a318ddd#0",
+      "name_fragment": "bend",
+      "reason": "Reviewed proper-name spelling preserved; no invented Portuguese composition rules",
+      "source_file": "npc/settlements/gnome_settlements.json"
+    },
+    {
+      "id": "s2-8ed036cba623f8d3a19ab3c3",
+      "key": "suffixes/@text=73cce42f1f0e9099#0",
+      "name_fragment": "berry",
+      "reason": "Reviewed proper-name spelling preserved; no invented Portuguese composition rules",
+      "source_file": "npc/settlements/gnome_settlements.json"
+    },
+    {
+      "id": "s2-c8ac79a9623c8fc345a707ff",
+      "key": "suffixes/@text=4a9909a9516d02fd#0",
+      "name_fragment": "cairn",
+      "reason": "Reviewed proper-name spelling preserved; no invented Portuguese composition rules",
+      "source_file": "npc/settlements/gnome_settlements.json"
+    },
+    {
+      "id": "s2-a0fc33c818ff5c033fec4d9e",
+      "key": "suffixes/@text=45d227c4b297a0ba#0",
+      "name_fragment": "corner",
+      "reason": "Reviewed proper-name spelling preserved; no invented Portuguese composition rules",
+      "source_file": "npc/settlements/gnome_settlements.json"
+    },
+    {
+      "id": "s2-22795c86596b8d724c34bfc2",
+      "key": "suffixes/@text=a2f89e6fe92debe3#0",
+      "name_fragment": "court",
+      "reason": "Reviewed proper-name spelling preserved; no invented Portuguese composition rules",
+      "source_file": "npc/settlements/gnome_settlements.json"
+    },
+    {
+      "id": "s2-1b6a904af645cb49ab50274d",
+      "key": "suffixes/@text=6a259d3299684d8a#0",
+      "name_fragment": "cove",
+      "reason": "Reviewed proper-name spelling preserved; no invented Portuguese composition rules",
+      "source_file": "npc/settlements/gnome_settlements.json"
+    },
+    {
+      "id": "s2-8e9f4ac1da07ebb01a7b9d25",
+      "key": "suffixes/@text=304528b7f627f4d5#0",
+      "name_fragment": "dale",
+      "reason": "Reviewed proper-name spelling preserved; no invented Portuguese composition rules",
+      "source_file": "npc/settlements/gnome_settlements.json"
+    },
+    {
+      "id": "s2-2cb1696b467f6ac110e71703",
+      "key": "suffixes/@text=d0e2ece166bdef23#0",
+      "name_fragment": "dell",
+      "reason": "Reviewed proper-name spelling preserved; no invented Portuguese composition rules",
+      "source_file": "npc/settlements/gnome_settlements.json"
+    },
+    {
+      "id": "s2-c61753e2df26f7c8726c8552",
+      "key": "suffixes/@text=2534e2de1dec24fe#0",
+      "name_fragment": "door",
+      "reason": "Reviewed proper-name spelling preserved; no invented Portuguese composition rules",
+      "source_file": "npc/settlements/gnome_settlements.json"
+    },
+    {
+      "id": "s2-926422f6c1268fd5b949973c",
+      "key": "suffixes/@text=361e48d0308f20e3#0",
+      "name_fragment": "end",
+      "reason": "Reviewed proper-name spelling preserved; no invented Portuguese composition rules",
+      "source_file": "npc/settlements/gnome_settlements.json"
+    },
+    {
+      "id": "s2-f6b79b935158a92892fb89ef",
+      "key": "suffixes/@text=c0d2856b74d0df05#0",
+      "name_fragment": "field",
+      "reason": "Reviewed proper-name spelling preserved; no invented Portuguese composition rules",
+      "source_file": "npc/settlements/gnome_settlements.json"
+    },
+    {
+      "id": "s2-9ea56eb388e5e2eac97b6b85",
+      "key": "suffixes/@text=b2119ab8f1e39efc#0",
+      "name_fragment": "finch",
+      "reason": "Reviewed proper-name spelling preserved; no invented Portuguese composition rules",
+      "source_file": "npc/settlements/gnome_settlements.json"
+    },
+    {
+      "id": "s2-854b32a4795e58cd9c0817c1",
+      "key": "suffixes/@text=255541b1d8c61855#0",
+      "name_fragment": "fold",
+      "reason": "Reviewed proper-name spelling preserved; no invented Portuguese composition rules",
+      "source_file": "npc/settlements/gnome_settlements.json"
+    },
+    {
+      "id": "s2-71b56092196da7c031d0bf26",
+      "key": "suffixes/@text=22e4f6912a6980d6#0",
+      "name_fragment": "foot",
+      "reason": "Reviewed proper-name spelling preserved; no invented Portuguese composition rules",
+      "source_file": "npc/settlements/gnome_settlements.json"
+    },
+    {
+      "id": "s2-80e02981aa25ff248e2443fa",
+      "key": "suffixes/@text=23eeb69c681dfdb8#0",
+      "name_fragment": "garden",
+      "reason": "Reviewed proper-name spelling preserved; no invented Portuguese composition rules",
+      "source_file": "npc/settlements/gnome_settlements.json"
+    },
+    {
+      "id": "s2-6c716353b99109d86b5d9333",
+      "key": "suffixes/@text=c974e17b8e7321ce#0",
+      "name_fragment": "gate",
+      "reason": "Reviewed proper-name spelling preserved; no invented Portuguese composition rules",
+      "source_file": "npc/settlements/gnome_settlements.json"
+    },
+    {
+      "id": "s2-d705d21dbae5879ae39a1334",
+      "key": "suffixes/@text=fe02414dc05bc327#0",
+      "name_fragment": "glade",
+      "reason": "Reviewed proper-name spelling preserved; no invented Portuguese composition rules",
+      "source_file": "npc/settlements/gnome_settlements.json"
+    },
+    {
+      "id": "s2-257881da0fb81f7eeeae85e0",
+      "key": "suffixes/@text=027dcc20c7ede0fc#0",
+      "name_fragment": "gleam",
+      "reason": "Reviewed proper-name spelling preserved; no invented Portuguese composition rules",
+      "source_file": "npc/settlements/gnome_settlements.json"
+    },
+    {
+      "id": "s2-f7b7463f9087d3dd747eaa60",
+      "key": "suffixes/@text=90f0528c6435cc19#0",
+      "name_fragment": "glen",
+      "reason": "Reviewed proper-name spelling preserved; no invented Portuguese composition rules",
+      "source_file": "npc/settlements/gnome_settlements.json"
+    },
+    {
+      "id": "s2-85edf1007ebae92359b01f94",
+      "key": "suffixes/@text=a73c2767be4e6f6d#0",
+      "name_fragment": "glimmer",
+      "reason": "Reviewed proper-name spelling preserved; no invented Portuguese composition rules",
+      "source_file": "npc/settlements/gnome_settlements.json"
+    },
+    {
+      "id": "s2-c6d9924a530dfbe735cfc74b",
+      "key": "suffixes/@text=ba4788b226aa8dc2#0",
+      "name_fragment": "green",
+      "reason": "Reviewed proper-name spelling preserved; no invented Portuguese composition rules",
+      "source_file": "npc/settlements/gnome_settlements.json"
+    },
+    {
+      "id": "s2-b9e360f1f16bd1c9dc1404c1",
+      "key": "suffixes/@text=8a0e7f923a4d3e55#0",
+      "name_fragment": "grove",
+      "reason": "Reviewed proper-name spelling preserved; no invented Portuguese composition rules",
+      "source_file": "npc/settlements/gnome_settlements.json"
+    },
+    {
+      "id": "s2-8f2de7a1e34fe7f873b34254",
+      "key": "suffixes/@text=97fe21bcd36ae81c#0",
+      "name_fragment": "hedge",
+      "reason": "Reviewed proper-name spelling preserved; no invented Portuguese composition rules",
+      "source_file": "npc/settlements/gnome_settlements.json"
+    },
+    {
+      "id": "s2-7279eb9327333bd332576dcf",
+      "key": "suffixes/@text=f77fcbb21ddefc82#0",
+      "name_fragment": "hill",
+      "reason": "Reviewed proper-name spelling preserved; no invented Portuguese composition rules",
+      "source_file": "npc/settlements/gnome_settlements.json"
+    },
+    {
+      "id": "s2-0e9e35f031ebb2704f545701",
+      "key": "suffixes/@text=72c2a0cb14854fa4#0",
+      "name_fragment": "hillock",
+      "reason": "Reviewed proper-name spelling preserved; no invented Portuguese composition rules",
+      "source_file": "npc/settlements/gnome_settlements.json"
+    },
+    {
+      "id": "s2-97310c713dedc7a477a450e5",
+      "key": "suffixes/@text=b21b17b4ecc60cdb#0",
+      "name_fragment": "hollow",
+      "reason": "Reviewed proper-name spelling preserved; no invented Portuguese composition rules",
+      "source_file": "npc/settlements/gnome_settlements.json"
+    },
+    {
+      "id": "s2-5daa0856a65ca4df28e331f5",
+      "key": "suffixes/@text=dc8331bcb2283e89#0",
+      "name_fragment": "hush",
+      "reason": "Reviewed proper-name spelling preserved; no invented Portuguese composition rules",
+      "source_file": "npc/settlements/gnome_settlements.json"
+    },
+    {
+      "id": "s2-5acbd883ec9fb0fdd2e4e685",
+      "key": "suffixes/@text=c42e00fca29d6172#0",
+      "name_fragment": "knoll",
+      "reason": "Reviewed proper-name spelling preserved; no invented Portuguese composition rules",
+      "source_file": "npc/settlements/gnome_settlements.json"
+    },
+    {
+      "id": "s2-6d208a46ba1a614691ac9392",
+      "key": "suffixes/@text=d6709cd49ed87966#0",
+      "name_fragment": "landing",
+      "reason": "Reviewed proper-name spelling preserved; no invented Portuguese composition rules",
+      "source_file": "npc/settlements/gnome_settlements.json"
+    },
+    {
+      "id": "s2-dc12121a1c2f5d008045259c",
+      "key": "suffixes/@text=d93244e7b08131ef#0",
+      "name_fragment": "lane",
+      "reason": "Reviewed proper-name spelling preserved; no invented Portuguese composition rules",
+      "source_file": "npc/settlements/gnome_settlements.json"
+    },
+    {
+      "id": "s2-fbd6895251e70b0a9b9e0038",
+      "key": "suffixes/@text=cb610bc1048f7abc#0",
+      "name_fragment": "lodge",
+      "reason": "Reviewed proper-name spelling preserved; no invented Portuguese composition rules",
+      "source_file": "npc/settlements/gnome_settlements.json"
+    },
+    {
+      "id": "s2-b2874ae4a8edab7918446ec2",
+      "key": "suffixes/@text=6d02f7d61e02d070#0",
+      "name_fragment": "meadow",
+      "reason": "Reviewed proper-name spelling preserved; no invented Portuguese composition rules",
+      "source_file": "npc/settlements/gnome_settlements.json"
+    },
+    {
+      "id": "s2-467a885f3f6118f48f9d9720",
+      "key": "suffixes/@text=901fac08e3b464b1#0",
+      "name_fragment": "mill",
+      "reason": "Reviewed proper-name spelling preserved; no invented Portuguese composition rules",
+      "source_file": "npc/settlements/gnome_settlements.json"
+    },
+    {
+      "id": "s2-f940cf90f0e80dfb47a53c59",
+      "key": "suffixes/@text=397d460b0d90e5d7#0",
+      "name_fragment": "nook",
+      "reason": "Reviewed proper-name spelling preserved; no invented Portuguese composition rules",
+      "source_file": "npc/settlements/gnome_settlements.json"
+    },
+    {
+      "id": "s2-289ff5199c32e7fa6fc669cc",
+      "key": "suffixes/@text=a4895eb44afc336f#0",
+      "name_fragment": "patch",
+      "reason": "Reviewed proper-name spelling preserved; no invented Portuguese composition rules",
+      "source_file": "npc/settlements/gnome_settlements.json"
+    },
+    {
+      "id": "s2-80f4bbf0bc32e4ffff6241b9",
+      "key": "suffixes/@text=a0af9f865bf637e6#0",
+      "name_fragment": "path",
+      "reason": "Reviewed proper-name spelling preserved; no invented Portuguese composition rules",
+      "source_file": "npc/settlements/gnome_settlements.json"
+    },
+    {
+      "id": "s2-8d57e3a65117da012fb59e84",
+      "key": "suffixes/@text=87fb00d259cbcd67#0",
+      "name_fragment": "perch",
+      "reason": "Reviewed proper-name spelling preserved; no invented Portuguese composition rules",
+      "source_file": "npc/settlements/gnome_settlements.json"
+    },
+    {
+      "id": "s2-a01281218bdb1acc9680d3c5",
+      "key": "suffixes/@text=81df63580cc9ff15#0",
+      "name_fragment": "place",
+      "reason": "Reviewed proper-name spelling preserved; no invented Portuguese composition rules",
+      "source_file": "npc/settlements/gnome_settlements.json"
+    },
+    {
+      "id": "s2-56edbafba4f5ac72279c75f1",
+      "key": "suffixes/@text=62f5d588fd39c2bb#0",
+      "name_fragment": "pocket",
+      "reason": "Reviewed proper-name spelling preserved; no invented Portuguese composition rules",
+      "source_file": "npc/settlements/gnome_settlements.json"
+    },
+    {
+      "id": "s2-b55d7de4118ddff1053c5cc7",
+      "key": "suffixes/@text=2e09d5210db84177#0",
+      "name_fragment": "rest",
+      "reason": "Reviewed proper-name spelling preserved; no invented Portuguese composition rules",
+      "source_file": "npc/settlements/gnome_settlements.json"
+    },
+    {
+      "id": "s2-860e471ac7162ed8a4545d25",
+      "key": "suffixes/@text=a631f4488a457da2#0",
+      "name_fragment": "ram",
+      "reason": "Reviewed proper-name spelling preserved; no invented Portuguese composition rules",
+      "source_file": "npc/settlements/gnome_settlements.json"
+    },
+    {
+      "id": "s2-489382063a133b5f1a6ee448",
+      "key": "suffixes/@text=dbfbe1cd2ee1f49a#0",
+      "name_fragment": "rise",
+      "reason": "Reviewed proper-name spelling preserved; no invented Portuguese composition rules",
+      "source_file": "npc/settlements/gnome_settlements.json"
+    },
+    {
+      "id": "s2-6a661175eb5d7304ea620329",
+      "key": "suffixes/@text=4813494d137e1631#0",
+      "name_fragment": "root",
+      "reason": "Reviewed proper-name spelling preserved; no invented Portuguese composition rules",
+      "source_file": "npc/settlements/gnome_settlements.json"
+    },
+    {
+      "id": "s2-b51496695fd8e5cd175642ff",
+      "key": "suffixes/@text=634768dae1474506#0",
+      "name_fragment": "row",
+      "reason": "Reviewed proper-name spelling preserved; no invented Portuguese composition rules",
+      "source_file": "npc/settlements/gnome_settlements.json"
+    },
+    {
+      "id": "s2-b9b7beda3a473d44eff2e17e",
+      "key": "suffixes/@text=acba25512100f80b#0",
+      "name_fragment": "run",
+      "reason": "Reviewed proper-name spelling preserved; no invented Portuguese composition rules",
+      "source_file": "npc/settlements/gnome_settlements.json"
+    },
+    {
+      "id": "s2-4773edc354be7fea7d816099",
+      "key": "suffixes/@text=32801f5c6ca59882#0",
+      "name_fragment": "ron",
+      "reason": "Reviewed proper-name spelling preserved; no invented Portuguese composition rules",
+      "source_file": "npc/settlements/gnome_settlements.json"
+    },
+    {
+      "id": "s2-a61646dcff045d3c900c339a",
+      "key": "suffixes/@text=e02d7fca852ac60e#0",
+      "name_fragment": "shade",
+      "reason": "Reviewed proper-name spelling preserved; no invented Portuguese composition rules",
+      "source_file": "npc/settlements/gnome_settlements.json"
+    },
+    {
+      "id": "s2-25f64fd9ee6a9c2153f0a5bb",
+      "key": "suffixes/@text=3bad6aeb81e435a9#0",
+      "name_fragment": "shire",
+      "reason": "Reviewed proper-name spelling preserved; no invented Portuguese composition rules",
+      "source_file": "npc/settlements/gnome_settlements.json"
+    },
+    {
+      "id": "s2-a5ef51968456515769b05f89",
+      "key": "suffixes/@text=0874d1c0c94091fd#0",
+      "name_fragment": "stead",
+      "reason": "Reviewed proper-name spelling preserved; no invented Portuguese composition rules",
+      "source_file": "npc/settlements/gnome_settlements.json"
+    },
+    {
+      "id": "s2-bf5836343b475cee292b210d",
+      "key": "suffixes/@text=4d7d3dbc799106fd#0",
+      "name_fragment": "thorp",
+      "reason": "Reviewed proper-name spelling preserved; no invented Portuguese composition rules",
+      "source_file": "npc/settlements/gnome_settlements.json"
+    },
+    {
+      "id": "s2-c93704b8b17a05d23ec7a93c",
+      "key": "suffixes/@text=8192ccdff1a650ff#0",
+      "name_fragment": "vale",
+      "reason": "Reviewed proper-name spelling preserved; no invented Portuguese composition rules",
+      "source_file": "npc/settlements/gnome_settlements.json"
+    },
+    {
+      "id": "s2-08643fa5f08b81f8313d72ff",
+      "key": "suffixes/@text=05cfbe283381aab8#0",
+      "name_fragment": "village",
+      "reason": "Reviewed proper-name spelling preserved; no invented Portuguese composition rules",
+      "source_file": "npc/settlements/gnome_settlements.json"
+    },
+    {
+      "id": "s2-550cf0b29e2c02f78123a799",
+      "key": "suffixes/@text=a7722b765d15608d#0",
+      "name_fragment": "well",
+      "reason": "Reviewed proper-name spelling preserved; no invented Portuguese composition rules",
+      "source_file": "npc/settlements/gnome_settlements.json"
+    },
+    {
+      "id": "s2-bf3fdbc9e8399c2cf24463de",
+      "key": "suffixes/@text=9702d9de85396638#0",
+      "name_fragment": "wick",
+      "reason": "Reviewed proper-name spelling preserved; no invented Portuguese composition rules",
+      "source_file": "npc/settlements/gnome_settlements.json"
+    },
+    {
+      "id": "s2-afa5a772f3bd42f4bc97a943",
+      "key": "suffixes/@text=99f7855eb789dfec#0",
+      "name_fragment": "wood",
+      "reason": "Reviewed proper-name spelling preserved; no invented Portuguese composition rules",
+      "source_file": "npc/settlements/gnome_settlements.json"
+    },
+    {
+      "id": "s2-eb4bf4d13fa46ad89e97604a",
+      "key": "suffixes/@text=77eb918231ae3e8d#0",
+      "name_fragment": "woodlet",
+      "reason": "Reviewed proper-name spelling preserved; no invented Portuguese composition rules",
+      "source_file": "npc/settlements/gnome_settlements.json"
+    },
+    {
+      "id": "s2-7293f5eb867c24216b9526ea",
+      "key": "prefixes/@text=bda94d3dce78637e#0",
+      "name_fragment": "Ash",
+      "reason": "Reviewed proper-name spelling preserved; no invented Portuguese composition rules",
+      "source_file": "npc/states/gnome.json"
+    },
+    {
+      "id": "s2-06039c65c1cff2100752dfea",
+      "key": "prefixes/@text=1fbe8db80b6c1819#0",
+      "name_fragment": "Aspen",
+      "reason": "Reviewed proper-name spelling preserved; no invented Portuguese composition rules",
+      "source_file": "npc/states/gnome.json"
+    },
+    {
+      "id": "s2-f199ab7e45fbf2cd011dc24f",
+      "key": "prefixes/@text=f223faa96f229162#0",
+      "name_fragment": "Apple",
+      "reason": "Reviewed proper-name spelling preserved; no invented Portuguese composition rules",
+      "source_file": "npc/states/gnome.json"
+    },
+    {
+      "id": "s2-b222cc9cd90fbf23293c91ad",
+      "key": "prefixes/@text=3ebaec6ba84c8234#0",
+      "name_fragment": "Bark",
+      "reason": "Reviewed proper-name spelling preserved; no invented Portuguese composition rules",
+      "source_file": "npc/states/gnome.json"
+    },
+    {
+      "id": "s2-3b0af9cf308f1f9535dbc49d",
+      "key": "prefixes/@text=ef2a28f03f6eafb0#0",
+      "name_fragment": "Berry",
+      "reason": "Reviewed proper-name spelling preserved; no invented Portuguese composition rules",
+      "source_file": "npc/states/gnome.json"
+    },
+    {
+      "id": "s2-8d26d3be6c7e33e75e6d26f4",
+      "key": "prefixes/@text=ca8203711df05fde#0",
+      "name_fragment": "Blossom",
+      "reason": "Reviewed proper-name spelling preserved; no invented Portuguese composition rules",
+      "source_file": "npc/states/gnome.json"
+    },
+    {
+      "id": "s2-d6cbf0fbba4d2685f61526b3",
+      "key": "prefixes/@text=8e64d602bbbec37a#0",
+      "name_fragment": "Bluebell",
+      "reason": "Reviewed proper-name spelling preserved; no invented Portuguese composition rules",
+      "source_file": "npc/states/gnome.json"
+    },
+    {
+      "id": "s2-c574a6d84cac3fdb82e566bb",
+      "key": "prefixes/@text=18fd1b0e5926e260#0",
+      "name_fragment": "Cloverleaf",
+      "reason": "Reviewed proper-name spelling preserved; no invented Portuguese composition rules",
+      "source_file": "npc/states/gnome.json"
+    },
+    {
+      "id": "s2-37bf42f688b7455eeebd01ca",
+      "key": "prefixes/@text=9e8c5c157d73495e#0",
+      "name_fragment": "Cricket",
+      "reason": "Reviewed proper-name spelling preserved; no invented Portuguese composition rules",
+      "source_file": "npc/states/gnome.json"
+    },
+    {
+      "id": "s2-39207ff8e885748585b8c443",
+      "key": "prefixes/@text=96e98d90148f514a#0",
+      "name_fragment": "Dapple",
+      "reason": "Reviewed proper-name spelling preserved; no invented Portuguese composition rules",
+      "source_file": "npc/states/gnome.json"
+    },
+    {
+      "id": "s2-aa9a0960143135893e700678",
+      "key": "prefixes/@text=e07724ff7a77fb21#0",
+      "name_fragment": "Dewdrop",
+      "reason": "Reviewed proper-name spelling preserved; no invented Portuguese composition rules",
+      "source_file": "npc/states/gnome.json"
+    },
+    {
+      "id": "s2-0353d4abf1fe5231746ae4c5",
+      "key": "prefixes/@text=f46be28784b8ddcc#0",
+      "name_fragment": "Fairy",
+      "reason": "Reviewed proper-name spelling preserved; no invented Portuguese composition rules",
+      "source_file": "npc/states/gnome.json"
+    },
+    {
+      "id": "s2-67887c1438173412a505c8ea",
+      "key": "prefixes/@text=69a6dcbcd44797fc#0",
+      "name_fragment": "Foxglove",
+      "reason": "Reviewed proper-name spelling preserved; no invented Portuguese composition rules",
+      "source_file": "npc/states/gnome.json"
+    },
+    {
+      "id": "s2-f3ec3ad558abff154ced7422",
+      "key": "prefixes/@text=ebcf983695346eea#0",
+      "name_fragment": "Honey",
+      "reason": "Reviewed proper-name spelling preserved; no invented Portuguese composition rules",
+      "source_file": "npc/states/gnome.json"
+    },
+    {
+      "id": "s2-575112562f7cb964004be0d6",
+      "key": "prefixes/@text=0a7c19cf8908f263#0",
+      "name_fragment": "Laurel",
+      "reason": "Reviewed proper-name spelling preserved; no invented Portuguese composition rules",
+      "source_file": "npc/states/gnome.json"
+    },
+    {
+      "id": "s2-e327588d803488368e6e92d2",
+      "key": "prefixes/@text=e3233c699c7d393e#0",
+      "name_fragment": "Lilac",
+      "reason": "Reviewed proper-name spelling preserved; no invented Portuguese composition rules",
+      "source_file": "npc/states/gnome.json"
+    },
+    {
+      "id": "s2-a0f1e249c7c4b386e1044098",
+      "key": "prefixes/@text=a2f3c04bc737f8ca#0",
+      "name_fragment": "Misty",
+      "reason": "Reviewed proper-name spelling preserved; no invented Portuguese composition rules",
+      "source_file": "npc/states/gnome.json"
+    },
+    {
+      "id": "s2-9968004c82eca35e06f088bb",
+      "key": "prefixes/@text=776af52a875f215e#0",
+      "name_fragment": "Orchard",
+      "reason": "Reviewed proper-name spelling preserved; no invented Portuguese composition rules",
+      "source_file": "npc/states/gnome.json"
+    },
+    {
+      "id": "s2-9978c4a21d408481f445d9d2",
+      "key": "prefixes/@text=652eb3ace93262f9#0",
+      "name_fragment": "Poppy",
+      "reason": "Reviewed proper-name spelling preserved; no invented Portuguese composition rules",
+      "source_file": "npc/states/gnome.json"
+    },
+    {
+      "id": "s2-fea32bb9a28471d12a57e6f3",
+      "key": "prefixes/@text=a6d20aa6a4c73f0d#0",
+      "name_fragment": "Rain",
+      "reason": "Reviewed proper-name spelling preserved; no invented Portuguese composition rules",
+      "source_file": "npc/states/gnome.json"
+    },
+    {
+      "id": "s2-23f5062dd8705b46aa306c83",
+      "key": "prefixes/@text=db29e82a9287fc28#0",
+      "name_fragment": "Spring",
+      "reason": "Reviewed proper-name spelling preserved; no invented Portuguese composition rules",
+      "source_file": "npc/states/gnome.json"
+    },
+    {
+      "id": "s2-051241681890ff89767a5c0a",
+      "key": "prefixes/@text=5c7bff389947caab#0",
+      "name_fragment": "Starflower",
+      "reason": "Reviewed proper-name spelling preserved; no invented Portuguese composition rules",
+      "source_file": "npc/states/gnome.json"
+    },
+    {
+      "id": "s2-6852ccf3c897d1a63c8041e7",
+      "key": "prefixes/@text=01e7c30f7fec479d#0",
+      "name_fragment": "Sweet",
+      "reason": "Reviewed proper-name spelling preserved; no invented Portuguese composition rules",
+      "source_file": "npc/states/gnome.json"
+    },
+    {
+      "id": "s2-2d25dcc501e3fe50308d9b08",
+      "key": "prefixes/@text=5964d46729562387#0",
+      "name_fragment": "Soft",
+      "reason": "Reviewed proper-name spelling preserved; no invented Portuguese composition rules",
+      "source_file": "npc/states/gnome.json"
+    },
+    {
+      "id": "s2-22418e97298a6139ca479a8b",
+      "key": "prefixes/@text=9c5396f2c74acc10#0",
+      "name_fragment": "Thorn",
+      "reason": "Reviewed proper-name spelling preserved; no invented Portuguese composition rules",
+      "source_file": "npc/states/gnome.json"
+    },
+    {
+      "id": "s2-66626b4dfb7357db2069fc11",
+      "key": "prefixes/@text=924a2a92a8b3dfde#0",
+      "name_fragment": "Windflower",
+      "reason": "Reviewed proper-name spelling preserved; no invented Portuguese composition rules",
+      "source_file": "npc/states/gnome.json"
+    },
+    {
+      "id": "s2-6037e0ac33edff662e503245",
+      "key": "suffixes/@text=34659fd61a72a852#0",
+      "name_fragment": "bloom",
+      "reason": "Reviewed proper-name spelling preserved; no invented Portuguese composition rules",
+      "source_file": "npc/states/gnome.json"
+    },
+    {
+      "id": "s2-33e61077f4ccbef9860b6e11",
+      "key": "suffixes/@text=b79624284645b7cb#0",
+      "name_fragment": "brook",
+      "reason": "Reviewed proper-name spelling preserved; no invented Portuguese composition rules",
+      "source_file": "npc/states/gnome.json"
+    },
+    {
+      "id": "s2-d76478aa36134e55e73b0e87",
+      "key": "suffixes/@text=749a1a16c343bf7b#0",
+      "name_fragment": "bush",
+      "reason": "Reviewed proper-name spelling preserved; no invented Portuguese composition rules",
+      "source_file": "npc/states/gnome.json"
+    },
+    {
+      "id": "s2-cd956d8bc1408d20c59b0ac6",
+      "key": "suffixes/@text=872f0076c7e4835f#0",
+      "name_fragment": "dew",
+      "reason": "Reviewed proper-name spelling preserved; no invented Portuguese composition rules",
+      "source_file": "npc/states/gnome.json"
+    },
+    {
+      "id": "s2-a3944f426b7d4c73c14d8bfe",
+      "key": "suffixes/@text=908aec4512d80ff4#0",
+      "name_fragment": "down",
+      "reason": "Reviewed proper-name spelling preserved; no invented Portuguese composition rules",
+      "source_file": "npc/states/gnome.json"
+    },
+    {
+      "id": "s2-bf22baa94481c8d9a3488455",
+      "key": "suffixes/@text=2dc46af1b78c32df#0",
+      "name_fragment": "fall",
+      "reason": "Reviewed proper-name spelling preserved; no invented Portuguese composition rules",
+      "source_file": "npc/states/gnome.json"
+    },
+    {
+      "id": "s2-aad70e50a4c840c91d831dda",
+      "key": "suffixes/@text=23eeb69c681dfdb8#0",
+      "name_fragment": "garden",
+      "reason": "Reviewed proper-name spelling preserved; no invented Portuguese composition rules",
+      "source_file": "npc/states/gnome.json"
+    },
+    {
+      "id": "s2-7e221b7a06f70302170fcf99",
+      "key": "suffixes/@text=90f0528c6435cc19#0",
+      "name_fragment": "glen",
+      "reason": "Reviewed proper-name spelling preserved; no invented Portuguese composition rules",
+      "source_file": "npc/states/gnome.json"
+    },
+    {
+      "id": "s2-5d4414427f0668cba62cc403",
+      "key": "suffixes/@text=8a0e7f923a4d3e55#0",
+      "name_fragment": "grove",
+      "reason": "Reviewed proper-name spelling preserved; no invented Portuguese composition rules",
+      "source_file": "npc/states/gnome.json"
+    },
+    {
+      "id": "s2-8ff45b7efeeecf51aed3d329",
+      "key": "suffixes/@text=04a69d8da302ef4e#0",
+      "name_fragment": "haven",
+      "reason": "Reviewed proper-name spelling preserved; no invented Portuguese composition rules",
+      "source_file": "npc/states/gnome.json"
+    },
+    {
+      "id": "s2-6e0599033cbaf3ed899e4698",
+      "key": "suffixes/@text=f77fcbb21ddefc82#0",
+      "name_fragment": "hill",
+      "reason": "Reviewed proper-name spelling preserved; no invented Portuguese composition rules",
+      "source_file": "npc/states/gnome.json"
+    },
+    {
+      "id": "s2-cee247a31288081e853cf9f4",
+      "key": "suffixes/@text=97fe21bcd36ae81c#0",
+      "name_fragment": "hedge",
+      "reason": "Reviewed proper-name spelling preserved; no invented Portuguese composition rules",
+      "source_file": "npc/states/gnome.json"
+    },
+    {
+      "id": "s2-8499f55004c54f1ac83b6d0d",
+      "key": "suffixes/@text=99a7026172d42714#0",
+      "name_fragment": "light",
+      "reason": "Reviewed proper-name spelling preserved; no invented Portuguese composition rules",
+      "source_file": "npc/states/gnome.json"
+    },
+    {
+      "id": "s2-cc320e0248b85bf0ad0af375",
+      "key": "suffixes/@text=35d3ec98be746911#0",
+      "name_fragment": "mere",
+      "reason": "Reviewed proper-name spelling preserved; no invented Portuguese composition rules",
+      "source_file": "npc/states/gnome.json"
+    },
+    {
+      "id": "s2-f48edbff9b64e694917eb94d",
+      "key": "suffixes/@text=75ef2e329bdb50d2#0",
+      "name_fragment": "nest",
+      "reason": "Reviewed proper-name spelling preserved; no invented Portuguese composition rules",
+      "source_file": "npc/states/gnome.json"
+    },
+    {
+      "id": "s2-1daf8e1d55dface80e5aea22",
+      "key": "suffixes/@text=397d460b0d90e5d7#0",
+      "name_fragment": "nook",
+      "reason": "Reviewed proper-name spelling preserved; no invented Portuguese composition rules",
+      "source_file": "npc/states/gnome.json"
+    },
+    {
+      "id": "s2-e621188a179a3beaf57e3d63",
+      "key": "suffixes/@text=4813494d137e1631#0",
+      "name_fragment": "root",
+      "reason": "Reviewed proper-name spelling preserved; no invented Portuguese composition rules",
+      "source_file": "npc/states/gnome.json"
+    },
+    {
+      "id": "s2-e4aa1df1704ef1020c13ef49",
+      "key": "suffixes/@text=e02d7fca852ac60e#0",
+      "name_fragment": "shade",
+      "reason": "Reviewed proper-name spelling preserved; no invented Portuguese composition rules",
+      "source_file": "npc/states/gnome.json"
+    },
+    {
+      "id": "s2-ac7dccebe5863d26577b037c",
+      "key": "suffixes/@text=3bad6aeb81e435a9#0",
+      "name_fragment": "shire",
+      "reason": "Reviewed proper-name spelling preserved; no invented Portuguese composition rules",
+      "source_file": "npc/states/gnome.json"
+    },
+    {
+      "id": "s2-bae3cf0bf7facbda1871d2b1",
+      "key": "suffixes/@text=490c40df8a963423#0",
+      "name_fragment": "scab",
+      "reason": "Reviewed proper-name spelling preserved; no invented Portuguese composition rules",
+      "source_file": "npc/states/gnome.json"
+    },
+    {
+      "id": "s2-42eb8f89b4f30892668f0284",
+      "key": "suffixes/@text=dca83e717b1f64eb#0",
+      "name_fragment": "stream",
+      "reason": "Reviewed proper-name spelling preserved; no invented Portuguese composition rules",
+      "source_file": "npc/states/gnome.json"
+    },
+    {
+      "id": "s2-4639d00462d6433a5e8df42b",
+      "key": "suffixes/@text=63f75c890b05405e#0",
+      "name_fragment": "song",
+      "reason": "Reviewed proper-name spelling preserved; no invented Portuguese composition rules",
+      "source_file": "npc/states/gnome.json"
+    },
+    {
+      "id": "s2-1f956d46cba0e9e97c265113",
+      "key": "suffixes/@text=8192ccdff1a650ff#0",
+      "name_fragment": "vale",
+      "reason": "Reviewed proper-name spelling preserved; no invented Portuguese composition rules",
+      "source_file": "npc/states/gnome.json"
+    },
+    {
+      "id": "s2-a70ed9cc74c7221bf9cfc65c",
+      "key": "suffixes/@text=2bcb43cbc8f6b7ef#0",
+      "name_fragment": "view",
+      "reason": "Reviewed proper-name spelling preserved; no invented Portuguese composition rules",
+      "source_file": "npc/states/gnome.json"
+    },
+    {
+      "id": "s2-9935a49169c526a1e39d3455",
+      "key": "suffixes/@text=0f4168490e38b844#0",
+      "name_fragment": "water",
+      "reason": "Reviewed proper-name spelling preserved; no invented Portuguese composition rules",
+      "source_file": "npc/states/gnome.json"
+    },
+    {
+      "id": "s2-d7b646f3ccfd9733833e9dcf",
+      "key": "suffixes/@text=5227a8773078dddc#0",
+      "name_fragment": "weald",
+      "reason": "Reviewed proper-name spelling preserved; no invented Portuguese composition rules",
+      "source_file": "npc/states/gnome.json"
+    },
+    {
+      "id": "s2-af91cc9fe2550216d794e221",
+      "key": "suffixes/@text=ba7955598f2007bc#0",
+      "name_fragment": "whisper",
+      "reason": "Reviewed proper-name spelling preserved; no invented Portuguese composition rules",
+      "source_file": "npc/states/gnome.json"
+    },
+    {
+      "id": "s2-14d62ec209357d1f5835b2a4",
+      "key": "suffixes/@text=7a2221a642e556f7#0",
+      "name_fragment": "wilds",
+      "reason": "Reviewed proper-name spelling preserved; no invented Portuguese composition rules",
+      "source_file": "npc/states/gnome.json"
+    },
+    {
+      "id": "s2-bfd32ea60c7b1404eebecb7b",
+      "key": "suffixes/@text=da454b02b4700b1f#0",
+      "name_fragment": "willow",
+      "reason": "Reviewed proper-name spelling preserved; no invented Portuguese composition rules",
+      "source_file": "npc/states/gnome.json"
+    },
+    {
+      "id": "s2-3a5cf2d0287833cd4774d80c",
+      "key": "suffixes/@text=c7b10b8ca4b51744#0",
+      "name_fragment": "wold",
+      "reason": "Reviewed proper-name spelling preserved; no invented Portuguese composition rules",
+      "source_file": "npc/states/gnome.json"
+    },
+    {
+      "id": "s2-7512f98045b369fffd4da40c",
+      "key": "prefixes/@text=7a599155e6623992#0",
+      "name_fragment": "Acorn",
+      "reason": "Reviewed proper-name spelling preserved; no invented Portuguese composition rules",
+      "source_file": "npc/surnames/gnome.json"
+    },
+    {
+      "id": "s2-3901418d25fa8e80a76800c3",
+      "key": "prefixes/@text=12c89d7c77e391f7#0",
+      "name_fragment": "Alder",
+      "reason": "Reviewed proper-name spelling preserved; no invented Portuguese composition rules",
+      "source_file": "npc/surnames/gnome.json"
+    },
+    {
+      "id": "s2-c1a94d23dc423c2ebfaa8db4",
+      "key": "prefixes/@text=f223faa96f229162#0",
+      "name_fragment": "Apple",
+      "reason": "Reviewed proper-name spelling preserved; no invented Portuguese composition rules",
+      "source_file": "npc/surnames/gnome.json"
+    },
+    {
+      "id": "s2-d2f8eccdb209f6bbef5a08d1",
+      "key": "prefixes/@text=05ce03962fb8386d#0",
+      "name_fragment": "Badger",
+      "reason": "Reviewed proper-name spelling preserved; no invented Portuguese composition rules",
+      "source_file": "npc/surnames/gnome.json"
+    },
+    {
+      "id": "s2-5f9c863a22555e2de3acbba7",
+      "key": "prefixes/@text=a3ef49d473eec07b#0",
+      "name_fragment": "Basil",
+      "reason": "Reviewed proper-name spelling preserved; no invented Portuguese composition rules",
+      "source_file": "npc/surnames/gnome.json"
+    },
+    {
+      "id": "s2-aeb03c7d503c0e594eb6b55e",
+      "key": "prefixes/@text=1d086001c6e5975b#0",
+      "name_fragment": "Bean",
+      "reason": "Reviewed proper-name spelling preserved; no invented Portuguese composition rules",
+      "source_file": "npc/surnames/gnome.json"
+    },
+    {
+      "id": "s2-5381c54b0c6508a2b5da9735",
+      "key": "prefixes/@text=ef2a28f03f6eafb0#0",
+      "name_fragment": "Berry",
+      "reason": "Reviewed proper-name spelling preserved; no invented Portuguese composition rules",
+      "source_file": "npc/surnames/gnome.json"
+    },
+    {
+      "id": "s2-299be1f8f6d6b58bee32bcbd",
+      "key": "prefixes/@text=ca8203711df05fde#0",
+      "name_fragment": "Blossom",
+      "reason": "Reviewed proper-name spelling preserved; no invented Portuguese composition rules",
+      "source_file": "npc/surnames/gnome.json"
+    },
+    {
+      "id": "s2-78f55730d32024e62947f421",
+      "key": "prefixes/@text=05af0612360ece1d#0",
+      "name_fragment": "Butter",
+      "reason": "Reviewed proper-name spelling preserved; no invented Portuguese composition rules",
+      "source_file": "npc/surnames/gnome.json"
+    },
+    {
+      "id": "s2-8ae97a0ab8bba32dd25a7bae",
+      "key": "prefixes/@text=91ccf0fddba0bcd0#0",
+      "name_fragment": "Caraway",
+      "reason": "Reviewed proper-name spelling preserved; no invented Portuguese composition rules",
+      "source_file": "npc/surnames/gnome.json"
+    },
+    {
+      "id": "s2-da8cc2055a7acaffd1e69cc4",
+      "key": "prefixes/@text=b04bc67d12d2ee36#0",
+      "name_fragment": "Cobble",
+      "reason": "Reviewed proper-name spelling preserved; no invented Portuguese composition rules",
+      "source_file": "npc/surnames/gnome.json"
+    },
+    {
+      "id": "s2-007bb92642f1140598b1f71a",
+      "key": "prefixes/@text=d35b0efe21288fd5#0",
+      "name_fragment": "Copper",
+      "reason": "Reviewed proper-name spelling preserved; no invented Portuguese composition rules",
+      "source_file": "npc/surnames/gnome.json"
+    },
+    {
+      "id": "s2-47ec4047dda158d0ee30c188",
+      "key": "prefixes/@text=b8ab755e260de4ea#0",
+      "name_fragment": "Crumble",
+      "reason": "Reviewed proper-name spelling preserved; no invented Portuguese composition rules",
+      "source_file": "npc/surnames/gnome.json"
+    },
+    {
+      "id": "s2-4b6b280cd2666dcb5ec962b2",
+      "key": "prefixes/@text=02619168e605c9b0#0",
+      "name_fragment": "Dew",
+      "reason": "Reviewed proper-name spelling preserved; no invented Portuguese composition rules",
+      "source_file": "npc/surnames/gnome.json"
+    },
+    {
+      "id": "s2-4e551097ee109f98477796c6",
+      "key": "prefixes/@text=bff0aac92a41256d#0",
+      "name_fragment": "Elm",
+      "reason": "Reviewed proper-name spelling preserved; no invented Portuguese composition rules",
+      "source_file": "npc/surnames/gnome.json"
+    },
+    {
+      "id": "s2-8295151939d44a0d7276e9d4",
+      "key": "prefixes/@text=f7647fe6c1534867#0",
+      "name_fragment": "Fennel",
+      "reason": "Reviewed proper-name spelling preserved; no invented Portuguese composition rules",
+      "source_file": "npc/surnames/gnome.json"
+    },
+    {
+      "id": "s2-f967e9cd42d151f644273476",
+      "key": "prefixes/@text=80c5f7f3bb0ba9e9#0",
+      "name_fragment": "Fig",
+      "reason": "Reviewed proper-name spelling preserved; no invented Portuguese composition rules",
+      "source_file": "npc/surnames/gnome.json"
+    },
+    {
+      "id": "s2-12caebbe69ba0f418fd5ec6d",
+      "key": "prefixes/@text=5ada766f6da1f6b8#0",
+      "name_fragment": "Finch",
+      "reason": "Reviewed proper-name spelling preserved; no invented Portuguese composition rules",
+      "source_file": "npc/surnames/gnome.json"
+    },
+    {
+      "id": "s2-75499997be2b09aca0d2b8ea",
+      "key": "prefixes/@text=81629dd6f277eebe#0",
+      "name_fragment": "Flax",
+      "reason": "Reviewed proper-name spelling preserved; no invented Portuguese composition rules",
+      "source_file": "npc/surnames/gnome.json"
+    },
+    {
+      "id": "s2-7b41be141dcf89dd0fd7a133",
+      "key": "prefixes/@text=544a9cb451f2a731#0",
+      "name_fragment": "Ginger",
+      "reason": "Reviewed proper-name spelling preserved; no invented Portuguese composition rules",
+      "source_file": "npc/surnames/gnome.json"
+    },
+    {
+      "id": "s2-64b291836f424e0e7cb06db7",
+      "key": "prefixes/@text=d486dfbd5fb57834#0",
+      "name_fragment": "Green",
+      "reason": "Reviewed proper-name spelling preserved; no invented Portuguese composition rules",
+      "source_file": "npc/surnames/gnome.json"
+    },
+    {
+      "id": "s2-c21a29adb5542bfa949bd677",
+      "key": "prefixes/@text=fd66f3ee721062ad#0",
+      "name_fragment": "Hedge",
+      "reason": "Reviewed proper-name spelling preserved; no invented Portuguese composition rules",
+      "source_file": "npc/surnames/gnome.json"
+    },
+    {
+      "id": "s2-a44509faba52b124b517cab1",
+      "key": "prefixes/@text=30152252234e6da4#0",
+      "name_fragment": "Golden",
+      "reason": "Reviewed proper-name spelling preserved; no invented Portuguese composition rules",
+      "source_file": "npc/surnames/gnome.json"
+    },
+    {
+      "id": "s2-459a5e7147fa9a326b12dd32",
+      "key": "prefixes/@text=323f6aa5d4a333ec#0",
+      "name_fragment": "Hop",
+      "reason": "Reviewed proper-name spelling preserved; no invented Portuguese composition rules",
+      "source_file": "npc/surnames/gnome.json"
+    },
+    {
+      "id": "s2-2ce557afd6f0e0e1dd15b972",
+      "key": "prefixes/@text=18f28f7c52463916#0",
+      "name_fragment": "Huckle",
+      "reason": "Reviewed proper-name spelling preserved; no invented Portuguese composition rules",
+      "source_file": "npc/surnames/gnome.json"
+    },
+    {
+      "id": "s2-2056103c34b06cf7e0c26406",
+      "key": "prefixes/@text=ca07c594b02018aa#0",
+      "name_fragment": "Knob",
+      "reason": "Reviewed proper-name spelling preserved; no invented Portuguese composition rules",
+      "source_file": "npc/surnames/gnome.json"
+    },
+    {
+      "id": "s2-38dd23c2ee4ff096462f769d",
+      "key": "prefixes/@text=60707cfeb40e2a66#0",
+      "name_fragment": "Lavender",
+      "reason": "Reviewed proper-name spelling preserved; no invented Portuguese composition rules",
+      "source_file": "npc/surnames/gnome.json"
+    },
+    {
+      "id": "s2-5b52a0b74fc94be7916f99d2",
+      "key": "prefixes/@text=117361268a0facb6#0",
+      "name_fragment": "Little",
+      "reason": "Reviewed proper-name spelling preserved; no invented Portuguese composition rules",
+      "source_file": "npc/surnames/gnome.json"
+    },
+    {
+      "id": "s2-3b704cc1456d0354821ce748",
+      "key": "prefixes/@text=a5feb9527e767094#0",
+      "name_fragment": "Mill",
+      "reason": "Reviewed proper-name spelling preserved; no invented Portuguese composition rules",
+      "source_file": "npc/surnames/gnome.json"
+    },
+    {
+      "id": "s2-f6dcc803f04bada6c27be01f",
+      "key": "prefixes/@text=4d1f9e1f7316e383#0",
+      "name_fragment": "Mistle",
+      "reason": "Reviewed proper-name spelling preserved; no invented Portuguese composition rules",
+      "source_file": "npc/surnames/gnome.json"
+    },
+    {
+      "id": "s2-86272f5e410f8f2b01c31f63",
+      "key": "prefixes/@text=15930314db88559e#0",
+      "name_fragment": "Merry",
+      "reason": "Reviewed proper-name spelling preserved; no invented Portuguese composition rules",
+      "source_file": "npc/surnames/gnome.json"
+    },
+    {
+      "id": "s2-bdfc58446a1be0e9a9d196cb",
+      "key": "prefixes/@text=219f5c66594d8f25#0",
+      "name_fragment": "Nib",
+      "reason": "Reviewed proper-name spelling preserved; no invented Portuguese composition rules",
+      "source_file": "npc/surnames/gnome.json"
+    },
+    {
+      "id": "s2-ac9e88be460583ffd27593e4",
+      "key": "prefixes/@text=67c45877753fc1f5#0",
+      "name_fragment": "Nut",
+      "reason": "Reviewed proper-name spelling preserved; no invented Portuguese composition rules",
+      "source_file": "npc/surnames/gnome.json"
+    },
+    {
+      "id": "s2-0b827ce080c34a6c1fe63823",
+      "key": "prefixes/@text=cfed998f07b32c43#0",
+      "name_fragment": "Oak",
+      "reason": "Reviewed proper-name spelling preserved; no invented Portuguese composition rules",
+      "source_file": "npc/surnames/gnome.json"
+    },
+    {
+      "id": "s2-c96fb0e03e57f9822e0283b5",
+      "key": "prefixes/@text=529c3146271d02cb#0",
+      "name_fragment": "Penny",
+      "reason": "Reviewed proper-name spelling preserved; no invented Portuguese composition rules",
+      "source_file": "npc/surnames/gnome.json"
+    },
+    {
+      "id": "s2-5c78fc15c9d940a3532527fe",
+      "key": "prefixes/@text=d9538cf97df1f8d5#0",
+      "name_fragment": "Pepper",
+      "reason": "Reviewed proper-name spelling preserved; no invented Portuguese composition rules",
+      "source_file": "npc/surnames/gnome.json"
+    },
+    {
+      "id": "s2-2a093ee1c566770be4cb5efd",
+      "key": "prefixes/@text=f85d4cb7f5b57d83#0",
+      "name_fragment": "Pickle",
+      "reason": "Reviewed proper-name spelling preserved; no invented Portuguese composition rules",
+      "source_file": "npc/surnames/gnome.json"
+    },
+    {
+      "id": "s2-640142b9cf35641c24d24ad9",
+      "key": "prefixes/@text=7859fff77202a94f#0",
+      "name_fragment": "Pine",
+      "reason": "Reviewed proper-name spelling preserved; no invented Portuguese composition rules",
+      "source_file": "npc/surnames/gnome.json"
+    },
+    {
+      "id": "s2-7a2d0c521511ddedfddfc570",
+      "key": "prefixes/@text=4a1239e4137ecd64#0",
+      "name_fragment": "Quince",
+      "reason": "Reviewed proper-name spelling preserved; no invented Portuguese composition rules",
+      "source_file": "npc/surnames/gnome.json"
+    },
+    {
+      "id": "s2-5894584b2b1892a76416e0c8",
+      "key": "prefixes/@text=e0ebe4ec4c61126e#0",
+      "name_fragment": "Rowan",
+      "reason": "Reviewed proper-name spelling preserved; no invented Portuguese composition rules",
+      "source_file": "npc/surnames/gnome.json"
+    },
+    {
+      "id": "s2-2b17972ed9b51872143ebe3e",
+      "key": "prefixes/@text=e10d850954a8e611#0",
+      "name_fragment": "Rose",
+      "reason": "Reviewed proper-name spelling preserved; no invented Portuguese composition rules",
+      "source_file": "npc/surnames/gnome.json"
+    },
+    {
+      "id": "s2-afaf5ca476b16544e0374496",
+      "key": "prefixes/@text=a0b43df06f52085e#0",
+      "name_fragment": "Silver",
+      "reason": "Reviewed proper-name spelling preserved; no invented Portuguese composition rules",
+      "source_file": "npc/surnames/gnome.json"
+    },
+    {
+      "id": "s2-743def220f6ac4cc288902cf",
+      "key": "prefixes/@text=eccaa8dee4ba1b42#0",
+      "name_fragment": "Thimble",
+      "reason": "Reviewed proper-name spelling preserved; no invented Portuguese composition rules",
+      "source_file": "npc/surnames/gnome.json"
+    },
+    {
+      "id": "s2-ac82d1afe08d2d5109b35cf2",
+      "key": "prefixes/@text=a91db29567403e31#0",
+      "name_fragment": "Walnut",
+      "reason": "Reviewed proper-name spelling preserved; no invented Portuguese composition rules",
+      "source_file": "npc/surnames/gnome.json"
+    },
+    {
+      "id": "s2-516b629d1bcec41f05c36128",
+      "key": "prefixes/@text=0a8a36409cd2a553#0",
+      "name_fragment": "Willow",
+      "reason": "Reviewed proper-name spelling preserved; no invented Portuguese composition rules",
+      "source_file": "npc/surnames/gnome.json"
+    },
+    {
+      "id": "s2-291f0704f308f7c5262d7201",
+      "key": "suffixes/@text=e8bbe6423a622988#0",
+      "name_fragment": "barrel",
+      "reason": "Reviewed proper-name spelling preserved; no invented Portuguese composition rules",
+      "source_file": "npc/surnames/gnome.json"
+    },
+    {
+      "id": "s2-c9e601f40d7a987c618cf566",
+      "key": "suffixes/@text=fa76d99ad957d952#0",
+      "name_fragment": "basket",
+      "reason": "Reviewed proper-name spelling preserved; no invented Portuguese composition rules",
+      "source_file": "npc/surnames/gnome.json"
+    },
+    {
+      "id": "s2-55580708c23c94039866b6a0",
+      "key": "suffixes/@text=7def9c79e5be6d7a#0",
+      "name_fragment": "bottle",
+      "reason": "Reviewed proper-name spelling preserved; no invented Portuguese composition rules",
+      "source_file": "npc/surnames/gnome.json"
+    },
+    {
+      "id": "s2-258372d2206692089aa00564",
+      "key": "suffixes/@text=be9b7607e070383c#0",
+      "name_fragment": "bottom",
+      "reason": "Reviewed proper-name spelling preserved; no invented Portuguese composition rules",
+      "source_file": "npc/surnames/gnome.json"
+    },
+    {
+      "id": "s2-fe039e530520c11a09c269e8",
+      "key": "suffixes/@text=c3e2d78f3ff33572#0",
+      "name_fragment": "button",
+      "reason": "Reviewed proper-name spelling preserved; no invented Portuguese composition rules",
+      "source_file": "npc/surnames/gnome.json"
+    },
+    {
+      "id": "s2-ec54f66bd66ff8c79f1bf2ae",
+      "key": "suffixes/@text=5e1cf42878df58fe#0",
+      "name_fragment": "bound",
+      "reason": "Reviewed proper-name spelling preserved; no invented Portuguese composition rules",
+      "source_file": "npc/surnames/gnome.json"
+    },
+    {
+      "id": "s2-775013aeb257864a5f1c0bc5",
+      "key": "suffixes/@text=a05d1ff10ca92b24#0",
+      "name_fragment": "buckle",
+      "reason": "Reviewed proper-name spelling preserved; no invented Portuguese composition rules",
+      "source_file": "npc/surnames/gnome.json"
+    },
+    {
+      "id": "s2-6877acddec15edb4a1b50a51",
+      "key": "suffixes/@text=45e84635bc4803c5#0",
+      "name_fragment": "cap",
+      "reason": "Reviewed proper-name spelling preserved; no invented Portuguese composition rules",
+      "source_file": "npc/surnames/gnome.json"
+    },
+    {
+      "id": "s2-c0316a4c89294e8ef27cc9d3",
+      "key": "suffixes/@text=3c6707ca34361376#0",
+      "name_fragment": "cobbler",
+      "reason": "Reviewed proper-name spelling preserved; no invented Portuguese composition rules",
+      "source_file": "npc/surnames/gnome.json"
+    },
+    {
+      "id": "s2-9760585626245cb7b57629ff",
+      "key": "suffixes/@text=45d227c4b297a0ba#0",
+      "name_fragment": "corner",
+      "reason": "Reviewed proper-name spelling preserved; no invented Portuguese composition rules",
+      "source_file": "npc/surnames/gnome.json"
+    },
+    {
+      "id": "s2-965286c09f1a1d52f0bdd1fe",
+      "key": "suffixes/@text=29bb30173411b782#0",
+      "name_fragment": "cot",
+      "reason": "Reviewed proper-name spelling preserved; no invented Portuguese composition rules",
+      "source_file": "npc/surnames/gnome.json"
+    },
+    {
+      "id": "s2-ac85e9e7551174197ec9205b",
+      "key": "suffixes/@text=33f7aa34db417777#0",
+      "name_fragment": "digger",
+      "reason": "Reviewed proper-name spelling preserved; no invented Portuguese composition rules",
+      "source_file": "npc/surnames/gnome.json"
+    },
+    {
+      "id": "s2-4a8364b1529b316bee77e7da",
+      "key": "suffixes/@text=908aec4512d80ff4#0",
+      "name_fragment": "down",
+      "reason": "Reviewed proper-name spelling preserved; no invented Portuguese composition rules",
+      "source_file": "npc/surnames/gnome.json"
+    },
+    {
+      "id": "s2-345a88ba2d7b3cdb44602831",
+      "key": "suffixes/@text=abb32701117d50a9#0",
+      "name_fragment": "dust",
+      "reason": "Reviewed proper-name spelling preserved; no invented Portuguese composition rules",
+      "source_file": "npc/surnames/gnome.json"
+    },
+    {
+      "id": "s2-90dcb6805ceb5d4e6629c231",
+      "key": "suffixes/@text=c0d2856b74d0df05#0",
+      "name_fragment": "field",
+      "reason": "Reviewed proper-name spelling preserved; no invented Portuguese composition rules",
+      "source_file": "npc/surnames/gnome.json"
+    },
+    {
+      "id": "s2-bf21443e55795ec0f07ece59",
+      "key": "suffixes/@text=400b181c87849386#0",
+      "name_fragment": "finger",
+      "reason": "Reviewed proper-name spelling preserved; no invented Portuguese composition rules",
+      "source_file": "npc/surnames/gnome.json"
+    },
+    {
+      "id": "s2-7296d5f14b7dd1c9a354c95b",
+      "key": "suffixes/@text=dc9f28b12dd1818e#0",
+      "name_fragment": "fire",
+      "reason": "Reviewed proper-name spelling preserved; no invented Portuguese composition rules",
+      "source_file": "npc/surnames/gnome.json"
+    },
+    {
+      "id": "s2-c5e6630a8b8c10dfbc970eb3",
+      "key": "suffixes/@text=37405439983bc6f9#0",
+      "name_fragment": "frock",
+      "reason": "Reviewed proper-name spelling preserved; no invented Portuguese composition rules",
+      "source_file": "npc/surnames/gnome.json"
+    },
+    {
+      "id": "s2-8dd9d7e54b4520802640120b",
+      "key": "suffixes/@text=fe02414dc05bc327#0",
+      "name_fragment": "glade",
+      "reason": "Reviewed proper-name spelling preserved; no invented Portuguese composition rules",
+      "source_file": "npc/surnames/gnome.json"
+    },
+    {
+      "id": "s2-3760af526b9fe62d8b4760e7",
+      "key": "suffixes/@text=027dcc20c7ede0fc#0",
+      "name_fragment": "gleam",
+      "reason": "Reviewed proper-name spelling preserved; no invented Portuguese composition rules",
+      "source_file": "npc/surnames/gnome.json"
+    },
+    {
+      "id": "s2-a90f66a0b39e32e37ee6b7d4",
+      "key": "suffixes/@text=770e607624d68926#0",
+      "name_fragment": "good",
+      "reason": "Reviewed proper-name spelling preserved; no invented Portuguese composition rules",
+      "source_file": "npc/surnames/gnome.json"
+    },
+    {
+      "id": "s2-866dedfebd8317f9e0c20997",
+      "key": "suffixes/@text=2c2240217b64aa2d#0",
+      "name_fragment": "grain",
+      "reason": "Reviewed proper-name spelling preserved; no invented Portuguese composition rules",
+      "source_file": "npc/surnames/gnome.json"
+    },
+    {
+      "id": "s2-c387817c4ecf6e739d5873a4",
+      "key": "suffixes/@text=8a0e7f923a4d3e55#0",
+      "name_fragment": "grove",
+      "reason": "Reviewed proper-name spelling preserved; no invented Portuguese composition rules",
+      "source_file": "npc/surnames/gnome.json"
+    },
+    {
+      "id": "s2-8447e262dc05de25d33b2ae1",
+      "key": "suffixes/@text=84e652f08767e20d#0",
+      "name_fragment": "holm",
+      "reason": "Reviewed proper-name spelling preserved; no invented Portuguese composition rules",
+      "source_file": "npc/surnames/gnome.json"
+    },
+    {
+      "id": "s2-54058a5be09e2d80914b394c",
+      "key": "suffixes/@text=392a5bcbd71a7db2#0",
+      "name_fragment": "hopper",
+      "reason": "Reviewed proper-name spelling preserved; no invented Portuguese composition rules",
+      "source_file": "npc/surnames/gnome.json"
+    },
+    {
+      "id": "s2-10fbc0783dced19c1d5ec776",
+      "key": "suffixes/@text=c1d6b0ba57d78fec#0",
+      "name_fragment": "kin",
+      "reason": "Reviewed proper-name spelling preserved; no invented Portuguese composition rules",
+      "source_file": "npc/surnames/gnome.json"
+    },
+    {
+      "id": "s2-cdd74abddd01652e4f6d4682",
+      "key": "suffixes/@text=a648eb66561ca535#0",
+      "name_fragment": "knack",
+      "reason": "Reviewed proper-name spelling preserved; no invented Portuguese composition rules",
+      "source_file": "npc/surnames/gnome.json"
+    },
+    {
+      "id": "s2-ef38e2904d47fc0294e1c5fb",
+      "key": "suffixes/@text=0c030586945fe504#0",
+      "name_fragment": "lock",
+      "reason": "Reviewed proper-name spelling preserved; no invented Portuguese composition rules",
+      "source_file": "npc/surnames/gnome.json"
+    },
+    {
+      "id": "s2-5c496638e22b0ba06f4f9139",
+      "key": "suffixes/@text=c58566b1071f7a2d#0",
+      "name_fragment": "loft",
+      "reason": "Reviewed proper-name spelling preserved; no invented Portuguese composition rules",
+      "source_file": "npc/surnames/gnome.json"
+    },
+    {
+      "id": "s2-651cb6912f261d21fb0e486d",
+      "key": "suffixes/@text=c38e8334242ffdf0#0",
+      "name_fragment": "mantle",
+      "reason": "Reviewed proper-name spelling preserved; no invented Portuguese composition rules",
+      "source_file": "npc/surnames/gnome.json"
+    },
+    {
+      "id": "s2-aaf2c776aeb193f36e8a8685",
+      "key": "suffixes/@text=33e1317ffcb18951#0",
+      "name_fragment": "mender",
+      "reason": "Reviewed proper-name spelling preserved; no invented Portuguese composition rules",
+      "source_file": "npc/surnames/gnome.json"
+    },
+    {
+      "id": "s2-511ee99fd303f0f4da3b0e36",
+      "key": "suffixes/@text=0ac41a0ec75bfa52#0",
+      "name_fragment": "nail",
+      "reason": "Reviewed proper-name spelling preserved; no invented Portuguese composition rules",
+      "source_file": "npc/surnames/gnome.json"
+    },
+    {
+      "id": "s2-23eaab5a614690cac4be9418",
+      "key": "suffixes/@text=d77e22123e64d3d8#0",
+      "name_fragment": "nose",
+      "reason": "Reviewed proper-name spelling preserved; no invented Portuguese composition rules",
+      "source_file": "npc/surnames/gnome.json"
+    },
+    {
+      "id": "s2-91bf4754ae90c716505caba5",
+      "key": "suffixes/@text=a4895eb44afc336f#0",
+      "name_fragment": "patch",
+      "reason": "Reviewed proper-name spelling preserved; no invented Portuguese composition rules",
+      "source_file": "npc/surnames/gnome.json"
+    },
+    {
+      "id": "s2-e0020e382b1dca6098d3a8f3",
+      "key": "suffixes/@text=cb031aec545216dd#0",
+      "name_fragment": "picker",
+      "reason": "Reviewed proper-name spelling preserved; no invented Portuguese composition rules",
+      "source_file": "npc/surnames/gnome.json"
+    },
+    {
+      "id": "s2-176d1bfe0af83e77e57ce354",
+      "key": "suffixes/@text=558211ed72b2d696#0",
+      "name_fragment": "pie",
+      "reason": "Reviewed proper-name spelling preserved; no invented Portuguese composition rules",
+      "source_file": "npc/surnames/gnome.json"
+    },
+    {
+      "id": "s2-e47cbfdb3a017499c7670207",
+      "key": "suffixes/@text=62f5d588fd39c2bb#0",
+      "name_fragment": "pocket",
+      "reason": "Reviewed proper-name spelling preserved; no invented Portuguese composition rules",
+      "source_file": "npc/surnames/gnome.json"
+    },
+    {
+      "id": "s2-662cbd47ebd075e14fbc69af",
+      "key": "suffixes/@text=4813494d137e1631#0",
+      "name_fragment": "root",
+      "reason": "Reviewed proper-name spelling preserved; no invented Portuguese composition rules",
+      "source_file": "npc/surnames/gnome.json"
+    },
+    {
+      "id": "s2-dee95e312eced28694de545a",
+      "key": "suffixes/@text=6ec327522ee89bcc#0",
+      "name_fragment": "sack",
+      "reason": "Reviewed proper-name spelling preserved; no invented Portuguese composition rules",
+      "source_file": "npc/surnames/gnome.json"
+    },
+    {
+      "id": "s2-c24ded90d03de8baafdf5392",
+      "key": "suffixes/@text=19b25856e1c150ca#0",
+      "name_fragment": "seed",
+      "reason": "Reviewed proper-name spelling preserved; no invented Portuguese composition rules",
+      "source_file": "npc/surnames/gnome.json"
+    },
+    {
+      "id": "s2-8b07074ebf677c4733f840a9",
+      "key": "suffixes/@text=7957bdf8ea97bea3#0",
+      "name_fragment": "sprout",
+      "reason": "Reviewed proper-name spelling preserved; no invented Portuguese composition rules",
+      "source_file": "npc/surnames/gnome.json"
+    },
+    {
+      "id": "s2-6633d97a2f9128799c8a59f0",
+      "key": "suffixes/@text=b7b3e38120a79a9c#0",
+      "name_fragment": "stump",
+      "reason": "Reviewed proper-name spelling preserved; no invented Portuguese composition rules",
+      "source_file": "npc/surnames/gnome.json"
+    },
+    {
+      "id": "s2-ceefa8610361c6af500ecb03",
+      "key": "suffixes/@text=1b34942add2c85bb#0",
+      "name_fragment": "toad",
+      "reason": "Reviewed proper-name spelling preserved; no invented Portuguese composition rules",
+      "source_file": "npc/surnames/gnome.json"
+    },
+    {
+      "id": "s2-721ffb6cba36343e4b4720fd",
+      "key": "suffixes/@text=28720365c5e7476a#0",
+      "name_fragment": "top",
+      "reason": "Reviewed proper-name spelling preserved; no invented Portuguese composition rules",
+      "source_file": "npc/surnames/gnome.json"
+    },
+    {
+      "id": "s2-fdf2a1ed9cf493baa0bc2408",
+      "key": "suffixes/@text=fa82948800a46459#0",
+      "name_fragment": "whistle",
+      "reason": "Reviewed proper-name spelling preserved; no invented Portuguese composition rules",
+      "source_file": "npc/surnames/gnome.json"
+    },
+    {
+      "id": "s2-0e8e2d6f053d918edb5e818c",
+      "key": "suffixes/@text=9702d9de85396638#0",
+      "name_fragment": "wick",
+      "reason": "Reviewed proper-name spelling preserved; no invented Portuguese composition rules",
+      "source_file": "npc/surnames/gnome.json"
+    },
+    {
+      "id": "s2-20adc1073048b2696fdd7d16",
+      "key": "suffixes/@text=99f7855eb789dfec#0",
+      "name_fragment": "wood",
+      "reason": "Reviewed proper-name spelling preserved; no invented Portuguese composition rules",
+      "source_file": "npc/surnames/gnome.json"
+    }
+  ],
+  "policy": "Preserve new gnome procedural proper names; translate professions, UI, event labels and ability titles separately"
+}

@@ -23,3 +23,8 @@ O workflow verifica o build completo e publica automaticamente PTBR.zip, começa
 ## Limites
 
 Testes Windows e reconstrução técnica não comprovam apresentação dentro do jogo. Runtime, acentos, layout e compatibilidade de saves não foram testados. A conferência do Markdown bruto foi feita; não há alegação de preview renderizado. Consulte auditoria.md, requisitos.md e reports/acceptance.json para as evidências do aceite Windows e os limites de execução externa.
+
+
+## Atualização de 01/11/2026
+
+As contagens da migração inicial acima são históricas. Após excluir alinhamentos e sentinelas técnicas da extração, o corpus ativo contém 29.202 unidades em 59 lotes, todas preenchidas. Há 1.652 unidades revisadas e 27.550 aguardando revisão linguística. Foram recuperados 2.520 rascunhos com contexto alterado; eles não receberam aprovação automática. O mod legado perdeu 10 arquivos obsoletos e teve metadados técnicos restaurados. Consulte os relatórios em `../reports/`. O pacote final permanece bloqueado até a revisão integral; não houve teste dentro do jogo.

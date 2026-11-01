@@ -1,0 +1,55 @@
+{
+  "removed_obsolete_native_files": [
+    {
+      "file": "ptbr/translations/ptbr/entities/2426_Jungle_Tree_Branches.json",
+      "native_id": "2426",
+      "reason": "Not present in accepted Soulash 2 0.10.5 source inventory; legacy translation remains recoverable from Git"
+    },
+    {
+      "file": "ptbr/translations/ptbr/entities/2426_Sling.json",
+      "native_id": "2426",
+      "reason": "Not present in accepted Soulash 2 0.10.5 source inventory; legacy translation remains recoverable from Git"
+    },
+    {
+      "file": "ptbr/translations/ptbr/entities/2636_Araxhden.json",
+      "native_id": "2643",
+      "reason": "Not present in accepted Soulash 2 0.10.5 source inventory; legacy translation remains recoverable from Git"
+    },
+    {
+      "file": "ptbr/translations/ptbr/entities/3022_Gniseggi_Corpse.json",
+      "native_id": "3022",
+      "reason": "Not present in accepted Soulash 2 0.10.5 source inventory; legacy translation remains recoverable from Git"
+    },
+    {
+      "file": "ptbr/translations/ptbr/entities/816_Blueberry_bush.json",
+      "native_id": "816",
+      "reason": "Not present in accepted Soulash 2 0.10.5 source inventory; legacy translation remains recoverable from Git"
+    },
+    {
+      "file": "ptbr/translations/ptbr/entities/817_Strawberry_bush.json",
+      "native_id": "817",
+      "reason": "Not present in accepted Soulash 2 0.10.5 source inventory; legacy translation remains recoverable from Git"
+    },
+    {
+      "file": "ptbr/translations/ptbr/entities/818_Blackberry_bush.json",
+      "native_id": "818",
+      "reason": "Not present in accepted Soulash 2 0.10.5 source inventory; legacy translation remains recoverable from Git"
+    },
+    {
+      "file": "ptbr/translations/ptbr/entities/819_Raspberry_bush.json",
+      "native_id": "819",
+      "reason": "Not present in accepted Soulash 2 0.10.5 source inventory; legacy translation remains recoverable from Git"
+    },
+    {
+      "file": "ptbr/translations/ptbr/entities/Storm_Totem_2.json",
+      "native_id": "core_2_Storm_Totem_2",
+      "reason": "Not present in accepted Soulash 2 0.10.5 source inventory; legacy translation remains recoverable from Git"
+    },
+    {
+      "file": "ptbr/translations/ptbr/entities/Tytan_King_Corpse.json",
+      "native_id": "core_2_Tytan_King_Corpse",
+      "reason": "Not present in accepted Soulash 2 0.10.5 source inventory; legacy translation remains recoverable from Git"
+    }
+  ],
+  "preserved": "Complete native fields and TXT name lists retained because removal safety is not proven"
+}

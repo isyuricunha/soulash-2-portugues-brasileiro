@@ -40,3 +40,21 @@ class NativeContext(unittest.TestCase):
    for r in rows:r.update(PTBR=r['EN'],reviewed=True,gender='feminine' if r['gender_eligible'] else None)
    out=native.rebuild(files,rows,'0.10.5');entity=json.loads(out[native.DEPLOY+'/translations/ptbr/entities/1.json'])
    self.assertTrue(entity['feminine_form']);self.assertEqual(entity['damage'],5);self.assertEqual(entity['resource']['feminine_affix'],'Iron')
+
+ def test_alignment_is_native_metadata_not_translation(self):
+  with tempfile.TemporaryDirectory() as d:
+   p=Path(d);(p/'language_metadata.json').write_bytes(native.encoded({'id':'en','name':'English'}))
+   (p/'messages.json').write_bytes(native.encoded({'main':[{'id':1,'format':'Hello','align':'middle'}]}))
+   files,rows=native.extract(p);self.assertEqual([r['EN'] for r in rows],['Hello'])
+   for r in rows:r.update(PTBR='Oi',reviewed=True)
+   output=native.rebuild(files,rows,'0.10.5');self.assertEqual(json.loads(output[native.DEPLOY+'/translations/ptbr/messages.json'])['main'][0]['align'],'middle')
+
+ def test_ability_none_sentinels_stay_native(self):
+  with tempfile.TemporaryDirectory() as d:
+   p=Path(d);(p/'language_metadata.json').write_bytes(native.encoded({'id':'en','name':'English'}))
+   data={'ability':[{'id':116,'effect':'Restrict To Tag','success':'none','fail':'none'}]}
+   (p/'messages.json').write_bytes(native.encoded(data));files,rows=native.extract(p)
+   self.assertEqual([r['EN'] for r in rows],['Restrict To Tag'])
+   for r in rows:r.update(PTBR='Restringir à Etiqueta',reviewed=True)
+   out=native.rebuild(files,rows,'0.10.5');rebuilt=json.loads(out[native.DEPLOY+'/translations/ptbr/messages.json'])
+   self.assertEqual(rebuilt['ability'][0]['success'],'none');self.assertEqual(rebuilt['ability'][0]['fail'],'none')

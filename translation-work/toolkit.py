@@ -105,7 +105,7 @@ class Project:
             if missing:raise Invalid('INCOMPLETE_SOURCE: removed files require adapter review: '+str(sorted(missing)[:10]))
         version=version or (previous['version'] if previous else None)
         if not version or not re.fullmatch(r'\d+\.\d+\.\d+(?:\.\d+)*',version):raise Invalid('Explicit verified game version required')
-        hashes={k:sha(v) for k,v in files.items()}; generation=sha(json_bytes({'sources':hashes,'version':version}))
+        hashes={k:sha(v) for k,v in files.items()}; generation=sha(json_bytes({'sources':hashes,'version':version,'adapter_revision':native.EXTRACTION_REVISION}))
         old={r['id']:r for r in oldrows}
         batches={b:[] for b in previous['batches']} if previous else {'batch-0001.jsonl':[]}
         reserved=collections.Counter(members.values())
@@ -146,7 +146,7 @@ class Project:
         report['affected_batches']=sorted({c['batch'] for c in report['changes']})
         if previous and generation==previous['generation'] and not any(report['counts'][k] for k in ('added','modified','removed','moved')):
             return {'status':'unchanged','generation':generation,'preserved':report['counts']['preserved_translations']}
-        manifest={'schema':1,'deployment':DEPLOY,'source_root':SOURCE,'version':version,'generation':generation,
+        manifest={'schema':1,'adapter_revision':native.EXTRACTION_REVISION,'deployment':DEPLOY,'source_root':SOURCE,'version':version,'generation':generation,
             'sources':hashes,'entries':len(candidate),'batch_size':500,'batches':list(batches),'catalog':candidate}
         if dry:return report
         changes={'EN/'+SOURCE+'/'+k:v for k,v in files.items()}

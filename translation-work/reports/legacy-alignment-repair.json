@@ -1,0 +1,1005 @@
+{
+  "changes": [
+    {
+      "after": "middle",
+      "before": "central",
+      "path": [
+        "main",
+        32,
+        "align"
+      ]
+    },
+    {
+      "after": "middle",
+      "before": "central",
+      "path": [
+        "main",
+        33,
+        "align"
+      ]
+    },
+    {
+      "after": "right",
+      "before": "direita",
+      "path": [
+        "main",
+        48,
+        "align"
+      ]
+    },
+    {
+      "after": "right",
+      "before": "direita",
+      "path": [
+        "main",
+        49,
+        "align"
+      ]
+    },
+    {
+      "after": "right",
+      "before": "direita",
+      "path": [
+        "main",
+        50,
+        "align"
+      ]
+    },
+    {
+      "after": "middle",
+      "before": "centro",
+      "path": [
+        "main",
+        51,
+        "align"
+      ]
+    },
+    {
+      "after": "middle",
+      "before": "centro",
+      "path": [
+        "main",
+        53,
+        "align"
+      ]
+    },
+    {
+      "after": "middle",
+      "before": "meio",
+      "path": [
+        "main",
+        66,
+        "align"
+      ]
+    },
+    {
+      "after": "middle",
+      "before": "centralizado",
+      "path": [
+        "main",
+        73,
+        "align"
+      ]
+    },
+    {
+      "after": "middle",
+      "before": "centralizado",
+      "path": [
+        "main",
+        81,
+        "align"
+      ]
+    },
+    {
+      "after": "middle",
+      "before": "central",
+      "path": [
+        "main",
+        106,
+        "align"
+      ]
+    },
+    {
+      "after": "middle",
+      "before": "central",
+      "path": [
+        "main",
+        109,
+        "align"
+      ]
+    },
+    {
+      "after": "middle",
+      "before": "neutro",
+      "path": [
+        "main",
+        131,
+        "align"
+      ]
+    },
+    {
+      "after": "middle",
+      "before": "neutro",
+      "path": [
+        "main",
+        133,
+        "align"
+      ]
+    },
+    {
+      "after": "middle",
+      "before": "meio",
+      "path": [
+        "main",
+        164,
+        "align"
+      ]
+    },
+    {
+      "after": "middle",
+      "before": "meio",
+      "path": [
+        "main",
+        165,
+        "align"
+      ]
+    },
+    {
+      "after": "middle",
+      "before": "central",
+      "path": [
+        "main",
+        180,
+        "align"
+      ]
+    },
+    {
+      "after": "middle",
+      "before": "central",
+      "path": [
+        "main",
+        183,
+        "align"
+      ]
+    },
+    {
+      "after": "middle",
+      "before": "central",
+      "path": [
+        "main",
+        184,
+        "align"
+      ]
+    },
+    {
+      "after": "middle",
+      "before": "central",
+      "path": [
+        "main",
+        188,
+        "align"
+      ]
+    },
+    {
+      "after": "middle",
+      "before": "central",
+      "path": [
+        "main",
+        190,
+        "align"
+      ]
+    },
+    {
+      "after": "middle",
+      "before": "central",
+      "path": [
+        "main",
+        191,
+        "align"
+      ]
+    },
+    {
+      "after": "middle",
+      "before": "central",
+      "path": [
+        "main",
+        192,
+        "align"
+      ]
+    },
+    {
+      "after": "middle",
+      "before": "central",
+      "path": [
+        "main",
+        193,
+        "align"
+      ]
+    },
+    {
+      "after": "middle",
+      "before": "central",
+      "path": [
+        "main",
+        194,
+        "align"
+      ]
+    },
+    {
+      "after": "left",
+      "before": "esquerda",
+      "path": [
+        "main",
+        200,
+        "align"
+      ]
+    },
+    {
+      "after": "left",
+      "before": "esquerda",
+      "path": [
+        "main",
+        201,
+        "align"
+      ]
+    },
+    {
+      "after": "left",
+      "before": "esquerda",
+      "path": [
+        "main",
+        202,
+        "align"
+      ]
+    },
+    {
+      "after": "middle",
+      "before": "centro",
+      "path": [
+        "main",
+        203,
+        "align"
+      ]
+    },
+    {
+      "after": "left",
+      "before": "esquerda",
+      "path": [
+        "main",
+        204,
+        "align"
+      ]
+    },
+    {
+      "after": "left",
+      "before": "esquerda",
+      "path": [
+        "main",
+        205,
+        "align"
+      ]
+    },
+    {
+      "after": "left",
+      "before": "esquerda",
+      "path": [
+        "main",
+        206,
+        "align"
+      ]
+    },
+    {
+      "after": "middle",
+      "before": "central",
+      "path": [
+        "main",
+        207,
+        "align"
+      ]
+    },
+    {
+      "after": "middle",
+      "before": "central",
+      "path": [
+        "main",
+        208,
+        "align"
+      ]
+    },
+    {
+      "after": "middle",
+      "before": "centralizado",
+      "path": [
+        "main",
+        209,
+        "align"
+      ]
+    },
+    {
+      "after": "middle",
+      "before": "centralizado",
+      "path": [
+        "main",
+        210,
+        "align"
+      ]
+    },
+    {
+      "after": "middle",
+      "before": "centralizado",
+      "path": [
+        "main",
+        211,
+        "align"
+      ]
+    },
+    {
+      "after": "middle",
+      "before": "centralizado",
+      "path": [
+        "main",
+        212,
+        "align"
+      ]
+    },
+    {
+      "after": "middle",
+      "before": "centralizado",
+      "path": [
+        "main",
+        213,
+        "align"
+      ]
+    },
+    {
+      "after": "middle",
+      "before": "centro",
+      "path": [
+        "main",
+        214,
+        "align"
+      ]
+    },
+    {
+      "after": "middle",
+      "before": "centro",
+      "path": [
+        "main",
+        215,
+        "align"
+      ]
+    },
+    {
+      "after": "middle",
+      "before": "centro",
+      "path": [
+        "main",
+        216,
+        "align"
+      ]
+    },
+    {
+      "after": "middle",
+      "before": "centro",
+      "path": [
+        "main",
+        218,
+        "align"
+      ]
+    },
+    {
+      "after": "middle",
+      "before": "central",
+      "path": [
+        "main",
+        220,
+        "align"
+      ]
+    },
+    {
+      "after": "middle",
+      "before": "central",
+      "path": [
+        "main",
+        221,
+        "align"
+      ]
+    },
+    {
+      "after": "middle",
+      "before": "central",
+      "path": [
+        "main",
+        222,
+        "align"
+      ]
+    },
+    {
+      "after": "middle",
+      "before": "Centralizado",
+      "path": [
+        "main",
+        250,
+        "align"
+      ]
+    },
+    {
+      "after": "middle",
+      "before": "Centralizado",
+      "path": [
+        "main",
+        251,
+        "align"
+      ]
+    },
+    {
+      "after": "middle",
+      "before": "Meio",
+      "path": [
+        "main",
+        262,
+        "align"
+      ]
+    },
+    {
+      "after": "middle",
+      "before": "centralizado",
+      "path": [
+        "main",
+        265,
+        "align"
+      ]
+    },
+    {
+      "after": "middle",
+      "before": "centralizado",
+      "path": [
+        "main",
+        268,
+        "align"
+      ]
+    },
+    {
+      "after": "middle",
+      "before": "centralizado",
+      "path": [
+        "main",
+        292,
+        "align"
+      ]
+    },
+    {
+      "after": "middle",
+      "before": "centralizado",
+      "path": [
+        "main",
+        305,
+        "align"
+      ]
+    },
+    {
+      "after": "middle",
+      "before": "centralizado",
+      "path": [
+        "main",
+        307,
+        "align"
+      ]
+    },
+    {
+      "after": "middle",
+      "before": "centralizado",
+      "path": [
+        "main",
+        308,
+        "align"
+      ]
+    },
+    {
+      "after": "middle",
+      "before": "centralizado",
+      "path": [
+        "main",
+        311,
+        "align"
+      ]
+    },
+    {
+      "after": "left",
+      "before": "esquerda",
+      "path": [
+        "main",
+        313,
+        "align"
+      ]
+    },
+    {
+      "after": "middle",
+      "before": "centralizado",
+      "path": [
+        "main",
+        317,
+        "align"
+      ]
+    },
+    {
+      "after": "left",
+      "before": "esquerda",
+      "path": [
+        "main",
+        319,
+        "align"
+      ]
+    },
+    {
+      "after": "left",
+      "before": "esquerda",
+      "path": [
+        "main",
+        320,
+        "align"
+      ]
+    },
+    {
+      "after": "left",
+      "before": "esquerda",
+      "path": [
+        "main",
+        321,
+        "align"
+      ]
+    },
+    {
+      "after": "left",
+      "before": "esquerda",
+      "path": [
+        "main",
+        322,
+        "align"
+      ]
+    },
+    {
+      "after": "left",
+      "before": "esquerda",
+      "path": [
+        "main",
+        323,
+        "align"
+      ]
+    },
+    {
+      "after": "left",
+      "before": "esquerda",
+      "path": [
+        "main",
+        324,
+        "align"
+      ]
+    },
+    {
+      "after": "left",
+      "before": "esquerda",
+      "path": [
+        "main",
+        325,
+        "align"
+      ]
+    },
+    {
+      "after": "left",
+      "before": "esquerda",
+      "path": [
+        "main",
+        326,
+        "align"
+      ]
+    },
+    {
+      "after": "left",
+      "before": "esquerda",
+      "path": [
+        "main",
+        327,
+        "align"
+      ]
+    },
+    {
+      "after": "middle",
+      "before": "centralizado",
+      "path": [
+        "main",
+        339,
+        "align"
+      ]
+    },
+    {
+      "after": "right",
+      "before": "direita",
+      "path": [
+        "main",
+        340,
+        "align"
+      ]
+    },
+    {
+      "after": "middle",
+      "before": "centralizado",
+      "path": [
+        "main",
+        350,
+        "align"
+      ]
+    },
+    {
+      "after": "middle",
+      "before": "centralizado",
+      "path": [
+        "main",
+        352,
+        "align"
+      ]
+    },
+    {
+      "after": "middle",
+      "before": "centralizado",
+      "path": [
+        "main",
+        394,
+        "align"
+      ]
+    },
+    {
+      "after": "middle",
+      "before": "centralizado",
+      "path": [
+        "main",
+        395,
+        "align"
+      ]
+    },
+    {
+      "after": "middle",
+      "before": "centralizado",
+      "path": [
+        "main",
+        421,
+        "align"
+      ]
+    },
+    {
+      "after": "middle",
+      "before": "centralizado",
+      "path": [
+        "main",
+        427,
+        "align"
+      ]
+    },
+    {
+      "after": "middle",
+      "before": "centralizado",
+      "path": [
+        "main",
+        456,
+        "align"
+      ]
+    },
+    {
+      "after": "middle",
+      "before": "centralizado",
+      "path": [
+        "main",
+        479,
+        "align"
+      ]
+    },
+    {
+      "after": "middle",
+      "before": "centralizado",
+      "path": [
+        "main",
+        497,
+        "align"
+      ]
+    },
+    {
+      "after": "middle",
+      "before": "centralizado",
+      "path": [
+        "main",
+        501,
+        "align"
+      ]
+    },
+    {
+      "after": "middle",
+      "before": "centralizado",
+      "path": [
+        "main",
+        527,
+        "align"
+      ]
+    },
+    {
+      "after": "middle",
+      "before": "centralizado",
+      "path": [
+        "main",
+        528,
+        "align"
+      ]
+    },
+    {
+      "after": "middle",
+      "before": "centralizado",
+      "path": [
+        "main",
+        529,
+        "align"
+      ]
+    },
+    {
+      "after": "middle",
+      "before": "centralizado",
+      "path": [
+        "main",
+        544,
+        "align"
+      ]
+    },
+    {
+      "after": "middle",
+      "before": "centralizado",
+      "path": [
+        "main",
+        545,
+        "align"
+      ]
+    },
+    {
+      "after": "middle",
+      "before": "centralizado",
+      "path": [
+        "main",
+        546,
+        "align"
+      ]
+    },
+    {
+      "after": "middle",
+      "before": "centralizado",
+      "path": [
+        "main",
+        547,
+        "align"
+      ]
+    },
+    {
+      "after": "middle",
+      "before": "centralizado",
+      "path": [
+        "main",
+        548,
+        "align"
+      ]
+    },
+    {
+      "after": "middle",
+      "before": "centralizado",
+      "path": [
+        "main",
+        617,
+        "align"
+      ]
+    },
+    {
+      "after": "middle",
+      "before": "centralizado",
+      "path": [
+        "main",
+        618,
+        "align"
+      ]
+    },
+    {
+      "after": "middle",
+      "before": "centralizado",
+      "path": [
+        "main",
+        630,
+        "align"
+      ]
+    },
+    {
+      "after": "middle",
+      "before": "centralizado",
+      "path": [
+        "main",
+        631,
+        "align"
+      ]
+    },
+    {
+      "after": "middle",
+      "before": "centralizado",
+      "path": [
+        "main",
+        641,
+        "align"
+      ]
+    },
+    {
+      "after": "middle",
+      "before": "centralizado",
+      "path": [
+        "main",
+        642,
+        "align"
+      ]
+    },
+    {
+      "after": "middle",
+      "before": "centralizado",
+      "path": [
+        "main",
+        652,
+        "align"
+      ]
+    },
+    {
+      "after": "middle",
+      "before": "centralizado",
+      "path": [
+        "main",
+        653,
+        "align"
+      ]
+    },
+    {
+      "after": "middle",
+      "before": "centralizado",
+      "path": [
+        "main",
+        681,
+        "align"
+      ]
+    },
+    {
+      "after": "middle",
+      "before": "centralizado",
+      "path": [
+        "main",
+        682,
+        "align"
+      ]
+    },
+    {
+      "after": "middle",
+      "before": "centralizado",
+      "path": [
+        "main",
+        683,
+        "align"
+      ]
+    },
+    {
+      "after": "middle",
+      "before": "centralizado",
+      "path": [
+        "main",
+        702,
+        "align"
+      ]
+    },
+    {
+      "after": "middle",
+      "before": "centralizado",
+      "path": [
+        "main",
+        703,
+        "align"
+      ]
+    },
+    {
+      "after": "middle",
+      "before": "centralizado",
+      "path": [
+        "main",
+        705,
+        "align"
+      ]
+    },
+    {
+      "after": "middle",
+      "before": "centralizado",
+      "path": [
+        "main",
+        706,
+        "align"
+      ]
+    },
+    {
+      "after": "middle",
+      "before": "centralizado",
+      "path": [
+        "main",
+        707,
+        "align"
+      ]
+    },
+    {
+      "after": "middle",
+      "before": "centralizado",
+      "path": [
+        "main",
+        714,
+        "align"
+      ]
+    },
+    {
+      "after": "middle",
+      "before": "centralizado",
+      "path": [
+        "main",
+        748,
+        "align"
+      ]
+    },
+    {
+      "after": "middle",
+      "before": "centralizado",
+      "path": [
+        "main",
+        749,
+        "align"
+      ]
+    },
+    {
+      "after": "middle",
+      "before": "centralizado",
+      "path": [
+        "main",
+        750,
+        "align"
+      ]
+    },
+    {
+      "after": "middle",
+      "before": "centralizado",
+      "path": [
+        "main",
+        751,
+        "align"
+      ]
+    },
+    {
+      "after": "middle",
+      "before": "centralizado",
+      "path": [
+        "main",
+        753,
+        "align"
+      ]
+    },
+    {
+      "after": "middle",
+      "before": "centralizado",
+      "path": [
+        "main",
+        755,
+        "align"
+      ]
+    },
+    {
+      "after": "middle",
+      "before": "centralizado",
+      "path": [
+        "main",
+        795,
+        "align"
+      ]
+    }
+  ],
+  "policy": "Restore technical alignment enums by native ID; preserve translated text",
+  "source": "english/translations/ptbr/messages.json"
+}

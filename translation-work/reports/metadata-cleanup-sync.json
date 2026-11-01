@@ -1,0 +1,29 @@
+{
+  "previous_generation": "a3e1280801576bd24484b6820b852bfa377d9722fb10ee3d420d84c437d12294",
+  "generation": "6f33dd1d77adc3ae10a8d2f2763fd715a158b3d1d3a9a85520a0672b08c15867",
+  "version": "0.10.5",
+  "counts": {
+    "added": 0,
+    "modified": 0,
+    "removed": 122,
+    "moved": 0,
+    "unchanged": 29312,
+    "preserved_translations": 28599
+  },
+  "affected_batches": [
+    "batch-0039.jsonl",
+    "batch-0040.jsonl",
+    "batch-0041.jsonl",
+    "batch-0042.jsonl"
+  ],
+  "validation": "passed",
+  "warnings": [],
+  "pending": 713,
+  "review_pending": 28371,
+  "transaction": "01793561612136952200-f5cd55d68d2f",
+  "resources": {
+    "added": 0,
+    "modified": 0,
+    "removed": 0
+  }
+}
