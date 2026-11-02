@@ -1,0 +1,13 @@
+{
+  "author": "Yuri Cunha",
+  "description": "Tradução de Soulash 2 para Português Brasileiro.\n\nComunidade: https://discord.gg/uFEwSMwUYb\nApoio via Pix: pix@yuricunha.com",
+  "disable_transition_tiles": true,
+  "draw_all_glyphs": true,
+  "game_required": "0.10.5",
+  "icon": "S2.png",
+  "mods_required": [],
+  "name": "Português Brasileiro - PTBR",
+  "steam_publish_id": 3704275307,
+  "thumbnail": "LogoMod.png",
+  "version": "1.0.1"
+}

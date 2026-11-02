@@ -8,7 +8,7 @@ class ProjectFlow(unittest.TestCase):
  def setUp(self):
   self.tmp=tempfile.TemporaryDirectory();self.root=Path(self.tmp.name);self.p=Project(self.root)
   source=Path(__file__).resolve().parents[1]
-  for name in ['toolkit.py','native.py','extractor.py','models.py','protection.py','storage.py','errors.py','release.py','consent.py','toolchain.json','runtime-support.json','legacy-releases.json','source-profiles.json']:
+  for name in ['toolkit.py','native.py','preview.py','extractor.py','models.py','protection.py','storage.py','errors.py','release.py','consent.py','toolchain.json','runtime-support.json','legacy-releases.json','source-profiles.json']:
    dest=self.root/WORK/name;dest.parent.mkdir(parents=True,exist_ok=True);shutil.copyfile(source/name,dest)
   self.src=self.root/'fixture';self.src.mkdir()
   (self.src/'language_metadata.json').write_bytes(native.encoded({'id':'en','name':'English'}))
@@ -27,6 +27,22 @@ class ProjectFlow(unittest.TestCase):
   with zipfile.ZipFile(self.p.package()['zip']) as z:self.assertEqual(set(z.namelist()),set(receipt['outputs']))
   out=self.root/'PTBR'/next(iter(receipt['outputs']));out.write_bytes(b'tamper')
   with self.assertRaises(native.Invalid):self.p.verify_output()
+ def test_distribution_identity_assets_and_stale_guard(self):
+  support=self.root/WORK/'distribution';support.mkdir()
+  (support/'mod.json').write_bytes(native.encoded({'steam_publish_id':3704275307,'game_required':'old','version':'1.0.1'}))
+  for name in ('S2.png','LogoMod.png'):(support/name).write_bytes(b'image fixture')
+  self.apply_all();receipt=self.p.build()
+  metadata=json.loads((self.root/'PTBR'/native.DEPLOY/'mod.json').read_bytes())
+  self.assertEqual(metadata['steam_publish_id'],3704275307)
+  self.assertEqual(metadata['game_required'],'0.10.5')
+  self.assertIn(native.DEPLOY+'/S2.png',receipt['outputs'])
+  (support/'S2.png').write_bytes(b'changed')
+  with self.assertRaises(native.Invalid):self.p.verify_output()
+
+ def test_lowercase_existing_output_rebuild_is_idempotent(self):
+  self.apply_all();(self.root/'ptbr').mkdir()
+  self.p.build();first=self.p.package()['sha256']
+  self.p.build();self.assertEqual(first,self.p.package()['sha256'])
  def test_incremental_sync(self):
   self.apply_all();self.write({'greeting':'Goodbye ::name','other':'Welcome','new':'New'})
   report=self.p.sync(self.src,'0.10.5');self.assertEqual(report['counts']['modified'],1)

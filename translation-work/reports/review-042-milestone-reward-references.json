@@ -1,0 +1,6235 @@
+{
+  "policy": "Reward kind and native ID match a reviewed item/ability/passive/amplifier name, with case-insensitive identical English title",
+  "reviewed": [
+    {
+      "EN": "Adamantine Ingot",
+      "after": "Lingote de Adamantita",
+      "before": "Lingote de Adamantina",
+      "id": "s2-c49259b38e4dd1850a4ac6c6",
+      "verified_reward_name_id": "s2-4db0bbda3745199bde0a2065"
+    },
+    {
+      "EN": "Alchemic Fire",
+      "after": "Fogo Alquímico",
+      "before": "Fogo Alquímico",
+      "id": "s2-d0efaf3af8ca3f5d8a975ca7",
+      "verified_reward_name_id": "s2-4ebf21ebdd086b9d266f7227"
+    },
+    {
+      "EN": "Antidote Vial",
+      "after": "Frasco de Antídoto",
+      "before": "Frasco de Antídoto",
+      "id": "s2-ce0af9e6bac9378679305e3a",
+      "verified_reward_name_id": "s2-0a0833115721376b2b5b3b4c"
+    },
+    {
+      "EN": "Basket",
+      "after": "Cesta",
+      "before": "Cesta",
+      "id": "s2-eb9f9207f82fb1fb32f1a5fa",
+      "verified_reward_name_id": "s2-8002a1101a84ce94b6b8f5bf"
+    },
+    {
+      "EN": "Bedroll",
+      "after": "Saco de Dormir",
+      "before": "Saco de Dormir",
+      "id": "s2-bbd69767e5aa0b61bd690ace",
+      "verified_reward_name_id": "s2-18673e98cfcd661813dd9fe8"
+    },
+    {
+      "EN": "Bog Staff",
+      "after": "Cajado do Pântano",
+      "before": "Cajado do Pântano",
+      "id": "s2-7a2dea1a1646b4f6529b8568",
+      "verified_reward_name_id": "s2-fb9ca94471729e5db27278ae"
+    },
+    {
+      "EN": "Bone Staff",
+      "after": "Cajado de Osso",
+      "before": "Cajado de Osso",
+      "id": "s2-585ee9bf2d108b176bd9ba9f",
+      "verified_reward_name_id": "s2-873c27b3ff5434966e795aee"
+    },
+    {
+      "EN": "Book",
+      "after": "Livro",
+      "before": "Livro",
+      "id": "s2-7ea00958ea244bcbf2739beb",
+      "verified_reward_name_id": "s2-825031ede2dd9b0e777bd0d7"
+    },
+    {
+      "EN": "Book Of Adventuring",
+      "after": "Livro de Aventureirismo",
+      "before": "Livro de Aventuras",
+      "id": "s2-f9ced163b54f545bf9a4e656",
+      "verified_reward_name_id": "s2-1fb9a32de2a81ca63078582e"
+    },
+    {
+      "EN": "Bronze Ingot",
+      "after": "Lingote de Bronze",
+      "before": "Lingote de Bronze",
+      "id": "s2-ed02b7785167e5fde309b26a",
+      "verified_reward_name_id": "s2-6a7ed2e30ec0e64446829ab8"
+    },
+    {
+      "EN": "Came Prepared",
+      "after": "Veio Preparado",
+      "before": "Veio Preparado",
+      "id": "s2-8e1e4e5f44355f992134227a",
+      "verified_reward_name_id": "s2-25731efc8209cdc78f85507f"
+    },
+    {
+      "EN": "Candlestick",
+      "after": "Castiçal",
+      "before": "Castiçal",
+      "id": "s2-2d86858aafe7477a3d679d36",
+      "verified_reward_name_id": "s2-887b14fcd3fdc02d70f231ff"
+    },
+    {
+      "EN": "Chromium Ingot",
+      "after": "Lingote de Cromo",
+      "before": "Lingote de Cromo",
+      "id": "s2-02047eeae6650d5d5f6cf9e1",
+      "verified_reward_name_id": "s2-cb617cecc24b77cb58188f78"
+    },
+    {
+      "EN": "Copper Ingot",
+      "after": "Lingote de Cobre",
+      "before": "Lingote de Cobre",
+      "id": "s2-18417496c2aa5ad5b1c7cac5",
+      "verified_reward_name_id": "s2-e1d8db15db47b9c1e24f2bb2"
+    },
+    {
+      "EN": "Crystal Staff",
+      "after": "Cajado de Cristal",
+      "before": "Cajado de Cristal",
+      "id": "s2-7e87311c78e653c5f3905cee",
+      "verified_reward_name_id": "s2-e6fa3217f1199ef7a1cea74d"
+    },
+    {
+      "EN": "Druid Rod",
+      "after": "Vara de Druida",
+      "before": "Vara de Druida",
+      "id": "s2-72a40501ca0feced1e388bc7",
+      "verified_reward_name_id": "s2-054f3876eb929ad383e412d3"
+    },
+    {
+      "EN": "Druid Staff",
+      "after": "Cajado Druídico",
+      "before": "Cajado de Druida",
+      "id": "s2-41c280d23908040b64d4364e",
+      "verified_reward_name_id": "s2-51aac5c3e99cd747c40f5a04"
+    },
+    {
+      "EN": "Fancy Flask",
+      "after": "Frasco Elegante",
+      "before": "Frasco Luxuoso",
+      "id": "s2-520316d1fe12ab44c1fa7d79",
+      "verified_reward_name_id": "s2-7051a45e23207adb3f53e900"
+    },
+    {
+      "EN": "Fire Rod",
+      "after": "Vara de Fogo",
+      "before": "Vara de Fogo",
+      "id": "s2-b6a5dad3b48076d25eed3ba6",
+      "verified_reward_name_id": "s2-910c49c2d00a735429376730"
+    },
+    {
+      "EN": "Food Everywhere",
+      "after": "Comida em Todo Lugar",
+      "before": "Comida por Toda Parte",
+      "id": "s2-818495719c98056c3f8f75b1",
+      "verified_reward_name_id": "s2-82337bee00c933211568779e"
+    },
+    {
+      "EN": "Freezing Vial",
+      "after": "Frasco Congelante",
+      "before": "Frasco Congelante",
+      "id": "s2-ef827f72e0cfd9e1a10d119a",
+      "verified_reward_name_id": "s2-901bf1e6d1a91ac5b3689986"
+    },
+    {
+      "EN": "Frozen Poison",
+      "after": "Veneno Congelado",
+      "before": "Veneno Congelado",
+      "id": "s2-c2c7abd394fed957010e6ce4",
+      "verified_reward_name_id": "s2-7f3204430550c6b57b222361"
+    },
+    {
+      "EN": "Gold Ingot",
+      "after": "Lingote de Ouro",
+      "before": "Lingote de Ouro",
+      "id": "s2-8d9dbe43f5fdd89bbe306329",
+      "verified_reward_name_id": "s2-76728c94f9dec37fdf8f0dac"
+    },
+    {
+      "EN": "Good Deals",
+      "after": "Bons Negócios",
+      "before": "Bons Negócios",
+      "id": "s2-79e6396bdf2d9d699a50b717",
+      "verified_reward_name_id": "s2-235a626c0d1d608a63d45f9e"
+    },
+    {
+      "EN": "Ice Rod",
+      "after": "Vara de Gelo",
+      "before": "Vara de Gelo",
+      "id": "s2-a48a2c3c7ac4df08a77fc634",
+      "verified_reward_name_id": "s2-d40ee999adb582b60d71d0b4"
+    },
+    {
+      "EN": "Iron Ingot",
+      "after": "Lingote de Ferro",
+      "before": "Lingote de Ferro",
+      "id": "s2-9591957448572d2fdc425d49",
+      "verified_reward_name_id": "s2-b2d056656b4a6670439e8952"
+    },
+    {
+      "EN": "Machete",
+      "after": "Facão",
+      "before": "Facão",
+      "id": "s2-2a6c2d40078202c31511e39b",
+      "verified_reward_name_id": "s2-00e0c906fa31b8f2c8ad5ba0"
+    },
+    {
+      "EN": "Mithril Ingot",
+      "after": "Lingote de Mithril",
+      "before": "Lingote de Mithril",
+      "id": "s2-80cbc9a18378b0748650528f",
+      "verified_reward_name_id": "s2-82cb9d2b178dcfdcfd74fc4b"
+    },
+    {
+      "EN": "Multitool",
+      "after": "Multiferramenta",
+      "before": "Multiferramenta",
+      "id": "s2-62afa4f44d76f15528979ed5",
+      "verified_reward_name_id": "s2-01303a940ee8a3e99b9a899a"
+    },
+    {
+      "EN": "Nose For Trouble",
+      "after": "Faro para Problemas",
+      "before": "Faro Para Encrença",
+      "id": "s2-9f697b54ce620ad3a3b04d39",
+      "verified_reward_name_id": "s2-8273e1c0095965589a29058c"
+    },
+    {
+      "EN": "Paper",
+      "after": "Papel",
+      "before": "Papel",
+      "id": "s2-4305a867c9f33ca468e8ed93",
+      "verified_reward_name_id": "s2-654a5ec2598b915fe4187479"
+    },
+    {
+      "EN": "Resource Discovery",
+      "after": "Descoberta de Recursos",
+      "before": "Descoberta de Recursos",
+      "id": "s2-0022065fe68261ac3305f801",
+      "verified_reward_name_id": "s2-2ef484d49aea7c27ff41b678"
+    },
+    {
+      "EN": "Sand-Blessed Bone",
+      "after": "Osso Abençoado pela Areia",
+      "before": "Osso Abençoado pela Areia",
+      "id": "s2-8b71083db9a788e675645a82",
+      "verified_reward_name_id": "s2-8543d0deefe9b2cf4f058a05"
+    },
+    {
+      "EN": "Silver Ingot",
+      "after": "Lingote de Prata",
+      "before": "Lingote de Prata",
+      "id": "s2-83a94a18c367a7c1f06dd33c",
+      "verified_reward_name_id": "s2-c93fd5cc050d075412d695d4"
+    },
+    {
+      "EN": "Skull Rod",
+      "after": "Vara de Caveira",
+      "before": "Vara de Crânio",
+      "id": "s2-7f88413d25f0239d272abd28",
+      "verified_reward_name_id": "s2-ee407dc3c192ce3b4a5c65de"
+    },
+    {
+      "EN": "Spore Bomb",
+      "after": "Bomba de Esporos",
+      "before": "Bomba de Esporos",
+      "id": "s2-19859e03ea6e34e75aeba60e",
+      "verified_reward_name_id": "s2-958995dbd7531f1dfb1ca2f4"
+    },
+    {
+      "EN": "Spore Lamp",
+      "after": "Lâmpada de Esporos",
+      "before": "Lâmpada de Esporos",
+      "id": "s2-f45b8b8ca12637c8968a928c",
+      "verified_reward_name_id": "s2-d5a9ac40d88dccf66d02c300"
+    },
+    {
+      "EN": "Steel Ingot",
+      "after": "Lingote de Aço",
+      "before": "Lingote de Aço",
+      "id": "s2-f8ca6173b94f11c4f0abec3c",
+      "verified_reward_name_id": "s2-15025baa9232812bb0f917ee"
+    },
+    {
+      "EN": "Storm Rod",
+      "after": "Vara da Tempestade",
+      "before": "Vara da Tempestade",
+      "id": "s2-dd5fee722eb8534f604d4e73",
+      "verified_reward_name_id": "s2-5abf2e0c885baf706af33a23"
+    },
+    {
+      "EN": "Tree Tent",
+      "after": "Tenda de Árvore",
+      "before": "Tenda na Árvore",
+      "id": "s2-f2546e2091c6c91dd4d4ca74",
+      "verified_reward_name_id": "s2-98edab36839401f985ac8731"
+    },
+    {
+      "EN": "Triple Candlestick",
+      "after": "Castiçal Triplo",
+      "before": "Castiçal Triplo",
+      "id": "s2-ce4073a1aa9cc24ec18d75b6",
+      "verified_reward_name_id": "s2-0d6dcdcce27be8dc5fe05811"
+    },
+    {
+      "EN": "Well Informed",
+      "after": "Bem Informado",
+      "before": "Bem Informado",
+      "id": "s2-e8b4c374d2d7e8f7be2cfbba",
+      "verified_reward_name_id": "s2-abd3cc3dc484a4e0349a8c5d"
+    },
+    {
+      "EN": "Witch Staff",
+      "after": "Cajado de Bruxa",
+      "before": "Cajado de Bruxa",
+      "id": "s2-e5649be4b32c2bb88b4d990f",
+      "verified_reward_name_id": "s2-275070e88b6eef28800eb7bb"
+    },
+    {
+      "EN": "Acacia Tree Sapling",
+      "after": "Muda de Acácia",
+      "before": "Muda de Acácia",
+      "id": "s2-62514256c38f8078433e48ce",
+      "verified_reward_name_id": "s2-31c4ad6397fc5be1d22166bc"
+    },
+    {
+      "EN": "Agave Seedling",
+      "after": "Muda de Agave",
+      "before": "Muda de Agave",
+      "id": "s2-ba668dadd7c2fa6097c3fd4d",
+      "verified_reward_name_id": "s2-d1a2509cbb946f3ae6f12618"
+    },
+    {
+      "EN": "Apple Tree Sapling",
+      "after": "Muda de Macieira",
+      "before": "Muda de Macieira",
+      "id": "s2-e85cfab194ee11580bcc5d6f",
+      "verified_reward_name_id": "s2-adb9576fbab3ee41833324e8"
+    },
+    {
+      "EN": "Aspen Tree Sapling",
+      "after": "Muda de Choupo",
+      "before": "Muda de Choupo",
+      "id": "s2-62276ee78c0db9ba7f998ee8",
+      "verified_reward_name_id": "s2-d8ea6f7a998ff899e505c71f"
+    },
+    {
+      "EN": "Baked Fish",
+      "after": "Peixe Assado",
+      "before": "Peixe Assado",
+      "id": "s2-06f0c341325c6f8f0c82d766",
+      "verified_reward_name_id": "s2-47170638a62e14074b406b9c"
+    },
+    {
+      "EN": "Bamboo Tree Sapling",
+      "after": "Muda de Bambu",
+      "before": "Muda de Bambu",
+      "id": "s2-ddc4940dbfb0d7161ff18580",
+      "verified_reward_name_id": "s2-7c4ad8ffc64d8f5904334d44"
+    },
+    {
+      "EN": "Banana Palm Sapling",
+      "after": "Muda de Bananeira",
+      "before": "Muda de Bananeira",
+      "id": "s2-da13119a5deb59828d64c9ec",
+      "verified_reward_name_id": "s2-90d10bec3568a6cc0a1ff299"
+    },
+    {
+      "EN": "Barley Bread",
+      "after": "Pão de Cevada",
+      "before": "Pão de Cevada",
+      "id": "s2-c99fdd69e96ab3660bc813aa",
+      "verified_reward_name_id": "s2-cbc8100ff2e6fc5c63ce82f4"
+    },
+    {
+      "EN": "Beehive",
+      "after": "Colmeia",
+      "before": "Colmeia",
+      "id": "s2-130d88a55570c3c64e00bbb5",
+      "verified_reward_name_id": "s2-8614bcd073d29796921ed9ef"
+    },
+    {
+      "EN": "Blueberry Bush Seedling",
+      "after": "Muda de Arbusto de Mirtilo",
+      "before": "Muda de Arbusto de Mirtilo",
+      "id": "s2-6e798ca18c41c5c371773c7b",
+      "verified_reward_name_id": "s2-b38352fec3826a5a37ea5a78"
+    },
+    {
+      "EN": "Candelabra Tree Sapling",
+      "after": "Muda de Candelabro",
+      "before": "Muda de Árvore Candelabro",
+      "id": "s2-079e9da945638f1547147684",
+      "verified_reward_name_id": "s2-eb27113f998db8044e8b4641"
+    },
+    {
+      "EN": "Carrot Seedling",
+      "after": "Muda de Cenoura",
+      "before": "Muda de Cenoura",
+      "id": "s2-56c5443f65aff3419ab9539c",
+      "verified_reward_name_id": "s2-c13562517202d550f1264f63"
+    },
+    {
+      "EN": "Catch Animal",
+      "after": "Capturar Animal",
+      "before": "Capturar Animal",
+      "id": "s2-1be55546bdd61d4da661920c",
+      "verified_reward_name_id": "s2-3be269dd3a4dd2fe07d126ed"
+    },
+    {
+      "EN": "Cauldron",
+      "after": "Caldeirão",
+      "before": "Caldeirão",
+      "id": "s2-59ef6e8815601ed6e4ab71a2",
+      "verified_reward_name_id": "s2-e8dcdf2d913fe5cc59c094fc"
+    },
+    {
+      "EN": "Cedar Tree Sapling",
+      "after": "Muda de Cedro",
+      "before": "Muda de Cedro",
+      "id": "s2-347d8af5c0cf4c5343736e60",
+      "verified_reward_name_id": "s2-27d6e176103db0e31d934f90"
+    },
+    {
+      "EN": "Cheese",
+      "after": "Queijo",
+      "before": "Queijo",
+      "id": "s2-c28424a0fbfa51d18640e162",
+      "verified_reward_name_id": "s2-137b62de223519f87fd06bfb"
+    },
+    {
+      "EN": "Coconut Palm Sapling",
+      "after": "Muda de Coqueiro",
+      "before": "Muda de Palmeira de Coco",
+      "id": "s2-b48675d5fb74a4fc50d044d7",
+      "verified_reward_name_id": "s2-dfae006ed7c164e13b6af3a9"
+    },
+    {
+      "EN": "Cotton Seedling",
+      "after": "Muda de Algodão",
+      "before": "Muda de Algodão",
+      "id": "s2-0fa327b3998027a7a4810c95",
+      "verified_reward_name_id": "s2-2bca4b76ebafc09dfb8f54b6"
+    },
+    {
+      "EN": "Cranberry Seedling",
+      "after": "Muda de Oxicoco",
+      "before": "Muda de Cranberry",
+      "id": "s2-58067cb5e03d1d276eeee45d",
+      "verified_reward_name_id": "s2-cec379f1ef0db8b79833c500"
+    },
+    {
+      "EN": "Cutlet Of Clarity",
+      "after": "Costeleta de Clareza",
+      "before": "Costeleta de Clareza",
+      "id": "s2-d4c327257eb8c8feed5ec12b",
+      "verified_reward_name_id": "s2-6909be4bf9330a844812b63f"
+    },
+    {
+      "EN": "Dark Spiced Pie",
+      "after": "Torta Temperada Sombria",
+      "before": "Torta Escura Temperada",
+      "id": "s2-ee0177683ccfb23ed80b0357",
+      "verified_reward_name_id": "s2-0ae8a9f878180aebe2bf3d83"
+    },
+    {
+      "EN": "Elder Tree Sapling",
+      "after": "Muda de Sabugueiro",
+      "before": "Muda de Sabugueiro",
+      "id": "s2-4af8ed101f3540b4fd2dffa1",
+      "verified_reward_name_id": "s2-16f501787da4305ac571e889"
+    },
+    {
+      "EN": "Fan Palm Sapling",
+      "after": "Muda de Palmeira-Leque",
+      "before": "Muda de Palmeira-Leque",
+      "id": "s2-01532a799ea0627d2e1fdd0f",
+      "verified_reward_name_id": "s2-c48ebc09b64f85b342619877"
+    },
+    {
+      "EN": "Fir Tree Sapling",
+      "after": "Muda de Abeto",
+      "before": "Muda de Abeto",
+      "id": "s2-240ab4968c934a247ff3753f",
+      "verified_reward_name_id": "s2-e7c378fbce76bc016dd1a97d"
+    },
+    {
+      "EN": "Flax Plant Seedling",
+      "after": "Muda de Linho",
+      "before": "Muda de Linho",
+      "id": "s2-ca0d80c7f0ef5e7c2e1c1a3d",
+      "verified_reward_name_id": "s2-eab15d26d00b1c9162ba7421"
+    },
+    {
+      "EN": "Fruit Box",
+      "after": "Caixa de frutas",
+      "before": "Caixa de Frutas",
+      "id": "s2-ee09a0ed7a4d3f62e51ff378",
+      "verified_reward_name_id": "s2-1904d79fceae127cfacdae7d"
+    },
+    {
+      "EN": "Fruit Salad",
+      "after": "Salada de Frutas",
+      "before": "Salada de Frutas",
+      "id": "s2-c03f9e30cacc0be4937f1a99",
+      "verified_reward_name_id": "s2-6ed027ef941057beb5b01a09"
+    },
+    {
+      "EN": "Gingerbread",
+      "after": "Pão de Gengibre",
+      "before": "Pão de Gengibre",
+      "id": "s2-4d93aa1ab37c3f573d8e922f",
+      "verified_reward_name_id": "s2-ec2c93476cd1499df0ef2722"
+    },
+    {
+      "EN": "Glowing Mushroom Pins",
+      "after": "Pequenos Cogumelos Luminosos",
+      "before": "Pinos de Cogumelo Brilhante",
+      "id": "s2-53efa4332f6c0ca3af466b66",
+      "verified_reward_name_id": "s2-3bd703cd1b2df97b86427b30"
+    },
+    {
+      "EN": "Good Harvest",
+      "after": "Boa Colheita",
+      "before": "Boa Colheita",
+      "id": "s2-ff536344db83e6dc9baa55e9",
+      "verified_reward_name_id": "s2-b36aa585fe8e03e692807ad6"
+    },
+    {
+      "EN": "Gooseberry Fizz",
+      "after": "Fizz de Groselha",
+      "before": "Refresco de Groselha",
+      "id": "s2-e622124e70cc25ba2c079f61",
+      "verified_reward_name_id": "s2-11d9a8ae8c54482f59108b30"
+    },
+    {
+      "EN": "Gooseberry Seedling",
+      "after": "Muda de Groselheira",
+      "before": "Muda de Groselha",
+      "id": "s2-144bfee06926a0e704bfd9da",
+      "verified_reward_name_id": "s2-5e72fd9bd4784578ff5aa8fc"
+    },
+    {
+      "EN": "Goulash",
+      "after": "Goulash",
+      "before": "Goulash",
+      "id": "s2-77932bdeec9774c9b1d67a40",
+      "verified_reward_name_id": "s2-9e443c2e08d477498374ae7b"
+    },
+    {
+      "EN": "Ground Jelly Seedling",
+      "after": "Muda de Geleia de Chão",
+      "before": "Muda de Geléia de Chão",
+      "id": "s2-d78bc08929f66b89855b3151",
+      "verified_reward_name_id": "s2-d5fcfdcdfa81b4f0a42f02de"
+    },
+    {
+      "EN": "Healing Herbs Seedling",
+      "after": "Muda de Ervas Curativas",
+      "before": "Muda de Ervas Curativas",
+      "id": "s2-62891c19ace630ccf54751cf",
+      "verified_reward_name_id": "s2-682d31f59617a09f6f76f742"
+    },
+    {
+      "EN": "Herbs Seedling",
+      "after": "Muda de Ervas",
+      "before": "Muda de Ervas",
+      "id": "s2-f8cf921d342044a811041485",
+      "verified_reward_name_id": "s2-c8ebfdb621838a1c33482a85"
+    },
+    {
+      "EN": "Hunter's Stew",
+      "after": "Ensopado do Caçador",
+      "before": "Ensopado do Caçador",
+      "id": "s2-cf4c0dafea5c81c82cbf269e",
+      "verified_reward_name_id": "s2-0d8f69e44dc920a7350cab1e"
+    },
+    {
+      "EN": "Jam",
+      "after": "Geleia",
+      "before": "Geléia",
+      "id": "s2-418bd41fb45af5537ce8b765",
+      "verified_reward_name_id": "s2-02eff8b6a94fd5ff5aa98085"
+    },
+    {
+      "EN": "Juniper Seedling",
+      "after": "Muda de Zimbro",
+      "before": "Muda de Junípero",
+      "id": "s2-8bf208fb13e055009be3664b",
+      "verified_reward_name_id": "s2-05456cdf6bfab6eafee01687"
+    },
+    {
+      "EN": "Lumberjack's Pot",
+      "after": "Panela do Lenhador",
+      "before": "Panela do Lenhador",
+      "id": "s2-72032e084e03bc1e2006f6f0",
+      "verified_reward_name_id": "s2-3c532fb28710ebc3d8d2ae17"
+    },
+    {
+      "EN": "Mahogany Tree Sapling",
+      "after": "Muda de Mogno",
+      "before": "Muda de Mogno",
+      "id": "s2-4f05d883f6dacf6bcf1f2c73",
+      "verified_reward_name_id": "s2-6484a4650b0e6c40b4b9125c"
+    },
+    {
+      "EN": "Maple Tree Sapling",
+      "after": "Muda de Bordo",
+      "before": "Muda de Bordo",
+      "id": "s2-04658315a85c7d8345d1dcb5",
+      "verified_reward_name_id": "s2-5920f41a2bd3b55edea53077"
+    },
+    {
+      "EN": "Meatloaf",
+      "after": "Pão de Carne",
+      "before": "Pão de Carne",
+      "id": "s2-8f3e4fbe5ee87c5c95619d5e",
+      "verified_reward_name_id": "s2-1ab6d25a8a26179b33e947e1"
+    },
+    {
+      "EN": "Mushroom Soup",
+      "after": "Sopa de Cogumelos",
+      "before": "Sopa de Cogumelo",
+      "id": "s2-f82f620edb58b49b2a3e4b43",
+      "verified_reward_name_id": "s2-04d1d247a413a8cb6b0fca1d"
+    },
+    {
+      "EN": "Mushroom Tree Sapling",
+      "after": "Muda de Árvore de Cogumelo",
+      "before": "Muda de Árvore de Cogumelo",
+      "id": "s2-b7627d578913e210d18348d7",
+      "verified_reward_name_id": "s2-adbad28f66dbc5029e2bca57"
+    },
+    {
+      "EN": "Mycelium Pins",
+      "after": "Brotos de Micélio",
+      "before": "Primórdios de Micélio",
+      "id": "s2-3652814f9bb2a15b7c4db781",
+      "verified_reward_name_id": "s2-c4cc4366ac1170e7d8d5a081"
+    },
+    {
+      "EN": "Nettle Plant Seedling",
+      "after": "Muda de Planta de Urtiga",
+      "before": "Muda de Planta de Urtiga",
+      "id": "s2-eb17016816d1e3a7f762da7a",
+      "verified_reward_name_id": "s2-d1ae18a5a89276b9d58c30f1"
+    },
+    {
+      "EN": "Oak Tree Sapling",
+      "after": "Muda de Carvalho",
+      "before": "Muda de Carvalho",
+      "id": "s2-8ccf6f8d13f71e5a34313b29",
+      "verified_reward_name_id": "s2-69f2c6e42e39fd37a729a926"
+    },
+    {
+      "EN": "Onion Sprout",
+      "after": "Broto de Cebola",
+      "before": "Brotinho de Cebola",
+      "id": "s2-b9605f5f0193ea9a69976da6",
+      "verified_reward_name_id": "s2-00d5a3fc24486333f706e569"
+    },
+    {
+      "EN": "Opportunist",
+      "after": "Oportunista",
+      "before": "Oportunista",
+      "id": "s2-bed38a567b7ea32ae2c21f74",
+      "verified_reward_name_id": "s2-198e235fc526a5e3c9b83f8a"
+    },
+    {
+      "EN": "Orange Mushroom Pins",
+      "after": "Brotos de Cogumelo Laranja",
+      "before": "Primórdios de Cogumelo Laranja",
+      "id": "s2-caa409965696ecd7c3a92fe3",
+      "verified_reward_name_id": "s2-16397ec097caa23d8fb8b26e"
+    },
+    {
+      "EN": "Oven",
+      "after": "Forno",
+      "before": "Forno",
+      "id": "s2-934ca464227f3ffdd5b50364",
+      "verified_reward_name_id": "s2-7f8a945ff9f6a2f4dceac454"
+    },
+    {
+      "EN": "Paralyzing Mushroom Pins",
+      "after": "Brotos de Cogumelo Paralisante",
+      "before": "Pinos de Cogumelo Paralizante",
+      "id": "s2-233e5bf04447ce4cc8143c32",
+      "verified_reward_name_id": "s2-b15acefbd9cc4c7563bb070a"
+    },
+    {
+      "EN": "Pine Tree Sapling",
+      "after": "Muda de Pinheiro",
+      "before": "Muda de Pinheiro",
+      "id": "s2-20094bf2655d8b657bcf0a69",
+      "verified_reward_name_id": "s2-e015abc8b5e0583a82f252c8"
+    },
+    {
+      "EN": "Plowed Dirt",
+      "after": "Terra Arada",
+      "before": "Terra Arada",
+      "id": "s2-d12995839091770b2fbbf743",
+      "verified_reward_name_id": "s2-5d75999de9a23dd97c68c98e"
+    },
+    {
+      "EN": "Potato Seedling",
+      "after": "Muda de Batata",
+      "before": "Muda de Batata",
+      "id": "s2-19fc18c7ab84e1b2f7456644",
+      "verified_reward_name_id": "s2-f36136952810b3bbd805ae15"
+    },
+    {
+      "EN": "Purple Mushroom Pins",
+      "after": "Brotos de Cogumelo Roxo",
+      "before": "Pinos de Cogumelo Roxo",
+      "id": "s2-ae0084a04f39dc38abc306ae",
+      "verified_reward_name_id": "s2-a91d4663797baa7c39b62df2"
+    },
+    {
+      "EN": "Quick Growth",
+      "after": "Crescimento Rápido",
+      "before": "Crescimento Rápido",
+      "id": "s2-4d3d02fb23865c0e672f5183",
+      "verified_reward_name_id": "s2-9f660942bfd051e31df3b452"
+    },
+    {
+      "EN": "Raspberry Bush Seedling",
+      "after": "Muda de Arbusto de Framboesa",
+      "before": "Muda de Arbusto de Framboesa",
+      "id": "s2-6de9e2fa81c537caea96ed6d",
+      "verified_reward_name_id": "s2-c9379c323e2cc912eb18d179"
+    },
+    {
+      "EN": "Roast",
+      "after": "Assado",
+      "before": "Assado",
+      "id": "s2-9e0734d5740fa5476e107ede",
+      "verified_reward_name_id": "s2-2657fed07bdf6194a85b36cc"
+    },
+    {
+      "EN": "Sack of Potatoes",
+      "after": "Saco de Batatas",
+      "before": "Saco de Batatas",
+      "id": "s2-40ad8179c901dffdb2d225b5",
+      "verified_reward_name_id": "s2-2e2f9e1121635b8403b7b100"
+    },
+    {
+      "EN": "Seed Extraction",
+      "after": "Extração de Sementes",
+      "before": "Extração de Sementes",
+      "id": "s2-b478e6ed6dc2f1fea104f029",
+      "verified_reward_name_id": "s2-8ce65920a0be5a4326441400"
+    },
+    {
+      "EN": "Shepherd's Pie",
+      "after": "Torta de Pastor",
+      "before": "Torta de Pastor",
+      "id": "s2-0c743f7a29f4e940920c9b3b",
+      "verified_reward_name_id": "s2-39bbca5805beda59d7c330db"
+    },
+    {
+      "EN": "Spruce Sapling",
+      "after": "Muda de Pícea",
+      "before": "Chapéu de Palha",
+      "id": "s2-ac91c9c1c9ad49da259f8986",
+      "verified_reward_name_id": "s2-2c401e4528e432398f680062"
+    },
+    {
+      "EN": "Straw Hat",
+      "after": "Chapéu de Palha",
+      "before": "Muda de Abeto",
+      "id": "s2-c6bfd8b1d1a9de4260075ba4",
+      "verified_reward_name_id": "s2-81aa1d6e8cbf5de39cf2bd08"
+    },
+    {
+      "EN": "Strawberry Seedling",
+      "after": "Muda de Morango",
+      "before": "Muda de Morango",
+      "id": "s2-8c59aeacedb0c69584aa8e5b",
+      "verified_reward_name_id": "s2-c6d3256b27c4650db8b8e20e"
+    },
+    {
+      "EN": "Sugar Cane Seedling",
+      "after": "Muda de Cana-de-açúcar",
+      "before": "Muda de Cana-de-açúcar",
+      "id": "s2-f64a7211fb22741d935047e6",
+      "verified_reward_name_id": "s2-977cdf83c186fa1c5adc0f9a"
+    },
+    {
+      "EN": "Tree Sapling",
+      "after": "Muda de Árvore",
+      "before": "Muda de Árvore",
+      "id": "s2-a86bf0b8aa2e3360923b6c63",
+      "verified_reward_name_id": "s2-207490ba27b1d18d57401c6c"
+    },
+    {
+      "EN": "Watermelon Seedling",
+      "after": "Muda de Melancia",
+      "before": "Muda de Melancia",
+      "id": "s2-9921cae2f6c274d25fdfb159",
+      "verified_reward_name_id": "s2-a0bc146a45051946f00f9f76"
+    },
+    {
+      "EN": "Wine",
+      "after": "Vinho",
+      "before": "Vinho",
+      "id": "s2-960387a52f35165318407141",
+      "verified_reward_name_id": "s2-0fa66c5b4c1983ac30a8f65a"
+    },
+    {
+      "EN": "Yew Tree Sapling",
+      "after": "Muda de Teixo",
+      "before": "Muda de Teixo",
+      "id": "s2-9cb0cbcc62ea9fe840832e68",
+      "verified_reward_name_id": "s2-ce300aaee25975d1c8ded6cd"
+    },
+    {
+      "EN": "Adamantine Ore",
+      "after": "Minério de Adamantita",
+      "before": "Minério de Adamantina",
+      "id": "s2-431303343b41b33fc3110b9f",
+      "verified_reward_name_id": "s2-ae7264e3af7362e36ad9cc33"
+    },
+    {
+      "EN": "Alchemic Fire",
+      "after": "Fogo Alquímico",
+      "before": "Fogo Alquímico",
+      "id": "s2-c4f31b4296cdb3479bc15e9e",
+      "verified_reward_name_id": "s2-4ebf21ebdd086b9d266f7227"
+    },
+    {
+      "EN": "Alexandrite",
+      "after": "Alexandrita",
+      "before": "Alexandrita",
+      "id": "s2-1cac0c32598d3c9464e7065e",
+      "verified_reward_name_id": "s2-b38dbd8825c24c098041b00e"
+    },
+    {
+      "EN": "Antidote Vial",
+      "after": "Frasco de Antídoto",
+      "before": "Frasco de Antídoto",
+      "id": "s2-400b62587d5ff833ad1cfb1e",
+      "verified_reward_name_id": "s2-0a0833115721376b2b5b3b4c"
+    },
+    {
+      "EN": "Better Bandage",
+      "after": "Bandagem Melhor",
+      "before": "Bandagem Aprimorada",
+      "id": "s2-61d02c9168c02f047412f1c7",
+      "verified_reward_name_id": "s2-4d9551f445e7b2188cd7282c"
+    },
+    {
+      "EN": "Bloodstone",
+      "after": "Pedra de Sangue",
+      "before": "Pedra de Sangue",
+      "id": "s2-be4070cee03e16e3154cbe35",
+      "verified_reward_name_id": "s2-00085ddab658fda0d5c117c4"
+    },
+    {
+      "EN": "Bone Cauldron",
+      "after": "Caldeirão de Ossos",
+      "before": "Caldeirão de Osso",
+      "id": "s2-fd2e172baacf5a12c38f79bd",
+      "verified_reward_name_id": "s2-e328645caea9733a7c437eba"
+    },
+    {
+      "EN": "Book Of Alchemy",
+      "after": "Livro de Alquimia",
+      "before": "Livro de Alquimia",
+      "id": "s2-2a58927510af50490108684f",
+      "verified_reward_name_id": "s2-153f59366e3549677e212adf"
+    },
+    {
+      "EN": "Carve",
+      "after": "Retalhar",
+      "before": "Entalhar",
+      "id": "s2-c56a0f545554f58e12be19be",
+      "verified_reward_name_id": "s2-7206f5cc1ce696c636fbf3ed"
+    },
+    {
+      "EN": "Cashmere",
+      "after": "Caxemira",
+      "before": "Caxemira",
+      "id": "s2-46942402da9b0abf83c67765",
+      "verified_reward_name_id": "s2-eb72bd7979f612486ea8533f"
+    },
+    {
+      "EN": "Cleansing Potion",
+      "after": "Poção de Purificação",
+      "before": "Poção Purificadora",
+      "id": "s2-57ab4e86fc2f7f70cb577e84",
+      "verified_reward_name_id": "s2-d9ea0404ba9c26dbd9eb0d5c"
+    },
+    {
+      "EN": "Coral",
+      "after": "Coral",
+      "before": "Coral",
+      "id": "s2-573c8092f9682217d94e4acf",
+      "verified_reward_name_id": "s2-749faa5644401685d04d9150"
+    },
+    {
+      "EN": "Dust Bomb",
+      "after": "Bomba de Poeira",
+      "before": "Bomba de Pó",
+      "id": "s2-0c6ee2ebf47647c051c878da",
+      "verified_reward_name_id": "s2-a74d5ac2dcc2a22ec7d87e36"
+    },
+    {
+      "EN": "Ebony Log",
+      "after": "Tronco de Ébano",
+      "before": "Tronco de Ébano",
+      "id": "s2-58fc4f2a30f4f87a20a71b3c",
+      "verified_reward_name_id": "s2-3d4847e0e91ff8c1542cc6c7"
+    },
+    {
+      "EN": "Elixir Of Power",
+      "after": "Elixir do Poder",
+      "before": "Elixir de Poder",
+      "id": "s2-b4131f519e717bd5b30e2acf",
+      "verified_reward_name_id": "s2-562189c53740c16b2c648fad"
+    },
+    {
+      "EN": "Elm Log",
+      "after": "Tronco de Olmo",
+      "before": "Tronco de Olmo",
+      "id": "s2-d35147fc7613a7cf56aa7913",
+      "verified_reward_name_id": "s2-fb2af82d4971b6c82e9ff8ef"
+    },
+    {
+      "EN": "Empty Vial",
+      "after": "Frasco Vazio",
+      "before": "Frasco Vazio",
+      "id": "s2-25bd5f33f107d791b82edcf9",
+      "verified_reward_name_id": "s2-9f31747e84f03f77888d7545"
+    },
+    {
+      "EN": "Exploding Bomb",
+      "after": "Bomba Explosiva",
+      "before": "Bomba Explosiva",
+      "id": "s2-e70baa368f11da1e7f2540d8",
+      "verified_reward_name_id": "s2-83e7068b7d8d40865c50c3d8"
+    },
+    {
+      "EN": "Fertility Potion",
+      "after": "Poção da Fertilidade",
+      "before": "Poção de Fertilidade",
+      "id": "s2-22f1aa49cf61f68f74c09136",
+      "verified_reward_name_id": "s2-ade1a9e9913b34dc3ce9acce"
+    },
+    {
+      "EN": "Flash Bomb",
+      "after": "Bomba Cegante",
+      "before": "Bomba Cegante",
+      "id": "s2-b4e666c7c16fedf9dbecfca5",
+      "verified_reward_name_id": "s2-58f6678bf38e4b1752cf0db6"
+    },
+    {
+      "EN": "Freezing Bomb",
+      "after": "Bomba Congelante",
+      "before": "Bomba Congelante",
+      "id": "s2-c4ac94bb29e10753ed936bdb",
+      "verified_reward_name_id": "s2-0276c57f523adc4526b57189"
+    },
+    {
+      "EN": "Freezing Vial",
+      "after": "Frasco Congelante",
+      "before": "Frasco Congelante",
+      "id": "s2-63c69f465f151510e5031cb9",
+      "verified_reward_name_id": "s2-901bf1e6d1a91ac5b3689986"
+    },
+    {
+      "EN": "Haste Potion",
+      "after": "Poção de Pressa",
+      "before": "Poção de Pressa",
+      "id": "s2-fb5b73e667d92a97ee12050a",
+      "verified_reward_name_id": "s2-c40c66dbe6278761061a479d"
+    },
+    {
+      "EN": "Improved Exploding Bomb",
+      "after": "Bomba Explosiva Aprimorada",
+      "before": "Bomba Explosiva Aprimorada",
+      "id": "s2-4ec9c5e9efd0d72033ae9ff3",
+      "verified_reward_name_id": "s2-8cd720884595a275f4970f5d"
+    },
+    {
+      "EN": "Improved Haste Potion",
+      "after": "Poção de Pressa Aprimorada",
+      "before": "Poção de Pressa Aprimorada",
+      "id": "s2-179cb5419d850aec61a3673c",
+      "verified_reward_name_id": "s2-c75f537ca1712e3fe1d2b01a"
+    },
+    {
+      "EN": "Lead Ingot",
+      "after": "Lingote de Chumbo",
+      "before": "Lingote de Chumbo",
+      "id": "s2-9b8dec58fe4124f72f27da45",
+      "verified_reward_name_id": "s2-b8d75137611ff959f8ea4e8a"
+    },
+    {
+      "EN": "Linden Log",
+      "after": "Tronco de Tília",
+      "before": "Tronco de Tília",
+      "id": "s2-af7179b3b2900f51f78f4fa8",
+      "verified_reward_name_id": "s2-155fd10adbda50a8ae6b4543"
+    },
+    {
+      "EN": "Lucky Crafting",
+      "after": "Artesanato Sortudo",
+      "before": "Artesanato Sortudo",
+      "id": "s2-d182910744f14dcac6390062",
+      "verified_reward_name_id": "s2-10a640eecccb011b00757161"
+    },
+    {
+      "EN": "Platinum Ingot",
+      "after": "Lingote de Platina",
+      "before": "Lingote de Platina",
+      "id": "s2-d933a70fa458e5a69c52d33b",
+      "verified_reward_name_id": "s2-b4acc54b69c7e85bb7037ab5"
+    },
+    {
+      "EN": "Potion Of All Seeing",
+      "after": "Poção de Visão Total",
+      "before": "Poção de Visão Total",
+      "id": "s2-f6e37a19355ff494753986c0",
+      "verified_reward_name_id": "s2-cf4376fe1efc93dff05b1078"
+    },
+    {
+      "EN": "Potion Of Better Sight",
+      "after": "Poção de Visão Aprimorada",
+      "before": "Poção de Visão Aprimorada",
+      "id": "s2-155389cc6b33a67c7fe42748",
+      "verified_reward_name_id": "s2-b51ae0f55a6dd72993c6524e"
+    },
+    {
+      "EN": "Potion Of Death Immunity",
+      "after": "Poção de Imunidade à Morte",
+      "before": "Poção de Imunidade à Morte",
+      "id": "s2-cb27843cbd7cd2425b6a160f",
+      "verified_reward_name_id": "s2-0c96c8bdee794b975be91da3"
+    },
+    {
+      "EN": "Potion Of Electrical Resistance",
+      "after": "Poção de Resistência Elétrica",
+      "before": "Poção de Resistência Elétrica",
+      "id": "s2-f2731e1dc7deedd64381058e",
+      "verified_reward_name_id": "s2-27890d8253f9ba6c082927e9"
+    },
+    {
+      "EN": "Potion Of Fire Immunity",
+      "after": "Poção de Imunidade ao Fogo",
+      "before": "Poção de Imunidade ao Fogo",
+      "id": "s2-fd59c4a2a33123a0c3c73a96",
+      "verified_reward_name_id": "s2-62f0cf575c6d2fbb7cb1f951"
+    },
+    {
+      "EN": "Potion Of Frost Resistance",
+      "after": "Poção de Resistência à Geada",
+      "before": "Poção de Resistência à Geada",
+      "id": "s2-c2b9028a0304b7c6bf3c8b11",
+      "verified_reward_name_id": "s2-539e9fdda0c4eaccd48d54ca"
+    },
+    {
+      "EN": "Potion Of Holy Resistance",
+      "after": "Poção de Resistência ao Sagrado",
+      "before": "Poção de Resistência ao Sagrado",
+      "id": "s2-3301f3f497f6c7202fff4c45",
+      "verified_reward_name_id": "s2-f869f03c489ab28c8a8f353e"
+    },
+    {
+      "EN": "Potion Of Nature Resistance",
+      "after": "Poção de Resistência à Natureza",
+      "before": "Poção de Resistência à Natureza",
+      "id": "s2-4d29157d7d7c7ebe1bfaf2ba",
+      "verified_reward_name_id": "s2-b0d60c6a70651ffa1816ba25"
+    },
+    {
+      "EN": "Potion Of Physical Resistance",
+      "after": "Poção de Resistência Física",
+      "before": "Poção de Resistência Física",
+      "id": "s2-3285a7bc60df8b59283df48c",
+      "verified_reward_name_id": "s2-811860378c4ce0b21686d68a"
+    },
+    {
+      "EN": "Rainbow Bomb",
+      "after": "Bomba Arco-íris",
+      "before": "Bomba Arco-íris",
+      "id": "s2-81d409096ad56b7af55bc0c8",
+      "verified_reward_name_id": "s2-6bd18bd611a249a7df034108"
+    },
+    {
+      "EN": "Raise Bone Wraith",
+      "after": "Criar Espectro Ósseo",
+      "before": "Evocar Espectro de Osso",
+      "id": "s2-d155844328f55ca367b24f8c",
+      "verified_reward_name_id": "s2-6c80891ed02e466e8e3b877e"
+    },
+    {
+      "EN": "Red Diamond",
+      "after": "Diamante Vermelho",
+      "before": "Diamante Vermelho",
+      "id": "s2-c784a307e96f51774679ecfd",
+      "verified_reward_name_id": "s2-c6df86c7e0613f646e0eee12"
+    },
+    {
+      "EN": "Shock Bomb",
+      "after": "Bomba de Choque",
+      "before": "Bomba de Choque",
+      "id": "s2-1191fa711b7b366570c2586c",
+      "verified_reward_name_id": "s2-b3e3c23a46b3dcabb0477444"
+    },
+    {
+      "EN": "Shrapnel Bomb",
+      "after": "Bomba de Estilhaços",
+      "before": "Bomba de Estilhaços",
+      "id": "s2-cb11c5fed548877fe8afaf5a",
+      "verified_reward_name_id": "s2-27932927a614a194d93ccf46"
+    },
+    {
+      "EN": "Smoke Bomb",
+      "after": "Bomba de Fumaça",
+      "before": "Bomba de Fumaça",
+      "id": "s2-8db3558f1084422c01033738",
+      "verified_reward_name_id": "s2-0475f73cb19e6856573347c8"
+    },
+    {
+      "EN": "Strong Drink",
+      "after": "Bebida Forte",
+      "before": "Bebida Forte",
+      "id": "s2-4912008296334b5a1a828189",
+      "verified_reward_name_id": "s2-49a45d10e7f14ddcf4f15bc3"
+    },
+    {
+      "EN": "Thorns Tonic",
+      "after": "Tônico de Espinhos",
+      "before": "Tônico de Espinhos",
+      "id": "s2-64f4be4bbb4e43639f751ce3",
+      "verified_reward_name_id": "s2-cc864f84d94a903a690f76dd"
+    },
+    {
+      "EN": "Titanium Ingot",
+      "after": "Lingote de Titânio",
+      "before": "Lingote de Titânio",
+      "id": "s2-8ad0efb6bc189cd8e9cfe3a1",
+      "verified_reward_name_id": "s2-2e3a924372f29015eca0144b"
+    },
+    {
+      "EN": "Transform Werewolf",
+      "after": "Transformar em Lobisomem",
+      "before": "Transformar em Lobisomem",
+      "id": "s2-e4d1314bb0d860968e95716d",
+      "verified_reward_name_id": "s2-01cdd624e57d80d23a7bdcda"
+    },
+    {
+      "EN": "Transmutation Oil",
+      "after": "Óleo de Transmutação",
+      "before": "Óleo de Transmutação",
+      "id": "s2-1e52b44a7c42ab4cb729dc5a",
+      "verified_reward_name_id": "s2-aa47bbd30f81155221eb289c"
+    },
+    {
+      "EN": "Ancient Shield",
+      "after": "Escudo Antigo",
+      "before": "Escudo Antigo",
+      "id": "s2-5b633c93564fafcee9358bdc",
+      "verified_reward_name_id": "s2-36ecc9ad17141fbb4964d5ad"
+    },
+    {
+      "EN": "Armet Helmet",
+      "after": "Elmo Armet",
+      "before": "Elmo Armet",
+      "id": "s2-5ba326135e49c40157ff1d06",
+      "verified_reward_name_id": "s2-a9eb4ce573e209b6e490ecd5"
+    },
+    {
+      "EN": "Armguards",
+      "after": "Guarda-braços",
+      "before": "Braçadeiras",
+      "id": "s2-4a2ae98012c4e76d8514c64d",
+      "verified_reward_name_id": "s2-f3f71864373bcfdeb457c9b9"
+    },
+    {
+      "EN": "Armor Stand",
+      "after": "Suporte de Armadura",
+      "before": "Suporte de Armadura",
+      "id": "s2-649c1700448a3ff85441576e",
+      "verified_reward_name_id": "s2-6155db813ec4690ce6d3703f"
+    },
+    {
+      "EN": "Bassinet Helmet",
+      "after": "Elmo Bacinete",
+      "before": "Bassinet Helmet",
+      "id": "s2-b5e3f2a38dfba98a79ac29f3",
+      "verified_reward_name_id": "s2-dc3b14ad1a5f0dbc365b478a"
+    },
+    {
+      "EN": "Bone Armor",
+      "after": "Armadura de Osso",
+      "before": "Armadura de Osso",
+      "id": "s2-ae52e80cac9f7680f6adbca5",
+      "verified_reward_name_id": "s2-af1c917f077263bfb4f93bfd"
+    },
+    {
+      "EN": "Bone Bracers",
+      "after": "Braçadeiras de Osso",
+      "before": "Braçadeiras de Osso",
+      "id": "s2-b45bf646342ee8326edf56f6",
+      "verified_reward_name_id": "s2-17d6ceccba7567b9481dd900"
+    },
+    {
+      "EN": "Bone Greaves",
+      "after": "Grevas de Osso",
+      "before": "Grevas de Osso",
+      "id": "s2-ee3695308a1e71f77e36d1ae",
+      "verified_reward_name_id": "s2-b833ae194e67c53ac702e307"
+    },
+    {
+      "EN": "Bone Helmet",
+      "after": "Elmo de Osso",
+      "before": "Elmo de Osso",
+      "id": "s2-314869adeddd344cf0d5b966",
+      "verified_reward_name_id": "s2-e3011244ea7c10b56ce75a23"
+    },
+    {
+      "EN": "Bone Pauldron",
+      "after": "Espaldeira de Osso",
+      "before": "Pauldrão de Osso",
+      "id": "s2-442449f9a140e544fdc99f98",
+      "verified_reward_name_id": "s2-41e4c586bc4d465345129ba9"
+    },
+    {
+      "EN": "Bone Shard Armor",
+      "after": "Armadura de Estilhaços de Osso",
+      "before": "Armadura de Estilhaços de Osso",
+      "id": "s2-c2737c891a8169457fbc3861",
+      "verified_reward_name_id": "s2-30310dbe98546e35147816a7"
+    },
+    {
+      "EN": "Bone Shin Armor",
+      "after": "Armadura de Canela de Osso",
+      "before": "Armadura de Canela de Osso",
+      "id": "s2-3db8a5c6165b053e3f498b99",
+      "verified_reward_name_id": "s2-95420c53a23302f3aecb390a"
+    },
+    {
+      "EN": "Book Of Armorsmithing",
+      "after": "Livro de Armorearia",
+      "before": "Livro de Armoreiro",
+      "id": "s2-cee427ea32d012795e8adc91",
+      "verified_reward_name_id": "s2-475efaa51fae75c75f672595"
+    },
+    {
+      "EN": "Bracers",
+      "after": "Braçadeiras",
+      "before": "Braçadeiras",
+      "id": "s2-660ab2638b8870615d88e5e1",
+      "verified_reward_name_id": "s2-8bb5fa94d8f4a2743faf6967"
+    },
+    {
+      "EN": "Breastplate",
+      "after": "Peitoral",
+      "before": "Peitoral",
+      "id": "s2-de861aa8cb0884ce3559acca",
+      "verified_reward_name_id": "s2-dccbe59f723bb50558db816e"
+    },
+    {
+      "EN": "Buckler",
+      "after": "Broquel",
+      "before": "Broquel",
+      "id": "s2-1a429396f214ed3f950b4021",
+      "verified_reward_name_id": "s2-1f9f41b47704292739fc90f2"
+    },
+    {
+      "EN": "Chainmail",
+      "after": "Cota de Malha",
+      "before": "Cota de Malha",
+      "id": "s2-4e25a3703dab64784b89720c",
+      "verified_reward_name_id": "s2-d94515aa0833c898160907c7"
+    },
+    {
+      "EN": "Chainmail Coif",
+      "after": "Coifa de Malha",
+      "before": "Coifa de Cota de Malha",
+      "id": "s2-44d0df41c80121bceed6fb90",
+      "verified_reward_name_id": "s2-f5ce95b27ea822c552547cf7"
+    },
+    {
+      "EN": "Chainmail Pants",
+      "after": "Calças de Cota de Malha",
+      "before": "Calças de Cota de Malha",
+      "id": "s2-3bb17d5d9a54c19bd3d952b2",
+      "verified_reward_name_id": "s2-3c97bfc000443e80af93d511"
+    },
+    {
+      "EN": "Clogs",
+      "after": "Tamancos",
+      "before": "Tamancos",
+      "id": "s2-68410f0f3af3cbccd43b0680",
+      "verified_reward_name_id": "s2-0cf78c33ce1f5a2720410abd"
+    },
+    {
+      "EN": "Crown",
+      "after": "Coroa",
+      "before": "Coroa",
+      "id": "s2-428aee60950e1faab6959922",
+      "verified_reward_name_id": "s2-f92f56529e605adb89c1a777"
+    },
+    {
+      "EN": "Crown Armor",
+      "after": "Armadura Real",
+      "before": "Armadura da Coroa",
+      "id": "s2-abb0ea0cc1eadeaf8c264b40",
+      "verified_reward_name_id": "s2-87fab4d6868ed0e365e5f6ef"
+    },
+    {
+      "EN": "Crown Legs",
+      "after": "Perneiras da Coroa",
+      "before": "Pernas da Coroa",
+      "id": "s2-447444f6dad4515a019230be",
+      "verified_reward_name_id": "s2-aaef68914ea7c5dbfe9a923e"
+    },
+    {
+      "EN": "Dark Armor",
+      "after": "Armadura Sombria",
+      "before": "Armadura Sombria",
+      "id": "s2-140caa0c9fec1153b8e49907",
+      "verified_reward_name_id": "s2-3da43565fc3385160c592542"
+    },
+    {
+      "EN": "Decorated Bracers",
+      "after": "Braçadeiras Decoradas",
+      "before": "Braçadeiras Decoradas",
+      "id": "s2-f6dc3365686332434718f292",
+      "verified_reward_name_id": "s2-dbd79876a05268bb2f06f7f7"
+    },
+    {
+      "EN": "Decorated Oval Shield",
+      "after": "Escudo Oval Decorado",
+      "before": "Escudo Oval Decorado",
+      "id": "s2-4848f1d0eec5679cece1cea8",
+      "verified_reward_name_id": "s2-cc5988e9418d01fed86c5958"
+    },
+    {
+      "EN": "Decorated Shield",
+      "after": "Escudo Decorado",
+      "before": "Escudo Decorado",
+      "id": "s2-ac5e8226bd550aad7932efd2",
+      "verified_reward_name_id": "s2-e3638d5275b2b4d6cd2f2051"
+    },
+    {
+      "EN": "Diadem",
+      "after": "Diadema",
+      "before": "Diadema",
+      "id": "s2-bfbd439c1c6b2d348642246e",
+      "verified_reward_name_id": "s2-8818cc52cd25b289b3a25891"
+    },
+    {
+      "EN": "Emperor's Treasury",
+      "after": "Tesouro do Imperador",
+      "before": "Tesouro do Imperador",
+      "id": "s2-66ec99dcd62521927d952096",
+      "verified_reward_name_id": "s2-219780b481fd8e3d30c4adc8"
+    },
+    {
+      "EN": "Great Helmet",
+      "after": "Grande Elmo",
+      "before": "Elmo Grande",
+      "id": "s2-c4f792ab274880550ac42500",
+      "verified_reward_name_id": "s2-3406cc76df743b2b644cbc7c"
+    },
+    {
+      "EN": "Greaves",
+      "after": "Grevas",
+      "before": "Grebas",
+      "id": "s2-2c79d51088a592b37a59f282",
+      "verified_reward_name_id": "s2-5dda5ba7f8b7f6fac54d99c1"
+    },
+    {
+      "EN": "Head Candle",
+      "after": "Vela de Cabeça",
+      "before": "Vela na Cabeça",
+      "id": "s2-93e6ed13adb6076142713d97",
+      "verified_reward_name_id": "s2-faf1ca93e661bbf844856fcb"
+    },
+    {
+      "EN": "Heavy Armor",
+      "after": "Armadura Pesada",
+      "before": "Armadura Pesada",
+      "id": "s2-d30bf7c4c49980bdfeb33873",
+      "verified_reward_name_id": "s2-f5ce75f81221ba23c4c4ddd4"
+    },
+    {
+      "EN": "Helmet",
+      "after": "Capacete",
+      "before": "Elmo",
+      "id": "s2-931987f23e6ed058660f11d6",
+      "verified_reward_name_id": "s2-8785a09a16503504d968eabb"
+    },
+    {
+      "EN": "Holy Shield",
+      "after": "Escudo Sagrado",
+      "before": "Escudo Sagrado",
+      "id": "s2-f9f6ec9c56cb849ac7674d2f",
+      "verified_reward_name_id": "s2-1e90f4f8c940d61acc95bffb"
+    },
+    {
+      "EN": "Kite Shield",
+      "after": "Escudo Pipa",
+      "before": "Escudo Pipa",
+      "id": "s2-d253f07b93dbe1d87fb09e62",
+      "verified_reward_name_id": "s2-638e2494e847d7f780d3b340"
+    },
+    {
+      "EN": "Knight Shield",
+      "after": "Escudo de Cavaleiro",
+      "before": "Escudo de Cavaleiro",
+      "id": "s2-9a4059319e75adbaa310a7cb",
+      "verified_reward_name_id": "s2-e2cd5b8055f8402038215515"
+    },
+    {
+      "EN": "Leg Guards",
+      "after": "Perneiras",
+      "before": "Perneiras",
+      "id": "s2-671a9c123b51ec61c0869cfc",
+      "verified_reward_name_id": "s2-706608780ef47f1663283f5e"
+    },
+    {
+      "EN": "Manicles",
+      "after": "Algemas",
+      "before": "Manilhas",
+      "id": "s2-273a9fccd38a08501b6f766b",
+      "verified_reward_name_id": "s2-d201d0728a3820981ef8911d"
+    },
+    {
+      "EN": "Medusa Shield",
+      "after": "Escudo da Medusa",
+      "before": "Escudo da Medusa",
+      "id": "s2-3e0583f6e35a00d51b569929",
+      "verified_reward_name_id": "s2-7d882430baa8aab99e4799ec"
+    },
+    {
+      "EN": "Metal Bra",
+      "after": "Sutiã de Metal",
+      "before": "Sutiã de Metal",
+      "id": "s2-903c6c3d99fd169775a9b019",
+      "verified_reward_name_id": "s2-99cab4320be0bb366d62036d"
+    },
+    {
+      "EN": "Moccasins",
+      "after": "Mocassins",
+      "before": "Mocassins",
+      "id": "s2-a0186fd8e3e1d03861205ff9",
+      "verified_reward_name_id": "s2-8916fa6691ac7d0df0176f3d"
+    },
+    {
+      "EN": "Nasal Helmet",
+      "after": "Elmo Nasal",
+      "before": "Elmo Nasal",
+      "id": "s2-4e5bd378b3cf07cc432d7163",
+      "verified_reward_name_id": "s2-0221521600aa6bc571ead07d"
+    },
+    {
+      "EN": "Noble Armor",
+      "after": "Armadura Nobre",
+      "before": "Armadura Nobre",
+      "id": "s2-1e221130a58129f3aac9b841",
+      "verified_reward_name_id": "s2-7c2078f023f6fb2b3a732cd4"
+    },
+    {
+      "EN": "Ornament Shield",
+      "after": "Escudo Ornamentado",
+      "before": "Escudo Ornamentado",
+      "id": "s2-c010e341d97e0f045ea48c6b",
+      "verified_reward_name_id": "s2-90061484c854fbf5a0ede849"
+    },
+    {
+      "EN": "Plate Boots",
+      "after": "Botas de Placas",
+      "before": "Botas de Placa",
+      "id": "s2-a9ead5445e89f0d84c81e7c9",
+      "verified_reward_name_id": "s2-f329206328b4a4d65b0fb64f"
+    },
+    {
+      "EN": "Plate Gloves",
+      "after": "Luvas de Placas",
+      "before": "Luvas de Placa",
+      "id": "s2-c484bc6f3df26be0f2f7f8bf",
+      "verified_reward_name_id": "s2-880dcc81d7c53010f14d6fe6"
+    },
+    {
+      "EN": "Plate Greaves",
+      "after": "Grevas de Placas",
+      "before": "Grebas de Placa",
+      "id": "s2-452593b51f6efd1b4e2e5d08",
+      "verified_reward_name_id": "s2-3a9e8e5b614e396f5ca8c9ec"
+    },
+    {
+      "EN": "Poleyn Armor",
+      "after": "Armadura de Joelheira",
+      "before": "Armadura de Joelheira",
+      "id": "s2-ff827ee2fe2e571f7107de5d",
+      "verified_reward_name_id": "s2-5aecd3d7680d2e5e5e9bded6"
+    },
+    {
+      "EN": "Ring Armor",
+      "after": "Armadura de Anéis",
+      "before": "Armadura de Anéis",
+      "id": "s2-1e318b9b70962e2eed358299",
+      "verified_reward_name_id": "s2-882679c78eba68591d63e040"
+    },
+    {
+      "EN": "Round Shield",
+      "after": "Escudo Redondo",
+      "before": "Escudo Redondo",
+      "id": "s2-aac92de7671f26aac6bf7ffd",
+      "verified_reward_name_id": "s2-2d812a2efbdf2afe1757a2c1"
+    },
+    {
+      "EN": "Sabatons",
+      "after": "Escarpes",
+      "before": "Sabatons",
+      "id": "s2-3a6d0de82b7b98e2cb5e2259",
+      "verified_reward_name_id": "s2-bc60f5436097a21c1148a4f5"
+    },
+    {
+      "EN": "Scale Armor",
+      "after": "Armadura de Escamas",
+      "before": "Armadura de Escamas",
+      "id": "s2-0002dfece5a992a0a8acbe41",
+      "verified_reward_name_id": "s2-eb59204373cb898117d3ee2b"
+    },
+    {
+      "EN": "Scale Boots",
+      "after": "Botas de Escamas",
+      "before": "Botas de Escamas",
+      "id": "s2-50590cbc89d53d12abe18f79",
+      "verified_reward_name_id": "s2-ff276654caeba883e0142689"
+    },
+    {
+      "EN": "Scale Bracers",
+      "after": "Braçadeiras de Escamas",
+      "before": "Braçadeiras de Escamas",
+      "id": "s2-51391c244a148f1d1f3fd81c",
+      "verified_reward_name_id": "s2-234d9be6cffbe0e5dec5f5ae"
+    },
+    {
+      "EN": "Scale Helmet",
+      "after": "Elmo de Escamas",
+      "before": "Elmo de Escamas",
+      "id": "s2-da147c0a8768b0db0c70b8b1",
+      "verified_reward_name_id": "s2-bcc743348e95b2d6b88a3a77"
+    },
+    {
+      "EN": "Scale Legs",
+      "after": "Perneiras de Escamas",
+      "before": "Pernas de Escamas",
+      "id": "s2-7959aa136e192bc2d3472f3c",
+      "verified_reward_name_id": "s2-3b3319f521000e4e03a0f1ec"
+    },
+    {
+      "EN": "Scale Shield",
+      "after": "Escudo de Escamas",
+      "before": "Escudo de Escamas",
+      "id": "s2-22400e071023e186b248db81",
+      "verified_reward_name_id": "s2-559c94133041a35462e4ed29"
+    },
+    {
+      "EN": "Fit",
+      "after": "Em Forma",
+      "before": "Em Forma",
+      "id": "s2-d564db33532abf6535cd4e5e",
+      "verified_reward_name_id": "s2-058ce5298c8b19fc62a3b60e"
+    },
+    {
+      "EN": "Mule",
+      "after": "Mula",
+      "before": "Mula",
+      "id": "s2-41dc1def6adbc33d809b54f3",
+      "verified_reward_name_id": "s2-028825214edf7a4cf71442bd"
+    },
+    {
+      "EN": "Speedy Recovery",
+      "after": "Recuperação Veloz",
+      "before": "Recuperação Rápida",
+      "id": "s2-786286dbfb81c71440b81fa2",
+      "verified_reward_name_id": "s2-da00c8f4005f4f717b88f6cb"
+    },
+    {
+      "EN": "Swift Hit",
+      "after": "Golpe Veloz",
+      "before": "Golpe Veloz",
+      "id": "s2-edd6cdd5c409b7b0e383cfac",
+      "verified_reward_name_id": "s2-94e8e780f516d7f1f0ad8617"
+    },
+    {
+      "EN": "Swift Movement",
+      "after": "Movimento Ágil",
+      "before": "Movimento Veloz",
+      "id": "s2-65dc5a4d76630565d0403244",
+      "verified_reward_name_id": "s2-391a1646cf479579faaa839b"
+    },
+    {
+      "EN": "Workhorse",
+      "after": "Trabalhador Incansável",
+      "before": "Cavalo de Trabalho",
+      "id": "s2-3c92c4bc2287136fb6bcf69b",
+      "verified_reward_name_id": "s2-fc69f9a9fc75d25550e2eba2"
+    },
+    {
+      "EN": "Frenzy",
+      "after": "Frenesi",
+      "before": "Fúria",
+      "id": "s2-a089ae55674dfa52e7ef1251",
+      "verified_reward_name_id": "s2-011b5c5d669375718ae40b7d"
+    },
+    {
+      "EN": "Hook Pull",
+      "after": "Puxão de Gancho",
+      "before": "Puxão de Gancho",
+      "id": "s2-e822a8a0699d5a737d7587e3",
+      "verified_reward_name_id": "s2-25b1fdb881caff71a1a4f6f4"
+    },
+    {
+      "EN": "Lethal Renewal",
+      "after": "Renovação Letal",
+      "before": "Renovação Letal",
+      "id": "s2-ff2b9a79b9e7735dad4ee1c5",
+      "verified_reward_name_id": "s2-136f28a0655b4e8a66d949f3"
+    },
+    {
+      "EN": "Pierce Armor",
+      "after": "Perfuração de Armadura",
+      "before": "Perfurar Armadura",
+      "id": "s2-404c0e4eb03301114bcd121b",
+      "verified_reward_name_id": "s2-4fa67fd9e50903d8fc2ebfdd"
+    },
+    {
+      "EN": "Strong Grip",
+      "after": "Pegada Firme",
+      "before": "Aperto Forte",
+      "id": "s2-a882f4745b541d087eab8de4",
+      "verified_reward_name_id": "s2-ea5551646840cc4de7d8cd44"
+    },
+    {
+      "EN": "Swift Woodcutting",
+      "after": "Corte de Madeira Veloz",
+      "before": "Corte de Madeira Rápido",
+      "id": "s2-a8da653c402dd390937851fa",
+      "verified_reward_name_id": "s2-d8a6e8447c28ff4dc1f23a60"
+    },
+    {
+      "EN": "Whirlwind",
+      "after": "Redemoinho",
+      "before": "Redemoinho",
+      "id": "s2-a96cdf3c69838b86c3b7634f",
+      "verified_reward_name_id": "s2-84bb82b4431b73440f2fa068"
+    },
+    {
+      "EN": "Angon",
+      "after": "Angon",
+      "before": "Angon",
+      "id": "s2-d12419d441f48e80a2d21bd3",
+      "verified_reward_name_id": "s2-81d7cd78fbaece07309a718a"
+    },
+    {
+      "EN": "Bare Bow",
+      "after": "Arco Simples",
+      "before": "Arco Simples",
+      "id": "s2-9f12dd62aef13f7d02c7c645",
+      "verified_reward_name_id": "s2-6fe4ca72b97ffaef7c0f10d6"
+    },
+    {
+      "EN": "Book Of Carpentry",
+      "after": "Livro da Carpintaria",
+      "before": "Livro de Carpintaria",
+      "id": "s2-3e4f5aa9ff1871c1c6396312",
+      "verified_reward_name_id": "s2-c668fcefbcf13095c2aaf0cb"
+    },
+    {
+      "EN": "Bookcase",
+      "after": "Estante",
+      "before": "Estante",
+      "id": "s2-03d340c94e7df54b6793b1cc",
+      "verified_reward_name_id": "s2-634c69dda3f68a4be35d2b39"
+    },
+    {
+      "EN": "Boomerang",
+      "after": "Bumerangue",
+      "before": "Bumerangue",
+      "id": "s2-a7b6de79750f8131fac27118",
+      "verified_reward_name_id": "s2-f54a7c9b84c665e19b9ba2cd"
+    },
+    {
+      "EN": "Bow",
+      "after": "Arco",
+      "before": "Arco",
+      "id": "s2-777edd0557098632e39e7d84",
+      "verified_reward_name_id": "s2-d33020e0e899c21f34477fde"
+    },
+    {
+      "EN": "Cabinet",
+      "after": "Armário",
+      "before": "Armário de Exposição",
+      "id": "s2-1b0dde5a9d4d078e4c1c921c",
+      "verified_reward_name_id": "s2-95ab326136f9926ff29aaef5"
+    },
+    {
+      "EN": "Composite Bow",
+      "after": "Arco Composto",
+      "before": "Arco Composto",
+      "id": "s2-d000a8c086d3e723eedf73bd",
+      "verified_reward_name_id": "s2-a8a60732924055f44c6a6fbf"
+    },
+    {
+      "EN": "Compound Crossbow",
+      "after": "Besta Composta",
+      "before": "Besta Composta",
+      "id": "s2-e50712d0e1094d3979330876",
+      "verified_reward_name_id": "s2-e5f0643e8f043f14a512266e"
+    },
+    {
+      "EN": "Cracking Spear",
+      "after": "Lança Estalante",
+      "before": "Lança Rachadora",
+      "id": "s2-a155f0f4acc9d483a1b95a91",
+      "verified_reward_name_id": "s2-9e12321c7e272d47d26a9279"
+    },
+    {
+      "EN": "Crossbow",
+      "after": "Besta",
+      "before": "Besta",
+      "id": "s2-5c3e195cd9b3aa714e769f4f",
+      "verified_reward_name_id": "s2-54b32e8425be93dfa398b115"
+    },
+    {
+      "EN": "Death Mask",
+      "after": "Máscara Mortuária",
+      "before": "Máscara da Morte",
+      "id": "s2-603c4a1b990ce83eeb7496d3",
+      "verified_reward_name_id": "s2-4a11c58293cd0ae80d7d9aca"
+    },
+    {
+      "EN": "Death Scythe",
+      "after": "Foice da Morte",
+      "before": "Foice da Morte",
+      "id": "s2-083f57cb0eb94817e6a5f11e",
+      "verified_reward_name_id": "s2-17a87fdc24dcf00182d73bdd"
+    },
+    {
+      "EN": "Elven Armor",
+      "after": "Armadura Élfica",
+      "before": "Armadura Élfica",
+      "id": "s2-22104b7186e0bab011799f2d",
+      "verified_reward_name_id": "s2-55dd439a59181e750b35fd2b"
+    },
+    {
+      "EN": "Elven Bed",
+      "after": "Cama Élfica",
+      "before": "Cama Élfica",
+      "id": "s2-b9c53573637fa33d5c8f3d5b",
+      "verified_reward_name_id": "s2-a994aaf85dec57b15673677e"
+    },
+    {
+      "EN": "Elven Bow",
+      "after": "Arco Élfico",
+      "before": "Arco Élfico",
+      "id": "s2-04a8c0c145f5d68c240ae534",
+      "verified_reward_name_id": "s2-740e7077c63fcb2f555be80b"
+    },
+    {
+      "EN": "Elven Door",
+      "after": "Porta Élfica",
+      "before": "Porta Élfica",
+      "id": "s2-baa4e8942225a8f549d6bf1e",
+      "verified_reward_name_id": "s2-fe890daba082c12412158f87"
+    },
+    {
+      "EN": "Elven Ring",
+      "after": "Anel Élfico",
+      "before": "Anel Élfico",
+      "id": "s2-450ddea4ce9dec34598cf75b",
+      "verified_reward_name_id": "s2-94b12c066b59139838d9cc78"
+    },
+    {
+      "EN": "Elven Table",
+      "after": "Mesa Élfica",
+      "before": "Mesa Élfica",
+      "id": "s2-de2828ff226fba77f3acfc62",
+      "verified_reward_name_id": "s2-0460a13ee8fe8d3e7d2231ab"
+    },
+    {
+      "EN": "Fancy Chair",
+      "after": "Cadeira Luxuosa",
+      "before": "Cadeira Luxuosa",
+      "id": "s2-c2c504cd80c4d5f136019086",
+      "verified_reward_name_id": "s2-fb95dd95934a845c05187898"
+    },
+    {
+      "EN": "Firewood",
+      "after": "Lenha",
+      "before": "Lenha",
+      "id": "s2-fd137b58d8ccfefce2909651",
+      "verified_reward_name_id": "s2-563c82c22b07c73a839e0aea"
+    },
+    {
+      "EN": "Flat Bow",
+      "after": "Arco Plano",
+      "before": "Arco Plano",
+      "id": "s2-882f1bdf34a9cd47686bf6be",
+      "verified_reward_name_id": "s2-e31ed5996cc1cc5c7153ac96"
+    },
+    {
+      "EN": "Gavelock",
+      "after": "Azagaia de Metal",
+      "before": "Pé-de-cabra",
+      "id": "s2-0ad1907f8635717be8c05c67",
+      "verified_reward_name_id": "s2-48b048aad0dba1a064b1e614"
+    },
+    {
+      "EN": "Geta",
+      "after": "Geta",
+      "before": "Geta",
+      "id": "s2-ac9dde9362d304f33200da38",
+      "verified_reward_name_id": "s2-97c48afce6b140204243132f"
+    },
+    {
+      "EN": "Goblin Bow",
+      "after": "Arco Goblin",
+      "before": "Arco Goblin",
+      "id": "s2-6df967bb94bf94d0d74bc4fd",
+      "verified_reward_name_id": "s2-93b4abd0f53fdc387ccb97a5"
+    },
+    {
+      "EN": "Greenskin Crossbow",
+      "after": "Besta Pele-Verde",
+      "before": "Besta Pele-Verde",
+      "id": "s2-afacb0411aad44ac5fe6f9fb",
+      "verified_reward_name_id": "s2-5b6da3c443c03f8ded71fe31"
+    },
+    {
+      "EN": "Hasta",
+      "after": "Hasta",
+      "before": "Lança",
+      "id": "s2-6c9668e3296c8b7ed10d3bce",
+      "verified_reward_name_id": "s2-b3c47dcc7172726714150519"
+    },
+    {
+      "EN": "Heavy Crossbow",
+      "after": "Besta Pesada",
+      "before": "Besta Pesada",
+      "id": "s2-f8d5f0877e92680909ce6a42",
+      "verified_reward_name_id": "s2-1ff1b3ac74e603f82763277a"
+    },
+    {
+      "EN": "Hunting Crossbow",
+      "after": "Besta de Caça",
+      "before": "Besta de Caça",
+      "id": "s2-19d4ba1d3e1a50bde668dd3d",
+      "verified_reward_name_id": "s2-a838f57668647286e1d65550"
+    },
+    {
+      "EN": "Javelin",
+      "after": "Azagaia",
+      "before": "Azagaia",
+      "id": "s2-826c2fb3a464f28cd8b14d5d",
+      "verified_reward_name_id": "s2-f3882ae3beb13260767fc31d"
+    },
+    {
+      "EN": "Jewelry Display",
+      "after": "Vitrine de Joias",
+      "before": "Expositor de Joias",
+      "id": "s2-ebd653389ad8d70930960457",
+      "verified_reward_name_id": "s2-61598764819b13110bfbc944"
+    },
+    {
+      "EN": "Kobold Bow",
+      "after": "Arco Kobold",
+      "before": "Arco Kobold",
+      "id": "s2-7eec2e22c54321ef290de6ee",
+      "verified_reward_name_id": "s2-242b909b74fef51722eb7122"
+    },
+    {
+      "EN": "Litter Box",
+      "after": "Caixa de Areia",
+      "before": "Caixa de Areia",
+      "id": "s2-bf0d6df6253373e3c0ae3fec",
+      "verified_reward_name_id": "s2-ba65c239331171090282ba1d"
+    },
+    {
+      "EN": "Live Roof",
+      "after": "Telhado Vivo",
+      "before": "Telhado Vivo",
+      "id": "s2-66a8d95293aa4013a72e28c3",
+      "verified_reward_name_id": "s2-f0020836908273e6a77aedec"
+    },
+    {
+      "EN": "Live Wall",
+      "after": "Parede Viva",
+      "before": "Parede Viva",
+      "id": "s2-bcccc2d666d077dbefff01b2",
+      "verified_reward_name_id": "s2-cd940c77f2309b30a6bab0c6"
+    },
+    {
+      "EN": "Log Floor",
+      "after": "Piso de Toras",
+      "before": "Piso de Tronco",
+      "id": "s2-2fdfadd7c5de58925fc3b8a8",
+      "verified_reward_name_id": "s2-ae387c5be34b6e89ff47c8ac"
+    },
+    {
+      "EN": "Longbow",
+      "after": "Arco Longo",
+      "before": "Arco Longo",
+      "id": "s2-25f5e5fdf69ceeb7f79be4b2",
+      "verified_reward_name_id": "s2-ec769f25a405f0701ee8737e"
+    },
+    {
+      "EN": "Mask",
+      "after": "Máscara",
+      "before": "Máscara",
+      "id": "s2-5ae6142b4129c2d7ae0c7099",
+      "verified_reward_name_id": "s2-e33afe7573fb17a355c71d72"
+    },
+    {
+      "EN": "Mercenary Bow",
+      "after": "Arco Mercenário",
+      "before": "Arco Mercenário",
+      "id": "s2-d09ec6c3c768dd8b142d5e80",
+      "verified_reward_name_id": "s2-69f9911a9d9cd15f666f1027"
+    },
+    {
+      "EN": "Moon Amulet",
+      "after": "Amuleto da Lua",
+      "before": "Amuleto da Lua",
+      "id": "s2-3dd9f9c37e210c17dcc016e7",
+      "verified_reward_name_id": "s2-bc4dc9d9ff23cfb76ccccb84"
+    },
+    {
+      "EN": "Mush Bow",
+      "after": "Arco de Cogumelo",
+      "before": "Arco de Cogumelo",
+      "id": "s2-c6a855890c57542ecbb58b0f",
+      "verified_reward_name_id": "s2-7251282eaa20f8df10fc3777"
+    },
+    {
+      "EN": "Pilum",
+      "after": "Pilum",
+      "before": "Pilum",
+      "id": "s2-8f06adb2ca41effd549799d3",
+      "verified_reward_name_id": "s2-a7b52267bb1e9dec5d2636ff"
+    },
+    {
+      "EN": "Pistol Crossbow",
+      "after": "Besta de Pistola",
+      "before": "Besta de Pistola",
+      "id": "s2-d0dbe42ed1cc02c37dc607fd",
+      "verified_reward_name_id": "s2-b4abfaa6956aae93c58f6387"
+    },
+    {
+      "EN": "Pitchfork",
+      "after": "Forquilha",
+      "before": "Forcado",
+      "id": "s2-d9a619becff65258c41a9864",
+      "verified_reward_name_id": "s2-4ce17522ed80200bba49c38d"
+    },
+    {
+      "EN": "Planson",
+      "after": "Planson",
+      "before": "Planson",
+      "id": "s2-e052cfeb1aa618c8c95796c1",
+      "verified_reward_name_id": "s2-b712bf0edb6a970312f6f87d"
+    },
+    {
+      "EN": "Recurve Crossbow",
+      "after": "Besta Recurva",
+      "before": "Besta Recurva",
+      "id": "s2-86cfddf5634b6f10eece6976",
+      "verified_reward_name_id": "s2-1ec48d07bf81e3458e8c77fb"
+    },
+    {
+      "EN": "Reinforced Scythe",
+      "after": "Foice Reforçada",
+      "before": "Foice Reforçada",
+      "id": "s2-2608c95e7694dfe975aeb080",
+      "verified_reward_name_id": "s2-4f888369072b07f3010e6ae9"
+    },
+    {
+      "EN": "Scythe",
+      "after": "Foice",
+      "before": "Foice",
+      "id": "s2-d72b563525725b4daf9779d1",
+      "verified_reward_name_id": "s2-e4448c725556f4fc69df4c61"
+    },
+    {
+      "EN": "Short Bow",
+      "after": "Arco Curto",
+      "before": "Arco Curto",
+      "id": "s2-e476d39d8198c19d0e96d1fe",
+      "verified_reward_name_id": "s2-0da2b043b6695bc32f20a77a"
+    },
+    {
+      "EN": "Spear",
+      "after": "Lança",
+      "before": "Lança",
+      "id": "s2-8fadd08cdbc42b7ac14eb9bd",
+      "verified_reward_name_id": "s2-04481d6cab05ca98f20bb3fa"
+    },
+    {
+      "EN": "Spinning Wheel",
+      "after": "Roda de Fiar",
+      "before": "Roda de Fiar",
+      "id": "s2-43fb1182f4bfd81b6410987a",
+      "verified_reward_name_id": "s2-5a828dfee10e35e9c2c86559"
+    },
+    {
+      "EN": "Thorn Gate",
+      "after": "Portão de Espinhos",
+      "before": "Portão de Espinhos",
+      "id": "s2-7b4ccc4f113edebc694529c7",
+      "verified_reward_name_id": "s2-bed8efcf87f889e404b15551"
+    },
+    {
+      "EN": "Throwing Club",
+      "after": "Clava de Arremesso",
+      "before": "Clava de Arremesso",
+      "id": "s2-730d41e12bb5ae6709f8c0c8",
+      "verified_reward_name_id": "s2-d68a6071f3ffc7bd6c109286"
+    },
+    {
+      "EN": "Toothed Spear",
+      "after": "Lança Dentada",
+      "before": "Lança Dentada",
+      "id": "s2-ac044edd76258771fd4c99fb",
+      "verified_reward_name_id": "s2-789d67f6265dc96872c84867"
+    },
+    {
+      "EN": "Training Dummy",
+      "after": "Boneco de Treino",
+      "before": "Boneco de Treino",
+      "id": "s2-7ce81c872c31b839a6df05c5",
+      "verified_reward_name_id": "s2-df29ddeefcf5afa14c52d2de"
+    },
+    {
+      "EN": "Trident",
+      "after": "Tridente",
+      "before": "Tridente",
+      "id": "s2-c31ab0f134fb8e23ddf23504",
+      "verified_reward_name_id": "s2-973cf3852a8a82da576526ba"
+    },
+    {
+      "EN": "War Banner",
+      "after": "Estandarte de Guerra",
+      "before": "Bandeira de Guerra",
+      "id": "s2-022086bd1a8f746105ca7455",
+      "verified_reward_name_id": "s2-ffc15732e58551188c40331a"
+    },
+    {
+      "EN": "Wheelbarrow",
+      "after": "Carrinho de Mão",
+      "before": "Carrinho de Mão",
+      "id": "s2-fc90244ec917f7022da9f522",
+      "verified_reward_name_id": "s2-f290fc6b01bf7325ba570a75"
+    },
+    {
+      "EN": "Wooden Armguards",
+      "after": "Braçadeiras de Madeira",
+      "before": "Braçadeiras de Madeira",
+      "id": "s2-872dfd9adee69bda467ad6d7",
+      "verified_reward_name_id": "s2-185b1a394c312ebc20da6b25"
+    },
+    {
+      "EN": "Wooden Armor",
+      "after": "Armadura de Madeira",
+      "before": "Armadura de Madeira",
+      "id": "s2-24e260db8d00f519e7809adc",
+      "verified_reward_name_id": "s2-7c8b4ba453b037883ce4b420"
+    },
+    {
+      "EN": "Wooden Barrel",
+      "after": "Barril de Madeira",
+      "before": "Barril de Madeira",
+      "id": "s2-3fad69064051ed8131b67469",
+      "verified_reward_name_id": "s2-c2981a3bd79759ef4543fefe"
+    },
+    {
+      "EN": "Wooden Bridge",
+      "after": "Ponte de Madeira",
+      "before": "Ponte de Madeira",
+      "id": "s2-11f7c3a6e99ee39093a6dd8c",
+      "verified_reward_name_id": "s2-c1843103b53809339b29bf0f"
+    },
+    {
+      "EN": "Wooden Buckler",
+      "after": "Broquel de Madeira",
+      "before": "Broquel de Madeira",
+      "id": "s2-6c2cdaa63a01765a6abf6d16",
+      "verified_reward_name_id": "s2-f163d47b2040e99560d7325a"
+    },
+    {
+      "EN": "Wooden Door",
+      "after": "Porta de Madeira",
+      "before": "Porta de Madeira",
+      "id": "s2-4590bb50ed4aeb15e175df55",
+      "verified_reward_name_id": "s2-57662cf4fc87dee1175bbbdf"
+    },
+    {
+      "EN": "Wooden Fence",
+      "after": "Cerca de Madeira",
+      "before": "Cerca de Madeira",
+      "id": "s2-013383789bd0b4c71bfd34bc",
+      "verified_reward_name_id": "s2-13ceed026073eb6d93001aba"
+    },
+    {
+      "EN": "Wooden Flail",
+      "after": "Mangual de Madeira",
+      "before": "Mangual de Madeira",
+      "id": "s2-0fc0546de4aeae7e80b72923",
+      "verified_reward_name_id": "s2-1145a1492522eccf1440078f"
+    },
+    {
+      "EN": "Wooden Floor",
+      "after": "Piso de Madeira",
+      "before": "Piso de Madeira",
+      "id": "s2-0b3b4e7955f649ecd4a63bbb",
+      "verified_reward_name_id": "s2-168eef277dfd504c27f6365a"
+    },
+    {
+      "EN": "Wooden Gate",
+      "after": "Portão de Madeira",
+      "before": "Portão de Madeira",
+      "id": "s2-9ea2801f954c8aa46e251afa",
+      "verified_reward_name_id": "s2-e4545ef2da667a12584c017b"
+    },
+    {
+      "EN": "Wooden Greaves",
+      "after": "Grevas de Madeira",
+      "before": "Grebas de Madeira",
+      "id": "s2-5490c60d4b64d1ab185d9db9",
+      "verified_reward_name_id": "s2-beee75a5a25dc6fb6b02bc29"
+    },
+    {
+      "EN": "Wooden Hoe",
+      "after": "Enxada de Madeira",
+      "before": "Enxada de Madeira",
+      "id": "s2-6b43f887ba01274293cd2d69",
+      "verified_reward_name_id": "s2-dd0a550b3093998cd8ed9728"
+    },
+    {
+      "EN": "Wooden Pillar",
+      "after": "Pilar de Madeira",
+      "before": "Pilar de Madeira",
+      "id": "s2-46c93187655207d346cf23a3",
+      "verified_reward_name_id": "s2-4a8ff3885860fe98dc0057a5"
+    },
+    {
+      "EN": "Wooden Ring",
+      "after": "Anel de Madeira",
+      "before": "Anel de Madeira",
+      "id": "s2-905bfc886a163929b2544679",
+      "verified_reward_name_id": "s2-89f885f58d21cdad6efbde42"
+    },
+    {
+      "EN": "Wooden Roof",
+      "after": "Telhado de Madeira",
+      "before": "Telhado de Madeira",
+      "id": "s2-39d7cdb6ebae8cd145911f8e",
+      "verified_reward_name_id": "s2-365c5e2cf60fde9775cce38c"
+    },
+    {
+      "EN": "Wooden Shield",
+      "after": "Escudo de Madeira",
+      "before": "Escudo de Madeira",
+      "id": "s2-086844d63c99278f2a0847fb",
+      "verified_reward_name_id": "s2-0f192a6823add1c65fecc741"
+    },
+    {
+      "EN": "Wooden Spikes",
+      "after": "Espinhos de Madeira",
+      "before": "Piques de Madeira",
+      "id": "s2-d54c6b0cc194fdc77e6f018a",
+      "verified_reward_name_id": "s2-8e2f3b84d78cc94b418f9a34"
+    },
+    {
+      "EN": "Wooden Stake",
+      "after": "Estaca de Madeira",
+      "before": "Estaca de Madeira",
+      "id": "s2-9fe83fb2516275b668c2ad21",
+      "verified_reward_name_id": "s2-17f991a5b58fb5ace6145a37"
+    },
+    {
+      "EN": "Wooden Sword",
+      "after": "Espada de Madeira",
+      "before": "Espada de Madeira",
+      "id": "s2-3817ac46d5ded29993daa47b",
+      "verified_reward_name_id": "s2-6bfa32b2b09cacd30bab1257"
+    },
+    {
+      "EN": "Wooden Throne",
+      "after": "Trono de Madeira",
+      "before": "Trono de Madeira",
+      "id": "s2-c916afb792ddf98eb0d7402a",
+      "verified_reward_name_id": "s2-6fea2ba258725c01d900e1c3"
+    },
+    {
+      "EN": "Wooden Wall",
+      "after": "Parede de Madeira",
+      "before": "Parede de Madeira",
+      "id": "s2-b04db2c16a6371b1df1caaf4",
+      "verified_reward_name_id": "s2-875298f4353a10618512f074"
+    },
+    {
+      "EN": "Anvil",
+      "after": "Bigorna",
+      "before": "Bigorna",
+      "id": "s2-334f9d3f48f197f7b5408644",
+      "verified_reward_name_id": "s2-cf90bdf8f7cf50e9057fdeb7"
+    },
+    {
+      "EN": "Armored Legs",
+      "after": "Pernas Blindadas",
+      "before": "Pernas Blindadas",
+      "id": "s2-b4c3d37c5910e24fbaae4366",
+      "verified_reward_name_id": "s2-bee522d195accc93cb84105e"
+    },
+    {
+      "EN": "Armored Torso",
+      "after": "Torso Blindado",
+      "before": "Torso Blindado",
+      "id": "s2-b3ee257c96f67b7d7029d6cd",
+      "verified_reward_name_id": "s2-77af443ff3ebc0ea836ee8e3"
+    },
+    {
+      "EN": "Axe Hand",
+      "after": "Mão de Machado",
+      "before": "Mão de Machado",
+      "id": "s2-e55a60937ca73a0bf0e87a03",
+      "verified_reward_name_id": "s2-55afcbee360d6dc189c2a9fc"
+    },
+    {
+      "EN": "Bear Trap",
+      "after": "Armadilha de Urso",
+      "before": "Armadilha para Urso",
+      "id": "s2-944ee1aa474765dd59c0b7b8",
+      "verified_reward_name_id": "s2-19acc5fc52446922f2f28ff5"
+    },
+    {
+      "EN": "Beautiful Statue",
+      "after": "Bela Estátua",
+      "before": "Estátua Bela",
+      "id": "s2-f55a2f70370f24a60b09b16c",
+      "verified_reward_name_id": "s2-c57a4f2bd668d943e113a572"
+    },
+    {
+      "EN": "Bigger Drill",
+      "after": "Broca Maior",
+      "before": "Perfurador Maior",
+      "id": "s2-b397ba574093b3e635489018",
+      "verified_reward_name_id": "s2-764523b27db2cdbcf73ce92f"
+    },
+    {
+      "EN": "Bladed Hand",
+      "after": "Mão com Lâmina",
+      "before": "Mão de Lâmina",
+      "id": "s2-eaa2b622f7ee64b175f08818",
+      "verified_reward_name_id": "s2-d1a50c97abf9ad09ab7fa095"
+    },
+    {
+      "EN": "Bone Wall",
+      "after": "Parede de Osso",
+      "before": "Parede de Ossos",
+      "id": "s2-5498917b50a1c881486cf41c",
+      "verified_reward_name_id": "s2-f5f31c3b1f8eccf01fd7f973"
+    },
+    {
+      "EN": "Book Of Construction",
+      "after": "Livro da Construção",
+      "before": "Livro de Construção",
+      "id": "s2-d291d0eaedac0c476ae8c78b",
+      "verified_reward_name_id": "s2-bb60293293aefdeff75f7d56"
+    },
+    {
+      "EN": "Box Torso",
+      "after": "Torso Caixa",
+      "before": "Torso de Caixa",
+      "id": "s2-1e44868f05cce081501a9a57",
+      "verified_reward_name_id": "s2-2b272ed616d0cc9812d2cb15"
+    },
+    {
+      "EN": "Candle Head",
+      "after": "Cabeça de Vela",
+      "before": "Cabeça de Vela",
+      "id": "s2-76de09e07739728648f8ae77",
+      "verified_reward_name_id": "s2-19b97e0cc664c009929e577d"
+    },
+    {
+      "EN": "Carved Stone Shield",
+      "after": "Escudo de Pedra Esculpido",
+      "before": "Escudo de Pedra Entalhada",
+      "id": "s2-4d331106577916a03ce4b4e8",
+      "verified_reward_name_id": "s2-e07ed8ee27796ee6e8560ce4"
+    },
+    {
+      "EN": "Decorated Stash",
+      "after": "Esconderijo Decorado",
+      "before": "Esconderijo Decorado",
+      "id": "s2-1fea6c1d1d0ec5e3245d3073",
+      "verified_reward_name_id": "s2-40ae8b72853114f2ed5c90f2"
+    },
+    {
+      "EN": "Demolish",
+      "after": "Demolir",
+      "before": "Demolição",
+      "id": "s2-5fe660ddebeed4dec0c9cd4b",
+      "verified_reward_name_id": "s2-6d5844f6c9da5e7e62a5288f"
+    },
+    {
+      "EN": "Desecrated Torso",
+      "after": "Torso Profanado",
+      "before": "Torso Profanado",
+      "id": "s2-e6018926918ed100b03b5e34",
+      "verified_reward_name_id": "s2-70d302d7a7c8bacabc40166a"
+    },
+    {
+      "EN": "Dig",
+      "after": "Cavar",
+      "before": "Escavação",
+      "id": "s2-6b38dc81f7deaf5595a32314",
+      "verified_reward_name_id": "s2-4387d43448ac1aaa5c618719"
+    },
+    {
+      "EN": "Dirt",
+      "after": "Terra",
+      "before": "Terra",
+      "id": "s2-a7ea85c0030303b3c3118830",
+      "verified_reward_name_id": "s2-d9b583f8c67605d3452e1f11"
+    },
+    {
+      "EN": "Drying Leather Rack",
+      "after": "Varal de Secagem de Couro",
+      "before": "Suporte de Secagem de Couro",
+      "id": "s2-754d56a74b7cd86bc35bf711",
+      "verified_reward_name_id": "s2-c56fea3c135a5c1c609ae939"
+    },
+    {
+      "EN": "Elemental Core",
+      "after": "Núcleo Elemental",
+      "before": "Núcleo Elemental",
+      "id": "s2-52afda573b51ecb9e4503209",
+      "verified_reward_name_id": "s2-5e5588e1e2e7e78ccbb31b61"
+    },
+    {
+      "EN": "Fresh Grave",
+      "after": "Cova Recente",
+      "before": "Cova Fresca",
+      "id": "s2-97ebdfcdc5c9512bb5c54e18",
+      "verified_reward_name_id": "s2-8f3e2b377623966a7994447d"
+    },
+    {
+      "EN": "Furnace",
+      "after": "Fornalha",
+      "before": "Fornalha",
+      "id": "s2-a31558b1aa2239c729aaa5ae",
+      "verified_reward_name_id": "s2-35d69ca269072731fab1639e"
+    },
+    {
+      "EN": "Gas Trap",
+      "after": "Armadilha de Gás",
+      "before": "Armadilha de Gás",
+      "id": "s2-1a6f8e0e34fb75185cfe00ca",
+      "verified_reward_name_id": "s2-0389cb326838944681049bc8"
+    },
+    {
+      "EN": "Glass",
+      "after": "Vidro",
+      "before": "Vidro",
+      "id": "s2-d07497ea1b535c831b72291e",
+      "verified_reward_name_id": "s2-613c858412854ea84b9507ea"
+    },
+    {
+      "EN": "Golden Gate",
+      "after": "Portão Dourado",
+      "before": "Portão Dourado",
+      "id": "s2-1b742de143e9d935acf71351",
+      "verified_reward_name_id": "s2-2cb70364933f7135f81b4cbd"
+    },
+    {
+      "EN": "Golem",
+      "after": "Golem",
+      "before": "Golem",
+      "id": "s2-51cad5fc24c432574b7ebab5",
+      "verified_reward_name_id": "s2-ee2e298f7f8776acd00c2135"
+    },
+    {
+      "EN": "Gravestone",
+      "after": "Lápide",
+      "before": "Lápide",
+      "id": "s2-dcf984dda1a207962bd19eba",
+      "verified_reward_name_id": "s2-d343103e395a29d1415314e9"
+    },
+    {
+      "EN": "Guillotine",
+      "after": "Guilhotina",
+      "before": "Guilhotina",
+      "id": "s2-393a39caa0dad3e996d23f74",
+      "verified_reward_name_id": "s2-11d8e31de97cb8c4c2db63e9"
+    },
+    {
+      "EN": "Hammer Hand",
+      "after": "Mão de Martelo",
+      "before": "Mão de Martelo",
+      "id": "s2-33ffdc060ddf7296e1a5f687",
+      "verified_reward_name_id": "s2-e5d83aecb471a275347dbe94"
+    },
+    {
+      "EN": "Hearth",
+      "after": "Lareira",
+      "before": "Lareira",
+      "id": "s2-8742270055c886233e89d4d0",
+      "verified_reward_name_id": "s2-350275175f1c038448dc489b"
+    },
+    {
+      "EN": "Helmet Head",
+      "after": "Cabeça de Elmo",
+      "before": "Cabeça de Elmo",
+      "id": "s2-8ec081cccba8378bed123ba9",
+      "verified_reward_name_id": "s2-e0517e0c10f2ab2b11872dea"
+    },
+    {
+      "EN": "Imperial Throne",
+      "after": "Trono Imperial",
+      "before": "Trono Imperial",
+      "id": "s2-eaa6b0e7017d577eb1a0e800",
+      "verified_reward_name_id": "s2-0dd8c6e76cfe917594f4117b"
+    },
+    {
+      "EN": "Iron Maiden",
+      "after": "Donzela de Ferro",
+      "before": "Donzela de Ferro",
+      "id": "s2-1da364b7bd6e93e3a4fc086d",
+      "verified_reward_name_id": "s2-89291c9c43a61908fc710074"
+    },
+    {
+      "EN": "Limestone Window",
+      "after": "Janela de Calcário",
+      "before": "Janela de Calcário",
+      "id": "s2-617781bbf8bb37e507c8faf1",
+      "verified_reward_name_id": "s2-7449ab19233898ba39f1b7da"
+    },
+    {
+      "EN": "Mace Hand",
+      "after": "Mão de Maça",
+      "before": "Mão de Maça",
+      "id": "s2-4bc9944612a46bb9ec436ad7",
+      "verified_reward_name_id": "s2-bfb15afa9394a264e8878364"
+    },
+    {
+      "EN": "Marble Statue",
+      "after": "Estátua de Mármore",
+      "before": "Estátua de Mármore",
+      "id": "s2-4e776fb0d1d80429b982eb0a",
+      "verified_reward_name_id": "s2-76d51a89d1acd561925e1fd5"
+    },
+    {
+      "EN": "Marble Wall",
+      "after": "Parede de Mármore",
+      "before": "Parede de Mármore",
+      "id": "s2-cb5e60b0cc6118d7f77e2030",
+      "verified_reward_name_id": "s2-91af25aa261b691e3eac1d2a"
+    },
+    {
+      "EN": "Mechanical Wall",
+      "after": "Parede Mecânica",
+      "before": "Parede Mecânica",
+      "id": "s2-1b887d9b88c0f034c2e05682",
+      "verified_reward_name_id": "s2-539aa0be751c3d06d63318fd"
+    },
+    {
+      "EN": "Mill",
+      "after": "Moinho",
+      "before": "Moinho",
+      "id": "s2-f966ca002214eea6c52c2436",
+      "verified_reward_name_id": "s2-ebebd1076fa1703efb8aaf78"
+    },
+    {
+      "EN": "Mosaic Wall",
+      "after": "Parede de Mosaico",
+      "before": "Parede de Mosaico",
+      "id": "s2-2bbff75d94b11e5450298127",
+      "verified_reward_name_id": "s2-ca42b3e16f963e4a85d5737a"
+    },
+    {
+      "EN": "Plank Floor",
+      "after": "Piso de Tábuas",
+      "before": "Piso de Tábuas",
+      "id": "s2-e3a20f830656332db1d1a04d",
+      "verified_reward_name_id": "s2-90b867bde5738d9693354b8d"
+    },
+    {
+      "EN": "Quick Legs",
+      "after": "Pernas Rápidas",
+      "before": "Pernas Rápidas",
+      "id": "s2-452685c4d3eaeb830f4918bd",
+      "verified_reward_name_id": "s2-ad97e919c363b3c688bb590f"
+    },
+    {
+      "EN": "Reinforced Head",
+      "after": "Cabeça Reforçada",
+      "before": "Cabeça Reforçada",
+      "id": "s2-f5309ef3de0342d669f192ca",
+      "verified_reward_name_id": "s2-1f9bcfbf8668b2e70c39a890"
+    },
+    {
+      "EN": "Reinforced Legs",
+      "after": "Pernas Reforçadas",
+      "before": "Pernas Reforçadas",
+      "id": "s2-95dfadb98fd3ed0e3585211d",
+      "verified_reward_name_id": "s2-844dab765a1c2f3c33e64aec"
+    },
+    {
+      "EN": "Rock Axe",
+      "after": "Machado de Pedra",
+      "before": "Machado de Rocha",
+      "id": "s2-32eeb3e00e7a878fa58f7bbb",
+      "verified_reward_name_id": "s2-32d61db89748cb7cd072c416"
+    },
+    {
+      "EN": "Saw Hand",
+      "after": "Mão de Serra",
+      "before": "Mão de Serra",
+      "id": "s2-fccbba7d95cc1aa55d9c58c0",
+      "verified_reward_name_id": "s2-f35731fb92c9859d9c695cc7"
+    },
+    {
+      "EN": "Shell Workbench",
+      "after": "Bancada de Conchas",
+      "before": "Bancada de Concha",
+      "id": "s2-2679d09539c5df6db5a3838e",
+      "verified_reward_name_id": "s2-4eba4fad4a83a04a1938bf7d"
+    },
+    {
+      "EN": "Shield Hand",
+      "after": "Mão de Escudo",
+      "before": "Mão de Escudo",
+      "id": "s2-439d760896a507c818596d38",
+      "verified_reward_name_id": "s2-eccbd19831b1cc0809518b0a"
+    },
+    {
+      "EN": "Skeleton in Cage",
+      "after": "Esqueleto na Gaiola",
+      "before": "Esqueleto na Gaiola",
+      "id": "s2-4e7f69f0d3a4c3cc96ef4c2e",
+      "verified_reward_name_id": "s2-18d4e1031701dc5ce78acf5a"
+    },
+    {
+      "EN": "Spear Hand",
+      "after": "Mão de Lança",
+      "before": "Mão de Lança",
+      "id": "s2-f1271e75236ce64b044d89b0",
+      "verified_reward_name_id": "s2-9a2f8f6dbaf7f1af5a43765f"
+    },
+    {
+      "EN": "Spiked Head",
+      "after": "Cabeça Espinhosa",
+      "before": "Cabeça Espinhosa",
+      "id": "s2-2ead6c6bd7c25eb0696c5e7f",
+      "verified_reward_name_id": "s2-e11de47b4e9dab1530d2c1f5"
+    },
+    {
+      "EN": "Spiked Legs",
+      "after": "Pernas com Espinhos",
+      "before": "Pernas Espinhosas",
+      "id": "s2-3a011f165a7a7542efd02963",
+      "verified_reward_name_id": "s2-f016d6d460907ab597f71159"
+    },
+    {
+      "EN": "Spiked Torso",
+      "after": "Torso com Espinhos",
+      "before": "Torso Espinhoso",
+      "id": "s2-b76f9788f71c56ecc660202b",
+      "verified_reward_name_id": "s2-b2228dacbc5dcd92ff92f37d"
+    },
+    {
+      "EN": "Stone Bed",
+      "after": "Cama de Pedra",
+      "before": "Cama de Pedra",
+      "id": "s2-8812640e440d8b5dd52f14c1",
+      "verified_reward_name_id": "s2-cebc78abce3859111ab0a9c6"
+    },
+    {
+      "EN": "Stone Blade",
+      "after": "Lâmina de Pedra",
+      "before": "Lâmina de Pedra",
+      "id": "s2-6278704c0cffb5573e80a4e2",
+      "verified_reward_name_id": "s2-783b09320a0477e5e0316932"
+    },
+    {
+      "EN": "Stone Bookcase",
+      "after": "Estante de Pedra",
+      "before": "Estante de Pedra",
+      "id": "s2-5a7606ed67aa20e84d30cda9",
+      "verified_reward_name_id": "s2-2bf717cd7718fe013de226ad"
+    },
+    {
+      "EN": "Stone Bridge",
+      "after": "Ponte de Pedra",
+      "before": "Ponte de Pedra",
+      "id": "s2-8d3d60f1d0e4de882209889f",
+      "verified_reward_name_id": "s2-c25352aa47429e9d373e3339"
+    },
+    {
+      "EN": "Stone Clogs",
+      "after": "Tamancos de Pedra",
+      "before": "Tamancos de Pedra",
+      "id": "s2-38dd495071b3eeeb5227d6b3",
+      "verified_reward_name_id": "s2-49f33a695e07d09525ec3c96"
+    },
+    {
+      "EN": "Stone Crown",
+      "after": "Coroa de Pedra",
+      "before": "Coroa de Pedra",
+      "id": "s2-ad42854489d2233ba668187c",
+      "verified_reward_name_id": "s2-1e7a1cef5a35160d2dbc9747"
+    },
+    {
+      "EN": "Stone Fence",
+      "after": "Cerca de Pedra",
+      "before": "Cerca de Pedra",
+      "id": "s2-1eb7ee08223292eb807e5751",
+      "verified_reward_name_id": "s2-66d0a68436b1fedb3a9e60e2"
+    },
+    {
+      "EN": "Stone Gate",
+      "after": "Portão de Pedra",
+      "before": "Portão de Pedra",
+      "id": "s2-ad02032b11c296319f31aa96",
+      "verified_reward_name_id": "s2-4f8591b42654394ac9792521"
+    },
+    {
+      "EN": "Stone Hatchet",
+      "after": "Machadinha de Pedra",
+      "before": "Machadinha de Pedra",
+      "id": "s2-b4d42947ea9fa1726ce29b85",
+      "verified_reward_name_id": "s2-a0273d05776f719ddbf0291f"
+    },
+    {
+      "EN": "Stone Knife",
+      "after": "Faca de Pedra",
+      "before": "Faca de Pedra",
+      "id": "s2-3a56e8d46241f0609a934406",
+      "verified_reward_name_id": "s2-f258f7a121d7e8e50854a3aa"
+    },
+    {
+      "EN": "Stone Light Axe",
+      "after": "Machado Leve de Pedra",
+      "before": "Machado Leve de Pedra",
+      "id": "s2-f51808dded5c346833a9ffad",
+      "verified_reward_name_id": "s2-9c5797f1cbd470c9fe3d4e08"
+    },
+    {
+      "EN": "Stone Mask",
+      "after": "Máscara de Pedra",
+      "before": "Máscara de Pedra",
+      "id": "s2-a4358c248f376032c6f3c584",
+      "verified_reward_name_id": "s2-8f0b3080a712753a3e363212"
+    },
+    {
+      "EN": "Stone Pillar",
+      "after": "Pilar de Pedra",
+      "before": "Pilar de Pedra",
+      "id": "s2-46ca2f3e3bba1c1a7fbee31a",
+      "verified_reward_name_id": "s2-9ab2c041dc68f2a24dc541c6"
+    },
+    {
+      "EN": "Stone Plates Armor",
+      "after": "Armadura de Placas de Pedra",
+      "before": "Armadura de Placas de Pedra",
+      "id": "s2-37ec2e5dde9e1ca520078e22",
+      "verified_reward_name_id": "s2-4932677c7528f0a76b40318e"
+    },
+    {
+      "EN": "Stone Roof",
+      "after": "Telhado de Pedra",
+      "before": "Telhado de Pedra",
+      "id": "s2-4aa37e5f77247c893af9597f",
+      "verified_reward_name_id": "s2-973735497d6e2238b4347c28"
+    },
+    {
+      "EN": "Stone Shield",
+      "after": "Escudo de Pedra",
+      "before": "Escudo de Pedra",
+      "id": "s2-6b0490cf3fdfd4f486d26ee9",
+      "verified_reward_name_id": "s2-949d80d5b7255469195b9602"
+    },
+    {
+      "EN": "Stone Spear",
+      "after": "Lança de Pedra",
+      "before": "Lança de Pedra",
+      "id": "s2-ba2818bc2683d337eecd40a1",
+      "verified_reward_name_id": "s2-f0697ce2c35b1948700430ef"
+    },
+    {
+      "EN": "Stone Staff",
+      "after": "Cajado de Pedra",
+      "before": "Cajado de Pedra",
+      "id": "s2-ff5d34fb61d03827382715db",
+      "verified_reward_name_id": "s2-e378003a84ceb47c5a9c2a28"
+    },
+    {
+      "EN": "Stone Statue",
+      "after": "Estátua de Pedra",
+      "before": "Estátua de Pedra",
+      "id": "s2-3a85cf9accabd354753cdc09",
+      "verified_reward_name_id": "s2-d412eb80ae32df56075fc8b5"
+    },
+    {
+      "EN": "Stone Table",
+      "after": "Mesa de Pedra",
+      "before": "Mesa de Pedra",
+      "id": "s2-0bf9dab6a4321d6ae0e60969",
+      "verified_reward_name_id": "s2-1ea4c20f36c346bfb0741c81"
+    },
+    {
+      "EN": "Stone Workbench",
+      "after": "Bancada de Trabalho de Pedra",
+      "before": "Bancada de Trabalho de Pedra",
+      "id": "s2-9c197f7f033d524814d2cfe4",
+      "verified_reward_name_id": "s2-3d7559069f00f5657245e9d5"
+    },
+    {
+      "EN": "Tomb",
+      "after": "Túmulo",
+      "before": "Túmulo",
+      "id": "s2-34baeac8c5d90d103029c39a",
+      "verified_reward_name_id": "s2-9b861a16427261106e266421"
+    },
+    {
+      "EN": "Torch Hand",
+      "after": "Mão de Tocha",
+      "before": "Mão de Tocha",
+      "id": "s2-a971a36b9d2501e2a33bdac7",
+      "verified_reward_name_id": "s2-b13e44d161bceba5b4024b56"
+    },
+    {
+      "EN": "Vial Rack",
+      "after": "Suporte de Frascos",
+      "before": "Suporte de Frascos",
+      "id": "s2-9f3271bd58f7759cbad7d5e2",
+      "verified_reward_name_id": "s2-f67a1256a0af246f9684ba8b"
+    },
+    {
+      "EN": "Weird Machine",
+      "after": "Máquina Estranha",
+      "before": "Máquina Estranha",
+      "id": "s2-c454374090632b0edb49de40",
+      "verified_reward_name_id": "s2-306cb001a051e3aa526b7bfd"
+    },
+    {
+      "EN": "White Stone Wall",
+      "after": "Parede de Pedra Branca",
+      "before": "Parede de Pedra Branca",
+      "id": "s2-0a81d717a5f6c7d4ef1f5559",
+      "verified_reward_name_id": "s2-bd9d735348c404e7e7bad675"
+    },
+    {
+      "EN": "Blizzard",
+      "after": "Nevasca",
+      "before": "Nevasca",
+      "id": "s2-5bc8df7d2678f295e148bb78",
+      "verified_reward_name_id": "s2-29621fb229a0a889fdbb52ec"
+    },
+    {
+      "EN": "Book Of Cryomancy",
+      "after": "Livro de Criomancia",
+      "before": "Livro de Criomancia",
+      "id": "s2-d928812400ddd84f74841a24",
+      "verified_reward_name_id": "s2-92d2c3d23c90b5f931e81b2d"
+    },
+    {
+      "EN": "Cold Breath",
+      "after": "Sopro Gélido",
+      "before": "Hálito Gelado",
+      "id": "s2-47e6174ba33bf1b2530ce7ff",
+      "verified_reward_name_id": "s2-605fb78521d5b8ec545d4d7a"
+    },
+    {
+      "EN": "Cracking Ice",
+      "after": "Gelo Rachando",
+      "before": "Gelo Rachando",
+      "id": "s2-4e71805787a23e0d7b69a6e2",
+      "verified_reward_name_id": "s2-0472591eb295399a7e9b1a56"
+    },
+    {
+      "EN": "Fog",
+      "after": "Névoa",
+      "before": "Nevoeiro",
+      "id": "s2-83fae2f6ca9ccde3c947a967",
+      "verified_reward_name_id": "s2-221f30d081c5af7d5feff634"
+    },
+    {
+      "EN": "Freeze",
+      "after": "Congelamento",
+      "before": "Congelamento",
+      "id": "s2-22fead5e35ff0ad7cdfdfd7c",
+      "verified_reward_name_id": "s2-e21906afe99c9bf134c9b68e"
+    },
+    {
+      "EN": "Freezing Ray",
+      "after": "Raio Congelante",
+      "before": "Raio Congelante",
+      "id": "s2-94a67250424f3da4bfa482d6",
+      "verified_reward_name_id": "s2-24a01b161ca34e35b0593e6b"
+    },
+    {
+      "EN": "Frost Damage",
+      "after": "Dano de Geada",
+      "before": "Dano de Geada",
+      "id": "s2-bc28fe8adee95b37c3127582",
+      "verified_reward_name_id": "s2-5be354e6d3217b9465b56a7c"
+    },
+    {
+      "EN": "Frostbite",
+      "after": "Queimadura de Gelo",
+      "before": "Congelamento",
+      "id": "s2-c5bef2cebd3e05957131db4e",
+      "verified_reward_name_id": "s2-79333bf9d5d59334ed61375a"
+    },
+    {
+      "EN": "Glaciation",
+      "after": "Glaciação",
+      "before": "Glaciação",
+      "id": "s2-893a630a4357a57168802c03",
+      "verified_reward_name_id": "s2-8fa50dbb58c7e703a6df654d"
+    },
+    {
+      "EN": "Gripped By Ice",
+      "after": "Preso pelo Gelo",
+      "before": "Dominado pelo Gelo",
+      "id": "s2-510abbe4cfefb9ac19bec561",
+      "verified_reward_name_id": "s2-406596ad17be7888f30e2d18"
+    },
+    {
+      "EN": "Ice Age",
+      "after": "Era do Gelo",
+      "before": "Era do Gelo",
+      "id": "s2-9293c837760a02dc134f0ca0",
+      "verified_reward_name_id": "s2-f7b5731fb90146b499b15328"
+    },
+    {
+      "EN": "Ice Cold",
+      "after": "Gélido",
+      "before": "Frio como Gelo",
+      "id": "s2-ec5ef14e3952443e46fad493",
+      "verified_reward_name_id": "s2-36602e72e08f8d40b1f207b7"
+    },
+    {
+      "EN": "Rainy Day",
+      "after": "Dia Chuvoso",
+      "before": "Dia Chuvoso",
+      "id": "s2-55e32d79baf5d2c914361b43",
+      "verified_reward_name_id": "s2-825a0ea1b49c016bb82ce503"
+    },
+    {
+      "EN": "Stone Cold",
+      "after": "Frio como Pedra",
+      "before": "Frio como Pedra",
+      "id": "s2-e8fe25be4aa1a13c63d094b1",
+      "verified_reward_name_id": "s2-99be87123195fa7ffbe5a425"
+    },
+    {
+      "EN": "Walk On Water",
+      "after": "Andar sobre a Água",
+      "before": "Andar sobre a Água",
+      "id": "s2-f15240e4314de0e8c0e2a3f8",
+      "verified_reward_name_id": "s2-7f209841d21d8bbe11d72834"
+    },
+    {
+      "EN": "Water Core",
+      "after": "Núcleo de Água",
+      "before": "Núcleo de Água",
+      "id": "s2-a027b6815b35ea83c285c8d7",
+      "verified_reward_name_id": "s2-d33753662d5d9bfcb07f8034"
+    },
+    {
+      "EN": "Blessed Weapon",
+      "after": "Arma Abençoada",
+      "before": "Arma Abençoada",
+      "id": "s2-687286c973807d4a2957de7c",
+      "verified_reward_name_id": "s2-86d789c18e953093173fa546"
+    },
+    {
+      "EN": "Book Of Divine Fists",
+      "after": "Livro dos Punhos Divinos",
+      "before": "Livro de Punhos Divinos",
+      "id": "s2-4e65ca67cbfb27579563ef84",
+      "verified_reward_name_id": "s2-d7b0a32fc55dd5641876cc86"
+    },
+    {
+      "EN": "Brighter Light",
+      "after": "Luz Mais Brilhante",
+      "before": "Luz Mais Brilhante",
+      "id": "s2-bab16269be46f399e2cce6f6",
+      "verified_reward_name_id": "s2-b79a37dbf94ef8800fb2c221"
+    },
+    {
+      "EN": "Divine Favour",
+      "after": "Graça Divina",
+      "before": "Favor Divino",
+      "id": "s2-42661759fd4f59038254e6b9",
+      "verified_reward_name_id": "s2-f2c869a0fecacd2fae920283"
+    },
+    {
+      "EN": "Divine Fury",
+      "after": "Fúria Divina",
+      "before": "Fúria Divina",
+      "id": "s2-20d8fa365a0fd5f8d51b2c97",
+      "verified_reward_name_id": "s2-38d41a50d5805edf96da706f"
+    },
+    {
+      "EN": "Divine Speed",
+      "after": "Velocidade Divina",
+      "before": "Velocidade Divina",
+      "id": "s2-5d44e701428660eaf2b753b8",
+      "verified_reward_name_id": "s2-d5180d3b11f8bc12fabafea0"
+    },
+    {
+      "EN": "Enduring",
+      "after": "Duradouro",
+      "before": "Duradouro",
+      "id": "s2-b68dff738db624eac1a21266",
+      "verified_reward_name_id": "s2-4b26df0b69d02a1c5606a094"
+    },
+    {
+      "EN": "Fear of the Light",
+      "after": "Medo da Luz",
+      "before": "Medo da Luz",
+      "id": "s2-8fe96de84ab78e60204ade5a",
+      "verified_reward_name_id": "s2-adef969ce542587a27e68e1a"
+    },
+    {
+      "EN": "Holy Power",
+      "after": "Poder Sagrado",
+      "before": "Poder Sagrado",
+      "id": "s2-e24b3d0c671313accb9dad6c",
+      "verified_reward_name_id": "s2-37f80b12c1282b8737469fda"
+    },
+    {
+      "EN": "Incorruptible",
+      "after": "Incorruptível",
+      "before": "Incorruptível",
+      "id": "s2-b7fc5121376dbc2f2a7205d4",
+      "verified_reward_name_id": "s2-e43df789c36e9e179b913c31"
+    },
+    {
+      "EN": "Last Rites",
+      "after": "Últimos Ritos",
+      "before": "Últimos Ritos",
+      "id": "s2-a74bf14b0afbeb78d9f9411c",
+      "verified_reward_name_id": "s2-6ce6ce20d10ce1a2a631e7be"
+    },
+    {
+      "EN": "Loner",
+      "after": "Solitário",
+      "before": "Solitário",
+      "id": "s2-d2b1106c93fc3e5e919c5137",
+      "verified_reward_name_id": "s2-7db0ff66ee89ccc462687e11"
+    },
+    {
+      "EN": "Prayer",
+      "after": "Oração",
+      "before": "Oração",
+      "id": "s2-678c2b43dc233fa4539742f3",
+      "verified_reward_name_id": "s2-1cb1c97efe6ad8ffd2349d3e"
+    },
+    {
+      "EN": "Purify the Damned",
+      "after": "Purificar os Condenados",
+      "before": "Purificar os Condenados",
+      "id": "s2-78baa828205ef71764e1d4cd",
+      "verified_reward_name_id": "s2-c0ceb5ad1f7d8294ac6851b7"
+    },
+    {
+      "EN": "Repentance",
+      "after": "Arrependimento",
+      "before": "Arrependimento",
+      "id": "s2-e5e9518d66a4023ed720eaa5",
+      "verified_reward_name_id": "s2-f6eeffbb7d3fdba091503cfd"
+    },
+    {
+      "EN": "Righteous Pummel",
+      "after": "Surra Justa",
+      "before": "Golpe Justo",
+      "id": "s2-1e26c625f83b453300dc2752",
+      "verified_reward_name_id": "s2-f9aa8067454d5f322446d258"
+    },
+    {
+      "EN": "Righteous Wrath",
+      "after": "Ira Justa",
+      "before": "Ira Justa",
+      "id": "s2-80708e6e3957dd751b5746b5",
+      "verified_reward_name_id": "s2-5c25d032f8e1f7d90ba01576"
+    },
+    {
+      "EN": "Seven Deadly Sins",
+      "after": "Sete Pecados Capitais",
+      "before": "Sete Pecados Capitais",
+      "id": "s2-453ebfac6b196c48ab2f61bc",
+      "verified_reward_name_id": "s2-2a5d2489849566ba4def28b8"
+    },
+    {
+      "EN": "Unyielding Spirit",
+      "after": "Espírito Inabalável",
+      "before": "Espírito Inabalável",
+      "id": "s2-f2b7a7e3351c7d232ca26104",
+      "verified_reward_name_id": "s2-9348c5b38d8ca90995dc0c93"
+    },
+    {
+      "EN": "Aura Of Petals",
+      "after": "Aura de Pétalas",
+      "before": "Aura de Pétalas",
+      "id": "s2-8f42000971fec50996b0d919",
+      "verified_reward_name_id": "s2-4cf4c93967e7a70414f8d7db"
+    },
+    {
+      "EN": "Bed Of Flowers",
+      "after": "Canteiro de Flores",
+      "before": "Cama de Flores",
+      "id": "s2-788ffa7048ec329a41bbb8cd",
+      "verified_reward_name_id": "s2-8336aad2e1bea7a89f3fbc5a"
+    },
+    {
+      "EN": "Book Of Floromancy",
+      "after": "Livro de Floromancia",
+      "before": "Livro de Floromancia",
+      "id": "s2-3a77ff2a312cc281b06913e9",
+      "verified_reward_name_id": "s2-fc2e89bbae8c701ca7cb0430"
+    },
+    {
+      "EN": "Burning Poison",
+      "after": "Veneno Ardente",
+      "before": "Veneno Ardente",
+      "id": "s2-8d022f79b3d81196f43c3c04",
+      "verified_reward_name_id": "s2-859dbaa84f355a261914e4d5"
+    },
+    {
+      "EN": "Flower Power",
+      "after": "Poder das Flores",
+      "before": "Poder das Flores",
+      "id": "s2-0a804ca46b05a9c1d7c135f3",
+      "verified_reward_name_id": "s2-e109d10f999698249dedea93"
+    },
+    {
+      "EN": "Heal on Cast",
+      "after": "Cura ao Lançar",
+      "before": "Cura ao Lançar",
+      "id": "s2-88b5bda5457d5266e26a16c1",
+      "verified_reward_name_id": "s2-00ffb1f24d0082b0ad0e58a6"
+    },
+    {
+      "EN": "Locusts",
+      "after": "Gafanhotos",
+      "before": "Gafanhotos",
+      "id": "s2-1273e409376e02132920da8f",
+      "verified_reward_name_id": "s2-da98daa5dd164f9b9a31e9d1"
+    },
+    {
+      "EN": "Natural Death",
+      "after": "Morte Natural",
+      "before": "Morte Natural",
+      "id": "s2-97e097cae251bb0a39eb4fc9",
+      "verified_reward_name_id": "s2-e838e62471316bcdcfc22ce9"
+    },
+    {
+      "EN": "Poison Cloud",
+      "after": "Nuvem Venenosa",
+      "before": "Nuvem de Veneno",
+      "id": "s2-165d8a21dc1279a3a6361083",
+      "verified_reward_name_id": "s2-58b0aae00ed1525447b288b6"
+    },
+    {
+      "EN": "Poison Immunity",
+      "after": "Imunidade ao Veneno",
+      "before": "Imunidade a Veneno",
+      "id": "s2-30e3aee811134a5d29ef8bc5",
+      "verified_reward_name_id": "s2-98387d4680c239da6d1882da"
+    },
+    {
+      "EN": "Poison Ray",
+      "after": "Raio Venenoso",
+      "before": "Raio de Veneno",
+      "id": "s2-8ff52ceee413fa19405f522c",
+      "verified_reward_name_id": "s2-fbb689f73306b622ee4f34e4"
+    },
+    {
+      "EN": "Power Of Thorns",
+      "after": "Poder dos Espinhos",
+      "before": "Poder dos Espinhos",
+      "id": "s2-ce3d29b1fe3907b8c31e5cea",
+      "verified_reward_name_id": "s2-7f8a7f68fa5890cfda6de850"
+    },
+    {
+      "EN": "Rapid Regeneration",
+      "after": "Regeneração Rápida",
+      "before": "Regeneração Rápida",
+      "id": "s2-bd6ce0bde7954a82261bec36",
+      "verified_reward_name_id": "s2-ff5e6d19d5a7825106c96851"
+    },
+    {
+      "EN": "Shooting Thorns",
+      "after": "Espinhos Projetados",
+      "before": "Disparo de Espinhos",
+      "id": "s2-46024ba5e58dd6d780ec76c3",
+      "verified_reward_name_id": "s2-074a417d2351d21421146706"
+    },
+    {
+      "EN": "Summon Healing Flower",
+      "after": "Invocar Flor Curativa",
+      "before": "Evocar Flor Curativa",
+      "id": "s2-9337d8616b4f5ea7ea9deb89",
+      "verified_reward_name_id": "s2-11364b18f746c5f90dabc315"
+    },
+    {
+      "EN": "Thorny",
+      "after": "Espinhoso",
+      "before": "Espinhoso",
+      "id": "s2-3ca1c1f99d04d26a6a113121",
+      "verified_reward_name_id": "s2-29a0e7c3d867e9e572694ca9"
+    },
+    {
+      "EN": "Vines",
+      "after": "Vinhas",
+      "before": "Vinhas",
+      "id": "s2-c84019064c179d5a19676366",
+      "verified_reward_name_id": "s2-5a3a238124ad5375ee3c0bf9"
+    },
+    {
+      "EN": "Analyze Speed",
+      "after": "Analisar Velocidade",
+      "before": "Analisar Velocidade",
+      "id": "s2-ca6b6fbc61f6a8d8649a0a74",
+      "verified_reward_name_id": "s2-b06715d34c8072893d1e9c4c"
+    },
+    {
+      "EN": "Analyze Weakness",
+      "after": "Analisar Fraqueza",
+      "before": "Analisar Fraqueza",
+      "id": "s2-ec3b40bbaa3d1a19e34995c3",
+      "verified_reward_name_id": "s2-4e2283d82e52702030d59c9e"
+    },
+    {
+      "EN": "Bleeding Shot",
+      "after": "Tiro Sangrento",
+      "before": "Tiro de Sangramento",
+      "id": "s2-0220385cbc9024ca50978f83",
+      "verified_reward_name_id": "s2-0741d5ad21ed91492cabd511"
+    },
+    {
+      "EN": "Book Of Hunting",
+      "after": "Livro de Caça",
+      "before": "Livro de Caça",
+      "id": "s2-1b452feb878d2e67f03e7b0b",
+      "verified_reward_name_id": "s2-05c4ef0d3c2fc011d08028cb"
+    },
+    {
+      "EN": "Eagle Eye",
+      "after": "Olho de Águia",
+      "before": "Olho de Águia",
+      "id": "s2-1ca993126a178f788c6fa0b4",
+      "verified_reward_name_id": "s2-5e9f69dbea13c3f94747bc94"
+    },
+    {
+      "EN": "Find Weakness",
+      "after": "Encontrar Fraqueza",
+      "before": "Encontrar Fraqueza",
+      "id": "s2-1ad4c2cb673cc0a8c968cb3f",
+      "verified_reward_name_id": "s2-d8875e90ba7d302b37f2f0ff"
+    },
+    {
+      "EN": "Flaming Shot",
+      "after": "Tiro Flamejante",
+      "before": "Tiro Flamejante",
+      "id": "s2-5e468760bfab91be33c9374b",
+      "verified_reward_name_id": "s2-bab5363b8bdb5e906045af95"
+    },
+    {
+      "EN": "Light Walk",
+      "after": "Passo Leve",
+      "before": "Passo Leve",
+      "id": "s2-97e01393081fad518f2ea2cb",
+      "verified_reward_name_id": "s2-166b00c8a1b175f54cb25875"
+    },
+    {
+      "EN": "Lightning Shot",
+      "after": "Tiro de Raio",
+      "before": "Tiro de Relâmpago",
+      "id": "s2-4c27a27277c0dcc241d2bdbf",
+      "verified_reward_name_id": "s2-f53e13e5e2080d68bce143c3"
+    },
+    {
+      "EN": "Make Them Weak",
+      "after": "Torná-los Fracos",
+      "before": "Enfraquecê-los",
+      "id": "s2-22c984fb059d3d6750119473",
+      "verified_reward_name_id": "s2-057fd9e8e5c0e263ef438567"
+    },
+    {
+      "EN": "Necrosis Shot",
+      "after": "Disparo de Necrose",
+      "before": "Tiro de Necrose",
+      "id": "s2-35fba117dca63394f032b015",
+      "verified_reward_name_id": "s2-a184fbb2b3baa4d6a0960290"
+    },
+    {
+      "EN": "Piercing Shot",
+      "after": "Tiro Perfurante",
+      "before": "Tiro Perfurante",
+      "id": "s2-32b44efaccb3829bcd886b44",
+      "verified_reward_name_id": "s2-92fea22abd3e85eb3c149f6c"
+    },
+    {
+      "EN": "Poison Shot",
+      "after": "Tiro Venenoso",
+      "before": "Tiro Envenenado",
+      "id": "s2-f94a5731b05aab75f06f41aa",
+      "verified_reward_name_id": "s2-904dc99ce2c6d19a0f8c1765"
+    },
+    {
+      "EN": "Strength In Numbers",
+      "after": "A União Faz a Força",
+      "before": "Força nos Números",
+      "id": "s2-d6df96af1ff51242deb7c2b2",
+      "verified_reward_name_id": "s2-8745d8d711fad4da1fdd8300"
+    },
+    {
+      "EN": "Superior Scavenger",
+      "after": "Catador Superior",
+      "before": "Catador Superior",
+      "id": "s2-514148e5d805675e0970b4fd",
+      "verified_reward_name_id": "s2-5f0ec29d05b6cf0bcdf5bc51"
+    },
+    {
+      "EN": "Trained Beasts",
+      "after": "Bestas Treinadas",
+      "before": "Bestas Treinadas",
+      "id": "s2-de043fc7d9b32f5cae267c20",
+      "verified_reward_name_id": "s2-1862e6abbaf2f8f4ca43625e"
+    },
+    {
+      "EN": "Amber Spider",
+      "after": "Aranha de Âmbar",
+      "before": "Aranha de Âmbar",
+      "id": "s2-d570825f75f9877a60f574fb",
+      "verified_reward_name_id": "s2-c30b9b0176ad40a17f4604f6"
+    },
+    {
+      "EN": "Bird Skull Figurine",
+      "after": "Estatueta de Crânio de Pássaro",
+      "before": "Estatueta de Crânio de Pássaro",
+      "id": "s2-6cddca39b96edb9268f953aa",
+      "verified_reward_name_id": "s2-5c19de82771b875ed60d99ca"
+    },
+    {
+      "EN": "Black Pipe",
+      "after": "Cachimbo Preto",
+      "before": "Cachimbo Negro",
+      "id": "s2-c98dc744ddc86ec113b1431c",
+      "verified_reward_name_id": "s2-066f782fa1363acb0b81931a"
+    },
+    {
+      "EN": "Bloody Chain",
+      "after": "Corrente Sangrenta",
+      "before": "Corrente Sangrenta",
+      "id": "s2-4d439f65412b399d46cf57df",
+      "verified_reward_name_id": "s2-db44f0930157d2e59d4c3005"
+    },
+    {
+      "EN": "Bloody Necklace",
+      "after": "Colar Sangrento",
+      "before": "Colar Sangrento",
+      "id": "s2-f30156f4663cf09718c0ea28",
+      "verified_reward_name_id": "s2-435fd457eda75253053c8dde"
+    },
+    {
+      "EN": "Bloody Ring",
+      "after": "Anel Sangrento",
+      "before": "Anel Sangrento",
+      "id": "s2-35cb7ec3b27d59dfb2298119",
+      "verified_reward_name_id": "s2-ec56b992ba1f4d2f1b39e97e"
+    },
+    {
+      "EN": "Bloody Tiara",
+      "after": "Tiara Sangrenta",
+      "before": "Tiara Sangrenta",
+      "id": "s2-0cfe63838e0b5b2f5b269b4a",
+      "verified_reward_name_id": "s2-9a6afe50d45d75b690ef98c0"
+    },
+    {
+      "EN": "Bone Amulet",
+      "after": "Amuleto de Osso",
+      "before": "Amuleto de Osso",
+      "id": "s2-5b6b4e189c7e292a01f394b2",
+      "verified_reward_name_id": "s2-28e989d0515a13aa64759365"
+    },
+    {
+      "EN": "Bone Beads Necklace",
+      "after": "Colar de Contas de Osso",
+      "before": "Colar de Contas de Osso",
+      "id": "s2-91b634c36b835a59f422ef73",
+      "verified_reward_name_id": "s2-4fb720b7d49a8047c7b45d64"
+    },
+    {
+      "EN": "Bone Brooch",
+      "after": "Broche de Osso",
+      "before": "Broche de Osso",
+      "id": "s2-efb773a53e482f81600d49de",
+      "verified_reward_name_id": "s2-4e62a1bbd3c27b54547cc0e2"
+    },
+    {
+      "EN": "Bone Chimes",
+      "after": "Campainhas de Osso",
+      "before": "Campainhas de Osso",
+      "id": "s2-6a47916e390140ca712ba628",
+      "verified_reward_name_id": "s2-6d905c19592e6d86c38105bb"
+    },
+    {
+      "EN": "Bone Crown",
+      "after": "Coroa de Osso",
+      "before": "Coroa de Osso",
+      "id": "s2-b659f99e6306ad4aa7d53224",
+      "verified_reward_name_id": "s2-ab852de5c37f3fcf0df81e9d"
+    },
+    {
+      "EN": "Bone Dice",
+      "after": "Dados de Osso",
+      "before": "Dados de Osso",
+      "id": "s2-c231399dd4ad71107a173ce8",
+      "verified_reward_name_id": "s2-119d08ffed9af1a93dc585e4"
+    },
+    {
+      "EN": "Bone Key",
+      "after": "Chave de Osso",
+      "before": "Chave de Osso",
+      "id": "s2-d4fc620ed56caec229099cdc",
+      "verified_reward_name_id": "s2-fa4351fb277b5178603beddd"
+    },
+    {
+      "EN": "Bone Lock",
+      "after": "Fechadura de Osso",
+      "before": "Fechadura de Osso",
+      "id": "s2-9ff5f4f78d0fb634c6e369c1",
+      "verified_reward_name_id": "s2-f3d3aff082dd9d81c991a777"
+    },
+    {
+      "EN": "Bone Ring",
+      "after": "Anel de Osso",
+      "before": "Anel de Osso",
+      "id": "s2-a922784de7f0bccfed626aa3",
+      "verified_reward_name_id": "s2-fa8b2b06292904e1f1e1efd2"
+    },
+    {
+      "EN": "Book Of Imbuing",
+      "after": "Livro de Imbuição",
+      "before": "Livro de Imbuimento",
+      "id": "s2-190c2b7395236a09bfbdfeba",
+      "verified_reward_name_id": "s2-0ee825de9d699ee02a187cd0"
+    },
+    {
+      "EN": "Braided Leather Necklace",
+      "after": "Colar de Couro Trançado",
+      "before": "Colar de Couro Trançado",
+      "id": "s2-fa02eddecad09a1a3665f99b",
+      "verified_reward_name_id": "s2-dffd491d6b0e0ff2076feefc"
+    },
+    {
+      "EN": "Button",
+      "after": "Botão",
+      "before": "Botão",
+      "id": "s2-fc33d9fd7ff845b0b7c0eefb",
+      "verified_reward_name_id": "s2-a388e6ea5ee72b1f4f59125c"
+    },
+    {
+      "EN": "Carved Bone Beads",
+      "after": "Contas de Osso Entalhadas",
+      "before": "Contas de Osso Entalhado",
+      "id": "s2-9e4ffd41690687b52f3574e6",
+      "verified_reward_name_id": "s2-91562539d1e0a72166399ce6"
+    },
+    {
+      "EN": "Carved Skull",
+      "after": "Crânio Esculpido",
+      "before": "Crânio Entalhado",
+      "id": "s2-12625372df0c0ede8ea4dee0",
+      "verified_reward_name_id": "s2-2253c257254b468d38c2d34c"
+    },
+    {
+      "EN": "Cat Eye Ring",
+      "after": "Anel de Olho de Gato",
+      "before": "Anel de Olho de Gato",
+      "id": "s2-e95bd0bdff58bfafb1dad5c7",
+      "verified_reward_name_id": "s2-c152f1fe3f39fd3542be6033"
+    },
+    {
+      "EN": "Clan Emblem",
+      "after": "Emblema de Clã",
+      "before": "Emblema Clânico",
+      "id": "s2-e7179919aee599f002abfd2b",
+      "verified_reward_name_id": "s2-981d46db3dcbce51517e5abe"
+    },
+    {
+      "EN": "Claw Ring",
+      "after": "Anel de Garra",
+      "before": "Anel de Garra",
+      "id": "s2-73344dae24e6b86d21c3fe04",
+      "verified_reward_name_id": "s2-51cbc6e3f63623ef14929564"
+    },
+    {
+      "EN": "Coffin Key",
+      "after": "Chave de Caixão",
+      "before": "Chave de Caixão",
+      "id": "s2-4c71abe0cbca0e3aa3b1bd96",
+      "verified_reward_name_id": "s2-f6ecb419e92f40025e3e64fd"
+    },
+    {
+      "EN": "Dead Beetle Necklace",
+      "after": "Colar de Besouro Morto",
+      "before": "Colar de Besouro Morto",
+      "id": "s2-1ebc2415a1e0f8bf95470920",
+      "verified_reward_name_id": "s2-7174ed136da1a9ffb937b42e"
+    },
+    {
+      "EN": "Death Ring",
+      "after": "Anel da Morte",
+      "before": "Anel da Morte",
+      "id": "s2-b7e81385957faf9de8cb9478",
+      "verified_reward_name_id": "s2-b3faa6dead688c187b5bae93"
+    },
+    {
+      "EN": "Doorknob",
+      "after": "Maçaneta",
+      "before": "Maçaneta",
+      "id": "s2-9ffebe9f8382b5bcb0a0b004",
+      "verified_reward_name_id": "s2-fd71982f97d89af60571f23c"
+    },
+    {
+      "EN": "Dwarven Signet",
+      "after": "Sinete Anão",
+      "before": "Sinete Anão",
+      "id": "s2-2311367a63e67d47fdfaa823",
+      "verified_reward_name_id": "s2-e5618ae50e5ced30eb7aa2b5"
+    },
+    {
+      "EN": "Earrings",
+      "after": "Brincos",
+      "before": "Brincos",
+      "id": "s2-f3722af65a9b55a7b7899781",
+      "verified_reward_name_id": "s2-7e7012d01590c9f2b1650d33"
+    },
+    {
+      "EN": "Winter's Embrace Necklace",
+      "after": "Colar do Abraço do Inverno",
+      "before": "Colar do Abraço do Inverno",
+      "id": "s2-71fd8a018fa94d3f33e718ef",
+      "verified_reward_name_id": "s2-4919e15fedfc1f68718de235"
+    },
+    {
+      "EN": "Everlasting Flower",
+      "after": "Flor Eterna",
+      "before": "Flor Eterna",
+      "id": "s2-6cc5df53e51730204e702dbe",
+      "verified_reward_name_id": "s2-5382964908daddca56ce7974"
+    },
+    {
+      "EN": "Flower Crown",
+      "after": "Coroa de Flores",
+      "before": "Coroa de Flores",
+      "id": "s2-5b52fd0f9f031250d4299672",
+      "verified_reward_name_id": "s2-b384b6739099a327d471e46c"
+    },
+    {
+      "EN": "Flower Necklace",
+      "after": "Colar de Flores",
+      "before": "Colar de Flores",
+      "id": "s2-9d120176ce7b7e1b16a01733",
+      "verified_reward_name_id": "s2-1f5bee9a26599410ee937367"
+    },
+    {
+      "EN": "Fortune Amulet",
+      "after": "Amuleto da Fortuna",
+      "before": "Amuleto da Fortuna",
+      "id": "s2-6e0f26ac7cd07b550dce6818",
+      "verified_reward_name_id": "s2-5b5e080bc61b4e46358037a9"
+    },
+    {
+      "EN": "Frost Flower Ring",
+      "after": "Anel de Flor de Geada",
+      "before": "Anel de Flor de Geada",
+      "id": "s2-885ba79384a4cf66e92a056c",
+      "verified_reward_name_id": "s2-5a9222daefc1540ad086b9b3"
+    },
+    {
+      "EN": "Frozen Heart Locket",
+      "after": "Medalhão de Coração Congelado",
+      "before": "Medalhão do Coração Congelado",
+      "id": "s2-b25cc3bb237c6d3985351009",
+      "verified_reward_name_id": "s2-e06e25f3ba79d59a5a2f7760"
+    },
+    {
+      "EN": "Frozen Light",
+      "after": "Luz Congelada",
+      "before": "Luz Congelada",
+      "id": "s2-3f3c76e3e4a4c9a4a5ff15d0",
+      "verified_reward_name_id": "s2-b076c9da7512bcf312e1d6e2"
+    },
+    {
+      "EN": "Frozen Tear",
+      "after": "Lágrima Congelada",
+      "before": "Lágrima Congelada",
+      "id": "s2-084914787209bbcf3afee5da",
+      "verified_reward_name_id": "s2-bd384f81a8af855ad6b0b803"
+    },
+    {
+      "EN": "Garden Amulet",
+      "after": "Amuleto de Jardim",
+      "before": "Amuleto do Jardim",
+      "id": "s2-20509b80eb587f1cbaef71bb",
+      "verified_reward_name_id": "s2-42d1510cc3215ba3c7e1fc30"
+    },
+    {
+      "EN": "Gemless Ring",
+      "after": "Anel Sem Gema",
+      "before": "Anel sem Gema",
+      "id": "s2-9647eaadfe74a33524893580",
+      "verified_reward_name_id": "s2-c6752c66476dc255caa7b314"
+    },
+    {
+      "EN": "Glacial Amulet",
+      "after": "Amuleto Glacial",
+      "before": "Amuleto Glacial",
+      "id": "s2-6ec4450a99d640af6222951f",
+      "verified_reward_name_id": "s2-ffc21c13fed08b36e467ba59"
+    },
+    {
+      "EN": "Goblin Amulet",
+      "after": "Amuleto Goblin",
+      "before": "Amuleto de Goblin",
+      "id": "s2-f5ffe039176f366034b93837",
+      "verified_reward_name_id": "s2-0765f1086563d37d1753e677"
+    },
+    {
+      "EN": "Golden Fang",
+      "after": "Presa Dourada",
+      "before": "Presa Dourada",
+      "id": "s2-ae799e2fb8dd51002c1cd518",
+      "verified_reward_name_id": "s2-4ab3c87ee8612f7ae79219c7"
+    },
+    {
+      "EN": "Heavy Necklace",
+      "after": "Colar Pesado",
+      "before": "Colar Pesado",
+      "id": "s2-b3e2cbf7c8bd4a9f245430e4",
+      "verified_reward_name_id": "s2-b8fba4408d8ed85588bbf826"
+    },
+    {
+      "EN": "Hunter Amulet",
+      "after": "Amuleto do Caçador",
+      "before": "Amuleto de Caçador",
+      "id": "s2-03e6d8f9221fe1b7b4592bba",
+      "verified_reward_name_id": "s2-54618d81d8c1b80c8a8f7b64"
+    },
+    {
+      "EN": "Icebound Tiara",
+      "after": "Tiara Gelada",
+      "before": "Tiara Gelada",
+      "id": "s2-95f8b08a3ace0c76896729a2",
+      "verified_reward_name_id": "s2-0cc8d5c5162c7aa02c3df86d"
+    },
+    {
+      "EN": "Icicle Charm",
+      "after": "Amuleto de Gelo",
+      "before": "Amuleto de Gelo",
+      "id": "s2-e0fba50bf993912ff1826ccb",
+      "verified_reward_name_id": "s2-3964f0663ce379ba93ca0a23"
+    },
+    {
+      "EN": "Leaf Signet",
+      "after": "Sinete de Folha",
+      "before": "Sinete de Folha",
+      "id": "s2-ec6238dc720109445f6c98fb",
+      "verified_reward_name_id": "s2-5c121fbc3de4c7174edb428f"
+    },
+    {
+      "EN": "Leaf Stone",
+      "after": "Pedra Folha",
+      "before": "Pedra de Folha",
+      "id": "s2-44019ce7f67c1f93b3194cc3",
+      "verified_reward_name_id": "s2-7445772b86c890b4dcea8299"
+    },
+    {
+      "EN": "Leaf Tiara",
+      "after": "Tiara de Folha",
+      "before": "Tiara de Folha",
+      "id": "s2-a82aa2e9b99377fe7d9cc286",
+      "verified_reward_name_id": "s2-0bc93969b4708e154bbd5a93"
+    },
+    {
+      "EN": "Lion Mane Necklace",
+      "after": "Colar de Juba de Leão",
+      "before": "Colar de Juba de Leão",
+      "id": "s2-7662898d1e75bf5025d0a25a",
+      "verified_reward_name_id": "s2-e38a54a0f81c8b7a6f0f71ec"
+    },
+    {
+      "EN": "Magic Door",
+      "after": "Porta Mágica",
+      "before": "Porta Mágica",
+      "id": "s2-d44398f338dea98fe6fcf96c",
+      "verified_reward_name_id": "s2-d721be70f1fad532860b1553"
+    },
+    {
+      "EN": "Magnificent Ring",
+      "after": "Anel Magnífico",
+      "before": "Anel Magnífico",
+      "id": "s2-a3e270a706f9292e0cabe761",
+      "verified_reward_name_id": "s2-c3a4da101482c59f6a6307b8"
+    },
+    {
+      "EN": "Mastery Ring",
+      "after": "Anel de Maestria",
+      "before": "Anel de Maestria",
+      "id": "s2-d2f24b260a0a8653b3ac494e",
+      "verified_reward_name_id": "s2-4a90e4c7caa61b47defc50af"
+    },
+    {
+      "EN": "Moon Crown",
+      "after": "Coroa da Lua",
+      "before": "Coroa da Lua",
+      "id": "s2-e4bcc2a07eb44ab987f773e9",
+      "verified_reward_name_id": "s2-7c5a3aba23e49ab3f7780ebd"
+    },
+    {
+      "EN": "Mountain Ring",
+      "after": "Anel da Montanha",
+      "before": "Anel da Montanha",
+      "id": "s2-c9589e6c2ba443bc29384844",
+      "verified_reward_name_id": "s2-de3a455f1914b1f2bd396fc6"
+    },
+    {
+      "EN": "Night Crown",
+      "after": "Coroa da Noite",
+      "before": "Coroa Noturna",
+      "id": "s2-a86d1167b8705641c89ad8b3",
+      "verified_reward_name_id": "s2-2fb0316d5564dfb3835595cc"
+    },
+    {
+      "EN": "Orc Amulet",
+      "after": "Amuleto Orc",
+      "before": "Amuleto Orc",
+      "id": "s2-5dec34d91e06851a3b9dccaf",
+      "verified_reward_name_id": "s2-92f60dd903fbaaacee88d126"
+    },
+    {
+      "EN": "Rock Crown",
+      "after": "Coroa de Pedra",
+      "before": "Coroa de Pedra",
+      "id": "s2-eaa6016544e46d067606547e",
+      "verified_reward_name_id": "s2-9f11344f62c17b1f6f50b74e"
+    },
+    {
+      "EN": "Royal Amulet",
+      "after": "Amuleto Real",
+      "before": "Amuleto Real",
+      "id": "s2-7caef56134c7115fe7c649b1",
+      "verified_reward_name_id": "s2-8cc0d5a6bc874a198be67e7d"
+    },
+    {
+      "EN": "Royal Ring",
+      "after": "Anel Real",
+      "before": "Anel Real",
+      "id": "s2-c758cb988e704665c3b506ef",
+      "verified_reward_name_id": "s2-081f086ef64c436180f937aa"
+    },
+    {
+      "EN": "Rune Of Fire",
+      "after": "Runa de Fogo",
+      "before": "Runa de Fogo",
+      "id": "s2-9ca116e6f115fc892956edcc",
+      "verified_reward_name_id": "s2-4cc02bf911cfbdb28df971c4"
+    },
+    {
+      "EN": "Rune Of Power",
+      "after": "Runa de Poder",
+      "before": "Runa de Poder",
+      "id": "s2-feeabb9cb406ae302c58a113",
+      "verified_reward_name_id": "s2-0e89c46d205791123bbc81ed"
+    },
+    {
+      "EN": "Rune Of Protection",
+      "after": "Runa de Proteção",
+      "before": "Runa de Proteção",
+      "id": "s2-b4b33c1cbc074956b62ac8b2",
+      "verified_reward_name_id": "s2-0b4d1c5c5a134bf0e80ce64b"
+    },
+    {
+      "EN": "Rune Of Strength",
+      "after": "Runa de Força",
+      "before": "Runa de Força",
+      "id": "s2-970862f84700bd7683c88349",
+      "verified_reward_name_id": "s2-fc62d66dbe55cf793dd59a82"
+    },
+    {
+      "EN": "Rune Of Survival",
+      "after": "Runa de Sobrevivência",
+      "before": "Runa de Sobrevivência",
+      "id": "s2-9d2a3ab90226b66d910c8b73",
+      "verified_reward_name_id": "s2-bbf733d96ca8fcc456207e00"
+    },
+    {
+      "EN": "Rune Of Toughness",
+      "after": "Runa de Resistência",
+      "before": "Runa da Resistência",
+      "id": "s2-bfeec9c8eaa895643db06523",
+      "verified_reward_name_id": "s2-772466db640885de7533b533"
+    },
+    {
+      "EN": "Rune Signet",
+      "after": "Sinete Rúnico",
+      "before": "Sinete Rúnico",
+      "id": "s2-34e4a729a9a64687378700ec",
+      "verified_reward_name_id": "s2-2912f457e707f1a294deb3d9"
+    },
+    {
+      "EN": "Shaman Amulet",
+      "after": "Amuleto Xamânico",
+      "before": "Amuleto de Xamã",
+      "id": "s2-b541a76501b454032369b29c",
+      "verified_reward_name_id": "s2-5b1db2743f9e26c60e900a3e"
+    },
+    {
+      "EN": "Shell Ring",
+      "after": "Anel de Concha",
+      "before": "Anel de Concha",
+      "id": "s2-7bb25e0f5dece4650cad1f36",
+      "verified_reward_name_id": "s2-8d67e4e3614810977b37c4e4"
+    },
+    {
+      "EN": "Shiverstone",
+      "after": "Pedra Tremedora",
+      "before": "Pedra do Calafrio",
+      "id": "s2-8c447dc00c5b7ad6f5334468",
+      "verified_reward_name_id": "s2-2de8a21bab26e36f4768b192"
+    },
+    {
+      "EN": "Shiverstone Ring",
+      "after": "Anel de Pedra Tremedora",
+      "before": "Anel de Pedra do Calafrio",
+      "id": "s2-d058d598613657132d97567b",
+      "verified_reward_name_id": "s2-9a2d02df658d25d612a1015a"
+    },
+    {
+      "EN": "Simple Ring",
+      "after": "Anel Simples",
+      "before": "Anel Simples",
+      "id": "s2-ffd7d68cfd3bb2db47e0ee03",
+      "verified_reward_name_id": "s2-feb78ce1e6ddf1582abc746a"
+    },
+    {
+      "EN": "Small Cauldron",
+      "after": "Caldeirão Pequeno",
+      "before": "Caldeirão Pequeno",
+      "id": "s2-d3885d9fc303c2d0d00301aa",
+      "verified_reward_name_id": "s2-fcb26ce5bcf4afc083750c68"
+    },
+    {
+      "EN": "Snowflake Brooch",
+      "after": "Broche de Floco de Neve",
+      "before": "Broche do Floco de Neve",
+      "id": "s2-c8f87e64251928babdaaf74b",
+      "verified_reward_name_id": "s2-6c83a667e51dc0e8f7c0b380"
+    },
+    {
+      "EN": "Snowflake Earrings",
+      "after": "Brincos de Floco de Neve",
+      "before": "Brincos do Floco de Neve",
+      "id": "s2-1f5ebde88c9ffd3c2cd77028",
+      "verified_reward_name_id": "s2-4592bd11ca300c64d8a8b1fd"
+    },
+    {
+      "EN": "Spiked Chain",
+      "after": "Corrente com Espinhos",
+      "before": "Corrente com Espinhos",
+      "id": "s2-ab667614144f2139d66ccdbb",
+      "verified_reward_name_id": "s2-4e02d0eb499d05d55aa72359"
+    },
+    {
+      "EN": "Spring Crystal",
+      "after": "Cristal da Primavera",
+      "before": "Cristal da Primavera",
+      "id": "s2-265d8a1f4adf60c233fe7b23",
+      "verified_reward_name_id": "s2-59ed8ff9df139bfa42937e80"
+    },
+    {
+      "EN": "Stone Amulet",
+      "after": "Amuleto de Pedra",
+      "before": "Amuleto de Pedra",
+      "id": "s2-c1b6a8cd9f7f857fd96b1911",
+      "verified_reward_name_id": "s2-24af4e1317152e6954d40b4d"
+    },
+    {
+      "EN": "Stone Beads Ring",
+      "after": "Anel de Contas de Pedra",
+      "before": "Anel de Contas de Pedra",
+      "id": "s2-672f46383243e210fedca111",
+      "verified_reward_name_id": "s2-b7743b35974e93253f522c2a"
+    },
+    {
+      "EN": "Stone Ring",
+      "after": "Anel de Pedra",
+      "before": "Anel de Pedra",
+      "id": "s2-63643246b80175d04ca73fb0",
+      "verified_reward_name_id": "s2-0274de94c85f45d9cbf4516d"
+    },
+    {
+      "EN": "String Ring",
+      "after": "Anel de Corda",
+      "before": "Anel de Barbante",
+      "id": "s2-22181dde39e30aa71e2b6bdc",
+      "verified_reward_name_id": "s2-3a4284187022e067aaf2c2fd"
+    },
+    {
+      "EN": "Summer Ring",
+      "after": "Anel de Verão",
+      "before": "Anel de Verão",
+      "id": "s2-fd34f27fe51a63d40aae97f6",
+      "verified_reward_name_id": "s2-648e540268a196687b23036d"
+    },
+    {
+      "EN": "Sun Amulet",
+      "after": "Amuleto Solar",
+      "before": "Amuleto Solar",
+      "id": "s2-c614d00da14ce62edd64e5f9",
+      "verified_reward_name_id": "s2-ec1bf73e4e29b7dcebe706d4"
+    },
+    {
+      "EN": "Tree Amulet",
+      "after": "Amuleto de Árvore",
+      "before": "Amuleto da Árvore",
+      "id": "s2-0e6e4b5826bc54370beabc8d",
+      "verified_reward_name_id": "s2-847c7b23fa46910061e48687"
+    },
+    {
+      "EN": "Tree Of Life Figurine",
+      "after": "Estatueta da Árvore da Vida",
+      "before": "Figura da Árvore da Vida",
+      "id": "s2-540db157e7e4f43b8ee86c83",
+      "verified_reward_name_id": "s2-1540dcebbb991527aeec96fa"
+    },
+    {
+      "EN": "Troll Amulet",
+      "after": "Amuleto de Troll",
+      "before": "Amuleto de Troll",
+      "id": "s2-3020957c2e120f0a9c86690a",
+      "verified_reward_name_id": "s2-1cfc2f2251e2ddd867b0f59f"
+    },
+    {
+      "EN": "Whispering Charm",
+      "after": "Amuleto Sussurrante",
+      "before": "Encanto Sussurrante",
+      "id": "s2-3c3873dd822edfcad5a1dcc5",
+      "verified_reward_name_id": "s2-f740bd357d8bfddd73afca60"
+    },
+    {
+      "EN": "Wicker Doll",
+      "after": "Boneco de Vime",
+      "before": "Boneca de Vime",
+      "id": "s2-97c94d8ff89fab83036f348f",
+      "verified_reward_name_id": "s2-2dad1f7ee784b8477c6baf72"
+    },
+    {
+      "EN": "Wishbone",
+      "after": "Osso do Desejo",
+      "before": "Osso da Sorte",
+      "id": "s2-8123f9a3c663234c5c73599e",
+      "verified_reward_name_id": "s2-372ffa700dedc16cdd4bd5fb"
+    },
+    {
+      "EN": "Wooden Eye",
+      "after": "Olho de Madeira",
+      "before": "Olho de Madeira",
+      "id": "s2-ff4858bb87bf1dbf3f2b1ed1",
+      "verified_reward_name_id": "s2-90795600c338ebbeab062519"
+    },
+    {
+      "EN": "Wooden Splinter",
+      "after": "Lasca de Madeira",
+      "before": "Lasca de Madeira",
+      "id": "s2-cf616a442a52bdec0edb796b",
+      "verified_reward_name_id": "s2-c3d1828cb1310c76911992dd"
+    },
+    {
+      "EN": "Better Friends",
+      "after": "Melhores Amigos",
+      "before": "Melhores Amigos",
+      "id": "s2-f29ba4ba3945b84e883756c2",
+      "verified_reward_name_id": "s2-594aa1775230ff2e151bb109"
+    },
+    {
+      "EN": "Extra Pockets",
+      "after": "Bolsos Extras",
+      "before": "Bolsos Extras",
+      "id": "s2-c3381ece023225b9f7869f15",
+      "verified_reward_name_id": "s2-93a33ded70c5bcd02754ac2b"
+    },
+    {
+      "EN": "First Aid",
+      "after": "Primeiros Socorros",
+      "before": "Primeiros Socorros",
+      "id": "s2-bd7274ad1d42535ddb610f9a",
+      "verified_reward_name_id": "s2-7437341c3be33860e4f0a0e0"
+    },
+    {
+      "EN": "Heavy Duty",
+      "after": "Uso Pesado",
+      "before": "Serviço Pesado",
+      "id": "s2-c51bd95db52ac85397c15d7a",
+      "verified_reward_name_id": "s2-8d7843bef0f10c3713c33761"
+    },
+    {
+      "EN": "Iron Will",
+      "after": "Vontade de Ferro",
+      "before": "Vontade de Ferro",
+      "id": "s2-4e80f9ea3182cee6f1ac38e9",
+      "verified_reward_name_id": "s2-a388b8ec95fc445689d2dc42"
+    },
+    {
+      "EN": "Party Buff",
+      "after": "Fortalecimento do Grupo",
+      "before": "Buff do Grupo",
+      "id": "s2-5501e4f4a65d0ac510f85b39",
+      "verified_reward_name_id": "s2-3bf8adc06a3c3d67bbf97524"
+    },
+    {
+      "EN": "Ignore Party",
+      "after": "Ignorar Grupo",
+      "before": "Ignorar Grupo",
+      "id": "s2-9844357ea4fb2238e055e148",
+      "verified_reward_name_id": "s2-ae98ef9d3cbe0a556494597b"
+    },
+    {
+      "EN": "Rapid Retreat",
+      "after": "Recuo Rápido",
+      "before": "Recuo Rápido",
+      "id": "s2-d63b8de31fbfc2d8c35fd519",
+      "verified_reward_name_id": "s2-da29e2c608350e108766dac2"
+    },
+    {
+      "EN": "Aligator Teeth Necklace",
+      "after": "Colar de Dentes de Jacaré",
+      "before": "Colar de Dentes de Jacaré",
+      "id": "s2-4b3e8fd3485861dc2f27b413",
+      "verified_reward_name_id": "s2-87b8a054f0e016163e879add"
+    },
+    {
+      "EN": "Back Quiver",
+      "after": "Aljava de Costas",
+      "before": "Aljava nas Costas",
+      "id": "s2-fe20ff10905580d5b81aa27e",
+      "verified_reward_name_id": "s2-16d4992325d9de660fd965bb"
+    },
+    {
+      "EN": "Barbarian Belt",
+      "after": "Cinto Bárbaro",
+      "before": "Cinto Bárbaro",
+      "id": "s2-769d99b486308634c78820ef",
+      "verified_reward_name_id": "s2-d6389215fa5f7950dda38514"
+    },
+    {
+      "EN": "Barbarian Boots",
+      "after": "Botas de Bárbaro",
+      "before": "Botas Bárbaras",
+      "id": "s2-e1b0a81b5efb0fe37cb05723",
+      "verified_reward_name_id": "s2-4157fd79b005406a87802efc"
+    },
+    {
+      "EN": "Belt",
+      "after": "Cinto",
+      "before": "Cinto",
+      "id": "s2-7971730a2ff8d8b1aea4d3bb",
+      "verified_reward_name_id": "s2-b05d510338bee2b47af11f0c"
+    },
+    {
+      "EN": "Bone Sabatons",
+      "after": "Sabatons de Osso",
+      "before": "Sabatons de Osso",
+      "id": "s2-90c085d446431fdf8a8149a1",
+      "verified_reward_name_id": "s2-7c7edc97244cd1f6c95d8ce8"
+    },
+    {
+      "EN": "Bone Vambraces",
+      "after": "Braçadeiras de Osso",
+      "before": "Braçadeiras de Osso",
+      "id": "s2-35f81c9a7a51edbb11e80061",
+      "verified_reward_name_id": "s2-a412a0a9a5e99f304c64a471"
+    },
+    {
+      "EN": "Book Of Leatherworking",
+      "after": "Livro do Curtume",
+      "before": "Livro de Curtume",
+      "id": "s2-b22ad4e1f9d6bac68a052ecc",
+      "verified_reward_name_id": "s2-fe077b34df3ec8e6c74605e0"
+    },
+    {
+      "EN": "Brigandine",
+      "after": "Brigantina",
+      "before": "Brigantina",
+      "id": "s2-0959d9c102047cb7ae6bc6fc",
+      "verified_reward_name_id": "s2-f4995358b55b8a15cf95ee09"
+    },
+    {
+      "EN": "Cestus",
+      "after": "Cesto",
+      "before": "Cesto",
+      "id": "s2-0c3fd0890037ab9800b72228",
+      "verified_reward_name_id": "s2-99645a4a1ee712d21f545cc3"
+    },
+    {
+      "EN": "Dark Boots",
+      "after": "Botas Sombrias",
+      "before": "Botas Sombrias",
+      "id": "s2-ccc974c80f4e66cd10ed55e8",
+      "verified_reward_name_id": "s2-edba4d7526676169fd21ad17"
+    },
+    {
+      "EN": "Decorated Belt",
+      "after": "Cinto Decorado",
+      "before": "Cinto Decorado",
+      "id": "s2-cabd73efe39723754b391355",
+      "verified_reward_name_id": "s2-2d12fe7ad281b0a9e716c1b4"
+    },
+    {
+      "EN": "Decorated Collar",
+      "after": "Coleira Decorada",
+      "before": "Coleira Decorada",
+      "id": "s2-882e63a94f9efbcc2f3ea8ae",
+      "verified_reward_name_id": "s2-a247e370d96c37d6ca9b4aad"
+    },
+    {
+      "EN": "Dread Mask",
+      "after": "Máscara Medonha",
+      "before": "Máscara Medonha",
+      "id": "s2-f35601837bd1577f23103bbf",
+      "verified_reward_name_id": "s2-6491d9986b3a5987e1a2c9e2"
+    },
+    {
+      "EN": "Dwarven Belt",
+      "after": "Cinto Anão",
+      "before": "Cinto Anão",
+      "id": "s2-73c3311564fde3c282035a0e",
+      "verified_reward_name_id": "s2-d4868902da7944a8d9c697a6"
+    },
+    {
+      "EN": "Earmuffs",
+      "after": "Protetores de Orelha",
+      "before": "Protetores de Orelha",
+      "id": "s2-ab6db360a18d179be7b42cbc",
+      "verified_reward_name_id": "s2-cfad37f0fb1a3739c3db9c63"
+    },
+    {
+      "EN": "Embroidered Quiver",
+      "after": "Aljava Bordada",
+      "before": "Aljava Bordada",
+      "id": "s2-867774555a71b3eec2b15d10",
+      "verified_reward_name_id": "s2-0bc855fad80902ace8328b4c"
+    },
+    {
+      "EN": "Fang Necklace",
+      "after": "Colar de Presas",
+      "before": "Colar de Presa",
+      "id": "s2-d62fcc577c2c00fd791bb8d2",
+      "verified_reward_name_id": "s2-f960ece2c7d6c73a91078c58"
+    },
+    {
+      "EN": "Fur Armor",
+      "after": "Armadura de Pele",
+      "before": "Armadura de Pelo",
+      "id": "s2-4457e66d279a0531c13954be",
+      "verified_reward_name_id": "s2-9afd396c72abc221282c76c4"
+    },
+    {
+      "EN": "Fur Boots",
+      "after": "Botas de Pele",
+      "before": "Botas de Pele",
+      "id": "s2-97fbdd4fd74696e412554353",
+      "verified_reward_name_id": "s2-fa41320d1c3f009b1fd24fca"
+    },
+    {
+      "EN": "Fur Cap",
+      "after": "Gorro de Pele",
+      "before": "Touca de Pele",
+      "id": "s2-7b95d56799e2fafad822172e",
+      "verified_reward_name_id": "s2-08841d8b6553add07fcac7cc"
+    },
+    {
+      "EN": "Fur Cape",
+      "after": "Capa de Pele",
+      "before": "Capa de Pele",
+      "id": "s2-619a825348f26ecccc2d1f0c",
+      "verified_reward_name_id": "s2-a45fcc25f7eb4cdcff67d50c"
+    },
+    {
+      "EN": "Fur Dress",
+      "after": "Vestido de Pele",
+      "before": "Vestido de Pele",
+      "id": "s2-cf42b3db71dce92de3c7b3ed",
+      "verified_reward_name_id": "s2-ad05a82852542c1529c64915"
+    },
+    {
+      "EN": "Fur Hood",
+      "after": "Capuz de Pele",
+      "before": "Capuz de Pele",
+      "id": "s2-6acf235aee738df357ebe83c",
+      "verified_reward_name_id": "s2-1da36ba8d8f372819081b279"
+    },
+    {
+      "EN": "Fur Loincloth",
+      "after": "Tapa-sexo de Pele",
+      "before": "Tapa-sexo de Pele",
+      "id": "s2-64d22be621395e11ac241a60",
+      "verified_reward_name_id": "s2-71252f221b8f0cecc38a41a8"
+    },
+    {
+      "EN": "Fur Mantle",
+      "after": "Manto de Pele",
+      "before": "Manto de Pele",
+      "id": "s2-22f8904bcfde2e89815f11ea",
+      "verified_reward_name_id": "s2-be27d73098a68ab2eecb0573"
+    },
+    {
+      "EN": "Fur Mittens",
+      "after": "Luvas de Pele",
+      "before": "Luvas de Pele",
+      "id": "s2-2e793191087db8863c5baf4e",
+      "verified_reward_name_id": "s2-95304d8ab0373a0dbd104aaa"
+    },
+    {
+      "EN": "Fur Pants",
+      "after": "Calças de Pele",
+      "before": "Calças de Pele",
+      "id": "s2-3006e9ff7fe620350bee6375",
+      "verified_reward_name_id": "s2-974873f3e036b30e2daba589"
+    },
+    {
+      "EN": "Fur Parka",
+      "after": "Parka de Pele",
+      "before": "Parka de Pele",
+      "id": "s2-08f0de69b5900917f58e37d0",
+      "verified_reward_name_id": "s2-f3f9dfa9a9e14af79de47153"
+    },
+    {
+      "EN": "Fur Pauldron",
+      "after": "Espaldeira de Pele",
+      "before": "Espaldar de Pele",
+      "id": "s2-4b52f3fcb09d336a423d1991",
+      "verified_reward_name_id": "s2-d2f91df61dfe0b84f58989fc"
+    },
+    {
+      "EN": "Fur Pouch",
+      "after": "Bolsa de Pele",
+      "before": "Bolsa de Pele",
+      "id": "s2-558ab7d1499a7a369f8a900e",
+      "verified_reward_name_id": "s2-ccbe9669f2015c96d6fd2b18"
+    },
+    {
+      "EN": "Fur Shirt",
+      "after": "Camisa de Pele",
+      "before": "Camisa de Pele",
+      "id": "s2-242d2db5925da8646d547b69",
+      "verified_reward_name_id": "s2-d8e37dab7b8f1ae0e8d1ac31"
+    },
+    {
+      "EN": "Fur Vest",
+      "after": "Colete de Pele",
+      "before": "Colete de Pele",
+      "id": "s2-feb3e2d1ce560873d694c523",
+      "verified_reward_name_id": "s2-31d2a65f3c1227e7d5f4da02"
+    },
+    {
+      "EN": "Heavy Belt",
+      "after": "Cinto Pesado",
+      "before": "Cinto Pesado",
+      "id": "s2-1500825492b5444bddd6a30f",
+      "verified_reward_name_id": "s2-8c89a0239a5b85dd6d4662bc"
+    },
+    {
+      "EN": "High Boots",
+      "after": "Botas Altas",
+      "before": "Botas de Cano Alto",
+      "id": "s2-a544ab6c4985d5d8f640e473",
+      "verified_reward_name_id": "s2-b3c87f9e970e574ded2c0d04"
+    },
+    {
+      "EN": "High Heels",
+      "after": "Saltos Altos",
+      "before": "Saltos Altos",
+      "id": "s2-a708bbecd366f751fcc10ca5",
+      "verified_reward_name_id": "s2-3eac027e1fb874f36143b2fd"
+    },
+    {
+      "EN": "Hiking Boots",
+      "after": "Botas de Caminhada",
+      "before": "Botas de Trilha",
+      "id": "s2-aa1c4e3ca8a95a74e5054386",
+      "verified_reward_name_id": "s2-9a3750be8f8cbaff9d62e0c1"
+    },
+    {
+      "EN": "Hunter's Greaves",
+      "after": "Grevas de Caçador",
+      "before": "Grebas de Caçador",
+      "id": "s2-4e8ddf9b75ccb639c84492c5",
+      "verified_reward_name_id": "s2-231933f55941ba0fed45b8f4"
+    },
+    {
+      "EN": "Lamellar Armor",
+      "after": "Armadura Lamelar",
+      "before": "Armadura Lamelar",
+      "id": "s2-6f31d619737b080304880005",
+      "verified_reward_name_id": "s2-1348f6882d0e314b9fd62182"
+    },
+    {
+      "EN": "Leather Cape",
+      "after": "Capa de Couro",
+      "before": "Capa de Couro",
+      "id": "s2-5aa8ba202093d14e752c009e",
+      "verified_reward_name_id": "s2-6259a0edfe4fddd277726783"
+    },
+    {
+      "EN": "Leather Apron",
+      "after": "Avental de Couro",
+      "before": "Avental de Couro",
+      "id": "s2-7e2b20f881a3acc5762c6539",
+      "verified_reward_name_id": "s2-12115203c995db85d77a246e"
+    },
+    {
+      "EN": "Leather Armor",
+      "after": "Armadura de Couro",
+      "before": "Armadura de Couro",
+      "id": "s2-ce8a8266fbf47187e838c06e",
+      "verified_reward_name_id": "s2-4a5200e193f145aedd512ce1"
+    },
+    {
+      "EN": "Leather Boots",
+      "after": "Botas de Couro",
+      "before": "Botas de Couro",
+      "id": "s2-6871d210093a5dc4ff555628",
+      "verified_reward_name_id": "s2-3b5a0fb52ebf7f3cc764381e"
+    },
+    {
+      "EN": "Leather Cap",
+      "after": "Gorro de Couro",
+      "before": "Gorro de Couro",
+      "id": "s2-3f8257a16970595ca583f269",
+      "verified_reward_name_id": "s2-9799fbdc369cbe8f3fa874bf"
+    },
+    {
+      "EN": "Leather Deel",
+      "after": "Deel de Couro",
+      "before": "Deel de Couro",
+      "id": "s2-6dd8315dace7064eb64f7227",
+      "verified_reward_name_id": "s2-119bcf967018f418c422e3dd"
+    },
+    {
+      "EN": "Leather Gloves",
+      "after": "Luvas de Couro",
+      "before": "Luvas de Couro",
+      "id": "s2-2b0c26e8511d3011a49977fa",
+      "verified_reward_name_id": "s2-efd18df9d5a4f8fc502a649d"
+    },
+    {
+      "EN": "Leather Helmet",
+      "after": "Elmo de Couro",
+      "before": "Elmo de Couro",
+      "id": "s2-09dc98041b032e509f201e0b",
+      "verified_reward_name_id": "s2-58cd8c874d178f5033ecd16b"
+    },
+    {
+      "EN": "Leather Pants",
+      "after": "Calças de Couro",
+      "before": "Calças de Couro",
+      "id": "s2-34fdbe25c9d144392a05b7e0",
+      "verified_reward_name_id": "s2-d4d109750f499a3dc66fb00a"
+    },
+    {
+      "EN": "Leather Pauldron",
+      "after": "Espaldeira de Couro",
+      "before": "Espaldar de Couro",
+      "id": "s2-aacf4cf28aaa1d9d8df3d5f5",
+      "verified_reward_name_id": "s2-2b96e223bf5b9ff6fbe2bd8e"
+    },
+    {
+      "EN": "Leather Robe",
+      "after": "Túnica de Couro",
+      "before": "Túnica de Couro",
+      "id": "s2-fb15c7edb5eccb36921371ed",
+      "verified_reward_name_id": "s2-af2567fa5937a228d783b5f5"
+    },
+    {
+      "EN": "Leather Shield",
+      "after": "Escudo de Couro",
+      "before": "Escudo de Couro",
+      "id": "s2-9177ee4251b6697f37e96ef3",
+      "verified_reward_name_id": "s2-f11db803d490bedbd8b84cf5"
+    },
+    {
+      "EN": "Leather Shin Guards",
+      "after": "Caneleiras de Couro",
+      "before": "Caneleiras de Couro",
+      "id": "s2-b459aa0c603f14040c70b36d",
+      "verified_reward_name_id": "s2-93a64ad66063014d2caf36d9"
+    },
+    {
+      "EN": "Leather Vest",
+      "after": "Colete de Couro",
+      "before": "Colete de Couro",
+      "id": "s2-a3210a4a8bb5ef98eed59471",
+      "verified_reward_name_id": "s2-7fe04803371473cb0aab8c13"
+    },
+    {
+      "EN": "Net",
+      "after": "Rede",
+      "before": "Rede",
+      "id": "s2-d8e4e2d347079ec2590a8bb4",
+      "verified_reward_name_id": "s2-425972c95ff65b62f5f27a72"
+    },
+    {
+      "EN": "Oval Shield",
+      "after": "Escudo Oval",
+      "before": "Escudo Oval",
+      "id": "s2-75c11a2aec7c195cc7916494",
+      "verified_reward_name_id": "s2-53d9013dbef2e44bfa52f3af"
+    },
+    {
+      "EN": "Ranger's Cloak",
+      "after": "Capa de Patrulheiro",
+      "before": "Manto do Patrulheiro",
+      "id": "s2-0a3bc2298e2a9215478e74a5",
+      "verified_reward_name_id": "s2-8ea2153f987998086c782d76"
+    },
+    {
+      "EN": "Reinforced Fur Armor",
+      "after": "Armadura de Pele Reforçada",
+      "before": "Armadura de Pele Reforçada",
+      "id": "s2-6b7441ed4e0d20cba7004dc6",
+      "verified_reward_name_id": "s2-3d1d2ab70d0b6b8d3e50cd94"
+    },
+    {
+      "EN": "Reinforced Pants",
+      "after": "Calças Reforçadas",
+      "before": "Calças Reforçadas",
+      "id": "s2-01fac48eb2e3003fb9ab0dde",
+      "verified_reward_name_id": "s2-709db87e65bcf4ec42239ee3"
+    },
+    {
+      "EN": "Sami Boots",
+      "after": "Botas Sami",
+      "before": "Botas Sami",
+      "id": "s2-26431f6b526516a67bc197da",
+      "verified_reward_name_id": "s2-1d856ba80e02841deb2c25b7"
+    },
+    {
+      "EN": "Sandals",
+      "after": "Sandálias",
+      "before": "Sandálias",
+      "id": "s2-eeafcf369abf0d5b83a5ecc8",
+      "verified_reward_name_id": "s2-ed32b987e18c468b9eca8882"
+    },
+    {
+      "EN": "Sap Glove",
+      "after": "Luva de Seiva",
+      "before": "Luva de Seiva",
+      "id": "s2-0527fed74498bca0fecc7631",
+      "verified_reward_name_id": "s2-21a33d14ce98b2260e9fd3cf"
+    },
+    {
+      "EN": "Shaman's Garb",
+      "after": "Vestimenta do Xamã",
+      "before": "Vestes de Xamã",
+      "id": "s2-325ef9ead6978e3142d16bea",
+      "verified_reward_name_id": "s2-ef06c4b38efdbfd6873a31b9"
+    },
+    {
+      "EN": "Side Quiver",
+      "after": "Aljava Lateral",
+      "before": "Aljava Lateral",
+      "id": "s2-a215528f99c08e9111405419",
+      "verified_reward_name_id": "s2-51bfb566d144fa2940df69ad"
+    },
+    {
+      "EN": "Snake Belt",
+      "after": "Cinto de Cobra",
+      "before": "Cinto de Serpente",
+      "id": "s2-466fd57cbb4d6bc88826ee57",
+      "verified_reward_name_id": "s2-4701920f03b5737428a45196"
+    },
+    {
+      "EN": "Studded Glove",
+      "after": "Luva com Tachas",
+      "before": "Luva Tachada",
+      "id": "s2-5cba4bc3d4670a417e8e0387",
+      "verified_reward_name_id": "s2-14003a5d64b87d8955910d40"
+    },
+    {
+      "EN": "Vambraces",
+      "after": "Braçadeiras",
+      "before": "Braçadeiras",
+      "id": "s2-559c248d0dfdf7229817d3a2",
+      "verified_reward_name_id": "s2-63037e63a406bd8053a49571"
+    },
+    {
+      "EN": "Wolf Necklace",
+      "after": "Colar de Lobo",
+      "before": "Colar de Lobo",
+      "id": "s2-972800e313f4ac660462539a",
+      "verified_reward_name_id": "s2-b984d4c4437e6d9cbc58d753"
+    },
+    {
+      "EN": "Battle Cry",
+      "after": "Grito de Guerra",
+      "before": "Grito de Guerra",
+      "id": "s2-266962387adf8227e50cd874",
+      "verified_reward_name_id": "s2-db2f636a0d8e41b14a20f7b6"
+    },
+    {
+      "EN": "Book Of Mace Fighting",
+      "after": "Livro do Combate com Maça",
+      "before": "Livro de Combate com Maça",
+      "id": "s2-d1f7f1c3bc00d2e3cce1b922",
+      "verified_reward_name_id": "s2-c835c79cc1378e5a5ff36001"
+    },
+    {
+      "EN": "Dueling Tactician",
+      "after": "Tático de Duelo",
+      "before": "Tático de Duelo",
+      "id": "s2-3f7afa6aa87892e8de150309",
+      "verified_reward_name_id": "s2-78da069a99b139fcde6c587c"
+    },
+    {
+      "EN": "Earthquake",
+      "after": "Terremoto",
+      "before": "Terremoto",
+      "id": "s2-f20fe14329adf61860de77ab",
+      "verified_reward_name_id": "s2-dfa4a4610806239196b02353"
+    },
+    {
+      "EN": "Smesh",
+      "after": "Esmagar",
+      "before": "Smesh",
+      "id": "s2-914a871eab8e9b8f6a41a5f6",
+      "verified_reward_name_id": "s2-5b0c1a7703fe533c9abd7f58"
+    },
+    {
+      "EN": "Tactical Recovery",
+      "after": "Recuperação Tática",
+      "before": "Recuperação Tática",
+      "id": "s2-98ed8cf3ed1ea95c7eb59d3b",
+      "verified_reward_name_id": "s2-9036099d98f3f1c99df476a9"
+    },
+    {
+      "EN": "Taking Advantage",
+      "after": "Aproveitar a Vantagem",
+      "before": "Aproveitar a Vantagem",
+      "id": "s2-8e03c2902084eb9f3f718500",
+      "verified_reward_name_id": "s2-a17c36fae487e4b29ab233c4"
+    },
+    {
+      "EN": "Unleash Power",
+      "after": "Liberar Poder",
+      "before": "Liberar Poder",
+      "id": "s2-c98b8c74b6f06f54f4d2fcf2",
+      "verified_reward_name_id": "s2-776800296e8a2e0683efa25b"
+    },
+    {
+      "EN": "Physical Negation",
+      "after": "Negação Física",
+      "before": "Negação Física",
+      "id": "s2-fd6edb471a77ddc09dd79764",
+      "verified_reward_name_id": "s2-9c1694d88397d94e431b734c"
+    },
+    {
+      "EN": "Book Of Necromancy",
+      "after": "Livro da Necromancia",
+      "before": "Livro de Necromancia",
+      "id": "s2-1083de1eb55c661adad800cf",
+      "verified_reward_name_id": "s2-51514747aff46ddd62c16fc0"
+    },
+    {
+      "EN": "Control Undead",
+      "after": "Controlar Morto-vivo",
+      "before": "Controlar Mortos-Vivos",
+      "id": "s2-e88ae77111c605e00c0c3ea9",
+      "verified_reward_name_id": "s2-4f27472bdb2841af7f02d6df"
+    },
+    {
+      "EN": "Corpse Explosion",
+      "after": "Explosão de Cadáver",
+      "before": "Explosão de Cadáver",
+      "id": "s2-00255be7591dcdfb70c32a81",
+      "verified_reward_name_id": "s2-f12ff29900de67b854a851db"
+    },
+    {
+      "EN": "Deadly Grasp",
+      "after": "Agarre Mortal",
+      "before": "Garra Mortal",
+      "id": "s2-970ee601681d4885f88f6e20",
+      "verified_reward_name_id": "s2-689a612169baaf34535100d7"
+    },
+    {
+      "EN": "Death Ray",
+      "after": "Raio da Morte",
+      "before": "Raio da Morte",
+      "id": "s2-6f2515e0f30d17ad1e62b08b",
+      "verified_reward_name_id": "s2-839f3541d836eca945e618fb"
+    },
+    {
+      "EN": "Lifesteal",
+      "after": "Roubo de Vida",
+      "before": "Roubo de Vida",
+      "id": "s2-6f712d5cf03e0569771111f1",
+      "verified_reward_name_id": "s2-0a9a583178f95e1404982bc3"
+    },
+    {
+      "EN": "Meat Golem",
+      "after": "Golem de Carne",
+      "before": "Golem de Carne",
+      "id": "s2-2cbff0249652f9ec6f482c49",
+      "verified_reward_name_id": "s2-ebfc7f33b885bac02f0a8e0e"
+    },
+    {
+      "EN": "Necrotic Altar",
+      "after": "Altar Necrótico",
+      "before": "Altar Necrótico",
+      "id": "s2-8dacc824b9fbe58dd285c65f",
+      "verified_reward_name_id": "s2-bb5fe25b9454b5d7d5865097"
+    },
+    {
+      "EN": "Necrotic Touch",
+      "after": "Toque Necrótico",
+      "before": "Toque Necrótico",
+      "id": "s2-61fe8600f4c82957dc1b83da",
+      "verified_reward_name_id": "s2-61d214c315d85d8aa74c4288"
+    },
+    {
+      "EN": "Prismatic Abyss",
+      "after": "Abismo Prismático",
+      "before": "Abismo Prismático",
+      "id": "s2-68cb01842741ff31bd4eaa7e",
+      "verified_reward_name_id": "s2-e9951fe47a1237189f3d3c16"
+    },
+    {
+      "EN": "Raise Undead",
+      "after": "Reanimar Mortos-vivos",
+      "before": "Erguer Mortos-Vivos",
+      "id": "s2-6246be227c57af7d981c6d4e",
+      "verified_reward_name_id": "s2-9471970e2b7b5f1ed4bc9d44"
+    },
+    {
+      "EN": "Sullied Ember",
+      "after": "Brasa Maculada",
+      "before": "Brasa Manchada",
+      "id": "s2-fcb0b45d50f8d680c913c700",
+      "verified_reward_name_id": "s2-8e1e4cbd5a8f4e0bd8344c83"
+    },
+    {
+      "EN": "Taste for Souls",
+      "after": "Apetite por Almas",
+      "before": "Sede por Almas",
+      "id": "s2-d0b8adc26a5990a5ef3e2084",
+      "verified_reward_name_id": "s2-45ed29577fc121c6b0b028bf"
+    },
+    {
+      "EN": "Undeath",
+      "after": "Não-Morte",
+      "before": "Não-Morte",
+      "id": "s2-82ae2692fb77286da7677095",
+      "verified_reward_name_id": "s2-8fe20e3d0f39408b02049dc8"
+    },
+    {
+      "EN": "Vampiric Touch",
+      "after": "Toque Vampírico",
+      "before": "Toque Vampírico",
+      "id": "s2-c9cb51571e9a51a90a3eb518",
+      "verified_reward_name_id": "s2-a5ecf33f099b6157b421c770"
+    },
+    {
+      "EN": "Vile Crucible",
+      "after": "Cadinho Vil",
+      "before": "Crisol Vil",
+      "id": "s2-20839029d6c538867b6a8abb",
+      "verified_reward_name_id": "s2-61b854c07e190fd83d45a464"
+    },
+    {
+      "EN": "Winds of Decay",
+      "after": "Ventos da Decomposição",
+      "before": "Ventos da Decomposição",
+      "id": "s2-61015d0324d574b689eb3ae0",
+      "verified_reward_name_id": "s2-5756f716b5702d469892a76a"
+    },
+    {
+      "EN": "Back and Forth",
+      "after": "Ida e Volta",
+      "before": "Ida e Volta",
+      "id": "s2-8d1ac1fadf47a9be283e98ae",
+      "verified_reward_name_id": "s2-e55411f6388b85504f960263"
+    },
+    {
+      "EN": "Book Of Pole Fighting",
+      "after": "Livro de Combate com Armas de Haste",
+      "before": "Livro de Luta com Postes",
+      "id": "s2-de7b8737cbfc40dc3a9e9580",
+      "verified_reward_name_id": "s2-2eda778c7f65887d39356ea7"
+    },
+    {
+      "EN": "Critical Damage",
+      "after": "Dano Crítico",
+      "before": "Dano Crítico",
+      "id": "s2-35f3c33c827ed1e8d5337f37",
+      "verified_reward_name_id": "s2-a70396b87662fbb77a894e01"
+    },
+    {
+      "EN": "Dodge Thrust",
+      "after": "Estocada Esquiva",
+      "before": "Esquiva e Estocada",
+      "id": "s2-490890329b3391cc1119d7ae",
+      "verified_reward_name_id": "s2-7572067fb23cab0ae050b0ca"
+    },
+    {
+      "EN": "Hedgehog",
+      "after": "Ouriço",
+      "before": "Ouriço",
+      "id": "s2-9999f9048c1e009e0e116389",
+      "verified_reward_name_id": "s2-964d4a3e503a793e1446483c"
+    },
+    {
+      "EN": "Hit And Run",
+      "after": "Ataque e Fuga",
+      "before": "Ataque e Fuga",
+      "id": "s2-f513039180ae5d8907513ba9",
+      "verified_reward_name_id": "s2-7dce29c51234ec25c08007c7"
+    },
+    {
+      "EN": "Magic Weapon",
+      "after": "Arma Mágica",
+      "before": "Arma Mágica",
+      "id": "s2-9cbedb884ce0987527efa8de",
+      "verified_reward_name_id": "s2-f2d468b5941f1ef4c9d885fb"
+    },
+    {
+      "EN": "Pierce",
+      "after": "Perfuração",
+      "before": "Perfurar",
+      "id": "s2-8eb71c47a671509e5a2964dc",
+      "verified_reward_name_id": "s2-c264088b59c6a669b55c12d1"
+    },
+    {
+      "EN": "Prepared Attack",
+      "after": "Ataque Preparado",
+      "before": "Ataque Preparado",
+      "id": "s2-e0227c19cdeade0a352dcd74",
+      "verified_reward_name_id": "s2-080af7edcc3f4d2e1faaa6b4"
+    },
+    {
+      "EN": "Revenge",
+      "after": "Vingança",
+      "before": "Vingança",
+      "id": "s2-27b0088b5954fb3d9bec421d",
+      "verified_reward_name_id": "s2-eae82c4d88133b27649d805b"
+    },
+    {
+      "EN": "Ring of Death",
+      "after": "Anel da Morte",
+      "before": "Anel da Morte",
+      "id": "s2-31caa5bbf9399d14879176d2",
+      "verified_reward_name_id": "s2-638970168356721ab5a8c0fd"
+    },
+    {
+      "EN": "Wind Thrust",
+      "after": "Investida de Vento",
+      "before": "Estocada do Vento",
+      "id": "s2-4c8f1d5a3e55d07543c92c5a",
+      "verified_reward_name_id": "s2-152308990d4d5ada1a82e192"
+    },
+    {
+      "EN": "Book Of Protection",
+      "after": "Livro da Proteção",
+      "before": "Livro de Proteção",
+      "id": "s2-f7d0beca52ce20a3ffead8d5",
+      "verified_reward_name_id": "s2-cfd5d12eaf20ed1011feeb10"
+    },
+    {
+      "EN": "Challenge",
+      "after": "Desafio",
+      "before": "Desafio",
+      "id": "s2-f5e0ee64206b07ac8ccd4a0b",
+      "verified_reward_name_id": "s2-a4a426602a89db7d519190fc"
+    },
+    {
+      "EN": "Cleanse",
+      "after": "Purificar",
+      "before": "Purificação",
+      "id": "s2-7c08b68641625004a6c8cff8",
+      "verified_reward_name_id": "s2-13a9d41ade8b4e3325d3de84"
+    },
+    {
+      "EN": "Invulnerability",
+      "after": "Invulnerabilidade",
+      "before": "Invulnerabilidade",
+      "id": "s2-95d34cfc77b069537a12b2f2",
+      "verified_reward_name_id": "s2-5b1002e0e3b436c3f965f363"
+    },
+    {
+      "EN": "Quick Block",
+      "after": "Bloqueio Rápido",
+      "before": "Bloqueio Rápido",
+      "id": "s2-34e397970ad759451c0750e9",
+      "verified_reward_name_id": "s2-30443680f86976ad0b80c644"
+    },
+    {
+      "EN": "Risky Retaliation",
+      "after": "Retaliação Arriscada",
+      "before": "Retaliação Arriscada",
+      "id": "s2-ea8710e9159f6cc82c6806f8",
+      "verified_reward_name_id": "s2-46d217f72397143778e28b51"
+    },
+    {
+      "EN": "Shield Wall",
+      "after": "Muralha de Escudo",
+      "before": "Muralha de Escudos",
+      "id": "s2-4b54ae7492ca6d0588b232b5",
+      "verified_reward_name_id": "s2-a6dc2ea9bec85e24af1fdd84"
+    },
+    {
+      "EN": "Sixth Sense",
+      "after": "Sexto Sentido",
+      "before": "Sexto Sentido",
+      "id": "s2-80be5823b4bd0174f289dd7f",
+      "verified_reward_name_id": "s2-0f7506eb4f353a4505c2fb52"
+    },
+    {
+      "EN": "Swap Places",
+      "after": "Trocar de Lugar",
+      "before": "Trocar de Lugar",
+      "id": "s2-76ce1d4fabf480c093ea959c",
+      "verified_reward_name_id": "s2-94b2a01b0e8b2b77b7ec115d"
+    },
+    {
+      "EN": "Area Increase",
+      "after": "Aumento de Área",
+      "before": "Aumento de Área",
+      "id": "s2-45d62c0a16c409a7e52f8a6d",
+      "verified_reward_name_id": "s2-70aab29c0b283e903619c7c5"
+    },
+    {
+      "EN": "Armageddon",
+      "after": "Armagedom",
+      "before": "Armagedom",
+      "id": "s2-baee510ba10afa6655d6bac8",
+      "verified_reward_name_id": "s2-a9f7bd881e06dcf024964f9a"
+    },
+    {
+      "EN": "Book Of Pyromancy",
+      "after": "Livro de Piromancia",
+      "before": "Livro de Piromancia",
+      "id": "s2-2abe0e6f9141aafba8d63013",
+      "verified_reward_name_id": "s2-b4a3ef41c7948354567e671b"
+    },
+    {
+      "EN": "Burning Sun",
+      "after": "Sol Ardente",
+      "before": "Sol Ardente",
+      "id": "s2-91c944096c26e6c5e3a2c3b1",
+      "verified_reward_name_id": "s2-56e35f7260354e14d9348c94"
+    },
+    {
+      "EN": "Explosion",
+      "after": "Explosão",
+      "before": "Explosão",
+      "id": "s2-c96ce35be52bff58de84fd05",
+      "verified_reward_name_id": "s2-6ea19c28e997f0fd79918454"
+    },
+    {
+      "EN": "Fire Barrage",
+      "after": "Saraivada de Fogo",
+      "before": "Barragem de Fogo",
+      "id": "s2-7b25c0aba47903d60e2edaf2",
+      "verified_reward_name_id": "s2-7cdeb41fda23338706cebcd3"
+    },
+    {
+      "EN": "Fire Power",
+      "after": "Poder de Fogo",
+      "before": "Poder do Fogo",
+      "id": "s2-3ea1460f3a08ef0006cfe85b",
+      "verified_reward_name_id": "s2-9aac0084fad5a0b9ebf311b8"
+    },
+    {
+      "EN": "Fire Starter",
+      "after": "Incendiário",
+      "before": "Iniciador de Fogo",
+      "id": "s2-48daa62410751c897d0552fe",
+      "verified_reward_name_id": "s2-9ee58ac34303f29d0fb8a97c"
+    },
+    {
+      "EN": "Hell",
+      "after": "Inferno",
+      "before": "Inferno",
+      "id": "s2-0c271d66491ce5c82d5bde8d",
+      "verified_reward_name_id": "s2-ae2beb64d9ad56af5a70823f"
+    },
+    {
+      "EN": "Hot Blood",
+      "after": "Sangue Quente",
+      "before": "Sangue Quente",
+      "id": "s2-5f9595e134ea60c357eecb25",
+      "verified_reward_name_id": "s2-c6d9fe6cca8cc92991385b40"
+    },
+    {
+      "EN": "Melting Flame",
+      "after": "Chama Derretedora",
+      "before": "Chama Derretida",
+      "id": "s2-30ca5322c9d90ad703eb7bd9",
+      "verified_reward_name_id": "s2-542837cbacbda01142e8a917"
+    },
+    {
+      "EN": "Reinvigorating Smell",
+      "after": "Cheiro Revigorante",
+      "before": "Aroma Revigorante",
+      "id": "s2-971e28a1dbe61482baa02010",
+      "verified_reward_name_id": "s2-579282912fcac5f25aa153f6"
+    },
+    {
+      "EN": "Torch",
+      "after": "Tocha",
+      "before": "Tocha",
+      "id": "s2-54b044ce9740d0b69a44b631",
+      "verified_reward_name_id": "s2-a704184f5a60b54544e1dffe"
+    },
+    {
+      "EN": "Trail of Flame",
+      "after": "Rastro de Chamas",
+      "before": "Rastro de Chamas",
+      "id": "s2-fdd4998267595f8f006d9cb0",
+      "verified_reward_name_id": "s2-afcbb93602892813a402a41d"
+    },
+    {
+      "EN": "Wildfire",
+      "after": "Incêndio",
+      "before": "Incêndio Florestal",
+      "id": "s2-75b16a4b97ca31888f1eee06",
+      "verified_reward_name_id": "s2-a09a3751d99047631424dcd7"
+    },
+    {
+      "EN": "World In Flames",
+      "after": "Mundo em Chamas",
+      "before": "Mundo em Chamas",
+      "id": "s2-fb05d9cecbf339175d0c3bb8",
+      "verified_reward_name_id": "s2-aa0de318cf70057fd139a4d4"
+    },
+    {
+      "EN": "Book Of Stormthrowing",
+      "after": "Livro de Arremesso de Tempestade",
+      "before": "Livro de Arremesso de Tempestade",
+      "id": "s2-51c44b2cd084f1c93b19b278",
+      "verified_reward_name_id": "s2-db1450ca66bc9493a5030966"
+    },
+    {
+      "EN": "Charged Precision",
+      "after": "Precisão Carregada",
+      "before": "Precisão Carregada",
+      "id": "s2-a0a9a024370e84b73179281f",
+      "verified_reward_name_id": "s2-6d967e1206634641d63887e3"
+    },
+    {
+      "EN": "Conductive Aim",
+      "after": "Mira Condutiva",
+      "before": "Mira Condutiva",
+      "id": "s2-fd412b09a6176b5caf1e738b",
+      "verified_reward_name_id": "s2-95bd8c23300afb0d428f38be"
+    },
+    {
+      "EN": "Electric Power",
+      "after": "Poder Elétrico",
+      "before": "Poder Elétrico",
+      "id": "s2-67871461f9ed459166d231d7",
+      "verified_reward_name_id": "s2-db380f9ebdf8a07bf4be6c9c"
+    },
+    {
+      "EN": "Electric Speed",
+      "after": "Velocidade Elétrica",
+      "before": "Velocidade Elétrica",
+      "id": "s2-e71d430b1b8673b6227dbdd3",
+      "verified_reward_name_id": "s2-7038ee6b0c7eca111604c578"
+    },
+    {
+      "EN": "Electricity",
+      "after": "Eletricidade",
+      "before": "Eletricidade",
+      "id": "s2-fec6b3ac399b3addb2419f86",
+      "verified_reward_name_id": "s2-ff6cc597cca0d10450e00196"
+    },
+    {
+      "EN": "Electroshock",
+      "after": "Eletrochoque",
+      "before": "Eletrochoque",
+      "id": "s2-c26c2dc2685a07fee0195e2f",
+      "verified_reward_name_id": "s2-9832c95a73aa79b2af6630dd"
+    },
+    {
+      "EN": "Energy Steal",
+      "after": "Roubo de Energia",
+      "before": "Roubo de Energia",
+      "id": "s2-0548d81a001a05750611fe2e",
+      "verified_reward_name_id": "s2-20340fcd7600fc0d53526a94"
+    },
+    {
+      "EN": "Expert Throw",
+      "after": "Arremesso Especializado",
+      "before": "Arremesso Perito",
+      "id": "s2-866318aaf6cd23cd08797e87",
+      "verified_reward_name_id": "s2-faba4d728757bf199259556e"
+    },
+    {
+      "EN": "Lightning Bolt",
+      "after": "Raio",
+      "before": "Virote de Raio",
+      "id": "s2-7036b609c3af00277a04aa70",
+      "verified_reward_name_id": "s2-95c4f365bd70402347a0b860"
+    },
+    {
+      "EN": "Lightning Nova",
+      "after": "Nova de Raios",
+      "before": "Nova de Raio",
+      "id": "s2-85aa4b86d656b4c940b33bb6",
+      "verified_reward_name_id": "s2-27bdf0720d960eb26b2308ed"
+    },
+    {
+      "EN": "Lightning Strike",
+      "after": "Descarga de Raio",
+      "before": "Golpe de Raio",
+      "id": "s2-2b2ba044a545be44b121c18e",
+      "verified_reward_name_id": "s2-a27a9aa6f5257ce86575af7c"
+    },
+    {
+      "EN": "Mighty Throw",
+      "after": "Arremesso Poderoso",
+      "before": "Arremesso Poderoso",
+      "id": "s2-7bec6bed660be2abb427b715",
+      "verified_reward_name_id": "s2-625f6a9b1549f24a67357716"
+    },
+    {
+      "EN": "Non-Conductive",
+      "after": "Não Condutivo",
+      "before": "Não Condutivo",
+      "id": "s2-65f23da48fc5af483bff2605",
+      "verified_reward_name_id": "s2-1e2192f81094a39494b8845f"
+    },
+    {
+      "EN": "Overload",
+      "after": "Sobrecarga",
+      "before": "Sobrecarga",
+      "id": "s2-63ab1a4a07f6c447405a845c",
+      "verified_reward_name_id": "s2-9bde291aaa399bcd42ff8ee7"
+    },
+    {
+      "EN": "Static",
+      "after": "Estática",
+      "before": "Choque Estático",
+      "id": "s2-62970e5cbce32944e0ae9863",
+      "verified_reward_name_id": "s2-51c20d06599aab3b23d4fb22"
+    },
+    {
+      "EN": "Static Shock",
+      "after": "Choque Estático",
+      "before": "Estático",
+      "id": "s2-80bbce802ca846f5936b2df6",
+      "verified_reward_name_id": "s2-12efa2164d1c51004e67ba38"
+    },
+    {
+      "EN": "Storm",
+      "after": "Tempestade",
+      "before": "Tempestade",
+      "id": "s2-5a1e0f4a2f816c65d583c393",
+      "verified_reward_name_id": "s2-28b5ec34f01e10b3ed351a77"
+    },
+    {
+      "EN": "Strong Throw",
+      "after": "Arremesso Forte",
+      "before": "Arremesso Forte",
+      "id": "s2-2097457e607bce12b0fc7345",
+      "verified_reward_name_id": "s2-749060440c84fa0edfddea0e"
+    },
+    {
+      "EN": "Unleash",
+      "after": "Liberar",
+      "before": "Desencadear",
+      "id": "s2-3cb142843a6a3a7af0eb5da0",
+      "verified_reward_name_id": "s2-07f5d5469263852634bafed9"
+    },
+    {
+      "EN": "Bloodlust",
+      "after": "Sede de Sangue",
+      "before": "Sede de Sangue",
+      "id": "s2-3e1b0ba3ecbcf17a7bcf9218",
+      "verified_reward_name_id": "s2-d88ec8fb96b6a1186328f2e0"
+    },
+    {
+      "EN": "Book Of Sword Fighting",
+      "after": "Livro de Combate com Espada",
+      "before": "Livro de Combate com Espada",
+      "id": "s2-9ce7a80ccce646ed5f64a411",
+      "verified_reward_name_id": "s2-d5bccb517ef0b0116d15f907"
+    },
+    {
+      "EN": "Bushido",
+      "after": "Bushido",
+      "before": "Bushido",
+      "id": "s2-119572ebedf2731949ead4d3",
+      "verified_reward_name_id": "s2-12d50cb98d35e638c543caf4"
+    },
+    {
+      "EN": "Consuming Slash",
+      "after": "Golpe Devorador",
+      "before": "Golpe Devorador",
+      "id": "s2-af5f70483db8b8c82330610e",
+      "verified_reward_name_id": "s2-fdfe95acf3a6d7a30e9f6ec6"
+    },
+    {
+      "EN": "Counter Attack",
+      "after": "Contra-ataque",
+      "before": "Contra-ataque",
+      "id": "s2-74f7d03ffc8c628975a15810",
+      "verified_reward_name_id": "s2-650154a656f42dc93a40131c"
+    },
+    {
+      "EN": "Disarm",
+      "after": "Desarmar",
+      "before": "Desarmar",
+      "id": "s2-4b11596645ef3d5b2e7893ea",
+      "verified_reward_name_id": "s2-08fb3a7b6ca999f63709adce"
+    },
+    {
+      "EN": "Exploit Weakness",
+      "after": "Explorar Fraqueza",
+      "before": "Explorar Fraqueza",
+      "id": "s2-436816e81ff732a28e6f43d8",
+      "verified_reward_name_id": "s2-028fb5835cfd3cde42bea2b4"
+    },
+    {
+      "EN": "Overhead",
+      "after": "Golpe por Cima",
+      "before": "Golpe Acima",
+      "id": "s2-11c90ee511f70daaa88c6fc6",
+      "verified_reward_name_id": "s2-03fd45963a22f15e2b459aac"
+    },
+    {
+      "EN": "Precise Hit",
+      "after": "Golpe Preciso",
+      "before": "Golpe Preciso",
+      "id": "s2-afb068b199a9e90f53d20227",
+      "verified_reward_name_id": "s2-8f95f9e24a53251f8363d15e"
+    },
+    {
+      "EN": "Three Swords Style",
+      "after": "Estilo de Três Espadas",
+      "before": "Estilo das Três Espadas",
+      "id": "s2-9335661a7f6a0aac444d7076",
+      "verified_reward_name_id": "s2-1956a7bf37e14a2eadae9f41"
+    },
+    {
+      "EN": "Ancient Cloth",
+      "after": "Tecido Antigo",
+      "before": "Tecido Antigo",
+      "id": "s2-5b32b82109be79085898bf89",
+      "verified_reward_name_id": "s2-af28bfb0452e4d1a93b944d0"
+    },
+    {
+      "EN": "Apron",
+      "after": "Avental",
+      "before": "Avental",
+      "id": "s2-50ece369fd9d4e5e112871cb",
+      "verified_reward_name_id": "s2-96b22aa45a9445c0146fdb96"
+    },
+    {
+      "EN": "Backpack",
+      "after": "Mochila",
+      "before": "Mochila",
+      "id": "s2-b85b8eaca3e97ef598cf98c5",
+      "verified_reward_name_id": "s2-2e217ee0bfeff879f41019ab"
+    },
+    {
+      "EN": "Bag",
+      "after": "Bolsa",
+      "before": "Bolsa",
+      "id": "s2-b8125e57fe7e63e2966e7f46",
+      "verified_reward_name_id": "s2-3bf7d00f19f15e1d56923706"
+    },
+    {
+      "EN": "Bandana",
+      "after": "Bandana",
+      "before": "Bandana",
+      "id": "s2-4fd160bc4f297ddee7395d9e",
+      "verified_reward_name_id": "s2-18e9ba71277ed29cc268d571"
+    },
+    {
+      "EN": "Big Bag",
+      "after": "Bolsa Grande",
+      "before": "Bolsa Grande",
+      "id": "s2-d1c55819003d8b1d1d419801",
+      "verified_reward_name_id": "s2-d81d34ff69d49a5c20a4025b"
+    },
+    {
+      "EN": "Blue Hood",
+      "after": "Capuz Azul",
+      "before": "Capuz Azul",
+      "id": "s2-9c3ddcb2ab2b49ee84688527",
+      "verified_reward_name_id": "s2-797966cfc13b09b36385bec2"
+    },
+    {
+      "EN": "Book Of Tailoring",
+      "after": "Livro da Alfaiataria",
+      "before": "Livro de Alfaiataria",
+      "id": "s2-07b4a36d2f66d19d56b262f5",
+      "verified_reward_name_id": "s2-60b6882fa8d48caa1c6d5d52"
+    },
+    {
+      "EN": "Burial Cloth",
+      "after": "Tecido Funerário",
+      "before": "Tecido Funerário",
+      "id": "s2-32565ea898dbe8be7396cf82",
+      "verified_reward_name_id": "s2-396b493d257c5be0ed74ee5b"
+    },
+    {
+      "EN": "Cargo Pants",
+      "after": "Calças Cargo",
+      "before": "Calças Cargo",
+      "id": "s2-f7941d20367dd84681b0db18",
+      "verified_reward_name_id": "s2-c9489443e828690a1032991e"
+    },
+    {
+      "EN": "Chausses",
+      "after": "Chausses",
+      "before": "Chausses",
+      "id": "s2-3d435b5843916e18178a2096",
+      "verified_reward_name_id": "s2-2768b448c5a26a3f61ba8111"
+    },
+    {
+      "EN": "Cloak",
+      "after": "Capa",
+      "before": "Manto",
+      "id": "s2-5271a875349987d281f4224c",
+      "verified_reward_name_id": "s2-b7037088be18f91063a7cff9"
+    },
+    {
+      "EN": "Cloth Boots",
+      "after": "Botas de Tecido",
+      "before": "Botas de Tecido",
+      "id": "s2-5208a5db0aa20e03f8b33016",
+      "verified_reward_name_id": "s2-51c55376bcbbb34f874c6f33"
+    },
+    {
+      "EN": "Corset",
+      "after": "Corselete",
+      "before": "Corselete",
+      "id": "s2-75855b43f3aa72882677c1a9",
+      "verified_reward_name_id": "s2-bb564bf5d49734373569d6fc"
+    },
+    {
+      "EN": "Cotton Cloth",
+      "after": "Tecido de Algodão",
+      "before": "Tecido de Algodão",
+      "id": "s2-42045fb5c0c0450ac29d76a5",
+      "verified_reward_name_id": "s2-76e10f1f6c6f84ac371f008f"
+    },
+    {
+      "EN": "Dark Cape",
+      "after": "Capa Sombria",
+      "before": "Capa Sombria",
+      "id": "s2-5a279880a69e074d16df0431",
+      "verified_reward_name_id": "s2-4d7607499dd760a1d7813135"
+    },
+    {
+      "EN": "Dark Dress",
+      "after": "Vestido Sombrio",
+      "before": "Vestido Sombrio",
+      "id": "s2-4935f16ec5c8921e36c407cc",
+      "verified_reward_name_id": "s2-4288092c377c5a5386e1acc3"
+    },
+    {
+      "EN": "Decorated Shirt",
+      "after": "Camisa Decorada",
+      "before": "Camisa Decorada",
+      "id": "s2-b42a61726b5cf827f94feafd",
+      "verified_reward_name_id": "s2-c41620e34b484442521e52ee"
+    },
+    {
+      "EN": "Decorated Tunic",
+      "after": "Túnica Decorada",
+      "before": "Túnica Decorada",
+      "id": "s2-a52c966a4334130ab637af67",
+      "verified_reward_name_id": "s2-2d2fae4c73f2457e3b4a788b"
+    },
+    {
+      "EN": "Doublet",
+      "after": "Gibão",
+      "before": "Gibão",
+      "id": "s2-636bff17ecd30e20797aa195",
+      "verified_reward_name_id": "s2-ad57eddc02fef32d2be301e3"
+    },
+    {
+      "EN": "Dress",
+      "after": "Vestido",
+      "before": "Vestido",
+      "id": "s2-5d7cd6ec6be7b4638f4ec84d",
+      "verified_reward_name_id": "s2-586c804cab8a27554153fa07"
+    },
+    {
+      "EN": "Druidic Robe",
+      "after": "Túnica Druídica",
+      "before": "Túnica Druídica",
+      "id": "s2-f162895f081771c087ef13af",
+      "verified_reward_name_id": "s2-f5d380bfc17ab1bf9031247b"
+    },
+    {
+      "EN": "Elven Cloak",
+      "after": "Manto Élfico",
+      "before": "Manto Élfico",
+      "id": "s2-2b6d96d20a334bf5cab31254",
+      "verified_reward_name_id": "s2-5cae8eac22484c4ecadac770"
+    },
+    {
+      "EN": "Enchanted Gloves",
+      "after": "Luvas Encantadas",
+      "before": "Luvas Encantadas",
+      "id": "s2-fd5ef49bd6b1332a04959ab7",
+      "verified_reward_name_id": "s2-c44d74dc981a171cd2155f17"
+    },
+    {
+      "EN": "Enchanted Sash",
+      "after": "Faixa Encantada",
+      "before": "Faixa Encantada",
+      "id": "s2-6fa73d4008384caaf1284283",
+      "verified_reward_name_id": "s2-4e37ffcd49735791cf0c716f"
+    },
+    {
+      "EN": "Enchanted Turban",
+      "after": "Turbante Encantado",
+      "before": "Turbante Encantado",
+      "id": "s2-3ba6dd91bad14885967ef6dd",
+      "verified_reward_name_id": "s2-ec7d220a6a03d04c566f90ee"
+    },
+    {
+      "EN": "Feather Cape",
+      "after": "Capa de Penas",
+      "before": "Capa de Penas",
+      "id": "s2-ffea09571405e8febf8e7b88",
+      "verified_reward_name_id": "s2-91e413a1def8faafa66c5ea7"
+    },
+    {
+      "EN": "Feather Cloth",
+      "after": "Tecido de Pena",
+      "before": "Tecido de Pena",
+      "id": "s2-511821e93a748c3bb6f2bed2",
+      "verified_reward_name_id": "s2-588324040094fcb635d0db5d"
+    },
+    {
+      "EN": "Hat with Feather",
+      "after": "Chapéu com Pena",
+      "before": "Chapéu com Pena",
+      "id": "s2-d8367356b74b7ea036ca768c",
+      "verified_reward_name_id": "s2-1760ae0f63571fba9760ccaa"
+    },
+    {
+      "EN": "Girdle",
+      "after": "Cinta",
+      "before": "Cinta",
+      "id": "s2-fcc009d845e693a13729b22b",
+      "verified_reward_name_id": "s2-eadfbc8767ca8a7bf7d017be"
+    },
+    {
+      "EN": "Gloves",
+      "after": "Luvas",
+      "before": "Luvas",
+      "id": "s2-f9442cc39e786b9c0ac7562c",
+      "verified_reward_name_id": "s2-1b64cfce9185aaaae2c4971a"
+    },
+    {
+      "EN": "Gown",
+      "after": "Vestido",
+      "before": "Vestido",
+      "id": "s2-eb010660f4b1271e39a3b5fa",
+      "verified_reward_name_id": "s2-3e3bf2e156d325022175b2e3"
+    },
+    {
+      "EN": "Green Sash",
+      "after": "Faixa Verde",
+      "before": "Faixa Verde",
+      "id": "s2-88ebc1fb29be4dc687bae7a1",
+      "verified_reward_name_id": "s2-9ab77961fc333b9706c77820"
+    },
+    {
+      "EN": "Hat",
+      "after": "Chapéu",
+      "before": "Chapéu",
+      "id": "s2-1ce09b64db349f8890c7f7cc",
+      "verified_reward_name_id": "s2-0115091bf7cd14d99bf5edaf"
+    },
+    {
+      "EN": "Headband",
+      "after": "Bandana",
+      "before": "Tiara",
+      "id": "s2-f8fee30c33c91f127664605f",
+      "verified_reward_name_id": "s2-a2a1f3699f9c22435a921843"
+    },
+    {
+      "EN": "Hood",
+      "after": "Capuz",
+      "before": "Capuz",
+      "id": "s2-b40389bcda7a65448a454d8e",
+      "verified_reward_name_id": "s2-eb20e6451bc8d1a012e738ed"
+    },
+    {
+      "EN": "Hood of a Thousand Eyes",
+      "after": "Capuz de Mil Olhos",
+      "before": "Capuz de Mil Olhos",
+      "id": "s2-42be1f97f72db56c122f35ac",
+      "verified_reward_name_id": "s2-c99b1a4b7d08142c28576f1c"
+    },
+    {
+      "EN": "Hoop Skirt",
+      "after": "Saia de Aro",
+      "before": "Saia de Armação",
+      "id": "s2-0bda39c4b9f6aded61d94db1",
+      "verified_reward_name_id": "s2-be61ca3bbe78b62733050aaa"
+    },
+    {
+      "EN": "Jester Hat",
+      "after": "Chapéu de Bufão",
+      "before": "Chapéu de Bobo da Corte",
+      "id": "s2-aa8b5e91eafd6a76b748abc0",
+      "verified_reward_name_id": "s2-9966c423a4fd2ed11edf7fb9"
+    },
+    {
+      "EN": "Kilt",
+      "after": "Kilt",
+      "before": "Kilt",
+      "id": "s2-2b6918ca275c0e204f47e24b",
+      "verified_reward_name_id": "s2-00fc90541832f7124f1a32d5"
+    },
+    {
+      "EN": "Knuckle Wrap",
+      "after": "Faixa para os Punhos",
+      "before": "Faixa de Nós dos Dedos",
+      "id": "s2-63a1be9b7bfd133711079d1b",
+      "verified_reward_name_id": "s2-2c4edb4b5bbfe18423a0a920"
+    },
+    {
+      "EN": "Linen",
+      "after": "Linho",
+      "before": "Linho",
+      "id": "s2-6a5fee4fe9e36aa6b575b8ed",
+      "verified_reward_name_id": "s2-15b9846435a27ec6d5c5da2f"
+    },
+    {
+      "EN": "Long-Toed Shoes",
+      "after": "Sapatos de Bico Longo",
+      "before": "Sapatos de Bico Longo",
+      "id": "s2-327d3d1ffc10dbfd9bfc6235",
+      "verified_reward_name_id": "s2-ebbb1131117c505245b0c4e9"
+    },
+    {
+      "EN": "Long Shirt",
+      "after": "Camisa Longa",
+      "before": "Camisa Longa",
+      "id": "s2-6e1acb26cdbb8953a86512cb",
+      "verified_reward_name_id": "s2-a5447cfe70780152911a931f"
+    },
+    {
+      "EN": "Mycelium Thread",
+      "after": "Fio de Micélio",
+      "before": "Fio de Micélio",
+      "id": "s2-49977cd1a4c226db21bfa7d6",
+      "verified_reward_name_id": "s2-873c9b405904d936a6063aa1"
+    },
+    {
+      "EN": "Nettle Thread",
+      "after": "Fio de Urtiga",
+      "before": "Linha de Urtiga",
+      "id": "s2-3e57970d43d975c2ba7c95f1",
+      "verified_reward_name_id": "s2-4cd01710dcc1b61b08a6cfef"
+    },
+    {
+      "EN": "Noble Cape",
+      "after": "Capa Nobre",
+      "before": "Capa Nobre",
+      "id": "s2-e30d97d6ca0f4c10be004e2d",
+      "verified_reward_name_id": "s2-4ddeeaf1e86242b9f64a5799"
+    },
+    {
+      "EN": "Palm Fibers",
+      "after": "Fibras de Palmeira",
+      "before": "Fibras de Palmeira",
+      "id": "s2-2a957b15050379603d25faa4",
+      "verified_reward_name_id": "s2-2d0e8edc71996010dc3d1829"
+    },
+    {
+      "EN": "Pants",
+      "after": "Calças",
+      "before": "Calças",
+      "id": "s2-9333eba49811268f54df56ea",
+      "verified_reward_name_id": "s2-fd75ee1181c8691ed75c1f0f"
+    },
+    {
+      "EN": "Poncho",
+      "after": "Poncho",
+      "before": "Poncho",
+      "id": "s2-fc460c1b5ff3b1af7336f65a",
+      "verified_reward_name_id": "s2-741b3e20e5b4ea8970214f9e"
+    },
+    {
+      "EN": "Rope Hammock",
+      "after": "Rede de Corda",
+      "before": "Rede de Corda",
+      "id": "s2-bd4966ccb743dc8c40fa0bc3",
+      "verified_reward_name_id": "s2-2e4bdedad2ea78b2e5309d3c"
+    },
+    {
+      "EN": "Sacred Cloth",
+      "after": "Tecido Sagrado",
+      "before": "Tecido Sagrado",
+      "id": "s2-f5dd5af4a5430ec4625803ab",
+      "verified_reward_name_id": "s2-89f9316fa7768f91d1e64942"
+    },
+    {
+      "EN": "Scarf",
+      "after": "Cachecol",
+      "before": "Cachecol",
+      "id": "s2-405eee96c6189141c2ce3f4c",
+      "verified_reward_name_id": "s2-a5277920aaa0c887e5705a66"
+    },
+    {
+      "EN": "Shirt",
+      "after": "Camisa",
+      "before": "Camisa",
+      "id": "s2-9e1cbc8df398307edce2b9dd",
+      "verified_reward_name_id": "s2-bf66384dd31ded32bda77400"
+    },
+    {
+      "EN": "Silk",
+      "after": "Seda",
+      "before": "Seda",
+      "id": "s2-07f50adab4cc492ec6952941",
+      "verified_reward_name_id": "s2-ede130776c5ce27af307405c"
+    },
+    {
+      "EN": "Skirt",
+      "after": "Saia",
+      "before": "Saia",
+      "id": "s2-e06103a96eb9cd8bdebe1842",
+      "verified_reward_name_id": "s2-7be303ed7465ce61ee19d84b"
+    },
+    {
+      "EN": "Spider's Silk",
+      "after": "Seda de Aranha",
+      "before": "Seda de Aranha",
+      "id": "s2-710e6eef8ee26054b407da25",
+      "verified_reward_name_id": "s2-ef26302582e265de648f6546"
+    },
+    {
+      "EN": "Straw Matress",
+      "after": "Colchão de Palha",
+      "before": "Colchão de Palha",
+      "id": "s2-83813b48a6c16242d1da03c0",
+      "verified_reward_name_id": "s2-b7f8602363bf6298a26b3d31"
+    },
+    {
+      "EN": "Toga",
+      "after": "Toga",
+      "before": "Toga",
+      "id": "s2-7c900c1cfa8bd73526188323",
+      "verified_reward_name_id": "s2-fae6cf861ed57cc334de92bd"
+    },
+    {
+      "EN": "Tunic",
+      "after": "Túnica",
+      "before": "Túnica",
+      "id": "s2-516eaad79042c28ce0d9cbca",
+      "verified_reward_name_id": "s2-e92cf0216e01751086b0a89d"
+    },
+    {
+      "EN": "Velvet",
+      "after": "Veludo",
+      "before": "Aveludada",
+      "id": "s2-64c07e29858739486ae26ea0",
+      "verified_reward_name_id": "s2-7ea92d64e1d04a8ccdb724c6"
+    },
+    {
+      "EN": "Wig",
+      "after": "Peruca",
+      "before": "Peruca",
+      "id": "s2-4d2e261d2521823163b4a02e",
+      "verified_reward_name_id": "s2-5f7ba0e4784b1d954bd0977c"
+    },
+    {
+      "EN": "Backstab",
+      "after": "Golpe pelas Costas",
+      "before": "Golpe pelas Costas",
+      "id": "s2-096408679fc678858b0791a4",
+      "verified_reward_name_id": "s2-acd7c8edd5d45a79b2769a62"
+    },
+    {
+      "EN": "Blind",
+      "after": "Cegueira",
+      "before": "Cegar",
+      "id": "s2-e3461c2a403d02527e4e4eab",
+      "verified_reward_name_id": "s2-bb16c13fc21108aac0a10b75"
+    },
+    {
+      "EN": "Book Of Thievery",
+      "after": "Livro de Furto",
+      "before": "Livro de Ladinagem",
+      "id": "s2-215d91ed6b148c801266d8ae",
+      "verified_reward_name_id": "s2-74373cd70f76311023247e04"
+    },
+    {
+      "EN": "Critical Roll",
+      "after": "Rolagem Crítica",
+      "before": "Rolagem Crítica",
+      "id": "s2-48bdf593bbbcea73314253e7",
+      "verified_reward_name_id": "s2-b530cf2619af24a0cc5c9a25"
+    },
+    {
+      "EN": "Fan of Knives",
+      "after": "Leque de Facas",
+      "before": "Leque de Facas",
+      "id": "s2-cb3e16af7b00b54353fdaad0",
+      "verified_reward_name_id": "s2-86ea7b3a84d15e5c487f37e0"
+    },
+    {
+      "EN": "Forgettable Face",
+      "after": "Rosto Esquecível",
+      "before": "Rosto Esquecível",
+      "id": "s2-95ddbd0be3b757a1535267e2",
+      "verified_reward_name_id": "s2-4a03c144560161538642841c"
+    },
+    {
+      "EN": "Hide Identity",
+      "after": "Ocultar Identidade",
+      "before": "Ocultar Identidade",
+      "id": "s2-16135a286bad1861fe60d25f",
+      "verified_reward_name_id": "s2-b59845366feb9c6dc5bb460f"
+    },
+    {
+      "EN": "Paralyzing Dart",
+      "after": "Dardo Paralisante",
+      "before": "Dardo Paralisante",
+      "id": "s2-dd31a687c422f86322ecb0ff",
+      "verified_reward_name_id": "s2-faf235301270afe9a497f83e"
+    },
+    {
+      "EN": "Poison Weapons",
+      "after": "Envenenar Armas",
+      "before": "Envenenar Armas",
+      "id": "s2-25bf813c497a3662546eb9fd",
+      "verified_reward_name_id": "s2-9893dc378d4f3f90b8c49ff5"
+    },
+    {
+      "EN": "Quick Thrust",
+      "after": "Estocada Rápida",
+      "before": "Estocada Rápida",
+      "id": "s2-e941209e9ae8a13170776145",
+      "verified_reward_name_id": "s2-9ed31612330947d6e15a81fa"
+    },
+    {
+      "EN": "Rollback",
+      "after": "Recuo",
+      "before": "Reverter",
+      "id": "s2-02540cc2d69e4187b78d851b",
+      "verified_reward_name_id": "s2-c2fc9fa0cb57c935c5dca465"
+    },
+    {
+      "EN": "Rummage",
+      "after": "Vasculhar",
+      "before": "Vasculhar",
+      "id": "s2-1bf1ab260e195d2b7d3e4aa9",
+      "verified_reward_name_id": "s2-d444a5b19b907b1859aadfb5"
+    },
+    {
+      "EN": "Vanish",
+      "after": "Desvanecer",
+      "before": "Desaparecer",
+      "id": "s2-1456435537783e1dfa81dae8",
+      "verified_reward_name_id": "s2-f5b83a85d3b816fe75f8236d"
+    },
+    {
+      "EN": "Awl Pike",
+      "after": "Pique Agulha",
+      "before": "Pique Agulha",
+      "id": "s2-88d5488261cf5e282be055a0",
+      "verified_reward_name_id": "s2-6707fcda0d167d428d212ba5"
+    },
+    {
+      "EN": "Ball-Headed Club",
+      "after": "Clava de Cabeça Esférica",
+      "before": "Clava de Cabeça Esférica",
+      "id": "s2-bfb6935ddff0831d9704f99b",
+      "verified_reward_name_id": "s2-95a910dbc0959271aa1655e0"
+    },
+    {
+      "EN": "Bandit Knife",
+      "after": "Faca de Bandido",
+      "before": "Faca de Bandido",
+      "id": "s2-6396686b5473f8f662922a33",
+      "verified_reward_name_id": "s2-e5eaeb0b84e29d8abeef337b"
+    },
+    {
+      "EN": "Barbarian Axe",
+      "after": "Machado Bárbaro",
+      "before": "Machado Bárbaro",
+      "id": "s2-9c87f71a22df7b22199c5529",
+      "verified_reward_name_id": "s2-c4befd39f6fd89c3400f370e"
+    },
+    {
+      "EN": "Bastard Sword",
+      "after": "Espada Bastarda",
+      "before": "Espada Bastarda",
+      "id": "s2-7eb8581ff50700cb15b1ccbc",
+      "verified_reward_name_id": "s2-b55bebf5286b1acd84cc1074"
+    },
+    {
+      "EN": "Battle Axe",
+      "after": "Machado de Batalha",
+      "before": "Machado de Batalha",
+      "id": "s2-8380bdbfa1d2f28e1fb41111",
+      "verified_reward_name_id": "s2-b0a37dc3ee88e1d53919e849"
+    },
+    {
+      "EN": "Battle Gauntlet",
+      "after": "Manopla de Batalha",
+      "before": "Manopla de Batalha",
+      "id": "s2-6333f3a925712a65559166fc",
+      "verified_reward_name_id": "s2-3e3af8a6f52305ad4920c4f1"
+    },
+    {
+      "EN": "Bear Paw Knuckle",
+      "after": "Soco-Inglês de Pata de Urso",
+      "before": "Manopla de Pata de Urso",
+      "id": "s2-faee626bb2cfcccf46093094",
+      "verified_reward_name_id": "s2-ee358a8f3805135fd32d7211"
+    },
+    {
+      "EN": "Billhook",
+      "after": "Foice de Guerra",
+      "before": "Foice de Guerra",
+      "id": "s2-d892955fcd6d0527b3d25b81",
+      "verified_reward_name_id": "s2-a08e70db49c49625a69de52f"
+    },
+    {
+      "EN": "Bone Axe",
+      "after": "Machado de Osso",
+      "before": "Machado de Osso",
+      "id": "s2-5d1c55e1b00d7fecf7e06379",
+      "verified_reward_name_id": "s2-f360d0e12551d19f859459de"
+    },
+    {
+      "EN": "Bone Blade",
+      "after": "Lâmina de Osso",
+      "before": "Lâmina de Osso",
+      "id": "s2-7e7ac8ec6b40c1d2428a2201",
+      "verified_reward_name_id": "s2-e119514f499bf72fabd0a588"
+    },
+    {
+      "EN": "Bone Dagger",
+      "after": "Adaga de Osso",
+      "before": "Adaga de Osso",
+      "id": "s2-fd05d04f98bc1ee7aa6c3e67",
+      "verified_reward_name_id": "s2-a3cb83fba9c17a2f2981bb93"
+    },
+    {
+      "EN": "Bone Javelin",
+      "after": "Azagaia de Osso",
+      "before": "Azagaia de Osso",
+      "id": "s2-a222c9e9ea05d301347ea5e1",
+      "verified_reward_name_id": "s2-17296dd4b09241127063353f"
+    },
+    {
+      "EN": "Bone Mace",
+      "after": "Maça de Osso",
+      "before": "Maça de Osso",
+      "id": "s2-d9591ef5e75c1483917635a5",
+      "verified_reward_name_id": "s2-ce75249664c6a6d8cce474ea"
+    },
+    {
+      "EN": "Bone Spear",
+      "after": "Lança de Osso",
+      "before": "Lança de Osso",
+      "id": "s2-2ee6142921c5c10f38443aaa",
+      "verified_reward_name_id": "s2-21a92f381a218f2b87d2f82f"
+    },
+    {
+      "EN": "Bone Throwing Axe",
+      "after": "Machado de Arremesso de Osso",
+      "before": "Machado de Arremesso de Osso",
+      "id": "s2-22b15272241ce3b64da7660f",
+      "verified_reward_name_id": "s2-12b5644812e927f71a92fbd1"
+    },
+    {
+      "EN": "Bone Warpick",
+      "after": "Picareta de Guerra de Osso",
+      "before": "Pico de Guerra de Osso",
+      "id": "s2-46783652ece4e2fbbf663ede",
+      "verified_reward_name_id": "s2-2e8ebe85598412671fe96d91"
+    },
+    {
+      "EN": "Book Of Weaponsmithing",
+      "after": "Livro de Armearia",
+      "before": "Livro de Armeiro",
+      "id": "s2-19411dfa358d031b3fd973f0",
+      "verified_reward_name_id": "s2-7e4b59aa373e82aa8469a172"
+    },
+    {
+      "EN": "Brass Knuckles",
+      "after": "Soco-inglês",
+      "before": "Soco Inglês",
+      "id": "s2-3557c2b446f4136208282eb3",
+      "verified_reward_name_id": "s2-73e7820036df8c1fa2eaaebf"
+    },
+    {
+      "EN": "Ceremonial Dagger",
+      "after": "Adaga Cerimonial",
+      "before": "Adaga Cerimonial",
+      "id": "s2-18c87872a62408a53f891e60",
+      "verified_reward_name_id": "s2-9609d791ad3bf71d44c652a6"
+    },
+    {
+      "EN": "Chakram",
+      "after": "Chakram",
+      "before": "Chakram",
+      "id": "s2-295ca14497f9e9d2d26bce21",
+      "verified_reward_name_id": "s2-fa5fa6d9059daa642dcdafac"
+    },
+    {
+      "EN": "Chopper",
+      "after": "Cutelo",
+      "before": "Machadinha",
+      "id": "s2-687f146c6525d0755c833906",
+      "verified_reward_name_id": "s2-14065e5fd05a32d36c452c57"
+    },
+    {
+      "EN": "Cinquedea",
+      "after": "Cinquedea",
+      "before": "Cinquedea",
+      "id": "s2-46409c94980708dafdd91974",
+      "verified_reward_name_id": "s2-721dc320e8486743d5597857"
+    },
+    {
+      "EN": "Claymore",
+      "after": "Claymore",
+      "before": "Claymore",
+      "id": "s2-037821eb7539b898006570cb",
+      "verified_reward_name_id": "s2-606bd59ddcd8d5ec3a531ec1"
+    },
+    {
+      "EN": "Cleaver",
+      "after": "Cutelo",
+      "before": "Cutelo",
+      "id": "s2-98405ce07a1de22e933ab8a5",
+      "verified_reward_name_id": "s2-c5ba879e98228044586b5c29"
+    },
+    {
+      "EN": "Dagger",
+      "after": "Adaga",
+      "before": "Adaga",
+      "id": "s2-8d7f56568713f92b4bf7b5e8",
+      "verified_reward_name_id": "s2-234ace06800fac8d795234e1"
+    },
+    {
+      "EN": "Dao Sword",
+      "after": "Espada Dao",
+      "before": "Espada Dao",
+      "id": "s2-c71680e99e292a0327be3487",
+      "verified_reward_name_id": "s2-9efcd84ff4bff316ee6518e5"
+    },
+    {
+      "EN": "Dark Blade",
+      "after": "Lâmina Sombria",
+      "before": "Lâmina Sombria",
+      "id": "s2-da1cf677953c595b20cec966",
+      "verified_reward_name_id": "s2-df49ad7bf8f3464e49f6885b"
+    },
+    {
+      "EN": "Dart",
+      "after": "Dardo",
+      "before": "Dardo",
+      "id": "s2-514ba30d148fe943602ce916",
+      "verified_reward_name_id": "s2-40893a783c02db02c09fa600"
+    },
+    {
+      "EN": "Disc Mace",
+      "after": "Maça de Disco",
+      "before": "Maça de Disco",
+      "id": "s2-9b3164ad30b06f8afe847be9",
+      "verified_reward_name_id": "s2-98df0d82296c359e4d5db8f1"
+    },
+    {
+      "EN": "Dory",
+      "after": "Lança Dory",
+      "before": "Dory",
+      "id": "s2-1a83314d2af72bf7b8374856",
+      "verified_reward_name_id": "s2-4d3f037dde45812e53a33a2d"
+    },
+    {
+      "EN": "Double Axe",
+      "after": "Machado Duplo",
+      "before": "Machado Duplo",
+      "id": "s2-7b516dceaa677413630980e9",
+      "verified_reward_name_id": "s2-6add03384f1cf81b74c7de4e"
+    },
+    {
+      "EN": "Dwarf Bread",
+      "after": "Pão Anão",
+      "before": "Pão Anão",
+      "id": "s2-33c87e4bf189b3a5b842a76e",
+      "verified_reward_name_id": "s2-1344304d8a2c565c7e8b12c6"
+    },
+    {
+      "EN": "Dwarven Axe",
+      "after": "Machado Anão",
+      "before": "Machado Anão",
+      "id": "s2-c994ca492777b50419b5d2c9",
+      "verified_reward_name_id": "s2-ae18292b2fa677ca0fe8c6fd"
+    },
+    {
+      "EN": "Engraved Greatsword",
+      "after": "Montante Gravado",
+      "before": "Espada Grande Gravada",
+      "id": "s2-823f097dafc1dbc664f72865",
+      "verified_reward_name_id": "s2-313b25bc1ad7b1b28d250fbf"
+    },
+    {
+      "EN": "Executioner's Axe",
+      "after": "Machado do Carrasco",
+      "before": "Machado do Carrasco",
+      "id": "s2-8398d3dda87a5594667873bd",
+      "verified_reward_name_id": "s2-86e7f54e38282714d6a00a8b"
+    },
+    {
+      "EN": "Feather Spear",
+      "after": "Lança de Pena",
+      "before": "Lança de Pena",
+      "id": "s2-f2aab30f544a5fd3bb0384b7",
+      "verified_reward_name_id": "s2-e23aae73ca25532659761b7c"
+    },
+    {
+      "EN": "Flail",
+      "after": "Mangual",
+      "before": "Mangual",
+      "id": "s2-bb4387b338957eac3de878d7",
+      "verified_reward_name_id": "s2-f3ce3243cddfeabc58a10bcc"
+    },
+    {
+      "EN": "Flame Sword",
+      "after": "Espada Flamejante",
+      "before": "Espada Flamejante",
+      "id": "s2-acbeab80ae449e477b28377c",
+      "verified_reward_name_id": "s2-4b9430d661f968984ef32d96"
+    },
+    {
+      "EN": "Giant Axe",
+      "after": "Machado Gigante",
+      "before": "Machado Gigante",
+      "id": "s2-34ddcb1f6edf7106d0077867",
+      "verified_reward_name_id": "s2-04d5f4178547d549d0ec3e2e"
+    },
+    {
+      "EN": "Gladius",
+      "after": "Gládio",
+      "before": "Gládio",
+      "id": "s2-ddf0e3d0a557e8a59001c955",
+      "verified_reward_name_id": "s2-7b346fb0c512efbdd293adc9"
+    },
+    {
+      "EN": "Glaive",
+      "after": "Glaive",
+      "before": "Glave",
+      "id": "s2-dc34f388c305e532c481b141",
+      "verified_reward_name_id": "s2-b0b2dc320da4ba4ac7ee9a0c"
+    },
+    {
+      "EN": "Great Axe",
+      "after": "Grande Machado",
+      "before": "Machado Grande",
+      "id": "s2-56dee41d7aaf47de5913facf",
+      "verified_reward_name_id": "s2-1405f1adf8610e1afbbd6ba7"
+    },
+    {
+      "EN": "Greatsword",
+      "after": "Montante",
+      "before": "Espada Grande",
+      "id": "s2-4d1695ad27ae875d78efb0e3",
+      "verified_reward_name_id": "s2-107b5cdef4ae35bb9d076166"
+    },
+    {
+      "EN": "Halberd",
+      "after": "Halabarda",
+      "before": "Halabarda",
+      "id": "s2-1f29976224f6bde11fa1e58c",
+      "verified_reward_name_id": "s2-5cadef2dd523b478f812a705"
+    },
+    {
+      "EN": "Hammer",
+      "after": "Martelo",
+      "before": "Martelo",
+      "id": "s2-3264f271a53f61b76b5aa803",
+      "verified_reward_name_id": "s2-0bd75b0f39c15f4315b0d323"
+    },
+    {
+      "EN": "Hand Axe",
+      "after": "Machado de Mão",
+      "before": "Machado de Mão",
+      "id": "s2-9322def1809866332f2626af",
+      "verified_reward_name_id": "s2-364e91410335930e40894bef"
+    },
+    {
+      "EN": "Hatchet",
+      "after": "Machadinha",
+      "before": "Machadinha",
+      "id": "s2-e4d739aba76447856c31d13b",
+      "verified_reward_name_id": "s2-fc2203eb397ae7538c0b18db"
+    },
+    {
+      "EN": "Hoe",
+      "after": "Enxada",
+      "before": "Enxada",
+      "id": "s2-fa0f69e1409eddcb3c278714",
+      "verified_reward_name_id": "s2-e991df0be911c2071ef6e566"
+    },
+    {
+      "EN": "Jaw Axe",
+      "after": "Machado de Mandíbula",
+      "before": "Machado de Mandíbula",
+      "id": "s2-a31e8c3fb8eb0bf6c19ba5ab",
+      "verified_reward_name_id": "s2-280efa21f8ed6beb312b3319"
+    },
+    {
+      "EN": "Jeweled Dagger",
+      "after": "Adaga Cravejada de Joias",
+      "before": "Adaga Joalhada",
+      "id": "s2-1f69e6c400d2896d62bb635b",
+      "verified_reward_name_id": "s2-ce6880c022e446d1c6322716"
+    },
+    {
+      "EN": "Kama",
+      "after": "Kama",
+      "before": "Kama",
+      "id": "s2-0b682666e7bb4f13c773affb",
+      "verified_reward_name_id": "s2-c6926b9bdd496a3ebd906281"
+    },
+    {
+      "EN": "Katana",
+      "after": "Katana",
+      "before": "Katana",
+      "id": "s2-0e33ba86b5e3aea6123e45b9",
+      "verified_reward_name_id": "s2-bd6da82330c89159e8eeb126"
+    },
+    {
+      "EN": "Khopesh",
+      "after": "Khopesh",
+      "before": "Khopesh",
+      "id": "s2-d09e2547e3c6dd2554200461",
+      "verified_reward_name_id": "s2-f34a6604004d71ee2fe1070d"
+    },
+    {
+      "EN": "Knife",
+      "after": "Faca",
+      "before": "Faca",
+      "id": "s2-af2bbf89d5c7de0483c0c496",
+      "verified_reward_name_id": "s2-6d9bc344dbc2e1de5af56308"
+    },
+    {
+      "EN": "Kukri",
+      "after": "Kukri",
+      "before": "Kukri",
+      "id": "s2-8f1a68608933e59e17157678",
+      "verified_reward_name_id": "s2-6c52264b370effdebffddf7d"
+    },
+    {
+      "EN": "Leaf Spear",
+      "after": "Lança de Folha",
+      "before": "Lança de Folha",
+      "id": "s2-5f3520d094298d764ea8e98b",
+      "verified_reward_name_id": "s2-94f84413634f7d583e4d340d"
+    },
+    {
+      "EN": "Light Axe",
+      "after": "Machado Leve",
+      "before": "Machado Leve",
+      "id": "s2-2239f335bad5227feb26a79b",
+      "verified_reward_name_id": "s2-623a151f30f1547e39248e84"
+    },
+    {
+      "EN": "Longsword",
+      "after": "Espada Longa",
+      "before": "Espada Longa",
+      "id": "s2-a57589e5d5906c0bf3b5255e",
+      "verified_reward_name_id": "s2-7d915f2fc4c77dd9c61a82d9"
+    },
+    {
+      "EN": "Mace",
+      "after": "Maça",
+      "before": "Maça",
+      "id": "s2-eb9732921a19f645c57d4f40",
+      "verified_reward_name_id": "s2-6ba8eae41c9844d7d0f6f770"
+    },
+    {
+      "EN": "Maul",
+      "after": "Malho",
+      "before": "Malho",
+      "id": "s2-523293b168f738f50ec48e59",
+      "verified_reward_name_id": "s2-7347068309df4bc20d3ae11d"
+    },
+    {
+      "EN": "Metal Fist",
+      "after": "Punho Metálico",
+      "before": "Punho de Metal",
+      "id": "s2-0b4b35a284118e7181183de8",
+      "verified_reward_name_id": "s2-f2e298a7297a3d49fad4ec4a"
+    },
+    {
+      "EN": "Morning Star",
+      "after": "Maça Estrela",
+      "before": "Estrela da Manhã",
+      "id": "s2-a3b3954952d96826ef806a31",
+      "verified_reward_name_id": "s2-03c751a6a0a019918b89cc28"
+    },
+    {
+      "EN": "Pharaoh Dagger",
+      "after": "Adaga do Faraó",
+      "before": "Adaga do Faraó",
+      "id": "s2-df89d5e815321683f2e0f866",
+      "verified_reward_name_id": "s2-c05b02482d795d5ab174567e"
+    },
+    {
+      "EN": "Pickaxe",
+      "after": "Picareta",
+      "before": "Picareta",
+      "id": "s2-cc18251dcfe19b38009be129",
+      "verified_reward_name_id": "s2-d554cef3129fdac28e1296e4"
+    },
+    {
+      "EN": "Ranseur Spear",
+      "after": "Lança Ranseur",
+      "before": "Lança Ranseur",
+      "id": "s2-84a1570f4ec92d10deaa6dc3",
+      "verified_reward_name_id": "s2-920fbabb9d1ef0d0cd779e2f"
+    },
+    {
+      "EN": "Runic Dagger",
+      "after": "Adaga Rúnica",
+      "before": "Adaga Rúnica",
+      "id": "s2-4cc8357aac43dbe197e380e8",
+      "verified_reward_name_id": "s2-6c67ae8e414a6db6b5b7f8eb"
+    },
+    {
+      "EN": "Sabre",
+      "after": "Sabre",
+      "before": "Sabre",
+      "id": "s2-e83c229eadf5ee0eb21a833d",
+      "verified_reward_name_id": "s2-8038474ff17804153f76cd18"
+    },
+    {
+      "EN": "Scale Mace",
+      "after": "Maça de Escamas",
+      "before": "Maça de Escamas",
+      "id": "s2-8a97861c0963f81139debf78",
+      "verified_reward_name_id": "s2-745fd9f4e10b2645b81bad0a"
+    },
+    {
+      "EN": "Sceptre",
+      "after": "Cetro",
+      "before": "Cetro",
+      "id": "s2-5cf5a7d018555563320d0b2b",
+      "verified_reward_name_id": "s2-f9f3e7ef63a4aaf4451476ee"
+    },
+    {
+      "EN": "Scissors",
+      "after": "Tesoura",
+      "before": "Tesoura",
+      "id": "s2-9271f90d0214d46066e4c7ab",
+      "verified_reward_name_id": "s2-5256c201aaee0881d3144ba0"
+    },
+    {
+      "EN": "Short Sword",
+      "after": "Espada Curta",
+      "before": "Espada curta",
+      "id": "s2-8f54f780e221f1dadb8df07e",
+      "verified_reward_name_id": "s2-3c234c7849fa04ddf2b5e7ea"
+    },
+    {
+      "EN": "Shovel",
+      "after": "Pá",
+      "before": "Pá",
+      "id": "s2-c19c599fa1c3805587b08c51",
+      "verified_reward_name_id": "s2-16dd73ec387249ad877760bf"
+    },
+    {
+      "EN": "Slaughter Sword",
+      "after": "Espada da Carnificina",
+      "before": "Espada do Abate",
+      "id": "s2-92f969f9f6adc9902111380b",
+      "verified_reward_name_id": "s2-8126b466f1f1a79627640f1d"
+    },
+    {
+      "EN": "Snake Sword",
+      "after": "Espada Serpente",
+      "before": "Espada Serpente",
+      "id": "s2-31410f016522f2b2065050e2",
+      "verified_reward_name_id": "s2-0b9f1e710693134d30ff84fa"
+    },
+    {
+      "EN": "Spadone Sword",
+      "after": "Espada Spadone",
+      "before": "Espadão",
+      "id": "s2-fd4ea2bf496050d2f4dbc709",
+      "verified_reward_name_id": "s2-5d15f40c6772bc6699cf21ba"
+    },
+    {
+      "EN": "Spark Hammer",
+      "after": "Martelo de Faísca",
+      "before": "Martelo de Faísca",
+      "id": "s2-68f05bf5db9de1360551169d",
+      "verified_reward_name_id": "s2-4406ec103d3e56f1bd3a765a"
+    },
+    {
+      "EN": "Spiked Club",
+      "after": "Clava Espinhosa",
+      "before": "Clava Espinhosa",
+      "id": "s2-db4066c1684cedac246bdf5c",
+      "verified_reward_name_id": "s2-c8e33ed6283e93e6a412985e"
+    },
+    {
+      "EN": "Spiked Knuckle",
+      "after": "Soco-inglês com Espinhos",
+      "before": "Nudilheira Espinhosa",
+      "id": "s2-4abcd26db0f18c6299e9a741",
+      "verified_reward_name_id": "s2-090a1f2286f2ef057ce1aea5"
+    },
+    {
+      "EN": "Spiked Sword",
+      "after": "Espada Espinhosa",
+      "before": "Espada Espinhosa",
+      "id": "s2-5931881b8a7c91875949ba54",
+      "verified_reward_name_id": "s2-571f48eee2dd8be46b31c341"
+    },
+    {
+      "EN": "Spontoon",
+      "after": "Espontão",
+      "before": "Espontão",
+      "id": "s2-32b2d4529ed04db65e884273",
+      "verified_reward_name_id": "s2-63db0f5ec090f3e3d8cb893b"
+    },
+    {
+      "EN": "Studded Knuckle",
+      "after": "Soco-inglês com Tachas",
+      "before": "Soqueira Cravada",
+      "id": "s2-f016b46042b9365f9323fe1d",
+      "verified_reward_name_id": "s2-c1120a0862a956c6a8e79dcd"
+    },
+    {
+      "EN": "Sword",
+      "after": "Espada",
+      "before": "Espada",
+      "id": "s2-857ee9568f77c7d3941207fc",
+      "verified_reward_name_id": "s2-75c7a93f270df21023553205"
+    },
+    {
+      "EN": "Throwing Axe",
+      "after": "Machado de Arremesso",
+      "before": "Machado de Arremesso",
+      "id": "s2-709848aa733d8afe697c22bb",
+      "verified_reward_name_id": "s2-5024a01e15d6372075f28fe8"
+    },
+    {
+      "EN": "Throwing Hammer",
+      "after": "Martelo de Arremesso",
+      "before": "Martelo de Arremesso",
+      "id": "s2-95abec81f00a7a6dbc65405c",
+      "verified_reward_name_id": "s2-2649fa1a494bd0c946632573"
+    },
+    {
+      "EN": "Throwing Knife",
+      "after": "Faca de Arremesso",
+      "before": "Faca de Arremesso",
+      "id": "s2-22c266404edd3132b57b55d1",
+      "verified_reward_name_id": "s2-5ea1b3bfb7c3b898c517e541"
+    },
+    {
+      "EN": "Toothed Sword",
+      "after": "Espada Dentada",
+      "before": "Espada Dentada",
+      "id": "s2-9f0c3579667c816b8f43225e",
+      "verified_reward_name_id": "s2-fcffb0200c8398abd040a36c"
+    },
+    {
+      "EN": "Vortex Disc",
+      "after": "Disco Vórtex",
+      "before": "Disco de Vórtice",
+      "id": "s2-e878963ca2cd89dd1e99759c",
+      "verified_reward_name_id": "s2-27c9c77c01318ef8618c56c8"
+    },
+    {
+      "EN": "War Axe",
+      "after": "Machado de Guerra",
+      "before": "Machado de Guerra",
+      "id": "s2-93dd2c10a0a6f623cc66f3f7",
+      "verified_reward_name_id": "s2-0d4b3cd893619410ae277473"
+    },
+    {
+      "EN": "War Dart",
+      "after": "Dardo de Guerra",
+      "before": "Dardo de Guerra",
+      "id": "s2-0a9b35a20d6b1c566212e0e8",
+      "verified_reward_name_id": "s2-008f7f3e80f128d2e41b0047"
+    },
+    {
+      "EN": "War Hammer",
+      "after": "Martelo de Guerra",
+      "before": "Martelo de Guerra",
+      "id": "s2-cfeb4fb69485f9027661d2c3",
+      "verified_reward_name_id": "s2-ed7cce500d831e40445e431e"
+    },
+    {
+      "EN": "Weapon Stand",
+      "after": "Suporte de Armas",
+      "before": "Suporte de Armas",
+      "id": "s2-580ce585cb8f6b9edb6718a9",
+      "verified_reward_name_id": "s2-fae0bd45b3659d87b0e4b152"
+    },
+    {
+      "EN": "Wide Spear",
+      "after": "Lança Larga",
+      "before": "Lança Larga",
+      "id": "s2-053c971d52d505d7b09b8d21",
+      "verified_reward_name_id": "s2-95330047c9baa5d3c0a9ba8c"
+    }
+  ]
+}

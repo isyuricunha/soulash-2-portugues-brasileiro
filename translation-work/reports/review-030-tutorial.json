@@ -1,0 +1,278 @@
+{
+  "corrections": [
+    {
+      "EN": "After you took a rest, you might have noticed that your stamina bar gained a bit of an [color=176,101,43,255]orange indicator[/color] at the end.\n\nThis is fatigue and you will gain more of it when you rest. Fatigue reduces your maximum stamina by its amount, but you can recover by performing ::sleep_action. Sleeping can be dangerous if done in the open where an enemy group could stumble upon you.",
+      "after": "Depois que você descansar, pode notar que sua barra de vigor ganhou um [color=176,101,43,255]indicador laranja[/color] no final.\n\nIsso é fadiga e você acumulará mais ao descansar. A fadiga reduz seu vigor máximo pelo seu valor, mas você pode se recuperar realizando ::sleep_action. Dormir pode ser perigoso se feito ao ar livre, onde um grupo inimigo pode encontrar você.",
+      "before": "Depois que você descansar, pode notar que sua barra de vigor ganhou um [color=176,101,43,255]indicador laranja[/color] no final.\n\nIsso é fadiga e você acumulará mais ao descansar. A fadiga reduz seu vigor máximo pelo seu valor, mas você pode se recuperar realizando ::sleep_action. Dormir pode ser perigoso se feito ao ar livre, onde um grupo inimigo pode tropeçar em você.",
+      "gender_after": null,
+      "gender_before": null,
+      "id": "s2-886ce83e17c5951b92fac05f"
+    },
+    {
+      "EN": "Can you see a [color=45,121,37,255]blue arrow[/color] near your character's portrait border? This is a sight direction indicator, it shows which direction you are looking at.\n\nEvery being with eyes in the game will have such an indicator.\n[color=120,120,120,255]Grey colored[/color] indicator means this creature is neutral toward you.\n[color=178,58,51,255]Red color[/color] means that the enemy [color=178,58,51,255]is aware[/color] of your presence and will attack.\n\nYou can rotate using the Look Action, or ::rotate.",
+      "after": "Você consegue ver uma [color=45,121,37,255]seta azul[/color] perto da borda do retrato do seu personagem? Este é um indicador de direção de visão, ele mostra para qual direção você está olhando.\n\nTodo ser com olhos no jogo terá esse indicador.\n[color=120,120,120,255]Indicador na cor cinza[/color] significa que esta criatura é neutra em relação a você.\n[color=178,58,51,255]A cor vermelha[/color] significa que o inimigo [color=178,58,51,255]está ciente[/color] da sua presença e vai atacar.\n\nVocê pode girar usando a ação Olhar ou ::rotate.",
+      "before": "Você consegue ver uma [color=45,121,37,255]flecha azul[/color] perto da borda do retrato do seu personagem? Este é um indicador de direção de visão, ele mostra para qual direção você está olhando.\n\nTodo ser com olhos no jogo terá esse indicador.\n[color=120,120,120,255]Indicador na cor cinza[/color] significa que esta criatura é neutra em relação a você.\n[color=178,58,51,255]A cor vermelha[/color] significa que o inimigo [color=178,58,51,255]está ciente[/color] da sua presença e vai atacar.\n\nVocê pode rotacionar usando a Ação Olhar, ou ::rotate.",
+      "gender_after": null,
+      "gender_before": null,
+      "id": "s2-a7d3186ca5363b83b90be208"
+    },
+    {
+      "EN": "Committing a crime in any settlement may have dire consequences, as any crime you commit, be it stealing, vandalism, assault, or murder, will result in a bounty on your head.\n\nWith a bounty, military units will attack you on sight in the settlement where you've committed a crime.\n\nYou can find settlements where you committed a crime in the Knowledge Screen - they will have a wanted poster icon near their name on the list.\n\nOn the same screen, you can find details about your wanted poster and pay it off to nullify your crimes.\n\nBeware that some crimes may be unforgivable in certain cultures, in which case your death or self-banishment will be the only way to resolve the situation.",
+      "after": "Cometer um crime em qualquer assentamento pode ter consequências graves, pois qualquer crime que você cometa, seja roubo, vandalismo, agressão ou assassinato, resultará em uma recompensa pela sua cabeça.\n\nCom uma recompensa, unidades militares atacarão você à vista no assentamento onde cometeu o crime.\n\nVocê pode encontrar assentamentos onde cometeu crimes na Tela de Conhecimento - eles terão um ícone de cartaz de procurado próximo ao nome na lista.\n\nNa mesma tela, você pode consultar os detalhes da recompensa pela sua cabeça e pagar o valor exigido para anular seus crimes.\n\nCuidado: alguns crimes podem ser imperdoáveis em certas culturas, caso em que sua morte ou autoexílio será a única maneira de resolver a situação.",
+      "before": "Cometer um crime em qualquer assentamento pode ter consequências graves, pois qualquer crime que você cometa, seja roubo, vandalismo, agressão ou assassinato, resultará em uma recompensa pela sua cabeça.\n\nCom uma recompensa, unidades militares atacarão você à vista no assentamento onde cometeu o crime.\n\nVocê pode encontrar assentamentos onde cometeu crimes na Tela de Conhecimento - eles terão um ícone de cartaz de procurado próximo ao nome na lista.\n\nNa mesma tela, você pode encontrar detalhes sobre seu cartaz de procurado e pagá-lo para anular seus crimes.\n\nCuidado: alguns crimes podem ser imperdoáveis em certas culturas, caso em que sua morte ou autoexílio será a única maneira de resolver a situação.",
+      "gender_after": null,
+      "gender_before": null,
+      "id": "s2-f661224424fed0f7ca930d1d"
+    },
+    {
+      "EN": "Did you see that [color=178,58,51,255]red exlamation mark[/color] in the dark?\n\nIt means your character heard [color=178,58,51,255]something suspicious[/color] there.\n\nYou can detect threats more frequently by increasing Willpower and Hearing statistics or move more silently by increasing Dexterity and Sneaking.\n\nSneaking won't help you if you are in a line of sight of your enemy, so remember to take note of the sight direction markers pointing out of the circles.",
+      "after": "Você viu aquela [color=178,58,51,255]ponto de exclamação vermelho[/color] no escuro?\n\nSignifica que seu personagem ouviu [color=178,58,51,255]algo suspeito[/color] ali.\n\nVocê pode detectar ameaças com mais frequência aumentando os atributos Força de Vontade e Audição, ou mover-se mais silenciosamente aumentando Destreza e Furtividade.\n\nFurtividade não ajudará se você estiver na linha de visão do seu inimigo, então lembre-se de notar os marcadores de direção de visão apontando para fora dos círculos.",
+      "before": "Você viu aquela [color=178,58,51,255]marca de exclamação vermelha[/color] no escuro?\n\nSignifica que seu personagem ouviu [color=178,58,51,255]algo suspeito[/color] ali.\n\nVocê pode detectar ameaças com mais frequência aumentando os atributos Vontade e Audição, ou mover-se mais silenciosamente aumentando Destreza e Furtividade.\n\nFurtividade não ajudará se você estiver na linha de visão do seu inimigo, então lembre-se de notar os marcadores de direção de visão apontando para fora dos círculos.",
+      "gender_after": null,
+      "gender_before": null,
+      "id": "s2-c09ce5053014eae19cb5d2a3"
+    },
+    {
+      "EN": "Hunger and Thirst represent the need to consume food and water, and you'll see them as the green and blue bars in the top left of your screen. When [color=45,121,37,255]hunger or thirst drops below 0, they reset to 100 and you gain starvation or dehydration mark[/color] under the bar.\n\nEach starvation and dehydration mark reduces all your base statistics by 2.\n\nWhen starvation or dehydration marks fill the bar fully, your character will die (except in High Fantasy mode, where you will suffer).\n\nOnce the bars drop, you will eat and drink automatically as long as you have food and water in your backpack. The order food in your backpack determines the priority of consumption starting from top left, and searching horizontally.\n\nYou can't travel between regions if your starvation or dehydration reaches level 4, so make sure you don't get stuck in a region without food or water.\n\nYou may quench your thirst automatically by [color=45,121,37,255]passing by the river on the world map[/color], and most [color=45,121,37,255]settlements will have a water source in their center area[/color].",
+      "after": "Fome e Sede representam a necessidade de consumir comida e água, e você as verá como as barras verde e azul no canto superior esquerdo da tela. Quando [color=45,121,37,255]fome ou sede caírem abaixo de 0, elas são reiniciadas para 100 e você ganha uma marca de inanição ou desidratação[/color] sob a barra.\n\nCada marca de inanição ou desidratação reduz todos os seus atributos base em 2.\n\nQuando as marcas de inanição ou desidratação preencherem a barra completamente, seu personagem morrerá (exceto no modo Alta Fantasia, onde você sofrerá).\n\nQuando as barras caírem, você comerá e beberá automaticamente enquanto tiver comida e água na mochila. A ordem dos alimentos na mochila determina a prioridade de consumo, começando pelo canto superior esquerdo e seguindo horizontalmente.\n\nVocê não pode viajar entre regiões se sua inanição ou desidratação atingir o nível 4, então certifique-se de não ficar preso em uma região sem comida ou água.\n\nVocê pode saciar sua sede automaticamente ao [color=45,121,37,255]passar por um rio no mapa-múndi[/color], e a maioria dos [color=45,121,37,255]assentamentos terá uma fonte de água em sua área central[/color].",
+      "before": "Fome e Sede representam a necessidade de consumir comida e água, e você as verá como as barras verde e azul no canto superior esquerdo da tela. Quando [color=45,121,37,255]fome ou sede caírem abaixo de 0, elas são reiniciadas para 100 e você ganha uma marca de fome ou desidratação[/color] sob a barra.\n\nCada marca de fome ou desidratação reduz todos os seus atributos base em 2.\n\nQuando as marcas de fome ou desidratação preencherem a barra completamente, seu personagem morrerá (exceto no modo Alta Fantasia, onde você sofrerá).\n\nQuando as barras caírem, você comerá e beberá automaticamente enquanto tiver comida e água na mochila. A ordem dos alimentos na mochila determina a prioridade de consumo, começando pelo canto superior esquerdo e seguindo horizontalmente.\n\nVocê não pode viajar entre regiões se sua fome ou desidratação atingir o nível 4, então certifique-se de não ficar preso em uma região sem comida ou água.\n\nVocê pode saciar sua sede automaticamente ao [color=45,121,37,255]passar por um rio no mapa-múndi[/color], e a maioria dos [color=45,121,37,255]assentamentos terá uma fonte de água em sua área central[/color].",
+      "gender_after": null,
+      "gender_before": null,
+      "id": "s2-83b9e55e4b1bfad817f202cc"
+    },
+    {
+      "EN": "In Soulash 2 you advance your skills by performing various tasks.\n\nYou can check which tasks advance in each skill tooltip, available in your Skill Book.\n\n[color=72,125,143,255]The Blue bar at the bottom of each ability[/color] indicates how much more experience you need before you'll advance.\n\nWith each milestone, you may gain a new ability, an amplifier to enhance your abilities, learn a new crafting or building recipe, unlock new world interaction actions, or a passive bonus.\n\nYour skills have a limit called Potential. Your character has a maximum level of potential that you can see above your skills list, which applies to the sum of all skill levels, and every skill may have an individual level of potential.\n\nYou may improve your skill potential by finding a trainer NPC and pay gold to teach you new things.",
+      "after": "Em Soulash 2 você avança suas habilidades realizando várias tarefas.\n\nVocê pode consultar quais tarefas desenvolvem cada habilidade na descrição correspondente, disponível no seu Livro de Habilidades.\n\n[color=72,125,143,255]A barra azul na parte inferior de cada habilidade[/color] indica quanta experiência a mais você precisa para avançar.\n\nA cada marco, você pode ganhar uma nova habilidade, um amplificador para aprimorar suas habilidades, aprender uma nova receita de criação ou construção, desbloquear novas ações de interação com o mundo ou um bônus passivo.\n\nSuas habilidades têm um limite chamado Potencial. Seu personagem tem um nível máximo de potencial que você vê acima da lista de habilidades, que se aplica à soma de todos os níveis de habilidade, e cada habilidade pode ter um nível individual de potencial.\n\nVocê pode melhorar seu potencial de habilidade encontrando um NPC treinador e pagando ouro para que ele lhe ensine coisas novas.",
+      "before": "Em Soulash 2 você avança suas habilidades realizando várias tarefas.\n\nVocê pode conferir quais tarefas avançam na dica de cada habilidade, disponível no seu Livro de Habilidades.\n\n[color=72,125,143,255]A barra azul na parte inferior de cada habilidade[/color] indica quanta experiência a mais você precisa para avançar.\n\nA cada marco, você pode ganhar uma nova habilidade, um amplificador para aprimorar suas habilidades, aprender uma nova receita de criação ou construção, desbloquear novas ações de interação com o mundo ou um bônus passivo.\n\nSuas habilidades têm um limite chamado Potencial. Seu personagem tem um nível máximo de potencial que você vê acima da lista de habilidades, que se aplica à soma de todos os níveis de habilidade, e cada habilidade pode ter um nível individual de potencial.\n\nVocê pode melhorar seu potencial de habilidade encontrando um NPC treinador e pagando ouro para que ele lhe ensine coisas novas.",
+      "gender_after": null,
+      "gender_before": null,
+      "id": "s2-5b3eaed7e857c017cdf2c921"
+    },
+    {
+      "EN": "In Soulash 2 you can build your own structures. Press ::building_key to access the list of available structures or selecting the building action icon in the action bar.\n\nWhen you choose a structure you want to build you will see required resources at the bottom, sometimes you'll be able to choose resources of required type.\n\nIf you stop the building process for any reason, you may resume it later without paying the cost again, unless you explicitly cancel the item.",
+      "after": "Em Soulash 2 você pode construir suas próprias estruturas. Pressione ::building_key para acessar a lista de estruturas disponíveis ou selecione o ícone de ação de construção na barra de ações.\n\nAo escolher uma estrutura para construir, você verá os recursos necessários na parte inferior; às vezes, poderá escolher recursos do tipo requerido.\n\nSe você interromper o processo de construção por qualquer motivo, poderá retomá-lo depois sem pagar o custo novamente, a menos que cancele explicitamente o item.",
+      "before": "Em Soulash 2 você pode construir suas próprias estruturas. Pressione ::building_key para acessar a lista de estruturas disponíveis ou selecionar o ícone de ação de construção na barra de ações.\n\nAo escolher uma estrutura para construir, você verá os recursos necessários na parte inferior; às vezes, poderá escolher recursos do tipo requerido.\n\nSe você interromper o processo de construção por qualquer motivo, poderá retomá-lo depois sem pagar o custo novamente, a menos que cancele explicitamente o item.",
+      "gender_after": null,
+      "gender_before": null,
+      "id": "s2-31e7842d6980077443d3f5c4"
+    },
+    {
+      "EN": "Interact with the world by holding [color=45,121,37,255]LT[/color] while navigating with [color=45,121,37,255]Right Stick[/color], and press [color=45,121,37,255]Gamepad Y[/color] to see alternative actions.",
+      "after": "Interaja com o mundo segurando [color=45,121,37,255]LT[/color] enquanto navega com o [color=45,121,37,255]Analógico Direito[/color], e pressione [color=45,121,37,255]Y do Controle[/color] para ver ações alternativas.",
+      "before": "Interaja com o mundo segurando [color=45,121,37,255]LT[/color] enquanto navega com [color=45,121,37,255]Stick Direito[/color], e pressione [color=45,121,37,255]Y do Controle[/color] para ver ações alternativas.",
+      "gender_after": null,
+      "gender_before": null,
+      "id": "s2-4513392536f98c5f96ae33ac"
+    },
+    {
+      "EN": "Leveling",
+      "after": "Progressão",
+      "before": "Nivelamento",
+      "gender_after": null,
+      "gender_before": null,
+      "id": "s2-ce8b1297c05efdcaf5a42116"
+    },
+    {
+      "EN": "Select a region to see its name and discovered resources on the left, and to travel there select the Move to Region button. Once you arrive you may enter the region. Traveling will consume food and water, but you will automatically drink if you pass by the river.\n\nYou won't be able to travel when you reach 4th level of starvation or dehydration, so keep an eye on your supplies!\n\nYou can navigate the map with ::navigate. You can also zoom in or out with ::zoom.",
+      "after": "Selecione uma região para ver seu nome e recursos descobertos à esquerda, e para viajar até lá, selecione o botão Mover para Região. Ao chegar, você poderá entrar na região. Viajar consumirá comida e água, mas você beberá automaticamente se passar por um rio.\n\nVocê não conseguirá viajar ao atingir o 4º nível de inanição ou desidratação, então fique de olho nos seus suprimentos!\n\nVocê pode navegar no mapa com ::navigate. Também pode aproximar ou afastar com ::zoom.",
+      "before": "Selecione uma região para ver seu nome e recursos descobertos à esquerda, e para viajar até lá, selecione o botão Mover para Região. Ao chegar, você poderá entrar na região. Viajar consumirá comida e água, mas você beberá automaticamente se passar por um rio.\n\nVocê não conseguirá viajar ao atingir o 4º nível de fome ou desidratação, então fique de olho nos seus suprimentos!\n\nVocê pode navegar no mapa com ::navigate. Também pode aproximar ou afastar com ::zoom.",
+      "gender_after": null,
+      "gender_before": null,
+      "id": "s2-f2cf86889285ff1e89bc2b40"
+    },
+    {
+      "EN": "The most basic form of combat in Soulash 2 is melee fighting. To attack someone in melee, you can [color=45,121,37,255]walk into your target[/color] or choose a [color=45,121,37,255]Melee Attack action[/color] and a single attack will be performed, or more if you wield more weapons.\n\nThe first selection on a being will highlight it as a target, allowing you to perform your single target actions and abilities without further confirmation.\n\n::ranged_attack\n\nOther than regular attacks, you may use special abilities. You may acquire new abilities by improving your skills. Check out Skills Screen ::enter_skills and assigning them to your ability bar.",
+      "after": "A forma mais básica de combate em Soulash 2 é a luta corpo a corpo. Para atacar alguém no corpo a corpo, você pode [color=45,121,37,255]andar até seu alvo[/color] ou escolher uma [color=45,121,37,255]ação de Ataque Corpo a Corpo[/color] e um único ataque será realizado, ou mais se você empunhar mais armas.\n\nA primeira seleção em um ser o destacará como alvo, permitindo que você realize suas ações e habilidades de alvo único sem confirmação adicional.\n\n::ranged_attack\n\nAlém de ataques regulares, você pode usar habilidades especiais. Você pode adquirir novas habilidades melhorando suas habilidades. Confira a Tela de Habilidades ::enter_skills e atribua-as à sua barra de habilidades.",
+      "before": "A forma mais básica de combate em Soulash 2 é a luta corpo a corpo. Para atacar alguém no corpo a corpo, você pode [color=45,121,37,255]andar até seu alvo[/color] ou escolher uma [color=45,121,37,255]ação de Ataque Corpo a Corpo[/color] e um único ataque será realizado, ou mais se você empunhar mais armas.\n\nA primeira seleção em um ser o destacará como alvo, permitindo que você realize suas ações e habilidades de alvo único sem confirmação adicional.\n\n::ranged_attack\n\nAlém de ataques regulares, você pode usar habilidades especiais. Você pode adquirir novas habilidades melhorando suas perícias. Confira a Tela de Habilidades ::enter_skills e atribua-as à sua barra de habilidades.",
+      "gender_after": null,
+      "gender_before": null,
+      "id": "s2-d1c5f924a21a9e5aed7ccc22"
+    },
+    {
+      "EN": "When you navigate to a tile, you will see a default action icon that you may perform by ::click. In case of any NPC being in the tile, the default action will be to select it.\n\nUsually, the default action will be to move, but in some cases, a different action may be more appropriate.\n\nIf the default action is not what you wish to do, use the right mouse button to toggle an action wheel and choose from all available activities.",
+      "after": "Quando você navegar para um quadrado, verá um ícone de ação padrão que poderá realizar com ::click. Caso haja algum NPC no quadrado, a ação padrão será selecioná-lo.\n\nGeralmente, a ação padrão será mover, mas em alguns casos uma ação diferente pode ser mais apropriada.\n\nSe a ação padrão não for o que você deseja fazer, use o botão direito do mouse para abrir a roda de ações e escolher entre todas as atividades disponíveis.",
+      "before": "Quando você navegar para um ladrilho, verá um ícone de ação padrão que poderá realizar com ::click. Caso haja algum NPC no ladrilho, a ação padrão será selecioná-lo.\n\nGeralmente, a ação padrão será mover, mas em alguns casos uma ação diferente pode ser mais apropriada.\n\nSe a ação padrão não for o que você deseja fazer, use o botão direito do mouse para alternar a roda de ações e escolher entre todas as atividades disponíveis.",
+      "gender_after": null,
+      "gender_before": null,
+      "id": "s2-05727ae41c25c47360f98d3c"
+    },
+    {
+      "EN": "You can access your inventory screen with ::inventory_screen. This screen is separated into three parts.\n\n[color=45,121,37,255]Left part displays Statistics[/color] of your character. You can read their description by ::hovering. These stats are non-refundable so choose them carefully. Below, you can find damage and protection of your character, as well as hit and parry chance. These values will be explained more in-depth when we get into combat section.\n\n[color=45,121,37,255]The middle part displays Equipment[/color], items that your character currently wears. Clothes, armors, weapons, shields, or jewelry. These slots will highlight when you select a corresponding item in your backpack.\n\n[color=45,121,37,255]Backpack is the last part of the screen[/color], where you can find everything you are carrying. By selecting an item you will see a list of available actions at the bottom with highlighted hotkeys associated with them.",
+      "after": "Você pode acessar a tela de inventário com ::inventory_screen. Esta tela é dividida em três partes.\n\n[color=45,121,37,255]A parte esquerda exibe os Atributos[/color] do seu personagem. Você pode ler a descrição deles ao ::hovering. Esses atributos não são reembolsáveis, então escolha com cuidado. Abaixo, você encontra o dano e a proteção do seu personagem, bem como a chance de acerto e de aparar. Esses valores serão explicados mais a fundo quando chegarmos à seção de combate.\n\n[color=45,121,37,255]A parte central exibe o Equipamento[/color], itens que seu personagem está usando no momento. Roupas, armaduras, armas, escudos ou joias. Esses espaços serão destacados quando você selecionar um item correspondente na mochila.\n\n[color=45,121,37,255]A Mochila é a última parte da tela[/color], onde você encontra tudo o que está carregando. Ao selecionar um item, você verá uma lista de ações disponíveis na parte inferior com teclas de atalho associadas destacadas.",
+      "before": "Você pode acessar a tela de inventário com ::inventory_screen. Esta tela é dividida em três partes.\n\n[color=45,121,37,255]A parte esquerda exibe os Atributos[/color] do seu personagem. Você pode ler a descrição deles ao ::hovering. Esses atributos não são reembolsáveis, então escolha com cuidado. Abaixo, você encontra o dano e a proteção do seu personagem, bem como a chance de acerto e parada. Esses valores serão explicados mais a fundo quando chegarmos à seção de combate.\n\n[color=45,121,37,255]A parte central exibe o Equipamento[/color], itens que seu personagem está usando no momento. Roupas, armaduras, armas, escudos ou joias. Estes slots serão destacados quando você selecionar um item correspondente na mochila.\n\n[color=45,121,37,255]A Mochila é a última parte da tela[/color], onde você encontra tudo o que está carregando. Ao selecionar um item, você verá uma lista de ações disponíveis na parte inferior com teclas de atalho associadas destacadas.",
+      "gender_after": null,
+      "gender_before": null,
+      "id": "s2-a16497d156e548c4b1269b61"
+    },
+    {
+      "EN": "You got hit!\n\nYou should see a [color=184,35,35,255]red bar indicating your health[/color] on the top left section of your screen. Keep an eye on it, because when it drops to 0 your character will die!\n\nYour health will regenerate slowly over time, but you can speed it up with some abilities or items like bandages.",
+      "after": "Você foi atingido!\n\nVocê verá uma [color=184,35,35,255]barra vermelha indicando sua vida[/color] no canto superior esquerdo da tela. Fique de olho nela, porque quando cair para 0 seu personagem morrerá!\n\nSua vida se regenerará lentamente com o tempo, mas você pode acelerar isso com algumas habilidades ou itens como bandagens.",
+      "before": "Você foi atingido!\n\nVocê verá uma [color=184,35,35,255]barra vermelha indicando sua vida[/color] no canto superior esquerdo da tela. Fique de olho nela, porque quando cair para 0 seu personagem morrerá!\n\nSua vida regenerará lentamente com o tempo, mas você pode acelerar isso com algumas habilidades ou itens como bandagens.",
+      "gender_after": null,
+      "gender_before": null,
+      "id": "s2-0a949c86e7fa7c268f0f720c"
+    },
+    {
+      "EN": "[color=45,121,37,255]D-pad Left[/color] button",
+      "after": "botão [color=45,121,37,255]Esquerda do Direcional[/color]",
+      "before": "[color=45,121,37,255]Direcional Esquerdo[/color] button",
+      "gender_after": null,
+      "gender_before": null,
+      "id": "s2-59c496c330194f75f3f70534"
+    },
+    {
+      "EN": "[color=45,121,37,255]Gamepad Y[/color] button",
+      "after": "botão [color=45,121,37,255]Y do Controle[/color]",
+      "before": "[color=45,121,37,255]Gamepad Y[/color] botão",
+      "gender_after": null,
+      "gender_before": null,
+      "id": "s2-e6b049d8c31de3e147396a6b"
+    },
+    {
+      "EN": "[color=45,121,37,255]Left and Right Trigger[/color] buttons",
+      "after": "botões dos [color=45,121,37,255]Gatilhos Esquerdo e Direito[/color]",
+      "before": "[color=45,121,37,255]Gatilho Esquerdo e Direito[/color] buttons",
+      "gender_after": null,
+      "gender_before": null,
+      "id": "s2-5b276f0f7d15cb3d0cd9bfbf"
+    },
+    {
+      "EN": "[color=45,121,37,255]d[/color] key",
+      "after": "tecla [color=45,121,37,255]d[/color]",
+      "before": "[color=45,121,37,255]d[/color] tecla",
+      "gender_after": null,
+      "gender_before": null,
+      "id": "s2-de0fa30c323b304b38342a92"
+    },
+    {
+      "EN": "[color=45,121,37,255]l[/color] key",
+      "after": "tecla [color=45,121,37,255]l[/color]",
+      "before": "[color=45,121,37,255]l[/color] key",
+      "gender_after": null,
+      "gender_before": null,
+      "id": "s2-f50f120121749eff63c099b5"
+    },
+    {
+      "EN": "a button above your ability bar or with [color=45,121,37,255]Gamepad Start[/color] key and navigating there with [color=45,121,37,255]RB[/color]",
+      "after": "um botão acima da sua barra de habilidades ou com a tecla [color=45,121,37,255]Start do Controle[/color] e navegando até lá com [color=45,121,37,255]RB[/color]",
+      "before": "um botão acima da sua barra de habilidades ou com a tecla [color=45,121,37,255]Gamepad Start[/color] e navegando até lá com [color=45,121,37,255]RB[/color]",
+      "gender_after": null,
+      "gender_before": null,
+      "id": "s2-a814cf51ff01841b659b9927"
+    },
+    {
+      "EN": "above your ability bar or with [color=45,121,37,255]Gamepad Start[/color] key and navigating there with [color=45,121,37,255]RB[/color]",
+      "after": "acima da sua barra de habilidades ou com a tecla [color=45,121,37,255]Start do Controle[/color] e navegando até lá com [color=45,121,37,255]RB[/color]",
+      "before": "acima da sua barra de habilidades ou com a tecla [color=45,121,37,255]Iniciar do Gamepad[/color] e navegando até lá com [color=45,121,37,255]RB[/color]",
+      "gender_after": null,
+      "gender_before": null,
+      "id": "s2-be7c62dcab2e0897d0671025"
+    },
+    {
+      "EN": "holding [color=45,121,37,255]Left Alt[/color] and clicking a tile away from your character",
+      "after": "segurando [color=45,121,37,255]Alt Esquerdo[/color] e clicando em um quadrado longe do seu personagem",
+      "before": "segurando [color=45,121,37,255]Left Alt[/color] e clicando em um tile longe do seu personagem",
+      "gender_after": null,
+      "gender_before": null,
+      "id": "s2-16faa07a88561ed1d0614090"
+    },
+    {
+      "EN": "pressing the [color=45,121,37,255]Gamepad A[/color]",
+      "after": "pressionando o botão [color=45,121,37,255]A do Controle[/color]",
+      "before": "pressionando o [color=45,121,37,255]Gamepad A[/color]",
+      "gender_after": null,
+      "gender_before": null,
+      "id": "s2-d39e737376eb6b1c5495e6af"
+    },
+    {
+      "EN": "rotate your sight direction with [color=45,121,37,255]Right Stick[/color]. When you hold [color=45,121,37,255]LT[/color] you'll instead navigate around nearby tiles with [color=45,121,37,255]Right Stick[/color]. While also holding [color=45,121,37,255]RB[/color] you can see description of what can be found in the tile",
+      "after": "gire a direção da sua visão com [color=45,121,37,255]Analógico Direito[/color]. Quando você segurar [color=45,121,37,255]LT[/color], navegará pelos quadrados próximos com [color=45,121,37,255]Analógico Direito[/color]. Mantendo também [color=45,121,37,255]RB[/color] pressionado, você verá a descrição do que pode ser encontrado no quadrado",
+      "before": "gire a direção da sua visão com [color=45,121,37,255]Right Stick[/color]. Quando você segurar [color=45,121,37,255]LT[/color], navegará pelos ladrilhos próximos com [color=45,121,37,255]Right Stick[/color]. Mantendo também [color=45,121,37,255]RB[/color] pressionado, você verá a descrição do que pode ser encontrado no ladrilho",
+      "gender_after": null,
+      "gender_before": null,
+      "id": "s2-a102b03f71f149a6b5b197c8"
+    },
+    {
+      "EN": "use your mouse to target a tile on the map and [color=45,121,37,255]hold left shift[/color] to see description of everything that is there.\n\nYou can also [color=45,121,37,255]hold left alt + left click[/color] on a tile or choose [color=45,121,37,255]Look At[/color] action from the action wheel",
+      "after": "use o mouse para selecionar um quadrado no mapa e [color=45,121,37,255]segure shift esquerdo[/color] para ver a descrição de tudo que está lá.\n\nVocê também pode [color=45,121,37,255]segurar alt esquerdo + clique esquerdo[/color] em um quadrado ou escolha a ação [color=45,121,37,255]Olhar[/color] na roda de ações",
+      "before": "use o mouse para selecionar um quadrado no mapa e [color=45,121,37,255]segure shift esquerdo[/color] para ver a descrição de tudo que está lá.\n\nVocê também pode [color=45,121,37,255]segure alt esquerdo + clique esquerdo[/color] em um quadrado ou escolha a ação [color=45,121,37,255]Olhar[/color] na roda de ações",
+      "gender_after": null,
+      "gender_before": null,
+      "id": "s2-7d1840a0600656fa7226bf49"
+    }
+  ],
+  "reviewed_ids": [
+    "s2-886ce83e17c5951b92fac05f",
+    "s2-4d25e51ca277822edb62d3db",
+    "s2-a1af9b14159d37f0d26ef698",
+    "s2-01a758c44bb59755a446f430",
+    "s2-a7d3186ca5363b83b90be208",
+    "s2-101f851008510fedbe8da860",
+    "s2-f661224424fed0f7ca930d1d",
+    "s2-9be788bc396ff7f2189b65a5",
+    "s2-08300cc22c8ffb7638a6cb98",
+    "s2-c09ce5053014eae19cb5d2a3",
+    "s2-3a937e71440b7a584a032752",
+    "s2-5bdd39e2570c001c8d090bc8",
+    "s2-5f307174159ef41020d8c228",
+    "s2-0d9a9942dd5bda740db228ba",
+    "s2-83b9e55e4b1bfad817f202cc",
+    "s2-5b3eaed7e857c017cdf2c921",
+    "s2-31e7842d6980077443d3f5c4",
+    "s2-d309c61d2c60aced41236c8c",
+    "s2-4513392536f98c5f96ae33ac",
+    "s2-b3f7df13ac5fd3430647848e",
+    "s2-ae2441eecbe7e6117ced1ca8",
+    "s2-aa1f803fbf948463be70aaf6",
+    "s2-ce8b1297c05efdcaf5a42116",
+    "s2-1da00ceff7e10545442656e2",
+    "s2-5e744a5c0aaf2defa6f485ae",
+    "s2-1f82b3616b639a1c33cbc0f0",
+    "s2-d5d8b5b06affa8747af8bb01",
+    "s2-f2cf86889285ff1e89bc2b40",
+    "s2-261ae7d2994e1cfeb03a8b0e",
+    "s2-f2e6aaabaae4b32be1439d2b",
+    "s2-048822c9206c463eb67249e1",
+    "s2-d1c5f924a21a9e5aed7ccc22",
+    "s2-992f8a602c823c0778c079f8",
+    "s2-6fc8e92db49ba20560149eb0",
+    "s2-9b4143b03a3935bf73e7939e",
+    "s2-79af6ba9e253f9c34ff5516e",
+    "s2-207d807245f8084c9fb4e175",
+    "s2-56f62e6e5650235f4e5dd7ef",
+    "s2-05727ae41c25c47360f98d3c",
+    "s2-80f98acd49035361e3305636",
+    "s2-8e2d2c6e11fd531e79f9a9dd",
+    "s2-a16497d156e548c4b1269b61",
+    "s2-0a949c86e7fa7c268f0f720c",
+    "s2-f2a130b5bdd27d8c66bf6c5c",
+    "s2-59c496c330194f75f3f70534",
+    "s2-e6b049d8c31de3e147396a6b",
+    "s2-d88589fbe18a03c65f5e8251",
+    "s2-5b276f0f7d15cb3d0cd9bfbf",
+    "s2-c06e514cf581fba660b1ed2d",
+    "s2-41ea153137599616f096e866",
+    "s2-598c9c233cfad2ceb9e3f07a",
+    "s2-15862a3fe2f8fd9603fda3ea",
+    "s2-de0fa30c323b304b38342a92",
+    "s2-c53ca54a53a8efa36bf4f0c7",
+    "s2-f50f120121749eff63c099b5",
+    "s2-444580014b7da99724ec025c",
+    "s2-a814cf51ff01841b659b9927",
+    "s2-2e1b7ac685830aa3b133fdd1",
+    "s2-be7c62dcab2e0897d0671025",
+    "s2-f2ce01e79ec6bb05234353cc",
+    "s2-e83bbfd58db4f429fa6ea71d",
+    "s2-f484cd7d8744b53330b44219",
+    "s2-a3a8871b35e1ea337f5fb443",
+    "s2-8b6612f70b743f7381333250",
+    "s2-16faa07a88561ed1d0614090",
+    "s2-84c780a776ef22594dd625b9",
+    "s2-e4e130182468faed179cca65",
+    "s2-fc77f2d9ba2085712492b96e",
+    "s2-d39e737376eb6b1c5495e6af",
+    "s2-a102b03f71f149a6b5b197c8",
+    "s2-fda58badc07b45d214aee0b7",
+    "s2-7d1840a0600656fa7226bf49"
+  ]
+}

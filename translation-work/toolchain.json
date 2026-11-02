@@ -26,7 +26,7 @@
     },
     "translation-work/preview.py": {
       "mode": "git-lf",
-      "sha256": "c928342aefeafff0addff3c9ed319c650fd9cf91acd95fcf9868b8842f7d0c29"
+      "sha256": "b8a0364a3df54007cf267fccfb667b8f5ab2589cce76f76ea5141aba5e8292d3"
     },
     "translation-work/protection.py": {
       "mode": "git-lf",
@@ -46,7 +46,7 @@
     },
     "translation-work/toolkit.py": {
       "mode": "git-lf",
-      "sha256": "4185d3b1b41af2f7fd8797f4f04541f2ba375545990fe5234ae7aad348f440e7"
+      "sha256": "2536b0f0be841ddd4b8246fe171a00156ccd9a31ef4ffeb235949ada8403dca0"
     }
   }
 }

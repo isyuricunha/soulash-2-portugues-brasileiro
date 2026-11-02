@@ -1,0 +1,14 @@
+{
+  "entries": 29202,
+  "game_read_only": true,
+  "pending": 9959,
+  "pending_categories": {
+    "conversations.json": 2816,
+    "dialogues.json": 3218,
+    "entities": 1819,
+    "events": 324,
+    "messages.json": 1782
+  },
+  "reviewed": 19243,
+  "runtime_tested": false
+}

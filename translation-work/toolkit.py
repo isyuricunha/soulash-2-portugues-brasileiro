@@ -256,20 +256,37 @@ class Project:
         tx=self.store.commit(changes,expected,operation='apply')
         return {'accepted':accepted,'rejected':failures,'transaction':tx,'changed_batches':sorted(dirty)}
 
+    def distribution_outputs(self):
+        folder=self.path(WORK+'distribution')
+        if not folder.exists():return {}
+        names={'mod.json','S2.png','LogoMod.png'}
+        if {p.name for p in folder.iterdir()}!=names:
+            raise Invalid('Invalid distribution support inventory')
+        metadata=read_json(folder/'mod.json')
+        if metadata.get('steam_publish_id')!=3704275307:
+            raise Invalid('Workshop identity mismatch')
+        return {DEPLOY+'/'+name:self.path(WORK+'distribution/'+name).read_bytes() for name in names}
+
     def build(self):
         self.integrity();m,rows,_,expected=self.load(deep=True)
         for r in rows:native.validate_row(r,complete=True)
         files={name:self.path('EN/'+SOURCE+'/'+name).read_bytes() for name in m['sources']}
         outputs=native.rebuild(files,rows,m['version'])
+        support=self.distribution_outputs();outputs.update(support)
+        if support:
+            metadata=read_json(self.path(WORK+'distribution/mod.json'))
+            metadata['game_required']=m['version']
+            outputs[DEPLOY+'/mod.json']=native.encoded(metadata)
         receipt={'schema':1,'complete':True,'completed':len(rows),'generation':m['generation'],
             'version':m['version'],'translation_hash':self.translation_hash(m),'manifest_hash':sha(canonical(self.path(MANIFEST).read_bytes())),
             'toolchain_hash':sha(canonical(self.path(WORK+'toolchain.json').read_bytes())),
+            'distribution_hash':sha(json_bytes({k:sha(v) for k,v in support.items()})),
             'outputs':{k:sha(v) for k,v in outputs.items()}}
         changes={'PTBR/'+k:v for k,v in outputs.items()}
         if self.path('PTBR').exists():
             for p in self.path('PTBR').rglob('*'):
                 if p.is_file():
-                    rel=p.relative_to(self.root).as_posix();expected[rel]=digest(p)
+                    rel='PTBR/'+p.relative_to(self.path('PTBR')).as_posix();expected[rel]=digest(p)
                     if rel not in changes:changes[rel]=None
         changes[BUILD]=json_bytes(receipt)
         self.store.commit(changes,expected,operation='build')
@@ -288,7 +305,10 @@ class Project:
         if actual_sources!=set(m['sources']):raise Invalid('SOURCE_INVENTORY_MISMATCH')
         for name,h in m['sources'].items():
             if digest(self.path('EN/'+SOURCE+'/'+name))!=h:raise Invalid('SOURCE_CHECKSUM_MISMATCH: '+name)
-        inventory={DEPLOY+'/translations/ptbr/'+name for name in m['sources']}|{DEPLOY+'/mod.json',DEPLOY+'/language_metadata.json'}
+        support=self.distribution_outputs()
+        if receipt.get('distribution_hash')!=sha(json_bytes({k:sha(v) for k,v in support.items()})):
+            raise Invalid('STALE_BUILD: distribution support changed')
+        inventory={DEPLOY+'/translations/ptbr/'+name for name in m['sources']}|{DEPLOY+'/mod.json',DEPLOY+'/language_metadata.json'}|set(support)
         if set(receipt['outputs'])!=inventory:raise Invalid('Invalid build inventory')
         actual={p.relative_to(self.path('PTBR')).as_posix():digest(self.path(p.relative_to(self.root).as_posix())) for p in self.path('PTBR').rglob('*') if p.is_file()}
         if actual!=receipt['outputs']:raise Invalid('OUTPUT_CHECKSUM_MISMATCH')

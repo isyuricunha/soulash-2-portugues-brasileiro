@@ -1,0 +1,20 @@
+{
+  "corrections": [
+    {
+      "EN": "An old letter that reads:\n\"Those crazy prophets came back. This time, we told them to get lost. If they want to pray to some imaginary god, they can do it somewhere else.\"",
+      "after": "Uma carta antiga que diz:\n\"Aqueles profetas malucos voltaram. Desta vez, mandamos que fossem embora. Se querem rezar para algum deus imaginário, que façam isso em outro lugar.\"",
+      "before": "Uma carta antiga que diz:\n",
+      "id": "s2-2ce1aa833447ba9a4a2690b3"
+    },
+    {
+      "EN": "An old letter that reads:\n\"We can't help you. We don't want to catch the plague like you. I hope you will survive.\"",
+      "after": "Uma carta antiga que diz:\n\"Não podemos ajudar você. Não queremos pegar a peste como você. Espero que sobreviva.\"",
+      "before": "Uma carta antiga que diz:\n",
+      "id": "s2-7b4369b0d35871841813d207"
+    }
+  ],
+  "reviewed_ids": [
+    "s2-2ce1aa833447ba9a4a2690b3",
+    "s2-7b4369b0d35871841813d207"
+  ]
+}

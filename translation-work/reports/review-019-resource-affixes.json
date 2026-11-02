@@ -1,0 +1,2570 @@
+{
+  "corrections": [
+    {
+      "EN": "Acacia",
+      "after": "de Acácia",
+      "before": "Acácia",
+      "id": "s2-2c226a60591579a31ea4e90e"
+    },
+    {
+      "EN": "Acacia",
+      "after": "de Acácia",
+      "before": "acácia",
+      "id": "s2-5b2c84f1465c64845a12da10"
+    },
+    {
+      "EN": "Adamantine",
+      "after": "de Adamantita",
+      "before": "Adamantita",
+      "id": "s2-41b1b3f3a07a006983ca6dd7"
+    },
+    {
+      "EN": "Adamantine",
+      "after": "de Adamantita",
+      "before": "adamantina",
+      "id": "s2-37720726faf23050844152e2"
+    },
+    {
+      "EN": "Alexandrite",
+      "after": "de Alexandrita",
+      "before": "Alexandrita",
+      "id": "s2-1c5c6035f6b6642e59907ae5"
+    },
+    {
+      "EN": "Alexandrite",
+      "after": "de Alexandrita",
+      "before": "da Alexandrita",
+      "id": "s2-88ee6a43972ac8b53886a84f"
+    },
+    {
+      "EN": "Amber",
+      "after": "de Âmbar",
+      "before": "Âmbar",
+      "id": "s2-3e2bf4dd8e4d2206275e127c"
+    },
+    {
+      "EN": "Amber",
+      "after": "de Âmbar",
+      "before": "âmbar",
+      "id": "s2-c5f4ec7ce3887df20da5a27d"
+    },
+    {
+      "EN": "Amethyst",
+      "after": "de Ametista",
+      "before": "ametista",
+      "id": "s2-05995ebf8736c755c586ca7b"
+    },
+    {
+      "EN": "Amethyst",
+      "after": "de Ametista",
+      "before": "ametista",
+      "id": "s2-dcafcfe95f2594c98cb640e7"
+    },
+    {
+      "EN": "Anhydrite",
+      "after": "de Anidrita",
+      "before": "Anidrita",
+      "id": "s2-b3f1891a4d919276bfd491c2"
+    },
+    {
+      "EN": "Anhydrite",
+      "after": "de Anidrita",
+      "before": "Anidrítica",
+      "id": "s2-e85430917e084be5c3805918"
+    },
+    {
+      "EN": "Aquamarine",
+      "after": "de Água-marinha",
+      "before": "água-marinha",
+      "id": "s2-6146d6e0fec7c35e4aac5d26"
+    },
+    {
+      "EN": "Aquamarine",
+      "after": "de Água-marinha",
+      "before": "água-marinha",
+      "id": "s2-689231fd483ed4117d80470d"
+    },
+    {
+      "EN": "Aspen",
+      "after": "de Choupo",
+      "before": "Choupo",
+      "id": "s2-871bece828c2be9038fe0b7a"
+    },
+    {
+      "EN": "Bamboo",
+      "after": "de Bambu",
+      "before": "Bambu",
+      "id": "s2-cb0f63c51ed3cab2831c8af8"
+    },
+    {
+      "EN": "Bamboo",
+      "after": "de Bambu",
+      "before": "bambu",
+      "id": "s2-d7cc2fdb63930e0a03b6df0a"
+    },
+    {
+      "EN": "Baobab",
+      "after": "de Baobá",
+      "before": "Baobá",
+      "id": "s2-adb9526fe32931102615ce9a"
+    },
+    {
+      "EN": "Baobab",
+      "after": "de Baobá",
+      "before": "baobá",
+      "id": "s2-b124db643c4c7cba2f7d3d62"
+    },
+    {
+      "EN": "Basalt",
+      "after": "de Basalto",
+      "before": "Basalto",
+      "id": "s2-8afce71c442df9a21ea9e048"
+    },
+    {
+      "EN": "Basalt",
+      "after": "de Basalto",
+      "before": "Basáltica",
+      "id": "s2-0cb2888dc6cbcc00a965ad60"
+    },
+    {
+      "EN": "Black Ice",
+      "after": "de Gelo Negro",
+      "before": "Gelo Negro",
+      "id": "s2-eaa36c25f8612b3f10a5d671"
+    },
+    {
+      "EN": "Black Ice",
+      "after": "de Gelo Negro",
+      "before": "Negra",
+      "id": "s2-eabfb6506b7845287d508ba8"
+    },
+    {
+      "EN": "Bloodstone",
+      "after": "de Pedra de Sangue",
+      "before": "Sanguíneo",
+      "id": "s2-13c0f24be1e02d590f2b516c"
+    },
+    {
+      "EN": "Bloodstone",
+      "after": "de Pedra de Sangue",
+      "before": "Sanguínea",
+      "id": "s2-edd329978daa46d703fa6b9f"
+    },
+    {
+      "EN": "Bronze",
+      "after": "de Bronze",
+      "before": "Bronze",
+      "id": "s2-673423767e4d526125ed63ea"
+    },
+    {
+      "EN": "Bronze",
+      "after": "de Bronze",
+      "before": "Bronze",
+      "id": "s2-b6e660189bdaf2b478d9e9ad"
+    },
+    {
+      "EN": "Buckskin",
+      "after": "de Couro de Veado",
+      "before": "Veado",
+      "id": "s2-86fd8441af000b82f87180f1"
+    },
+    {
+      "EN": "Buckskin",
+      "after": "de Couro de Veado",
+      "before": "Cervina",
+      "id": "s2-baec834482b3bdd86b273e4f"
+    },
+    {
+      "EN": "Candelabra",
+      "after": "de Candelabro",
+      "before": "Candelária",
+      "id": "s2-d345e4137f52c02f4af11227"
+    },
+    {
+      "EN": "Candelabra",
+      "after": "de Candelabro",
+      "before": "Candelária",
+      "id": "s2-c101342dff26dd0d5f4e2465"
+    },
+    {
+      "EN": "Cashmere",
+      "after": "de Caxemira",
+      "before": "Caxemira",
+      "id": "s2-c75ba00ebff8fe16ef05f668"
+    },
+    {
+      "EN": "Cashmere",
+      "after": "de Caxemira",
+      "before": "caxemira",
+      "id": "s2-34befd756b279c8a36380822"
+    },
+    {
+      "EN": "Chromium",
+      "after": "de Cromo",
+      "before": "cromada",
+      "id": "s2-8834ac364ef56f6c7bbd85e0"
+    },
+    {
+      "EN": "Clay",
+      "after": "de Argila",
+      "before": "Argila",
+      "id": "s2-c26b80fd529da69d043c6616"
+    },
+    {
+      "EN": "Clay",
+      "after": "de Argila",
+      "before": "Argilosa",
+      "id": "s2-112a695a7c38068216d3b167"
+    },
+    {
+      "EN": "Closing",
+      "after": "Fechador",
+      "before": "Fechamento",
+      "id": "s2-4f88b4a8d02a7f250af9cbea"
+    },
+    {
+      "EN": "Closing",
+      "after": "Fechadora",
+      "before": "fechada",
+      "id": "s2-357949cfaf683fa2c3572414"
+    },
+    {
+      "EN": "Copper",
+      "after": "de Cobre",
+      "before": "Cobre",
+      "id": "s2-2bd13403266bb39933352ec9"
+    },
+    {
+      "EN": "Copper",
+      "after": "de Cobre",
+      "before": "Cobre",
+      "id": "s2-37f9c4d9eefe4390c8e647bb"
+    },
+    {
+      "EN": "Coral",
+      "after": "de Coral",
+      "before": "Coral",
+      "id": "s2-4451088fac82ebda3b5f88ec"
+    },
+    {
+      "EN": "Coral",
+      "after": "de Coral",
+      "before": "coral",
+      "id": "s2-cbcd9a4b73f25766ca159f4e"
+    },
+    {
+      "EN": "Cotton",
+      "after": "de Algodão",
+      "before": "Algodão",
+      "id": "s2-671463fff57dcb737b6519b3"
+    },
+    {
+      "EN": "Cotton",
+      "after": "de Algodão",
+      "before": "algodonada",
+      "id": "s2-e3463e3655a3497ef908981b"
+    },
+    {
+      "EN": "Deadly",
+      "after": "Mortal",
+      "before": "Mortífera",
+      "id": "s2-995322e8ed59c9381e82bd08"
+    },
+    {
+      "EN": "Diamond",
+      "after": "de Diamante",
+      "before": "Diamante",
+      "id": "s2-6d1fd2eaf63b2f64f42fe6eb"
+    },
+    {
+      "EN": "Diamond",
+      "after": "de Diamante",
+      "before": "diamantina",
+      "id": "s2-aeea16ac44f80cf22e27fbd3"
+    },
+    {
+      "EN": "Dolomite",
+      "after": "de Dolomita",
+      "before": "Dolomita",
+      "id": "s2-44223b1c007cf443669db02b"
+    },
+    {
+      "EN": "Dolomite",
+      "after": "de Dolomita",
+      "before": "Dolomítica",
+      "id": "s2-68144463b0157a69f9ef3e29"
+    },
+    {
+      "EN": "Dragon",
+      "after": "de Dragão",
+      "before": "Dragão",
+      "id": "s2-abd7d9d8d8a340007ec86af7"
+    },
+    {
+      "EN": "Dragon",
+      "after": "de Dragão",
+      "before": "dracônica",
+      "id": "s2-77bbc4b1a05d96a39dce1209"
+    },
+    {
+      "EN": "Dragon",
+      "after": "de Dragão",
+      "before": "Draconiano",
+      "id": "s2-981e96c8d6c7ac4d8f580725"
+    },
+    {
+      "EN": "Dragon",
+      "after": "de Dragão",
+      "before": "Draconiana",
+      "id": "s2-3287b17d81d825580025f795"
+    },
+    {
+      "EN": "Driadic",
+      "after": "de Dríade",
+      "before": "Dríadico",
+      "id": "s2-237f8deae4a8cfb6c49d8d68"
+    },
+    {
+      "EN": "Driadic",
+      "after": "de Dríade",
+      "before": "Dríadica",
+      "id": "s2-e65815ddba3684453ba35164"
+    },
+    {
+      "EN": "Ebony",
+      "after": "de Ébano",
+      "before": "ébano",
+      "id": "s2-16379bd9e22705c1c2cf5142"
+    },
+    {
+      "EN": "Elm",
+      "after": "de Olmo",
+      "before": "Olmeira",
+      "id": "s2-8854fb2660b45cd2ad21dffb"
+    },
+    {
+      "EN": "Emerald",
+      "after": "de Esmeralda",
+      "before": "Esmeralda",
+      "id": "s2-feb09f7f5acd43a8f4efbe26"
+    },
+    {
+      "EN": "Emerald",
+      "after": "de Esmeralda",
+      "before": "esmeralda",
+      "id": "s2-f08804556f405b84c011a425"
+    },
+    {
+      "EN": "Feldspar",
+      "after": "de Feldspato",
+      "before": "Feldspato",
+      "id": "s2-cc03c1c342a637033fca5b7a"
+    },
+    {
+      "EN": "Feldspar",
+      "after": "de Feldspato",
+      "before": "feldspática",
+      "id": "s2-2c8f314a4d1e995ff7b9e2af"
+    },
+    {
+      "EN": "Fern",
+      "after": "de Samambaia",
+      "before": "Samambaia",
+      "id": "s2-9694ae14e53281c9e0d55b06"
+    },
+    {
+      "EN": "Fern",
+      "after": "de Samambaia",
+      "before": "samambaia",
+      "id": "s2-ed947c112f8568d4d3a1df5c"
+    },
+    {
+      "EN": "Fir",
+      "after": "de Abeto",
+      "before": "Abeto",
+      "id": "s2-6daeaea76e82534b8398bdbd"
+    },
+    {
+      "EN": "Fir",
+      "after": "de Abeto",
+      "before": "Abeto",
+      "id": "s2-89f26771ac8e6c72dba2056f"
+    },
+    {
+      "EN": "Fishy",
+      "after": "de Peixe",
+      "before": "Peixesco",
+      "id": "s2-c665ee48addf28b05d72f5be"
+    },
+    {
+      "EN": "Fishy",
+      "after": "de Peixe",
+      "before": "Peixesca",
+      "id": "s2-016cad9362023d070d2544fc"
+    },
+    {
+      "EN": "Fleshy",
+      "after": "Carnosa",
+      "before": "Carnuda",
+      "id": "s2-6c894bde51556aa94704421f"
+    },
+    {
+      "EN": "Fossil",
+      "after": "Fóssil",
+      "before": "fóssil",
+      "id": "s2-27f80998a68f4dba3e624c41"
+    },
+    {
+      "EN": "Fossil",
+      "after": "Fóssil",
+      "before": "fóssil",
+      "id": "s2-76802d3be67b5feda0c43730"
+    },
+    {
+      "EN": "Foxy",
+      "after": "de Raposa",
+      "before": "vulpino",
+      "id": "s2-80e24715403af1f7a9276563"
+    },
+    {
+      "EN": "Foxy",
+      "after": "de Raposa",
+      "before": "vulpina",
+      "id": "s2-b8ca80ce7e386db1f6951ea1"
+    },
+    {
+      "EN": "Freeing",
+      "after": "Libertador",
+      "before": "Libertação",
+      "id": "s2-02d8a9006af638ce0926941f"
+    },
+    {
+      "EN": "Giant Ruby",
+      "after": "de Rubi Gigante",
+      "before": "do Rubi Gigante",
+      "id": "s2-28fa1f93604db963709d8df2"
+    },
+    {
+      "EN": "Giant Ruby",
+      "after": "de Rubi Gigante",
+      "before": "Rubi-gigante",
+      "id": "s2-5d7d3d3ed1208ed4fe5064ee"
+    },
+    {
+      "EN": "Glass Gem",
+      "after": "de Gema de Vidro",
+      "before": "Gema de Vidro",
+      "id": "s2-2a4bd056fe36d9ef18a3c59c"
+    },
+    {
+      "EN": "Gold",
+      "after": "de Ouro",
+      "before": "Ouro",
+      "id": "s2-3ef5db6b82d551f633047777"
+    },
+    {
+      "EN": "Gold",
+      "after": "de Ouro",
+      "before": "Dourada",
+      "id": "s2-f15a1720e5858685b7e29d93"
+    },
+    {
+      "EN": "Granite",
+      "after": "de Granito",
+      "before": "Granito",
+      "id": "s2-89573db4e6e8a3e4d3579fac"
+    },
+    {
+      "EN": "Granite",
+      "after": "de Granito",
+      "before": "granítica",
+      "id": "s2-1343743a88e8b394c1b81eca"
+    },
+    {
+      "EN": "Hazelnut",
+      "after": "de Aveleira",
+      "before": "Avelã",
+      "id": "s2-56aafb916cad43f8133f13ec"
+    },
+    {
+      "EN": "Hazelnut",
+      "after": "de Aveleira",
+      "before": "avelã",
+      "id": "s2-2e97ab43d20242599c9a47fa"
+    },
+    {
+      "EN": "Horny",
+      "after": "Chifrudo",
+      "before": "Cornudo",
+      "id": "s2-3bf62eaeeaba2587f9d67416"
+    },
+    {
+      "EN": "Horny",
+      "after": "Chifruda",
+      "before": "Cornuda",
+      "id": "s2-6a028a19554fa21292805da0"
+    },
+    {
+      "EN": "Ice",
+      "after": "de Gelo",
+      "before": "Gelo",
+      "id": "s2-69da4ca39d9e5a43814b1ed1"
+    },
+    {
+      "EN": "Ice",
+      "after": "de Gelo",
+      "before": "Gelada",
+      "id": "s2-edaadc0837b267ec538736ad"
+    },
+    {
+      "EN": "Iron",
+      "after": "de Ferro",
+      "before": "Ferro",
+      "id": "s2-220e2aa94f9f650200eb50fe"
+    },
+    {
+      "EN": "Iron",
+      "after": "de Ferro",
+      "before": "Ferro",
+      "id": "s2-e5b2a81fcb076a75b72b5696"
+    },
+    {
+      "EN": "Ivory",
+      "after": "de Marfim",
+      "before": "Marfim",
+      "id": "s2-e4aaeb91faa2816a3e110a0c"
+    },
+    {
+      "EN": "Ivory",
+      "after": "de Marfim",
+      "before": "Marfim",
+      "id": "s2-1d8a1a0086367449de276569"
+    },
+    {
+      "EN": "Jade",
+      "after": "de Jade",
+      "before": "Jade",
+      "id": "s2-e5a8b5ceac4cd0c15165c872"
+    },
+    {
+      "EN": "Kangaroo",
+      "after": "de Canguru",
+      "before": "Canguru",
+      "id": "s2-0dec01a43093bb1f28ae8c65"
+    },
+    {
+      "EN": "Kangaroo",
+      "after": "de Canguru",
+      "before": "canguru",
+      "id": "s2-b80312629fb2fad347520549"
+    },
+    {
+      "EN": "Lead",
+      "after": "de Chumbo",
+      "before": "Chumbo",
+      "id": "s2-162e476bf4da0fb6842e899a"
+    },
+    {
+      "EN": "Lead",
+      "after": "de Chumbo",
+      "before": "chumbosa",
+      "id": "s2-ccf4fa16c06ecd3d06481fb8"
+    },
+    {
+      "EN": "Leopard",
+      "after": "de Leopardo",
+      "before": "Leopardo",
+      "id": "s2-eed52a9b22c0a2f9eb967b38"
+    },
+    {
+      "EN": "Leopard",
+      "after": "de Leopardo",
+      "before": "leoparda",
+      "id": "s2-b5a6204272ff836416c76c14"
+    },
+    {
+      "EN": "Limestone",
+      "after": "de Calcário",
+      "before": "Calcário",
+      "id": "s2-8cd3575a39eb385d6f1c1416"
+    },
+    {
+      "EN": "Limestone",
+      "after": "de Calcário",
+      "before": "calcária",
+      "id": "s2-1608f1194498e6db782901f1"
+    },
+    {
+      "EN": "Linden",
+      "after": "de Tília",
+      "before": "Tília",
+      "id": "s2-c606f8bc9477777fe404e0dc"
+    },
+    {
+      "EN": "Linden",
+      "after": "de Tília",
+      "before": "tilínea",
+      "id": "s2-30ae241c726e62e980375216"
+    },
+    {
+      "EN": "Linen",
+      "after": "de Linho",
+      "before": "Linho",
+      "id": "s2-e667ee23b7f7d52c4ca5aba0"
+    },
+    {
+      "EN": "Linen",
+      "after": "de Linho",
+      "before": "de linho",
+      "id": "s2-afecad8c1910773efdc935d5"
+    },
+    {
+      "EN": "Live Stone",
+      "after": "de Pedra Viva",
+      "before": "Pedra Viva",
+      "id": "s2-f2f6e40be0311ffb4f77a7b2"
+    },
+    {
+      "EN": "Live Stone",
+      "after": "de Pedra Viva",
+      "before": "viva",
+      "id": "s2-fc99b92fe14ab64122a5ca13"
+    },
+    {
+      "EN": "Living",
+      "after": "Vivo",
+      "before": "Viva",
+      "id": "s2-5c65ff78076f4e8073f59466"
+    },
+    {
+      "EN": "Lotus Silk",
+      "after": "de Seda de Lótus",
+      "before": "Seda de Lótus",
+      "id": "s2-43117ea5fe91f68836274709"
+    },
+    {
+      "EN": "Lotus Silk",
+      "after": "de Seda de Lótus",
+      "before": "Seda de Lótus",
+      "id": "s2-9ead797a4efc034cb6820886"
+    },
+    {
+      "EN": "Mahogany",
+      "after": "de Mogno",
+      "before": "Mogno",
+      "id": "s2-af723881c39fa2f850720586"
+    },
+    {
+      "EN": "Mahogany",
+      "after": "de Mogno",
+      "before": "Mogno",
+      "id": "s2-70d378604bded7a3eeed5ef8"
+    },
+    {
+      "EN": "Maple",
+      "after": "de Bordo",
+      "before": "borda",
+      "id": "s2-83695c76f5f1ad4f001d507a"
+    },
+    {
+      "EN": "Marble",
+      "after": "de Mármore",
+      "before": "Mármore",
+      "id": "s2-761fbe63d504e0935a0d4ad7"
+    },
+    {
+      "EN": "Marble",
+      "after": "de Mármore",
+      "before": "Mármore",
+      "id": "s2-f9bc7b044d4595efbd21d0fd"
+    },
+    {
+      "EN": "Mithril",
+      "after": "de Mithril",
+      "before": "Mithril",
+      "id": "s2-e6c98d0e2b34e076ccfdddd1"
+    },
+    {
+      "EN": "Mithril",
+      "after": "de Mithril",
+      "before": "Mithril",
+      "id": "s2-cc96a6bdf6bccd1b9fc06354"
+    },
+    {
+      "EN": "Moist",
+      "after": "Úmido",
+      "before": "Úmida",
+      "id": "s2-9405e33253eaa35efc4e3c84"
+    },
+    {
+      "EN": "Mycelium",
+      "after": "de Micélio",
+      "before": "Micélio",
+      "id": "s2-ec97ab897aec08f9135df066"
+    },
+    {
+      "EN": "Mycelium",
+      "after": "de Micélio",
+      "before": "miceliana",
+      "id": "s2-a1bdf6659d98b512c5683c7f"
+    },
+    {
+      "EN": "Mycelium Cloth",
+      "after": "de Tecido de Micélio",
+      "before": "Tecido de Micélio",
+      "id": "s2-f3ce933d1e1b8ba398e33d5d"
+    },
+    {
+      "EN": "Mycelium Cloth",
+      "after": "de Tecido de Micélio",
+      "before": "Micelial",
+      "id": "s2-02d3486c89eaf95931e1aa52"
+    },
+    {
+      "EN": "Nettle",
+      "after": "de Urtiga",
+      "before": "Urtiga",
+      "id": "s2-b56402d8ab919c579b25133b"
+    },
+    {
+      "EN": "Nettle",
+      "after": "de Urtiga",
+      "before": "urtigueira",
+      "id": "s2-ea8d409d1071c9c5346a2fb2"
+    },
+    {
+      "EN": "Oak",
+      "after": "de Carvalho",
+      "before": "carvalho",
+      "id": "s2-43c3f0705f158492436b3f95"
+    },
+    {
+      "EN": "Oak",
+      "after": "de Carvalho",
+      "before": "carvalho",
+      "id": "s2-07340f06efa4988758afdd69"
+    },
+    {
+      "EN": "Obsidian",
+      "after": "de Obsidiana",
+      "before": "Obsidiana",
+      "id": "s2-5129cd86056be775ebee771b"
+    },
+    {
+      "EN": "Obsidian",
+      "after": "de Obsidiana",
+      "before": "Obsidiana",
+      "id": "s2-3b155c42db19c820b2054df3"
+    },
+    {
+      "EN": "Onyx",
+      "after": "de Ônix",
+      "before": "Ônix",
+      "id": "s2-4e89502113cd5a79f6d289a4"
+    },
+    {
+      "EN": "Onyx",
+      "after": "de Ônix",
+      "before": "Ônix",
+      "id": "s2-ccf0731ba2286bfa53920f85"
+    },
+    {
+      "EN": "Opal",
+      "after": "de Opala",
+      "before": "Opala",
+      "id": "s2-76426798c3249e09e8d25141"
+    },
+    {
+      "EN": "Opal",
+      "after": "de Opala",
+      "before": "Opala",
+      "id": "s2-dae0aee6de2509dcee01fbf0"
+    },
+    {
+      "EN": "Pearl",
+      "after": "de Pérola",
+      "before": "Pérola",
+      "id": "s2-a525eef8ae70f350cb9c47b1"
+    },
+    {
+      "EN": "Pearl",
+      "after": "de Pérola",
+      "before": "Pérola",
+      "id": "s2-f4b781f7e7ef9aada0d4b57c"
+    },
+    {
+      "EN": "Pine",
+      "after": "de Pinheiro",
+      "before": "Pinheiro",
+      "id": "s2-4860172482753870df350bad"
+    },
+    {
+      "EN": "Pine",
+      "after": "de Pinheiro",
+      "before": "Pinheira",
+      "id": "s2-2ebb91dc71af5c78b7f1eefc"
+    },
+    {
+      "EN": "Plain",
+      "after": "Simples",
+      "before": "Comum",
+      "id": "s2-00a854092e15c12fbcf2461a"
+    },
+    {
+      "EN": "Plain",
+      "after": "Simples",
+      "before": "Comum",
+      "id": "s2-0f9a487f657ce096c0402f30"
+    },
+    {
+      "EN": "Platinum",
+      "after": "de Platina",
+      "before": "Platina",
+      "id": "s2-4481cb73d35107f01b448e5f"
+    },
+    {
+      "EN": "Platinum",
+      "after": "de Platina",
+      "before": "platinada",
+      "id": "s2-1d2b5d85845b6462f336d791"
+    },
+    {
+      "EN": "Pumice",
+      "after": "de Pedra-pomes",
+      "before": "Pomes",
+      "id": "s2-88d0aefd126373c53f128a32"
+    },
+    {
+      "EN": "Pumice",
+      "after": "de Pedra-pomes",
+      "before": "pômica",
+      "id": "s2-b8dcc0629b0a0181f68175a1"
+    },
+    {
+      "EN": "Quartz",
+      "after": "de Quartzo",
+      "before": "Quartzo",
+      "id": "s2-ac50e96485962eed7c153696"
+    },
+    {
+      "EN": "Quartz",
+      "after": "de Quartzo",
+      "before": "Quartzosa",
+      "id": "s2-8b77f8db47ed33a7130e5a84"
+    },
+    {
+      "EN": "Red Diamond",
+      "after": "de Diamante Vermelho",
+      "before": "do Diamante Vermelho",
+      "id": "s2-0555dda5fdd24b0fe41207a2"
+    },
+    {
+      "EN": "Red Diamond",
+      "after": "de Diamante Vermelho",
+      "before": "diamantina vermelha",
+      "id": "s2-4b918fe49cdce795b8df4af6"
+    },
+    {
+      "EN": "Resilient",
+      "after": "Resiliente",
+      "before": "Resistente",
+      "id": "s2-6b16b4edb06b9f4d3b07ebd5"
+    },
+    {
+      "EN": "Resilient",
+      "after": "Resiliente",
+      "before": "Resistente",
+      "id": "s2-2d3f82ad8f54a15484561eae"
+    },
+    {
+      "EN": "Rose Quartz",
+      "after": "de Quartzo Rosa",
+      "before": "do Quartzo Rosa",
+      "id": "s2-8fd2165fe930ce59be492d92"
+    },
+    {
+      "EN": "Rose Quartz",
+      "after": "de Quartzo Rosa",
+      "before": "quartzo-rosa",
+      "id": "s2-72b256a68f01f281363a105e"
+    },
+    {
+      "EN": "Ruby",
+      "after": "de Rubi",
+      "before": "Rubi",
+      "id": "s2-492be4b4fe3bb6920a07715b"
+    },
+    {
+      "EN": "Ruby",
+      "after": "de Rubi",
+      "before": "rubi",
+      "id": "s2-d89ed3eef07a7d6cde688cc0"
+    },
+    {
+      "EN": "Sand",
+      "after": "de Areia",
+      "before": "Areia",
+      "id": "s2-a3ea0b10e569154557908ac3"
+    },
+    {
+      "EN": "Sand",
+      "after": "de Areia",
+      "before": "Arenosa",
+      "id": "s2-4a71375581f4aa52e74589bd"
+    },
+    {
+      "EN": "Sandstone",
+      "after": "de Arenito",
+      "before": "Arenito",
+      "id": "s2-c209ddfff7eb7587e0de282d"
+    },
+    {
+      "EN": "Sandstone",
+      "after": "de Arenito",
+      "before": "arenitosa",
+      "id": "s2-037531f63f6eeff919bd5f25"
+    },
+    {
+      "EN": "Sapphire",
+      "after": "de Safira",
+      "before": "Safira",
+      "id": "s2-3011ee8d611ae6c1c5ce262a"
+    },
+    {
+      "EN": "Sapphire",
+      "after": "de Safira",
+      "before": "safira",
+      "id": "s2-43ffd4af9d6752e0725ba3c8"
+    },
+    {
+      "EN": "Serpentine",
+      "after": "de Serpentina",
+      "before": "Serpentino",
+      "id": "s2-b24469b76ab1aec73763f1a7"
+    },
+    {
+      "EN": "Serpentine",
+      "after": "de Serpentina",
+      "before": "Serpentina",
+      "id": "s2-640a6c11fbff075d7fb76932"
+    },
+    {
+      "EN": "Shadowy",
+      "after": "Sombrio",
+      "before": "da Sombra",
+      "id": "s2-5eb46de20db2e0e597d86f23"
+    },
+    {
+      "EN": "Silent",
+      "after": "Silencioso",
+      "before": "do Silêncio",
+      "id": "s2-0c87d2ddb3c4de2cbb196bf1"
+    },
+    {
+      "EN": "Silent",
+      "after": "Silenciosa",
+      "before": "silenciosa",
+      "id": "s2-df0371ed704d7fe97a3be4f7"
+    },
+    {
+      "EN": "Silk",
+      "after": "de Seda",
+      "before": "Seda",
+      "id": "s2-79bb8d64e7b49642cd5194ff"
+    },
+    {
+      "EN": "Silk",
+      "after": "de Seda",
+      "before": "sedosa",
+      "id": "s2-7388ee6ddc5623a02c7841fa"
+    },
+    {
+      "EN": "Silver",
+      "after": "de Prata",
+      "before": "Prata",
+      "id": "s2-1f9c2a28e54e420d4b3f1cf4"
+    },
+    {
+      "EN": "Silver",
+      "after": "de Prata",
+      "before": "Prateada",
+      "id": "s2-3b6cffc67db7e962ef33cf78"
+    },
+    {
+      "EN": "Silverback",
+      "after": "de Dorso Prateado",
+      "before": "Costas-prateadas",
+      "id": "s2-eded55081997af72c86efb90"
+    },
+    {
+      "EN": "Silverback",
+      "after": "de Dorso Prateado",
+      "before": "Costas-prateadas",
+      "id": "s2-dc7cd6fe56fbf1868266fae1"
+    },
+    {
+      "EN": "Slate",
+      "after": "de Ardósia",
+      "before": "Ardósia",
+      "id": "s2-f235c59d01b3428a38a94598"
+    },
+    {
+      "EN": "Slate",
+      "after": "de Ardósia",
+      "before": "ardósia",
+      "id": "s2-0c600f3a95cfd47cf1b02514"
+    },
+    {
+      "EN": "Snow Leopard",
+      "after": "de Leopardo-das-neves",
+      "before": "do Leopardo-das-neves",
+      "id": "s2-d4abbc36771683e46d2f73ec"
+    },
+    {
+      "EN": "Snow Leopard",
+      "after": "de Leopardo-das-neves",
+      "before": "leoparda-da-neve",
+      "id": "s2-3b9c07cd7bc8044079de7e4b"
+    },
+    {
+      "EN": "Steel",
+      "after": "de Aço",
+      "before": "Aço",
+      "id": "s2-afeeb896efddddd54c210ff5"
+    },
+    {
+      "EN": "Steel",
+      "after": "de Aço",
+      "before": "de aço",
+      "id": "s2-0f023141e28df85caaea36c4"
+    },
+    {
+      "EN": "Straw",
+      "after": "de Palha",
+      "before": "Palha",
+      "id": "s2-f97c20b3bb60627f7db520d2"
+    },
+    {
+      "EN": "Straw",
+      "after": "de Palha",
+      "before": "Palha",
+      "id": "s2-6db6593272a5dae556c46f46"
+    },
+    {
+      "EN": "Swordfish",
+      "after": "de Peixe-espada",
+      "before": "do Peixe-espada",
+      "id": "s2-02539bce207145b381fd7962"
+    },
+    {
+      "EN": "Swordfish",
+      "after": "de Peixe-espada",
+      "before": "peixe-espada",
+      "id": "s2-b7f0f1578c6b4e895f20bac3"
+    },
+    {
+      "EN": "Titanium",
+      "after": "de Titânio",
+      "before": "Titânico",
+      "id": "s2-be14656d8aecdea2d5a912a6"
+    },
+    {
+      "EN": "Titanium",
+      "after": "de Titânio",
+      "before": "Titânica",
+      "id": "s2-372f2b8755f7c2bf9f8eaa0c"
+    },
+    {
+      "EN": "Topaz",
+      "after": "de Topázio",
+      "before": "topázio",
+      "id": "s2-3869b00c66e25ceb6d8217bd"
+    },
+    {
+      "EN": "Topaz",
+      "after": "de Topázio",
+      "before": "topaziana",
+      "id": "s2-4ad72449b447496cbd38baa6"
+    },
+    {
+      "EN": "Travertine",
+      "after": "de Travertino",
+      "before": "Travertino",
+      "id": "s2-e7af7b056bfe9d0d370b238a"
+    },
+    {
+      "EN": "Travertine",
+      "after": "de Travertino",
+      "before": "Travertina",
+      "id": "s2-59eb4ea85ad9e7a6632923d7"
+    },
+    {
+      "EN": "Troll",
+      "after": "de Troll",
+      "before": "Troll",
+      "id": "s2-786e5bf13dac3062b11b8787"
+    },
+    {
+      "EN": "Troll",
+      "after": "de Troll",
+      "before": "Troll",
+      "id": "s2-0e3beb4350aeea8155e9bfc3"
+    },
+    {
+      "EN": "Velvet",
+      "after": "de Veludo",
+      "before": "Veludo",
+      "id": "s2-5bfe16f6d20a64be8996e154"
+    },
+    {
+      "EN": "Velvet",
+      "after": "de Veludo",
+      "before": "Aveludada",
+      "id": "s2-4413953c27c20ce98473a2af"
+    },
+    {
+      "EN": "Widow's",
+      "after": "da Viúva",
+      "before": "Da Viúva",
+      "id": "s2-fd118e12b0ae8455e7ef39ed"
+    },
+    {
+      "EN": "Widow's",
+      "after": "da Viúva",
+      "before": "Viúva",
+      "id": "s2-6654a046ef54f40d491decba"
+    },
+    {
+      "EN": "Yew",
+      "after": "de Teixo",
+      "before": "Teixo",
+      "id": "s2-c63b8b717e394e397c00fcd1"
+    },
+    {
+      "EN": "Yew",
+      "after": "de Teixo",
+      "before": "Teixo",
+      "id": "s2-a3d03950af37efe4cff3386c"
+    },
+    {
+      "EN": "of Aroma",
+      "after": "do Aroma",
+      "before": "aromática",
+      "id": "s2-e8e6c60aba55042948ec8451"
+    },
+    {
+      "EN": "of Blackness",
+      "after": "da Escuridão",
+      "before": "da Negritude",
+      "id": "s2-618da76b282ce04053bbd4df"
+    },
+    {
+      "EN": "of Blackness",
+      "after": "da Escuridão",
+      "before": "negra",
+      "id": "s2-91d61c9be1b6dfcc78eace93"
+    },
+    {
+      "EN": "of Blessed Sand",
+      "after": "da Areia Abençoada",
+      "before": "abençoada",
+      "id": "s2-ef35166108fb103fa0905e77"
+    },
+    {
+      "EN": "of Clarity",
+      "after": "da Clareza",
+      "before": "clara",
+      "id": "s2-b41a42c179f1fd8bc9cca00a"
+    },
+    {
+      "EN": "of Crying",
+      "after": "do Choro",
+      "before": "chorosa",
+      "id": "s2-11473f68ea882c45170640fa"
+    },
+    {
+      "EN": "of Dead Mage",
+      "after": "do Mago Morto",
+      "before": "da Maga Morta",
+      "id": "s2-b5535f6b781907c236170b28"
+    },
+    {
+      "EN": "of Death",
+      "after": "da Morte",
+      "before": "mortal",
+      "id": "s2-07458b38c30a61f70392c6f9"
+    },
+    {
+      "EN": "of Decay",
+      "after": "da Decomposição",
+      "before": "putrefata",
+      "id": "s2-69bcabaa877aa7d214018fac"
+    },
+    {
+      "EN": "of Decomposition",
+      "after": "da Decomposição",
+      "before": "decomposta",
+      "id": "s2-e2381c5d15ebce53efcb319f"
+    },
+    {
+      "EN": "of Drowning",
+      "after": "do Afogamento",
+      "before": "afogada",
+      "id": "s2-b5d8205de0781959c45348fd"
+    },
+    {
+      "EN": "of Druidic Power",
+      "after": "do Poder Druídico",
+      "before": "druídica",
+      "id": "s2-fa605f8c3ff6af40256a2a84"
+    },
+    {
+      "EN": "of Durability",
+      "after": "da Durabilidade",
+      "before": "durável",
+      "id": "s2-b703f91ec0321f7201d7bddf"
+    },
+    {
+      "EN": "of Evaporation",
+      "after": "da Evaporação",
+      "before": "evaporativa",
+      "id": "s2-f71a888e60af77a050c90a6e"
+    },
+    {
+      "EN": "of Extinguisher",
+      "after": "de Extintor",
+      "before": "Extintora",
+      "id": "s2-3870e795af223f1b5b29dec5"
+    },
+    {
+      "EN": "of Freedom",
+      "after": "da Liberdade",
+      "before": "livre",
+      "id": "s2-5fe745be23431f4826a44b89"
+    },
+    {
+      "EN": "of Frost",
+      "after": "da Geada",
+      "before": "Gélida",
+      "id": "s2-40bf499e07cd24af7a9c8aab"
+    },
+    {
+      "EN": "of Glory",
+      "after": "da Glória",
+      "before": "gloriosa",
+      "id": "s2-064f553b860c7d575017b74e"
+    },
+    {
+      "EN": "of Hatching",
+      "after": "da Eclosão",
+      "before": "eclodida",
+      "id": "s2-b48ebddcff3036ec2ed662f6"
+    },
+    {
+      "EN": "of Hell",
+      "after": "do Inferno",
+      "before": "infernal",
+      "id": "s2-0b93de81d2483fe11c27a65d"
+    },
+    {
+      "EN": "of Insight",
+      "after": "da Perspicácia",
+      "before": "de Perspicácia",
+      "id": "s2-e18a1fa139178675c49c4d09"
+    },
+    {
+      "EN": "of Insight",
+      "after": "da Perspicácia",
+      "before": "Intuitiva",
+      "id": "s2-29b08a7d86e4856cbad5fcb1"
+    },
+    {
+      "EN": "of Lichen",
+      "after": "do Líquen",
+      "before": "liquenosa",
+      "id": "s2-dc95802fe5d13aeae1fd8190"
+    },
+    {
+      "EN": "of Love",
+      "after": "do Amor",
+      "before": "amorosa",
+      "id": "s2-9b31ee3025a1d665c8b2674b"
+    },
+    {
+      "EN": "of Marshwort",
+      "after": "da Erva do Pântano",
+      "before": "de Erva-dos-Pântanos",
+      "id": "s2-b9c511fc006b9d3f5dd9706e"
+    },
+    {
+      "EN": "of Marshwort",
+      "after": "da Erva do Pântano",
+      "before": "da Erva-dos-Pântanos",
+      "id": "s2-78729baf64a71fccd7dcce7d"
+    },
+    {
+      "EN": "of Mutation",
+      "after": "da Mutação",
+      "before": "Mutante",
+      "id": "s2-7eb3a4a39a9f6c18df2bd3f9"
+    },
+    {
+      "EN": "of Nature",
+      "after": "da Natureza",
+      "before": "natural",
+      "id": "s2-3a4403fd2c53a7d50dd40c3a"
+    },
+    {
+      "EN": "of Ooze",
+      "after": "do Lodo",
+      "before": "de Gosma",
+      "id": "s2-bcf61243231867b539ded393"
+    },
+    {
+      "EN": "of Ooze",
+      "after": "do Lodo",
+      "before": "Gosmenta",
+      "id": "s2-94ca0b16804ebacc8b139b4b"
+    },
+    {
+      "EN": "of Permanence",
+      "after": "da Permanência",
+      "before": "permanente",
+      "id": "s2-d9c77a33c348b35ef2440cbe"
+    },
+    {
+      "EN": "of Power",
+      "after": "do Poder",
+      "before": "poderosa",
+      "id": "s2-76bc9b5eae37b6bf49cd6f8c"
+    },
+    {
+      "EN": "of Rat",
+      "after": "do Rato",
+      "before": "rata",
+      "id": "s2-c5b673679e8b4b65224a1f2f"
+    },
+    {
+      "EN": "of Ratling",
+      "after": "do Ratoide",
+      "before": "ratoide",
+      "id": "s2-b79c58117b39d079dc43c3bd"
+    },
+    {
+      "EN": "of Shivers",
+      "after": "dos Tremores",
+      "before": "tremente",
+      "id": "s2-e111b1f9d1e25bcf63cc904f"
+    },
+    {
+      "EN": "of Skull",
+      "after": "de Crânio",
+      "before": "craniana",
+      "id": "s2-1747db698067c61c2c581b2c"
+    },
+    {
+      "EN": "of Slime",
+      "after": "do Lodo",
+      "before": "Viscosa",
+      "id": "s2-0fc5d33aa664e7b7d25411c8"
+    },
+    {
+      "EN": "of Slime",
+      "after": "do Lodo",
+      "before": "Gosmenta",
+      "id": "s2-4620c3894e9cd0bba7242715"
+    },
+    {
+      "EN": "of Spikes",
+      "after": "dos Espinhos",
+      "before": "espinhosa",
+      "id": "s2-4f47cd0f019c6a568557cc45"
+    },
+    {
+      "EN": "of Spirits",
+      "after": "dos Espíritos",
+      "before": "espiritual",
+      "id": "s2-912d71bdd2c2527b41c82de1"
+    },
+    {
+      "EN": "of Tears",
+      "after": "das Lágrimas",
+      "before": "lacrimosa",
+      "id": "s2-8f459800fded0a0805ab6f6f"
+    },
+    {
+      "EN": "of Tentacle",
+      "after": "do Tentáculo",
+      "before": "Tentacular",
+      "id": "s2-6cdbb3675cd917195243e4de"
+    },
+    {
+      "EN": "of Thorns",
+      "after": "dos Espinhos",
+      "before": "espinhosa",
+      "id": "s2-da68e121e17db8f8fcd97fcc"
+    },
+    {
+      "EN": "of Tsunami",
+      "after": "do Tsunami",
+      "before": "da Tsunami",
+      "id": "s2-fd1ebd494c3127f147efe630"
+    },
+    {
+      "EN": "of Vampirism",
+      "after": "do Vampirismo",
+      "before": "da Vampirismo",
+      "id": "s2-2d50d7c312ffc84711d3bc2a"
+    },
+    {
+      "EN": "of Vampirism",
+      "after": "do Vampirismo",
+      "before": "vampírica",
+      "id": "s2-9f56b1d522f403881c0d3f31"
+    },
+    {
+      "EN": "of Venom",
+      "after": "do Veneno",
+      "before": "venenosa",
+      "id": "s2-f52878d01da5a61b93f84742"
+    },
+    {
+      "EN": "of Walking",
+      "after": "da Caminhada",
+      "before": "da Andante",
+      "id": "s2-9686d6aaca4cf744f7419e9f"
+    },
+    {
+      "EN": "of Walking",
+      "after": "da Caminhada",
+      "before": "andante",
+      "id": "s2-1cb40bab2fdb6cda7fac1ea7"
+    },
+    {
+      "EN": "of Warmth",
+      "after": "do Calor",
+      "before": "quente",
+      "id": "s2-75099a06a128e6cf8d55cdd1"
+    },
+    {
+      "EN": "of Whispers",
+      "after": "dos Sussurros",
+      "before": "das Sussurros",
+      "id": "s2-07d3bf39db4c479517ddd86c"
+    },
+    {
+      "EN": "of Wormling",
+      "after": "do Filhote de Verme",
+      "before": "do Verme-jovem",
+      "id": "s2-9bcc8f9954035d9c121e44a8"
+    },
+    {
+      "EN": "of Wormling",
+      "after": "do Filhote de Verme",
+      "before": "verme-jovem",
+      "id": "s2-da5789d9e40eb985100023b7"
+    },
+    {
+      "EN": "of the Ash",
+      "after": "da Cinza",
+      "before": "cinzenta",
+      "id": "s2-2911e37020149abbc58af5ac"
+    },
+    {
+      "EN": "of the Basilisk",
+      "after": "do Basilisco",
+      "before": "basilisca",
+      "id": "s2-da77d4a45e43a77cc0be5371"
+    },
+    {
+      "EN": "of the Bat",
+      "after": "do Morcego",
+      "before": "da Morcega",
+      "id": "s2-b3db32c955e7ac8bba8cdd84"
+    },
+    {
+      "EN": "of the Bead",
+      "after": "da Conta",
+      "before": "contada",
+      "id": "s2-8570b738d5b0fa2996f76f26"
+    },
+    {
+      "EN": "of the Beak",
+      "after": "do Bico",
+      "before": "bicuda",
+      "id": "s2-b42a4fd9af94098845a80311"
+    },
+    {
+      "EN": "of the Bloom",
+      "after": "da Floração",
+      "before": "florida",
+      "id": "s2-b186a6a5fd5aee2414b46cf8"
+    },
+    {
+      "EN": "of the Branch",
+      "after": "do Galho",
+      "before": "do Ramo",
+      "id": "s2-5ef6235251ad1ee1fd619431"
+    },
+    {
+      "EN": "of the Branch",
+      "after": "do Galho",
+      "before": "ramosa",
+      "id": "s2-54f221ff6d06533698a14102"
+    },
+    {
+      "EN": "of the Bravery",
+      "after": "da Bravura",
+      "before": "bravia",
+      "id": "s2-33233bc9f2903b0ebf612091"
+    },
+    {
+      "EN": "of the Chicken",
+      "after": "da Galinha",
+      "before": "galinha",
+      "id": "s2-2629cd989667ebd15033dba5"
+    },
+    {
+      "EN": "of the Clan",
+      "after": "do Clã",
+      "before": "clânica",
+      "id": "s2-3ea8338d7b731a0dbb902a20"
+    },
+    {
+      "EN": "of the Cold Light",
+      "after": "da Luz Fria",
+      "before": "fria",
+      "id": "s2-1b2a929096b3fc1d4be03c54"
+    },
+    {
+      "EN": "of the Cyclone",
+      "after": "do Ciclone",
+      "before": "ciclônica",
+      "id": "s2-5e55ea19a1b476d167354655"
+    },
+    {
+      "EN": "of the Earthquake",
+      "after": "do Terremoto",
+      "before": "da Terremoto",
+      "id": "s2-226e9e366815973838da5df7"
+    },
+    {
+      "EN": "of the Echo",
+      "after": "do Eco",
+      "before": "da Eco",
+      "id": "s2-d37adf7d9084d903c2b36e82"
+    },
+    {
+      "EN": "of the Egg",
+      "after": "do Ovo",
+      "before": "ovada",
+      "id": "s2-db46fa7c594120264f9fd02e"
+    },
+    {
+      "EN": "of the Elements",
+      "after": "dos Elementos",
+      "before": "das Elementos",
+      "id": "s2-cf36ec82932a7ca9e6b59a28"
+    },
+    {
+      "EN": "of the Eye",
+      "after": "do Olho",
+      "before": "da Olho",
+      "id": "s2-fbf29f4953ccb2d619575d6d"
+    },
+    {
+      "EN": "of the Fang",
+      "after": "da Presa",
+      "before": "presa",
+      "id": "s2-2baf0581159b3603409de4b4"
+    },
+    {
+      "EN": "of the Fireflies",
+      "after": "dos Vaga-lumes",
+      "before": "vaga-lume",
+      "id": "s2-2c53f2ce60c157bd00be49fd"
+    },
+    {
+      "EN": "of the Flames",
+      "after": "das Chamas",
+      "before": "flamígera",
+      "id": "s2-ea2bfdf82f4a194ef8c43657"
+    },
+    {
+      "EN": "of the Force",
+      "after": "da Força",
+      "before": "forte",
+      "id": "s2-cf01a9015f221be7d3eedb67"
+    },
+    {
+      "EN": "of the Fossil",
+      "after": "do Fóssil",
+      "before": "fóssil",
+      "id": "s2-f2393d7995778646d8f0e404"
+    },
+    {
+      "EN": "of the Frozen Waste",
+      "after": "do Ermo Congelado",
+      "before": "da Terra Gelada",
+      "id": "s2-3485d3efb403885cc3ce5468"
+    },
+    {
+      "EN": "of the Frozen Waste",
+      "after": "do Ermo Congelado",
+      "before": "da Terra Gelada",
+      "id": "s2-063946a6242221d6e680cca9"
+    },
+    {
+      "EN": "of the Holy",
+      "after": "do Sagrado",
+      "before": "da Sagrada",
+      "id": "s2-fa4db3b4afb068658d6a8d48"
+    },
+    {
+      "EN": "of the Hook",
+      "after": "do Gancho",
+      "before": "ganchuda",
+      "id": "s2-e4c0e80a9d5921f65e9d38b0"
+    },
+    {
+      "EN": "of the Howl",
+      "after": "do Uivo",
+      "before": "uivante",
+      "id": "s2-4a48ecffe0ee5012739d16e4"
+    },
+    {
+      "EN": "of the Hydra",
+      "after": "da Hidra",
+      "before": "hidra",
+      "id": "s2-3f86c80ff96d443442c18c97"
+    },
+    {
+      "EN": "of the Ice Calm",
+      "after": "da Calma Gelada",
+      "before": "gelada",
+      "id": "s2-7e6ddbe6aedf2ed1be9477ca"
+    },
+    {
+      "EN": "of the Icebound",
+      "after": "do Congelamento",
+      "before": "do Gelado",
+      "id": "s2-96ebaa8ffb1f7130d858ba3a"
+    },
+    {
+      "EN": "of the Icebound",
+      "after": "do Congelamento",
+      "before": "gelada",
+      "id": "s2-3d6e6e86838719d52869a493"
+    },
+    {
+      "EN": "of the Imp",
+      "after": "do Diabrete",
+      "before": "diabretina",
+      "id": "s2-33edda65f8b811756edc5a49"
+    },
+    {
+      "EN": "of the Inferno",
+      "after": "do Inferno",
+      "before": "infernal",
+      "id": "s2-e12d9c8625165c5b2cc1136d"
+    },
+    {
+      "EN": "of the Key",
+      "after": "da Chave",
+      "before": "chave",
+      "id": "s2-780bc158f9cb53a63a3198e3"
+    },
+    {
+      "EN": "of the Kindling",
+      "after": "do Graveto",
+      "before": "gravetosa",
+      "id": "s2-8045bc0681d9dced6c56ee86"
+    },
+    {
+      "EN": "of the Leaf",
+      "after": "da Folha",
+      "before": "folhada",
+      "id": "s2-3c802581ae0a99c333211dbc"
+    },
+    {
+      "EN": "of the Lock",
+      "after": "da Fechadura",
+      "before": "fechadura",
+      "id": "s2-2a57a36ddc843c40e5de41da"
+    },
+    {
+      "EN": "of the Loneliness",
+      "after": "da Solidão",
+      "before": "solitária",
+      "id": "s2-625212b79112854c0281a6f1"
+    },
+    {
+      "EN": "of the Lonely",
+      "after": "do Solitário",
+      "before": "da Solitária",
+      "id": "s2-e0472413fe01c182cd1ffda9"
+    },
+    {
+      "EN": "of the Melody",
+      "after": "da Melodia",
+      "before": "melódica",
+      "id": "s2-b6c58983dbe2b0cdd34fdf2b"
+    },
+    {
+      "EN": "of the Mold",
+      "after": "do Mofo",
+      "before": "mofada",
+      "id": "s2-5cb264acde2d209b393940f6"
+    },
+    {
+      "EN": "of the Moonlight",
+      "after": "do Luar",
+      "before": "lunar",
+      "id": "s2-ff6d33b4636167ffe64f8dc3"
+    },
+    {
+      "EN": "of the Ornament",
+      "after": "do Ornamento",
+      "before": "ornamentada",
+      "id": "s2-de0007c46710d04953ff21ab"
+    },
+    {
+      "EN": "of the Ostrich",
+      "after": "do Avestruz",
+      "before": "da Avestruz",
+      "id": "s2-b57e9a68d3db3d73721da1e5"
+    },
+    {
+      "EN": "of the Protection",
+      "after": "da Proteção",
+      "before": "protetora",
+      "id": "s2-2e18f94abbce0885d2f09376"
+    },
+    {
+      "EN": "of the Pygmy",
+      "after": "do Pigmeu",
+      "before": "pigmeia",
+      "id": "s2-d89c61dbcd004f3a61783302"
+    },
+    {
+      "EN": "of the Quarrel",
+      "after": "da Briga",
+      "before": "briguenta",
+      "id": "s2-37c87041d560568f983e28c1"
+    },
+    {
+      "EN": "of the Reindeer",
+      "after": "da Rena",
+      "before": "rena",
+      "id": "s2-2326d4c89a69eb92e9defed1"
+    },
+    {
+      "EN": "of the Rush",
+      "after": "do Ímpeto",
+      "before": "impetuosa",
+      "id": "s2-0f48aeb76824bc0852571de4"
+    },
+    {
+      "EN": "of the Seed",
+      "after": "da Semente",
+      "before": "sementeira",
+      "id": "s2-698014be237b474a4671ee2e"
+    },
+    {
+      "EN": "of the Servant",
+      "after": "do Servo",
+      "before": "da Serva",
+      "id": "s2-9e297eaa773aedd07f3ee8cf"
+    },
+    {
+      "EN": "of the Skull",
+      "after": "do Crânio",
+      "before": "craniana",
+      "id": "s2-8ae2fbd562e6be98ebf6208b"
+    },
+    {
+      "EN": "of the Slime",
+      "after": "do Lodo",
+      "before": "da Baba",
+      "id": "s2-a206fb40152f0a7b37602660"
+    },
+    {
+      "EN": "of the Smoke",
+      "after": "da Fumaça",
+      "before": "enfumaçada",
+      "id": "s2-dd3ab37c32440e7f16270890"
+    },
+    {
+      "EN": "of the Snail",
+      "after": "do Caracol",
+      "before": "caracólica",
+      "id": "s2-957567ae3ae74ca52422cb3f"
+    },
+    {
+      "EN": "of the Snowfall",
+      "after": "da Nevasca",
+      "before": "nevada",
+      "id": "s2-20fe9f7adf4602ac08fc908c"
+    },
+    {
+      "EN": "of the Snowflake",
+      "after": "do Floco de Neve",
+      "before": "nevada",
+      "id": "s2-cd4fa0e0f91b527f7d2a0e51"
+    },
+    {
+      "EN": "of the Spores",
+      "after": "dos Esporos",
+      "before": "esporífera",
+      "id": "s2-95f9c40f18107d528436152b"
+    },
+    {
+      "EN": "of the Sting",
+      "after": "do Ferrão",
+      "before": "ferroante",
+      "id": "s2-e3d2af36e3f1399230467a9a"
+    },
+    {
+      "EN": "of the Storm",
+      "after": "da Tempestade",
+      "before": "tempestuosa",
+      "id": "s2-a442a8b47a71162080fe79eb"
+    },
+    {
+      "EN": "of the Summer",
+      "after": "do Verão",
+      "before": "estival",
+      "id": "s2-7ca6764d5ff978f7c8ea1d09"
+    },
+    {
+      "EN": "of the Survival",
+      "after": "da Sobrevivência",
+      "before": "sobrevivente",
+      "id": "s2-b18d192b86b9fb44bdd749bf"
+    },
+    {
+      "EN": "of the Toad",
+      "after": "do Sapo",
+      "before": "da Sapo",
+      "id": "s2-fe378077e109f41b6c003a37"
+    },
+    {
+      "EN": "of the Toe",
+      "after": "do Dedo",
+      "before": "deduda",
+      "id": "s2-b3c00a58d72c799f407ecee5"
+    },
+    {
+      "EN": "of the Turtle",
+      "after": "da Tartaruga",
+      "before": "tartaruga",
+      "id": "s2-d0cbd34e9cc8884e6aedf87b"
+    },
+    {
+      "EN": "of the Undead",
+      "after": "dos Mortos-Vivos",
+      "before": "morto-viva",
+      "id": "s2-53d6a0debf9ce52f2eaa9ea1"
+    },
+    {
+      "EN": "of the Underworld",
+      "after": "do Submundo",
+      "before": "da Submundo",
+      "id": "s2-ea69e8ea2b38e5d5704f320d"
+    },
+    {
+      "EN": "of the Volcano",
+      "after": "do Vulcão",
+      "before": "vulcânica",
+      "id": "s2-c25f37a04c9e3fd77a9b69b8"
+    },
+    {
+      "EN": "of the Wealth",
+      "after": "da Riqueza",
+      "before": "rica",
+      "id": "s2-62ec45149f5cefb32dfe86a4"
+    },
+    {
+      "EN": "of the Weasel",
+      "after": "da Doninha",
+      "before": "doninha",
+      "id": "s2-7bd22f085639ea9c2cfaa009"
+    },
+    {
+      "EN": "of the Whispers",
+      "after": "dos Sussurros",
+      "before": "sussurrante",
+      "id": "s2-b220e01234a2b266d8933bba"
+    },
+    {
+      "EN": "of the Wish",
+      "after": "do Desejo",
+      "before": "desejada",
+      "id": "s2-7a831e63962cd7011ebc12fa"
+    },
+    {
+      "EN": "of the Wisp",
+      "after": "do Fogo-fátuo",
+      "before": "do Vago",
+      "id": "s2-9c54b2e45b40bec4889214c7"
+    },
+    {
+      "EN": "of the Wisp",
+      "after": "do Fogo-fátuo",
+      "before": "vaga",
+      "id": "s2-05db1f6d97941c34ea666129"
+    },
+    {
+      "EN": "of the Witch",
+      "after": "da Bruxa",
+      "before": "bruxa",
+      "id": "s2-acedc998681882fa496d1157"
+    },
+    {
+      "EN": "of the Witch",
+      "after": "da Bruxa",
+      "before": "bruxa",
+      "id": "s2-076a510f7250a4de305c6d61"
+    }
+  ],
+  "reviewed_ids": [
+    "s2-2c226a60591579a31ea4e90e",
+    "s2-5b2c84f1465c64845a12da10",
+    "s2-00bea13293839ae2f3e2b8c9",
+    "s2-498e49205d91f6c69b176181",
+    "s2-41b1b3f3a07a006983ca6dd7",
+    "s2-37720726faf23050844152e2",
+    "s2-800c8bb5a1fdcb7685b6b76f",
+    "s2-023757ca30edbf4afca54337",
+    "s2-f00b1db31dd4c6ff6b5b4c64",
+    "s2-97fa44e1b2dff518ecaee02d",
+    "s2-1c5c6035f6b6642e59907ae5",
+    "s2-88ee6a43972ac8b53886a84f",
+    "s2-3e2bf4dd8e4d2206275e127c",
+    "s2-c5f4ec7ce3887df20da5a27d",
+    "s2-05995ebf8736c755c586ca7b",
+    "s2-dcafcfe95f2594c98cb640e7",
+    "s2-ddc722c5dc7be49138ee3008",
+    "s2-b4e16d83ef8642c136813e18",
+    "s2-b3f1891a4d919276bfd491c2",
+    "s2-e85430917e084be5c3805918",
+    "s2-5dc8de9f2f7b13b49d6137cb",
+    "s2-91f25408a6793b0272d80517",
+    "s2-6146d6e0fec7c35e4aac5d26",
+    "s2-689231fd483ed4117d80470d",
+    "s2-48ef7f5bdfc176807b51b7d4",
+    "s2-7d5e6519a93db87fc889f493",
+    "s2-ba869a5332300a4616f72366",
+    "s2-ba9fec42ca39008a2f195372",
+    "s2-871bece828c2be9038fe0b7a",
+    "s2-b4f4bcebc385a3bf03827d19",
+    "s2-cb0f63c51ed3cab2831c8af8",
+    "s2-d7cc2fdb63930e0a03b6df0a",
+    "s2-adb9526fe32931102615ce9a",
+    "s2-b124db643c4c7cba2f7d3d62",
+    "s2-ba0a1c8adbffaf00d637c385",
+    "s2-978bc5f69257a32b20b1fdd2",
+    "s2-8afce71c442df9a21ea9e048",
+    "s2-0cb2888dc6cbcc00a965ad60",
+    "s2-eaa36c25f8612b3f10a5d671",
+    "s2-eabfb6506b7845287d508ba8",
+    "s2-e1e469625f6de9a8c6c7b087",
+    "s2-b7652905dbb12c839382f9c7",
+    "s2-6bf4088e1fe9adf91fd07e61",
+    "s2-d89237f361cc2986b700bce5",
+    "s2-13c0f24be1e02d590f2b516c",
+    "s2-edd329978daa46d703fa6b9f",
+    "s2-71a7356de8dba01f2b36ee1c",
+    "s2-beaf880ba54d9ace4cd08ae5",
+    "s2-673423767e4d526125ed63ea",
+    "s2-b6e660189bdaf2b478d9e9ad",
+    "s2-b9d329210b24a7dab23ff4d4",
+    "s2-7991f3307d1ea7c9f084230d",
+    "s2-a1a2134ca29d6a1779b48434",
+    "s2-14dab129afa4509b660d77d7",
+    "s2-86fd8441af000b82f87180f1",
+    "s2-baec834482b3bdd86b273e4f",
+    "s2-d345e4137f52c02f4af11227",
+    "s2-c101342dff26dd0d5f4e2465",
+    "s2-c75ba00ebff8fe16ef05f668",
+    "s2-34befd756b279c8a36380822",
+    "s2-d9b08e5170dfbec64421e085",
+    "s2-a043cbfe04310b70a4ec927d",
+    "s2-a6d27dc5f92478b139f62de4",
+    "s2-8834ac364ef56f6c7bbd85e0",
+    "s2-c26b80fd529da69d043c6616",
+    "s2-112a695a7c38068216d3b167",
+    "s2-5c8186f1b7e1f07fbad0b031",
+    "s2-39d67b4dff445f691a0c57af",
+    "s2-4f88b4a8d02a7f250af9cbea",
+    "s2-357949cfaf683fa2c3572414",
+    "s2-2bd13403266bb39933352ec9",
+    "s2-37f9c4d9eefe4390c8e647bb",
+    "s2-4451088fac82ebda3b5f88ec",
+    "s2-cbcd9a4b73f25766ca159f4e",
+    "s2-671463fff57dcb737b6519b3",
+    "s2-e3463e3655a3497ef908981b",
+    "s2-286d193545b32f251301a1dc",
+    "s2-dee7382258ee5ba9c792a591",
+    "s2-df08f5f37cd8949c9d76c8f1",
+    "s2-55ae18d954c3a4470157fa05",
+    "s2-92b645b782bc564d1767dc93",
+    "s2-995322e8ed59c9381e82bd08",
+    "s2-666793295be55b86d543ea05",
+    "s2-ca6aafdffaa7419025b5c9f3",
+    "s2-a0dbd55f402cc8abf4a4394c",
+    "s2-b5d7a5a0220721af141fc8f3",
+    "s2-6d1fd2eaf63b2f64f42fe6eb",
+    "s2-aeea16ac44f80cf22e27fbd3",
+    "s2-00727811c114de583db39070",
+    "s2-6501455a0b961c306da31320",
+    "s2-44223b1c007cf443669db02b",
+    "s2-68144463b0157a69f9ef3e29",
+    "s2-184761a224c4e041dbbe294a",
+    "s2-c79b10510c6d984634b33534",
+    "s2-abd7d9d8d8a340007ec86af7",
+    "s2-77bbc4b1a05d96a39dce1209",
+    "s2-981e96c8d6c7ac4d8f580725",
+    "s2-3287b17d81d825580025f795",
+    "s2-237f8deae4a8cfb6c49d8d68",
+    "s2-e65815ddba3684453ba35164",
+    "s2-0367e3212d8d8ef7d2acc62d",
+    "s2-c3231a5227db9e2ff7626848",
+    "s2-e70365b653983c43962b1e96",
+    "s2-8f9494d5b6629bde951ce001",
+    "s2-7e30d7058df0a4acfda94e68",
+    "s2-16379bd9e22705c1c2cf5142",
+    "s2-1845c3fc11c0265131545f42",
+    "s2-8854fb2660b45cd2ad21dffb",
+    "s2-00202769bca430215c9b1fe7",
+    "s2-852dd7b7ca8136f0eabf2658",
+    "s2-feb09f7f5acd43a8f4efbe26",
+    "s2-f08804556f405b84c011a425",
+    "s2-1ccac4d1e57c9b8e5537d5e9",
+    "s2-d3aee19307ca97eaebb8639d",
+    "s2-19c841d89cfd790ef47c32b5",
+    "s2-f6956b5dca4dd28105798118",
+    "s2-330e061deacdc6bbacacd5f5",
+    "s2-6da5d55f9536c51af6bb77bf",
+    "s2-07b1b497ff638e51536565c3",
+    "s2-9359c9a6864aa05025f40d2f",
+    "s2-55d924f661bd97411ee09853",
+    "s2-d0b83ff76669300d235fd2df",
+    "s2-e001983fe88c60dded2d02b0",
+    "s2-a946e9c9aaafa1c15166b550",
+    "s2-cc03c1c342a637033fca5b7a",
+    "s2-2c8f314a4d1e995ff7b9e2af",
+    "s2-2e52c57927738f154df20ab2",
+    "s2-67493c217a8d481b1193288a",
+    "s2-9694ae14e53281c9e0d55b06",
+    "s2-ed947c112f8568d4d3a1df5c",
+    "s2-6daeaea76e82534b8398bdbd",
+    "s2-89f26771ac8e6c72dba2056f",
+    "s2-17ea00b695dbfb4435476d89",
+    "s2-96a27212545f84f27de60281",
+    "s2-c665ee48addf28b05d72f5be",
+    "s2-016cad9362023d070d2544fc",
+    "s2-c27ebc2356f239058b86100c",
+    "s2-e52ffac68ebfde6a1e99becf",
+    "s2-a513ff41627d0c63915f8d82",
+    "s2-6c894bde51556aa94704421f",
+    "s2-a16bdd2e2944f7d0684855bb",
+    "s2-88dfaffb32ef25b81a1507db",
+    "s2-e7e5c5e3578171201b20fd0d",
+    "s2-da750a232a4f64f94073661c",
+    "s2-931f8593a3e37ef5cf311f8b",
+    "s2-0df12aa6df21a4959d16e5c3",
+    "s2-27f80998a68f4dba3e624c41",
+    "s2-76802d3be67b5feda0c43730",
+    "s2-80e24715403af1f7a9276563",
+    "s2-b8ca80ce7e386db1f6951ea1",
+    "s2-02d8a9006af638ce0926941f",
+    "s2-60569a9df418d673fd7eaa53",
+    "s2-6566b1930a664c109415ca28",
+    "s2-1ea7e6e65a71380a61afe53e",
+    "s2-fda76c358469f97b13fefeb5",
+    "s2-61723b3772a475cc9f8c6964",
+    "s2-28fa1f93604db963709d8df2",
+    "s2-5d7d3d3ed1208ed4fe5064ee",
+    "s2-2a4bd056fe36d9ef18a3c59c",
+    "s2-3655f2d9880a0be206db0e99",
+    "s2-a097bcd3af86db75a4f45181",
+    "s2-b8c7382681075e3d2d2b28fd",
+    "s2-308b963e1322d398ef77c88c",
+    "s2-6cb61759dfae87b4f7d29f2e",
+    "s2-3ef5db6b82d551f633047777",
+    "s2-f15a1720e5858685b7e29d93",
+    "s2-89573db4e6e8a3e4d3579fac",
+    "s2-1343743a88e8b394c1b81eca",
+    "s2-56aafb916cad43f8133f13ec",
+    "s2-2e97ab43d20242599c9a47fa",
+    "s2-f74eb71e267767ec6cc29976",
+    "s2-324024f9636e99b76b9b2791",
+    "s2-6ab1cec1e1c5d5fab967e3f5",
+    "s2-b779ce5888f23e3c81f7d88a",
+    "s2-3bf62eaeeaba2587f9d67416",
+    "s2-6a028a19554fa21292805da0",
+    "s2-69da4ca39d9e5a43814b1ed1",
+    "s2-edaadc0837b267ec538736ad",
+    "s2-220e2aa94f9f650200eb50fe",
+    "s2-e5b2a81fcb076a75b72b5696",
+    "s2-e4aaeb91faa2816a3e110a0c",
+    "s2-1d8a1a0086367449de276569",
+    "s2-e5a8b5ceac4cd0c15165c872",
+    "s2-d08ed8d970d19a7e4824b573",
+    "s2-0dec01a43093bb1f28ae8c65",
+    "s2-b80312629fb2fad347520549",
+    "s2-162e476bf4da0fb6842e899a",
+    "s2-ccf4fa16c06ecd3d06481fb8",
+    "s2-eed52a9b22c0a2f9eb967b38",
+    "s2-b5a6204272ff836416c76c14",
+    "s2-8cd3575a39eb385d6f1c1416",
+    "s2-1608f1194498e6db782901f1",
+    "s2-c606f8bc9477777fe404e0dc",
+    "s2-30ae241c726e62e980375216",
+    "s2-e667ee23b7f7d52c4ca5aba0",
+    "s2-afecad8c1910773efdc935d5",
+    "s2-f2f6e40be0311ffb4f77a7b2",
+    "s2-fc99b92fe14ab64122a5ca13",
+    "s2-5c65ff78076f4e8073f59466",
+    "s2-0ec166774d8c06590fbe5ae7",
+    "s2-43117ea5fe91f68836274709",
+    "s2-9ead797a4efc034cb6820886",
+    "s2-db484dfec61efcbf7ce71b11",
+    "s2-ccc320e5a4df92246a59d69f",
+    "s2-af723881c39fa2f850720586",
+    "s2-70d378604bded7a3eeed5ef8",
+    "s2-a7c3a2f6a0f542a6c563f045",
+    "s2-f80e6a01e73896c6b09004f2",
+    "s2-babb881bb78dab0a72019fa5",
+    "s2-83695c76f5f1ad4f001d507a",
+    "s2-761fbe63d504e0935a0d4ad7",
+    "s2-f9bc7b044d4595efbd21d0fd",
+    "s2-b8d2f5b4d8e50d62e83633b5",
+    "s2-0b14f326a482245ce0dccf20",
+    "s2-d5b7371c4290257524a6896b",
+    "s2-ed74b7755a4a654ee6743535",
+    "s2-e6c98d0e2b34e076ccfdddd1",
+    "s2-cc96a6bdf6bccd1b9fc06354",
+    "s2-9405e33253eaa35efc4e3c84",
+    "s2-876aff4f2f9e93020d303e3b",
+    "s2-f3809f5431e710029f1e19d2",
+    "s2-da401d7cc2c8d40f2b6691d8",
+    "s2-6717cde6e15496b18afa054d",
+    "s2-474a4c659f552e2dc3f6969f",
+    "s2-ec97ab897aec08f9135df066",
+    "s2-a1bdf6659d98b512c5683c7f",
+    "s2-f3ce933d1e1b8ba398e33d5d",
+    "s2-02d3486c89eaf95931e1aa52",
+    "s2-9315ba6745624fe643899f01",
+    "s2-76b2cb5bd4321e27425b19bf",
+    "s2-950eb5ca552dc5bae763f49a",
+    "s2-4a201227d8f606f77468ce47",
+    "s2-b56402d8ab919c579b25133b",
+    "s2-ea8d409d1071c9c5346a2fb2",
+    "s2-43c3f0705f158492436b3f95",
+    "s2-07340f06efa4988758afdd69",
+    "s2-5129cd86056be775ebee771b",
+    "s2-3b155c42db19c820b2054df3",
+    "s2-4e89502113cd5a79f6d289a4",
+    "s2-ccf0731ba2286bfa53920f85",
+    "s2-76426798c3249e09e8d25141",
+    "s2-dae0aee6de2509dcee01fbf0",
+    "s2-a525eef8ae70f350cb9c47b1",
+    "s2-f4b781f7e7ef9aada0d4b57c",
+    "s2-0c92f44b4815274660e0e437",
+    "s2-ca9c2e3c293c77f51601e84c",
+    "s2-4860172482753870df350bad",
+    "s2-2ebb91dc71af5c78b7f1eefc",
+    "s2-66977edb6db4ee06cd4622d0",
+    "s2-c55e2364c188ed414f56694a",
+    "s2-00a854092e15c12fbcf2461a",
+    "s2-0f9a487f657ce096c0402f30",
+    "s2-4481cb73d35107f01b448e5f",
+    "s2-1d2b5d85845b6462f336d791",
+    "s2-19518b3af6e10046547a2102",
+    "s2-dc52b8caa0f3c57289ffebbc",
+    "s2-374e2cf3ae6468916342ba99",
+    "s2-bcc64a3a027ec94719df3916",
+    "s2-88d0aefd126373c53f128a32",
+    "s2-b8dcc0629b0a0181f68175a1",
+    "s2-ac50e96485962eed7c153696",
+    "s2-8b77f8db47ed33a7130e5a84",
+    "s2-b3befe977a6428036a44666d",
+    "s2-1628ca0af490a063542e8e12",
+    "s2-e0a8f3c1c679feaea2504559",
+    "s2-798c0fd172bb749a33066007",
+    "s2-b853a284a93bdc29a4a1dd19",
+    "s2-79bc2ba85e037daa5fd92134",
+    "s2-4369a29e6bb8a62606a9580e",
+    "s2-27bff23e20370fbe9354762f",
+    "s2-0555dda5fdd24b0fe41207a2",
+    "s2-4b918fe49cdce795b8df4af6",
+    "s2-3527e5c7c697d499d0a02598",
+    "s2-dfb096695a7d126facb7f242",
+    "s2-f2f863fd1409d04e3b996d7e",
+    "s2-bcf0df0d87e7e80d9a1206c0",
+    "s2-2c8a05cf7d3b17d55ba26829",
+    "s2-d10a59215c76e48b4e17e2e7",
+    "s2-e8591df6c9ceb62534a23f95",
+    "s2-2ebe07ae98010ab47d041b24",
+    "s2-6b16b4edb06b9f4d3b07ebd5",
+    "s2-2d3f82ad8f54a15484561eae",
+    "s2-8fd2165fe930ce59be492d92",
+    "s2-72b256a68f01f281363a105e",
+    "s2-bbfb935cfaf21c5005455bce",
+    "s2-de9cc56c1ebacc823972d1ee",
+    "s2-492be4b4fe3bb6920a07715b",
+    "s2-d89ed3eef07a7d6cde688cc0",
+    "s2-59a9eb622e1b0438b2fc1bcf",
+    "s2-3c98c4c6687e5ebb5cd0f69b",
+    "s2-69fe054899ff563b345c4d53",
+    "s2-3f7cfcf2211f19ab81cb8115",
+    "s2-a3ea0b10e569154557908ac3",
+    "s2-4a71375581f4aa52e74589bd",
+    "s2-f60fe83db09a0b868c35421e",
+    "s2-87b7faf7ac0dc67bdde05c24",
+    "s2-c209ddfff7eb7587e0de282d",
+    "s2-037531f63f6eeff919bd5f25",
+    "s2-3011ee8d611ae6c1c5ce262a",
+    "s2-43ffd4af9d6752e0725ba3c8",
+    "s2-35fb621980d3457de91a136e",
+    "s2-861b2a138402357cfcc4ccae",
+    "s2-782160d223b8922653762c72",
+    "s2-8889caecb331074b736f4afa",
+    "s2-8a034602a0938ca644f94c3c",
+    "s2-c4274546b98af7cbfbac31e1",
+    "s2-b24469b76ab1aec73763f1a7",
+    "s2-640a6c11fbff075d7fb76932",
+    "s2-5eb46de20db2e0e597d86f23",
+    "s2-c3eb47e05313542dba9ec422",
+    "s2-38ddd743c5ccb7c82d7fe56e",
+    "s2-029496033c98eb075b4a96f2",
+    "s2-0c87d2ddb3c4de2cbb196bf1",
+    "s2-df0371ed704d7fe97a3be4f7",
+    "s2-79bb8d64e7b49642cd5194ff",
+    "s2-7388ee6ddc5623a02c7841fa",
+    "s2-1f9c2a28e54e420d4b3f1cf4",
+    "s2-3b6cffc67db7e962ef33cf78",
+    "s2-eded55081997af72c86efb90",
+    "s2-dc7cd6fe56fbf1868266fae1",
+    "s2-f235c59d01b3428a38a94598",
+    "s2-0c600f3a95cfd47cf1b02514",
+    "s2-44606525572bb725a5ef52df",
+    "s2-81ab7872089f0f6e023d7dac",
+    "s2-8fbb00a9ad108771963d689d",
+    "s2-e325dde09d42827d6936f742",
+    "s2-ce4ed1197adab8999a3dfdaa",
+    "s2-ee51349835672d9976f4b8ea",
+    "s2-48741c8c2867140581225fa1",
+    "s2-a17c92ace728b43cdfca02fd",
+    "s2-d4abbc36771683e46d2f73ec",
+    "s2-3b9c07cd7bc8044079de7e4b",
+    "s2-8e0847511caafa793e02729f",
+    "s2-6a9337b0dab0ecc1737726db",
+    "s2-426adfe3d6d2e7b3c45a037a",
+    "s2-5be89d7b8e88ce6e069c21f7",
+    "s2-95193819a008f7a786b20d8a",
+    "s2-bc2b3740a06b02265dfb0f13",
+    "s2-74c7fff532945392e722067f",
+    "s2-1f9601a05e5092f8110a52cb",
+    "s2-afeeb896efddddd54c210ff5",
+    "s2-0f023141e28df85caaea36c4",
+    "s2-1e98830c77a97d83cd0a259b",
+    "s2-75a1499d92f75babf3e0cabb",
+    "s2-f97c20b3bb60627f7db520d2",
+    "s2-6db6593272a5dae556c46f46",
+    "s2-f8ec653b6ed5536f0af4124f",
+    "s2-e4335d07850e91615508d134",
+    "s2-4dc6ee19b8cd72215d7befa5",
+    "s2-30554f7744041e26c78b86d7",
+    "s2-e08addcb3fb7603bb6225868",
+    "s2-30920705637a6f13006235b4",
+    "s2-02539bce207145b381fd7962",
+    "s2-b7f0f1578c6b4e895f20bac3",
+    "s2-36cec0c047ee50de5659c55a",
+    "s2-186110cac2e2d1e35f56a694",
+    "s2-766a9724256c3bb49d3e3f68",
+    "s2-3b0f40dc952090f2e00dbc36",
+    "s2-be14656d8aecdea2d5a912a6",
+    "s2-372f2b8755f7c2bf9f8eaa0c",
+    "s2-3869b00c66e25ceb6d8217bd",
+    "s2-4ad72449b447496cbd38baa6",
+    "s2-e7af7b056bfe9d0d370b238a",
+    "s2-59eb4ea85ad9e7a6632923d7",
+    "s2-786e5bf13dac3062b11b8787",
+    "s2-0e3beb4350aeea8155e9bfc3",
+    "s2-c9db66a22733db8e6c500abb",
+    "s2-d82f6c11d24d1b0cbc2796fd",
+    "s2-5bfe16f6d20a64be8996e154",
+    "s2-4413953c27c20ce98473a2af",
+    "s2-0778d1dc5c32db59d9447ca9",
+    "s2-c49eba81fe557ab9165a38e6",
+    "s2-7b9733af7b1c3ecfae1e2ff1",
+    "s2-4e20601d82f6cd64ae9d1131",
+    "s2-905b393b3c7872327c27f24a",
+    "s2-96e4f0e8a1810ea91b8bc672",
+    "s2-fd118e12b0ae8455e7ef39ed",
+    "s2-6654a046ef54f40d491decba",
+    "s2-7a6d9d7232b0ce9b0bd76cbd",
+    "s2-6886cc512873319d8a9dbd11",
+    "s2-3902b75dc8904362c47e2f7c",
+    "s2-37087912003cba208da0c9b7",
+    "s2-c63b8b717e394e397c00fcd1",
+    "s2-a3d03950af37efe4cff3386c",
+    "s2-8b77780dc7cccd86daba9ad1",
+    "s2-e8e6c60aba55042948ec8451",
+    "s2-618da76b282ce04053bbd4df",
+    "s2-91d61c9be1b6dfcc78eace93",
+    "s2-eec65f38136827c4b810f2d6",
+    "s2-ef35166108fb103fa0905e77",
+    "s2-c6522ad46b5209e9fc84036c",
+    "s2-b41a42c179f1fd8bc9cca00a",
+    "s2-2863b994363598c95c566e88",
+    "s2-11473f68ea882c45170640fa",
+    "s2-d773c0f3efd40613e89f40ed",
+    "s2-b5535f6b781907c236170b28",
+    "s2-d2408196d984aac85b7c38b2",
+    "s2-07458b38c30a61f70392c6f9",
+    "s2-40029d455872f0adc44570a3",
+    "s2-69bcabaa877aa7d214018fac",
+    "s2-83ecb2023ef8de9bf074ca7c",
+    "s2-e2381c5d15ebce53efcb319f",
+    "s2-1b101f04fa9d881c9fc26f32",
+    "s2-b5d8205de0781959c45348fd",
+    "s2-56305b54d7059b792a8f070c",
+    "s2-fa605f8c3ff6af40256a2a84",
+    "s2-bc6882d08aabb71c23a67b56",
+    "s2-b703f91ec0321f7201d7bddf",
+    "s2-28f18f5d4f05150290ac5afd",
+    "s2-f71a888e60af77a050c90a6e",
+    "s2-6fcf77e5251ccfd18ac961c9",
+    "s2-3870e795af223f1b5b29dec5",
+    "s2-92722dcad1f845d1a270143b",
+    "s2-5fe745be23431f4826a44b89",
+    "s2-dc9b4247c4b7e7ef50a27ca1",
+    "s2-40bf499e07cd24af7a9c8aab",
+    "s2-1356e1212253afcd70b235ad",
+    "s2-064f553b860c7d575017b74e",
+    "s2-0aa6ced0a9b5b2a473e32f41",
+    "s2-b48ebddcff3036ec2ed662f6",
+    "s2-ca457e42d9ee6e59ae6ed8b3",
+    "s2-0b93de81d2483fe11c27a65d",
+    "s2-e18a1fa139178675c49c4d09",
+    "s2-29b08a7d86e4856cbad5fcb1",
+    "s2-61b4cd231e25d7f2a8ffe86b",
+    "s2-dc95802fe5d13aeae1fd8190",
+    "s2-4bf916c1f2dd60b128aa0877",
+    "s2-9b31ee3025a1d665c8b2674b",
+    "s2-b9c511fc006b9d3f5dd9706e",
+    "s2-78729baf64a71fccd7dcce7d",
+    "s2-37f99e04331988b139575404",
+    "s2-7eb3a4a39a9f6c18df2bd3f9",
+    "s2-96a2134a31f55c29b96f1997",
+    "s2-3a4403fd2c53a7d50dd40c3a",
+    "s2-bcf61243231867b539ded393",
+    "s2-94ca0b16804ebacc8b139b4b",
+    "s2-4f7f81d727c9fbe671893b54",
+    "s2-d9c77a33c348b35ef2440cbe",
+    "s2-5a2b06d0c2b7a332e40027c0",
+    "s2-76bc9b5eae37b6bf49cd6f8c",
+    "s2-c498ef67744f2b77c391b69a",
+    "s2-c5b673679e8b4b65224a1f2f",
+    "s2-7f31e24c08c2ec262553c2dd",
+    "s2-b79c58117b39d079dc43c3bd",
+    "s2-ad895abdcb62daeda31b6e7b",
+    "s2-e111b1f9d1e25bcf63cc904f",
+    "s2-1a636f037b6ae92fdfc7229b",
+    "s2-1747db698067c61c2c581b2c",
+    "s2-0fc5d33aa664e7b7d25411c8",
+    "s2-4620c3894e9cd0bba7242715",
+    "s2-9a202ec951492eb77445a5dc",
+    "s2-4f47cd0f019c6a568557cc45",
+    "s2-68527043b1183e26a99e2de8",
+    "s2-912d71bdd2c2527b41c82de1",
+    "s2-f38fa93e7b8d6426146a47a3",
+    "s2-8f459800fded0a0805ab6f6f",
+    "s2-ce51632cda289466d17f8391",
+    "s2-6cdbb3675cd917195243e4de",
+    "s2-caa2a145ba015eee9e4d98e4",
+    "s2-da68e121e17db8f8fcd97fcc",
+    "s2-f1ca43413ade0d9c8c1af431",
+    "s2-fd1ebd494c3127f147efe630",
+    "s2-5bdcc0228476d9fa8261c128",
+    "s2-0968461df49157a3f8b41434",
+    "s2-2d50d7c312ffc84711d3bc2a",
+    "s2-9f56b1d522f403881c0d3f31",
+    "s2-d52c9fd892b3f49e2296135d",
+    "s2-f52878d01da5a61b93f84742",
+    "s2-9686d6aaca4cf744f7419e9f",
+    "s2-1cb40bab2fdb6cda7fac1ea7",
+    "s2-6ad18e4f9a5f1eb58e7ad038",
+    "s2-75099a06a128e6cf8d55cdd1",
+    "s2-bf80e2e32c82d8c0870e36d7",
+    "s2-07d3bf39db4c479517ddd86c",
+    "s2-9bcc8f9954035d9c121e44a8",
+    "s2-da5789d9e40eb985100023b7",
+    "s2-3908b7e41699c1b16c84081a",
+    "s2-5d150766bb6ab4efae568be4",
+    "s2-463b1ed0a83cc1a456794ab2",
+    "s2-2911e37020149abbc58af5ac",
+    "s2-ce55239415a353da8a807b1b",
+    "s2-da77d4a45e43a77cc0be5371",
+    "s2-94ceec1c114a2c83f94c35fb",
+    "s2-b3db32c955e7ac8bba8cdd84",
+    "s2-e806673cd61b0eaa9750319e",
+    "s2-8570b738d5b0fa2996f76f26",
+    "s2-f56d39b30a0417f3dbbc324a",
+    "s2-b42a4fd9af94098845a80311",
+    "s2-6349ec4df52966c88c0d9031",
+    "s2-372128f8ad823640c26dc9db",
+    "s2-291669b8ecbf4102c06be902",
+    "s2-b186a6a5fd5aee2414b46cf8",
+    "s2-5ef6235251ad1ee1fd619431",
+    "s2-54f221ff6d06533698a14102",
+    "s2-d1315b3b7140a0ea5c056cbd",
+    "s2-33233bc9f2903b0ebf612091",
+    "s2-07fec3a96c8f55386b7cdcc8",
+    "s2-59a3fda6766d3e4c848b8daa",
+    "s2-c778c393370d69afa5fb0f98",
+    "s2-2629cd989667ebd15033dba5",
+    "s2-42ed08a4254e98c6261d81f7",
+    "s2-3ea8338d7b731a0dbb902a20",
+    "s2-2ab87c096e86f6b2e4101f35",
+    "s2-c5ef86e226fe1f062a6e47a6",
+    "s2-74e384ac6927a2e341fffe25",
+    "s2-1b2a929096b3fc1d4be03c54",
+    "s2-1688ae0d84c908bf96fb231a",
+    "s2-5e55ea19a1b476d167354655",
+    "s2-2705372f0823f4419ad09a37",
+    "s2-0cc27825b4057b6b24c09b22",
+    "s2-09fa6e6fa21b3c0a9ba0d0f6",
+    "s2-ff44ee94ef092fa0ad184ae6",
+    "s2-c79001d36fc94d2a4fa65a87",
+    "s2-226e9e366815973838da5df7",
+    "s2-16fbe955de4c5be92f65a3e2",
+    "s2-d37adf7d9084d903c2b36e82",
+    "s2-7d670c68989e66eee2236398",
+    "s2-db46fa7c594120264f9fd02e",
+    "s2-056f6fca4448fd3ded1d5daa",
+    "s2-cf36ec82932a7ca9e6b59a28",
+    "s2-ec7a044a1b661b461d5d19f1",
+    "s2-fbf29f4953ccb2d619575d6d",
+    "s2-4cf08edddb478f8fa2660bcb",
+    "s2-2baf0581159b3603409de4b4",
+    "s2-5a5a4fbc83d69361d37f6cf8",
+    "s2-2c53f2ce60c157bd00be49fd",
+    "s2-2dc28fae23a38fb1bbb9b8fe",
+    "s2-ea2bfdf82f4a194ef8c43657",
+    "s2-e9ebf50c474d4634db39b0ea",
+    "s2-cf01a9015f221be7d3eedb67",
+    "s2-9849cdef03d4d9f97463ed50",
+    "s2-f2393d7995778646d8f0e404",
+    "s2-9f55269d669870275f1a6822",
+    "s2-ffed85c804b0f5ce6c857529",
+    "s2-3485d3efb403885cc3ce5468",
+    "s2-063946a6242221d6e680cca9",
+    "s2-7d998739a6afa15dca420c98",
+    "s2-fa4db3b4afb068658d6a8d48",
+    "s2-ef0b090b7eb7807d15153a1b",
+    "s2-e4c0e80a9d5921f65e9d38b0",
+    "s2-598d2c83f26fd5daf76d82a0",
+    "s2-4a48ecffe0ee5012739d16e4",
+    "s2-d7fb087024aba7c5a9cffd58",
+    "s2-3f86c80ff96d443442c18c97",
+    "s2-1f6ee00959d858fcd57d8c23",
+    "s2-7e6ddbe6aedf2ed1be9477ca",
+    "s2-96ebaa8ffb1f7130d858ba3a",
+    "s2-3d6e6e86838719d52869a493",
+    "s2-44f6baf5e6281a0ce9f232f9",
+    "s2-33edda65f8b811756edc5a49",
+    "s2-d20301d5e9e282ce78e2a1ae",
+    "s2-e12d9c8625165c5b2cc1136d",
+    "s2-4a666f9c056fa7e74d899430",
+    "s2-780bc158f9cb53a63a3198e3",
+    "s2-c9937125abe2ef40abf22eb6",
+    "s2-8045bc0681d9dced6c56ee86",
+    "s2-20fb45de455ff029aa822040",
+    "s2-3c802581ae0a99c333211dbc",
+    "s2-cdf7e431199989b235465659",
+    "s2-2a57a36ddc843c40e5de41da",
+    "s2-a29209596bddbadc02c95eb9",
+    "s2-625212b79112854c0281a6f1",
+    "s2-74cd063ec48e12382d1e9d56",
+    "s2-e0472413fe01c182cd1ffda9",
+    "s2-5a990ea28a5d3297eccaf55a",
+    "s2-b6c58983dbe2b0cdd34fdf2b",
+    "s2-51b777d75cb48b2d86f708c2",
+    "s2-5cb264acde2d209b393940f6",
+    "s2-e6d28af26c4738b23e0061da",
+    "s2-ff6d33b4636167ffe64f8dc3",
+    "s2-ade5d51f01846d25208d59b9",
+    "s2-1b9e341d1564383ee4970573",
+    "s2-e625fa6bd528586a8cef2ac3",
+    "s2-de0007c46710d04953ff21ab",
+    "s2-d6e1dfe42925a51502e9b2a8",
+    "s2-b57e9a68d3db3d73721da1e5",
+    "s2-fee8d6b47076471780bf8d20",
+    "s2-2e18f94abbce0885d2f09376",
+    "s2-8d8647668ddd16e1d782548a",
+    "s2-d89c61dbcd004f3a61783302",
+    "s2-2af7cb7eba64cb727d444278",
+    "s2-37c87041d560568f983e28c1",
+    "s2-b634f5f1c5293cf0ffad0129",
+    "s2-2326d4c89a69eb92e9defed1",
+    "s2-5589d0dc31a4417cbb2cb6b5",
+    "s2-0f48aeb76824bc0852571de4",
+    "s2-232851172ac51b09dfdca556",
+    "s2-698014be237b474a4671ee2e",
+    "s2-eda9cc5379bbdedd42089c90",
+    "s2-9e297eaa773aedd07f3ee8cf",
+    "s2-86c12c259b94a7eaf776f341",
+    "s2-8ae2fbd562e6be98ebf6208b",
+    "s2-b9056b36b641796053ba0ec7",
+    "s2-a206fb40152f0a7b37602660",
+    "s2-34a2e785028ce0b20fe929ef",
+    "s2-dd3ab37c32440e7f16270890",
+    "s2-e4a9de8a62839e28cf0d4650",
+    "s2-957567ae3ae74ca52422cb3f",
+    "s2-4c6da342f1174328d41a1675",
+    "s2-20fe9f7adf4602ac08fc908c",
+    "s2-c56e1c85e3984311412924ae",
+    "s2-cd4fa0e0f91b527f7d2a0e51",
+    "s2-91fde1f560214de995cf85b5",
+    "s2-95f9c40f18107d528436152b",
+    "s2-4c7458df756d20ebb6b3ce8c",
+    "s2-e3d2af36e3f1399230467a9a",
+    "s2-8c971f5ae64220f950c3f94e",
+    "s2-a442a8b47a71162080fe79eb",
+    "s2-1e001f93633de38e414b5339",
+    "s2-7ca6764d5ff978f7c8ea1d09",
+    "s2-02af9898ec98ec79335fcf1c",
+    "s2-b18d192b86b9fb44bdd749bf",
+    "s2-8d6f5b1e1c505671f5975ba6",
+    "s2-fe378077e109f41b6c003a37",
+    "s2-ef46c76a36ae08044c28f63d",
+    "s2-b3c00a58d72c799f407ecee5",
+    "s2-b13fc5c1eef49a2ee33acaef",
+    "s2-d0cbd34e9cc8884e6aedf87b",
+    "s2-a624844a80de07fe0e6797f7",
+    "s2-53d6a0debf9ce52f2eaa9ea1",
+    "s2-a0605d501f011ae99cb88aa5",
+    "s2-ea69e8ea2b38e5d5704f320d",
+    "s2-cfac0c06bb743b3a55f1d342",
+    "s2-c25f37a04c9e3fd77a9b69b8",
+    "s2-292061a6a28a5b1e754153af",
+    "s2-62ec45149f5cefb32dfe86a4",
+    "s2-d1aa21cfc1b902347695d4ba",
+    "s2-7bd22f085639ea9c2cfaa009",
+    "s2-f7fd4ca10d17a7247e19fb48",
+    "s2-b220e01234a2b266d8933bba",
+    "s2-9d2d1fc61d03f47631ec353c",
+    "s2-7a831e63962cd7011ebc12fa",
+    "s2-9c54b2e45b40bec4889214c7",
+    "s2-05db1f6d97941c34ea666129",
+    "s2-6fd49d7e6e27ee0591316245",
+    "s2-fbf9ff6217e6d8739c50a518",
+    "s2-acedc998681882fa496d1157",
+    "s2-076a510f7250a4de305c6d61"
+  ]
+}

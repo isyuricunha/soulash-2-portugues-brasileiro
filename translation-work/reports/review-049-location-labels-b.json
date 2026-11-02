@@ -1,0 +1,608 @@
+{
+  "corrections": [
+    {
+      "EN": "This dragon... I heard it died a long time ago and it still harasses everyone!",
+      "after": "Este dragão... Ouvi dizer que morreu há muito tempo e ainda incomoda a todos!",
+      "before": "Este dragão... Dizem que morreu há muito tempo e ainda incomoda a todos!",
+      "gender_after": null,
+      "gender_before": null,
+      "id": "s2-405d7cf36cee9cc38b82e280"
+    },
+    {
+      "EN": "Vampire's Lair",
+      "after": "Covil do Vampiro",
+      "before": "Covíl do Vampiro",
+      "gender_after": null,
+      "gender_before": null,
+      "id": "s2-360e971fda22039098321d99"
+    },
+    {
+      "EN": "Vultures & Bones",
+      "after": "Abutres e Ossos",
+      "before": "Urubus e Ossos",
+      "gender_after": null,
+      "gender_before": null,
+      "id": "s2-60cf514959a0cbd31604a153"
+    },
+    {
+      "EN": "Wasp Nest",
+      "after": "Ninho de Vespas",
+      "before": "Ninho de Vespa",
+      "gender_after": null,
+      "gender_before": null,
+      "id": "s2-94aecf8992e3beec834e31e0"
+    },
+    {
+      "EN": "Waterlily 1",
+      "after": "Ninfeia 1",
+      "before": "Lírio-d'água 1",
+      "gender_after": null,
+      "gender_before": null,
+      "id": "s2-6e543eb1e25947c4d711a0cd"
+    },
+    {
+      "EN": "Webbed Forest",
+      "after": "Floresta Coberta de Teias",
+      "before": "Floresta Teiada",
+      "gender_after": null,
+      "gender_before": null,
+      "id": "s2-d911b0dd2efac29b416d607a"
+    },
+    {
+      "EN": "Werebeast Lair",
+      "after": "Covil das Feras Metamorfas",
+      "before": "Covil do Homem-Fera",
+      "gender_after": null,
+      "gender_before": null,
+      "id": "s2-ae35bd19e62c1baf9cc06173"
+    },
+    {
+      "EN": "Wraith Camp",
+      "after": "Acampamento de Espectros",
+      "before": "Acampamento Espectro",
+      "gender_after": null,
+      "gender_before": null,
+      "id": "s2-76c5a15af51383ce76f84e58"
+    },
+    {
+      "EN": "Wraith Keep",
+      "after": "Fortaleza de Espectros",
+      "before": "Fortaleza Espectro",
+      "gender_after": null,
+      "gender_before": null,
+      "id": "s2-8430cb79aad1eda42a63b540"
+    },
+    {
+      "EN": "Wraith Ruins",
+      "after": "Ruínas de Espectros",
+      "before": "Ruínas Espectro",
+      "gender_after": null,
+      "gender_before": null,
+      "id": "s2-79ade47954202dff7ccd76e8"
+    },
+    {
+      "EN": "Wraith Town",
+      "after": "Cidade de Espectros",
+      "before": "Cidade Espectro",
+      "gender_after": null,
+      "gender_before": null,
+      "id": "s2-9d1839da79246225ebe8eb85"
+    },
+    {
+      "EN": "bone wraith",
+      "after": "espectro ósseo",
+      "before": "Espectros de Osso",
+      "gender_after": null,
+      "gender_before": null,
+      "id": "s2-cb6ac4496135052124316336"
+    },
+    {
+      "EN": "gnoll",
+      "after": "gnoll",
+      "before": "Gnolls",
+      "gender_after": null,
+      "gender_before": null,
+      "id": "s2-4340461b6067deec080fbe7a"
+    },
+    {
+      "EN": "goblin",
+      "after": "goblin",
+      "before": "Goblins",
+      "gender_after": null,
+      "gender_before": null,
+      "id": "s2-a926e9b644f369c19fbb45c9"
+    },
+    {
+      "EN": "mushmen",
+      "after": "homens-cogumelo",
+      "before": "Homens-Cogumelo",
+      "gender_after": null,
+      "gender_before": null,
+      "id": "s2-89934efd75e634a47f30c5e9"
+    },
+    {
+      "EN": "reptilian",
+      "after": "reptiliano",
+      "before": "Réptilianos",
+      "gender_after": null,
+      "gender_before": null,
+      "id": "s2-1b8e5283bd51b113f6bf1f63"
+    },
+    {
+      "EN": "ursan",
+      "after": "ursano",
+      "before": "Ursanos",
+      "gender_after": null,
+      "gender_before": null,
+      "id": "s2-d7313cd592dd349db1866b79"
+    },
+    {
+      "EN": "{} Base",
+      "after": "Base de {}",
+      "before": "{} Base",
+      "gender_after": null,
+      "gender_before": null,
+      "id": "s2-8cd30058ced43578e076bbaf"
+    },
+    {
+      "EN": "{} Bastion",
+      "after": "Bastião de {}",
+      "before": "Bastião {}",
+      "gender_after": null,
+      "gender_before": null,
+      "id": "s2-5a7d84ab36c5cd10ef5fd0f7"
+    },
+    {
+      "EN": "{} Borough",
+      "after": "Burgo de {}",
+      "before": "{} Burgo",
+      "gender_after": null,
+      "gender_before": null,
+      "id": "s2-97ece5414169f236e76fc674"
+    },
+    {
+      "EN": "{} Camp",
+      "after": "Acampamento de {}",
+      "before": "{} Acampamento",
+      "gender_after": null,
+      "gender_before": null,
+      "id": "s2-1d0d3c0981178a437a8db73a"
+    },
+    {
+      "EN": "{} Camp",
+      "after": "Acampamento de {}",
+      "before": "{} Acampamento",
+      "gender_after": null,
+      "gender_before": null,
+      "id": "s2-2faf809702e202237fc4fd28"
+    },
+    {
+      "EN": "{} Camp",
+      "after": "Acampamento de {}",
+      "before": "{} Acampamento",
+      "gender_after": null,
+      "gender_before": null,
+      "id": "s2-aefa9db04c34c43b6d98db8b"
+    },
+    {
+      "EN": "{} Camp",
+      "after": "Acampamento de {}",
+      "before": "Acampamento {}",
+      "gender_after": null,
+      "gender_before": null,
+      "id": "s2-795d45a057a852776b3a9293"
+    },
+    {
+      "EN": "{} Castle",
+      "after": "Castelo de {}",
+      "before": "{} Castelo",
+      "gender_after": null,
+      "gender_before": null,
+      "id": "s2-702bfd69605ffb37f450a5fd"
+    },
+    {
+      "EN": "{} Citadel",
+      "after": "Cidadela de {}",
+      "before": "{} Cidadela",
+      "gender_after": null,
+      "gender_before": null,
+      "id": "s2-76c51a144c2b9f432bc48cab"
+    },
+    {
+      "EN": "{} Citadel",
+      "after": "Cidadela de {}",
+      "before": "{} Cidadela",
+      "gender_after": null,
+      "gender_before": null,
+      "id": "s2-f2e6663ff7b0f1dcb8568e26"
+    },
+    {
+      "EN": "{} City",
+      "after": "Cidade de {}",
+      "before": "{} Cidade",
+      "gender_after": null,
+      "gender_before": null,
+      "id": "s2-e703883127460d697d0f924d"
+    },
+    {
+      "EN": "{} City",
+      "after": "Cidade de {}",
+      "before": "{} Cidade",
+      "gender_after": null,
+      "gender_before": null,
+      "id": "s2-6dd7937dcc88dff771edc0de"
+    },
+    {
+      "EN": "{} City",
+      "after": "Cidade de {}",
+      "before": "Grande Cidade {}",
+      "gender_after": null,
+      "gender_before": null,
+      "id": "s2-9a5fce42bcb79c173536360f"
+    },
+    {
+      "EN": "{} Fortress",
+      "after": "Fortaleza de {}",
+      "before": "{} Fortaleza",
+      "gender_after": null,
+      "gender_before": null,
+      "id": "s2-fa82392facbb8ff0e41e905a"
+    },
+    {
+      "EN": "{} Haven",
+      "after": "Refúgio de {}",
+      "before": "Refúgio {}",
+      "gender_after": null,
+      "gender_before": null,
+      "id": "s2-07558808f54715ee1ab3e044"
+    },
+    {
+      "EN": "{} Keep",
+      "after": "Fortaleza de {}",
+      "before": "{} Fortaleza",
+      "gender_after": null,
+      "gender_before": null,
+      "id": "s2-c1895247a440c582c903ff1c"
+    },
+    {
+      "EN": "{} Keep",
+      "after": "Fortaleza de {}",
+      "before": "{} Fortaleza",
+      "gender_after": null,
+      "gender_before": null,
+      "id": "s2-af4883727ec13c2c8f9e1251"
+    },
+    {
+      "EN": "{} Keep",
+      "after": "Fortaleza de {}",
+      "before": "Fortaleza {}",
+      "gender_after": null,
+      "gender_before": null,
+      "id": "s2-b0375fc0a06605c097e45013"
+    },
+    {
+      "EN": "{} Keep",
+      "after": "Fortaleza de {}",
+      "before": "Fortaleza {}",
+      "gender_after": null,
+      "gender_before": null,
+      "id": "s2-e600a194cf30c7073d445f27"
+    },
+    {
+      "EN": "{} Mine",
+      "after": "Mina de {}",
+      "before": "{} Mina",
+      "gender_after": null,
+      "gender_before": null,
+      "id": "s2-2d10f91146c8c5d1749e8187"
+    },
+    {
+      "EN": "{} Necropolis",
+      "after": "Necrópole de {}",
+      "before": "{} Necrópole",
+      "gender_after": null,
+      "gender_before": null,
+      "id": "s2-dcfaa22d374056224ef93bb4"
+    },
+    {
+      "EN": "{} Outpost",
+      "after": "Posto Avançado de {}",
+      "before": "{} Posto Avançado",
+      "gender_after": null,
+      "gender_before": null,
+      "id": "s2-71ade0fc5ae38645e1c41636"
+    },
+    {
+      "EN": "{} Refuge",
+      "after": "Refúgio de {}",
+      "before": "{} Refúgio",
+      "gender_after": null,
+      "gender_before": null,
+      "id": "s2-853d49aea41662532b685293"
+    },
+    {
+      "EN": "{} Ruins",
+      "after": "Ruínas de {}",
+      "before": "{} Ruínas",
+      "gender_after": null,
+      "gender_before": null,
+      "id": "s2-9f28fd0777f0caa3abe421ab"
+    },
+    {
+      "EN": "{} Ruins",
+      "after": "Ruínas de {}",
+      "before": "{} Ruínas",
+      "gender_after": null,
+      "gender_before": null,
+      "id": "s2-0a11d3285b985f1fb92e66b3"
+    },
+    {
+      "EN": "{} Ruins",
+      "after": "Ruínas de {}",
+      "before": "{} Ruínas",
+      "gender_after": null,
+      "gender_before": null,
+      "id": "s2-cc8352fe8d6f60b093373cb8"
+    },
+    {
+      "EN": "{} Shelter",
+      "after": "Abrigo de {}",
+      "before": "Abrigo {}",
+      "gender_after": null,
+      "gender_before": null,
+      "id": "s2-85c7dee999deb6b2721d4774"
+    },
+    {
+      "EN": "{} Stronghold",
+      "after": "Fortaleza de {}",
+      "before": "Fortaleza {}",
+      "gender_after": null,
+      "gender_before": null,
+      "id": "s2-78413108d6cd4f616b323394"
+    },
+    {
+      "EN": "{} Tower",
+      "after": "Torre de {}",
+      "before": "Torre {}",
+      "gender_after": null,
+      "gender_before": null,
+      "id": "s2-20c1c57516a4b3a7a6bf17e3"
+    },
+    {
+      "EN": "{} Town",
+      "after": "Vila de {}",
+      "before": "{} Vila",
+      "gender_after": null,
+      "gender_before": null,
+      "id": "s2-3d9a5c2ded175cde13fd12e5"
+    },
+    {
+      "EN": "{} Town",
+      "after": "Vila de {}",
+      "before": "{} Vila",
+      "gender_after": null,
+      "gender_before": null,
+      "id": "s2-fedde92f024efb77e9f8574d"
+    },
+    {
+      "EN": "{} Town",
+      "after": "Vila de {}",
+      "before": "{} Vila",
+      "gender_after": null,
+      "gender_before": null,
+      "id": "s2-5931558e4d6e186e5d382f2d"
+    },
+    {
+      "EN": "{} Town",
+      "after": "Vila de {}",
+      "before": "Cidade {}",
+      "gender_after": null,
+      "gender_before": null,
+      "id": "s2-b2f23ca2ccf493f2c3543b94"
+    },
+    {
+      "EN": "{} Town",
+      "after": "Vila de {}",
+      "before": "Cidade {}",
+      "gender_after": null,
+      "gender_before": null,
+      "id": "s2-0a388168db44936ccffdb999"
+    },
+    {
+      "EN": "{} Town",
+      "after": "Vila de {}",
+      "before": "{} Cidade",
+      "gender_after": null,
+      "gender_before": null,
+      "id": "s2-84f88b83263eb951ceb9bc60"
+    },
+    {
+      "EN": "{} Tree",
+      "after": "Árvore de {}",
+      "before": "{} Árvore",
+      "gender_after": null,
+      "gender_before": null,
+      "id": "s2-9c72cd1e1996324cf7f08bc5"
+    },
+    {
+      "EN": "{} Village",
+      "after": "Vila de {}",
+      "before": "{} Aldeia",
+      "gender_after": null,
+      "gender_before": null,
+      "id": "s2-06892c119f8e64efcfd74108"
+    },
+    {
+      "EN": "{} Village",
+      "after": "Vila de {}",
+      "before": "{} Aldeia",
+      "gender_after": null,
+      "gender_before": null,
+      "id": "s2-c0dfbe8c5dab5a2792255bcf"
+    },
+    {
+      "EN": "{} Village",
+      "after": "Vila de {}",
+      "before": "Vila {}",
+      "gender_after": null,
+      "gender_before": null,
+      "id": "s2-64f647e41353da23e5aa741f"
+    },
+    {
+      "EN": "{} Watch",
+      "after": "Vigia de {}",
+      "before": "{} Vigia",
+      "gender_after": null,
+      "gender_before": null,
+      "id": "s2-825bfc2a746c5c158a22fa67"
+    }
+  ],
+  "reviewed_ids": [
+    "s2-838395e8743a7bfb5d393a8b",
+    "s2-1d6f36bb8da979c3ef249743",
+    "s2-cce086d7e52345aa45d0ffc2",
+    "s2-9923d182e77cd8c82c5c23f9",
+    "s2-ac77fad92aabca744913b96b",
+    "s2-acc50d3c7062833946a7b96d",
+    "s2-543991f9f99c7711b047185e",
+    "s2-405d7cf36cee9cc38b82e280",
+    "s2-1c7a560c78c72ecd7a9c47bd",
+    "s2-cff7a59d93847c36c7d004a1",
+    "s2-5a1bd1ee7d7613a75f3ab588",
+    "s2-f825295b23abe44f77220493",
+    "s2-db295a10b44ad6ac060072cc",
+    "s2-5151d722aa810edb0a314356",
+    "s2-49364003ab414a17e0387a2a",
+    "s2-d327f6d2f510020d8b15fe5f",
+    "s2-8088dcfc886383f8a42ab72e",
+    "s2-7c9efcedd422d68836d9354c",
+    "s2-fc979eed4e83ed787c6d4958",
+    "s2-b12614189aaa79fe8df74fd0",
+    "s2-d73fece80537ea5bf09afc4e",
+    "s2-199ff3f42fd847c7c9e81bb6",
+    "s2-3d812a62806a9f0fa9ba5fcd",
+    "s2-02a72afe590aa505c7a675d9",
+    "s2-4bc25975341a5cad3b41c82c",
+    "s2-cec92737c0dd6ec5713cca30",
+    "s2-9ab2ed4fb93dbb55947c175c",
+    "s2-61bde688128449797b0bb939",
+    "s2-7f29551faf785958a75024e1",
+    "s2-ec77af8c325f7598a18c2148",
+    "s2-147d7e32ce8c7f06ff02ed3e",
+    "s2-a13a6d7eb3cec462e2c0f665",
+    "s2-a0ecc1410b7872b30d9fa334",
+    "s2-e0c823ba48b7e1387f3549a8",
+    "s2-440afb09cf5daaca1355fabe",
+    "s2-6f638e810c33236ac7f8827f",
+    "s2-ee760c6fe7e74cc681b4a256",
+    "s2-07ac934d6faacf290fd1ef4a",
+    "s2-e613a7c9a61ffe0d97758d5a",
+    "s2-9f1e5ce8340e8f96e2006814",
+    "s2-53d60ca409419e4620a8075d",
+    "s2-cfb6695d1a9d021d63f70ec2",
+    "s2-51057e8cad4b68a74b8c2eb3",
+    "s2-92320a40b9a0c4b3a576a886",
+    "s2-360e971fda22039098321d99",
+    "s2-fc192a48fb9ffcca251c93b9",
+    "s2-584ea6cfd2d636f5e3d56c3b",
+    "s2-0767bd69cf69abd2f27df296",
+    "s2-60cf514959a0cbd31604a153",
+    "s2-b52aca8d83b9406fabfa7767",
+    "s2-94aecf8992e3beec834e31e0",
+    "s2-94dde8433f471a44e07ff91d",
+    "s2-6e543eb1e25947c4d711a0cd",
+    "s2-54014bcd0770477c38493574",
+    "s2-f93a7a4ac34a7d36db453eac",
+    "s2-2f41506418790706d0ba1fdf",
+    "s2-d24056f2d74fa0f9bcfbb013",
+    "s2-f9751dac9274355777ca5609",
+    "s2-d911b0dd2efac29b416d607a",
+    "s2-ae35bd19e62c1baf9cc06173",
+    "s2-29fc93173477c123f7c7f34e",
+    "s2-0a3519be888d1b0748dcda86",
+    "s2-d5fc9e39dcef958fc4071fdf",
+    "s2-8e39397816967c84fb4a8933",
+    "s2-5ff3b2bc56e3100072750fb7",
+    "s2-5fe6c308f9981a637cff1e4b",
+    "s2-aec8c5dbc46756bae70f69d4",
+    "s2-7b9c9321eb405f917f5a1bc3",
+    "s2-b80aa0249d31570400a6c39a",
+    "s2-19889c903a36c168b50ec913",
+    "s2-1568107aa53fa1c5f313a93e",
+    "s2-e8917e637e77c44478867cf4",
+    "s2-1c0e9d60de943a3a68a9b6f5",
+    "s2-ef175856dfde92e6c5c2e9de",
+    "s2-76c5a15af51383ce76f84e58",
+    "s2-8430cb79aad1eda42a63b540",
+    "s2-79ade47954202dff7ccd76e8",
+    "s2-9d1839da79246225ebe8eb85",
+    "s2-f56c753f4a8f2020620ab1d2",
+    "s2-f7b745c3da8f6fd578edeb03",
+    "s2-a12fdda1401e4c0c5c001164",
+    "s2-237dcd90363e928eed43fd17",
+    "s2-7ba82c35ec590370f6ecaad9",
+    "s2-6000a22486427c5fd0243b7f",
+    "s2-cb6ac4496135052124316336",
+    "s2-dcfcab75013716e8952a02d9",
+    "s2-e31d9917ab20e9bad53bd997",
+    "s2-4340461b6067deec080fbe7a",
+    "s2-a926e9b644f369c19fbb45c9",
+    "s2-bc7504afb95f21f1c160c3c2",
+    "s2-89934efd75e634a47f30c5e9",
+    "s2-3515650a77cad61ffe061ed0",
+    "s2-e830d4ad82fac5931f2a2b76",
+    "s2-1b8e5283bd51b113f6bf1f63",
+    "s2-e647ea396da8bd4e8a0c388a",
+    "s2-5b9f3eb40643868c9d4adecf",
+    "s2-d7313cd592dd349db1866b79",
+    "s2-0822a7c47a798ed1ebbf8c45",
+    "s2-62866f7fa02817d154c82a67",
+    "s2-8cd30058ced43578e076bbaf",
+    "s2-63919b25c1aa10c7ca605d67",
+    "s2-5a7d84ab36c5cd10ef5fd0f7",
+    "s2-97ece5414169f236e76fc674",
+    "s2-7d45c698579755246d617c9a",
+    "s2-1d0d3c0981178a437a8db73a",
+    "s2-2faf809702e202237fc4fd28",
+    "s2-aefa9db04c34c43b6d98db8b",
+    "s2-795d45a057a852776b3a9293",
+    "s2-702bfd69605ffb37f450a5fd",
+    "s2-ce2cd8f765af61369721093b",
+    "s2-76c51a144c2b9f432bc48cab",
+    "s2-f2e6663ff7b0f1dcb8568e26",
+    "s2-e703883127460d697d0f924d",
+    "s2-6dd7937dcc88dff771edc0de",
+    "s2-9a5fce42bcb79c173536360f",
+    "s2-58f56e1ef65f24ea1f01649e",
+    "s2-d77be8eede855aca1025ef52",
+    "s2-f93c9567091babe466e8a5f9",
+    "s2-fa82392facbb8ff0e41e905a",
+    "s2-07558808f54715ee1ab3e044",
+    "s2-c1895247a440c582c903ff1c",
+    "s2-af4883727ec13c2c8f9e1251",
+    "s2-b0375fc0a06605c097e45013",
+    "s2-e600a194cf30c7073d445f27",
+    "s2-2d10f91146c8c5d1749e8187",
+    "s2-dcfaa22d374056224ef93bb4",
+    "s2-71ade0fc5ae38645e1c41636",
+    "s2-853d49aea41662532b685293",
+    "s2-7c0ba34c01ae716186e9977c",
+    "s2-9f28fd0777f0caa3abe421ab",
+    "s2-0a11d3285b985f1fb92e66b3",
+    "s2-cc8352fe8d6f60b093373cb8",
+    "s2-85c7dee999deb6b2721d4774",
+    "s2-78413108d6cd4f616b323394",
+    "s2-20c1c57516a4b3a7a6bf17e3",
+    "s2-3d9a5c2ded175cde13fd12e5",
+    "s2-fedde92f024efb77e9f8574d",
+    "s2-5931558e4d6e186e5d382f2d",
+    "s2-b2f23ca2ccf493f2c3543b94",
+    "s2-0a388168db44936ccffdb999",
+    "s2-84f88b83263eb951ceb9bc60",
+    "s2-9c72cd1e1996324cf7f08bc5",
+    "s2-06892c119f8e64efcfd74108",
+    "s2-c0dfbe8c5dab5a2792255bcf",
+    "s2-64f647e41353da23e5aa741f",
+    "s2-825bfc2a746c5c158a22fa67"
+  ]
+}

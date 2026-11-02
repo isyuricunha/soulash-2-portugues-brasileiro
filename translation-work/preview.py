@@ -16,7 +16,7 @@ def build_preview(root):
     m, rows, _, _ = p.load(deep=True)
     files = {name: p.path('EN/'+native.SOURCE+'/'+name).read_bytes() for name in m['sources']}
     outputs = native.rebuild(files, rows, m['version'], require_review=False)
-    legacy = p.path('ptbr')
+    legacy = p.path('translation-work/distribution')
     metadata = json.loads((legacy/'mod.json').read_bytes())
     metadata.update(version='1.0.0-preview.1', game_required=m['version'],
                     description='Prévia experimental da tradução PT-BR. Revisão linguística pendente; sem teste dentro do jogo.')

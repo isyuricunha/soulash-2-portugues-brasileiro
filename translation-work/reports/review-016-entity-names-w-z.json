@@ -1,0 +1,70 @@
+{
+  "corrections": [
+    {
+      "EN": "Workbench",
+      "after": "Bancada de Trabalho",
+      "before": "Bancada de Trabalho",
+      "gender_after": "feminine",
+      "gender_before": "masculine",
+      "id": "s2-24a5a96950e23a6b98b13eeb"
+    },
+    {
+      "EN": "Wormling's Sting",
+      "after": "Ferrão de Filhote de Verme",
+      "before": "Ferrão de Verme-jovem",
+      "gender_after": "masculine",
+      "gender_before": "masculine",
+      "id": "s2-eeb2756dbcbb6c1d29a2867a"
+    },
+    {
+      "EN": "Wyvern Corpse",
+      "after": "Cadáver de Vívera",
+      "before": "Cadáver de Vívera",
+      "gender_after": "masculine",
+      "gender_before": "feminine",
+      "id": "s2-555eb3990a9fde90329fbc4d"
+    },
+    {
+      "EN": "Wyvern Leather",
+      "after": "Couro de Vívera",
+      "before": "Couro de Víbora",
+      "gender_after": "masculine",
+      "gender_before": "masculine",
+      "id": "s2-1b1496968ec1b6d3e410387b"
+    }
+  ],
+  "reviewed_ids": [
+    "s2-84514f753b598bc88aadd96e",
+    "s2-24a5a96950e23a6b98b13eeb",
+    "s2-1a9f12320cebbcba1b3a30f4",
+    "s2-6a154df031a16169ced264a1",
+    "s2-eeb2756dbcbb6c1d29a2867a",
+    "s2-4331f18b2805de031502a50c",
+    "s2-b0223c47394797711b4a8979",
+    "s2-b89641826f413b2e8f85174f",
+    "s2-ae97bf2c29b51460e8949bf8",
+    "s2-0ff85a8b70d85f4af64d84e7",
+    "s2-f8b6d42bc666384fe6dcbe16",
+    "s2-7ad92effcddb4cca5d9ff9ed",
+    "s2-cd3d8c9d7a1e4473e64e5c5c",
+    "s2-555eb3990a9fde90329fbc4d",
+    "s2-1b1496968ec1b6d3e410387b",
+    "s2-f9725a49047ecbde6082e2bd",
+    "s2-bb794faf45773c5113b003e2",
+    "s2-170def110e083c6bfba780da",
+    "s2-a33381b9de96ba7ae013d7dc",
+    "s2-05c940c28996a4fadb64c99e",
+    "s2-f2e10517daddb32b380b6230",
+    "s2-e18ef6dd07f5d5b959f56f91",
+    "s2-656907d6aa17aa4a877e5eae",
+    "s2-b74cff436779aac9e889d253",
+    "s2-ce300aaee25975d1c8ded6cd",
+    "s2-4425b4549a365063364b4dcb",
+    "s2-70a675d292b8cb821f950eee",
+    "s2-2b06f7bb563bfe39efff3e85",
+    "s2-8a57dc994b3ceebd9fa92fdb",
+    "s2-4a81b680b7d6694bafda7af0",
+    "s2-fe01f0464f58de9b1a2631de",
+    "s2-ba617a36112fe485f6ebd756"
+  ]
+}
