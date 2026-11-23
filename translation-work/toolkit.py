@@ -271,6 +271,10 @@ class Project:
             raise Invalid('Workshop identity mismatch')
         return {DEPLOY+'/'+name:self.path(WORK+'distribution/'+name).read_bytes() for name in names}
 
+    @staticmethod
+    def distribution_hash(support):
+        return sha(json_bytes({k:sha(canonical(v) if k.endswith('.json') else v) for k,v in support.items()}))
+
     def build(self):
         self.integrity();m,rows,_,expected=self.load(deep=True)
         for r in rows:native.validate_row(r,complete=True)
@@ -284,7 +288,7 @@ class Project:
         receipt={'schema':1,'complete':True,'completed':len(rows),'generation':m['generation'],
             'version':m['version'],'translation_hash':self.translation_hash(m),'manifest_hash':sha(canonical(self.path(MANIFEST).read_bytes())),
             'toolchain_hash':sha(canonical(self.path(WORK+'toolchain.json').read_bytes())),
-            'distribution_hash':sha(json_bytes({k:sha(v) for k,v in support.items()})),
+            'distribution_hash':self.distribution_hash(support),
             'outputs':{k:sha(v) for k,v in outputs.items()}}
         changes={'PTBR/'+k:v for k,v in outputs.items()}
         if self.path('PTBR').exists():
@@ -310,7 +314,7 @@ class Project:
         for name,h in m['sources'].items():
             if digest(self.path('EN/'+SOURCE+'/'+name))!=h:raise Invalid('SOURCE_CHECKSUM_MISMATCH: '+name)
         support=self.distribution_outputs()
-        if receipt.get('distribution_hash')!=sha(json_bytes({k:sha(v) for k,v in support.items()})):
+        if receipt.get('distribution_hash')!=self.distribution_hash(support):
             raise Invalid('STALE_BUILD: distribution support changed')
         inventory={DEPLOY+'/translations/ptbr/'+name for name in m['sources']}|{DEPLOY+'/mod.json',DEPLOY+'/language_metadata.json'}|set(support)
         if set(receipt['outputs'])!=inventory:raise Invalid('Invalid build inventory')

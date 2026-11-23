@@ -196,6 +196,7 @@ def publish(project, client, commit):
     legacy_path = project.path(WORK+"legacy-releases.json")
     legacy = read_json(legacy_path)["tags"] if legacy_path.exists() else {}
     managed = []
+    preserved_v1 = []
     for candidate in stable:
         tag = candidate["tag_name"]
         if tag in legacy:
@@ -203,6 +204,9 @@ def publish(project, client, commit):
                 raise Invalid("LEGACY_TAG_CHANGED: preserved historical tag differs from migration receipt")
             if git(project.root, "merge-base", "--is-ancestor", legacy[tag], commit, allow_failure=True).returncode:
                 raise Invalid("NON_ANCESTOR_TAG: legacy release must belong to preserved history")
+            match = SEMVER.fullmatch(tag)
+            if match and int(match.group(1)) >= 1:
+                preserved_v1.append(tuple(map(int, match.groups())))
         else:
             managed.append(candidate)
     stable = managed
@@ -231,7 +235,11 @@ def publish(project, client, commit):
         a, b, c = map(int, SEMVER.fullmatch(tag).groups())
         version = f"v{a}.{b}.{c+1}"
     else:
-        version = "v1.0.0"
+        if preserved_v1:
+            a, b, c = max(preserved_v1)
+            version = f"v{a}.{b}.{c+1}"
+        else:
+            version = "v1.0.0"
     existing = client.tag_sha(version)
     if existing and existing != commit:
         raise Invalid("TAG_CONFLICT: existing version points to another commit; never retag")
@@ -246,7 +254,7 @@ def publish(project, client, commit):
             raise Invalid("Interrupted release does not belong to this build/commit")
     else:
         release = client.request("POST", "/releases", {"tag_name": version, "target_commitish": commit,
-                    "name": "Soulash 2 â€” PT-BR "+version, "body": body, "draft": True, "prerelease": False})
+                    "name": "Soulash 2 — PT-BR "+version, "body": body, "draft": True, "prerelease": False})
     archive = project.package()
     archive_bytes = Path(archive["zip"]).read_bytes()
     payloads = {"PTBR.zip": archive_bytes}

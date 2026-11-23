@@ -14,7 +14,7 @@ class Documents(unittest.TestCase):
 
  def test_release_text_encoding(self):
   root=Path(__file__).resolve().parents[1];text=(root/'release.py').read_text(encoding='utf-8')
-  self.assertNotIn('\u00c3',text);self.assertIn('instala\u00e7\u00e3o',text);self.assertIn('Di\u00e1logos',text)
+  self.assertNotIn('\u00c3',text);self.assertNotIn('\u00e2\u20ac',text);self.assertIn('instala\u00e7\u00e3o',text);self.assertIn('Di\u00e1logos',text)
 
  def test_cli_explicit_utf8(self):
   root=Path(__file__).resolve().parents[1];text=(root/'toolkit.py').read_text(encoding='utf-8')

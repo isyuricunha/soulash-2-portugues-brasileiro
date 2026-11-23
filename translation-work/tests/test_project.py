@@ -36,6 +36,9 @@ class ProjectFlow(unittest.TestCase):
   self.assertEqual(metadata['steam_publish_id'],3704275307)
   self.assertEqual(metadata['game_required'],'0.10.5')
   self.assertIn(native.DEPLOY+'/S2.png',receipt['outputs'])
+  # CRLF vs LF line endings in distribution/mod.json must verify identically across Windows and Linux checkouts.
+  (support/'mod.json').write_bytes((support/'mod.json').read_bytes().replace(b'\n',b'\r\n'))
+  self.p.verify_output()
   (support/'S2.png').write_bytes(b'changed')
   with self.assertRaises(native.Invalid):self.p.verify_output()
 

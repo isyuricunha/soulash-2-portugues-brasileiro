@@ -14,7 +14,7 @@
     },
     "translation-work/legacy-releases.json": {
       "mode": "git-lf",
-      "sha256": "bb72906e0d073997386efebc4f020782dbf0d9eb641c9ad2eb8adeb6f94d70e2"
+      "sha256": "e1141f25e06b30c7bd4192bb4bf5e57efcf6af0048488a23826b1a8e916d0d37"
     },
     "translation-work/models.py": {
       "mode": "git-lf",
@@ -34,7 +34,7 @@
     },
     "translation-work/release.py": {
       "mode": "git-lf",
-      "sha256": "dc1f9c2f18f347ac520378ae6818577150ccb6b054858e310c36870afebc14df"
+      "sha256": "d140e88267068d660ddfcc2c515952ed6a3c95e043bb3dea5f9638af3ebe4204"
     },
     "translation-work/source-profiles.json": {
       "mode": "git-lf",
@@ -46,7 +46,7 @@
     },
     "translation-work/toolkit.py": {
       "mode": "git-lf",
-      "sha256": "1d76b6a7ec2884daac85b2a9a8ee6011341141d9699225dab70a7c08e2287c89"
+      "sha256": "6ff99690ca24972f72a3e19bf62c2805f6243a6d4dc569ef6602f760852ef806"
     }
   }
 }

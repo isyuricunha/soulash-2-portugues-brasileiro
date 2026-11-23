@@ -79,7 +79,13 @@ class Publishing(unittest.TestCase):
  write=ProjectFlow.write
  apply_all=ProjectFlow.apply_all
  def setUp(self):
-  ProjectFlow.setUp(self);self.apply_all();self.p.build()
+  ProjectFlow.setUp(self)
+  from storage import json_bytes
+  legacy={'schema':1,'tags':{}}
+  durable(self.root/'translation-work/legacy-releases.json',json_bytes(legacy))
+  tool=self.root/'translation-work/toolchain.json';spec=json.loads(tool.read_text());spec['files']['translation-work/legacy-releases.json']['sha256']=sha(json_bytes(legacy));durable(tool,json_bytes(spec))
+  runtime=self.root/'translation-work/runtime-support.json';v=json.loads(runtime.read_text());v['toolchain_sha256']=sha(json_bytes(spec));durable(runtime,json_bytes(v))
+  self.apply_all();self.p.build()
   self.g('init','-q','-b','main');self.g('config','user.email','fixture@example.invalid');self.g('config','user.name','Fixture')
   durable(self.root/'.gitignore',b'translation-work/.state/\n__pycache__/\nfixture/\n')
   self.commit();self.server=GitHubMock(self.head());self.client=release.Client('test-token',transport=self.server.transport,sleeper=lambda _:None)
@@ -127,6 +133,18 @@ class Publishing(unittest.TestCase):
   old=self.head();self.p.build();self.commit();self.server.head=self.head()
   self.server.tags['v0.0.19']=old;self.server.releases.append({'id':99,'tag_name':'v0.0.19','draft':False,'prerelease':False,'assets':[]})
   self.assertEqual(self.publish()['tag'],'v1.0.0')
+
+ def test_preserved_v1_legacy_release_advances_patch(self):
+  import json
+  from storage import json_bytes
+  legacy={'schema':1,'tags':{'v1.0.0':self.head()}}
+  durable(self.root/'translation-work/legacy-releases.json',json_bytes(legacy))
+  tool=self.root/'translation-work/toolchain.json';spec=json.loads(tool.read_text());spec['files']['translation-work/legacy-releases.json']['sha256']=sha(json_bytes(legacy));durable(tool,json_bytes(spec))
+  runtime=self.root/'translation-work/runtime-support.json';v=json.loads(runtime.read_text());v['toolchain_sha256']=sha(json_bytes(spec));durable(runtime,json_bytes(v))
+  old=self.head();self.p.build();self.commit();self.server.head=self.head()
+  self.server.tags['v1.0.0']=old;self.server.releases.append({'id':100,'tag_name':'v1.0.0','draft':False,'prerelease':False,'assets':[]})
+  self.assertEqual(self.publish()['tag'],'v1.0.1')
+  self.assertIn('Soulash 2 \u2014 PT-BR v1.0.1',self.server.releases[-1]['name'])
 
  def test_nonancestor_managed_release(self):
   self.publish();self.server.tags['v1.0.0']='1'*40

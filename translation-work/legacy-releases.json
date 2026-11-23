@@ -1,5 +1,5 @@
 {
-  "policy": "Explicit pre-toolkit tags preserved; new toolkit starts at v1.0.0",
+  "policy": "Explicit pre-toolkit and manual tags preserved; toolkit starts at v1.0.0 or next patch after preserved v1+ tags",
   "schema": 1,
   "tags": {
     "v0.0.1": "69ae639736fa40c831c9c1e4fe7c3f262baeb972",
@@ -20,6 +20,7 @@
     "v0.0.6": "d85bd5b8e2c3d5760d90cbd6e3b2fe35a71a3265",
     "v0.0.7": "6a618aef6c7fdaf3cec6d7d8607f2fd3afa9446e",
     "v0.0.8": "55edd7d0abfd8a399da85c6ebfe50a1463c9d99b",
-    "v0.0.9": "d244b5640c16b59a769aaaf9646f21efa03883d1"
+    "v0.0.9": "d244b5640c16b59a769aaaf9646f21efa03883d1",
+    "v1.0.0": "341c8a32c69b9a1662c8bc2cd5945c5fcc18a01a"
   }
 }
