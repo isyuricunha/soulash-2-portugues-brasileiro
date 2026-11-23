@@ -465,6 +465,21 @@
 			"time_statistic_multiplier": 0.1,
 			"time_statistic_scale": 2,
 			"time_weight_scale": 1
+		},
+		{
+			"animation": "",
+			"askey": -1,
+			"description": "Catch the fireflies in an empty jar. The jar must be in your backpack.",
+			"force_single_item": true,
+			"id": "core_2_catch_fireflies",
+			"image": 99,
+			"key": "",
+			"name": "Catch",
+			"required_tool": -1,
+			"sound": "data/mods/core_2/assets/sfx/loot_chest.ogg",
+			"time_statistic_multiplier": 0.1,
+			"time_statistic_scale": 2,
+			"time_weight_scale": 1
 		}
 	],
 	"control_actions": [

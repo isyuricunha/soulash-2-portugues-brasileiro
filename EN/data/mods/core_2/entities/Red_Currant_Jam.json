@@ -18,12 +18,16 @@
 		"magic_slots": 0,
 		"resources": [
 			{
-				"amount": 2,
+				"amount": 1,
 				"id": "core_2_Red_Currant"
 			},
 			{
 				"amount": 1,
 				"id": "820"
+			},
+			{
+				"amount": 1,
+				"id": "core_2_Empty_Jar"
 			}
 		],
 		"time": 30,
@@ -62,6 +66,6 @@
 		54
 	],
 	"name": "Red Currant Jam",
-	"value": 1000,
+	"value": 1300,
 	"weight": 0.10000000149011612
 }

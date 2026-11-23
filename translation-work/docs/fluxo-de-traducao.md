@@ -7,7 +7,7 @@
 5. Execute check. Quando tudo estiver traduzido e revisado, execute build, verify-output e package. O ZIP gerado em translation-work/.state/PTBR.zip contém data/mods/ptbr na raiz.
 6. Após revisão das alterações e push pelo mantenedor, o workflow publica automaticamente apenas o pacote completo. Commits apenas de lotes não publicam.
 
-Atualizações: update-sources tenta Steam ou caminho local previamente verificado; use --game-root para caminho explícito. --dry-run não grava. sync lê EN já atualizado ou --source-root. Fontes alteradas mantêm PTBR antigo no histórico e ficam pendentes. Arquivos ausentes bloqueiam a operação para impedir importação parcial.
+Atualizações: update-sources tenta Steam ou caminho local previamente verificado; use --game-root para caminho explícito. --dry-run não grava. sync lê EN já atualizado ou --source-root. Fontes alteradas mantêm PTBR antigo no histórico e ficam pendentes. Arquivos ausentes bloqueiam a operação por padrão para impedir importação parcial; quando uma nova versão oficial remove arquivos obsoletos após revisão, use --allow-removed-files para removê-los atomicamente de EN e preservar as unidades no histórico.
 
 Recuperação: recover restaura transações interrompidas; --break-lock só funciona se o processo anterior terminou. rollback reverte a última operação compatível. gc --dry-run mostra snapshots elegíveis; gc elimina somente transações concluídas elegíveis. Retenção padrão: 10 snapshots e 512 MiB, preservando recuperação pendente. Configure retention em config.json para count, budget e headroom. Git preserva histórico durável somente após commits feitos pelo mantenedor.
 

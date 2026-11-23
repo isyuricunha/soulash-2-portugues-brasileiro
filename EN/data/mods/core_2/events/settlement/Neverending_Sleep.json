@@ -13,7 +13,7 @@
         "31"
     ],
     "trigger": {
-        "base_probability": 0.01,
+        "base_probability": 0.005,
         "conditions": [
             {
                 "type": "min_unemployed",
@@ -24,8 +24,8 @@
     "duration": {
         "type": "temporary",
         "days": [
-            60,
-            90
+            20,
+            40
         ]
     },
     "locations": [

@@ -5,7 +5,8 @@
 		"light_source",
 		"minimap_pixel",
 		"name",
-		"position_2d"
+		"position_2d",
+		"producer"
 	],
 	"corpse": [],
 	"description": "Luminous insects dance through the darkness, creating a mesmerizing spectacle of twinkling lights.",
@@ -98,5 +99,28 @@
 		221,
 		211
 	],
-	"name": "Fireflies"
+	"name": "Fireflies",
+	"producer": {
+		"products": {
+			"core_2_catch_fireflies": [
+				{
+					"amount": [
+						1,
+						1
+					],
+					"id": "2974",
+					"percent_chance": 100
+				}
+			]
+		},
+		"required_items": {
+			"core_2_catch_fireflies": [
+				{
+					"amount": 1,
+					"id": "core_2_Empty_Jar"
+				}
+			]
+		},
+		"time": 10
+	}
 }

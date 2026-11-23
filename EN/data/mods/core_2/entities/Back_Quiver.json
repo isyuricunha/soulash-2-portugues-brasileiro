@@ -29,7 +29,7 @@
 			14
 		]
 	},
-	"description": "A sizable quiver you can mount on your back. Works for throwing weapons only.",
+	"description": "A sizable quiver you can mount on your back. Equipped in the ammunition slot, increases overall carry capacity.",
 	"extra_weight": 10.0,
 	"glyph": {
 		"frames": [

@@ -11702,6 +11702,26 @@
             ],
             "format": "Settlement Stash",
             "id": 1157
+        },
+        {
+            "color": [
+                83,
+                79,
+                93,
+                255
+            ],
+            "format": "You haven't learned about {} yet.",
+            "id": 1158
+        },
+        {
+            "color": [
+                135,
+                135,
+                135,
+                255
+            ],
+            "format": "Away",
+            "id": 1159
         }
     ],
     "statistics": [

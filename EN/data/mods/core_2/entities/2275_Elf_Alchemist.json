@@ -91,7 +91,6 @@
 		"threesixty": false
 	},
 	"skills": {
-		"max_skill": 0,
 		"milestones": [
 			"core_2_alchemic_fire",
 			"core_2_all_seeing",
@@ -112,7 +111,8 @@
 			"core_2_power_elixir",
 			"core_2_strong_drink",
 			"core_2_thorns_tonic",
-			"core_2_transmutation_oil"
+			"core_2_transmutation_oil",
+			"core_2_emty_jar"
 		],
 		"skills": [
 			"core_2_alchemy"

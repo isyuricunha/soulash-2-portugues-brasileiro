@@ -21027,7 +21027,7 @@
             "answer_positive": "FreshHarvest! FreshFaces! ThisIsGoingToBeAGoodDay.",
             "entities": [
                 "core_2_Gnome_Farmer",
-                "core_2_Gnome__Miller",
+                "core_2_Gnome_Miller",
                 "core_2_Gnome_Winemaker"
             ],
             "id": "core_2_begin_582",
@@ -21977,7 +21977,7 @@
                 "core_2_Sandman"
             ],
             "id": "core_2_neverending_sleep_greet",
-            "event": "core_2_neverenging_sleep",
+            "event": "core_2_neverending_sleep",
             "options": [
                 "core_2_dream_domain_reveal",
                 "core_2_neverending_sleep_reward",
@@ -22104,6 +22104,206 @@
             "text": "",
             "time": [],
             "type": "begin_conversation"
+        },
+        {
+            "answer_negative": "Sorry, I'm busy.",
+            "answer_positive": "Want to see if you're truly a great warrior? No problem! Let's start with some simple things - bring me a corpse of a Unicorn. You can find them in the forest.",
+            "entities": [
+                "core_2_Rasimi_Master_Warrior"
+            ],
+            "id": "core_2_warrior_guild_rasimi_event",
+            "options": [
+                "core_2_deliver_unicorn_corpse_rasimi",
+                "core_2_train_107",
+                "core_2_exit_1"
+            ],
+            "text": "",
+            "type": "begin_conversation"
+        },
+        {
+            "answer_negative": "If you don't have what I need, don't waste my time.",
+            "answer_positive": "Did you manage to defeat the beast?",
+            "id": "core_2_deliver_unicorn_corpse_rasimi",
+            "options": [
+                "core_2_back_1"
+            ],
+            "text": "Deliver Unicorn Corpse.",
+            "type": "world_event"
+        },
+        {
+            "answer_negative": "Sorry, I'mBusy.",
+            "answer_positive": "WantToSeeIfYou'reTrulyAGreatWarrior? NoProblem! Let'sStartWithSomeSimpleThings - BringMeACorpseOfAUnicorn. YouCanFindThemInTheForest.",
+            "entities": [
+                "core_2_Gnome_Master_Warrior"
+            ],
+            "id": "core_2_warrior_guild_gnome_event",
+            "options": [
+                "core_2_deliver_unicorn_corpse_gnome",
+                "core_2_train_273",
+                "core_2_exit_1"
+            ],
+            "text": "",
+            "type": "begin_conversation"
+        },
+        {
+            "answer_negative": "IfYouDon'tHaveWhatINeed, Don'tWasteMyTime.",
+            "answer_positive": "DidYouManageToDefeatTheBeast?",
+            "id": "core_2_deliver_unicorn_corpse_gnome",
+            "options": [
+                "core_2_back_1"
+            ],
+            "text": "Deliver Unicorn Corpse.",
+            "type": "world_event"
+        },
+        {
+            "answer_negative": "Sorry, I'mBusy.",
+            "answer_positive": "ReadyForTheNextChallenge? HereWeGo! It'sABitMoreDifficultThisTime - SlayAMinotaurAndBringMeTheirCorpse. YouCanFindThemInTheMountains.",
+            "entities": [
+                "core_2_Gnome_Master_Warrior"
+            ],
+            "id": "core_2_next_challenge_gnome_event",
+            "options": [
+                "core_2_deliver_minotaur_corpse_gnome",
+                "core_2_train_273",
+                "core_2_exit_1"
+            ],
+            "text": "",
+            "type": "begin_conversation"
+        },
+        {
+            "answer_negative": "IfYouDon'tHaveWhatINeed, Don'tWasteMyTime.",
+            "answer_positive": "DidYouManageToDefeatTheBeast?",
+            "id": "core_2_deliver_minotaur_corpse_gnome",
+            "options": [
+                "core_2_back_1"
+            ],
+            "text": "Deliver Minotaur Corpse.",
+            "type": "world_event"
+        },
+        {
+            "answer_negative": "Sorry, I'm busy.",
+            "answer_positive": "Ready for the next challenge? Here we go! It's a bit more difficult this time - slay a minotaur and bring me their corpse. You can find them in the mountains.",
+            "entities": [
+                "core_2_Rasimi_Master_Warrior"
+            ],
+            "id": "core_2_next_challenge_rasimi_event",
+            "options": [
+                "core_2_deliver_minotaur_corpse_rasimi",
+                "core_2_train_107",
+                "core_2_exit_1"
+            ],
+            "text": "",
+            "type": "begin_conversation"
+        },
+        {
+            "answer_negative": "If you don't have what I need, don't waste my time.",
+            "answer_positive": "Did you manage to defeat the beast?",
+            "id": "core_2_deliver_minotaur_corpse_rasimi",
+            "options": [
+                "core_2_back_1"
+            ],
+            "text": "Deliver Minotaur Corpse.",
+            "type": "world_event"
+        },
+        {
+            "answer_negative": "Sorry, I'm busy.",
+            "answer_positive": "Ready for another challenge? It's a even more difficult this time - slay a nymph and bring me her corpse. You can find her in the forest.",
+            "entities": [
+                "core_2_Rasimi_Master_Warrior"
+            ],
+            "id": "core_2_yet_another_challenge_rasimi_event",
+            "options": [
+                "core_2_deliver_nymph_corpse_rasimi",
+                "core_2_train_107",
+                "core_2_exit_1"
+            ],
+            "text": "",
+            "type": "begin_conversation"
+        },
+        {
+            "answer_negative": "If you don't have what I need, don't waste my time.",
+            "answer_positive": "Did you manage to defeat the beast?",
+            "id": "core_2_deliver_nymph_corpse_rasimi",
+            "options": [
+                "core_2_back_1"
+            ],
+            "text": "Deliver Nymph Corpse.",
+            "type": "world_event"
+        },
+        {
+            "answer_negative": "Sorry, I'mBusy.",
+            "answer_positive": "ReadyForAnotherChallenge? It'sEvenMoreDifficultThisTime - SlayANymphAndBringMeHerCorpse. YouCanFindHerInTheForest.",
+            "entities": [
+                "core_2_Gnome_Master_Warrior"
+            ],
+            "id": "core_2_yet_another_challenge_gnome_event",
+            "options": [
+                "core_2_deliver_nymph_corpse_gnome",
+                "core_2_train_273",
+                "core_2_exit_1"
+            ],
+            "text": "",
+            "type": "begin_conversation"
+        },
+        {
+            "answer_negative": "IfYouDon'tHaveWhatINeed, Don'tWasteMyTime.",
+            "answer_positive": "DidYouManageToDefeatTheBeast?",
+            "id": "core_2_deliver_nymph_corpse_gnome",
+            "options": [
+                "core_2_back_1"
+            ],
+            "text": "Deliver Nymph Corpse.",
+            "type": "world_event"
+        },
+         {
+            "answer_negative": "Sorry, I'mBusy.",
+            "answer_positive": "ReadyForTheFinalChallenge? TheMostDifficultOfAll - SlayAManticoreAndBringMeTheirCorpse. YouCanFindThemInTheBorealForest.",
+            "entities": [
+                "core_2_Gnome_Master_Warrior"
+            ],
+            "id": "core_2_final_challenge_gnome_event",
+            "options": [
+                "core_2_deliver_manticore_corpse_gnome",
+                "core_2_train_273",
+                "core_2_exit_1"
+            ],
+            "text": "",
+            "type": "begin_conversation"
+        },
+        {
+            "answer_negative": "IfYouDon'tHaveWhatINeed, Don'tWasteMyTime.",
+            "answer_positive": "DidYouManageToDefeatTheBeast?",
+            "id": "core_2_deliver_manticore_corpse_gnome",
+            "options": [
+                "core_2_back_1"
+            ],
+            "text": "Deliver Manticore Corpse.",
+            "type": "world_event"
+        },
+         {
+            "answer_negative": "Sorry, I'm busy.",
+            "answer_positive": "Ready for the final challenge? The most difficult of all - slay a manticore and bring me their corpse. You can find them in the boreal forest.",
+            "entities": [
+                "core_2_Rasimi_Master_Warrior"
+            ],
+            "id": "core_2_final_challenge_rasimi_event",
+            "options": [
+                "core_2_deliver_manticore_corpse_rasimi",
+                "core_2_train_107",
+                "core_2_exit_1"
+            ],
+            "text": "",
+            "type": "begin_conversation"
+        },
+        {
+            "answer_negative": "If you don't have what I need, don't waste my time.",
+            "answer_positive": "Did you manage to defeat the beast?",
+            "id": "core_2_deliver_manticore_corpse_rasimi",
+            "options": [
+                "core_2_back_1"
+            ],
+            "text": "Deliver Manticore Corpse.",
+            "type": "world_event"
         }
         
     ],

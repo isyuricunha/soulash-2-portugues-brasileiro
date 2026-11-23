@@ -91,7 +91,6 @@
 		"threesixty": false
 	},
 	"skills": {
-		"max_skill": 0,
 		"milestones": [
 			"core_2_exploding_bomb",
 			"core_2_emty_vial",
@@ -102,7 +101,8 @@
 			"core_2_improved_exploding_bomb",
 			"core_2_rainbow_bomb",
 			"core_2_shock_bomb",
-			"core_2_shrapnel_bomb"
+			"core_2_shrapnel_bomb",
+			"core_2_emty_jar"
 		],
 		"skills": [
 			"core_2_alchemy"

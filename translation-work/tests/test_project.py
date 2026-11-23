@@ -66,6 +66,22 @@ class ProjectFlow(unittest.TestCase):
  def test_incomplete_source_refused(self):
   (self.src/'messages.json').unlink()
   with self.assertRaises(native.Invalid):self.p.sync(self.src,'0.10.5')
+ def test_reviewed_removed_source_allowed_and_reconstructible(self):
+  (self.src/'skills.json').write_bytes(native.encoded({'name':'Extra skill'}))
+  self.p.sync(self.src,'0.10.5');self.apply_all()
+  old,prior,_,_=self.p.load()
+  (self.src/'skills.json').unlink()
+  with self.assertRaises(native.Invalid):self.p.sync(self.src,'0.10.6')
+  report=self.p.sync(self.src,'0.10.6',allow_removed=True)
+  self.assertEqual(report['resources']['removed'],1)
+  self.assertEqual(report['counts']['removed'],1)
+  self.assertFalse((self.root/'EN'/native.SOURCE/'skills.json').exists())
+  _,current,_,_=self.p.load(deep=True)
+  history=json.loads((self.root/WORK/'history'/(old['generation']+'.json')).read_text(encoding='utf-8'))
+  restored={r['id']:r for r in current if r['id'] not in history['added_ids']}
+  for change in history['changed_translations']:restored[change['previous']['id']]=change['previous']
+  self.assertEqual(restored,{r['id']:r for r in prior})
+  self.p.build();self.p.verify_output()
  def test_forged_complete_flag(self):
   self.apply_all();self.p.build();m,rows,_,_=self.p.load()
   batch=self.root/WORK/'translations'/m['batches'][0]

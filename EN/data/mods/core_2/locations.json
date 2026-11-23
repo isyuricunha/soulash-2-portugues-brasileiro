@@ -6545,7 +6545,7 @@
 				"forest"
 			],
 			"difficulty": 0,
-			"id": "core_2_raspberries",
+			"id": "core_2_red_currant",
 			"image": -1,
 			"matches_resource": "core_2_Red_Currant",
 			"name": "Red Currant",
@@ -44818,7 +44818,8 @@
 								"Sunken_Ruins_6",
 								"Sunken_Ruins_7",
 								"Sunken_Ruins_8",
-								"Sunken_Ruins_9"
+								"Sunken_Ruins_9",
+								"Sunken_Ruins_10"
 							],
 							"mode": "one_of",
 							"placement": "carve"

@@ -1,0 +1,94 @@
+{
+    "id": "core_2_final_challenge_gnome",
+    "name": "Final Challenge",
+    "category": "settlement",
+    "flavor": "Master Warrior has a final challenge for a brave adventurer.",
+    "icon": 38,
+    "small_icon": 38,
+    "rarity": "uncommon",
+    "restrict_races": [
+        "24"
+    ],
+    "trigger": {
+        "base_probability": 0.00,
+        "conditions": [
+            {
+                "type": "settlement_population_min",
+                "value": 30
+            },
+            {
+                "type": "settlement_tier_min",
+                "value": 1
+            },
+            {
+                "type": "min_unemployed",
+                "value": 1
+            }
+        ]
+    },
+    "duration": {
+        "type": "temporary",
+        "days": [
+            30,
+            45
+        ]
+    },
+    "buildings": [
+        {
+            "building_id": "593",
+            "placement": "map_edge",
+            "lair_only": true
+        }
+    ],
+    "effects": [
+        {
+            "type": "spawn_group",
+            "amount": [
+                1,
+                1
+            ],
+            "group_type": "settlement",
+            "entity": "core_2_Gnome_Master_Warrior",
+            "border_color": [
+                170,
+                128,
+                192
+            ]
+        }
+    ],
+    "extra_dialogues": [],
+    "interactions": [
+        {
+            "type": "conversation",
+            "id": "core_2_deliver_manticore_corpse_gnome",
+            "translation_id": 0,
+            "required_ingredients": [
+                {
+                    "id": "2993",
+                    "amount": 1
+                }
+            ],
+            "entities": [
+                "core_2_Gnome_Master_Warrior"
+            ],
+            "label": "Deliver requested items.",
+            "reward": {
+                "gold": 1500,
+                "items": [
+                    {
+                        "id": "2987",
+                        "amount": 1
+                    }
+                ],
+                "remove_event": true
+            },
+            "history_event": "::name has delivered required goods to a local Master Warrior.",
+            "announcement": "You have delivered required goods to a Master Warrior in ::settlement!"
+        }
+    ],
+    "history_events": {
+        "begin": "A Master Warrior has a final challenge for a brave one in ::settlement.",
+        "success": "A Master Warrior found someone to take up the final challenge and achive glory.",
+        "failure": "A Master Warrior will have to take up the final challenge themself."
+    }
+}

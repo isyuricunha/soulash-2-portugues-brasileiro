@@ -29,7 +29,7 @@
 			14
 		]
 	},
-	"description": "A quiver fixed to your side, giving some protection. Works for throwing weapons only.",
+	"description": "A quiver fixed to your side, giving some protection. Equipped in the ammunition slot, increases overall carry capacity.",
 	"extra_weight": 5.0,
 	"glyph": {
 		"frames": [

@@ -5,6 +5,10 @@ class CLI(unittest.TestCase):
   root=Path(__file__).resolve().parents[2]
   result=subprocess.run([sys.executable,str(root/'translation-work/toolkit.py'),'build','--dry-run'],capture_output=True)
   self.assertNotEqual(result.returncode,0);self.assertIn(b'--dry-run',result.stderr)
+ def test_unsupported_allow_removed_refused(self):
+  root=Path(__file__).resolve().parents[2]
+  result=subprocess.run([sys.executable,str(root/'translation-work/toolkit.py'),'build','--allow-removed-files'],capture_output=True)
+  self.assertNotEqual(result.returncode,0);self.assertIn(b'--allow-removed-files',result.stderr)
  def test_help_outside_repository(self):
   import tempfile
   root=Path(__file__).resolve().parents[2]

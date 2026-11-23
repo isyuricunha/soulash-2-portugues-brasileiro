@@ -95,14 +95,14 @@ class Project:
                 'review_pending':len(rows)-reviewed,'batches':len(m['batches']),'PTBR':state,
                 'next':{'id':pending['id'],'batch':members[pending['id']]} if pending else None,'storage':storage}
 
-    def sync(self,source,version=None,dry=False,initial=False,seeds=None,provenance=None):
+    def sync(self,source,version=None,dry=False,initial=False,seeds=None,provenance=None,allow_removed=False):
         self.integrity(); files,candidate=native.extract(source)
-        previous=None;oldrows=[];members={};expected={}
+        previous=None;oldrows=[];members={};expected={};missing=[]
         if self.path(MANIFEST).exists():
             if initial:raise Invalid('EXISTS: use sync, not extract')
             previous,oldrows,members,expected=self.load()
-            missing=set(previous['sources'])-set(files)
-            if missing:raise Invalid('INCOMPLETE_SOURCE: removed files require adapter review: '+str(sorted(missing)[:10]))
+            missing=sorted(set(previous['sources'])-set(files))
+            if missing and not allow_removed:raise Invalid('INCOMPLETE_SOURCE: removed files require adapter review: '+str(missing[:10]))
         version=version or (previous['version'] if previous else None)
         if not version or not re.fullmatch(r'\d+\.\d+\.\d+(?:\.\d+)*',version):raise Invalid('Explicit verified game version required')
         hashes={k:sha(v) for k,v in files.items()}; generation=sha(json_bytes({'sources':hashes,'version':version,'adapter_revision':native.EXTRACTION_REVISION}))
@@ -112,7 +112,7 @@ class Project:
         report={'previous_generation':previous['generation'] if previous else None,'generation':generation,
                 'version':version,'counts':dict.fromkeys(['added','modified','removed','moved','unchanged','preserved_translations'],0),
                 'resources':{'added':sorted(set(files)-set(previous['sources'] if previous else [])),
-                    'modified':sorted(k for k in files if previous and k in previous['sources'] and hashes[k]!=previous['sources'][k]),'removed':[]},
+                    'modified':sorted(k for k in files if previous and k in previous['sources'] and hashes[k]!=previous['sources'][k]),'removed':missing},
                 'changes':[],'affected_batches':[],'validation':'passed','warnings':[]}
         history=[]
         for r in candidate:
@@ -144,12 +144,16 @@ class Project:
         report['pending']=sum(not r['PTBR'] for r in candidate)
         report['review_pending']=sum(not r['reviewed'] for r in candidate)
         report['affected_batches']=sorted({c['batch'] for c in report['changes']})
-        if previous and generation==previous['generation'] and not any(report['counts'][k] for k in ('added','modified','removed','moved')):
+        if previous and generation==previous['generation'] and not missing and not any(report['counts'][k] for k in ('added','modified','removed','moved')):
             return {'status':'unchanged','generation':generation,'preserved':report['counts']['preserved_translations']}
         manifest={'schema':1,'adapter_revision':native.EXTRACTION_REVISION,'deployment':DEPLOY,'source_root':SOURCE,'version':version,'generation':generation,
             'sources':hashes,'entries':len(candidate),'batch_size':500,'batches':list(batches),'catalog':candidate}
         if dry:return report
         changes={'EN/'+SOURCE+'/'+k:v for k,v in files.items()}
+        for k in missing:
+            rel='EN/'+SOURCE+'/'+k
+            expected[rel]=digest(self.path(rel))
+            changes[rel]=None
         changes.update({WORK+'translations/'+b:lines_bytes(rs) for b,rs in batches.items()})
         changes[MANIFEST]=json_bytes(manifest)
         # The immutable JSONL context remains current; archived cross-references
@@ -205,7 +209,7 @@ class Project:
         if len(valid)!=1:raise Invalid('No unique verified installation; use update-sources --game-root "/path/to/Soulash 2"')
         return next(iter(valid))
 
-    def update(self,game_root=None,dry=False,accept_new_version=False):
+    def update(self,game_root=None,dry=False,accept_new_version=False,allow_removed=False):
         self.integrity()
         game_root=game_root or self.discover_game()
         source,version=self.game_source(game_root)
@@ -228,7 +232,7 @@ class Project:
                 if tuple(map(int,version.split('.'))) <= tuple(map(int,previous['version'].split('.'))):
                     raise Invalid('VERSION_NOT_NEWER: refusing unverified downgrade or same-version replacement')
         provenance={'version':version,'original_files_attested':version not in profiles,'fingerprint':sha(json_bytes(candidate_hashes)),'verification':'explicit maintainer assertion' if version not in profiles else 'reviewed exact source inventory'}
-        result=self.sync(source,version,dry=dry,provenance=provenance)
+        result=self.sync(source,version,dry=dry,provenance=provenance,allow_removed=allow_removed)
         if not dry:durable(self.path(WORK+'.state/game-path.json'),json_bytes({'path':str(Path(game_root).resolve())}))
         return result
 
@@ -339,17 +343,18 @@ def main():
     parser.add_argument('command',choices=['extract','sync','update-sources','apply','check','status','resume','diff','build','verify-output','package','doctor','gc','recover','rollback','export-payload'])
     parser.add_argument('--game-root');parser.add_argument('--source-root');parser.add_argument('--version')
     parser.add_argument('--payload');parser.add_argument('--replace',action='store_true');parser.add_argument('--dry-run',action='store_true')
-    parser.add_argument('--accept-new-version',action='store_true',help='Explicitly attest new-version core files are original and unmodified; known-version tampering remains forbidden');parser.add_argument('--arm64',action='store_true');parser.add_argument('--break-lock',action='store_true')
+    parser.add_argument('--accept-new-version',action='store_true',help='Explicitly attest new-version core files are original and unmodified; known-version tampering remains forbidden');parser.add_argument('--allow-removed-files',action='store_true',help='Explicitly allow reviewed source-file removals during sync or update-sources');parser.add_argument('--arm64',action='store_true');parser.add_argument('--break-lock',action='store_true')
     args=parser.parse_args()
     if args.dry_run and args.command not in ('sync','extract','update-sources','gc'):
         parser.error('--dry-run is supported only by sync, extract, update-sources and gc')
     if args.accept_new_version and args.command!='update-sources':parser.error('--accept-new-version is only for update-sources')
+    if args.allow_removed_files and args.command not in ('sync','update-sources'):parser.error('--allow-removed-files is only for sync and update-sources')
     if args.command=='apply' and not args.payload:parser.error('apply requires --payload')
     p=Project(Path(__file__).resolve().parent.parent)
     def run():
         c=args.command
-        if c=='update-sources':return p.update(args.game_root,args.dry_run,args.accept_new_version)
-        if c in ('extract','sync'):return p.sync(Path(args.source_root) if args.source_root else p.path('EN/'+SOURCE),args.version,dry=args.dry_run,initial=c=='extract')
+        if c=='update-sources':return p.update(args.game_root,args.dry_run,args.accept_new_version,args.allow_removed_files)
+        if c in ('extract','sync'):return p.sync(Path(args.source_root) if args.source_root else p.path('EN/'+SOURCE),args.version,dry=args.dry_run,initial=c=='extract',allow_removed=args.allow_removed_files)
         if c=='apply':return p.apply(read_json(Path(args.payload)),args.replace)
         if c=='export-payload':
             m,rows,_,_=p.load()

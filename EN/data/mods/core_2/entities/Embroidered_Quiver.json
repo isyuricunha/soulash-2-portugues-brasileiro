@@ -29,7 +29,7 @@
 			14
 		]
 	},
-	"description": "A large quiver with beautiful embroidery. Works for throwing weapons only.",
+	"description": "A large quiver with beautiful embroidery. Equipped in the ammunition slot, increases overall carry capacity.",
 	"extra_weight": 20.0,
 	"glyph": {
 		"frames": [

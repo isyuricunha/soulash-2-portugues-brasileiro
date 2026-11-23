@@ -1,0 +1,100 @@
+{
+    "id": "core_2_warriors_guild_rasimi",
+    "name": "Warrior's Guild",
+    "category": "settlement",
+    "flavor": "The Warrior's Guild has decided to establish its headquarters in this city and is now looking for brave individuals ready for a challenge.",
+    "icon": 34,
+    "small_icon": 34,
+    "rarity": "uncommon",
+    "restrict_races": [
+        "10"
+    ],
+    "trigger": {
+        "base_probability": 0.004,
+        "conditions": [
+            {
+                "type": "settlement_population_min",
+                "value": 30
+            },
+            {
+                "type": "settlement_tier_min",
+                "value": 1
+            },
+            {
+                "type": "min_unemployed",
+                "value": 1
+            }
+        ]
+    },
+    "duration": {
+        "type": "temporary",
+        "days": [
+            30,
+            45
+        ]
+    },
+     "buildings": [
+        {
+            "building_id": "592",
+            "placement": "map_edge",
+            "lair_only": true
+        }
+    ],
+    "effects": [
+        {
+            "type": "spawn_group",
+            "amount": [
+                1,
+                1
+            ],
+            "group_type": "settlement",
+            "entity": "core_2_Rasimi_Master_Warrior",
+            "border_color": [
+                 170,
+                128,
+                192
+            ]
+        }
+    ],
+    "extra_dialogues": [],
+    "interactions": [
+        {
+            "type": "conversation",
+            "id": "core_2_deliver_unicorn_corpse_rasimi",
+            "translation_id": 0,
+            "required_ingredients": [
+                {
+                    "id": "320",
+                    "amount": 1
+                }
+                
+            ],
+            "entities": [
+                "core_2_Rasimi_Master_Warrior"
+            ],
+            "label": "Deliver requested items.",
+            "reward": {
+                "gold": 700,
+                "items": [
+                    {
+                        "id": "354",
+                        "amount": 1
+                    },
+                    {
+                        "id": "321",
+                        "amount": 1
+                    }
+                ],
+                "remove_event": true
+            },
+            "trigger_event": "core_2_next_challenge_rasimi",
+            "history_event": "::name has delivered required goods to a local Master Warrior.",
+            "announcement": "You have delivered required goods to a Master Warrior in ::settlement!"
+        }
+    ],
+    "history_events": {
+        "begin": "A new Master Warrior is looking for some ready to take on a challenge in ::settlement.",
+        "success": "A Master Warrior found someone to take up the challenge and achieve glory.",
+        "failure": "A Master Warrior will have to take up the challenge themself."
+    }
+}

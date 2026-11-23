@@ -17,7 +17,8 @@
 		"glyph",
 		"minimap_pixel",
 		"name",
-		"position_2d"
+		"position_2d",
+		"producer"
 	],
 	"description": "Twisted and sharp scraps of metal, almost unusable.",
 	"glyph": {
@@ -40,5 +41,20 @@
 		48,
 		17
 	],
-	"name": "Metal Scraps"
+	"name": "Metal Scraps",
+	"producer": {
+		"products": {
+			"core_2_deconstruct": [
+				{
+					"amount": [
+						0,
+						0
+					],
+					"id": "",
+					"percent_chance": 100
+				}
+			]
+		},
+		"time": 5
+	}
 }

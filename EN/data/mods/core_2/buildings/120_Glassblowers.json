@@ -35,6 +35,15 @@
 			"entities": [
 				{
 					"daily": 1,
+					"id": "core_2_Empty_Jar"
+				}
+			],
+			"takes": "craftable"
+		},
+		{
+			"entities": [
+				{
+					"daily": 1,
 					"id": "2090"
 				}
 			],

@@ -29,7 +29,7 @@
 			14
 		]
 	},
-	"description": "A simple quiver where you can put some things. Works for throwing weapons only.",
+	"description": "A simple quiver where you can put some things. Equipped in the ammunition slot, increases overall carry capacity.",
 	"glyph": {
 		"frames": [
 			{
