@@ -1,0 +1,55 @@
+{
+  "components": [
+    "craftable",
+    "glyph",
+    "item",
+    "minimap_pixel",
+    "name",
+    "position_2d",
+    "value",
+    "weight"
+  ],
+  "craftable": {
+    "backgrounds": [],
+    "biomes": [],
+    "magic_slots": 0,
+    "resources": [
+      {
+        "amount": 1,
+        "id": "2090"
+      }
+    ],
+    "time": 15,
+    "tools": [
+      15
+    ]
+  },
+  "description": "Um simples pote de vidro.",
+  "glyph": {
+    "frames": [
+      {
+        "color": [
+          255,
+          255,
+          255
+        ],
+        "delay": 0,
+        "index": 3550
+      }
+    ],
+    "random_frame_start": false
+  },
+  "id": "core_2_Empty_Jar",
+  "item": {
+    "image": 1584,
+    "type": 16
+  },
+  "minimap_pixel": [
+    171,
+    102,
+    57
+  ],
+  "name": "Pote Vazio",
+  "value": 600,
+  "weight": 0.10000000149011612
+}

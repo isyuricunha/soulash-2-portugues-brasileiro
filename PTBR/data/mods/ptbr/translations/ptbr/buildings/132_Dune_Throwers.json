@@ -1,0 +1,16 @@
+{
+  "id": "132",
+  "image": 96,
+  "max": 1,
+  "name": "Lançadores de Dunas",
+  "occupation": "2388",
+  "occupation_image": 124,
+  "produces": [],
+  "race": "26",
+  "tier": 2,
+  "type": "military",
+  "workers": [
+    1,
+    6
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "id": "324",
+  "image": 144,
+  "max": 1,
+  "name": "Ala das Caudas",
+  "occupation": "core_2_Gnoll_Tail",
+  "occupation_image": 114,
+  "produces": [],
+  "race": "31",
+  "tier": 2,
+  "type": "military",
+  "workers": [
+    1,
+    6
+  ]
+}

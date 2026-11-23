@@ -1,0 +1,53 @@
+{
+  "category": "settlement",
+  "duration": {
+    "days": [
+      30,
+      60
+    ],
+    "type": "temporary"
+  },
+  "effects": [
+    {
+      "amount": [
+        5,
+        15
+      ],
+      "entity_per_race": {
+        "0": "core_2_Human_Rebel",
+        "1": "core_2_Dwarf_Rebel",
+        "10": "core_2_Rasimi_Rebel",
+        "2": "core_2_Elf_Rebel",
+        "23": "core_2_Reptilion_Rebel",
+        "26": "core_2_Bone_Wraith_Rebel",
+        "31": "core_2_Gnoll_Rebel",
+        "32": "core_2_Mushman_Rebel",
+        "33": "core_2_Ursan_Rebel",
+        "4": "core_2_Goblin_Rebel",
+        "7": "core_2_Troll_Rebel",
+        "8": "core_2_Orc_Rebel"
+      },
+      "type": "rebellion_battle"
+    }
+  ],
+  "extra_dialogues": [
+    "core_2_rebellion"
+  ],
+  "flavor": "Com armas contrabandeadas, a população oprimida se prepara para se levantar contra seus ocupantes!",
+  "history_events": {
+    "begin": "O povo deste assentamento se rebelou contra seus ocupantes!",
+    "failure": "A rebelião foi esmagada. Os ocupantes mantêm o controle do assentamento. ::deaths tombaram na luta.",
+    "success": "A rebelião foi um sucesso! O assentamento foi libertado da ocupação. ::deaths tombaram nos combates."
+  },
+  "icon": 2,
+  "id": "core_2_rebellion",
+  "interactions": [],
+  "name": "Rebelião",
+  "rarity": "none",
+  "restrict_races": [],
+  "small_icon": 2,
+  "trigger": {
+    "base_probability": 0.0,
+    "conditions": []
+  }
+}

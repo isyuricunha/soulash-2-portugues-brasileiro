@@ -1,0 +1,16 @@
+{
+  "id": "368",
+  "image": 157,
+  "max": 1,
+  "name": "Quartel dos Devastadores",
+  "occupation": "core_2_Orc_Ravager",
+  "occupation_image": 122,
+  "produces": [],
+  "race": "8",
+  "tier": 3,
+  "type": "military",
+  "workers": [
+    1,
+    3
+  ]
+}

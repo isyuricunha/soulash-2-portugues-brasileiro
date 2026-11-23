@@ -68,3 +68,18 @@ class StorageGuards(unittest.TestCase):
     with self.assertRaises(Invalid):s.rollback()
    with self.assertRaises(Invalid):s.gc()
    s.recover();self.assertEqual((root/'a').read_bytes(),b'new');self.assertEqual((root/'b').read_bytes(),b'new')
+
+ def test_bulk_commit_recovery_rollback_and_empty_dir_pruning(self):
+  with tempfile.TemporaryDirectory() as d:
+   root=Path(d);s=Store(root)
+   files={f'nested/dir/f-{i:03d}.txt':f'v1-{i}'.encode() for i in range(60)}
+   s.commit(files,operation='build')
+   self.assertTrue(all((root/k).read_bytes()==v for k,v in files.items()))
+   updated={k:f'v2-{i}'.encode() for i,k in enumerate(files)}
+   with self.assertRaises(Invalid):s.commit(updated,operation='build',crash_after=25)
+   s.recover()
+   self.assertTrue(all((root/k).read_bytes()==v for k,v in files.items()))
+   s.commit({k:None for k in files},operation='cleanup')
+   self.assertFalse((root/'nested').exists())
+   s.rollback()
+   self.assertTrue(all((root/k).read_bytes()==v for k,v in files.items()))

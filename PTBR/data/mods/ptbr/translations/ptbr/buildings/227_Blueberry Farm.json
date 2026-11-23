@@ -1,0 +1,57 @@
+{
+  "allow_player": true,
+  "group": "food",
+  "id": "227",
+  "image": 102,
+  "min_area": 40,
+  "name": "Fazenda de Mirtilos",
+  "occupation": "core_2_Reptilion_Farmer",
+  "occupation_image": 17,
+  "occupation_per_race": {
+    "0": "203",
+    "1": "2267",
+    "10": "2332",
+    "2": "2285",
+    "23": "core_2_Reptilion_Farmer",
+    "24": "core_2_Gnome_Farmer",
+    "26": "2370",
+    "31": "core_2_Gnoll_Farmer",
+    "32": "core_2_Mushman_Farmer",
+    "33": "core_2_Ursan_Farmer",
+    "4": "core_2_Goblin_Farmer",
+    "6": "core_2_Vampire_Farmer",
+    "7": "core_2_Troll_Farmer",
+    "8": "core_2_Orc_Farmer"
+  },
+  "produces": [
+    {
+      "entities": [
+        {
+          "daily": 10,
+          "id": "812"
+        }
+      ],
+      "takes": []
+    }
+  ],
+  "race": "23",
+  "required_entities": [
+    {
+      "count": 10,
+      "entities": [
+        "816",
+        "3072",
+        "core_2_Picked_Blueberry_Bush"
+      ]
+    },
+    {
+      "component": "resting_place",
+      "count": 4
+    }
+  ],
+  "tier": 1,
+  "workers": [
+    1,
+    4
+  ]
+}

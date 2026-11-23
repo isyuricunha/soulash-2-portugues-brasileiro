@@ -1,0 +1,26 @@
+{
+  "group": "resources",
+  "id": "564",
+  "image": 48,
+  "min_area": 30,
+  "name": "Pomar",
+  "occupation": "core_2_Gnome_Farmer",
+  "occupation_image": 19,
+  "produces": [
+    {
+      "entities": [
+        {
+          "daily": 8,
+          "id": "811"
+        }
+      ],
+      "takes": []
+    }
+  ],
+  "race": "24",
+  "tier": 1,
+  "workers": [
+    1,
+    2
+  ]
+}

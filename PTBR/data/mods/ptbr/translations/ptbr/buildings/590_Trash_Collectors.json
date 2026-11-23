@@ -1,0 +1,33 @@
+{
+  "id": "590",
+  "image": 145,
+  "name": "Coletores de Lixo",
+  "occupation": "core_2_Gnoll_Trash_Collector",
+  "occupation_image": 34,
+  "produces": [
+    {
+      "entities": [
+        {
+          "daily": 2,
+          "id": "core_2_Speargrass_Root"
+        }
+      ],
+      "takes": []
+    },
+    {
+      "entities": [
+        {
+          "daily": 2,
+          "id": "core_2_Elephant_Grass"
+        }
+      ],
+      "takes": []
+    }
+  ],
+  "race": "31",
+  "tier": 1,
+  "workers": [
+    1,
+    3
+  ]
+}

@@ -1,0 +1,110 @@
+{
+  "category": "settlement",
+  "duration": {
+    "days": [
+      60,
+      90
+    ],
+    "type": "temporary"
+  },
+  "effects": [
+    {
+      "amount": [
+        1,
+        1
+      ],
+      "border_color": [
+        170,
+        128,
+        192
+      ],
+      "entity": "core_2_Mushman_Circle_Druid",
+      "group_type": "settlement",
+      "type": "spawn_group"
+    }
+  ],
+  "extra_dialogues": [
+    "core_2_putrid_circle"
+  ],
+  "flavor": "Nas profundezas da natureza selvagem, druidas homens-cogumelo se reuniram para realizar o antigo ritual, invocando a podridão que sustenta toda a vida.",
+  "history_events": {
+    "begin": "Aspirantes a druidas homens-cogumelo formaram um Círculo Putrefato perto de ::settlement, iniciando seu ritual antigo.",
+    "failure": "O ritual invocou algo antigo. Uma presença nefasta agita-se nas terras selvagens próximas, atraída pelos cânticos dos druidas.",
+    "success": "O ritual do Círculo Putrefato foi concluído com sucesso. A podridão floresce e os homens-cogumelo se alegram."
+  },
+  "icon": 11,
+  "id": "core_2_mushman_putrid_circle",
+  "interactions": [
+    {
+      "announcement": "Você entregou os bens necessários aos druidas homens-cogumelo de ::settlement!",
+      "entities": [
+        "core_2_Mushman_Circle_Druid"
+      ],
+      "history_event": "::name entregou os bens necessários aos druidas homens-cogumelo!",
+      "id": "core_2_deliver_druid_goods",
+      "label": "Entregue os itens solicitados.",
+      "required_ingredients": [
+        {
+          "amount": 2,
+          "id": "384"
+        },
+        {
+          "amount": 5,
+          "id": "core_2_Druidic_Robe"
+        }
+      ],
+      "reward": {
+        "exp": 120,
+        "gold": 1000,
+        "items": [
+          {
+            "amount": 1,
+            "id": "core_2_Book_of_Floromancy"
+          },
+          {
+            "amount": 4,
+            "id": "core_2_Mycelium_Spores"
+          }
+        ],
+        "remove_event": true,
+        "skill_id": "core_2_floromancy"
+      },
+      "translation_id": 0,
+      "trigger_event": "core_2_herald_of_rot",
+      "type": "conversation"
+    },
+    {
+      "chance": 10,
+      "history_event": "O ritual do Círculo Putrefato falhou e a podridão escapou de seus limites!",
+      "translation_id": 1,
+      "trigger_event": "core_2_herald_of_rot",
+      "type": "expiration"
+    },
+    {
+      "chance": 20,
+      "history_event": "O ritual fracassado do Círculo Putrefato deixou para trás uma podridão purulenta que agora se espalha como praga!",
+      "translation_id": 2,
+      "trigger_event": "core_2_plague_outbreak",
+      "type": "expiration"
+    }
+  ],
+  "name": "O Círculo Putrefato",
+  "rarity": "uncommon",
+  "restrict_races": [
+    "32"
+  ],
+  "small_icon": 11,
+  "trigger": {
+    "base_probability": 0.004,
+    "conditions": [
+      {
+        "type": "settlement_population_min",
+        "value": 60
+      },
+      {
+        "type": "settlement_tier_min",
+        "value": 2
+      }
+    ]
+  }
+}

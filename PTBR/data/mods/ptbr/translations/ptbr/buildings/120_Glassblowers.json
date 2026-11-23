@@ -1,0 +1,79 @@
+{
+  "allow_player": true,
+  "group": "producers",
+  "id": "120",
+  "image": 83,
+  "max": 2,
+  "min_area": 20,
+  "name": "Vidreiros",
+  "occupation": "2375",
+  "occupation_image": 23,
+  "occupation_per_race": {
+    "0": "core_2_Human_Glassblower",
+    "1": "core_2_Dwarf_Glassblower",
+    "10": "core_2_Rasimi_Glassblower",
+    "2": "core_2_Elf_Glassblower",
+    "23": "core_2_Reptilion_Glassblower",
+    "24": "core_2_Gnome_Glassblower",
+    "26": "2375",
+    "31": "core_2_Gnoll_Glassblower",
+    "32": "core_2_Mushman_Glassblower",
+    "33": "core_2_Ursan_Glassblower",
+    "4": "core_2_Goblin_Glassblower",
+    "6": "core_2_Vampire_Glassblower",
+    "7": "core_2_Troll_Glassblower",
+    "8": "core_2_Orc_Glassblower"
+  },
+  "produces": [
+    {
+      "entities": [
+        {
+          "daily": 1,
+          "id": "2090"
+        }
+      ],
+      "takes": "craftable"
+    },
+    {
+      "entities": [
+        {
+          "daily": 1,
+          "id": "core_2_Empty_Jar"
+        }
+      ],
+      "takes": "craftable"
+    },
+    {
+      "entities": [
+        {
+          "daily": 1,
+          "id": "2090"
+        }
+      ],
+      "takes": [
+        {
+          "amount": 4,
+          "id": "833"
+        }
+      ]
+    }
+  ],
+  "race": "26",
+  "required_entities": [
+    {
+      "count": 2,
+      "entities": [
+        "143"
+      ]
+    },
+    {
+      "component": "resting_place",
+      "count": 2
+    }
+  ],
+  "tier": 2,
+  "workers": [
+    1,
+    2
+  ]
+}

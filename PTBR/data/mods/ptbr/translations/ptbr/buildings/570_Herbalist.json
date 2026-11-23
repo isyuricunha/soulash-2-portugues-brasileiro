@@ -1,0 +1,24 @@
+{
+  "id": "570",
+  "image": 398,
+  "name": "Herborista",
+  "occupation": "core_2_Gnome_Herbalist",
+  "occupation_image": 13,
+  "produces": [
+    {
+      "entities": [
+        {
+          "daily": 1,
+          "id": "2003"
+        }
+      ],
+      "takes": []
+    }
+  ],
+  "race": "24",
+  "tier": 2,
+  "workers": [
+    1,
+    2
+  ]
+}

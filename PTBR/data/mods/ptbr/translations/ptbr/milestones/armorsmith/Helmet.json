@@ -1,0 +1,16 @@
+{
+  "id": "core_2_helmet",
+  "name": "Capacete",
+  "requirements": {
+    "milestones": [],
+    "skill": 3
+  },
+  "rewards": [
+    {
+      "recipe": "169"
+    }
+  ],
+  "skill_id": "core_2_armorsmith",
+  "steps": [],
+  "steps_type": 0
+}

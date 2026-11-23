@@ -1,0 +1,15 @@
+{
+  "id": "core_2_high_boots",
+  "name": "Botas Altas",
+  "requirements": {
+    "skill": 21
+  },
+  "rewards": [
+    {
+      "recipe": "307"
+    }
+  ],
+  "skill_id": "core_2_leatherworking",
+  "steps": [],
+  "steps_type": 0
+}

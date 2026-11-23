@@ -1,0 +1,83 @@
+{
+  "category": "settlement",
+  "duration": {
+    "days": [
+      30,
+      45
+    ],
+    "type": "temporary"
+  },
+  "effects": [
+    {
+      "amount": [
+        1,
+        1
+      ],
+      "border_color": [
+        170,
+        128,
+        192
+      ],
+      "entity": "core_2_Human_Scribe",
+      "group_type": "settlement",
+      "type": "spawn_group"
+    }
+  ],
+  "extra_dialogues": [
+    "core_2_escape_route"
+  ],
+  "flavor": "Algumas pessoas podem ser muito tímidas e precisam de um jeito de evitar situações sociais constrangedoras.",
+  "history_events": {
+    "begin": "Um escriba está procurando um jeito de evitar pessoas em ::settlement.",
+    "failure": "Um escriba tem de encarar conversar com pessoas.",
+    "success": "Um escriba agora pode ser deixado em paz."
+  },
+  "icon": 23,
+  "id": "core_2_escape_route",
+  "interactions": [
+    {
+      "announcement": "Você entregou os bens necessários a um escriba em ::settlement!",
+      "entities": [
+        "core_2_Human_Scribe"
+      ],
+      "history_event": "::name entregou os bens necessários a um escriba local.",
+      "id": "core_2_deliver_bombs",
+      "label": "Entregue o item solicitado.",
+      "required_ingredients": [
+        {
+          "amount": 5,
+          "id": "core_2_Smoke_Bomb"
+        }
+      ],
+      "reward": {
+        "gold": 1000,
+        "remove_event": true
+      },
+      "translation_id": 0,
+      "type": "conversation"
+    }
+  ],
+  "name": "Rota de Fuga",
+  "rarity": "uncommon",
+  "restrict_races": [
+    "0"
+  ],
+  "small_icon": 23,
+  "trigger": {
+    "base_probability": 0.004,
+    "conditions": [
+      {
+        "type": "settlement_population_min",
+        "value": 30
+      },
+      {
+        "type": "settlement_tier_min",
+        "value": 1
+      },
+      {
+        "type": "min_unemployed",
+        "value": 1
+      }
+    ]
+  }
+}

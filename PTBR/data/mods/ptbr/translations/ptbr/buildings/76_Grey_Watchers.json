@@ -1,0 +1,16 @@
+{
+  "id": "76",
+  "image": 68,
+  "max": 1,
+  "name": "Vigias Cinzentos",
+  "occupation": "444",
+  "occupation_image": 57,
+  "produces": [],
+  "race": "2",
+  "tier": 2,
+  "type": "military",
+  "workers": [
+    1,
+    10
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "category": "settlement",
+  "duration": {
+    "days": [
+      60,
+      120
+    ],
+    "type": "temporary"
+  },
+  "effects": [
+    {
+      "amount": [
+        1,
+        1
+      ],
+      "border_color": [
+        160,
+        40,
+        40
+      ],
+      "entity": "core_2_Storm_Essence",
+      "group_type": "hostile_group",
+      "type": "spawn_group",
+      "z_level": 0
+    }
+  ],
+  "extra_dialogues": [
+    "core_2_raging_storm"
+  ],
+  "flavor": "A tempestade antinatural que destruía esta cidade não foi detida a tempo. Agora a própria tempestade desceu para espalhar destruição e morte.",
+  "history_events": {
+    "begin": "A tempestade furiosa foi detida!",
+    "end": "A tempestade cobrou seu preço e se acalmou por enquanto."
+  },
+  "icon": 19,
+  "id": "core_2_raging_storm",
+  "interactions": [
+    {
+      "announcement": "Você matou a Essência da Tempestade em ::settlement!",
+      "entities": [
+        "core_2_Storm_Essence"
+      ],
+      "history_event": "::name matou a Essência da Tempestade, pondo fim ao elemento furioso em ::settlement!",
+      "reward": {
+        "exp": 300,
+        "remove_event": true,
+        "skill_id": "core_2_stormthrowing"
+      },
+      "translation_id": 2,
+      "type": "entity_destruction"
+    }
+  ],
+  "name": "Tempestade Furiosa",
+  "rarity": "uncommon",
+  "restrict_races": [
+    "33"
+  ],
+  "small_icon": 19,
+  "trigger": {
+    "base_probability": 0.0,
+    "conditions": []
+  }
+}

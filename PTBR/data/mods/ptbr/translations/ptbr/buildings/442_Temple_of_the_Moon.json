@@ -1,0 +1,55 @@
+{
+  "allow_player": true,
+  "enables": [
+    "core_2_stormthrowing"
+  ],
+  "group": "military",
+  "id": "442",
+  "image": 78,
+  "max": 1,
+  "min_area": 30,
+  "name": "Templo da Lua",
+  "occupation": "2348",
+  "occupation_image": 66,
+  "occupation_per_race": {
+    "0": "core_2_Human_Stormthrower",
+    "1": "core_2_Dwarf_Stormthrower",
+    "10": "2348",
+    "2": "core_2_Elf_Stormthrower",
+    "23": "core_2_Reptilion_Stormthrower",
+    "24": "core_2_Gnome_Stormthrower",
+    "26": "core_2_Bone_Wraith_Stormthrower",
+    "31": "core_2_Gnoll_Stormthrower",
+    "32": "core_2_Mushman_Stormthrower",
+    "33": "core_2_Ursan_Stormthrower",
+    "4": "core_2_Goblin_Stormthrower",
+    "7": "core_2_Troll_Stormthrower",
+    "8": "core_2_Orc_Stormthrower"
+  },
+  "produces": [],
+  "race": "10",
+  "required_entities": [
+    {
+      "count": 8,
+      "entities": [
+        "220"
+      ]
+    },
+    {
+      "count": 8,
+      "entities": [
+        "942"
+      ]
+    },
+    {
+      "component": "resting_place",
+      "count": 4
+    }
+  ],
+  "tier": 3,
+  "type": "military",
+  "workers": [
+    1,
+    4
+  ]
+}

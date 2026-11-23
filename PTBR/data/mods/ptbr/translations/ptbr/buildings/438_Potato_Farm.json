@@ -1,0 +1,25 @@
+{
+  "id": "438",
+  "image": 238,
+  "max": 2,
+  "name": "Fazenda de Batatas",
+  "occupation": "core_2_Goblin_Farmer",
+  "occupation_image": 95,
+  "produces": [
+    {
+      "entities": [
+        {
+          "daily": 10,
+          "id": "core_2_Potato"
+        }
+      ],
+      "takes": []
+    }
+  ],
+  "race": "4",
+  "tier": 1,
+  "workers": [
+    1,
+    4
+  ]
+}

@@ -1,0 +1,174 @@
+{
+  "category": "settlement",
+  "duration": {
+    "days": [
+      60,
+      90
+    ],
+    "type": "temporary"
+  },
+  "effects": [
+    {
+      "amount": [
+        1,
+        1
+      ],
+      "border_color": [
+        160,
+        40,
+        40
+      ],
+      "entity": "core_2_Thief_Leader",
+      "group_type": "settlement",
+      "preferred_buildings": [
+        "548"
+      ],
+      "restrict_race": "0",
+      "type": "spawn_group"
+    },
+    {
+      "amount": [
+        1,
+        1
+      ],
+      "border_color": [
+        160,
+        40,
+        40
+      ],
+      "entity": "core_2_Goblin_Thief_Leader",
+      "group_type": "settlement",
+      "preferred_buildings": [
+        "548"
+      ],
+      "restrict_race": "4",
+      "type": "spawn_group"
+    },
+    {
+      "amount": [
+        1,
+        1
+      ],
+      "border_color": [
+        160,
+        40,
+        40
+      ],
+      "entity": "core_2_Orc_Thief_Leader",
+      "group_type": "settlement",
+      "preferred_buildings": [
+        "548"
+      ],
+      "restrict_race": "8",
+      "type": "spawn_group"
+    },
+    {
+      "amount": [
+        1,
+        1
+      ],
+      "entity": "core_2_Rasimi_Thief_Leader",
+      "group_type": "settlement",
+      "preferred_buildings": [
+        "548"
+      ],
+      "restrict_race": "10",
+      "type": "spawn_group"
+    },
+    {
+      "amount": [
+        1,
+        1
+      ],
+      "border_color": [
+        160,
+        40,
+        40
+      ],
+      "entity": "core_2_Gnoll_Thief_Leader",
+      "group_type": "settlement",
+      "preferred_buildings": [
+        "548"
+      ],
+      "restrict_race": "31",
+      "type": "spawn_group"
+    }
+  ],
+  "extra_dialogues": [],
+  "flavor": "O Líder dos Ladrões tem um pedido especial sobre uma Torre de Mago próxima.",
+  "history_events": {
+    "begin": "O Líder dos Ladrões em ::settlement tem um favor a pedir.",
+    "end": "O Líder dos Ladrões em ::settlement encontrou alguém que atendeu ao seu pedido.",
+    "success": "Você completou um assalto à Torre do Mago perto de ::settlement."
+  },
+  "icon": 27,
+  "id": "core_2_wizard_tower",
+  "interactions": [
+    {
+      "entities": [
+        "core_2_Thief_Leader",
+        "core_2_Goblin_Thief_Leader",
+        "core_2_Orc_Thief_Leader",
+        "core_2_Rasimi_Thief_Leader",
+        "core_2_Gnoll_Thief_Leader"
+      ],
+      "id": "core_2_wizard_tower_reveal",
+      "required_level": 15,
+      "required_skill": "core_2_thievery",
+      "translation_id": 0,
+      "type": "reveal_event_location"
+    },
+    {
+      "entities": [
+        "core_2_Thief_Leader",
+        "core_2_Goblin_Thief_Leader",
+        "core_2_Orc_Thief_Leader",
+        "core_2_Rasimi_Thief_Leader",
+        "core_2_Gnoll_Thief_Leader"
+      ],
+      "history_event": "::name completou um assalto à Torre do Mago!",
+      "id": "core_2_wizard_tower_event_reward",
+      "require_location_cleared": false,
+      "required_ingredients": [
+        {
+          "amount": 1,
+          "id": "core_2_Magical_Amulet"
+        }
+      ],
+      "reward": {
+        "announcement": "Você roubou a Torre do Mago.",
+        "exp": 250,
+        "gold": 500,
+        "remove_event": true,
+        "skill_id": "core_2_thievery"
+      },
+      "translation_id": 1,
+      "type": "conversation"
+    }
+  ],
+  "locations": [
+    {
+      "id": "core_2_wizard_tower_event",
+      "radius": 10
+    }
+  ],
+  "name": "Assalto à Torre do Mago",
+  "rarity": "uncommon",
+  "restrict_races": [
+    "0",
+    "4",
+    "8",
+    "10",
+    "31"
+  ],
+  "small_icon": 27,
+  "trigger": {
+    "base_probability": 0.0,
+    "conditions": [
+      {
+        "type": "min_unemployed",
+        "value": 1
+      }
+    ]
+  }
+}

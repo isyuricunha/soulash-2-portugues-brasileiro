@@ -1,0 +1,16 @@
+{
+  "id": "core_2_emty_jar",
+  "name": "Pote Vazio",
+  "requirements": {
+    "milestones": [],
+    "skill": 3
+  },
+  "rewards": [
+    {
+      "recipe": "core_2_Empty_Jar"
+    }
+  ],
+  "skill_id": "core_2_alchemy",
+  "steps": [],
+  "steps_type": 0
+}

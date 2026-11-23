@@ -1,0 +1,16 @@
+{
+  "id": "585",
+  "image": 406,
+  "max": 1,
+  "name": "Quartel dos Ironsprockets",
+  "occupation": "core_2_Gnome_Ironsprockets",
+  "occupation_image": 135,
+  "produces": [],
+  "race": "24",
+  "tier": 3,
+  "type": "military",
+  "workers": [
+    1,
+    6
+  ]
+}

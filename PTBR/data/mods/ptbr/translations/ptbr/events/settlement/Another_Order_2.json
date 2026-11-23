@@ -1,0 +1,89 @@
+{
+  "buildings": [
+    {
+      "building_id": "557",
+      "lair_only": true,
+      "placement": "map_edge"
+    }
+  ],
+  "category": "settlement",
+  "duration": {
+    "days": [
+      30,
+      45
+    ],
+    "type": "temporary"
+  },
+  "effects": [
+    {
+      "amount": [
+        1,
+        1
+      ],
+      "border_color": [
+        170,
+        128,
+        192
+      ],
+      "entity": "core_2_Ursan_Master_Crafter",
+      "group_type": "settlement",
+      "type": "spawn_group"
+    }
+  ],
+  "extra_dialogues": [],
+  "flavor": "A Guilda de Artesãos tem outra encomenda para os moleiros das proximidades e precisa de ajuda.",
+  "history_events": {
+    "begin": "Um novo mestre artesão está procurando ajuda para confeccionar aventais em ::settlement.",
+    "failure": "Um mestre artesão terá que atrasar a encomenda de aventais para os moleiros.",
+    "success": "Um mestre artesão concluirá a encomenda de aventais no prazo."
+  },
+  "icon": 29,
+  "id": "core_2_another_order_ursan",
+  "interactions": [
+    {
+      "announcement": "Você entregou as mercadorias solicitadas a um mestre artesão em ::settlement!",
+      "entities": [
+        "core_2_Ursan_Master_Crafter"
+      ],
+      "history_event": "::name entregou as mercadorias solicitadas a um mestre artesão local.",
+      "id": "core_2_deliver_aprons",
+      "label": "Entregue os itens solicitados.",
+      "required_ingredients": [
+        {
+          "amount": 5,
+          "id": "709"
+        }
+      ],
+      "reward": {
+        "gold": 400,
+        "remove_event": true
+      },
+      "translation_id": 0,
+      "trigger_event": "core_2_harvesters_helper_ursan",
+      "type": "conversation"
+    }
+  ],
+  "name": "Mais uma Encomenda",
+  "rarity": "uncommon",
+  "restrict_races": [
+    "33"
+  ],
+  "small_icon": 29,
+  "trigger": {
+    "base_probability": 0.0,
+    "conditions": [
+      {
+        "type": "settlement_population_min",
+        "value": 30
+      },
+      {
+        "type": "settlement_tier_min",
+        "value": 1
+      },
+      {
+        "type": "min_unemployed",
+        "value": 1
+      }
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "enables": [
+    "core_2_necromancy"
+  ],
+  "id": "319",
+  "image": 139,
+  "name": "Sala dos Ossos",
+  "occupation": "core_2_Gnoll_Bonekeeper",
+  "occupation_image": 37,
+  "produces": [
+    {
+      "entities": [
+        {
+          "daily": 1,
+          "id": "55"
+        }
+      ],
+      "takes": []
+    }
+  ],
+  "race": "31",
+  "tier": 3,
+  "workers": [
+    1,
+    1
+  ]
+}

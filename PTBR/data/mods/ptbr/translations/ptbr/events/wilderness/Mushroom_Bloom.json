@@ -1,0 +1,49 @@
+{
+  "category": "wilderness",
+  "duration": {
+    "days": [
+      10,
+      20
+    ],
+    "type": "temporary"
+  },
+  "effects": [
+    {
+      "amount": [
+        15,
+        30
+      ],
+      "entity": "core_2_Mushroom_Tree",
+      "spawn_behaviors": [],
+      "type": "roaming_spawn"
+    },
+    {
+      "amount": [
+        1,
+        3
+      ],
+      "entity": "core_2_Mushman_Forester",
+      "spawn_behaviors": [],
+      "type": "roaming_spawn"
+    }
+  ],
+  "flavor": "As recentes chuvas fortes encharcaram profundamente a terra, despertando antigas redes de micélio sob o chão da floresta. Cogumelos enormes brotaram pela terra da noite para o dia, com seus chapéus erguendo-se altos como árvores.",
+  "history_events": {
+    "begin": "Fortes chuvas desencadearam uma proliferação de cogumelos gigantes por toda a região.",
+    "end": "Os cogumelos gigantes murcharam e o chão da floresta retorna ao seu estado habitual."
+  },
+  "icon": 0,
+  "id": "core_2_mushroom_bloom",
+  "max_per_region": 1,
+  "name": "Proliferação de Cogumelos",
+  "rarity": "uncommon",
+  "restrict_biomes": [
+    "forest",
+    "boreal_forest",
+    "grasslands"
+  ],
+  "small_icon": 0,
+  "trigger": {
+    "base_probability": 0.12
+  }
+}

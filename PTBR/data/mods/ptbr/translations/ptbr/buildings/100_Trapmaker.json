@@ -1,0 +1,52 @@
+{
+  "allow_player": true,
+  "enables": [
+    "core_2_construction"
+  ],
+  "group": "crafters",
+  "id": "100",
+  "image": 82,
+  "max": 1,
+  "min_area": 20,
+  "name": "Fabricante de Armadilhas",
+  "occupation": "2337",
+  "occupation_image": 41,
+  "occupation_per_race": {
+    "0": "208",
+    "1": "2289",
+    "10": "2337",
+    "2": "core_2_Elf_Trapmaker",
+    "23": "core_2_Reptilion_Trapmaker",
+    "24": "core_2_Gnome_Toolmaker",
+    "26": "core_2_Bone_Wraith_Trapmaker",
+    "31": "core_2_Gnoll_Toolmaker",
+    "32": "core_2_Mushman_Trapmaker",
+    "33": "core_2_Ursan_Toolmaker",
+    "4": "core_2_Goblin_Toolmaker",
+    "6": "core_2_Vampire_Toolmaker",
+    "7": "core_2_Troll_Toolmaker",
+    "8": "core_2_Orc_Toolmaker"
+  },
+  "produces": [],
+  "race": "10",
+  "required_entities": [
+    {
+      "count": 1,
+      "entities": [
+        "155",
+        "2470",
+        "2255",
+        "2411"
+      ]
+    },
+    {
+      "component": "resting_place",
+      "count": 1
+    }
+  ],
+  "tier": 2,
+  "workers": [
+    1,
+    1
+  ]
+}

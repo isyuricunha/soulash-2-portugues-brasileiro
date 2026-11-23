@@ -1,0 +1,54 @@
+{
+  "components": [
+    "block_light",
+    "collidable",
+    "glyph",
+    "health",
+    "minimap_pixel",
+    "name",
+    "position_2d"
+  ],
+  "corpse": "35",
+  "description": "Uma ponta afiada de gelo que se projeta do chão.",
+  "feminine_form": true,
+  "glyph": {
+    "frames": [
+      {
+        "color": [
+          255,
+          255,
+          255
+        ],
+        "delay": 0,
+        "index": 3504
+      },
+      {
+        "color": [
+          255,
+          255,
+          255
+        ],
+        "delay": 0,
+        "index": 3505
+      },
+      {
+        "color": [
+          255,
+          255,
+          255
+        ],
+        "delay": 0,
+        "index": 3506
+      }
+    ],
+    "random_frame_start": true
+  },
+  "health": 60,
+  "id": "core_2_Icicle",
+  "minimap_pixel": [
+    100,
+    104,
+    102
+  ],
+  "name": "Estaca de Gelo"
+}

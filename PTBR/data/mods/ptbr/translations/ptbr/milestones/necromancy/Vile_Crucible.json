@@ -1,0 +1,16 @@
+{
+  "id": "core_2_vile_crucible",
+  "name": "Cadinho Vil",
+  "requirements": {
+    "milestones": [],
+    "skill": 27
+  },
+  "rewards": [
+    {
+      "recipe": "core_2_Vile_Crucible"
+    }
+  ],
+  "skill_id": "core_2_necromancy",
+  "steps": [],
+  "steps_type": 0
+}

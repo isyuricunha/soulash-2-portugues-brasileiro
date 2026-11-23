@@ -1,0 +1,95 @@
+{
+  "buildings": [
+    {
+      "building_id": "592",
+      "lair_only": true,
+      "placement": "map_edge"
+    }
+  ],
+  "category": "settlement",
+  "duration": {
+    "days": [
+      30,
+      45
+    ],
+    "type": "temporary"
+  },
+  "effects": [
+    {
+      "amount": [
+        1,
+        1
+      ],
+      "border_color": [
+        170,
+        128,
+        192
+      ],
+      "entity": "core_2_Rasimi_Master_Warrior",
+      "group_type": "settlement",
+      "type": "spawn_group"
+    }
+  ],
+  "extra_dialogues": [],
+  "flavor": "É hora de outro desafio do Mestre Guerreiro, ainda mais difícil que o anterior.",
+  "history_events": {
+    "begin": "Um mestre guerreiro tem outro desafio para alguém corajoso em ::settlement.",
+    "failure": "Um mestre guerreiro terá que encarar o desafio por conta própria.",
+    "success": "Um mestre guerreiro encontrou alguém para encarar o desafio e alcançar a glória."
+  },
+  "icon": 37,
+  "id": "core_2_yet_another_challenge_rasimi",
+  "interactions": [
+    {
+      "announcement": "Você entregou as mercadorias solicitadas a um mestre guerreiro em ::settlement!",
+      "entities": [
+        "core_2_Rasimi_Master_Warrior"
+      ],
+      "history_event": "::name entregou as mercadorias solicitadas a um mestre guerreiro local.",
+      "id": "core_2_deliver_nymph_corpse_rasimi",
+      "label": "Entregue os itens solicitados.",
+      "required_ingredients": [
+        {
+          "amount": 1,
+          "id": "2750"
+        }
+      ],
+      "reward": {
+        "gold": 5000,
+        "items": [
+          {
+            "amount": 1,
+            "id": "2523"
+          }
+        ],
+        "remove_event": true
+      },
+      "translation_id": 0,
+      "trigger_event": "core_2_final_challenge_rasimi",
+      "type": "conversation"
+    }
+  ],
+  "name": "Mais um Desafio",
+  "rarity": "uncommon",
+  "restrict_races": [
+    "10"
+  ],
+  "small_icon": 37,
+  "trigger": {
+    "base_probability": 0.0,
+    "conditions": [
+      {
+        "type": "settlement_population_min",
+        "value": 30
+      },
+      {
+        "type": "settlement_tier_min",
+        "value": 1
+      },
+      {
+        "type": "min_unemployed",
+        "value": 1
+      }
+    ]
+  }
+}

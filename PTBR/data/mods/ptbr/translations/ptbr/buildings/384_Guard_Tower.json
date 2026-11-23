@@ -1,0 +1,64 @@
+{
+  "allow_player": true,
+  "enables": [
+    "core_2_pole_fighting",
+    "core_2_protection"
+  ],
+  "group": "military",
+  "id": "384",
+  "image": 42,
+  "max": 2,
+  "min_area": 30,
+  "name": "Torre de Guarda",
+  "occupation": "209",
+  "occupation_image": 20,
+  "occupation_per_race": {
+    "0": "209",
+    "1": "304",
+    "10": "core_2_Rasimi_Guard",
+    "2": "2287",
+    "23": "core_2_Reptilion_Guard",
+    "24": "core_2_Gnome_Guard",
+    "26": "2386",
+    "31": "core_2_Gnoll_Guard",
+    "32": "core_2_Mushman_Mush_Guardian",
+    "33": "core_2_Ursan_Guard",
+    "4": "core_2_Goblin_Guard",
+    "6": "core_2_Vampire_Bloodguard",
+    "7": "core_2_Troll_Guard",
+    "8": "core_2_Orc_Guard"
+  },
+  "produces": [],
+  "race": "-1",
+  "required_entities": [
+    {
+      "count": 2,
+      "entities": [
+        "2204",
+        "2208"
+      ]
+    },
+    {
+      "count": 2,
+      "entities": [
+        "630"
+      ]
+    },
+    {
+      "count": 1,
+      "entities": [
+        "516"
+      ]
+    },
+    {
+      "component": "resting_place",
+      "count": 8
+    }
+  ],
+  "tier": 1,
+  "type": "military",
+  "workers": [
+    1,
+    8
+  ]
+}

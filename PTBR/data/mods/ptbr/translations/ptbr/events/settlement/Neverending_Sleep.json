@@ -1,0 +1,110 @@
+{
+  "category": "settlement",
+  "duration": {
+    "days": [
+      20,
+      40
+    ],
+    "type": "temporary"
+  },
+  "effects": [
+    {
+      "multiplier": 0,
+      "type": "production_multiplier"
+    },
+    {
+      "type": "force_sleep"
+    },
+    {
+      "amount": [
+        1,
+        1
+      ],
+      "entity": "core_2_Sandman",
+      "spawn_behaviors": [
+        15,
+        17
+      ],
+      "type": "roaming_spawn"
+    }
+  ],
+  "extra_dialogues": [],
+  "flavor": "Uma noite eterna caiu sobre esta cidade. Todos estão dormindo e, apesar da fome e da sede, não conseguem acordar.",
+  "history_events": {
+    "begin": "::settlement mergulhou em um sono sem fim.",
+    "end": "O sono eterno em ::settlement nunca foi quebrado, condenando a cidade a uma morte lenta.",
+    "success": "O sono eterno em ::settlement foi quebrado. As pessoas podem respirar aliviadas."
+  },
+  "icon": 30,
+  "id": "core_2_neverending_sleep",
+  "interactions": [
+    {
+      "entities": [
+        "core_2_Sandman"
+      ],
+      "id": "core_2_dream_domain_reveal",
+      "translation_id": 0,
+      "type": "reveal_event_location"
+    },
+    {
+      "entities": [
+        "core_2_Sandman"
+      ],
+      "history_event": "::name quebrou o sono sem fim!",
+      "id": "core_2_neverending_sleep_reward",
+      "label": "Entregue o saco de areia.",
+      "require_location_cleared": true,
+      "required_ingredients": [
+        {
+          "amount": 1,
+          "id": "core_2_Sack_of_Sand"
+        }
+      ],
+      "reward": {
+        "announcement": "O assentamento de ::settlement despertou do sono sem fim.",
+        "exp": 100,
+        "gold": 2000,
+        "remove_event": true,
+        "skill_id": "core_2_adventuring"
+      },
+      "translation_id": 1,
+      "type": "conversation"
+    },
+    {
+      "announcement": "Você matou o Homem de Areia em ::settlement!",
+      "entities": [
+        "core_2_Sandman"
+      ],
+      "history_event": "::name matou o Homem de Areia, pondo fim ao sono sem fim em ::settlement!",
+      "reward": {
+        "remove_event": true
+      },
+      "translation_id": 2,
+      "type": "entity_destruction"
+    }
+  ],
+  "locations": [
+    {
+      "id": "core_2_dream_domain_event",
+      "radius": 10
+    }
+  ],
+  "name": "Sono Sem Fim",
+  "rarity": "uncommon",
+  "restrict_races": [
+    "0",
+    "10",
+    "24",
+    "31"
+  ],
+  "small_icon": 30,
+  "trigger": {
+    "base_probability": 0.005,
+    "conditions": [
+      {
+        "type": "min_unemployed",
+        "value": 1
+      }
+    ]
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "components": [
+    "glyph",
+    "health",
+    "height",
+    "minimap_pixel",
+    "name",
+    "position_2d"
+  ],
+  "corpse": "62",
+  "description": "Uma grande pilha de ervas aromáticas para neutralizar o cheiro que domina o pântano.",
+  "feminine_form": true,
+  "glyph": {
+    "frames": [
+      {
+        "color": [
+          255,
+          255,
+          255
+        ],
+        "delay": 0,
+        "index": 3303
+      },
+      {
+        "color": [
+          255,
+          255,
+          255
+        ],
+        "delay": 0,
+        "index": 3304
+      }
+    ],
+    "random_frame_start": true
+  },
+  "health": 20,
+  "height": 0,
+  "id": "core_2_Herb_Stack",
+  "minimap_pixel": [
+    99,
+    68,
+    24
+  ],
+  "name": "Pilha de Ervas"
+}

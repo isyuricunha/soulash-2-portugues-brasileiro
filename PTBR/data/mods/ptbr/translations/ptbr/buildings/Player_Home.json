@@ -1,0 +1,14 @@
+{
+  "allow_player": true,
+  "group": "base",
+  "id": "core_2_player_home",
+  "image": 386,
+  "min_area": 64,
+  "name": "Lar",
+  "occupation": "-1",
+  "produces": [],
+  "workers": [
+    0,
+    0
+  ]
+}

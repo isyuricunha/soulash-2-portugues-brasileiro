@@ -1,0 +1,61 @@
+{
+  "allow_player": true,
+  "enables": [
+    "core_2_leatherworking"
+  ],
+  "group": "crafters",
+  "id": "378",
+  "image": 18,
+  "max": 1,
+  "min_area": 20,
+  "name": "Curtidor",
+  "occupation": "2198",
+  "occupation_image": 12,
+  "occupation_per_race": {
+    "0": "2198",
+    "1": "2319",
+    "10": "2341",
+    "2": "2274",
+    "23": "core_2_Reptilion_Leatherworker",
+    "24": "core_2_Gnome_Leatherworker",
+    "26": "core_2_Bone_Wraith_Leatherworker",
+    "31": "core_2_Gnoll_Leatherworker",
+    "32": "core_2_Mushman_Leatherworker",
+    "33": "core_2_Ursan_Leatherworker",
+    "4": "core_2_Goblin_Leatherworker",
+    "6": "core_2_Vampire_Leatherworker",
+    "7": "core_2_Troll_Leatherworker",
+    "8": "core_2_Orc_Leatherworker"
+  },
+  "produces": [],
+  "race": "-1",
+  "required_entities": [
+    {
+      "count": 1,
+      "entities": [
+        "155",
+        "2470",
+        "2255",
+        "2411"
+      ]
+    },
+    {
+      "count": 1,
+      "entities": [
+        "16",
+        "274",
+        "2402",
+        "2923"
+      ]
+    },
+    {
+      "component": "resting_place",
+      "count": 2
+    }
+  ],
+  "tier": 1,
+  "workers": [
+    1,
+    2
+  ]
+}

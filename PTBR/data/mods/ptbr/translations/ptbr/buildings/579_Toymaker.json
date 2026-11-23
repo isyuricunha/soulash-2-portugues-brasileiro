@@ -1,0 +1,18 @@
+{
+  "enables": [
+    "core_2_imbuing"
+  ],
+  "id": "579",
+  "image": 391,
+  "max": 1,
+  "name": "Fabricante de Brinquedos",
+  "occupation": "core_2_Gnome_Toymaker",
+  "occupation_image": 16,
+  "produces": [],
+  "race": "24",
+  "tier": 2,
+  "workers": [
+    1,
+    1
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "allow_player": true,
+  "enables": [
+    "core_2_pyromancy"
+  ],
+  "group": "military",
+  "id": "389",
+  "image": 39,
+  "max": 1,
+  "min_area": 30,
+  "name": "Colégio Mágico",
+  "occupation": "457",
+  "occupation_image": 74,
+  "occupation_per_race": {
+    "0": "457",
+    "1": "core_2_Dwarf_Wizard",
+    "10": "core_2_Rasimi_Wizard",
+    "2": "core_2_Elf_Wizard",
+    "23": "core_2_Reptilion_Wizard",
+    "24": "core_2_Gnome_Wizard",
+    "26": "core_2_Bone_Wraith_Wizard",
+    "31": "core_2_Gnoll_Wizard",
+    "32": "core_2_Mushman_Wizard",
+    "33": "core_2_Ursan_Wizard",
+    "4": "core_2_Goblin_Wizard",
+    "6": "core_2_Vampire_Wizard",
+    "7": "core_2_Troll_Wizard",
+    "8": "core_2_Orc_Wizard"
+  },
+  "produces": [
+    {
+      "entities": [
+        {
+          "daily": 0.2,
+          "id": "2006"
+        }
+      ],
+      "takes": "craftable"
+    }
+  ],
+  "race": "-1",
+  "required_entities": [
+    {
+      "count": 4,
+      "entities": [
+        "731"
+      ]
+    },
+    {
+      "count": 4,
+      "entities": [
+        "291",
+        "537"
+      ]
+    },
+    {
+      "component": "resting_place",
+      "count": 6
+    }
+  ],
+  "tier": 3,
+  "type": "military",
+  "workers": [
+    1,
+    6
+  ]
+}

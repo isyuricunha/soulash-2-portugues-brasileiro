@@ -1,0 +1,81 @@
+{
+  "paths": [
+    {
+      "goals": [
+        {
+          "long": "Saia da sua região atual para viajar pelo mundo e explorar áreas próximas. Fique atento a algo interessante que possa surgir.",
+          "objective": {
+            "special_location_tier": 1
+          },
+          "short": "Explorar a Natureza"
+        },
+        {
+          "long": "Todos os locais especiais podem ser saqueados, geralmente recolhendo o conteúdo dos baús de tesouro disponíveis. Siga o marcador no minimapa e encontre um baú.",
+          "objective": {
+            "loot": 1
+          },
+          "short": "Saqueie o Baú"
+        },
+        {
+          "long": "Sem comida e água, suas aventuras terão um fim rápido. Você pode tentar estocar comida nos povoados, ou encontrar alguma na natureza.",
+          "objective": {
+            "eat": 100
+          },
+          "short": "Conseguir Mais Comida"
+        },
+        {
+          "long": "Existem várias maneiras de obter água, a mais simples é encontrar um poço ou uma lagoa no centro de cada povoado. Ao viajar, você pode reabastecer automaticamente apenas passando por um rio.",
+          "objective": {
+            "drink": 100
+          },
+          "short": "Beber Água"
+        },
+        {
+          "long": "Agora que encontramos algum saque, vamos voltar à cidade e trocá-lo por algo útil.",
+          "objective": {
+            "sell": 1
+          },
+          "short": "Lucrar com Comércio"
+        },
+        {
+          "long": "Há muitas ferramentas úteis para levar em suas viagens: facas para extrair recursos de cadáveres, picaretas para minerar minérios e gemas, machados para coletar madeira rara e foices para obter trigo e ervas. Encontre um Ferramenteiro em um assentamento de humanos, anões ou espectros ósseos e encomende uma. Saqueie mais baús pelo caminho se faltar dinheiro.",
+          "objective": {
+            "tool": 1
+          },
+          "short": "Adquirir uma Ferramenta"
+        },
+        {
+          "long": "Até aprendermos com personagens experientes, nosso potencial para dominar uma habilidade é limitado. Vamos tentar encontrar um instrutor e pagá-lo para nos ensinar algumas novas teorias sobre nossa habilidade escolhida.",
+          "objective": {
+            "train": 1
+          },
+          "short": "Potencial Limitado"
+        },
+        {
+          "long": "Ao explorar o mundo, você pode ter notado que apenas locais fáceis aparecem durante suas viagens. Para encontrar áreas mais desafiadoras com maior facilidade, você precisará treinar uma das habilidades de combate, como Combate com Espada, Combate com Maça, Combate com Machado, Piromancia ou Furto. Treine uma delas e consiga mais equipamentos para se preparar.",
+          "objective": {
+            "combat_skill": 20
+          },
+          "short": "Se Fortalecer"
+        },
+        {
+          "long": "É hora de encarar um novo desafio, vamos tentar encontrar um local especial Problemático e saquear todos os seus tesouros. Certifique-se de ter pelo menos uma faca com você, você não quer desperdiçar recursos preciosos de bestas raras, quer?",
+          "objective": {
+            "loot": 2
+          },
+          "short": "Problemático"
+        },
+        {
+          "long": "Ao saquear baús, explorar o mundo e revistar bestas e monstros, certamente você já encontrou ingredientes mágicos? É hora de colocá-los em bom uso. Vamos encontrar um armeiro, alfaiate, curtidor ou armoreiro que saiba como criar um de nossos itens e encomendar uma melhoria.",
+          "objective": {
+            "upgrade": 1
+          },
+          "short": "Melhorar"
+        }
+      ],
+      "id": "core_2_adventurer",
+      "name": "Aventureiro",
+      "objective": "Quer aprender o básico de ser um aventureiro?"
+    }
+  ]
+}

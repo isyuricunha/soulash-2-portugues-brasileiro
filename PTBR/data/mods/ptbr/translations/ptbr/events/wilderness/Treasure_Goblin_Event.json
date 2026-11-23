@@ -1,0 +1,39 @@
+{
+  "category": "wilderness",
+  "duration": {
+    "days": [
+      1,
+      3
+    ],
+    "type": "temporary"
+  },
+  "effects": [
+    {
+      "amount": [
+        1,
+        1
+      ],
+      "entity": "core_2_Treasure_Goblin",
+      "spawn_behaviors": [
+        0,
+        18,
+        23
+      ],
+      "type": "roaming_spawn"
+    }
+  ],
+  "flavor": "Um goblin gargalhante agarrando um saco repleto de riquezas inimagináveis foi avistado na área. Ele é assustadoramente rápido e não quer nada com ninguém — mas matá-lo seria muito lucrativo.",
+  "history_events": {
+    "begin": "Um goblin do tesouro foi avistado na área, fugindo com um saco cheio de riquezas.",
+    "end": "O goblin do tesouro escapou — ou foi morto — e seu tesouro sumiu."
+  },
+  "icon": 0,
+  "id": "core_2_treasure_goblin",
+  "max_per_region": 1,
+  "name": "Goblin do Tesouro Escapadiço",
+  "rarity": "rare",
+  "small_icon": 0,
+  "trigger": {
+    "base_probability": 0.05
+  }
+}

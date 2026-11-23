@@ -1,0 +1,41 @@
+{
+  "components": [
+    "glyph",
+    "item",
+    "minimap_pixel",
+    "name",
+    "position_2d",
+    "stackable",
+    "value",
+    "weight"
+  ],
+  "description": "Um dia crescerá e se tornará um arbusto de groselha.",
+  "feminine_form": true,
+  "glyph": {
+    "frames": [
+      {
+        "color": [
+          255,
+          255,
+          255
+        ],
+        "delay": 0,
+        "index": 2450
+      }
+    ],
+    "random_frame_start": false
+  },
+  "id": "core_2_Gooseberry_Seed",
+  "item": {
+    "image": 1076,
+    "type": 24
+  },
+  "minimap_pixel": [
+    156,
+    73,
+    73
+  ],
+  "name": "Semente de Groselha",
+  "value": 150,
+  "weight": 0.019999999552965164
+}

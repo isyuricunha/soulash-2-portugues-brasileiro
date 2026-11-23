@@ -1,0 +1,112 @@
+{
+  "category": "settlement",
+  "duration": {
+    "days": [
+      90,
+      170
+    ],
+    "type": "temporary"
+  },
+  "effects": [
+    {
+      "multiplier": 0.5,
+      "type": "production_multiplier"
+    },
+    {
+      "rate_per_day": 0.015,
+      "type": "death_rate"
+    },
+    {
+      "amount": [
+        1,
+        1
+      ],
+      "border_color": [
+        128,
+        0,
+        128
+      ],
+      "entity": "core_2_Ursan_Storm_Whisperer",
+      "group_type": "settlement",
+      "type": "spawn_group"
+    }
+  ],
+  "extra_dialogues": [
+    "core_2_storm_brewing"
+  ],
+  "flavor": "O xamã Ursano prevê a tempestade do século. O assentamento procura um carpinteiro habilidoso para preparar defesas contra a destruição que se aproxima.",
+  "history_events": {
+    "begin": "Uma tempestade antinatural está se movendo em direção a esta cidade!",
+    "end": "A tempestade que se aproximava atingiu o assentamento."
+  },
+  "icon": 13,
+  "id": "core_2_looming_storm",
+  "interactions": [
+    {
+      "announcement": "Você entregou as Runas da Tempestade a ::settlement!",
+      "entities": [
+        "core_2_Ursan_Storm_Whisperer"
+      ],
+      "history_event": "::name entregou as runas de proteção contra tempestades à vila.",
+      "id": "core_2_totem_delivery",
+      "label": "Construa os totens.",
+      "required_ingredients": [
+        {
+          "amount": 6,
+          "id": "core_2_Storm_Rune"
+        }
+      ],
+      "required_level": 10,
+      "required_skill": "core_2_carpentry",
+      "reward": {
+        "exp": 80,
+        "gold": 500,
+        "remove_event": true,
+        "skill_id": "core_2_stormthrowing",
+        "spawn_entities": [
+          {
+            "count": 6,
+            "id": "core_2_Storm_Totem",
+            "radius": 10
+          }
+        ]
+      },
+      "translation_id": 0,
+      "trigger_events": [
+        "core_2_raging_storm"
+      ],
+      "type": "conversation"
+    },
+    {
+      "history_event": "Ninguém impediu a tempestade que se aproximava e agora a cidade está à mercê dos elementos!",
+      "require_building_spawned": false,
+      "translation_id": 1,
+      "trigger_event": "core_2_raging_storm",
+      "type": "expiration"
+    }
+  ],
+  "name": "Tempestade Iminente",
+  "permanent_weather": "17",
+  "rarity": "common",
+  "restrict_races": [
+    "33"
+  ],
+  "small_icon": 13,
+  "trigger": {
+    "base_probability": 0.01,
+    "conditions": [
+      {
+        "type": "settlement_population_min",
+        "value": 40
+      },
+      {
+        "type": "settlement_tier_min",
+        "value": 2
+      },
+      {
+        "type": "min_unemployed",
+        "value": 1
+      }
+    ]
+  }
+}

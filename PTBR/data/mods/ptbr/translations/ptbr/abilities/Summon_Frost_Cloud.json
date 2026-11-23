@@ -1,0 +1,25 @@
+{
+  "animation": "",
+  "cast_time": 0.20000000298023224,
+  "cooldown": 40.0,
+  "cost": {
+    "health": 20,
+    "stamina": 0
+  },
+  "description": "Invoca nuvens congelantes ao redor, que causam dano de gelo a quem pisar nelas. As nuvens permanecem por ::duration turnos.",
+  "duration": 30.0,
+  "effects": {
+    "aoe_range": 15,
+    "aoe_shape": 1,
+    "summon_count": 30
+  },
+  "effects_keys": {
+    "summon": "core_2_Frost_Cloud"
+  },
+  "id": "core_2_Summon_Frost_Cloud",
+  "image": 834,
+  "name": "Invocar Nuvem Congelante",
+  "range": 0,
+  "skill": "",
+  "target": "aoe_self"
+}

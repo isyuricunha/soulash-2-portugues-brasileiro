@@ -1,0 +1,56 @@
+{
+  "allow_player": true,
+  "group": "resources",
+  "id": "339",
+  "image": 252,
+  "min_area": 40,
+  "name": "Forrageador",
+  "occupation": "core_2_Goblin_Forager",
+  "occupation_image": 17,
+  "occupation_per_race": {
+    "0": "2202",
+    "1": "core_2_Dwarf_Forager",
+    "10": "2326",
+    "2": "2264",
+    "23": "core_2_Reptilion_Forager",
+    "24": "core_2_Gnome_Forager",
+    "26": "2372",
+    "31": "core_2_Gnoll_Trash_Collector",
+    "32": "core_2_Mushman_Forager",
+    "33": "core_2_Ursan_Forager",
+    "4": "core_2_Goblin_Forager",
+    "6": "core_2_Vampire_Forager",
+    "7": "core_2_Troll_Forager",
+    "8": "core_2_Orc_Forager"
+  },
+  "produces": [
+    {
+      "entities": [
+        {
+          "daily": 4,
+          "id": "core_2_Fern_Leaves"
+        }
+      ],
+      "takes": []
+    }
+  ],
+  "race": "4",
+  "required_entities": [
+    {
+      "count": 6,
+      "entities": [
+        "core_2_Fern_Plant",
+        "core_2_Fern_Plant_Seedling"
+      ]
+    },
+    {
+      "component": "resting_place",
+      "count": 3
+    }
+  ],
+  "tier": 1,
+  "workers": [
+    1,
+    3
+  ]
+}

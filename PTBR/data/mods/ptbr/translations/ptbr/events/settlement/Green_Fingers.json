@@ -1,0 +1,91 @@
+{
+  "category": "settlement",
+  "duration": {
+    "days": [
+      30,
+      45
+    ],
+    "type": "temporary"
+  },
+  "effects": [
+    {
+      "amount": [
+        1,
+        1
+      ],
+      "border_color": [
+        170,
+        128,
+        192
+      ],
+      "entity": "core_2_Dwarf_Gardener",
+      "group_type": "settlement",
+      "type": "spawn_group"
+    }
+  ],
+  "extra_dialogues": [],
+  "flavor": "Um Anão quer tentar um novo hobby incomum e procura algumas ferramentas.",
+  "history_events": {
+    "begin": "Um jardineiro Anão agora pode tentar algo novo em ::settlement.",
+    "failure": "Um jardineiro Anão terá que encontrar outra forma de realizar seus hobbies.",
+    "success": "Um jardineiro Anão agora pode explorar sua nova paixão."
+  },
+  "icon": 23,
+  "id": "core_2_sgreen_fingers",
+  "interactions": [
+    {
+      "announcement": "Você entregou os bens necessários ao jardineiro Anão de ::settlement!",
+      "entities": [
+        "core_2_Dwarf_Gardener"
+      ],
+      "history_event": "::name entregou os bens necessários a um jardineiro Anão!",
+      "id": "core_2_deliver_hoe",
+      "label": "Entregue o item solicitado.",
+      "required_ingredients": [
+        {
+          "amount": 1,
+          "id": "3066"
+        }
+      ],
+      "reward": {
+        "exp": 20,
+        "gold": 50,
+        "remove_event": true,
+        "reputation": 15,
+        "skill_id": "core_2_agriculture",
+        "spawn_entities": [
+          {
+            "count": 4,
+            "id": "core_2_Purple_Flowerbed",
+            "radius": 10
+          }
+        ]
+      },
+      "translation_id": 0,
+      "type": "conversation"
+    }
+  ],
+  "name": "Dedos Verdes",
+  "rarity": "uncommon",
+  "restrict_races": [
+    "1"
+  ],
+  "small_icon": 23,
+  "trigger": {
+    "base_probability": 0.004,
+    "conditions": [
+      {
+        "type": "settlement_population_min",
+        "value": 30
+      },
+      {
+        "type": "settlement_tier_min",
+        "value": 1
+      },
+      {
+        "type": "min_unemployed",
+        "value": 1
+      }
+    ]
+  }
+}

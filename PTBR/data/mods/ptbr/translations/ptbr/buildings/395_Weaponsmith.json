@@ -1,0 +1,51 @@
+{
+  "allow_player": true,
+  "enables": [
+    "core_2_weaponsmith"
+  ],
+  "group": "crafters",
+  "id": "395",
+  "image": 11,
+  "max": 1,
+  "min_area": 20,
+  "name": "Armeiro",
+  "occupation": "725",
+  "occupation_image": 6,
+  "occupation_per_race": {
+    "0": "208",
+    "1": "725",
+    "10": "2336",
+    "2": "2270",
+    "23": "core_2_Reptilion_Weaponsmith",
+    "24": "core_2_Gnome_Weaponsmith",
+    "26": "2381",
+    "31": "core_2_Gnoll_Weaponsmith",
+    "32": "core_2_Mushman_Weaponsmith",
+    "33": "core_2_Ursan_Weaponsmith",
+    "4": "core_2_Goblin_Weaponsmith",
+    "6": "core_2_Vampire_Weaponsmith",
+    "7": "core_2_Troll_Weaponsmith",
+    "8": "core_2_Orc_Weaponsmith"
+  },
+  "produces": [],
+  "race": "-1",
+  "required_entities": [
+    {
+      "count": 1,
+      "entities": [
+        "150",
+        "2254",
+        "core_2_Mush_Anvil"
+      ]
+    },
+    {
+      "component": "resting_place",
+      "count": 2
+    }
+  ],
+  "tier": 2,
+  "workers": [
+    1,
+    2
+  ]
+}

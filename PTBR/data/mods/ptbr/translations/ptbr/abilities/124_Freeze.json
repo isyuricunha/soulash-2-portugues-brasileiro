@@ -1,0 +1,25 @@
+{
+  "animation": "163",
+  "cast_time": 1.0,
+  "cooldown": 8.0,
+  "cost": {
+    "health": 0,
+    "stamina": 4
+  },
+  "description": "Congele o alvo no lugar, causando ::damage de dano do tipo ::damage_type e imobilizando-o por ::duration turnos. O sucesso depende de um teste oposto entre a Força de Vontade do conjurador e a Força do defensor.",
+  "duration": 3.0,
+  "effects": {
+    "damage": [
+      20,
+      25
+    ],
+    "damage_type": "frost",
+    "damage_weapon": 0.75,
+    "immobilize": 1
+  },
+  "id": "124",
+  "image": 631,
+  "name": "Congelar",
+  "range": 4,
+  "target": "health"
+}

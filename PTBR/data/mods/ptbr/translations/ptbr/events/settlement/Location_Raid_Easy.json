@@ -1,0 +1,74 @@
+{
+  "category": "settlement",
+  "duration": {
+    "days": [
+      30,
+      60
+    ],
+    "type": "temporary"
+  },
+  "effects": [
+    {
+      "amount": [
+        3,
+        6
+      ],
+      "border_color": [
+        180,
+        80,
+        80
+      ],
+      "entity_from_location": true,
+      "exclude": [
+        "core_2_caravan_1"
+      ],
+      "group_type": "hostile_group",
+      "spawn_behaviors": [
+        21
+      ],
+      "type": "spawn_group"
+    }
+  ],
+  "extra_dialogues": [
+    "core_2_raid_easy"
+  ],
+  "flavor": "Encorajado por alvos fáceis e um covil próximo, um bando de criaturas inferiores decidiu atacar o assentamento. Elas não são particularmente perigosas, mas, se não forem contidas, trarão miséria à população.",
+  "history_events": {
+    "begin": "Um grupo de invasores surgiu dos ermos próximos a ::settlement, ameaçando a população.",
+    "end": "Os saqueadores que atormentavam ::settlement foram expulsos ou dispersados."
+  },
+  "icon": 20,
+  "id": "core_2_location_raid_easy",
+  "interactions": [
+    {
+      "announcement": "Os saqueadores que atacavam ::settlement foram derrotados!",
+      "history_event": "::name expulsou os saqueadores que atacavam ::settlement!",
+      "reward": {
+        "gold": 200,
+        "remove_event": true
+      },
+      "translation_id": 0,
+      "type": "hostiles_cleared"
+    }
+  ],
+  "name": "Saqueadores do Ermo",
+  "rarity": "common",
+  "small_icon": 20,
+  "trigger": {
+    "base_probability": 0.015,
+    "conditions": [
+      {
+        "type": "settlement_tier_min",
+        "value": 1
+      },
+      {
+        "type": "settlement_tier_max",
+        "value": 1
+      },
+      {
+        "type": "nearby_location_difficulty",
+        "value": 1
+      }
+    ]
+  }
+}

@@ -1,0 +1,133 @@
+{
+  "buildings": [
+    {
+      "building_id": "544",
+      "lair_only": true,
+      "placement": "map_edge"
+    }
+  ],
+  "category": "settlement",
+  "duration": {
+    "days": [
+      60,
+      120
+    ],
+    "type": "temporary"
+  },
+  "effects": [
+    {
+      "amount": [
+        1,
+        1
+      ],
+      "border_color": [
+        160,
+        40,
+        40
+      ],
+      "entity": "core_2_Rat_Mother",
+      "group_type": "lair_group",
+      "type": "spawn_group",
+      "z_level": -1
+    },
+    {
+      "amount": [
+        8,
+        12
+      ],
+      "border_color": [
+        130,
+        90,
+        60
+      ],
+      "entity": "core_2_Rat",
+      "group_type": "hostile_group",
+      "type": "spawn_group"
+    },
+    {
+      "amount": [
+        1,
+        1
+      ],
+      "border_color": [
+        200,
+        170,
+        90
+      ],
+      "entity": "core_2_Rat_Plague_Collector",
+      "group_type": "settlement",
+      "type": "spawn_group"
+    }
+  ],
+  "extra_dialogues": [
+    "core_2_rat_plague"
+  ],
+  "flavor": "Os celeiros do assentamento foram invadidos por um enorme ninho de ratos. Eles fervilham para fora de uma toca imunda nos arredores, liderados por um monstruoso Rei dos Ratos, e não pararão até que seu mestre esteja saciado.",
+  "history_events": {
+    "begin": "Uma praga de ratos invade este assentamento, liderada por uma monstruosa Mãe dos Ratos!",
+    "end": "Os ratos recuam de volta para o mato e o assentamento respira aliviado."
+  },
+  "icon": 8,
+  "id": "core_2_rat_plague",
+  "interactions": [
+    {
+      "announcement": "Você acabou com a praga de ratos em ::settlement!",
+      "entities": [
+        "core_2_Rat_Plague_Collector"
+      ],
+      "history_event": "::name matou a Mãe dos Ratos e livrou este assentamento da praga de ratos!",
+      "id": "core_2_slay_rat_queen",
+      "label": "Entregue o item necessário.",
+      "required_ingredients": [
+        {
+          "amount": 1,
+          "id": "core_2_Rat_Mother_Tail"
+        }
+      ],
+      "reward": {
+        "exp": 100,
+        "gold": 1500,
+        "remove_event": true,
+        "skill_id": "core_2_hunting"
+      },
+      "translation_id": 0,
+      "type": "conversation"
+    },
+    {
+      "chance": 20,
+      "history_event": "A Mãe dos Ratos não foi derrotada e agora espalha terror pelas terras próximas.",
+      "require_building_spawned": false,
+      "trigger_event": "core_2_rat_union",
+      "type": "expiration"
+    }
+  ],
+  "name": "Praga dos Ratos",
+  "rarity": "uncommon",
+  "restrict_races": [
+    "0"
+  ],
+  "small_icon": 8,
+  "trigger": {
+    "base_probability": 0.005,
+    "conditions": [
+      {
+        "type": "settlement_population_min",
+        "value": 20
+      },
+      {
+        "type": "settlement_tier_min",
+        "value": 1
+      },
+      {
+        "type": "race",
+        "values": [
+          "0"
+        ]
+      },
+      {
+        "type": "min_unemployed",
+        "value": 1
+      }
+    ]
+  }
+}

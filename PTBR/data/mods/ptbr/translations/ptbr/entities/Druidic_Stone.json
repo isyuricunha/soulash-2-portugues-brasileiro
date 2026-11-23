@@ -1,0 +1,32 @@
+{
+  "components": [
+    "collidable",
+    "glyph",
+    "minimap_pixel",
+    "name",
+    "position_2d"
+  ],
+  "description": "Pedra alta e ereta coberta de musgo e alguns entalhes misteriosos.",
+  "feminine_form": true,
+  "glyph": {
+    "frames": [
+      {
+        "color": [
+          255,
+          255,
+          255
+        ],
+        "delay": 0,
+        "index": 3352
+      }
+    ],
+    "random_frame_start": true
+  },
+  "id": "core_2_Druidic_Stone",
+  "minimap_pixel": [
+    99,
+    174,
+    208
+  ],
+  "name": "Pedra Druídica"
+}

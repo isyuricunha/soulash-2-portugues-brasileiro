@@ -1,0 +1,85 @@
+{
+  "category": "settlement",
+  "duration": {
+    "days": [
+      30,
+      45
+    ],
+    "type": "temporary"
+  },
+  "effects": [
+    {
+      "amount": [
+        1,
+        1
+      ],
+      "border_color": [
+        170,
+        128,
+        192
+      ],
+      "entity": "core_2_Bone_Wraith_Scribe",
+      "group_type": "settlement",
+      "type": "spawn_group"
+    }
+  ],
+  "extra_dialogues": [
+    "core_2_long_journey"
+  ],
+  "flavor": "Às vezes, é preciso viajar para longe de casa e enfrentar condições completamente novas, para as quais vale a pena se preparar.",
+  "history_events": {
+    "begin": "Um certo Escriba Espectro Ósseo está procurando ajuda para sua jornada em ::settlement.",
+    "failure": "Um Escriba Espectro Ósseo terá que viajar mal preparado.",
+    "success": "Um Escriba Espectro Ósseo agora pode viajar preparado."
+  },
+  "icon": 23,
+  "id": "core_2_long_journey",
+  "interactions": [
+    {
+      "announcement": "Você entregou as mercadorias necessárias a um Escriba Espectro Ósseo de ::settlement!",
+      "entities": [
+        "core_2_Bone_Wraith_Scribe"
+      ],
+      "history_event": "::name entregou as mercadorias necessárias a um Escriba Espectro Ósseo!",
+      "id": "core_2_deliver_mittens",
+      "label": "Entregue o item solicitado.",
+      "required_ingredients": [
+        {
+          "amount": 1,
+          "id": "2172"
+        }
+      ],
+      "reward": {
+        "exp": 20,
+        "gold": 50,
+        "remove_event": true,
+        "skill_id": "core_2_adventuring"
+      },
+      "translation_id": 0,
+      "type": "conversation"
+    }
+  ],
+  "name": "Longa Jornada",
+  "rarity": "uncommon",
+  "restrict_races": [
+    "26"
+  ],
+  "small_icon": 23,
+  "trigger": {
+    "base_probability": 0.004,
+    "conditions": [
+      {
+        "type": "settlement_population_min",
+        "value": 30
+      },
+      {
+        "type": "settlement_tier_min",
+        "value": 1
+      },
+      {
+        "type": "min_unemployed",
+        "value": 1
+      }
+    ]
+  }
+}

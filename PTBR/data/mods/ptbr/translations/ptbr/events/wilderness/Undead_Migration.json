@@ -1,0 +1,51 @@
+{
+  "category": "wilderness",
+  "duration": {
+    "days": [
+      3,
+      8
+    ],
+    "type": "temporary"
+  },
+  "effects": [
+    {
+      "amount": [
+        20,
+        30
+      ],
+      "entity": "246",
+      "spawn_behaviors": [
+        23
+      ],
+      "type": "migrate_group"
+    },
+    {
+      "amount": [
+        50,
+        60
+      ],
+      "entity": "245",
+      "spawn_behaviors": [
+        23
+      ],
+      "type": "migrate_group"
+    }
+  ],
+  "flavor": "Uma horda de mortos-vivos está em marcha.",
+  "history_events": {
+    "begin": "A horda de mortos-vivos está em marcha.",
+    "end": "A horda de mortos-vivos passou por esta região."
+  },
+  "icon": 0,
+  "id": "core_2_undead_migration",
+  "max_per_region": 1,
+  "name": "Migração dos Mortos-Vivos",
+  "rarity": "common",
+  "restrict_biomes": [
+    "snow"
+  ],
+  "small_icon": 0,
+  "trigger": {
+    "base_probability": 0.2
+  }
+}

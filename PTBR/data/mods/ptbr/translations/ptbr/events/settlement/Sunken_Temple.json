@@ -1,0 +1,85 @@
+{
+  "category": "settlement",
+  "duration": {
+    "days": [
+      60,
+      90
+    ],
+    "type": "temporary"
+  },
+  "effects": [
+    {
+      "amount": [
+        1,
+        1
+      ],
+      "border_color": [
+        170,
+        128,
+        192
+      ],
+      "entity": "core_2_Reptilion_Scribe",
+      "group_type": "settlement",
+      "type": "spawn_group"
+    }
+  ],
+  "extra_dialogues": [],
+  "flavor": "O Coração do Golem de Bronze pode causar mais problemas do que resolveu. É preciso destruí-lo.",
+  "history_events": {
+    "begin": "O Coração do Golem de Bronze pode causar problemas em ::settlement.",
+    "end": "O Coração do Golem permaneceu em ::settlement, e o Rei Titã buscará vingança.",
+    "success": "O Coração do Golem foi destruído, e as pessoas de ::settlement podem descansar em paz."
+  },
+  "icon": 32,
+  "id": "core_2_sunken_temple",
+  "interactions": [
+    {
+      "entities": [
+        "core_2_Reptilion_Scribe"
+      ],
+      "id": "core_2_sunken_temple_reveal",
+      "translation_id": 0,
+      "type": "reveal_event_location"
+    },
+    {
+      "announcement": "O assentamento de ::settlement finalmente se livrou dos segredos submersos nos pântanos.",
+      "history_event": "O Coração do Golem foi destruído, e as pessoas de ::settlement podem descansar em paz.",
+      "item": "core_2_Bronze_Golem_Heart",
+      "production_action": "core_2_destroy_golem_heart",
+      "reward": {
+        "exp": 200,
+        "gold": 2000,
+        "skill_id": "core_2_imbuing"
+      },
+      "type": "item_destruction"
+    },
+    {
+      "history_event": "O Rei Titã veio buscar seu coração.",
+      "require_building_spawned": false,
+      "translation_id": 1,
+      "trigger_event": "core_2_titan_king",
+      "type": "expiration"
+    }
+  ],
+  "locations": [
+    {
+      "id": "core_2_sunken_temple_event",
+      "radius": 10
+    }
+  ],
+  "name": "Templo Submerso",
+  "rarity": "uncommon",
+  "restrict_races": [
+    "23"
+  ],
+  "small_icon": 32,
+  "trigger": {
+    "base_probability": 0,
+    "conditions": [
+      {
+        "type": "min_unemployed",
+        "value": 1
+      }
+    ]
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "category": "wilderness",
+  "duration": {
+    "days": [
+      3,
+      7
+    ],
+    "type": "temporary"
+  },
+  "effects": [
+    {
+      "amount": [
+        1,
+        1
+      ],
+      "entity": "core_2_Wandering_Druid",
+      "spawn_behaviors": [],
+      "trade_list": [
+        {
+          "amount": 3,
+          "id": "core_2_Cought_Baby_Rabbit"
+        },
+        {
+          "amount": 3,
+          "id": "core_2_Caught_Buck"
+        },
+        {
+          "amount": 5,
+          "id": "core_2_Misfortune_Leaves"
+        },
+        {
+          "amount": 4,
+          "id": "core_2_Mushroom_Tree_Seed"
+        },
+        {
+          "amount": 1,
+          "id": "core_2_Book_of_Floromancy"
+        }
+      ],
+      "type": "roaming_spawn"
+    }
+  ],
+  "flavor": "Um druida solitário foi avistado vagando pela terra. Animais selvagens parecem ser atraídos por sua presença, seguindo-o de perto aonde quer que vá.",
+  "history_events": {
+    "begin": "Um druida errante entrou na área, e animais parecem estar seguindo seus passos.",
+    "end": "O druida errante partiu, e os animais que atraiu se dispersaram."
+  },
+  "icon": 0,
+  "id": "core_2_wandering_druid",
+  "max_per_region": 1,
+  "name": "Druida Errante",
+  "rarity": "uncommon",
+  "restrict_biomes": [
+    "forest",
+    "boreal_forest"
+  ],
+  "small_icon": 0,
+  "trigger": {
+    "base_probability": 0.08
+  }
+}

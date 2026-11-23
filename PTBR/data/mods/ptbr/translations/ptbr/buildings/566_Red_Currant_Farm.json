@@ -1,0 +1,25 @@
+{
+  "id": "566",
+  "image": 402,
+  "max": 4,
+  "name": "Plantação de Groselha-Vermelha",
+  "occupation": "core_2_Gnome_Farmer",
+  "occupation_image": 92,
+  "produces": [
+    {
+      "entities": [
+        {
+          "daily": 10,
+          "id": "core_2_Red_Currant"
+        }
+      ],
+      "takes": []
+    }
+  ],
+  "race": "24",
+  "tier": 1,
+  "workers": [
+    1,
+    4
+  ]
+}

@@ -1,0 +1,83 @@
+{
+  "category": "settlement",
+  "duration": {
+    "days": [
+      60,
+      90
+    ],
+    "type": "temporary"
+  },
+  "effects": [
+    {
+      "amount": [
+        1,
+        1
+      ],
+      "border_color": [
+        170,
+        128,
+        192
+      ],
+      "entity": "core_2_Rat_Plague_Collector",
+      "group_type": "settlement",
+      "type": "spawn_group"
+    }
+  ],
+  "extra_dialogues": [],
+  "flavor": "Ninguém deu cabo da Mãe dos Ratos. Agora ela partiu para formar um exército imbatível de ratos.",
+  "history_events": {
+    "begin": "Uma União dos Ratos surgiu perto de ::settlement, ameaçando provocar novas pragas de ratos.",
+    "end": "A União dos Ratos perto de ::settlement foi bem-sucedida, lançando novas ondas de ratos pelo mundo.",
+    "success": "A União dos Ratos perto de ::settlement foi desfeita. As pessoas podem respirar aliviadas."
+  },
+  "icon": 28,
+  "id": "core_2_rat_union",
+  "interactions": [
+    {
+      "entities": [
+        "core_2_Rat_Plague_Collector"
+      ],
+      "id": "core_2_rat_union_reveal",
+      "translation_id": 0,
+      "type": "reveal_event_location"
+    },
+    {
+      "entities": [
+        "core_2_Rat_Plague_Collector"
+      ],
+      "history_event": "::name desfez a União dos Ratos!",
+      "id": "core_2_rat_union_event_reward",
+      "require_location_cleared": true,
+      "reward": {
+        "announcement": "A união dos ratos perto de ::settlement foi desfeita.",
+        "exp": 100,
+        "gold": 2000,
+        "remove_event": true,
+        "skill_id": "core_2_hunting"
+      },
+      "translation_id": 1,
+      "type": "conversation"
+    }
+  ],
+  "locations": [
+    {
+      "id": "core_2_rat_union_event",
+      "radius": 10
+    }
+  ],
+  "name": "União dos Ratos",
+  "rarity": "uncommon",
+  "restrict_races": [
+    "0"
+  ],
+  "small_icon": 28,
+  "trigger": {
+    "base_probability": 0,
+    "conditions": [
+      {
+        "type": "min_unemployed",
+        "value": 1
+      }
+    ]
+  }
+}

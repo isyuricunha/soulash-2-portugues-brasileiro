@@ -1,0 +1,2655 @@
+{
+  "base_abilities": [],
+  "base_items": [
+    {
+      "amount": 3,
+      "index": "803"
+    },
+    {
+      "amount": 1,
+      "index": "310"
+    }
+  ],
+  "base_recipes": [],
+  "control_actions": [
+    {
+      "description": "Use sua força de vontade para tentar domar um animal. Esta ação requer um espaço de companheiro vazio e leva 2 turnos.",
+      "failure_ability": "12",
+      "failure_message": "[{}%] Você não conseguiu domar {}. O animal fica enfurecido!",
+      "id": "core_2_tame",
+      "image": 75,
+      "name": "Domar",
+      "success_animation": "core_2_Tame_animal",
+      "success_message": "{} torna-se seu novo companheiro!",
+      "tags": [
+        "2"
+      ]
+    },
+    {
+      "description": "Use sua força de vontade para tentar assumir o controle de um ser morto-vivo. Esta ação requer um espaço de companheiro vazio e leva 2 turnos.",
+      "failure_ability": "",
+      "failure_message": "[{}%] Você não conseguiu assumir o controle de {}.",
+      "id": "core_2_control_undead",
+      "image": 84,
+      "name": "Controlar Morto-vivo",
+      "success_animation": "core_2_Take_Control",
+      "success_message": "{} se torna seu novo companheiro!",
+      "tags": [
+        "4"
+      ]
+    }
+  ],
+  "crimes": {
+    "assault": 40,
+    "forbidden": 50,
+    "gather_souls": -1,
+    "murder": 200,
+    "pickpocket": 10,
+    "robbery": 30,
+    "stealing": 20,
+    "vandalism": 0
+  },
+  "custom_eq_slots": [
+    {
+      "icon": 22,
+      "id": "core_2_golem_head",
+      "item_types": [
+        26
+      ],
+      "name": "Cabeça de Golem",
+      "replace": "head_armor"
+    },
+    {
+      "icon": 25,
+      "id": "core_2_golem_torso",
+      "item_types": [
+        27
+      ],
+      "name": "Torso de Golem",
+      "replace": "torso_armor"
+    },
+    {
+      "icon": 24,
+      "id": "core_2_golem_legs",
+      "item_types": [
+        28
+      ],
+      "name": "Pernas de Golem",
+      "replace": "legs_armor"
+    },
+    {
+      "icon": 23,
+      "id": "core_2_golem_hand",
+      "item_types": [
+        29
+      ],
+      "name": "Mão de Golem",
+      "replace": "right_hand"
+    },
+    {
+      "icon": 29,
+      "id": "core_2_soul",
+      "item_types": [
+        31
+      ],
+      "name": "Alma",
+      "replace": "torso_armor"
+    },
+    {
+      "icon": 26,
+      "id": "core_2_meat_head",
+      "item_types": [
+        32
+      ],
+      "name": "Cabeça de Carne",
+      "replace": "head_armor"
+    },
+    {
+      "icon": 27,
+      "id": "core_2_meat_hand",
+      "item_types": [
+        34
+      ],
+      "name": "Mão de Carne",
+      "replace": "right_hand"
+    },
+    {
+      "icon": 28,
+      "id": "core_2_meat_legs",
+      "item_types": [
+        33
+      ],
+      "name": "Pernas de Carne",
+      "replace": "legs_armor"
+    }
+  ],
+  "default_occupation_image": 136,
+  "gold_for_potential": {
+    "10": 20,
+    "15": 60,
+    "20": 120,
+    "25": 200,
+    "30": 400,
+    "35": 800,
+    "40": 1600,
+    "45": 2500,
+    "5": 10,
+    "50": 5000,
+    "default": 5000
+  },
+  "leader_occupation_image_per_race": {
+    "0": 137,
+    "1": 137,
+    "10": 139,
+    "2": 137,
+    "23": 139,
+    "26": 137,
+    "31": 139,
+    "32": 137,
+    "33": 139,
+    "4": 139,
+    "6": 110,
+    "7": 139,
+    "8": 139
+  },
+  "max_potential": 200,
+  "production_actions": [
+    {
+      "allow_bulk_action": true,
+      "animation": "",
+      "askey": 117,
+      "description": "Derrube uma árvore ou corte um pedaço de madeira.\n\nUse a tecla de atalho: [color=244,247,118,255]u[/color]",
+      "equipment": true,
+      "id": "1",
+      "image": 32,
+      "key": "u",
+      "name": "Cortar Madeira",
+      "required_tool": 13,
+      "restrict_default": true,
+      "sound": "data/mods/core_2/assets/sfx/cut_wood.ogg",
+      "time_statistic_multiplier": 0.15,
+      "time_statistic_scale": 0,
+      "time_weight_scale": 0
+    },
+    {
+      "allow_bulk_action": true,
+      "animation": "",
+      "askey": 117,
+      "description": "Retire a pele e esquarteje o cadáver para tentar obter recursos úteis.\n\nUse a tecla de atalho: [color=244,247,118,255]u[/color]",
+      "equipment": true,
+      "id": "3",
+      "image": 17,
+      "key": "u",
+      "name": "Extrair Recursos",
+      "required_tool": 4,
+      "sound": "data/mods/core_2/assets/sfx/butchering.ogg",
+      "time_statistic_multiplier": 0.1,
+      "time_statistic_scale": 2,
+      "time_weight_scale": 1
+    },
+    {
+      "allow_bulk_action": true,
+      "animation": "",
+      "askey": 117,
+      "description": "Tente pegar um peixe na fonte de água.\n\nUse com tecla de atalho: [color=244,247,118,255]u[/color]",
+      "force_single_item": true,
+      "id": "4",
+      "image": 33,
+      "key": "u",
+      "name": "Pescar",
+      "required_tool": 5,
+      "sound": "data/mods/core_2/assets/sfx/fishing.ogg",
+      "time_statistic_multiplier": 0.1,
+      "time_statistic_scale": 4,
+      "time_weight_scale": 0
+    },
+    {
+      "allow_bulk_action": true,
+      "animation": "",
+      "askey": 117,
+      "description": "Minerar a parede, destruindo-a, e tentar obter recursos.\n\nUse com tecla de atalho: [color=244,247,118,255]u[/color]",
+      "id": "5",
+      "image": 31,
+      "key": "u",
+      "name": "Minerar",
+      "required_tool": 9,
+      "sound": "data/mods/core_2/assets/sfx/mine.ogg",
+      "time_statistic_multiplier": 0.15,
+      "time_statistic_scale": 0,
+      "time_weight_scale": 0
+    },
+    {
+      "allow_bulk_action": true,
+      "animation": "",
+      "askey": 117,
+      "description": "Colher recursos do objeto selecionado.\n\nUse com tecla de atalho: [color=244,247,118,255]u[/color]",
+      "equipment": true,
+      "id": "6",
+      "image": 0,
+      "key": "u",
+      "name": "Colher",
+      "required_tool": 7,
+      "sound": "data/mods/core_2/assets/sfx/harvest.ogg",
+      "time_statistic_multiplier": 0.15,
+      "time_statistic_scale": 0,
+      "time_weight_scale": 0
+    },
+    {
+      "animation": "",
+      "askey": 117,
+      "description": "Separar grãos da casca do trigo.\n\nUse com tecla de atalho: [color=244,247,118,255]u[/color]",
+      "equipment": true,
+      "id": "7",
+      "image": 41,
+      "key": "u",
+      "name": "Debulhar",
+      "required_tool": 16,
+      "sound": "",
+      "time_statistic_multiplier": 0.2,
+      "time_statistic_scale": 0,
+      "time_weight_scale": 0
+    },
+    {
+      "animation": "",
+      "askey": 117,
+      "description": "Cozinhar alimentos para melhorar sua qualidade.\n\nUse com tecla de atalho: [color=244,247,118,255]u[/color]",
+      "equipment": true,
+      "id": "9",
+      "image": 42,
+      "key": "u",
+      "name": "Cozinhar",
+      "required_tool": 2,
+      "sound": "data/mods/core_2/assets/sfx/cooking.ogg",
+      "time_statistic_multiplier": 0.0,
+      "time_statistic_scale": 0,
+      "time_weight_scale": 100
+    },
+    {
+      "allow_bulk_action": true,
+      "animation": "",
+      "askey": -1,
+      "description": "Coletar recurso do alvo selecionado.",
+      "id": "10",
+      "image": 1,
+      "key": "",
+      "name": "Coletar",
+      "required_tool": -1,
+      "sound": "data/mods/core_2/assets/sfx/gather.ogg",
+      "time_statistic_multiplier": 0.1,
+      "time_statistic_scale": 2,
+      "time_weight_scale": 1.0
+    },
+    {
+      "allow_bulk_action": true,
+      "animation": "",
+      "askey": -1,
+      "description": "Obter leite do alvo selecionado.",
+      "id": "11",
+      "image": 38,
+      "key": "",
+      "name": "Ordenhar",
+      "required_tool": -1,
+      "sound": "data/mods/core_2/assets/sfx/milk.ogg",
+      "time_statistic_multiplier": 0.0,
+      "time_statistic_scale": 0,
+      "time_weight_scale": 0.0
+    },
+    {
+      "allow_bulk_action": true,
+      "animation": "",
+      "askey": -1,
+      "description": "Cavar terra.\n\nUse com a tecla de atalho: [color=244,247,118,255]u[/color]",
+      "force_single_item": true,
+      "id": "12",
+      "image": 43,
+      "key": "u",
+      "name": "Cavar",
+      "required_tool": 18,
+      "sound": "data/mods/core_2/assets/sfx/dig.ogg",
+      "time_statistic_multiplier": 0.15,
+      "time_statistic_scale": 0,
+      "time_weight_scale": 0
+    },
+    {
+      "animation": "",
+      "askey": -1,
+      "description": "Abrir o recipiente e saquear seu conteúdo.",
+      "id": "15",
+      "image": 29,
+      "key": "",
+      "loot": true,
+      "name": "Saquear",
+      "required_tool": -1,
+      "sound": "data/mods/core_2/assets/sfx/loot_chest.ogg",
+      "time_statistic_multiplier": 0,
+      "time_statistic_scale": 0,
+      "time_weight_scale": 0.0
+    },
+    {
+      "animation": "",
+      "askey": -1,
+      "description": "Use uma ferramenta Iniciador de Fogo para atear fogo à entidade Combustível.",
+      "id": "17",
+      "image": 16,
+      "key": "",
+      "name": "Acender Fogo",
+      "required_tool": 20,
+      "sound": "data/mods/core_2/assets/sfx/fire_starter.ogg",
+      "time_statistic_multiplier": 0,
+      "time_statistic_scale": 0,
+      "time_weight_scale": 0.2
+    },
+    {
+      "allow_bulk_action": true,
+      "animation": "",
+      "askey": -1,
+      "description": "Despeje água de um dos seus recipientes no quadrado selecionado.",
+      "id": "19",
+      "image": 58,
+      "key": "",
+      "name": "Despejar Água",
+      "require_liquid": {
+        "amount": 100,
+        "type": 1
+      },
+      "required_tool": -1,
+      "restrict_default": true,
+      "sound": "data/mods/core_2/assets/sfx/splash.ogg",
+      "time_statistic_multiplier": 0,
+      "time_statistic_scale": 0,
+      "time_weight_scale": 0.0
+    },
+    {
+      "description": "",
+      "id": "core_2_pickpocket",
+      "image": 58,
+      "name": "Bater Carteira"
+    },
+    {
+      "description": "",
+      "id": "core_2_rob",
+      "image": 59,
+      "name": "Roubar"
+    },
+    {
+      "allow_bulk_action": true,
+      "animation": "",
+      "description": "Tosquiar a ovelha para obter sua lã.",
+      "id": "core_2_shear",
+      "image": 69,
+      "name": "Tosquiar",
+      "required_tool": 4,
+      "sound": "data/mods/core_2/assets/sfx/shear.ogg",
+      "time_statistic_multiplier": 0.1,
+      "time_statistic_scale": 2,
+      "time_weight_scale": 0.5
+    },
+    {
+      "allow_in_progress": true,
+      "animation": "",
+      "description": "Demolir um objeto como uma parede ou um móvel em uma região que você controla.",
+      "id": "core_2_deconstruct",
+      "image": 61,
+      "name": "Demolir",
+      "require_unlock": true,
+      "required_tool": 6,
+      "restrict_default": true,
+      "restrict_to_own_region": true,
+      "sound": "data/mods/core_2/assets/sfx/abilities/break.ogg",
+      "time_statistic_multiplier": 0.2,
+      "time_statistic_scale": 0
+    },
+    {
+      "animation": "",
+      "askey": 117,
+      "description": "Plantar uma semente no chão.\n\nUsar com tecla de atalho: [color=244,247,118,255]u[/color]",
+      "equipment": true,
+      "id": "core_2_plant",
+      "image": 61,
+      "key": "u",
+      "name": "Plantar",
+      "required_tool": -1,
+      "restrict_to_own_region": true,
+      "sound": "data/mods/core_2/assets/sfx/dig.ogg",
+      "time_statistic_multiplier": 0.2,
+      "time_statistic_scale": 0
+    },
+    {
+      "allow_bulk_action": true,
+      "animation": "",
+      "askey": 98,
+      "description": "Pedir educadamente à árvore que se torne útil para você.\n\nUsar com tecla de atalho: [color=244,247,118,255]b[/color]",
+      "equipment": true,
+      "id": "core_2_woodbend",
+      "image": 77,
+      "key": "b",
+      "name": "Dobrar Madeira",
+      "require_unlock": true,
+      "required_tool": -1,
+      "restrict_default": true,
+      "sound": "data/mods/core_2/assets/sfx/woodbending.ogg",
+      "time_statistic_multiplier": 0.15,
+      "time_statistic_scale": 0,
+      "time_weight_scale": 0
+    },
+    {
+      "animation": "",
+      "askey": -1,
+      "description": "Capture um filhote de animal para transportá-lo para outro local.",
+      "force_single_item": true,
+      "id": "core_2_catch_animal",
+      "image": 29,
+      "key": "",
+      "name": "Capturar Animal",
+      "require_unlock": true,
+      "required_tool": -1,
+      "restrict_default": true,
+      "sound": "data/mods/core_2/assets/sfx/inventory/drop_other_1.ogg",
+      "time_statistic_multiplier": 0.1,
+      "time_statistic_scale": 4,
+      "time_weight_scale": 0
+    },
+    {
+      "animation": "",
+      "askey": -1,
+      "description": "Regue uma planta para ajudá-la a crescer mais rápido.",
+      "force_single_item": true,
+      "id": "core_2_water_plants",
+      "image": 29,
+      "key": "",
+      "name": "Regar Plantas",
+      "require_unlock": true,
+      "required_tool": -1,
+      "restrict_default": true,
+      "sound": "data/mods/core_2/assets/sfx/inventory/drop_other_1.ogg",
+      "time_statistic_multiplier": 0.1,
+      "time_statistic_scale": 4,
+      "time_weight_scale": 0
+    },
+    {
+      "animation": "core_2_Transformation_into_Necrotyrant",
+      "askey": -1,
+      "claim_ruins": true,
+      "description": "Substitua o Necrotirano e assuma o controle de seu Bastião Morto-vivo.\n\nSó pode ser usado nas ruínas do Bastião Morto-vivo ao interagir com o Monolito do Despertar.",
+      "force_single_item": true,
+      "id": "core_2_become_necrotyrant",
+      "image": 87,
+      "key": "",
+      "name": "Torne-se o Necrotirano",
+      "replace_entity": "core_2_Necrotyrant",
+      "require_unlock": true,
+      "required_tool": -1,
+      "restrict_default": true,
+      "sound": "data/mods/core_2/assets/sfx/inventory/drop_other_1.ogg",
+      "time_statistic_multiplier": 0.1,
+      "time_statistic_scale": 4,
+      "time_weight_scale": 0
+    },
+    {
+      "animation": "core_2_Become_Vampire",
+      "askey": -1,
+      "description": "Torne-se um Vampiro e viva para sempre como uma criatura sedenta de sangue.\n\nSó pode ser usado ao realizar um ritual no Altar Necrótico com Sangue de Vampiro obtido de um Lorde Vampiro.",
+      "force_single_item": true,
+      "id": "core_2_become_vampire",
+      "image": 92,
+      "key": "",
+      "name": "Ritual Vampírico",
+      "replace_entity": "core_2_Player_Vampire",
+      "require_liquid": {
+        "amount": 100,
+        "type": 9
+      },
+      "require_unlock": true,
+      "required_tool": -1,
+      "restrict_default": true,
+      "sound": "data/mods/core_2/assets/sfx/inventory/drop_other_1.ogg",
+      "time_statistic_multiplier": 0.1,
+      "time_statistic_scale": 4,
+      "time_weight_scale": 0
+    },
+    {
+      "allow_bulk_action": true,
+      "animation": "",
+      "askey": -1,
+      "description": "Retalhe pedaços de carne tentando obter recursos alquímicos úteis.",
+      "equipment": true,
+      "id": "core_2_carve",
+      "image": 89,
+      "name": "Retalhar",
+      "require_unlock": true,
+      "required_tool": 4,
+      "restrict_default": true,
+      "sound": "data/mods/core_2/assets/sfx/butchering.ogg",
+      "time_statistic_multiplier": 0.1,
+      "time_statistic_scale": 2,
+      "time_weight_scale": 1
+    },
+    {
+      "animation": "",
+      "askey": -1,
+      "description": "Faça um desejo e veja se ele se realiza.",
+      "force_single_item": true,
+      "id": "core_2_wish",
+      "image": 91,
+      "name": "Desejar",
+      "required_tool": -1,
+      "sound": "data/mods/core_2/assets/sfx/abilities/sense_life.ogg",
+      "time_statistic_multiplier": 0.1,
+      "time_statistic_scale": 2,
+      "time_weight_scale": 1
+    },
+    {
+      "animation": "",
+      "askey": -1,
+      "description": "Arrisque-se. Faça uma prece a uma divindade desconhecida. Talvez ela o ouça.",
+      "force_single_item": true,
+      "id": "core_2_pray",
+      "image": 90,
+      "name": "Rezar",
+      "required_tool": -1,
+      "sound": "data/mods/core_2/assets/sfx/abilities/prayer.ogg",
+      "time_statistic_multiplier": 0.1,
+      "time_statistic_scale": 2,
+      "time_weight_scale": 1
+    },
+    {
+      "animation": "",
+      "askey": -1,
+      "description": "Vasculhe os recipientes em locais de eventos especiais para encontrar algo interessante.",
+      "force_single_item": false,
+      "id": "core_2_rummage",
+      "image": 99,
+      "name": "Vasculhar",
+      "require_unlock": true,
+      "required_tool": -1,
+      "restrict_default": true,
+      "sound": "data/mods/core_2/assets/sfx/loot_chest.ogg",
+      "time_statistic_multiplier": 0.1,
+      "time_statistic_scale": 2,
+      "time_weight_scale": 1
+    },
+    {
+      "animation": "",
+      "askey": -1,
+      "description": "Destrua o Coração do Golem de Bronze neste altar. O coração deve estar na sua mochila, e o ritual só pode ser realizado no Templo Submerso.",
+      "force_single_item": true,
+      "id": "core_2_destroy_golem_heart",
+      "image": 91,
+      "key": "",
+      "name": "Destruir Coração",
+      "required_tool": -1,
+      "sound": "data/mods/core_2/assets/sfx/abilities/break.ogg",
+      "time_statistic_multiplier": 0.1,
+      "time_statistic_scale": 2,
+      "time_weight_scale": 1
+    },
+    {
+      "animation": "",
+      "askey": -1,
+      "description": "Capture os vaga-lumes em um pote vazio. O pote deve estar na sua mochila.",
+      "force_single_item": true,
+      "id": "core_2_catch_fireflies",
+      "image": 99,
+      "key": "",
+      "name": "Capturar",
+      "required_tool": -1,
+      "sound": "data/mods/core_2/assets/sfx/loot_chest.ogg",
+      "time_statistic_multiplier": 0.1,
+      "time_statistic_scale": 2,
+      "time_weight_scale": 1
+    }
+  ],
+  "races": [
+    {
+      "ages": {
+        "adult": 50,
+        "child": 14,
+        "elder": 70
+      },
+      "base_entities": {
+        "adult": "694",
+        "adventurer": "core_2_Human_Adventurer",
+        "child": "2000",
+        "leader": "2203",
+        "rebel": "core_2_Human_Rebel",
+        "recruit": "691"
+      },
+      "courting": {
+        "female": [
+          "core_2_Rose_Flower",
+          "2156"
+        ],
+        "male": [
+          "775",
+          "78"
+        ]
+      },
+      "description": "Criaturas versáteis e adaptáveis com uma ampla gama de habilidades e capacidades. Os humanos são de vida curta comparados a outras raças, o que alimenta sua ânsia por progresso e conquistas. São conhecidos por sua engenhosidade, ambição e resiliência, e frequentemente são hábeis em várias profissões e ofícios.\n\nO medo da morte e o desejo de deixar um legado duradouro impulsionam muitos humanos a alcançar a grandeza, mas também podem levá-los à imprudência e à ganância.\n\nOs humanos vivem cerca de [color=244,247,118,255]::elder_age[/color] anos.\n[color=244,247,118,255]Todos os Atributos +1[/color]",
+      "forbidden_actions": [
+        "6",
+        "10"
+      ],
+      "id": "0",
+      "image": 4,
+      "items": [],
+      "name": "Humano",
+      "names": {
+        "female": "npc/names/human_female.txt",
+        "male": "npc/names/human_male.txt",
+        "settlements": "npc/settlements/human_settlements.json",
+        "states": "npc/states/human.json",
+        "surnames": "npc/surnames/human.json"
+      },
+      "orphan_surname": "Grama",
+      "playable": true,
+      "recipes": [],
+      "settlement": {
+        "battle_light_source": "424",
+        "building_sign": "256",
+        "caravan_image": 268,
+        "center_id": "40",
+        "start_spawn_rate": 1.0,
+        "war_causes": [
+          "conquest",
+          "ride_for_wealth"
+        ]
+      },
+      "state_crests": [
+        {
+          "id": "core_2_human_1",
+          "image": 1
+        },
+        {
+          "id": "core_2_human_2",
+          "image": 2
+        },
+        {
+          "id": "core_2_human_3",
+          "image": 3
+        },
+        {
+          "id": "core_2_human_4",
+          "image": 4
+        },
+        {
+          "id": "core_2_human_5",
+          "image": 5
+        }
+      ],
+      "statistics": {
+        "dexterity": 1,
+        "endurance": 1,
+        "intelligence": 1,
+        "strength": 1,
+        "willpower": 1
+      },
+      "tags": [
+        "1",
+        "9"
+      ],
+      "trade_restrictions": [
+        "802"
+      ]
+    },
+    {
+      "ages": {
+        "adult": 120,
+        "child": 20,
+        "elder": 200
+      },
+      "base_entities": {
+        "adult": "456",
+        "adventurer": "core_2_Dwarf_Adventurer",
+        "child": "2244",
+        "leader": "2417",
+        "rebel": "core_2_Dwarf_Rebel",
+        "recruit": "2294"
+      },
+      "courting": {
+        "female": [
+          "852",
+          "396"
+        ],
+        "male": [
+          "core_2_Dwarven_Beer",
+          "863"
+        ]
+      },
+      "crimes": {
+        "forbidden": 50,
+        "murder": -1
+      },
+      "description": "Criaturas baixas, robustas e resistentes, com amor pela mineração e artesanato.\n\nOs Anões são renomados por suas habilidades em metalurgia, obra em pedra e engenharia, e seu forte senso de comunidade e lealdade. Eles possuem um rico patrimônio cultural de folclore e canção e vivem em fortalezas nas montanhas.\n\nOs Anões vivem por cerca de [color=244,247,118,255]::elder_age[/color] anos.\n[color=244,247,118,255]Resistência +2, Força de Vontade +2[/color]\n[color=244,247,118,255]Infravisão[/color] - alcance total de visão na escuridão, metade à luz do dia.",
+      "forbidden_actions": [
+        "5",
+        "6",
+        "10"
+      ],
+      "id": "1",
+      "image": 2,
+      "items": [],
+      "name": "Anão",
+      "names": {
+        "female": "npc/names/dwarf_female.txt",
+        "male": "npc/names/dwarf_male.txt",
+        "settlements": "npc/settlements/dwarf_settlements.json",
+        "states": "npc/states/dwarf.json",
+        "surnames": "npc/surnames/dwarf.json"
+      },
+      "orphan_surname": "da Pedra",
+      "passives": [
+        "core_2_infravision"
+      ],
+      "playable": true,
+      "recipes": [],
+      "settlement": {
+        "battle_light_source": "424",
+        "caravan_image": 270,
+        "carve": false,
+        "center_id": "70",
+        "inside_hill": true,
+        "max_radius": 30,
+        "non_carvables": [
+          "8",
+          "738",
+          "10",
+          "6"
+        ],
+        "road": true,
+        "stairs": 3,
+        "stairs_down": "419",
+        "stairs_up": "420",
+        "start_spawn_rate": 0.4,
+        "war_causes": [
+          "ride_for_wealth"
+        ],
+        "z_level_growth": -1
+      },
+      "state_crests": [
+        {
+          "id": "core_2_dwarf_1",
+          "image": 20
+        },
+        {
+          "id": "core_2_dwarf_2",
+          "image": 21
+        },
+        {
+          "id": "core_2_dwarf_3",
+          "image": 22
+        },
+        {
+          "id": "core_2_dwarf_4",
+          "image": 23
+        },
+        {
+          "id": "core_2_dwarf_5",
+          "image": 24
+        },
+        {
+          "id": "core_2_dwarf_6",
+          "image": 25
+        }
+      ],
+      "statistics": {
+        "endurance": 2,
+        "willpower": 2
+      },
+      "tags": [
+        "6",
+        "9"
+      ],
+      "trade_restrictions": [
+        "2112",
+        "2115"
+      ]
+    },
+    {
+      "ages": {
+        "adult": 300,
+        "child": 20,
+        "elder": 500
+      },
+      "base_entities": {
+        "adult": "232",
+        "adventurer": "core_2_Elf_Adventurer",
+        "child": "2243",
+        "leader": "2418",
+        "rebel": "core_2_Elf_Rebel",
+        "recruit": "2295"
+      },
+      "courting": {
+        "female": [
+          "core_2_Bluebell_Flower",
+          "core_2_Everlasting_Flower"
+        ],
+        "male": [
+          "2360",
+          "core_2_Leaf_Tiara"
+        ]
+      },
+      "crimes": {
+        "forbidden": -1
+      },
+      "description": "Seres graciosos e mágicos com orelhas pontudas e afinidade com a natureza. Os elfos costumam ser habilidosos no arco e flecha, na magia e na furtividade, e são conhecidos por sua longevidade e sabedoria.\n\nOs elfos possuem uma rica herança cultural de canções, danças e histórias. Vivem em grandes árvores que cultivam a partir de uma mística Semente da Vida.\n\nOs elfos vivem cerca de [color=244,247,118,255]::elder_age[/color] anos.\n[color=244,247,118,255]Destreza +2, Inteligência +2[/color]",
+      "forbidden_actions": [
+        "1"
+      ],
+      "id": "2",
+      "image": 41,
+      "name": "Elfo",
+      "names": {
+        "female": "npc/names/elf_female.txt",
+        "male": "npc/names/elf_male.txt",
+        "settlements": "npc/settlements/elf_settlements.json",
+        "states": "npc/states/elf.json",
+        "surnames": "npc/surnames/elf.json"
+      },
+      "orphan_surname": "da Árvore",
+      "playable": true,
+      "settlement": {
+        "area_background_id": "68",
+        "battle_light_source": "424",
+        "caravan_image": 269,
+        "carvables": [
+          "3013"
+        ],
+        "carve": false,
+        "center_id": "56",
+        "road": false,
+        "stairs": 3,
+        "stairs_down": "14",
+        "stairs_up": "13",
+        "start_spawn_rate": 0.3,
+        "z_level_growth": 1
+      },
+      "state_crests": [
+        {
+          "id": "core_2_elf_1",
+          "image": 10
+        },
+        {
+          "id": "core_2_elf_2",
+          "image": 11
+        },
+        {
+          "id": "core_2_elf_3",
+          "image": 12
+        },
+        {
+          "id": "core_2_elf_4",
+          "image": 13
+        },
+        {
+          "id": "core_2_elf_5",
+          "image": 14
+        },
+        {
+          "id": "core_2_elf_6",
+          "image": 15
+        }
+      ],
+      "statistics": {
+        "dexterity": 2,
+        "intelligence": 2
+      },
+      "tags": [
+        "7",
+        "9"
+      ],
+      "trade_restrictions": [
+        "325"
+      ]
+    },
+    {
+      "description": "Nenhum",
+      "id": "3",
+      "name": "Pequenino",
+      "names": {
+        "female": "npc/names/human_female.txt",
+        "male": "npc/names/human_male.txt"
+      },
+      "playable": false,
+      "tags": [
+        "25"
+      ]
+    },
+    {
+      "ages": {
+        "adult": 50,
+        "child": 10,
+        "elder": 80
+      },
+      "base_entities": {
+        "adult": "core_2_Goblin_Adult",
+        "adventurer": "core_2_Goblin_Adventurer",
+        "child": "core_2_Goblin_Child",
+        "leader": "core_2_Goblin_Boss",
+        "rebel": "core_2_Goblin_Rebel",
+        "recruit": "core_2_Goblin_Recruit"
+      },
+      "courting": {
+        "female": [
+          "core_2_Watermelon",
+          "2876"
+        ],
+        "male": [
+          "205",
+          "687"
+        ]
+      },
+      "crimes": {
+        "assault": 5,
+        "murder": 5,
+        "robbery": 200,
+        "stealing": 200
+      },
+      "description": "Goblins são uma raça astuta e resiliente, apta a sobreviver no terreno acidentado e rochoso das colinas. Mantêm uma comunidade unida, valorizando astúcia e força. Sua sociedade é construída sobre uma mistura de sobrevivência e um espírito inabalável, tornando-os formidáveis habitantes das colinas.\n\nGoblins vivem por [color=244,247,118,255]::elder_age[/color] anos.\n[color=244,247,118,255]Destreza +3, Resistência +1[/color]\n[color=244,247,118,255]Furtividade +5[/color]",
+      "id": "4",
+      "image": 1,
+      "items": [],
+      "name": "Goblin",
+      "names": {
+        "female": "npc/names/goblin_female.txt",
+        "male": "npc/names/goblin_male.txt",
+        "settlements": "npc/settlements/goblin_settlements.json",
+        "states": "npc/states/goblin.json",
+        "surnames": "npc/surnames/goblin.json"
+      },
+      "orphan_surname": "Lasca",
+      "playable": true,
+      "recipes": [],
+      "settlement": {
+        "battle_light_source": "424",
+        "caravan_image": 299,
+        "center_id": "344",
+        "start_spawn_rate": 1.0,
+        "war_causes": [
+          "conquest",
+          "ride_for_wealth"
+        ]
+      },
+      "state_crests": [
+        {
+          "id": "core_2_goblin_1",
+          "image": 100
+        },
+        {
+          "id": "core_2_goblin_2",
+          "image": 101
+        },
+        {
+          "id": "core_2_goblin_3",
+          "image": 102
+        },
+        {
+          "id": "core_2_goblin_4",
+          "image": 103
+        },
+        {
+          "id": "core_2_goblin_5",
+          "image": 104
+        }
+      ],
+      "statistics": {
+        "dexterity": 3,
+        "endurance": 1,
+        "sneaking": 5
+      },
+      "tags": [
+        "0",
+        "9",
+        "26"
+      ]
+    },
+    {
+      "description": "Nenhum",
+      "id": "5",
+      "image": 3,
+      "items": [],
+      "name": "Elfo negro",
+      "names": {
+        "female": "npc/names/elf_female.txt",
+        "male": "npc/names/elf_male.txt"
+      },
+      "playable": false,
+      "recipes": [],
+      "statistics": {
+        "dexterity": 2,
+        "intelligence": 1,
+        "willpower": 1
+      },
+      "tags": [
+        "9"
+      ]
+    },
+    {
+      "ages": {
+        "adult": 10000,
+        "child": 0,
+        "elder": 10000
+      },
+      "base_entities": {
+        "adult": "core_2_Vampire_Adult",
+        "adventurer": "core_2_Vampire_Adventurer",
+        "child": "core_2_Vampire_Adult",
+        "leader": "core_2_Vampire_Lord",
+        "recruit": "core_2_Vampire_Recruit"
+      },
+      "crimes": {
+        "assault": 100,
+        "robbery": 200,
+        "stealing": 200
+      },
+      "description": "Ao contrário de seus primos noturnos, esses vampiros são caminhantes do dia, adaptados para prosperar sob céus nublados e luz dourada. São ferozes quando provocados — cavaleiros rápidos, arqueiros devastadores e duelistas aterrorizantes nas planícies abertas. Seus anciãos falam de um tempo em que o próprio céu se curvava à sua sede.\n\nForça +1, Resistência +2, Inteligência +1\nSede e fome são substituídas por sede de sangue.\nInfravisão: ver no escuro\nRegeneração de vida ocorre a cada 7 turnos.",
+      "forbidden_actions": [
+        "5",
+        "9",
+        "15"
+      ],
+      "id": "6",
+      "image": 15,
+      "name": "Vampiro",
+      "names": {
+        "female": "npc/names/vampire_female.txt",
+        "male": "npc/names/vampire_male.txt",
+        "settlements": "npc/settlements/vampire_settlements.json",
+        "states": "npc/states/vampire.json",
+        "surnames": "npc/surnames/vampire.json"
+      },
+      "options": [
+        "sleep_in_bed",
+        "damaging_healing",
+        "spread_vampirism"
+      ],
+      "orphan_surname": "Sem-sangue",
+      "passives": [
+        "core_2_vampiric_bloodlust",
+        "core_2_infravision"
+      ],
+      "playable": false,
+      "settlement": {
+        "aggression_default": true,
+        "aggression_per_race": {
+          "17": false,
+          "6": false
+        },
+        "birth_cost": {
+          "amount": 1,
+          "resource": "core_2_Vampire_Blood"
+        },
+        "buyout": false,
+        "caravan_image": 134,
+        "center_id": "512",
+        "collapse_on_leader_death": false,
+        "disabled_trading": false,
+        "max": 1,
+        "migration": false,
+        "single_family": true,
+        "start_spawn_rate": 1.0,
+        "war_causes": [
+          "conquest"
+        ]
+      },
+      "state_crests": [
+        {
+          "id": "core_2_vampire_1",
+          "image": 140
+        },
+        {
+          "id": "core_2_vampire_2",
+          "image": 141
+        },
+        {
+          "id": "core_2_vampire_3",
+          "image": 142
+        },
+        {
+          "id": "core_2_vampire_4",
+          "image": 143
+        },
+        {
+          "id": "core_2_vampire_5",
+          "image": 144
+        }
+      ],
+      "statistics": {
+        "endurance": 2,
+        "health_regen_tick": 7.0,
+        "intelligence": 1,
+        "strength": 1
+      },
+      "tags": [
+        "23",
+        "38",
+        "4"
+      ]
+    },
+    {
+      "ages": {
+        "adult": 70,
+        "child": 10,
+        "elder": 80
+      },
+      "base_entities": {
+        "adult": "core_2_Troll_Adult",
+        "adventurer": "core_2_Troll_Adventurer",
+        "child": "core_2_Troll_Child",
+        "leader": "core_2_Troll_Warbringer",
+        "rebel": "core_2_Troll_Rebel",
+        "recruit": "core_2_Troll_Recruit"
+      },
+      "courting": {
+        "female": [
+          "960",
+          "core_2_Human_Hand"
+        ],
+        "male": [
+          "2186",
+          "core_2_Bone_Mace"
+        ]
+      },
+      "crimes": {
+        "assault": 500,
+        "murder": 500,
+        "robbery": 50,
+        "stealing": 50
+      },
+      "description": "Trolls são uma raça rude e resistente, perfeitamente adaptada ao seu ambiente hostil e rochoso. Eles têm constituições poderosas e musculosas, e são ferozmente protetores de seus clãs.\n\nTrolls vivem cerca de [color=244,247,118,255]::elder_age[/color] anos.\n[color=244,247,118,255]Força +3, Resistência +2, Inteligência -4[/color]\n[color=244,247,118,255]Infravisão[/color]\n[color=244,247,118,255]Regeneração de Vida Mais Rápida[/color]",
+      "forbidden_actions": [
+        "5",
+        "6",
+        "10",
+        "17",
+        "core_2_woodbend"
+      ],
+      "id": "7",
+      "image": 6,
+      "items": [],
+      "name": "Troll",
+      "names": {
+        "female": "npc/names/troll_female.txt",
+        "male": "npc/names/troll_male.txt",
+        "settlements": "npc/settlements/troll_settlements.json",
+        "states": "npc/states/troll.json",
+        "surnames": "npc/surnames/troll.json"
+      },
+      "orphan_surname": "Flint",
+      "passives": [
+        "core_2_infravision"
+      ],
+      "playable": true,
+      "recipes": [],
+      "settlement": {
+        "battle_light_source": "424",
+        "caravan_image": 294,
+        "carve": false,
+        "center_id": "408",
+        "inside_hill": true,
+        "max_radius": 50,
+        "non_carvables": [
+          "738",
+          "2871",
+          "6",
+          "core_2_Makeshift_Stone_Wall",
+          "37",
+          "32"
+        ],
+        "road": true,
+        "stairs": 3,
+        "stairs_down": "2039",
+        "stairs_up": "2038",
+        "start_spawn_rate": 0.25,
+        "war_causes": [
+          "conquest",
+          "ride_for_wealth"
+        ],
+        "z_level_growth": -1
+      },
+      "state_crests": [
+        {
+          "id": "core_2_troll_1",
+          "image": 110
+        },
+        {
+          "id": "core_2_troll_2",
+          "image": 111
+        },
+        {
+          "id": "core_2_troll_3",
+          "image": 112
+        },
+        {
+          "id": "core_2_troll_4",
+          "image": 113
+        },
+        {
+          "id": "core_2_troll_5",
+          "image": 114
+        }
+      ],
+      "statistics": {
+        "endurance": 2,
+        "health_regen_tick": 8.0,
+        "intelligence": -4,
+        "strength": 3
+      },
+      "tags": [
+        "9",
+        "11",
+        "26"
+      ]
+    },
+    {
+      "ages": {
+        "adult": 60,
+        "child": 10,
+        "elder": 80
+      },
+      "base_entities": {
+        "adult": "core_2_Orc_Adult",
+        "adventurer": "core_2_Orc_Adventurer",
+        "child": "core_2_Orc_Child",
+        "leader": "core_2_Orc_Warchief",
+        "rebel": "core_2_Orc_Rebel",
+        "recruit": "core_2_Orc_Recruit"
+      },
+      "courting": {
+        "female": [
+          "core_2_Jaw_Axe",
+          "2177"
+        ],
+        "male": [
+          "core_2_Jaw_Axe",
+          "2177"
+        ]
+      },
+      "crimes": {
+        "assault": 5,
+        "murder": 5,
+        "robbery": 200,
+        "stealing": 200
+      },
+      "description": "Orcs são uma raça feroz e resistente, adaptada ao terreno de colinas de sua terra natal. Com constituições musculosas e pele grossa e calosa, eles prosperam em paisagens rochosas e irregulares. Os Orcs formam uma sociedade guerreira, valorizando força, resistência e astúcia tática. Seus líderes são tipicamente escolhidos com base na proeza em combate.\n\nOrcs vivem cerca de [color=244,247,118,255]::elder_age[/color] anos.\n[color=244,247,118,255]Força +2, Resistência +2[/color]",
+      "forbidden_actions": [
+        "6",
+        "10"
+      ],
+      "id": "8",
+      "image": 7,
+      "items": [],
+      "name": "Orc",
+      "names": {
+        "female": "npc/names/orc_female.txt",
+        "male": "npc/names/orc_male.txt",
+        "settlements": "npc/settlements/orc_settlements.json",
+        "states": "npc/states/orc.json",
+        "surnames": "npc/surnames/orc.json"
+      },
+      "orphan_surname": "Nascido na Batalha",
+      "playable": true,
+      "recipes": [],
+      "settlement": {
+        "battle_light_source": "424",
+        "caravan_image": 304,
+        "center_id": "364",
+        "start_spawn_rate": 1.0,
+        "war_causes": [
+          "conquest",
+          "ride_for_wealth"
+        ]
+      },
+      "state_crests": [
+        {
+          "id": "core_2_orc_1",
+          "image": 90
+        },
+        {
+          "id": "core_2_orc_2",
+          "image": 91
+        },
+        {
+          "id": "core_2_orc_3",
+          "image": 92
+        },
+        {
+          "id": "core_2_orc_4",
+          "image": 93
+        },
+        {
+          "id": "core_2_orc_5",
+          "image": 94
+        }
+      ],
+      "statistics": {
+        "endurance": 2,
+        "strength": 2
+      },
+      "tags": [
+        "9",
+        "12",
+        "26"
+      ]
+    },
+    {
+      "description": "Nenhum",
+      "id": "9",
+      "image": 8,
+      "items": [],
+      "name": "Lich",
+      "names": {
+        "female": "npc/names/lich.txt",
+        "male": "npc/names/lich.txt"
+      },
+      "playable": false,
+      "recipes": [],
+      "statistics": {
+        "intelligence": 2,
+        "willpower": 2
+      },
+      "tags": [
+        "27",
+        "4"
+      ]
+    },
+    {
+      "ages": {
+        "adult": 60,
+        "child": 10,
+        "elder": 80
+      },
+      "base_entities": {
+        "adult": "2415",
+        "adventurer": "core_2_Rasimi_Adventurer",
+        "child": "2412",
+        "leader": "2420",
+        "rebel": "core_2_Rasimi_Rebel",
+        "recruit": "2414"
+      },
+      "courting": {
+        "female": [
+          "core_2_Claw_Ring",
+          "2157"
+        ],
+        "male": [
+          "241",
+          "578"
+        ]
+      },
+      "crimes": {
+        "assault": 10,
+        "murder": 50,
+        "pickpocket": 4,
+        "robbery": 8,
+        "stealing": 6
+      },
+      "description": "Humanoides felinos ferozes e ágeis que chamam as densas selvas de lar. Formam tribos e clãs, frequentemente envolvendo-se em disputas territoriais. Os Rasimi vivem em cidades construídas nas árvores, caçando e coletando recursos da selva abaixo. São escaladores e caçadores hábeis, usando suas garras e dentes afiados para abater presas.\n\nSua sociedade é ferozmente independente, com pouco respeito por forasteiros. Possuem uma rica tradição oral, transmitindo histórias de seus ancestrais e lendas da selva.\n\nOs Rasimi acreditam na força e na honra e frequentemente participam de combates rituais para determinar liderança e resolver disputas. Sua cultura é selvagem e indomada, profundamente conectada ao mundo natural.\n\nOs Rasimi vivem cerca de [color=244,247,118,255]::elder_age[/color] anos.\n[color=244,247,118,255]Destreza +2, Resistência +2[/color]\n[color=244,247,118,255]Infravisão[/color] - alcance total de visão na escuridão, metade à luz do dia.",
+      "forbidden_actions": [
+        "core_2_woodbend"
+      ],
+      "id": "10",
+      "image": 9,
+      "items": [],
+      "name": "Rasimi",
+      "names": {
+        "female": "npc/names/rasimi_female.txt",
+        "male": "npc/names/rasimi_male.txt",
+        "settlements": "npc/settlements/rasimi_settlements.json",
+        "states": "npc/states/rasimi.json",
+        "surnames": "npc/surnames/rasimi.json"
+      },
+      "orphan_surname": "Bruto",
+      "passives": [
+        "core_2_infravision"
+      ],
+      "playable": true,
+      "recipes": [],
+      "settlement": {
+        "battle_light_source": "424",
+        "caravan_image": 272,
+        "carve": false,
+        "center_id": "135",
+        "road": false,
+        "start_spawn_rate": 0.7,
+        "war_causes": [
+          "conquest",
+          "ride_for_wealth"
+        ]
+      },
+      "state_crests": [
+        {
+          "id": "core_2_rasimi_1",
+          "image": 30
+        },
+        {
+          "id": "core_2_rasimi_2",
+          "image": 31
+        },
+        {
+          "id": "core_2_rasimi_3",
+          "image": 32
+        },
+        {
+          "id": "core_2_rasimi_4",
+          "image": 33
+        },
+        {
+          "id": "core_2_rasimi_5",
+          "image": 34
+        }
+      ],
+      "statistics": {
+        "dexterity": 2,
+        "endurance": 2
+      },
+      "subraces": {
+        "leopard": {
+          "name": "Leopardo"
+        },
+        "lion": {
+          "name": "Leão"
+        },
+        "panther": {
+          "name": "Pantera"
+        },
+        "tiger": {
+          "name": "Tigre"
+        }
+      },
+      "tags": [
+        "9",
+        "28"
+      ]
+    },
+    {
+      "description": "Desconhecido",
+      "id": "11",
+      "name": "Desconhecido",
+      "playable": false
+    },
+    {
+      "description": "Nenhum",
+      "id": "12",
+      "name": "Troglodita",
+      "names": {
+        "female": "npc/names/troglodyte.txt",
+        "male": "npc/names/troglodyte.txt"
+      },
+      "playable": false,
+      "tags": [
+        "9",
+        "10"
+      ]
+    },
+    {
+      "description": "Nenhuma",
+      "id": "13",
+      "name": "Homem-peixe",
+      "names": {
+        "female": "npc/names/fishman.txt",
+        "male": "npc/names/fishman.txt"
+      },
+      "playable": false,
+      "tags": [
+        "9",
+        "13"
+      ]
+    },
+    {
+      "description": "Nenhuma",
+      "id": "14",
+      "image": 44,
+      "items": [],
+      "name": "Demônio",
+      "names": {
+        "female": "npc/names/demon.txt",
+        "male": "npc/names/demon.txt"
+      },
+      "playable": false,
+      "recipes": [],
+      "statistics": {
+        "endurance": 4
+      },
+      "tags": [
+        "9",
+        "14"
+      ]
+    },
+    {
+      "description": "Nenhuma",
+      "id": "15",
+      "name": "Sátiro",
+      "names": {
+        "female": "npc/names/satyr_female.txt",
+        "male": "npc/names/satyr_male.txt"
+      },
+      "playable": false,
+      "tags": [
+        "9",
+        "15"
+      ]
+    },
+    {
+      "description": "Nenhuma",
+      "id": "16",
+      "image": 27,
+      "name": "Centauro",
+      "names": {
+        "female": "npc/names/satyr_female.txt",
+        "male": "npc/names/satyr_male.txt"
+      },
+      "playable": false,
+      "tags": [
+        "9",
+        "16"
+      ]
+    },
+    {
+      "ages": {
+        "adult": 10000,
+        "child": 0,
+        "elder": 10000
+      },
+      "base_entities": {
+        "adult": "core_2_Skeleton_Adult",
+        "child": "core_2_Skeleton_Adult",
+        "leader": "core_2_Necrotyrant",
+        "recruit": "core_2_Skeleton_Recruit"
+      },
+      "crimes": {
+        "assault": 100,
+        "robbery": 200,
+        "stealing": 200
+      },
+      "description": "Os esqueletos são uma raça arrepiante de guerreiros mortos-vivos liderados por um Necrotirano. Adaptados ao ambiente hostil e frio, seus ossos são tão duros quanto o gelo que os cerca. Sua sociedade é militarista, com uma hierarquia estrita focada em guerra e conquista. Eles invadem terras vizinhas não apenas por recursos, mas para expandir seu império gelado.",
+      "forbidden_actions": [
+        "5",
+        "9",
+        "15"
+      ],
+      "id": "17",
+      "image": 15,
+      "name": "Esqueleto",
+      "names": {
+        "female": "npc/names/skeleton.txt",
+        "male": "npc/names/skeleton.txt",
+        "settlements": "npc/settlements/skeleton_settlements.json",
+        "states": "npc/states/skeleton.json",
+        "surnames": "npc/surnames/skeleton.json"
+      },
+      "orphan_surname": "Renegado",
+      "passives": [
+        "core_2_disable_consumption"
+      ],
+      "playable": false,
+      "settlement": {
+        "aggression_default": true,
+        "aggression_per_race": {
+          "17": false
+        },
+        "birth_cost": {
+          "amount": 1,
+          "resource": "core_2_Soul_Piece"
+        },
+        "buyout": false,
+        "caravan_image": 304,
+        "center_id": "473",
+        "collapse_on_leader_death": true,
+        "disabled_trading": true,
+        "max": 1,
+        "migration": false,
+        "offensive_army_when_conquered": true,
+        "single_family": true,
+        "start_spawn_rate": 1.0,
+        "war_causes": [
+          "soul_harvest"
+        ]
+      },
+      "state_crests": [
+        {
+          "id": "core_2_skeleton_1",
+          "image": 130
+        },
+        {
+          "id": "core_2_skeleton_2",
+          "image": 131
+        },
+        {
+          "id": "core_2_skeleton_3",
+          "image": 132
+        },
+        {
+          "id": "core_2_skeleton_4",
+          "image": 133
+        },
+        {
+          "id": "core_2_skeleton_5",
+          "image": 134
+        }
+      ],
+      "tags": [
+        "20",
+        "4"
+      ]
+    },
+    {
+      "description": "Nenhum",
+      "id": "18",
+      "name": "Carniçal",
+      "names": {
+        "female": "npc/names/human_female.txt",
+        "male": "npc/names/human_male.txt"
+      },
+      "playable": false,
+      "tags": [
+        "21",
+        "4"
+      ]
+    },
+    {
+      "description": "Nenhum",
+      "id": "19",
+      "name": "Dragão",
+      "playable": false,
+      "tags": [
+        "9",
+        "19"
+      ]
+    },
+    {
+      "description": "Nenhum",
+      "id": "20",
+      "name": "Insetoide",
+      "playable": false,
+      "tags": [
+        "9",
+        "18"
+      ]
+    },
+    {
+      "description": "Nenhum",
+      "id": "21",
+      "name": "Mutante",
+      "names": {
+        "female": "npc/names/human_female.txt",
+        "male": "npc/names/human_male.txt"
+      },
+      "playable": false,
+      "tags": [
+        "9",
+        "17"
+      ]
+    },
+    {
+      "ages": {
+        "adult": 10000,
+        "child": 0,
+        "elder": 10000
+      },
+      "base_entities": {
+        "adult": "694",
+        "child": "2000",
+        "leader": "2203",
+        "recruit": "691"
+      },
+      "description": "Nenhum",
+      "id": "22",
+      "name": "Zumbi",
+      "names": {
+        "female": "npc/names/human_female.txt",
+        "male": "npc/names/human_male.txt"
+      },
+      "playable": false,
+      "tags": [
+        "22",
+        "4"
+      ]
+    },
+    {
+      "ages": {
+        "adult": 60,
+        "child": 8,
+        "elder": 80
+      },
+      "base_entities": {
+        "adult": "core_2_Reptilion_Adult",
+        "adventurer": "core_2_Reptilion_Adventurer",
+        "child": "core_2_Reptilion_Child",
+        "leader": "core_2_Reptilion_Leader",
+        "rebel": "core_2_Reptilion_Rebel",
+        "recruit": "core_2_Reptilion_Recruit"
+      },
+      "courting": {
+        "female": [
+          "376",
+          "2436"
+        ],
+        "male": [
+          "2045",
+          "776"
+        ]
+      },
+      "crimes": {
+        "assault": 100,
+        "robbery": 200,
+        "stealing": 200
+      },
+      "description": "Uma raça antiga, selvagem e inteligente de humanoides reptilianos de sangue frio. Os Reptilions formam tribos nos pântanos. Quando não estão em guerra entre si, caçam seu inimigo principal, os homens-peixe, que acreditam ser sua presa natural.\n\nOs Reptilions vivem cerca de [color=244,247,118,255]::elder_age[/color] anos.\n[color=244,247,118,255]Força +2, Destreza +2[/color]\n[color=244,247,118,255]Pesca com Garras[/color] - Pode pegar peixes com as mãos nuas.",
+      "forbidden_actions": [
+        "5",
+        "15"
+      ],
+      "id": "23",
+      "items": [],
+      "name": "Reptilion",
+      "names": {
+        "female": "npc/names/reptilion_female.txt",
+        "male": "npc/names/reptilion_male.txt",
+        "settlements": "npc/settlements/reptilion_settlements.json",
+        "states": "npc/states/reptilion.json",
+        "surnames": "npc/surnames/reptilion.json"
+      },
+      "orphan_surname": "Sem-escamas",
+      "passives": [
+        "core_2_claw_fishing"
+      ],
+      "playable": true,
+      "recipes": [],
+      "settlement": {
+        "battle_light_source": "424",
+        "caravan_image": 275,
+        "carve": false,
+        "center_id": "250",
+        "road": true,
+        "start_spawn_rate": 0.5,
+        "war_causes": [
+          "conquest",
+          "ride_for_wealth"
+        ]
+      },
+      "state_crests": [
+        {
+          "id": "core_2_reptilion_1",
+          "image": 50
+        },
+        {
+          "id": "core_2_reptilion_2",
+          "image": 51
+        },
+        {
+          "id": "core_2_reptilion_3",
+          "image": 52
+        },
+        {
+          "id": "core_2_reptilion_4",
+          "image": 53
+        },
+        {
+          "id": "core_2_reptilion_5",
+          "image": 54
+        },
+        {
+          "id": "core_2_reptilion_6",
+          "image": 55
+        }
+      ],
+      "statistics": {
+        "dexterity": 2,
+        "strength": 2
+      },
+      "tags": [
+        "9",
+        "24"
+      ]
+    },
+    {
+      "ages": {
+        "adult": 70,
+        "child": 12,
+        "elder": 120
+      },
+      "base_entities": {
+        "adult": "core_2_Gnome_Adult",
+        "adventurer": "core_2_Gnome_Adventurer",
+        "child": "core_2_Gnome_Child",
+        "leader": "core_2_Gnome_Mayor",
+        "rebel": "core_2_Gnome_Rebel",
+        "recruit": "core_2_Gnome_Recruit"
+      },
+      "courting": {
+        "female": [
+          "core_2_Red_Currant_Jam",
+          "core_2_Chopines_Shoes"
+        ],
+        "male": [
+          "839",
+          "2210"
+        ]
+      },
+      "description": "Os gnomos são um povo pequeno e resistente, conhecido pela alegria e habilidade manual. Engenhosos, curiosos e dedicados à comunidade, preferem uma vida simples de boas colheitas, trabalhos artesanais e risadas compartilhadas a conflitos ou aventuras.\n\nOs gnomos vivem cerca de [color=244,247,118,255]::elder_age[/color] anos.\n[color=244,247,118,255]Inteligência +2, Força de Vontade +2[/color]",
+      "forbidden_actions": [
+        "6",
+        "10"
+      ],
+      "id": "24",
+      "image": 26,
+      "items": [],
+      "name": "Gnomo",
+      "names": {
+        "female": "npc/names/gnome_female.txt",
+        "male": "npc/names/gnome_male.txt",
+        "settlements": "npc/settlements/gnome_settlements.json",
+        "states": "npc/states/gnome.json",
+        "surnames": "npc/surnames/gnome.json"
+      },
+      "orphan_surname": "Espreitar",
+      "passives": [],
+      "playable": true,
+      "recipes": [],
+      "settlement": {
+        "battle_light_source": "424",
+        "caravan_image": 102,
+        "carve": true,
+        "center_id": "586",
+        "road": true,
+        "start_spawn_rate": 0.4,
+        "war_causes": [
+          "ride_for_wealth"
+        ]
+      },
+      "state_crests": [
+        {
+          "id": "core_2_gnome_1",
+          "image": 150
+        },
+        {
+          "id": "core_2_gnome_2",
+          "image": 151
+        },
+        {
+          "id": "core_2_gnome_3",
+          "image": 152
+        },
+        {
+          "id": "core_2_gnome_4",
+          "image": 153
+        },
+        {
+          "id": "core_2_gnome_5",
+          "image": 154
+        }
+      ],
+      "statistics": {
+        "intelligence": 2,
+        "willpower": 2
+      },
+      "tags": [
+        "9",
+        "36"
+      ]
+    },
+    {
+      "description": "Nenhum",
+      "id": "25",
+      "name": "Kavian",
+      "playable": false,
+      "tags": [
+        "9",
+        "30"
+      ]
+    },
+    {
+      "ages": {
+        "adult": 50,
+        "child": -1,
+        "elder": 60
+      },
+      "base_entities": {
+        "adult": "2413",
+        "adventurer": "core_2_Bone_Wraith_Adventurer",
+        "child": "2413",
+        "leader": "2419",
+        "rebel": "core_2_Bone_Wraith_Rebel",
+        "recruit": "2416"
+      },
+      "courting": {
+        "female": [
+          "2936",
+          "2530"
+        ],
+        "male": [
+          "2936",
+          "2526"
+        ]
+      },
+      "crimes": {
+        "assault": 200,
+        "robbery": 200,
+        "stealing": 200
+      },
+      "description": "Uma raça misteriosa e enigmática que vive no deserto inóspito. São conhecidos por seu artesanato ósseo, uma forma única de construção que envolve o uso de ossos para criar estruturas e aprimorar seus corpos.\n\nOs Espectros Ósseos são nômades, constantemente em busca de novos ossos de seres poderosos para adicionar à sua coleção. São caçadores e rastreadores hábeis, capazes de navegar pelo deserto com facilidade.\n\nSua sociedade é estruturada em torno do poder, com os membros mais poderosos e capazes sendo os mais influentes. São conhecidos por serem implacáveis e astutos, e são frequentemente temidos por outros seres.\n\nOs Espectros Ósseos mantêm-se reclusos e revelam pouco sobre sua cultura ou crenças aos forasteiros.\n\nOs Espectros Ósseos vivem por volta de [color=244,247,118,255]::elder_age[/color] anos.\n[color=244,247,118,255]Força +2, Inteligência +2[/color]",
+      "forbidden_actions": [
+        "5",
+        "10",
+        "19"
+      ],
+      "id": "26",
+      "image": 43,
+      "items": [],
+      "name": "Espectro Ósseo",
+      "names": {
+        "female": "npc/names/bone_wraith_female.txt",
+        "male": "npc/names/bone_wraith_male.txt",
+        "settlements": "npc/settlements/wraith_settlements.json",
+        "states": "npc/states/wraith.json",
+        "surnames": "npc/surnames/bone_wraith.json"
+      },
+      "orphan_surname": "Os Sem-Ossos",
+      "playable": true,
+      "recipes": [],
+      "settlement": {
+        "battle_light_source": "424",
+        "birth_cost": {
+          "amount": 100,
+          "max_population": 120,
+          "resource_type": 5
+        },
+        "caravan_image": 271,
+        "center_id": "136",
+        "single_family": true,
+        "start_spawn_rate": 1.0,
+        "war_causes": [
+          "ride_for_wealth"
+        ]
+      },
+      "state_crests": [
+        {
+          "id": "core_2_bone_wraith_1",
+          "image": 40
+        },
+        {
+          "id": "core_2_bone_wraith_2",
+          "image": 41
+        },
+        {
+          "id": "core_2_bone_wraith_3",
+          "image": 42
+        },
+        {
+          "id": "core_2_bone_wraith_4",
+          "image": 43
+        },
+        {
+          "id": "core_2_bone_wraith_5",
+          "image": 44
+        },
+        {
+          "id": "core_2_bone_wraith_6",
+          "image": 45
+        }
+      ],
+      "statistics": {
+        "intelligence": 2,
+        "strength": 2
+      },
+      "tags": [
+        "3",
+        "9",
+        "35"
+      ],
+      "trade_restrictions": [
+        "55",
+        "2368",
+        "2367"
+      ]
+    },
+    {
+      "description": "",
+      "id": "27",
+      "image": 46,
+      "items": [],
+      "name": "Golem",
+      "names": {
+        "female": "npc/names/golem.txt",
+        "male": "npc/names/golem.txt"
+      },
+      "playable": false,
+      "recipes": [],
+      "statistics": {
+        "strength": 2,
+        "willpower": 2
+      },
+      "tags": [
+        "3",
+        "32"
+      ]
+    },
+    {
+      "description": "",
+      "id": "28",
+      "image": 47,
+      "items": [],
+      "name": "Abominação",
+      "names": {
+        "female": "npc/names/human_female.txt",
+        "male": "npc/names/human_male.txt"
+      },
+      "playable": false,
+      "recipes": [],
+      "statistics": {
+        "endurance": 2,
+        "strength": 2
+      },
+      "tags": [
+        "3",
+        "4"
+      ]
+    },
+    {
+      "description": "Nenhum",
+      "id": "29",
+      "image": 47,
+      "items": [],
+      "name": "Deus",
+      "playable": false,
+      "recipes": [],
+      "statistics": {
+        "dexterity": 10,
+        "endurance": 10,
+        "intelligence": 10,
+        "strength": 10,
+        "willpower": 10
+      },
+      "tags": [
+        "31"
+      ]
+    },
+    {
+      "description": "",
+      "id": "30",
+      "image": 48,
+      "items": [],
+      "name": "Djinn",
+      "names": {
+        "female": "npc/names/djinn.txt",
+        "male": "npc/names/djinn.txt"
+      },
+      "playable": false,
+      "recipes": [],
+      "statistics": {
+        "intelligence": 2,
+        "willpower": 2
+      },
+      "tags": [
+        "3",
+        "34"
+      ]
+    },
+    {
+      "ages": {
+        "adult": 50,
+        "child": 3,
+        "elder": 70
+      },
+      "base_entities": {
+        "adult": "core_2_Gnoll_Adult",
+        "adventurer": "core_2_Gnoll_Adventurer",
+        "child": "core_2_Gnoll_Child",
+        "leader": "core_2_Gnoll_Pack_Leader",
+        "rebel": "core_2_Gnoll_Rebel",
+        "recruit": "core_2_Gnoll_Recruit"
+      },
+      "courting": {
+        "female": [
+          "2174",
+          "3026"
+        ],
+        "male": [
+          "710",
+          "775"
+        ]
+      },
+      "crimes": {
+        "assault": 5,
+        "murder": 20,
+        "robbery": 60,
+        "stealing": 60
+      },
+      "description": "Gnolls, humanoides semelhantes a hienas, são conhecidos por serem caçadores habilidosos e guerreiros ferozes. Têm má reputação por comerem raças inteligentes, mas não fazem mais isso!\n\nAgora só comem humanos.\n\nGnolls vivem cerca de [color=244,247,118,255]::elder_age[/color] anos.\n[color=244,247,118,255]Destreza +2, Força de Vontade +2[/color]\n[color=244,247,118,255]Infravisão[/color] - alcance total de visão na escuridão, metade à luz do dia.",
+      "forbidden_actions": [
+        "5"
+      ],
+      "id": "31",
+      "image": 49,
+      "items": [],
+      "name": "Gnoll",
+      "names": {
+        "female": "npc/names/gnoll.txt",
+        "male": "npc/names/gnoll.txt",
+        "settlements": "npc/settlements/gnoll_settlements.json",
+        "states": "npc/states/gnoll.json",
+        "surnames": "npc/surnames/gnoll.json"
+      },
+      "orphan_surname": "Sem Matilha",
+      "passives": [
+        "core_2_infravision"
+      ],
+      "playable": true,
+      "recipes": [],
+      "settlement": {
+        "battle_light_source": "424",
+        "caravan_image": 289,
+        "carve": false,
+        "center_id": "326",
+        "road": true,
+        "start_spawn_rate": 0.5,
+        "war_causes": [
+          "conquest",
+          "ride_for_wealth"
+        ]
+      },
+      "state_crests": [
+        {
+          "id": "core_2_gnoll_1",
+          "image": 80
+        },
+        {
+          "id": "core_2_gnoll_2",
+          "image": 81
+        },
+        {
+          "id": "core_2_gnoll_3",
+          "image": 82
+        },
+        {
+          "id": "core_2_gnoll_4",
+          "image": 83
+        },
+        {
+          "id": "core_2_gnoll_5",
+          "image": 84
+        }
+      ],
+      "statistics": {
+        "dexterity": 2,
+        "willpower": 2
+      },
+      "tags": [
+        "7",
+        "9"
+      ]
+    },
+    {
+      "ages": {
+        "adult": 50,
+        "child": 7,
+        "elder": 80
+      },
+      "base_entities": {
+        "adult": "core_2_Mushman_Adult",
+        "adventurer": "core_2_Mushman_Adventurer",
+        "child": "core_2_Mushman_Child",
+        "leader": "core_2_Mushman_Circle_King",
+        "rebel": "core_2_Mushman_Rebel",
+        "recruit": "core_2_Mushman_Recruit"
+      },
+      "courting": {
+        "female": [
+          "core_2_Flower_Necklace",
+          "core_2_Flower_Crown"
+        ],
+        "male": [
+          "core_2_Watermelon",
+          "820"
+        ]
+      },
+      "crimes": {
+        "assault": 200,
+        "murder": 200,
+        "robbery": 200,
+        "stealing": 200
+      },
+      "description": "Homens-cogumelo mantêm a ordem na floresta. Espalham esporos e criam cogumelos por toda parte. São uma raça rara que vive no subsolo, longe do sol. Grandes redes de micélio permitem que mantenham contato com colônias em diferentes florestas.\n\nHomens-cogumelo vivem cerca de [color=244,247,118,255]::elder_age[/color] anos.\n[color=244,247,118,255]Força +2, Inteligência +2[/color]\n[color=244,247,118,255]Infravisão[/color] - alcance total de visão na escuridão, metade à luz do dia.",
+      "forbidden_actions": [
+        "6",
+        "10"
+      ],
+      "id": "32",
+      "image": 26,
+      "items": [],
+      "name": "Homem-cogumelo",
+      "names": {
+        "female": "npc/names/mushman.txt",
+        "male": "npc/names/mushman.txt",
+        "settlements": "npc/settlements/mushman_settlements.json",
+        "states": "npc/states/mushmen.json",
+        "surnames": "npc/surnames/mushman.json"
+      },
+      "orphan_surname": "Esporídeo",
+      "passives": [
+        "core_2_infravision"
+      ],
+      "playable": true,
+      "recipes": [],
+      "settlement": {
+        "battle_light_source": "424",
+        "caravan_image": 274,
+        "carve": true,
+        "center_id": "267",
+        "max_radius": 40,
+        "road": true,
+        "stairs": 2,
+        "stairs_down": "2035",
+        "stairs_up": "2034",
+        "start_spawn_rate": 0.33,
+        "z_level_growth": -1,
+        "z_level_start": -1
+      },
+      "state_crests": [
+        {
+          "id": "core_2_mushman_1",
+          "image": 60
+        },
+        {
+          "id": "core_2_mushman_2",
+          "image": 61
+        },
+        {
+          "id": "core_2_mushman_3",
+          "image": 62
+        },
+        {
+          "id": "core_2_mushman_4",
+          "image": 63
+        },
+        {
+          "id": "core_2_mushman_5",
+          "image": 64
+        }
+      ],
+      "statistics": {
+        "intelligence": 2,
+        "strength": 2
+      },
+      "tags": [
+        "9",
+        "40"
+      ]
+    },
+    {
+      "ages": {
+        "adult": 45,
+        "child": 12,
+        "elder": 70
+      },
+      "base_entities": {
+        "adult": "core_2_Ursan_Adult",
+        "adventurer": "core_2_Ursan_Adventurer",
+        "child": "core_2_Ursan_Child",
+        "leader": "core_2_Ursan_Warchief",
+        "rebel": "core_2_Ursan_Rebel",
+        "recruit": "core_2_Ursan_Recruit"
+      },
+      "courting": {
+        "female": [
+          "820",
+          "125"
+        ],
+        "male": [
+          "2178",
+          "2170"
+        ]
+      },
+      "description": "Os Ursanos são uma raça antiga. Eles valorizam a força física e a lealdade acima de tudo. Têm grande orgulho de poder suportar qualquer coisa que um ambiente hostil lhes reserve. Viver em tundras desoladas os forçou a ser engenhosos.\n\nOs Ursanos vivem cerca de [color=244,247,118,255]::elder_age[/color] anos.\n[color=244,247,118,255]Força +1, Resistência +1, Força de Vontade +2[/color]",
+      "forbidden_actions": [
+        "6",
+        "10"
+      ],
+      "id": "33",
+      "image": 26,
+      "items": [],
+      "name": "Ursano",
+      "names": {
+        "female": "npc/names/ursan_female.txt",
+        "male": "npc/names/ursan_male.txt",
+        "settlements": "npc/settlements/ursan_settlements.json",
+        "states": "npc/states/ursan.json",
+        "surnames": "npc/surnames/ursan.json"
+      },
+      "orphan_surname": "do Abismo",
+      "passives": [],
+      "playable": true,
+      "recipes": [],
+      "settlement": {
+        "battle_light_source": "424",
+        "caravan_image": 273,
+        "carve": true,
+        "center_id": "295",
+        "road": true,
+        "start_spawn_rate": 0.4,
+        "war_causes": [
+          "conquest",
+          "ride_for_wealth"
+        ]
+      },
+      "state_crests": [
+        {
+          "id": "core_2_ursan_1",
+          "image": 70
+        },
+        {
+          "id": "core_2_ursan_2",
+          "image": 71
+        },
+        {
+          "id": "core_2_ursan_3",
+          "image": 72
+        },
+        {
+          "id": "core_2_ursan_4",
+          "image": 73
+        },
+        {
+          "id": "core_2_ursan_5",
+          "image": 74
+        },
+        {
+          "id": "core_2_ursan_5",
+          "image": 75
+        }
+      ],
+      "statistics": {
+        "endurance": 1,
+        "strength": 1,
+        "willpower": 2
+      },
+      "tags": [
+        "9",
+        "36"
+      ]
+    },
+    {
+      "description": "",
+      "id": "34",
+      "image": 47,
+      "items": [],
+      "name": "Ser Mágico",
+      "playable": false,
+      "recipes": [],
+      "statistics": {
+        "endurance": 2,
+        "strength": 2
+      },
+      "tags": [
+        "3"
+      ]
+    }
+  ],
+  "starting_gold": 20,
+  "tags": [
+    {
+      "id": "0",
+      "name": "goblin",
+      "options": [
+        "sleep_in_bed",
+        "cover_from_weather"
+      ]
+    },
+    {
+      "id": "1",
+      "name": "humano",
+      "options": [
+        "sleep_in_bed",
+        "cover_from_weather"
+      ]
+    },
+    {
+      "id": "2",
+      "name": "animal"
+    },
+    {
+      "id": "3",
+      "name": "magia"
+    },
+    {
+      "id": "4",
+      "name": "morto-vivo",
+      "options": [
+        "ritual_birth",
+        "damaging_healing",
+        "immune_to_fear",
+        "immune_to_transformation"
+      ]
+    },
+    {
+      "id": "5",
+      "name": "jogador",
+      "options": [
+        "player_tag"
+      ]
+    },
+    {
+      "id": "6",
+      "name": "anão",
+      "options": [
+        "sleep_in_bed",
+        "cover_from_weather"
+      ]
+    },
+    {
+      "id": "7",
+      "name": "elfo",
+      "options": [
+        "sleep_in_bed",
+        "cover_from_weather"
+      ]
+    },
+    {
+      "id": "8",
+      "name": "corujano"
+    },
+    {
+      "id": "9",
+      "name": "vivo"
+    },
+    {
+      "id": "10",
+      "name": "troglodita",
+      "options": [
+        "cover_from_weather"
+      ]
+    },
+    {
+      "id": "11",
+      "name": "troll",
+      "options": [
+        "cover_from_weather"
+      ]
+    },
+    {
+      "id": "12",
+      "name": "orc",
+      "options": [
+        "sleep_in_bed"
+      ]
+    },
+    {
+      "id": "13",
+      "name": "homem-peixe"
+    },
+    {
+      "id": "14",
+      "name": "demônio"
+    },
+    {
+      "id": "15",
+      "name": "sátiro",
+      "options": [
+        "cover_from_weather"
+      ]
+    },
+    {
+      "id": "16",
+      "name": "centauro",
+      "options": [
+        "cover_from_weather"
+      ]
+    },
+    {
+      "id": "17",
+      "name": "mutante",
+      "options": [
+        "cover_from_weather"
+      ]
+    },
+    {
+      "id": "18",
+      "name": "insetoide"
+    },
+    {
+      "id": "19",
+      "name": "dragão"
+    },
+    {
+      "id": "20",
+      "name": "esqueleto",
+      "options": [
+        "damaging_healing",
+        "no_fatigue",
+        "is_corpse"
+      ]
+    },
+    {
+      "id": "21",
+      "name": "carniçal",
+      "options": [
+        "damaging_healing"
+      ]
+    },
+    {
+      "id": "22",
+      "name": "zumbi",
+      "options": [
+        "damaging_healing",
+        "no_fatigue",
+        "is_corpse"
+      ]
+    },
+    {
+      "id": "23",
+      "name": "vampiro",
+      "options": [
+        "sleep_in_bed",
+        "damaging_healing",
+        "spread_vampirism"
+      ]
+    },
+    {
+      "id": "24",
+      "name": "reptilion"
+    },
+    {
+      "id": "25",
+      "name": "pequenino",
+      "options": [
+        "sleep_in_bed",
+        "cover_from_weather"
+      ]
+    },
+    {
+      "id": "26",
+      "name": "pele-verde"
+    },
+    {
+      "id": "27",
+      "name": "lich",
+      "options": [
+        "damaging_healing"
+      ]
+    },
+    {
+      "id": "28",
+      "name": "rasimi",
+      "options": [
+        "sleep_in_bed",
+        "cover_from_weather"
+      ]
+    },
+    {
+      "id": "29",
+      "name": "gnomo",
+      "options": [
+        "sleep_in_bed",
+        "cover_from_weather"
+      ]
+    },
+    {
+      "id": "30",
+      "name": "kavian",
+      "options": [
+        "cover_from_weather"
+      ]
+    },
+    {
+      "id": "31",
+      "name": "deus",
+      "options": [
+        "unique_entity",
+        "immune_to_transformation"
+      ]
+    },
+    {
+      "id": "32",
+      "name": "mecânico",
+      "options": [
+        "no_fatigue",
+        "immune_to_transformation"
+      ]
+    },
+    {
+      "id": "33",
+      "name": "angelical"
+    },
+    {
+      "id": "34",
+      "name": "djinn"
+    },
+    {
+      "id": "35",
+      "name": "espectro ósseo",
+      "options": [
+        "ritual_birth"
+      ]
+    },
+    {
+      "id": "36",
+      "name": "ursano"
+    },
+    {
+      "id": "37",
+      "name": "gnoll"
+    },
+    {
+      "id": "38",
+      "name": "incontrolável",
+      "options": [
+        "immune_to_control"
+      ]
+    },
+    {
+      "id": "39",
+      "name": "anão sombrio"
+    },
+    {
+      "id": "40",
+      "name": "fungo"
+    },
+    {
+      "id": "41",
+      "name": "fora da lei",
+      "options": [
+        "crime_exempt"
+      ]
+    }
+  ]
+}

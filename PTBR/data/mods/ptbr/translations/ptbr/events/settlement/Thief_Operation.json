@@ -1,0 +1,590 @@
+{
+  "buildings": [
+    {
+      "building_id": "548",
+      "lair_only": true,
+      "placement": "map_edge"
+    }
+  ],
+  "category": "settlement",
+  "duration": {
+    "days": [
+      90,
+      270
+    ],
+    "type": "temporary"
+  },
+  "effects": [
+    {
+      "chance": 0.25,
+      "resource_loss": 0.3,
+      "type": "caravan_loss"
+    },
+    {
+      "rate_per_day": 0.01,
+      "type": "gold_drain"
+    },
+    {
+      "amount": [
+        1,
+        1
+      ],
+      "border_color": [
+        160,
+        40,
+        40
+      ],
+      "entity": "core_2_Thief_Leader",
+      "group_type": "settlement",
+      "preferred_buildings": [
+        "548"
+      ],
+      "restrict_race": "0",
+      "trade_list": [
+        {
+          "amount": 3,
+          "id": "848"
+        },
+        {
+          "amount": 3,
+          "id": "852"
+        },
+        {
+          "amount": 2,
+          "id": "2070"
+        },
+        {
+          "amount": 2,
+          "id": "687"
+        },
+        {
+          "amount": 2,
+          "id": "2306"
+        },
+        {
+          "amount": 1,
+          "id": "core_2_Frozen_Poison"
+        }
+      ],
+      "type": "spawn_group"
+    },
+    {
+      "amount": [
+        1,
+        1
+      ],
+      "border_color": [
+        160,
+        40,
+        40
+      ],
+      "entity": "core_2_Goblin_Thief_Leader",
+      "group_type": "settlement",
+      "preferred_buildings": [
+        "548"
+      ],
+      "restrict_race": "4",
+      "trade_list": [
+        {
+          "amount": 3,
+          "id": "848"
+        },
+        {
+          "amount": 3,
+          "id": "852"
+        },
+        {
+          "amount": 2,
+          "id": "2070"
+        },
+        {
+          "amount": 2,
+          "id": "687"
+        },
+        {
+          "amount": 2,
+          "id": "2306"
+        },
+        {
+          "amount": 1,
+          "id": "core_2_Frozen_Poison"
+        }
+      ],
+      "type": "spawn_group"
+    },
+    {
+      "amount": [
+        1,
+        1
+      ],
+      "border_color": [
+        160,
+        40,
+        40
+      ],
+      "entity": "core_2_Orc_Thief_Leader",
+      "group_type": "settlement",
+      "preferred_buildings": [
+        "548"
+      ],
+      "restrict_race": "8",
+      "trade_list": [
+        {
+          "amount": 3,
+          "id": "848"
+        },
+        {
+          "amount": 3,
+          "id": "852"
+        },
+        {
+          "amount": 2,
+          "id": "2070"
+        },
+        {
+          "amount": 2,
+          "id": "687"
+        },
+        {
+          "amount": 2,
+          "id": "2306"
+        },
+        {
+          "amount": 1,
+          "id": "core_2_Frozen_Poison"
+        }
+      ],
+      "type": "spawn_group"
+    },
+    {
+      "amount": [
+        1,
+        1
+      ],
+      "border_color": [
+        160,
+        40,
+        40
+      ],
+      "entity": "core_2_Rasimi_Thief_Leader",
+      "group_type": "settlement",
+      "preferred_buildings": [
+        "548"
+      ],
+      "restrict_race": "10",
+      "trade_list": [
+        {
+          "amount": 3,
+          "id": "848"
+        },
+        {
+          "amount": 3,
+          "id": "852"
+        },
+        {
+          "amount": 2,
+          "id": "2070"
+        },
+        {
+          "amount": 2,
+          "id": "687"
+        },
+        {
+          "amount": 2,
+          "id": "2306"
+        },
+        {
+          "amount": 1,
+          "id": "core_2_Frozen_Poison"
+        }
+      ],
+      "type": "spawn_group"
+    },
+    {
+      "amount": [
+        1,
+        1
+      ],
+      "border_color": [
+        160,
+        40,
+        40
+      ],
+      "entity": "core_2_Gnoll_Thief_Leader",
+      "group_type": "settlement",
+      "preferred_buildings": [
+        "548"
+      ],
+      "restrict_race": "31",
+      "trade_list": [
+        {
+          "amount": 3,
+          "id": "848"
+        },
+        {
+          "amount": 3,
+          "id": "852"
+        },
+        {
+          "amount": 2,
+          "id": "2070"
+        },
+        {
+          "amount": 2,
+          "id": "687"
+        },
+        {
+          "amount": 2,
+          "id": "2306"
+        },
+        {
+          "amount": 1,
+          "id": "core_2_Frozen_Poison"
+        }
+      ],
+      "type": "spawn_group"
+    },
+    {
+      "amount": [
+        1,
+        4
+      ],
+      "entity": "core_2_Thief_Bandit",
+      "group_type": "roaming",
+      "milestones": [
+        "core_2_pickpocket",
+        "core_2_quick_step"
+      ],
+      "restrict_race": "0",
+      "stats": {
+        "extra_weight": 20,
+        "speed": -0.2,
+        "stealth": 10
+      },
+      "type": "spawn_group"
+    },
+    {
+      "amount": [
+        1,
+        1
+      ],
+      "border_color": [
+        200,
+        170,
+        90
+      ],
+      "entity": "core_2_Human_Merchant",
+      "group_type": "settlement",
+      "restrict_race": "0",
+      "type": "spawn_group"
+    },
+    {
+      "amount": [
+        2,
+        4
+      ],
+      "entity": "core_2_Goblin_Thief_Bandit",
+      "group_type": "roaming",
+      "milestones": [
+        "core_2_pickpocket",
+        "core_2_quick_step"
+      ],
+      "restrict_race": "4",
+      "stats": {
+        "extra_weight": 20,
+        "speed": -0.2,
+        "stealth": 10
+      },
+      "type": "spawn_group"
+    },
+    {
+      "amount": [
+        1,
+        1
+      ],
+      "border_color": [
+        200,
+        170,
+        90
+      ],
+      "entity": "core_2_Goblin_Merchant",
+      "group_type": "settlement",
+      "restrict_race": "4",
+      "type": "spawn_group"
+    },
+    {
+      "amount": [
+        2,
+        4
+      ],
+      "entity": "core_2_Gnoll_Thief_Bandit",
+      "group_type": "roaming",
+      "milestones": [
+        "core_2_pickpocket",
+        "core_2_quick_step"
+      ],
+      "restrict_race": "31",
+      "stats": {
+        "extra_weight": 20,
+        "speed": -0.2,
+        "stealth": 10
+      },
+      "type": "spawn_group"
+    },
+    {
+      "amount": [
+        1,
+        1
+      ],
+      "border_color": [
+        200,
+        170,
+        90
+      ],
+      "entity": "core_2_Gnoll_Merchant",
+      "group_type": "settlement",
+      "restrict_race": "31",
+      "type": "spawn_group"
+    },
+    {
+      "amount": [
+        2,
+        4
+      ],
+      "entity": "core_2_Orc_Thief_Bandit",
+      "group_type": "roaming",
+      "milestones": [
+        "core_2_pickpocket",
+        "core_2_quick_step"
+      ],
+      "restrict_race": "8",
+      "stats": {
+        "extra_weight": 20,
+        "speed": -0.2,
+        "stealth": 10
+      },
+      "type": "spawn_group"
+    },
+    {
+      "amount": [
+        1,
+        1
+      ],
+      "border_color": [
+        200,
+        170,
+        90
+      ],
+      "entity": "core_2_Orc_Merchant",
+      "group_type": "settlement",
+      "restrict_race": "8",
+      "type": "spawn_group"
+    },
+    {
+      "amount": [
+        2,
+        4
+      ],
+      "entity": "core_2_Rasimi_Thief_Bandit",
+      "group_type": "roaming",
+      "milestones": [
+        "core_2_pickpocket",
+        "core_2_quick_step"
+      ],
+      "restrict_race": "10",
+      "stats": {
+        "extra_weight": 20,
+        "speed": -0.2,
+        "stealth": 10
+      },
+      "type": "spawn_group"
+    },
+    {
+      "amount": [
+        1,
+        1
+      ],
+      "border_color": [
+        200,
+        170,
+        90
+      ],
+      "entity": "core_2_Rasimi_Merchant",
+      "group_type": "settlement",
+      "restrict_race": "10",
+      "type": "spawn_group"
+    }
+  ],
+  "extra_dialogues": [
+    "core_2_thief_rumors"
+  ],
+  "flavor": "Sussurros falam de uma astuta quadrilha de ladrões que caça comerciantes e viajantes. Caravanas partem mais leves, e bolsas somem na noite.",
+  "history_events": {
+    "begin": "Uma nova gangue cresce em infâmia ao aterrorizar a população deste assentamento!",
+    "end": "A gangue infame que aterroriza este assentamento influenciou a classe dominante a legalizar seus negócios."
+  },
+  "icon": 4,
+  "id": "core_2_thief_ring_operation",
+  "interactions": [
+    {
+      "entities": [
+        "core_2_Human_Merchant"
+      ],
+      "id": "core_2_hunt_thieves",
+      "required_ingredients": [
+        {
+          "amount": 1,
+          "id": "core_2_Thief_Leader_Head"
+        }
+      ],
+      "required_level": 15,
+      "required_skill": "core_2_adventuring",
+      "reward": {
+        "gold": 500,
+        "remove_event": true
+      },
+      "translation_id": 0,
+      "trigger_events": [],
+      "type": "conversation"
+    },
+    {
+      "entities": [
+        "core_2_Goblin_Merchant"
+      ],
+      "id": "core_2_hunt_thieves_2",
+      "required_ingredients": [
+        {
+          "amount": 1,
+          "id": "core_2_Thief_Leader_Head"
+        }
+      ],
+      "required_level": 15,
+      "required_skill": "core_2_adventuring",
+      "reward": {
+        "gold": 500,
+        "remove_event": true
+      },
+      "translation_id": 1,
+      "trigger_events": [],
+      "type": "conversation"
+    },
+    {
+      "entities": [
+        "core_2_Gnoll_Merchant"
+      ],
+      "id": "core_2_hunt_thieves_4",
+      "required_ingredients": [
+        {
+          "amount": 1,
+          "id": "core_2_Thief_Leader_Head"
+        }
+      ],
+      "required_level": 15,
+      "required_skill": "core_2_adventuring",
+      "reward": {
+        "gold": 500,
+        "remove_event": true
+      },
+      "translation_id": 2,
+      "trigger_events": [],
+      "type": "conversation"
+    },
+    {
+      "entities": [
+        "core_2_Rasimi_Merchant"
+      ],
+      "id": "core_2_hunt_thieves_3",
+      "required_ingredients": [
+        {
+          "amount": 1,
+          "id": "core_2_Thief_Leader_Head"
+        }
+      ],
+      "required_level": 15,
+      "required_skill": "core_2_adventuring",
+      "reward": {
+        "gold": 500,
+        "remove_event": true
+      },
+      "translation_id": 3,
+      "trigger_events": [],
+      "type": "conversation"
+    },
+    {
+      "entities": [
+        "core_2_Orc_Merchant"
+      ],
+      "id": "core_2_hunt_thieves_5",
+      "required_ingredients": [
+        {
+          "amount": 1,
+          "id": "core_2_Thief_Leader_Head"
+        }
+      ],
+      "required_level": 15,
+      "required_skill": "core_2_adventuring",
+      "reward": {
+        "gold": 500,
+        "remove_event": true
+      },
+      "translation_id": 4,
+      "trigger_events": [],
+      "type": "conversation"
+    },
+    {
+      "announcement": "Você se juntou aos ladrões em ::settlement!",
+      "entities": [
+        "core_2_Thief_Leader",
+        "core_2_Goblin_Thief_Leader",
+        "core_2_Orc_Thief_Leader",
+        "core_2_Rasimi_Thief_Leader",
+        "core_2_Gnoll_Thief_Leader"
+      ],
+      "history_event": "Você entrou para a guilda dos ladrões.",
+      "id": "core_2_join_thieves_1",
+      "label": "Junte-se aos ladrões.",
+      "reward": {
+        "exp": 50,
+        "gold": 100,
+        "remove_event": true,
+        "skill_id": "core_2_thievery"
+      },
+      "translation_id": 6,
+      "trigger_event": "core_2_fancy_villa",
+      "type": "conversation"
+    },
+    {
+      "history_event": "A gangue infame que aterroriza este assentamento influenciou a classe dominante a legalizar seus negócios.",
+      "require_building_spawned": false,
+      "translation_id": 7,
+      "type": "expiration"
+    }
+  ],
+  "name": "Operação da Quadrilha de Ladrões",
+  "rarity": "common",
+  "restrict_races": [
+    "0",
+    "4",
+    "8",
+    "10",
+    "31"
+  ],
+  "small_icon": 4,
+  "trigger": {
+    "base_probability": 0.01,
+    "conditions": [
+      {
+        "type": "settlement_population_min",
+        "value": 25
+      },
+      {
+        "type": "settlement_tier_min",
+        "value": 2
+      },
+      {
+        "type": "min_unemployed",
+        "value": 6
+      }
+    ]
+  }
+}

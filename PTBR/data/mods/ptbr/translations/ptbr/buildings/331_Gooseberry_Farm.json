@@ -1,0 +1,24 @@
+{
+  "id": "331",
+  "image": 148,
+  "name": "Fazenda de Groselha",
+  "occupation": "core_2_Goblin_Farmer",
+  "occupation_image": 92,
+  "produces": [
+    {
+      "entities": [
+        {
+          "daily": 10,
+          "id": "core_2_Gooseberry"
+        }
+      ],
+      "takes": []
+    }
+  ],
+  "race": "4",
+  "tier": 1,
+  "workers": [
+    1,
+    4
+  ]
+}

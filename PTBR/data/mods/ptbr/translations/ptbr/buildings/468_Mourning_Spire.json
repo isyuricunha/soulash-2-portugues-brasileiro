@@ -1,0 +1,28 @@
+{
+  "enables": [
+    "core_2_necromancy"
+  ],
+  "id": "468",
+  "image": 355,
+  "max": 1,
+  "name": "Torre do Luto",
+  "occupation": "core_2_Skeleton_Mournsmith",
+  "occupation_image": 8,
+  "produces": [
+    {
+      "entities": [
+        {
+          "daily": 0.2,
+          "id": "2988"
+        }
+      ],
+      "takes": "craftable"
+    }
+  ],
+  "race": "-1",
+  "tier": 3,
+  "workers": [
+    1,
+    6
+  ]
+}

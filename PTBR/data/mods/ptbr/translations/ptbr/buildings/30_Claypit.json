@@ -1,0 +1,55 @@
+{
+  "allow_player": true,
+  "group": "resources",
+  "id": "30",
+  "image": 27,
+  "min_area": 30,
+  "name": "Argileira",
+  "occupation": "2264",
+  "occupation_image": 50,
+  "occupation_per_race": {
+    "0": "421",
+    "1": "197",
+    "10": "2333",
+    "2": "2324",
+    "23": "core_2_Reptilion_Miner",
+    "24": "core_2_Gnome_Miner",
+    "26": "2371",
+    "31": "core_2_Gnoll_Miner",
+    "32": "core_2_Mushman_Gatherer",
+    "33": "core_2_Ursan_Miner",
+    "4": "core_2_Goblin_Miner",
+    "6": "core_2_Vampire_Miner",
+    "7": "core_2_Troll_Miner",
+    "8": "core_2_Orc_Miner"
+  },
+  "produces": [
+    {
+      "entities": [
+        {
+          "daily": 1,
+          "id": "2004"
+        }
+      ],
+      "takes": []
+    }
+  ],
+  "race": "2",
+  "required_entities": [
+    {
+      "count": 3,
+      "entities": [
+        "2015"
+      ]
+    },
+    {
+      "component": "resting_place",
+      "count": 2
+    }
+  ],
+  "tier": 1,
+  "workers": [
+    1,
+    2
+  ]
+}

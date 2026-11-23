@@ -1,0 +1,16 @@
+{
+  "id": "322",
+  "image": 141,
+  "max": 1,
+  "name": "Ala dos Dentes",
+  "occupation": "core_2_Gnoll_Tooth",
+  "occupation_image": 112,
+  "produces": [],
+  "race": "31",
+  "tier": 1,
+  "type": "military",
+  "workers": [
+    1,
+    20
+  ]
+}

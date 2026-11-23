@@ -1,0 +1,40 @@
+{
+  "allow_player": true,
+  "group": "food",
+  "id": "114",
+  "image": 87,
+  "min_area": 40,
+  "name": "Fazenda de Agave",
+  "occupation": "2370",
+  "occupation_image": 67,
+  "produces": [
+    {
+      "entities": [
+        {
+          "daily": 4,
+          "id": "2010"
+        }
+      ],
+      "takes": []
+    }
+  ],
+  "race": "26",
+  "required_entities": [
+    {
+      "count": 10,
+      "entities": [
+        "core_2_Agave_Plant",
+        "core_2_Agave_Seedling"
+      ]
+    },
+    {
+      "component": "resting_place",
+      "count": 5
+    }
+  ],
+  "tier": 1,
+  "workers": [
+    1,
+    5
+  ]
+}

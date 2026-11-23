@@ -1,0 +1,39 @@
+{
+  "components": [
+    "glyph",
+    "item",
+    "minimap_pixel",
+    "name",
+    "position_2d",
+    "stackable",
+    "weight"
+  ],
+  "description": "Uma carta velha que diz:\n«Meu bom senhor, não confio nos empreiteiros que Vossa Senhoria contratou para construir o novo palácio. Eles tinham um olhar estranho. Se me permitis, eu mesmo inspecionarei o novo edifício, para garantir que é seguro.»",
+  "feminine_form": true,
+  "glyph": {
+    "frames": [
+      {
+        "color": [
+          255,
+          255,
+          255
+        ],
+        "delay": 0,
+        "index": 699
+      }
+    ],
+    "random_frame_start": false
+  },
+  "id": "2595",
+  "item": {
+    "image": 323,
+    "type": 25
+  },
+  "minimap_pixel": [
+    177,
+    153,
+    137
+  ],
+  "name": "Carta VII",
+  "weight": 0.10000000149011612
+}

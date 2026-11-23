@@ -1,0 +1,16 @@
+{
+  "id": "470",
+  "image": 357,
+  "max": 2,
+  "name": "Arqueiros",
+  "occupation": "core_2_Skeleton_Archer",
+  "occupation_image": 27,
+  "produces": [],
+  "race": "17",
+  "tier": 1,
+  "type": "military",
+  "workers": [
+    1,
+    8
+  ]
+}

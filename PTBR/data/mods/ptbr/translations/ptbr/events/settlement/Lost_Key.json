@@ -1,0 +1,85 @@
+{
+  "category": "settlement",
+  "duration": {
+    "days": [
+      30,
+      45
+    ],
+    "type": "temporary"
+  },
+  "effects": [
+    {
+      "amount": [
+        1,
+        1
+      ],
+      "border_color": [
+        170,
+        128,
+        192
+      ],
+      "entity": "core_2_Vampire_Scribe",
+      "group_type": "settlement",
+      "type": "spawn_group"
+    }
+  ],
+  "extra_dialogues": [
+    "core_2_lost_key"
+  ],
+  "flavor": "A vida de vampiro nem sempre é fácil. Especialmente quando você perde acidentalmente a chave do seu apartamento.",
+  "history_events": {
+    "begin": "Um certo vampiro azarado não consegue entrar em seu caixão em ::settlement.",
+    "failure": "O vampiro azarado nunca mais dormirá em seu caixão. Dizem que ele decidiu se tornar um aventureiro.",
+    "success": "O vampiro azarado pode dormir tranquilamente em seu caixão novamente."
+  },
+  "icon": 23,
+  "id": "core_2_lost_key",
+  "interactions": [
+    {
+      "announcement": "Você entregou os bens solicitados ao Vampiro esquecido de ::settlement!",
+      "entities": [
+        "core_2_Vampire_Scribe"
+      ],
+      "history_event": "::name entregou os bens solicitados ao Vampiro esquecido!",
+      "id": "core_2_deliver_lost_key",
+      "label": "Entregue o item solicitado.",
+      "required_ingredients": [
+        {
+          "amount": 1,
+          "id": "core_2_Coffin_Key"
+        }
+      ],
+      "reward": {
+        "exp": 20,
+        "gold": 50,
+        "remove_event": true,
+        "skill_id": "core_2_adventuring"
+      },
+      "translation_id": 0,
+      "type": "conversation"
+    }
+  ],
+  "name": "Chave Perdida",
+  "rarity": "uncommon",
+  "restrict_races": [
+    "6"
+  ],
+  "small_icon": 23,
+  "trigger": {
+    "base_probability": 0.004,
+    "conditions": [
+      {
+        "type": "settlement_population_min",
+        "value": 30
+      },
+      {
+        "type": "settlement_tier_min",
+        "value": 1
+      },
+      {
+        "type": "min_unemployed",
+        "value": 1
+      }
+    ]
+  }
+}

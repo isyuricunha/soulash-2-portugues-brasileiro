@@ -1,0 +1,56 @@
+{
+  "allow_player": true,
+  "group": "resources",
+  "id": "240",
+  "image": 107,
+  "min_area": 20,
+  "name": "Cabana do Curandeiro do Pântano",
+  "occupation": "core_2_Reptilion_Bog_Healer",
+  "occupation_image": 77,
+  "occupation_per_race": {
+    "0": "2202",
+    "1": "core_2_Dwarf_Forager",
+    "10": "2326",
+    "2": "2264",
+    "23": "core_2_Reptilion_Bog_Healer",
+    "24": "core_2_Gnome_Forager",
+    "26": "2372",
+    "31": "core_2_Gnoll_Trash_Collector",
+    "32": "core_2_Mushman_Forager",
+    "33": "core_2_Ursan_Forager",
+    "4": "core_2_Goblin_Forager",
+    "6": "core_2_Vampire_Forager",
+    "7": "core_2_Troll_Forager",
+    "8": "core_2_Orc_Forager"
+  },
+  "produces": [
+    {
+      "entities": [
+        {
+          "daily": 1.0,
+          "id": "core_2_Healing_Herbs"
+        }
+      ],
+      "takes": []
+    }
+  ],
+  "race": "23",
+  "required_entities": [
+    {
+      "count": 4,
+      "entities": [
+        "core_2_Healing_Herbs_Bush",
+        "core_2_Healing_Herbs_Seedling"
+      ]
+    },
+    {
+      "component": "resting_place",
+      "count": 1
+    }
+  ],
+  "tier": 3,
+  "workers": [
+    1,
+    1
+  ]
+}

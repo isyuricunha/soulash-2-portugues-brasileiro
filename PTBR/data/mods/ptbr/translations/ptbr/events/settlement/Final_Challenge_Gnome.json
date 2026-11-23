@@ -1,0 +1,94 @@
+{
+  "buildings": [
+    {
+      "building_id": "593",
+      "lair_only": true,
+      "placement": "map_edge"
+    }
+  ],
+  "category": "settlement",
+  "duration": {
+    "days": [
+      30,
+      45
+    ],
+    "type": "temporary"
+  },
+  "effects": [
+    {
+      "amount": [
+        1,
+        1
+      ],
+      "border_color": [
+        170,
+        128,
+        192
+      ],
+      "entity": "core_2_Gnome_Master_Warrior",
+      "group_type": "settlement",
+      "type": "spawn_group"
+    }
+  ],
+  "extra_dialogues": [],
+  "flavor": "O Mestre Guerreiro tem um desafio final para um aventureiro corajoso.",
+  "history_events": {
+    "begin": "Um mestre guerreiro tem um desafio final para alguém corajoso em ::settlement.",
+    "failure": "Um mestre guerreiro terá que encarar o desafio final por conta própria.",
+    "success": "Um mestre guerreiro encontrou alguém para encarar o desafio final e alcançar a glória."
+  },
+  "icon": 38,
+  "id": "core_2_final_challenge_gnome",
+  "interactions": [
+    {
+      "announcement": "Você entregou as mercadorias solicitadas a um mestre guerreiro em ::settlement!",
+      "entities": [
+        "core_2_Gnome_Master_Warrior"
+      ],
+      "history_event": "::name entregou as mercadorias solicitadas a um mestre guerreiro local.",
+      "id": "core_2_deliver_manticore_corpse_gnome",
+      "label": "Entregue os itens solicitados.",
+      "required_ingredients": [
+        {
+          "amount": 1,
+          "id": "2993"
+        }
+      ],
+      "reward": {
+        "gold": 1500,
+        "items": [
+          {
+            "amount": 1,
+            "id": "2987"
+          }
+        ],
+        "remove_event": true
+      },
+      "translation_id": 0,
+      "type": "conversation"
+    }
+  ],
+  "name": "Desafio Final",
+  "rarity": "uncommon",
+  "restrict_races": [
+    "24"
+  ],
+  "small_icon": 38,
+  "trigger": {
+    "base_probability": 0.0,
+    "conditions": [
+      {
+        "type": "settlement_population_min",
+        "value": 30
+      },
+      {
+        "type": "settlement_tier_min",
+        "value": 1
+      },
+      {
+        "type": "min_unemployed",
+        "value": 1
+      }
+    ]
+  }
+}

@@ -1,0 +1,197 @@
+{
+  "category": "settlement",
+  "duration": {
+    "days": [
+      60,
+      180
+    ],
+    "type": "temporary"
+  },
+  "effects": [
+    {
+      "multiplier": 0.5,
+      "type": "production_multiplier"
+    },
+    {
+      "rate_per_day": 0.015,
+      "type": "death_rate"
+    },
+    {
+      "rate_per_day": 0.001,
+      "type": "spread_rate"
+    },
+    {
+      "abilities": [],
+      "amount": [
+        2,
+        4
+      ],
+      "entity": "core_2_Plague_Refugee",
+      "group_type": "robbing",
+      "stats": {
+        "health_percent": -0.1
+      },
+      "type": "spawn_group"
+    },
+    {
+      "amount": [
+        1,
+        1
+      ],
+      "border_color": [
+        200,
+        170,
+        90
+      ],
+      "entity": "core_2_Goblin_Scholar",
+      "group_type": "settlement",
+      "restrict_race": "4",
+      "type": "spawn_group"
+    },
+    {
+      "amount": [
+        1,
+        1
+      ],
+      "border_color": [
+        200,
+        170,
+        90
+      ],
+      "entity": "core_2_Human_Scholar",
+      "group_type": "settlement",
+      "restrict_race": "0",
+      "type": "spawn_group"
+    },
+    {
+      "amount": [
+        1,
+        1
+      ],
+      "border_color": [
+        200,
+        170,
+        90
+      ],
+      "entity": "core_2_Troll_Scholar",
+      "group_type": "settlement",
+      "restrict_race": "7",
+      "type": "spawn_group"
+    },
+    {
+      "amount": [
+        1,
+        1
+      ],
+      "border_color": [
+        200,
+        170,
+        90
+      ],
+      "entity": "core_2_Orc_Scholar",
+      "group_type": "settlement",
+      "restrict_race": "8",
+      "type": "spawn_group"
+    },
+    {
+      "amount": [
+        1,
+        1
+      ],
+      "border_color": [
+        200,
+        170,
+        90
+      ],
+      "entity": "core_2_Rasimi_Scholar",
+      "group_type": "settlement",
+      "restrict_race": "10",
+      "type": "spawn_group"
+    },
+    {
+      "amount": [
+        1,
+        1
+      ],
+      "border_color": [
+        200,
+        170,
+        90
+      ],
+      "entity": "core_2_Gnoll_Scholar",
+      "group_type": "settlement",
+      "restrict_race": "31",
+      "type": "spawn_group"
+    }
+  ],
+  "extra_dialogues": [
+    "core_2_plague_caugh",
+    "core_2_plague_whispers"
+  ],
+  "flavor": "Uma doença misteriosa se espalha pelas ruas. Seres tossem sangue negro e a produção dos afetados para completamente.",
+  "history_events": {
+    "begin": "O surto de peste começou!",
+    "end": "O surto de peste passou, levando ::deaths almas deste assentamento."
+  },
+  "icon": 7,
+  "id": "core_2_plague_outbreak",
+  "interactions": [
+    {
+      "announcement": "Você curou ::settlement da peste!",
+      "history_event": "::name curou a peste e salvou este assentamento!",
+      "id": "core_2_cure_plague",
+      "required_ingredients": [
+        {
+          "amount": 2,
+          "id": "core_2_Dandelion_Flower"
+        }
+      ],
+      "required_level": 20,
+      "required_skill": "core_2_alchemy",
+      "reward": {
+        "exp": 100,
+        "gold": 500,
+        "remove_event": true,
+        "skill_id": "core_2_alchemy"
+      },
+      "translation_id": 0,
+      "trigger_event": "core_2_Productivity_Boost",
+      "type": "conversation"
+    }
+  ],
+  "name": "Surto de Peste",
+  "rarity": "uncommon",
+  "restrict_races": [
+    "0",
+    "4",
+    "7",
+    "8",
+    "10",
+    "31"
+  ],
+  "small_icon": 7,
+  "trigger": {
+    "base_probability": 0.001,
+    "conditions": [
+      {
+        "type": "settlement_population_min",
+        "value": 30
+      },
+      {
+        "type": "race",
+        "values": [
+          "0",
+          "4",
+          "7",
+          "8",
+          "10",
+          "31"
+        ]
+      },
+      {
+        "type": "min_unemployed",
+        "value": 8
+      }
+    ]
+  }
+}

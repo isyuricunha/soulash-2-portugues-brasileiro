@@ -1,0 +1,108 @@
+{
+  "category": "settlement",
+  "duration": {
+    "days": [
+      60,
+      120
+    ],
+    "type": "temporary"
+  },
+  "effects": [
+    {
+      "multiplier": 0.7,
+      "type": "production_multiplier"
+    },
+    {
+      "amount": [
+        1,
+        1
+      ],
+      "border_color": [
+        128,
+        0,
+        128
+      ],
+      "entity": "core_2_Rebellion_Agitator",
+      "group_type": "settlement",
+      "type": "spawn_group"
+    },
+    {
+      "amount": [
+        2,
+        4
+      ],
+      "entity": "core_2_Rebellion_Smuggler",
+      "type": "supply_delivery",
+      "wealth_cost": 10000
+    }
+  ],
+  "expire_effects": [
+    {
+      "amount": [
+        2,
+        4
+      ],
+      "death_text": "Enforcado por tentativa de rebelião",
+      "type": "execution"
+    }
+  ],
+  "extra_dialogues": [
+    "core_2_rebellion_whispers"
+  ],
+  "flavor": "Sussurros de resistência espalham-se entre a população oprimida. Eles buscam armas para derrubar seus ocupantes.",
+  "history_events": {
+    "begin": "A agitação cresce no assentamento ocupado. O povo busca armas para a rebelião.",
+    "end": "A rebelião foi esmagada na raiz. Os supostos conspiradores foram enforcados."
+  },
+  "icon": 1,
+  "id": "core_2_rebellion_brewing",
+  "interactions": [
+    {
+      "announcement": "Você armou os rebeldes de ::settlement!",
+      "entities": [
+        "core_2_Rebellion_Agitator"
+      ],
+      "history_event": "::name entregou armas à resistência em ::settlement!",
+      "id": "core_2_deliver_weapons",
+      "required_ingredients": [
+        {
+          "amount": 10,
+          "id": "core_2_Bastard_Sword"
+        }
+      ],
+      "reward": {
+        "gold": 5000,
+        "remove_event": true
+      },
+      "translation_id": 0,
+      "trigger_event": "core_2_rebellion",
+      "type": "conversation"
+    },
+    {
+      "history_event": "Armas foram contrabandeadas para ::settlement por simpatizantes da resistência.",
+      "translation_id": 1,
+      "trigger_event": "core_2_rebellion",
+      "type": "supply"
+    }
+  ],
+  "name": "Rebelião em Gestação",
+  "rarity": "uncommon",
+  "restrict_races": [],
+  "small_icon": 1,
+  "trigger": {
+    "base_probability": 0.005,
+    "conditions": [
+      {
+        "type": "settlement_occupied"
+      },
+      {
+        "type": "settlement_population_min",
+        "value": 40
+      },
+      {
+        "type": "min_unemployed",
+        "value": 1
+      }
+    ]
+  }
+}

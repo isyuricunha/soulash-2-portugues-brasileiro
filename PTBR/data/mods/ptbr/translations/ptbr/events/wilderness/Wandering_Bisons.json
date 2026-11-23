@@ -1,0 +1,40 @@
+{
+  "category": "wilderness",
+  "duration": {
+    "days": [
+      3,
+      10
+    ],
+    "type": "temporary"
+  },
+  "effects": [
+    {
+      "amount": [
+        20,
+        25
+      ],
+      "entity": "705",
+      "spawn_behaviors": [
+        23
+      ],
+      "type": "migrate_group"
+    }
+  ],
+  "flavor": "Uma grande manada de bisões entrou nesta região em sua migração sazonal, atravessando de uma extremidade da terra à outra. Eles estão cautelosos, mas não são imediatamente hostis — a menos que sejam encurralados.",
+  "history_events": {
+    "begin": "Uma manada errante está passando por esta região em sua migração.",
+    "end": "A manada seguiu seu caminho e a região está tranquila novamente."
+  },
+  "icon": 0,
+  "id": "core_2_wandering_bisons",
+  "max_per_region": 1,
+  "name": "Bisões Errantes",
+  "rarity": "common",
+  "restrict_biomes": [
+    "boreal_forest"
+  ],
+  "small_icon": 0,
+  "trigger": {
+    "base_probability": 0.25
+  }
+}

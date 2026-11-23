@@ -1,0 +1,91 @@
+{
+  "category": "settlement",
+  "duration": {
+    "days": [
+      20,
+      20
+    ],
+    "type": "temporary"
+  },
+  "effects": [
+    {
+      "rate_per_day": 0.05,
+      "type": "death_rate"
+    },
+    {
+      "amount": [
+        1,
+        1
+      ],
+      "border_color": [
+        180,
+        40,
+        40
+      ],
+      "entity": "core_2_Reptilion_Grand_Seer",
+      "group_type": "settlement",
+      "type": "spawn_group"
+    }
+  ],
+  "entity_swaps_on_start": [
+    {
+      "from": "core_2_Flaming_Skulls",
+      "to": "core_2_Demonic_Portal"
+    }
+  ],
+  "extra_dialogues": [],
+  "flavor": "Um portal para o reino infernal abriu-se perto deste assentamento.",
+  "history_events": {
+    "begin": "Um Portal Infernal se abriu perto de ::settlement!",
+    "end": "O Portal Infernal colapsou, pondo fim à invasão demoníaca."
+  },
+  "icon": 9,
+  "id": "core_2_infernal_gateway",
+  "interactions": [
+    {
+      "entities": [
+        "core_2_Reptilion_Grand_Seer"
+      ],
+      "id": "core_2_infernal_monument_locate",
+      "label": "Onde fica o Monumento Infernal?",
+      "locate_entities": [
+        "core_2_Infernal_Monument"
+      ],
+      "translation_id": 0,
+      "type": "locate_entity"
+    },
+    {
+      "announcement": "Você conteve a invasão demoníaca em ::settlement!",
+      "entities": [
+        "core_2_Reptilion_Grand_Seer"
+      ],
+      "history_event": "::name fechou o Portal Infernal, defendendo ::settlement da invasão demoníaca.",
+      "id": "core_2_infernal_gateway_closed",
+      "label": "Entregue icores demoníacos.",
+      "required_ingredients": [
+        {
+          "amount": 5,
+          "id": "core_2_Demons_Ichor"
+        }
+      ],
+      "reward": {
+        "exp": 200,
+        "gold": 1000,
+        "remove_event": true,
+        "skill_id": "core_2_alchemy"
+      },
+      "translation_id": 1,
+      "type": "conversation"
+    }
+  ],
+  "name": "Portal Infernal",
+  "rarity": "rare",
+  "restrict_races": [
+    "23"
+  ],
+  "small_icon": 9,
+  "trigger": {
+    "base_probability": 0.0,
+    "conditions": []
+  }
+}

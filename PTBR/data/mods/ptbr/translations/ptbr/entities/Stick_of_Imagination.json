@@ -1,0 +1,82 @@
+{
+  "category_id": 2,
+  "components": [
+    "craftable",
+    "glyph",
+    "item",
+    "minimap_pixel",
+    "name",
+    "position_2d",
+    "resource",
+    "stackable",
+    "value",
+    "weapon",
+    "weight"
+  ],
+  "craftable": {
+    "backgrounds": [],
+    "biomes": [],
+    "magic_slots": 0,
+    "resources": [
+      {
+        "amount": 1,
+        "id": "2008"
+      }
+    ],
+    "time": 20,
+    "tools": [
+      15
+    ]
+  },
+  "description": "Parece um graveto comum, mas não se engane! Pode ser uma espada. Pode ser uma varinha mágica. As possibilidades são infinitas!",
+  "glyph": {
+    "frames": [
+      {
+        "color": [
+          255,
+          255,
+          255
+        ],
+        "delay": 0,
+        "index": 3527
+      }
+    ],
+    "random_frame_start": false
+  },
+  "id": "core_2_Stick_of_Imagination",
+  "item": {
+    "image": 1572,
+    "type": 16
+  },
+  "minimap_pixel": [
+    100,
+    109,
+    155
+  ],
+  "name": "Graveto da Imaginação",
+  "resource": {
+    "affix": "do Graveto",
+    "feminine_affix": "do Graveto",
+    "magic_ingredient": 1,
+    "quality": 1,
+    "type": 7
+  },
+  "value": 200,
+  "weapon": {
+    "attack_speed": 0.0,
+    "critical_hit": 0.0,
+    "damage": [
+      {
+        "dmg_max": 1,
+        "dmg_min": 1,
+        "dmg_type": "physical"
+      }
+    ],
+    "hands": 1,
+    "hit_bonus": 0,
+    "parry_bonus": 0,
+    "range": 0,
+    "type": 9
+  },
+  "weight": 0.10000000149011612
+}

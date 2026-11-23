@@ -1,0 +1,16 @@
+{
+  "id": "core_2_mushroom_soup",
+  "name": "Sopa de Cogumelos",
+  "requirements": {
+    "milestones": [],
+    "skill": 14
+  },
+  "rewards": [
+    {
+      "recipe": "3027"
+    }
+  ],
+  "skill_id": "core_2_agriculture",
+  "steps": [],
+  "steps_type": 0
+}

@@ -1,0 +1,2148 @@
+[
+  {
+    "effects": [
+      {
+        "effect": "attack_on_parry",
+        "value": 0.05
+      }
+    ],
+    "id": "core_2_counter_attack",
+    "image": 10,
+    "name": "Contra-ataque"
+  },
+  {
+    "effects": [
+      {
+        "effect": "increase_effect_value",
+        "secondary_value": 0.15,
+        "value": "bleed"
+      }
+    ],
+    "id": "core_2_bloodlust",
+    "image": 27,
+    "name": "Sede de Sangue",
+    "restrict_weapon_type": "sword"
+  },
+  {
+    "effects": [
+      {
+        "effect": "parry",
+        "value": 2
+      }
+    ],
+    "id": "core_2_parry_mastery",
+    "image": 12,
+    "name": "Maestria em Aparar",
+    "restrict_weapon_type": "sword"
+  },
+  {
+    "effects": [
+      {
+        "effect": "extra_equip_slot",
+        "value": "weapon"
+      }
+    ],
+    "id": "core_2_three_swords_style",
+    "image": 13,
+    "name": "Estilo de Três Espadas",
+    "restrict_weapon_type": "sword"
+  },
+  {
+    "effects": [
+      {
+        "effect": "area_maps",
+        "value": 0
+      }
+    ],
+    "id": "core_2_area_maps",
+    "image": 5,
+    "name": "Veio Preparado"
+  },
+  {
+    "effects": [
+      {
+        "effect": "points_of_interest"
+      }
+    ],
+    "id": "core_2_points_of_interest",
+    "image": 2,
+    "name": "Pontos de Interesse"
+  },
+  {
+    "effects": [
+      {
+        "effect": "resting_bonus",
+        "value": 0.25
+      }
+    ],
+    "id": "core_2_sleep_faster",
+    "image": 6,
+    "name": "Dormir Mais Rápido"
+  },
+  {
+    "effects": [
+      {
+        "effect": "movement_stamina",
+        "value": -1.0
+      }
+    ],
+    "id": "core_2_movement_no_stamina",
+    "image": 4,
+    "name": "Pés Leves"
+  },
+  {
+    "effects": [
+      {
+        "effect": "resource_discovery"
+      }
+    ],
+    "id": "core_2_resource_discovery",
+    "image": 3,
+    "name": "Descoberta de Recursos"
+  },
+  {
+    "effects": [
+      {
+        "effect": "fall_damage",
+        "value": 0.0
+      }
+    ],
+    "id": "core_2_no_fall_damage",
+    "image": 23,
+    "name": "Imunidade à Queda"
+  },
+  {
+    "effects": [
+      {
+        "effect": "move_speed",
+        "value": -0.1
+      }
+    ],
+    "id": "core_2_swift_movement",
+    "image": 4,
+    "name": "Movimento Ágil"
+  },
+  {
+    "effects": [
+      {
+        "effect": "dodge",
+        "value": 0.1
+      }
+    ],
+    "id": "core_2_dodge_basic",
+    "image": 51,
+    "name": "Esquiva Básica"
+  },
+  {
+    "effects": [
+      {
+        "effect": "dodge",
+        "value": 0.15
+      }
+    ],
+    "id": "core_2_dodge_advanced",
+    "image": 52,
+    "name": "Esquiva Avançada"
+  },
+  {
+    "effects": [
+      {
+        "effect": "block_counter",
+        "value": 1
+      }
+    ],
+    "id": "core_2_quick_block",
+    "image": 15,
+    "name": "Bloqueio Rápido"
+  },
+  {
+    "effects": [
+      {
+        "effect": "flank_protection",
+        "value": 1
+      }
+    ],
+    "id": "core_2_protected_flanks",
+    "image": 14,
+    "name": "Flancos Protegidos"
+  },
+  {
+    "effects": [
+      {
+        "effect": "sight_behind",
+        "value": 0.33
+      }
+    ],
+    "id": "core_2_sight_behind",
+    "image": 17,
+    "name": "Sexto Sentido"
+  },
+  {
+    "effects": [
+      {
+        "effect": "thorns_for_missing_health",
+        "value": 0.01
+      }
+    ],
+    "id": "core_2_risky_retaliation",
+    "image": 16,
+    "name": "Retaliação Arriscada"
+  },
+  {
+    "effects": [
+      {
+        "effect": "carry_capacity",
+        "value": 20
+      }
+    ],
+    "id": "core_2_carry_capacity",
+    "image": 19,
+    "name": "Mula"
+  },
+  {
+    "effects": [
+      {
+        "effect": "health_bonus_percent",
+        "value": 0.2
+      }
+    ],
+    "id": "core_2_health_bonus",
+    "image": 18,
+    "name": "Em Forma"
+  },
+  {
+    "effects": [
+      {
+        "effect": "max_stamina",
+        "value": 20
+      }
+    ],
+    "id": "core_2_max_stamina",
+    "image": 21,
+    "name": "Trabalhador Incansável"
+  },
+  {
+    "effects": [
+      {
+        "effect": "attack_speed",
+        "value": -0.1
+      }
+    ],
+    "id": "core_2_attack_speed",
+    "image": 20,
+    "name": "Golpe Veloz"
+  },
+  {
+    "effects": [
+      {
+        "effect": "health_tick",
+        "value": 0.33
+      }
+    ],
+    "id": "core_2_health_tick",
+    "image": 22,
+    "name": "Recuperação Veloz"
+  },
+  {
+    "effects": [
+      {
+        "effect": "movement_penalty",
+        "value": 0.5
+      }
+    ],
+    "id": "core_2_light_footed",
+    "image": 24,
+    "name": "Passos Leves"
+  },
+  {
+    "effects": [
+      {
+        "effect": "bonus_two_handed_damage_percent",
+        "value": 20
+      }
+    ],
+    "id": "core_2_strong_grip",
+    "image": 29,
+    "name": "Pegada Firme",
+    "restrict_weapon_type": "axe"
+  },
+  {
+    "effects": [
+      {
+        "effect": "production_action_speed",
+        "secondary_value": 0.5,
+        "value": "1"
+      }
+    ],
+    "id": "core_2_swift_woodcutting",
+    "image": 30,
+    "name": "Corte de Madeira Veloz"
+  },
+  {
+    "effects": [
+      {
+        "effect": "immunity",
+        "value": "knockback"
+      }
+    ],
+    "id": "core_2_knockback_immune",
+    "image": 28,
+    "name": "Imunidade à Repulsão"
+  },
+  {
+    "effects": [
+      {
+        "effect": "heal_on_kill",
+        "value": 0.02
+      }
+    ],
+    "id": "core_2_heal_on_kill",
+    "image": 39,
+    "name": "Renovação Letal"
+  },
+  {
+    "effects": [
+      {
+        "effect": "2h_dual_wield"
+      }
+    ],
+    "id": "core_2_2h_dual_wield",
+    "image": 25,
+    "name": "Empunhar Duas Armas de 2 Mãos",
+    "restrict_weapon_type": "axe"
+  },
+  {
+    "effects": [
+      {
+        "effect": "see_stamina"
+      }
+    ],
+    "id": "core_2_dueling_tactician",
+    "image": 32,
+    "name": "Tático de Duelo"
+  },
+  {
+    "effects": [
+      {
+        "effect": "immunity",
+        "value": "stun"
+      }
+    ],
+    "id": "core_2_stun_immune",
+    "image": 33,
+    "name": "Imunidade ao Atordoamento"
+  },
+  {
+    "effects": [
+      {
+        "effect": "target_resistance",
+        "secondary_value": -0.25,
+        "value": "physical"
+      }
+    ],
+    "id": "core_2_pierce_armor",
+    "image": 31,
+    "name": "Perfuração de Armadura",
+    "restrict_weapon_type": "mace"
+  },
+  {
+    "effects": [
+      {
+        "effect": "damage_to_effect",
+        "secondary_value": 0.25,
+        "value": "stun"
+      }
+    ],
+    "id": "core_2_taking_advantage",
+    "image": 26,
+    "name": "Aproveitar a Vantagem",
+    "restrict_weapon_type": "mace"
+  },
+  {
+    "effects": [
+      {
+        "effect": "light_source",
+        "value": 8
+      }
+    ],
+    "id": "core_2_torch",
+    "image": 35,
+    "name": "Tocha"
+  },
+  {
+    "effects": [
+      {
+        "effect": "tool_type",
+        "secondary_value": 100,
+        "value": 20
+      }
+    ],
+    "id": "core_2_fire_starter",
+    "image": 34,
+    "name": "Incendiário"
+  },
+  {
+    "effects": [
+      {
+        "effect": "death_under_effect_gain_stamina",
+        "secondary_value": 10,
+        "value": "burn"
+      }
+    ],
+    "id": "core_2_reinvigorating_smell",
+    "image": 38,
+    "name": "Cheiro Revigorante"
+  },
+  {
+    "effects": [
+      {
+        "effect": "spread_entity",
+        "secondary_value": 0.05,
+        "value": "561"
+      }
+    ],
+    "id": "core_2_wildfire",
+    "image": 36,
+    "name": "Incêndio"
+  },
+  {
+    "effects": [
+      {
+        "effect": "damage_type_reduction",
+        "secondary_value": 1.0,
+        "value": "frost"
+      }
+    ],
+    "id": "core_2_hot_blood",
+    "image": 37,
+    "name": "Sangue Quente"
+  },
+  {
+    "effects": [
+      {
+        "effect": "discover_poi_range",
+        "value": 2
+      }
+    ],
+    "id": "core_2_nose_for_trouble",
+    "image": 40,
+    "name": "Faro para Problemas"
+  },
+  {
+    "effects": [
+      {
+        "effect": "reveal_poi"
+      }
+    ],
+    "id": "core_2_well_informed",
+    "image": 43,
+    "name": "Bem Informado"
+  },
+  {
+    "effects": [
+      {
+        "effect": "salvage_chance",
+        "value": 0.1
+      }
+    ],
+    "id": "core_2_salvage_bonus",
+    "image": 44,
+    "name": "Bônus de Chance de Recuperação"
+  },
+  {
+    "effects": [
+      {
+        "effect": "food_during_travel",
+        "secondary_value": 0.2,
+        "value": 1
+      }
+    ],
+    "id": "core_2_food_everywhere",
+    "image": 41,
+    "name": "Comida em Todo Lugar"
+  },
+  {
+    "effects": [
+      {
+        "effect": "discover_all_tiers"
+      }
+    ],
+    "id": "core_2_discover_all_tiers",
+    "image": 45,
+    "name": "Descobrir Tudo"
+  },
+  {
+    "effects": [
+      {
+        "effect": "extra_loot",
+        "value": 0.3
+      }
+    ],
+    "id": "core_2_extra_loot",
+    "image": 42,
+    "name": "Saques Extras"
+  },
+  {
+    "effects": [
+      {
+        "effect": "infravision"
+      }
+    ],
+    "id": "core_2_infravision",
+    "image": 60,
+    "name": "Infravisão"
+  },
+  {
+    "effects": [
+      {
+        "effect": "critical_hit",
+        "value": 0.05
+      }
+    ],
+    "id": "core_2_critical_hit",
+    "image": 48,
+    "name": "Acerto Crítico"
+  },
+  {
+    "effects": [
+      {
+        "effect": "critical_damage",
+        "value": 0.25
+      }
+    ],
+    "id": "core_2_critical_damage",
+    "image": 48,
+    "name": "Dano Crítico"
+  },
+  {
+    "effects": [
+      {
+        "effect": "critical_hit_from_dex",
+        "value": 0.001
+      }
+    ],
+    "id": "core_2_critical_hit_from_dex",
+    "image": 53,
+    "name": "Acerto Crítico por Destreza"
+  },
+  {
+    "effects": [
+      {
+        "effect": "bounty_reduce",
+        "value": 0.1
+      }
+    ],
+    "id": "core_2_bounty_reduce",
+    "image": 49,
+    "name": "Rosto Esquecível"
+  },
+  {
+    "effects": [
+      {
+        "effect": "hide_identity",
+        "value": 1
+      }
+    ],
+    "id": "core_2_hide_identity",
+    "image": 46,
+    "name": "Ocultar Identidade"
+  },
+  {
+    "effects": [
+      {
+        "effect": "extra_backpack_slots",
+        "value": 10
+      }
+    ],
+    "id": "core_2_extra_backpack_slots",
+    "image": 44,
+    "name": "Espaços Extras na Mochila"
+  },
+  {
+    "effects": [
+      {
+        "effect": "purchase_prices",
+        "value": 0.1
+      }
+    ],
+    "id": "core_2_good_deals",
+    "image": 46,
+    "name": "Bons Negócios"
+  },
+  {
+    "effects": [
+      {
+        "effect": "disable_consumer"
+      }
+    ],
+    "id": "core_2_disable_consumption",
+    "image": 46,
+    "name": "Consumo Desativado"
+  },
+  {
+    "effects": [
+      {
+        "effect": "bonus_production_action",
+        "secondary_value": 0.4,
+        "value": "6"
+      }
+    ],
+    "id": "core_2_good_harvest",
+    "image": 55,
+    "name": "Boa Colheita"
+  },
+  {
+    "effects": [
+      {
+        "effect": "bonus_production_chance_item_type",
+        "secondary_value": 0.5,
+        "value": "seed"
+      }
+    ],
+    "id": "core_2_seed_extraction",
+    "image": 57,
+    "name": "Extração de Sementes"
+  },
+  {
+    "effects": [
+      {
+        "effect": "plant_growth_time",
+        "value": 0.25
+      }
+    ],
+    "id": "core_2_quick_growth",
+    "image": 58,
+    "name": "Crescimento Rápido"
+  },
+  {
+    "effects": [
+      {
+        "effect": "bonus_crafting_unit",
+        "secondary_value": 20,
+        "value": 0.25
+      }
+    ],
+    "id": "core_2_extra_food",
+    "image": 59,
+    "name": "Comida Extra"
+  },
+  {
+    "effects": [
+      {
+        "effect": "famine_display",
+        "value": 1
+      }
+    ],
+    "id": "core_2_opportunist",
+    "image": 56,
+    "name": "Oportunista"
+  },
+  {
+    "effects": [
+      {
+        "effect": "tool_type",
+        "secondary_value": 100,
+        "value": 5
+      }
+    ],
+    "id": "core_2_claw_fishing",
+    "image": 61,
+    "name": "Pesca com Garras"
+  },
+  {
+    "effects": [
+      {
+        "effect": "statistic_percent",
+        "secondary_value": 0.1,
+        "value": "dexterity"
+      }
+    ],
+    "id": "core_2_bonus_dexterity",
+    "image": 62,
+    "name": "Bônus de Destreza"
+  },
+  {
+    "effects": [
+      {
+        "effect": "companion",
+        "value": 1
+      }
+    ],
+    "id": "core_2_companion_golem",
+    "image": 69,
+    "name": "Companheiro Golem"
+  },
+  {
+    "effects": [
+      {
+        "effect": "companion",
+        "value": 1
+      }
+    ],
+    "id": "core_2_companion_1",
+    "image": 69,
+    "name": "Companheiro I"
+  },
+  {
+    "effects": [
+      {
+        "effect": "companion",
+        "value": 1
+      }
+    ],
+    "id": "core_2_companion_2",
+    "image": 69,
+    "name": "Companheiro II"
+  },
+  {
+    "effects": [
+      {
+        "effect": "companion",
+        "value": 1
+      }
+    ],
+    "id": "core_2_companion_3",
+    "image": 69,
+    "name": "Companheiro III"
+  },
+  {
+    "apply_mode": "party_only",
+    "effects": [
+      {
+        "effect": "extra_backpack_slots",
+        "value": 5
+      }
+    ],
+    "id": "core_2_extra_pockets",
+    "image": 63,
+    "name": "Bolsos Extras"
+  },
+  {
+    "apply_mode": "party_only",
+    "effects": [
+      {
+        "effect": "carry_capacity",
+        "value": 10
+      }
+    ],
+    "id": "core_2_heavy_duty",
+    "image": 64,
+    "name": "Uso Pesado"
+  },
+  {
+    "effects": [
+      {
+        "effect": "party_move_speed",
+        "value": 1
+      }
+    ],
+    "id": "core_2_rapid_retreat",
+    "image": 66,
+    "name": "Recuo Rápido"
+  },
+  {
+    "apply_mode": "party_only",
+    "effects": [
+      {
+        "effect": "regeneration",
+        "value": 5.0
+      }
+    ],
+    "id": "core_2_first_aid",
+    "image": 65,
+    "name": "Primeiros Socorros"
+  },
+  {
+    "apply_mode": "party_only",
+    "effects": [
+      {
+        "effect": "statistic_percent",
+        "secondary_value": 0.2,
+        "value": "strength"
+      },
+      {
+        "effect": "statistic_percent",
+        "secondary_value": 0.2,
+        "value": "dexterity"
+      },
+      {
+        "effect": "statistic_percent",
+        "secondary_value": 0.2,
+        "value": "intelligence"
+      }
+    ],
+    "id": "core_2_better_friends",
+    "image": 67,
+    "name": "Melhores Amigos"
+  },
+  {
+    "apply_mode": "party_only",
+    "effects": [
+      {
+        "effect": "statistic_percent",
+        "secondary_value": 0.2,
+        "value": "endurance"
+      },
+      {
+        "effect": "statistic_percent",
+        "secondary_value": 0.2,
+        "value": "willpower"
+      }
+    ],
+    "id": "core_2_iron_will",
+    "image": 68,
+    "name": "Vontade de Ferro"
+  },
+  {
+    "effects": [
+      {
+        "effect": "sight",
+        "value": 2
+      }
+    ],
+    "id": "core_2_eagle_eye",
+    "image": 71,
+    "name": "Olho de Águia"
+  },
+  {
+    "effects": [
+      {
+        "effect": "movement_penalty",
+        "value": 0.5
+      }
+    ],
+    "id": "core_2_light_walk",
+    "image": 70,
+    "name": "Passo Leve"
+  },
+  {
+    "effects": [
+      {
+        "effect": "analyze_speed",
+        "value": 1
+      }
+    ],
+    "id": "core_2_analyze_speed",
+    "image": 72,
+    "name": "Analisar Velocidade"
+  },
+  {
+    "effects": [
+      {
+        "effect": "bonus_production_action",
+        "secondary_value": 0.25,
+        "value": "3"
+      }
+    ],
+    "id": "core_2_superior_scavenger",
+    "image": 74,
+    "name": "Catador Superior"
+  },
+  {
+    "effects": [
+      {
+        "effect": "analyze_weakness",
+        "value": 1
+      }
+    ],
+    "id": "core_2_analyze_weakness",
+    "image": 73,
+    "name": "Analisar Fraqueza"
+  },
+  {
+    "effects": [
+      {
+        "effect": "companion",
+        "value": 1
+      }
+    ],
+    "id": "core_2_animal_companion_1",
+    "image": 76,
+    "name": "Companheiro Animal I"
+  },
+  {
+    "effects": [
+      {
+        "effect": "companion",
+        "value": 1
+      }
+    ],
+    "id": "core_2_animal_companion_2",
+    "image": 76,
+    "name": "Companheiro Animal II"
+  },
+  {
+    "apply_mode": "party_only",
+    "effects": [
+      {
+        "effect": "leader_stats",
+        "value": 0.5
+      }
+    ],
+    "id": "core_2_trained_beasts",
+    "image": 75,
+    "name": "Bestas Treinadas",
+    "restrict_tags": [
+      "2"
+    ]
+  },
+  {
+    "effects": [
+      {
+        "effect": "immunity",
+        "value": "poison_effect"
+      }
+    ],
+    "id": "core_2_poison_immunity",
+    "image": 77,
+    "name": "Imunidade ao Veneno"
+  },
+  {
+    "effects": [
+      {
+        "effect": "thorns",
+        "value": 8
+      }
+    ],
+    "id": "core_2_thorny",
+    "image": 78,
+    "name": "Espinhoso"
+  },
+  {
+    "effects": [
+      {
+        "effect": "thorns_crit",
+        "value": 1
+      }
+    ],
+    "id": "core_2_critical_thorns",
+    "image": 81,
+    "name": "Espinhos Críticos"
+  },
+  {
+    "effects": [
+      {
+        "effect": "target_resistance",
+        "secondary_value": -0.25,
+        "value": "poison"
+      }
+    ],
+    "id": "core_2_surrounded_by_nature",
+    "image": 80,
+    "name": "Natureza Avassaladora"
+  },
+  {
+    "effects": [
+      {
+        "effect": "thorns_ranged",
+        "value": 0.3
+      }
+    ],
+    "id": "core_2_shooting_thorns",
+    "image": 79,
+    "name": "Espinhos Projetados"
+  },
+  {
+    "effects": [
+      {
+        "effect": "death_under_effect_gain_health",
+        "secondary_value": 5,
+        "value": "poison_effect"
+      }
+    ],
+    "id": "core_2_natural_death",
+    "image": 82,
+    "name": "Morte Natural"
+  },
+  {
+    "effects": [
+      {
+        "effect": "thirst_on_effect",
+        "secondary_value": 1,
+        "value": "88"
+      }
+    ],
+    "id": "core_2_rainy_day",
+    "image": 83,
+    "name": "Dia Chuvoso"
+  },
+  {
+    "effects": [
+      {
+        "effect": "on_damage_type_stack",
+        "secondary_value": "frost",
+        "value": "core_2_freeze"
+      }
+    ],
+    "id": "core_2_freeze",
+    "image": 84,
+    "name": "Congelamento"
+  },
+  {
+    "effects": [
+      {
+        "effect": "damage_type_reduction",
+        "secondary_value": 0.5,
+        "value": "fire"
+      }
+    ],
+    "id": "core_2_cold_blood",
+    "image": 86,
+    "name": "Sangue Frio"
+  },
+  {
+    "effects": [
+      {
+        "effect": "ocean_travel"
+      }
+    ],
+    "id": "core_2_walk_on_water",
+    "image": 85,
+    "name": "Andar sobre a Água"
+  },
+  {
+    "effects": [
+      {
+        "effect": "bonus_damage",
+        "secondary_value": "electricity",
+        "value": 2
+      }
+    ],
+    "id": "core_2_electricity",
+    "image": 87,
+    "name": "Eletricidade",
+    "restrict_weapon_type": "throw"
+  },
+  {
+    "effects": [
+      {
+        "effect": "on_attack_stack",
+        "value": "core_2_static"
+      }
+    ],
+    "id": "core_2_static",
+    "image": 89,
+    "name": "Estática",
+    "restrict_weapon_type": "throw"
+  },
+  {
+    "effects": [
+      {
+        "effect": "range",
+        "value": 1
+      }
+    ],
+    "id": "core_2_strong_throw",
+    "image": 88,
+    "name": "Arremesso Forte",
+    "restrict_weapon_type": "throw"
+  },
+  {
+    "effects": [
+      {
+        "effect": "hit_bonus",
+        "value": 1
+      }
+    ],
+    "id": "core_2_conductive_aim",
+    "image": 97,
+    "name": "Mira Condutiva",
+    "restrict_weapon_type": "throw"
+  },
+  {
+    "effects": [
+      {
+        "effect": "on_max_stacks",
+        "value": "core_2_static"
+      }
+    ],
+    "id": "core_2_overload",
+    "image": 92,
+    "name": "Sobrecarga"
+  },
+  {
+    "effects": [
+      {
+        "effect": "on_damage_type_stack",
+        "secondary_value": "electricity",
+        "value": "core_2_static"
+      }
+    ],
+    "id": "core_2_static_shock",
+    "image": 98,
+    "name": "Choque Estático"
+  },
+  {
+    "effects": [
+      {
+        "effect": "on_attack_stack",
+        "value": "core_2_lightning_reflexes"
+      }
+    ],
+    "id": "core_2_lightning_reflexes",
+    "image": 93,
+    "name": "Reflexos Relâmpago"
+  },
+  {
+    "description": "Cada acúmulo concede bônus de -0.05 de velocidade de ataque. Máximo de 10 acúmulos.",
+    "effects": [
+      {
+        "effect": "on_attack_stack",
+        "value": "core_2_electric_speed"
+      }
+    ],
+    "id": "core_2_electric_speed",
+    "image": 90,
+    "name": "Velocidade Elétrica"
+  },
+  {
+    "effects": [
+      {
+        "effect": "damage_type_reduction",
+        "secondary_value": 0.5,
+        "value": "electricity"
+      }
+    ],
+    "id": "core_2_non_conductive",
+    "image": 95,
+    "name": "Não Condutivo"
+  },
+  {
+    "effects": [
+      {
+        "effect": "stamina_on_stack_consume",
+        "value": "core_2_static"
+      }
+    ],
+    "id": "core_2_energy_steal",
+    "image": 91,
+    "name": "Roubo de Energia"
+  },
+  {
+    "description": "Cada acúmulo concede 1% de chance de acerto crítico.",
+    "effects": [
+      {
+        "effect": "on_attack_stack",
+        "value": "core_2_charged_precision"
+      }
+    ],
+    "id": "core_2_charged_precision",
+    "image": 99,
+    "name": "Precisão Carregada"
+  },
+  {
+    "effects": [
+      {
+        "effect": "on_attack_cast",
+        "secondary_value": 0.33,
+        "value": "43"
+      }
+    ],
+    "id": "core_2_lightning_strike",
+    "image": 96,
+    "name": "Descarga de Raio"
+  },
+  {
+    "effects": [
+      {
+        "effect": "bonus_one_handed_damage_percent",
+        "value": 20
+      }
+    ],
+    "id": "core_2_expert_throw",
+    "image": 94,
+    "name": "Arremesso Especializado",
+    "restrict_weapon_type": "throw"
+  },
+  {
+    "effects": [
+      {
+        "effect": "on_kill_persona_create_item",
+        "secondary_value": 1.0,
+        "value": "core_2_Soul_Piece"
+      }
+    ],
+    "id": "core_2_taste_for_souls",
+    "image": 100,
+    "name": "Apetite por Almas"
+  },
+  {
+    "effects": [
+      {
+        "effect": "see_souls",
+        "value": 1
+      }
+    ],
+    "id": "core_2_soul_deposit",
+    "image": 101,
+    "name": "Depósitos de Almas"
+  },
+  {
+    "effects": [
+      {
+        "effect": "companion",
+        "value": 1
+      }
+    ],
+    "id": "core_2_companion_undead",
+    "image": 69,
+    "name": "Companheiro"
+  },
+  {
+    "effects": [
+      {
+        "effect": "production_action",
+        "value": 1
+      }
+    ],
+    "id": "core_2_harness_power",
+    "image": 104,
+    "name": "Canalizar Poder"
+  },
+  {
+    "effects": [
+      {
+        "effect": "food_sabotage",
+        "value": 1
+      }
+    ],
+    "id": "core_2_food_sabotage",
+    "image": 103,
+    "name": "Sabotagem de Comida"
+  },
+  {
+    "effects": [
+      {
+        "effect": "craft_persona",
+        "secondary_value": "core_2_Soul_Piece",
+        "third_value": 1,
+        "value": "core_2_Skeleton_Adult"
+      }
+    ],
+    "id": "core_2_raise_undead",
+    "image": 106,
+    "name": "Reanimar Mortos-vivos"
+  },
+  {
+    "effects": [
+      {
+        "effect": "craft_persona",
+        "secondary_value": "2368",
+        "third_value": 40,
+        "value": "2413"
+      }
+    ],
+    "id": "core_2_raise_bone_wraith",
+    "image": 113,
+    "name": "Criar Espectro Ósseo"
+  },
+  {
+    "effects": [
+      {
+        "effect": "sell_bonus",
+        "secondary_value": 17,
+        "value": 0.25
+      }
+    ],
+    "id": "core_2_better_deal_usable",
+    "image": 111,
+    "name": "Melhores Negócios (Utilizável)"
+  },
+  {
+    "effects": [
+      {
+        "effect": "bonus_crafting_unit",
+        "secondary_value": 17,
+        "value": 0.25
+      }
+    ],
+    "id": "core_2_lucky_crafting",
+    "image": 110,
+    "name": "Artesanato Sortudo"
+  },
+  {
+    "effects": [
+      {
+        "effect": "extra_duration",
+        "value": 0.25
+      }
+    ],
+    "id": "core_2_strong_drink",
+    "image": 112,
+    "name": "Bebida Forte"
+  },
+  {
+    "effects": [
+      {
+        "effect": "on_attack_stack",
+        "value": "core_2_blessed_knuckles"
+      }
+    ],
+    "id": "core_2_blessed_knuckles",
+    "image": 127,
+    "name": "Punhos Abençoados"
+  },
+  {
+    "effects": [
+      {
+        "effect": "on_attack_stack",
+        "value": "core_2_divine_fury"
+      }
+    ],
+    "id": "core_2_divine_fury",
+    "image": 128,
+    "name": "Fúria Divina"
+  },
+  {
+    "effects": [
+      {
+        "effect": "on_attack_cast",
+        "secondary_value": 1.0,
+        "value": "core_2_Burning_Light_Effect"
+      }
+    ],
+    "id": "core_2_purify_damned",
+    "image": 129,
+    "name": "Purificar os Condenados",
+    "restrict_tags": [
+      "4",
+      "14"
+    ],
+    "restrict_tags_enemy": true
+  },
+  {
+    "effects": [
+      {
+        "effect": "attack_speed",
+        "value": -0.2
+      }
+    ],
+    "id": "core_2_divine_speed",
+    "image": 130,
+    "name": "Velocidade Divina",
+    "restrict_weapon_type": "unarmed"
+  },
+  {
+    "effects": [
+      {
+        "effect": "damage_reduction_missing_health",
+        "secondary_value": 0.1,
+        "value": 0.04
+      }
+    ],
+    "id": "core_2_unyielding_spirit",
+    "image": 132,
+    "name": "Espírito Inabalável"
+  },
+  {
+    "effects": [
+      {
+        "effect": "damage_type_reduction",
+        "secondary_value": 0.5,
+        "value": "death"
+      }
+    ],
+    "id": "core_2_incorruptible",
+    "image": 131,
+    "name": "Incorruptível"
+  },
+  {
+    "effects": [
+      {
+        "effect": "bloodlust"
+      }
+    ],
+    "id": "core_2_vampiric_bloodlust",
+    "image": 46,
+    "name": "Sede de Sangue Vampírica"
+  },
+  {
+    "effects": [
+      {
+        "effect": "light_source",
+        "value": 8
+      }
+    ],
+    "id": "core_2_shining_star",
+    "image": 135,
+    "name": "Estrela Brilhante"
+  },
+  {
+    "effects": [
+      {
+        "effect": "on_attack_stack",
+        "value": "core_2_raging"
+      }
+    ],
+    "id": "core_2_raging",
+    "image": 136,
+    "name": "Enfurecido"
+  },
+  {
+    "effects": [
+      {
+        "effect": "bonus_attack",
+        "value": 0.1
+      }
+    ],
+    "id": "core_2_repeated_offender",
+    "image": 134,
+    "name": "Reincidente"
+  },
+  {
+    "effects": [
+      {
+        "effect": "darkvision",
+        "value": 1
+      }
+    ],
+    "id": "core_2_darkvision",
+    "image": 137,
+    "name": "Visão Noturna"
+  },
+  {
+    "effects": [
+      {
+        "effect": "stamina_percent_on_kill",
+        "value": 0.1
+      }
+    ],
+    "id": "core_2_born_killer",
+    "image": 138,
+    "name": "Assassino Nato"
+  },
+  {
+    "effects": [
+      {
+        "effect": "stun_on_hit",
+        "value": 0.05
+      }
+    ],
+    "id": "core_2_stunning_hit",
+    "image": 140,
+    "name": "Golpe Atordoante"
+  },
+  {
+    "effects": [
+      {
+        "effect": "dot_on_crit",
+        "value": "burn"
+      }
+    ],
+    "id": "core_2_critical_burn",
+    "image": 139,
+    "name": "Queimadura Crítica"
+  },
+  {
+    "effects": [
+      {
+        "effect": "uncover_resources_of_type",
+        "value": 13
+      }
+    ],
+    "id": "core_2_ironblood",
+    "image": 141,
+    "name": "Sangue de Ferro"
+  },
+  {
+    "effects": [
+      {
+        "effect": "damage_negation",
+        "secondary_value": 0.1,
+        "value": "fire"
+      }
+    ],
+    "id": "core_2_Scorch_Ward",
+    "image": 142,
+    "name": "Proteção contra o Fogo"
+  },
+  {
+    "effects": [
+      {
+        "effect": "damage_negation",
+        "secondary_value": 0.5,
+        "value": "physical"
+      }
+    ],
+    "id": "core_2_physical_negation",
+    "image": 145,
+    "name": "Negação Física"
+  },
+  {
+    "effects": [
+      {
+        "effect": "trigger_ability_on_cast",
+        "secondary_value": "15",
+        "third_value": 0.5,
+        "value": "48"
+      }
+    ],
+    "id": "core_2_repeat_fire_ability",
+    "image": 146,
+    "name": "Repetir Habilidade de Fogo"
+  },
+  {
+    "apply_mode": "solo_only",
+    "effects": [
+      {
+        "effect": "ability_extend_duration",
+        "secondary_value": 1.0,
+        "value": "5"
+      }
+    ],
+    "id": "core_2_sprint_boost_solo",
+    "image": 144,
+    "name": "Impulso de Corrida"
+  },
+  {
+    "effects": [
+      {
+        "effect": "regeneration_low_health",
+        "value": 0.2
+      }
+    ],
+    "id": "core_2_low_hp_regen_boost",
+    "image": 143,
+    "name": "Revigoramento"
+  },
+  {
+    "effects": [
+      {
+        "effect": "poison_transfer_on_kill",
+        "value": 3
+      }
+    ],
+    "id": "core_2_poison_transfer_on_kill",
+    "image": 159,
+    "name": "Morte Venenosa"
+  },
+  {
+    "effects": [
+      {
+        "effect": "unique_companion",
+        "value": 1
+      }
+    ],
+    "id": "core_2_unique_companion",
+    "image": 160,
+    "name": "Amigos Extras"
+  },
+  {
+    "effects": [
+      {
+        "effect": "aura_extra_aoe_range",
+        "secondary_value": 2,
+        "value": "core_2_Aura_of_Petals_Trigger"
+      },
+      {
+        "effect": "ability_extend_duration",
+        "secondary_value": 0.5,
+        "value": "core_2_Aura_Of_Petals"
+      }
+    ],
+    "id": "core_2_blooming_aura",
+    "image": 161,
+    "name": "Aura Florescente"
+  },
+  {
+    "effects": [
+      {
+        "effect": "bonus_knockback_damage_percent",
+        "value": 0.2
+      }
+    ],
+    "id": "core_2_knock_it_down",
+    "image": 162,
+    "name": "Derrubada"
+  },
+  {
+    "effects": [
+      {
+        "effect": "heal_on_damage_type",
+        "secondary_value": 0.2,
+        "value": "electricity"
+      }
+    ],
+    "id": "core_2_feed_on_electricity",
+    "image": 163,
+    "name": "Alimentar-se de Eletricidade"
+  },
+  {
+    "effects": [
+      {
+        "effect": "bonus_production_action",
+        "secondary_value": 0.2,
+        "value": "10"
+      }
+    ],
+    "id": "core_2_efficient_gathering",
+    "image": 165,
+    "name": "Coleta Eficiente"
+  },
+  {
+    "effects": [
+      {
+        "effect": "bonus_production_action",
+        "secondary_value": 0.2,
+        "value": "6"
+      }
+    ],
+    "id": "core_2_efficient_harvester",
+    "image": 166,
+    "name": "Colhedor Eficiente"
+  },
+  {
+    "effects": [
+      {
+        "effect": "bonus_production_action",
+        "secondary_value": 0.2,
+        "value": "1"
+      }
+    ],
+    "id": "core_2_efficient_woodcutter",
+    "image": 167,
+    "name": "Lenhador Eficiente"
+  },
+  {
+    "effects": [
+      {
+        "effect": "bonus_production_action",
+        "secondary_value": 0.2,
+        "value": "core_2_woodbend"
+      }
+    ],
+    "id": "core_2_efficient_woodbender",
+    "image": 214,
+    "name": "Dobrador de Madeira Eficiente"
+  },
+  {
+    "effects": [
+      {
+        "effect": "bonus_production_action",
+        "secondary_value": 0.2,
+        "value": "4"
+      }
+    ],
+    "id": "core_2_efficient_fisher",
+    "image": 169,
+    "name": "Pescador Eficiente"
+  },
+  {
+    "effects": [
+      {
+        "effect": "bonus_production_action",
+        "secondary_value": 0.2,
+        "value": "5"
+      }
+    ],
+    "id": "core_2_efficient_miner",
+    "image": 171,
+    "name": "Minerador Eficiente"
+  },
+  {
+    "effects": [
+      {
+        "effect": "camp",
+        "value": 1
+      }
+    ],
+    "id": "core_2_happy_camper",
+    "image": 164,
+    "name": "Campista Feliz"
+  },
+  {
+    "effects": [
+      {
+        "effect": "salvage_chance_tier",
+        "secondary_value": 0,
+        "value": 0.1
+      }
+    ],
+    "id": "core_2_recycler_1",
+    "image": 168,
+    "name": "Reciclador I"
+  },
+  {
+    "effects": [
+      {
+        "effect": "salvage_chance_tier",
+        "secondary_value": 1,
+        "value": 0.1
+      }
+    ],
+    "id": "core_2_recycler_2",
+    "image": 178,
+    "name": "Reciclador II"
+  },
+  {
+    "effects": [
+      {
+        "effect": "salvage_chance_tier",
+        "secondary_value": 2,
+        "value": 0.1
+      }
+    ],
+    "id": "core_2_recycler_3",
+    "image": 187,
+    "name": "Reciclador III"
+  },
+  {
+    "effects": [
+      {
+        "effect": "salvage_chance_tier",
+        "secondary_value": 3,
+        "value": 0.1
+      }
+    ],
+    "id": "core_2_recycler_4",
+    "image": 197,
+    "name": "Reciclador IV"
+  },
+  {
+    "effects": [
+      {
+        "effect": "salvage_chance_tier",
+        "secondary_value": 4,
+        "value": 0.1
+      }
+    ],
+    "id": "core_2_recycler_5",
+    "image": 207,
+    "name": "Reciclador V"
+  },
+  {
+    "effects": [
+      {
+        "effect": "sell_bonus_crafted",
+        "value": 0.05
+      }
+    ],
+    "id": "core_2_known_crafter_1",
+    "image": 184,
+    "name": "Artesão Conhecido I"
+  },
+  {
+    "effects": [
+      {
+        "effect": "sell_bonus_crafted",
+        "value": 0.1
+      }
+    ],
+    "id": "core_2_known_crafter_2",
+    "image": 170,
+    "name": "Artesão Conhecido II"
+  },
+  {
+    "effects": [
+      {
+        "effect": "sell_bonus_crafted",
+        "value": 0.15
+      }
+    ],
+    "id": "core_2_known_crafter_3",
+    "image": 193,
+    "name": "Artesão Conhecido III"
+  },
+  {
+    "effects": [
+      {
+        "effect": "sell_bonus_crafted",
+        "value": 0.2
+      }
+    ],
+    "id": "core_2_known_crafter_4",
+    "image": 209,
+    "name": "Artesão Conhecido IV"
+  },
+  {
+    "effects": [
+      {
+        "effect": "sell_bonus_resource",
+        "value": 0.05
+      }
+    ],
+    "id": "core_2_resource_trader_1",
+    "image": 172,
+    "name": "Comerciante de Recursos I"
+  },
+  {
+    "effects": [
+      {
+        "effect": "sell_bonus_resource",
+        "value": 0.07
+      }
+    ],
+    "id": "core_2_resource_trader_2",
+    "image": 188,
+    "name": "Comerciante de Recursos II"
+  },
+  {
+    "effects": [
+      {
+        "effect": "sell_bonus_resource",
+        "value": 0.08
+      }
+    ],
+    "id": "core_2_resource_trader_3",
+    "image": 198,
+    "name": "Comerciante de Recursos III"
+  },
+  {
+    "effects": [
+      {
+        "effect": "sell_bonus_resource",
+        "value": 0.1
+      }
+    ],
+    "id": "core_2_resource_trader_4",
+    "image": 210,
+    "name": "Comerciante de Recursos IV"
+  },
+  {
+    "effects": [
+      {
+        "effect": "settlement_upgrade",
+        "value": 1
+      }
+    ],
+    "id": "core_2_mayor",
+    "image": 173,
+    "name": "Prefeito"
+  },
+  {
+    "effects": [
+      {
+        "effect": "settlement_upgrade_unlimited",
+        "value": 1
+      }
+    ],
+    "id": "core_2_ruler",
+    "image": 212,
+    "name": "Governante"
+  },
+  {
+    "effects": [
+      {
+        "effect": "craft_save_resource_tier",
+        "secondary_value": 1,
+        "value": 0.2
+      }
+    ],
+    "id": "core_2_efficient_crafter_1",
+    "image": 175,
+    "name": "Artesão Eficiente I"
+  },
+  {
+    "effects": [
+      {
+        "effect": "craft_save_resource_tier",
+        "secondary_value": 2,
+        "value": 0.2
+      }
+    ],
+    "id": "core_2_efficient_crafter_2",
+    "image": 182,
+    "name": "Artesão Eficiente II"
+  },
+  {
+    "effects": [
+      {
+        "effect": "craft_save_resource_tier",
+        "secondary_value": 3,
+        "value": 0.2
+      }
+    ],
+    "id": "core_2_efficient_crafter_3",
+    "image": 192,
+    "name": "Artesão Eficiente III"
+  },
+  {
+    "effects": [
+      {
+        "effect": "craft_save_resource_tier",
+        "secondary_value": 4,
+        "value": 0.2
+      }
+    ],
+    "id": "core_2_efficient_crafter_4",
+    "image": 202,
+    "name": "Artesão Eficiente IV"
+  },
+  {
+    "effects": [
+      {
+        "effect": "caravan_capacity",
+        "value": 50
+      }
+    ],
+    "id": "core_2_efficient_transporter_1",
+    "image": 180,
+    "name": "Transportador Eficiente I"
+  },
+  {
+    "effects": [
+      {
+        "effect": "caravan_capacity",
+        "value": 50
+      }
+    ],
+    "id": "core_2_efficient_transporter_2",
+    "image": 190,
+    "name": "Transportador Eficiente II"
+  },
+  {
+    "effects": [
+      {
+        "effect": "caravan_capacity",
+        "value": 100
+      }
+    ],
+    "id": "core_2_efficient_transporter_3",
+    "image": 201,
+    "name": "Transportador Eficiente III"
+  },
+  {
+    "effects": [
+      {
+        "effect": "caravan_speed",
+        "value": 0.2
+      }
+    ],
+    "id": "core_2_quick_transporter",
+    "image": 189,
+    "name": "Transportador Veloz"
+  },
+  {
+    "effects": [
+      {
+        "effect": "camp_unlimited",
+        "value": 1
+      }
+    ],
+    "id": "core_2_safe_haven",
+    "image": 185,
+    "name": "Porto Seguro"
+  },
+  {
+    "effects": [
+      {
+        "effect": "settlement_upgrade",
+        "value": 5
+      }
+    ],
+    "id": "core_2_settler",
+    "image": 194,
+    "name": "Colonizador"
+  },
+  {
+    "effects": [
+      {
+        "effect": "settlement_wage_reduction",
+        "value": 0.1
+      }
+    ],
+    "id": "core_2_mercenary_contracts",
+    "image": 199,
+    "name": "Contratos de Mercenários"
+  },
+  {
+    "effects": [
+      {
+        "effect": "settlement_worker_production",
+        "value": 1
+      }
+    ],
+    "id": "core_2_skilled_laborers",
+    "image": 204,
+    "name": "Trabalhadores Qualificados"
+  },
+  {
+    "effects": [
+      {
+        "effect": "sell_no_abundance_discount",
+        "value": 1
+      }
+    ],
+    "id": "core_2_snake_oil_salesman",
+    "image": 206,
+    "name": "Vendedor de Ilusões"
+  },
+  {
+    "effects": [
+      {
+        "effect": "festival",
+        "value": 1
+      }
+    ],
+    "id": "core_2_festival",
+    "image": 174,
+    "name": "Festival"
+  },
+  {
+    "effects": [
+      {
+        "effect": "remigration",
+        "value": 1
+      }
+    ],
+    "id": "core_2_remigration",
+    "image": 179,
+    "name": "Transferência de Famílias"
+  },
+  {
+    "effects": [
+      {
+        "effect": "town_buyout",
+        "value": 1
+      }
+    ],
+    "id": "core_2_merchant_king",
+    "image": 213,
+    "name": "Rei Mercador"
+  },
+  {
+    "effects": [
+      {
+        "effect": "buy_plot",
+        "value": 1
+      }
+    ],
+    "id": "core_2_landowner",
+    "image": 181,
+    "name": "Proprietário de Terras"
+  },
+  {
+    "effects": [
+      {
+        "effect": "working_class",
+        "value": 1
+      }
+    ],
+    "id": "core_2_working_class",
+    "image": 183,
+    "name": "Classe Trabalhadora"
+  },
+  {
+    "effects": [
+      {
+        "effect": "local_craftsman",
+        "value": 1
+      }
+    ],
+    "id": "core_2_local_craftsman",
+    "image": 186,
+    "name": "Artesão Local"
+  },
+  {
+    "effects": [
+      {
+        "effect": "local_prices",
+        "value": 60
+      }
+    ],
+    "id": "core_2_efficient_caravaneer",
+    "image": 177,
+    "name": "Caravaneiro Eficiente"
+  },
+  {
+    "effects": [
+      {
+        "effect": "economic_migration",
+        "value": 1
+      }
+    ],
+    "id": "core_2_economic_migration",
+    "image": 176,
+    "name": "Migração Econômica"
+  },
+  {
+    "effects": [
+      {
+        "effect": "all_roads_lead_here",
+        "value": 1
+      }
+    ],
+    "id": "core_2_all_roads_lead_here",
+    "image": 211,
+    "name": "Todos os Caminhos Levam até Aqui"
+  },
+  {
+    "effects": [
+      {
+        "effect": "port_building",
+        "value": 1
+      }
+    ],
+    "id": "core_2_port_building",
+    "image": 205,
+    "name": "Construção de Porto"
+  },
+  {
+    "effects": [
+      {
+        "effect": "terraformer",
+        "value": 1
+      }
+    ],
+    "id": "core_2_terraformer",
+    "image": 203,
+    "name": "Terraformador"
+  },
+  {
+    "effects": [
+      {
+        "effect": "mercenaries",
+        "value": 1
+      }
+    ],
+    "id": "core_2_mercenaries",
+    "image": 196,
+    "name": "Mercenários"
+  },
+  {
+    "effects": [
+      {
+        "effect": "trade_embargo",
+        "value": 1
+      }
+    ],
+    "id": "core_2_trade_embargo",
+    "image": 195,
+    "name": "Embargo Comercial"
+  },
+  {
+    "effects": [
+      {
+        "effect": "fund_rebellion",
+        "secondary_value": "core_2_rebellion_brewing",
+        "value": 5000
+      }
+    ],
+    "id": "core_2_revolutionist",
+    "image": 216,
+    "name": "Revolucionário"
+  },
+  {
+    "effects": [
+      {
+        "effect": "training_cost",
+        "value": 0.5
+      }
+    ],
+    "id": "core_2_discount_trainer",
+    "image": 215,
+    "name": "Treinador com Desconto"
+  },
+  {
+    "effects": [
+      {
+        "effect": "bonus_production_action",
+        "secondary_value": 0.1,
+        "value": "3"
+      }
+    ],
+    "id": "core_2_efficient_scavenger",
+    "image": 74,
+    "name": "Sucateiro Eficiente"
+  }
+]

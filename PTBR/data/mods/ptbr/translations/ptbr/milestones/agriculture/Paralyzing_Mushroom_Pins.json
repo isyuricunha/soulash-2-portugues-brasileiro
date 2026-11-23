@@ -1,0 +1,16 @@
+{
+  "id": "core_2_paralyzing_mushroom_pins",
+  "name": "Brotos de Cogumelo Paralisante",
+  "requirements": {
+    "milestones": [],
+    "skill": 23
+  },
+  "rewards": [
+    {
+      "recipe": "core_2_Paralyzing_Mushroom_Pins"
+    }
+  ],
+  "skill_id": "core_2_agriculture",
+  "steps": [],
+  "steps_type": 0
+}

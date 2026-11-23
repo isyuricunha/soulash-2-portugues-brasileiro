@@ -1,0 +1,16 @@
+{
+  "id": "core_2_tree_tent",
+  "name": "Tenda de Árvore",
+  "requirements": {
+    "milestones": [],
+    "skill": 5
+  },
+  "rewards": [
+    {
+      "recipe": "core_2_Tree_Tent"
+    }
+  ],
+  "skill_id": "core_2_adventuring",
+  "steps": [],
+  "steps_type": 0
+}

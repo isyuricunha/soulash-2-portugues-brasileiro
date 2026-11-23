@@ -1,0 +1,81 @@
+{
+  "category": "settlement",
+  "duration": {
+    "days": [
+      60,
+      120
+    ],
+    "type": "temporary"
+  },
+  "effects": [
+    {
+      "amount": [
+        1,
+        1
+      ],
+      "border_color": [
+        160,
+        40,
+        40
+      ],
+      "entity": "core_2_Titan_King",
+      "entity_from_location": false,
+      "group_type": "hostile_group",
+      "spawn_behaviors": [
+        21
+      ],
+      "type": "spawn_group",
+      "z_level": 0
+    }
+  ],
+  "flavor": "O Rei Titã está sem seu coração e fará qualquer coisa para recuperá-lo.",
+  "history_events": {
+    "begin": "O Rei Titã veio buscar seu coração!",
+    "end": "O Rei Titã foi morto, e o assentamento respira mais aliviado."
+  },
+  "icon": 33,
+  "id": "core_2_titan_king",
+  "interactions": [
+    {
+      "announcement": "Você matou o Rei Titã em ::settlement",
+      "entities": [
+        "core_2_Titan_King"
+      ],
+      "history_event": "::name matou o Rei Titã, salvando a cidade!!",
+      "reward": {
+        "remove_event": true
+      },
+      "translation_id": 2,
+      "type": "entity_destruction"
+    }
+  ],
+  "name": "Rei Titã",
+  "rarity": "uncommon",
+  "restrict_races": [
+    "23"
+  ],
+  "small_icon": 33,
+  "trigger": {
+    "base_probability": 0.005,
+    "conditions": [
+      {
+        "type": "settlement_population_min",
+        "value": 20
+      },
+      {
+        "type": "settlement_tier_min",
+        "value": 1
+      },
+      {
+        "type": "race",
+        "values": [
+          "23"
+        ]
+      },
+      {
+        "type": "min_unemployed",
+        "value": 0
+      }
+    ]
+  }
+}

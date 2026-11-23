@@ -1,0 +1,65 @@
+{
+  "allow_player": true,
+  "enables": [
+    "core_2_alchemy"
+  ],
+  "group": "crafters",
+  "id": "124",
+  "image": 202,
+  "max": 1,
+  "min_area": 20,
+  "name": "Alquimista",
+  "occupation": "2380",
+  "occupation_image": 15,
+  "occupation_per_race": {
+    "0": "core_2_Human_Alchemist",
+    "1": "core_2_Dwarf_Alchemist",
+    "10": "2338",
+    "2": "2275",
+    "23": "core_2_Reptilion_Alchemist",
+    "24": "core_2_Gnome_Alchemist",
+    "26": "2380",
+    "31": "core_2_Gnoll_Alchemist",
+    "32": "core_2_Mushman_Alchemist",
+    "33": "core_2_Ursan_Alchemist",
+    "4": "core_2_Goblin_Alchemist",
+    "6": "core_2_Vampire_Alchemist",
+    "7": "core_2_Troll_Alchemist",
+    "8": "core_2_Orc_Alchemist"
+  },
+  "produces": [
+    {
+      "entities": [
+        {
+          "daily": 1.0,
+          "id": "2368"
+        }
+      ]
+    }
+  ],
+  "race": "26",
+  "required_entities": [
+    {
+      "count": 2,
+      "entities": [
+        "928",
+        "2408"
+      ]
+    },
+    {
+      "count": 2,
+      "entities": [
+        "2874"
+      ]
+    },
+    {
+      "component": "resting_place",
+      "count": 2
+    }
+  ],
+  "tier": 1,
+  "workers": [
+    1,
+    2
+  ]
+}

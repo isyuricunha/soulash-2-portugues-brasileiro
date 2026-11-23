@@ -2,6 +2,7 @@
 from __future__ import annotations
 
 import contextlib
+import contextvars
 import hashlib
 import json
 import os
@@ -9,10 +10,46 @@ import re
 from pathlib import Path, PurePosixPath
 import shutil
 import stat
+import sys
 import time
 import uuid
 
 from native import Invalid
+
+_DEFER_FSYNC = contextvars.ContextVar("_DEFER_FSYNC", default=False)
+_BULK_THRESHOLD = 32
+
+
+@contextlib.contextmanager
+def _bulk_write(enabled):
+    if not enabled:
+        yield
+        return
+    token = _DEFER_FSYNC.set(True)
+    try:
+        yield
+    finally:
+        _DEFER_FSYNC.reset(token)
+
+
+def _report_progress(operation, phase, done, total, last_tick):
+    if total <= 50:
+        return last_tick
+    now = time.monotonic()
+    if done == total or done % 1000 == 0 or (now - last_tick) >= 2.0:
+        print(f"[{operation}] {phase}: {done}/{total}", file=sys.stderr, flush=True)
+        return now
+    return last_tick
+
+
+def _prune_empty_parents(path, stop_root):
+    parent = path.parent
+    while parent != stop_root and parent.is_relative_to(stop_root):
+        try:
+            parent.rmdir()
+        except OSError:
+            break
+        parent = parent.parent
 
 
 def sha(data):
@@ -58,12 +95,14 @@ def digest(path):
 def durable(path, data):
     path.parent.mkdir(parents=True, exist_ok=True)
     tmp = path.with_name(path.name+".tmp-"+uuid.uuid4().hex)
+    defer = _DEFER_FSYNC.get()
     with tmp.open("xb") as f:
         f.write(data)
         f.flush()
-        os.fsync(f.fileno())
+        if not defer:
+            os.fsync(f.fileno())
     os.replace(tmp, path)
-    if os.name != "nt":
+    if os.name != "nt" and not defer:
         fd = os.open(path.parent, os.O_RDONLY)
         try:
             os.fsync(fd)
@@ -250,11 +289,16 @@ class Store:
         raw = json_bytes(receipt)
         durable(folder/"receipt.json", raw)
         durable(folder/"receipt.sha256", sha(raw).encode())
-        for i, (rel, value) in enumerate(changed.items()):
-            if before[rel] is not None:
-                durable(folder/f"before-{i:06d}.bin", before[rel])
-            if value is not None:
-                durable(folder/f"after-{i:06d}.bin", value)
+        total = len(changed)
+        bulk = total > _BULK_THRESHOLD
+        tick = time.monotonic()
+        with _bulk_write(bulk):
+            for i, (rel, value) in enumerate(changed.items()):
+                if before[rel] is not None:
+                    durable(folder/f"before-{i:06d}.bin", before[rel])
+                if value is not None:
+                    durable(folder/f"after-{i:06d}.bin", value)
+                tick = _report_progress(operation, "staging", i+1, total, tick)
         durable(folder/"ready", b"all backups and staged writes durable\n")
         for rel, fingerprint in expected.items():
             if digest(safe(self.root, rel)) != fingerprint:
@@ -263,18 +307,25 @@ class Store:
                 durable(folder/"cancelled", b"concurrent edit\n")
                 durable(folder/"complete", b"cancelled\n")
                 raise Invalid(f"CONCURRENT_EDIT: {rel}; no promotion")
-        for i, item in enumerate(receipt["files"]):
-            path = safe(self.root, item["path"])
-            if digest(path) != item["before"]:
-                raise Invalid(f"CONCURRENT_EDIT: {item['path']}; recover required")
-            if item["after"] is None:
-                path.unlink(missing_ok=True)
-            else:
-                durable(path, (folder/f"after-{i:06d}.bin").read_bytes())
-            if crash_after is not None and i+1 == crash_after:
-                raise Invalid("SIMULATED_CRASH: promotion interrupted")
-        if any(digest(safe(self.root, f["path"])) != f["after"] for f in receipt["files"]):
-            raise Invalid("Verification failed after promotion; recover required")
+        tick = time.monotonic()
+        with _bulk_write(bulk):
+            for i, item in enumerate(receipt["files"]):
+                path = safe(self.root, item["path"])
+                if digest(path) != item["before"]:
+                    raise Invalid(f"CONCURRENT_EDIT: {item['path']}; recover required")
+                if item["after"] is None:
+                    path.unlink(missing_ok=True)
+                    _prune_empty_parents(path, self.root)
+                else:
+                    durable(path, (folder/f"after-{i:06d}.bin").read_bytes())
+                tick = _report_progress(operation, "promoting", i+1, total, tick)
+                if crash_after is not None and i+1 == crash_after:
+                    raise Invalid("SIMULATED_CRASH: promotion interrupted")
+        tick = time.monotonic()
+        for i, f in enumerate(receipt["files"]):
+            if digest(safe(self.root, f["path"])) != f["after"]:
+                raise Invalid("Verification failed after promotion; recover required")
+            tick = _report_progress(operation, "verifying", i+1, total, tick)
         durable(folder/"complete", b"verified\n")
         for p in folder.glob("after-*.bin"):
             p.unlink()
@@ -305,12 +356,17 @@ class Store:
         for item in receipt["files"]:
             if digest(safe(self.root, item["path"])) not in {item["before"], item["after"]}:
                 raise Invalid(f"CONCURRENT_EDIT: cannot restore {item['path']}; preserve external edits")
-        for item in reversed(receipt["files"]):
-            path = safe(self.root, item["path"])
-            if item["before"] is None:
-                path.unlink(missing_ok=True)
-            else:
-                durable(path, (folder/item["slot"]).read_bytes())
+        total = len(receipt["files"])
+        tick = time.monotonic()
+        with _bulk_write(total > _BULK_THRESHOLD):
+            for i, item in enumerate(reversed(receipt["files"])):
+                path = safe(self.root, item["path"])
+                if item["before"] is None:
+                    path.unlink(missing_ok=True)
+                    _prune_empty_parents(path, self.root)
+                else:
+                    durable(path, (folder/item["slot"]).read_bytes())
+                tick = _report_progress("recover", "restoring", i+1, total, tick)
 
     def rollback(self):
         self.clean_state()

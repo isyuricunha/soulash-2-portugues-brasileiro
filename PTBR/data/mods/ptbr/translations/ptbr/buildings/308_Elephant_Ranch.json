@@ -1,0 +1,60 @@
+{
+  "allow_player": true,
+  "group": "food",
+  "id": "308",
+  "image": 137,
+  "max": 2,
+  "min_area": 40,
+  "name": "Rancho de Elefantes",
+  "occupation": "core_2_Gnoll_Rancher",
+  "occupation_image": 28,
+  "occupation_per_race": {
+    "0": "2265",
+    "1": "2267",
+    "10": "2326",
+    "2": "2285",
+    "23": "core_2_Reptilion_Rancher",
+    "24": "core_2_Gnome_Rancher",
+    "26": "2370",
+    "31": "core_2_Gnoll_Rancher",
+    "32": "core_2_Mushman_Leatherworker",
+    "33": "core_2_Ursan_Rancher",
+    "4": "core_2_Goblin_Rancher",
+    "6": "core_2_Vampire_Rancher",
+    "7": "core_2_Troll_Rancher",
+    "8": "core_2_Orc_Rancher"
+  },
+  "produces": [
+    {
+      "entities": [
+        {
+          "daily": 2,
+          "id": "2131"
+        },
+        {
+          "daily": 4,
+          "id": "318"
+        }
+      ],
+      "takes": []
+    }
+  ],
+  "race": "31",
+  "required_entities": [
+    {
+      "count": 2,
+      "entities": [
+        "474"
+      ]
+    },
+    {
+      "component": "resting_place",
+      "count": 4
+    }
+  ],
+  "tier": 3,
+  "workers": [
+    1,
+    4
+  ]
+}

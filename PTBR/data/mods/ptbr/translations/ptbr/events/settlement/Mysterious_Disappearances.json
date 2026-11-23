@@ -1,0 +1,96 @@
+{
+  "category": "settlement",
+  "duration": {
+    "days": [
+      60,
+      90
+    ],
+    "type": "temporary"
+  },
+  "effects": [
+    {
+      "amount": [
+        1,
+        1
+      ],
+      "border_color": [
+        170,
+        128,
+        192
+      ],
+      "entity": "core_2_Reptilion_Scribe",
+      "group_type": "settlement",
+      "type": "spawn_group"
+    }
+  ],
+  "extra_dialogues": [],
+  "flavor": "A cada dia, mais reptilions desaparecem: aqueles que se aventuram mesmo um pouco além da cidade. Por que isso está acontecendo?",
+  "history_events": {
+    "begin": "Há pessoas desaparecidas em ::settlement.",
+    "end": "Ninguém investigou os desaparecimentos misteriosos em ::settlement, deixando perguntas sem resposta.",
+    "success": "O mistério dos desaparecimentos em ::settlement foi resolvido. As pessoas podem respirar aliviadas."
+  },
+  "icon": 31,
+  "id": "core_2_mysterious_disappearances",
+  "interactions": [
+    {
+      "entities": [
+        "core_2_Reptilion_Scribe"
+      ],
+      "id": "core_2_sunken_ruins_reveal",
+      "translation_id": 0,
+      "type": "reveal_event_location"
+    },
+    {
+      "entities": [
+        "core_2_Reptilion_Scribe"
+      ],
+      "history_event": "::name descobriu a causa dos desaparecimentos misteriosos!",
+      "id": "core_2_mysterious_disappearances_reward",
+      "require_location_cleared": true,
+      "required_ingredients": [
+        {
+          "amount": 1,
+          "id": "core_2_Bronze_Golem_Heart"
+        }
+      ],
+      "reward": {
+        "announcement": "As pessoas de ::settlement deixarão de desaparecer nos pântanos.",
+        "exp": 200,
+        "gold": 2000,
+        "items": [
+          {
+            "amount": 1,
+            "id": "core_2_Bronze_Golem_Heart"
+          }
+        ],
+        "remove_event": true,
+        "skill_id": "core_2_adventuring"
+      },
+      "translation_id": 1,
+      "trigger_event": "core_2_sunken_temple",
+      "type": "conversation"
+    }
+  ],
+  "locations": [
+    {
+      "id": "core_2_sunken_ruins_event",
+      "radius": 10
+    }
+  ],
+  "name": "Desaparecimentos Misteriosos",
+  "rarity": "uncommon",
+  "restrict_races": [
+    "23"
+  ],
+  "small_icon": 31,
+  "trigger": {
+    "base_probability": 0.02,
+    "conditions": [
+      {
+        "type": "min_unemployed",
+        "value": 1
+      }
+    ]
+  }
+}

@@ -1,0 +1,92 @@
+{
+  "category": "settlement",
+  "duration": {
+    "days": [
+      30,
+      45
+    ],
+    "type": "temporary"
+  },
+  "effects": [
+    {
+      "amount": [
+        1,
+        1
+      ],
+      "border_color": [
+        170,
+        128,
+        192
+      ],
+      "entity": "core_2_Reptilion_Artist",
+      "group_type": "settlement",
+      "type": "spawn_group"
+    }
+  ],
+  "extra_dialogues": [
+    "core_2_new_art"
+  ],
+  "flavor": "Um artista nos pântanos não tem muitas opções de materiais para suas obras. Mas, de vez em quando, alguém quer tentar algo novo.",
+  "history_events": {
+    "begin": "Um artista quer criar algo novo em ::settlement.",
+    "failure": "A inspiração do artista Reptilion se esvaiu sem encontrar vazão.",
+    "success": "Nova arte pode ser vista em ::settlement."
+  },
+  "icon": 23,
+  "id": "core_2_new_art",
+  "interactions": [
+    {
+      "announcement": "Você entregou os bens necessários ao artista Reptilion em ::settlement!",
+      "entities": [
+        "core_2_Reptilion_Artist"
+      ],
+      "history_event": "::name entregou os materiais necessários a um artista Reptilion.",
+      "id": "core_2_deliver_stone",
+      "label": "Entregue o item solicitado.",
+      "required_ingredients": [
+        {
+          "amount": 5,
+          "id": "35"
+        }
+      ],
+      "reward": {
+        "exp": 20,
+        "gold": 50,
+        "remove_event": true,
+        "skill_id": "core_2_construction",
+        "spawn_entities": [
+          {
+            "count": 2,
+            "id": "288",
+            "radius": 10
+          }
+        ]
+      },
+      "translation_id": 0,
+      "type": "conversation"
+    }
+  ],
+  "name": "Nova Arte",
+  "rarity": "uncommon",
+  "restrict_races": [
+    "23"
+  ],
+  "small_icon": 23,
+  "trigger": {
+    "base_probability": 0.004,
+    "conditions": [
+      {
+        "type": "settlement_population_min",
+        "value": 30
+      },
+      {
+        "type": "settlement_tier_min",
+        "value": 1
+      },
+      {
+        "type": "min_unemployed",
+        "value": 1
+      }
+    ]
+  }
+}

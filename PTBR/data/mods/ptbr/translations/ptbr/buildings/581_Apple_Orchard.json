@@ -1,0 +1,25 @@
+{
+  "id": "581",
+  "image": 389,
+  "max": 4,
+  "name": "Pomar de Macieiras",
+  "occupation": "core_2_Gnome_Orchardist",
+  "occupation_image": 19,
+  "produces": [
+    {
+      "entities": [
+        {
+          "daily": 8,
+          "id": "811"
+        }
+      ],
+      "takes": []
+    }
+  ],
+  "race": "24",
+  "tier": 1,
+  "workers": [
+    1,
+    2
+  ]
+}

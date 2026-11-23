@@ -1,0 +1,16 @@
+{
+  "id": "469",
+  "image": 356,
+  "max": 2,
+  "name": "Soldados",
+  "occupation": "core_2_Skeleton_Soldier",
+  "occupation_image": 26,
+  "produces": [],
+  "race": "17",
+  "tier": 1,
+  "type": "military",
+  "workers": [
+    1,
+    15
+  ]
+}

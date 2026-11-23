@@ -1,0 +1,85 @@
+{
+  "category": "settlement",
+  "duration": {
+    "days": [
+      30,
+      45
+    ],
+    "type": "temporary"
+  },
+  "effects": [
+    {
+      "amount": [
+        1,
+        1
+      ],
+      "border_color": [
+        170,
+        128,
+        192
+      ],
+      "entity": "core_2_Rasimi_Archer",
+      "group_type": "settlement",
+      "type": "spawn_group"
+    }
+  ],
+  "extra_dialogues": [
+    "core_2_practice_round"
+  ],
+  "flavor": "Para ser um verdadeiro mestre em sua área, você deve praticar de todas as formas possíveis. Às vezes, isso exige a aquisição de novas ferramentas.",
+  "history_events": {
+    "begin": "Um Arqueiro Rasimi quer tentar algo novo em ::settlement.",
+    "failure": "Um Arqueiro Rasimi não pode aprimorar sua habilidade por enquanto.",
+    "success": "Um Arqueiro Rasimi pode praticar à vontade."
+  },
+  "icon": 23,
+  "id": "core_2_practice_round",
+  "interactions": [
+    {
+      "announcement": "Você entregou as mercadorias solicitadas ao Arqueiro Rasimi de ::settlement!",
+      "entities": [
+        "core_2_Rasimi_Archer"
+      ],
+      "history_event": "::name entregou as mercadorias solicitadas ao Arqueiro Rasimi!",
+      "id": "core_2_deliver_arrows",
+      "label": "Entregue o item solicitado.",
+      "required_ingredients": [
+        {
+          "amount": 10,
+          "id": "core_2_Bone_Arrow"
+        }
+      ],
+      "reward": {
+        "exp": 20,
+        "gold": 50,
+        "remove_event": true,
+        "skill_id": "core_2_hunting"
+      },
+      "translation_id": 0,
+      "type": "conversation"
+    }
+  ],
+  "name": "Rodada de Prática",
+  "rarity": "uncommon",
+  "restrict_races": [
+    "10"
+  ],
+  "small_icon": 23,
+  "trigger": {
+    "base_probability": 0.004,
+    "conditions": [
+      {
+        "type": "settlement_population_min",
+        "value": 30
+      },
+      {
+        "type": "settlement_tier_min",
+        "value": 1
+      },
+      {
+        "type": "min_unemployed",
+        "value": 1
+      }
+    ]
+  }
+}

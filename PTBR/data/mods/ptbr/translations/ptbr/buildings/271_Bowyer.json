@@ -1,0 +1,18 @@
+{
+  "enables": [
+    "core_2_carpentry"
+  ],
+  "id": "271",
+  "image": 224,
+  "max": 2,
+  "name": "Fabricante de Arcos",
+  "occupation": "core_2_Mushman_Bowyer",
+  "occupation_image": 9,
+  "produces": [],
+  "race": "32",
+  "tier": 1,
+  "workers": [
+    1,
+    2
+  ]
+}

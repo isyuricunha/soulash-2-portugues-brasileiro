@@ -1,0 +1,27 @@
+{
+  "animation": "",
+  "cast_time": 1.0,
+  "cooldown": 8.0,
+  "cost": {
+    "health": 0,
+    "stamina": 0
+  },
+  "description": "Congela o alvo no lugar, causando ::damage de dano de ::damage_type, imobilizando-o por ::duration turnos e atordoando-o.",
+  "duration": 3.0,
+  "effects": {
+    "damage": [
+      45,
+      50
+    ],
+    "damage_type": "frost",
+    "damage_weapon": 1.75,
+    "immobilize": 3,
+    "stun": 5.0
+  },
+  "id": "core_2_Freezing",
+  "image": 833,
+  "name": "Congelamento",
+  "range": 10,
+  "skill": "",
+  "target": "health"
+}

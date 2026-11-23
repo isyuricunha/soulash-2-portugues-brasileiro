@@ -1,0 +1,15 @@
+{
+  "id": "core_2_all_roads_lead_here",
+  "name": "Todos os Caminhos Levam Aqui",
+  "requirements": {
+    "skill": 48
+  },
+  "rewards": [
+    {
+      "passive": "core_2_all_roads_lead_here"
+    }
+  ],
+  "skill_id": "core_2_economy",
+  "steps": [],
+  "steps_type": 0
+}

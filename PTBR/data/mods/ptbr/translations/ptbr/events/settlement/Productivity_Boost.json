@@ -1,0 +1,33 @@
+{
+  "category": "settlement",
+  "duration": {
+    "days": [
+      50,
+      100
+    ],
+    "type": "temporary"
+  },
+  "effects": [
+    {
+      "multiplier": 1.5,
+      "type": "production_multiplier"
+    }
+  ],
+  "extra_dialogues": [],
+  "flavor": "Após a resolução bem-sucedida do evento anterior, a cidade desfruta de maior produtividade.",
+  "history_events": {
+    "begin": "O assentamento vive um tempo de alegria após o recente evento trágico!",
+    "end": ""
+  },
+  "icon": 3,
+  "id": "core_2_productivity_boost",
+  "interactions": [],
+  "name": "Impulso de Produtividade",
+  "rarity": "none",
+  "restrict_races": [],
+  "small_icon": 3,
+  "trigger": {
+    "base_probability": 0.0,
+    "conditions": []
+  }
+}

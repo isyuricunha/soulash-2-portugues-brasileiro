@@ -1,0 +1,18 @@
+{
+  "enables": [
+    "core_2_leatherworking"
+  ],
+  "id": "461",
+  "image": 348,
+  "max": 1,
+  "name": "Curtidor",
+  "occupation": "core_2_Skeleton_Leatherworker",
+  "occupation_image": 12,
+  "produces": [],
+  "race": "17",
+  "tier": 2,
+  "workers": [
+    1,
+    3
+  ]
+}

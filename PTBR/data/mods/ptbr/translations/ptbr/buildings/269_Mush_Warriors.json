@@ -1,0 +1,16 @@
+{
+  "id": "269",
+  "image": 114,
+  "max": 1,
+  "name": "Guerreiros do Cogumelo",
+  "occupation": "core_2_Mushman_Mush_Warrior",
+  "occupation_image": 125,
+  "produces": [],
+  "race": "32",
+  "tier": 1,
+  "type": "military",
+  "workers": [
+    1,
+    20
+  ]
+}

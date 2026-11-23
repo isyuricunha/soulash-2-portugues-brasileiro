@@ -1,0 +1,85 @@
+{
+  "category": "settlement",
+  "duration": {
+    "days": [
+      30,
+      45
+    ],
+    "type": "temporary"
+  },
+  "effects": [
+    {
+      "amount": [
+        1,
+        1
+      ],
+      "border_color": [
+        170,
+        128,
+        192
+      ],
+      "entity": "core_2_Troll_Scribe",
+      "group_type": "settlement",
+      "type": "spawn_group"
+    }
+  ],
+  "extra_dialogues": [
+    "core_2_about_children"
+  ],
+  "flavor": "Crianças troll são propensas a acidentes, pois seu passatempo favorito é 'eu bato forte em você, você bate mais forte'. Alguém precisa ajudá-las.",
+  "history_events": {
+    "begin": "Um Troll está preocupado com o futuro em ::settlement.",
+    "failure": "Um Troll preocupado não terá nova esperança para o futuro de sua espécie.",
+    "success": "Um Troll preocupado agora pode olhar para o futuro com otimismo."
+  },
+  "icon": 23,
+  "id": "core_2_about_children",
+  "interactions": [
+    {
+      "announcement": "Você entregou os bens necessários ao Troll preocupado de ::settlement!",
+      "entities": [
+        "core_2_Troll_Scribe"
+      ],
+      "history_event": "::name entregou os bens necessários ao Troll preocupado!",
+      "id": "core_2_deliver_helmet",
+      "label": "Entregue o item solicitado.",
+      "required_ingredients": [
+        {
+          "amount": 3,
+          "id": "169"
+        }
+      ],
+      "reward": {
+        "exp": 20,
+        "gold": 50,
+        "remove_event": true,
+        "skill_id": "core_2_protection"
+      },
+      "translation_id": 0,
+      "type": "conversation"
+    }
+  ],
+  "name": "Pense nas Crianças",
+  "rarity": "uncommon",
+  "restrict_races": [
+    "7"
+  ],
+  "small_icon": 23,
+  "trigger": {
+    "base_probability": 0.004,
+    "conditions": [
+      {
+        "type": "settlement_population_min",
+        "value": 30
+      },
+      {
+        "type": "settlement_tier_min",
+        "value": 1
+      },
+      {
+        "type": "min_unemployed",
+        "value": 1
+      }
+    ]
+  }
+}

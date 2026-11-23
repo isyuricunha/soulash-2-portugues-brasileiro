@@ -1,0 +1,58 @@
+{
+  "allow_player": true,
+  "enables": [
+    "core_2_carpentry"
+  ],
+  "group": "crafters",
+  "id": "379",
+  "image": 14,
+  "max": 1,
+  "min_area": 20,
+  "name": "Fabricante de Arcos",
+  "occupation": "2195",
+  "occupation_image": 9,
+  "occupation_per_race": {
+    "0": "2195",
+    "1": "2278",
+    "10": "core_2_Rasimi_Bowyer",
+    "2": "2272",
+    "23": "core_2_Reptilion_Bowyer",
+    "24": "core_2_Gnome_Bowyer",
+    "26": "core_2_Bone_Wraith_Bowyer",
+    "31": "core_2_Gnoll_Bowyer",
+    "32": "core_2_Mushman_Bowyer",
+    "33": "core_2_Ursan_Bowyer",
+    "4": "core_2_Goblin_Bowyer",
+    "6": "core_2_Vampire_Bowyer",
+    "7": "core_2_Troll_Bowyer",
+    "8": "core_2_Orc_Bowyer"
+  },
+  "produces": [],
+  "race": "-1",
+  "required_entities": [
+    {
+      "count": 1,
+      "entities": [
+        "155",
+        "2470",
+        "2255",
+        "2411"
+      ]
+    },
+    {
+      "count": 2,
+      "entities": [
+        "358"
+      ]
+    },
+    {
+      "component": "resting_place",
+      "count": 2
+    }
+  ],
+  "tier": 2,
+  "workers": [
+    1,
+    2
+  ]
+}

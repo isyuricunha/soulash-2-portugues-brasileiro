@@ -1,0 +1,124 @@
+[
+  {
+    "apply_caster": false,
+    "description": "O Congelamento faz os inimigos reduzirem a velocidade de movimento em 0.01 turno por acúmulo. Dura 3 turnos, a menos que seja renovado por uma nova aplicação de acúmulo.",
+    "duration": 3,
+    "effects": [
+      {
+        "effect": "movement_speed",
+        "value": 0.01
+      }
+    ],
+    "id": "core_2_freeze",
+    "image": 0,
+    "max_stacks": 50,
+    "name": "Congelamento"
+  },
+  {
+    "apply_caster": false,
+    "description": "Acumula energia estática no alvo, reduzindo sua força de vontade em 1 por acúmulo. Se desbloqueado, causa Sobrecarga no máximo de acúmulos, infligindo dano elétrico e atordoamento em uma pequena área.",
+    "duration": 5,
+    "effects": [
+      {
+        "effect": "willpower",
+        "value": -1
+      }
+    ],
+    "id": "core_2_static",
+    "image": 1,
+    "max_stacks": 10,
+    "max_stacks_cast_unlock": true,
+    "name": "Estática",
+    "on_max_stacks_cast": "core_2_Overload"
+  },
+  {
+    "apply_caster": true,
+    "description": "Você ataca 0.02 turno mais rápido por acúmulo.",
+    "duration": 8,
+    "effects": [
+      {
+        "effect": "attack_speed",
+        "value": -0.02
+      }
+    ],
+    "id": "core_2_lightning_reflexes",
+    "image": 2,
+    "max_stacks": 10,
+    "name": "Reflexos Relâmpago"
+  },
+  {
+    "apply_caster": true,
+    "description": "Seu movimento é 0.05 turno mais rápido por acúmulo.",
+    "duration": 8,
+    "effects": [
+      {
+        "effect": "movement_speed",
+        "value": -0.05
+      }
+    ],
+    "id": "core_2_electric_speed",
+    "image": 3,
+    "max_stacks": 10,
+    "name": "Velocidade Elétrica"
+  },
+  {
+    "apply_caster": true,
+    "description": "Aumenta a chance de acerto crítico em 1% por acúmulo.",
+    "duration": 8,
+    "effects": [
+      {
+        "effect": "critical_hit_chance",
+        "value": 0.01
+      }
+    ],
+    "id": "core_2_charged_precision",
+    "image": 4,
+    "max_stacks": 10,
+    "name": "Precisão Carregada"
+  },
+  {
+    "apply_caster": true,
+    "description": "Seus punhos são carregados pelo poder divino ao atingir, culminando em uma explosão de luz a cada 5º acerto.",
+    "effects": [],
+    "id": "core_2_blessed_knuckles",
+    "image": 6,
+    "max_stacks": 5,
+    "max_stacks_cast_unlock": false,
+    "name": "Punhos Abençoados",
+    "on_max_stacks_cast": "core_2_Blessed_Knuckles"
+  },
+  {
+    "apply_caster": true,
+    "description": "Reduz o tempo dos ataques em 0.01 e aumenta o dano causado em 4% por acúmulo.",
+    "duration": 8,
+    "effects": [
+      {
+        "effect": "attack_speed",
+        "value": -0.01
+      },
+      {
+        "effect": "damage_bonus_percent",
+        "value": 0.04
+      }
+    ],
+    "id": "core_2_divine_fury",
+    "image": 5,
+    "max_stacks": 10,
+    "name": "Fúria Divina"
+  },
+  {
+    "apply_caster": true,
+    "description": "Aumenta o dano causado em 5% por acúmulo.",
+    "duration": 8,
+    "effects": [
+      {
+        "effect": "damage_bonus_percent",
+        "value": 0.05
+      }
+    ],
+    "id": "core_2_raging",
+    "image": 5,
+    "max_stacks": 6,
+    "name": "Enfurecido"
+  }
+]

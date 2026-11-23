@@ -1,0 +1,64 @@
+{
+  "allow_player": true,
+  "group": "food",
+  "id": "7",
+  "image": 5,
+  "min_area": 20,
+  "name": "Pescador",
+  "occupation": "142",
+  "occupation_image": 2,
+  "occupation_per_race": {
+    "0": "142",
+    "1": "2288",
+    "10": "2328",
+    "2": "2246",
+    "23": "core_2_Reptilion_Fisherman",
+    "24": "core_2_Gnome_Fisher",
+    "26": "core_2_Bone_Wraith_Fisher",
+    "31": "core_2_Gnoll_Miller",
+    "32": "core_2_Mushman_Gatherer",
+    "33": "core_2_Ursan_Fisherman",
+    "4": "core_2_Goblin_Fisher",
+    "6": "core_2_Vampire_Fisher",
+    "7": "core_2_Troll_Forager",
+    "8": "core_2_Orc_Fisher"
+  },
+  "produces": [
+    {
+      "entities": [
+        {
+          "daily": 3,
+          "id": "315"
+        }
+      ],
+      "takes": []
+    }
+  ],
+  "race": "0",
+  "required_entities": [
+    {
+      "count": 2,
+      "entities": [
+        "2323"
+      ]
+    },
+    {
+      "count": 8,
+      "entities": [
+        "973",
+        "974",
+        "2017",
+        "core_2_Sea"
+      ]
+    },
+    {
+      "component": "resting_place",
+      "count": 2
+    }
+  ],
+  "tier": 1,
+  "workers": [
+    1,
+    2
+  ]
+}

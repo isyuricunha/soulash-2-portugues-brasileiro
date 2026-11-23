@@ -1,0 +1,95 @@
+{
+  "category": "settlement",
+  "duration": {
+    "days": [
+      20,
+      30
+    ],
+    "type": "temporary"
+  },
+  "effects": [
+    {
+      "multiplier": 0.9,
+      "type": "production_multiplier"
+    },
+    {
+      "amount": [
+        1,
+        1
+      ],
+      "border_color": [
+        170,
+        128,
+        192
+      ],
+      "entity": "core_2_Human_Merrymaker",
+      "group_type": "settlement",
+      "type": "spawn_group"
+    }
+  ],
+  "extra_dialogues": [
+    "core_2_birthday_party"
+  ],
+  "flavor": "O líder deste lugar está fazendo aniversário! Lembre-se de trazer um presente.",
+  "history_events": {
+    "begin": "As comemorações de aniversário começaram!",
+    "end": "As comemorações de aniversário terminaram."
+  },
+  "icon": 24,
+  "id": "core_2_surprise_party",
+  "interactions": [
+    {
+      "announcement": "Você participou da festa de aniversário do líder em ::settlement!",
+      "entities": [
+        "core_2_Birthday_Cake"
+      ],
+      "history_event": "::name participou da festa de aniversário do líder em ::settlement!",
+      "id": "core_2_deliver_gift",
+      "required_ingredients": [
+        {
+          "amount": 1,
+          "id": "839"
+        }
+      ],
+      "reward": {
+        "exp": 50,
+        "items": [
+          {
+            "amount": 1,
+            "id": "core_2_Birthday_Cake"
+          }
+        ],
+        "remove_event": true,
+        "skill_id": "core_2_leadership"
+      },
+      "translation_id": 0,
+      "trigger_event": "core_2_Productivity_Boost",
+      "type": "conversation"
+    }
+  ],
+  "name": "Festa Surpresa",
+  "rarity": "uncommon",
+  "restrict_races": [
+    "0"
+  ],
+  "small_icon": 24,
+  "trigger": {
+    "base_probability": 0.001,
+    "conditions": [
+      {
+        "type": "settlement_population_min",
+        "value": 30
+      },
+      {
+        "type": "race",
+        "values": [
+          "0"
+        ]
+      },
+      {
+        "type": "min_unemployed",
+        "value": 1
+      }
+    ]
+  }
+}

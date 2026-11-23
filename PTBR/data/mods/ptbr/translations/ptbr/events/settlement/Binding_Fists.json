@@ -1,0 +1,86 @@
+{
+  "category": "settlement",
+  "duration": {
+    "days": [
+      30,
+      45
+    ],
+    "type": "temporary"
+  },
+  "effects": [
+    {
+      "amount": [
+        1,
+        1
+      ],
+      "border_color": [
+        170,
+        128,
+        192
+      ],
+      "entity": "core_2_Orc_Fighter",
+      "group_type": "settlement",
+      "type": "spawn_group"
+    }
+  ],
+  "extra_dialogues": [
+    "core_2_biding_fist"
+  ],
+  "flavor": "Orcs gostam de esmagar coisas. Mas alguns deles são mais delicados que outros e precisam de proteção adicional.",
+  "history_events": {
+    "begin": "Um lutador está procurando proteção em ::settlement.",
+    "failure": "Um combatente orc não conseguiu ajuda para proteger os punhos e terá que aguentar o sofrimento.",
+    "success": "Um combatente orc agora pode distribuir golpes com suas novas ataduras para os punhos."
+  },
+  "icon": 23,
+  "id": "core_2_binding_fists",
+  "interactions": [
+    {
+      "announcement": "Você entregou os bens necessários ao lutador Orc de ::settlement!",
+      "entities": [
+        "core_2_Orc_Fighter"
+      ],
+      "history_event": "::name entregou os bens necessários ao lutador Orc!",
+      "id": "core_2_deliver_wraps",
+      "label": "Entregue o item solicitado.",
+      "required_ingredients": [
+        {
+          "amount": 5,
+          "id": "core_2_Knuckle_Wrap"
+        }
+      ],
+      "reward": {
+        "exp": 20,
+        "gold": 50,
+        "remove_event": true,
+        "reputation": 15,
+        "skill_id": "core_2_divine_fists"
+      },
+      "translation_id": 0,
+      "type": "conversation"
+    }
+  ],
+  "name": "Punhos Amarrados",
+  "rarity": "uncommon",
+  "restrict_races": [
+    "8"
+  ],
+  "small_icon": 23,
+  "trigger": {
+    "base_probability": 0.004,
+    "conditions": [
+      {
+        "type": "settlement_population_min",
+        "value": 30
+      },
+      {
+        "type": "settlement_tier_min",
+        "value": 1
+      },
+      {
+        "type": "min_unemployed",
+        "value": 1
+      }
+    ]
+  }
+}

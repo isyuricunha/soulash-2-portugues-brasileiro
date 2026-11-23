@@ -1,0 +1,61 @@
+{
+  "id": "563",
+  "image": 387,
+  "max": 3,
+  "name": "Coletores",
+  "occupation": "core_2_Gnome_Forager",
+  "occupation_image": 17,
+  "produces": [
+    {
+      "entities": [
+        {
+          "daily": 10,
+          "id": "812"
+        }
+      ],
+      "takes": []
+    },
+    {
+      "entities": [
+        {
+          "daily": 10,
+          "id": "813"
+        }
+      ],
+      "takes": []
+    },
+    {
+      "entities": [
+        {
+          "daily": 10,
+          "id": "814"
+        }
+      ],
+      "takes": []
+    },
+    {
+      "entities": [
+        {
+          "daily": 20,
+          "id": "815"
+        }
+      ],
+      "takes": []
+    },
+    {
+      "entities": [
+        {
+          "daily": 20,
+          "id": "2504"
+        }
+      ],
+      "takes": []
+    }
+  ],
+  "race": "24",
+  "tier": 1,
+  "workers": [
+    1,
+    2
+  ]
+}
